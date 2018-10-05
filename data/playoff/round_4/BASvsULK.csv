@@ -1,0 +1,518 @@
+CODETEAM,COMMENT,DORSAL,MARKERTIME,MINUTE,NUMBEROFPLAY,PLAYER,PLAYER_ID,PLAYINFO,PLAYTYPE,POINTS_A,POINTS_B,TEAM,TYPE
+          ,,,,1,9,,          ,Begin Period,BP,,,,0
+BAS       ,,17,09:59,1,10,"POIRIER, VINCENT",P004887   ,,TPOFF,,,KIROLBET Baskonia Vitoria Gasteiz,0
+ULK       ,,24,09:59,1,11,"VESELY, JAN",P000925   ,,TPOFF,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,44,09:40,1,12,"DUVERIOGLU, AHMET",P006399   ,Two Pointer (1/1 -  2 pt),2FGM,,2.0,Fenerbahce Dogus Istanbul,0
+ULK       ,,23,09:38,1,13,"GUDURIC, MARKO",P004004   ,Assist (1),AS,,,Fenerbahce Dogus Istanbul,0
+BAS       ,,17,09:17,1,14,"POIRIER, VINCENT",P004887   ,Foul Drawn (1),RV,,,KIROLBET Baskonia Vitoria Gasteiz,0
+ULK       ,,70,09:17,1,15,"DATOME, LUIGI",PCCD      ,Foul (1),CM,,,Fenerbahce Dogus Istanbul,0
+BAS       ,,17,09:17,1,16,"POIRIER, VINCENT",P004887   ,Free Throw In (1/1 -  1 pt),FTM,1.0,2.0,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,9,09:17,1,17,"HUERTAS, MARCELINHO",PJUJ      ,Assist (1),AS,,,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,17,09:17,1,18,"POIRIER, VINCENT",P004887   ,Free Throw In (2/2 -  2 pt),FTM,2.0,2.0,KIROLBET Baskonia Vitoria Gasteiz,0
+ULK       ,,24,08:56,2,20,"VESELY, JAN",P000925   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Fenerbahce Dogus Istanbul,0
+BAS       ,,29,08:54,2,21,"GARINO, PATRICIO",P007994   ,Def Rebound (1),D,,,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,7,08:39,2,22,"VOIGTMANN, JOHANNES",P007201   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,KIROLBET Baskonia Vitoria Gasteiz,0
+ULK       ,,11,08:36,2,23,"WANAMAKER, BRAD",P005838   ,Def Rebound (1),D,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,23,08:29,2,24,"GUDURIC, MARKO",P004004   ,Two Pointer (1/1 -  2 pt),2FGM,2.0,4.0,Fenerbahce Dogus Istanbul,0
+BAS       ,,10,08:20,2,25,"BEAUBOIS, RODRIGUE",P006590   ,Foul Drawn (1),RV,,,KIROLBET Baskonia Vitoria Gasteiz,0
+ULK       ,,44,08:20,2,26,"DUVERIOGLU, AHMET",P006399   ,Foul (1),CM,,,Fenerbahce Dogus Istanbul,0
+BAS       ,,10,08:20,2,27,"BEAUBOIS, RODRIGUE",P006590   ,Free Throw In (1/1 -  1 pt),FTM,3.0,4.0,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,10,08:20,2,28,"BEAUBOIS, RODRIGUE",P006590   ,Free Throw In (2/2 -  2 pt),FTM,4.0,4.0,KIROLBET Baskonia Vitoria Gasteiz,0
+ULK       ,,24,08:10,2,29,"VESELY, JAN",P000925   ,Offensive Foul (1),OF,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,24,08:10,2,30,"VESELY, JAN",P000925   ,Turnover (1),TO,,,Fenerbahce Dogus Istanbul,0
+BAS       ,,7,08:10,2,31,"VOIGTMANN, JOHANNES",P007201   ,Foul Drawn (1),RV,,,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,7,07:55,3,33,"VOIGTMANN, JOHANNES",P007201   ,Three Pointer (1/2 -  3 pt),3FGM,7.0,4.0,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,17,07:55,3,34,"POIRIER, VINCENT",P004887   ,Assist (1),AS,,,KIROLBET Baskonia Vitoria Gasteiz,0
+ULK       ,,70,07:22,3,35,"DATOME, LUIGI",PCCD      ,Two Pointer (1/1 -  2 pt),2FGM,7.0,6.0,Fenerbahce Dogus Istanbul,0
+BAS       ,,9,07:09,3,36,"HUERTAS, MARCELINHO",PJUJ      ,Two Pointer (1/1 -  2 pt),2FGM,9.0,6.0,KIROLBET Baskonia Vitoria Gasteiz,0
+ULK       ,,23,06:58,4,38,"GUDURIC, MARKO",P004004   ,Foul Drawn (1),RV,,,Fenerbahce Dogus Istanbul,0
+BAS       ,,10,06:58,4,39,"BEAUBOIS, RODRIGUE",P006590   ,Foul (1),CM,,,KIROLBET Baskonia Vitoria Gasteiz,0
+ULK       ,,23,06:50,4,40,"GUDURIC, MARKO",P004004   ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,Fenerbahce Dogus Istanbul,0
+BAS       ,,29,06:48,4,41,"GARINO, PATRICIO",P007994   ,Def Rebound (2),D,,,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,29,06:44,4,42,"GARINO, PATRICIO",P007994   ,Foul Drawn (1),RV,,,KIROLBET Baskonia Vitoria Gasteiz,0
+ULK       ,,44,06:44,4,43,"DUVERIOGLU, AHMET",P006399   ,Foul (2),CM,,,Fenerbahce Dogus Istanbul,0
+BAS       ,,29,06:44,4,44,"GARINO, PATRICIO",P007994   ,Free Throw In (1/1 -  1 pt),FTM,10.0,6.0,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,29,06:44,4,45,"GARINO, PATRICIO",P007994   ,Free Throw In (2/2 -  2 pt),FTM,11.0,6.0,KIROLBET Baskonia Vitoria Gasteiz,0
+ULK       ,,4,06:44,4,46,"MELLI, NICOLO",P002849   ,In,IN,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,44,06:44,4,47,"DUVERIOGLU, AHMET",P006399   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,11,06:29,4,48,"WANAMAKER, BRAD",P005838   ,Two Pointer (1/1 -  2 pt),2FGM,11.0,8.0,Fenerbahce Dogus Istanbul,0
+BAS       ,,17,06:02,4,49,"POIRIER, VINCENT",P004887   ,Missed Two Pointer (0/1 -  2 pt),2FGA,,,KIROLBET Baskonia Vitoria Gasteiz,0
+ULK       ,,70,06:00,4,50,"DATOME, LUIGI",PCCD      ,Def Rebound (1),D,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,11,05:48,5,52,"WANAMAKER, BRAD",P005838   ,Turnover (1),TO,,,Fenerbahce Dogus Istanbul,0
+BAS       ,,10,05:47,5,53,"BEAUBOIS, RODRIGUE",P006590   ,Steal (1),ST,,,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,10,05:42,5,54,"BEAUBOIS, RODRIGUE",P006590   ,Missed Two Pointer (0/1 -  2 pt),2FGA,,,KIROLBET Baskonia Vitoria Gasteiz,0
+ULK       ,,70,05:41,5,55,"DATOME, LUIGI",PCCD      ,Def Rebound (2),D,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,70,05:24,5,56,"DATOME, LUIGI",PCCD      ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,Fenerbahce Dogus Istanbul,0
+BAS       ,,17,05:22,5,57,"POIRIER, VINCENT",P004887   ,Def Rebound (1),D,,,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,10,05:01,5,58,"BEAUBOIS, RODRIGUE",P006590   ,Three Pointer (1/1 -  5 pt),3FGM,14.0,8.0,KIROLBET Baskonia Vitoria Gasteiz,0
+ULK       ,,23,04:45,6,60,"GUDURIC, MARKO",P004004   ,Two Pointer (2/2 -  4 pt),2FGM,14.0,10.0,Fenerbahce Dogus Istanbul,0
+BAS       ,,7,04:28,6,61,"VOIGTMANN, JOHANNES",P007201   ,Missed Three Pointer (1/3 -  3 pt),3FGA,,,KIROLBET Baskonia Vitoria Gasteiz,0
+ULK       ,,11,04:26,6,62,"WANAMAKER, BRAD",P005838   ,Def Rebound (2),D,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,11,04:12,6,63,"WANAMAKER, BRAD",P005838   ,Two Pointer (2/2 -  4 pt),2FGM,14.0,12.0,Fenerbahce Dogus Istanbul,0
+BAS       ,,29,03:58,7,65,"GARINO, PATRICIO",P007994   ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,KIROLBET Baskonia Vitoria Gasteiz,0
+ULK       ,,11,03:58,7,66,"WANAMAKER, BRAD",P005838   ,Def Rebound (3),D,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,11,03:29,7,67,"WANAMAKER, BRAD",P005838   ,Missed Three Pointer (0/1 -  4 pt),3FGA,,,Fenerbahce Dogus Istanbul,0
+BAS       ,,29,03:27,7,68,"GARINO, PATRICIO",P007994   ,Def Rebound (3),D,,,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,29,03:18,7,69,"GARINO, PATRICIO",P007994   ,Two Pointer (1/1 -  4 pt),2FGM,16.0,12.0,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,9,03:16,7,70,"HUERTAS, MARCELINHO",PJUJ      ,Assist (2),AS,,,KIROLBET Baskonia Vitoria Gasteiz,0
+ULK       ,,24,02:58,8,72,"VESELY, JAN",P000925   ,Foul Drawn (1),RV,,,Fenerbahce Dogus Istanbul,0
+BAS       ,,17,02:58,8,73,"POIRIER, VINCENT",P004887   ,Foul (1),CM,,,KIROLBET Baskonia Vitoria Gasteiz,0
+          ,,,02:58,8,74,,          ,TV Time Out (1),TOUT_TV,,,,0
+BAS       ,,3,02:58,8,75,"VILDOZA, LUCA",P007947   ,In,IN,,,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,9,02:58,8,76,"HUERTAS, MARCELINHO",PJUJ      ,Out,OUT,,,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,17,02:58,8,77,"POIRIER, VINCENT",P004887   ,Out,OUT,,,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,23,02:58,8,78,"SHENGELIA, TORNIKE",P001133   ,In,IN,,,KIROLBET Baskonia Vitoria Gasteiz,0
+ULK       ,,11,02:58,8,79,"WANAMAKER, BRAD",P005838   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,16,02:58,8,80,"SLOUKAS, KOSTAS",P001926   ,In,IN,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,70,02:51,8,81,"DATOME, LUIGI",PCCD      ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,4,02:51,8,82,"MELLI, NICOLO",P002849   ,Off Rebound (1),O,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,4,02:51,8,83,"MELLI, NICOLO",P002849   ,Foul Drawn (1),RV,,,Fenerbahce Dogus Istanbul,0
+BAS       ,,3,02:51,8,84,"VILDOZA, LUCA",P007947   ,Foul (1),CM,,,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,6,02:51,8,85,"TIMMA, JANIS",P005718   ,In,IN,,,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,29,02:51,8,86,"GARINO, PATRICIO",P007994   ,Out,OUT,,,KIROLBET Baskonia Vitoria Gasteiz,0
+ULK       ,,33,02:51,8,87,"KALINIC, NIKOLA",P004866   ,In,IN,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,70,02:51,8,88,"DATOME, LUIGI",PCCD      ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,4,02:51,8,89,"MELLI, NICOLO",P002849   ,Free Throw In (1/1 -  1 pt),FTM,16.0,13.0,Fenerbahce Dogus Istanbul,0
+ULK       ,,4,02:51,8,90,"MELLI, NICOLO",P002849   ,Free Throw In (2/2 -  2 pt),FTM,16.0,14.0,Fenerbahce Dogus Istanbul,0
+BAS       ,,7,02:37,8,91,"VOIGTMANN, JOHANNES",P007201   ,Foul Drawn (2),RV,,,KIROLBET Baskonia Vitoria Gasteiz,0
+ULK       ,,24,02:37,8,92,"VESELY, JAN",P000925   ,Foul (2),CM,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,1,02:37,8,93,"THOMPSON, JASON",P007998   ,In,IN,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,24,02:37,8,94,"VESELY, JAN",P000925   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
+BAS       ,,7,02:37,8,95,"VOIGTMANN, JOHANNES",P007201   ,Missed Free Throw (0/1 -  3 pt),FTA,,,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,7,02:37,8,96,"VOIGTMANN, JOHANNES",P007201   ,Free Throw In (1/2 -  4 pt),FTM,17.0,14.0,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,3,02:37,8,97,"VILDOZA, LUCA",P007947   ,Assist (1),AS,,,KIROLBET Baskonia Vitoria Gasteiz,0
+ULK       ,,33,02:27,8,98,"KALINIC, NIKOLA",P004866   ,Three Pointer (1/1 -  3 pt),3FGM,17.0,17.0,Fenerbahce Dogus Istanbul,0
+ULK       ,,23,02:27,8,99,"GUDURIC, MARKO",P004004   ,Assist (2),AS,,,Fenerbahce Dogus Istanbul,0
+BAS       ,,6,02:13,8,100,"TIMMA, JANIS",P005718   ,Turnover (1),TO,,,KIROLBET Baskonia Vitoria Gasteiz,0
+ULK       ,,4,02:11,8,101,"MELLI, NICOLO",P002849   ,Steal (1),ST,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,4,01:56,9,103,"MELLI, NICOLO",P002849   ,Foul Drawn (2),RV,,,Fenerbahce Dogus Istanbul,0
+BAS       ,,23,01:56,9,104,"SHENGELIA, TORNIKE",P001133   ,Foul (1),CM,,,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,10,01:56,9,105,"BEAUBOIS, RODRIGUE",P006590   ,Out,OUT,,,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,11,01:56,9,106,"JANNING, MATT",P004165   ,In,IN,,,KIROLBET Baskonia Vitoria Gasteiz,0
+ULK       ,,4,01:51,9,107,"MELLI, NICOLO",P002849   ,Two Pointer (1/1 -  4 pt),2FGM,17.0,19.0,Fenerbahce Dogus Istanbul,0
+BAS       ,,3,01:37,9,108,"VILDOZA, LUCA",P007947   ,Turnover (1),TO,,,KIROLBET Baskonia Vitoria Gasteiz,0
+ULK       ,,16,01:20,9,109,"SLOUKAS, KOSTAS",P001926   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Fenerbahce Dogus Istanbul,0
+BAS       ,,7,01:19,9,110,"VOIGTMANN, JOHANNES",P007201   ,Def Rebound (1),D,,,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,23,01:14,9,111,"SHENGELIA, TORNIKE",P001133   ,Foul Drawn (1),RV,,,KIROLBET Baskonia Vitoria Gasteiz,0
+ULK       ,,4,01:14,9,112,"MELLI, NICOLO",P002849   ,Foul (1),CM,,,Fenerbahce Dogus Istanbul,0
+BAS       ,,23,01:14,9,113,"SHENGELIA, TORNIKE",P001133   ,Free Throw In (1/1 -  1 pt),FTM,18.0,19.0,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,23,01:14,9,114,"SHENGELIA, TORNIKE",P001133   ,Free Throw In (2/2 -  2 pt),FTM,19.0,19.0,KIROLBET Baskonia Vitoria Gasteiz,0
+ULK       ,,33,01:05,9,115,"KALINIC, NIKOLA",P004866   ,Missed Three Pointer (1/2 -  3 pt),3FGA,,,Fenerbahce Dogus Istanbul,0
+BAS       ,,,01:04,9,116,,          ,Def Rebound (1),D,,,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,11,00:49,10,118,"JANNING, MATT",P004165   ,Turnover (1),TO,,,KIROLBET Baskonia Vitoria Gasteiz,0
+ULK       ,,16,00:46,10,119,"SLOUKAS, KOSTAS",P001926   ,Steal (1),ST,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,23,00:35,10,120,"GUDURIC, MARKO",P004004   ,Three Pointer (1/2 -  7 pt),3FGM,19.0,22.0,Fenerbahce Dogus Istanbul,0
+ULK       ,,4,00:33,10,121,"MELLI, NICOLO",P002849   ,Assist (1),AS,,,Fenerbahce Dogus Istanbul,0
+BAS       ,,3,00:18,10,122,"VILDOZA, LUCA",P007947   ,Turnover (2),TO,,,KIROLBET Baskonia Vitoria Gasteiz,0
+ULK       ,,4,00:00,10,123,"MELLI, NICOLO",P002849   ,Three Pointer (1/1 -  7 pt),3FGM,19.0,25.0,Fenerbahce Dogus Istanbul,0
+ULK       ,,16,00:00,10,124,"SLOUKAS, KOSTAS",P001926   ,Assist (1),AS,,,Fenerbahce Dogus Istanbul,0
+          ,,,,11,126,,          ,End Period,EP,,,,0
+          ,,,,11,131,,          ,Begin Period,BP,,,,0
+BAS       ,,3,10:00,11,127,"VILDOZA, LUCA",P007947   ,Out,OUT,,,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,7,10:00,11,128,"VOIGTMANN, JOHANNES",P007201   ,Out,OUT,,,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,9,10:00,11,129,"HUERTAS, MARCELINHO",PJUJ      ,In,IN,,,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,17,10:00,11,130,"POIRIER, VINCENT",P004887   ,In,IN,,,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,6,09:59,11,132,"TIMMA, JANIS",P005718   ,Turnover (2),TO,,,KIROLBET Baskonia Vitoria Gasteiz,0
+ULK       ,,4,09:59,11,133,"MELLI, NICOLO",P002849   ,Steal (2),ST,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,4,09:59,11,134,"MELLI, NICOLO",P002849   ,Missed Two Pointer (1/2 -  7 pt),2FGA,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,4,09:59,11,135,"MELLI, NICOLO",P002849   ,Shot Rejected (1),AG,,,Fenerbahce Dogus Istanbul,0
+BAS       ,,23,09:59,11,136,"SHENGELIA, TORNIKE",P001133   ,Block (1),FV,,,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,9,09:59,11,137,"HUERTAS, MARCELINHO",PJUJ      ,Def Rebound (1),D,,,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,9,09:59,11,138,"HUERTAS, MARCELINHO",PJUJ      ,Foul Drawn (1),RV,,,KIROLBET Baskonia Vitoria Gasteiz,0
+ULK       ,,16,09:59,11,139,"SLOUKAS, KOSTAS",P001926   ,Foul (1),CM,,,Fenerbahce Dogus Istanbul,0
+BAS       ,,6,09:39,11,140,"TIMMA, JANIS",P005718   ,Turnover (3),TO,,,KIROLBET Baskonia Vitoria Gasteiz,0
+ULK       ,,16,09:37,11,141,"SLOUKAS, KOSTAS",P001926   ,Steal (2),ST,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,1,09:16,11,142,"THOMPSON, JASON",P007998   ,Foul Drawn (1),RV,,,Fenerbahce Dogus Istanbul,0
+BAS       ,,17,09:16,11,143,"POIRIER, VINCENT",P004887   ,Foul (2),CM,,,KIROLBET Baskonia Vitoria Gasteiz,0
+ULK       ,,1,09:16,11,144,"THOMPSON, JASON",P007998   ,Free Throw In (1/1 -  1 pt),FTM,19.0,26.0,Fenerbahce Dogus Istanbul,0
+ULK       ,,16,09:16,11,145,"SLOUKAS, KOSTAS",P001926   ,Assist (2),AS,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,1,09:16,11,146,"THOMPSON, JASON",P007998   ,Free Throw In (2/2 -  2 pt),FTM,19.0,27.0,Fenerbahce Dogus Istanbul,0
+BAS       ,,9,09:01,11,147,"HUERTAS, MARCELINHO",PJUJ      ,Two Pointer (2/2 -  4 pt),2FGM,21.0,27.0,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,9,09:01,11,148,"HUERTAS, MARCELINHO",PJUJ      ,Foul Drawn (2),RV,,,KIROLBET Baskonia Vitoria Gasteiz,0
+ULK       ,,23,09:01,11,149,"GUDURIC, MARKO",P004004   ,Foul (1),CM,,,Fenerbahce Dogus Istanbul,0
+BAS       ,,9,09:01,11,150,"HUERTAS, MARCELINHO",PJUJ      ,Free Throw In (1/1 -  5 pt),FTM,22.0,27.0,KIROLBET Baskonia Vitoria Gasteiz,0
+ULK       ,,23,08:45,12,152,"GUDURIC, MARKO",P004004   ,Turnover (1),TO,,,Fenerbahce Dogus Istanbul,0
+BAS       ,,11,08:26,12,153,"JANNING, MATT",P004165   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,KIROLBET Baskonia Vitoria Gasteiz,0
+ULK       ,,,08:25,12,154,,          ,Def Rebound (2),D,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,23,08:00,13,156,"GUDURIC, MARKO",P004004   ,Three Pointer (2/3 -  10 pt),3FGM,22.0,30.0,Fenerbahce Dogus Istanbul,0
+BAS       ,,,07:59,13,157,,          ,Time Out (1),TOUT,,,KIROLBET Baskonia Vitoria Gasteiz,0
+ULK       ,,23,07:59,13,158,"GUDURIC, MARKO",P004004   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,35,07:59,13,159,"MUHAMMED, ALI",P001324   ,In,IN,,,Fenerbahce Dogus Istanbul,0
+BAS       ,,23,07:33,13,160,"SHENGELIA, TORNIKE",P001133   ,Missed Two Pointer (0/1 -  2 pt),2FGA,,,KIROLBET Baskonia Vitoria Gasteiz,0
+ULK       ,,4,07:31,13,161,"MELLI, NICOLO",P002849   ,Def Rebound (1),D,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,35,07:13,13,162,"MUHAMMED, ALI",P001324   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,1,07:10,13,163,"THOMPSON, JASON",P007998   ,Off Rebound (1),O,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,4,07:05,13,164,"MELLI, NICOLO",P002849   ,Three Pointer (2/2 -  10 pt),3FGM,22.0,33.0,Fenerbahce Dogus Istanbul,0
+ULK       ,,16,07:05,13,165,"SLOUKAS, KOSTAS",P001926   ,Assist (3),AS,,,Fenerbahce Dogus Istanbul,0
+BAS       ,,17,06:40,14,167,"POIRIER, VINCENT",P004887   ,Two Pointer (1/2 -  4 pt),2FGM,24.0,33.0,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,9,06:38,14,168,"HUERTAS, MARCELINHO",PJUJ      ,Assist (3),AS,,,KIROLBET Baskonia Vitoria Gasteiz,0
+ULK       ,,1,06:12,14,169,"THOMPSON, JASON",P007998   ,Missed Two Pointer (0/1 -  2 pt),2FGA,,,Fenerbahce Dogus Istanbul,0
+BAS       ,,23,06:10,14,170,"SHENGELIA, TORNIKE",P001133   ,Def Rebound (1),D,,,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,9,05:55,15,208,"HUERTAS, MARCELINHO",PJUJ      ,Missed Two Pointer (2/3 -  5 pt),2FGA,,,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,17,05:55,15,209,"POIRIER, VINCENT",P004887   ,Off Rebound (1),O,,,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,17,05:55,15,172,"POIRIER, VINCENT",P004887   ,Two Pointer (2/3 -  6 pt),2FGM,26.0,33.0,KIROLBET Baskonia Vitoria Gasteiz,0
+ULK       ,,1,05:29,15,173,"THOMPSON, JASON",P007998   ,Two Pointer (1/2 -  4 pt),2FGM,26.0,35.0,Fenerbahce Dogus Istanbul,0
+ULK       ,,4,05:26,15,174,"MELLI, NICOLO",P002849   ,Assist (2),AS,,,Fenerbahce Dogus Istanbul,0
+BAS       ,,17,05:09,15,175,"POIRIER, VINCENT",P004887   ,Turnover (1),TO,,,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,6,05:09,15,176,"TIMMA, JANIS",P005718   ,Out,OUT,,,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,10,05:09,15,177,"BEAUBOIS, RODRIGUE",P006590   ,In,IN,,,KIROLBET Baskonia Vitoria Gasteiz,0
+ULK       ,,4,04:50,16,179,"MELLI, NICOLO",P002849   ,Missed Two Pointer (1/3 -  10 pt),2FGA,,,Fenerbahce Dogus Istanbul,0
+BAS       ,,10,04:48,16,180,"BEAUBOIS, RODRIGUE",P006590   ,Def Rebound (1),D,,,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,17,04:44,16,181,"POIRIER, VINCENT",P004887   ,Offensive Foul (3),OF,,,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,17,04:44,16,182,"POIRIER, VINCENT",P004887   ,Turnover (2),TO,,,KIROLBET Baskonia Vitoria Gasteiz,0
+ULK       ,,35,04:44,16,183,"MUHAMMED, ALI",P001324   ,Foul Drawn (1),RV,,,Fenerbahce Dogus Istanbul,0
+BAS       ,,7,04:44,16,184,"VOIGTMANN, JOHANNES",P007201   ,In,IN,,,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,17,04:44,16,185,"POIRIER, VINCENT",P004887   ,Out,OUT,,,KIROLBET Baskonia Vitoria Gasteiz,0
+ULK       ,,33,04:23,16,186,"KALINIC, NIKOLA",P004866   ,Two Pointer (1/1 -  5 pt),2FGM,26.0,37.0,Fenerbahce Dogus Istanbul,0
+ULK       ,,4,04:21,16,187,"MELLI, NICOLO",P002849   ,Assist (3),AS,,,Fenerbahce Dogus Istanbul,0
+BAS       ,,9,04:13,16,188,"HUERTAS, MARCELINHO",PJUJ      ,Two Pointer (3/4 -  7 pt),2FGM,28.0,37.0,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,12,04:11,16,189,"DIOP, ILIMANE",P003540   ,In,IN,,,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,23,04:11,16,190,"SHENGELIA, TORNIKE",P001133   ,Out,OUT,,,KIROLBET Baskonia Vitoria Gasteiz,0
+ULK       ,,33,03:56,17,192,"KALINIC, NIKOLA",P004866   ,Two Pointer (2/2 -  7 pt),2FGM,28.0,39.0,Fenerbahce Dogus Istanbul,0
+BAS       ,,9,03:44,17,193,"HUERTAS, MARCELINHO",PJUJ      ,Two Pointer (4/5 -  9 pt),2FGM,30.0,39.0,KIROLBET Baskonia Vitoria Gasteiz,0
+ULK       ,,16,03:22,17,194,"SLOUKAS, KOSTAS",P001926   ,Three Pointer (1/1 -  3 pt),3FGM,30.0,42.0,Fenerbahce Dogus Istanbul,0
+ULK       ,,33,03:20,17,195,"KALINIC, NIKOLA",P004866   ,Assist (1),AS,,,Fenerbahce Dogus Istanbul,0
+BAS       ,,12,03:04,17,196,"DIOP, ILIMANE",P003540   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,KIROLBET Baskonia Vitoria Gasteiz,0
+ULK       ,,4,03:04,17,197,"MELLI, NICOLO",P002849   ,Def Rebound (2),D,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,33,02:40,18,199,"KALINIC, NIKOLA",P004866   ,Foul Drawn (1),RV,,,Fenerbahce Dogus Istanbul,0
+BAS       ,,11,02:40,18,200,"JANNING, MATT",P004165   ,Foul (1),CM,,,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,3,02:40,18,201,"VILDOZA, LUCA",P007947   ,In,IN,,,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,9,02:40,18,202,"HUERTAS, MARCELINHO",PJUJ      ,Out,OUT,,,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,11,02:40,18,203,"JANNING, MATT",P004165   ,Out,OUT,,,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,29,02:40,18,204,"GARINO, PATRICIO",P007994   ,In,IN,,,KIROLBET Baskonia Vitoria Gasteiz,0
+ULK       ,,33,02:32,18,205,"KALINIC, NIKOLA",P004866   ,Two Pointer (3/3 -  9 pt),2FGM,30.0,44.0,Fenerbahce Dogus Istanbul,0
+ULK       ,,16,02:31,18,206,"SLOUKAS, KOSTAS",P001926   ,Assist (4),AS,,,Fenerbahce Dogus Istanbul,0
+BAS       ,,,02:31,18,207,,          ,Time Out (2),TOUT,,,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,12,02:14,18,210,"DIOP, ILIMANE",P003540   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,KIROLBET Baskonia Vitoria Gasteiz,0
+ULK       ,,1,02:12,18,211,"THOMPSON, JASON",P007998   ,Def Rebound (1),D,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,35,01:54,19,213,"MUHAMMED, ALI",P001324   ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,1,01:51,19,214,"THOMPSON, JASON",P007998   ,Off Rebound (2),O,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,16,01:41,19,215,"SLOUKAS, KOSTAS",P001926   ,Two Pointer (1/2 -  5 pt),2FGM,30.0,46.0,Fenerbahce Dogus Istanbul,0
+BAS       ,,10,01:16,19,216,"BEAUBOIS, RODRIGUE",P006590   ,Missed Two Pointer (0/2 -  5 pt),2FGA,,,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,10,01:14,19,217,"BEAUBOIS, RODRIGUE",P006590   ,Off Rebound (1),O,,,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,12,01:12,19,218,"DIOP, ILIMANE",P003540   ,Foul Drawn (1),RV,,,KIROLBET Baskonia Vitoria Gasteiz,0
+ULK       ,,4,01:12,19,219,"MELLI, NICOLO",P002849   ,Foul (2),CM,,,Fenerbahce Dogus Istanbul,0
+BAS       ,,12,01:12,19,220,"DIOP, ILIMANE",P003540   ,Free Throw In (1/1 -  1 pt),FTM,31.0,46.0,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,10,01:12,19,221,"BEAUBOIS, RODRIGUE",P006590   ,Assist (1),AS,,,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,12,01:12,19,222,"DIOP, ILIMANE",P003540   ,Free Throw In (2/2 -  2 pt),FTM,32.0,46.0,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,12,01:12,19,223,"DIOP, ILIMANE",P003540   ,Out,OUT,,,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,23,01:12,19,224,"SHENGELIA, TORNIKE",P001133   ,In,IN,,,KIROLBET Baskonia Vitoria Gasteiz,0
+ULK       ,,4,01:12,19,225,"MELLI, NICOLO",P002849   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,70,01:12,19,226,"DATOME, LUIGI",PCCD      ,In,IN,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,70,00:47,20,228,"DATOME, LUIGI",PCCD      ,Two Pointer (2/3 -  4 pt),2FGM,32.0,48.0,Fenerbahce Dogus Istanbul,0
+ULK       ,,35,00:45,20,229,"MUHAMMED, ALI",P001324   ,Assist (1),AS,,,Fenerbahce Dogus Istanbul,0
+BAS       ,,29,00:25,20,230,"GARINO, PATRICIO",P007994   ,Missed Two Pointer (1/2 -  4 pt),2FGA,,,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,29,00:25,20,231,"GARINO, PATRICIO",P007994   ,Shot Rejected (1),AG,,,KIROLBET Baskonia Vitoria Gasteiz,0
+ULK       ,,1,00:23,20,232,"THOMPSON, JASON",P007998   ,Block (1),FV,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,1,00:21,20,233,"THOMPSON, JASON",P007998   ,Def Rebound (2),D,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,16,00:02,20,234,"SLOUKAS, KOSTAS",P001926   ,Turnover (1),TO,,,Fenerbahce Dogus Istanbul,0
+BAS       ,,29,00:01,20,235,"GARINO, PATRICIO",P007994   ,Steal (1),ST,,,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,29,00:00,20,236,"GARINO, PATRICIO",P007994   ,Missed Three Pointer (0/2 -  4 pt),3FGA,,,KIROLBET Baskonia Vitoria Gasteiz,0
+          ,,,,21,238,,          ,End Period,EP,,,,0
+          ,,,,21,253,,          ,Begin Period,BP,,,,0
+BAS       ,,3,10:00,21,239,"VILDOZA, LUCA",P007947   ,Out,OUT,,,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,6,10:00,21,240,"TIMMA, JANIS",P005718   ,In,IN,,,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,7,10:00,21,241,"VOIGTMANN, JOHANNES",P007201   ,Out,OUT,,,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,9,10:00,21,242,"HUERTAS, MARCELINHO",PJUJ      ,In,IN,,,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,17,10:00,21,243,"POIRIER, VINCENT",P004887   ,In,IN,,,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,29,10:00,21,244,"GARINO, PATRICIO",P007994   ,Out,OUT,,,KIROLBET Baskonia Vitoria Gasteiz,0
+ULK       ,,1,10:00,21,245,"THOMPSON, JASON",P007998   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,11,10:00,21,246,"WANAMAKER, BRAD",P005838   ,In,IN,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,16,10:00,21,247,"SLOUKAS, KOSTAS",P001926   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,23,10:00,21,248,"GUDURIC, MARKO",P004004   ,In,IN,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,24,10:00,21,249,"VESELY, JAN",P000925   ,In,IN,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,33,10:00,21,250,"KALINIC, NIKOLA",P004866   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,35,10:00,21,251,"MUHAMMED, ALI",P001324   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,44,10:00,21,252,"DUVERIOGLU, AHMET",P006399   ,In,IN,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,11,09:43,21,254,"WANAMAKER, BRAD",P005838   ,Turnover (2),TO,,,Fenerbahce Dogus Istanbul,0
+BAS       ,,9,09:42,21,255,"HUERTAS, MARCELINHO",PJUJ      ,Steal (1),ST,,,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,10,09:40,21,256,"BEAUBOIS, RODRIGUE",P006590   ,Foul Drawn (2),RV,,,KIROLBET Baskonia Vitoria Gasteiz,0
+ULK       ,,23,09:40,21,257,"GUDURIC, MARKO",P004004   ,Foul (2),CM,,,Fenerbahce Dogus Istanbul,0
+BAS       ,,10,09:40,21,258,"BEAUBOIS, RODRIGUE",P006590   ,Free Throw In (3/3 -  6 pt),FTM,33.0,48.0,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,9,09:40,21,259,"HUERTAS, MARCELINHO",PJUJ      ,Assist (4),AS,,,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,10,09:40,21,260,"BEAUBOIS, RODRIGUE",P006590   ,Free Throw In (4/4 -  7 pt),FTM,34.0,48.0,KIROLBET Baskonia Vitoria Gasteiz,0
+ULK       ,,44,09:31,21,261,"DUVERIOGLU, AHMET",P006399   ,Two Pointer (2/2 -  4 pt),2FGM,34.0,50.0,Fenerbahce Dogus Istanbul,0
+ULK       ,,24,09:29,21,262,"VESELY, JAN",P000925   ,Assist (1),AS,,,Fenerbahce Dogus Istanbul,0
+BAS       ,,17,09:17,21,263,"POIRIER, VINCENT",P004887   ,Foul Drawn (2),RV,,,KIROLBET Baskonia Vitoria Gasteiz,0
+ULK       ,,11,09:17,21,264,"WANAMAKER, BRAD",P005838   ,Foul (1),CM,,,Fenerbahce Dogus Istanbul,0
+BAS       ,,17,09:17,21,265,"POIRIER, VINCENT",P004887   ,Free Throw In (3/3 -  7 pt),FTM,35.0,50.0,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,10,09:17,21,266,"BEAUBOIS, RODRIGUE",P006590   ,Assist (2),AS,,,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,17,09:17,21,267,"POIRIER, VINCENT",P004887   ,Free Throw In (4/4 -  8 pt),FTM,36.0,50.0,KIROLBET Baskonia Vitoria Gasteiz,0
+ULK       ,,23,09:09,21,268,"GUDURIC, MARKO",P004004   ,Foul Drawn (2),RV,,,Fenerbahce Dogus Istanbul,0
+BAS       ,,10,09:09,21,269,"BEAUBOIS, RODRIGUE",P006590   ,Foul (2),CM,,,KIROLBET Baskonia Vitoria Gasteiz,0
+ULK       ,,23,09:09,21,270,"GUDURIC, MARKO",P004004   ,Missed Two Pointer (2/3 -  10 pt),2FGA,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,23,09:09,21,271,"GUDURIC, MARKO",P004004   ,Off Rebound (1),O,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,23,08:54,22,273,"GUDURIC, MARKO",P004004   ,Three Pointer (3/4 -  13 pt),3FGM,36.0,53.0,Fenerbahce Dogus Istanbul,0
+BAS       ,,6,08:38,22,274,"TIMMA, JANIS",P005718   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,KIROLBET Baskonia Vitoria Gasteiz,0
+ULK       ,,,08:38,22,275,,          ,Def Rebound (3),D,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,24,08:38,22,276,"VESELY, JAN",P000925   ,Foul Drawn (2),RV,,,Fenerbahce Dogus Istanbul,0
+BAS       ,,23,08:38,22,277,"SHENGELIA, TORNIKE",P001133   ,Foul (2),CM,,,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,6,08:27,22,278,"TIMMA, JANIS",P005718   ,Foul Drawn (1),RV,,,KIROLBET Baskonia Vitoria Gasteiz,0
+ULK       ,,24,08:27,22,279,"VESELY, JAN",P000925   ,Offensive Foul (3),OF,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,24,08:27,22,280,"VESELY, JAN",P000925   ,Turnover (2),TO,,,Fenerbahce Dogus Istanbul,0
+BAS       ,,9,08:18,22,281,"HUERTAS, MARCELINHO",PJUJ      ,Turnover (1),TO,,,KIROLBET Baskonia Vitoria Gasteiz,0
+ULK       ,,11,08:16,22,282,"WANAMAKER, BRAD",P005838   ,Steal (1),ST,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,11,08:14,22,283,"WANAMAKER, BRAD",P005838   ,Missed Two Pointer (2/3 -  4 pt),2FGA,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,11,08:14,22,284,"WANAMAKER, BRAD",P005838   ,Shot Rejected (1),AG,,,Fenerbahce Dogus Istanbul,0
+BAS       ,,17,08:14,22,285,"POIRIER, VINCENT",P004887   ,Block (1),FV,,,KIROLBET Baskonia Vitoria Gasteiz,0
+ULK       ,,,08:14,22,286,,          ,Off Rebound (1),O,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,4,08:14,22,287,"MELLI, NICOLO",P002849   ,In,IN,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,24,08:14,22,288,"VESELY, JAN",P000925   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,70,08:06,22,289,"DATOME, LUIGI",PCCD      ,Missed Three Pointer (0/2 -  4 pt),3FGA,,,Fenerbahce Dogus Istanbul,0
+BAS       ,,23,08:04,22,290,"SHENGELIA, TORNIKE",P001133   ,Def Rebound (2),D,,,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,17,07:55,23,292,"POIRIER, VINCENT",P004887   ,Turnover (3),TO,,,KIROLBET Baskonia Vitoria Gasteiz,0
+ULK       ,,23,07:54,23,293,"GUDURIC, MARKO",P004004   ,Steal (1),ST,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,4,07:49,23,294,"MELLI, NICOLO",P002849   ,Two Pointer (2/4 -  12 pt),2FGM,36.0,55.0,Fenerbahce Dogus Istanbul,0
+ULK       ,,44,07:47,23,295,"DUVERIOGLU, AHMET",P006399   ,Assist (1),AS,,,Fenerbahce Dogus Istanbul,0
+BAS       ,,10,07:35,23,296,"BEAUBOIS, RODRIGUE",P006590   ,Two Pointer (1/3 -  9 pt),2FGM,38.0,55.0,KIROLBET Baskonia Vitoria Gasteiz,0
+ULK       ,,11,07:15,23,297,"WANAMAKER, BRAD",P005838   ,Missed Three Pointer (0/2 -  4 pt),3FGA,,,Fenerbahce Dogus Istanbul,0
+BAS       ,,10,07:15,23,298,"BEAUBOIS, RODRIGUE",P006590   ,Def Rebound (2),D,,,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,23,07:08,23,299,"SHENGELIA, TORNIKE",P001133   ,Foul Drawn (2),RV,,,KIROLBET Baskonia Vitoria Gasteiz,0
+ULK       ,,4,07:08,23,300,"MELLI, NICOLO",P002849   ,Foul (3),CM,,,Fenerbahce Dogus Istanbul,0
+BAS       ,,17,06:59,24,302,"POIRIER, VINCENT",P004887   ,Two Pointer (3/4 -  10 pt),2FGM,40.0,55.0,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,9,06:59,24,303,"HUERTAS, MARCELINHO",PJUJ      ,Assist (5),AS,,,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,17,06:59,24,304,"POIRIER, VINCENT",P004887   ,Foul Drawn (3),RV,,,KIROLBET Baskonia Vitoria Gasteiz,0
+ULK       ,,23,06:59,24,305,"GUDURIC, MARKO",P004004   ,Foul (3),CM,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,1,06:59,24,306,"THOMPSON, JASON",P007998   ,In,IN,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,44,06:59,24,307,"DUVERIOGLU, AHMET",P006399   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
+BAS       ,,17,06:59,24,308,"POIRIER, VINCENT",P004887   ,Free Throw In (5/5 -  11 pt),FTM,41.0,55.0,KIROLBET Baskonia Vitoria Gasteiz,0
+ULK       ,,1,06:43,24,309,"THOMPSON, JASON",P007998   ,Foul Drawn (2),RV,,,Fenerbahce Dogus Istanbul,0
+BAS       ,,23,06:43,24,310,"SHENGELIA, TORNIKE",P001133   ,Foul (3),CM,,,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,9,06:43,24,311,"HUERTAS, MARCELINHO",PJUJ      ,Out,OUT,,,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,15,06:43,24,312,"GRANGER, JAYSON",P003024   ,In,IN,,,KIROLBET Baskonia Vitoria Gasteiz,0
+ULK       ,,1,06:43,24,313,"THOMPSON, JASON",P007998   ,Free Throw In (3/3 -  5 pt),FTM,41.0,56.0,Fenerbahce Dogus Istanbul,0
+ULK       ,,23,06:43,24,314,"GUDURIC, MARKO",P004004   ,Assist (3),AS,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,1,06:43,24,315,"THOMPSON, JASON",P007998   ,Missed Free Throw (3/4 -  5 pt),FTA,,,Fenerbahce Dogus Istanbul,0
+BAS       ,,17,06:43,24,316,"POIRIER, VINCENT",P004887   ,Def Rebound (2),D,,,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,23,06:30,24,317,"SHENGELIA, TORNIKE",P001133   ,Two Pointer (1/2 -  4 pt),2FGM,43.0,56.0,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,15,06:28,24,318,"GRANGER, JAYSON",P003024   ,Assist (1),AS,,,KIROLBET Baskonia Vitoria Gasteiz,0
+ULK       ,,4,06:11,24,319,"MELLI, NICOLO",P002849   ,Three Pointer (3/3 -  15 pt),3FGM,43.0,59.0,Fenerbahce Dogus Istanbul,0
+ULK       ,,11,06:09,24,320,"WANAMAKER, BRAD",P005838   ,Assist (1),AS,,,Fenerbahce Dogus Istanbul,0
+BAS       ,,15,05:55,25,322,"GRANGER, JAYSON",P003024   ,Turnover (1),TO,,,KIROLBET Baskonia Vitoria Gasteiz,0
+ULK       ,,70,05:54,25,323,"DATOME, LUIGI",PCCD      ,Steal (1),ST,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,23,05:52,25,324,"GUDURIC, MARKO",P004004   ,Foul Drawn (3),RV,,,Fenerbahce Dogus Istanbul,0
+BAS       ,,6,05:52,25,325,"TIMMA, JANIS",P005718   ,Foul (1),CM,,,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,7,05:52,25,326,"VOIGTMANN, JOHANNES",P007201   ,In,IN,,,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,23,05:52,25,327,"SHENGELIA, TORNIKE",P001133   ,Out,OUT,,,KIROLBET Baskonia Vitoria Gasteiz,0
+ULK       ,,23,05:52,25,328,"GUDURIC, MARKO",P004004   ,Free Throw In (1/1 -  14 pt),FTM,43.0,60.0,Fenerbahce Dogus Istanbul,0
+ULK       ,,70,05:52,25,329,"DATOME, LUIGI",PCCD      ,Assist (1),AS,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,23,05:52,25,330,"GUDURIC, MARKO",P004004   ,Free Throw In (2/2 -  15 pt),FTM,43.0,61.0,Fenerbahce Dogus Istanbul,0
+BAS       ,,10,05:45,25,331,"BEAUBOIS, RODRIGUE",P006590   ,Two Pointer (2/4 -  11 pt),2FGM,45.0,61.0,KIROLBET Baskonia Vitoria Gasteiz,0
+ULK       ,,23,05:22,25,332,"GUDURIC, MARKO",P004004   ,Foul Drawn (4),RV,,,Fenerbahce Dogus Istanbul,0
+BAS       ,,10,05:22,25,333,"BEAUBOIS, RODRIGUE",P006590   ,Foul (3),CM,,,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,10,05:22,25,334,"BEAUBOIS, RODRIGUE",P006590   ,Out,OUT,,,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,11,05:22,25,335,"JANNING, MATT",P004165   ,In,IN,,,KIROLBET Baskonia Vitoria Gasteiz,0
+ULK       ,,23,05:22,25,336,"GUDURIC, MARKO",P004004   ,Free Throw In (3/3 -  16 pt),FTM,45.0,62.0,Fenerbahce Dogus Istanbul,0
+ULK       ,,23,05:22,25,337,"GUDURIC, MARKO",P004004   ,Free Throw In (4/4 -  17 pt),FTM,45.0,63.0,Fenerbahce Dogus Istanbul,0
+BAS       ,,15,05:11,25,338,"GRANGER, JAYSON",P003024   ,Two Pointer (1/1 -  2 pt),2FGM,47.0,63.0,KIROLBET Baskonia Vitoria Gasteiz,0
+ULK       ,,4,04:45,26,340,"MELLI, NICOLO",P002849   ,Foul Drawn (3),RV,,,Fenerbahce Dogus Istanbul,0
+BAS       ,,7,04:45,26,341,"VOIGTMANN, JOHANNES",P007201   ,Foul (1),CM,,,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,,04:44,26,342,,CO_A      ,Bench Foul (1),B,,,KIROLBET Baskonia Vitoria Gasteiz,0
+          ,,,04:44,26,343,,          ,TV Time Out (2),TOUT_TV,,,,0
+ULK       ,,4,04:44,26,344,"MELLI, NICOLO",P002849   ,Free Throw In (3/3 -  16 pt),FTM,47.0,64.0,Fenerbahce Dogus Istanbul,0
+ULK       ,,4,04:44,26,345,"MELLI, NICOLO",P002849   ,Free Throw In (4/4 -  17 pt),FTM,47.0,65.0,Fenerbahce Dogus Istanbul,0
+ULK       ,,70,04:44,26,346,"DATOME, LUIGI",PCCD      ,Free Throw In (1/1 -  5 pt),FTM,47.0,66.0,Fenerbahce Dogus Istanbul,0
+ULK       ,,4,04:23,26,347,"MELLI, NICOLO",P002849   ,Foul Drawn (4),RV,,,Fenerbahce Dogus Istanbul,0
+BAS       ,,15,04:23,26,348,"GRANGER, JAYSON",P003024   ,Foul (1),CM,,,KIROLBET Baskonia Vitoria Gasteiz,0
+ULK       ,,4,04:23,26,349,"MELLI, NICOLO",P002849   ,Free Throw In (5/5 -  18 pt),FTM,47.0,67.0,Fenerbahce Dogus Istanbul,0
+ULK       ,,4,04:23,26,350,"MELLI, NICOLO",P002849   ,Free Throw In (6/6 -  19 pt),FTM,47.0,68.0,Fenerbahce Dogus Istanbul,0
+BAS       ,,15,04:16,26,351,"GRANGER, JAYSON",P003024   ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,17,04:16,26,352,"POIRIER, VINCENT",P004887   ,Off Rebound (2),O,,,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,17,04:16,26,353,"POIRIER, VINCENT",P004887   ,Foul Drawn (4),RV,,,KIROLBET Baskonia Vitoria Gasteiz,0
+ULK       ,,1,04:12,26,354,"THOMPSON, JASON",P007998   ,Foul (1),CM,,,Fenerbahce Dogus Istanbul,0
+BAS       ,,17,04:12,26,355,"POIRIER, VINCENT",P004887   ,Free Throw In (6/6 -  12 pt),FTM,48.0,68.0,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,17,04:12,26,356,"POIRIER, VINCENT",P004887   ,Free Throw In (7/7 -  13 pt),FTM,49.0,68.0,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,6,04:12,26,357,"TIMMA, JANIS",P005718   ,Out,OUT,,,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,17,04:12,26,358,"POIRIER, VINCENT",P004887   ,Out,OUT,,,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,23,04:12,26,359,"SHENGELIA, TORNIKE",P001133   ,In,IN,,,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,29,04:12,26,360,"GARINO, PATRICIO",P007994   ,In,IN,,,KIROLBET Baskonia Vitoria Gasteiz,0
+ULK       ,,11,03:56,27,362,"WANAMAKER, BRAD",P005838   ,Turnover (3),TO,,,Fenerbahce Dogus Istanbul,0
+BAS       ,,29,03:56,27,363,"GARINO, PATRICIO",P007994   ,Steal (2),ST,,,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,29,03:40,27,364,"GARINO, PATRICIO",P007994   ,Three Pointer (1/3 -  7 pt),3FGM,52.0,68.0,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,7,03:40,27,365,"VOIGTMANN, JOHANNES",P007201   ,Assist (1),AS,,,KIROLBET Baskonia Vitoria Gasteiz,0
+ULK       ,,11,03:18,27,366,"WANAMAKER, BRAD",P005838   ,Missed Three Pointer (0/3 -  4 pt),3FGA,,,Fenerbahce Dogus Istanbul,0
+BAS       ,,15,03:16,27,367,"GRANGER, JAYSON",P003024   ,Def Rebound (1),D,,,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,7,03:08,27,368,"VOIGTMANN, JOHANNES",P007201   ,Three Pointer (2/4 -  7 pt),3FGM,55.0,68.0,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,15,03:08,27,369,"GRANGER, JAYSON",P003024   ,Assist (2),AS,,,KIROLBET Baskonia Vitoria Gasteiz,0
+ULK       ,,,03:08,27,370,,          ,Time Out (1),TOUT,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,11,03:08,27,371,"WANAMAKER, BRAD",P005838   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,16,03:08,27,372,"SLOUKAS, KOSTAS",P001926   ,In,IN,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,33,03:08,27,373,"KALINIC, NIKOLA",P004866   ,In,IN,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,70,03:08,27,374,"DATOME, LUIGI",PCCD      ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,16,02:48,28,376,"SLOUKAS, KOSTAS",P001926   ,Missed Three Pointer (1/2 -  5 pt),3FGA,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,33,02:44,28,377,"KALINIC, NIKOLA",P004866   ,Off Rebound (1),O,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,33,02:44,28,378,"KALINIC, NIKOLA",P004866   ,Turnover (1),TO,,,Fenerbahce Dogus Istanbul,0
+BAS       ,,15,02:44,28,379,"GRANGER, JAYSON",P003024   ,Steal (1),ST,,,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,11,02:44,28,380,"JANNING, MATT",P004165   ,Two Pointer (1/1 -  2 pt),2FGM,57.0,68.0,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,15,02:44,28,381,"GRANGER, JAYSON",P003024   ,Assist (3),AS,,,KIROLBET Baskonia Vitoria Gasteiz,0
+ULK       ,,33,02:11,28,382,"KALINIC, NIKOLA",P004866   ,Missed Two Pointer (3/4 -  9 pt),2FGA,,,Fenerbahce Dogus Istanbul,0
+BAS       ,,7,02:11,28,383,"VOIGTMANN, JOHANNES",P007201   ,Def Rebound (2),D,,,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,7,01:46,29,385,"VOIGTMANN, JOHANNES",P007201   ,Three Pointer (3/5 -  10 pt),3FGM,60.0,68.0,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,11,01:43,29,386,"JANNING, MATT",P004165   ,Assist (1),AS,,,KIROLBET Baskonia Vitoria Gasteiz,0
+ULK       ,,23,01:33,29,387,"GUDURIC, MARKO",P004004   ,Foul Drawn (5),RV,,,Fenerbahce Dogus Istanbul,0
+BAS       ,,11,01:33,29,388,"JANNING, MATT",P004165   ,Foul (2),CM,,,KIROLBET Baskonia Vitoria Gasteiz,0
+ULK       ,,23,01:33,29,389,"GUDURIC, MARKO",P004004   ,Missed Free Throw (4/5 -  17 pt),FTA,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,23,01:33,29,390,"GUDURIC, MARKO",P004004   ,Free Throw In (5/6 -  18 pt),FTM,60.0,69.0,Fenerbahce Dogus Istanbul,0
+ULK       ,,23,01:33,29,391,"GUDURIC, MARKO",P004004   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,35,01:33,29,392,"MUHAMMED, ALI",P001324   ,In,IN,,,Fenerbahce Dogus Istanbul,0
+BAS       ,,23,01:15,29,393,"SHENGELIA, TORNIKE",P001133   ,Foul Drawn (3),RV,,,KIROLBET Baskonia Vitoria Gasteiz,0
+ULK       ,,33,01:15,29,394,"KALINIC, NIKOLA",P004866   ,Foul (1),CM,,,Fenerbahce Dogus Istanbul,0
+BAS       ,,23,01:15,29,395,"SHENGELIA, TORNIKE",P001133   ,Free Throw In (3/3 -  5 pt),FTM,61.0,69.0,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,23,01:15,29,396,"SHENGELIA, TORNIKE",P001133   ,Missed Free Throw (3/4 -  5 pt),FTA,,,KIROLBET Baskonia Vitoria Gasteiz,0
+ULK       ,,33,01:15,29,397,"KALINIC, NIKOLA",P004866   ,Def Rebound (1),D,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,16,00:54,30,399,"SLOUKAS, KOSTAS",P001926   ,Missed Three Pointer (1/3 -  5 pt),3FGA,,,Fenerbahce Dogus Istanbul,0
+BAS       ,,29,00:51,30,400,"GARINO, PATRICIO",P007994   ,Def Rebound (4),D,,,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,29,00:50,30,401,"GARINO, PATRICIO",P007994   ,Foul Drawn (2),RV,,,KIROLBET Baskonia Vitoria Gasteiz,0
+ULK       ,,1,00:50,30,402,"THOMPSON, JASON",P007998   ,Foul (2),CM,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,1,00:50,30,403,"THOMPSON, JASON",P007998   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,24,00:50,30,404,"VESELY, JAN",P000925   ,In,IN,,,Fenerbahce Dogus Istanbul,0
+BAS       ,,29,00:50,30,405,"GARINO, PATRICIO",P007994   ,Missed Free Throw (2/3 -  7 pt),FTA,,,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,29,00:50,30,406,"GARINO, PATRICIO",P007994   ,Free Throw In (3/4 -  8 pt),FTM,62.0,69.0,KIROLBET Baskonia Vitoria Gasteiz,0
+ULK       ,,35,00:35,30,407,"MUHAMMED, ALI",P001324   ,Three Pointer (1/3 -  3 pt),3FGM,62.0,72.0,Fenerbahce Dogus Istanbul,0
+ULK       ,,16,00:33,30,408,"SLOUKAS, KOSTAS",P001926   ,Assist (5),AS,,,Fenerbahce Dogus Istanbul,0
+BAS       ,,15,00:15,30,409,"GRANGER, JAYSON",P003024   ,Turnover (2),TO,,,KIROLBET Baskonia Vitoria Gasteiz,0
+ULK       ,,35,00:14,30,410,"MUHAMMED, ALI",P001324   ,Steal (1),ST,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,33,00:09,30,411,"KALINIC, NIKOLA",P004866   ,Missed Three Pointer (1/3 -  9 pt),3FGA,,,Fenerbahce Dogus Istanbul,0
+BAS       ,,29,00:07,30,412,"GARINO, PATRICIO",P007994   ,Def Rebound (5),D,,,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,29,00:05,30,413,"GARINO, PATRICIO",P007994   ,Turnover (1),TO,,,KIROLBET Baskonia Vitoria Gasteiz,0
+ULK       ,,24,00:03,30,414,"VESELY, JAN",P000925   ,Steal (1),ST,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,35,00:00,30,415,"MUHAMMED, ALI",P001324   ,Missed Three Pointer (1/4 -  3 pt),3FGA,,,Fenerbahce Dogus Istanbul,0
+          ,,,,31,417,,          ,End Period,EP,,,,0
+          ,,,,31,420,,          ,Begin Period,BP,,,,0
+BAS       ,,9,10:00,31,418,"HUERTAS, MARCELINHO",PJUJ      ,In,IN,,,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,15,10:00,31,419,"GRANGER, JAYSON",P003024   ,Out,OUT,,,KIROLBET Baskonia Vitoria Gasteiz,0
+ULK       ,,16,09:54,31,421,"SLOUKAS, KOSTAS",P001926   ,Missed Three Pointer (1/4 -  5 pt),3FGA,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,24,09:54,31,422,"VESELY, JAN",P000925   ,Off Rebound (1),O,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,35,09:37,31,423,"MUHAMMED, ALI",P001324   ,Foul Drawn (2),RV,,,Fenerbahce Dogus Istanbul,0
+BAS       ,,11,09:37,31,424,"JANNING, MATT",P004165   ,Foul (3),CM,,,KIROLBET Baskonia Vitoria Gasteiz,0
+ULK       ,,24,09:26,31,425,"VESELY, JAN",P000925   ,Two Pointer (1/2 -  2 pt),2FGM,62.0,74.0,Fenerbahce Dogus Istanbul,0
+ULK       ,,16,09:26,31,426,"SLOUKAS, KOSTAS",P001926   ,Assist (6),AS,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,24,09:26,31,427,"VESELY, JAN",P000925   ,Foul Drawn (3),RV,,,Fenerbahce Dogus Istanbul,0
+BAS       ,,7,09:26,31,428,"VOIGTMANN, JOHANNES",P007201   ,Foul (2),CM,,,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,10,09:26,31,429,"BEAUBOIS, RODRIGUE",P006590   ,In,IN,,,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,11,09:26,31,430,"JANNING, MATT",P004165   ,Out,OUT,,,KIROLBET Baskonia Vitoria Gasteiz,0
+ULK       ,,24,09:26,31,431,"VESELY, JAN",P000925   ,Free Throw In (1/1 -  3 pt),FTM,62.0,75.0,Fenerbahce Dogus Istanbul,0
+BAS       ,,7,09:04,31,432,"VOIGTMANN, JOHANNES",P007201   ,Foul Drawn (3),RV,,,KIROLBET Baskonia Vitoria Gasteiz,0
+ULK       ,,16,09:04,31,433,"SLOUKAS, KOSTAS",P001926   ,Foul (2),CM,,,Fenerbahce Dogus Istanbul,0
+BAS       ,,23,08:54,32,435,"SHENGELIA, TORNIKE",P001133   ,Two Pointer (2/3 -  7 pt),2FGM,64.0,75.0,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,9,08:54,32,483,"HUERTAS, MARCELINHO",PJUJ      ,Assist (6),AS,,,KIROLBET Baskonia Vitoria Gasteiz,0
+ULK       ,,33,08:40,32,436,"KALINIC, NIKOLA",P004866   ,Two Pointer (4/5 -  11 pt),2FGM,64.0,77.0,Fenerbahce Dogus Istanbul,0
+BAS       ,,29,08:22,32,437,"GARINO, PATRICIO",P007994   ,Missed Three Pointer (1/4 -  8 pt),3FGA,,,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,7,08:22,32,438,"VOIGTMANN, JOHANNES",P007201   ,Off Rebound (1),O,,,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,7,08:22,32,439,"VOIGTMANN, JOHANNES",P007201   ,Two Pointer (1/1 -  12 pt),2FGM,66.0,77.0,KIROLBET Baskonia Vitoria Gasteiz,0
+ULK       ,,24,07:52,33,441,"VESELY, JAN",P000925   ,Missed Two Pointer (1/3 -  3 pt),2FGA,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,24,07:51,33,442,"VESELY, JAN",P000925   ,Off Rebound (2),O,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,24,07:51,33,443,"VESELY, JAN",P000925   ,Turnover (3),TO,,,Fenerbahce Dogus Istanbul,0
+BAS       ,,23,07:35,33,444,"SHENGELIA, TORNIKE",P001133   ,Foul Drawn (4),RV,,,KIROLBET Baskonia Vitoria Gasteiz,0
+ULK       ,,4,07:35,33,445,"MELLI, NICOLO",P002849   ,Foul (4),CM,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,4,07:35,33,446,"MELLI, NICOLO",P002849   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,70,07:35,33,447,"DATOME, LUIGI",PCCD      ,In,IN,,,Fenerbahce Dogus Istanbul,0
+BAS       ,,23,07:35,33,448,"SHENGELIA, TORNIKE",P001133   ,Missed Free Throw (3/5 -  7 pt),FTA,,,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,23,07:35,33,449,"SHENGELIA, TORNIKE",P001133   ,Free Throw In (4/6 -  8 pt),FTM,67.0,77.0,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,6,07:35,33,450,"TIMMA, JANIS",P005718   ,In,IN,,,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,23,07:35,33,451,"SHENGELIA, TORNIKE",P001133   ,Out,OUT,,,KIROLBET Baskonia Vitoria Gasteiz,0
+ULK       ,,33,07:11,33,452,"KALINIC, NIKOLA",P004866   ,Two Pointer (5/6 -  13 pt),2FGM,67.0,79.0,Fenerbahce Dogus Istanbul,0
+ULK       ,,33,07:11,33,453,"KALINIC, NIKOLA",P004866   ,Foul Drawn (2),RV,,,Fenerbahce Dogus Istanbul,0
+BAS       ,,29,07:11,33,454,"GARINO, PATRICIO",P007994   ,Foul (1),CM,,,KIROLBET Baskonia Vitoria Gasteiz,0
+ULK       ,,33,07:11,33,455,"KALINIC, NIKOLA",P004866   ,Missed Free Throw (0/1 -  13 pt),FTA,,,Fenerbahce Dogus Istanbul,0
+BAS       ,,7,07:11,33,456,"VOIGTMANN, JOHANNES",P007201   ,Def Rebound (3),D,,,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,29,07:05,33,457,"GARINO, PATRICIO",P007994   ,Turnover (2),TO,,,KIROLBET Baskonia Vitoria Gasteiz,0
+ULK       ,,35,06:49,34,459,"MUHAMMED, ALI",P001324   ,Missed Three Pointer (1/5 -  3 pt),3FGA,,,Fenerbahce Dogus Istanbul,0
+BAS       ,,7,06:49,34,460,"VOIGTMANN, JOHANNES",P007201   ,Def Rebound (4),D,,,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,9,06:49,34,461,"HUERTAS, MARCELINHO",PJUJ      ,Two Pointer (5/6 -  11 pt),2FGM,69.0,79.0,KIROLBET Baskonia Vitoria Gasteiz,0
+ULK       ,,35,06:14,34,462,"MUHAMMED, ALI",P001324   ,Three Pointer (2/6 -  6 pt),3FGM,69.0,82.0,Fenerbahce Dogus Istanbul,0
+ULK       ,,16,06:12,34,463,"SLOUKAS, KOSTAS",P001926   ,Assist (7),AS,,,Fenerbahce Dogus Istanbul,0
+BAS       ,,7,05:57,35,465,"VOIGTMANN, JOHANNES",P007201   ,Missed Two Pointer (1/2 -  12 pt),2FGA,,,KIROLBET Baskonia Vitoria Gasteiz,0
+ULK       ,,70,05:55,35,466,"DATOME, LUIGI",PCCD      ,Def Rebound (3),D,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,35,05:38,35,467,"MUHAMMED, ALI",P001324   ,Missed Two Pointer (0/1 -  6 pt),2FGA,,,Fenerbahce Dogus Istanbul,0
+BAS       ,,10,05:36,35,468,"BEAUBOIS, RODRIGUE",P006590   ,Def Rebound (3),D,,,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,9,05:29,35,469,"HUERTAS, MARCELINHO",PJUJ      ,Missed Two Pointer (5/7 -  11 pt),2FGA,,,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,9,05:28,35,470,"HUERTAS, MARCELINHO",PJUJ      ,Shot Rejected (1),AG,,,KIROLBET Baskonia Vitoria Gasteiz,0
+ULK       ,,24,05:27,35,471,"VESELY, JAN",P000925   ,Block (1),FV,,,Fenerbahce Dogus Istanbul,0
+BAS       ,,7,05:24,35,472,"VOIGTMANN, JOHANNES",P007201   ,Off Rebound (2),O,,,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,9,05:22,35,473,"HUERTAS, MARCELINHO",PJUJ      ,Missed Three Pointer (0/1 -  11 pt),3FGA,,,KIROLBET Baskonia Vitoria Gasteiz,0
+ULK       ,,,05:18,35,474,,          ,Def Rebound (4),D,,,Fenerbahce Dogus Istanbul,0
+BAS       ,,7,05:18,35,475,"VOIGTMANN, JOHANNES",P007201   ,Out,OUT,,,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,17,05:18,35,476,"POIRIER, VINCENT",P004887   ,In,IN,,,KIROLBET Baskonia Vitoria Gasteiz,0
+ULK       ,,4,05:18,35,477,"MELLI, NICOLO",P002849   ,In,IN,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,24,05:18,35,478,"VESELY, JAN",P000925   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,4,04:57,36,480,"MELLI, NICOLO",P002849   ,Foul Drawn (5),RV,,,Fenerbahce Dogus Istanbul,0
+BAS       ,,17,04:57,36,481,"POIRIER, VINCENT",P004887   ,Foul (4),CM,,,KIROLBET Baskonia Vitoria Gasteiz,0
+          ,,,04:57,36,482,,          ,TV Time Out (3),TOUT_TV,,,,0
+BAS       ,,6,04:57,36,484,"TIMMA, JANIS",P005718   ,Out,OUT,,,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,23,04:57,36,485,"SHENGELIA, TORNIKE",P001133   ,In,IN,,,KIROLBET Baskonia Vitoria Gasteiz,0
+ULK       ,,23,04:57,36,486,"GUDURIC, MARKO",P004004   ,In,IN,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,35,04:57,36,487,"MUHAMMED, ALI",P001324   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,4,04:57,36,488,"MELLI, NICOLO",P002849   ,Free Throw In (7/7 -  20 pt),FTM,69.0,83.0,Fenerbahce Dogus Istanbul,0
+ULK       ,,4,04:57,36,489,"MELLI, NICOLO",P002849   ,Free Throw In (8/8 -  21 pt),FTM,69.0,84.0,Fenerbahce Dogus Istanbul,0
+ULK       ,,1,04:57,36,490,"THOMPSON, JASON",P007998   ,In,IN,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,4,04:57,36,491,"MELLI, NICOLO",P002849   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
+BAS       ,,17,04:39,36,492,"POIRIER, VINCENT",P004887   ,Missed Two Pointer (3/5 -  13 pt),2FGA,,,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,17,04:37,36,493,"POIRIER, VINCENT",P004887   ,Off Rebound (3),O,,,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,17,04:37,36,494,"POIRIER, VINCENT",P004887   ,Foul Drawn (5),RV,,,KIROLBET Baskonia Vitoria Gasteiz,0
+ULK       ,,33,04:37,36,495,"KALINIC, NIKOLA",P004866   ,Foul (2),CM,,,Fenerbahce Dogus Istanbul,0
+BAS       ,,17,04:37,36,496,"POIRIER, VINCENT",P004887   ,Missed Free Throw (7/8 -  13 pt),FTA,,,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,17,04:37,36,497,"POIRIER, VINCENT",P004887   ,Free Throw In (8/9 -  14 pt),FTM,70.0,84.0,KIROLBET Baskonia Vitoria Gasteiz,0
+ULK       ,,1,04:37,36,498,"THOMPSON, JASON",P007998   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,24,04:37,36,499,"VESELY, JAN",P000925   ,In,IN,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,23,04:20,36,500,"GUDURIC, MARKO",P004004   ,Two Pointer (3/4 -  20 pt),2FGM,70.0,86.0,Fenerbahce Dogus Istanbul,0
+ULK       ,,16,04:18,36,501,"SLOUKAS, KOSTAS",P001926   ,Assist (8),AS,,,Fenerbahce Dogus Istanbul,0
+BAS       ,,10,03:56,37,503,"BEAUBOIS, RODRIGUE",P006590   ,Two Pointer (3/5 -  13 pt),2FGM,72.0,86.0,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,17,03:56,37,565,"POIRIER, VINCENT",P004887   ,Assist (2),AS,,,KIROLBET Baskonia Vitoria Gasteiz,0
+ULK       ,,24,03:35,37,504,"VESELY, JAN",P000925   ,Foul Drawn (4),RV,,,Fenerbahce Dogus Istanbul,0
+BAS       ,,10,03:35,37,505,"BEAUBOIS, RODRIGUE",P006590   ,Foul (4),CM,,,KIROLBET Baskonia Vitoria Gasteiz,0
+ULK       ,,24,03:35,37,506,"VESELY, JAN",P000925   ,Free Throw In (2/2 -  4 pt),FTM,72.0,87.0,Fenerbahce Dogus Istanbul,0
+ULK       ,,70,03:35,37,507,"DATOME, LUIGI",PCCD      ,Assist (2),AS,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,24,03:35,37,508,"VESELY, JAN",P000925   ,Free Throw In (3/3 -  5 pt),FTM,72.0,88.0,Fenerbahce Dogus Istanbul,0
+ULK       ,,4,03:35,37,509,"MELLI, NICOLO",P002849   ,In,IN,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,70,03:35,37,510,"DATOME, LUIGI",PCCD      ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
+BAS       ,,9,03:26,37,511,"HUERTAS, MARCELINHO",PJUJ      ,Turnover (2),TO,,,KIROLBET Baskonia Vitoria Gasteiz,0
+ULK       ,,24,03:26,37,512,"VESELY, JAN",P000925   ,Steal (2),ST,,,Fenerbahce Dogus Istanbul,0
+BAS       ,,9,03:26,37,513,"HUERTAS, MARCELINHO",PJUJ      ,Out,OUT,,,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,15,03:26,37,514,"GRANGER, JAYSON",P003024   ,In,IN,,,KIROLBET Baskonia Vitoria Gasteiz,0
+ULK       ,,33,03:19,37,515,"KALINIC, NIKOLA",P004866   ,Missed Two Pointer (5/7 -  13 pt),2FGA,,,Fenerbahce Dogus Istanbul,0
+BAS       ,,,03:06,37,516,,          ,Def Rebound (5),D,,,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,15,02:44,38,518,"GRANGER, JAYSON",P003024   ,Three Pointer (1/2 -  5 pt),3FGM,75.0,88.0,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,17,02:42,38,519,"POIRIER, VINCENT",P004887   ,Assist (3),AS,,,KIROLBET Baskonia Vitoria Gasteiz,0
+ULK       ,,16,02:32,38,520,"SLOUKAS, KOSTAS",P001926   ,Missed Two Pointer (1/3 -  5 pt),2FGA,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,24,02:30,38,521,"VESELY, JAN",P000925   ,Off Rebound (3),O,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,24,02:30,38,522,"VESELY, JAN",P000925   ,Foul Drawn (5),RV,,,Fenerbahce Dogus Istanbul,0
+BAS       ,,17,02:30,38,523,"POIRIER, VINCENT",P004887   ,Foul (5),CM,,,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,7,02:30,38,524,"VOIGTMANN, JOHANNES",P007201   ,In,IN,,,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,17,02:30,38,525,"POIRIER, VINCENT",P004887   ,Out,OUT,,,KIROLBET Baskonia Vitoria Gasteiz,0
+ULK       ,,24,02:30,38,526,"VESELY, JAN",P000925   ,Free Throw In (4/4 -  6 pt),FTM,75.0,89.0,Fenerbahce Dogus Istanbul,0
+ULK       ,,24,02:30,38,527,"VESELY, JAN",P000925   ,Free Throw In (5/5 -  7 pt),FTM,75.0,90.0,Fenerbahce Dogus Istanbul,0
+BAS       ,,29,02:23,38,528,"GARINO, PATRICIO",P007994   ,Missed Two Pointer (1/3 -  8 pt),2FGA,,,KIROLBET Baskonia Vitoria Gasteiz,0
+ULK       ,,24,02:23,38,529,"VESELY, JAN",P000925   ,Def Rebound (1),D,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,23,02:06,38,530,"GUDURIC, MARKO",P004004   ,Missed Three Pointer (3/5 -  20 pt),3FGA,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,16,02:06,38,531,"SLOUKAS, KOSTAS",P001926   ,Off Rebound (1),O,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,16,01:35,39,533,"SLOUKAS, KOSTAS",P001926   ,Missed Two Pointer (1/4 -  5 pt),2FGA,,,Fenerbahce Dogus Istanbul,0
+BAS       ,,7,01:33,39,534,"VOIGTMANN, JOHANNES",P007201   ,Def Rebound (5),D,,,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,29,01:20,39,535,"GARINO, PATRICIO",P007994   ,Turnover (3),TO,,,KIROLBET Baskonia Vitoria Gasteiz,0
+ULK       ,,23,01:20,39,536,"GUDURIC, MARKO",P004004   ,Steal (2),ST,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,23,01:20,39,537,"GUDURIC, MARKO",P004004   ,Foul Drawn (6),RV,,,Fenerbahce Dogus Istanbul,0
+BAS       ,,10,01:20,39,538,"BEAUBOIS, RODRIGUE",P006590   ,Foul (5),CM,,,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,10,01:20,39,539,"BEAUBOIS, RODRIGUE",P006590   ,Out,OUT,,,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,11,01:20,39,540,"JANNING, MATT",P004165   ,In,IN,,,KIROLBET Baskonia Vitoria Gasteiz,0
+ULK       ,,23,01:20,39,541,"GUDURIC, MARKO",P004004   ,Free Throw In (6/7 -  21 pt),FTM,75.0,91.0,Fenerbahce Dogus Istanbul,0
+ULK       ,,23,01:20,39,542,"GUDURIC, MARKO",P004004   ,Free Throw In (7/8 -  22 pt),FTM,75.0,92.0,Fenerbahce Dogus Istanbul,0
+ULK       ,,10,01:20,39,543,"MAHMUTOGLU, MELIH",P002969   ,In,IN,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,23,01:20,39,544,"GUDURIC, MARKO",P004004   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
+BAS       ,,15,01:06,39,545,"GRANGER, JAYSON",P003024   ,Two Pointer (2/2 -  7 pt),2FGM,77.0,92.0,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,29,00:49,40,547,"GARINO, PATRICIO",P007994   ,Foul Drawn (3),RV,,,KIROLBET Baskonia Vitoria Gasteiz,0
+ULK       ,,33,00:49,40,548,"KALINIC, NIKOLA",P004866   ,Offensive Foul (3),OF,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,33,00:49,40,549,"KALINIC, NIKOLA",P004866   ,Turnover (2),TO,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,11,00:49,40,550,"WANAMAKER, BRAD",P005838   ,In,IN,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,33,00:49,40,551,"KALINIC, NIKOLA",P004866   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
+BAS       ,,23,00:43,40,552,"SHENGELIA, TORNIKE",P001133   ,Two Pointer (3/4 -  10 pt),2FGM,79.0,92.0,KIROLBET Baskonia Vitoria Gasteiz,0
+BAS       ,,23,00:43,40,553,"SHENGELIA, TORNIKE",P001133   ,Foul Drawn (5),RV,,,KIROLBET Baskonia Vitoria Gasteiz,0
+ULK       ,,24,00:43,40,554,"VESELY, JAN",P000925   ,Foul (4),CM,,,Fenerbahce Dogus Istanbul,0
+BAS       ,,23,00:43,40,555,"SHENGELIA, TORNIKE",P001133   ,Free Throw In (5/7 -  11 pt),FTM,80.0,92.0,KIROLBET Baskonia Vitoria Gasteiz,0
+ULK       ,,4,00:23,40,556,"MELLI, NICOLO",P002849   ,Missed Three Pointer (3/4 -  21 pt),3FGA,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,24,00:19,40,557,"VESELY, JAN",P000925   ,Off Rebound (4),O,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,11,00:11,40,558,"WANAMAKER, BRAD",P005838   ,Missed Two Pointer (2/4 -  4 pt),2FGA,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,24,00:10,40,559,"VESELY, JAN",P000925   ,Off Rebound (5),O,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,,00:07,40,560,,          ,Turnover (1),TO,,,Fenerbahce Dogus Istanbul,0
+BAS       ,,15,00:07,40,561,"GRANGER, JAYSON",P003024   ,Three Pointer (2/3 -  10 pt),3FGM,83.0,92.0,KIROLBET Baskonia Vitoria Gasteiz,0
+ULK       ,,10,00:01,40,562,"MAHMUTOGLU, MELIH",P002969   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Fenerbahce Dogus Istanbul,0
+          ,,,,41,566,,          ,End Game,EG,,,,0

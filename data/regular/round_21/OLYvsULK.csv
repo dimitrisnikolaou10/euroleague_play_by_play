@@ -1,0 +1,495 @@
+CODETEAM,COMMENT,DORSAL,MARKERTIME,MINUTE,NUMBEROFPLAY,PLAYER,PLAYER_ID,PLAYINFO,PLAYTYPE,POINTS_A,POINTS_B,TEAM,TYPE
+          ,,,,1,121,,          ,Begin Period,BP,,,,0
+OLY       ,,7,09:44,1,122,"SPANOULIS, VASSILIS",PJUO      ,Two Pointer (1/1 -  2 pt),2FGM,2.0,,Olympiacos Piraeus,0
+ULK       ,,16,09:31,1,123,"SLOUKAS, KOSTAS",P001926   ,Turnover (1),TO,,,Fenerbahce Dogus Istanbul,0
+OLY       ,,16,09:09,1,124,"PAPANIKOLAOU, KOSTAS",P001255   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Olympiacos Piraeus,0
+OLY       ,,11,09:08,1,125,"MILUTINOV, NIKOLA",P003941   ,Off Rebound (1),O,,,Olympiacos Piraeus,0
+OLY       ,,11,09:08,1,126,"MILUTINOV, NIKOLA",P003941   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Olympiacos Piraeus,0
+OLY       ,,16,09:08,1,127,"PAPANIKOLAOU, KOSTAS",P001255   ,Off Rebound (1),O,,,Olympiacos Piraeus,0
+ULK       ,,1,09:08,1,128,"THOMPSON, JASON",P007998   ,Foul (1),CM,,,Fenerbahce Dogus Istanbul,0
+OLY       ,,16,09:08,1,129,"PAPANIKOLAOU, KOSTAS",P001255   ,Foul Drawn (1),RV,,,Olympiacos Piraeus,0
+OLY       ,,16,09:08,1,130,"PAPANIKOLAOU, KOSTAS",P001255   ,Free Throw In (1/1 -  1 pt),FTM,3.0,,Olympiacos Piraeus,0
+OLY       ,,16,09:08,1,131,"PAPANIKOLAOU, KOSTAS",P001255   ,Free Throw In (2/2 -  2 pt),FTM,4.0,,Olympiacos Piraeus,0
+ULK       ,,1,08:51,2,133,"THOMPSON, JASON",P007998   ,Two Pointer (1/1 -  2 pt),2FGM,4.0,2.0,Fenerbahce Dogus Istanbul,0
+ULK       ,,70,08:28,2,134,"DATOME, LUIGI",PCCD      ,Foul (1),CM,,,Fenerbahce Dogus Istanbul,0
+OLY       ,,16,08:28,2,135,"PAPANIKOLAOU, KOSTAS",P001255   ,Foul Drawn (2),RV,,,Olympiacos Piraeus,0
+OLY       ,,16,08:28,2,136,"PAPANIKOLAOU, KOSTAS",P001255   ,Free Throw In (3/3 -  3 pt),FTM,5.0,2.0,Olympiacos Piraeus,0
+OLY       ,,7,08:28,2,137,"SPANOULIS, VASSILIS",PJUO      ,Assist (1),AS,,,Olympiacos Piraeus,0
+OLY       ,,16,08:28,2,138,"PAPANIKOLAOU, KOSTAS",P001255   ,Free Throw In (4/4 -  4 pt),FTM,6.0,2.0,Olympiacos Piraeus,0
+ULK       ,,11,08:16,2,139,"WANAMAKER, BRAD",P005838   ,Turnover (1),TO,,,Fenerbahce Dogus Istanbul,0
+OLY       ,,16,08:15,2,140,"PAPANIKOLAOU, KOSTAS",P001255   ,Steal (1),ST,,,Olympiacos Piraeus,0
+OLY       ,,16,08:11,2,141,"PAPANIKOLAOU, KOSTAS",P001255   ,Missed Two Pointer (0/2 -  4 pt),2FGA,,,Olympiacos Piraeus,0
+OLY       ,,16,08:11,2,142,"PAPANIKOLAOU, KOSTAS",P001255   ,Shot Rejected (1),AG,,,Olympiacos Piraeus,0
+ULK       ,,70,08:09,2,143,"DATOME, LUIGI",PCCD      ,Block (1),FV,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,1,08:08,2,144,"THOMPSON, JASON",P007998   ,Def Rebound (1),D,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,16,08:00,3,146,"SLOUKAS, KOSTAS",P001926   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Fenerbahce Dogus Istanbul,0
+OLY       ,,15,07:57,3,147,"PRINTEZIS, GEORGIOS",PAMM      ,Def Rebound (1),D,,,Olympiacos Piraeus,0
+OLY       ,,15,07:53,3,148,"PRINTEZIS, GEORGIOS",PAMM      ,Three Pointer (1/1 -  3 pt),3FGM,9.0,2.0,Olympiacos Piraeus,0
+OLY       ,,16,07:53,3,149,"PAPANIKOLAOU, KOSTAS",P001255   ,Assist (1),AS,,,Olympiacos Piraeus,0
+ULK       ,,70,07:31,3,150,"DATOME, LUIGI",PCCD      ,Two Pointer (1/1 -  2 pt),2FGM,9.0,4.0,Fenerbahce Dogus Istanbul,0
+OLY       ,,7,07:18,3,151,"SPANOULIS, VASSILIS",PJUO      ,Two Pointer (2/2 -  4 pt),2FGM,11.0,4.0,Olympiacos Piraeus,0
+ULK       ,,11,07:01,3,152,"WANAMAKER, BRAD",P005838   ,Three Pointer (1/1 -  3 pt),3FGM,11.0,7.0,Fenerbahce Dogus Istanbul,0
+ULK       ,,16,07:00,3,153,"SLOUKAS, KOSTAS",P001926   ,Assist (1),AS,,,Fenerbahce Dogus Istanbul,0
+OLY       ,,15,06:44,4,155,"PRINTEZIS, GEORGIOS",PAMM      ,Three Pointer (2/2 -  6 pt),3FGM,14.0,7.0,Olympiacos Piraeus,0
+OLY       ,,17,06:43,4,156,"MANTZARIS, VANGELIS",P003537   ,Assist (1),AS,,,Olympiacos Piraeus,0
+OLY       ,,7,06:27,4,157,"SPANOULIS, VASSILIS",PJUO      ,Foul (1),CM,,,Olympiacos Piraeus,0
+ULK       ,,1,06:27,4,158,"THOMPSON, JASON",P007998   ,Foul Drawn (1),RV,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,16,06:13,4,159,"SLOUKAS, KOSTAS",P001926   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Fenerbahce Dogus Istanbul,0
+OLY       ,,,06:13,4,160,,          ,Def Rebound (1),D,,,Olympiacos Piraeus,0
+OLY       ,,15,05:49,5,162,"PRINTEZIS, GEORGIOS",PAMM      ,Two Pointer (1/1 -  8 pt),2FGM,16.0,7.0,Olympiacos Piraeus,0
+ULK       ,,1,05:31,5,163,"THOMPSON, JASON",P007998   ,Two Pointer (2/2 -  4 pt),2FGM,16.0,9.0,Fenerbahce Dogus Istanbul,0
+ULK       ,,24,05:29,5,164,"VESELY, JAN",P000925   ,Assist (1),AS,,,Fenerbahce Dogus Istanbul,0
+OLY       ,,16,05:09,5,165,"PAPANIKOLAOU, KOSTAS",P001255   ,Two Pointer (1/3 -  6 pt),2FGM,18.0,9.0,Olympiacos Piraeus,0
+OLY       ,,11,05:07,5,166,"MILUTINOV, NIKOLA",P003941   ,Assist (1),AS,,,Olympiacos Piraeus,0
+OLY       ,,11,04:46,6,168,"MILUTINOV, NIKOLA",P003941   ,Foul (1),CM,,,Olympiacos Piraeus,0
+ULK       ,,1,04:46,6,169,"THOMPSON, JASON",P007998   ,Foul Drawn (2),RV,,,Fenerbahce Dogus Istanbul,0
+          ,,,04:46,6,170,,          ,TV Time Out (1),TOUT_TV,,,,0
+ULK       ,,1,04:46,6,171,"THOMPSON, JASON",P007998   ,Free Throw In (1/1 -  5 pt),FTM,18.0,10.0,Fenerbahce Dogus Istanbul,0
+ULK       ,,16,04:46,6,172,"SLOUKAS, KOSTAS",P001926   ,Assist (2),AS,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,1,04:46,6,173,"THOMPSON, JASON",P007998   ,Free Throw In (2/2 -  6 pt),FTM,18.0,11.0,Fenerbahce Dogus Istanbul,0
+ULK       ,,24,04:34,6,174,"VESELY, JAN",P000925   ,Foul (1),CM,,,Fenerbahce Dogus Istanbul,0
+OLY       ,,7,04:34,6,175,"SPANOULIS, VASSILIS",PJUO      ,Foul Drawn (1),RV,,,Olympiacos Piraeus,0
+OLY       ,,7,04:26,6,176,"SPANOULIS, VASSILIS",PJUO      ,Two Pointer (3/3 -  6 pt),2FGM,20.0,11.0,Olympiacos Piraeus,0
+ULK       ,,24,04:04,6,177,"VESELY, JAN",P000925   ,Two Pointer (1/1 -  2 pt),2FGM,20.0,13.0,Fenerbahce Dogus Istanbul,0
+ULK       ,,16,04:02,6,178,"SLOUKAS, KOSTAS",P001926   ,Assist (3),AS,,,Fenerbahce Dogus Istanbul,0
+OLY       ,,7,03:47,7,180,"SPANOULIS, VASSILIS",PJUO      ,Three Pointer (1/1 -  9 pt),3FGM,23.0,13.0,Olympiacos Piraeus,0
+ULK       ,,70,03:35,7,181,"DATOME, LUIGI",PCCD      ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,Fenerbahce Dogus Istanbul,0
+OLY       ,,15,03:33,7,182,"PRINTEZIS, GEORGIOS",PAMM      ,Def Rebound (2),D,,,Olympiacos Piraeus,0
+OLY       ,,17,03:20,7,183,"MANTZARIS, VANGELIS",P003537   ,Three Pointer (1/1 -  3 pt),3FGM,26.0,13.0,Olympiacos Piraeus,0
+OLY       ,,15,03:19,7,184,"PRINTEZIS, GEORGIOS",PAMM      ,Assist (1),AS,,,Olympiacos Piraeus,0
+ULK       ,,,03:19,7,185,,          ,Time Out (1),TOUT,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,1,03:19,7,186,"THOMPSON, JASON",P007998   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,4,03:19,7,187,"MELLI, NICOLO",P002849   ,In,IN,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,11,03:19,7,188,"WANAMAKER, BRAD",P005838   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,23,03:19,7,189,"GUDURIC, MARKO",P004004   ,In,IN,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,16,03:01,7,190,"SLOUKAS, KOSTAS",P001926   ,Turnover (2),TO,,,Fenerbahce Dogus Istanbul,0
+OLY       ,,16,03:00,8,192,"PAPANIKOLAOU, KOSTAS",P001255   ,Steal (2),ST,,,Olympiacos Piraeus,0
+OLY       ,,16,02:43,8,193,"PAPANIKOLAOU, KOSTAS",P001255   ,Two Pointer (2/4 -  8 pt),2FGM,28.0,13.0,Olympiacos Piraeus,0
+OLY       ,,17,02:42,8,194,"MANTZARIS, VANGELIS",P003537   ,Assist (2),AS,,,Olympiacos Piraeus,0
+ULK       ,,16,02:21,8,195,"SLOUKAS, KOSTAS",P001926   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Fenerbahce Dogus Istanbul,0
+OLY       ,,16,02:19,8,196,"PAPANIKOLAOU, KOSTAS",P001255   ,Def Rebound (1),D,,,Olympiacos Piraeus,0
+OLY       ,,15,02:09,8,197,"PRINTEZIS, GEORGIOS",PAMM      ,Missed Two Pointer (1/2 -  8 pt),2FGA,,,Olympiacos Piraeus,0
+ULK       ,,16,02:07,8,198,"SLOUKAS, KOSTAS",P001926   ,Def Rebound (1),D,,,Fenerbahce Dogus Istanbul,0
+OLY       ,,16,02:08,8,199,"PAPANIKOLAOU, KOSTAS",P001255   ,Foul (1),CM,,,Olympiacos Piraeus,0
+ULK       ,,16,02:08,8,200,"SLOUKAS, KOSTAS",P001926   ,Foul Drawn (1),RV,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,11,02:08,8,201,"WANAMAKER, BRAD",P005838   ,In,IN,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,16,02:08,8,202,"SLOUKAS, KOSTAS",P001926   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,23,01:56,9,204,"GUDURIC, MARKO",P004004   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Fenerbahce Dogus Istanbul,0
+OLY       ,,15,01:54,9,205,"PRINTEZIS, GEORGIOS",PAMM      ,Def Rebound (3),D,,,Olympiacos Piraeus,0
+OLY       ,,17,01:35,9,206,"MANTZARIS, VANGELIS",P003537   ,Missed Three Pointer (1/2 -  3 pt),3FGA,,,Olympiacos Piraeus,0
+OLY       ,,16,01:34,9,207,"PAPANIKOLAOU, KOSTAS",P001255   ,Off Rebound (2),O,,,Olympiacos Piraeus,0
+OLY       ,,7,01:27,9,208,"SPANOULIS, VASSILIS",PJUO      ,Three Pointer (2/2 -  12 pt),3FGM,31.0,13.0,Olympiacos Piraeus,0
+ULK       ,,23,01:22,9,209,"GUDURIC, MARKO",P004004   ,Two Pointer (1/2 -  2 pt),2FGM,31.0,15.0,Fenerbahce Dogus Istanbul,0
+ULK       ,,70,01:22,9,210,"DATOME, LUIGI",PCCD      ,Assist (1),AS,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,11,00:47,10,212,"WANAMAKER, BRAD",P005838   ,Foul (1),CM,,,Fenerbahce Dogus Istanbul,0
+OLY       ,,17,00:47,10,213,"MANTZARIS, VANGELIS",P003537   ,Foul Drawn (1),RV,,,Olympiacos Piraeus,0
+ULK       ,,33,00:47,10,214,"KALINIC, NIKOLA",P004866   ,In,IN,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,70,00:47,10,215,"DATOME, LUIGI",PCCD      ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
+OLY       ,,17,00:47,10,216,"MANTZARIS, VANGELIS",P003537   ,Missed Free Throw (0/1 -  3 pt),FTA,,,Olympiacos Piraeus,0
+OLY       ,,17,00:47,10,217,"MANTZARIS, VANGELIS",P003537   ,Free Throw In (1/2 -  4 pt),FTM,32.0,15.0,Olympiacos Piraeus,0
+OLY       ,,1,00:47,10,218,"MCLEAN, JAMEL",P004418   ,In,IN,,,Olympiacos Piraeus,0
+OLY       ,,11,00:47,10,219,"MILUTINOV, NIKOLA",P003941   ,Out,OUT,,,Olympiacos Piraeus,0
+ULK       ,,11,00:31,10,220,"WANAMAKER, BRAD",P005838   ,Missed Two Pointer (0/1 -  3 pt),2FGA,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,4,00:26,10,221,"MELLI, NICOLO",P002849   ,Off Rebound (1),O,,,Fenerbahce Dogus Istanbul,0
+OLY       ,,17,00:20,10,222,"MANTZARIS, VANGELIS",P003537   ,Foul (1),CM,,,Olympiacos Piraeus,0
+ULK       ,,11,00:20,10,223,"WANAMAKER, BRAD",P005838   ,Foul Drawn (1),RV,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,4,00:12,10,224,"MELLI, NICOLO",P002849   ,Turnover (1),TO,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,11,00:02,10,225,"WANAMAKER, BRAD",P005838   ,Foul (2),CM,,,Fenerbahce Dogus Istanbul,0
+OLY       ,,7,00:02,10,226,"SPANOULIS, VASSILIS",PJUO      ,Foul Drawn (2),RV,,,Olympiacos Piraeus,0
+OLY       ,,7,00:02,10,227,"SPANOULIS, VASSILIS",PJUO      ,Free Throw In (1/1 -  13 pt),FTM,33.0,15.0,Olympiacos Piraeus,0
+OLY       ,,7,00:02,10,228,"SPANOULIS, VASSILIS",PJUO      ,Free Throw In (2/2 -  14 pt),FTM,34.0,15.0,Olympiacos Piraeus,0
+OLY       ,,7,00:02,10,229,"SPANOULIS, VASSILIS",PJUO      ,Out,OUT,,,Olympiacos Piraeus,0
+OLY       ,,15,00:02,10,230,"PRINTEZIS, GEORGIOS",PAMM      ,Out,OUT,,,Olympiacos Piraeus,0
+OLY       ,,33,00:02,10,231,"WILTJER, KYLE",P008052   ,In,IN,,,Olympiacos Piraeus,0
+OLY       ,,34,00:02,10,232,"THOMPSON, HOLLIS",P008014   ,In,IN,,,Olympiacos Piraeus,0
+OLY       ,,16,00:01,10,233,"PAPANIKOLAOU, KOSTAS",P001255   ,Foul (2),CM,,,Olympiacos Piraeus,0
+ULK       ,,23,00:01,10,234,"GUDURIC, MARKO",P004004   ,Foul Drawn (1),RV,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,23,00:01,10,235,"GUDURIC, MARKO",P004004   ,Free Throw In (1/1 -  3 pt),FTM,34.0,16.0,Fenerbahce Dogus Istanbul,0
+ULK       ,,23,00:01,10,236,"GUDURIC, MARKO",P004004   ,Free Throw In (2/2 -  4 pt),FTM,34.0,17.0,Fenerbahce Dogus Istanbul,0
+ULK       ,,23,00:01,10,237,"GUDURIC, MARKO",P004004   ,Free Throw In (3/3 -  5 pt),FTM,34.0,18.0,Fenerbahce Dogus Istanbul,0
+          ,,,,11,239,,          ,End Period,EP,,,,0
+          ,,,,11,242,,          ,Begin Period,BP,,,,0
+OLY       ,,7,10:00,11,240,"SPANOULIS, VASSILIS",PJUO      ,In,IN,,,Olympiacos Piraeus,0
+OLY       ,,16,10:00,11,241,"PAPANIKOLAOU, KOSTAS",P001255   ,Out,OUT,,,Olympiacos Piraeus,0
+ULK       ,,24,09:42,11,243,"VESELY, JAN",P000925   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,,09:42,11,253,,          ,Off Rebound (1),O,,,Fenerbahce Dogus Istanbul,0
+OLY       ,,34,09:42,11,245,"THOMPSON, HOLLIS",P008014   ,Foul (1),CM,,,Olympiacos Piraeus,0
+ULK       ,,33,09:42,11,246,"KALINIC, NIKOLA",P004866   ,Foul Drawn (1),RV,,,Fenerbahce Dogus Istanbul,0
+OLY       ,,17,09:38,11,247,"MANTZARIS, VANGELIS",P003537   ,Foul (2),CM,,,Olympiacos Piraeus,0
+ULK       ,,11,09:38,11,248,"WANAMAKER, BRAD",P005838   ,Foul Drawn (2),RV,,,Fenerbahce Dogus Istanbul,0
+OLY       ,,17,09:38,11,249,"MANTZARIS, VANGELIS",P003537   ,Out,OUT,,,Olympiacos Piraeus,0
+OLY       ,,22,09:38,11,250,"ROBERTS, BRIAN",P002091   ,In,IN,,,Olympiacos Piraeus,0
+ULK       ,,33,09:34,11,251,"KALINIC, NIKOLA",P004866   ,Turnover (1),TO,,,Fenerbahce Dogus Istanbul,0
+OLY       ,,,09:09,11,252,,          ,Turnover (1),TO,,,Olympiacos Piraeus,0
+ULK       ,,23,08:54,12,255,"GUDURIC, MARKO",P004004   ,Offensive Foul (1),OF,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,23,08:54,12,256,"GUDURIC, MARKO",P004004   ,Turnover (1),TO,,,Fenerbahce Dogus Istanbul,0
+OLY       ,,22,08:54,12,257,"ROBERTS, BRIAN",P002091   ,Foul Drawn (1),RV,,,Olympiacos Piraeus,0
+ULK       ,,33,08:30,12,258,"KALINIC, NIKOLA",P004866   ,Foul (1),CM,,,Fenerbahce Dogus Istanbul,0
+OLY       ,,34,08:30,12,259,"THOMPSON, HOLLIS",P008014   ,Foul Drawn (1),RV,,,Olympiacos Piraeus,0
+OLY       ,,34,08:30,12,260,"THOMPSON, HOLLIS",P008014   ,Free Throw In (1/1 -  1 pt),FTM,35.0,18.0,Olympiacos Piraeus,0
+OLY       ,,1,08:30,12,261,"MCLEAN, JAMEL",P004418   ,Assist (1),AS,,,Olympiacos Piraeus,0
+OLY       ,,34,08:30,12,262,"THOMPSON, HOLLIS",P008014   ,Missed Free Throw (1/2 -  1 pt),FTA,,,Olympiacos Piraeus,0
+OLY       ,,34,08:30,12,263,"THOMPSON, HOLLIS",P008014   ,Missed Free Throw (1/3 -  1 pt),FTA,,,Olympiacos Piraeus,0
+ULK       ,,4,08:30,12,264,"MELLI, NICOLO",P002849   ,Def Rebound (1),D,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,11,08:11,12,265,"WANAMAKER, BRAD",P005838   ,Missed Three Pointer (1/2 -  3 pt),3FGA,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,24,08:09,12,266,"VESELY, JAN",P000925   ,Off Rebound (1),O,,,Fenerbahce Dogus Istanbul,0
+OLY       ,,34,08:06,12,267,"THOMPSON, HOLLIS",P008014   ,Foul (2),CM,,,Olympiacos Piraeus,0
+ULK       ,,24,08:06,12,268,"VESELY, JAN",P000925   ,Foul Drawn (1),RV,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,11,07:59,13,270,"WANAMAKER, BRAD",P005838   ,Missed Two Pointer (0/2 -  3 pt),2FGA,,,Fenerbahce Dogus Istanbul,0
+OLY       ,,22,07:57,13,271,"ROBERTS, BRIAN",P002091   ,Def Rebound (1),D,,,Olympiacos Piraeus,0
+OLY       ,,7,07:45,13,272,"SPANOULIS, VASSILIS",PJUO      ,Turnover (1),TO,,,Olympiacos Piraeus,0
+ULK       ,,23,07:43,13,273,"GUDURIC, MARKO",P004004   ,Steal (1),ST,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,11,07:37,13,274,"WANAMAKER, BRAD",P005838   ,Missed Two Pointer (0/3 -  3 pt),2FGA,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,11,07:37,13,275,"WANAMAKER, BRAD",P005838   ,Shot Rejected (1),AG,,,Fenerbahce Dogus Istanbul,0
+OLY       ,,1,07:35,13,276,"MCLEAN, JAMEL",P004418   ,Block (1),FV,,,Olympiacos Piraeus,0
+ULK       ,,23,07:34,13,277,"GUDURIC, MARKO",P004004   ,Off Rebound (1),O,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,33,07:28,13,278,"KALINIC, NIKOLA",P004866   ,Turnover (2),TO,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,11,07:28,13,279,"WANAMAKER, BRAD",P005838   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,35,07:28,13,280,"MUHAMMED, ALI",P001324   ,In,IN,,,Fenerbahce Dogus Istanbul,0
+OLY       ,,33,07:14,13,281,"WILTJER, KYLE",P008052   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Olympiacos Piraeus,0
+ULK       ,,33,07:12,13,282,"KALINIC, NIKOLA",P004866   ,Def Rebound (1),D,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,35,07:03,13,283,"MUHAMMED, ALI",P001324   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,33,07:01,13,284,"KALINIC, NIKOLA",P004866   ,Off Rebound (1),O,,,Fenerbahce Dogus Istanbul,0
+OLY       ,,22,06:54,14,286,"ROBERTS, BRIAN",P002091   ,Foul (1),CM,,,Olympiacos Piraeus,0
+ULK       ,,24,06:54,14,287,"VESELY, JAN",P000925   ,Foul Drawn (2),RV,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,23,06:46,14,288,"GUDURIC, MARKO",P004004   ,Three Pointer (1/1 -  8 pt),3FGM,35.0,21.0,Fenerbahce Dogus Istanbul,0
+ULK       ,,33,06:44,14,289,"KALINIC, NIKOLA",P004866   ,Assist (1),AS,,,Fenerbahce Dogus Istanbul,0
+OLY       ,,7,06:19,14,290,"SPANOULIS, VASSILIS",PJUO      ,Missed Two Pointer (3/4 -  14 pt),2FGA,,,Olympiacos Piraeus,0
+OLY       ,,7,06:19,14,291,"SPANOULIS, VASSILIS",PJUO      ,Shot Rejected (1),AG,,,Olympiacos Piraeus,0
+ULK       ,,33,06:18,14,292,"KALINIC, NIKOLA",P004866   ,Block (1),FV,,,Fenerbahce Dogus Istanbul,0
+OLY       ,,33,06:18,14,293,"WILTJER, KYLE",P008052   ,Off Rebound (1),O,,,Olympiacos Piraeus,0
+OLY       ,,,06:18,14,294,,          ,Turnover (2),TO,,,Olympiacos Piraeus,0
+OLY       ,,7,06:18,14,295,"SPANOULIS, VASSILIS",PJUO      ,Out,OUT,,,Olympiacos Piraeus,0
+OLY       ,,13,06:18,14,296,"STRELNIEKS, JANIS",P000046   ,In,IN,,,Olympiacos Piraeus,0
+ULK       ,,33,06:01,14,297,"KALINIC, NIKOLA",P004866   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Fenerbahce Dogus Istanbul,0
+OLY       ,,13,05:59,15,299,"STRELNIEKS, JANIS",P000046   ,Def Rebound (1),D,,,Olympiacos Piraeus,0
+ULK       ,,23,05:52,15,300,"GUDURIC, MARKO",P004004   ,Foul (2),CM,,,Fenerbahce Dogus Istanbul,0
+OLY       ,,1,05:52,15,301,"MCLEAN, JAMEL",P004418   ,Foul Drawn (1),RV,,,Olympiacos Piraeus,0
+OLY       ,,13,05:32,15,302,"STRELNIEKS, JANIS",P000046   ,Three Pointer (1/1 -  3 pt),3FGM,38.0,21.0,Olympiacos Piraeus,0
+OLY       ,,22,05:14,15,303,"ROBERTS, BRIAN",P002091   ,Foul (2),CM,,,Olympiacos Piraeus,0
+ULK       ,,35,05:14,15,304,"MUHAMMED, ALI",P001324   ,Foul Drawn (1),RV,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,23,05:14,15,305,"GUDURIC, MARKO",P004004   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,32,05:14,15,306,"GULER, SINAN",P000494   ,In,IN,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,35,05:14,15,307,"MUHAMMED, ALI",P001324   ,Free Throw In (1/1 -  1 pt),FTM,38.0,22.0,Fenerbahce Dogus Istanbul,0
+ULK       ,,35,05:14,15,308,"MUHAMMED, ALI",P001324   ,Free Throw In (2/2 -  2 pt),FTM,38.0,23.0,Fenerbahce Dogus Istanbul,0
+ULK       ,,24,05:14,15,309,"VESELY, JAN",P000925   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,44,05:14,15,310,"DUVERIOGLU, AHMET",P006399   ,In,IN,,,Fenerbahce Dogus Istanbul,0
+OLY       ,,,05:05,15,311,,          ,Turnover (3),TO,,,Olympiacos Piraeus,0
+ULK       ,,35,04:58,16,313,"MUHAMMED, ALI",P001324   ,Three Pointer (1/2 -  5 pt),3FGM,38.0,26.0,Fenerbahce Dogus Istanbul,0
+OLY       ,,,04:58,16,314,,          ,Time Out (1),TOUT,,,Olympiacos Piraeus,0
+OLY       ,,13,04:38,16,315,"STRELNIEKS, JANIS",P000046   ,Turnover (1),TO,,,Olympiacos Piraeus,0
+OLY       ,,15,04:38,16,316,"PRINTEZIS, GEORGIOS",PAMM      ,In,IN,,,Olympiacos Piraeus,0
+OLY       ,,33,04:38,16,317,"WILTJER, KYLE",P008052   ,Out,OUT,,,Olympiacos Piraeus,0
+ULK       ,,35,04:22,16,318,"MUHAMMED, ALI",P001324   ,Three Pointer (2/3 -  8 pt),3FGM,38.0,29.0,Fenerbahce Dogus Istanbul,0
+ULK       ,,32,04:20,16,319,"GULER, SINAN",P000494   ,Assist (1),AS,,,Fenerbahce Dogus Istanbul,0
+OLY       ,,22,04:00,16,320,"ROBERTS, BRIAN",P002091   ,Three Pointer (1/1 -  3 pt),3FGM,41.0,29.0,Olympiacos Piraeus,0
+OLY       ,,34,03:58,17,322,"THOMPSON, HOLLIS",P008014   ,Assist (1),AS,,,Olympiacos Piraeus,0
+ULK       ,,32,03:47,17,323,"GULER, SINAN",P000494   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,33,03:45,17,324,"KALINIC, NIKOLA",P004866   ,Off Rebound (2),O,,,Fenerbahce Dogus Istanbul,0
+OLY       ,,22,03:38,17,325,"ROBERTS, BRIAN",P002091   ,Foul (3),CM,,,Olympiacos Piraeus,0
+ULK       ,,35,03:38,17,326,"MUHAMMED, ALI",P001324   ,Foul Drawn (2),RV,,,Fenerbahce Dogus Istanbul,0
+OLY       ,,17,03:38,17,327,"MANTZARIS, VANGELIS",P003537   ,In,IN,,,Olympiacos Piraeus,0
+OLY       ,,22,03:38,17,328,"ROBERTS, BRIAN",P002091   ,Out,OUT,,,Olympiacos Piraeus,0
+ULK       ,,35,03:38,17,329,"MUHAMMED, ALI",P001324   ,Free Throw In (3/3 -  9 pt),FTM,41.0,30.0,Fenerbahce Dogus Istanbul,0
+ULK       ,,35,03:38,17,330,"MUHAMMED, ALI",P001324   ,Free Throw In (4/4 -  10 pt),FTM,41.0,31.0,Fenerbahce Dogus Istanbul,0
+OLY       ,,13,03:18,17,331,"STRELNIEKS, JANIS",P000046   ,Three Pointer (2/2 -  6 pt),3FGM,44.0,31.0,Olympiacos Piraeus,0
+OLY       ,,15,03:16,17,332,"PRINTEZIS, GEORGIOS",PAMM      ,Assist (2),AS,,,Olympiacos Piraeus,0
+ULK       ,,35,02:58,18,334,"MUHAMMED, ALI",P001324   ,Missed Three Pointer (2/4 -  10 pt),3FGA,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,32,02:56,18,335,"GULER, SINAN",P000494   ,Off Rebound (1),O,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,32,02:54,18,336,"GULER, SINAN",P000494   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Fenerbahce Dogus Istanbul,0
+OLY       ,,34,02:52,18,337,"THOMPSON, HOLLIS",P008014   ,Def Rebound (1),D,,,Olympiacos Piraeus,0
+OLY       ,,1,02:44,18,338,"MCLEAN, JAMEL",P004418   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Olympiacos Piraeus,0
+ULK       ,,44,02:43,18,339,"DUVERIOGLU, AHMET",P006399   ,Def Rebound (1),D,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,32,02:37,18,340,"GULER, SINAN",P000494   ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,44,02:34,18,341,"DUVERIOGLU, AHMET",P006399   ,Off Rebound (1),O,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,33,02:22,18,342,"KALINIC, NIKOLA",P004866   ,Turnover (3),TO,,,Fenerbahce Dogus Istanbul,0
+OLY       ,,17,02:20,18,343,"MANTZARIS, VANGELIS",P003537   ,Steal (1),ST,,,Olympiacos Piraeus,0
+ULK       ,,35,02:18,18,344,"MUHAMMED, ALI",P001324   ,Foul (1),CM,,,Fenerbahce Dogus Istanbul,0
+OLY       ,,15,02:18,18,345,"PRINTEZIS, GEORGIOS",PAMM      ,Foul Drawn (1),RV,,,Olympiacos Piraeus,0
+OLY       ,,1,02:18,18,346,"MCLEAN, JAMEL",P004418   ,Out,OUT,,,Olympiacos Piraeus,0
+OLY       ,,11,02:18,18,347,"MILUTINOV, NIKOLA",P003941   ,In,IN,,,Olympiacos Piraeus,0
+OLY       ,,17,02:07,18,348,"MANTZARIS, VANGELIS",P003537   ,Turnover (1),TO,,,Olympiacos Piraeus,0
+ULK       ,,44,02:05,18,349,"DUVERIOGLU, AHMET",P006399   ,Steal (1),ST,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,44,01:55,19,351,"DUVERIOGLU, AHMET",P006399   ,Two Pointer (1/1 -  2 pt),2FGM,44.0,33.0,Fenerbahce Dogus Istanbul,0
+OLY       ,,34,01:55,19,352,"THOMPSON, HOLLIS",P008014   ,Foul (3),CM,,,Olympiacos Piraeus,0
+ULK       ,,44,01:55,19,353,"DUVERIOGLU, AHMET",P006399   ,Foul Drawn (1),RV,,,Fenerbahce Dogus Istanbul,0
+OLY       ,,,01:55,19,354,,          ,Time Out (2),TOUT,,,Olympiacos Piraeus,0
+ULK       ,,44,01:55,19,355,"DUVERIOGLU, AHMET",P006399   ,Missed Free Throw (0/1 -  2 pt),FTA,,,Fenerbahce Dogus Istanbul,0
+OLY       ,,15,01:55,19,356,"PRINTEZIS, GEORGIOS",PAMM      ,Def Rebound (4),D,,,Olympiacos Piraeus,0
+OLY       ,,15,01:37,19,357,"PRINTEZIS, GEORGIOS",PAMM      ,Turnover (1),TO,,,Olympiacos Piraeus,0
+ULK       ,,35,01:35,19,358,"MUHAMMED, ALI",P001324   ,Steal (1),ST,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,35,01:22,19,359,"MUHAMMED, ALI",P001324   ,Three Pointer (3/5 -  13 pt),3FGM,44.0,36.0,Fenerbahce Dogus Istanbul,0
+OLY       ,,34,00:57,20,361,"THOMPSON, HOLLIS",P008014   ,Missed Two Pointer (0/1 -  1 pt),2FGA,,,Olympiacos Piraeus,0
+ULK       ,,44,00:55,20,362,"DUVERIOGLU, AHMET",P006399   ,Def Rebound (2),D,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,35,00:45,20,363,"MUHAMMED, ALI",P001324   ,Missed Three Pointer (3/6 -  13 pt),3FGA,,,Fenerbahce Dogus Istanbul,0
+OLY       ,,13,00:43,20,364,"STRELNIEKS, JANIS",P000046   ,Def Rebound (2),D,,,Olympiacos Piraeus,0
+ULK       ,,4,00:39,20,365,"MELLI, NICOLO",P002849   ,Foul (1),CM,,,Fenerbahce Dogus Istanbul,0
+OLY       ,,11,00:39,20,366,"MILUTINOV, NIKOLA",P003941   ,Foul Drawn (1),RV,,,Olympiacos Piraeus,0
+OLY       ,,7,00:39,20,367,"SPANOULIS, VASSILIS",PJUO      ,In,IN,,,Olympiacos Piraeus,0
+OLY       ,,17,00:39,20,368,"MANTZARIS, VANGELIS",P003537   ,Out,OUT,,,Olympiacos Piraeus,0
+ULK       ,,24,00:39,20,369,"VESELY, JAN",P000925   ,In,IN,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,44,00:39,20,370,"DUVERIOGLU, AHMET",P006399   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
+OLY       ,,11,00:39,20,371,"MILUTINOV, NIKOLA",P003941   ,Free Throw In (1/1 -  1 pt),FTM,45.0,36.0,Olympiacos Piraeus,0
+OLY       ,,11,00:39,20,372,"MILUTINOV, NIKOLA",P003941   ,Missed Free Throw (1/2 -  1 pt),FTA,,,Olympiacos Piraeus,0
+ULK       ,,24,00:39,20,373,"VESELY, JAN",P000925   ,Def Rebound (1),D,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,33,00:23,20,374,"KALINIC, NIKOLA",P004866   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,32,00:17,20,375,"GULER, SINAN",P000494   ,Off Rebound (2),O,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,35,00:03,20,376,"MUHAMMED, ALI",P001324   ,Missed Two Pointer (0/1 -  13 pt),2FGA,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,24,00:00,20,377,"VESELY, JAN",P000925   ,Off Rebound (2),O,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,24,00:00,20,378,"VESELY, JAN",P000925   ,Missed Two Pointer (1/3 -  2 pt),2FGA,,,Fenerbahce Dogus Istanbul,0
+OLY       ,,34,00:00,20,379,"THOMPSON, HOLLIS",P008014   ,Def Rebound (2),D,,,Olympiacos Piraeus,0
+          ,,,,21,381,,          ,End Period,EP,,,,0
+          ,,,,21,386,,          ,Begin Period,BP,,,,0
+OLY       ,,13,10:00,21,382,"STRELNIEKS, JANIS",P000046   ,Out,OUT,,,Olympiacos Piraeus,0
+OLY       ,,16,10:00,21,383,"PAPANIKOLAOU, KOSTAS",P001255   ,In,IN,,,Olympiacos Piraeus,0
+OLY       ,,17,10:00,21,384,"MANTZARIS, VANGELIS",P003537   ,In,IN,,,Olympiacos Piraeus,0
+OLY       ,,34,10:00,21,385,"THOMPSON, HOLLIS",P008014   ,Out,OUT,,,Olympiacos Piraeus,0
+ULK       ,,33,09:47,21,387,"KALINIC, NIKOLA",P004866   ,Foul (2),CM,,,Fenerbahce Dogus Istanbul,0
+OLY       ,,11,09:47,21,388,"MILUTINOV, NIKOLA",P003941   ,Foul Drawn (2),RV,,,Olympiacos Piraeus,0
+OLY       ,,11,09:47,21,389,"MILUTINOV, NIKOLA",P003941   ,Free Throw In (2/3 -  2 pt),FTM,46.0,36.0,Olympiacos Piraeus,0
+OLY       ,,15,09:47,21,390,"PRINTEZIS, GEORGIOS",PAMM      ,Assist (3),AS,,,Olympiacos Piraeus,0
+OLY       ,,11,09:47,21,391,"MILUTINOV, NIKOLA",P003941   ,Free Throw In (3/4 -  3 pt),FTM,47.0,36.0,Olympiacos Piraeus,0
+ULK       ,,35,09:32,21,392,"MUHAMMED, ALI",P001324   ,Two Pointer (1/2 -  15 pt),2FGM,47.0,38.0,Fenerbahce Dogus Istanbul,0
+OLY       ,,15,09:10,21,393,"PRINTEZIS, GEORGIOS",PAMM      ,Missed Two Pointer (1/3 -  8 pt),2FGA,,,Olympiacos Piraeus,0
+ULK       ,,35,09:08,21,394,"MUHAMMED, ALI",P001324   ,Def Rebound (1),D,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,33,08:50,22,396,"KALINIC, NIKOLA",P004866   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Fenerbahce Dogus Istanbul,0
+OLY       ,,15,08:47,22,397,"PRINTEZIS, GEORGIOS",PAMM      ,Def Rebound (5),D,,,Olympiacos Piraeus,0
+ULK       ,,35,08:46,22,398,"MUHAMMED, ALI",P001324   ,Foul (2),CM,,,Fenerbahce Dogus Istanbul,0
+OLY       ,,7,08:46,22,399,"SPANOULIS, VASSILIS",PJUO      ,Foul Drawn (3),RV,,,Olympiacos Piraeus,0
+OLY       ,,7,08:38,22,400,"SPANOULIS, VASSILIS",PJUO      ,Missed Two Pointer (3/5 -  14 pt),2FGA,,,Olympiacos Piraeus,0
+ULK       ,,24,08:36,22,401,"VESELY, JAN",P000925   ,Def Rebound (2),D,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,35,08:32,22,402,"MUHAMMED, ALI",P001324   ,Turnover (1),TO,,,Fenerbahce Dogus Istanbul,0
+OLY       ,,7,08:32,22,403,"SPANOULIS, VASSILIS",PJUO      ,Steal (1),ST,,,Olympiacos Piraeus,0
+ULK       ,,35,08:32,22,404,"MUHAMMED, ALI",P001324   ,Foul (3),CM,,,Fenerbahce Dogus Istanbul,0
+OLY       ,,7,08:32,22,405,"SPANOULIS, VASSILIS",PJUO      ,Foul Drawn (4),RV,,,Olympiacos Piraeus,0
+ULK       ,,33,08:19,22,406,"KALINIC, NIKOLA",P004866   ,Foul (3),CM,,,Fenerbahce Dogus Istanbul,0
+OLY       ,,7,08:19,22,407,"SPANOULIS, VASSILIS",PJUO      ,Foul Drawn (5),RV,,,Olympiacos Piraeus,0
+OLY       ,,7,08:19,22,408,"SPANOULIS, VASSILIS",PJUO      ,Free Throw In (3/3 -  15 pt),FTM,48.0,38.0,Olympiacos Piraeus,0
+OLY       ,,7,08:19,22,409,"SPANOULIS, VASSILIS",PJUO      ,Free Throw In (4/4 -  16 pt),FTM,49.0,38.0,Olympiacos Piraeus,0
+ULK       ,,33,08:19,22,410,"KALINIC, NIKOLA",P004866   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,70,08:19,22,411,"DATOME, LUIGI",PCCD      ,In,IN,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,35,08:03,22,412,"MUHAMMED, ALI",P001324   ,Missed Two Pointer (1/3 -  15 pt),2FGA,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,70,08:01,22,413,"DATOME, LUIGI",PCCD      ,Off Rebound (1),O,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,35,07:47,23,415,"MUHAMMED, ALI",P001324   ,Missed Three Pointer (3/7 -  15 pt),3FGA,,,Fenerbahce Dogus Istanbul,0
+OLY       ,,17,07:45,23,416,"MANTZARIS, VANGELIS",P003537   ,Def Rebound (1),D,,,Olympiacos Piraeus,0
+OLY       ,,15,07:37,23,417,"PRINTEZIS, GEORGIOS",PAMM      ,Two Pointer (2/4 -  10 pt),2FGM,51.0,38.0,Olympiacos Piraeus,0
+OLY       ,,7,07:35,23,418,"SPANOULIS, VASSILIS",PJUO      ,Assist (2),AS,,,Olympiacos Piraeus,0
+ULK       ,,24,07:16,23,419,"VESELY, JAN",P000925   ,Two Pointer (2/4 -  4 pt),2FGM,51.0,40.0,Fenerbahce Dogus Istanbul,0
+ULK       ,,32,07:14,23,420,"GULER, SINAN",P000494   ,Assist (2),AS,,,Fenerbahce Dogus Istanbul,0
+OLY       ,,17,07:00,24,422,"MANTZARIS, VANGELIS",P003537   ,Two Pointer (1/1 -  6 pt),2FGM,53.0,40.0,Olympiacos Piraeus,0
+ULK       ,,4,06:41,24,423,"MELLI, NICOLO",P002849   ,Offensive Foul (2),OF,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,4,06:41,24,424,"MELLI, NICOLO",P002849   ,Turnover (2),TO,,,Fenerbahce Dogus Istanbul,0
+OLY       ,,7,06:41,24,425,"SPANOULIS, VASSILIS",PJUO      ,Foul Drawn (6),RV,,,Olympiacos Piraeus,0
+ULK       ,,1,06:41,24,426,"THOMPSON, JASON",P007998   ,In,IN,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,24,06:41,24,427,"VESELY, JAN",P000925   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,4,06:41,24,428,"MELLI, NICOLO",P002849   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,24,06:41,24,429,"VESELY, JAN",P000925   ,In,IN,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,24,06:37,24,430,"VESELY, JAN",P000925   ,Foul (2),CM,,,Fenerbahce Dogus Istanbul,0
+OLY       ,,16,06:37,24,431,"PAPANIKOLAOU, KOSTAS",P001255   ,Foul Drawn (3),RV,,,Olympiacos Piraeus,0
+OLY       ,,16,06:37,24,432,"PAPANIKOLAOU, KOSTAS",P001255   ,Missed Free Throw (4/5 -  8 pt),FTA,,,Olympiacos Piraeus,0
+OLY       ,,16,06:37,24,433,"PAPANIKOLAOU, KOSTAS",P001255   ,Free Throw In (5/6 -  9 pt),FTM,54.0,40.0,Olympiacos Piraeus,0
+ULK       ,,35,06:24,24,434,"MUHAMMED, ALI",P001324   ,Three Pointer (4/8 -  18 pt),3FGM,54.0,43.0,Fenerbahce Dogus Istanbul,0
+ULK       ,,70,06:22,24,435,"DATOME, LUIGI",PCCD      ,Assist (2),AS,,,Fenerbahce Dogus Istanbul,0
+OLY       ,,11,06:04,24,436,"MILUTINOV, NIKOLA",P003941   ,Missed Two Pointer (0/2 -  3 pt),2FGA,,,Olympiacos Piraeus,0
+OLY       ,,11,06:04,24,437,"MILUTINOV, NIKOLA",P003941   ,Shot Rejected (1),AG,,,Olympiacos Piraeus,0
+ULK       ,,1,06:04,24,438,"THOMPSON, JASON",P007998   ,Block (1),FV,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,24,06:04,24,439,"VESELY, JAN",P000925   ,Def Rebound (3),D,,,Fenerbahce Dogus Istanbul,0
+OLY       ,,17,05:58,25,441,"MANTZARIS, VANGELIS",P003537   ,Foul (3),CM,,,Olympiacos Piraeus,0
+ULK       ,,70,05:58,25,442,"DATOME, LUIGI",PCCD      ,Foul Drawn (1),RV,,,Fenerbahce Dogus Istanbul,0
+OLY       ,,13,05:57,25,443,"STRELNIEKS, JANIS",P000046   ,In,IN,,,Olympiacos Piraeus,0
+OLY       ,,17,05:57,25,444,"MANTZARIS, VANGELIS",P003537   ,Out,OUT,,,Olympiacos Piraeus,0
+ULK       ,,23,05:57,25,445,"GUDURIC, MARKO",P004004   ,In,IN,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,70,05:57,25,446,"DATOME, LUIGI",PCCD      ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,32,05:40,25,447,"GULER, SINAN",P000494   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Fenerbahce Dogus Istanbul,0
+OLY       ,,13,05:38,25,448,"STRELNIEKS, JANIS",P000046   ,Def Rebound (3),D,,,Olympiacos Piraeus,0
+OLY       ,,7,05:33,25,449,"SPANOULIS, VASSILIS",PJUO      ,Three Pointer (3/3 -  19 pt),3FGM,57.0,43.0,Olympiacos Piraeus,0
+ULK       ,,23,05:15,25,450,"GUDURIC, MARKO",P004004   ,Missed Two Pointer (1/3 -  8 pt),2FGA,,,Fenerbahce Dogus Istanbul,0
+OLY       ,,,05:15,25,451,,          ,Def Rebound (2),D,,,Olympiacos Piraeus,0
+ULK       ,,10,05:15,25,452,"MAHMUTOGLU, MELIH",P002969   ,In,IN,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,11,05:15,25,453,"WANAMAKER, BRAD",P005838   ,In,IN,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,23,05:15,25,454,"GUDURIC, MARKO",P004004   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,32,05:15,25,455,"GULER, SINAN",P000494   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
+OLY       ,,13,05:00,25,456,"STRELNIEKS, JANIS",P000046   ,Missed Two Pointer (0/1 -  6 pt),2FGA,,,Olympiacos Piraeus,0
+OLY       ,,13,05:00,25,457,"STRELNIEKS, JANIS",P000046   ,Shot Rejected (1),AG,,,Olympiacos Piraeus,0
+ULK       ,,1,04:59,26,459,"THOMPSON, JASON",P007998   ,Block (2),FV,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,1,04:57,26,460,"THOMPSON, JASON",P007998   ,Def Rebound (2),D,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,11,04:55,26,461,"WANAMAKER, BRAD",P005838   ,Turnover (2),TO,,,Fenerbahce Dogus Istanbul,0
+          ,,,04:56,26,462,,          ,TV Time Out (2),TOUT_TV,,,,0
+OLY       ,,11,04:43,26,463,"MILUTINOV, NIKOLA",P003941   ,Offensive Foul (2),OF,,,Olympiacos Piraeus,0
+OLY       ,,11,04:43,26,464,"MILUTINOV, NIKOLA",P003941   ,Turnover (1),TO,,,Olympiacos Piraeus,0
+ULK       ,,35,04:43,26,465,"MUHAMMED, ALI",P001324   ,Foul Drawn (3),RV,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,35,04:28,26,466,"MUHAMMED, ALI",P001324   ,Three Pointer (5/9 -  21 pt),3FGM,57.0,46.0,Fenerbahce Dogus Istanbul,0
+ULK       ,,11,04:26,26,467,"WANAMAKER, BRAD",P005838   ,Assist (1),AS,,,Fenerbahce Dogus Istanbul,0
+OLY       ,,13,04:18,26,468,"STRELNIEKS, JANIS",P000046   ,Three Pointer (3/3 -  9 pt),3FGM,60.0,46.0,Olympiacos Piraeus,0
+ULK       ,,11,03:39,27,470,"WANAMAKER, BRAD",P005838   ,Two Pointer (1/4 -  5 pt),2FGM,60.0,48.0,Fenerbahce Dogus Istanbul,0
+OLY       ,,15,03:20,27,471,"PRINTEZIS, GEORGIOS",PAMM      ,Two Pointer (3/5 -  12 pt),2FGM,62.0,48.0,Olympiacos Piraeus,0
+OLY       ,,13,03:11,27,472,"STRELNIEKS, JANIS",P000046   ,Foul (1),CM,,,Olympiacos Piraeus,0
+ULK       ,,11,03:11,27,473,"WANAMAKER, BRAD",P005838   ,Foul Drawn (3),RV,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,10,03:10,27,474,"MAHMUTOGLU, MELIH",P002969   ,Turnover (1),TO,,,Fenerbahce Dogus Istanbul,0
+OLY       ,,13,03:10,27,475,"STRELNIEKS, JANIS",P000046   ,Steal (1),ST,,,Olympiacos Piraeus,0
+OLY       ,,13,03:10,27,476,"STRELNIEKS, JANIS",P000046   ,Two Pointer (1/2 -  11 pt),2FGM,64.0,48.0,Olympiacos Piraeus,0
+ULK       ,,,03:08,27,477,,          ,Time Out (1),TOUT,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,10,03:08,27,478,"MAHMUTOGLU, MELIH",P002969   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,70,03:08,27,479,"DATOME, LUIGI",PCCD      ,In,IN,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,1,02:50,28,481,"THOMPSON, JASON",P007998   ,Missed Two Pointer (2/3 -  6 pt),2FGA,,,Fenerbahce Dogus Istanbul,0
+OLY       ,,13,02:48,28,482,"STRELNIEKS, JANIS",P000046   ,Def Rebound (4),D,,,Olympiacos Piraeus,0
+OLY       ,,15,02:42,28,483,"PRINTEZIS, GEORGIOS",PAMM      ,Missed Two Pointer (3/6 -  12 pt),2FGA,,,Olympiacos Piraeus,0
+OLY       ,,,02:42,28,520,,          ,Off Rebound (2),O,,,Olympiacos Piraeus,0
+ULK       ,,1,02:42,28,485,"THOMPSON, JASON",P007998   ,Foul (2),CM,,,Fenerbahce Dogus Istanbul,0
+OLY       ,,11,02:42,28,486,"MILUTINOV, NIKOLA",P003941   ,Foul Drawn (3),RV,,,Olympiacos Piraeus,0
+ULK       ,,1,02:42,28,487,"THOMPSON, JASON",P007998   ,Technical Foul (3),CMT,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,1,02:42,28,488,"THOMPSON, JASON",P007998   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,44,02:42,28,489,"DUVERIOGLU, AHMET",P006399   ,In,IN,,,Fenerbahce Dogus Istanbul,0
+OLY       ,,11,02:42,28,490,"MILUTINOV, NIKOLA",P003941   ,Missed Free Throw (3/5 -  3 pt),FTA,,,Olympiacos Piraeus,0
+OLY       ,,11,02:42,28,491,"MILUTINOV, NIKOLA",P003941   ,Missed Free Throw (3/6 -  3 pt),FTA,,,Olympiacos Piraeus,0
+OLY       ,,13,02:42,28,492,"STRELNIEKS, JANIS",P000046   ,Free Throw In (1/1 -  12 pt),FTM,65.0,48.0,Olympiacos Piraeus,0
+OLY       ,,13,02:30,28,493,"STRELNIEKS, JANIS",P000046   ,Two Pointer (2/3 -  14 pt),2FGM,67.0,48.0,Olympiacos Piraeus,0
+ULK       ,,70,02:08,28,494,"DATOME, LUIGI",PCCD      ,Two Pointer (2/2 -  4 pt),2FGM,67.0,50.0,Fenerbahce Dogus Istanbul,0
+ULK       ,,44,01:51,29,496,"DUVERIOGLU, AHMET",P006399   ,Foul (1),CM,,,Fenerbahce Dogus Istanbul,0
+OLY       ,,11,01:51,29,497,"MILUTINOV, NIKOLA",P003941   ,Foul Drawn (4),RV,,,Olympiacos Piraeus,0
+OLY       ,,11,01:51,29,498,"MILUTINOV, NIKOLA",P003941   ,Free Throw In (4/7 -  4 pt),FTM,68.0,50.0,Olympiacos Piraeus,0
+OLY       ,,7,01:51,29,499,"SPANOULIS, VASSILIS",PJUO      ,Assist (3),AS,,,Olympiacos Piraeus,0
+OLY       ,,11,01:51,29,500,"MILUTINOV, NIKOLA",P003941   ,Free Throw In (5/8 -  5 pt),FTM,69.0,50.0,Olympiacos Piraeus,0
+OLY       ,,1,01:51,29,501,"MCLEAN, JAMEL",P004418   ,In,IN,,,Olympiacos Piraeus,0
+OLY       ,,11,01:51,29,502,"MILUTINOV, NIKOLA",P003941   ,Out,OUT,,,Olympiacos Piraeus,0
+ULK       ,,44,01:27,29,503,"DUVERIOGLU, AHMET",P006399   ,Two Pointer (2/2 -  4 pt),2FGM,69.0,52.0,Fenerbahce Dogus Istanbul,0
+ULK       ,,35,01:25,29,504,"MUHAMMED, ALI",P001324   ,Assist (1),AS,,,Fenerbahce Dogus Istanbul,0
+OLY       ,,7,01:02,29,505,"SPANOULIS, VASSILIS",PJUO      ,Missed Two Pointer (3/6 -  19 pt),2FGA,,,Olympiacos Piraeus,0
+OLY       ,,1,01:00,29,506,"MCLEAN, JAMEL",P004418   ,Off Rebound (1),O,,,Olympiacos Piraeus,0
+OLY       ,,1,01:00,29,507,"MCLEAN, JAMEL",P004418   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Olympiacos Piraeus,0
+OLY       ,,15,00:57,30,509,"PRINTEZIS, GEORGIOS",PAMM      ,Off Rebound (1),O,,,Olympiacos Piraeus,0
+OLY       ,,13,00:47,30,510,"STRELNIEKS, JANIS",P000046   ,Missed Two Pointer (2/4 -  14 pt),2FGA,,,Olympiacos Piraeus,0
+ULK       ,,35,00:45,30,511,"MUHAMMED, ALI",P001324   ,Def Rebound (2),D,,,Fenerbahce Dogus Istanbul,0
+OLY       ,,7,00:44,30,512,"SPANOULIS, VASSILIS",PJUO      ,Foul (2),CM,,,Olympiacos Piraeus,0
+ULK       ,,35,00:44,30,513,"MUHAMMED, ALI",P001324   ,Foul Drawn (4),RV,,,Fenerbahce Dogus Istanbul,0
+OLY       ,,7,00:44,30,514,"SPANOULIS, VASSILIS",PJUO      ,Out,OUT,,,Olympiacos Piraeus,0
+OLY       ,,22,00:44,30,515,"ROBERTS, BRIAN",P002091   ,In,IN,,,Olympiacos Piraeus,0
+ULK       ,,24,00:23,30,516,"VESELY, JAN",P000925   ,Two Pointer (3/5 -  6 pt),2FGM,69.0,54.0,Fenerbahce Dogus Istanbul,0
+OLY       ,,22,00:00,30,517,"ROBERTS, BRIAN",P002091   ,Two Pointer (1/1 -  5 pt),2FGM,71.0,54.0,Olympiacos Piraeus,0
+          ,,,,31,519,,          ,End Period,EP,,,,0
+          ,,,,31,521,,          ,Begin Period,BP,,,,0
+ULK       ,,70,09:49,31,522,"DATOME, LUIGI",PCCD      ,Missed Two Pointer (2/3 -  4 pt),2FGA,,,Fenerbahce Dogus Istanbul,0
+OLY       ,,1,09:46,31,523,"MCLEAN, JAMEL",P004418   ,Def Rebound (1),D,,,Olympiacos Piraeus,0
+ULK       ,,70,09:35,31,524,"DATOME, LUIGI",PCCD      ,Foul (2),CM,,,Fenerbahce Dogus Istanbul,0
+OLY       ,,1,09:35,31,525,"MCLEAN, JAMEL",P004418   ,Foul Drawn (2),RV,,,Olympiacos Piraeus,0
+OLY       ,,1,09:35,31,526,"MCLEAN, JAMEL",P004418   ,Free Throw In (1/1 -  1 pt),FTM,72.0,54.0,Olympiacos Piraeus,0
+OLY       ,,13,09:35,31,527,"STRELNIEKS, JANIS",P000046   ,Assist (1),AS,,,Olympiacos Piraeus,0
+OLY       ,,1,09:35,31,528,"MCLEAN, JAMEL",P004418   ,Free Throw In (2/2 -  2 pt),FTM,73.0,54.0,Olympiacos Piraeus,0
+ULK       ,,24,09:15,31,529,"VESELY, JAN",P000925   ,Two Pointer (4/6 -  8 pt),2FGM,73.0,56.0,Fenerbahce Dogus Istanbul,0
+ULK       ,,44,08:54,32,531,"DUVERIOGLU, AHMET",P006399   ,Foul (2),CM,,,Fenerbahce Dogus Istanbul,0
+OLY       ,,1,08:54,32,532,"MCLEAN, JAMEL",P004418   ,Foul Drawn (3),RV,,,Olympiacos Piraeus,0
+OLY       ,,1,08:54,32,533,"MCLEAN, JAMEL",P004418   ,Missed Free Throw (2/3 -  2 pt),FTA,,,Olympiacos Piraeus,0
+OLY       ,,1,08:54,32,534,"MCLEAN, JAMEL",P004418   ,Free Throw In (3/4 -  3 pt),FTM,74.0,56.0,Olympiacos Piraeus,0
+ULK       ,,24,08:36,32,535,"VESELY, JAN",P000925   ,Missed Two Pointer (4/7 -  8 pt),2FGA,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,35,08:35,32,536,"MUHAMMED, ALI",P001324   ,Off Rebound (1),O,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,11,08:30,32,537,"WANAMAKER, BRAD",P005838   ,Missed Three Pointer (1/3 -  5 pt),3FGA,,,Fenerbahce Dogus Istanbul,0
+OLY       ,,,08:30,32,538,,          ,Def Rebound (3),D,,,Olympiacos Piraeus,0
+ULK       ,,35,08:30,32,539,"MUHAMMED, ALI",P001324   ,Foul (4),CM,,,Fenerbahce Dogus Istanbul,0
+OLY       ,,22,08:30,32,540,"ROBERTS, BRIAN",P002091   ,Foul Drawn (2),RV,,,Olympiacos Piraeus,0
+OLY       ,,22,08:04,32,541,"ROBERTS, BRIAN",P002091   ,Missed Two Pointer (1/2 -  5 pt),2FGA,,,Olympiacos Piraeus,0
+OLY       ,,1,08:02,32,542,"MCLEAN, JAMEL",P004418   ,Off Rebound (2),O,,,Olympiacos Piraeus,0
+OLY       ,,22,07:57,33,544,"ROBERTS, BRIAN",P002091   ,Missed Two Pointer (1/3 -  5 pt),2FGA,,,Olympiacos Piraeus,0
+OLY       ,,22,07:57,33,545,"ROBERTS, BRIAN",P002091   ,Shot Rejected (1),AG,,,Olympiacos Piraeus,0
+ULK       ,,70,07:55,33,546,"DATOME, LUIGI",PCCD      ,Block (2),FV,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,70,07:54,33,547,"DATOME, LUIGI",PCCD      ,Def Rebound (1),D,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,70,07:50,33,548,"DATOME, LUIGI",PCCD      ,Turnover (1),TO,,,Fenerbahce Dogus Istanbul,0
+OLY       ,,16,07:49,33,549,"PAPANIKOLAOU, KOSTAS",P001255   ,Steal (3),ST,,,Olympiacos Piraeus,0
+ULK       ,,70,07:49,33,550,"DATOME, LUIGI",PCCD      ,Foul (3),CM,,,Fenerbahce Dogus Istanbul,0
+OLY       ,,16,07:49,33,551,"PAPANIKOLAOU, KOSTAS",P001255   ,Foul Drawn (4),RV,,,Olympiacos Piraeus,0
+OLY       ,,1,07:33,33,552,"MCLEAN, JAMEL",P004418   ,Two Pointer (1/3 -  5 pt),2FGM,76.0,56.0,Olympiacos Piraeus,0
+OLY       ,,13,07:30,33,553,"STRELNIEKS, JANIS",P000046   ,Assist (2),AS,,,Olympiacos Piraeus,0
+ULK       ,,35,07:15,33,554,"MUHAMMED, ALI",P001324   ,Three Pointer (6/10 -  24 pt),3FGM,76.0,59.0,Fenerbahce Dogus Istanbul,0
+ULK       ,,24,07:13,33,555,"VESELY, JAN",P000925   ,Assist (2),AS,,,Fenerbahce Dogus Istanbul,0
+OLY       ,,13,06:53,34,557,"STRELNIEKS, JANIS",P000046   ,Turnover (2),TO,,,Olympiacos Piraeus,0
+ULK       ,,70,06:52,34,558,"DATOME, LUIGI",PCCD      ,Steal (1),ST,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,35,06:49,34,559,"MUHAMMED, ALI",P001324   ,Turnover (2),TO,,,Fenerbahce Dogus Istanbul,0
+OLY       ,,22,06:48,34,560,"ROBERTS, BRIAN",P002091   ,Steal (1),ST,,,Olympiacos Piraeus,0
+OLY       ,,22,06:45,34,561,"ROBERTS, BRIAN",P002091   ,Two Pointer (2/4 -  7 pt),2FGM,78.0,59.0,Olympiacos Piraeus,0
+ULK       ,,35,06:17,34,562,"MUHAMMED, ALI",P001324   ,Missed Three Pointer (6/11 -  24 pt),3FGA,,,Fenerbahce Dogus Istanbul,0
+OLY       ,,15,06:13,34,563,"PRINTEZIS, GEORGIOS",PAMM      ,Def Rebound (6),D,,,Olympiacos Piraeus,0
+OLY       ,,15,06:13,34,564,"PRINTEZIS, GEORGIOS",PAMM      ,Turnover (2),TO,,,Olympiacos Piraeus,0
+OLY       ,,13,06:13,34,565,"STRELNIEKS, JANIS",P000046   ,Out,OUT,,,Olympiacos Piraeus,0
+OLY       ,,15,06:13,34,566,"PRINTEZIS, GEORGIOS",PAMM      ,Out,OUT,,,Olympiacos Piraeus,0
+OLY       ,,17,06:13,34,567,"MANTZARIS, VANGELIS",P003537   ,In,IN,,,Olympiacos Piraeus,0
+OLY       ,,33,06:13,34,568,"WILTJER, KYLE",P008052   ,In,IN,,,Olympiacos Piraeus,0
+ULK       ,,11,06:00,34,569,"WANAMAKER, BRAD",P005838   ,Turnover (3),TO,,,Fenerbahce Dogus Istanbul,0
+OLY       ,,16,05:59,35,571,"PAPANIKOLAOU, KOSTAS",P001255   ,Steal (4),ST,,,Olympiacos Piraeus,0
+OLY       ,,33,05:51,35,572,"WILTJER, KYLE",P008052   ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,Olympiacos Piraeus,0
+OLY       ,,1,05:50,35,573,"MCLEAN, JAMEL",P004418   ,Off Rebound (3),O,,,Olympiacos Piraeus,0
+OLY       ,,1,05:40,35,574,"MCLEAN, JAMEL",P004418   ,Three Pointer (1/1 -  8 pt),3FGM,81.0,59.0,Olympiacos Piraeus,0
+OLY       ,,17,05:40,35,575,"MANTZARIS, VANGELIS",P003537   ,Assist (3),AS,,,Olympiacos Piraeus,0
+ULK       ,,,05:40,35,576,,          ,Time Out (1),TOUT,,,Fenerbahce Dogus Istanbul,0
+OLY       ,,1,05:21,35,577,"MCLEAN, JAMEL",P004418   ,Foul (1),CM,,,Olympiacos Piraeus,0
+ULK       ,,11,05:21,35,578,"WANAMAKER, BRAD",P005838   ,Foul Drawn (4),RV,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,4,05:21,35,579,"MELLI, NICOLO",P002849   ,In,IN,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,35,05:21,35,580,"MUHAMMED, ALI",P001324   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,11,05:21,35,581,"WANAMAKER, BRAD",P005838   ,Free Throw In (1/1 -  6 pt),FTM,81.0,60.0,Fenerbahce Dogus Istanbul,0
+ULK       ,,11,05:21,35,582,"WANAMAKER, BRAD",P005838   ,Free Throw In (2/2 -  7 pt),FTM,81.0,61.0,Fenerbahce Dogus Istanbul,0
+OLY       ,,22,05:21,35,583,"ROBERTS, BRIAN",P002091   ,Out,OUT,,,Olympiacos Piraeus,0
+OLY       ,,34,05:21,35,584,"THOMPSON, HOLLIS",P008014   ,In,IN,,,Olympiacos Piraeus,0
+OLY       ,,16,04:58,36,586,"PAPANIKOLAOU, KOSTAS",P001255   ,Missed Two Pointer (2/5 -  9 pt),2FGA,,,Olympiacos Piraeus,0
+OLY       ,,1,04:58,36,587,"MCLEAN, JAMEL",P004418   ,Off Rebound (4),O,,,Olympiacos Piraeus,0
+ULK       ,,11,04:58,36,588,"WANAMAKER, BRAD",P005838   ,Foul (3),CM,,,Fenerbahce Dogus Istanbul,0
+OLY       ,,1,04:58,36,589,"MCLEAN, JAMEL",P004418   ,Foul Drawn (4),RV,,,Olympiacos Piraeus,0
+ULK       ,,11,04:58,36,590,"WANAMAKER, BRAD",P005838   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,32,04:58,36,591,"GULER, SINAN",P000494   ,In,IN,,,Fenerbahce Dogus Istanbul,0
+OLY       ,,1,04:58,36,592,"MCLEAN, JAMEL",P004418   ,Free Throw In (4/5 -  9 pt),FTM,82.0,61.0,Olympiacos Piraeus,0
+OLY       ,,1,04:58,36,593,"MCLEAN, JAMEL",P004418   ,Free Throw In (5/6 -  10 pt),FTM,83.0,61.0,Olympiacos Piraeus,0
+OLY       ,,16,04:47,36,594,"PAPANIKOLAOU, KOSTAS",P001255   ,Foul (3),CM,,,Olympiacos Piraeus,0
+ULK       ,,4,04:47,36,595,"MELLI, NICOLO",P002849   ,Foul Drawn (1),RV,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,44,04:33,36,596,"DUVERIOGLU, AHMET",P006399   ,Missed Two Pointer (2/3 -  4 pt),2FGA,,,Fenerbahce Dogus Istanbul,0
+OLY       ,,1,04:31,36,597,"MCLEAN, JAMEL",P004418   ,Def Rebound (2),D,,,Olympiacos Piraeus,0
+OLY       ,,1,04:29,36,598,"MCLEAN, JAMEL",P004418   ,Turnover (1),TO,,,Olympiacos Piraeus,0
+ULK       ,,44,04:28,36,599,"DUVERIOGLU, AHMET",P006399   ,Steal (2),ST,,,Fenerbahce Dogus Istanbul,0
+OLY       ,,1,04:26,36,600,"MCLEAN, JAMEL",P004418   ,Foul (2),CM,,,Olympiacos Piraeus,0
+ULK       ,,44,04:26,36,601,"DUVERIOGLU, AHMET",P006399   ,Foul Drawn (2),RV,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,32,04:26,36,602,"GULER, SINAN",P000494   ,Two Pointer (1/3 -  2 pt),2FGM,83.0,63.0,Fenerbahce Dogus Istanbul,0
+ULK       ,,4,04:26,36,603,"MELLI, NICOLO",P002849   ,Assist (1),AS,,,Fenerbahce Dogus Istanbul,0
+OLY       ,,,04:24,36,604,,          ,Time Out (1),TOUT,,,Olympiacos Piraeus,0
+OLY       ,,34,04:11,36,605,"THOMPSON, HOLLIS",P008014   ,Two Pointer (1/2 -  3 pt),2FGM,85.0,63.0,Olympiacos Piraeus,0
+OLY       ,,33,04:09,36,606,"WILTJER, KYLE",P008052   ,Assist (1),AS,,,Olympiacos Piraeus,0
+ULK       ,,24,04:01,36,607,"VESELY, JAN",P000925   ,Missed Two Pointer (4/8 -  8 pt),2FGA,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,,04:01,36,608,,          ,Off Rebound (3),O,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,24,03:51,37,610,"VESELY, JAN",P000925   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,33,03:51,37,611,"KALINIC, NIKOLA",P004866   ,In,IN,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,44,03:40,37,612,"DUVERIOGLU, AHMET",P006399   ,Two Pointer (3/4 -  6 pt),2FGM,85.0,65.0,Fenerbahce Dogus Istanbul,0
+ULK       ,,32,03:38,37,613,"GULER, SINAN",P000494   ,Assist (3),AS,,,Fenerbahce Dogus Istanbul,0
+OLY       ,,33,03:10,37,614,"WILTJER, KYLE",P008052   ,Three Pointer (1/3 -  3 pt),3FGM,88.0,65.0,Olympiacos Piraeus,0
+ULK       ,,32,02:55,38,616,"GULER, SINAN",P000494   ,Turnover (1),TO,,,Fenerbahce Dogus Istanbul,0
+OLY       ,,33,02:54,38,617,"WILTJER, KYLE",P008052   ,Steal (1),ST,,,Olympiacos Piraeus,0
+OLY       ,,33,02:50,38,618,"WILTJER, KYLE",P008052   ,Turnover (1),TO,,,Olympiacos Piraeus,0
+ULK       ,,32,02:49,38,619,"GULER, SINAN",P000494   ,Steal (1),ST,,,Fenerbahce Dogus Istanbul,0
+OLY       ,,34,02:42,38,620,"THOMPSON, HOLLIS",P008014   ,Foul (4),CM,,,Olympiacos Piraeus,0
+ULK       ,,44,02:42,38,621,"DUVERIOGLU, AHMET",P006399   ,Foul Drawn (3),RV,,,Fenerbahce Dogus Istanbul,0
+OLY       ,,34,02:33,38,622,"THOMPSON, HOLLIS",P008014   ,Foul (5),CM,,,Olympiacos Piraeus,0
+ULK       ,,70,02:33,38,623,"DATOME, LUIGI",PCCD      ,Foul Drawn (2),RV,,,Fenerbahce Dogus Istanbul,0
+OLY       ,,13,02:33,38,624,"STRELNIEKS, JANIS",P000046   ,In,IN,,,Olympiacos Piraeus,0
+OLY       ,,34,02:33,38,625,"THOMPSON, HOLLIS",P008014   ,Out,OUT,,,Olympiacos Piraeus,0
+ULK       ,,70,02:33,38,626,"DATOME, LUIGI",PCCD      ,Missed Free Throw (0/1 -  4 pt),FTA,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,70,02:33,38,627,"DATOME, LUIGI",PCCD      ,Missed Free Throw (0/2 -  4 pt),FTA,,,Fenerbahce Dogus Istanbul,0
+OLY       ,,33,02:33,38,628,"WILTJER, KYLE",P008052   ,Def Rebound (1),D,,,Olympiacos Piraeus,0
+OLY       ,,1,02:13,38,629,"MCLEAN, JAMEL",P004418   ,Two Pointer (2/4 -  12 pt),2FGM,90.0,65.0,Olympiacos Piraeus,0
+OLY       ,,13,02:11,38,630,"STRELNIEKS, JANIS",P000046   ,Assist (3),AS,,,Olympiacos Piraeus,0
+ULK       ,,33,02:00,38,631,"KALINIC, NIKOLA",P004866   ,Three Pointer (1/2 -  3 pt),3FGM,90.0,68.0,Fenerbahce Dogus Istanbul,0
+ULK       ,,44,01:58,39,633,"DUVERIOGLU, AHMET",P006399   ,Assist (1),AS,,,Fenerbahce Dogus Istanbul,0
+OLY       ,,13,01:41,39,634,"STRELNIEKS, JANIS",P000046   ,Three Pointer (4/4 -  17 pt),3FGM,93.0,68.0,Olympiacos Piraeus,0
+ULK       ,,32,01:34,39,635,"GULER, SINAN",P000494   ,Turnover (2),TO,,,Fenerbahce Dogus Istanbul,0
+OLY       ,,4,01:34,39,636,"TOLIOPOULOS, VASSILIS",P004292   ,In,IN,,,Olympiacos Piraeus,0
+OLY       ,,17,01:34,39,637,"MANTZARIS, VANGELIS",P003537   ,Out,OUT,,,Olympiacos Piraeus,0
+ULK       ,,33,01:31,39,638,"KALINIC, NIKOLA",P004866   ,Foul (4),CM,,,Fenerbahce Dogus Istanbul,0
+OLY       ,,13,01:31,39,639,"STRELNIEKS, JANIS",P000046   ,Foul Drawn (1),RV,,,Olympiacos Piraeus,0
+OLY       ,,1,01:31,39,640,"MCLEAN, JAMEL",P004418   ,Out,OUT,,,Olympiacos Piraeus,0
+OLY       ,,31,01:31,39,641,"BOGRIS, GEORGIOS",P001933   ,In,IN,,,Olympiacos Piraeus,0
+OLY       ,,1,01:31,39,642,"MCLEAN, JAMEL",P004418   ,In,IN,,,Olympiacos Piraeus,0
+OLY       ,,16,01:31,39,643,"PAPANIKOLAOU, KOSTAS",P001255   ,Out,OUT,,,Olympiacos Piraeus,0
+OLY       ,,13,01:31,39,644,"STRELNIEKS, JANIS",P000046   ,Free Throw In (2/2 -  18 pt),FTM,94.0,68.0,Olympiacos Piraeus,0
+OLY       ,,13,01:31,39,645,"STRELNIEKS, JANIS",P000046   ,Free Throw In (3/3 -  19 pt),FTM,95.0,68.0,Olympiacos Piraeus,0
+ULK       ,,33,01:09,39,646,"KALINIC, NIKOLA",P004866   ,Turnover (4),TO,,,Fenerbahce Dogus Istanbul,0
+OLY       ,,33,00:50,40,648,"WILTJER, KYLE",P008052   ,Missed Three Pointer (1/4 -  3 pt),3FGA,,,Olympiacos Piraeus,0
+ULK       ,,44,00:48,40,649,"DUVERIOGLU, AHMET",P006399   ,Def Rebound (3),D,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,4,00:28,40,650,"MELLI, NICOLO",P002849   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,32,00:26,40,651,"GULER, SINAN",P000494   ,Off Rebound (3),O,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,32,00:24,40,652,"GULER, SINAN",P000494   ,Missed Two Pointer (1/4 -  2 pt),2FGA,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,44,00:22,40,653,"DUVERIOGLU, AHMET",P006399   ,Off Rebound (2),O,,,Fenerbahce Dogus Istanbul,0
+ULK       ,,44,00:21,40,654,"DUVERIOGLU, AHMET",P006399   ,Two Pointer (4/5 -  8 pt),2FGM,95.0,70.0,Fenerbahce Dogus Istanbul,0
+          ,,,,41,657,,          ,End Game,EG,,,,0

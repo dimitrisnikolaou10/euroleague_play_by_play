@@ -1,0 +1,531 @@
+CODETEAM,COMMENT,DORSAL,MARKERTIME,MINUTE,NUMBEROFPLAY,PLAYER,PLAYER_ID,PLAYINFO,PLAYTYPE,POINTS_A,POINTS_B,TEAM,TYPE
+          ,,,,1,2,,          ,Begin Period,BP,,,,0
+CSK       ,,20,09:44,1,3,"VORONTSEVICH, ANDREY",PLHI      ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,CSKA Moscow,0
+CSK       ,,42,09:40,1,4,"HINES, KYLE",P002812   ,Off Rebound (1),O,,,CSKA Moscow,0
+CSK       ,,1,09:31,1,5,"DE COLO, NANDO",P002100   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,CSKA Moscow,0
+MAD       ,,14,09:28,1,6,"AYON, GUSTAVO",P005927   ,Def Rebound (1),D,,,Real Madrid,0
+MAD       ,,9,09:21,1,7,"REYES, FELIPE",PAAX      ,Turnover (1),TO,,,Real Madrid,0
+CSK       ,,41,09:10,1,8,"KURBANOV, NIKITA",PJLX      ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,CSKA Moscow,0
+MAD       ,,44,09:10,1,9,"TAYLOR, JEFFERY",P006546   ,Def Rebound (1),D,,,Real Madrid,0
+MAD       ,,44,08:56,2,11,"TAYLOR, JEFFERY",P006546   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Real Madrid,0
+MAD       ,,9,08:56,2,12,"REYES, FELIPE",PAAX      ,Off Rebound (1),O,,,Real Madrid,0
+MAD       ,,9,08:56,2,13,"REYES, FELIPE",PAAX      ,Foul Drawn (1),RV,,,Real Madrid,0
+CSK       ,,42,08:56,2,14,"HINES, KYLE",P002812   ,Foul (1),CM,,,CSKA Moscow,0
+MAD       ,,9,08:56,2,16,"REYES, FELIPE",PAAX      ,Free Throw In (1/1 -  1 pt),FTM,1.0,,Real Madrid,0
+MAD       ,,9,08:56,2,17,"REYES, FELIPE",PAAX      ,Free Throw In (2/2 -  2 pt),FTM,2.0,,Real Madrid,0
+CSK       ,,13,08:31,2,18,"RODRIGUEZ, SERGIO",PCVM      ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,CSKA Moscow,0
+CSK       ,,42,08:29,2,19,"HINES, KYLE",P002812   ,Off Rebound (2),O,,,CSKA Moscow,0
+CSK       ,,41,08:29,2,20,"KURBANOV, NIKITA",PJLX      ,Foul Drawn (1),RV,,,CSKA Moscow,0
+MAD       ,,44,08:29,2,21,"TAYLOR, JEFFERY",P006546   ,Foul (1),CM,,,Real Madrid,0
+CSK       ,,41,08:29,2,22,"KURBANOV, NIKITA",PJLX      ,Free Throw In (1/1 -  1 pt),FTM,2.0,1.0,CSKA Moscow,0
+CSK       ,,42,08:29,2,69,"HINES, KYLE",P002812   ,Assist (1),AS,,,CSKA Moscow,0
+CSK       ,,41,08:29,2,24,"KURBANOV, NIKITA",PJLX      ,Missed Free Throw (1/2 -  1 pt),FTA,,,CSKA Moscow,0
+MAD       ,,14,08:29,2,25,"AYON, GUSTAVO",P005927   ,Def Rebound (2),D,,,Real Madrid,0
+MAD       ,,14,08:29,2,26,"AYON, GUSTAVO",P005927   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Real Madrid,0
+CSK       ,,41,08:29,2,27,"KURBANOV, NIKITA",PJLX      ,Def Rebound (1),D,,,CSKA Moscow,0
+CSK       ,,1,08:02,2,28,"DE COLO, NANDO",P002100   ,Two Pointer (1/2 -  2 pt),2FGM,2.0,3.0,CSKA Moscow,0
+MAD       ,,7,07:43,3,30,"DONCIC, LUKA",P005929   ,Three Pointer (1/1 -  3 pt),3FGM,5.0,3.0,Real Madrid,0
+CSK       ,,41,07:24,3,31,"KURBANOV, NIKITA",PJLX      ,Two Pointer (1/1 -  3 pt),2FGM,5.0,5.0,CSKA Moscow,0
+MAD       ,,7,07:00,3,32,"DONCIC, LUKA",P005929   ,Missed Three Pointer (1/2 -  3 pt),3FGA,,,Real Madrid,0
+CSK       ,,1,06:58,4,34,"DE COLO, NANDO",P002100   ,Def Rebound (1),D,,,CSKA Moscow,0
+CSK       ,,20,06:49,4,35,"VORONTSEVICH, ANDREY",PLHI      ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,CSKA Moscow,0
+CSK       ,,42,06:46,4,36,"HINES, KYLE",P002812   ,Off Rebound (3),O,,,CSKA Moscow,0
+CSK       ,,41,06:40,4,37,"KURBANOV, NIKITA",PJLX      ,Two Pointer (2/2 -  5 pt),2FGM,5.0,7.0,CSKA Moscow,0
+CSK       ,,41,06:40,4,38,"KURBANOV, NIKITA",PJLX      ,Foul Drawn (2),RV,,,CSKA Moscow,0
+MAD       ,,7,06:40,4,39,"DONCIC, LUKA",P005929   ,Foul (1),CM,,,Real Madrid,0
+CSK       ,,41,06:40,4,40,"KURBANOV, NIKITA",PJLX      ,Missed Free Throw (1/3 -  5 pt),FTA,,,CSKA Moscow,0
+MAD       ,,14,06:40,4,41,"AYON, GUSTAVO",P005927   ,Def Rebound (3),D,,,Real Madrid,0
+MAD       ,,1,06:24,4,42,"CAUSEUR, FABIEN",P001392   ,Three Pointer (1/1 -  3 pt),3FGM,8.0,7.0,Real Madrid,0
+MAD       ,,44,06:21,4,43,"TAYLOR, JEFFERY",P006546   ,Assist (1),AS,,,Real Madrid,0
+CSK       ,,1,06:06,4,45,"DE COLO, NANDO",P002100   ,Missed Two Pointer (1/3 -  2 pt),2FGA,,,CSKA Moscow,0
+CSK       ,,41,06:06,4,46,"KURBANOV, NIKITA",PJLX      ,Off Rebound (1),O,,,CSKA Moscow,0
+CSK       ,,41,06:06,4,47,"KURBANOV, NIKITA",PJLX      ,Missed Two Pointer (2/3 -  5 pt),2FGA,,,CSKA Moscow,0
+MAD       ,,14,06:06,4,48,"AYON, GUSTAVO",P005927   ,Def Rebound (4),D,,,Real Madrid,0
+MAD       ,,7,06:06,4,49,"DONCIC, LUKA",P005929   ,Foul Drawn (1),RV,,,Real Madrid,0
+CSK       ,,11,06:06,4,50,"ANTONOV, SEMEN",P004941   ,Foul (1),CM,,,CSKA Moscow,0
+MAD       ,,11,06:06,4,51,"CAMPAZZO, FACUNDO",P005928   ,In,IN,,,Real Madrid,0
+MAD       ,,44,06:06,4,52,"TAYLOR, JEFFERY",P006546   ,Out,OUT,,,Real Madrid,0
+MAD       ,,14,05:52,5,54,"AYON, GUSTAVO",P005927   ,Two Pointer (1/2 -  2 pt),2FGM,10.0,7.0,Real Madrid,0
+CSK       ,,42,05:38,5,55,"HINES, KYLE",P002812   ,Two Pointer (1/1 -  2 pt),2FGM,10.0,9.0,CSKA Moscow,0
+MAD       ,,9,05:33,5,56,"REYES, FELIPE",PAAX      ,Foul Drawn (2),RV,,,Real Madrid,0
+CSK       ,,20,05:33,5,57,"VORONTSEVICH, ANDREY",PLHI      ,Foul (1),CM,,,CSKA Moscow,0
+MAD       ,,9,05:33,5,58,"REYES, FELIPE",PAAX      ,Missed Free Throw (2/3 -  2 pt),FTA,,,Real Madrid,0
+MAD       ,,9,05:33,5,59,"REYES, FELIPE",PAAX      ,Free Throw In (3/4 -  3 pt),FTM,11.0,9.0,Real Madrid,0
+MAD       ,,11,05:33,5,60,"CAMPAZZO, FACUNDO",P005928   ,Assist (1),AS,,,Real Madrid,0
+CSK       ,,42,05:14,5,61,"HINES, KYLE",P002812   ,Turnover (1),TO,,,CSKA Moscow,0
+MAD       ,,11,05:07,5,62,"CAMPAZZO, FACUNDO",P005928   ,Foul Drawn (1),RV,,,Real Madrid,0
+CSK       ,,20,05:07,5,63,"VORONTSEVICH, ANDREY",PLHI      ,Foul (2),CM,,,CSKA Moscow,0
+CSK       ,,11,05:07,5,64,"ANTONOV, SEMEN",P004941   ,In,IN,,,CSKA Moscow,0
+CSK       ,,20,05:07,5,65,"VORONTSEVICH, ANDREY",PLHI      ,Out,OUT,,,CSKA Moscow,0
+MAD       ,,11,04:59,6,67,"CAMPAZZO, FACUNDO",P005928   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Real Madrid,0
+CSK       ,,,04:59,6,68,,          ,Def Rebound (1),D,,,CSKA Moscow,0
+CSK       ,,41,04:44,6,70,"KURBANOV, NIKITA",PJLX      ,Missed Two Pointer (2/4 -  5 pt),2FGA,,,CSKA Moscow,0
+MAD       ,,1,04:41,6,71,"CAUSEUR, FABIEN",P001392   ,Def Rebound (1),D,,,Real Madrid,0
+MAD       ,,7,04:34,6,72,"DONCIC, LUKA",P005929   ,Missed Two Pointer (0/1 -  3 pt),2FGA,,,Real Madrid,0
+MAD       ,,9,04:34,6,73,"REYES, FELIPE",PAAX      ,Off Rebound (2),O,,,Real Madrid,0
+MAD       ,,9,04:34,6,74,"REYES, FELIPE",PAAX      ,Foul Drawn (3),RV,,,Real Madrid,0
+CSK       ,,1,04:34,6,75,"DE COLO, NANDO",P002100   ,Foul (1),CM,,,CSKA Moscow,0
+MAD       ,,9,04:34,6,76,"REYES, FELIPE",PAAX      ,Free Throw In (4/5 -  4 pt),FTM,12.0,9.0,Real Madrid,0
+MAD       ,,9,04:34,6,77,"REYES, FELIPE",PAAX      ,Free Throw In (5/6 -  5 pt),FTM,13.0,9.0,Real Madrid,0
+MAD       ,,3,04:34,6,78,"RANDOLPH, ANTHONY",P005757   ,In,IN,,,Real Madrid,0
+MAD       ,,9,04:34,6,79,"REYES, FELIPE",PAAX      ,Out,OUT,,,Real Madrid,0
+CSK       ,,13,04:19,6,80,"RODRIGUEZ, SERGIO",PCVM      ,Three Pointer (1/1 -  3 pt),3FGM,13.0,12.0,CSKA Moscow,0
+MAD       ,,14,04:05,6,81,"AYON, GUSTAVO",P005927   ,Missed Two Pointer (1/3 -  2 pt),2FGA,,,Real Madrid,0
+CSK       ,,41,03:57,7,83,"KURBANOV, NIKITA",PJLX      ,Def Rebound (2),D,,,CSKA Moscow,0
+CSK       ,,11,03:49,7,84,"ANTONOV, SEMEN",P004941   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,CSKA Moscow,0
+MAD       ,,14,03:44,7,85,"AYON, GUSTAVO",P005927   ,Def Rebound (5),D,,,Real Madrid,0
+MAD       ,,11,03:33,7,86,"CAMPAZZO, FACUNDO",P005928   ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,Real Madrid,0
+CSK       ,,11,03:33,7,289,"ANTONOV, SEMEN",P004941   ,Def Rebound (1),D,,,CSKA Moscow,0
+CSK       ,,21,03:21,7,87,"CLYBURN, WILL",P004888   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,CSKA Moscow,0
+CSK       ,,21,03:21,7,291,"CLYBURN, WILL",P004888   ,Shot Rejected (1),AG,,,CSKA Moscow,0
+MAD       ,,7,03:21,7,88,"DONCIC, LUKA",P005929   ,Block (1),FV,,,Real Madrid,0
+MAD       ,,14,03:21,7,290,"AYON, GUSTAVO",P005927   ,Def Rebound (6),D,,,Real Madrid,0
+CSK       ,,1,03:21,7,89,"DE COLO, NANDO",P002100   ,Out,OUT,,,CSKA Moscow,0
+CSK       ,,9,03:21,7,90,"WESTERMANN, LEO",P002543   ,In,IN,,,CSKA Moscow,0
+CSK       ,,13,03:21,7,91,"RODRIGUEZ, SERGIO",PCVM      ,Out,OUT,,,CSKA Moscow,0
+CSK       ,,21,03:21,7,92,"CLYBURN, WILL",P004888   ,In,IN,,,CSKA Moscow,0
+CSK       ,,22,03:21,7,93,"HIGGINS, CORY",P006450   ,In,IN,,,CSKA Moscow,0
+CSK       ,,41,03:21,7,94,"KURBANOV, NIKITA",PJLX      ,Out,OUT,,,CSKA Moscow,0
+CSK       ,,42,03:21,7,95,"HINES, KYLE",P002812   ,Out,OUT,,,CSKA Moscow,0
+CSK       ,,44,03:21,7,96,"HUNTER, OTHELLO",P005160   ,In,IN,,,CSKA Moscow,0
+MAD       ,,7,03:03,7,97,"DONCIC, LUKA",P005929   ,Out,OUT,,,Real Madrid,0
+MAD       ,,8,03:03,7,98,"MACIULIS, JONAS",PJCC      ,In,IN,,,Real Madrid,0
+MAD       ,,14,03:03,7,99,"AYON, GUSTAVO",P005927   ,Missed Two Pointer (1/4 -  2 pt),2FGA,,,Real Madrid,0
+CSK       ,,44,03:03,7,100,"HUNTER, OTHELLO",P005160   ,Def Rebound (1),D,,,CSKA Moscow,0
+CSK       ,,21,02:41,8,102,"CLYBURN, WILL",P004888   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,CSKA Moscow,0
+CSK       ,,44,02:38,8,103,"HUNTER, OTHELLO",P005160   ,Off Rebound (1),O,,,CSKA Moscow,0
+CSK       ,,44,02:37,8,104,"HUNTER, OTHELLO",P005160   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,CSKA Moscow,0
+CSK       ,,44,02:35,8,105,"HUNTER, OTHELLO",P005160   ,Off Rebound (2),O,,,CSKA Moscow,0
+CSK       ,,44,02:34,8,106,"HUNTER, OTHELLO",P005160   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,CSKA Moscow,0
+MAD       ,,14,02:27,8,107,"AYON, GUSTAVO",P005927   ,Def Rebound (7),D,,,Real Madrid,0
+MAD       ,,3,02:22,8,108,"RANDOLPH, ANTHONY",P005757   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Real Madrid,0
+CSK       ,,21,02:17,8,109,"CLYBURN, WILL",P004888   ,Def Rebound (1),D,,,CSKA Moscow,0
+CSK       ,,22,02:11,8,110,"HIGGINS, CORY",P006450   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,CSKA Moscow,0
+MAD       ,,11,02:08,8,111,"CAMPAZZO, FACUNDO",P005928   ,Def Rebound (1),D,,,Real Madrid,0
+MAD       ,,11,01:46,9,113,"CAMPAZZO, FACUNDO",P005928   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Real Madrid,0
+CSK       ,,21,01:44,9,114,"CLYBURN, WILL",P004888   ,Def Rebound (2),D,,,CSKA Moscow,0
+CSK       ,,21,01:35,9,115,"CLYBURN, WILL",P004888   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,CSKA Moscow,0
+CSK       ,,,01:34,9,116,,          ,Off Rebound (1),O,,,CSKA Moscow,0
+CSK       ,,44,01:21,9,117,"HUNTER, OTHELLO",P005160   ,Turnover (1),TO,,,CSKA Moscow,0
+MAD       ,,5,01:21,9,118,"FERNANDEZ, RUDY",PBMT      ,In,IN,,,Real Madrid,0
+MAD       ,,8,01:21,9,119,"MACIULIS, JONAS",PJCC      ,Out,OUT,,,Real Madrid,0
+MAD       ,,3,01:13,9,120,"RANDOLPH, ANTHONY",P005757   ,Two Pointer (1/1 -  2 pt),2FGM,15.0,12.0,Real Madrid,0
+MAD       ,,1,01:13,9,121,"CAUSEUR, FABIEN",P001392   ,Assist (1),AS,,,Real Madrid,0
+CSK       ,,9,01:13,9,122,"WESTERMANN, LEO",P002543   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,CSKA Moscow,0
+MAD       ,,11,01:13,9,123,"CAMPAZZO, FACUNDO",P005928   ,Def Rebound (2),D,,,Real Madrid,0
+MAD       ,,11,01:13,9,124,"CAMPAZZO, FACUNDO",P005928   ,Two Pointer (1/2 -  2 pt),2FGM,17.0,12.0,Real Madrid,0
+CSK       ,,22,00:44,10,126,"HIGGINS, CORY",P006450   ,Foul Drawn (1),RV,,,CSKA Moscow,0
+MAD       ,,11,00:44,10,127,"CAMPAZZO, FACUNDO",P005928   ,Foul (1),CM,,,Real Madrid,0
+MAD       ,,1,00:44,10,128,"CAUSEUR, FABIEN",P001392   ,Out,OUT,,,Real Madrid,0
+MAD       ,,8,00:44,10,129,"MACIULIS, JONAS",PJCC      ,In,IN,,,Real Madrid,0
+CSK       ,,22,00:44,10,131,"HIGGINS, CORY",P006450   ,Missed Free Throw (0/1 -  0 pt),FTA,,,CSKA Moscow,0
+CSK       ,,22,00:44,10,132,"HIGGINS, CORY",P006450   ,Free Throw In (1/2 -  1 pt),FTM,17.0,13.0,CSKA Moscow,0
+MAD       ,,5,00:30,10,133,"FERNANDEZ, RUDY",PBMT      ,Three Pointer (1/1 -  3 pt),3FGM,20.0,13.0,Real Madrid,0
+MAD       ,,8,00:27,10,134,"MACIULIS, JONAS",PJCC      ,Assist (1),AS,,,Real Madrid,0
+CSK       ,,44,00:14,10,135,"HUNTER, OTHELLO",P005160   ,Foul Drawn (1),RV,,,CSKA Moscow,0
+MAD       ,,5,00:14,10,136,"FERNANDEZ, RUDY",PBMT      ,Foul (1),CM,,,Real Madrid,0
+MAD       ,,11,00:14,10,137,"CAMPAZZO, FACUNDO",P005928   ,Out,OUT,,,Real Madrid,0
+MAD       ,,20,00:14,10,138,"CARROLL, JAYCEE",P001960   ,In,IN,,,Real Madrid,0
+CSK       ,,9,00:00,10,139,"WESTERMANN, LEO",P002543   ,Two Pointer (1/2 -  2 pt),2FGM,20.0,15.0,CSKA Moscow,0
+          ,,,,11,141,,          ,End Period,EP,,,,0
+          ,,,,11,142,,          ,Begin Period,BP,,,,0
+CSK       ,,22,09:52,11,143,"HIGGINS, CORY",P006450   ,Foul Drawn (2),RV,,,CSKA Moscow,0
+MAD       ,,20,09:52,11,144,"CARROLL, JAYCEE",P001960   ,Foul (1),CM,,,Real Madrid,0
+CSK       ,,21,09:37,11,145,"CLYBURN, WILL",P004888   ,Two Pointer (1/3 -  2 pt),2FGM,20.0,17.0,CSKA Moscow,0
+MAD       ,,2,09:37,11,146,"RANDLE, CHASSON",P008038   ,In,IN,,,Real Madrid,0
+MAD       ,,8,09:37,11,147,"MACIULIS, JONAS",PJCC      ,Out,OUT,,,Real Madrid,0
+MAD       ,,14,09:37,11,148,"AYON, GUSTAVO",P005927   ,Out,OUT,,,Real Madrid,0
+MAD       ,,32,09:37,11,149,"KUZMIC, OGNJEN",P003479   ,In,IN,,,Real Madrid,0
+MAD       ,,20,09:21,11,150,"CARROLL, JAYCEE",P001960   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Real Madrid,0
+CSK       ,,11,09:17,11,151,"ANTONOV, SEMEN",P004941   ,Def Rebound (2),D,,,CSKA Moscow,0
+CSK       ,,9,09:09,11,152,"WESTERMANN, LEO",P002543   ,Two Pointer (2/3 -  4 pt),2FGM,20.0,19.0,CSKA Moscow,0
+MAD       ,,20,08:52,12,154,"CARROLL, JAYCEE",P001960   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Real Madrid,0
+MAD       ,,32,08:51,12,155,"KUZMIC, OGNJEN",P003479   ,Off Rebound (1),O,,,Real Madrid,0
+MAD       ,,32,08:51,12,156,"KUZMIC, OGNJEN",P003479   ,Foul Drawn (1),RV,,,Real Madrid,0
+CSK       ,,9,08:51,12,157,"WESTERMANN, LEO",P002543   ,Foul (1),CM,,,CSKA Moscow,0
+MAD       ,,32,08:45,12,158,"KUZMIC, OGNJEN",P003479   ,Foul Drawn (2),RV,,,Real Madrid,0
+CSK       ,,44,08:45,12,159,"HUNTER, OTHELLO",P005160   ,Foul (1),CM,,,CSKA Moscow,0
+MAD       ,,2,08:38,12,160,"RANDLE, CHASSON",P008038   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Real Madrid,0
+MAD       ,,2,08:38,12,161,"RANDLE, CHASSON",P008038   ,Shot Rejected (1),AG,,,Real Madrid,0
+CSK       ,,44,08:38,12,162,"HUNTER, OTHELLO",P005160   ,Block (1),FV,,,CSKA Moscow,0
+MAD       ,,,08:38,12,163,,          ,Off Rebound (2),O,,,Real Madrid,0
+MAD       ,,20,08:30,12,164,"CARROLL, JAYCEE",P001960   ,Three Pointer (1/2 -  3 pt),3FGM,23.0,19.0,Real Madrid,0
+CSK       ,,21,08:12,12,165,"CLYBURN, WILL",P004888   ,Turnover (1),TO,,,CSKA Moscow,0
+MAD       ,,2,07:55,13,167,"RANDLE, CHASSON",P008038   ,Three Pointer (1/1 -  3 pt),3FGM,26.0,19.0,Real Madrid,0
+CSK       ,,9,07:32,13,168,"WESTERMANN, LEO",P002543   ,Missed Three Pointer (0/1 -  4 pt),3FGA,,,CSKA Moscow,0
+CSK       ,,11,07:31,13,169,"ANTONOV, SEMEN",P004941   ,Off Rebound (1),O,,,CSKA Moscow,0
+CSK       ,,22,07:27,13,170,"HIGGINS, CORY",P006450   ,Turnover (1),TO,,,CSKA Moscow,0
+MAD       ,,5,07:26,13,171,"FERNANDEZ, RUDY",PBMT      ,Steal (1),ST,,,Real Madrid,0
+MAD       ,,32,07:20,13,172,"KUZMIC, OGNJEN",P003479   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Real Madrid,0
+CSK       ,,44,07:20,13,173,"HUNTER, OTHELLO",P005160   ,Def Rebound (2),D,,,CSKA Moscow,0
+CSK       ,,22,07:04,13,174,"HIGGINS, CORY",P006450   ,Three Pointer (1/1 -  4 pt),3FGM,26.0,22.0,CSKA Moscow,0
+MAD       ,,32,06:45,14,176,"KUZMIC, OGNJEN",P003479   ,Turnover (1),TO,,,Real Madrid,0
+CSK       ,,21,06:45,14,177,"CLYBURN, WILL",P004888   ,Steal (1),ST,,,CSKA Moscow,0
+MAD       ,,14,06:45,14,178,"AYON, GUSTAVO",P005927   ,In,IN,,,Real Madrid,0
+MAD       ,,32,06:45,14,179,"KUZMIC, OGNJEN",P003479   ,Out,OUT,,,Real Madrid,0
+CSK       ,,1,06:45,14,180,"DE COLO, NANDO",P002100   ,In,IN,,,CSKA Moscow,0
+CSK       ,,11,06:45,14,181,"ANTONOV, SEMEN",P004941   ,Out,OUT,,,CSKA Moscow,0
+CSK       ,,44,06:27,14,182,"HUNTER, OTHELLO",P005160   ,Missed Two Pointer (0/3 -  0 pt),2FGA,,,CSKA Moscow,0
+MAD       ,,5,06:27,14,183,"FERNANDEZ, RUDY",PBMT      ,Def Rebound (1),D,,,Real Madrid,0
+MAD       ,,3,06:27,14,184,"RANDOLPH, ANTHONY",P005757   ,Three Pointer (1/2 -  5 pt),3FGM,29.0,22.0,Real Madrid,0
+MAD       ,,20,06:27,14,185,"CARROLL, JAYCEE",P001960   ,Assist (1),AS,,,Real Madrid,0
+CSK       ,,,06:27,14,186,,          ,Time Out (1),TOUT,,,CSKA Moscow,0
+CSK       ,,9,06:27,14,187,"WESTERMANN, LEO",P002543   ,Out,OUT,,,CSKA Moscow,0
+CSK       ,,13,06:27,14,188,"RODRIGUEZ, SERGIO",PCVM      ,In,IN,,,CSKA Moscow,0
+CSK       ,,22,05:49,15,190,"HIGGINS, CORY",P006450   ,Two Pointer (1/2 -  6 pt),2FGM,29.0,24.0,CSKA Moscow,0
+MAD       ,,14,05:35,15,191,"AYON, GUSTAVO",P005927   ,Missed Two Pointer (1/5 -  2 pt),2FGA,,,Real Madrid,0
+CSK       ,,22,05:32,15,192,"HIGGINS, CORY",P006450   ,Def Rebound (1),D,,,CSKA Moscow,0
+CSK       ,,1,05:22,15,193,"DE COLO, NANDO",P002100   ,Missed Two Pointer (1/4 -  2 pt),2FGA,,,CSKA Moscow,0
+MAD       ,,14,05:19,15,194,"AYON, GUSTAVO",P005927   ,Def Rebound (8),D,,,Real Madrid,0
+MAD       ,,20,05:10,15,195,"CARROLL, JAYCEE",P001960   ,Two Pointer (1/2 -  5 pt),2FGM,31.0,24.0,Real Madrid,0
+MAD       ,,14,05:08,15,196,"AYON, GUSTAVO",P005927   ,Assist (1),AS,,,Real Madrid,0
+CSK       ,,13,05:00,15,197,"RODRIGUEZ, SERGIO",PCVM      ,Two Pointer (1/2 -  5 pt),2FGM,31.0,26.0,CSKA Moscow,0
+MAD       ,,20,04:36,16,199,"CARROLL, JAYCEE",P001960   ,Missed Three Pointer (1/3 -  5 pt),3FGA,,,Real Madrid,0
+CSK       ,,21,04:33,16,200,"CLYBURN, WILL",P004888   ,Def Rebound (3),D,,,CSKA Moscow,0
+CSK       ,,1,04:30,16,201,"DE COLO, NANDO",P002100   ,Foul Drawn (1),RV,,,CSKA Moscow,0
+MAD       ,,20,04:30,16,202,"CARROLL, JAYCEE",P001960   ,Foul (2),CM,,,Real Madrid,0
+MAD       ,,7,04:30,16,203,"DONCIC, LUKA",P005929   ,In,IN,,,Real Madrid,0
+MAD       ,,20,04:30,16,204,"CARROLL, JAYCEE",P001960   ,Out,OUT,,,Real Madrid,0
+CSK       ,,1,04:30,16,205,"DE COLO, NANDO",P002100   ,Free Throw In (1/1 -  3 pt),FTM,31.0,27.0,CSKA Moscow,0
+CSK       ,,1,04:30,16,206,"DE COLO, NANDO",P002100   ,Free Throw In (2/2 -  4 pt),FTM,31.0,28.0,CSKA Moscow,0
+MAD       ,,7,04:04,16,207,"DONCIC, LUKA",P005929   ,Missed Three Pointer (1/3 -  3 pt),3FGA,,,Real Madrid,0
+MAD       ,,3,04:00,16,208,"RANDOLPH, ANTHONY",P005757   ,Off Rebound (1),O,,,Real Madrid,0
+MAD       ,,3,04:00,16,209,"RANDOLPH, ANTHONY",P005757   ,Missed Two Pointer (1/2 -  5 pt),2FGA,,,Real Madrid,0
+MAD       ,,7,04:00,16,210,"DONCIC, LUKA",P005929   ,Off Rebound (1),O,,,Real Madrid,0
+MAD       ,,7,04:00,16,211,"DONCIC, LUKA",P005929   ,Two Pointer (1/2 -  5 pt),2FGM,33.0,28.0,Real Madrid,0
+MAD       ,,7,04:00,16,212,"DONCIC, LUKA",P005929   ,Foul Drawn (2),RV,,,Real Madrid,0
+CSK       ,,21,04:00,16,213,"CLYBURN, WILL",P004888   ,Foul (1),CM,,,CSKA Moscow,0
+MAD       ,,7,04:00,16,214,"DONCIC, LUKA",P005929   ,Free Throw In (1/1 -  6 pt),FTM,34.0,28.0,Real Madrid,0
+CSK       ,,44,03:46,17,216,"HUNTER, OTHELLO",P005160   ,Offensive Foul (2),OF,,,CSKA Moscow,0
+CSK       ,,44,03:46,17,217,"HUNTER, OTHELLO",P005160   ,Turnover (2),TO,,,CSKA Moscow,0
+MAD       ,,2,03:46,17,218,"RANDLE, CHASSON",P008038   ,Foul Drawn (1),RV,,,Real Madrid,0
+CSK       ,,42,03:46,17,219,"HINES, KYLE",P002812   ,In,IN,,,CSKA Moscow,0
+CSK       ,,44,03:46,17,220,"HUNTER, OTHELLO",P005160   ,Out,OUT,,,CSKA Moscow,0
+MAD       ,,2,03:46,17,221,"RANDLE, CHASSON",P008038   ,Two Pointer (1/2 -  5 pt),2FGM,36.0,28.0,Real Madrid,0
+CSK       ,,13,03:08,17,222,"RODRIGUEZ, SERGIO",PCVM      ,Turnover (1),TO,,,CSKA Moscow,0
+MAD       ,,3,03:07,17,223,"RANDOLPH, ANTHONY",P005757   ,Steal (1),ST,,,Real Madrid,0
+MAD       ,,7,03:07,17,224,"DONCIC, LUKA",P005929   ,Foul Drawn (3),RV,,,Real Madrid,0
+CSK       ,,42,03:07,17,225,"HINES, KYLE",P002812   ,Foul (2),CM,,,CSKA Moscow,0
+MAD       ,,7,03:07,17,226,"DONCIC, LUKA",P005929   ,Free Throw In (2/2 -  7 pt),FTM,37.0,28.0,Real Madrid,0
+MAD       ,,7,03:07,17,227,"DONCIC, LUKA",P005929   ,Free Throw In (3/3 -  8 pt),FTM,38.0,28.0,Real Madrid,0
+CSK       ,,13,02:54,18,229,"RODRIGUEZ, SERGIO",PCVM      ,Three Pointer (2/2 -  8 pt),3FGM,38.0,31.0,CSKA Moscow,0
+CSK       ,,1,02:51,18,230,"DE COLO, NANDO",P002100   ,Assist (1),AS,,,CSKA Moscow,0
+MAD       ,,7,02:47,18,231,"DONCIC, LUKA",P005929   ,Missed Three Pointer (1/4 -  8 pt),3FGA,,,Real Madrid,0
+CSK       ,,1,02:45,18,232,"DE COLO, NANDO",P002100   ,Def Rebound (2),D,,,CSKA Moscow,0
+CSK       ,,1,02:39,18,233,"DE COLO, NANDO",P002100   ,Missed Two Pointer (1/5 -  4 pt),2FGA,,,CSKA Moscow,0
+CSK       ,,42,02:36,18,234,"HINES, KYLE",P002812   ,Off Rebound (4),O,,,CSKA Moscow,0
+CSK       ,,42,02:36,18,235,"HINES, KYLE",P002812   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,CSKA Moscow,0
+MAD       ,,14,02:36,18,236,"AYON, GUSTAVO",P005927   ,Def Rebound (9),D,,,Real Madrid,0
+MAD       ,,1,02:36,18,237,"CAUSEUR, FABIEN",P001392   ,In,IN,,,Real Madrid,0
+MAD       ,,2,02:36,18,238,"RANDLE, CHASSON",P008038   ,Out,OUT,,,Real Madrid,0
+MAD       ,,5,02:36,18,239,"FERNANDEZ, RUDY",PBMT      ,Out,OUT,,,Real Madrid,0
+MAD       ,,44,02:36,18,240,"TAYLOR, JEFFERY",P006546   ,In,IN,,,Real Madrid,0
+CSK       ,,22,02:36,18,241,"HIGGINS, CORY",P006450   ,Out,OUT,,,CSKA Moscow,0
+CSK       ,,41,02:36,18,242,"KURBANOV, NIKITA",PJLX      ,In,IN,,,CSKA Moscow,0
+MAD       ,,7,02:36,18,243,"DONCIC, LUKA",P005929   ,Turnover (1),TO,,,Real Madrid,0
+CSK       ,,21,02:36,18,244,"CLYBURN, WILL",P004888   ,Steal (2),ST,,,CSKA Moscow,0
+CSK       ,,1,02:36,18,245,"DE COLO, NANDO",P002100   ,Turnover (1),TO,,,CSKA Moscow,0
+MAD       ,,44,02:02,18,246,"TAYLOR, JEFFERY",P006546   ,Two Pointer (1/2 -  2 pt),2FGM,40.0,31.0,Real Madrid,0
+MAD       ,,7,02:02,18,247,"DONCIC, LUKA",P005929   ,Assist (1),AS,,,Real Madrid,0
+CSK       ,,,02:02,18,248,,          ,Time Out (2),TOUT,,,CSKA Moscow,0
+CSK       ,,13,01:47,19,250,"RODRIGUEZ, SERGIO",PCVM      ,Missed Three Pointer (2/3 -  8 pt),3FGA,,,CSKA Moscow,0
+MAD       ,,,01:47,19,251,,          ,Def Rebound (2),D,,,Real Madrid,0
+MAD       ,,3,01:47,19,252,"RANDOLPH, ANTHONY",P005757   ,Three Pointer (2/3 -  8 pt),3FGM,43.0,31.0,Real Madrid,0
+MAD       ,,44,01:47,19,253,"TAYLOR, JEFFERY",P006546   ,Assist (2),AS,,,Real Madrid,0
+CSK       ,,1,01:59,19,581,"DE COLO, NANDO",P002100   ,Shot Rejected (1),AG,,,CSKA Moscow,0
+CSK       ,,1,01:20,19,580,"DE COLO, NANDO",P002100   ,Missed Two Pointer (1/6 -  4 pt),2FGA,,,CSKA Moscow,0
+MAD       ,,14,01:20,19,582,"AYON, GUSTAVO",P005927   ,Block (1),FV,,,Real Madrid,0
+CSK       ,,42,01:20,19,255,"HINES, KYLE",P002812   ,Off Rebound (5),O,,,CSKA Moscow,0
+CSK       ,,42,01:20,19,256,"HINES, KYLE",P002812   ,Missed Two Pointer (1/3 -  2 pt),2FGA,,,CSKA Moscow,0
+CSK       ,,42,01:20,19,257,"HINES, KYLE",P002812   ,Foul Drawn (1),RV,,,CSKA Moscow,0
+MAD       ,,1,01:20,19,258,"CAUSEUR, FABIEN",P001392   ,Foul (1),CM,,,Real Madrid,0
+CSK       ,,20,01:20,19,259,"VORONTSEVICH, ANDREY",PLHI      ,In,IN,,,CSKA Moscow,0
+CSK       ,,21,01:20,19,260,"CLYBURN, WILL",P004888   ,Out,OUT,,,CSKA Moscow,0
+CSK       ,,41,01:00,19,261,"KURBANOV, NIKITA",PJLX      ,Missed Three Pointer (0/2 -  5 pt),3FGA,,,CSKA Moscow,0
+MAD       ,,,01:00,19,262,,          ,Def Rebound (3),D,,,Real Madrid,0
+MAD       ,,44,00:43,20,264,"TAYLOR, JEFFERY",P006546   ,Missed Two Pointer (1/3 -  2 pt),2FGA,,,Real Madrid,0
+CSK       ,,20,00:39,20,265,"VORONTSEVICH, ANDREY",PLHI      ,Def Rebound (1),D,,,CSKA Moscow,0
+CSK       ,,1,00:37,20,266,"DE COLO, NANDO",P002100   ,Turnover (2),TO,,,CSKA Moscow,0
+MAD       ,,7,00:34,20,267,"DONCIC, LUKA",P005929   ,Steal (1),ST,,,Real Madrid,0
+MAD       ,,3,00:30,20,268,"RANDOLPH, ANTHONY",P005757   ,Two Pointer (2/3 -  10 pt),2FGM,45.0,31.0,Real Madrid,0
+MAD       ,,44,00:25,20,269,"TAYLOR, JEFFERY",P006546   ,Assist (3),AS,,,Real Madrid,0
+CSK       ,,42,00:08,20,270,"HINES, KYLE",P002812   ,Missed Two Pointer (1/4 -  2 pt),2FGA,,,CSKA Moscow,0
+CSK       ,,42,00:08,20,271,"HINES, KYLE",P002812   ,Shot Rejected (1),AG,,,CSKA Moscow,0
+MAD       ,,3,00:08,20,272,"RANDOLPH, ANTHONY",P005757   ,Block (1),FV,,,Real Madrid,0
+CSK       ,,42,00:08,20,274,"HINES, KYLE",P002812   ,Off Rebound (6),O,,,CSKA Moscow,0
+CSK       ,,42,00:08,20,273,"HINES, KYLE",P002812   ,Two Pointer (2/5 -  4 pt),2FGM,45.0,33.0,CSKA Moscow,0
+MAD       ,,,00:08,20,276,,          ,Time Out (1),TOUT,,,Real Madrid,0
+MAD       ,,2,00:08,20,277,"RANDLE, CHASSON",P008038   ,In,IN,,,Real Madrid,0
+MAD       ,,11,00:08,20,278,"CAMPAZZO, FACUNDO",P005928   ,In,IN,,,Real Madrid,0
+MAD       ,,14,00:08,20,279,"AYON, GUSTAVO",P005927   ,Out,OUT,,,Real Madrid,0
+MAD       ,,44,00:08,20,280,"TAYLOR, JEFFERY",P006546   ,Out,OUT,,,Real Madrid,0
+CSK       ,,1,00:08,20,281,"DE COLO, NANDO",P002100   ,Out,OUT,,,CSKA Moscow,0
+CSK       ,,9,00:08,20,282,"WESTERMANN, LEO",P002543   ,In,IN,,,CSKA Moscow,0
+CSK       ,,13,00:08,20,283,"RODRIGUEZ, SERGIO",PCVM      ,Out,OUT,,,CSKA Moscow,0
+CSK       ,,21,00:08,20,284,"CLYBURN, WILL",P004888   ,In,IN,,,CSKA Moscow,0
+MAD       ,,11,00:00,20,285,"CAMPAZZO, FACUNDO",P005928   ,Missed Two Pointer (1/3 -  2 pt),2FGA,,,Real Madrid,0
+CSK       ,,9,00:00,20,286,"WESTERMANN, LEO",P002543   ,Def Rebound (1),D,,,CSKA Moscow,0
+          ,,,,21,288,,          ,End Period,EP,,,,0
+          ,,,,21,292,,          ,Begin Period,BP,,,,0
+MAD       ,,1,09:59,21,293,"CAUSEUR, FABIEN",P001392   ,Out,OUT,,,Real Madrid,0
+MAD       ,,2,09:59,21,294,"RANDLE, CHASSON",P008038   ,Out,OUT,,,Real Madrid,0
+MAD       ,,3,09:59,21,295,"RANDOLPH, ANTHONY",P005757   ,Out,OUT,,,Real Madrid,0
+MAD       ,,9,09:59,21,296,"REYES, FELIPE",PAAX      ,In,IN,,,Real Madrid,0
+MAD       ,,14,09:59,21,297,"AYON, GUSTAVO",P005927   ,In,IN,,,Real Madrid,0
+MAD       ,,44,09:59,21,298,"TAYLOR, JEFFERY",P006546   ,In,IN,,,Real Madrid,0
+CSK       ,,20,09:59,21,299,"VORONTSEVICH, ANDREY",PLHI      ,Out,OUT,,,CSKA Moscow,0
+CSK       ,,22,09:59,21,300,"HIGGINS, CORY",P006450   ,In,IN,,,CSKA Moscow,0
+CSK       ,,22,09:39,21,301,"HIGGINS, CORY",P006450   ,Missed Two Pointer (1/3 -  6 pt),2FGA,,,CSKA Moscow,0
+MAD       ,,14,09:36,21,302,"AYON, GUSTAVO",P005927   ,Def Rebound (10),D,,,Real Madrid,0
+MAD       ,,9,09:31,21,303,"REYES, FELIPE",PAAX      ,Missed Two Pointer (0/1 -  5 pt),2FGA,,,Real Madrid,0
+CSK       ,,22,09:31,21,304,"HIGGINS, CORY",P006450   ,Def Rebound (2),D,,,CSKA Moscow,0
+CSK       ,,22,09:31,21,305,"HIGGINS, CORY",P006450   ,Foul Drawn (3),RV,,,CSKA Moscow,0
+MAD       ,,44,09:31,21,306,"TAYLOR, JEFFERY",P006546   ,Foul (2),CM,,,Real Madrid,0
+CSK       ,,41,09:13,21,307,"KURBANOV, NIKITA",PJLX      ,Missed Two Pointer (2/5 -  5 pt),2FGA,,,CSKA Moscow,0
+CSK       ,,41,09:13,21,308,"KURBANOV, NIKITA",PJLX      ,Shot Rejected (1),AG,,,CSKA Moscow,0
+MAD       ,,11,09:13,21,309,"CAMPAZZO, FACUNDO",P005928   ,Block (1),FV,,,Real Madrid,0
+CSK       ,,,09:13,21,310,,          ,Off Rebound (3),O,,,CSKA Moscow,0
+CSK       ,,21,09:13,21,311,"CLYBURN, WILL",P004888   ,Two Pointer (2/4 -  4 pt),2FGM,45.0,35.0,CSKA Moscow,0
+MAD       ,,7,08:51,22,313,"DONCIC, LUKA",P005929   ,Foul Drawn (4),RV,,,Real Madrid,0
+CSK       ,,22,08:51,22,314,"HIGGINS, CORY",P006450   ,Foul (1),CM,,,CSKA Moscow,0
+MAD       ,,11,08:51,22,315,"CAMPAZZO, FACUNDO",P005928   ,Turnover (1),TO,,,Real Madrid,0
+CSK       ,,22,08:51,22,316,"HIGGINS, CORY",P006450   ,Steal (1),ST,,,CSKA Moscow,0
+CSK       ,,22,08:39,22,317,"HIGGINS, CORY",P006450   ,Missed Two Pointer (1/4 -  6 pt),2FGA,,,CSKA Moscow,0
+CSK       ,,21,08:39,22,318,"CLYBURN, WILL",P004888   ,Off Rebound (1),O,,,CSKA Moscow,0
+CSK       ,,21,08:39,22,319,"CLYBURN, WILL",P004888   ,Foul Drawn (1),RV,,,CSKA Moscow,0
+MAD       ,,11,08:39,22,321,"CAMPAZZO, FACUNDO",P005928   ,Foul (2),CM,,,Real Madrid,0
+CSK       ,,21,08:39,22,322,"CLYBURN, WILL",P004888   ,Free Throw In (1/1 -  5 pt),FTM,45.0,36.0,CSKA Moscow,0
+CSK       ,,21,08:39,22,323,"CLYBURN, WILL",P004888   ,Missed Free Throw (1/2 -  5 pt),FTA,,,CSKA Moscow,0
+CSK       ,,21,08:39,22,324,"CLYBURN, WILL",P004888   ,Off Rebound (2),O,,,CSKA Moscow,0
+CSK       ,,22,08:26,22,325,"HIGGINS, CORY",P006450   ,Foul Drawn (4),RV,,,CSKA Moscow,0
+MAD       ,,14,08:26,22,326,"AYON, GUSTAVO",P005927   ,Foul (1),CM,,,Real Madrid,0
+CSK       ,,22,08:26,22,327,"HIGGINS, CORY",P006450   ,Free Throw In (2/3 -  7 pt),FTM,45.0,37.0,CSKA Moscow,0
+CSK       ,,22,08:26,22,328,"HIGGINS, CORY",P006450   ,Free Throw In (3/4 -  8 pt),FTM,45.0,38.0,CSKA Moscow,0
+MAD       ,,7,08:05,22,329,"DONCIC, LUKA",P005929   ,Missed Three Pointer (1/5 -  8 pt),3FGA,,,Real Madrid,0
+CSK       ,,,08:05,22,330,,          ,Def Rebound (4),D,,,CSKA Moscow,0
+CSK       ,,21,07:53,23,332,"CLYBURN, WILL",P004888   ,Foul Drawn (2),RV,,,CSKA Moscow,0
+MAD       ,,9,07:53,23,333,"REYES, FELIPE",PAAX      ,Foul (1),CM,,,Real Madrid,0
+MAD       ,,3,07:53,23,334,"RANDOLPH, ANTHONY",P005757   ,In,IN,,,Real Madrid,0
+MAD       ,,9,07:53,23,335,"REYES, FELIPE",PAAX      ,Out,OUT,,,Real Madrid,0
+CSK       ,,21,07:53,23,336,"CLYBURN, WILL",P004888   ,Missed Free Throw (1/3 -  5 pt),FTA,,,CSKA Moscow,0
+CSK       ,,21,07:53,23,337,"CLYBURN, WILL",P004888   ,Free Throw In (2/4 -  6 pt),FTM,45.0,39.0,CSKA Moscow,0
+CSK       ,,42,07:41,23,338,"HINES, KYLE",P002812   ,Foul (3),CM,,,CSKA Moscow,0
+MAD       ,,14,07:41,23,339,"AYON, GUSTAVO",P005927   ,Foul Drawn (1),RV,,,Real Madrid,0
+CSK       ,,42,07:41,23,340,"HINES, KYLE",P002812   ,Out,OUT,,,CSKA Moscow,0
+CSK       ,,44,07:41,23,341,"HUNTER, OTHELLO",P005160   ,In,IN,,,CSKA Moscow,0
+CSK       ,,9,07:37,23,343,"WESTERMANN, LEO",P002543   ,Foul (2),CM,,,CSKA Moscow,0
+MAD       ,,11,07:37,23,344,"CAMPAZZO, FACUNDO",P005928   ,Foul Drawn (2),RV,,,Real Madrid,0
+MAD       ,,3,07:37,23,345,"RANDOLPH, ANTHONY",P005757   ,Two Pointer (3/4 -  12 pt),2FGM,47.0,39.0,Real Madrid,0
+MAD       ,,44,07:37,23,346,"TAYLOR, JEFFERY",P006546   ,Assist (4),AS,,,Real Madrid,0
+CSK       ,,44,07:30,23,347,"HUNTER, OTHELLO",P005160   ,Offensive Foul (3),OF,,,CSKA Moscow,0
+CSK       ,,44,07:30,23,348,"HUNTER, OTHELLO",P005160   ,Turnover (3),TO,,,CSKA Moscow,0
+MAD       ,,11,07:30,23,349,"CAMPAZZO, FACUNDO",P005928   ,Foul Drawn (3),RV,,,Real Madrid,0
+MAD       ,,14,07:08,23,350,"AYON, GUSTAVO",P005927   ,Turnover (1),TO,,,Real Madrid,0
+CSK       ,,44,07:00,23,351,"HUNTER, OTHELLO",P005160   ,Missed Two Pointer (0/4 -  0 pt),2FGA,,,CSKA Moscow,0
+CSK       ,,41,07:00,23,352,"KURBANOV, NIKITA",PJLX      ,Off Rebound (2),O,,,CSKA Moscow,0
+CSK       ,,21,07:00,23,353,"CLYBURN, WILL",P004888   ,Three Pointer (1/2 -  9 pt),3FGM,47.0,42.0,CSKA Moscow,0
+CSK       ,,21,06:34,24,355,"CLYBURN, WILL",P004888   ,Foul (2),CM,,,CSKA Moscow,0
+MAD       ,,3,06:34,24,356,"RANDOLPH, ANTHONY",P005757   ,Foul Drawn (1),RV,,,Real Madrid,0
+MAD       ,,3,06:34,24,357,"RANDOLPH, ANTHONY",P005757   ,Free Throw In (1/1 -  13 pt),FTM,48.0,42.0,Real Madrid,0
+MAD       ,,3,06:34,24,358,"RANDOLPH, ANTHONY",P005757   ,Free Throw In (2/2 -  14 pt),FTM,49.0,42.0,Real Madrid,0
+CSK       ,,21,06:19,24,359,"CLYBURN, WILL",P004888   ,Foul Drawn (3),RV,,,CSKA Moscow,0
+MAD       ,,14,06:19,24,360,"AYON, GUSTAVO",P005927   ,Foul (2),CM,,,Real Madrid,0
+CSK       ,,21,06:17,24,361,"CLYBURN, WILL",P004888   ,Free Throw In (3/5 -  10 pt),FTM,49.0,43.0,CSKA Moscow,0
+CSK       ,,21,06:17,24,362,"CLYBURN, WILL",P004888   ,Free Throw In (4/6 -  11 pt),FTM,49.0,44.0,CSKA Moscow,0
+MAD       ,,14,06:04,24,363,"AYON, GUSTAVO",P005927   ,Missed Two Pointer (1/6 -  2 pt),2FGA,,,Real Madrid,0
+MAD       ,,14,06:04,24,364,"AYON, GUSTAVO",P005927   ,Shot Rejected (1),AG,,,Real Madrid,0
+CSK       ,,41,06:01,24,365,"KURBANOV, NIKITA",PJLX      ,Block (1),FV,,,CSKA Moscow,0
+CSK       ,,21,06:00,24,366,"CLYBURN, WILL",P004888   ,Def Rebound (4),D,,,CSKA Moscow,0
+CSK       ,,9,05:39,25,368,"WESTERMANN, LEO",P002543   ,Missed Three Pointer (0/2 -  4 pt),3FGA,,,CSKA Moscow,0
+MAD       ,,7,05:37,25,369,"DONCIC, LUKA",P005929   ,Def Rebound (1),D,,,Real Madrid,0
+MAD       ,,7,05:37,25,370,"DONCIC, LUKA",P005929   ,Foul Drawn (5),RV,,,Real Madrid,0
+CSK       ,,22,05:37,25,371,"HIGGINS, CORY",P006450   ,Foul (2),CM,,,CSKA Moscow,0
+MAD       ,,1,05:37,25,372,"CAUSEUR, FABIEN",P001392   ,In,IN,,,Real Madrid,0
+MAD       ,,11,05:37,25,373,"CAMPAZZO, FACUNDO",P005928   ,Out,OUT,,,Real Madrid,0
+MAD       ,,7,05:37,25,374,"DONCIC, LUKA",P005929   ,Missed Free Throw (3/4 -  8 pt),FTA,,,Real Madrid,0
+MAD       ,,7,05:37,25,375,"DONCIC, LUKA",P005929   ,Free Throw In (4/5 -  9 pt),FTM,50.0,44.0,Real Madrid,0
+CSK       ,,22,05:17,25,376,"HIGGINS, CORY",P006450   ,Two Pointer (2/5 -  10 pt),2FGM,50.0,46.0,CSKA Moscow,0
+MAD       ,,1,05:02,25,377,"CAUSEUR, FABIEN",P001392   ,Two Pointer (1/1 -  5 pt),2FGM,52.0,46.0,Real Madrid,0
+CSK       ,,44,04:41,26,379,"HUNTER, OTHELLO",P005160   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,CSKA Moscow,0
+CSK       ,,41,04:37,26,380,"KURBANOV, NIKITA",PJLX      ,Off Rebound (3),O,,,CSKA Moscow,0
+CSK       ,,21,04:35,26,381,"CLYBURN, WILL",P004888   ,Missed Three Pointer (1/3 -  11 pt),3FGA,,,CSKA Moscow,0
+CSK       ,,44,04:35,26,382,"HUNTER, OTHELLO",P005160   ,Off Rebound (3),O,,,CSKA Moscow,0
+CSK       ,,44,04:35,26,383,"HUNTER, OTHELLO",P005160   ,Missed Two Pointer (0/5 -  0 pt),2FGA,,,CSKA Moscow,0
+MAD       ,,14,04:35,26,384,"AYON, GUSTAVO",P005927   ,Def Rebound (11),D,,,Real Madrid,0
+          ,,,04:35,26,385,,          ,TV Time Out (1),TOUT_TV,,,,0
+MAD       ,,5,04:35,26,386,"FERNANDEZ, RUDY",PBMT      ,In,IN,,,Real Madrid,0
+MAD       ,,44,04:35,26,387,"TAYLOR, JEFFERY",P006546   ,Out,OUT,,,Real Madrid,0
+MAD       ,,3,04:15,26,388,"RANDOLPH, ANTHONY",P005757   ,Missed Three Pointer (2/4 -  14 pt),3FGA,,,Real Madrid,0
+CSK       ,,21,04:13,26,389,"CLYBURN, WILL",P004888   ,Def Rebound (5),D,,,CSKA Moscow,0
+CSK       ,,21,04:10,26,390,"CLYBURN, WILL",P004888   ,Two Pointer (3/5 -  13 pt),2FGM,52.0,48.0,CSKA Moscow,0
+MAD       ,,14,03:42,27,392,"AYON, GUSTAVO",P005927   ,Two Pointer (2/7 -  4 pt),2FGM,54.0,48.0,Real Madrid,0
+CSK       ,,22,03:23,27,394,"HIGGINS, CORY",P006450   ,Foul Drawn (5),RV,,,CSKA Moscow,0
+MAD       ,,3,03:23,27,395,"RANDOLPH, ANTHONY",P005757   ,Foul (1),CM,,,Real Madrid,0
+CSK       ,,22,03:23,27,396,"HIGGINS, CORY",P006450   ,Free Throw In (4/5 -  11 pt),FTM,54.0,49.0,CSKA Moscow,0
+CSK       ,,22,03:23,27,397,"HIGGINS, CORY",P006450   ,Missed Free Throw (4/6 -  11 pt),FTA,,,CSKA Moscow,0
+MAD       ,,3,03:23,27,398,"RANDOLPH, ANTHONY",P005757   ,Def Rebound (1),D,,,Real Madrid,0
+MAD       ,,5,03:08,27,399,"FERNANDEZ, RUDY",PBMT      ,Missed Three Pointer (1/2 -  3 pt),3FGA,,,Real Madrid,0
+CSK       ,,44,03:08,27,400,"HUNTER, OTHELLO",P005160   ,Def Rebound (3),D,,,CSKA Moscow,0
+CSK       ,,44,03:08,27,401,"HUNTER, OTHELLO",P005160   ,Foul Drawn (2),RV,,,CSKA Moscow,0
+MAD       ,,14,03:08,27,402,"AYON, GUSTAVO",P005927   ,Foul (3),CM,,,Real Madrid,0
+MAD       ,,9,03:08,27,403,"REYES, FELIPE",PAAX      ,In,IN,,,Real Madrid,0
+MAD       ,,14,03:08,27,404,"AYON, GUSTAVO",P005927   ,Out,OUT,,,Real Madrid,0
+CSK       ,,44,03:08,27,405,"HUNTER, OTHELLO",P005160   ,Missed Free Throw (0/1 -  0 pt),FTA,,,CSKA Moscow,0
+CSK       ,,44,03:00,27,406,"HUNTER, OTHELLO",P005160   ,Free Throw In (1/2 -  1 pt),FTM,54.0,50.0,CSKA Moscow,0
+MAD       ,,3,03:00,27,407,"RANDOLPH, ANTHONY",P005757   ,Two Pointer (4/5 -  16 pt),2FGM,56.0,50.0,Real Madrid,0
+CSK       ,,44,03:00,27,408,"HUNTER, OTHELLO",P005160   ,Two Pointer (1/6 -  3 pt),2FGM,56.0,52.0,CSKA Moscow,0
+MAD       ,,9,02:01,28,411,"REYES, FELIPE",PAAX      ,Missed Two Pointer (0/2 -  5 pt),2FGA,,,Real Madrid,0
+MAD       ,,9,02:01,28,412,"REYES, FELIPE",PAAX      ,Shot Rejected (1),AG,,,Real Madrid,0
+CSK       ,,22,02:01,28,413,"HIGGINS, CORY",P006450   ,Block (1),FV,,,CSKA Moscow,0
+MAD       ,,,02:01,28,414,,          ,Turnover (1),TO,,,Real Madrid,0
+CSK       ,,21,01:42,29,416,"CLYBURN, WILL",P004888   ,Missed Two Pointer (3/6 -  13 pt),2FGA,,,CSKA Moscow,0
+MAD       ,,7,01:38,29,417,"DONCIC, LUKA",P005929   ,Def Rebound (2),D,,,Real Madrid,0
+MAD       ,,3,01:38,29,418,"RANDOLPH, ANTHONY",P005757   ,Out,OUT,,,Real Madrid,0
+MAD       ,,8,01:38,29,419,"MACIULIS, JONAS",PJCC      ,In,IN,,,Real Madrid,0
+MAD       ,,7,01:21,29,420,"DONCIC, LUKA",P005929   ,Missed Three Pointer (1/6 -  9 pt),3FGA,,,Real Madrid,0
+MAD       ,,5,01:18,29,421,"FERNANDEZ, RUDY",PBMT      ,Off Rebound (1),O,,,Real Madrid,0
+MAD       ,,8,01:07,29,422,"MACIULIS, JONAS",PJCC      ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Real Madrid,0
+CSK       ,,21,01:05,29,423,"CLYBURN, WILL",P004888   ,Def Rebound (6),D,,,CSKA Moscow,0
+CSK       ,,9,00:47,30,425,"WESTERMANN, LEO",P002543   ,Missed Two Pointer (2/4 -  4 pt),2FGA,,,CSKA Moscow,0
+MAD       ,,5,00:46,30,426,"FERNANDEZ, RUDY",PBMT      ,Def Rebound (2),D,,,Real Madrid,0
+MAD       ,,7,00:46,30,427,"DONCIC, LUKA",P005929   ,Technical Foul (2),CMT,,,Real Madrid,0
+CSK       ,,1,00:46,30,428,"DE COLO, NANDO",P002100   ,In,IN,,,CSKA Moscow,0
+CSK       ,,9,00:46,30,429,"WESTERMANN, LEO",P002543   ,Out,OUT,,,CSKA Moscow,0
+MAD       ,,7,00:46,30,430,"DONCIC, LUKA",P005929   ,Turnover (2),TO,,,Real Madrid,0
+CSK       ,,1,00:46,30,431,"DE COLO, NANDO",P002100   ,Free Throw In (3/3 -  5 pt),FTM,56.0,53.0,CSKA Moscow,0
+CSK       ,,44,00:46,30,433,"HUNTER, OTHELLO",P005160   ,Offensive Foul (4),OF,,,CSKA Moscow,0
+CSK       ,,44,00:46,30,434,"HUNTER, OTHELLO",P005160   ,Turnover (4),TO,,,CSKA Moscow,0
+CSK       ,,42,00:46,30,435,"HINES, KYLE",P002812   ,In,IN,,,CSKA Moscow,0
+CSK       ,,44,00:46,30,436,"HUNTER, OTHELLO",P005160   ,Out,OUT,,,CSKA Moscow,0
+MAD       ,,7,00:46,30,437,"DONCIC, LUKA",P005929   ,Out,OUT,,,Real Madrid,0
+MAD       ,,11,00:46,30,438,"CAMPAZZO, FACUNDO",P005928   ,In,IN,,,Real Madrid,0
+MAD       ,,1,00:46,30,439,"CAUSEUR, FABIEN",P001392   ,Foul Drawn (1),RV,,,Real Madrid,0
+MAD       ,,11,00:46,30,440,"CAMPAZZO, FACUNDO",P005928   ,Turnover (2),TO,,,Real Madrid,0
+CSK       ,,22,00:01,30,441,"HIGGINS, CORY",P006450   ,Turnover (2),TO,,,CSKA Moscow,0
+MAD       ,,11,00:01,30,442,"CAMPAZZO, FACUNDO",P005928   ,Missed Three Pointer (0/3 -  2 pt),3FGA,,,Real Madrid,0
+          ,,,,31,444,,          ,End Period,EP,,,,0
+          ,,,,31,445,,          ,Begin Period,BP,,,,0
+CSK       ,,13,09:59,31,446,"RODRIGUEZ, SERGIO",PCVM      ,In,IN,,,CSKA Moscow,0
+CSK       ,,22,09:59,31,447,"HIGGINS, CORY",P006450   ,Out,OUT,,,CSKA Moscow,0
+CSK       ,,1,09:44,31,448,"DE COLO, NANDO",P002100   ,Foul Drawn (2),RV,,,CSKA Moscow,0
+MAD       ,,1,09:44,31,449,"CAUSEUR, FABIEN",P001392   ,Foul (2),CM,,,Real Madrid,0
+CSK       ,,1,09:44,31,451,"DE COLO, NANDO",P002100   ,Free Throw In (4/4 -  6 pt),FTM,56.0,54.0,CSKA Moscow,0
+CSK       ,,1,09:44,31,452,"DE COLO, NANDO",P002100   ,Free Throw In (5/5 -  7 pt),FTM,56.0,55.0,CSKA Moscow,0
+MAD       ,,9,09:20,31,453,"REYES, FELIPE",PAAX      ,Two Pointer (1/3 -  7 pt),2FGM,58.0,55.0,Real Madrid,0
+MAD       ,,5,09:17,31,454,"FERNANDEZ, RUDY",PBMT      ,Assist (1),AS,,,Real Madrid,0
+CSK       ,,1,09:05,31,455,"DE COLO, NANDO",P002100   ,Turnover (3),TO,,,CSKA Moscow,0
+MAD       ,,5,09:03,31,456,"FERNANDEZ, RUDY",PBMT      ,Steal (2),ST,,,Real Madrid,0
+MAD       ,,1,08:55,32,458,"CAUSEUR, FABIEN",P001392   ,Missed Three Pointer (1/2 -  5 pt),3FGA,,,Real Madrid,0
+MAD       ,,9,08:52,32,459,"REYES, FELIPE",PAAX      ,Off Rebound (3),O,,,Real Madrid,0
+MAD       ,,5,08:47,32,460,"FERNANDEZ, RUDY",PBMT      ,Three Pointer (2/3 -  6 pt),3FGM,61.0,55.0,Real Madrid,0
+MAD       ,,11,08:45,32,461,"CAMPAZZO, FACUNDO",P005928   ,Assist (2),AS,,,Real Madrid,0
+CSK       ,,21,08:40,32,462,"CLYBURN, WILL",P004888   ,Foul Drawn (4),RV,,,CSKA Moscow,0
+MAD       ,,8,08:40,32,463,"MACIULIS, JONAS",PJCC      ,Foul (1),CM,,,Real Madrid,0
+CSK       ,,22,08:40,32,464,"HIGGINS, CORY",P006450   ,In,IN,,,CSKA Moscow,0
+CSK       ,,41,08:40,32,465,"KURBANOV, NIKITA",PJLX      ,Out,OUT,,,CSKA Moscow,0
+CSK       ,,21,08:28,32,466,"CLYBURN, WILL",P004888   ,Foul Drawn (5),RV,,,CSKA Moscow,0
+MAD       ,,9,08:28,32,467,"REYES, FELIPE",PAAX      ,Foul (2),CM,,,Real Madrid,0
+CSK       ,,21,08:28,32,468,"CLYBURN, WILL",P004888   ,Free Throw In (5/7 -  14 pt),FTM,61.0,56.0,CSKA Moscow,0
+CSK       ,,21,08:28,32,469,"CLYBURN, WILL",P004888   ,Free Throw In (6/8 -  15 pt),FTM,61.0,57.0,CSKA Moscow,0
+MAD       ,,9,08:17,32,470,"REYES, FELIPE",PAAX      ,Missed Two Pointer (1/4 -  7 pt),2FGA,,,Real Madrid,0
+MAD       ,,9,08:17,32,471,"REYES, FELIPE",PAAX      ,Shot Rejected (2),AG,,,Real Madrid,0
+CSK       ,,22,08:17,32,472,"HIGGINS, CORY",P006450   ,Block (2),FV,,,CSKA Moscow,0
+MAD       ,,,08:17,32,473,,          ,Off Rebound (4),O,,,Real Madrid,0
+MAD       ,,8,08:17,32,474,"MACIULIS, JONAS",PJCC      ,Three Pointer (1/2 -  3 pt),3FGM,64.0,57.0,Real Madrid,0
+MAD       ,,1,08:17,32,475,"CAUSEUR, FABIEN",P001392   ,Assist (2),AS,,,Real Madrid,0
+CSK       ,,42,07:47,33,477,"HINES, KYLE",P002812   ,Two Pointer (3/6 -  6 pt),2FGM,64.0,59.0,CSKA Moscow,0
+MAD       ,,11,07:20,33,478,"CAMPAZZO, FACUNDO",P005928   ,Three Pointer (1/4 -  5 pt),3FGM,67.0,59.0,Real Madrid,0
+MAD       ,,9,07:18,33,479,"REYES, FELIPE",PAAX      ,Assist (1),AS,,,Real Madrid,0
+CSK       ,,13,07:14,33,480,"RODRIGUEZ, SERGIO",PCVM      ,Turnover (2),TO,,,CSKA Moscow,0
+MAD       ,,8,07:14,33,481,"MACIULIS, JONAS",PJCC      ,Steal (1),ST,,,Real Madrid,0
+MAD       ,,1,07:09,33,482,"CAUSEUR, FABIEN",P001392   ,Foul Drawn (2),RV,,,Real Madrid,0
+CSK       ,,21,07:09,33,483,"CLYBURN, WILL",P004888   ,Foul (3),CM,,,CSKA Moscow,0
+CSK       ,,,07:09,33,484,,          ,Time Out (1),TOUT,,,CSKA Moscow,0
+MAD       ,,1,07:09,33,485,"CAUSEUR, FABIEN",P001392   ,Missed Free Throw (0/1 -  5 pt),FTA,,,Real Madrid,0
+MAD       ,,1,07:09,33,486,"CAUSEUR, FABIEN",P001392   ,Missed Free Throw (0/2 -  5 pt),FTA,,,Real Madrid,0
+CSK       ,,21,07:09,33,487,"CLYBURN, WILL",P004888   ,Def Rebound (7),D,,,CSKA Moscow,0
+CSK       ,,13,07:02,33,488,"RODRIGUEZ, SERGIO",PCVM      ,Turnover (3),TO,,,CSKA Moscow,0
+MAD       ,,11,07:02,33,489,"CAMPAZZO, FACUNDO",P005928   ,Steal (1),ST,,,Real Madrid,0
+MAD       ,,11,06:56,34,491,"CAMPAZZO, FACUNDO",P005928   ,Foul Drawn (4),RV,,,Real Madrid,0
+CSK       ,,13,06:56,34,492,"RODRIGUEZ, SERGIO",PCVM      ,Foul (1),CM,,,CSKA Moscow,0
+CSK       ,,9,06:56,34,493,"WESTERMANN, LEO",P002543   ,In,IN,,,CSKA Moscow,0
+CSK       ,,13,06:56,34,494,"RODRIGUEZ, SERGIO",PCVM      ,Out,OUT,,,CSKA Moscow,0
+MAD       ,,11,06:56,34,495,"CAMPAZZO, FACUNDO",P005928   ,Two Pointer (2/4 -  7 pt),2FGM,69.0,59.0,Real Madrid,0
+CSK       ,,22,06:21,34,496,"HIGGINS, CORY",P006450   ,Turnover (3),TO,,,CSKA Moscow,0
+MAD       ,,11,06:08,34,497,"CAMPAZZO, FACUNDO",P005928   ,Two Pointer (3/5 -  9 pt),2FGM,71.0,59.0,Real Madrid,0
+CSK       ,,9,05:57,35,499,"WESTERMANN, LEO",P002543   ,Foul Drawn (1),RV,,,CSKA Moscow,0
+MAD       ,,9,05:57,35,500,"REYES, FELIPE",PAAX      ,Foul (3),CM,,,Real Madrid,0
+CSK       ,,9,05:24,35,501,"WESTERMANN, LEO",P002543   ,Turnover (1),TO,,,CSKA Moscow,0
+MAD       ,,5,05:24,35,502,"FERNANDEZ, RUDY",PBMT      ,Steal (3),ST,,,Real Madrid,0
+MAD       ,,5,05:24,35,503,"FERNANDEZ, RUDY",PBMT      ,Out,OUT,,,Real Madrid,0
+MAD       ,,7,05:24,35,504,"DONCIC, LUKA",P005929   ,In,IN,,,Real Madrid,0
+MAD       ,,11,05:07,35,505,"CAMPAZZO, FACUNDO",P005928   ,Missed Three Pointer (1/5 -  9 pt),3FGA,,,Real Madrid,0
+CSK       ,,22,05:02,35,506,"HIGGINS, CORY",P006450   ,Def Rebound (3),D,,,CSKA Moscow,0
+CSK       ,,7,04:37,36,508,"FRIDZON, VITALY",PLLH      ,In,IN,,,CSKA Moscow,0
+CSK       ,,21,04:37,36,509,"CLYBURN, WILL",P004888   ,Out,OUT,,,CSKA Moscow,0
+CSK       ,,7,04:35,36,510,"FRIDZON, VITALY",PLLH      ,Three Pointer (1/1 -  3 pt),3FGM,71.0,62.0,CSKA Moscow,0
+CSK       ,,22,04:35,36,583,"HIGGINS, CORY",P006450   ,Assist (1),AS,,,CSKA Moscow,0
+MAD       ,,9,04:35,36,511,"REYES, FELIPE",PAAX      ,Foul Drawn (4),RV,,,Real Madrid,0
+CSK       ,,22,04:35,36,512,"HIGGINS, CORY",P006450   ,Foul (3),CM,,,CSKA Moscow,0
+MAD       ,,9,04:35,36,513,"REYES, FELIPE",PAAX      ,Out,OUT,,,Real Madrid,0
+MAD       ,,14,04:35,36,514,"AYON, GUSTAVO",P005927   ,In,IN,,,Real Madrid,0
+CSK       ,,9,04:35,36,515,"WESTERMANN, LEO",P002543   ,Out,OUT,,,CSKA Moscow,0
+CSK       ,,11,04:35,36,516,"ANTONOV, SEMEN",P004941   ,In,IN,,,CSKA Moscow,0
+MAD       ,,1,04:35,36,517,"CAUSEUR, FABIEN",P001392   ,Missed Three Pointer (1/3 -  5 pt),3FGA,,,Real Madrid,0
+CSK       ,,11,04:35,36,518,"ANTONOV, SEMEN",P004941   ,Def Rebound (3),D,,,CSKA Moscow,0
+CSK       ,,22,04:35,36,519,"HIGGINS, CORY",P006450   ,Missed Two Pointer (2/6 -  11 pt),2FGA,,,CSKA Moscow,0
+MAD       ,,11,04:35,36,520,"CAMPAZZO, FACUNDO",P005928   ,Def Rebound (3),D,,,Real Madrid,0
+MAD       ,,11,04:59,36,585,"CAMPAZZO, FACUNDO",P005928   ,Shot Rejected (1),AG,,,Real Madrid,0
+MAD       ,,11,04:35,36,584,"CAMPAZZO, FACUNDO",P005928   ,Missed Two Pointer (3/6 -  9 pt),2FGA,,,Real Madrid,0
+CSK       ,,11,04:35,36,586,"ANTONOV, SEMEN",P004941   ,Block (1),FV,,,CSKA Moscow,0
+CSK       ,,42,04:35,36,522,"HINES, KYLE",P002812   ,Def Rebound (1),D,,,CSKA Moscow,0
+MAD       ,,11,03:49,37,524,"CAMPAZZO, FACUNDO",P005928   ,Foul (3),CM,,,Real Madrid,0
+CSK       ,,1,03:49,37,525,"DE COLO, NANDO",P002100   ,Foul Drawn (3),RV,,,CSKA Moscow,0
+MAD       ,,11,03:49,37,526,"CAMPAZZO, FACUNDO",P005928   ,Out,OUT,,,Real Madrid,0
+MAD       ,,44,03:49,37,527,"TAYLOR, JEFFERY",P006546   ,In,IN,,,Real Madrid,0
+CSK       ,,1,03:49,37,528,"DE COLO, NANDO",P002100   ,Free Throw In (6/6 -  8 pt),FTM,71.0,63.0,CSKA Moscow,0
+CSK       ,,1,03:49,37,529,"DE COLO, NANDO",P002100   ,Free Throw In (7/7 -  9 pt),FTM,71.0,64.0,CSKA Moscow,0
+MAD       ,,14,03:35,37,530,"AYON, GUSTAVO",P005927   ,Missed Two Pointer (2/8 -  4 pt),2FGA,,,Real Madrid,0
+CSK       ,,1,03:31,37,531,"DE COLO, NANDO",P002100   ,Def Rebound (3),D,,,CSKA Moscow,0
+CSK       ,,1,03:31,37,532,"DE COLO, NANDO",P002100   ,Turnover (4),TO,,,CSKA Moscow,0
+MAD       ,,7,03:31,37,533,"DONCIC, LUKA",P005929   ,Steal (2),ST,,,Real Madrid,0
+MAD       ,,7,03:31,37,534,"DONCIC, LUKA",P005929   ,Foul Drawn (6),RV,,,Real Madrid,0
+CSK       ,,11,03:31,37,535,"ANTONOV, SEMEN",P004941   ,Foul (2),CM,,,CSKA Moscow,0
+MAD       ,,7,03:31,37,536,"DONCIC, LUKA",P005929   ,Free Throw In (5/6 -  10 pt),FTM,72.0,64.0,Real Madrid,0
+MAD       ,,7,03:31,37,537,"DONCIC, LUKA",P005929   ,Free Throw In (6/7 -  11 pt),FTM,73.0,64.0,Real Madrid,0
+CSK       ,,42,03:15,37,538,"HINES, KYLE",P002812   ,Two Pointer (4/7 -  8 pt),2FGM,73.0,66.0,CSKA Moscow,0
+CSK       ,,1,03:15,37,539,"DE COLO, NANDO",P002100   ,Assist (2),AS,,,CSKA Moscow,0
+MAD       ,,44,02:59,38,541,"TAYLOR, JEFFERY",P006546   ,Three Pointer (1/1 -  5 pt),3FGM,76.0,66.0,Real Madrid,0
+MAD       ,,7,02:59,38,542,"DONCIC, LUKA",P005929   ,Assist (2),AS,,,Real Madrid,0
+CSK       ,,,02:59,38,544,,          ,Time Out (2),TOUT,,,CSKA Moscow,0
+CSK       ,,7,02:46,38,545,"FRIDZON, VITALY",PLLH      ,Two Pointer (1/1 -  5 pt),2FGM,76.0,68.0,CSKA Moscow,0
+CSK       ,,1,02:44,38,546,"DE COLO, NANDO",P002100   ,Assist (3),AS,,,CSKA Moscow,0
+MAD       ,,8,02:36,38,547,"MACIULIS, JONAS",PJCC      ,Three Pointer (2/3 -  6 pt),3FGM,79.0,68.0,Real Madrid,0
+MAD       ,,1,02:36,38,548,"CAUSEUR, FABIEN",P001392   ,Assist (3),AS,,,Real Madrid,0
+CSK       ,,11,02:06,38,549,"ANTONOV, SEMEN",P004941   ,Foul Drawn (1),RV,,,CSKA Moscow,0
+MAD       ,,8,02:06,38,550,"MACIULIS, JONAS",PJCC      ,Foul (2),CM,,,Real Madrid,0
+CSK       ,,11,02:06,38,551,"ANTONOV, SEMEN",P004941   ,Missed Free Throw (0/1 -  0 pt),FTA,,,CSKA Moscow,0
+CSK       ,,11,02:06,38,552,"ANTONOV, SEMEN",P004941   ,Free Throw In (1/2 -  1 pt),FTM,79.0,69.0,CSKA Moscow,0
+MAD       ,,,01:53,39,554,,          ,Time Out (1),TOUT,,,Real Madrid,0
+MAD       ,,7,01:52,39,555,"DONCIC, LUKA",P005929   ,Foul Drawn (7),RV,,,Real Madrid,0
+CSK       ,,22,01:52,39,556,"HIGGINS, CORY",P006450   ,Foul (4),CM,,,CSKA Moscow,0
+CSK       ,,11,01:52,39,557,"ANTONOV, SEMEN",P004941   ,Out,OUT,,,CSKA Moscow,0
+CSK       ,,21,01:52,39,558,"CLYBURN, WILL",P004888   ,In,IN,,,CSKA Moscow,0
+MAD       ,,7,01:52,39,559,"DONCIC, LUKA",P005929   ,Missed Free Throw (6/8 -  11 pt),FTA,,,Real Madrid,0
+MAD       ,,7,01:52,39,560,"DONCIC, LUKA",P005929   ,Free Throw In (7/9 -  12 pt),FTM,80.0,69.0,Real Madrid,0
+CSK       ,,42,01:31,39,561,"HINES, KYLE",P002812   ,Missed Two Pointer (4/8 -  8 pt),2FGA,,,CSKA Moscow,0
+MAD       ,,7,01:28,39,562,"DONCIC, LUKA",P005929   ,Def Rebound (3),D,,,Real Madrid,0
+MAD       ,,7,01:14,39,563,"DONCIC, LUKA",P005929   ,Foul Drawn (8),RV,,,Real Madrid,0
+CSK       ,,7,01:14,39,564,"FRIDZON, VITALY",PLLH      ,Foul (1),CM,,,CSKA Moscow,0
+CSK       ,,,01:14,39,565,,          ,Time Out (3),TOUT,,,CSKA Moscow,0
+MAD       ,,7,01:14,39,566,"DONCIC, LUKA",P005929   ,Free Throw In (8/10 -  13 pt),FTM,81.0,69.0,Real Madrid,0
+MAD       ,,7,01:14,39,567,"DONCIC, LUKA",P005929   ,Free Throw In (9/11 -  14 pt),FTM,82.0,69.0,Real Madrid,0
+CSK       ,,1,00:56,40,569,"DE COLO, NANDO",P002100   ,Missed Three Pointer (0/1 -  9 pt),3FGA,,,CSKA Moscow,0
+CSK       ,,42,00:52,40,570,"HINES, KYLE",P002812   ,Off Rebound (7),O,,,CSKA Moscow,0
+CSK       ,,1,00:51,40,571,"DE COLO, NANDO",P002100   ,Missed Two Pointer (1/7 -  9 pt),2FGA,,,CSKA Moscow,0
+MAD       ,,7,00:47,40,572,"DONCIC, LUKA",P005929   ,Def Rebound (4),D,,,Real Madrid,0
+MAD       ,,8,00:26,40,573,"MACIULIS, JONAS",PJCC      ,Missed Three Pointer (2/4 -  6 pt),3FGA,,,Real Madrid,0
+CSK       ,,1,00:24,40,574,"DE COLO, NANDO",P002100   ,Def Rebound (4),D,,,CSKA Moscow,0
+CSK       ,,7,00:20,40,575,"FRIDZON, VITALY",PLLH      ,Missed Three Pointer (1/2 -  5 pt),3FGA,,,CSKA Moscow,0
+MAD       ,,7,00:18,40,576,"DONCIC, LUKA",P005929   ,Def Rebound (5),D,,,Real Madrid,0
+          ,,,,41,587,,          ,End Game,EG,,,,0

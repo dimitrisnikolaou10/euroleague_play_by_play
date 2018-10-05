@@ -1,0 +1,626 @@
+CODETEAM,COMMENT,DORSAL,MARKERTIME,MINUTE,NUMBEROFPLAY,PLAYER,PLAYER_ID,PLAYINFO,PLAYTYPE,POINTS_A,POINTS_B,TEAM,TYPE
+          ,,,,1,2,,          ,Begin Period,BP,,,,0
+ZAL       ,,13,09:37,1,3,"JANKUNAS, PAULIUS",PBWI      ,Two Pointer (1/1 -  2 pt),2FGM,,2.0,Zalgiris Kaunas,0
+ZAL       ,,3,09:34,1,4,"PANGOS, KEVIN",P006433   ,Assist (1),AS,,,Zalgiris Kaunas,0
+KHI       ,,21,09:29,1,5,"ANDERSON, JAMES",P005938   ,Turnover (1),TO,,,Khimki Moscow Region,0
+ZAL       ,,0,09:26,1,6,"DAVIES, BRANDON",P007870   ,Steal (1),ST,,,Zalgiris Kaunas,0
+ZAL       ,,0,09:24,1,7,"DAVIES, BRANDON",P007870   ,Two Pointer (1/1 -  2 pt),2FGM,,4.0,Zalgiris Kaunas,0
+ZAL       ,,3,09:24,1,235,"PANGOS, KEVIN",P006433   ,Assist (2),AS,,,Zalgiris Kaunas,0
+KHI       ,,1,09:04,1,8,"SHVED, ALEXEY",PKVZ      ,Turnover (1),TO,,,Khimki Moscow Region,0
+ZAL       ,,0,09:03,1,9,"DAVIES, BRANDON",P007870   ,Steal (2),ST,,,Zalgiris Kaunas,0
+ZAL       ,,21,08:44,2,11,"MILAKNIS, ARTURAS",PKPD      ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Zalgiris Kaunas,0
+KHI       ,,23,08:41,2,12,"THOMAS, MALCOLM",P004251   ,Def Rebound (1),D,,,Khimki Moscow Region,0
+KHI       ,,1,08:36,2,13,"SHVED, ALEXEY",PKVZ      ,Turnover (2),TO,,,Khimki Moscow Region,0
+ZAL       ,,92,08:34,2,14,"ULANOVAS, EDGARAS",P002329   ,Steal (1),ST,,,Zalgiris Kaunas,0
+KHI       ,,13,08:32,2,15,"GILL, ANTHONY",P008001   ,Foul (1),CM,,,Khimki Moscow Region,0
+ZAL       ,,13,08:32,2,16,"JANKUNAS, PAULIUS",PBWI      ,Foul Drawn (1),RV,,,Zalgiris Kaunas,0
+ZAL       ,,13,08:32,2,17,"JANKUNAS, PAULIUS",PBWI      ,Free Throw In (1/1 -  3 pt),FTM,,5.0,Zalgiris Kaunas,0
+ZAL       ,,21,08:32,2,18,"MILAKNIS, ARTURAS",PKPD      ,Assist (1),AS,,,Zalgiris Kaunas,0
+ZAL       ,,13,08:32,2,19,"JANKUNAS, PAULIUS",PBWI      ,Free Throw In (2/2 -  4 pt),FTM,,6.0,Zalgiris Kaunas,0
+KHI       ,,13,08:26,2,20,"GILL, ANTHONY",P008001   ,Two Pointer (1/1 -  2 pt),2FGM,2.0,6.0,Khimki Moscow Region,0
+KHI       ,,21,08:24,2,21,"ANDERSON, JAMES",P005938   ,Assist (1),AS,,,Khimki Moscow Region,0
+ZAL       ,,3,08:04,2,22,"PANGOS, KEVIN",P006433   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Zalgiris Kaunas,0
+KHI       ,,22,08:00,2,23,"JENKINS, CHARLES",P005014   ,Def Rebound (1),D,,,Khimki Moscow Region,0
+KHI       ,,23,07:56,3,25,"THOMAS, MALCOLM",P004251   ,Two Pointer (1/1 -  2 pt),2FGM,4.0,6.0,Khimki Moscow Region,0
+KHI       ,,22,07:56,3,26,"JENKINS, CHARLES",P005014   ,Assist (1),AS,,,Khimki Moscow Region,0
+ZAL       ,,0,07:56,3,27,"DAVIES, BRANDON",P007870   ,Foul (1),CM,,,Zalgiris Kaunas,0
+KHI       ,,23,07:56,3,28,"THOMAS, MALCOLM",P004251   ,Foul Drawn (1),RV,,,Khimki Moscow Region,0
+KHI       ,,23,07:56,3,29,"THOMAS, MALCOLM",P004251   ,Missed Free Throw (0/1 -  2 pt),FTA,,,Khimki Moscow Region,0
+ZAL       ,,0,07:56,3,30,"DAVIES, BRANDON",P007870   ,Def Rebound (1),D,,,Zalgiris Kaunas,0
+ZAL       ,,0,07:43,3,31,"DAVIES, BRANDON",P007870   ,Turnover (1),TO,,,Zalgiris Kaunas,0
+KHI       ,,22,07:25,3,32,"JENKINS, CHARLES",P005014   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Khimki Moscow Region,0
+ZAL       ,,3,07:22,3,33,"PANGOS, KEVIN",P006433   ,Def Rebound (1),D,,,Zalgiris Kaunas,0
+ZAL       ,,13,07:12,3,34,"JANKUNAS, PAULIUS",PBWI      ,Foul Drawn (2),RV,,,Zalgiris Kaunas,0
+KHI       ,,22,07:12,3,35,"JENKINS, CHARLES",P005014   ,Foul (1),CM,,,Khimki Moscow Region,0
+ZAL       ,,3,07:12,3,36,"PANGOS, KEVIN",P006433   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Zalgiris Kaunas,0
+KHI       ,,13,07:12,3,37,"GILL, ANTHONY",P008001   ,Def Rebound (1),D,,,Khimki Moscow Region,0
+KHI       ,,1,06:52,4,39,"SHVED, ALEXEY",PKVZ      ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Khimki Moscow Region,0
+KHI       ,,,06:52,4,41,,          ,Off Rebound (1),O,,,Khimki Moscow Region,0
+KHI       ,,21,06:36,4,42,"ANDERSON, JAMES",P005938   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Khimki Moscow Region,0
+ZAL       ,,13,06:32,4,43,"JANKUNAS, PAULIUS",PBWI      ,Def Rebound (1),D,,,Zalgiris Kaunas,0
+ZAL       ,,13,06:18,4,44,"JANKUNAS, PAULIUS",PBWI      ,Two Pointer (2/2 -  6 pt),2FGM,4.0,8.0,Zalgiris Kaunas,0
+ZAL       ,,3,06:16,4,45,"PANGOS, KEVIN",P006433   ,Assist (3),AS,,,Zalgiris Kaunas,0
+KHI       ,,21,06:01,4,46,"ANDERSON, JAMES",P005938   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Khimki Moscow Region,0
+KHI       ,,21,06:01,4,47,"ANDERSON, JAMES",P005938   ,Shot Rejected (1),AG,,,Khimki Moscow Region,0
+ZAL       ,,92,05:59,5,49,"ULANOVAS, EDGARAS",P002329   ,Block (1),FV,,,Zalgiris Kaunas,0
+ZAL       ,,13,05:57,5,50,"JANKUNAS, PAULIUS",PBWI      ,Def Rebound (2),D,,,Zalgiris Kaunas,0
+ZAL       ,,3,05:37,5,51,"PANGOS, KEVIN",P006433   ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,Zalgiris Kaunas,0
+ZAL       ,,92,05:35,5,52,"ULANOVAS, EDGARAS",P002329   ,Off Rebound (1),O,,,Zalgiris Kaunas,0
+ZAL       ,,92,05:33,5,53,"ULANOVAS, EDGARAS",P002329   ,Turnover (1),TO,,,Zalgiris Kaunas,0
+KHI       ,,22,05:32,5,54,"JENKINS, CHARLES",P005014   ,Steal (1),ST,,,Khimki Moscow Region,0
+KHI       ,,1,05:27,5,55,"SHVED, ALEXEY",PKVZ      ,Three Pointer (1/1 -  3 pt),3FGM,7.0,8.0,Khimki Moscow Region,0
+KHI       ,,22,05:22,5,56,"JENKINS, CHARLES",P005014   ,Assist (2),AS,,,Khimki Moscow Region,0
+ZAL       ,,13,05:09,5,57,"JANKUNAS, PAULIUS",PBWI      ,Foul Drawn (3),RV,,,Zalgiris Kaunas,0
+KHI       ,,22,05:09,5,58,"JENKINS, CHARLES",P005014   ,Foul (2),CM,,,Khimki Moscow Region,0
+KHI       ,,9,05:09,5,59,"MARKOVIC, STEFAN",PLME      ,In,IN,,,Khimki Moscow Region,0
+KHI       ,,12,05:09,5,60,"MONIA, SERGEY",PBFX      ,In,IN,,,Khimki Moscow Region,0
+KHI       ,,13,05:09,5,61,"GILL, ANTHONY",P008001   ,Out,OUT,,,Khimki Moscow Region,0
+KHI       ,,22,05:09,5,62,"JENKINS, CHARLES",P005014   ,Out,OUT,,,Khimki Moscow Region,0
+ZAL       ,,13,05:09,5,63,"JANKUNAS, PAULIUS",PBWI      ,Free Throw In (3/3 -  7 pt),FTM,7.0,9.0,Zalgiris Kaunas,0
+ZAL       ,,0,05:09,5,64,"DAVIES, BRANDON",P007870   ,Assist (1),AS,,,Zalgiris Kaunas,0
+ZAL       ,,13,05:09,5,65,"JANKUNAS, PAULIUS",PBWI      ,Free Throw In (4/4 -  8 pt),FTM,7.0,10.0,Zalgiris Kaunas,0
+ZAL       ,,13,05:09,5,66,"JANKUNAS, PAULIUS",PBWI      ,Out,OUT,,,Zalgiris Kaunas,0
+ZAL       ,,30,05:09,5,67,"WHITE, AARON",P006505   ,In,IN,,,Zalgiris Kaunas,0
+KHI       ,,9,05:06,5,68,"MARKOVIC, STEFAN",PLME      ,Foul Drawn (1),RV,,,Khimki Moscow Region,0
+ZAL       ,,21,05:06,5,69,"MILAKNIS, ARTURAS",PKPD      ,Foul (1),CM,,,Zalgiris Kaunas,0
+KHI       ,,1,04:50,6,71,"SHVED, ALEXEY",PKVZ      ,Missed Two Pointer (0/2 -  3 pt),2FGA,,,Khimki Moscow Region,0
+KHI       ,,23,04:48,6,72,"THOMAS, MALCOLM",P004251   ,Off Rebound (1),O,,,Khimki Moscow Region,0
+KHI       ,,23,04:46,6,73,"THOMAS, MALCOLM",P004251   ,Two Pointer (2/2 -  4 pt),2FGM,9.0,10.0,Khimki Moscow Region,0
+ZAL       ,,92,04:22,6,74,"ULANOVAS, EDGARAS",P002329   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Zalgiris Kaunas,0
+KHI       ,,23,04:20,6,75,"THOMAS, MALCOLM",P004251   ,Def Rebound (2),D,,,Khimki Moscow Region,0
+KHI       ,,1,04:14,6,76,"SHVED, ALEXEY",PKVZ      ,Two Pointer (1/3 -  5 pt),2FGM,11.0,10.0,Khimki Moscow Region,0
+KHI       ,,23,04:12,6,77,"THOMAS, MALCOLM",P004251   ,Assist (1),AS,,,Khimki Moscow Region,0
+ZAL       ,,3,03:57,7,79,"PANGOS, KEVIN",P006433   ,Foul Drawn (1),RV,,,Zalgiris Kaunas,0
+KHI       ,,9,03:57,7,80,"MARKOVIC, STEFAN",PLME      ,Foul (1),CM,,,Khimki Moscow Region,0
+          ,,,03:57,7,81,,          ,TV Time Out (1),TOUT_TV,,,,0
+ZAL       ,,0,03:57,7,82,"DAVIES, BRANDON",P007870   ,Out,OUT,,,Zalgiris Kaunas,0
+ZAL       ,,13,03:57,7,83,"JANKUNAS, PAULIUS",PBWI      ,In,IN,,,Zalgiris Kaunas,0
+ZAL       ,,21,03:57,7,84,"MILAKNIS, ARTURAS",PKPD      ,Out,OUT,,,Zalgiris Kaunas,0
+ZAL       ,,22,03:57,7,85,"MICIC, VASILIJE",P002580   ,In,IN,,,Zalgiris Kaunas,0
+ZAL       ,,30,03:57,7,86,"WHITE, AARON",P006505   ,Out,OUT,,,Zalgiris Kaunas,0
+ZAL       ,,44,03:57,7,87,"KAVALIAUSKAS, ANTANAS",P000399   ,In,IN,,,Zalgiris Kaunas,0
+ZAL       ,,22,03:54,7,88,"MICIC, VASILIJE",P002580   ,Turnover (1),TO,,,Zalgiris Kaunas,0
+ZAL       ,,22,03:49,7,89,"MICIC, VASILIJE",P002580   ,Foul (1),CM,,,Zalgiris Kaunas,0
+KHI       ,,1,03:49,7,90,"SHVED, ALEXEY",PKVZ      ,Foul Drawn (1),RV,,,Khimki Moscow Region,0
+KHI       ,,,03:49,7,91,"ROBINSON, THOMAS",P008003   ,In,IN,,,Khimki Moscow Region,0
+KHI       ,,23,03:49,7,92,"THOMAS, MALCOLM",P004251   ,Out,OUT,,,Khimki Moscow Region,0
+KHI       ,,21,03:49,7,93,"ANDERSON, JAMES",P005938   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Khimki Moscow Region,0
+ZAL       ,,,03:49,7,94,,          ,Def Rebound (1),D,,,Zalgiris Kaunas,0
+ZAL       ,,44,03:49,7,95,"KAVALIAUSKAS, ANTANAS",P000399   ,Foul (1),CM,,,Zalgiris Kaunas,0
+KHI       ,,,03:49,7,96,"ROBINSON, THOMAS",P008003   ,Foul Drawn (1),RV,,,Khimki Moscow Region,0
+KHI       ,,1,03:49,7,97,"SHVED, ALEXEY",PKVZ      ,Three Pointer (2/2 -  8 pt),3FGM,14.0,10.0,Khimki Moscow Region,0
+KHI       ,,9,03:49,7,98,"MARKOVIC, STEFAN",PLME      ,Assist (1),AS,,,Khimki Moscow Region,0
+ZAL       ,,,03:37,7,99,,          ,Time Out (1),TOUT,,,Zalgiris Kaunas,0
+ZAL       ,,3,03:37,7,100,"PANGOS, KEVIN",P006433   ,Out,OUT,,,Zalgiris Kaunas,0
+ZAL       ,,13,03:37,7,101,"JANKUNAS, PAULIUS",PBWI      ,Out,OUT,,,Zalgiris Kaunas,0
+ZAL       ,,21,03:37,7,102,"MILAKNIS, ARTURAS",PKPD      ,In,IN,,,Zalgiris Kaunas,0
+ZAL       ,,30,03:37,7,103,"WHITE, AARON",P006505   ,In,IN,,,Zalgiris Kaunas,0
+ZAL       ,,44,03:13,7,104,"KAVALIAUSKAS, ANTANAS",P000399   ,Turnover (1),TO,,,Zalgiris Kaunas,0
+KHI       ,,1,03:04,7,105,"SHVED, ALEXEY",PKVZ      ,Missed Two Pointer (1/4 -  8 pt),2FGA,,,Khimki Moscow Region,0
+KHI       ,,,03:03,7,106,"ROBINSON, THOMAS",P008003   ,Off Rebound (1),O,,,Khimki Moscow Region,0
+KHI       ,,,03:01,7,107,"ROBINSON, THOMAS",P008003   ,Two Pointer (1/1 -  2 pt),2FGM,16.0,10.0,Khimki Moscow Region,0
+ZAL       ,,22,02:54,8,109,"MICIC, VASILIJE",P002580   ,Turnover (2),TO,,,Zalgiris Kaunas,0
+KHI       ,,,02:53,8,110,"ROBINSON, THOMAS",P008003   ,Steal (1),ST,,,Khimki Moscow Region,0
+KHI       ,,,02:48,8,111,"ROBINSON, THOMAS",P008003   ,Two Pointer (2/2 -  4 pt),2FGM,18.0,10.0,Khimki Moscow Region,0
+ZAL       ,,22,02:33,8,112,"MICIC, VASILIJE",P002580   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Zalgiris Kaunas,0
+KHI       ,,,02:30,8,113,"ROBINSON, THOMAS",P008003   ,Def Rebound (1),D,,,Khimki Moscow Region,0
+ZAL       ,,6,02:20,8,114,"TOUPANE, AXEL",P002582   ,In,IN,,,Zalgiris Kaunas,0
+ZAL       ,,21,02:20,8,115,"MILAKNIS, ARTURAS",PKPD      ,Out,OUT,,,Zalgiris Kaunas,0
+ZAL       ,,22,02:20,8,116,"MICIC, VASILIJE",P002580   ,Out,OUT,,,Zalgiris Kaunas,0
+ZAL       ,,66,02:20,8,117,"VALINSKAS, PAULIUS",P004664   ,In,IN,,,Zalgiris Kaunas,0
+KHI       ,,1,02:05,8,118,"SHVED, ALEXEY",PKVZ      ,Missed Three Pointer (2/3 -  8 pt),3FGA,,,Khimki Moscow Region,0
+ZAL       ,,66,02:03,8,119,"VALINSKAS, PAULIUS",P004664   ,Def Rebound (1),D,,,Zalgiris Kaunas,0
+ZAL       ,,30,01:41,9,121,"WHITE, AARON",P006505   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Zalgiris Kaunas,0
+ZAL       ,,30,01:39,9,122,"WHITE, AARON",P006505   ,Off Rebound (1),O,,,Zalgiris Kaunas,0
+ZAL       ,,6,01:33,9,123,"TOUPANE, AXEL",P002582   ,Two Pointer (1/1 -  2 pt),2FGM,18.0,12.0,Zalgiris Kaunas,0
+ZAL       ,,30,01:30,9,124,"WHITE, AARON",P006505   ,Assist (1),AS,,,Zalgiris Kaunas,0
+KHI       ,,,01:09,9,125,"ROBINSON, THOMAS",P008003   ,Two Pointer (3/3 -  6 pt),2FGM,20.0,12.0,Khimki Moscow Region,0
+KHI       ,,9,01:07,9,126,"MARKOVIC, STEFAN",PLME      ,Assist (2),AS,,,Khimki Moscow Region,0
+ZAL       ,,6,00:57,10,128,"TOUPANE, AXEL",P002582   ,Two Pointer (2/2 -  4 pt),2FGM,20.0,14.0,Zalgiris Kaunas,0
+ZAL       ,,6,00:57,10,129,"TOUPANE, AXEL",P002582   ,Foul Drawn (1),RV,,,Zalgiris Kaunas,0
+KHI       ,,21,00:57,10,130,"ANDERSON, JAMES",P005938   ,Foul (1),CM,,,Khimki Moscow Region,0
+ZAL       ,,6,00:57,10,131,"TOUPANE, AXEL",P002582   ,Free Throw In (1/1 -  5 pt),FTM,20.0,15.0,Zalgiris Kaunas,0
+KHI       ,,12,00:43,10,132,"MONIA, SERGEY",PBFX      ,Offensive Foul (1),OF,,,Khimki Moscow Region,0
+KHI       ,,12,00:43,10,133,"MONIA, SERGEY",PBFX      ,Turnover (1),TO,,,Khimki Moscow Region,0
+ZAL       ,,6,00:43,10,134,"TOUPANE, AXEL",P002582   ,Foul Drawn (2),RV,,,Zalgiris Kaunas,0
+ZAL       ,,6,00:28,10,135,"TOUPANE, AXEL",P002582   ,Turnover (1),TO,,,Zalgiris Kaunas,0
+KHI       ,,9,00:26,10,136,"MARKOVIC, STEFAN",PLME      ,Steal (1),ST,,,Khimki Moscow Region,0
+ZAL       ,,30,00:14,10,137,"WHITE, AARON",P006505   ,Foul (1),CM,,,Zalgiris Kaunas,0
+KHI       ,,,00:14,10,138,"ROBINSON, THOMAS",P008003   ,Foul Drawn (2),RV,,,Khimki Moscow Region,0
+KHI       ,,1,00:14,10,139,"SHVED, ALEXEY",PKVZ      ,Out,OUT,,,Khimki Moscow Region,0
+KHI       ,,8,00:14,10,140,"ZAYTSEV, VYACHESLAV",P001792   ,In,IN,,,Khimki Moscow Region,0
+ZAL       ,,21,00:14,10,141,"MILAKNIS, ARTURAS",PKPD      ,In,IN,,,Zalgiris Kaunas,0
+ZAL       ,,92,00:14,10,142,"ULANOVAS, EDGARAS",P002329   ,Out,OUT,,,Zalgiris Kaunas,0
+KHI       ,,,00:14,10,143,"ROBINSON, THOMAS",P008003   ,Missed Free Throw (0/1 -  6 pt),FTA,,,Khimki Moscow Region,0
+KHI       ,,,00:14,10,145,"ROBINSON, THOMAS",P008003   ,Free Throw In (1/2 -  7 pt),FTM,21.0,15.0,Khimki Moscow Region,0
+KHI       ,,21,00:14,10,146,"ANDERSON, JAMES",P005938   ,Assist (2),AS,,,Khimki Moscow Region,0
+ZAL       ,,21,00:01,10,147,"MILAKNIS, ARTURAS",PKPD      ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,Zalgiris Kaunas,0
+KHI       ,,,00:00,10,148,"ROBINSON, THOMAS",P008003   ,Def Rebound (2),D,,,Khimki Moscow Region,0
+          ,,,,11,150,,          ,End Period,EP,,,,0
+          ,,,,11,151,,          ,Begin Period,BP,,,,0
+KHI       ,,,09:47,11,152,"ROBINSON, THOMAS",P008003   ,Two Pointer (4/4 -  9 pt),2FGM,23.0,15.0,Khimki Moscow Region,0
+KHI       ,,9,09:45,11,153,"MARKOVIC, STEFAN",PLME      ,Assist (3),AS,,,Khimki Moscow Region,0
+ZAL       ,,66,09:31,11,154,"VALINSKAS, PAULIUS",P004664   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Zalgiris Kaunas,0
+ZAL       ,,21,09:29,11,155,"MILAKNIS, ARTURAS",PKPD      ,Off Rebound (1),O,,,Zalgiris Kaunas,0
+ZAL       ,,21,09:27,11,156,"MILAKNIS, ARTURAS",PKPD      ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Zalgiris Kaunas,0
+KHI       ,,12,09:25,11,157,"MONIA, SERGEY",PBFX      ,Def Rebound (1),D,,,Khimki Moscow Region,0
+KHI       ,,,09:25,11,158,"ROBINSON, THOMAS",P008003   ,Foul Drawn (3),RV,,,Khimki Moscow Region,0
+ZAL       ,,66,09:25,11,159,"VALINSKAS, PAULIUS",P004664   ,Foul (1),CM,,,Zalgiris Kaunas,0
+ZAL       ,,13,09:25,11,160,"JANKUNAS, PAULIUS",PBWI      ,In,IN,,,Zalgiris Kaunas,0
+ZAL       ,,44,09:25,11,161,"KAVALIAUSKAS, ANTANAS",P000399   ,Out,OUT,,,Zalgiris Kaunas,0
+KHI       ,,21,09:15,11,162,"ANDERSON, JAMES",P005938   ,Three Pointer (1/2 -  3 pt),3FGM,26.0,15.0,Khimki Moscow Region,0
+KHI       ,,8,09:11,11,163,"ZAYTSEV, VYACHESLAV",P001792   ,Assist (1),AS,,,Khimki Moscow Region,0
+ZAL       ,,21,09:01,11,164,"MILAKNIS, ARTURAS",PKPD      ,Foul Drawn (1),RV,,,Zalgiris Kaunas,0
+KHI       ,,12,09:01,11,165,"MONIA, SERGEY",PBFX      ,Foul (2),CM,,,Khimki Moscow Region,0
+ZAL       ,,3,09:01,11,166,"PANGOS, KEVIN",P006433   ,In,IN,,,Zalgiris Kaunas,0
+ZAL       ,,21,09:01,11,167,"MILAKNIS, ARTURAS",PKPD      ,Out,OUT,,,Zalgiris Kaunas,0
+ZAL       ,,66,08:53,12,169,"VALINSKAS, PAULIUS",P004664   ,Turnover (1),TO,,,Zalgiris Kaunas,0
+KHI       ,,,08:34,12,170,"ROBINSON, THOMAS",P008003   ,Missed Two Pointer (4/5 -  9 pt),2FGA,,,Khimki Moscow Region,0
+ZAL       ,,30,08:31,12,171,"WHITE, AARON",P006505   ,Def Rebound (1),D,,,Zalgiris Kaunas,0
+ZAL       ,,13,08:12,12,172,"JANKUNAS, PAULIUS",PBWI      ,Two Pointer (3/3 -  10 pt),2FGM,26.0,17.0,Zalgiris Kaunas,0
+ZAL       ,,3,08:10,12,173,"PANGOS, KEVIN",P006433   ,Assist (4),AS,,,Zalgiris Kaunas,0
+KHI       ,,,07:58,13,175,"ROBINSON, THOMAS",P008003   ,Two Pointer (5/6 -  11 pt),2FGM,28.0,17.0,Khimki Moscow Region,0
+KHI       ,,9,07:58,13,176,"MARKOVIC, STEFAN",PLME      ,Assist (4),AS,,,Khimki Moscow Region,0
+ZAL       ,,21,07:58,13,177,"MILAKNIS, ARTURAS",PKPD      ,In,IN,,,Zalgiris Kaunas,0
+ZAL       ,,66,07:58,13,178,"VALINSKAS, PAULIUS",P004664   ,Out,OUT,,,Zalgiris Kaunas,0
+ZAL       ,,30,07:45,13,179,"WHITE, AARON",P006505   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Zalgiris Kaunas,0
+KHI       ,,8,07:41,13,180,"ZAYTSEV, VYACHESLAV",P001792   ,Def Rebound (1),D,,,Khimki Moscow Region,0
+KHI       ,,21,07:33,13,181,"ANDERSON, JAMES",P005938   ,Three Pointer (2/3 -  6 pt),3FGM,31.0,17.0,Khimki Moscow Region,0
+KHI       ,,8,07:30,13,182,"ZAYTSEV, VYACHESLAV",P001792   ,Assist (2),AS,,,Khimki Moscow Region,0
+ZAL       ,,3,07:15,13,183,"PANGOS, KEVIN",P006433   ,Foul Drawn (2),RV,,,Zalgiris Kaunas,0
+KHI       ,,8,07:15,13,184,"ZAYTSEV, VYACHESLAV",P001792   ,Foul (1),CM,,,Khimki Moscow Region,0
+ZAL       ,,6,07:15,13,185,"TOUPANE, AXEL",P002582   ,Out,OUT,,,Zalgiris Kaunas,0
+ZAL       ,,92,07:15,13,186,"ULANOVAS, EDGARAS",P002329   ,In,IN,,,Zalgiris Kaunas,0
+ZAL       ,,13,07:09,13,187,"JANKUNAS, PAULIUS",PBWI      ,Foul Drawn (4),RV,,,Zalgiris Kaunas,0
+KHI       ,,12,07:09,13,188,"MONIA, SERGEY",PBFX      ,Foul (3),CM,,,Khimki Moscow Region,0
+KHI       ,,12,07:09,13,189,"MONIA, SERGEY",PBFX      ,Out,OUT,,,Khimki Moscow Region,0
+KHI       ,,20,07:09,13,190,"ZUBKOV, ANDREY",P003573   ,In,IN,,,Khimki Moscow Region,0
+ZAL       ,,13,07:09,13,191,"JANKUNAS, PAULIUS",PBWI      ,Free Throw In (5/5 -  11 pt),FTM,31.0,18.0,Zalgiris Kaunas,0
+ZAL       ,,3,07:09,13,192,"PANGOS, KEVIN",P006433   ,Assist (5),AS,,,Zalgiris Kaunas,0
+ZAL       ,,13,07:09,13,193,"JANKUNAS, PAULIUS",PBWI      ,Free Throw In (6/6 -  12 pt),FTM,31.0,19.0,Zalgiris Kaunas,0
+KHI       ,,8,07:07,13,194,"ZAYTSEV, VYACHESLAV",P001792   ,Turnover (1),TO,,,Khimki Moscow Region,0
+ZAL       ,,21,07:07,13,195,"MILAKNIS, ARTURAS",PKPD      ,Missed Three Pointer (0/3 -  0 pt),3FGA,,,Zalgiris Kaunas,0
+KHI       ,,,07:07,13,196,"ROBINSON, THOMAS",P008003   ,Def Rebound (3),D,,,Khimki Moscow Region,0
+KHI       ,,20,06:46,14,198,"ZUBKOV, ANDREY",P003573   ,Turnover (1),TO,,,Khimki Moscow Region,0
+ZAL       ,,13,06:43,14,199,"JANKUNAS, PAULIUS",PBWI      ,Steal (1),ST,,,Zalgiris Kaunas,0
+ZAL       ,,30,06:39,14,200,"WHITE, AARON",P006505   ,Two Pointer (1/2 -  2 pt),2FGM,31.0,21.0,Zalgiris Kaunas,0
+ZAL       ,,92,06:37,14,201,"ULANOVAS, EDGARAS",P002329   ,Assist (1),AS,,,Zalgiris Kaunas,0
+KHI       ,,,06:10,14,202,"ROBINSON, THOMAS",P008003   ,Missed Two Pointer (5/7 -  11 pt),2FGA,,,Khimki Moscow Region,0
+ZAL       ,,13,06:01,14,203,"JANKUNAS, PAULIUS",PBWI      ,Def Rebound (3),D,,,Zalgiris Kaunas,0
+ZAL       ,,13,05:55,15,205,"JANKUNAS, PAULIUS",PBWI      ,Missed Two Pointer (3/4 -  12 pt),2FGA,,,Zalgiris Kaunas,0
+KHI       ,,,05:53,15,206,"ROBINSON, THOMAS",P008003   ,Def Rebound (4),D,,,Khimki Moscow Region,0
+KHI       ,,9,05:50,15,207,"MARKOVIC, STEFAN",PLME      ,Three Pointer (1/1 -  3 pt),3FGM,34.0,21.0,Khimki Moscow Region,0
+KHI       ,,20,05:50,15,208,"ZUBKOV, ANDREY",P003573   ,Assist (1),AS,,,Khimki Moscow Region,0
+ZAL       ,,13,05:32,15,209,"JANKUNAS, PAULIUS",PBWI      ,Foul Drawn (5),RV,,,Zalgiris Kaunas,0
+KHI       ,,21,05:32,15,210,"ANDERSON, JAMES",P005938   ,Foul (2),CM,,,Khimki Moscow Region,0
+KHI       ,,1,05:32,15,211,"SHVED, ALEXEY",PKVZ      ,In,IN,,,Khimki Moscow Region,0
+KHI       ,,9,05:32,15,212,"MARKOVIC, STEFAN",PLME      ,Out,OUT,,,Khimki Moscow Region,0
+ZAL       ,,21,05:32,15,213,"MILAKNIS, ARTURAS",PKPD      ,Out,OUT,,,Zalgiris Kaunas,0
+ZAL       ,,22,05:32,15,214,"MICIC, VASILIJE",P002580   ,In,IN,,,Zalgiris Kaunas,0
+ZAL       ,,13,05:32,15,215,"JANKUNAS, PAULIUS",PBWI      ,Free Throw In (7/7 -  13 pt),FTM,34.0,22.0,Zalgiris Kaunas,0
+ZAL       ,,3,05:32,15,234,"PANGOS, KEVIN",P006433   ,Assist (6),AS,,,Zalgiris Kaunas,0
+ZAL       ,,13,05:32,15,216,"JANKUNAS, PAULIUS",PBWI      ,Free Throw In (8/8 -  14 pt),FTM,34.0,23.0,Zalgiris Kaunas,0
+KHI       ,,6,05:32,15,217,"VIALTSEV, EGOR",PBGV      ,In,IN,,,Khimki Moscow Region,0
+KHI       ,,21,05:32,15,218,"ANDERSON, JAMES",P005938   ,Out,OUT,,,Khimki Moscow Region,0
+ZAL       ,,0,05:32,15,219,"DAVIES, BRANDON",P007870   ,In,IN,,,Zalgiris Kaunas,0
+ZAL       ,,13,05:32,15,220,"JANKUNAS, PAULIUS",PBWI      ,Out,OUT,,,Zalgiris Kaunas,0
+KHI       ,,6,05:32,15,221,"VIALTSEV, EGOR",PBGV      ,Turnover (1),TO,,,Khimki Moscow Region,0
+ZAL       ,,92,05:32,15,222,"ULANOVAS, EDGARAS",P002329   ,Steal (2),ST,,,Zalgiris Kaunas,0
+ZAL       ,,30,05:32,15,223,"WHITE, AARON",P006505   ,Two Pointer (2/3 -  4 pt),2FGM,34.0,25.0,Zalgiris Kaunas,0
+KHI       ,,,05:21,15,224,"ROBINSON, THOMAS",P008003   ,Foul Drawn (4),RV,,,Khimki Moscow Region,0
+ZAL       ,,3,05:21,15,225,"PANGOS, KEVIN",P006433   ,Foul (1),CM,,,Zalgiris Kaunas,0
+KHI       ,,1,05:17,15,226,"SHVED, ALEXEY",PKVZ      ,Foul Drawn (2),RV,,,Khimki Moscow Region,0
+ZAL       ,,3,05:17,15,227,"PANGOS, KEVIN",P006433   ,Foul (2),CM,,,Zalgiris Kaunas,0
+KHI       ,,8,05:04,15,228,"ZAYTSEV, VYACHESLAV",P001792   ,Two Pointer (1/1 -  2 pt),2FGM,36.0,25.0,Khimki Moscow Region,0
+KHI       ,,1,04:59,16,230,"SHVED, ALEXEY",PKVZ      ,Assist (1),AS,,,Khimki Moscow Region,0
+ZAL       ,,92,04:49,16,231,"ULANOVAS, EDGARAS",P002329   ,Foul Drawn (1),RV,,,Zalgiris Kaunas,0
+KHI       ,,6,04:49,16,232,"VIALTSEV, EGOR",PBGV      ,Foul (1),CM,,,Khimki Moscow Region,0
+          ,,,04:49,16,233,,          ,TV Time Out (2),TOUT_TV,,,,0
+ZAL       ,,92,04:49,16,236,"ULANOVAS, EDGARAS",P002329   ,Free Throw In (1/1 -  1 pt),FTM,36.0,26.0,Zalgiris Kaunas,0
+ZAL       ,,0,04:49,16,237,"DAVIES, BRANDON",P007870   ,Missed Free Throw (0/1 -  2 pt),FTA,,,Zalgiris Kaunas,0
+ZAL       ,,0,04:49,16,238,"DAVIES, BRANDON",P007870   ,Off Rebound (1),O,,,Zalgiris Kaunas,0
+ZAL       ,,0,04:49,16,239,"DAVIES, BRANDON",P007870   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,Zalgiris Kaunas,0
+KHI       ,,6,04:49,16,240,"VIALTSEV, EGOR",PBGV      ,Def Rebound (1),D,,,Khimki Moscow Region,0
+KHI       ,,,04:49,16,241,"ROBINSON, THOMAS",P008003   ,Missed Two Pointer (5/8 -  11 pt),2FGA,,,Khimki Moscow Region,0
+ZAL       ,,30,04:49,16,242,"WHITE, AARON",P006505   ,Def Rebound (2),D,,,Zalgiris Kaunas,0
+ZAL       ,,92,04:34,16,243,"ULANOVAS, EDGARAS",P002329   ,Foul Drawn (2),RV,,,Zalgiris Kaunas,0
+KHI       ,,20,04:34,16,244,"ZUBKOV, ANDREY",P003573   ,Foul (1),CM,,,Khimki Moscow Region,0
+ZAL       ,,92,04:34,16,245,"ULANOVAS, EDGARAS",P002329   ,Missed Free Throw (1/2 -  1 pt),FTA,,,Zalgiris Kaunas,0
+ZAL       ,,92,04:34,16,246,"ULANOVAS, EDGARAS",P002329   ,Free Throw In (2/3 -  2 pt),FTM,36.0,27.0,Zalgiris Kaunas,0
+KHI       ,,8,04:34,16,247,"ZAYTSEV, VYACHESLAV",P001792   ,Foul Drawn (1),RV,,,Khimki Moscow Region,0
+ZAL       ,,92,04:34,16,248,"ULANOVAS, EDGARAS",P002329   ,Foul (1),CM,,,Zalgiris Kaunas,0
+KHI       ,,1,04:16,16,249,"SHVED, ALEXEY",PKVZ      ,Missed Two Pointer (1/5 -  8 pt),2FGA,,,Khimki Moscow Region,0
+ZAL       ,,92,04:14,16,250,"ULANOVAS, EDGARAS",P002329   ,Def Rebound (1),D,,,Zalgiris Kaunas,0
+ZAL       ,,0,04:01,16,251,"DAVIES, BRANDON",P007870   ,Two Pointer (2/3 -  4 pt),2FGM,36.0,29.0,Zalgiris Kaunas,0
+ZAL       ,,30,03:58,17,253,"WHITE, AARON",P006505   ,Assist (2),AS,,,Zalgiris Kaunas,0
+KHI       ,,1,03:56,17,254,"SHVED, ALEXEY",PKVZ      ,Turnover (3),TO,,,Khimki Moscow Region,0
+ZAL       ,,30,03:55,17,255,"WHITE, AARON",P006505   ,Steal (1),ST,,,Zalgiris Kaunas,0
+ZAL       ,,3,03:49,17,256,"PANGOS, KEVIN",P006433   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Zalgiris Kaunas,0
+ZAL       ,,3,03:49,17,257,"PANGOS, KEVIN",P006433   ,Shot Rejected (1),AG,,,Zalgiris Kaunas,0
+KHI       ,,,03:49,17,258,"ROBINSON, THOMAS",P008003   ,Block (1),FV,,,Khimki Moscow Region,0
+KHI       ,,,03:49,17,259,"ROBINSON, THOMAS",P008003   ,Off Rebound (2),O,,,Khimki Moscow Region,0
+KHI       ,,1,03:49,17,260,"SHVED, ALEXEY",PKVZ      ,Two Pointer (2/6 -  10 pt),2FGM,38.0,29.0,Khimki Moscow Region,0
+KHI       ,,20,03:49,17,261,"ZUBKOV, ANDREY",P003573   ,Assist (2),AS,,,Khimki Moscow Region,0
+ZAL       ,,,03:49,17,262,,          ,Time Out (1),TOUT,,,Zalgiris Kaunas,0
+KHI       ,,8,03:49,17,263,"ZAYTSEV, VYACHESLAV",P001792   ,Out,OUT,,,Khimki Moscow Region,0
+KHI       ,,9,03:49,17,264,"MARKOVIC, STEFAN",PLME      ,In,IN,,,Khimki Moscow Region,0
+ZAL       ,,22,03:41,17,265,"MICIC, VASILIJE",P002580   ,Turnover (3),TO,,,Zalgiris Kaunas,0
+KHI       ,,1,03:38,17,266,"SHVED, ALEXEY",PKVZ      ,Steal (1),ST,,,Khimki Moscow Region,0
+KHI       ,,,03:36,17,267,"ROBINSON, THOMAS",P008003   ,Missed Two Pointer (5/9 -  11 pt),2FGA,,,Khimki Moscow Region,0
+ZAL       ,,92,03:34,17,268,"ULANOVAS, EDGARAS",P002329   ,Def Rebound (2),D,,,Zalgiris Kaunas,0
+ZAL       ,,30,03:21,17,269,"WHITE, AARON",P006505   ,Two Pointer (3/4 -  6 pt),2FGM,38.0,31.0,Zalgiris Kaunas,0
+ZAL       ,,22,03:19,17,270,"MICIC, VASILIJE",P002580   ,Assist (1),AS,,,Zalgiris Kaunas,0
+KHI       ,,20,03:05,17,271,"ZUBKOV, ANDREY",P003573   ,Turnover (2),TO,,,Khimki Moscow Region,0
+ZAL       ,,0,03:04,17,272,"DAVIES, BRANDON",P007870   ,Steal (3),ST,,,Zalgiris Kaunas,0
+ZAL       ,,30,02:56,18,274,"WHITE, AARON",P006505   ,Missed Two Pointer (3/5 -  6 pt),2FGA,,,Zalgiris Kaunas,0
+ZAL       ,,22,02:53,18,275,"MICIC, VASILIJE",P002580   ,Off Rebound (1),O,,,Zalgiris Kaunas,0
+ZAL       ,,92,02:48,18,276,"ULANOVAS, EDGARAS",P002329   ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,Zalgiris Kaunas,0
+KHI       ,,9,02:45,18,277,"MARKOVIC, STEFAN",PLME      ,Def Rebound (1),D,,,Khimki Moscow Region,0
+KHI       ,,6,02:34,18,278,"VIALTSEV, EGOR",PBGV      ,Foul Drawn (1),RV,,,Khimki Moscow Region,0
+ZAL       ,,3,02:34,18,279,"PANGOS, KEVIN",P006433   ,Foul (3),CM,,,Zalgiris Kaunas,0
+KHI       ,,,02:34,18,280,"ROBINSON, THOMAS",P008003   ,Out,OUT,,,Khimki Moscow Region,0
+KHI       ,,23,02:34,18,281,"THOMAS, MALCOLM",P004251   ,In,IN,,,Khimki Moscow Region,0
+ZAL       ,,3,02:34,18,282,"PANGOS, KEVIN",P006433   ,Out,OUT,,,Zalgiris Kaunas,0
+ZAL       ,,6,02:34,18,283,"TOUPANE, AXEL",P002582   ,In,IN,,,Zalgiris Kaunas,0
+ZAL       ,,13,02:34,18,284,"JANKUNAS, PAULIUS",PBWI      ,In,IN,,,Zalgiris Kaunas,0
+ZAL       ,,30,02:34,18,285,"WHITE, AARON",P006505   ,Out,OUT,,,Zalgiris Kaunas,0
+KHI       ,,6,02:34,18,286,"VIALTSEV, EGOR",PBGV      ,Free Throw In (1/1 -  1 pt),FTM,39.0,31.0,Khimki Moscow Region,0
+KHI       ,,6,02:34,18,287,"VIALTSEV, EGOR",PBGV      ,Free Throw In (2/2 -  2 pt),FTM,40.0,31.0,Khimki Moscow Region,0
+KHI       ,,20,02:20,18,288,"ZUBKOV, ANDREY",P003573   ,Foul Drawn (1),RV,,,Khimki Moscow Region,0
+ZAL       ,,13,02:20,18,289,"JANKUNAS, PAULIUS",PBWI      ,Offensive Foul (1),OF,,,Zalgiris Kaunas,0
+ZAL       ,,13,02:20,18,290,"JANKUNAS, PAULIUS",PBWI      ,Turnover (1),TO,,,Zalgiris Kaunas,0
+KHI       ,,,02:20,18,291,,          ,Time Out (1),TOUT,,,Khimki Moscow Region,0
+KHI       ,,20,01:56,19,293,"ZUBKOV, ANDREY",P003573   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Khimki Moscow Region,0
+KHI       ,,23,01:56,19,294,"THOMAS, MALCOLM",P004251   ,Off Rebound (2),O,,,Khimki Moscow Region,0
+KHI       ,,23,01:56,19,295,"THOMAS, MALCOLM",P004251   ,Two Pointer (3/3 -  6 pt),2FGM,42.0,31.0,Khimki Moscow Region,0
+ZAL       ,,6,01:52,19,296,"TOUPANE, AXEL",P002582   ,Missed Two Pointer (2/3 -  5 pt),2FGA,,,Zalgiris Kaunas,0
+KHI       ,,9,01:52,19,297,"MARKOVIC, STEFAN",PLME      ,Def Rebound (2),D,,,Khimki Moscow Region,0
+KHI       ,,1,01:27,19,298,"SHVED, ALEXEY",PKVZ      ,Missed Three Pointer (2/4 -  10 pt),3FGA,,,Khimki Moscow Region,0
+ZAL       ,,22,01:25,19,299,"MICIC, VASILIJE",P002580   ,Def Rebound (1),D,,,Zalgiris Kaunas,0
+ZAL       ,,6,01:24,19,300,"TOUPANE, AXEL",P002582   ,Foul Drawn (3),RV,,,Zalgiris Kaunas,0
+KHI       ,,23,01:24,19,301,"THOMAS, MALCOLM",P004251   ,Foul (1),CM,,,Khimki Moscow Region,0
+ZAL       ,,21,01:24,19,302,"MILAKNIS, ARTURAS",PKPD      ,In,IN,,,Zalgiris Kaunas,0
+ZAL       ,,92,01:24,19,303,"ULANOVAS, EDGARAS",P002329   ,Out,OUT,,,Zalgiris Kaunas,0
+ZAL       ,,6,01:24,19,304,"TOUPANE, AXEL",P002582   ,Free Throw In (2/2 -  6 pt),FTM,42.0,32.0,Zalgiris Kaunas,0
+ZAL       ,,22,01:24,19,335,"MICIC, VASILIJE",P002580   ,Assist (2),AS,,,Zalgiris Kaunas,0
+ZAL       ,,6,01:24,19,305,"TOUPANE, AXEL",P002582   ,Missed Free Throw (2/3 -  6 pt),FTA,,,Zalgiris Kaunas,0
+ZAL       ,,,01:24,19,306,,          ,Off Rebound (2),O,,,Zalgiris Kaunas,0
+ZAL       ,,21,01:11,19,307,"MILAKNIS, ARTURAS",PKPD      ,Missed Three Pointer (0/4 -  0 pt),3FGA,,,Zalgiris Kaunas,0
+ZAL       ,,13,01:08,19,308,"JANKUNAS, PAULIUS",PBWI      ,Off Rebound (1),O,,,Zalgiris Kaunas,0
+ZAL       ,,6,01:02,19,309,"TOUPANE, AXEL",P002582   ,Missed Two Pointer (2/4 -  6 pt),2FGA,,,Zalgiris Kaunas,0
+KHI       ,,1,01:02,19,310,"SHVED, ALEXEY",PKVZ      ,Def Rebound (1),D,,,Khimki Moscow Region,0
+KHI       ,,1,01:02,19,311,"SHVED, ALEXEY",PKVZ      ,Foul Drawn (3),RV,,,Khimki Moscow Region,0
+ZAL       ,,0,01:02,19,312,"DAVIES, BRANDON",P007870   ,Foul (2),CM,,,Zalgiris Kaunas,0
+KHI       ,,13,01:02,19,313,"GILL, ANTHONY",P008001   ,In,IN,,,Khimki Moscow Region,0
+KHI       ,,20,01:02,19,314,"ZUBKOV, ANDREY",P003573   ,Out,OUT,,,Khimki Moscow Region,0
+ZAL       ,,0,01:02,19,315,"DAVIES, BRANDON",P007870   ,Out,OUT,,,Zalgiris Kaunas,0
+ZAL       ,,30,01:02,19,316,"WHITE, AARON",P006505   ,In,IN,,,Zalgiris Kaunas,0
+KHI       ,,1,01:02,19,319,"SHVED, ALEXEY",PKVZ      ,Free Throw In (1/1 -  11 pt),FTM,43.0,32.0,Khimki Moscow Region,0
+KHI       ,,1,01:02,19,320,"SHVED, ALEXEY",PKVZ      ,Free Throw In (2/2 -  12 pt),FTM,44.0,32.0,Khimki Moscow Region,0
+KHI       ,,1,01:02,19,321,"SHVED, ALEXEY",PKVZ      ,Out,OUT,,,Khimki Moscow Region,0
+KHI       ,,8,01:02,19,322,"ZAYTSEV, VYACHESLAV",P001792   ,In,IN,,,Khimki Moscow Region,0
+ZAL       ,,6,01:02,19,323,"TOUPANE, AXEL",P002582   ,Two Pointer (3/5 -  8 pt),2FGM,44.0,34.0,Zalgiris Kaunas,0
+KHI       ,,9,00:30,20,325,"MARKOVIC, STEFAN",PLME      ,Foul Drawn (2),RV,,,Khimki Moscow Region,0
+ZAL       ,,22,00:30,20,326,"MICIC, VASILIJE",P002580   ,Foul (2),CM,,,Zalgiris Kaunas,0
+ZAL       ,,3,00:30,20,327,"PANGOS, KEVIN",P006433   ,In,IN,,,Zalgiris Kaunas,0
+ZAL       ,,22,00:30,20,328,"MICIC, VASILIJE",P002580   ,Out,OUT,,,Zalgiris Kaunas,0
+KHI       ,,9,00:30,20,329,"MARKOVIC, STEFAN",PLME      ,Missed Free Throw (0/1 -  3 pt),FTA,,,Khimki Moscow Region,0
+KHI       ,,9,00:30,20,330,"MARKOVIC, STEFAN",PLME      ,Missed Free Throw (0/2 -  3 pt),FTA,,,Khimki Moscow Region,0
+ZAL       ,,13,00:30,20,331,"JANKUNAS, PAULIUS",PBWI      ,Def Rebound (4),D,,,Zalgiris Kaunas,0
+KHI       ,,6,00:08,20,332,"VIALTSEV, EGOR",PBGV      ,Foul (2),CM,,,Khimki Moscow Region,0
+ZAL       ,,13,00:08,20,333,"JANKUNAS, PAULIUS",PBWI      ,Foul Drawn (6),RV,,,Zalgiris Kaunas,0
+KHI       ,,,00:08,20,334,,          ,Time Out (2),TOUT,,,Khimki Moscow Region,0
+KHI       ,,1,00:08,20,336,"SHVED, ALEXEY",PKVZ      ,In,IN,,,Khimki Moscow Region,0
+KHI       ,,6,00:08,20,337,"VIALTSEV, EGOR",PBGV      ,Out,OUT,,,Khimki Moscow Region,0
+KHI       ,,8,00:08,20,338,"ZAYTSEV, VYACHESLAV",P001792   ,Out,OUT,,,Khimki Moscow Region,0
+KHI       ,,21,00:08,20,339,"ANDERSON, JAMES",P005938   ,In,IN,,,Khimki Moscow Region,0
+ZAL       ,,3,00:08,20,340,"PANGOS, KEVIN",P006433   ,Out,OUT,,,Zalgiris Kaunas,0
+ZAL       ,,92,00:08,20,341,"ULANOVAS, EDGARAS",P002329   ,In,IN,,,Zalgiris Kaunas,0
+ZAL       ,,13,00:08,20,342,"JANKUNAS, PAULIUS",PBWI      ,Free Throw In (9/9 -  15 pt),FTM,44.0,35.0,Zalgiris Kaunas,0
+ZAL       ,,13,00:08,20,343,"JANKUNAS, PAULIUS",PBWI      ,Free Throw In (10/10 -  16 pt),FTM,44.0,36.0,Zalgiris Kaunas,0
+ZAL       ,,13,00:08,20,344,"JANKUNAS, PAULIUS",PBWI      ,Out,OUT,,,Zalgiris Kaunas,0
+ZAL       ,,66,00:08,20,345,"VALINSKAS, PAULIUS",P004664   ,In,IN,,,Zalgiris Kaunas,0
+KHI       ,,23,00:02,20,346,"THOMAS, MALCOLM",P004251   ,Two Pointer (4/4 -  8 pt),2FGM,46.0,36.0,Khimki Moscow Region,0
+KHI       ,,9,00:00,20,347,"MARKOVIC, STEFAN",PLME      ,Assist (5),AS,,,Khimki Moscow Region,0
+          ,,,,21,349,,          ,End Period,EP,,,,0
+          ,,,,21,358,,          ,Begin Period,BP,,,,0
+KHI       ,,9,10:00,21,350,"MARKOVIC, STEFAN",PLME      ,Out,OUT,,,Khimki Moscow Region,0
+KHI       ,,22,10:00,21,351,"JENKINS, CHARLES",P005014   ,In,IN,,,Khimki Moscow Region,0
+ZAL       ,,0,10:00,21,352,"DAVIES, BRANDON",P007870   ,In,IN,,,Zalgiris Kaunas,0
+ZAL       ,,3,10:00,21,353,"PANGOS, KEVIN",P006433   ,In,IN,,,Zalgiris Kaunas,0
+ZAL       ,,13,10:00,21,354,"JANKUNAS, PAULIUS",PBWI      ,In,IN,,,Zalgiris Kaunas,0
+ZAL       ,,30,10:00,21,355,"WHITE, AARON",P006505   ,Out,OUT,,,Zalgiris Kaunas,0
+ZAL       ,,66,10:00,21,356,"VALINSKAS, PAULIUS",P004664   ,Out,OUT,,,Zalgiris Kaunas,0
+ZAL       ,,92,10:00,21,357,"ULANOVAS, EDGARAS",P002329   ,Out,OUT,,,Zalgiris Kaunas,0
+ZAL       ,,0,09:40,21,359,"DAVIES, BRANDON",P007870   ,Missed Two Pointer (2/4 -  4 pt),2FGA,,,Zalgiris Kaunas,0
+ZAL       ,,0,09:40,21,360,"DAVIES, BRANDON",P007870   ,Shot Rejected (1),AG,,,Zalgiris Kaunas,0
+KHI       ,,23,09:40,21,361,"THOMAS, MALCOLM",P004251   ,Block (1),FV,,,Khimki Moscow Region,0
+ZAL       ,,,09:40,21,362,,          ,Off Rebound (3),O,,,Zalgiris Kaunas,0
+ZAL       ,,3,09:32,21,363,"PANGOS, KEVIN",P006433   ,Turnover (1),TO,,,Zalgiris Kaunas,0
+KHI       ,,1,09:30,21,364,"SHVED, ALEXEY",PKVZ      ,Steal (2),ST,,,Khimki Moscow Region,0
+KHI       ,,1,09:09,21,365,"SHVED, ALEXEY",PKVZ      ,Missed Three Pointer (2/5 -  12 pt),3FGA,,,Khimki Moscow Region,0
+KHI       ,,22,09:06,21,366,"JENKINS, CHARLES",P005014   ,Off Rebound (1),O,,,Khimki Moscow Region,0
+KHI       ,,23,09:04,21,367,"THOMAS, MALCOLM",P004251   ,Two Pointer (5/5 -  10 pt),2FGM,48.0,36.0,Khimki Moscow Region,0
+KHI       ,,22,09:01,21,368,"JENKINS, CHARLES",P005014   ,Assist (3),AS,,,Khimki Moscow Region,0
+ZAL       ,,6,08:41,22,370,"TOUPANE, AXEL",P002582   ,Missed Two Pointer (3/6 -  8 pt),2FGA,,,Zalgiris Kaunas,0
+KHI       ,,13,08:38,22,371,"GILL, ANTHONY",P008001   ,Def Rebound (2),D,,,Khimki Moscow Region,0
+KHI       ,,13,08:19,22,372,"GILL, ANTHONY",P008001   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,Khimki Moscow Region,0
+ZAL       ,,3,08:16,22,373,"PANGOS, KEVIN",P006433   ,Def Rebound (2),D,,,Zalgiris Kaunas,0
+ZAL       ,,0,08:03,22,374,"DAVIES, BRANDON",P007870   ,Two Pointer (3/5 -  6 pt),2FGM,48.0,38.0,Zalgiris Kaunas,0
+ZAL       ,,13,08:03,22,417,"JANKUNAS, PAULIUS",PBWI      ,Assist (1),AS,,,Zalgiris Kaunas,0
+KHI       ,,23,07:49,23,376,"THOMAS, MALCOLM",P004251   ,Two Pointer (6/6 -  12 pt),2FGM,50.0,38.0,Khimki Moscow Region,0
+ZAL       ,,6,07:42,23,377,"TOUPANE, AXEL",P002582   ,Missed Two Pointer (3/7 -  8 pt),2FGA,,,Zalgiris Kaunas,0
+KHI       ,,23,07:40,23,378,"THOMAS, MALCOLM",P004251   ,Def Rebound (3),D,,,Khimki Moscow Region,0
+ZAL       ,,6,07:30,23,379,"TOUPANE, AXEL",P002582   ,Foul Drawn (4),RV,,,Zalgiris Kaunas,0
+KHI       ,,13,07:30,23,380,"GILL, ANTHONY",P008001   ,Offensive Foul (2),OF,,,Khimki Moscow Region,0
+KHI       ,,13,07:30,23,381,"GILL, ANTHONY",P008001   ,Turnover (1),TO,,,Khimki Moscow Region,0
+ZAL       ,,6,07:30,23,382,"TOUPANE, AXEL",P002582   ,Two Pointer (4/8 -  10 pt),2FGM,50.0,40.0,Zalgiris Kaunas,0
+ZAL       ,,3,07:30,23,383,"PANGOS, KEVIN",P006433   ,Assist (7),AS,,,Zalgiris Kaunas,0
+KHI       ,,21,07:07,23,384,"ANDERSON, JAMES",P005938   ,Foul Drawn (1),RV,,,Khimki Moscow Region,0
+ZAL       ,,21,07:07,23,385,"MILAKNIS, ARTURAS",PKPD      ,Foul (2),CM,,,Zalgiris Kaunas,0
+KHI       ,,13,06:46,24,387,"GILL, ANTHONY",P008001   ,Missed Two Pointer (1/3 -  2 pt),2FGA,,,Khimki Moscow Region,0
+KHI       ,,13,06:46,24,388,"GILL, ANTHONY",P008001   ,Off Rebound (1),O,,,Khimki Moscow Region,0
+KHI       ,,13,06:46,24,389,"GILL, ANTHONY",P008001   ,Foul Drawn (1),RV,,,Khimki Moscow Region,0
+ZAL       ,,13,06:46,24,390,"JANKUNAS, PAULIUS",PBWI      ,Foul (2),CM,,,Zalgiris Kaunas,0
+KHI       ,,13,06:46,24,391,"GILL, ANTHONY",P008001   ,Free Throw In (1/1 -  3 pt),FTM,51.0,40.0,Khimki Moscow Region,0
+KHI       ,,13,06:46,24,392,"GILL, ANTHONY",P008001   ,Free Throw In (2/2 -  4 pt),FTM,52.0,40.0,Khimki Moscow Region,0
+ZAL       ,,21,06:41,24,393,"MILAKNIS, ARTURAS",PKPD      ,Turnover (1),TO,,,Zalgiris Kaunas,0
+KHI       ,,1,06:41,24,394,"SHVED, ALEXEY",PKVZ      ,Steal (3),ST,,,Khimki Moscow Region,0
+KHI       ,,23,06:06,24,395,"THOMAS, MALCOLM",P004251   ,Missed Three Pointer (0/1 -  12 pt),3FGA,,,Khimki Moscow Region,0
+KHI       ,,13,06:04,24,396,"GILL, ANTHONY",P008001   ,Off Rebound (2),O,,,Khimki Moscow Region,0
+KHI       ,,23,06:01,24,397,"THOMAS, MALCOLM",P004251   ,Two Pointer (7/7 -  14 pt),2FGM,54.0,40.0,Khimki Moscow Region,0
+ZAL       ,,0,05:44,25,399,"DAVIES, BRANDON",P007870   ,Two Pointer (4/6 -  8 pt),2FGM,54.0,42.0,Zalgiris Kaunas,0
+ZAL       ,,13,05:44,25,400,"JANKUNAS, PAULIUS",PBWI      ,Assist (2),AS,,,Zalgiris Kaunas,0
+ZAL       ,,21,05:34,25,401,"MILAKNIS, ARTURAS",PKPD      ,Out,OUT,,,Zalgiris Kaunas,0
+ZAL       ,,92,05:34,25,402,"ULANOVAS, EDGARAS",P002329   ,In,IN,,,Zalgiris Kaunas,0
+KHI       ,,13,05:26,25,403,"GILL, ANTHONY",P008001   ,Missed Three Pointer (0/1 -  4 pt),3FGA,,,Khimki Moscow Region,0
+KHI       ,,,05:26,25,404,,          ,Off Rebound (4),O,,,Khimki Moscow Region,0
+ZAL       ,,0,05:26,25,405,"DAVIES, BRANDON",P007870   ,Out,OUT,,,Zalgiris Kaunas,0
+ZAL       ,,44,05:26,25,406,"KAVALIAUSKAS, ANTANAS",P000399   ,In,IN,,,Zalgiris Kaunas,0
+KHI       ,,21,05:09,25,407,"ANDERSON, JAMES",P005938   ,Missed Three Pointer (2/4 -  6 pt),3FGA,,,Khimki Moscow Region,0
+ZAL       ,,3,05:06,25,408,"PANGOS, KEVIN",P006433   ,Def Rebound (3),D,,,Zalgiris Kaunas,0
+ZAL       ,,44,05:01,25,409,"KAVALIAUSKAS, ANTANAS",P000399   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Zalgiris Kaunas,0
+ZAL       ,,44,05:01,25,410,"KAVALIAUSKAS, ANTANAS",P000399   ,Shot Rejected (1),AG,,,Zalgiris Kaunas,0
+KHI       ,,23,04:59,26,412,"THOMAS, MALCOLM",P004251   ,Block (2),FV,,,Khimki Moscow Region,0
+KHI       ,,23,04:57,26,413,"THOMAS, MALCOLM",P004251   ,Def Rebound (4),D,,,Khimki Moscow Region,0
+KHI       ,,1,04:55,26,414,"SHVED, ALEXEY",PKVZ      ,Foul Drawn (4),RV,,,Khimki Moscow Region,0
+ZAL       ,,13,04:55,26,415,"JANKUNAS, PAULIUS",PBWI      ,Foul (3),CM,,,Zalgiris Kaunas,0
+          ,,,04:55,26,416,,          ,TV Time Out (3),TOUT_TV,,,,0
+ZAL       ,,6,04:55,26,418,"TOUPANE, AXEL",P002582   ,Out,OUT,,,Zalgiris Kaunas,0
+ZAL       ,,22,04:55,26,419,"MICIC, VASILIJE",P002580   ,In,IN,,,Zalgiris Kaunas,0
+KHI       ,,1,04:55,26,420,"SHVED, ALEXEY",PKVZ      ,Missed Free Throw (2/3 -  12 pt),FTA,,,Khimki Moscow Region,0
+KHI       ,,1,04:55,26,421,"SHVED, ALEXEY",PKVZ      ,Free Throw In (3/4 -  13 pt),FTM,55.0,42.0,Khimki Moscow Region,0
+ZAL       ,,3,04:38,26,422,"PANGOS, KEVIN",P006433   ,Missed Three Pointer (0/3 -  0 pt),3FGA,,,Zalgiris Kaunas,0
+ZAL       ,,,04:38,26,423,,          ,Off Rebound (5),O,,,Zalgiris Kaunas,0
+ZAL       ,,13,04:38,26,424,"JANKUNAS, PAULIUS",PBWI      ,Foul Drawn (7),RV,,,Zalgiris Kaunas,0
+KHI       ,,21,04:38,26,425,"ANDERSON, JAMES",P005938   ,Foul (3),CM,,,Khimki Moscow Region,0
+ZAL       ,,92,04:26,26,426,"ULANOVAS, EDGARAS",P002329   ,Two Pointer (1/2 -  4 pt),2FGM,55.0,44.0,Zalgiris Kaunas,0
+KHI       ,,13,04:13,26,427,"GILL, ANTHONY",P008001   ,Two Pointer (2/4 -  6 pt),2FGM,57.0,44.0,Khimki Moscow Region,0
+ZAL       ,,44,03:58,27,429,"KAVALIAUSKAS, ANTANAS",P000399   ,Two Pointer (1/2 -  2 pt),2FGM,57.0,46.0,Zalgiris Kaunas,0
+ZAL       ,,22,03:57,27,430,"MICIC, VASILIJE",P002580   ,Assist (3),AS,,,Zalgiris Kaunas,0
+KHI       ,,1,03:45,27,431,"SHVED, ALEXEY",PKVZ      ,Missed Three Pointer (2/6 -  13 pt),3FGA,,,Khimki Moscow Region,0
+ZAL       ,,44,03:42,27,432,"KAVALIAUSKAS, ANTANAS",P000399   ,Def Rebound (1),D,,,Zalgiris Kaunas,0
+ZAL       ,,13,03:34,27,433,"JANKUNAS, PAULIUS",PBWI      ,Foul Drawn (8),RV,,,Zalgiris Kaunas,0
+KHI       ,,22,03:34,27,434,"JENKINS, CHARLES",P005014   ,Foul (3),CM,,,Khimki Moscow Region,0
+ZAL       ,,3,03:34,27,435,"PANGOS, KEVIN",P006433   ,Out,OUT,,,Zalgiris Kaunas,0
+ZAL       ,,66,03:34,27,436,"VALINSKAS, PAULIUS",P004664   ,In,IN,,,Zalgiris Kaunas,0
+ZAL       ,,13,03:34,27,437,"JANKUNAS, PAULIUS",PBWI      ,Free Throw In (11/11 -  17 pt),FTM,57.0,47.0,Zalgiris Kaunas,0
+ZAL       ,,44,03:34,27,438,"KAVALIAUSKAS, ANTANAS",P000399   ,Assist (1),AS,,,Zalgiris Kaunas,0
+ZAL       ,,13,03:34,27,439,"JANKUNAS, PAULIUS",PBWI      ,Free Throw In (12/12 -  18 pt),FTM,57.0,48.0,Zalgiris Kaunas,0
+KHI       ,,8,03:34,27,440,"ZAYTSEV, VYACHESLAV",P001792   ,In,IN,,,Khimki Moscow Region,0
+KHI       ,,22,03:34,27,441,"JENKINS, CHARLES",P005014   ,Out,OUT,,,Khimki Moscow Region,0
+ZAL       ,,13,03:34,27,442,"JANKUNAS, PAULIUS",PBWI      ,Out,OUT,,,Zalgiris Kaunas,0
+ZAL       ,,30,03:34,27,443,"WHITE, AARON",P006505   ,In,IN,,,Zalgiris Kaunas,0
+KHI       ,,13,03:14,27,444,"GILL, ANTHONY",P008001   ,Two Pointer (3/5 -  8 pt),2FGM,59.0,48.0,Khimki Moscow Region,0
+ZAL       ,,66,02:59,28,446,"VALINSKAS, PAULIUS",P004664   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Zalgiris Kaunas,0
+ZAL       ,,30,02:57,28,447,"WHITE, AARON",P006505   ,Off Rebound (2),O,,,Zalgiris Kaunas,0
+ZAL       ,,22,02:54,28,448,"MICIC, VASILIJE",P002580   ,Foul Drawn (1),RV,,,Zalgiris Kaunas,0
+KHI       ,,13,02:54,28,449,"GILL, ANTHONY",P008001   ,Foul (3),CM,,,Khimki Moscow Region,0
+ZAL       ,,66,02:40,28,450,"VALINSKAS, PAULIUS",P004664   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Zalgiris Kaunas,0
+KHI       ,,13,02:37,28,451,"GILL, ANTHONY",P008001   ,Def Rebound (3),D,,,Khimki Moscow Region,0
+KHI       ,,1,02:28,28,452,"SHVED, ALEXEY",PKVZ      ,Missed Two Pointer (2/7 -  13 pt),2FGA,,,Khimki Moscow Region,0
+ZAL       ,,92,02:25,28,453,"ULANOVAS, EDGARAS",P002329   ,Def Rebound (3),D,,,Zalgiris Kaunas,0
+ZAL       ,,30,02:04,28,454,"WHITE, AARON",P006505   ,Missed Two Pointer (3/6 -  6 pt),2FGA,,,Zalgiris Kaunas,0
+KHI       ,,13,02:02,28,455,"GILL, ANTHONY",P008001   ,Def Rebound (4),D,,,Khimki Moscow Region,0
+KHI       ,,13,02:02,28,456,"GILL, ANTHONY",P008001   ,Foul Drawn (2),RV,,,Khimki Moscow Region,0
+ZAL       ,,66,02:02,28,457,"VALINSKAS, PAULIUS",P004664   ,Foul (2),CM,,,Zalgiris Kaunas,0
+KHI       ,,,02:02,28,458,"ROBINSON, THOMAS",P008003   ,In,IN,,,Khimki Moscow Region,0
+KHI       ,,23,02:02,28,459,"THOMAS, MALCOLM",P004251   ,Out,OUT,,,Khimki Moscow Region,0
+ZAL       ,,21,02:02,28,460,"MILAKNIS, ARTURAS",PKPD      ,In,IN,,,Zalgiris Kaunas,0
+ZAL       ,,66,02:02,28,461,"VALINSKAS, PAULIUS",P004664   ,Out,OUT,,,Zalgiris Kaunas,0
+KHI       ,,13,02:02,28,462,"GILL, ANTHONY",P008001   ,Missed Free Throw (2/3 -  8 pt),FTA,,,Khimki Moscow Region,0
+KHI       ,,13,02:02,28,463,"GILL, ANTHONY",P008001   ,Missed Free Throw (2/4 -  8 pt),FTA,,,Khimki Moscow Region,0
+ZAL       ,,44,02:02,28,464,"KAVALIAUSKAS, ANTANAS",P000399   ,Def Rebound (2),D,,,Zalgiris Kaunas,0
+ZAL       ,,21,01:37,29,466,"MILAKNIS, ARTURAS",PKPD      ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Zalgiris Kaunas,0
+KHI       ,,13,01:34,29,467,"GILL, ANTHONY",P008001   ,Def Rebound (5),D,,,Khimki Moscow Region,0
+KHI       ,,,01:25,29,468,"ROBINSON, THOMAS",P008003   ,Missed Two Pointer (5/10 -  11 pt),2FGA,,,Khimki Moscow Region,0
+KHI       ,,13,01:25,29,469,"GILL, ANTHONY",P008001   ,Off Rebound (3),O,,,Khimki Moscow Region,0
+KHI       ,,13,01:25,29,470,"GILL, ANTHONY",P008001   ,Foul Drawn (3),RV,,,Khimki Moscow Region,0
+ZAL       ,,21,01:25,29,471,"MILAKNIS, ARTURAS",PKPD      ,Foul (3),CM,,,Zalgiris Kaunas,0
+KHI       ,,1,01:25,29,472,"SHVED, ALEXEY",PKVZ      ,Out,OUT,,,Khimki Moscow Region,0
+KHI       ,,9,01:25,29,473,"MARKOVIC, STEFAN",PLME      ,In,IN,,,Khimki Moscow Region,0
+ZAL       ,,6,01:25,29,474,"TOUPANE, AXEL",P002582   ,In,IN,,,Zalgiris Kaunas,0
+ZAL       ,,21,01:25,29,475,"MILAKNIS, ARTURAS",PKPD      ,Out,OUT,,,Zalgiris Kaunas,0
+KHI       ,,13,01:25,29,476,"GILL, ANTHONY",P008001   ,Free Throw In (3/5 -  9 pt),FTM,60.0,48.0,Khimki Moscow Region,0
+KHI       ,,13,01:25,29,477,"GILL, ANTHONY",P008001   ,Free Throw In (4/6 -  10 pt),FTM,61.0,48.0,Khimki Moscow Region,0
+ZAL       ,,44,01:07,29,478,"KAVALIAUSKAS, ANTANAS",P000399   ,Foul Drawn (1),RV,,,Zalgiris Kaunas,0
+KHI       ,,8,01:07,29,479,"ZAYTSEV, VYACHESLAV",P001792   ,Foul (2),CM,,,Khimki Moscow Region,0
+ZAL       ,,44,01:07,29,480,"KAVALIAUSKAS, ANTANAS",P000399   ,Free Throw In (1/1 -  3 pt),FTM,61.0,49.0,Zalgiris Kaunas,0
+ZAL       ,,44,01:07,29,481,"KAVALIAUSKAS, ANTANAS",P000399   ,Free Throw In (2/2 -  4 pt),FTM,61.0,50.0,Zalgiris Kaunas,0
+KHI       ,,,01:03,29,482,"ROBINSON, THOMAS",P008003   ,Two Pointer (6/11 -  13 pt),2FGM,63.0,50.0,Khimki Moscow Region,0
+KHI       ,,,01:03,29,483,"ROBINSON, THOMAS",P008003   ,Foul Drawn (5),RV,,,Khimki Moscow Region,0
+ZAL       ,,6,01:03,29,484,"TOUPANE, AXEL",P002582   ,Foul (1),CM,,,Zalgiris Kaunas,0
+KHI       ,,13,01:03,29,485,"GILL, ANTHONY",P008001   ,Assist (1),AS,,,Khimki Moscow Region,0
+ZAL       ,,,01:03,29,486,,          ,Time Out (1),TOUT,,,Zalgiris Kaunas,0
+ZAL       ,,0,01:03,29,487,"DAVIES, BRANDON",P007870   ,In,IN,,,Zalgiris Kaunas,0
+ZAL       ,,3,01:03,29,488,"PANGOS, KEVIN",P006433   ,In,IN,,,Zalgiris Kaunas,0
+ZAL       ,,22,01:03,29,489,"MICIC, VASILIJE",P002580   ,Out,OUT,,,Zalgiris Kaunas,0
+ZAL       ,,44,01:03,29,490,"KAVALIAUSKAS, ANTANAS",P000399   ,Out,OUT,,,Zalgiris Kaunas,0
+KHI       ,,,01:03,29,491,"ROBINSON, THOMAS",P008003   ,Missed Free Throw (1/3 -  13 pt),FTA,,,Khimki Moscow Region,0
+ZAL       ,,30,01:03,29,492,"WHITE, AARON",P006505   ,Def Rebound (3),D,,,Zalgiris Kaunas,0
+ZAL       ,,6,00:46,30,494,"TOUPANE, AXEL",P002582   ,Missed Two Pointer (4/9 -  10 pt),2FGA,,,Zalgiris Kaunas,0
+ZAL       ,,6,00:46,30,495,"TOUPANE, AXEL",P002582   ,Shot Rejected (1),AG,,,Zalgiris Kaunas,0
+KHI       ,,,00:43,30,496,"ROBINSON, THOMAS",P008003   ,Block (2),FV,,,Khimki Moscow Region,0
+KHI       ,,21,00:42,30,497,"ANDERSON, JAMES",P005938   ,Def Rebound (1),D,,,Khimki Moscow Region,0
+KHI       ,,,00:24,30,498,"ROBINSON, THOMAS",P008003   ,Turnover (1),TO,,,Khimki Moscow Region,0
+ZAL       ,,92,00:23,30,499,"ULANOVAS, EDGARAS",P002329   ,Steal (3),ST,,,Zalgiris Kaunas,0
+ZAL       ,,0,00:10,30,500,"DAVIES, BRANDON",P007870   ,Missed Two Pointer (4/7 -  8 pt),2FGA,,,Zalgiris Kaunas,0
+ZAL       ,,30,00:10,30,501,"WHITE, AARON",P006505   ,Off Rebound (3),O,,,Zalgiris Kaunas,0
+ZAL       ,,30,00:10,30,502,"WHITE, AARON",P006505   ,Two Pointer (4/7 -  8 pt),2FGM,63.0,52.0,Zalgiris Kaunas,0
+ZAL       ,,30,00:10,30,503,"WHITE, AARON",P006505   ,Foul Drawn (1),RV,,,Zalgiris Kaunas,0
+KHI       ,,21,00:10,30,504,"ANDERSON, JAMES",P005938   ,Foul (4),CM,,,Khimki Moscow Region,0
+ZAL       ,,3,00:10,30,505,"PANGOS, KEVIN",P006433   ,Out,OUT,,,Zalgiris Kaunas,0
+ZAL       ,,66,00:10,30,506,"VALINSKAS, PAULIUS",P004664   ,In,IN,,,Zalgiris Kaunas,0
+ZAL       ,,30,00:10,30,507,"WHITE, AARON",P006505   ,Free Throw In (1/1 -  9 pt),FTM,63.0,53.0,Zalgiris Kaunas,0
+KHI       ,,8,00:00,30,509,"ZAYTSEV, VYACHESLAV",P001792   ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,Khimki Moscow Region,0
+          ,,,,31,511,,          ,End Period,EP,,,,0
+          ,,,,31,518,,          ,Begin Period,BP,,,,0
+KHI       ,,21,10:00,31,512,"ANDERSON, JAMES",P005938   ,Out,OUT,,,Khimki Moscow Region,0
+KHI       ,,22,10:00,31,513,"JENKINS, CHARLES",P005014   ,In,IN,,,Khimki Moscow Region,0
+ZAL       ,,0,10:00,31,514,"DAVIES, BRANDON",P007870   ,Out,OUT,,,Zalgiris Kaunas,0
+ZAL       ,,3,10:00,31,515,"PANGOS, KEVIN",P006433   ,In,IN,,,Zalgiris Kaunas,0
+ZAL       ,,13,10:00,31,516,"JANKUNAS, PAULIUS",PBWI      ,In,IN,,,Zalgiris Kaunas,0
+ZAL       ,,66,10:00,31,517,"VALINSKAS, PAULIUS",P004664   ,Out,OUT,,,Zalgiris Kaunas,0
+ZAL       ,,3,09:39,31,519,"PANGOS, KEVIN",P006433   ,Foul Drawn (3),RV,,,Zalgiris Kaunas,0
+KHI       ,,13,09:39,31,520,"GILL, ANTHONY",P008001   ,Offensive Foul (4),OF,,,Khimki Moscow Region,0
+KHI       ,,13,09:39,31,521,"GILL, ANTHONY",P008001   ,Turnover (2),TO,,,Khimki Moscow Region,0
+ZAL       ,,3,09:26,31,522,"PANGOS, KEVIN",P006433   ,Missed Three Pointer (0/4 -  0 pt),3FGA,,,Zalgiris Kaunas,0
+KHI       ,,9,09:23,31,523,"MARKOVIC, STEFAN",PLME      ,Def Rebound (3),D,,,Khimki Moscow Region,0
+KHI       ,,9,09:05,31,524,"MARKOVIC, STEFAN",PLME      ,Three Pointer (2/2 -  6 pt),3FGM,66.0,53.0,Khimki Moscow Region,0
+KHI       ,,8,09:03,31,525,"ZAYTSEV, VYACHESLAV",P001792   ,Assist (3),AS,,,Khimki Moscow Region,0
+ZAL       ,,13,08:49,32,527,"JANKUNAS, PAULIUS",PBWI      ,Missed Two Pointer (3/5 -  18 pt),2FGA,,,Zalgiris Kaunas,0
+KHI       ,,,08:46,32,528,"ROBINSON, THOMAS",P008003   ,Def Rebound (5),D,,,Khimki Moscow Region,0
+KHI       ,,,08:35,32,529,"ROBINSON, THOMAS",P008003   ,Two Pointer (7/12 -  15 pt),2FGM,68.0,53.0,Khimki Moscow Region,0
+KHI       ,,9,08:33,32,530,"MARKOVIC, STEFAN",PLME      ,Assist (6),AS,,,Khimki Moscow Region,0
+ZAL       ,,3,08:15,32,531,"PANGOS, KEVIN",P006433   ,Missed Three Pointer (0/5 -  0 pt),3FGA,,,Zalgiris Kaunas,0
+ZAL       ,,3,08:15,32,532,"PANGOS, KEVIN",P006433   ,Shot Rejected (2),AG,,,Zalgiris Kaunas,0
+KHI       ,,,08:15,32,533,"ROBINSON, THOMAS",P008003   ,Block (3),FV,,,Khimki Moscow Region,0
+ZAL       ,,13,08:15,32,534,"JANKUNAS, PAULIUS",PBWI      ,Off Rebound (2),O,,,Zalgiris Kaunas,0
+ZAL       ,,13,08:15,32,535,"JANKUNAS, PAULIUS",PBWI      ,Foul Drawn (9),RV,,,Zalgiris Kaunas,0
+KHI       ,,8,08:15,32,536,"ZAYTSEV, VYACHESLAV",P001792   ,Foul (3),CM,,,Khimki Moscow Region,0
+KHI       ,,12,08:15,32,537,"MONIA, SERGEY",PBFX      ,In,IN,,,Khimki Moscow Region,0
+KHI       ,,13,08:15,32,538,"GILL, ANTHONY",P008001   ,Out,OUT,,,Khimki Moscow Region,0
+ZAL       ,,6,08:13,32,539,"TOUPANE, AXEL",P002582   ,Foul Drawn (5),RV,,,Zalgiris Kaunas,0
+KHI       ,,,08:13,32,540,"ROBINSON, THOMAS",P008003   ,Foul (1),CM,,,Khimki Moscow Region,0
+ZAL       ,,6,08:13,32,541,"TOUPANE, AXEL",P002582   ,Free Throw In (3/4 -  11 pt),FTM,68.0,54.0,Zalgiris Kaunas,0
+ZAL       ,,13,08:13,32,565,"JANKUNAS, PAULIUS",PBWI      ,Assist (3),AS,,,Zalgiris Kaunas,0
+ZAL       ,,6,08:13,32,542,"TOUPANE, AXEL",P002582   ,Missed Free Throw (3/5 -  11 pt),FTA,,,Zalgiris Kaunas,0
+ZAL       ,,,08:13,32,543,,          ,Off Rebound (6),O,,,Zalgiris Kaunas,0
+ZAL       ,,3,08:03,32,544,"PANGOS, KEVIN",P006433   ,Three Pointer (1/6 -  3 pt),3FGM,68.0,57.0,Zalgiris Kaunas,0
+ZAL       ,,92,08:02,32,545,"ULANOVAS, EDGARAS",P002329   ,Assist (2),AS,,,Zalgiris Kaunas,0
+KHI       ,,,07:41,33,547,"ROBINSON, THOMAS",P008003   ,Missed Two Pointer (7/13 -  15 pt),2FGA,,,Khimki Moscow Region,0
+ZAL       ,,,07:41,33,548,,          ,Def Rebound (2),D,,,Zalgiris Kaunas,0
+KHI       ,,1,07:41,33,549,"SHVED, ALEXEY",PKVZ      ,In,IN,,,Khimki Moscow Region,0
+KHI       ,,8,07:41,33,550,"ZAYTSEV, VYACHESLAV",P001792   ,Out,OUT,,,Khimki Moscow Region,0
+ZAL       ,,30,07:32,33,551,"WHITE, AARON",P006505   ,Three Pointer (1/2 -  12 pt),3FGM,68.0,60.0,Zalgiris Kaunas,0
+ZAL       ,,3,07:32,33,552,"PANGOS, KEVIN",P006433   ,Assist (8),AS,,,Zalgiris Kaunas,0
+KHI       ,,,07:32,33,553,"ROBINSON, THOMAS",P008003   ,Two Pointer (8/14 -  17 pt),2FGM,70.0,60.0,Khimki Moscow Region,0
+KHI       ,,9,07:32,33,554,"MARKOVIC, STEFAN",PLME      ,Assist (7),AS,,,Khimki Moscow Region,0
+ZAL       ,,13,07:32,33,555,"JANKUNAS, PAULIUS",PBWI      ,Missed Two Pointer (3/6 -  18 pt),2FGA,,,Zalgiris Kaunas,0
+KHI       ,,,07:32,33,556,"ROBINSON, THOMAS",P008003   ,Def Rebound (6),D,,,Khimki Moscow Region,0
+KHI       ,,1,06:47,34,558,"SHVED, ALEXEY",PKVZ      ,Foul Drawn (5),RV,,,Khimki Moscow Region,0
+ZAL       ,,30,06:47,34,559,"WHITE, AARON",P006505   ,Foul (2),CM,,,Zalgiris Kaunas,0
+KHI       ,,1,06:45,34,560,"SHVED, ALEXEY",PKVZ      ,Foul Drawn (6),RV,,,Khimki Moscow Region,0
+ZAL       ,,6,06:45,34,561,"TOUPANE, AXEL",P002582   ,Foul (2),CM,,,Zalgiris Kaunas,0
+KHI       ,,12,06:36,34,562,"MONIA, SERGEY",PBFX      ,Three Pointer (1/1 -  3 pt),3FGM,73.0,60.0,Khimki Moscow Region,0
+KHI       ,,,06:36,34,563,"ROBINSON, THOMAS",P008003   ,Assist (1),AS,,,Khimki Moscow Region,0
+ZAL       ,,,06:36,34,564,,          ,Time Out (1),TOUT,,,Zalgiris Kaunas,0
+ZAL       ,,13,06:22,34,566,"JANKUNAS, PAULIUS",PBWI      ,Two Pointer (4/7 -  20 pt),2FGM,73.0,62.0,Zalgiris Kaunas,0
+ZAL       ,,3,06:11,34,567,"PANGOS, KEVIN",P006433   ,Assist (9),AS,,,Zalgiris Kaunas,0
+KHI       ,,9,06:03,34,568,"MARKOVIC, STEFAN",PLME      ,Missed Three Pointer (2/3 -  6 pt),3FGA,,,Khimki Moscow Region,0
+ZAL       ,,92,06:03,34,569,"ULANOVAS, EDGARAS",P002329   ,Def Rebound (4),D,,,Zalgiris Kaunas,0
+KHI       ,,,05:51,35,571,"ROBINSON, THOMAS",P008003   ,Foul (2),CM,,,Khimki Moscow Region,0
+ZAL       ,,3,05:51,35,572,"PANGOS, KEVIN",P006433   ,Foul Drawn (4),RV,,,Zalgiris Kaunas,0
+ZAL       ,,13,05:39,35,573,"JANKUNAS, PAULIUS",PBWI      ,Two Pointer (5/8 -  22 pt),2FGM,73.0,64.0,Zalgiris Kaunas,0
+ZAL       ,,3,05:38,35,574,"PANGOS, KEVIN",P006433   ,Assist (10),AS,,,Zalgiris Kaunas,0
+KHI       ,,1,05:17,35,575,"SHVED, ALEXEY",PKVZ      ,Missed Two Pointer (2/8 -  13 pt),2FGA,,,Khimki Moscow Region,0
+ZAL       ,,13,05:17,35,576,"JANKUNAS, PAULIUS",PBWI      ,Def Rebound (5),D,,,Zalgiris Kaunas,0
+ZAL       ,,13,05:17,35,577,"JANKUNAS, PAULIUS",PBWI      ,Foul Drawn (10),RV,,,Zalgiris Kaunas,0
+KHI       ,,,05:17,35,578,"ROBINSON, THOMAS",P008003   ,Foul (3),CM,,,Khimki Moscow Region,0
+KHI       ,,,05:17,35,579,,          ,Time Out (1),TOUT,,,Khimki Moscow Region,0
+ZAL       ,,13,05:17,35,580,"JANKUNAS, PAULIUS",PBWI      ,Free Throw In (13/13 -  23 pt),FTM,73.0,65.0,Zalgiris Kaunas,0
+ZAL       ,,13,05:17,35,581,"JANKUNAS, PAULIUS",PBWI      ,Free Throw In (14/14 -  24 pt),FTM,73.0,66.0,Zalgiris Kaunas,0
+KHI       ,,1,05:14,35,582,"SHVED, ALEXEY",PKVZ      ,Turnover (4),TO,,,Khimki Moscow Region,0
+ZAL       ,,30,05:02,35,583,"WHITE, AARON",P006505   ,Missed Three Pointer (1/3 -  12 pt),3FGA,,,Zalgiris Kaunas,0
+KHI       ,,,05:02,35,584,,          ,Def Rebound (3),D,,,Khimki Moscow Region,0
+KHI       ,,12,04:40,36,586,"MONIA, SERGEY",PBFX      ,Three Pointer (2/2 -  6 pt),3FGM,76.0,66.0,Khimki Moscow Region,0
+KHI       ,,9,04:37,36,587,"MARKOVIC, STEFAN",PLME      ,Assist (8),AS,,,Khimki Moscow Region,0
+ZAL       ,,6,04:34,36,588,"TOUPANE, AXEL",P002582   ,Foul Drawn (6),RV,,,Zalgiris Kaunas,0
+KHI       ,,9,04:34,36,589,"MARKOVIC, STEFAN",PLME      ,Foul (2),CM,,,Khimki Moscow Region,0
+ZAL       ,,21,04:34,36,590,"MILAKNIS, ARTURAS",PKPD      ,In,IN,,,Zalgiris Kaunas,0
+ZAL       ,,92,04:34,36,591,"ULANOVAS, EDGARAS",P002329   ,Out,OUT,,,Zalgiris Kaunas,0
+ZAL       ,,6,04:34,36,592,"TOUPANE, AXEL",P002582   ,Free Throw In (4/6 -  12 pt),FTM,76.0,67.0,Zalgiris Kaunas,0
+ZAL       ,,6,04:34,36,593,"TOUPANE, AXEL",P002582   ,Free Throw In (5/7 -  13 pt),FTM,76.0,68.0,Zalgiris Kaunas,0
+KHI       ,,9,04:32,36,594,"MARKOVIC, STEFAN",PLME      ,Foul Drawn (3),RV,,,Khimki Moscow Region,0
+ZAL       ,,6,04:32,36,595,"TOUPANE, AXEL",P002582   ,Foul (3),CM,,,Zalgiris Kaunas,0
+KHI       ,,,04:14,36,596,"ROBINSON, THOMAS",P008003   ,Two Pointer (9/15 -  19 pt),2FGM,78.0,68.0,Khimki Moscow Region,0
+KHI       ,,9,04:11,36,597,"MARKOVIC, STEFAN",PLME      ,Assist (9),AS,,,Khimki Moscow Region,0
+ZAL       ,,13,03:54,37,599,"JANKUNAS, PAULIUS",PBWI      ,Turnover (2),TO,,,Zalgiris Kaunas,0
+KHI       ,,1,03:45,37,600,"SHVED, ALEXEY",PKVZ      ,Missed Two Pointer (2/9 -  13 pt),2FGA,,,Khimki Moscow Region,0
+KHI       ,,12,03:43,37,601,"MONIA, SERGEY",PBFX      ,Off Rebound (1),O,,,Khimki Moscow Region,0
+KHI       ,,1,03:38,37,602,"SHVED, ALEXEY",PKVZ      ,Two Pointer (3/10 -  15 pt),2FGM,80.0,68.0,Khimki Moscow Region,0
+ZAL       ,,13,03:13,37,603,"JANKUNAS, PAULIUS",PBWI      ,Missed Two Pointer (5/9 -  24 pt),2FGA,,,Zalgiris Kaunas,0
+ZAL       ,,13,03:12,37,604,"JANKUNAS, PAULIUS",PBWI      ,Off Rebound (3),O,,,Zalgiris Kaunas,0
+ZAL       ,,13,03:10,37,605,"JANKUNAS, PAULIUS",PBWI      ,Missed Two Pointer (5/10 -  24 pt),2FGA,,,Zalgiris Kaunas,0
+ZAL       ,,30,03:06,37,606,"WHITE, AARON",P006505   ,Off Rebound (4),O,,,Zalgiris Kaunas,0
+ZAL       ,,30,03:05,37,607,"WHITE, AARON",P006505   ,Two Pointer (5/8 -  14 pt),2FGM,80.0,70.0,Zalgiris Kaunas,0
+KHI       ,,9,02:46,38,609,"MARKOVIC, STEFAN",PLME      ,Missed Three Pointer (2/4 -  6 pt),3FGA,,,Khimki Moscow Region,0
+ZAL       ,,21,02:44,38,610,"MILAKNIS, ARTURAS",PKPD      ,Def Rebound (1),D,,,Zalgiris Kaunas,0
+ZAL       ,,30,02:33,38,611,"WHITE, AARON",P006505   ,Foul Drawn (2),RV,,,Zalgiris Kaunas,0
+KHI       ,,,02:33,38,612,"ROBINSON, THOMAS",P008003   ,Foul (4),CM,,,Khimki Moscow Region,0
+ZAL       ,,6,02:33,38,613,"TOUPANE, AXEL",P002582   ,Out,OUT,,,Zalgiris Kaunas,0
+ZAL       ,,13,02:33,38,614,"JANKUNAS, PAULIUS",PBWI      ,Out,OUT,,,Zalgiris Kaunas,0
+ZAL       ,,21,02:33,38,615,"MILAKNIS, ARTURAS",PKPD      ,Out,OUT,,,Zalgiris Kaunas,0
+ZAL       ,,22,02:33,38,616,"MICIC, VASILIJE",P002580   ,In,IN,,,Zalgiris Kaunas,0
+ZAL       ,,44,02:33,38,617,"KAVALIAUSKAS, ANTANAS",P000399   ,In,IN,,,Zalgiris Kaunas,0
+ZAL       ,,66,02:33,38,618,"VALINSKAS, PAULIUS",P004664   ,In,IN,,,Zalgiris Kaunas,0
+ZAL       ,,30,02:33,38,619,"WHITE, AARON",P006505   ,Free Throw In (2/2 -  15 pt),FTM,80.0,71.0,Zalgiris Kaunas,0
+ZAL       ,,30,02:33,38,620,"WHITE, AARON",P006505   ,Missed Free Throw (2/3 -  15 pt),FTA,,,Zalgiris Kaunas,0
+KHI       ,,22,02:33,38,621,"JENKINS, CHARLES",P005014   ,Def Rebound (2),D,,,Khimki Moscow Region,0
+KHI       ,,1,02:17,38,622,"SHVED, ALEXEY",PKVZ      ,Missed Three Pointer (2/7 -  15 pt),3FGA,,,Khimki Moscow Region,0
+ZAL       ,,30,02:14,38,623,"WHITE, AARON",P006505   ,Def Rebound (4),D,,,Zalgiris Kaunas,0
+ZAL       ,,66,02:09,38,624,"VALINSKAS, PAULIUS",P004664   ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,Zalgiris Kaunas,0
+KHI       ,,,02:07,38,625,"ROBINSON, THOMAS",P008003   ,Def Rebound (7),D,,,Khimki Moscow Region,0
+KHI       ,,1,01:59,39,627,"SHVED, ALEXEY",PKVZ      ,Missed Three Pointer (2/8 -  15 pt),3FGA,,,Khimki Moscow Region,0
+ZAL       ,,66,01:57,39,628,"VALINSKAS, PAULIUS",P004664   ,Def Rebound (2),D,,,Zalgiris Kaunas,0
+ZAL       ,,44,01:47,39,629,"KAVALIAUSKAS, ANTANAS",P000399   ,Two Pointer (2/3 -  6 pt),2FGM,80.0,73.0,Zalgiris Kaunas,0
+ZAL       ,,22,01:47,39,630,"MICIC, VASILIJE",P002580   ,Assist (4),AS,,,Zalgiris Kaunas,0
+KHI       ,,,01:47,39,631,,          ,Time Out (2),TOUT,,,Khimki Moscow Region,0
+KHI       ,,12,01:40,39,632,"MONIA, SERGEY",PBFX      ,Two Pointer (1/1 -  8 pt),2FGM,82.0,73.0,Khimki Moscow Region,0
+KHI       ,,,01:40,39,633,"ROBINSON, THOMAS",P008003   ,Assist (2),AS,,,Khimki Moscow Region,0
+ZAL       ,,6,01:24,39,634,"TOUPANE, AXEL",P002582   ,In,IN,,,Zalgiris Kaunas,0
+ZAL       ,,44,01:24,39,635,"KAVALIAUSKAS, ANTANAS",P000399   ,Out,OUT,,,Zalgiris Kaunas,0
+ZAL       ,,3,01:16,39,636,"PANGOS, KEVIN",P006433   ,Three Pointer (2/7 -  6 pt),3FGM,82.0,76.0,Zalgiris Kaunas,0
+KHI       ,,1,00:52,40,638,"SHVED, ALEXEY",PKVZ      ,Missed Two Pointer (3/11 -  15 pt),2FGA,,,Khimki Moscow Region,0
+ZAL       ,,6,00:50,40,639,"TOUPANE, AXEL",P002582   ,Def Rebound (1),D,,,Zalgiris Kaunas,0
+ZAL       ,,66,00:48,40,641,"VALINSKAS, PAULIUS",P004664   ,Turnover (2),TO,,,Zalgiris Kaunas,0
+KHI       ,,22,00:48,40,642,"JENKINS, CHARLES",P005014   ,Steal (2),ST,,,Khimki Moscow Region,0
+KHI       ,,9,00:45,40,643,"MARKOVIC, STEFAN",PLME      ,Foul Drawn (4),RV,,,Khimki Moscow Region,0
+ZAL       ,,3,00:45,40,644,"PANGOS, KEVIN",P006433   ,Foul (4),CM,,,Zalgiris Kaunas,0
+ZAL       ,,3,00:45,40,645,"PANGOS, KEVIN",P006433   ,Out,OUT,,,Zalgiris Kaunas,0
+ZAL       ,,92,00:45,40,646,"ULANOVAS, EDGARAS",P002329   ,In,IN,,,Zalgiris Kaunas,0
+KHI       ,,9,00:41,40,647,"MARKOVIC, STEFAN",PLME      ,Foul Drawn (5),RV,,,Khimki Moscow Region,0
+ZAL       ,,92,00:41,40,648,"ULANOVAS, EDGARAS",P002329   ,Foul (2),CM,,,Zalgiris Kaunas,0
+ZAL       ,,3,00:41,40,649,"PANGOS, KEVIN",P006433   ,In,IN,,,Zalgiris Kaunas,0
+ZAL       ,,66,00:41,40,650,"VALINSKAS, PAULIUS",P004664   ,Out,OUT,,,Zalgiris Kaunas,0
+KHI       ,,9,00:41,40,651,"MARKOVIC, STEFAN",PLME      ,Free Throw In (1/3 -  7 pt),FTM,83.0,76.0,Khimki Moscow Region,0
+KHI       ,,9,00:41,40,652,"MARKOVIC, STEFAN",PLME      ,Free Throw In (2/4 -  8 pt),FTM,84.0,76.0,Khimki Moscow Region,0
+ZAL       ,,,00:41,40,653,,          ,Time Out (2),TOUT,,,Zalgiris Kaunas,0
+ZAL       ,,3,00:33,40,654,"PANGOS, KEVIN",P006433   ,Missed Three Pointer (2/8 -  6 pt),3FGA,,,Zalgiris Kaunas,0
+ZAL       ,,3,00:33,40,655,"PANGOS, KEVIN",P006433   ,Shot Rejected (3),AG,,,Zalgiris Kaunas,0
+KHI       ,,,00:30,40,656,"ROBINSON, THOMAS",P008003   ,Block (4),FV,,,Khimki Moscow Region,0
+KHI       ,,,00:29,40,657,"ROBINSON, THOMAS",P008003   ,Def Rebound (8),D,,,Khimki Moscow Region,0
+KHI       ,,1,00:27,40,658,"SHVED, ALEXEY",PKVZ      ,Missed Two Pointer (3/12 -  15 pt),2FGA,,,Khimki Moscow Region,0
+ZAL       ,,92,00:24,40,659,"ULANOVAS, EDGARAS",P002329   ,Def Rebound (5),D,,,Zalgiris Kaunas,0
+ZAL       ,,30,00:23,40,660,"WHITE, AARON",P006505   ,Missed Two Pointer (5/9 -  15 pt),2FGA,,,Zalgiris Kaunas,0
+KHI       ,,,00:23,40,661,,          ,Def Rebound (4),D,,,Khimki Moscow Region,0
+KHI       ,,1,00:22,40,662,"SHVED, ALEXEY",PKVZ      ,Foul Drawn (7),RV,,,Khimki Moscow Region,0
+ZAL       ,,22,00:22,40,663,"MICIC, VASILIJE",P002580   ,Foul (3),CM,,,Zalgiris Kaunas,0
+KHI       ,,1,00:22,40,664,"SHVED, ALEXEY",PKVZ      ,Missed Free Throw (3/5 -  15 pt),FTA,,,Khimki Moscow Region,0
+KHI       ,,1,00:22,40,665,"SHVED, ALEXEY",PKVZ      ,Free Throw In (4/6 -  16 pt),FTM,85.0,76.0,Khimki Moscow Region,0
+ZAL       ,,30,00:05,40,666,"WHITE, AARON",P006505   ,Foul Drawn (3),RV,,,Zalgiris Kaunas,0
+KHI       ,,9,00:05,40,667,"MARKOVIC, STEFAN",PLME      ,Foul (3),CM,,,Khimki Moscow Region,0
+ZAL       ,,30,00:05,40,668,"WHITE, AARON",P006505   ,Missed Free Throw (2/4 -  15 pt),FTA,,,Zalgiris Kaunas,0
+ZAL       ,,30,00:05,40,669,"WHITE, AARON",P006505   ,Free Throw In (3/5 -  16 pt),FTM,85.0,77.0,Zalgiris Kaunas,0
+KHI       ,,1,00:00,40,670,"SHVED, ALEXEY",PKVZ      ,Missed Three Pointer (2/9 -  16 pt),3FGA,,,Khimki Moscow Region,0
+          ,,,,41,675,,          ,End Game,EG,,,,0

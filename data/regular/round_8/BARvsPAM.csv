@@ -1,0 +1,463 @@
+CODETEAM,COMMENT,DORSAL,MARKERTIME,MINUTE,NUMBEROFPLAY,PLAYER,PLAYER_ID,PLAYINFO,PLAYTYPE,POINTS_A,POINTS_B,TEAM,TYPE
+          ,,,,1,2,,          ,Begin Period,BP,,,,0
+BAR       ,,1,09:43,1,3,"SERAPHIN, KEVIN",P001948   ,Two Pointer (1/1 -  2 pt),2FGM,2.0,,FC Barcelona Lassa,0
+PAM       ,,32,09:23,1,4,"GREEN, ERICK",P005159   ,Turnover (1),TO,,,Valencia Basket,0
+BAR       ,,9,09:21,1,5,"HANGA, ADAM",P005099   ,Steal (1),ST,,,FC Barcelona Lassa,0
+BAR       ,,9,09:20,1,6,"HANGA, ADAM",P005099   ,Turnover (1),TO,,,FC Barcelona Lassa,0
+PAM       ,,32,09:18,1,7,"GREEN, ERICK",P005159   ,Steal (1),ST,,,Valencia Basket,0
+PAM       ,,30,09:16,1,8,"SASTRE, JOAN",P002936   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Valencia Basket,0
+BAR       ,,13,09:16,1,83,"HEURTEL, THOMAS",PKLT      ,Def Rebound (1),D,,,FC Barcelona Lassa,0
+BAR       ,,1,09:06,1,9,"SERAPHIN, KEVIN",P001948   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,FC Barcelona Lassa,0
+BAR       ,,45,09:02,1,10,"MOERMAN, ADRIEN",P001833   ,Off Rebound (1),O,,,FC Barcelona Lassa,0
+BAR       ,,45,08:55,2,12,"MOERMAN, ADRIEN",P001833   ,Three Pointer (1/1 -  3 pt),3FGM,5.0,,FC Barcelona Lassa,0
+BAR       ,,9,08:53,2,13,"HANGA, ADAM",P005099   ,Assist (1),AS,,,FC Barcelona Lassa,0
+PAM       ,,30,08:39,2,14,"SASTRE, JOAN",P002936   ,Two Pointer (1/1 -  2 pt),2FGM,5.0,2.0,Valencia Basket,0
+PAM       ,,19,08:31,2,15,"SAN EMETERIO, FERNANDO",P000518   ,Foul (1),CM,,,Valencia Basket,0
+BAR       ,,13,08:31,2,16,"HEURTEL, THOMAS",PKLT      ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0
+PAM       ,,32,08:31,2,17,"GREEN, ERICK",P005159   ,Out,OUT,,,Valencia Basket,0
+PAM       ,,42,08:31,2,18,"DOORNEKAMP, AARON",P002763   ,In,IN,,,Valencia Basket,0
+PAM       ,,9,08:24,2,19,"VAN ROSSOM, SAM",PLRQ      ,Foul (1),CM,,,Valencia Basket,0
+BAR       ,,9,08:24,2,20,"HANGA, ADAM",P005099   ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0
+BAR       ,,21,08:11,2,21,"SANDERS, RAKIM",P005001   ,Two Pointer (1/1 -  2 pt),2FGM,7.0,2.0,FC Barcelona Lassa,0
+BAR       ,,1,08:08,2,22,"SERAPHIN, KEVIN",P001948   ,Assist (1),AS,,,FC Barcelona Lassa,0
+BAR       ,,21,07:52,3,24,"SANDERS, RAKIM",P005001   ,Foul (1),CM,,,FC Barcelona Lassa,0
+PAM       ,,42,07:52,3,25,"DOORNEKAMP, AARON",P002763   ,Foul Drawn (1),RV,,,Valencia Basket,0
+PAM       ,,42,07:52,3,26,"DOORNEKAMP, AARON",P002763   ,Free Throw In (1/1 -  1 pt),FTM,7.0,3.0,Valencia Basket,0
+PAM       ,,42,07:52,3,27,"DOORNEKAMP, AARON",P002763   ,Missed Free Throw (1/2 -  1 pt),FTA,,,Valencia Basket,0
+BAR       ,,45,07:46,3,28,"MOERMAN, ADRIEN",P001833   ,Def Rebound (1),D,,,FC Barcelona Lassa,0
+BAR       ,,45,07:37,3,29,"MOERMAN, ADRIEN",P001833   ,Missed Three Pointer (1/2 -  3 pt),3FGA,,,FC Barcelona Lassa,0
+PAM       ,,21,07:35,3,30,"PLEISS, TIBOR",PLHK      ,Def Rebound (1),D,,,Valencia Basket,0
+PAM       ,,19,07:19,3,31,"SAN EMETERIO, FERNANDO",P000518   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Valencia Basket,0
+BAR       ,,21,07:17,3,32,"SANDERS, RAKIM",P005001   ,Def Rebound (1),D,,,FC Barcelona Lassa,0
+BAR       ,,21,07:09,3,33,"SANDERS, RAKIM",P005001   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,FC Barcelona Lassa,0
+PAM       ,,21,07:07,3,34,"PLEISS, TIBOR",PLHK      ,Def Rebound (2),D,,,Valencia Basket,0
+PAM       ,,19,06:56,4,36,"SAN EMETERIO, FERNANDO",P000518   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Valencia Basket,0
+PAM       ,,19,06:56,4,37,"SAN EMETERIO, FERNANDO",P000518   ,Shot Rejected (1),AG,,,Valencia Basket,0
+BAR       ,,1,06:56,4,38,"SERAPHIN, KEVIN",P001948   ,Block (1),FV,,,FC Barcelona Lassa,0
+PAM       ,,,06:56,4,39,,          ,Off Rebound (1),O,,,Valencia Basket,0
+PAM       ,,21,06:46,4,40,"PLEISS, TIBOR",PLHK      ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Valencia Basket,0
+PAM       ,,21,06:46,4,41,"PLEISS, TIBOR",PLHK      ,Shot Rejected (1),AG,,,Valencia Basket,0
+BAR       ,,1,06:44,4,42,"SERAPHIN, KEVIN",P001948   ,Block (2),FV,,,FC Barcelona Lassa,0
+BAR       ,,9,06:42,4,43,"HANGA, ADAM",P005099   ,Def Rebound (1),D,,,FC Barcelona Lassa,0
+BAR       ,,1,06:41,4,44,"SERAPHIN, KEVIN",P001948   ,Offensive Foul (1),OF,,,FC Barcelona Lassa,0
+BAR       ,,1,06:41,4,45,"SERAPHIN, KEVIN",P001948   ,Turnover (1),TO,,,FC Barcelona Lassa,0
+PAM       ,,21,06:41,4,46,"PLEISS, TIBOR",PLHK      ,Foul Drawn (1),RV,,,Valencia Basket,0
+PAM       ,,9,06:26,4,47,"VAN ROSSOM, SAM",PLRQ      ,Three Pointer (1/1 -  3 pt),3FGM,7.0,6.0,Valencia Basket,0
+PAM       ,,30,06:23,4,48,"SASTRE, JOAN",P002936   ,Assist (1),AS,,,Valencia Basket,0
+BAR       ,,45,06:15,4,49,"MOERMAN, ADRIEN",P001833   ,Three Pointer (2/3 -  6 pt),3FGM,10.0,6.0,FC Barcelona Lassa,0
+BAR       ,,13,06:13,4,50,"HEURTEL, THOMAS",PKLT      ,Assist (1),AS,,,FC Barcelona Lassa,0
+BAR       ,,13,05:53,5,52,"HEURTEL, THOMAS",PKLT      ,Foul (1),CM,,,FC Barcelona Lassa,0
+PAM       ,,19,05:53,5,53,"SAN EMETERIO, FERNANDO",P000518   ,Foul Drawn (1),RV,,,Valencia Basket,0
+PAM       ,,21,05:41,5,54,"PLEISS, TIBOR",PLHK      ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Valencia Basket,0
+PAM       ,,21,05:41,5,55,"PLEISS, TIBOR",PLHK      ,Off Rebound (1),O,,,Valencia Basket,0
+PAM       ,,21,05:41,5,56,"PLEISS, TIBOR",PLHK      ,Two Pointer (1/3 -  2 pt),2FGM,10.0,8.0,Valencia Basket,0
+BAR       ,,1,05:41,5,57,"SERAPHIN, KEVIN",P001948   ,Foul (2),CM,,,FC Barcelona Lassa,0
+PAM       ,,21,05:41,5,58,"PLEISS, TIBOR",PLHK      ,Foul Drawn (2),RV,,,Valencia Basket,0
+BAR       ,,1,05:41,5,59,"SERAPHIN, KEVIN",P001948   ,Out,OUT,,,FC Barcelona Lassa,0
+BAR       ,,44,05:41,5,60,"TOMIC, ANTE",P002507   ,In,IN,,,FC Barcelona Lassa,0
+PAM       ,,21,05:41,5,61,"PLEISS, TIBOR",PLHK      ,Free Throw In (1/1 -  3 pt),FTM,10.0,9.0,Valencia Basket,0
+BAR       ,,9,05:28,5,62,"HANGA, ADAM",P005099   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,FC Barcelona Lassa,0
+PAM       ,,21,05:26,5,63,"PLEISS, TIBOR",PLHK      ,Def Rebound (3),D,,,Valencia Basket,0
+PAM       ,,19,05:19,5,64,"SAN EMETERIO, FERNANDO",P000518   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Valencia Basket,0
+PAM       ,,19,05:19,5,65,"SAN EMETERIO, FERNANDO",P000518   ,Shot Rejected (2),AG,,,Valencia Basket,0
+BAR       ,,45,05:17,5,66,"MOERMAN, ADRIEN",P001833   ,Block (1),FV,,,FC Barcelona Lassa,0
+BAR       ,,21,05:15,5,67,"SANDERS, RAKIM",P005001   ,Def Rebound (2),D,,,FC Barcelona Lassa,0
+BAR       ,,45,05:03,5,68,"MOERMAN, ADRIEN",P001833   ,Three Pointer (3/4 -  9 pt),3FGM,13.0,9.0,FC Barcelona Lassa,0
+BAR       ,,13,05:00,5,69,"HEURTEL, THOMAS",PKLT      ,Assist (2),AS,,,FC Barcelona Lassa,0
+PAM       ,,21,04:48,6,71,"PLEISS, TIBOR",PLHK      ,Two Pointer (2/4 -  5 pt),2FGM,13.0,11.0,Valencia Basket,0
+PAM       ,,19,04:46,6,72,"SAN EMETERIO, FERNANDO",P000518   ,Assist (1),AS,,,Valencia Basket,0
+BAR       ,,44,04:32,6,73,"TOMIC, ANTE",P002507   ,Two Pointer (1/1 -  2 pt),2FGM,15.0,11.0,FC Barcelona Lassa,0
+BAR       ,,9,04:30,6,74,"HANGA, ADAM",P005099   ,Assist (2),AS,,,FC Barcelona Lassa,0
+PAM       ,,21,04:16,6,75,"PLEISS, TIBOR",PLHK      ,Missed Three Pointer (0/1 -  5 pt),3FGA,,,Valencia Basket,0
+BAR       ,,45,04:13,6,76,"MOERMAN, ADRIEN",P001833   ,Def Rebound (2),D,,,FC Barcelona Lassa,0
+BAR       ,,13,04:05,6,77,"HEURTEL, THOMAS",PKLT      ,Two Pointer (1/1 -  2 pt),2FGM,17.0,11.0,FC Barcelona Lassa,0
+PAM       ,,19,03:49,7,79,"SAN EMETERIO, FERNANDO",P000518   ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,Valencia Basket,0
+PAM       ,,30,03:46,7,80,"SASTRE, JOAN",P002936   ,Off Rebound (1),O,,,Valencia Basket,0
+PAM       ,,9,03:40,7,81,"VAN ROSSOM, SAM",PLRQ      ,Turnover (1),TO,,,Valencia Basket,0
+          ,,,03:40,7,82,,          ,TV Time Out (1),TOUT_TV,,,,0
+BAR       ,,5,03:40,7,84,"RIBAS, PAU",PJUG      ,In,IN,,,FC Barcelona Lassa,0
+BAR       ,,9,03:40,7,85,"HANGA, ADAM",P005099   ,Out,OUT,,,FC Barcelona Lassa,0
+BAR       ,,18,03:40,7,86,"ORIOLA, PIERRE",P005917   ,In,IN,,,FC Barcelona Lassa,0
+BAR       ,,45,03:40,7,87,"MOERMAN, ADRIEN",P001833   ,Out,OUT,,,FC Barcelona Lassa,0
+PAM       ,,0,03:40,7,88,"THOMAS, WILL",P005856   ,In,IN,,,Valencia Basket,0
+PAM       ,,9,03:40,7,89,"VAN ROSSOM, SAM",PLRQ      ,Out,OUT,,,Valencia Basket,0
+PAM       ,,16,03:40,7,90,"VIVES, GUILLEM",P002361   ,In,IN,,,Valencia Basket,0
+PAM       ,,42,03:40,7,91,"DOORNEKAMP, AARON",P002763   ,Out,OUT,,,Valencia Basket,0
+BAR       ,,44,03:20,7,92,"TOMIC, ANTE",P002507   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,FC Barcelona Lassa,0
+PAM       ,,16,03:18,7,93,"VIVES, GUILLEM",P002361   ,Def Rebound (1),D,,,Valencia Basket,0
+PAM       ,,30,03:14,7,94,"SASTRE, JOAN",P002936   ,Two Pointer (2/2 -  4 pt),2FGM,17.0,13.0,Valencia Basket,0
+PAM       ,,16,03:10,7,95,"VIVES, GUILLEM",P002361   ,Assist (1),AS,,,Valencia Basket,0
+BAR       ,,13,02:52,8,97,"HEURTEL, THOMAS",PKLT      ,Two Pointer (2/2 -  4 pt),2FGM,19.0,13.0,FC Barcelona Lassa,0
+PAM       ,,21,02:31,8,98,"PLEISS, TIBOR",PLHK      ,Missed Two Pointer (2/5 -  5 pt),2FGA,,,Valencia Basket,0
+BAR       ,,13,02:28,8,99,"HEURTEL, THOMAS",PKLT      ,Def Rebound (2),D,,,FC Barcelona Lassa,0
+BAR       ,,13,02:20,8,100,"HEURTEL, THOMAS",PKLT      ,Missed Two Pointer (2/3 -  4 pt),2FGA,,,FC Barcelona Lassa,0
+PAM       ,,21,02:18,8,101,"PLEISS, TIBOR",PLHK      ,Def Rebound (4),D,,,Valencia Basket,0
+PAM       ,,0,02:09,8,102,"THOMAS, WILL",P005856   ,Three Pointer (1/1 -  3 pt),3FGM,19.0,16.0,Valencia Basket,0
+PAM       ,,16,02:06,8,103,"VIVES, GUILLEM",P002361   ,Assist (2),AS,,,Valencia Basket,0
+BAR       ,,21,01:46,9,105,"SANDERS, RAKIM",P005001   ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,FC Barcelona Lassa,0
+BAR       ,,5,01:44,9,106,"RIBAS, PAU",PJUG      ,Off Rebound (1),O,,,FC Barcelona Lassa,0
+BAR       ,,13,01:41,9,107,"HEURTEL, THOMAS",PKLT      ,Missed Three Pointer (0/1 -  4 pt),3FGA,,,FC Barcelona Lassa,0
+BAR       ,,21,01:39,9,108,"SANDERS, RAKIM",P005001   ,Off Rebound (1),O,,,FC Barcelona Lassa,0
+BAR       ,,21,01:36,9,109,"SANDERS, RAKIM",P005001   ,Missed Two Pointer (1/3 -  2 pt),2FGA,,,FC Barcelona Lassa,0
+PAM       ,,19,01:34,9,110,"SAN EMETERIO, FERNANDO",P000518   ,Def Rebound (1),D,,,Valencia Basket,0
+PAM       ,,19,01:20,9,111,"SAN EMETERIO, FERNANDO",P000518   ,Missed Two Pointer (0/3 -  0 pt),2FGA,,,Valencia Basket,0
+BAR       ,,18,01:18,9,112,"ORIOLA, PIERRE",P005917   ,Def Rebound (1),D,,,FC Barcelona Lassa,0
+BAR       ,,18,00:56,10,114,"ORIOLA, PIERRE",P005917   ,Three Pointer (1/1 -  3 pt),3FGM,22.0,16.0,FC Barcelona Lassa,0
+BAR       ,,21,00:54,10,115,"SANDERS, RAKIM",P005001   ,Assist (1),AS,,,FC Barcelona Lassa,0
+PAM       ,,21,00:38,10,116,"PLEISS, TIBOR",PLHK      ,Missed Two Pointer (2/6 -  5 pt),2FGA,,,Valencia Basket,0
+BAR       ,,44,00:36,10,117,"TOMIC, ANTE",P002507   ,Def Rebound (1),D,,,FC Barcelona Lassa,0
+BAR       ,,13,00:27,10,118,"HEURTEL, THOMAS",PKLT      ,Two Pointer (3/4 -  6 pt),2FGM,24.0,16.0,FC Barcelona Lassa,0
+PAM       ,,21,00:03,10,119,"PLEISS, TIBOR",PLHK      ,Two Pointer (3/7 -  7 pt),2FGM,24.0,18.0,Valencia Basket,0
+PAM       ,,16,00:00,10,120,"VIVES, GUILLEM",P002361   ,Assist (3),AS,,,Valencia Basket,0
+          ,,,,11,122,,          ,End Period,EP,,,,0
+          ,,,,11,133,,          ,Begin Period,BP,,,,0
+BAR       ,,8,10:00,11,123,"PRESSEY, PHIL",P007997   ,In,IN,,,FC Barcelona Lassa,0
+BAR       ,,13,10:00,11,124,"HEURTEL, THOMAS",PKLT      ,Out,OUT,,,FC Barcelona Lassa,0
+BAR       ,,21,10:00,11,125,"SANDERS, RAKIM",P005001   ,Out,OUT,,,FC Barcelona Lassa,0
+BAR       ,,25,10:00,11,126,"KOPONEN, PETTERI",P004178   ,In,IN,,,FC Barcelona Lassa,0
+PAM       ,,14,10:00,11,127,"DUBLJEVIC, BOJAN",P002742   ,In,IN,,,Valencia Basket,0
+PAM       ,,19,10:00,11,128,"SAN EMETERIO, FERNANDO",P000518   ,Out,OUT,,,Valencia Basket,0
+PAM       ,,21,10:00,11,129,"PLEISS, TIBOR",PLHK      ,Out,OUT,,,Valencia Basket,0
+PAM       ,,30,10:00,11,130,"SASTRE, JOAN",P002936   ,Out,OUT,,,Valencia Basket,0
+PAM       ,,32,10:00,11,131,"GREEN, ERICK",P005159   ,In,IN,,,Valencia Basket,0
+PAM       ,,42,10:00,11,132,"DOORNEKAMP, AARON",P002763   ,In,IN,,,Valencia Basket,0
+PAM       ,,32,09:49,11,134,"GREEN, ERICK",P005159   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Valencia Basket,0
+BAR       ,,,09:49,11,135,,          ,Def Rebound (1),D,,,FC Barcelona Lassa,0
+BAR       ,,44,09:37,11,136,"TOMIC, ANTE",P002507   ,Missed Two Pointer (1/3 -  2 pt),2FGA,,,FC Barcelona Lassa,0
+PAM       ,,14,09:35,11,137,"DUBLJEVIC, BOJAN",P002742   ,Def Rebound (1),D,,,Valencia Basket,0
+PAM       ,,42,09:15,11,138,"DOORNEKAMP, AARON",P002763   ,Two Pointer (1/1 -  3 pt),2FGM,24.0,20.0,Valencia Basket,0
+BAR       ,,5,08:53,12,140,"RIBAS, PAU",PJUG      ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,FC Barcelona Lassa,0
+PAM       ,,14,08:51,12,141,"DUBLJEVIC, BOJAN",P002742   ,Def Rebound (2),D,,,Valencia Basket,0
+BAR       ,,25,08:36,12,142,"KOPONEN, PETTERI",P004178   ,Foul (1),CM,,,FC Barcelona Lassa,0
+PAM       ,,42,08:36,12,143,"DOORNEKAMP, AARON",P002763   ,Foul Drawn (2),RV,,,Valencia Basket,0
+PAM       ,,0,08:27,12,144,"THOMAS, WILL",P005856   ,Turnover (1),TO,,,Valencia Basket,0
+BAR       ,,8,08:26,12,145,"PRESSEY, PHIL",P007997   ,Steal (1),ST,,,FC Barcelona Lassa,0
+BAR       ,,8,08:24,12,146,"PRESSEY, PHIL",P007997   ,Turnover (1),TO,,,FC Barcelona Lassa,0
+PAM       ,,16,08:23,12,147,"VIVES, GUILLEM",P002361   ,Steal (1),ST,,,Valencia Basket,0
+PAM       ,,32,08:19,12,148,"GREEN, ERICK",P005159   ,Two Pointer (1/1 -  2 pt),2FGM,24.0,22.0,Valencia Basket,0
+PAM       ,,42,08:16,12,149,"DOORNEKAMP, AARON",P002763   ,Assist (1),AS,,,Valencia Basket,0
+BAR       ,,25,07:56,13,151,"KOPONEN, PETTERI",P004178   ,Three Pointer (1/1 -  3 pt),3FGM,27.0,22.0,FC Barcelona Lassa,0
+BAR       ,,44,07:43,13,152,"TOMIC, ANTE",P002507   ,Foul (1),CM,,,FC Barcelona Lassa,0
+PAM       ,,14,07:43,13,153,"DUBLJEVIC, BOJAN",P002742   ,Foul Drawn (1),RV,,,Valencia Basket,0
+PAM       ,,14,07:31,13,154,"DUBLJEVIC, BOJAN",P002742   ,Two Pointer (1/1 -  2 pt),2FGM,27.0,24.0,Valencia Basket,0
+BAR       ,,18,07:05,13,155,"ORIOLA, PIERRE",P005917   ,Three Pointer (2/2 -  6 pt),3FGM,30.0,24.0,FC Barcelona Lassa,0
+BAR       ,,44,07:03,13,156,"TOMIC, ANTE",P002507   ,Assist (1),AS,,,FC Barcelona Lassa,0
+PAM       ,,16,06:38,14,158,"VIVES, GUILLEM",P002361   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Valencia Basket,0
+BAR       ,,18,06:36,14,159,"ORIOLA, PIERRE",P005917   ,Def Rebound (2),D,,,FC Barcelona Lassa,0
+BAR       ,,25,06:23,14,160,"KOPONEN, PETTERI",P004178   ,Three Pointer (2/2 -  6 pt),3FGM,33.0,24.0,FC Barcelona Lassa,0
+BAR       ,,44,06:24,14,161,"TOMIC, ANTE",P002507   ,Assist (2),AS,,,FC Barcelona Lassa,0
+PAM       ,,,06:24,14,162,,          ,Time Out (1),TOUT,,,Valencia Basket,0
+PAM       ,,17,06:24,14,163,"MARTINEZ, RAFA",P001351   ,In,IN,,,Valencia Basket,0
+PAM       ,,42,06:24,14,164,"DOORNEKAMP, AARON",P002763   ,Out,OUT,,,Valencia Basket,0
+BAR       ,,44,06:17,14,165,"TOMIC, ANTE",P002507   ,Foul (2),CM,,,FC Barcelona Lassa,0
+PAM       ,,16,06:17,14,166,"VIVES, GUILLEM",P002361   ,Foul Drawn (1),RV,,,Valencia Basket,0
+PAM       ,,32,06:06,14,167,"GREEN, ERICK",P005159   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,Valencia Basket,0
+BAR       ,,25,06:04,14,168,"KOPONEN, PETTERI",P004178   ,Def Rebound (1),D,,,FC Barcelona Lassa,0
+BAR       ,,25,05:55,15,170,"KOPONEN, PETTERI",P004178   ,Missed Three Pointer (2/3 -  6 pt),3FGA,,,FC Barcelona Lassa,0
+BAR       ,,18,05:52,15,171,"ORIOLA, PIERRE",P005917   ,Off Rebound (1),O,,,FC Barcelona Lassa,0
+BAR       ,,18,05:52,15,172,"ORIOLA, PIERRE",P005917   ,Two Pointer (1/1 -  8 pt),2FGM,35.0,24.0,FC Barcelona Lassa,0
+PAM       ,,16,05:34,15,173,"VIVES, GUILLEM",P002361   ,Two Pointer (1/2 -  2 pt),2FGM,35.0,26.0,Valencia Basket,0
+BAR       ,,5,05:34,15,174,"RIBAS, PAU",PJUG      ,Foul (1),CM,,,FC Barcelona Lassa,0
+PAM       ,,16,05:34,15,175,"VIVES, GUILLEM",P002361   ,Foul Drawn (2),RV,,,Valencia Basket,0
+PAM       ,,16,05:34,15,176,"VIVES, GUILLEM",P002361   ,Free Throw In (1/1 -  3 pt),FTM,35.0,27.0,Valencia Basket,0
+PAM       ,,9,05:34,15,177,"VAN ROSSOM, SAM",PLRQ      ,In,IN,,,Valencia Basket,0
+PAM       ,,16,05:34,15,178,"VIVES, GUILLEM",P002361   ,Out,OUT,,,Valencia Basket,0
+BAR       ,,5,05:18,15,179,"RIBAS, PAU",PJUG      ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,FC Barcelona Lassa,0
+BAR       ,,18,05:17,15,180,"ORIOLA, PIERRE",P005917   ,Foul (1),CM,,,FC Barcelona Lassa,0
+PAM       ,,0,05:17,15,181,"THOMAS, WILL",P005856   ,Foul Drawn (1),RV,,,Valencia Basket,0
+PAM       ,,0,05:17,15,182,"THOMAS, WILL",P005856   ,Free Throw In (1/1 -  4 pt),FTM,35.0,28.0,Valencia Basket,0
+PAM       ,,0,05:17,15,183,"THOMAS, WILL",P005856   ,Free Throw In (2/2 -  5 pt),FTM,35.0,29.0,Valencia Basket,0
+BAR       ,,25,04:53,16,185,"KOPONEN, PETTERI",P004178   ,Missed Two Pointer (0/1 -  6 pt),2FGA,,,FC Barcelona Lassa,0
+PAM       ,,32,04:51,16,186,"GREEN, ERICK",P005159   ,Def Rebound (1),D,,,Valencia Basket,0
+PAM       ,,32,04:49,16,187,"GREEN, ERICK",P005159   ,Turnover (2),TO,,,Valencia Basket,0
+BAR       ,,25,04:47,16,188,"KOPONEN, PETTERI",P004178   ,Steal (1),ST,,,FC Barcelona Lassa,0
+BAR       ,,5,04:43,16,189,"RIBAS, PAU",PJUG      ,Two Pointer (1/1 -  2 pt),2FGM,37.0,29.0,FC Barcelona Lassa,0
+BAR       ,,25,04:41,16,190,"KOPONEN, PETTERI",P004178   ,Assist (1),AS,,,FC Barcelona Lassa,0
+BAR       ,,18,04:29,16,191,"ORIOLA, PIERRE",P005917   ,Foul (2),CM,,,FC Barcelona Lassa,0
+PAM       ,,0,04:29,16,192,"THOMAS, WILL",P005856   ,Foul Drawn (2),RV,,,Valencia Basket,0
+PAM       ,,30,04:29,16,193,"SASTRE, JOAN",P002936   ,In,IN,,,Valencia Basket,0
+PAM       ,,32,04:29,16,194,"GREEN, ERICK",P005159   ,Out,OUT,,,Valencia Basket,0
+PAM       ,,0,04:29,16,195,"THOMAS, WILL",P005856   ,Missed Free Throw (2/3 -  5 pt),FTA,,,Valencia Basket,0
+PAM       ,,0,04:29,16,196,"THOMAS, WILL",P005856   ,Free Throw In (3/4 -  6 pt),FTM,37.0,30.0,Valencia Basket,0
+BAR       ,,44,04:14,16,197,"TOMIC, ANTE",P002507   ,Two Pointer (2/4 -  4 pt),2FGM,39.0,30.0,FC Barcelona Lassa,0
+BAR       ,,8,04:14,16,221,"PRESSEY, PHIL",P007997   ,Assist (1),AS,,,FC Barcelona Lassa,0
+PAM       ,,14,04:14,16,198,"DUBLJEVIC, BOJAN",P002742   ,Foul (1),CM,,,Valencia Basket,0
+BAR       ,,44,04:14,16,199,"TOMIC, ANTE",P002507   ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0
+BAR       ,,44,04:14,16,200,"TOMIC, ANTE",P002507   ,Free Throw In (1/1 -  5 pt),FTM,40.0,30.0,FC Barcelona Lassa,0
+PAM       ,,9,03:56,17,202,"VAN ROSSOM, SAM",PLRQ      ,Missed Three Pointer (1/2 -  3 pt),3FGA,,,Valencia Basket,0
+BAR       ,,44,03:54,17,203,"TOMIC, ANTE",P002507   ,Def Rebound (2),D,,,FC Barcelona Lassa,0
+BAR       ,,44,03:35,17,204,"TOMIC, ANTE",P002507   ,Turnover (1),TO,,,FC Barcelona Lassa,0
+PAM       ,,14,03:34,17,205,"DUBLJEVIC, BOJAN",P002742   ,Steal (1),ST,,,Valencia Basket,0
+PAM       ,,9,03:31,17,206,"VAN ROSSOM, SAM",PLRQ      ,Two Pointer (1/1 -  5 pt),2FGM,40.0,32.0,Valencia Basket,0
+PAM       ,,14,03:30,17,207,"DUBLJEVIC, BOJAN",P002742   ,Assist (1),AS,,,Valencia Basket,0
+PAM       ,,9,03:30,17,208,"VAN ROSSOM, SAM",PLRQ      ,Unsportsmanlike Foul  (2),CMU,,,Valencia Basket,0
+BAR       ,,5,03:30,17,209,"RIBAS, PAU",PJUG      ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0
+BAR       ,,18,03:30,17,210,"ORIOLA, PIERRE",P005917   ,Out,OUT,,,FC Barcelona Lassa,0
+BAR       ,,45,03:30,17,211,"MOERMAN, ADRIEN",P001833   ,In,IN,,,FC Barcelona Lassa,0
+BAR       ,,5,03:30,17,212,"RIBAS, PAU",PJUG      ,Free Throw In (1/1 -  3 pt),FTM,41.0,32.0,FC Barcelona Lassa,0
+BAR       ,,5,03:30,17,213,"RIBAS, PAU",PJUG      ,Free Throw In (2/2 -  4 pt),FTM,42.0,32.0,FC Barcelona Lassa,0
+PAM       ,,0,03:30,17,214,"THOMAS, WILL",P005856   ,Out,OUT,,,Valencia Basket,0
+PAM       ,,9,03:30,17,215,"VAN ROSSOM, SAM",PLRQ      ,Out,OUT,,,Valencia Basket,0
+PAM       ,,16,03:30,17,216,"VIVES, GUILLEM",P002361   ,In,IN,,,Valencia Basket,0
+PAM       ,,42,03:30,17,217,"DOORNEKAMP, AARON",P002763   ,In,IN,,,Valencia Basket,0
+BAR       ,,5,03:14,17,218,"RIBAS, PAU",PJUG      ,Three Pointer (1/3 -  7 pt),3FGM,45.0,32.0,FC Barcelona Lassa,0
+BAR       ,,45,03:12,17,219,"MOERMAN, ADRIEN",P001833   ,Assist (1),AS,,,FC Barcelona Lassa,0
+PAM       ,,,03:12,17,220,,          ,Time Out (2),TOUT,,,Valencia Basket,0
+PAM       ,,17,03:12,17,222,"MARTINEZ, RAFA",P001351   ,Out,OUT,,,Valencia Basket,0
+PAM       ,,19,03:12,17,223,"SAN EMETERIO, FERNANDO",P000518   ,In,IN,,,Valencia Basket,0
+PAM       ,,,02:48,18,225,,          ,Turnover (1),TO,,,Valencia Basket,0
+BAR       ,,44,02:32,18,226,"TOMIC, ANTE",P002507   ,Missed Two Pointer (2/5 -  5 pt),2FGA,,,FC Barcelona Lassa,0
+PAM       ,,14,02:30,18,227,"DUBLJEVIC, BOJAN",P002742   ,Def Rebound (3),D,,,Valencia Basket,0
+PAM       ,,16,02:21,18,228,"VIVES, GUILLEM",P002361   ,Missed Three Pointer (0/1 -  3 pt),3FGA,,,Valencia Basket,0
+BAR       ,,5,02:19,18,229,"RIBAS, PAU",PJUG      ,Def Rebound (1),D,,,FC Barcelona Lassa,0
+BAR       ,,45,01:58,19,231,"MOERMAN, ADRIEN",P001833   ,Two Pointer (1/1 -  11 pt),2FGM,47.0,32.0,FC Barcelona Lassa,0
+BAR       ,,44,01:56,19,232,"TOMIC, ANTE",P002507   ,Assist (3),AS,,,FC Barcelona Lassa,0
+PAM       ,,19,01:35,19,233,"SAN EMETERIO, FERNANDO",P000518   ,Missed Two Pointer (0/4 -  0 pt),2FGA,,,Valencia Basket,0
+BAR       ,,5,01:33,19,234,"RIBAS, PAU",PJUG      ,Def Rebound (2),D,,,FC Barcelona Lassa,0
+BAR       ,,8,01:22,19,235,"PRESSEY, PHIL",P007997   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,FC Barcelona Lassa,0
+PAM       ,,16,01:20,19,236,"VIVES, GUILLEM",P002361   ,Def Rebound (2),D,,,Valencia Basket,0
+PAM       ,,14,01:02,19,237,"DUBLJEVIC, BOJAN",P002742   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,Valencia Basket,0
+BAR       ,,25,01:00,19,238,"KOPONEN, PETTERI",P004178   ,Def Rebound (2),D,,,FC Barcelona Lassa,0
+PAM       ,,30,00:49,20,240,"SASTRE, JOAN",P002936   ,Foul (1),CM,,,Valencia Basket,0
+BAR       ,,25,00:49,20,241,"KOPONEN, PETTERI",P004178   ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0
+BAR       ,,,00:49,20,242,,          ,Time Out (1),TOUT,,,FC Barcelona Lassa,0
+PAM       ,,14,00:49,20,243,"DUBLJEVIC, BOJAN",P002742   ,Out,OUT,,,Valencia Basket,0
+PAM       ,,21,00:49,20,244,"PLEISS, TIBOR",PLHK      ,In,IN,,,Valencia Basket,0
+BAR       ,,5,00:37,20,245,"RIBAS, PAU",PJUG      ,Turnover (1),TO,,,FC Barcelona Lassa,0
+PAM       ,,,00:12,20,246,,          ,Turnover (2),TO,,,Valencia Basket,0
+PAM       ,,21,00:05,20,247,"PLEISS, TIBOR",PLHK      ,Foul (1),CM,,,Valencia Basket,0
+BAR       ,,8,00:05,20,248,"PRESSEY, PHIL",P007997   ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0
+BAR       ,,,00:05,20,250,,          ,Time Out (2),TOUT,,,FC Barcelona Lassa,0
+BAR       ,,8,00:00,20,251,"PRESSEY, PHIL",P007997   ,Three Pointer (1/2 -  3 pt),3FGM,50.0,32.0,FC Barcelona Lassa,0
+BAR       ,,5,00:00,20,252,"RIBAS, PAU",PJUG      ,Assist (1),AS,,,FC Barcelona Lassa,0
+          ,,,,21,254,,          ,End Period,EP,,,,0
+          ,,,,21,265,,          ,Begin Period,BP,,,,0
+BAR       ,,1,10:00,21,255,"SERAPHIN, KEVIN",P001948   ,In,IN,,,FC Barcelona Lassa,0
+BAR       ,,5,10:00,21,256,"RIBAS, PAU",PJUG      ,Out,OUT,,,FC Barcelona Lassa,0
+BAR       ,,8,10:00,21,257,"PRESSEY, PHIL",P007997   ,Out,OUT,,,FC Barcelona Lassa,0
+BAR       ,,9,10:00,21,258,"HANGA, ADAM",P005099   ,In,IN,,,FC Barcelona Lassa,0
+BAR       ,,13,10:00,21,259,"HEURTEL, THOMAS",PKLT      ,In,IN,,,FC Barcelona Lassa,0
+BAR       ,,21,10:00,21,260,"SANDERS, RAKIM",P005001   ,In,IN,,,FC Barcelona Lassa,0
+BAR       ,,25,10:00,21,261,"KOPONEN, PETTERI",P004178   ,Out,OUT,,,FC Barcelona Lassa,0
+BAR       ,,44,10:00,21,262,"TOMIC, ANTE",P002507   ,Out,OUT,,,FC Barcelona Lassa,0
+PAM       ,,0,10:00,21,263,"THOMAS, WILL",P005856   ,In,IN,,,Valencia Basket,0
+PAM       ,,42,10:00,21,264,"DOORNEKAMP, AARON",P002763   ,Out,OUT,,,Valencia Basket,0
+PAM       ,,21,09:50,21,266,"PLEISS, TIBOR",PLHK      ,Foul (2),CM,,,Valencia Basket,0
+BAR       ,,1,09:50,21,267,"SERAPHIN, KEVIN",P001948   ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0
+BAR       ,,13,09:50,21,268,"HEURTEL, THOMAS",PKLT      ,Assist (3),AS,,,FC Barcelona Lassa,0
+BAR       ,,1,09:50,21,269,"SERAPHIN, KEVIN",P001948   ,Free Throw In (1/1 -  3 pt),FTM,51.0,32.0,FC Barcelona Lassa,0
+BAR       ,,1,09:50,21,270,"SERAPHIN, KEVIN",P001948   ,Free Throw In (2/2 -  4 pt),FTM,52.0,32.0,FC Barcelona Lassa,0
+BAR       ,,21,09:35,21,271,"SANDERS, RAKIM",P005001   ,Foul (2),CM,,,FC Barcelona Lassa,0
+PAM       ,,19,09:35,21,272,"SAN EMETERIO, FERNANDO",P000518   ,Foul Drawn (2),RV,,,Valencia Basket,0
+PAM       ,,30,09:25,21,273,"SASTRE, JOAN",P002936   ,Missed Two Pointer (2/3 -  4 pt),2FGA,,,Valencia Basket,0
+PAM       ,,30,09:25,21,274,"SASTRE, JOAN",P002936   ,Shot Rejected (1),AG,,,Valencia Basket,0
+BAR       ,,9,09:23,21,275,"HANGA, ADAM",P005099   ,Block (1),FV,,,FC Barcelona Lassa,0
+BAR       ,,1,09:21,21,276,"SERAPHIN, KEVIN",P001948   ,Def Rebound (1),D,,,FC Barcelona Lassa,0
+BAR       ,,13,09:15,21,277,"HEURTEL, THOMAS",PKLT      ,Missed Two Pointer (3/5 -  6 pt),2FGA,,,FC Barcelona Lassa,0
+PAM       ,,16,09:13,21,278,"VIVES, GUILLEM",P002361   ,Def Rebound (3),D,,,Valencia Basket,0
+PAM       ,,16,09:02,21,279,"VIVES, GUILLEM",P002361   ,Two Pointer (2/3 -  5 pt),2FGM,52.0,34.0,Valencia Basket,0
+BAR       ,,13,08:42,22,281,"HEURTEL, THOMAS",PKLT      ,Two Pointer (4/6 -  8 pt),2FGM,54.0,34.0,FC Barcelona Lassa,0
+PAM       ,,21,08:24,22,282,"PLEISS, TIBOR",PLHK      ,Missed Two Pointer (3/8 -  7 pt),2FGA,,,Valencia Basket,0
+PAM       ,,0,08:17,22,283,"THOMAS, WILL",P005856   ,Off Rebound (1),O,,,Valencia Basket,0
+PAM       ,,0,08:17,22,284,"THOMAS, WILL",P005856   ,Two Pointer (1/1 -  8 pt),2FGM,54.0,36.0,Valencia Basket,0
+BAR       ,,1,08:02,22,285,"SERAPHIN, KEVIN",P001948   ,Two Pointer (2/3 -  6 pt),2FGM,56.0,36.0,FC Barcelona Lassa,0
+BAR       ,,45,08:00,22,286,"MOERMAN, ADRIEN",P001833   ,Assist (2),AS,,,FC Barcelona Lassa,0
+PAM       ,,16,07:38,23,288,"VIVES, GUILLEM",P002361   ,Three Pointer (1/2 -  8 pt),3FGM,56.0,39.0,Valencia Basket,0
+PAM       ,,19,07:35,23,289,"SAN EMETERIO, FERNANDO",P000518   ,Assist (2),AS,,,Valencia Basket,0
+BAR       ,,13,07:22,23,290,"HEURTEL, THOMAS",PKLT      ,Missed Two Pointer (4/7 -  8 pt),2FGA,,,FC Barcelona Lassa,0
+PAM       ,,21,07:20,23,291,"PLEISS, TIBOR",PLHK      ,Def Rebound (5),D,,,Valencia Basket,0
+PAM       ,,30,07:10,23,292,"SASTRE, JOAN",P002936   ,Three Pointer (1/2 -  7 pt),3FGM,56.0,42.0,Valencia Basket,0
+PAM       ,,16,07:07,23,293,"VIVES, GUILLEM",P002361   ,Assist (4),AS,,,Valencia Basket,0
+PAM       ,,16,06:45,24,295,"VIVES, GUILLEM",P002361   ,Foul (1),CM,,,Valencia Basket,0
+BAR       ,,13,06:45,24,296,"HEURTEL, THOMAS",PKLT      ,Foul Drawn (2),RV,,,FC Barcelona Lassa,0
+BAR       ,,1,06:36,24,297,"SERAPHIN, KEVIN",P001948   ,Two Pointer (3/4 -  8 pt),2FGM,58.0,42.0,FC Barcelona Lassa,0
+BAR       ,,9,06:34,24,298,"HANGA, ADAM",P005099   ,Assist (3),AS,,,FC Barcelona Lassa,0
+BAR       ,,9,06:17,24,299,"HANGA, ADAM",P005099   ,Foul (1),CM,,,FC Barcelona Lassa,0
+PAM       ,,21,06:17,24,300,"PLEISS, TIBOR",PLHK      ,Foul Drawn (3),RV,,,Valencia Basket,0
+PAM       ,,19,06:17,24,301,"SAN EMETERIO, FERNANDO",P000518   ,Out,OUT,,,Valencia Basket,0
+PAM       ,,42,06:17,24,302,"DOORNEKAMP, AARON",P002763   ,In,IN,,,Valencia Basket,0
+PAM       ,,16,06:17,24,303,"VIVES, GUILLEM",P002361   ,Assist (5),AS,,,Valencia Basket,0
+PAM       ,,21,06:17,24,304,"PLEISS, TIBOR",PLHK      ,Free Throw In (2/2 -  8 pt),FTM,58.0,43.0,Valencia Basket,0
+PAM       ,,21,06:17,24,305,"PLEISS, TIBOR",PLHK      ,Free Throw In (3/3 -  9 pt),FTM,58.0,44.0,Valencia Basket,0
+PAM       ,,16,06:08,24,306,"VIVES, GUILLEM",P002361   ,Foul (2),CM,,,Valencia Basket,0
+BAR       ,,13,06:08,24,307,"HEURTEL, THOMAS",PKLT      ,Foul Drawn (3),RV,,,FC Barcelona Lassa,0
+BAR       ,,9,05:53,25,309,"HANGA, ADAM",P005099   ,Three Pointer (1/1 -  3 pt),3FGM,61.0,44.0,FC Barcelona Lassa,0
+BAR       ,,13,05:52,25,310,"HEURTEL, THOMAS",PKLT      ,Assist (4),AS,,,FC Barcelona Lassa,0
+PAM       ,,0,05:34,25,311,"THOMAS, WILL",P005856   ,Missed Two Pointer (1/2 -  8 pt),2FGA,,,Valencia Basket,0
+BAR       ,,1,05:32,25,312,"SERAPHIN, KEVIN",P001948   ,Def Rebound (2),D,,,FC Barcelona Lassa,0
+BAR       ,,21,05:29,25,313,"SANDERS, RAKIM",P005001   ,Two Pointer (2/4 -  4 pt),2FGM,63.0,44.0,FC Barcelona Lassa,0
+BAR       ,,13,05:29,25,314,"HEURTEL, THOMAS",PKLT      ,Assist (5),AS,,,FC Barcelona Lassa,0
+PAM       ,,,05:29,25,315,,          ,Time Out (1),TOUT,,,Valencia Basket,0
+PAM       ,,42,05:02,25,316,"DOORNEKAMP, AARON",P002763   ,Missed Three Pointer (0/1 -  3 pt),3FGA,,,Valencia Basket,0
+PAM       ,,0,05:00,25,317,"THOMAS, WILL",P005856   ,Off Rebound (2),O,,,Valencia Basket,0
+PAM       ,,21,04:52,26,319,"PLEISS, TIBOR",PLHK      ,Missed Two Pointer (3/9 -  9 pt),2FGA,,,Valencia Basket,0
+PAM       ,,21,04:49,26,320,"PLEISS, TIBOR",PLHK      ,Off Rebound (2),O,,,Valencia Basket,0
+PAM       ,,21,04:49,26,321,"PLEISS, TIBOR",PLHK      ,Two Pointer (4/10 -  11 pt),2FGM,63.0,46.0,Valencia Basket,0
+BAR       ,,21,04:32,26,322,"SANDERS, RAKIM",P005001   ,Two Pointer (3/5 -  6 pt),2FGM,65.0,46.0,FC Barcelona Lassa,0
+BAR       ,,9,04:18,26,323,"HANGA, ADAM",P005099   ,Foul (2),CM,,,FC Barcelona Lassa,0
+PAM       ,,21,04:18,26,324,"PLEISS, TIBOR",PLHK      ,Foul Drawn (4),RV,,,Valencia Basket,0
+BAR       ,,8,04:18,26,325,"PRESSEY, PHIL",P007997   ,In,IN,,,FC Barcelona Lassa,0
+BAR       ,,13,04:18,26,326,"HEURTEL, THOMAS",PKLT      ,Out,OUT,,,FC Barcelona Lassa,0
+BAR       ,,18,04:18,26,327,"ORIOLA, PIERRE",P005917   ,In,IN,,,FC Barcelona Lassa,0
+BAR       ,,45,04:18,26,328,"MOERMAN, ADRIEN",P001833   ,Out,OUT,,,FC Barcelona Lassa,0
+PAM       ,,9,04:18,26,329,"VAN ROSSOM, SAM",PLRQ      ,In,IN,,,Valencia Basket,0
+PAM       ,,16,04:18,26,330,"VIVES, GUILLEM",P002361   ,Out,OUT,,,Valencia Basket,0
+PAM       ,,21,04:15,26,331,"PLEISS, TIBOR",PLHK      ,Offensive Foul (3),OF,,,Valencia Basket,0
+PAM       ,,21,04:15,26,332,"PLEISS, TIBOR",PLHK      ,Turnover (1),TO,,,Valencia Basket,0
+BAR       ,,9,04:15,26,333,"HANGA, ADAM",P005099   ,Foul Drawn (2),RV,,,FC Barcelona Lassa,0
+BAR       ,,9,04:15,26,334,"HANGA, ADAM",P005099   ,Out,OUT,,,FC Barcelona Lassa,0
+BAR       ,,25,04:15,26,335,"KOPONEN, PETTERI",P004178   ,In,IN,,,FC Barcelona Lassa,0
+PAM       ,,14,04:15,26,336,"DUBLJEVIC, BOJAN",P002742   ,In,IN,,,Valencia Basket,0
+PAM       ,,21,04:15,26,337,"PLEISS, TIBOR",PLHK      ,Out,OUT,,,Valencia Basket,0
+BAR       ,,21,04:01,26,338,"SANDERS, RAKIM",P005001   ,Two Pointer (4/6 -  8 pt),2FGM,67.0,46.0,FC Barcelona Lassa,0
+PAM       ,,9,03:47,27,340,"VAN ROSSOM, SAM",PLRQ      ,Two Pointer (2/2 -  7 pt),2FGM,67.0,48.0,Valencia Basket,0
+PAM       ,,42,03:44,27,341,"DOORNEKAMP, AARON",P002763   ,Assist (2),AS,,,Valencia Basket,0
+BAR       ,,25,03:21,27,342,"KOPONEN, PETTERI",P004178   ,Missed Three Pointer (2/4 -  6 pt),3FGA,,,FC Barcelona Lassa,0
+PAM       ,,42,03:19,27,343,"DOORNEKAMP, AARON",P002763   ,Def Rebound (1),D,,,Valencia Basket,0
+PAM       ,,0,03:14,27,344,"THOMAS, WILL",P005856   ,Two Pointer (2/3 -  10 pt),2FGM,67.0,50.0,Valencia Basket,0
+PAM       ,,30,03:12,27,345,"SASTRE, JOAN",P002936   ,Assist (2),AS,,,Valencia Basket,0
+BAR       ,,1,02:53,28,347,"SERAPHIN, KEVIN",P001948   ,Turnover (2),TO,,,FC Barcelona Lassa,0
+PAM       ,,30,02:52,28,348,"SASTRE, JOAN",P002936   ,Steal (1),ST,,,Valencia Basket,0
+PAM       ,,30,02:46,28,349,"SASTRE, JOAN",P002936   ,Missed Three Pointer (1/3 -  7 pt),3FGA,,,Valencia Basket,0
+BAR       ,,8,02:44,28,350,"PRESSEY, PHIL",P007997   ,Def Rebound (1),D,,,FC Barcelona Lassa,0
+BAR       ,,21,02:22,28,351,"SANDERS, RAKIM",P005001   ,Missed Three Pointer (0/2 -  8 pt),3FGA,,,FC Barcelona Lassa,0
+BAR       ,,1,02:20,28,352,"SERAPHIN, KEVIN",P001948   ,Off Rebound (1),O,,,FC Barcelona Lassa,0
+BAR       ,,8,02:11,28,353,"PRESSEY, PHIL",P007997   ,Missed Three Pointer (1/3 -  3 pt),3FGA,,,FC Barcelona Lassa,0
+PAM       ,,14,02:09,28,354,"DUBLJEVIC, BOJAN",P002742   ,Def Rebound (4),D,,,Valencia Basket,0
+BAR       ,,21,01:53,29,356,"SANDERS, RAKIM",P005001   ,Foul (3),CM,,,FC Barcelona Lassa,0
+PAM       ,,42,01:53,29,357,"DOORNEKAMP, AARON",P002763   ,Foul Drawn (3),RV,,,Valencia Basket,0
+BAR       ,,1,01:53,29,358,"SERAPHIN, KEVIN",P001948   ,Out,OUT,,,FC Barcelona Lassa,0
+BAR       ,,5,01:53,29,359,"RIBAS, PAU",PJUG      ,In,IN,,,FC Barcelona Lassa,0
+BAR       ,,21,01:53,29,360,"SANDERS, RAKIM",P005001   ,Out,OUT,,,FC Barcelona Lassa,0
+BAR       ,,44,01:53,29,361,"TOMIC, ANTE",P002507   ,In,IN,,,FC Barcelona Lassa,0
+PAM       ,,0,01:53,29,362,"THOMAS, WILL",P005856   ,Out,OUT,,,Valencia Basket,0
+PAM       ,,10,01:53,29,363,"RUDEZ, DAMJAN",PJZH      ,In,IN,,,Valencia Basket,0
+PAM       ,,30,01:53,29,364,"SASTRE, JOAN",P002936   ,Out,OUT,,,Valencia Basket,0
+PAM       ,,32,01:53,29,365,"GREEN, ERICK",P005159   ,In,IN,,,Valencia Basket,0
+PAM       ,,10,01:46,29,366,"RUDEZ, DAMJAN",PJZH      ,Three Pointer (1/1 -  3 pt),3FGM,67.0,53.0,Valencia Basket,0
+PAM       ,,9,01:46,29,367,"VAN ROSSOM, SAM",PLRQ      ,Assist (1),AS,,,Valencia Basket,0
+BAR       ,,18,01:46,29,368,"ORIOLA, PIERRE",P005917   ,Foul (3),CM,,,FC Barcelona Lassa,0
+PAM       ,,10,01:46,29,369,"RUDEZ, DAMJAN",PJZH      ,Foul Drawn (1),RV,,,Valencia Basket,0
+PAM       ,,10,01:46,29,370,"RUDEZ, DAMJAN",PJZH      ,Free Throw In (1/1 -  4 pt),FTM,67.0,54.0,Valencia Basket,0
+BAR       ,,44,01:25,29,371,"TOMIC, ANTE",P002507   ,Two Pointer (3/6 -  7 pt),2FGM,69.0,54.0,FC Barcelona Lassa,0
+PAM       ,,32,01:11,29,372,"GREEN, ERICK",P005159   ,Missed Two Pointer (1/3 -  2 pt),2FGA,,,Valencia Basket,0
+BAR       ,,5,01:08,29,373,"RIBAS, PAU",PJUG      ,Def Rebound (3),D,,,FC Barcelona Lassa,0
+BAR       ,,44,01:02,29,374,"TOMIC, ANTE",P002507   ,Missed Two Pointer (3/7 -  7 pt),2FGA,,,FC Barcelona Lassa,0
+BAR       ,,44,00:59,30,376,"TOMIC, ANTE",P002507   ,Off Rebound (1),O,,,FC Barcelona Lassa,0
+BAR       ,,44,00:59,30,377,"TOMIC, ANTE",P002507   ,Missed Two Pointer (3/8 -  7 pt),2FGA,,,FC Barcelona Lassa,0
+PAM       ,,14,00:57,30,378,"DUBLJEVIC, BOJAN",P002742   ,Def Rebound (5),D,,,Valencia Basket,0
+PAM       ,,9,00:41,30,379,"VAN ROSSOM, SAM",PLRQ      ,Missed Two Pointer (2/3 -  7 pt),2FGA,,,Valencia Basket,0
+BAR       ,,44,00:39,30,380,"TOMIC, ANTE",P002507   ,Def Rebound (3),D,,,FC Barcelona Lassa,0
+BAR       ,,44,00:31,30,381,"TOMIC, ANTE",P002507   ,Missed Two Pointer (3/9 -  7 pt),2FGA,,,FC Barcelona Lassa,0
+PAM       ,,10,00:29,30,382,"RUDEZ, DAMJAN",PJZH      ,Def Rebound (1),D,,,Valencia Basket,0
+BAR       ,,5,00:22,30,383,"RIBAS, PAU",PJUG      ,Foul (2),CM,,,FC Barcelona Lassa,0
+PAM       ,,32,00:22,30,384,"GREEN, ERICK",P005159   ,Foul Drawn (1),RV,,,Valencia Basket,0
+PAM       ,,32,00:22,30,385,"GREEN, ERICK",P005159   ,Free Throw In (1/1 -  3 pt),FTM,69.0,55.0,Valencia Basket,0
+PAM       ,,32,00:22,30,386,"GREEN, ERICK",P005159   ,Free Throw In (2/2 -  4 pt),FTM,69.0,56.0,Valencia Basket,0
+BAR       ,,8,00:00,30,387,"PRESSEY, PHIL",P007997   ,Two Pointer (1/1 -  5 pt),2FGM,71.0,56.0,FC Barcelona Lassa,0
+          ,,,,31,389,,          ,End Period,EP,,,,0
+          ,,,,31,392,,          ,Begin Period,BP,,,,0
+PAM       ,,19,10:00,31,390,"SAN EMETERIO, FERNANDO",P000518   ,In,IN,,,Valencia Basket,0
+PAM       ,,42,10:00,31,391,"DOORNEKAMP, AARON",P002763   ,Out,OUT,,,Valencia Basket,0
+PAM       ,,14,09:43,31,393,"DUBLJEVIC, BOJAN",P002742   ,Two Pointer (2/3 -  4 pt),2FGM,71.0,58.0,Valencia Basket,0
+PAM       ,,19,09:41,31,394,"SAN EMETERIO, FERNANDO",P000518   ,Assist (3),AS,,,Valencia Basket,0
+BAR       ,,25,09:26,31,395,"KOPONEN, PETTERI",P004178   ,Missed Three Pointer (2/5 -  6 pt),3FGA,,,FC Barcelona Lassa,0
+PAM       ,,14,09:25,31,396,"DUBLJEVIC, BOJAN",P002742   ,Def Rebound (6),D,,,Valencia Basket,0
+PAM       ,,32,09:19,31,397,"GREEN, ERICK",P005159   ,Missed Three Pointer (0/2 -  4 pt),3FGA,,,Valencia Basket,0
+BAR       ,,5,09:17,31,398,"RIBAS, PAU",PJUG      ,Def Rebound (4),D,,,FC Barcelona Lassa,0
+PAM       ,,9,09:04,31,399,"VAN ROSSOM, SAM",PLRQ      ,Foul (3),CM,,,Valencia Basket,0
+BAR       ,,5,09:04,31,400,"RIBAS, PAU",PJUG      ,Foul Drawn (2),RV,,,FC Barcelona Lassa,0
+PAM       ,,9,09:04,31,401,"VAN ROSSOM, SAM",PLRQ      ,Out,OUT,,,Valencia Basket,0
+PAM       ,,16,09:04,31,402,"VIVES, GUILLEM",P002361   ,In,IN,,,Valencia Basket,0
+BAR       ,,18,08:50,32,404,"ORIOLA, PIERRE",P005917   ,Two Pointer (2/2 -  10 pt),2FGM,73.0,58.0,FC Barcelona Lassa,0
+BAR       ,,5,08:49,32,405,"RIBAS, PAU",PJUG      ,Assist (2),AS,,,FC Barcelona Lassa,0
+PAM       ,,14,08:25,32,406,"DUBLJEVIC, BOJAN",P002742   ,Two Pointer (3/4 -  6 pt),2FGM,73.0,60.0,Valencia Basket,0
+PAM       ,,16,08:24,32,407,"VIVES, GUILLEM",P002361   ,Assist (6),AS,,,Valencia Basket,0
+BAR       ,,25,08:03,32,408,"KOPONEN, PETTERI",P004178   ,Missed Three Pointer (2/6 -  6 pt),3FGA,,,FC Barcelona Lassa,0
+PAM       ,,10,08:00,32,409,"RUDEZ, DAMJAN",PJZH      ,Def Rebound (2),D,,,Valencia Basket,0
+PAM       ,,32,07:37,33,411,"GREEN, ERICK",P005159   ,Missed Three Pointer (0/3 -  4 pt),3FGA,,,Valencia Basket,0
+PAM       ,,10,07:34,33,412,"RUDEZ, DAMJAN",PJZH      ,Off Rebound (1),O,,,Valencia Basket,0
+PAM       ,,14,07:23,33,413,"DUBLJEVIC, BOJAN",P002742   ,Missed Three Pointer (0/1 -  6 pt),3FGA,,,Valencia Basket,0
+BAR       ,,18,07:21,33,414,"ORIOLA, PIERRE",P005917   ,Def Rebound (3),D,,,FC Barcelona Lassa,0
+BAR       ,,18,07:07,33,415,"ORIOLA, PIERRE",P005917   ,Two Pointer (3/3 -  12 pt),2FGM,75.0,60.0,FC Barcelona Lassa,0
+BAR       ,,44,07:05,33,416,"TOMIC, ANTE",P002507   ,Assist (4),AS,,,FC Barcelona Lassa,0
+PAM       ,,14,06:49,34,418,"DUBLJEVIC, BOJAN",P002742   ,Offensive Foul (2),OF,,,Valencia Basket,0
+PAM       ,,14,06:49,34,419,"DUBLJEVIC, BOJAN",P002742   ,Turnover (1),TO,,,Valencia Basket,0
+BAR       ,,44,06:49,34,420,"TOMIC, ANTE",P002507   ,Foul Drawn (2),RV,,,FC Barcelona Lassa,0
+BAR       ,,1,06:49,34,421,"SERAPHIN, KEVIN",P001948   ,In,IN,,,FC Barcelona Lassa,0
+BAR       ,,44,06:49,34,422,"TOMIC, ANTE",P002507   ,Out,OUT,,,FC Barcelona Lassa,0
+BAR       ,,8,06:37,34,423,"PRESSEY, PHIL",P007997   ,Turnover (2),TO,,,FC Barcelona Lassa,0
+PAM       ,,19,06:31,34,424,"SAN EMETERIO, FERNANDO",P000518   ,Offensive Foul (2),OF,,,Valencia Basket,0
+PAM       ,,19,06:31,34,425,"SAN EMETERIO, FERNANDO",P000518   ,Turnover (1),TO,,,Valencia Basket,0
+BAR       ,,5,06:31,34,426,"RIBAS, PAU",PJUG      ,Foul Drawn (3),RV,,,FC Barcelona Lassa,0
+BAR       ,,18,06:13,34,427,"ORIOLA, PIERRE",P005917   ,Two Pointer (4/4 -  14 pt),2FGM,77.0,60.0,FC Barcelona Lassa,0
+BAR       ,,8,06:11,34,428,"PRESSEY, PHIL",P007997   ,Assist (2),AS,,,FC Barcelona Lassa,0
+BAR       ,,1,05:56,35,430,"SERAPHIN, KEVIN",P001948   ,Foul (3),CM,,,FC Barcelona Lassa,0
+PAM       ,,14,05:56,35,431,"DUBLJEVIC, BOJAN",P002742   ,Foul Drawn (2),RV,,,Valencia Basket,0
+PAM       ,,14,05:56,35,432,"DUBLJEVIC, BOJAN",P002742   ,Out,OUT,,,Valencia Basket,0
+PAM       ,,21,05:56,35,433,"PLEISS, TIBOR",PLHK      ,In,IN,,,Valencia Basket,0
+PAM       ,,21,05:45,35,434,"PLEISS, TIBOR",PLHK      ,Missed Two Pointer (4/11 -  11 pt),2FGA,,,Valencia Basket,0
+BAR       ,,8,05:43,35,435,"PRESSEY, PHIL",P007997   ,Def Rebound (2),D,,,FC Barcelona Lassa,0
+BAR       ,,5,05:28,35,436,"RIBAS, PAU",PJUG      ,Missed Three Pointer (1/4 -  7 pt),3FGA,,,FC Barcelona Lassa,0
+PAM       ,,,05:28,35,437,,          ,Def Rebound (2),D,,,Valencia Basket,0
+PAM       ,,16,05:14,35,438,"VIVES, GUILLEM",P002361   ,Turnover (1),TO,,,Valencia Basket,0
+BAR       ,,5,05:12,35,439,"RIBAS, PAU",PJUG      ,Steal (1),ST,,,FC Barcelona Lassa,0
+BAR       ,,5,05:11,35,440,"RIBAS, PAU",PJUG      ,Two Pointer (2/2 -  9 pt),2FGM,79.0,60.0,FC Barcelona Lassa,0
+PAM       ,,,05:11,35,441,,          ,Time Out (1),TOUT,,,Valencia Basket,0
+BAR       ,,18,05:11,35,442,"ORIOLA, PIERRE",P005917   ,Out,OUT,,,FC Barcelona Lassa,0
+BAR       ,,45,05:11,35,443,"MOERMAN, ADRIEN",P001833   ,In,IN,,,FC Barcelona Lassa,0
+PAM       ,,16,05:00,35,444,"VIVES, GUILLEM",P002361   ,Turnover (2),TO,,,Valencia Basket,0
+BAR       ,,8,04:58,36,446,"PRESSEY, PHIL",P007997   ,Steal (2),ST,,,FC Barcelona Lassa,0
+BAR       ,,8,04:56,36,447,"PRESSEY, PHIL",P007997   ,Two Pointer (2/2 -  7 pt),2FGM,81.0,60.0,FC Barcelona Lassa,0
+PAM       ,,16,04:31,36,448,"VIVES, GUILLEM",P002361   ,Missed Three Pointer (1/3 -  8 pt),3FGA,,,Valencia Basket,0
+BAR       ,,45,04:29,36,449,"MOERMAN, ADRIEN",P001833   ,Def Rebound (3),D,,,FC Barcelona Lassa,0
+BAR       ,,45,04:09,36,450,"MOERMAN, ADRIEN",P001833   ,Missed Two Pointer (1/2 -  11 pt),2FGA,,,FC Barcelona Lassa,0
+PAM       ,,19,04:07,36,451,"SAN EMETERIO, FERNANDO",P000518   ,Def Rebound (2),D,,,Valencia Basket,0
+PAM       ,,21,03:52,37,453,"PLEISS, TIBOR",PLHK      ,Missed Two Pointer (4/12 -  11 pt),2FGA,,,Valencia Basket,0
+BAR       ,,8,03:49,37,454,"PRESSEY, PHIL",P007997   ,Def Rebound (3),D,,,FC Barcelona Lassa,0
+BAR       ,,1,03:35,37,455,"SERAPHIN, KEVIN",P001948   ,Missed Two Pointer (3/5 -  8 pt),2FGA,,,FC Barcelona Lassa,0
+BAR       ,,1,03:35,37,456,"SERAPHIN, KEVIN",P001948   ,Shot Rejected (1),AG,,,FC Barcelona Lassa,0
+PAM       ,,21,03:33,37,457,"PLEISS, TIBOR",PLHK      ,Block (1),FV,,,Valencia Basket,0
+PAM       ,,19,03:31,37,458,"SAN EMETERIO, FERNANDO",P000518   ,Def Rebound (3),D,,,Valencia Basket,0
+PAM       ,,21,03:24,37,459,"PLEISS, TIBOR",PLHK      ,Two Pointer (5/13 -  13 pt),2FGM,81.0,62.0,Valencia Basket,0
+PAM       ,,10,03:22,37,460,"RUDEZ, DAMJAN",PJZH      ,Assist (1),AS,,,Valencia Basket,0
+BAR       ,,25,03:07,37,461,"KOPONEN, PETTERI",P004178   ,Missed Three Pointer (2/7 -  6 pt),3FGA,,,FC Barcelona Lassa,0
+PAM       ,,16,03:05,37,462,"VIVES, GUILLEM",P002361   ,Def Rebound (4),D,,,Valencia Basket,0
+PAM       ,,10,02:59,38,464,"RUDEZ, DAMJAN",PJZH      ,Three Pointer (2/2 -  7 pt),3FGM,81.0,65.0,Valencia Basket,0
+PAM       ,,16,02:59,38,465,"VIVES, GUILLEM",P002361   ,Assist (7),AS,,,Valencia Basket,0
+BAR       ,,,02:59,38,466,,          ,Time Out (1),TOUT,,,FC Barcelona Lassa,0
+BAR       ,,9,02:59,38,467,"HANGA, ADAM",P005099   ,In,IN,,,FC Barcelona Lassa,0
+BAR       ,,25,02:59,38,468,"KOPONEN, PETTERI",P004178   ,Out,OUT,,,FC Barcelona Lassa,0
+PAM       ,,9,02:59,38,469,"VAN ROSSOM, SAM",PLRQ      ,In,IN,,,Valencia Basket,0
+PAM       ,,16,02:59,38,470,"VIVES, GUILLEM",P002361   ,Out,OUT,,,Valencia Basket,0
+PAM       ,,19,02:59,38,471,"SAN EMETERIO, FERNANDO",P000518   ,Out,OUT,,,Valencia Basket,0
+PAM       ,,30,02:59,38,472,"SASTRE, JOAN",P002936   ,In,IN,,,Valencia Basket,0
+BAR       ,,1,02:39,38,473,"SERAPHIN, KEVIN",P001948   ,Two Pointer (4/6 -  10 pt),2FGM,83.0,65.0,FC Barcelona Lassa,0
+BAR       ,,9,02:37,38,474,"HANGA, ADAM",P005099   ,Assist (4),AS,,,FC Barcelona Lassa,0
+PAM       ,,30,02:19,38,475,"SASTRE, JOAN",P002936   ,Missed Two Pointer (2/4 -  7 pt),2FGA,,,Valencia Basket,0
+BAR       ,,8,02:17,38,476,"PRESSEY, PHIL",P007997   ,Def Rebound (4),D,,,FC Barcelona Lassa,0
+PAM       ,,21,02:01,38,477,"PLEISS, TIBOR",PLHK      ,Foul (4),CM,,,Valencia Basket,0
+BAR       ,,1,02:01,38,478,"SERAPHIN, KEVIN",P001948   ,Foul Drawn (2),RV,,,FC Barcelona Lassa,0
+BAR       ,,1,02:01,38,479,"SERAPHIN, KEVIN",P001948   ,Free Throw In (3/3 -  11 pt),FTM,84.0,65.0,FC Barcelona Lassa,0
+BAR       ,,1,02:01,38,480,"SERAPHIN, KEVIN",P001948   ,Free Throw In (4/4 -  12 pt),FTM,85.0,65.0,FC Barcelona Lassa,0
+PAM       ,,32,01:46,39,482,"GREEN, ERICK",P005159   ,Missed Three Pointer (0/4 -  4 pt),3FGA,,,Valencia Basket,0
+BAR       ,,9,01:43,39,483,"HANGA, ADAM",P005099   ,Def Rebound (2),D,,,FC Barcelona Lassa,0
+BAR       ,,45,01:40,39,484,"MOERMAN, ADRIEN",P001833   ,Two Pointer (2/3 -  13 pt),2FGM,87.0,65.0,FC Barcelona Lassa,0
+BAR       ,,9,01:40,39,485,"HANGA, ADAM",P005099   ,Assist (5),AS,,,FC Barcelona Lassa,0
+PAM       ,,9,01:28,39,486,"VAN ROSSOM, SAM",PLRQ      ,Missed Two Pointer (2/4 -  7 pt),2FGA,,,Valencia Basket,0
+BAR       ,,1,01:26,39,487,"SERAPHIN, KEVIN",P001948   ,Def Rebound (3),D,,,FC Barcelona Lassa,0
+BAR       ,,45,01:23,39,488,"MOERMAN, ADRIEN",P001833   ,Turnover (1),TO,,,FC Barcelona Lassa,0
+BAR       ,,9,01:03,39,489,"HANGA, ADAM",P005099   ,Foul (3),CM,,,FC Barcelona Lassa,0
+PAM       ,,10,01:03,39,490,"RUDEZ, DAMJAN",PJZH      ,Foul Drawn (2),RV,,,Valencia Basket,0
+BAR       ,,1,01:03,39,491,"SERAPHIN, KEVIN",P001948   ,Out,OUT,,,FC Barcelona Lassa,0
+BAR       ,,18,01:03,39,492,"ORIOLA, PIERRE",P005917   ,In,IN,,,FC Barcelona Lassa,0
+PAM       ,,0,01:03,39,493,"THOMAS, WILL",P005856   ,In,IN,,,Valencia Basket,0
+PAM       ,,21,01:03,39,494,"PLEISS, TIBOR",PLHK      ,Out,OUT,,,Valencia Basket,0
+PAM       ,,32,00:54,40,496,"GREEN, ERICK",P005159   ,Three Pointer (1/5 -  7 pt),3FGM,87.0,68.0,Valencia Basket,0
+PAM       ,,30,00:54,40,497,"SASTRE, JOAN",P002936   ,Assist (3),AS,,,Valencia Basket,0
+BAR       ,,5,00:38,40,498,"RIBAS, PAU",PJUG      ,Two Pointer (3/3 -  11 pt),2FGM,89.0,68.0,FC Barcelona Lassa,0
+PAM       ,,32,00:16,40,499,"GREEN, ERICK",P005159   ,Three Pointer (2/6 -  10 pt),3FGM,89.0,71.0,Valencia Basket,0
+PAM       ,,30,00:16,40,500,"SASTRE, JOAN",P002936   ,Assist (4),AS,,,Valencia Basket,0
+BAR       ,,8,00:00,40,501,"PRESSEY, PHIL",P007997   ,Missed Two Pointer (2/3 -  7 pt),2FGA,,,FC Barcelona Lassa,0
+PAM       ,,32,00:00,40,502,"GREEN, ERICK",P005159   ,Def Rebound (2),D,,,Valencia Basket,0
+          ,,,,41,505,,          ,End Game,EG,,,,0

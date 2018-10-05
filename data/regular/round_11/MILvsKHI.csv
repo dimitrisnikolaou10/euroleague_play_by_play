@@ -1,0 +1,444 @@
+CODETEAM,COMMENT,DORSAL,MARKERTIME,MINUTE,NUMBEROFPLAY,PLAYER,PLAYER_ID,PLAYINFO,PLAYTYPE,POINTS_A,POINTS_B,TEAM,TYPE
+          ,,,,1,5,,          ,Begin Period,BP,,,,0
+MIL       ,,34,09:44,1,6,"JEFFERSON, CORY",P007992   ,Foul Drawn (1),RV,,,AX Armani Exchange Olimpia Milan,0
+KHI       ,,13,09:44,1,7,"GILL, ANTHONY",P008001   ,Foul (1),CM,,,Khimki Moscow Region,0
+MIL       ,,34,09:44,1,8,"JEFFERSON, CORY",P007992   ,Free Throw In (1/1 -  1 pt),FTM,1.0,,AX Armani Exchange Olimpia Milan,0
+MIL       ,,34,09:44,1,9,"JEFFERSON, CORY",P007992   ,Free Throw In (2/2 -  2 pt),FTM,2.0,,AX Armani Exchange Olimpia Milan,0
+KHI       ,,13,09:29,1,10,"GILL, ANTHONY",P008001   ,Turnover (1),TO,,,Khimki Moscow Region,0
+MIL       ,,25,09:28,1,11,"THEODORE, JORDAN",P007946   ,Steal (1),ST,,,AX Armani Exchange Olimpia Milan,0
+MIL       ,,5,09:24,1,12,"MICOV, VLADIMIR",P000529   ,Three Pointer (1/1 -  3 pt),3FGM,5.0,,AX Armani Exchange Olimpia Milan,0
+MIL       ,,25,09:21,1,13,"THEODORE, JORDAN",P007946   ,Assist (1),AS,,,AX Armani Exchange Olimpia Milan,0
+KHI       ,,1,09:04,1,14,"SHVED, ALEXEY",PKVZ      ,Two Pointer (1/1 -  2 pt),2FGM,5.0,2.0,Khimki Moscow Region,0
+MIL       ,,25,08:51,2,16,"THEODORE, JORDAN",P007946   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,AX Armani Exchange Olimpia Milan,0
+MIL       ,,15,08:49,2,17,"TARCZEWSKI, KALEB",P008004   ,Off Rebound (1),O,,,AX Armani Exchange Olimpia Milan,0
+MIL       ,,15,08:47,2,18,"TARCZEWSKI, KALEB",P008004   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,AX Armani Exchange Olimpia Milan,0
+KHI       ,,23,08:45,2,19,"THOMAS, MALCOLM",P004251   ,Def Rebound (1),D,,,Khimki Moscow Region,0
+KHI       ,,21,08:42,2,20,"ANDERSON, JAMES",P005938   ,Two Pointer (1/1 -  2 pt),2FGM,5.0,4.0,Khimki Moscow Region,0
+MIL       ,,15,08:27,2,21,"TARCZEWSKI, KALEB",P008004   ,Foul Drawn (1),RV,,,AX Armani Exchange Olimpia Milan,0
+KHI       ,,21,08:27,2,22,"ANDERSON, JAMES",P005938   ,Foul (1),CM,,,Khimki Moscow Region,0
+MIL       ,,15,08:27,2,23,"TARCZEWSKI, KALEB",P008004   ,Free Throw In (1/1 -  1 pt),FTM,6.0,4.0,AX Armani Exchange Olimpia Milan,0
+MIL       ,,5,08:27,2,24,"MICOV, VLADIMIR",P000529   ,Assist (1),AS,,,AX Armani Exchange Olimpia Milan,0
+MIL       ,,15,08:27,2,25,"TARCZEWSKI, KALEB",P008004   ,Free Throw In (2/2 -  2 pt),FTM,7.0,4.0,AX Armani Exchange Olimpia Milan,0
+KHI       ,,22,08:04,2,26,"JENKINS, CHARLES",P005014   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Khimki Moscow Region,0
+KHI       ,,22,08:04,2,27,"JENKINS, CHARLES",P005014   ,Shot Rejected (1),AG,,,Khimki Moscow Region,0
+MIL       ,,25,08:02,2,28,"THEODORE, JORDAN",P007946   ,Block (1),FV,,,AX Armani Exchange Olimpia Milan,0
+KHI       ,,22,08:02,2,29,"JENKINS, CHARLES",P005014   ,Off Rebound (1),O,,,Khimki Moscow Region,0
+KHI       ,,,08:02,2,30,,          ,Turnover (1),TO,,,Khimki Moscow Region,0
+MIL       ,,25,07:42,3,32,"THEODORE, JORDAN",P007946   ,Two Pointer (1/2 -  2 pt),2FGM,9.0,4.0,AX Armani Exchange Olimpia Milan,0
+MIL       ,,9,07:39,3,33,"KALNIETIS, MANTAS",PJBX      ,Assist (1),AS,,,AX Armani Exchange Olimpia Milan,0
+MIL       ,,9,07:26,3,34,"KALNIETIS, MANTAS",PJBX      ,Foul (1),CM,,,AX Armani Exchange Olimpia Milan,0
+KHI       ,,1,07:26,3,35,"SHVED, ALEXEY",PKVZ      ,Foul Drawn (1),RV,,,Khimki Moscow Region,0
+KHI       ,,1,07:26,3,36,"SHVED, ALEXEY",PKVZ      ,Two Pointer (2/2 -  4 pt),2FGM,9.0,6.0,Khimki Moscow Region,0
+MIL       ,,15,06:59,4,38,"TARCZEWSKI, KALEB",P008004   ,Two Pointer (1/2 -  4 pt),2FGM,11.0,6.0,AX Armani Exchange Olimpia Milan,0
+MIL       ,,34,06:53,4,39,"JEFFERSON, CORY",P007992   ,Assist (1),AS,,,AX Armani Exchange Olimpia Milan,0
+KHI       ,,22,06:37,4,40,"JENKINS, CHARLES",P005014   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Khimki Moscow Region,0
+MIL       ,,25,06:35,4,41,"THEODORE, JORDAN",P007946   ,Def Rebound (1),D,,,AX Armani Exchange Olimpia Milan,0
+MIL       ,,25,06:33,4,42,"THEODORE, JORDAN",P007946   ,Missed Two Pointer (1/3 -  2 pt),2FGA,,,AX Armani Exchange Olimpia Milan,0
+KHI       ,,23,06:33,4,43,"THOMAS, MALCOLM",P004251   ,Def Rebound (2),D,,,Khimki Moscow Region,0
+KHI       ,,22,06:33,4,44,"JENKINS, CHARLES",P005014   ,Foul Drawn (1),RV,,,Khimki Moscow Region,0
+MIL       ,,5,06:33,4,45,"MICOV, VLADIMIR",P000529   ,Foul (1),CM,,,AX Armani Exchange Olimpia Milan,0
+KHI       ,,1,06:20,4,46,"SHVED, ALEXEY",PKVZ      ,Missed Three Pointer (0/1 -  4 pt),3FGA,,,Khimki Moscow Region,0
+MIL       ,,25,06:19,4,47,"THEODORE, JORDAN",P007946   ,Def Rebound (2),D,,,AX Armani Exchange Olimpia Milan,0
+MIL       ,,15,06:19,4,48,"TARCZEWSKI, KALEB",P008004   ,Foul Drawn (2),RV,,,AX Armani Exchange Olimpia Milan,0
+KHI       ,,22,06:19,4,49,"JENKINS, CHARLES",P005014   ,Foul (1),CM,,,Khimki Moscow Region,0
+MIL       ,,34,06:13,4,50,"JEFFERSON, CORY",P007992   ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,AX Armani Exchange Olimpia Milan,0
+MIL       ,,15,06:13,4,51,"TARCZEWSKI, KALEB",P008004   ,Off Rebound (2),O,,,AX Armani Exchange Olimpia Milan,0
+MIL       ,,25,06:13,4,52,"THEODORE, JORDAN",P007946   ,Two Pointer (2/4 -  4 pt),2FGM,13.0,6.0,AX Armani Exchange Olimpia Milan,0
+KHI       ,,21,05:35,5,54,"ANDERSON, JAMES",P005938   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,Khimki Moscow Region,0
+KHI       ,,23,05:32,5,55,"THOMAS, MALCOLM",P004251   ,Off Rebound (1),O,,,Khimki Moscow Region,0
+KHI       ,,23,05:32,5,56,"THOMAS, MALCOLM",P004251   ,Two Pointer (1/1 -  2 pt),2FGM,13.0,8.0,Khimki Moscow Region,0
+MIL       ,,9,05:15,5,57,"KALNIETIS, MANTAS",PJBX      ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,AX Armani Exchange Olimpia Milan,0
+KHI       ,,23,05:13,5,58,"THOMAS, MALCOLM",P004251   ,Def Rebound (3),D,,,Khimki Moscow Region,0
+KHI       ,,21,05:00,5,59,"ANDERSON, JAMES",P005938   ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,Khimki Moscow Region,0
+KHI       ,,,04:59,6,61,,          ,Off Rebound (1),O,,,Khimki Moscow Region,0
+          ,,,04:58,6,62,,          ,TV Time Out (1),TOUT_TV,,,,0
+KHI       ,,1,04:51,6,63,"SHVED, ALEXEY",PKVZ      ,Missed Three Pointer (0/2 -  4 pt),3FGA,,,Khimki Moscow Region,0
+KHI       ,,23,04:50,6,64,"THOMAS, MALCOLM",P004251   ,Off Rebound (2),O,,,Khimki Moscow Region,0
+KHI       ,,22,04:40,6,65,"JENKINS, CHARLES",P005014   ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,Khimki Moscow Region,0
+MIL       ,,5,04:39,6,66,"MICOV, VLADIMIR",P000529   ,Def Rebound (1),D,,,AX Armani Exchange Olimpia Milan,0
+MIL       ,,25,04:20,6,67,"THEODORE, JORDAN",P007946   ,Foul Drawn (1),RV,,,AX Armani Exchange Olimpia Milan,0
+KHI       ,,22,04:20,6,68,"JENKINS, CHARLES",P005014   ,Foul (2),CM,,,Khimki Moscow Region,0
+KHI       ,,8,04:18,6,69,"ZAYTSEV, VYACHESLAV",P001792   ,In,IN,,,Khimki Moscow Region,0
+KHI       ,,22,04:18,6,70,"JENKINS, CHARLES",P005014   ,Out,OUT,,,Khimki Moscow Region,0
+KHI       ,,23,04:18,6,71,"THOMAS, MALCOLM",P004251   ,Foul (1),CM,,,Khimki Moscow Region,0
+MIL       ,,25,04:18,6,72,"THEODORE, JORDAN",P007946   ,Foul Drawn (2),RV,,,AX Armani Exchange Olimpia Milan,0
+MIL       ,,25,04:15,6,73,"THEODORE, JORDAN",P007946   ,Free Throw In (1/1 -  5 pt),FTM,14.0,8.0,AX Armani Exchange Olimpia Milan,0
+MIL       ,,25,04:15,6,74,"THEODORE, JORDAN",P007946   ,Free Throw In (2/2 -  6 pt),FTM,15.0,8.0,AX Armani Exchange Olimpia Milan,0
+MIL       ,,9,04:08,6,75,"KALNIETIS, MANTAS",PJBX      ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0
+MIL       ,,55,04:08,6,76,"JERRELLS, CURTIS",P003067   ,In,IN,,,AX Armani Exchange Olimpia Milan,0
+KHI       ,,23,04:08,6,77,"THOMAS, MALCOLM",P004251   ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,Khimki Moscow Region,0
+MIL       ,,34,04:08,6,78,"JEFFERSON, CORY",P007992   ,Def Rebound (1),D,,,AX Armani Exchange Olimpia Milan,0
+MIL       ,,25,04:08,6,80,"THEODORE, JORDAN",P007946   ,Foul Drawn (3),RV,,,AX Armani Exchange Olimpia Milan,0
+KHI       ,,8,04:08,6,81,"ZAYTSEV, VYACHESLAV",P001792   ,Foul (1),CM,,,Khimki Moscow Region,0
+MIL       ,,25,04:08,6,82,"THEODORE, JORDAN",P007946   ,Free Throw In (3/3 -  7 pt),FTM,16.0,8.0,AX Armani Exchange Olimpia Milan,0
+MIL       ,,25,03:38,7,84,"THEODORE, JORDAN",P007946   ,Free Throw In (4/4 -  8 pt),FTM,17.0,8.0,AX Armani Exchange Olimpia Milan,0
+KHI       ,,1,03:27,7,85,"SHVED, ALEXEY",PKVZ      ,Foul Drawn (2),RV,,,Khimki Moscow Region,0
+MIL       ,,15,03:27,7,86,"TARCZEWSKI, KALEB",P008004   ,Foul (1),CM,,,AX Armani Exchange Olimpia Milan,0
+KHI       ,,1,03:18,7,87,"SHVED, ALEXEY",PKVZ      ,Two Pointer (3/3 -  6 pt),2FGM,17.0,10.0,Khimki Moscow Region,0
+MIL       ,,15,02:59,8,89,"TARCZEWSKI, KALEB",P008004   ,Turnover (1),TO,,,AX Armani Exchange Olimpia Milan,0
+KHI       ,,1,02:46,8,90,"SHVED, ALEXEY",PKVZ      ,Missed Two Pointer (3/4 -  6 pt),2FGA,,,Khimki Moscow Region,0
+MIL       ,,15,02:43,8,91,"TARCZEWSKI, KALEB",P008004   ,Def Rebound (1),D,,,AX Armani Exchange Olimpia Milan,0
+MIL       ,,34,02:29,8,92,"JEFFERSON, CORY",P007992   ,Three Pointer (1/2 -  5 pt),3FGM,20.0,10.0,AX Armani Exchange Olimpia Milan,0
+MIL       ,,25,02:29,8,93,"THEODORE, JORDAN",P007946   ,Assist (2),AS,,,AX Armani Exchange Olimpia Milan,0
+KHI       ,,21,02:06,8,94,"ANDERSON, JAMES",P005938   ,Two Pointer (2/3 -  4 pt),2FGM,20.0,12.0,Khimki Moscow Region,0
+KHI       ,,23,02:04,8,95,"THOMAS, MALCOLM",P004251   ,Assist (1),AS,,,Khimki Moscow Region,0
+MIL       ,,5,01:44,9,97,"MICOV, VLADIMIR",P000529   ,Missed Three Pointer (1/2 -  3 pt),3FGA,,,AX Armani Exchange Olimpia Milan,0
+MIL       ,,15,01:43,9,98,"TARCZEWSKI, KALEB",P008004   ,Off Rebound (3),O,,,AX Armani Exchange Olimpia Milan,0
+MIL       ,,15,01:43,9,99,"TARCZEWSKI, KALEB",P008004   ,Foul Drawn (3),RV,,,AX Armani Exchange Olimpia Milan,0
+KHI       ,,23,01:43,9,100,"THOMAS, MALCOLM",P004251   ,Foul (2),CM,,,Khimki Moscow Region,0
+MIL       ,,15,01:42,9,101,"TARCZEWSKI, KALEB",P008004   ,Free Throw In (3/3 -  5 pt),FTM,21.0,12.0,AX Armani Exchange Olimpia Milan,0
+MIL       ,,15,01:42,9,102,"TARCZEWSKI, KALEB",P008004   ,Free Throw In (4/4 -  6 pt),FTM,22.0,12.0,AX Armani Exchange Olimpia Milan,0
+KHI       ,,19,01:42,9,103,"TODOROVIC, MARKO",P001612   ,In,IN,,,Khimki Moscow Region,0
+KHI       ,,23,01:42,9,104,"THOMAS, MALCOLM",P004251   ,Out,OUT,,,Khimki Moscow Region,0
+KHI       ,,21,01:33,9,105,"ANDERSON, JAMES",P005938   ,Missed Three Pointer (0/2 -  4 pt),3FGA,,,Khimki Moscow Region,0
+MIL       ,,34,01:29,9,106,"JEFFERSON, CORY",P007992   ,Def Rebound (2),D,,,AX Armani Exchange Olimpia Milan,0
+MIL       ,,25,01:25,9,107,"THEODORE, JORDAN",P007946   ,Missed Two Pointer (2/5 -  8 pt),2FGA,,,AX Armani Exchange Olimpia Milan,0
+KHI       ,,13,01:23,9,108,"GILL, ANTHONY",P008001   ,Def Rebound (1),D,,,Khimki Moscow Region,0
+KHI       ,,21,01:17,9,109,"ANDERSON, JAMES",P005938   ,Missed Two Pointer (2/4 -  4 pt),2FGA,,,Khimki Moscow Region,0
+MIL       ,,15,01:17,9,110,"TARCZEWSKI, KALEB",P008004   ,Def Rebound (2),D,,,AX Armani Exchange Olimpia Milan,0
+MIL       ,,15,00:48,10,112,"TARCZEWSKI, KALEB",P008004   ,Foul Drawn (4),RV,,,AX Armani Exchange Olimpia Milan,0
+KHI       ,,13,00:48,10,113,"GILL, ANTHONY",P008001   ,Foul (2),CM,,,Khimki Moscow Region,0
+KHI       ,,2,00:48,10,114,"HONEYCUTT, TYLER",P005800   ,In,IN,,,Khimki Moscow Region,0
+KHI       ,,21,00:48,10,115,"ANDERSON, JAMES",P005938   ,Out,OUT,,,Khimki Moscow Region,0
+MIL       ,,15,00:48,10,116,"TARCZEWSKI, KALEB",P008004   ,Missed Free Throw (4/5 -  6 pt),FTA,,,AX Armani Exchange Olimpia Milan,0
+MIL       ,,15,00:48,10,117,"TARCZEWSKI, KALEB",P008004   ,Missed Free Throw (4/6 -  6 pt),FTA,,,AX Armani Exchange Olimpia Milan,0
+KHI       ,,2,00:48,10,118,"HONEYCUTT, TYLER",P005800   ,Def Rebound (1),D,,,Khimki Moscow Region,0
+KHI       ,,1,00:23,10,119,"SHVED, ALEXEY",PKVZ      ,Missed Three Pointer (0/3 -  6 pt),3FGA,,,Khimki Moscow Region,0
+KHI       ,,2,00:18,10,120,"HONEYCUTT, TYLER",P005800   ,Off Rebound (1),O,,,Khimki Moscow Region,0
+KHI       ,,1,00:15,10,121,"SHVED, ALEXEY",PKVZ      ,Foul Drawn (3),RV,,,Khimki Moscow Region,0
+MIL       ,,55,00:15,10,122,"JERRELLS, CURTIS",P003067   ,Foul (1),CM,,,AX Armani Exchange Olimpia Milan,0
+MIL       ,,15,00:15,10,123,"TARCZEWSKI, KALEB",P008004   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0
+MIL       ,,77,00:15,10,124,"GUDAITIS, ARTURAS",P003120   ,In,IN,,,AX Armani Exchange Olimpia Milan,0
+KHI       ,,19,00:15,10,125,"TODOROVIC, MARKO",P001612   ,Turnover (1),TO,,,Khimki Moscow Region,0
+MIL       ,,25,00:15,10,126,"THEODORE, JORDAN",P007946   ,Steal (2),ST,,,AX Armani Exchange Olimpia Milan,0
+MIL       ,,77,00:15,10,127,"GUDAITIS, ARTURAS",P003120   ,Two Pointer (1/1 -  2 pt),2FGM,24.0,12.0,AX Armani Exchange Olimpia Milan,0
+MIL       ,,25,00:15,10,128,"THEODORE, JORDAN",P007946   ,Assist (3),AS,,,AX Armani Exchange Olimpia Milan,0
+          ,,,,11,130,,          ,End Period,EP,,,,0
+          ,,,,11,135,,          ,Begin Period,BP,,,,0
+MIL       ,,20,10:00,11,131,"CINCIARINI, ANDREA",PKIW      ,In,IN,,,AX Armani Exchange Olimpia Milan,0
+MIL       ,,25,10:00,11,132,"THEODORE, JORDAN",P007946   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0
+KHI       ,,13,10:00,11,133,"GILL, ANTHONY",P008001   ,Out,OUT,,,Khimki Moscow Region,0
+KHI       ,,20,10:00,11,134,"ZUBKOV, ANDREY",P003573   ,In,IN,,,Khimki Moscow Region,0
+KHI       ,,2,09:47,11,136,"HONEYCUTT, TYLER",P005800   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Khimki Moscow Region,0
+KHI       ,,2,09:47,11,137,"HONEYCUTT, TYLER",P005800   ,Shot Rejected (1),AG,,,Khimki Moscow Region,0
+MIL       ,,5,09:41,11,138,"MICOV, VLADIMIR",P000529   ,Block (1),FV,,,AX Armani Exchange Olimpia Milan,0
+MIL       ,,20,09:35,11,139,"CINCIARINI, ANDREA",PKIW      ,Def Rebound (1),D,,,AX Armani Exchange Olimpia Milan,0
+MIL       ,,5,09:27,11,140,"MICOV, VLADIMIR",P000529   ,Missed Three Pointer (1/3 -  3 pt),3FGA,,,AX Armani Exchange Olimpia Milan,0
+KHI       ,,20,09:26,11,141,"ZUBKOV, ANDREY",P003573   ,Def Rebound (1),D,,,Khimki Moscow Region,0
+KHI       ,,20,09:26,11,142,"ZUBKOV, ANDREY",P003573   ,Foul Drawn (1),RV,,,Khimki Moscow Region,0
+MIL       ,,77,09:26,11,143,"GUDAITIS, ARTURAS",P003120   ,Foul (1),CM,,,AX Armani Exchange Olimpia Milan,0
+KHI       ,,20,09:06,11,144,"ZUBKOV, ANDREY",P003573   ,Three Pointer (1/1 -  3 pt),3FGM,24.0,15.0,Khimki Moscow Region,0
+KHI       ,,19,09:04,11,145,"TODOROVIC, MARKO",P001612   ,Assist (1),AS,,,Khimki Moscow Region,0
+MIL       ,,20,08:45,12,147,"CINCIARINI, ANDREA",PKIW      ,Turnover (1),TO,,,AX Armani Exchange Olimpia Milan,0
+KHI       ,,1,08:44,12,148,"SHVED, ALEXEY",PKVZ      ,Steal (1),ST,,,Khimki Moscow Region,0
+KHI       ,,20,08:41,12,149,"ZUBKOV, ANDREY",P003573   ,Two Pointer (1/1 -  5 pt),2FGM,24.0,17.0,Khimki Moscow Region,0
+KHI       ,,1,08:39,12,150,"SHVED, ALEXEY",PKVZ      ,Assist (1),AS,,,Khimki Moscow Region,0
+MIL       ,,34,08:25,12,151,"JEFFERSON, CORY",P007992   ,Turnover (1),TO,,,AX Armani Exchange Olimpia Milan,0
+MIL       ,,,08:23,12,163,,          ,Time Out (1),TOUT,,,AX Armani Exchange Olimpia Milan,0
+MIL       ,,24,08:23,12,152,"M'BAYE, AMATH",P007993   ,In,IN,,,AX Armani Exchange Olimpia Milan,0
+MIL       ,,34,08:23,12,153,"JEFFERSON, CORY",P007992   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0
+KHI       ,,2,08:08,12,154,"HONEYCUTT, TYLER",P005800   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Khimki Moscow Region,0
+MIL       ,,20,08:04,12,155,"CINCIARINI, ANDREA",PKIW      ,Def Rebound (2),D,,,AX Armani Exchange Olimpia Milan,0
+MIL       ,,55,07:51,13,157,"JERRELLS, CURTIS",P003067   ,Three Pointer (1/1 -  3 pt),3FGM,27.0,17.0,AX Armani Exchange Olimpia Milan,0
+KHI       ,,1,07:33,13,158,"SHVED, ALEXEY",PKVZ      ,Two Pointer (4/5 -  8 pt),2FGM,27.0,19.0,Khimki Moscow Region,0
+MIL       ,,55,07:11,13,159,"JERRELLS, CURTIS",P003067   ,Two Pointer (1/1 -  5 pt),2FGM,29.0,19.0,AX Armani Exchange Olimpia Milan,0
+KHI       ,,1,06:47,14,161,"SHVED, ALEXEY",PKVZ      ,Turnover (1),TO,,,Khimki Moscow Region,0
+KHI       ,,,06:47,14,162,,          ,Time Out (1),TOUT,,,Khimki Moscow Region,0
+MIL       ,,5,06:47,14,164,"MICOV, VLADIMIR",P000529   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0
+MIL       ,,45,06:47,14,165,"BERTANS, DAIRIS",P000436   ,In,IN,,,AX Armani Exchange Olimpia Milan,0
+MIL       ,,55,06:34,14,166,"JERRELLS, CURTIS",P003067   ,Two Pointer (2/2 -  7 pt),2FGM,31.0,19.0,AX Armani Exchange Olimpia Milan,0
+MIL       ,,20,06:22,14,167,"CINCIARINI, ANDREA",PKIW      ,Foul (1),CM,,,AX Armani Exchange Olimpia Milan,0
+KHI       ,,1,06:22,14,168,"SHVED, ALEXEY",PKVZ      ,Foul Drawn (4),RV,,,Khimki Moscow Region,0
+KHI       ,,1,06:22,14,169,"SHVED, ALEXEY",PKVZ      ,Turnover (2),TO,,,Khimki Moscow Region,0
+MIL       ,,77,06:22,14,170,"GUDAITIS, ARTURAS",P003120   ,Steal (1),ST,,,AX Armani Exchange Olimpia Milan,0
+MIL       ,,24,06:22,14,171,"M'BAYE, AMATH",P007993   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,AX Armani Exchange Olimpia Milan,0
+KHI       ,,,06:22,14,172,,          ,Def Rebound (1),D,,,Khimki Moscow Region,0
+KHI       ,,19,06:06,14,173,"TODOROVIC, MARKO",P001612   ,Two Pointer (1/1 -  2 pt),2FGM,31.0,21.0,Khimki Moscow Region,0
+MIL       ,,55,05:24,15,175,"JERRELLS, CURTIS",P003067   ,Missed Three Pointer (1/2 -  7 pt),3FGA,,,AX Armani Exchange Olimpia Milan,0
+KHI       ,,1,05:24,15,176,"SHVED, ALEXEY",PKVZ      ,Def Rebound (1),D,,,Khimki Moscow Region,0
+KHI       ,,1,05:24,15,177,"SHVED, ALEXEY",PKVZ      ,Three Pointer (1/4 -  11 pt),3FGM,31.0,24.0,Khimki Moscow Region,0
+MIL       ,,,05:15,15,178,,          ,Time Out (2),TOUT,,,AX Armani Exchange Olimpia Milan,0
+MIL       ,,20,05:15,15,179,"CINCIARINI, ANDREA",PKIW      ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0
+MIL       ,,25,05:15,15,180,"THEODORE, JORDAN",P007946   ,In,IN,,,AX Armani Exchange Olimpia Milan,0
+KHI       ,,1,05:15,15,181,"SHVED, ALEXEY",PKVZ      ,Out,OUT,,,Khimki Moscow Region,0
+KHI       ,,21,05:15,15,182,"ANDERSON, JAMES",P005938   ,In,IN,,,Khimki Moscow Region,0
+MIL       ,,24,05:03,15,183,"M'BAYE, AMATH",P007993   ,Foul Drawn (1),RV,,,AX Armani Exchange Olimpia Milan,0
+KHI       ,,20,05:03,15,184,"ZUBKOV, ANDREY",P003573   ,Foul (1),CM,,,Khimki Moscow Region,0
+MIL       ,,24,05:01,15,185,"M'BAYE, AMATH",P007993   ,Missed Free Throw (0/1 -  0 pt),FTA,,,AX Armani Exchange Olimpia Milan,0
+MIL       ,,24,05:01,15,186,"M'BAYE, AMATH",P007993   ,Free Throw In (1/2 -  1 pt),FTM,32.0,24.0,AX Armani Exchange Olimpia Milan,0
+KHI       ,,21,04:48,16,188,"ANDERSON, JAMES",P005938   ,Missed Three Pointer (0/3 -  4 pt),3FGA,,,Khimki Moscow Region,0
+MIL       ,,55,04:45,16,189,"JERRELLS, CURTIS",P003067   ,Def Rebound (1),D,,,AX Armani Exchange Olimpia Milan,0
+MIL       ,,55,04:28,16,190,"JERRELLS, CURTIS",P003067   ,Two Pointer (3/3 -  9 pt),2FGM,34.0,24.0,AX Armani Exchange Olimpia Milan,0
+KHI       ,,20,04:11,16,191,"ZUBKOV, ANDREY",P003573   ,Foul Drawn (2),RV,,,Khimki Moscow Region,0
+MIL       ,,24,04:11,16,192,"M'BAYE, AMATH",P007993   ,Foul (1),CM,,,AX Armani Exchange Olimpia Milan,0
+KHI       ,,20,04:09,16,193,"ZUBKOV, ANDREY",P003573   ,Free Throw In (1/1 -  6 pt),FTM,34.0,25.0,Khimki Moscow Region,0
+KHI       ,,20,04:09,16,194,"ZUBKOV, ANDREY",P003573   ,Free Throw In (2/2 -  7 pt),FTM,34.0,26.0,Khimki Moscow Region,0
+MIL       ,,24,03:57,17,196,"M'BAYE, AMATH",P007993   ,Turnover (1),TO,,,AX Armani Exchange Olimpia Milan,0
+MIL       ,,24,03:54,17,197,"M'BAYE, AMATH",P007993   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0
+MIL       ,,34,03:54,17,198,"JEFFERSON, CORY",P007992   ,In,IN,,,AX Armani Exchange Olimpia Milan,0
+MIL       ,,34,03:54,17,199,"JEFFERSON, CORY",P007992   ,Foul (1),CM,,,AX Armani Exchange Olimpia Milan,0
+KHI       ,,21,03:54,17,200,"ANDERSON, JAMES",P005938   ,Foul Drawn (1),RV,,,Khimki Moscow Region,0
+KHI       ,,8,03:39,17,201,"ZAYTSEV, VYACHESLAV",P001792   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Khimki Moscow Region,0
+MIL       ,,77,03:39,17,202,"GUDAITIS, ARTURAS",P003120   ,Def Rebound (1),D,,,AX Armani Exchange Olimpia Milan,0
+MIL       ,,25,03:12,17,203,"THEODORE, JORDAN",P007946   ,Missed Three Pointer (0/1 -  8 pt),3FGA,,,AX Armani Exchange Olimpia Milan,0
+KHI       ,,21,03:10,17,204,"ANDERSON, JAMES",P005938   ,Def Rebound (1),D,,,Khimki Moscow Region,0
+KHI       ,,20,02:59,18,206,"ZUBKOV, ANDREY",P003573   ,Two Pointer (2/2 -  9 pt),2FGM,34.0,28.0,Khimki Moscow Region,0
+KHI       ,,20,02:59,18,207,"ZUBKOV, ANDREY",P003573   ,Foul Drawn (3),RV,,,Khimki Moscow Region,0
+MIL       ,,34,02:59,18,208,"JEFFERSON, CORY",P007992   ,Foul (2),CM,,,AX Armani Exchange Olimpia Milan,0
+MIL       ,,15,02:57,18,209,"TARCZEWSKI, KALEB",P008004   ,In,IN,,,AX Armani Exchange Olimpia Milan,0
+MIL       ,,77,02:57,18,210,"GUDAITIS, ARTURAS",P003120   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0
+KHI       ,,20,02:57,18,211,"ZUBKOV, ANDREY",P003573   ,Free Throw In (3/3 -  10 pt),FTM,34.0,29.0,Khimki Moscow Region,0
+MIL       ,,45,02:44,18,212,"BERTANS, DAIRIS",P000436   ,Turnover (1),TO,,,AX Armani Exchange Olimpia Milan,0
+KHI       ,,2,02:43,18,213,"HONEYCUTT, TYLER",P005800   ,Steal (1),ST,,,Khimki Moscow Region,0
+KHI       ,,8,02:34,18,214,"ZAYTSEV, VYACHESLAV",P001792   ,Turnover (1),TO,,,Khimki Moscow Region,0
+MIL       ,,34,02:34,18,215,"JEFFERSON, CORY",P007992   ,Steal (1),ST,,,AX Armani Exchange Olimpia Milan,0
+MIL       ,,25,02:34,18,216,"THEODORE, JORDAN",P007946   ,Foul Drawn (4),RV,,,AX Armani Exchange Olimpia Milan,0
+KHI       ,,19,02:34,18,217,"TODOROVIC, MARKO",P001612   ,Foul (1),CM,,,Khimki Moscow Region,0
+MIL       ,,9,02:34,18,218,"KALNIETIS, MANTAS",PJBX      ,In,IN,,,AX Armani Exchange Olimpia Milan,0
+MIL       ,,55,02:34,18,219,"JERRELLS, CURTIS",P003067   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0
+KHI       ,,8,02:34,18,220,"ZAYTSEV, VYACHESLAV",P001792   ,Out,OUT,,,Khimki Moscow Region,0
+KHI       ,,10,02:34,18,221,"SOKOLOV, DMITRY",PLTF      ,In,IN,,,Khimki Moscow Region,0
+KHI       ,,19,02:34,18,222,"TODOROVIC, MARKO",P001612   ,Out,OUT,,,Khimki Moscow Region,0
+KHI       ,,22,02:34,18,223,"JENKINS, CHARLES",P005014   ,In,IN,,,Khimki Moscow Region,0
+MIL       ,,9,02:23,18,224,"KALNIETIS, MANTAS",PJBX      ,Foul Drawn (1),RV,,,AX Armani Exchange Olimpia Milan,0
+KHI       ,,20,02:23,18,225,"ZUBKOV, ANDREY",P003573   ,Foul (2),CM,,,Khimki Moscow Region,0
+MIL       ,,15,02:06,18,226,"TARCZEWSKI, KALEB",P008004   ,Missed Two Pointer (1/3 -  6 pt),2FGA,,,AX Armani Exchange Olimpia Milan,0
+KHI       ,,21,02:04,18,227,"ANDERSON, JAMES",P005938   ,Def Rebound (2),D,,,Khimki Moscow Region,0
+KHI       ,,21,01:46,19,229,"ANDERSON, JAMES",P005938   ,Turnover (1),TO,,,Khimki Moscow Region,0
+MIL       ,,15,01:46,19,230,"TARCZEWSKI, KALEB",P008004   ,Steal (1),ST,,,AX Armani Exchange Olimpia Milan,0
+MIL       ,,15,01:46,19,231,"TARCZEWSKI, KALEB",P008004   ,Foul Drawn (5),RV,,,AX Armani Exchange Olimpia Milan,0
+KHI       ,,10,01:46,19,232,"SOKOLOV, DMITRY",PLTF      ,Foul (1),CM,,,Khimki Moscow Region,0
+MIL       ,,34,01:34,19,233,"JEFFERSON, CORY",P007992   ,Missed Three Pointer (1/3 -  5 pt),3FGA,,,AX Armani Exchange Olimpia Milan,0
+KHI       ,,22,01:30,19,234,"JENKINS, CHARLES",P005014   ,Def Rebound (1),D,,,Khimki Moscow Region,0
+KHI       ,,22,01:22,19,235,"JENKINS, CHARLES",P005014   ,Foul Drawn (2),RV,,,Khimki Moscow Region,0
+MIL       ,,25,01:22,19,236,"THEODORE, JORDAN",P007946   ,Foul (1),CM,,,AX Armani Exchange Olimpia Milan,0
+KHI       ,,12,01:20,19,237,"MONIA, SERGEY",PBFX      ,In,IN,,,Khimki Moscow Region,0
+KHI       ,,20,01:20,19,238,"ZUBKOV, ANDREY",P003573   ,Out,OUT,,,Khimki Moscow Region,0
+KHI       ,,22,01:20,19,239,"JENKINS, CHARLES",P005014   ,Free Throw In (1/1 -  1 pt),FTM,34.0,30.0,Khimki Moscow Region,0
+KHI       ,,22,01:20,19,240,"JENKINS, CHARLES",P005014   ,Free Throw In (2/2 -  2 pt),FTM,34.0,31.0,Khimki Moscow Region,0
+MIL       ,,5,01:20,19,241,"MICOV, VLADIMIR",P000529   ,In,IN,,,AX Armani Exchange Olimpia Milan,0
+MIL       ,,34,01:20,19,242,"JEFFERSON, CORY",P007992   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0
+MIL       ,,25,01:04,19,243,"THEODORE, JORDAN",P007946   ,Two Pointer (3/6 -  10 pt),2FGM,36.0,31.0,AX Armani Exchange Olimpia Milan,0
+KHI       ,,10,00:38,20,245,"SOKOLOV, DMITRY",PLTF      ,Turnover (1),TO,,,Khimki Moscow Region,0
+MIL       ,,45,00:37,20,246,"BERTANS, DAIRIS",P000436   ,Steal (1),ST,,,AX Armani Exchange Olimpia Milan,0
+MIL       ,,15,00:31,20,247,"TARCZEWSKI, KALEB",P008004   ,Two Pointer (2/4 -  8 pt),2FGM,38.0,31.0,AX Armani Exchange Olimpia Milan,0
+MIL       ,,25,00:21,20,248,"THEODORE, JORDAN",P007946   ,Assist (4),AS,,,AX Armani Exchange Olimpia Milan,0
+KHI       ,,12,00:06,20,249,"MONIA, SERGEY",PBFX      ,Turnover (1),TO,,,Khimki Moscow Region,0
+MIL       ,,5,00:04,20,250,"MICOV, VLADIMIR",P000529   ,Steal (1),ST,,,AX Armani Exchange Olimpia Milan,0
+MIL       ,,25,00:00,20,251,"THEODORE, JORDAN",P007946   ,Missed Three Pointer (0/2 -  10 pt),3FGA,,,AX Armani Exchange Olimpia Milan,0
+          ,,,,21,253,,          ,End Period,EP,,,,0
+          ,,,,21,262,,          ,Begin Period,BP,,,,0
+MIL       ,,34,10:00,21,254,"JEFFERSON, CORY",P007992   ,In,IN,,,AX Armani Exchange Olimpia Milan,0
+MIL       ,,45,10:00,21,255,"BERTANS, DAIRIS",P000436   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0
+KHI       ,,1,10:00,21,256,"SHVED, ALEXEY",PKVZ      ,In,IN,,,Khimki Moscow Region,0
+KHI       ,,2,10:00,21,257,"HONEYCUTT, TYLER",P005800   ,Out,OUT,,,Khimki Moscow Region,0
+KHI       ,,10,10:00,21,258,"SOKOLOV, DMITRY",PLTF      ,Out,OUT,,,Khimki Moscow Region,0
+KHI       ,,12,10:00,21,259,"MONIA, SERGEY",PBFX      ,Out,OUT,,,Khimki Moscow Region,0
+KHI       ,,13,10:00,21,260,"GILL, ANTHONY",P008001   ,In,IN,,,Khimki Moscow Region,0
+KHI       ,,23,10:00,21,261,"THOMAS, MALCOLM",P004251   ,In,IN,,,Khimki Moscow Region,0
+MIL       ,,15,09:47,21,263,"TARCZEWSKI, KALEB",P008004   ,Foul Drawn (6),RV,,,AX Armani Exchange Olimpia Milan,0
+KHI       ,,13,09:47,21,264,"GILL, ANTHONY",P008001   ,Foul (3),CM,,,Khimki Moscow Region,0
+MIL       ,,15,09:47,21,265,"TARCZEWSKI, KALEB",P008004   ,Free Throw In (5/7 -  9 pt),FTM,39.0,31.0,AX Armani Exchange Olimpia Milan,0
+MIL       ,,15,09:47,21,266,"TARCZEWSKI, KALEB",P008004   ,Free Throw In (6/8 -  10 pt),FTM,40.0,31.0,AX Armani Exchange Olimpia Milan,0
+KHI       ,,13,09:30,21,267,"GILL, ANTHONY",P008001   ,Foul Drawn (1),RV,,,Khimki Moscow Region,0
+MIL       ,,34,09:30,21,268,"JEFFERSON, CORY",P007992   ,Foul (3),CM,,,AX Armani Exchange Olimpia Milan,0
+KHI       ,,1,09:19,21,269,"SHVED, ALEXEY",PKVZ      ,Missed Three Pointer (1/5 -  11 pt),3FGA,,,Khimki Moscow Region,0
+MIL       ,,5,09:16,21,270,"MICOV, VLADIMIR",P000529   ,Def Rebound (2),D,,,AX Armani Exchange Olimpia Milan,0
+MIL       ,,34,09:03,21,271,"JEFFERSON, CORY",P007992   ,Two Pointer (1/1 -  7 pt),2FGM,42.0,31.0,AX Armani Exchange Olimpia Milan,0
+MIL       ,,5,08:59,22,273,"MICOV, VLADIMIR",P000529   ,Assist (2),AS,,,AX Armani Exchange Olimpia Milan,0
+KHI       ,,22,08:40,22,274,"JENKINS, CHARLES",P005014   ,Missed Three Pointer (0/3 -  2 pt),3FGA,,,Khimki Moscow Region,0
+MIL       ,,34,08:38,22,275,"JEFFERSON, CORY",P007992   ,Def Rebound (3),D,,,AX Armani Exchange Olimpia Milan,0
+MIL       ,,5,08:21,22,276,"MICOV, VLADIMIR",P000529   ,Missed Three Pointer (1/4 -  3 pt),3FGA,,,AX Armani Exchange Olimpia Milan,0
+KHI       ,,13,08:19,22,277,"GILL, ANTHONY",P008001   ,Def Rebound (2),D,,,Khimki Moscow Region,0
+KHI       ,,1,08:10,22,278,"SHVED, ALEXEY",PKVZ      ,Two Pointer (5/6 -  13 pt),2FGM,42.0,33.0,Khimki Moscow Region,0
+MIL       ,,15,07:52,23,280,"TARCZEWSKI, KALEB",P008004   ,Offensive Foul (2),OF,,,AX Armani Exchange Olimpia Milan,0
+MIL       ,,15,07:52,23,281,"TARCZEWSKI, KALEB",P008004   ,Turnover (2),TO,,,AX Armani Exchange Olimpia Milan,0
+KHI       ,,13,07:52,23,282,"GILL, ANTHONY",P008001   ,Foul Drawn (2),RV,,,Khimki Moscow Region,0
+KHI       ,,13,07:32,23,283,"GILL, ANTHONY",P008001   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Khimki Moscow Region,0
+KHI       ,,,07:31,23,284,,          ,Off Rebound (2),O,,,Khimki Moscow Region,0
+KHI       ,,21,07:15,23,285,"ANDERSON, JAMES",P005938   ,Two Pointer (3/5 -  6 pt),2FGM,42.0,35.0,Khimki Moscow Region,0
+KHI       ,,21,07:00,23,286,"ANDERSON, JAMES",P005938   ,Foul (2),CM,,,Khimki Moscow Region,0
+MIL       ,,15,07:00,23,287,"TARCZEWSKI, KALEB",P008004   ,Foul Drawn (7),RV,,,AX Armani Exchange Olimpia Milan,0
+MIL       ,,25,06:51,24,289,"THEODORE, JORDAN",P007946   ,Missed Two Pointer (3/7 -  10 pt),2FGA,,,AX Armani Exchange Olimpia Milan,0
+KHI       ,,21,06:51,24,290,"ANDERSON, JAMES",P005938   ,Def Rebound (3),D,,,Khimki Moscow Region,0
+KHI       ,,21,06:51,24,291,"ANDERSON, JAMES",P005938   ,Turnover (2),TO,,,Khimki Moscow Region,0
+MIL       ,,25,06:51,24,292,"THEODORE, JORDAN",P007946   ,Steal (3),ST,,,AX Armani Exchange Olimpia Milan,0
+MIL       ,,5,06:51,24,293,"MICOV, VLADIMIR",P000529   ,Two Pointer (1/1 -  5 pt),2FGM,44.0,35.0,AX Armani Exchange Olimpia Milan,0
+MIL       ,,9,06:51,24,294,"KALNIETIS, MANTAS",PJBX      ,Assist (2),AS,,,AX Armani Exchange Olimpia Milan,0
+KHI       ,,1,06:22,24,295,"SHVED, ALEXEY",PKVZ      ,Two Pointer (6/7 -  15 pt),2FGM,44.0,37.0,Khimki Moscow Region,0
+MIL       ,,5,06:07,24,296,"MICOV, VLADIMIR",P000529   ,Turnover (1),TO,,,AX Armani Exchange Olimpia Milan,0
+KHI       ,,1,06:05,24,297,"SHVED, ALEXEY",PKVZ      ,Steal (2),ST,,,Khimki Moscow Region,0
+KHI       ,,13,06:00,24,298,"GILL, ANTHONY",P008001   ,Two Pointer (1/2 -  2 pt),2FGM,44.0,39.0,Khimki Moscow Region,0
+KHI       ,,22,05:58,25,300,"JENKINS, CHARLES",P005014   ,Assist (1),AS,,,Khimki Moscow Region,0
+MIL       ,,34,05:37,25,301,"JEFFERSON, CORY",P007992   ,Missed Two Pointer (1/2 -  7 pt),2FGA,,,AX Armani Exchange Olimpia Milan,0
+KHI       ,,21,05:35,25,302,"ANDERSON, JAMES",P005938   ,Def Rebound (4),D,,,Khimki Moscow Region,0
+KHI       ,,13,05:26,25,303,"GILL, ANTHONY",P008001   ,Foul Drawn (3),RV,,,Khimki Moscow Region,0
+MIL       ,,34,05:26,25,304,"JEFFERSON, CORY",P007992   ,Foul (4),CM,,,AX Armani Exchange Olimpia Milan,0
+KHI       ,,13,05:24,25,305,"GILL, ANTHONY",P008001   ,Missed Free Throw (0/1 -  2 pt),FTA,,,Khimki Moscow Region,0
+KHI       ,,13,05:24,25,306,"GILL, ANTHONY",P008001   ,Free Throw In (1/2 -  3 pt),FTM,44.0,40.0,Khimki Moscow Region,0
+MIL       ,,5,05:24,25,307,"MICOV, VLADIMIR",P000529   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0
+MIL       ,,7,05:24,25,308,"PASCOLO, DAVIDE",P006385   ,In,IN,,,AX Armani Exchange Olimpia Milan,0
+MIL       ,,34,05:24,25,309,"JEFFERSON, CORY",P007992   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0
+MIL       ,,55,05:24,25,310,"JERRELLS, CURTIS",P003067   ,In,IN,,,AX Armani Exchange Olimpia Milan,0
+MIL       ,,25,05:16,25,311,"THEODORE, JORDAN",P007946   ,Foul Drawn (5),RV,,,AX Armani Exchange Olimpia Milan,0
+KHI       ,,13,05:16,25,312,"GILL, ANTHONY",P008001   ,Foul (4),CM,,,Khimki Moscow Region,0
+KHI       ,,13,05:14,25,313,"GILL, ANTHONY",P008001   ,Out,OUT,,,Khimki Moscow Region,0
+KHI       ,,20,05:14,25,314,"ZUBKOV, ANDREY",P003573   ,In,IN,,,Khimki Moscow Region,0
+MIL       ,,25,05:14,25,315,"THEODORE, JORDAN",P007946   ,Free Throw In (5/5 -  11 pt),FTM,45.0,40.0,AX Armani Exchange Olimpia Milan,0
+MIL       ,,25,05:14,25,316,"THEODORE, JORDAN",P007946   ,Free Throw In (6/6 -  12 pt),FTM,46.0,40.0,AX Armani Exchange Olimpia Milan,0
+KHI       ,,23,05:01,25,317,"THOMAS, MALCOLM",P004251   ,Two Pointer (2/2 -  4 pt),2FGM,46.0,42.0,Khimki Moscow Region,0
+KHI       ,,1,04:58,26,319,"SHVED, ALEXEY",PKVZ      ,Assist (2),AS,,,Khimki Moscow Region,0
+MIL       ,,25,04:36,26,320,"THEODORE, JORDAN",P007946   ,Turnover (1),TO,,,AX Armani Exchange Olimpia Milan,0
+KHI       ,,23,04:35,26,321,"THOMAS, MALCOLM",P004251   ,Steal (1),ST,,,Khimki Moscow Region,0
+KHI       ,,23,04:34,26,322,"THOMAS, MALCOLM",P004251   ,Two Pointer (3/3 -  6 pt),2FGM,46.0,44.0,Khimki Moscow Region,0
+KHI       ,,1,04:34,26,323,"SHVED, ALEXEY",PKVZ      ,Assist (3),AS,,,Khimki Moscow Region,0
+MIL       ,,,04:31,26,324,,          ,Time Out (1),TOUT,,,AX Armani Exchange Olimpia Milan,0
+MIL       ,,55,04:08,26,325,"JERRELLS, CURTIS",P003067   ,Turnover (1),TO,,,AX Armani Exchange Olimpia Milan,0
+KHI       ,,23,04:07,26,326,"THOMAS, MALCOLM",P004251   ,Steal (2),ST,,,Khimki Moscow Region,0
+KHI       ,,22,04:00,26,327,"JENKINS, CHARLES",P005014   ,Two Pointer (1/2 -  4 pt),2FGM,46.0,46.0,Khimki Moscow Region,0
+KHI       ,,23,03:58,27,329,"THOMAS, MALCOLM",P004251   ,Assist (2),AS,,,Khimki Moscow Region,0
+MIL       ,,9,03:36,27,330,"KALNIETIS, MANTAS",PJBX      ,Three Pointer (1/2 -  3 pt),3FGM,49.0,46.0,AX Armani Exchange Olimpia Milan,0
+MIL       ,,25,03:34,27,331,"THEODORE, JORDAN",P007946   ,Assist (5),AS,,,AX Armani Exchange Olimpia Milan,0
+KHI       ,,20,03:16,27,332,"ZUBKOV, ANDREY",P003573   ,Three Pointer (2/2 -  13 pt),3FGM,49.0,49.0,Khimki Moscow Region,0
+KHI       ,,22,03:16,27,333,"JENKINS, CHARLES",P005014   ,Assist (2),AS,,,Khimki Moscow Region,0
+MIL       ,,55,02:46,28,335,"JERRELLS, CURTIS",P003067   ,Foul Drawn (1),RV,,,AX Armani Exchange Olimpia Milan,0
+KHI       ,,23,02:46,28,336,"THOMAS, MALCOLM",P004251   ,Foul (3),CM,,,Khimki Moscow Region,0
+MIL       ,,15,02:45,28,337,"TARCZEWSKI, KALEB",P008004   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0
+MIL       ,,77,02:45,28,338,"GUDAITIS, ARTURAS",P003120   ,In,IN,,,AX Armani Exchange Olimpia Milan,0
+KHI       ,,19,02:45,28,339,"TODOROVIC, MARKO",P001612   ,In,IN,,,Khimki Moscow Region,0
+KHI       ,,23,02:45,28,340,"THOMAS, MALCOLM",P004251   ,Out,OUT,,,Khimki Moscow Region,0
+MIL       ,,25,02:40,28,341,"THEODORE, JORDAN",P007946   ,Two Pointer (4/8 -  14 pt),2FGM,51.0,49.0,AX Armani Exchange Olimpia Milan,0
+KHI       ,,1,02:21,28,342,"SHVED, ALEXEY",PKVZ      ,Three Pointer (2/6 -  18 pt),3FGM,51.0,52.0,Khimki Moscow Region,0
+MIL       ,,7,01:56,29,344,"PASCOLO, DAVIDE",P006385   ,Turnover (1),TO,,,AX Armani Exchange Olimpia Milan,0
+KHI       ,,20,01:54,29,345,"ZUBKOV, ANDREY",P003573   ,Steal (1),ST,,,Khimki Moscow Region,0
+KHI       ,,1,01:49,29,346,"SHVED, ALEXEY",PKVZ      ,Three Pointer (3/7 -  21 pt),3FGM,51.0,55.0,Khimki Moscow Region,0
+MIL       ,,77,01:25,29,347,"GUDAITIS, ARTURAS",P003120   ,Two Pointer (2/2 -  4 pt),2FGM,53.0,55.0,AX Armani Exchange Olimpia Milan,0
+MIL       ,,25,01:25,29,348,"THEODORE, JORDAN",P007946   ,Assist (6),AS,,,AX Armani Exchange Olimpia Milan,0
+MIL       ,,77,01:25,29,349,"GUDAITIS, ARTURAS",P003120   ,Foul Drawn (1),RV,,,AX Armani Exchange Olimpia Milan,0
+KHI       ,,19,01:25,29,350,"TODOROVIC, MARKO",P001612   ,Foul (2),CM,,,Khimki Moscow Region,0
+MIL       ,,77,01:25,29,351,"GUDAITIS, ARTURAS",P003120   ,Missed Free Throw (0/1 -  4 pt),FTA,,,AX Armani Exchange Olimpia Milan,0
+KHI       ,,19,01:25,29,352,"TODOROVIC, MARKO",P001612   ,Def Rebound (1),D,,,Khimki Moscow Region,0
+KHI       ,,22,01:07,29,353,"JENKINS, CHARLES",P005014   ,Missed Three Pointer (0/4 -  4 pt),3FGA,,,Khimki Moscow Region,0
+MIL       ,,25,01:07,29,354,"THEODORE, JORDAN",P007946   ,Def Rebound (3),D,,,AX Armani Exchange Olimpia Milan,0
+MIL       ,,9,01:07,29,355,"KALNIETIS, MANTAS",PJBX      ,Missed Three Pointer (1/3 -  3 pt),3FGA,,,AX Armani Exchange Olimpia Milan,0
+MIL       ,,7,01:07,29,356,"PASCOLO, DAVIDE",P006385   ,Off Rebound (1),O,,,AX Armani Exchange Olimpia Milan,0
+MIL       ,,7,01:07,29,357,"PASCOLO, DAVIDE",P006385   ,Two Pointer (1/1 -  2 pt),2FGM,55.0,55.0,AX Armani Exchange Olimpia Milan,0
+MIL       ,,7,01:07,29,358,"PASCOLO, DAVIDE",P006385   ,Foul Drawn (1),RV,,,AX Armani Exchange Olimpia Milan,0
+KHI       ,,20,01:07,29,359,"ZUBKOV, ANDREY",P003573   ,Foul (3),CM,,,Khimki Moscow Region,0
+MIL       ,,7,01:07,29,360,"PASCOLO, DAVIDE",P006385   ,Free Throw In (1/1 -  3 pt),FTM,56.0,55.0,AX Armani Exchange Olimpia Milan,0
+KHI       ,,1,00:41,30,362,"SHVED, ALEXEY",PKVZ      ,Foul Drawn (5),RV,,,Khimki Moscow Region,0
+MIL       ,,77,00:41,30,363,"GUDAITIS, ARTURAS",P003120   ,Foul (2),CM,,,AX Armani Exchange Olimpia Milan,0
+KHI       ,,2,00:41,30,364,"HONEYCUTT, TYLER",P005800   ,In,IN,,,Khimki Moscow Region,0
+KHI       ,,21,00:41,30,365,"ANDERSON, JAMES",P005938   ,Out,OUT,,,Khimki Moscow Region,0
+KHI       ,,19,00:29,30,366,"TODOROVIC, MARKO",P001612   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,Khimki Moscow Region,0
+KHI       ,,19,00:29,30,367,"TODOROVIC, MARKO",P001612   ,Shot Rejected (1),AG,,,Khimki Moscow Region,0
+MIL       ,,77,00:25,30,368,"GUDAITIS, ARTURAS",P003120   ,Block (1),FV,,,AX Armani Exchange Olimpia Milan,0
+KHI       ,,22,00:22,30,369,"JENKINS, CHARLES",P005014   ,Off Rebound (2),O,,,Khimki Moscow Region,0
+KHI       ,,2,00:20,30,370,"HONEYCUTT, TYLER",P005800   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Khimki Moscow Region,0
+MIL       ,,77,00:18,30,371,"GUDAITIS, ARTURAS",P003120   ,Def Rebound (2),D,,,AX Armani Exchange Olimpia Milan,0
+KHI       ,,,00:04,30,374,,          ,Time Out (1),TOUT,,,Khimki Moscow Region,0
+MIL       ,,25,00:04,30,372,"THEODORE, JORDAN",P007946   ,Missed Two Pointer (4/9 -  14 pt),2FGA,,,AX Armani Exchange Olimpia Milan,0
+KHI       ,,1,00:04,30,373,"SHVED, ALEXEY",PKVZ      ,Def Rebound (2),D,,,Khimki Moscow Region,0
+          ,,,,31,376,,          ,End Period,EP,,,,0
+          ,,,,31,377,,          ,Begin Period,BP,,,,0
+KHI       ,,20,09:53,31,378,"ZUBKOV, ANDREY",P003573   ,Two Pointer (3/3 -  15 pt),2FGM,56.0,57.0,Khimki Moscow Region,0
+MIL       ,,55,09:44,31,379,"JERRELLS, CURTIS",P003067   ,Missed Three Pointer (1/3 -  9 pt),3FGA,,,AX Armani Exchange Olimpia Milan,0
+KHI       ,,22,09:42,31,380,"JENKINS, CHARLES",P005014   ,Def Rebound (2),D,,,Khimki Moscow Region,0
+KHI       ,,2,09:34,31,381,"HONEYCUTT, TYLER",P005800   ,Offensive Foul (1),OF,,,Khimki Moscow Region,0
+KHI       ,,2,09:34,31,382,"HONEYCUTT, TYLER",P005800   ,Turnover (1),TO,,,Khimki Moscow Region,0
+MIL       ,,25,09:34,31,383,"THEODORE, JORDAN",P007946   ,Foul Drawn (6),RV,,,AX Armani Exchange Olimpia Milan,0
+MIL       ,,25,09:16,31,384,"THEODORE, JORDAN",P007946   ,Missed Three Pointer (0/3 -  14 pt),3FGA,,,AX Armani Exchange Olimpia Milan,0
+KHI       ,,19,09:13,31,385,"TODOROVIC, MARKO",P001612   ,Def Rebound (2),D,,,Khimki Moscow Region,0
+KHI       ,,1,08:56,32,387,"SHVED, ALEXEY",PKVZ      ,Three Pointer (4/8 -  24 pt),3FGM,56.0,60.0,Khimki Moscow Region,0
+KHI       ,,19,08:53,32,388,"TODOROVIC, MARKO",P001612   ,Assist (2),AS,,,Khimki Moscow Region,0
+MIL       ,,55,08:32,32,389,"JERRELLS, CURTIS",P003067   ,Missed Two Pointer (3/4 -  9 pt),2FGA,,,AX Armani Exchange Olimpia Milan,0
+KHI       ,,2,08:30,32,390,"HONEYCUTT, TYLER",P005800   ,Def Rebound (2),D,,,Khimki Moscow Region,0
+KHI       ,,22,08:27,32,391,"JENKINS, CHARLES",P005014   ,Two Pointer (2/3 -  6 pt),2FGM,56.0,62.0,Khimki Moscow Region,0
+KHI       ,,2,08:25,32,392,"HONEYCUTT, TYLER",P005800   ,Assist (1),AS,,,Khimki Moscow Region,0
+KHI       ,,1,08:06,32,393,"SHVED, ALEXEY",PKVZ      ,Out,OUT,,,Khimki Moscow Region,0
+KHI       ,,21,08:06,32,394,"ANDERSON, JAMES",P005938   ,In,IN,,,Khimki Moscow Region,0
+MIL       ,,55,08:02,32,395,"JERRELLS, CURTIS",P003067   ,Three Pointer (2/4 -  12 pt),3FGM,59.0,62.0,AX Armani Exchange Olimpia Milan,0
+KHI       ,,22,07:36,33,397,"JENKINS, CHARLES",P005014   ,Two Pointer (3/4 -  8 pt),2FGM,59.0,64.0,Khimki Moscow Region,0
+MIL       ,,,07:10,33,398,,          ,Turnover (2),TO,,,AX Armani Exchange Olimpia Milan,0
+KHI       ,,2,06:54,34,400,"HONEYCUTT, TYLER",P005800   ,Two Pointer (1/3 -  2 pt),2FGM,59.0,66.0,Khimki Moscow Region,0
+KHI       ,,19,06:45,34,401,"TODOROVIC, MARKO",P001612   ,Assist (3),AS,,,Khimki Moscow Region,0
+MIL       ,,7,06:40,34,402,"PASCOLO, DAVIDE",P006385   ,Missed Three Pointer (0/1 -  3 pt),3FGA,,,AX Armani Exchange Olimpia Milan,0
+KHI       ,,19,06:37,34,403,"TODOROVIC, MARKO",P001612   ,Def Rebound (3),D,,,Khimki Moscow Region,0
+KHI       ,,20,06:31,34,404,"ZUBKOV, ANDREY",P003573   ,Foul Drawn (4),RV,,,Khimki Moscow Region,0
+MIL       ,,7,06:31,34,405,"PASCOLO, DAVIDE",P006385   ,Foul (1),CM,,,AX Armani Exchange Olimpia Milan,0
+MIL       ,,5,06:28,34,406,"MICOV, VLADIMIR",P000529   ,In,IN,,,AX Armani Exchange Olimpia Milan,0
+MIL       ,,7,06:28,34,407,"PASCOLO, DAVIDE",P006385   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0
+KHI       ,,2,06:18,34,408,"HONEYCUTT, TYLER",P005800   ,Missed Two Pointer (1/4 -  2 pt),2FGA,,,Khimki Moscow Region,0
+MIL       ,,,06:18,34,470,,          ,Def Rebound (2),D,,,AX Armani Exchange Olimpia Milan,0
+KHI       ,,19,06:18,34,410,"TODOROVIC, MARKO",P001612   ,Foul (3),CM,,,Khimki Moscow Region,0
+MIL       ,,77,06:18,34,411,"GUDAITIS, ARTURAS",P003120   ,Foul Drawn (2),RV,,,AX Armani Exchange Olimpia Milan,0
+MIL       ,,55,06:05,34,412,"JERRELLS, CURTIS",P003067   ,Three Pointer (3/5 -  15 pt),3FGM,62.0,66.0,AX Armani Exchange Olimpia Milan,0
+KHI       ,,2,05:49,35,414,"HONEYCUTT, TYLER",P005800   ,Foul Drawn (1),RV,,,Khimki Moscow Region,0
+MIL       ,,55,05:49,35,415,"JERRELLS, CURTIS",P003067   ,Foul (2),CM,,,AX Armani Exchange Olimpia Milan,0
+MIL       ,,9,05:47,35,416,"KALNIETIS, MANTAS",PJBX      ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0
+MIL       ,,45,05:47,35,417,"BERTANS, DAIRIS",P000436   ,In,IN,,,AX Armani Exchange Olimpia Milan,0
+KHI       ,,1,05:47,35,418,"SHVED, ALEXEY",PKVZ      ,In,IN,,,Khimki Moscow Region,0
+KHI       ,,22,05:47,35,419,"JENKINS, CHARLES",P005014   ,Out,OUT,,,Khimki Moscow Region,0
+KHI       ,,2,05:34,35,420,"HONEYCUTT, TYLER",P005800   ,Missed Two Pointer (1/5 -  2 pt),2FGA,,,Khimki Moscow Region,0
+MIL       ,,77,05:32,35,421,"GUDAITIS, ARTURAS",P003120   ,Def Rebound (3),D,,,AX Armani Exchange Olimpia Milan,0
+MIL       ,,55,05:28,35,422,"JERRELLS, CURTIS",P003067   ,Foul Drawn (2),RV,,,AX Armani Exchange Olimpia Milan,0
+KHI       ,,20,05:28,35,423,"ZUBKOV, ANDREY",P003573   ,Foul (4),CM,,,Khimki Moscow Region,0
+KHI       ,,,05:27,35,424,,          ,Time Out (1),TOUT,,,Khimki Moscow Region,0
+MIL       ,,25,05:25,35,425,"THEODORE, JORDAN",P007946   ,Missed Three Pointer (0/4 -  14 pt),3FGA,,,AX Armani Exchange Olimpia Milan,0
+KHI       ,,2,05:23,35,426,"HONEYCUTT, TYLER",P005800   ,Def Rebound (3),D,,,Khimki Moscow Region,0
+KHI       ,,19,05:03,35,427,"TODOROVIC, MARKO",P001612   ,Turnover (2),TO,,,Khimki Moscow Region,0
+MIL       ,,45,05:01,35,428,"BERTANS, DAIRIS",P000436   ,Steal (2),ST,,,AX Armani Exchange Olimpia Milan,0
+MIL       ,,45,04:46,36,430,"BERTANS, DAIRIS",P000436   ,Foul Drawn (1),RV,,,AX Armani Exchange Olimpia Milan,0
+KHI       ,,21,04:46,36,431,"ANDERSON, JAMES",P005938   ,Foul (3),CM,,,Khimki Moscow Region,0
+MIL       ,,25,04:31,36,432,"THEODORE, JORDAN",P007946   ,Missed Two Pointer (4/10 -  14 pt),2FGA,,,AX Armani Exchange Olimpia Milan,0
+MIL       ,,45,04:29,36,433,"BERTANS, DAIRIS",P000436   ,Off Rebound (1),O,,,AX Armani Exchange Olimpia Milan,0
+MIL       ,,25,04:25,36,434,"THEODORE, JORDAN",P007946   ,Missed Two Pointer (4/11 -  14 pt),2FGA,,,AX Armani Exchange Olimpia Milan,0
+KHI       ,,2,04:23,36,435,"HONEYCUTT, TYLER",P005800   ,Def Rebound (4),D,,,Khimki Moscow Region,0
+KHI       ,,,03:00,37,439,,          ,Turnover (3),TO,,,Khimki Moscow Region,0
+MIL       ,,45,02:56,38,441,"BERTANS, DAIRIS",P000436   ,Three Pointer (1/1 -  3 pt),3FGM,65.0,66.0,AX Armani Exchange Olimpia Milan,0
+MIL       ,,5,02:56,38,442,"MICOV, VLADIMIR",P000529   ,Assist (3),AS,,,AX Armani Exchange Olimpia Milan,0
+KHI       ,,1,02:56,38,443,"SHVED, ALEXEY",PKVZ      ,Foul Drawn (6),RV,,,Khimki Moscow Region,0
+MIL       ,,45,02:56,38,444,"BERTANS, DAIRIS",P000436   ,Foul (1),CM,,,AX Armani Exchange Olimpia Milan,0
+KHI       ,,1,02:56,38,445,"SHVED, ALEXEY",PKVZ      ,Free Throw In (1/1 -  25 pt),FTM,65.0,67.0,Khimki Moscow Region,0
+KHI       ,,1,02:56,38,446,"SHVED, ALEXEY",PKVZ      ,Free Throw In (2/2 -  26 pt),FTM,65.0,68.0,Khimki Moscow Region,0
+MIL       ,,55,02:56,38,447,"JERRELLS, CURTIS",P003067   ,Missed Three Pointer (3/6 -  15 pt),3FGA,,,AX Armani Exchange Olimpia Milan,0
+KHI       ,,20,02:56,38,448,"ZUBKOV, ANDREY",P003573   ,Def Rebound (2),D,,,Khimki Moscow Region,0
+KHI       ,,1,02:48,38,449,"SHVED, ALEXEY",PKVZ      ,Three Pointer (5/9 -  29 pt),3FGM,65.0,71.0,Khimki Moscow Region,0
+MIL       ,,77,02:37,38,450,"GUDAITIS, ARTURAS",P003120   ,Foul Drawn (3),RV,,,AX Armani Exchange Olimpia Milan,0
+KHI       ,,21,02:37,38,451,"ANDERSON, JAMES",P005938   ,Foul (4),CM,,,Khimki Moscow Region,0
+KHI       ,,19,02:37,38,452,"TODOROVIC, MARKO",P001612   ,Out,OUT,,,Khimki Moscow Region,0
+KHI       ,,23,02:37,38,453,"THOMAS, MALCOLM",P004251   ,In,IN,,,Khimki Moscow Region,0
+MIL       ,,77,02:37,38,454,"GUDAITIS, ARTURAS",P003120   ,Missed Free Throw (0/2 -  4 pt),FTA,,,AX Armani Exchange Olimpia Milan,0
+MIL       ,,77,02:37,38,455,"GUDAITIS, ARTURAS",P003120   ,Missed Free Throw (0/3 -  4 pt),FTA,,,AX Armani Exchange Olimpia Milan,0
+KHI       ,,2,02:37,38,456,"HONEYCUTT, TYLER",P005800   ,Def Rebound (5),D,,,Khimki Moscow Region,0
+KHI       ,,2,02:20,38,457,"HONEYCUTT, TYLER",P005800   ,Two Pointer (2/6 -  4 pt),2FGM,65.0,73.0,Khimki Moscow Region,0
+KHI       ,,23,02:15,38,458,"THOMAS, MALCOLM",P004251   ,Assist (3),AS,,,Khimki Moscow Region,0
+MIL       ,,55,02:02,38,459,"JERRELLS, CURTIS",P003067   ,Two Pointer (4/5 -  17 pt),2FGM,67.0,73.0,AX Armani Exchange Olimpia Milan,0
+KHI       ,,23,01:45,39,461,"THOMAS, MALCOLM",P004251   ,Two Pointer (4/4 -  8 pt),2FGM,67.0,75.0,Khimki Moscow Region,0
+KHI       ,,1,01:45,39,462,"SHVED, ALEXEY",PKVZ      ,Assist (4),AS,,,Khimki Moscow Region,0
+MIL       ,,55,01:45,39,463,"JERRELLS, CURTIS",P003067   ,Missed Two Pointer (4/6 -  17 pt),2FGA,,,AX Armani Exchange Olimpia Milan,0
+KHI       ,,21,01:45,39,464,"ANDERSON, JAMES",P005938   ,Def Rebound (5),D,,,Khimki Moscow Region,0
+KHI       ,,1,01:15,39,465,"SHVED, ALEXEY",PKVZ      ,Missed Three Pointer (5/10 -  29 pt),3FGA,,,Khimki Moscow Region,0
+MIL       ,,25,01:13,39,466,"THEODORE, JORDAN",P007946   ,Def Rebound (4),D,,,AX Armani Exchange Olimpia Milan,0
+MIL       ,,5,01:11,39,467,"MICOV, VLADIMIR",P000529   ,Two Pointer (2/2 -  7 pt),2FGM,69.0,75.0,AX Armani Exchange Olimpia Milan,0
+MIL       ,,25,01:11,39,468,"THEODORE, JORDAN",P007946   ,Assist (7),AS,,,AX Armani Exchange Olimpia Milan,0
+KHI       ,,,01:09,39,469,,          ,Time Out (2),TOUT,,,Khimki Moscow Region,0
+KHI       ,,21,01:09,39,471,"ANDERSON, JAMES",P005938   ,Out,OUT,,,Khimki Moscow Region,0
+KHI       ,,22,01:09,39,472,"JENKINS, CHARLES",P005014   ,In,IN,,,Khimki Moscow Region,0
+KHI       ,,23,00:52,40,474,"THOMAS, MALCOLM",P004251   ,Turnover (1),TO,,,Khimki Moscow Region,0
+MIL       ,,5,00:52,40,475,"MICOV, VLADIMIR",P000529   ,Steal (2),ST,,,AX Armani Exchange Olimpia Milan,0
+MIL       ,,55,00:35,40,476,"JERRELLS, CURTIS",P003067   ,Missed Three Pointer (3/7 -  17 pt),3FGA,,,AX Armani Exchange Olimpia Milan,0
+MIL       ,,55,00:33,40,477,"JERRELLS, CURTIS",P003067   ,Off Rebound (1),O,,,AX Armani Exchange Olimpia Milan,0
+MIL       ,,5,00:23,40,478,"MICOV, VLADIMIR",P000529   ,Missed Three Pointer (1/5 -  7 pt),3FGA,,,AX Armani Exchange Olimpia Milan,0
+KHI       ,,2,00:20,40,479,"HONEYCUTT, TYLER",P005800   ,Def Rebound (6),D,,,Khimki Moscow Region,0
+KHI       ,,22,00:14,40,480,"JENKINS, CHARLES",P005014   ,Foul Drawn (3),RV,,,Khimki Moscow Region,0
+MIL       ,,45,00:14,40,481,"BERTANS, DAIRIS",P000436   ,Foul (2),CM,,,AX Armani Exchange Olimpia Milan,0
+KHI       ,,22,00:11,40,482,"JENKINS, CHARLES",P005014   ,Foul Drawn (4),RV,,,Khimki Moscow Region,0
+MIL       ,,25,00:11,40,483,"THEODORE, JORDAN",P007946   ,Foul (2),CM,,,AX Armani Exchange Olimpia Milan,0
+KHI       ,,22,00:11,40,484,"JENKINS, CHARLES",P005014   ,Free Throw In (3/3 -  9 pt),FTM,69.0,76.0,Khimki Moscow Region,0
+KHI       ,,22,00:11,40,485,"JENKINS, CHARLES",P005014   ,Free Throw In (4/4 -  10 pt),FTM,69.0,77.0,Khimki Moscow Region,0
+MIL       ,,77,00:06,40,486,"GUDAITIS, ARTURAS",P003120   ,Two Pointer (3/3 -  6 pt),2FGM,71.0,77.0,AX Armani Exchange Olimpia Milan,0
+MIL       ,,25,00:06,40,487,"THEODORE, JORDAN",P007946   ,Assist (8),AS,,,AX Armani Exchange Olimpia Milan,0
+KHI       ,,22,00:06,40,488,"JENKINS, CHARLES",P005014   ,Missed Three Pointer (0/5 -  10 pt),3FGA,,,Khimki Moscow Region,0
+MIL       ,,77,00:06,40,489,"GUDAITIS, ARTURAS",P003120   ,Def Rebound (4),D,,,AX Armani Exchange Olimpia Milan,0
+          ,,,,41,492,,          ,End Game,EG,,,,0

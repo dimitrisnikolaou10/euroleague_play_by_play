@@ -1,0 +1,484 @@
+CODETEAM,COMMENT,DORSAL,MARKERTIME,MINUTE,NUMBEROFPLAY,PLAYER,PLAYER_ID,PLAYINFO,PLAYTYPE,POINTS_A,POINTS_B,TEAM,TYPE
+          ,,,,1,15,,          ,Begin Period,BP,,,,0
+MAD       ,,1,09:47,1,16,"CAUSEUR, FABIEN",P001392   ,Two Pointer (1/1 -  2 pt),2FGM,2.0,,Real Madrid,0
+MAD       ,,16,09:44,1,17,"YUSTA, SANTI",P005368   ,Assist (1),AS,,,Real Madrid,0
+PAM       ,,14,09:27,1,18,"DUBLJEVIC, BOJAN",P002742   ,Three Pointer (1/1 -  3 pt),3FGM,2.0,3.0,Valencia Basket,0
+PAM       ,,19,09:25,1,19,"SAN EMETERIO, FERNANDO",P000518   ,Assist (1),AS,,,Valencia Basket,0
+MAD       ,,1,09:12,1,20,"CAUSEUR, FABIEN",P001392   ,Two Pointer (2/2 -  4 pt),2FGM,4.0,3.0,Real Madrid,0
+MAD       ,,11,09:12,1,21,"CAMPAZZO, FACUNDO",P005928   ,Assist (1),AS,,,Real Madrid,0
+PAM       ,,14,08:41,2,23,"DUBLJEVIC, BOJAN",P002742   ,Two Pointer (1/1 -  5 pt),2FGM,4.0,5.0,Valencia Basket,0
+PAM       ,,32,08:39,2,24,"GREEN, ERICK",P005159   ,Assist (1),AS,,,Valencia Basket,0
+MAD       ,,11,08:22,2,25,"CAMPAZZO, FACUNDO",P005928   ,Turnover (1),TO,,,Real Madrid,0
+PAM       ,,19,08:20,2,26,"SAN EMETERIO, FERNANDO",P000518   ,Steal (1),ST,,,Valencia Basket,0
+MAD       ,,11,08:15,2,27,"CAMPAZZO, FACUNDO",P005928   ,Foul Drawn (1),RV,,,Real Madrid,0
+PAM       ,,16,08:15,2,28,"VIVES, GUILLEM",P002361   ,Offensive Foul (1),OF,,,Valencia Basket,0
+PAM       ,,16,08:15,2,29,"VIVES, GUILLEM",P002361   ,Turnover (1),TO,,,Valencia Basket,0
+MAD       ,,11,08:04,2,30,"CAMPAZZO, FACUNDO",P005928   ,Turnover (2),TO,,,Real Madrid,0
+PAM       ,,14,08:04,2,31,"DUBLJEVIC, BOJAN",P002742   ,Steal (1),ST,,,Valencia Basket,0
+PAM       ,,16,08:04,2,32,"VIVES, GUILLEM",P002361   ,Turnover (2),TO,,,Valencia Basket,0
+MAD       ,,11,08:04,2,33,"CAMPAZZO, FACUNDO",P005928   ,Steal (1),ST,,,Real Madrid,0
+MAD       ,,11,08:04,2,34,"CAMPAZZO, FACUNDO",P005928   ,Two Pointer (1/1 -  2 pt),2FGM,6.0,5.0,Real Madrid,0
+PAM       ,,32,07:32,3,36,"GREEN, ERICK",P005159   ,Two Pointer (1/1 -  2 pt),2FGM,6.0,7.0,Valencia Basket,0
+MAD       ,,11,07:13,3,37,"CAMPAZZO, FACUNDO",P005928   ,Turnover (3),TO,,,Real Madrid,0
+PAM       ,,14,07:12,3,38,"DUBLJEVIC, BOJAN",P002742   ,Steal (2),ST,,,Valencia Basket,0
+PAM       ,,14,07:04,3,39,"DUBLJEVIC, BOJAN",P002742   ,Foul Drawn (1),RV,,,Valencia Basket,0
+MAD       ,,22,07:04,3,40,"TAVARES, WALTER",P005791   ,Foul (1),CM,,,Real Madrid,0
+PAM       ,,14,07:04,3,41,"DUBLJEVIC, BOJAN",P002742   ,Free Throw In (1/1 -  6 pt),FTM,6.0,8.0,Valencia Basket,0
+PAM       ,,16,07:04,3,42,"VIVES, GUILLEM",P002361   ,Assist (1),AS,,,Valencia Basket,0
+PAM       ,,14,07:04,3,43,"DUBLJEVIC, BOJAN",P002742   ,Missed Free Throw (1/2 -  6 pt),FTA,,,Valencia Basket,0
+MAD       ,,16,07:04,3,44,"YUSTA, SANTI",P005368   ,Def Rebound (1),D,,,Real Madrid,0
+MAD       ,,16,06:44,4,46,"YUSTA, SANTI",P005368   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Real Madrid,0
+MAD       ,,22,06:42,4,47,"TAVARES, WALTER",P005791   ,Off Rebound (1),O,,,Real Madrid,0
+MAD       ,,22,06:41,4,48,"TAVARES, WALTER",P005791   ,Two Pointer (1/1 -  2 pt),2FGM,8.0,8.0,Real Madrid,0
+PAM       ,,19,06:15,4,49,"SAN EMETERIO, FERNANDO",P000518   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Valencia Basket,0
+MAD       ,,16,06:12,4,50,"YUSTA, SANTI",P005368   ,Def Rebound (2),D,,,Real Madrid,0
+MAD       ,,16,05:57,5,52,"YUSTA, SANTI",P005368   ,Turnover (1),TO,,,Real Madrid,0
+PAM       ,,19,05:52,5,53,"SAN EMETERIO, FERNANDO",P000518   ,Three Pointer (1/1 -  3 pt),3FGM,8.0,11.0,Valencia Basket,0
+PAM       ,,16,05:52,5,54,"VIVES, GUILLEM",P002361   ,Assist (2),AS,,,Valencia Basket,0
+MAD       ,,33,05:25,5,55,"THOMPKINS, TREY",P005836   ,Two Pointer (1/1 -  2 pt),2FGM,10.0,11.0,Real Madrid,0
+MAD       ,,16,05:25,5,56,"YUSTA, SANTI",P005368   ,Assist (2),AS,,,Real Madrid,0
+PAM       ,,14,05:13,5,57,"DUBLJEVIC, BOJAN",P002742   ,Missed Three Pointer (1/2 -  6 pt),3FGA,,,Valencia Basket,0
+MAD       ,,16,05:13,5,58,"YUSTA, SANTI",P005368   ,Def Rebound (3),D,,,Real Madrid,0
+          ,,,04:57,6,60,,          ,TV Time Out (1),TOUT_TV,,,,0
+PAM       ,,9,04:57,6,61,"VAN ROSSOM, SAM",PLRQ      ,In,IN,,,Valencia Basket,0
+PAM       ,,16,04:57,6,62,"VIVES, GUILLEM",P002361   ,Out,OUT,,,Valencia Basket,0
+MAD       ,,22,04:43,6,63,"TAVARES, WALTER",P005791   ,Two Pointer (2/2 -  4 pt),2FGM,12.0,11.0,Real Madrid,0
+MAD       ,,16,04:41,6,64,"YUSTA, SANTI",P005368   ,Assist (3),AS,,,Real Madrid,0
+PAM       ,,19,04:32,6,65,"SAN EMETERIO, FERNANDO",P000518   ,Foul Drawn (1),RV,,,Valencia Basket,0
+MAD       ,,22,04:32,6,66,"TAVARES, WALTER",P005791   ,Foul (2),CM,,,Real Madrid,0
+MAD       ,,9,04:32,6,67,"REYES, FELIPE",PAAX      ,In,IN,,,Real Madrid,0
+MAD       ,,22,04:32,6,68,"TAVARES, WALTER",P005791   ,Out,OUT,,,Real Madrid,0
+PAM       ,,9,04:12,6,69,"VAN ROSSOM, SAM",PLRQ      ,Three Pointer (1/1 -  3 pt),3FGM,12.0,14.0,Valencia Basket,0
+PAM       ,,19,04:10,6,70,"SAN EMETERIO, FERNANDO",P000518   ,Assist (2),AS,,,Valencia Basket,0
+MAD       ,,1,03:59,7,72,"CAUSEUR, FABIEN",P001392   ,Missed Two Pointer (2/3 -  4 pt),2FGA,,,Real Madrid,0
+PAM       ,,14,03:59,7,73,"DUBLJEVIC, BOJAN",P002742   ,Def Rebound (1),D,,,Valencia Basket,0
+PAM       ,,9,03:59,7,74,"VAN ROSSOM, SAM",PLRQ      ,Turnover (1),TO,,,Valencia Basket,0
+MAD       ,,1,03:59,7,75,"CAUSEUR, FABIEN",P001392   ,Steal (1),ST,,,Real Madrid,0
+MAD       ,,11,03:59,7,76,"CAMPAZZO, FACUNDO",P005928   ,Foul Drawn (2),RV,,,Real Madrid,0
+PAM       ,,32,03:59,7,77,"GREEN, ERICK",P005159   ,Foul (1),CM,,,Valencia Basket,0
+PAM       ,,14,03:59,7,78,"DUBLJEVIC, BOJAN",P002742   ,Out,OUT,,,Valencia Basket,0
+PAM       ,,21,03:59,7,79,"PLEISS, TIBOR",PLHK      ,In,IN,,,Valencia Basket,0
+MAD       ,,33,03:18,7,80,"THOMPKINS, TREY",P005836   ,Three Pointer (1/1 -  5 pt),3FGM,15.0,14.0,Real Madrid,0
+MAD       ,,11,03:15,7,81,"CAMPAZZO, FACUNDO",P005928   ,Assist (2),AS,,,Real Madrid,0
+PAM       ,,32,03:04,7,82,"GREEN, ERICK",P005159   ,Turnover (1),TO,,,Valencia Basket,0
+MAD       ,,11,03:02,7,83,"CAMPAZZO, FACUNDO",P005928   ,Steal (2),ST,,,Real Madrid,0
+MAD       ,,11,03:01,7,84,"CAMPAZZO, FACUNDO",P005928   ,Two Pointer (2/2 -  4 pt),2FGM,17.0,14.0,Real Madrid,0
+PAM       ,,,03:01,7,85,,          ,Time Out (1),TOUT,,,Valencia Basket,0
+PAM       ,,32,02:49,8,87,"GREEN, ERICK",P005159   ,Foul Drawn (1),RV,,,Valencia Basket,0
+MAD       ,,1,02:49,8,88,"CAUSEUR, FABIEN",P001392   ,Foul (1),CM,,,Real Madrid,0
+PAM       ,,0,02:49,8,89,"THOMAS, WILL",P005856   ,Out,OUT,,,Valencia Basket,0
+PAM       ,,42,02:49,8,90,"DOORNEKAMP, AARON",P002763   ,In,IN,,,Valencia Basket,0
+PAM       ,,32,02:41,8,91,"GREEN, ERICK",P005159   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,Valencia Basket,0
+MAD       ,,16,02:39,8,92,"YUSTA, SANTI",P005368   ,Def Rebound (4),D,,,Real Madrid,0
+MAD       ,,16,02:33,8,93,"YUSTA, SANTI",P005368   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Real Madrid,0
+MAD       ,,16,02:33,8,94,"YUSTA, SANTI",P005368   ,Off Rebound (1),O,,,Real Madrid,0
+MAD       ,,1,02:25,8,95,"CAUSEUR, FABIEN",P001392   ,Turnover (1),TO,,,Real Madrid,0
+PAM       ,,19,02:25,8,96,"SAN EMETERIO, FERNANDO",P000518   ,Steal (2),ST,,,Valencia Basket,0
+PAM       ,,19,02:25,8,97,"SAN EMETERIO, FERNANDO",P000518   ,Foul Drawn (2),RV,,,Valencia Basket,0
+MAD       ,,16,02:25,8,98,"YUSTA, SANTI",P005368   ,Foul (1),CM,,,Real Madrid,0
+PAM       ,,6,02:25,8,99,"ABALDE, ALBERTO",P003733   ,In,IN,,,Valencia Basket,0
+PAM       ,,19,02:25,8,100,"SAN EMETERIO, FERNANDO",P000518   ,Out,OUT,,,Valencia Basket,0
+PAM       ,,9,02:14,8,101,"VAN ROSSOM, SAM",PLRQ      ,Turnover (2),TO,,,Valencia Basket,0
+MAD       ,,16,02:14,8,102,"YUSTA, SANTI",P005368   ,Steal (1),ST,,,Real Madrid,0
+MAD       ,,1,02:14,8,103,"CAUSEUR, FABIEN",P001392   ,Two Pointer (3/4 -  6 pt),2FGM,19.0,14.0,Real Madrid,0
+MAD       ,,9,02:14,8,104,"REYES, FELIPE",PAAX      ,Assist (1),AS,,,Real Madrid,0
+PAM       ,,32,01:47,9,106,"GREEN, ERICK",P005159   ,Foul Drawn (2),RV,,,Valencia Basket,0
+MAD       ,,16,01:47,9,107,"YUSTA, SANTI",P005368   ,Foul (2),CM,,,Real Madrid,0
+MAD       ,,16,01:47,9,108,"YUSTA, SANTI",P005368   ,Out,OUT,,,Real Madrid,0
+MAD       ,,44,01:47,9,109,"TAYLOR, JEFFERY",P006546   ,In,IN,,,Real Madrid,0
+PAM       ,,32,01:47,9,110,"GREEN, ERICK",P005159   ,Free Throw In (1/1 -  3 pt),FTM,19.0,15.0,Valencia Basket,0
+PAM       ,,32,01:47,9,111,"GREEN, ERICK",P005159   ,Free Throw In (2/2 -  4 pt),FTM,19.0,16.0,Valencia Basket,0
+PAM       ,,17,01:47,9,112,"MARTINEZ, RAFA",P001351   ,In,IN,,,Valencia Basket,0
+PAM       ,,32,01:47,9,113,"GREEN, ERICK",P005159   ,Out,OUT,,,Valencia Basket,0
+MAD       ,,9,01:35,9,114,"REYES, FELIPE",PAAX      ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Real Madrid,0
+PAM       ,,42,01:35,9,115,"DOORNEKAMP, AARON",P002763   ,Def Rebound (1),D,,,Valencia Basket,0
+PAM       ,,6,01:05,9,116,"ABALDE, ALBERTO",P003733   ,Turnover (1),TO,,,Valencia Basket,0
+MAD       ,,44,01:04,9,117,"TAYLOR, JEFFERY",P006546   ,Steal (1),ST,,,Real Madrid,0
+MAD       ,,9,01:02,9,118,"REYES, FELIPE",PAAX      ,Two Pointer (1/2 -  2 pt),2FGM,21.0,16.0,Real Madrid,0
+MAD       ,,9,01:02,9,119,"REYES, FELIPE",PAAX      ,Foul Drawn (1),RV,,,Real Madrid,0
+PAM       ,,42,01:02,9,120,"DOORNEKAMP, AARON",P002763   ,Foul (1),CM,,,Valencia Basket,0
+MAD       ,,1,01:02,9,121,"CAUSEUR, FABIEN",P001392   ,Out,OUT,,,Real Madrid,0
+MAD       ,,7,01:02,9,122,"DONCIC, LUKA",P005929   ,In,IN,,,Real Madrid,0
+MAD       ,,11,01:02,9,123,"CAMPAZZO, FACUNDO",P005928   ,Assist (3),AS,,,Real Madrid,0
+MAD       ,,9,01:02,9,124,"REYES, FELIPE",PAAX      ,Missed Free Throw (0/1 -  2 pt),FTA,,,Real Madrid,0
+PAM       ,,42,01:02,9,125,"DOORNEKAMP, AARON",P002763   ,Def Rebound (2),D,,,Valencia Basket,0
+PAM       ,,21,00:37,10,127,"PLEISS, TIBOR",PLHK      ,Two Pointer (1/1 -  2 pt),2FGM,21.0,18.0,Valencia Basket,0
+PAM       ,,9,00:31,10,128,"VAN ROSSOM, SAM",PLRQ      ,Assist (1),AS,,,Valencia Basket,0
+MAD       ,,9,00:19,10,129,"REYES, FELIPE",PAAX      ,Foul Drawn (2),RV,,,Real Madrid,0
+PAM       ,,21,00:19,10,130,"PLEISS, TIBOR",PLHK      ,Foul (1),CM,,,Valencia Basket,0
+MAD       ,,7,00:09,10,131,"DONCIC, LUKA",P005929   ,Three Pointer (1/1 -  3 pt),3FGM,24.0,18.0,Real Madrid,0
+MAD       ,,9,00:06,10,132,"REYES, FELIPE",PAAX      ,Assist (2),AS,,,Real Madrid,0
+PAM       ,,42,00:00,10,133,"DOORNEKAMP, AARON",P002763   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Valencia Basket,0
+          ,,,,11,135,,          ,End Period,EP,,,,0
+          ,,,,11,138,,          ,Begin Period,BP,,,,0
+MAD       ,,11,10:00,11,136,"CAMPAZZO, FACUNDO",P005928   ,Out,OUT,,,Real Madrid,0
+MAD       ,,20,10:00,11,137,"CARROLL, JAYCEE",P001960   ,In,IN,,,Real Madrid,0
+PAM       ,,21,09:46,11,139,"PLEISS, TIBOR",PLHK      ,Turnover (1),TO,,,Valencia Basket,0
+MAD       ,,33,09:32,11,140,"THOMPKINS, TREY",P005836   ,Turnover (1),TO,,,Real Madrid,0
+MAD       ,,8,09:32,11,141,"MACIULIS, JONAS",PJCC      ,In,IN,,,Real Madrid,0
+MAD       ,,33,09:32,11,142,"THOMPKINS, TREY",P005836   ,Out,OUT,,,Real Madrid,0
+PAM       ,,9,09:23,11,143,"VAN ROSSOM, SAM",PLRQ      ,Turnover (3),TO,,,Valencia Basket,0
+MAD       ,,7,09:21,11,144,"DONCIC, LUKA",P005929   ,Steal (1),ST,,,Real Madrid,0
+PAM       ,,14,09:21,11,147,"DUBLJEVIC, BOJAN",P002742   ,In,IN,,,Valencia Basket,0
+PAM       ,,21,09:21,11,148,"PLEISS, TIBOR",PLHK      ,Out,OUT,,,Valencia Basket,0
+PAM       ,,21,09:21,11,150,"PLEISS, TIBOR",PLHK      ,Foul Drawn (1),RV,,,Valencia Basket,0
+MAD       ,,7,09:21,11,149,"DONCIC, LUKA",P005929   ,Unsportsmanlike Foul  (1),CMU,,,Real Madrid,0
+PAM       ,,,09:21,11,151,,CO_B      ,Coach Foul (1),C,,,Valencia Basket,0
+PAM       ,,14,09:21,11,152,"DUBLJEVIC, BOJAN",P002742   ,Free Throw In (2/3 -  7 pt),FTM,24.0,19.0,Valencia Basket,0
+PAM       ,,14,09:21,11,153,"DUBLJEVIC, BOJAN",P002742   ,Missed Free Throw (2/4 -  7 pt),FTA,,,Valencia Basket,0
+MAD       ,,20,09:21,11,154,"CARROLL, JAYCEE",P001960   ,Free Throw In (1/1 -  1 pt),FTM,25.0,19.0,Real Madrid,0
+MAD       ,,7,09:21,11,155,"DONCIC, LUKA",P005929   ,Foul Drawn (1),RV,,,Real Madrid,0
+PAM       ,,6,09:21,11,156,"ABALDE, ALBERTO",P003733   ,Foul (1),CM,,,Valencia Basket,0
+MAD       ,,8,09:05,11,157,"MACIULIS, JONAS",PJCC      ,Two Pointer (1/1 -  2 pt),2FGM,27.0,19.0,Real Madrid,0
+MAD       ,,7,09:03,11,158,"DONCIC, LUKA",P005929   ,Assist (1),AS,,,Real Madrid,0
+PAM       ,,17,08:49,12,160,"MARTINEZ, RAFA",P001351   ,Three Pointer (1/1 -  3 pt),3FGM,27.0,22.0,Valencia Basket,0
+PAM       ,,42,08:49,12,161,"DOORNEKAMP, AARON",P002763   ,Assist (1),AS,,,Valencia Basket,0
+MAD       ,,9,08:31,12,162,"REYES, FELIPE",PAAX      ,Foul Drawn (3),RV,,,Real Madrid,0
+PAM       ,,42,08:31,12,163,"DOORNEKAMP, AARON",P002763   ,Foul (2),CM,,,Valencia Basket,0
+PAM       ,,9,08:31,12,541,"VAN ROSSOM, SAM",PLRQ      ,Out,OUT,,,Valencia Basket,0
+PAM       ,,16,08:31,12,542,"VIVES, GUILLEM",P002361   ,In,IN,,,Valencia Basket,0
+MAD       ,,9,08:23,12,164,"REYES, FELIPE",PAAX      ,Two Pointer (2/3 -  4 pt),2FGM,29.0,22.0,Real Madrid,0
+MAD       ,,20,08:20,12,165,"CARROLL, JAYCEE",P001960   ,Assist (1),AS,,,Real Madrid,0
+PAM       ,,14,07:59,13,167,"DUBLJEVIC, BOJAN",P002742   ,Missed Two Pointer (1/2 -  7 pt),2FGA,,,Valencia Basket,0
+MAD       ,,9,07:56,13,168,"REYES, FELIPE",PAAX      ,Def Rebound (1),D,,,Real Madrid,0
+MAD       ,,9,07:52,13,169,"REYES, FELIPE",PAAX      ,Foul Drawn (4),RV,,,Real Madrid,0
+PAM       ,,6,07:52,13,170,"ABALDE, ALBERTO",P003733   ,Foul (2),CM,,,Valencia Basket,0
+PAM       ,,6,07:52,13,171,"ABALDE, ALBERTO",P003733   ,Out,OUT,,,Valencia Basket,0
+PAM       ,,19,07:52,13,172,"SAN EMETERIO, FERNANDO",P000518   ,In,IN,,,Valencia Basket,0
+MAD       ,,8,07:39,13,173,"MACIULIS, JONAS",PJCC      ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,Real Madrid,0
+MAD       ,,9,07:39,13,174,"REYES, FELIPE",PAAX      ,Off Rebound (1),O,,,Real Madrid,0
+MAD       ,,9,07:39,13,175,"REYES, FELIPE",PAAX      ,Foul Drawn (5),RV,,,Real Madrid,0
+PAM       ,,14,07:39,13,176,"DUBLJEVIC, BOJAN",P002742   ,Foul (1),CM,,,Valencia Basket,0
+MAD       ,,9,07:39,13,177,"REYES, FELIPE",PAAX      ,Missed Free Throw (0/2 -  4 pt),FTA,,,Real Madrid,0
+MAD       ,,9,07:39,13,178,"REYES, FELIPE",PAAX      ,Free Throw In (1/3 -  5 pt),FTM,30.0,22.0,Real Madrid,0
+PAM       ,,19,07:20,13,179,"SAN EMETERIO, FERNANDO",P000518   ,Three Pointer (2/2 -  6 pt),3FGM,30.0,25.0,Valencia Basket,0
+PAM       ,,42,07:17,13,180,"DOORNEKAMP, AARON",P002763   ,Assist (2),AS,,,Valencia Basket,0
+MAD       ,,20,06:50,14,182,"CARROLL, JAYCEE",P001960   ,Missed Three Pointer (0/1 -  1 pt),3FGA,,,Real Madrid,0
+MAD       ,,8,06:47,14,183,"MACIULIS, JONAS",PJCC      ,Off Rebound (1),O,,,Real Madrid,0
+MAD       ,,7,06:34,14,184,"DONCIC, LUKA",P005929   ,Three Pointer (2/2 -  6 pt),3FGM,33.0,25.0,Real Madrid,0
+PAM       ,,14,06:28,14,185,"DUBLJEVIC, BOJAN",P002742   ,Turnover (1),TO,,,Valencia Basket,0
+MAD       ,,7,06:28,14,186,"DONCIC, LUKA",P005929   ,Steal (2),ST,,,Real Madrid,0
+MAD       ,,44,06:28,14,187,"TAYLOR, JEFFERY",P006546   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Real Madrid,0
+PAM       ,,14,06:28,14,188,"DUBLJEVIC, BOJAN",P002742   ,Def Rebound (2),D,,,Valencia Basket,0
+PAM       ,,14,05:48,15,190,"DUBLJEVIC, BOJAN",P002742   ,Three Pointer (2/3 -  10 pt),3FGM,33.0,28.0,Valencia Basket,0
+PAM       ,,16,05:42,15,193,"VIVES, GUILLEM",P002361   ,Assist (3),AS,,,Valencia Basket,0
+MAD       ,,20,05:26,15,194,"CARROLL, JAYCEE",P001960   ,Turnover (1),TO,,,Real Madrid,0
+PAM       ,,14,05:24,15,195,"DUBLJEVIC, BOJAN",P002742   ,Steal (3),ST,,,Valencia Basket,0
+PAM       ,,16,05:21,15,196,"VIVES, GUILLEM",P002361   ,Foul Drawn (1),RV,,,Valencia Basket,0
+MAD       ,,20,05:21,15,197,"CARROLL, JAYCEE",P001960   ,Foul (1),CM,,,Real Madrid,0
+PAM       ,,19,05:10,15,198,"SAN EMETERIO, FERNANDO",P000518   ,Turnover (1),TO,,,Valencia Basket,0
+MAD       ,,8,05:08,15,199,"MACIULIS, JONAS",PJCC      ,Steal (1),ST,,,Real Madrid,0
+MAD       ,,8,05:05,15,200,"MACIULIS, JONAS",PJCC      ,Missed Three Pointer (0/2 -  2 pt),3FGA,,,Real Madrid,0
+PAM       ,,42,05:05,15,201,"DOORNEKAMP, AARON",P002763   ,Def Rebound (3),D,,,Valencia Basket,0
+PAM       ,,14,04:54,16,203,"DUBLJEVIC, BOJAN",P002742   ,Foul Drawn (2),RV,,,Valencia Basket,0
+MAD       ,,9,04:54,16,204,"REYES, FELIPE",PAAX      ,Foul (1),CM,,,Real Madrid,0
+          ,,,04:46,16,205,,          ,TV Time Out (2),TOUT_TV,,,,0
+PAM       ,,19,04:34,16,206,"SAN EMETERIO, FERNANDO",P000518   ,Two Pointer (1/2 -  8 pt),2FGM,33.0,30.0,Valencia Basket,0
+PAM       ,,42,04:20,16,207,"DOORNEKAMP, AARON",P002763   ,Foul Drawn (1),RV,,,Valencia Basket,0
+MAD       ,,7,04:20,16,208,"DONCIC, LUKA",P005929   ,Offensive Foul (2),OF,,,Real Madrid,0
+MAD       ,,7,04:20,16,209,"DONCIC, LUKA",P005929   ,Turnover (1),TO,,,Real Madrid,0
+MAD       ,,9,04:20,16,210,"REYES, FELIPE",PAAX      ,Out,OUT,,,Real Madrid,0
+MAD       ,,33,04:20,16,211,"THOMPKINS, TREY",P005836   ,In,IN,,,Real Madrid,0
+MAD       ,,7,04:11,16,212,"DONCIC, LUKA",P005929   ,Technical Foul (3),CMT,,,Real Madrid,0
+MAD       ,,7,04:11,16,213,"DONCIC, LUKA",P005929   ,Out,OUT,,,Real Madrid,0
+MAD       ,,11,04:11,16,214,"CAMPAZZO, FACUNDO",P005928   ,In,IN,,,Real Madrid,0
+PAM       ,,17,04:11,16,215,"MARTINEZ, RAFA",P001351   ,Free Throw In (1/1 -  4 pt),FTM,33.0,31.0,Valencia Basket,0
+PAM       ,,14,03:56,17,217,"DUBLJEVIC, BOJAN",P002742   ,Turnover (2),TO,,,Valencia Basket,0
+MAD       ,,44,03:34,17,218,"TAYLOR, JEFFERY",P006546   ,Turnover (1),TO,,,Real Madrid,0
+PAM       ,,14,03:32,17,219,"DUBLJEVIC, BOJAN",P002742   ,Steal (4),ST,,,Valencia Basket,0
+PAM       ,,19,03:29,17,220,"SAN EMETERIO, FERNANDO",P000518   ,Three Pointer (3/3 -  11 pt),3FGM,33.0,34.0,Valencia Basket,0
+PAM       ,,17,03:29,17,221,"MARTINEZ, RAFA",P001351   ,Assist (1),AS,,,Valencia Basket,0
+MAD       ,,20,03:05,17,222,"CARROLL, JAYCEE",P001960   ,Foul Drawn (1),RV,,,Real Madrid,0
+PAM       ,,16,03:05,17,223,"VIVES, GUILLEM",P002361   ,Foul (2),CM,,,Valencia Basket,0
+MAD       ,,20,03:05,17,224,"CARROLL, JAYCEE",P001960   ,Free Throw In (2/2 -  2 pt),FTM,34.0,34.0,Real Madrid,0
+MAD       ,,20,03:05,17,225,"CARROLL, JAYCEE",P001960   ,Free Throw In (3/3 -  3 pt),FTM,35.0,34.0,Real Madrid,0
+PAM       ,,9,03:05,17,226,"VAN ROSSOM, SAM",PLRQ      ,In,IN,,,Valencia Basket,0
+PAM       ,,16,03:05,17,227,"VIVES, GUILLEM",P002361   ,Out,OUT,,,Valencia Basket,0
+PAM       ,,42,02:47,18,229,"DOORNEKAMP, AARON",P002763   ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,Valencia Basket,0
+MAD       ,,33,02:44,18,230,"THOMPKINS, TREY",P005836   ,Def Rebound (1),D,,,Real Madrid,0
+MAD       ,,20,02:35,18,231,"CARROLL, JAYCEE",P001960   ,Three Pointer (1/2 -  6 pt),3FGM,38.0,34.0,Real Madrid,0
+MAD       ,,44,02:35,18,232,"TAYLOR, JEFFERY",P006546   ,Assist (1),AS,,,Real Madrid,0
+PAM       ,,,02:35,18,233,,          ,Time Out (1),TOUT,,,Valencia Basket,0
+PAM       ,,0,02:35,18,234,"THOMAS, WILL",P005856   ,In,IN,,,Valencia Basket,0
+PAM       ,,42,02:35,18,235,"DOORNEKAMP, AARON",P002763   ,Out,OUT,,,Valencia Basket,0
+PAM       ,,19,02:11,18,236,"SAN EMETERIO, FERNANDO",P000518   ,Missed Two Pointer (1/3 -  11 pt),2FGA,,,Valencia Basket,0
+PAM       ,,,02:11,18,264,,          ,Off Rebound (1),O,,,Valencia Basket,0
+PAM       ,,17,02:02,18,237,"MARTINEZ, RAFA",P001351   ,Two Pointer (1/1 -  6 pt),2FGM,38.0,36.0,Valencia Basket,0
+MAD       ,,20,01:57,19,239,"CARROLL, JAYCEE",P001960   ,Three Pointer (2/3 -  9 pt),3FGM,41.0,36.0,Real Madrid,0
+MAD       ,,11,01:55,19,240,"CAMPAZZO, FACUNDO",P005928   ,Assist (4),AS,,,Real Madrid,0
+PAM       ,,14,01:38,19,241,"DUBLJEVIC, BOJAN",P002742   ,Three Pointer (3/4 -  13 pt),3FGM,41.0,39.0,Valencia Basket,0
+PAM       ,,9,01:36,19,242,"VAN ROSSOM, SAM",PLRQ      ,Assist (2),AS,,,Valencia Basket,0
+MAD       ,,20,01:22,19,243,"CARROLL, JAYCEE",P001960   ,Missed Three Pointer (2/4 -  9 pt),3FGA,,,Real Madrid,0
+PAM       ,,19,01:22,19,244,"SAN EMETERIO, FERNANDO",P000518   ,Def Rebound (1),D,,,Valencia Basket,0
+PAM       ,,14,01:09,19,245,"DUBLJEVIC, BOJAN",P002742   ,Missed Three Pointer (3/5 -  13 pt),3FGA,,,Valencia Basket,0
+MAD       ,,11,01:06,19,246,"CAMPAZZO, FACUNDO",P005928   ,Def Rebound (1),D,,,Real Madrid,0
+MAD       ,,11,00:50,20,248,"CAMPAZZO, FACUNDO",P005928   ,Two Pointer (3/3 -  6 pt),2FGM,43.0,39.0,Real Madrid,0
+PAM       ,,0,00:24,20,249,"THOMAS, WILL",P005856   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Valencia Basket,0
+PAM       ,,,00:24,20,250,,          ,Off Rebound (2),O,,,Valencia Basket,0
+PAM       ,,14,00:24,20,251,"DUBLJEVIC, BOJAN",P002742   ,Foul Drawn (3),RV,,,Valencia Basket,0
+MAD       ,,33,00:24,20,252,"THOMPKINS, TREY",P005836   ,Foul (1),CM,,,Real Madrid,0
+PAM       ,,14,00:24,20,253,"DUBLJEVIC, BOJAN",P002742   ,Free Throw In (3/5 -  14 pt),FTM,43.0,40.0,Valencia Basket,0
+PAM       ,,14,00:24,20,254,"DUBLJEVIC, BOJAN",P002742   ,Free Throw In (4/6 -  15 pt),FTM,43.0,41.0,Valencia Basket,0
+MAD       ,,,00:24,20,255,,          ,Time Out (1),TOUT,,,Real Madrid,0
+MAD       ,,,00:24,20,256,,          ,Time Out (2),TOUT,,,Real Madrid,0
+MAD       ,,1,00:24,20,257,"CAUSEUR, FABIEN",P001392   ,In,IN,,,Real Madrid,0
+MAD       ,,8,00:24,20,258,"MACIULIS, JONAS",PJCC      ,Out,OUT,,,Real Madrid,0
+PAM       ,,6,00:24,20,259,"ABALDE, ALBERTO",P003733   ,In,IN,,,Valencia Basket,0
+PAM       ,,14,00:24,20,260,"DUBLJEVIC, BOJAN",P002742   ,Out,OUT,,,Valencia Basket,0
+MAD       ,,11,00:00,20,261,"CAMPAZZO, FACUNDO",P005928   ,Missed Three Pointer (0/1 -  6 pt),3FGA,,,Real Madrid,0
+          ,,,,21,263,,          ,End Period,EP,,,,0
+          ,,,,21,273,,          ,Begin Period,BP,,,,0
+MAD       ,,20,10:00,21,265,"CARROLL, JAYCEE",P001960   ,Out,OUT,,,Real Madrid,0
+MAD       ,,22,10:00,21,266,"TAVARES, WALTER",P005791   ,In,IN,,,Real Madrid,0
+PAM       ,,6,10:00,21,267,"ABALDE, ALBERTO",P003733   ,Out,OUT,,,Valencia Basket,0
+PAM       ,,9,10:00,21,268,"VAN ROSSOM, SAM",PLRQ      ,Out,OUT,,,Valencia Basket,0
+PAM       ,,14,10:00,21,269,"DUBLJEVIC, BOJAN",P002742   ,In,IN,,,Valencia Basket,0
+PAM       ,,16,10:00,21,270,"VIVES, GUILLEM",P002361   ,In,IN,,,Valencia Basket,0
+PAM       ,,17,10:00,21,271,"MARTINEZ, RAFA",P001351   ,Out,OUT,,,Valencia Basket,0
+PAM       ,,32,10:00,21,272,"GREEN, ERICK",P005159   ,In,IN,,,Valencia Basket,0
+MAD       ,,22,09:44,21,274,"TAVARES, WALTER",P005791   ,Two Pointer (3/3 -  6 pt),2FGM,45.0,41.0,Real Madrid,0
+MAD       ,,1,09:43,21,275,"CAUSEUR, FABIEN",P001392   ,Assist (1),AS,,,Real Madrid,0
+PAM       ,,32,09:43,21,276,"GREEN, ERICK",P005159   ,Foul Drawn (3),RV,,,Valencia Basket,0
+MAD       ,,1,09:43,21,277,"CAUSEUR, FABIEN",P001392   ,Foul (2),CM,,,Real Madrid,0
+PAM       ,,16,09:22,21,278,"VIVES, GUILLEM",P002361   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Valencia Basket,0
+PAM       ,,0,09:22,21,279,"THOMAS, WILL",P005856   ,Off Rebound (1),O,,,Valencia Basket,0
+PAM       ,,32,09:22,21,280,"GREEN, ERICK",P005159   ,Foul Drawn (4),RV,,,Valencia Basket,0
+MAD       ,,22,09:22,21,281,"TAVARES, WALTER",P005791   ,Foul (3),CM,,,Real Madrid,0
+PAM       ,,32,09:22,21,282,"GREEN, ERICK",P005159   ,Free Throw In (3/3 -  5 pt),FTM,45.0,42.0,Valencia Basket,0
+PAM       ,,32,09:22,21,283,"GREEN, ERICK",P005159   ,Free Throw In (4/4 -  6 pt),FTM,45.0,43.0,Valencia Basket,0
+PAM       ,,32,09:22,21,284,"GREEN, ERICK",P005159   ,Free Throw In (5/5 -  7 pt),FTM,45.0,44.0,Valencia Basket,0
+PAM       ,,14,09:22,21,285,"DUBLJEVIC, BOJAN",P002742   ,Assist (1),AS,,,Valencia Basket,0
+MAD       ,,44,08:44,22,287,"TAYLOR, JEFFERY",P006546   ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,Real Madrid,0
+PAM       ,,32,08:40,22,288,"GREEN, ERICK",P005159   ,Def Rebound (1),D,,,Valencia Basket,0
+PAM       ,,14,08:33,22,289,"DUBLJEVIC, BOJAN",P002742   ,Missed Three Pointer (3/6 -  15 pt),3FGA,,,Valencia Basket,0
+MAD       ,,1,08:30,22,290,"CAUSEUR, FABIEN",P001392   ,Def Rebound (1),D,,,Real Madrid,0
+MAD       ,,44,08:24,22,291,"TAYLOR, JEFFERY",P006546   ,Foul Drawn (1),RV,,,Real Madrid,0
+PAM       ,,19,08:24,22,292,"SAN EMETERIO, FERNANDO",P000518   ,Foul (1),CM,,,Valencia Basket,0
+MAD       ,,44,08:24,22,293,"TAYLOR, JEFFERY",P006546   ,Free Throw In (1/1 -  1 pt),FTM,46.0,44.0,Real Madrid,0
+MAD       ,,44,08:24,22,294,"TAYLOR, JEFFERY",P006546   ,Free Throw In (2/2 -  2 pt),FTM,47.0,44.0,Real Madrid,0
+PAM       ,,0,08:05,22,295,"THOMAS, WILL",P005856   ,Two Pointer (1/2 -  2 pt),2FGM,47.0,46.0,Valencia Basket,0
+PAM       ,,19,08:04,22,296,"SAN EMETERIO, FERNANDO",P000518   ,Assist (3),AS,,,Valencia Basket,0
+MAD       ,,33,07:44,23,298,"THOMPKINS, TREY",P005836   ,Missed Three Pointer (1/2 -  5 pt),3FGA,,,Real Madrid,0
+MAD       ,,,07:44,23,299,,          ,Off Rebound (3),O,,,Real Madrid,0
+MAD       ,,22,07:44,23,300,"TAVARES, WALTER",P005791   ,Foul Drawn (1),RV,,,Real Madrid,0
+PAM       ,,14,07:44,23,301,"DUBLJEVIC, BOJAN",P002742   ,Foul (2),CM,,,Valencia Basket,0
+MAD       ,,22,07:44,23,302,"TAVARES, WALTER",P005791   ,Foul Drawn (2),RV,,,Real Madrid,0
+PAM       ,,0,07:44,23,303,"THOMAS, WILL",P005856   ,Foul (1),CM,,,Valencia Basket,0
+MAD       ,,1,07:39,23,304,"CAUSEUR, FABIEN",P001392   ,Missed Two Pointer (3/5 -  6 pt),2FGA,,,Real Madrid,0
+PAM       ,,19,07:39,23,305,"SAN EMETERIO, FERNANDO",P000518   ,Def Rebound (2),D,,,Valencia Basket,0
+PAM       ,,16,07:27,23,306,"VIVES, GUILLEM",P002361   ,Two Pointer (1/1 -  2 pt),2FGM,47.0,48.0,Valencia Basket,0
+MAD       ,,11,07:02,23,307,"CAMPAZZO, FACUNDO",P005928   ,Turnover (4),TO,,,Real Madrid,0
+PAM       ,,14,07:01,23,308,"DUBLJEVIC, BOJAN",P002742   ,Steal (5),ST,,,Valencia Basket,0
+MAD       ,,22,06:50,24,310,"TAVARES, WALTER",P005791   ,Foul Drawn (3),RV,,,Real Madrid,0
+PAM       ,,14,06:50,24,311,"DUBLJEVIC, BOJAN",P002742   ,Offensive Foul (3),OF,,,Valencia Basket,0
+PAM       ,,14,06:50,24,312,"DUBLJEVIC, BOJAN",P002742   ,Turnover (3),TO,,,Valencia Basket,0
+PAM       ,,14,06:50,24,313,"DUBLJEVIC, BOJAN",P002742   ,Out,OUT,,,Valencia Basket,0
+PAM       ,,21,06:50,24,314,"PLEISS, TIBOR",PLHK      ,In,IN,,,Valencia Basket,0
+MAD       ,,1,06:41,24,315,"CAUSEUR, FABIEN",P001392   ,Foul Drawn (1),RV,,,Real Madrid,0
+PAM       ,,32,06:41,24,316,"GREEN, ERICK",P005159   ,Foul (2),CM,,,Valencia Basket,0
+MAD       ,,1,06:41,24,317,"CAUSEUR, FABIEN",P001392   ,Free Throw In (1/1 -  7 pt),FTM,48.0,48.0,Real Madrid,0
+MAD       ,,1,06:41,24,318,"CAUSEUR, FABIEN",P001392   ,Free Throw In (2/2 -  8 pt),FTM,49.0,48.0,Real Madrid,0
+PAM       ,,32,06:41,24,319,"GREEN, ERICK",P005159   ,Two Pointer (2/3 -  9 pt),2FGM,49.0,50.0,Valencia Basket,0
+MAD       ,,22,06:18,24,320,"TAVARES, WALTER",P005791   ,Two Pointer (4/4 -  8 pt),2FGM,51.0,50.0,Real Madrid,0
+MAD       ,,1,06:18,24,321,"CAUSEUR, FABIEN",P001392   ,Assist (2),AS,,,Real Madrid,0
+PAM       ,,16,05:55,25,323,"VIVES, GUILLEM",P002361   ,Three Pointer (1/2 -  5 pt),3FGM,51.0,53.0,Valencia Basket,0
+PAM       ,,0,05:52,25,324,"THOMAS, WILL",P005856   ,Assist (1),AS,,,Valencia Basket,0
+MAD       ,,1,05:50,25,325,"CAUSEUR, FABIEN",P001392   ,Foul Drawn (2),RV,,,Real Madrid,0
+PAM       ,,21,05:50,25,326,"PLEISS, TIBOR",PLHK      ,Foul (2),CM,,,Valencia Basket,0
+MAD       ,,1,05:41,25,327,"CAUSEUR, FABIEN",P001392   ,Free Throw In (3/3 -  9 pt),FTM,52.0,53.0,Real Madrid,0
+MAD       ,,1,05:41,25,328,"CAUSEUR, FABIEN",P001392   ,Missed Free Throw (3/4 -  9 pt),FTA,,,Real Madrid,0
+PAM       ,,19,05:41,25,329,"SAN EMETERIO, FERNANDO",P000518   ,Def Rebound (3),D,,,Valencia Basket,0
+PAM       ,,21,05:29,25,330,"PLEISS, TIBOR",PLHK      ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,Valencia Basket,0
+PAM       ,,21,05:29,25,331,"PLEISS, TIBOR",PLHK      ,Off Rebound (1),O,,,Valencia Basket,0
+PAM       ,,21,05:29,25,332,"PLEISS, TIBOR",PLHK      ,Missed Two Pointer (1/3 -  2 pt),2FGA,,,Valencia Basket,0
+MAD       ,,11,05:29,25,333,"CAMPAZZO, FACUNDO",P005928   ,Def Rebound (2),D,,,Real Madrid,0
+MAD       ,,22,04:53,26,335,"TAVARES, WALTER",P005791   ,Foul Drawn (4),RV,,,Real Madrid,0
+PAM       ,,0,04:53,26,336,"THOMAS, WILL",P005856   ,Foul (2),CM,,,Valencia Basket,0
+          ,,,04:53,26,337,,          ,TV Time Out (3),TOUT_TV,,,,0
+PAM       ,,9,04:53,26,338,"VAN ROSSOM, SAM",PLRQ      ,In,IN,,,Valencia Basket,0
+PAM       ,,16,04:53,26,339,"VIVES, GUILLEM",P002361   ,Out,OUT,,,Valencia Basket,0
+MAD       ,,22,04:53,26,340,"TAVARES, WALTER",P005791   ,Free Throw In (1/1 -  9 pt),FTM,53.0,53.0,Real Madrid,0
+MAD       ,,44,04:53,26,354,"TAYLOR, JEFFERY",P006546   ,Assist (2),AS,,,Real Madrid,0
+MAD       ,,22,04:53,26,341,"TAVARES, WALTER",P005791   ,Free Throw In (2/2 -  10 pt),FTM,54.0,53.0,Real Madrid,0
+PAM       ,,0,04:37,26,342,"THOMAS, WILL",P005856   ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,Valencia Basket,0
+MAD       ,,44,04:34,26,343,"TAYLOR, JEFFERY",P006546   ,Def Rebound (1),D,,,Real Madrid,0
+MAD       ,,11,04:21,26,344,"CAMPAZZO, FACUNDO",P005928   ,Three Pointer (1/2 -  9 pt),3FGM,57.0,53.0,Real Madrid,0
+MAD       ,,44,04:20,26,345,"TAYLOR, JEFFERY",P006546   ,Assist (3),AS,,,Real Madrid,0
+PAM       ,,9,04:08,26,346,"VAN ROSSOM, SAM",PLRQ      ,Three Pointer (2/2 -  6 pt),3FGM,57.0,56.0,Valencia Basket,0
+MAD       ,,11,03:50,27,348,"CAMPAZZO, FACUNDO",P005928   ,Three Pointer (2/3 -  12 pt),3FGM,60.0,56.0,Real Madrid,0
+MAD       ,,22,03:47,27,349,"TAVARES, WALTER",P005791   ,Assist (1),AS,,,Real Madrid,0
+PAM       ,,21,03:30,27,350,"PLEISS, TIBOR",PLHK      ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,Valencia Basket,0
+MAD       ,,33,03:30,27,351,"THOMPKINS, TREY",P005836   ,Def Rebound (2),D,,,Real Madrid,0
+MAD       ,,44,03:08,27,352,"TAYLOR, JEFFERY",P006546   ,Two Pointer (1/1 -  4 pt),2FGM,62.0,56.0,Real Madrid,0
+PAM       ,,,03:08,27,353,,          ,Time Out (1),TOUT,,,Valencia Basket,0
+PAM       ,,0,03:00,27,355,"THOMAS, WILL",P005856   ,Missed Two Pointer (1/3 -  2 pt),2FGA,,,Valencia Basket,0
+PAM       ,,21,03:00,27,356,"PLEISS, TIBOR",PLHK      ,Off Rebound (2),O,,,Valencia Basket,0
+PAM       ,,21,03:00,27,357,"PLEISS, TIBOR",PLHK      ,Missed Two Pointer (1/4 -  2 pt),2FGA,,,Valencia Basket,0
+MAD       ,,33,03:00,27,358,"THOMPKINS, TREY",P005836   ,Def Rebound (3),D,,,Real Madrid,0
+MAD       ,,22,02:21,28,360,"TAVARES, WALTER",P005791   ,Two Pointer (5/5 -  12 pt),2FGM,64.0,56.0,Real Madrid,0
+MAD       ,,1,02:21,28,361,"CAUSEUR, FABIEN",P001392   ,Assist (3),AS,,,Real Madrid,0
+PAM       ,,0,01:56,29,363,"THOMAS, WILL",P005856   ,Foul Drawn (1),RV,,,Valencia Basket,0
+MAD       ,,33,01:56,29,364,"THOMPKINS, TREY",P005836   ,Foul (2),CM,,,Real Madrid,0
+PAM       ,,0,01:56,29,365,"THOMAS, WILL",P005856   ,Out,OUT,,,Valencia Basket,0
+PAM       ,,21,01:56,29,366,"PLEISS, TIBOR",PLHK      ,Out,OUT,,,Valencia Basket,0
+PAM       ,,42,01:56,29,367,"DOORNEKAMP, AARON",P002763   ,In,IN,,,Valencia Basket,0
+PAM       ,,51,01:56,29,368,"HLINASON, TRYGGVI",P008041   ,In,IN,,,Valencia Basket,0
+PAM       ,,9,01:46,29,369,"VAN ROSSOM, SAM",PLRQ      ,Missed Two Pointer (0/1 -  6 pt),2FGA,,,Valencia Basket,0
+MAD       ,,11,01:44,29,370,"CAMPAZZO, FACUNDO",P005928   ,Def Rebound (3),D,,,Real Madrid,0
+MAD       ,,11,01:27,29,371,"CAMPAZZO, FACUNDO",P005928   ,Turnover (5),TO,,,Real Madrid,0
+PAM       ,,9,01:26,29,372,"VAN ROSSOM, SAM",PLRQ      ,Steal (1),ST,,,Valencia Basket,0
+PAM       ,,32,01:25,29,373,"GREEN, ERICK",P005159   ,Foul Drawn (5),RV,,,Valencia Basket,0
+MAD       ,,1,01:25,29,374,"CAUSEUR, FABIEN",P001392   ,Foul (3),CM,,,Real Madrid,0
+PAM       ,,9,01:09,29,375,"VAN ROSSOM, SAM",PLRQ      ,Turnover (4),TO,,,Valencia Basket,0
+MAD       ,,22,01:08,29,376,"TAVARES, WALTER",P005791   ,Steal (1),ST,,,Real Madrid,0
+MAD       ,,11,01:06,29,377,"CAMPAZZO, FACUNDO",P005928   ,Missed Three Pointer (2/4 -  12 pt),3FGA,,,Real Madrid,0
+MAD       ,,22,01:03,29,378,"TAVARES, WALTER",P005791   ,Off Rebound (2),O,,,Real Madrid,0
+MAD       ,,33,00:50,30,380,"THOMPKINS, TREY",P005836   ,Missed Two Pointer (1/2 -  5 pt),2FGA,,,Real Madrid,0
+PAM       ,,19,00:48,30,381,"SAN EMETERIO, FERNANDO",P000518   ,Def Rebound (4),D,,,Valencia Basket,0
+PAM       ,,19,00:40,30,382,"SAN EMETERIO, FERNANDO",P000518   ,Turnover (2),TO,,,Valencia Basket,0
+MAD       ,,33,00:39,30,383,"THOMPKINS, TREY",P005836   ,Steal (1),ST,,,Real Madrid,0
+MAD       ,,1,00:18,30,384,"CAUSEUR, FABIEN",P001392   ,Missed Three Pointer (0/1 -  9 pt),3FGA,,,Real Madrid,0
+PAM       ,,42,00:16,30,385,"DOORNEKAMP, AARON",P002763   ,Def Rebound (4),D,,,Valencia Basket,0
+PAM       ,,9,00:00,30,386,"VAN ROSSOM, SAM",PLRQ      ,Two Pointer (1/2 -  8 pt),2FGM,64.0,58.0,Valencia Basket,0
+          ,,,,31,388,,          ,End Period,EP,,,,0
+          ,,,,31,397,,          ,Begin Period,BP,,,,0
+MAD       ,,1,10:00,31,389,"CAUSEUR, FABIEN",P001392   ,Out,OUT,,,Real Madrid,0
+MAD       ,,20,10:00,31,390,"CARROLL, JAYCEE",P001960   ,In,IN,,,Real Madrid,0
+PAM       ,,6,10:00,31,391,"ABALDE, ALBERTO",P003733   ,In,IN,,,Valencia Basket,0
+PAM       ,,9,10:00,31,392,"VAN ROSSOM, SAM",PLRQ      ,Out,OUT,,,Valencia Basket,0
+PAM       ,,14,10:00,31,393,"DUBLJEVIC, BOJAN",P002742   ,In,IN,,,Valencia Basket,0
+PAM       ,,17,10:00,31,394,"MARTINEZ, RAFA",P001351   ,In,IN,,,Valencia Basket,0
+PAM       ,,19,10:00,31,395,"SAN EMETERIO, FERNANDO",P000518   ,Out,OUT,,,Valencia Basket,0
+PAM       ,,51,10:00,31,396,"HLINASON, TRYGGVI",P008041   ,Out,OUT,,,Valencia Basket,0
+MAD       ,,33,09:59,31,398,"THOMPKINS, TREY",P005836   ,Foul Drawn (1),RV,,,Real Madrid,0
+PAM       ,,42,09:59,31,399,"DOORNEKAMP, AARON",P002763   ,Offensive Foul (3),OF,,,Valencia Basket,0
+PAM       ,,42,09:59,31,400,"DOORNEKAMP, AARON",P002763   ,Turnover (1),TO,,,Valencia Basket,0
+MAD       ,,9,09:50,31,401,"REYES, FELIPE",PAAX      ,In,IN,,,Real Madrid,0
+MAD       ,,22,09:50,31,402,"TAVARES, WALTER",P005791   ,Out,OUT,,,Real Madrid,0
+MAD       ,,33,09:27,31,403,"THOMPKINS, TREY",P005836   ,Missed Two Pointer (1/3 -  5 pt),2FGA,,,Real Madrid,0
+MAD       ,,9,09:25,31,404,"REYES, FELIPE",PAAX      ,Off Rebound (2),O,,,Real Madrid,0
+MAD       ,,9,09:25,31,405,"REYES, FELIPE",PAAX      ,Two Pointer (3/4 -  7 pt),2FGM,66.0,58.0,Real Madrid,0
+PAM       ,,6,09:08,31,406,"ABALDE, ALBERTO",P003733   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Valencia Basket,0
+MAD       ,,33,09:06,31,407,"THOMPKINS, TREY",P005836   ,Def Rebound (4),D,,,Real Madrid,0
+MAD       ,,33,08:55,32,409,"THOMPKINS, TREY",P005836   ,Three Pointer (2/3 -  8 pt),3FGM,69.0,58.0,Real Madrid,0
+MAD       ,,11,08:53,32,410,"CAMPAZZO, FACUNDO",P005928   ,Assist (5),AS,,,Real Madrid,0
+PAM       ,,32,08:39,32,411,"GREEN, ERICK",P005159   ,Two Pointer (3/4 -  11 pt),2FGM,69.0,60.0,Valencia Basket,0
+PAM       ,,14,08:39,32,416,"DUBLJEVIC, BOJAN",P002742   ,Assist (2),AS,,,Valencia Basket,0
+PAM       ,,17,08:26,32,412,"MARTINEZ, RAFA",P001351   ,Foul Drawn (1),RV,,,Valencia Basket,0
+MAD       ,,9,08:26,32,413,"REYES, FELIPE",PAAX      ,Offensive Foul (2),OF,,,Real Madrid,0
+MAD       ,,9,08:26,32,414,"REYES, FELIPE",PAAX      ,Turnover (1),TO,,,Real Madrid,0
+MAD       ,,9,08:26,32,415,"REYES, FELIPE",PAAX      ,Technical Foul (3),CMT,,,Real Madrid,0
+MAD       ,,9,08:26,32,453,"REYES, FELIPE",PAAX      ,Turnover (2),TO,,,Real Madrid,0
+PAM       ,,17,08:26,32,417,"MARTINEZ, RAFA",P001351   ,Free Throw In (2/2 -  7 pt),FTM,69.0,61.0,Valencia Basket,0
+PAM       ,,32,08:11,32,418,"GREEN, ERICK",P005159   ,Missed Two Pointer (3/5 -  11 pt),2FGA,,,Valencia Basket,0
+MAD       ,,44,08:08,32,419,"TAYLOR, JEFFERY",P006546   ,Def Rebound (2),D,,,Real Madrid,0
+MAD       ,,9,08:05,32,420,"REYES, FELIPE",PAAX      ,Turnover (3),TO,,,Real Madrid,0
+PAM       ,,9,08:05,32,421,"VAN ROSSOM, SAM",PLRQ      ,In,IN,,,Valencia Basket,0
+PAM       ,,32,08:05,32,422,"GREEN, ERICK",P005159   ,Out,OUT,,,Valencia Basket,0
+PAM       ,,14,07:41,33,424,"DUBLJEVIC, BOJAN",P002742   ,Three Pointer (4/7 -  18 pt),3FGM,69.0,64.0,Valencia Basket,0
+PAM       ,,17,07:39,33,425,"MARTINEZ, RAFA",P001351   ,Assist (2),AS,,,Valencia Basket,0
+MAD       ,,11,07:22,33,426,"CAMPAZZO, FACUNDO",P005928   ,Foul Drawn (3),RV,,,Real Madrid,0
+PAM       ,,14,07:22,33,427,"DUBLJEVIC, BOJAN",P002742   ,Foul (4),CM,,,Valencia Basket,0
+MAD       ,,2,07:21,33,428,"RANDLE, CHASSON",P008038   ,In,IN,,,Real Madrid,0
+MAD       ,,11,07:21,33,429,"CAMPAZZO, FACUNDO",P005928   ,Out,OUT,,,Real Madrid,0
+PAM       ,,0,07:21,33,430,"THOMAS, WILL",P005856   ,In,IN,,,Valencia Basket,0
+PAM       ,,14,07:21,33,431,"DUBLJEVIC, BOJAN",P002742   ,Out,OUT,,,Valencia Basket,0
+MAD       ,,33,07:06,33,432,"THOMPKINS, TREY",P005836   ,Three Pointer (3/4 -  11 pt),3FGM,72.0,64.0,Real Madrid,0
+MAD       ,,9,07:04,33,433,"REYES, FELIPE",PAAX      ,Assist (3),AS,,,Real Madrid,0
+PAM       ,,9,06:52,34,435,"VAN ROSSOM, SAM",PLRQ      ,Missed Two Pointer (1/3 -  8 pt),2FGA,,,Valencia Basket,0
+MAD       ,,33,06:50,34,436,"THOMPKINS, TREY",P005836   ,Def Rebound (5),D,,,Real Madrid,0
+MAD       ,,9,06:38,34,437,"REYES, FELIPE",PAAX      ,Foul Drawn (6),RV,,,Real Madrid,0
+PAM       ,,17,06:38,34,438,"MARTINEZ, RAFA",P001351   ,Foul (1),CM,,,Valencia Basket,0
+PAM       ,,17,06:38,34,439,"MARTINEZ, RAFA",P001351   ,Technical Foul (2),CMT,,,Valencia Basket,0
+PAM       ,,17,06:38,34,440,"MARTINEZ, RAFA",P001351   ,Turnover (1),TO,,,Valencia Basket,0
+MAD       ,,20,06:38,34,441,"CARROLL, JAYCEE",P001960   ,Free Throw In (4/4 -  10 pt),FTM,73.0,64.0,Real Madrid,0
+MAD       ,,20,06:30,34,442,"CARROLL, JAYCEE",P001960   ,Two Pointer (1/1 -  12 pt),2FGM,75.0,64.0,Real Madrid,0
+PAM       ,,17,06:11,34,443,"MARTINEZ, RAFA",P001351   ,Foul Drawn (2),RV,,,Valencia Basket,0
+MAD       ,,44,06:11,34,444,"TAYLOR, JEFFERY",P006546   ,Foul (1),CM,,,Real Madrid,0
+PAM       ,,9,05:59,35,446,"VAN ROSSOM, SAM",PLRQ      ,Missed Three Pointer (2/3 -  8 pt),3FGA,,,Valencia Basket,0
+MAD       ,,,05:59,35,447,,          ,Def Rebound (1),D,,,Real Madrid,0
+MAD       ,,9,05:59,35,448,"REYES, FELIPE",PAAX      ,Foul Drawn (7),RV,,,Real Madrid,0
+PAM       ,,0,05:59,35,449,"THOMAS, WILL",P005856   ,Foul (3),CM,,,Valencia Basket,0
+MAD       ,,9,05:59,35,450,"REYES, FELIPE",PAAX      ,Free Throw In (2/4 -  8 pt),FTM,76.0,64.0,Real Madrid,0
+MAD       ,,9,05:59,35,451,"REYES, FELIPE",PAAX      ,Free Throw In (3/5 -  9 pt),FTM,77.0,64.0,Real Madrid,0
+PAM       ,,,05:59,35,452,,          ,Time Out (1),TOUT,,,Valencia Basket,0
+PAM       ,,0,05:59,35,454,"THOMAS, WILL",P005856   ,Out,OUT,,,Valencia Basket,0
+PAM       ,,6,05:59,35,455,"ABALDE, ALBERTO",P003733   ,Out,OUT,,,Valencia Basket,0
+PAM       ,,9,05:59,35,456,"VAN ROSSOM, SAM",PLRQ      ,Out,OUT,,,Valencia Basket,0
+PAM       ,,14,05:59,35,457,"DUBLJEVIC, BOJAN",P002742   ,In,IN,,,Valencia Basket,0
+PAM       ,,19,05:59,35,458,"SAN EMETERIO, FERNANDO",P000518   ,In,IN,,,Valencia Basket,0
+PAM       ,,32,05:59,35,459,"GREEN, ERICK",P005159   ,In,IN,,,Valencia Basket,0
+PAM       ,,14,05:40,35,460,"DUBLJEVIC, BOJAN",P002742   ,Missed Three Pointer (4/8 -  18 pt),3FGA,,,Valencia Basket,0
+MAD       ,,33,05:38,35,461,"THOMPKINS, TREY",P005836   ,Def Rebound (6),D,,,Real Madrid,0
+MAD       ,,33,05:25,35,462,"THOMPKINS, TREY",P005836   ,Foul Drawn (2),RV,,,Real Madrid,0
+PAM       ,,42,05:25,35,463,"DOORNEKAMP, AARON",P002763   ,Foul (4),CM,,,Valencia Basket,0
+MAD       ,,33,05:25,35,464,"THOMPKINS, TREY",P005836   ,Missed Free Throw (0/1 -  11 pt),FTA,,,Real Madrid,0
+MAD       ,,33,05:25,35,465,"THOMPKINS, TREY",P005836   ,Free Throw In (1/2 -  12 pt),FTM,78.0,64.0,Real Madrid,0
+PAM       ,,42,05:16,35,466,"DOORNEKAMP, AARON",P002763   ,Missed Three Pointer (0/3 -  0 pt),3FGA,,,Valencia Basket,0
+MAD       ,,33,05:16,35,467,"THOMPKINS, TREY",P005836   ,Def Rebound (7),D,,,Real Madrid,0
+MAD       ,,20,04:47,36,469,"CARROLL, JAYCEE",P001960   ,Missed Three Pointer (2/5 -  12 pt),3FGA,,,Real Madrid,0
+MAD       ,,9,04:45,36,470,"REYES, FELIPE",PAAX      ,Off Rebound (3),O,,,Real Madrid,0
+MAD       ,,44,04:36,36,471,"TAYLOR, JEFFERY",P006546   ,Missed Three Pointer (0/3 -  4 pt),3FGA,,,Real Madrid,0
+PAM       ,,17,04:34,36,472,"MARTINEZ, RAFA",P001351   ,Def Rebound (1),D,,,Valencia Basket,0
+PAM       ,,17,04:23,36,473,"MARTINEZ, RAFA",P001351   ,Foul Drawn (3),RV,,,Valencia Basket,0
+MAD       ,,33,04:23,36,475,"THOMPKINS, TREY",P005836   ,Foul (3),CM,,,Real Madrid,0
+PAM       ,,17,04:23,36,476,"MARTINEZ, RAFA",P001351   ,Free Throw In (3/3 -  8 pt),FTM,78.0,65.0,Valencia Basket,0
+PAM       ,,17,04:23,36,477,"MARTINEZ, RAFA",P001351   ,Free Throw In (4/4 -  9 pt),FTM,78.0,66.0,Valencia Basket,0
+PAM       ,,17,04:23,36,478,"MARTINEZ, RAFA",P001351   ,Free Throw In (5/5 -  10 pt),FTM,78.0,67.0,Valencia Basket,0
+PAM       ,,42,04:23,36,479,"DOORNEKAMP, AARON",P002763   ,Assist (3),AS,,,Valencia Basket,0
+MAD       ,,9,04:07,36,480,"REYES, FELIPE",PAAX      ,Missed Two Pointer (3/5 -  9 pt),2FGA,,,Real Madrid,0
+PAM       ,,14,04:07,36,481,"DUBLJEVIC, BOJAN",P002742   ,Def Rebound (3),D,,,Valencia Basket,0
+PAM       ,,32,03:55,37,483,"GREEN, ERICK",P005159   ,Foul Drawn (6),RV,,,Valencia Basket,0
+MAD       ,,2,03:55,37,484,"RANDLE, CHASSON",P008038   ,Foul (1),CM,,,Real Madrid,0
+PAM       ,,32,03:55,37,485,"GREEN, ERICK",P005159   ,Free Throw In (6/6 -  12 pt),FTM,78.0,68.0,Valencia Basket,0
+PAM       ,,14,03:55,37,486,"DUBLJEVIC, BOJAN",P002742   ,Assist (3),AS,,,Valencia Basket,0
+PAM       ,,32,03:55,37,487,"GREEN, ERICK",P005159   ,Free Throw In (7/7 -  13 pt),FTM,78.0,69.0,Valencia Basket,0
+MAD       ,,9,03:33,37,488,"REYES, FELIPE",PAAX      ,Foul Drawn (8),RV,,,Real Madrid,0
+PAM       ,,42,03:33,37,489,"DOORNEKAMP, AARON",P002763   ,Foul (5),CM,,,Valencia Basket,0
+MAD       ,,11,03:33,37,490,"CAMPAZZO, FACUNDO",P005928   ,In,IN,,,Real Madrid,0
+MAD       ,,20,03:33,37,491,"CARROLL, JAYCEE",P001960   ,Out,OUT,,,Real Madrid,0
+PAM       ,,0,03:33,37,492,"THOMAS, WILL",P005856   ,In,IN,,,Valencia Basket,0
+PAM       ,,42,03:33,37,493,"DOORNEKAMP, AARON",P002763   ,Out,OUT,,,Valencia Basket,0
+MAD       ,,9,03:33,37,494,"REYES, FELIPE",PAAX      ,Free Throw In (4/6 -  10 pt),FTM,79.0,69.0,Real Madrid,0
+MAD       ,,2,03:33,37,495,"RANDLE, CHASSON",P008038   ,Assist (1),AS,,,Real Madrid,0
+MAD       ,,9,03:33,37,496,"REYES, FELIPE",PAAX      ,Missed Free Throw (4/7 -  10 pt),FTA,,,Real Madrid,0
+PAM       ,,0,03:33,37,497,"THOMAS, WILL",P005856   ,Def Rebound (1),D,,,Valencia Basket,0
+PAM       ,,19,03:21,37,498,"SAN EMETERIO, FERNANDO",P000518   ,Missed Three Pointer (3/4 -  11 pt),3FGA,,,Valencia Basket,0
+MAD       ,,33,03:19,37,499,"THOMPKINS, TREY",P005836   ,Def Rebound (8),D,,,Real Madrid,0
+MAD       ,,44,03:02,37,500,"TAYLOR, JEFFERY",P006546   ,Three Pointer (1/4 -  7 pt),3FGM,82.0,69.0,Real Madrid,0
+MAD       ,,11,03:00,37,501,"CAMPAZZO, FACUNDO",P005928   ,Assist (6),AS,,,Real Madrid,0
+PAM       ,,19,02:44,38,503,"SAN EMETERIO, FERNANDO",P000518   ,Missed Two Pointer (1/4 -  11 pt),2FGA,,,Valencia Basket,0
+MAD       ,,33,02:41,38,504,"THOMPKINS, TREY",P005836   ,Def Rebound (9),D,,,Real Madrid,0
+MAD       ,,11,02:30,38,505,"CAMPAZZO, FACUNDO",P005928   ,Two Pointer (4/4 -  14 pt),2FGM,84.0,69.0,Real Madrid,0
+PAM       ,,32,02:03,38,506,"GREEN, ERICK",P005159   ,Missed Three Pointer (0/1 -  13 pt),3FGA,,,Valencia Basket,0
+PAM       ,,,02:03,38,507,,          ,Turnover (1),TO,,,Valencia Basket,0
+MAD       ,,,02:03,38,508,,          ,Time Out (1),TOUT,,,Real Madrid,0
+PAM       ,,6,02:03,38,509,"ABALDE, ALBERTO",P003733   ,In,IN,,,Valencia Basket,0
+PAM       ,,9,02:03,38,510,"VAN ROSSOM, SAM",PLRQ      ,In,IN,,,Valencia Basket,0
+PAM       ,,14,02:03,38,511,"DUBLJEVIC, BOJAN",P002742   ,Out,OUT,,,Valencia Basket,0
+PAM       ,,19,02:03,38,512,"SAN EMETERIO, FERNANDO",P000518   ,Out,OUT,,,Valencia Basket,0
+PAM       ,,32,02:03,38,513,"GREEN, ERICK",P005159   ,Out,OUT,,,Valencia Basket,0
+PAM       ,,51,02:03,38,514,"HLINASON, TRYGGVI",P008041   ,In,IN,,,Valencia Basket,0
+MAD       ,,44,01:49,39,516,"TAYLOR, JEFFERY",P006546   ,Missed Two Pointer (1/2 -  7 pt),2FGA,,,Real Madrid,0
+MAD       ,,33,01:37,39,517,"THOMPKINS, TREY",P005836   ,Off Rebound (1),O,,,Real Madrid,0
+MAD       ,,2,01:37,39,518,"RANDLE, CHASSON",P008038   ,Three Pointer (1/1 -  3 pt),3FGM,87.0,69.0,Real Madrid,0
+MAD       ,,9,01:37,39,519,"REYES, FELIPE",PAAX      ,Assist (4),AS,,,Real Madrid,0
+PAM       ,,51,01:37,39,520,"HLINASON, TRYGGVI",P008041   ,Foul Drawn (1),RV,,,Valencia Basket,0
+MAD       ,,9,01:37,39,521,"REYES, FELIPE",PAAX      ,Foul (4),CM,,,Real Madrid,0
+PAM       ,,51,01:37,39,522,"HLINASON, TRYGGVI",P008041   ,Missed Free Throw (0/1 -  0 pt),FTA,,,Valencia Basket,0
+PAM       ,,51,01:37,39,523,"HLINASON, TRYGGVI",P008041   ,Free Throw In (1/2 -  1 pt),FTM,87.0,70.0,Valencia Basket,0
+PAM       ,,9,01:37,39,524,"VAN ROSSOM, SAM",PLRQ      ,Assist (3),AS,,,Valencia Basket,0
+MAD       ,,44,01:14,39,525,"TAYLOR, JEFFERY",P006546   ,Turnover (2),TO,,,Real Madrid,0
+PAM       ,,17,01:08,39,526,"MARTINEZ, RAFA",P001351   ,Turnover (2),TO,,,Valencia Basket,0
+MAD       ,,33,01:08,39,527,"THOMPKINS, TREY",P005836   ,Steal (2),ST,,,Real Madrid,0
+MAD       ,,44,00:40,40,529,"TAYLOR, JEFFERY",P006546   ,Two Pointer (2/3 -  9 pt),2FGM,89.0,70.0,Real Madrid,0
+MAD       ,,11,00:40,40,540,"CAMPAZZO, FACUNDO",P005928   ,Assist (7),AS,,,Real Madrid,0
+PAM       ,,51,00:29,40,530,"HLINASON, TRYGGVI",P008041   ,Two Pointer (1/1 -  3 pt),2FGM,89.0,72.0,Valencia Basket,0
+PAM       ,,9,00:29,40,531,"VAN ROSSOM, SAM",PLRQ      ,Assist (4),AS,,,Valencia Basket,0
+MAD       ,,9,00:15,40,532,"REYES, FELIPE",PAAX      ,Two Pointer (4/6 -  12 pt),2FGM,91.0,72.0,Real Madrid,0
+MAD       ,,11,00:15,40,533,"CAMPAZZO, FACUNDO",P005928   ,Assist (8),AS,,,Real Madrid,0
+PAM       ,,17,00:00,40,534,"MARTINEZ, RAFA",P001351   ,Missed Three Pointer (1/2 -  10 pt),3FGA,,,Valencia Basket,0
+PAM       ,,17,00:00,40,535,"MARTINEZ, RAFA",P001351   ,Shot Rejected (1),AG,,,Valencia Basket,0
+MAD       ,,2,00:00,40,536,"RANDLE, CHASSON",P008038   ,Block (1),FV,,,Real Madrid,0
+MAD       ,,33,00:00,40,537,"THOMPKINS, TREY",P005836   ,Def Rebound (10),D,,,Real Madrid,0
+          ,,,,41,543,,          ,End Game,EG,,,,0

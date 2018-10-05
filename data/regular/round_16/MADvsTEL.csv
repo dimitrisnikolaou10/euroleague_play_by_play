@@ -1,0 +1,524 @@
+CODETEAM,COMMENT,DORSAL,MARKERTIME,MINUTE,NUMBEROFPLAY,PLAYER,PLAYER_ID,PLAYINFO,PLAYTYPE,POINTS_A,POINTS_B,TEAM,TYPE
+          ,,,,1,19,,          ,Begin Period,BP,,,,0
+MAD       ,,11,09:41,1,20,"CAMPAZZO, FACUNDO",P005928   ,Foul Drawn (1),RV,,,Real Madrid,0
+TEL       ,,45,09:41,1,21,"PARAKHOUSKI, ARTSIOM",P003034   ,Foul (1),CM,,,Maccabi FOX Tel Aviv,0
+MAD       ,,33,09:35,1,22,"THOMPKINS, TREY",P005836   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Real Madrid,0
+MAD       ,,11,09:32,1,23,"CAMPAZZO, FACUNDO",P005928   ,Off Rebound (1),O,,,Real Madrid,0
+TEL       ,,45,09:28,1,25,"PARAKHOUSKI, ARTSIOM",P003034   ,Steal (1),ST,,,Maccabi FOX Tel Aviv,0
+MAD       ,,11,09:26,1,24,"CAMPAZZO, FACUNDO",P005928   ,Turnover (1),TO,,,Real Madrid,0
+TEL       ,,45,09:17,1,26,"PARAKHOUSKI, ARTSIOM",P003034   ,Foul Drawn (1),RV,,,Maccabi FOX Tel Aviv,0
+MAD       ,,33,09:17,1,27,"THOMPKINS, TREY",P005836   ,Foul (1),CM,,,Real Madrid,0
+TEL       ,,55,09:10,1,28,"JACKSON, PIERRE",P005112   ,Three Pointer (1/1 -  3 pt),3FGM,,3.0,Maccabi FOX Tel Aviv,0
+TEL       ,,5,09:07,1,29,"ROLL, MICHAEL",P004974   ,Assist (1),AS,,,Maccabi FOX Tel Aviv,0
+MAD       ,,22,08:57,2,31,"TAVARES, WALTER",P005791   ,Foul Drawn (1),RV,,,Real Madrid,0
+TEL       ,,43,08:57,2,32,"BOLDEN, JONAH",P007988   ,Foul (1),CM,,,Maccabi FOX Tel Aviv,0
+MAD       ,,22,08:57,2,33,"TAVARES, WALTER",P005791   ,Free Throw In (1/1 -  1 pt),FTM,1.0,3.0,Real Madrid,0
+MAD       ,,1,08:57,2,119,"CAUSEUR, FABIEN",P001392   ,Assist (1),AS,,,Real Madrid,0
+MAD       ,,22,08:57,2,34,"TAVARES, WALTER",P005791   ,Free Throw In (2/2 -  2 pt),FTM,2.0,3.0,Real Madrid,0
+TEL       ,,45,08:30,2,35,"PARAKHOUSKI, ARTSIOM",P003034   ,Two Pointer (1/1 -  2 pt),2FGM,2.0,5.0,Maccabi FOX Tel Aviv,0
+TEL       ,,55,08:28,2,36,"JACKSON, PIERRE",P005112   ,Assist (1),AS,,,Maccabi FOX Tel Aviv,0
+MAD       ,,33,08:25,2,37,"THOMPKINS, TREY",P005836   ,Two Pointer (1/1 -  2 pt),2FGM,4.0,5.0,Real Madrid,0
+TEL       ,,43,08:25,2,38,"BOLDEN, JONAH",P007988   ,Three Pointer (1/1 -  3 pt),3FGM,4.0,8.0,Maccabi FOX Tel Aviv,0
+TEL       ,,50,08:25,2,39,"ZOOSMAN, YOVEL",P006625   ,Assist (1),AS,,,Maccabi FOX Tel Aviv,0
+MAD       ,,1,07:40,3,41,"CAUSEUR, FABIEN",P001392   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Real Madrid,0
+MAD       ,,11,07:37,3,42,"CAMPAZZO, FACUNDO",P005928   ,Off Rebound (2),O,,,Real Madrid,0
+MAD       ,,11,07:33,3,43,"CAMPAZZO, FACUNDO",P005928   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Real Madrid,0
+TEL       ,,45,07:31,3,44,"PARAKHOUSKI, ARTSIOM",P003034   ,Def Rebound (1),D,,,Maccabi FOX Tel Aviv,0
+TEL       ,,45,07:23,3,45,"PARAKHOUSKI, ARTSIOM",P003034   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,Maccabi FOX Tel Aviv,0
+TEL       ,,43,07:21,3,46,"BOLDEN, JONAH",P007988   ,Off Rebound (1),O,,,Maccabi FOX Tel Aviv,0
+TEL       ,,50,07:19,3,47,"ZOOSMAN, YOVEL",P006625   ,Three Pointer (1/1 -  3 pt),3FGM,4.0,11.0,Maccabi FOX Tel Aviv,0
+TEL       ,,43,07:16,3,48,"BOLDEN, JONAH",P007988   ,Assist (1),AS,,,Maccabi FOX Tel Aviv,0
+MAD       ,,16,07:00,3,49,"YUSTA, SANTI",P005368   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Real Madrid,0
+TEL       ,,,07:00,3,50,,          ,Def Rebound (1),D,,,Maccabi FOX Tel Aviv,0
+TEL       ,,55,06:46,4,52,"JACKSON, PIERRE",P005112   ,Foul Drawn (1),RV,,,Maccabi FOX Tel Aviv,0
+MAD       ,,11,06:46,4,53,"CAMPAZZO, FACUNDO",P005928   ,Foul (1),CM,,,Real Madrid,0
+TEL       ,,5,06:36,4,54,"ROLL, MICHAEL",P004974   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Maccabi FOX Tel Aviv,0
+MAD       ,,22,06:33,4,55,"TAVARES, WALTER",P005791   ,Def Rebound (1),D,,,Real Madrid,0
+MAD       ,,11,06:30,4,56,"CAMPAZZO, FACUNDO",P005928   ,Foul Drawn (2),RV,,,Real Madrid,0
+TEL       ,,55,06:30,4,57,"JACKSON, PIERRE",P005112   ,Foul (1),CM,,,Maccabi FOX Tel Aviv,0
+MAD       ,,16,06:16,4,58,"YUSTA, SANTI",P005368   ,Two Pointer (1/2 -  2 pt),2FGM,6.0,11.0,Real Madrid,0
+TEL       ,,55,06:05,4,59,"JACKSON, PIERRE",P005112   ,Three Pointer (2/2 -  6 pt),3FGM,6.0,14.0,Maccabi FOX Tel Aviv,0
+MAD       ,,1,05:44,5,61,"CAUSEUR, FABIEN",P001392   ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,Real Madrid,0
+TEL       ,,5,05:42,5,62,"ROLL, MICHAEL",P004974   ,Def Rebound (1),D,,,Maccabi FOX Tel Aviv,0
+TEL       ,,43,05:37,5,63,"BOLDEN, JONAH",P007988   ,Missed Three Pointer (1/2 -  3 pt),3FGA,,,Maccabi FOX Tel Aviv,0
+MAD       ,,22,05:35,5,64,"TAVARES, WALTER",P005791   ,Def Rebound (2),D,,,Real Madrid,0
+MAD       ,,11,05:18,5,65,"CAMPAZZO, FACUNDO",P005928   ,Two Pointer (1/2 -  2 pt),2FGM,8.0,14.0,Real Madrid,0
+MAD       ,,16,05:18,5,66,"YUSTA, SANTI",P005368   ,Foul Drawn (1),RV,,,Real Madrid,0
+TEL       ,,43,05:18,5,67,"BOLDEN, JONAH",P007988   ,Offensive Foul (2),OF,,,Maccabi FOX Tel Aviv,0
+TEL       ,,43,05:18,5,68,"BOLDEN, JONAH",P007988   ,Turnover (1),TO,,,Maccabi FOX Tel Aviv,0
+MAD       ,,16,04:49,6,70,"YUSTA, SANTI",P005368   ,Three Pointer (1/1 -  5 pt),3FGM,11.0,14.0,Real Madrid,0
+MAD       ,,1,04:44,6,71,"CAUSEUR, FABIEN",P001392   ,Assist (2),AS,,,Real Madrid,0
+TEL       ,,45,04:29,6,72,"PARAKHOUSKI, ARTSIOM",P003034   ,Two Pointer (2/3 -  4 pt),2FGM,11.0,16.0,Maccabi FOX Tel Aviv,0
+TEL       ,,5,04:27,6,73,"ROLL, MICHAEL",P004974   ,Assist (2),AS,,,Maccabi FOX Tel Aviv,0
+MAD       ,,1,04:15,6,74,"CAUSEUR, FABIEN",P001392   ,Two Pointer (1/1 -  2 pt),2FGM,13.0,16.0,Real Madrid,0
+MAD       ,,16,04:15,6,75,"YUSTA, SANTI",P005368   ,Assist (1),AS,,,Real Madrid,0
+TEL       ,,55,04:01,6,76,"JACKSON, PIERRE",P005112   ,Three Pointer (3/3 -  9 pt),3FGM,13.0,19.0,Maccabi FOX Tel Aviv,0
+MAD       ,,16,03:44,7,78,"YUSTA, SANTI",P005368   ,Two Pointer (2/3 -  7 pt),2FGM,15.0,19.0,Real Madrid,0
+TEL       ,,50,03:23,7,80,"ZOOSMAN, YOVEL",P006625   ,Three Pointer (2/2 -  6 pt),3FGM,15.0,22.0,Maccabi FOX Tel Aviv,0
+TEL       ,,43,03:21,7,81,"BOLDEN, JONAH",P007988   ,Assist (2),AS,,,Maccabi FOX Tel Aviv,0
+MAD       ,,16,03:07,7,82,"YUSTA, SANTI",P005368   ,Missed Three Pointer (1/2 -  7 pt),3FGA,,,Real Madrid,0
+TEL       ,,45,03:04,7,83,"PARAKHOUSKI, ARTSIOM",P003034   ,Def Rebound (2),D,,,Maccabi FOX Tel Aviv,0
+TEL       ,,45,02:54,8,85,"PARAKHOUSKI, ARTSIOM",P003034   ,Two Pointer (3/4 -  6 pt),2FGM,15.0,24.0,Maccabi FOX Tel Aviv,0
+TEL       ,,55,02:52,8,86,"JACKSON, PIERRE",P005112   ,Assist (2),AS,,,Maccabi FOX Tel Aviv,0
+MAD       ,,33,02:41,8,87,"THOMPKINS, TREY",P005836   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,Real Madrid,0
+TEL       ,,45,02:41,8,88,"PARAKHOUSKI, ARTSIOM",P003034   ,Def Rebound (3),D,,,Maccabi FOX Tel Aviv,0
+TEL       ,,43,02:41,8,89,"BOLDEN, JONAH",P007988   ,Missed Two Pointer (0/1 -  3 pt),2FGA,,,Maccabi FOX Tel Aviv,0
+TEL       ,,45,02:41,8,90,"PARAKHOUSKI, ARTSIOM",P003034   ,Off Rebound (1),O,,,Maccabi FOX Tel Aviv,0
+TEL       ,,45,02:41,8,91,"PARAKHOUSKI, ARTSIOM",P003034   ,Missed Two Pointer (3/5 -  6 pt),2FGA,,,Maccabi FOX Tel Aviv,0
+TEL       ,,45,02:41,8,92,"PARAKHOUSKI, ARTSIOM",P003034   ,Shot Rejected (1),AG,,,Maccabi FOX Tel Aviv,0
+MAD       ,,22,02:41,8,93,"TAVARES, WALTER",P005791   ,Block (1),FV,,,Real Madrid,0
+TEL       ,,45,02:41,8,94,"PARAKHOUSKI, ARTSIOM",P003034   ,Off Rebound (2),O,,,Maccabi FOX Tel Aviv,0
+TEL       ,,5,02:16,8,95,"ROLL, MICHAEL",P004974   ,Two Pointer (1/2 -  2 pt),2FGM,15.0,26.0,Maccabi FOX Tel Aviv,0
+MAD       ,,,02:16,8,96,,          ,Time Out (1),TOUT,,,Real Madrid,0
+TEL       ,,5,02:16,8,97,"ROLL, MICHAEL",P004974   ,Out,OUT,,,Maccabi FOX Tel Aviv,0
+TEL       ,,9,02:16,8,98,"TYUS, ALEX",P004119   ,In,IN,,,Maccabi FOX Tel Aviv,0
+TEL       ,,12,02:16,8,99,"DIBARTOLOMEO, JOHN",P007990   ,In,IN,,,Maccabi FOX Tel Aviv,0
+TEL       ,,15,02:16,8,100,"COHEN, JAKE",P005145   ,In,IN,,,Maccabi FOX Tel Aviv,0
+TEL       ,,43,02:16,8,101,"BOLDEN, JONAH",P007988   ,Out,OUT,,,Maccabi FOX Tel Aviv,0
+TEL       ,,45,02:16,8,102,"PARAKHOUSKI, ARTSIOM",P003034   ,Out,OUT,,,Maccabi FOX Tel Aviv,0
+MAD       ,,1,01:49,9,104,"CAUSEUR, FABIEN",P001392   ,Three Pointer (1/3 -  5 pt),3FGM,18.0,26.0,Real Madrid,0
+TEL       ,,9,01:42,9,105,"TYUS, ALEX",P004119   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Maccabi FOX Tel Aviv,0
+MAD       ,,11,01:42,9,106,"CAMPAZZO, FACUNDO",P005928   ,Def Rebound (1),D,,,Real Madrid,0
+MAD       ,,33,01:22,9,107,"THOMPKINS, TREY",P005836   ,Three Pointer (1/2 -  5 pt),3FGM,21.0,26.0,Real Madrid,0
+MAD       ,,11,01:20,9,108,"CAMPAZZO, FACUNDO",P005928   ,Assist (1),AS,,,Real Madrid,0
+TEL       ,,9,00:59,10,277,"TYUS, ALEX",P004119   ,Shot Rejected (1),AG,,,Maccabi FOX Tel Aviv,0
+TEL       ,,9,00:50,10,276,"TYUS, ALEX",P004119   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Maccabi FOX Tel Aviv,0
+MAD       ,,11,00:50,10,278,"CAMPAZZO, FACUNDO",P005928   ,Block (1),FV,,,Real Madrid,0
+MAD       ,,16,00:50,10,279,"YUSTA, SANTI",P005368   ,Def Rebound (1),D,,,Real Madrid,0
+MAD       ,,11,00:48,10,112,"CAMPAZZO, FACUNDO",P005928   ,Two Pointer (2/3 -  4 pt),2FGM,23.0,26.0,Real Madrid,0
+TEL       ,,15,00:34,10,113,"COHEN, JAKE",P005145   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Maccabi FOX Tel Aviv,0
+MAD       ,,22,00:32,10,114,"TAVARES, WALTER",P005791   ,Def Rebound (3),D,,,Real Madrid,0
+MAD       ,,1,00:14,10,115,"CAUSEUR, FABIEN",P001392   ,Two Pointer (2/2 -  7 pt),2FGM,25.0,26.0,Real Madrid,0
+TEL       ,,55,00:01,10,116,"JACKSON, PIERRE",P005112   ,Missed Three Pointer (3/4 -  9 pt),3FGA,,,Maccabi FOX Tel Aviv,0
+          ,,,,11,118,,          ,End Period,EP,,,,0
+          ,,,,11,128,,          ,Begin Period,BP,,,,0
+MAD       ,,1,10:00,11,120,"CAUSEUR, FABIEN",P001392   ,Out,OUT,,,Real Madrid,0
+MAD       ,,7,10:00,11,121,"DONCIC, LUKA",P005929   ,In,IN,,,Real Madrid,0
+MAD       ,,11,10:00,11,122,"CAMPAZZO, FACUNDO",P005928   ,Out,OUT,,,Real Madrid,0
+MAD       ,,44,10:00,11,123,"TAYLOR, JEFFERY",P006546   ,In,IN,,,Real Madrid,0
+TEL       ,,5,10:00,11,124,"ROLL, MICHAEL",P004974   ,In,IN,,,Maccabi FOX Tel Aviv,0
+TEL       ,,7,10:00,11,125,"KANE, DEANDRE",P005781   ,In,IN,,,Maccabi FOX Tel Aviv,0
+TEL       ,,50,10:00,11,126,"ZOOSMAN, YOVEL",P006625   ,Out,OUT,,,Maccabi FOX Tel Aviv,0
+TEL       ,,55,10:00,11,127,"JACKSON, PIERRE",P005112   ,Out,OUT,,,Maccabi FOX Tel Aviv,0
+TEL       ,,5,09:59,11,129,"ROLL, MICHAEL",P004974   ,Foul Drawn (1),RV,,,Maccabi FOX Tel Aviv,0
+MAD       ,,16,09:59,11,130,"YUSTA, SANTI",P005368   ,Foul (1),CM,,,Real Madrid,0
+TEL       ,,15,09:40,11,131,"COHEN, JAKE",P005145   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Maccabi FOX Tel Aviv,0
+MAD       ,,44,09:38,11,132,"TAYLOR, JEFFERY",P006546   ,Def Rebound (1),D,,,Real Madrid,0
+MAD       ,,33,09:22,11,133,"THOMPKINS, TREY",P005836   ,Missed Three Pointer (1/3 -  5 pt),3FGA,,,Real Madrid,0
+MAD       ,,16,09:22,11,134,"YUSTA, SANTI",P005368   ,Off Rebound (1),O,,,Real Madrid,0
+MAD       ,,16,09:22,11,135,"YUSTA, SANTI",P005368   ,Foul Drawn (2),RV,,,Real Madrid,0
+TEL       ,,12,09:22,11,136,"DIBARTOLOMEO, JOHN",P007990   ,Foul (1),CM,,,Maccabi FOX Tel Aviv,0
+MAD       ,,22,09:22,11,137,"TAVARES, WALTER",P005791   ,Two Pointer (1/1 -  4 pt),2FGM,27.0,26.0,Real Madrid,0
+MAD       ,,7,09:22,11,138,"DONCIC, LUKA",P005929   ,Assist (1),AS,,,Real Madrid,0
+TEL       ,,5,09:00,11,139,"ROLL, MICHAEL",P004974   ,Missed Two Pointer (1/3 -  2 pt),2FGA,,,Maccabi FOX Tel Aviv,0
+TEL       ,,15,09:00,11,140,"COHEN, JAKE",P005145   ,Off Rebound (1),O,,,Maccabi FOX Tel Aviv,0
+TEL       ,,15,09:00,11,141,"COHEN, JAKE",P005145   ,Foul Drawn (1),RV,,,Maccabi FOX Tel Aviv,0
+MAD       ,,33,09:00,11,142,"THOMPKINS, TREY",P005836   ,Foul (2),CM,,,Real Madrid,0
+MAD       ,,8,09:00,11,143,"MACIULIS, JONAS",PJCC      ,In,IN,,,Real Madrid,0
+MAD       ,,33,09:00,11,144,"THOMPKINS, TREY",P005836   ,Out,OUT,,,Real Madrid,0
+TEL       ,,9,08:54,12,146,"TYUS, ALEX",P004119   ,Foul Drawn (1),RV,,,Maccabi FOX Tel Aviv,0
+MAD       ,,22,08:54,12,147,"TAVARES, WALTER",P005791   ,Foul (1),CM,,,Real Madrid,0
+TEL       ,,9,08:54,12,148,"TYUS, ALEX",P004119   ,Free Throw In (1/1 -  1 pt),FTM,27.0,27.0,Maccabi FOX Tel Aviv,0
+TEL       ,,5,08:54,12,149,"ROLL, MICHAEL",P004974   ,Assist (3),AS,,,Maccabi FOX Tel Aviv,0
+TEL       ,,9,08:54,12,150,"TYUS, ALEX",P004119   ,Free Throw In (2/2 -  2 pt),FTM,27.0,28.0,Maccabi FOX Tel Aviv,0
+MAD       ,,8,08:54,12,151,"MACIULIS, JONAS",PJCC      ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Real Madrid,0
+MAD       ,,8,08:54,12,152,"MACIULIS, JONAS",PJCC      ,Shot Rejected (1),AG,,,Real Madrid,0
+TEL       ,,9,08:54,12,153,"TYUS, ALEX",P004119   ,Block (1),FV,,,Maccabi FOX Tel Aviv,0
+MAD       ,,7,08:48,12,154,"DONCIC, LUKA",P005929   ,Off Rebound (1),O,,,Real Madrid,0
+MAD       ,,7,08:48,12,155,"DONCIC, LUKA",P005929   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Real Madrid,0
+TEL       ,,12,08:48,12,156,"DIBARTOLOMEO, JOHN",P007990   ,Def Rebound (1),D,,,Maccabi FOX Tel Aviv,0
+TEL       ,,12,08:48,12,157,"DIBARTOLOMEO, JOHN",P007990   ,Foul Drawn (1),RV,,,Maccabi FOX Tel Aviv,0
+MAD       ,,22,08:48,12,158,"TAVARES, WALTER",P005791   ,Foul (2),CM,,,Real Madrid,0
+MAD       ,,9,08:48,12,159,"REYES, FELIPE",PAAX      ,In,IN,,,Real Madrid,0
+MAD       ,,22,08:48,12,160,"TAVARES, WALTER",P005791   ,Out,OUT,,,Real Madrid,0
+TEL       ,,12,08:48,12,161,"DIBARTOLOMEO, JOHN",P007990   ,Foul Drawn (2),RV,,,Maccabi FOX Tel Aviv,0
+MAD       ,,44,08:48,12,162,"TAYLOR, JEFFERY",P006546   ,Foul (1),CM,,,Real Madrid,0
+MAD       ,,5,08:48,12,163,"FERNANDEZ, RUDY",PBMT      ,In,IN,,,Real Madrid,0
+MAD       ,,16,08:48,12,164,"YUSTA, SANTI",P005368   ,Out,OUT,,,Real Madrid,0
+TEL       ,,12,08:48,12,165,"DIBARTOLOMEO, JOHN",P007990   ,Free Throw In (1/1 -  1 pt),FTM,27.0,29.0,Maccabi FOX Tel Aviv,0
+TEL       ,,12,08:48,12,166,"DIBARTOLOMEO, JOHN",P007990   ,Free Throw In (2/2 -  2 pt),FTM,27.0,30.0,Maccabi FOX Tel Aviv,0
+MAD       ,,7,08:20,12,167,"DONCIC, LUKA",P005929   ,Three Pointer (1/2 -  3 pt),3FGM,30.0,30.0,Real Madrid,0
+MAD       ,,44,08:20,12,168,"TAYLOR, JEFFERY",P006546   ,Assist (1),AS,,,Real Madrid,0
+TEL       ,,7,07:46,13,170,"KANE, DEANDRE",P005781   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Maccabi FOX Tel Aviv,0
+MAD       ,,5,07:44,13,171,"FERNANDEZ, RUDY",PBMT      ,Def Rebound (1),D,,,Real Madrid,0
+MAD       ,,9,07:44,13,172,"REYES, FELIPE",PAAX      ,Turnover (1),TO,,,Real Madrid,0
+TEL       ,,5,07:44,13,173,"ROLL, MICHAEL",P004974   ,Turnover (1),TO,,,Maccabi FOX Tel Aviv,0
+TEL       ,,7,07:10,13,174,"KANE, DEANDRE",P005781   ,Foul Drawn (1),RV,,,Maccabi FOX Tel Aviv,0
+MAD       ,,9,07:10,13,175,"REYES, FELIPE",PAAX      ,Offensive Foul (1),OF,,,Real Madrid,0
+MAD       ,,9,07:10,13,176,"REYES, FELIPE",PAAX      ,Turnover (2),TO,,,Real Madrid,0
+TEL       ,,9,07:10,13,177,"TYUS, ALEX",P004119   ,Out,OUT,,,Maccabi FOX Tel Aviv,0
+TEL       ,,45,07:10,13,178,"PARAKHOUSKI, ARTSIOM",P003034   ,In,IN,,,Maccabi FOX Tel Aviv,0
+TEL       ,,45,06:49,14,180,"PARAKHOUSKI, ARTSIOM",P003034   ,Turnover (1),TO,,,Maccabi FOX Tel Aviv,0
+MAD       ,,7,06:48,14,181,"DONCIC, LUKA",P005929   ,Steal (1),ST,,,Real Madrid,0
+MAD       ,,44,06:48,14,182,"TAYLOR, JEFFERY",P006546   ,Foul Drawn (1),RV,,,Real Madrid,0
+TEL       ,,45,06:48,14,183,"PARAKHOUSKI, ARTSIOM",P003034   ,Foul (2),CM,,,Maccabi FOX Tel Aviv,0
+TEL       ,,15,06:44,14,184,"COHEN, JAKE",P005145   ,Out,OUT,,,Maccabi FOX Tel Aviv,0
+TEL       ,,43,06:44,14,185,"BOLDEN, JONAH",P007988   ,In,IN,,,Maccabi FOX Tel Aviv,0
+MAD       ,,44,06:44,14,186,"TAYLOR, JEFFERY",P006546   ,Missed Free Throw (0/1 -  0 pt),FTA,,,Real Madrid,0
+MAD       ,,44,06:44,14,187,"TAYLOR, JEFFERY",P006546   ,Free Throw In (1/2 -  1 pt),FTM,31.0,30.0,Real Madrid,0
+TEL       ,,12,06:44,14,188,"DIBARTOLOMEO, JOHN",P007990   ,Missed Two Pointer (0/1 -  2 pt),2FGA,,,Maccabi FOX Tel Aviv,0
+TEL       ,,12,06:44,14,189,"DIBARTOLOMEO, JOHN",P007990   ,Shot Rejected (1),AG,,,Maccabi FOX Tel Aviv,0
+MAD       ,,44,06:44,14,190,"TAYLOR, JEFFERY",P006546   ,Block (1),FV,,,Real Madrid,0
+MAD       ,,7,06:44,14,191,"DONCIC, LUKA",P005929   ,Def Rebound (1),D,,,Real Madrid,0
+MAD       ,,9,06:25,14,192,"REYES, FELIPE",PAAX      ,Two Pointer (1/1 -  2 pt),2FGM,33.0,30.0,Real Madrid,0
+TEL       ,,,06:25,14,193,,          ,Time Out (1),TOUT,,,Maccabi FOX Tel Aviv,0
+TEL       ,,12,06:25,14,194,"DIBARTOLOMEO, JOHN",P007990   ,Out,OUT,,,Maccabi FOX Tel Aviv,0
+TEL       ,,55,06:25,14,195,"JACKSON, PIERRE",P005112   ,In,IN,,,Maccabi FOX Tel Aviv,0
+TEL       ,,45,06:04,14,196,"PARAKHOUSKI, ARTSIOM",P003034   ,Two Pointer (4/6 -  8 pt),2FGM,33.0,32.0,Maccabi FOX Tel Aviv,0
+TEL       ,,5,06:02,14,197,"ROLL, MICHAEL",P004974   ,Assist (4),AS,,,Maccabi FOX Tel Aviv,0
+MAD       ,,5,05:47,15,199,"FERNANDEZ, RUDY",PBMT      ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Real Madrid,0
+MAD       ,,8,05:47,15,200,"MACIULIS, JONAS",PJCC      ,Off Rebound (1),O,,,Real Madrid,0
+MAD       ,,8,05:47,15,201,"MACIULIS, JONAS",PJCC      ,Two Pointer (1/2 -  2 pt),2FGM,35.0,32.0,Real Madrid,0
+TEL       ,,55,05:24,15,202,"JACKSON, PIERRE",P005112   ,Two Pointer (1/1 -  11 pt),2FGM,35.0,34.0,Maccabi FOX Tel Aviv,0
+TEL       ,,43,05:24,15,203,"BOLDEN, JONAH",P007988   ,Assist (3),AS,,,Maccabi FOX Tel Aviv,0
+TEL       ,,55,05:24,15,204,"JACKSON, PIERRE",P005112   ,Foul Drawn (2),RV,,,Maccabi FOX Tel Aviv,0
+MAD       ,,8,05:24,15,205,"MACIULIS, JONAS",PJCC      ,Foul (1),CM,,,Real Madrid,0
+TEL       ,,55,05:24,15,206,"JACKSON, PIERRE",P005112   ,Free Throw In (1/1 -  12 pt),FTM,35.0,35.0,Maccabi FOX Tel Aviv,0
+MAD       ,,44,05:08,15,207,"TAYLOR, JEFFERY",P006546   ,Foul Drawn (2),RV,,,Real Madrid,0
+TEL       ,,5,05:08,15,208,"ROLL, MICHAEL",P004974   ,Foul (1),CM,,,Maccabi FOX Tel Aviv,0
+MAD       ,,44,05:08,15,209,"TAYLOR, JEFFERY",P006546   ,Free Throw In (2/3 -  2 pt),FTM,36.0,35.0,Real Madrid,0
+MAD       ,,44,05:08,15,210,"TAYLOR, JEFFERY",P006546   ,Free Throw In (3/4 -  3 pt),FTM,37.0,35.0,Real Madrid,0
+TEL       ,,55,04:57,16,212,"JACKSON, PIERRE",P005112   ,Two Pointer (2/2 -  14 pt),2FGM,37.0,37.0,Maccabi FOX Tel Aviv,0
+MAD       ,,7,04:40,16,213,"DONCIC, LUKA",P005929   ,Turnover (1),TO,,,Real Madrid,0
+TEL       ,,7,04:36,16,214,"KANE, DEANDRE",P005781   ,Steal (1),ST,,,Maccabi FOX Tel Aviv,0
+TEL       ,,5,04:25,16,215,"ROLL, MICHAEL",P004974   ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,Maccabi FOX Tel Aviv,0
+MAD       ,,,04:25,16,216,,          ,Def Rebound (2),D,,,Real Madrid,0
+MAD       ,,9,04:10,16,217,"REYES, FELIPE",PAAX      ,Two Pointer (2/2 -  4 pt),2FGM,39.0,37.0,Real Madrid,0
+MAD       ,,44,04:08,16,218,"TAYLOR, JEFFERY",P006546   ,Assist (2),AS,,,Real Madrid,0
+TEL       ,,55,04:03,16,219,"JACKSON, PIERRE",P005112   ,Missed Three Pointer (3/5 -  14 pt),3FGA,,,Maccabi FOX Tel Aviv,0
+TEL       ,,45,04:00,16,220,"PARAKHOUSKI, ARTSIOM",P003034   ,Off Rebound (3),O,,,Maccabi FOX Tel Aviv,0
+TEL       ,,45,03:49,17,222,"PARAKHOUSKI, ARTSIOM",P003034   ,Two Pointer (5/7 -  10 pt),2FGM,39.0,39.0,Maccabi FOX Tel Aviv,0
+TEL       ,,5,03:47,17,223,"ROLL, MICHAEL",P004974   ,Assist (5),AS,,,Maccabi FOX Tel Aviv,0
+MAD       ,,7,03:37,17,224,"DONCIC, LUKA",P005929   ,Foul Drawn (1),RV,,,Real Madrid,0
+TEL       ,,55,03:37,17,225,"JACKSON, PIERRE",P005112   ,Foul (2),CM,,,Maccabi FOX Tel Aviv,0
+MAD       ,,8,03:32,17,226,"MACIULIS, JONAS",PJCC      ,Three Pointer (1/1 -  5 pt),3FGM,42.0,39.0,Real Madrid,0
+MAD       ,,5,03:32,17,227,"FERNANDEZ, RUDY",PBMT      ,Assist (1),AS,,,Real Madrid,0
+TEL       ,,45,03:06,17,228,"PARAKHOUSKI, ARTSIOM",P003034   ,Foul Drawn (2),RV,,,Maccabi FOX Tel Aviv,0
+MAD       ,,5,03:06,17,229,"FERNANDEZ, RUDY",PBMT      ,Foul (1),CM,,,Real Madrid,0
+TEL       ,,45,03:06,17,230,"PARAKHOUSKI, ARTSIOM",P003034   ,Free Throw In (1/1 -  11 pt),FTM,42.0,40.0,Maccabi FOX Tel Aviv,0
+TEL       ,,45,03:06,17,231,"PARAKHOUSKI, ARTSIOM",P003034   ,Free Throw In (2/2 -  12 pt),FTM,42.0,41.0,Maccabi FOX Tel Aviv,0
+MAD       ,,9,02:50,18,233,"REYES, FELIPE",PAAX      ,Two Pointer (3/3 -  6 pt),2FGM,44.0,41.0,Real Madrid,0
+MAD       ,,44,02:47,18,234,"TAYLOR, JEFFERY",P006546   ,Assist (3),AS,,,Real Madrid,0
+TEL       ,,7,02:31,18,235,"KANE, DEANDRE",P005781   ,Two Pointer (1/1 -  2 pt),2FGM,44.0,43.0,Maccabi FOX Tel Aviv,0
+MAD       ,,7,02:24,18,236,"DONCIC, LUKA",P005929   ,Foul Drawn (2),RV,,,Real Madrid,0
+TEL       ,,7,02:24,18,237,"KANE, DEANDRE",P005781   ,Foul (1),CM,,,Maccabi FOX Tel Aviv,0
+MAD       ,,7,02:24,18,238,"DONCIC, LUKA",P005929   ,Missed Free Throw (0/1 -  3 pt),FTA,,,Real Madrid,0
+MAD       ,,7,02:24,18,239,"DONCIC, LUKA",P005929   ,Missed Free Throw (0/2 -  3 pt),FTA,,,Real Madrid,0
+TEL       ,,43,02:11,18,240,"BOLDEN, JONAH",P007988   ,Def Rebound (1),D,,,Maccabi FOX Tel Aviv,0
+TEL       ,,43,02:10,18,241,"BOLDEN, JONAH",P007988   ,Missed Three Pointer (1/3 -  3 pt),3FGA,,,Maccabi FOX Tel Aviv,0
+MAD       ,,9,02:10,18,242,"REYES, FELIPE",PAAX      ,Def Rebound (1),D,,,Real Madrid,0
+MAD       ,,5,02:10,18,243,"FERNANDEZ, RUDY",PBMT      ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,Real Madrid,0
+TEL       ,,7,02:10,18,244,"KANE, DEANDRE",P005781   ,Def Rebound (1),D,,,Maccabi FOX Tel Aviv,0
+TEL       ,,45,01:34,19,246,"PARAKHOUSKI, ARTSIOM",P003034   ,Two Pointer (6/8 -  14 pt),2FGM,44.0,45.0,Maccabi FOX Tel Aviv,0
+TEL       ,,55,01:30,19,247,"JACKSON, PIERRE",P005112   ,Assist (3),AS,,,Maccabi FOX Tel Aviv,0
+MAD       ,,8,01:15,19,248,"MACIULIS, JONAS",PJCC      ,Missed Three Pointer (1/2 -  5 pt),3FGA,,,Real Madrid,0
+TEL       ,,55,01:13,19,249,"JACKSON, PIERRE",P005112   ,Def Rebound (1),D,,,Maccabi FOX Tel Aviv,0
+TEL       ,,43,01:11,19,250,"BOLDEN, JONAH",P007988   ,Missed Two Pointer (0/2 -  3 pt),2FGA,,,Maccabi FOX Tel Aviv,0
+MAD       ,,,01:11,19,251,,          ,Def Rebound (3),D,,,Real Madrid,0
+MAD       ,,,01:11,19,252,,          ,Time Out (1),TOUT,,,Real Madrid,0
+TEL       ,,9,01:11,19,253,"TYUS, ALEX",P004119   ,In,IN,,,Maccabi FOX Tel Aviv,0
+TEL       ,,12,01:11,19,254,"DIBARTOLOMEO, JOHN",P007990   ,In,IN,,,Maccabi FOX Tel Aviv,0
+TEL       ,,15,01:11,19,255,"COHEN, JAKE",P005145   ,In,IN,,,Maccabi FOX Tel Aviv,0
+TEL       ,,43,01:11,19,256,"BOLDEN, JONAH",P007988   ,Out,OUT,,,Maccabi FOX Tel Aviv,0
+TEL       ,,45,01:11,19,257,"PARAKHOUSKI, ARTSIOM",P003034   ,Out,OUT,,,Maccabi FOX Tel Aviv,0
+TEL       ,,55,01:11,19,258,"JACKSON, PIERRE",P005112   ,Out,OUT,,,Maccabi FOX Tel Aviv,0
+MAD       ,,9,00:56,20,260,"REYES, FELIPE",PAAX      ,Missed Two Pointer (3/4 -  6 pt),2FGA,,,Real Madrid,0
+MAD       ,,5,00:54,20,261,"FERNANDEZ, RUDY",PBMT      ,Off Rebound (1),O,,,Real Madrid,0
+MAD       ,,7,00:47,20,262,"DONCIC, LUKA",P005929   ,Foul Drawn (3),RV,,,Real Madrid,0
+TEL       ,,15,00:47,20,263,"COHEN, JAKE",P005145   ,Foul (1),CM,,,Maccabi FOX Tel Aviv,0
+MAD       ,,7,00:47,20,264,"DONCIC, LUKA",P005929   ,Free Throw In (1/3 -  4 pt),FTM,45.0,45.0,Real Madrid,0
+MAD       ,,7,00:47,20,265,"DONCIC, LUKA",P005929   ,Free Throw In (2/4 -  5 pt),FTM,46.0,45.0,Real Madrid,0
+TEL       ,,7,00:28,20,266,"KANE, DEANDRE",P005781   ,Two Pointer (2/2 -  4 pt),2FGM,46.0,47.0,Maccabi FOX Tel Aviv,0
+TEL       ,,7,00:28,20,267,"KANE, DEANDRE",P005781   ,Foul Drawn (2),RV,,,Maccabi FOX Tel Aviv,0
+MAD       ,,9,00:28,20,268,"REYES, FELIPE",PAAX      ,Foul (2),CM,,,Real Madrid,0
+TEL       ,,7,00:28,20,269,"KANE, DEANDRE",P005781   ,Missed Free Throw (0/1 -  4 pt),FTA,,,Maccabi FOX Tel Aviv,0
+MAD       ,,9,00:28,20,270,"REYES, FELIPE",PAAX      ,Def Rebound (2),D,,,Real Madrid,0
+MAD       ,,7,00:28,20,271,"DONCIC, LUKA",P005929   ,Two Pointer (1/1 -  7 pt),2FGM,48.0,47.0,Real Madrid,0
+TEL       ,,7,00:00,20,272,"KANE, DEANDRE",P005781   ,Three Pointer (1/2 -  7 pt),3FGM,48.0,50.0,Maccabi FOX Tel Aviv,0
+          ,,,,21,275,,          ,End Period,EP,,,,0
+          ,,,,21,294,,          ,Begin Period,BP,,,,0
+MAD       ,,5,10:00,21,280,"FERNANDEZ, RUDY",PBMT      ,Out,OUT,,,Real Madrid,0
+MAD       ,,8,10:00,21,281,"MACIULIS, JONAS",PJCC      ,Out,OUT,,,Real Madrid,0
+MAD       ,,9,10:00,21,282,"REYES, FELIPE",PAAX      ,Out,OUT,,,Real Madrid,0
+MAD       ,,11,10:00,21,283,"CAMPAZZO, FACUNDO",P005928   ,In,IN,,,Real Madrid,0
+MAD       ,,20,10:00,21,284,"CARROLL, JAYCEE",P001960   ,In,IN,,,Real Madrid,0
+MAD       ,,22,10:00,21,285,"TAVARES, WALTER",P005791   ,In,IN,,,Real Madrid,0
+MAD       ,,33,10:00,21,286,"THOMPKINS, TREY",P005836   ,In,IN,,,Real Madrid,0
+MAD       ,,44,10:00,21,287,"TAYLOR, JEFFERY",P006546   ,Out,OUT,,,Real Madrid,0
+TEL       ,,9,10:00,21,288,"TYUS, ALEX",P004119   ,Out,OUT,,,Maccabi FOX Tel Aviv,0
+TEL       ,,12,10:00,21,289,"DIBARTOLOMEO, JOHN",P007990   ,Out,OUT,,,Maccabi FOX Tel Aviv,0
+TEL       ,,15,10:00,21,290,"COHEN, JAKE",P005145   ,Out,OUT,,,Maccabi FOX Tel Aviv,0
+TEL       ,,43,10:00,21,291,"BOLDEN, JONAH",P007988   ,In,IN,,,Maccabi FOX Tel Aviv,0
+TEL       ,,45,10:00,21,292,"PARAKHOUSKI, ARTSIOM",P003034   ,In,IN,,,Maccabi FOX Tel Aviv,0
+TEL       ,,55,10:00,21,293,"JACKSON, PIERRE",P005112   ,In,IN,,,Maccabi FOX Tel Aviv,0
+MAD       ,,22,09:52,21,295,"TAVARES, WALTER",P005791   ,Two Pointer (2/2 -  6 pt),2FGM,50.0,50.0,Real Madrid,0
+MAD       ,,7,09:52,21,296,"DONCIC, LUKA",P005929   ,Assist (2),AS,,,Real Madrid,0
+TEL       ,,7,09:25,21,297,"KANE, DEANDRE",P005781   ,Missed Two Pointer (2/3 -  7 pt),2FGA,,,Maccabi FOX Tel Aviv,0
+TEL       ,,45,09:23,21,298,"PARAKHOUSKI, ARTSIOM",P003034   ,Off Rebound (4),O,,,Maccabi FOX Tel Aviv,0
+TEL       ,,43,09:19,21,299,"BOLDEN, JONAH",P007988   ,Missed Two Pointer (0/3 -  3 pt),2FGA,,,Maccabi FOX Tel Aviv,0
+MAD       ,,7,09:19,21,300,"DONCIC, LUKA",P005929   ,Def Rebound (2),D,,,Real Madrid,0
+MAD       ,,7,09:19,21,301,"DONCIC, LUKA",P005929   ,Turnover (2),TO,,,Real Madrid,0
+TEL       ,,43,09:19,21,302,"BOLDEN, JONAH",P007988   ,Steal (1),ST,,,Maccabi FOX Tel Aviv,0
+TEL       ,,7,09:19,21,303,"KANE, DEANDRE",P005781   ,Missed Two Pointer (2/4 -  7 pt),2FGA,,,Maccabi FOX Tel Aviv,0
+TEL       ,,7,09:19,21,304,"KANE, DEANDRE",P005781   ,Shot Rejected (1),AG,,,Maccabi FOX Tel Aviv,0
+MAD       ,,7,09:19,21,305,"DONCIC, LUKA",P005929   ,Block (1),FV,,,Real Madrid,0
+TEL       ,,55,09:19,21,306,"JACKSON, PIERRE",P005112   ,Off Rebound (1),O,,,Maccabi FOX Tel Aviv,0
+TEL       ,,55,09:19,21,307,"JACKSON, PIERRE",P005112   ,Two Pointer (3/3 -  16 pt),2FGM,50.0,52.0,Maccabi FOX Tel Aviv,0
+MAD       ,,33,08:30,22,309,"THOMPKINS, TREY",P005836   ,Missed Three Pointer (1/4 -  5 pt),3FGA,,,Real Madrid,0
+MAD       ,,22,08:27,22,310,"TAVARES, WALTER",P005791   ,Off Rebound (1),O,,,Real Madrid,0
+MAD       ,,7,08:25,22,311,"DONCIC, LUKA",P005929   ,Two Pointer (2/2 -  9 pt),2FGM,52.0,52.0,Real Madrid,0
+TEL       ,,55,08:15,22,312,"JACKSON, PIERRE",P005112   ,Missed Two Pointer (3/4 -  16 pt),2FGA,,,Maccabi FOX Tel Aviv,0
+MAD       ,,22,08:15,22,313,"TAVARES, WALTER",P005791   ,Def Rebound (4),D,,,Real Madrid,0
+MAD       ,,7,07:55,23,315,"DONCIC, LUKA",P005929   ,Missed Two Pointer (2/3 -  9 pt),2FGA,,,Real Madrid,0
+MAD       ,,7,07:55,23,316,"DONCIC, LUKA",P005929   ,Shot Rejected (1),AG,,,Real Madrid,0
+TEL       ,,7,07:52,23,317,"KANE, DEANDRE",P005781   ,Block (1),FV,,,Maccabi FOX Tel Aviv,0
+TEL       ,,43,07:52,23,318,"BOLDEN, JONAH",P007988   ,Def Rebound (2),D,,,Maccabi FOX Tel Aviv,0
+TEL       ,,55,07:52,23,319,"JACKSON, PIERRE",P005112   ,Foul Drawn (3),RV,,,Maccabi FOX Tel Aviv,0
+MAD       ,,20,07:52,23,320,"CARROLL, JAYCEE",P001960   ,Foul (1),CM,,,Real Madrid,0
+TEL       ,,7,07:52,23,321,"KANE, DEANDRE",P005781   ,Turnover (1),TO,,,Maccabi FOX Tel Aviv,0
+MAD       ,,20,07:38,23,322,"CARROLL, JAYCEE",P001960   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Real Madrid,0
+MAD       ,,22,07:35,23,323,"TAVARES, WALTER",P005791   ,Off Rebound (2),O,,,Real Madrid,0
+MAD       ,,22,07:31,23,324,"TAVARES, WALTER",P005791   ,Missed Two Pointer (2/3 -  6 pt),2FGA,,,Real Madrid,0
+TEL       ,,45,07:29,23,325,"PARAKHOUSKI, ARTSIOM",P003034   ,Def Rebound (4),D,,,Maccabi FOX Tel Aviv,0
+TEL       ,,45,07:25,23,326,"PARAKHOUSKI, ARTSIOM",P003034   ,Two Pointer (7/9 -  16 pt),2FGM,52.0,54.0,Maccabi FOX Tel Aviv,0
+TEL       ,,7,07:25,23,327,"KANE, DEANDRE",P005781   ,Assist (1),AS,,,Maccabi FOX Tel Aviv,0
+MAD       ,,20,07:10,23,328,"CARROLL, JAYCEE",P001960   ,Foul Drawn (1),RV,,,Real Madrid,0
+TEL       ,,5,07:10,23,329,"ROLL, MICHAEL",P004974   ,Foul (2),CM,,,Maccabi FOX Tel Aviv,0
+MAD       ,,33,07:10,23,330,"THOMPKINS, TREY",P005836   ,Missed Three Pointer (1/5 -  5 pt),3FGA,,,Real Madrid,0
+MAD       ,,22,07:10,23,331,"TAVARES, WALTER",P005791   ,Off Rebound (3),O,,,Real Madrid,0
+MAD       ,,7,07:10,23,332,"DONCIC, LUKA",P005929   ,Missed Three Pointer (1/3 -  9 pt),3FGA,,,Real Madrid,0
+MAD       ,,11,07:10,23,333,"CAMPAZZO, FACUNDO",P005928   ,Off Rebound (3),O,,,Real Madrid,0
+MAD       ,,7,07:10,23,334,"DONCIC, LUKA",P005929   ,Missed Two Pointer (2/4 -  9 pt),2FGA,,,Real Madrid,0
+TEL       ,,43,07:10,23,335,"BOLDEN, JONAH",P007988   ,Def Rebound (3),D,,,Maccabi FOX Tel Aviv,0
+MAD       ,,11,06:40,24,337,"CAMPAZZO, FACUNDO",P005928   ,Foul Drawn (3),RV,,,Real Madrid,0
+TEL       ,,5,06:40,24,338,"ROLL, MICHAEL",P004974   ,Offensive Foul (3),OF,,,Maccabi FOX Tel Aviv,0
+TEL       ,,5,06:40,24,339,"ROLL, MICHAEL",P004974   ,Turnover (2),TO,,,Maccabi FOX Tel Aviv,0
+MAD       ,,1,06:40,24,340,"CAUSEUR, FABIEN",P001392   ,In,IN,,,Real Madrid,0
+MAD       ,,7,06:40,24,341,"DONCIC, LUKA",P005929   ,Out,OUT,,,Real Madrid,0
+TEL       ,,5,06:40,24,342,"ROLL, MICHAEL",P004974   ,Out,OUT,,,Maccabi FOX Tel Aviv,0
+TEL       ,,12,06:40,24,343,"DIBARTOLOMEO, JOHN",P007990   ,In,IN,,,Maccabi FOX Tel Aviv,0
+MAD       ,,1,06:40,24,344,"CAUSEUR, FABIEN",P001392   ,Turnover (1),TO,,,Real Madrid,0
+TEL       ,,45,06:40,24,345,"PARAKHOUSKI, ARTSIOM",P003034   ,Steal (2),ST,,,Maccabi FOX Tel Aviv,0
+TEL       ,,43,06:40,24,346,"BOLDEN, JONAH",P007988   ,Missed Three Pointer (1/4 -  3 pt),3FGA,,,Maccabi FOX Tel Aviv,0
+MAD       ,,20,06:40,24,347,"CARROLL, JAYCEE",P001960   ,Def Rebound (1),D,,,Real Madrid,0
+MAD       ,,33,05:58,25,349,"THOMPKINS, TREY",P005836   ,Three Pointer (2/6 -  8 pt),3FGM,55.0,54.0,Real Madrid,0
+MAD       ,,11,05:50,25,350,"CAMPAZZO, FACUNDO",P005928   ,Assist (2),AS,,,Real Madrid,0
+TEL       ,,55,05:44,25,351,"JACKSON, PIERRE",P005112   ,Foul Drawn (4),RV,,,Maccabi FOX Tel Aviv,0
+MAD       ,,20,05:44,25,352,"CARROLL, JAYCEE",P001960   ,Foul (2),CM,,,Real Madrid,0
+TEL       ,,7,05:44,25,353,"KANE, DEANDRE",P005781   ,Out,OUT,,,Maccabi FOX Tel Aviv,0
+TEL       ,,9,05:44,25,354,"TYUS, ALEX",P004119   ,In,IN,,,Maccabi FOX Tel Aviv,0
+TEL       ,,45,05:44,25,355,"PARAKHOUSKI, ARTSIOM",P003034   ,Out,OUT,,,Maccabi FOX Tel Aviv,0
+TEL       ,,50,05:44,25,356,"ZOOSMAN, YOVEL",P006625   ,In,IN,,,Maccabi FOX Tel Aviv,0
+MAD       ,,11,05:44,25,357,"CAMPAZZO, FACUNDO",P005928   ,Foul Drawn (4),RV,,,Real Madrid,0
+TEL       ,,12,05:44,25,358,"DIBARTOLOMEO, JOHN",P007990   ,Offensive Foul (2),OF,,,Maccabi FOX Tel Aviv,0
+TEL       ,,12,05:44,25,359,"DIBARTOLOMEO, JOHN",P007990   ,Turnover (1),TO,,,Maccabi FOX Tel Aviv,0
+MAD       ,,11,05:37,25,360,"CAMPAZZO, FACUNDO",P005928   ,Three Pointer (1/1 -  7 pt),3FGM,58.0,54.0,Real Madrid,0
+MAD       ,,1,05:37,25,361,"CAUSEUR, FABIEN",P001392   ,Assist (3),AS,,,Real Madrid,0
+TEL       ,,55,05:37,25,362,"JACKSON, PIERRE",P005112   ,Missed Three Pointer (3/6 -  16 pt),3FGA,,,Maccabi FOX Tel Aviv,0
+MAD       ,,22,05:37,25,363,"TAVARES, WALTER",P005791   ,Def Rebound (5),D,,,Real Madrid,0
+MAD       ,,11,05:37,25,364,"CAMPAZZO, FACUNDO",P005928   ,Three Pointer (2/2 -  10 pt),3FGM,61.0,54.0,Real Madrid,0
+TEL       ,,,04:58,26,366,,          ,Time Out (1),TOUT,,,Maccabi FOX Tel Aviv,0
+TEL       ,,55,04:47,26,367,"JACKSON, PIERRE",P005112   ,Turnover (1),TO,,,Maccabi FOX Tel Aviv,0
+MAD       ,,33,04:47,26,368,"THOMPKINS, TREY",P005836   ,Steal (1),ST,,,Real Madrid,0
+MAD       ,,20,04:28,26,369,"CARROLL, JAYCEE",P001960   ,Two Pointer (1/2 -  2 pt),2FGM,63.0,54.0,Real Madrid,0
+TEL       ,,55,04:18,26,370,"JACKSON, PIERRE",P005112   ,Turnover (2),TO,,,Maccabi FOX Tel Aviv,0
+MAD       ,,11,04:17,26,371,"CAMPAZZO, FACUNDO",P005928   ,Steal (1),ST,,,Real Madrid,0
+MAD       ,,11,04:13,26,372,"CAMPAZZO, FACUNDO",P005928   ,Missed Two Pointer (2/4 -  10 pt),2FGA,,,Real Madrid,0
+MAD       ,,33,04:10,26,373,"THOMPKINS, TREY",P005836   ,Off Rebound (1),O,,,Real Madrid,0
+MAD       ,,33,04:10,26,374,"THOMPKINS, TREY",P005836   ,Two Pointer (2/3 -  10 pt),2FGM,65.0,54.0,Real Madrid,0
+TEL       ,,50,03:54,27,376,"ZOOSMAN, YOVEL",P006625   ,Turnover (1),TO,,,Maccabi FOX Tel Aviv,0
+MAD       ,,1,03:52,27,377,"CAUSEUR, FABIEN",P001392   ,Steal (1),ST,,,Real Madrid,0
+MAD       ,,20,03:52,27,378,"CARROLL, JAYCEE",P001960   ,Two Pointer (2/3 -  4 pt),2FGM,67.0,54.0,Real Madrid,0
+MAD       ,,1,03:52,27,379,"CAUSEUR, FABIEN",P001392   ,Assist (4),AS,,,Real Madrid,0
+TEL       ,,,03:52,27,380,,          ,Time Out (2),TOUT,,,Maccabi FOX Tel Aviv,0
+TEL       ,,5,03:52,27,381,"ROLL, MICHAEL",P004974   ,In,IN,,,Maccabi FOX Tel Aviv,0
+TEL       ,,7,03:52,27,382,"KANE, DEANDRE",P005781   ,In,IN,,,Maccabi FOX Tel Aviv,0
+TEL       ,,12,03:52,27,383,"DIBARTOLOMEO, JOHN",P007990   ,Out,OUT,,,Maccabi FOX Tel Aviv,0
+TEL       ,,50,03:52,27,384,"ZOOSMAN, YOVEL",P006625   ,Out,OUT,,,Maccabi FOX Tel Aviv,0
+TEL       ,,5,03:36,27,385,"ROLL, MICHAEL",P004974   ,Missed Two Pointer (1/4 -  2 pt),2FGA,,,Maccabi FOX Tel Aviv,0
+TEL       ,,43,03:34,27,386,"BOLDEN, JONAH",P007988   ,Off Rebound (2),O,,,Maccabi FOX Tel Aviv,0
+TEL       ,,9,03:31,27,387,"TYUS, ALEX",P004119   ,Foul Drawn (2),RV,,,Maccabi FOX Tel Aviv,0
+MAD       ,,11,03:31,27,388,"CAMPAZZO, FACUNDO",P005928   ,Foul (2),CM,,,Real Madrid,0
+TEL       ,,9,03:31,27,389,"TYUS, ALEX",P004119   ,Two Pointer (1/3 -  4 pt),2FGM,67.0,56.0,Maccabi FOX Tel Aviv,0
+TEL       ,,43,03:31,27,390,"BOLDEN, JONAH",P007988   ,Assist (4),AS,,,Maccabi FOX Tel Aviv,0
+MAD       ,,11,02:59,28,392,"CAMPAZZO, FACUNDO",P005928   ,Missed Two Pointer (2/5 -  10 pt),2FGA,,,Real Madrid,0
+TEL       ,,43,02:57,28,393,"BOLDEN, JONAH",P007988   ,Def Rebound (4),D,,,Maccabi FOX Tel Aviv,0
+TEL       ,,55,02:54,28,394,"JACKSON, PIERRE",P005112   ,Foul Drawn (5),RV,,,Maccabi FOX Tel Aviv,0
+MAD       ,,33,02:54,28,395,"THOMPKINS, TREY",P005836   ,Foul (3),CM,,,Real Madrid,0
+TEL       ,,55,02:54,28,396,"JACKSON, PIERRE",P005112   ,Missed Free Throw (1/2 -  16 pt),FTA,,,Maccabi FOX Tel Aviv,0
+TEL       ,,55,02:54,28,397,"JACKSON, PIERRE",P005112   ,Missed Free Throw (1/3 -  16 pt),FTA,,,Maccabi FOX Tel Aviv,0
+MAD       ,,22,02:54,28,398,"TAVARES, WALTER",P005791   ,Def Rebound (6),D,,,Real Madrid,0
+MAD       ,,1,02:45,28,399,"CAUSEUR, FABIEN",P001392   ,Missed Two Pointer (2/3 -  7 pt),2FGA,,,Real Madrid,0
+TEL       ,,43,02:28,28,400,"BOLDEN, JONAH",P007988   ,Def Rebound (5),D,,,Maccabi FOX Tel Aviv,0
+MAD       ,,9,02:28,28,401,"REYES, FELIPE",PAAX      ,In,IN,,,Real Madrid,0
+MAD       ,,33,02:28,28,402,"THOMPKINS, TREY",P005836   ,Out,OUT,,,Real Madrid,0
+TEL       ,,15,02:28,28,403,"COHEN, JAKE",P005145   ,In,IN,,,Maccabi FOX Tel Aviv,0
+TEL       ,,43,02:28,28,404,"BOLDEN, JONAH",P007988   ,Out,OUT,,,Maccabi FOX Tel Aviv,0
+TEL       ,,9,02:22,28,405,"TYUS, ALEX",P004119   ,Two Pointer (2/4 -  6 pt),2FGM,67.0,58.0,Maccabi FOX Tel Aviv,0
+TEL       ,,55,02:22,28,406,"JACKSON, PIERRE",P005112   ,Assist (4),AS,,,Maccabi FOX Tel Aviv,0
+TEL       ,,9,02:22,28,407,"TYUS, ALEX",P004119   ,Foul Drawn (3),RV,,,Maccabi FOX Tel Aviv,0
+MAD       ,,1,02:22,28,408,"CAUSEUR, FABIEN",P001392   ,Foul (1),CM,,,Real Madrid,0
+TEL       ,,9,02:22,28,409,"TYUS, ALEX",P004119   ,Missed Free Throw (2/3 -  6 pt),FTA,,,Maccabi FOX Tel Aviv,0
+MAD       ,,22,02:22,28,410,"TAVARES, WALTER",P005791   ,Def Rebound (7),D,,,Real Madrid,0
+MAD       ,,20,02:06,28,411,"CARROLL, JAYCEE",P001960   ,Missed Three Pointer (0/1 -  4 pt),3FGA,,,Real Madrid,0
+TEL       ,,5,02:04,28,412,"ROLL, MICHAEL",P004974   ,Def Rebound (2),D,,,Maccabi FOX Tel Aviv,0
+TEL       ,,5,01:51,29,414,"ROLL, MICHAEL",P004974   ,Two Pointer (2/5 -  4 pt),2FGM,67.0,60.0,Maccabi FOX Tel Aviv,0
+MAD       ,,,01:51,29,415,,          ,Time Out (1),TOUT,,,Real Madrid,0
+MAD       ,,5,01:51,29,416,"FERNANDEZ, RUDY",PBMT      ,In,IN,,,Real Madrid,0
+MAD       ,,20,01:51,29,417,"CARROLL, JAYCEE",P001960   ,Out,OUT,,,Real Madrid,0
+MAD       ,,11,01:45,29,418,"CAMPAZZO, FACUNDO",P005928   ,Foul Drawn (5),RV,,,Real Madrid,0
+TEL       ,,9,01:45,29,419,"TYUS, ALEX",P004119   ,Foul (1),CM,,,Maccabi FOX Tel Aviv,0
+MAD       ,,9,01:24,29,420,"REYES, FELIPE",PAAX      ,Foul Drawn (1),RV,,,Real Madrid,0
+TEL       ,,15,01:24,29,421,"COHEN, JAKE",P005145   ,Foul (2),CM,,,Maccabi FOX Tel Aviv,0
+MAD       ,,9,01:24,29,422,"REYES, FELIPE",PAAX      ,Free Throw In (1/1 -  7 pt),FTM,68.0,60.0,Real Madrid,0
+MAD       ,,9,01:24,29,423,"REYES, FELIPE",PAAX      ,Free Throw In (2/2 -  8 pt),FTM,69.0,60.0,Real Madrid,0
+TEL       ,,55,01:13,29,424,"JACKSON, PIERRE",P005112   ,Turnover (3),TO,,,Maccabi FOX Tel Aviv,0
+MAD       ,,22,00:52,30,426,"TAVARES, WALTER",P005791   ,Missed Two Pointer (2/4 -  6 pt),2FGA,,,Real Madrid,0
+TEL       ,,7,00:50,30,427,"KANE, DEANDRE",P005781   ,Def Rebound (2),D,,,Maccabi FOX Tel Aviv,0
+TEL       ,,5,00:32,30,428,"ROLL, MICHAEL",P004974   ,Missed Two Pointer (2/6 -  4 pt),2FGA,,,Maccabi FOX Tel Aviv,0
+TEL       ,,9,00:30,30,429,"TYUS, ALEX",P004119   ,Off Rebound (1),O,,,Maccabi FOX Tel Aviv,0
+TEL       ,,9,00:28,30,430,"TYUS, ALEX",P004119   ,Missed Two Pointer (2/5 -  6 pt),2FGA,,,Maccabi FOX Tel Aviv,0
+TEL       ,,9,00:28,30,431,"TYUS, ALEX",P004119   ,Shot Rejected (2),AG,,,Maccabi FOX Tel Aviv,0
+MAD       ,,22,00:27,30,432,"TAVARES, WALTER",P005791   ,Block (2),FV,,,Real Madrid,0
+MAD       ,,1,00:27,30,433,"CAUSEUR, FABIEN",P001392   ,Def Rebound (1),D,,,Real Madrid,0
+MAD       ,,1,00:27,30,434,"CAUSEUR, FABIEN",P001392   ,Turnover (2),TO,,,Real Madrid,0
+TEL       ,,7,00:27,30,435,"KANE, DEANDRE",P005781   ,Steal (2),ST,,,Maccabi FOX Tel Aviv,0
+TEL       ,,9,00:27,30,436,"TYUS, ALEX",P004119   ,Missed Two Pointer (2/6 -  6 pt),2FGA,,,Maccabi FOX Tel Aviv,0
+TEL       ,,9,00:27,30,437,"TYUS, ALEX",P004119   ,Shot Rejected (3),AG,,,Maccabi FOX Tel Aviv,0
+MAD       ,,22,00:27,30,438,"TAVARES, WALTER",P005791   ,Block (3),FV,,,Real Madrid,0
+MAD       ,,,00:27,30,439,,          ,Def Rebound (4),D,,,Real Madrid,0
+MAD       ,,8,00:27,30,440,"MACIULIS, JONAS",PJCC      ,In,IN,,,Real Madrid,0
+MAD       ,,22,00:27,30,441,"TAVARES, WALTER",P005791   ,Out,OUT,,,Real Madrid,0
+MAD       ,,1,00:04,30,442,"CAUSEUR, FABIEN",P001392   ,Missed Three Pointer (1/4 -  7 pt),3FGA,,,Real Madrid,0
+MAD       ,,9,00:00,30,443,"REYES, FELIPE",PAAX      ,Off Rebound (1),O,,,Real Madrid,0
+MAD       ,,9,00:00,30,444,"REYES, FELIPE",PAAX      ,Missed Two Pointer (3/5 -  8 pt),2FGA,,,Real Madrid,0
+TEL       ,,9,00:00,30,445,"TYUS, ALEX",P004119   ,Def Rebound (1),D,,,Maccabi FOX Tel Aviv,0
+TEL       ,,5,00:00,30,446,"ROLL, MICHAEL",P004974   ,Missed Three Pointer (0/2 -  4 pt),3FGA,,,Maccabi FOX Tel Aviv,0
+          ,,,,31,448,,          ,End Period,EP,,,,0
+          ,,,,31,451,,          ,Begin Period,BP,,,,0
+TEL       ,,9,10:00,31,449,"TYUS, ALEX",P004119   ,Out,OUT,,,Maccabi FOX Tel Aviv,0
+TEL       ,,45,10:00,31,450,"PARAKHOUSKI, ARTSIOM",P003034   ,In,IN,,,Maccabi FOX Tel Aviv,0
+TEL       ,,55,09:37,31,453,"JACKSON, PIERRE",P005112   ,Two Pointer (4/5 -  18 pt),2FGM,69.0,62.0,Maccabi FOX Tel Aviv,0
+TEL       ,,7,09:28,31,454,"KANE, DEANDRE",P005781   ,Foul Drawn (3),RV,,,Maccabi FOX Tel Aviv,0
+MAD       ,,9,09:28,31,455,"REYES, FELIPE",PAAX      ,Offensive Foul (3),OF,,,Real Madrid,0
+MAD       ,,9,09:28,31,456,"REYES, FELIPE",PAAX      ,Turnover (3),TO,,,Real Madrid,0
+TEL       ,,45,09:28,31,457,"PARAKHOUSKI, ARTSIOM",P003034   ,Missed Two Pointer (7/10 -  16 pt),2FGA,,,Maccabi FOX Tel Aviv,0
+MAD       ,,8,09:28,31,458,"MACIULIS, JONAS",PJCC      ,Def Rebound (1),D,,,Real Madrid,0
+MAD       ,,9,08:57,32,460,"REYES, FELIPE",PAAX      ,Foul Drawn (2),RV,,,Real Madrid,0
+TEL       ,,5,08:57,32,461,"ROLL, MICHAEL",P004974   ,Foul (4),CM,,,Maccabi FOX Tel Aviv,0
+MAD       ,,9,08:48,32,462,"REYES, FELIPE",PAAX      ,Two Pointer (4/6 -  10 pt),2FGM,71.0,62.0,Real Madrid,0
+MAD       ,,11,08:46,32,463,"CAMPAZZO, FACUNDO",P005928   ,Assist (3),AS,,,Real Madrid,0
+TEL       ,,55,08:30,32,464,"JACKSON, PIERRE",P005112   ,Missed Three Pointer (3/7 -  18 pt),3FGA,,,Maccabi FOX Tel Aviv,0
+TEL       ,,,08:30,32,465,,          ,Off Rebound (1),O,,,Maccabi FOX Tel Aviv,0
+TEL       ,,5,08:30,32,466,"ROLL, MICHAEL",P004974   ,Out,OUT,,,Maccabi FOX Tel Aviv,0
+TEL       ,,50,08:30,32,467,"ZOOSMAN, YOVEL",P006625   ,In,IN,,,Maccabi FOX Tel Aviv,0
+TEL       ,,55,08:22,32,468,"JACKSON, PIERRE",P005112   ,Foul Drawn (6),RV,,,Maccabi FOX Tel Aviv,0
+MAD       ,,11,08:22,32,469,"CAMPAZZO, FACUNDO",P005928   ,Foul (3),CM,,,Real Madrid,0
+TEL       ,,55,08:22,32,470,"JACKSON, PIERRE",P005112   ,Turnover (4),TO,,,Maccabi FOX Tel Aviv,0
+MAD       ,,8,08:22,32,471,"MACIULIS, JONAS",PJCC      ,Steal (1),ST,,,Real Madrid,0
+MAD       ,,9,08:22,32,472,"REYES, FELIPE",PAAX      ,Foul Drawn (3),RV,,,Real Madrid,0
+TEL       ,,50,08:22,32,473,"ZOOSMAN, YOVEL",P006625   ,Foul (1),CM,,,Maccabi FOX Tel Aviv,0
+MAD       ,,9,08:22,32,474,"REYES, FELIPE",PAAX      ,Free Throw In (3/3 -  11 pt),FTM,72.0,62.0,Real Madrid,0
+MAD       ,,11,08:22,32,475,"CAMPAZZO, FACUNDO",P005928   ,Assist (4),AS,,,Real Madrid,0
+MAD       ,,9,08:22,32,476,"REYES, FELIPE",PAAX      ,Free Throw In (4/4 -  12 pt),FTM,73.0,62.0,Real Madrid,0
+TEL       ,,5,08:22,32,477,"ROLL, MICHAEL",P004974   ,In,IN,,,Maccabi FOX Tel Aviv,0
+TEL       ,,55,08:22,32,478,"JACKSON, PIERRE",P005112   ,Out,OUT,,,Maccabi FOX Tel Aviv,0
+TEL       ,,7,07:51,33,480,"KANE, DEANDRE",P005781   ,Missed Two Pointer (2/5 -  7 pt),2FGA,,,Maccabi FOX Tel Aviv,0
+TEL       ,,7,07:51,33,481,"KANE, DEANDRE",P005781   ,Shot Rejected (2),AG,,,Maccabi FOX Tel Aviv,0
+MAD       ,,8,07:49,33,482,"MACIULIS, JONAS",PJCC      ,Block (1),FV,,,Real Madrid,0
+MAD       ,,9,07:45,33,483,"REYES, FELIPE",PAAX      ,Def Rebound (3),D,,,Real Madrid,0
+MAD       ,,11,07:44,33,484,"CAMPAZZO, FACUNDO",P005928   ,Three Pointer (3/3 -  13 pt),3FGM,76.0,62.0,Real Madrid,0
+TEL       ,,5,07:22,33,485,"ROLL, MICHAEL",P004974   ,Missed Two Pointer (2/7 -  4 pt),2FGA,,,Maccabi FOX Tel Aviv,0
+MAD       ,,8,07:18,33,486,"MACIULIS, JONAS",PJCC      ,Def Rebound (2),D,,,Real Madrid,0
+MAD       ,,5,07:03,33,487,"FERNANDEZ, RUDY",PBMT      ,Three Pointer (1/3 -  3 pt),3FGM,79.0,62.0,Real Madrid,0
+MAD       ,,1,07:00,33,488,"CAUSEUR, FABIEN",P001392   ,Assist (5),AS,,,Real Madrid,0
+TEL       ,,7,06:54,34,490,"KANE, DEANDRE",P005781   ,Foul Drawn (4),RV,,,Maccabi FOX Tel Aviv,0
+MAD       ,,1,06:54,34,491,"CAUSEUR, FABIEN",P001392   ,Foul (2),CM,,,Real Madrid,0
+MAD       ,,7,06:54,34,492,"DONCIC, LUKA",P005929   ,In,IN,,,Real Madrid,0
+MAD       ,,11,06:54,34,493,"CAMPAZZO, FACUNDO",P005928   ,Out,OUT,,,Real Madrid,0
+TEL       ,,5,06:42,34,494,"ROLL, MICHAEL",P004974   ,Turnover (3),TO,,,Maccabi FOX Tel Aviv,0
+MAD       ,,8,06:41,34,495,"MACIULIS, JONAS",PJCC      ,Steal (2),ST,,,Real Madrid,0
+MAD       ,,5,06:29,34,496,"FERNANDEZ, RUDY",PBMT      ,Three Pointer (2/4 -  6 pt),3FGM,82.0,62.0,Real Madrid,0
+MAD       ,,1,06:26,34,497,"CAUSEUR, FABIEN",P001392   ,Assist (6),AS,,,Real Madrid,0
+TEL       ,,50,06:03,34,498,"ZOOSMAN, YOVEL",P006625   ,Three Pointer (3/3 -  9 pt),3FGM,82.0,65.0,Maccabi FOX Tel Aviv,0
+TEL       ,,7,06:02,34,499,"KANE, DEANDRE",P005781   ,Assist (2),AS,,,Maccabi FOX Tel Aviv,0
+MAD       ,,9,05:43,35,501,"REYES, FELIPE",PAAX      ,Two Pointer (5/7 -  14 pt),2FGM,84.0,65.0,Real Madrid,0
+MAD       ,,5,05:41,35,502,"FERNANDEZ, RUDY",PBMT      ,Assist (2),AS,,,Real Madrid,0
+TEL       ,,45,05:38,35,503,"PARAKHOUSKI, ARTSIOM",P003034   ,Turnover (2),TO,,,Maccabi FOX Tel Aviv,0
+MAD       ,,1,05:38,35,504,"CAUSEUR, FABIEN",P001392   ,Out,OUT,,,Real Madrid,0
+MAD       ,,44,05:38,35,505,"TAYLOR, JEFFERY",P006546   ,In,IN,,,Real Madrid,0
+TEL       ,,5,05:38,35,506,"ROLL, MICHAEL",P004974   ,Out,OUT,,,Maccabi FOX Tel Aviv,0
+TEL       ,,43,05:38,35,507,"BOLDEN, JONAH",P007988   ,In,IN,,,Maccabi FOX Tel Aviv,0
+TEL       ,,45,05:38,35,508,"PARAKHOUSKI, ARTSIOM",P003034   ,Out,OUT,,,Maccabi FOX Tel Aviv,0
+TEL       ,,55,05:38,35,509,"JACKSON, PIERRE",P005112   ,In,IN,,,Maccabi FOX Tel Aviv,0
+TEL       ,,15,05:06,35,514,"COHEN, JAKE",P005145   ,Out,OUT,,,Maccabi FOX Tel Aviv,0
+TEL       ,,9,05:06,35,513,"TYUS, ALEX",P004119   ,In,IN,,,Maccabi FOX Tel Aviv,0
+MAD       ,,8,05:06,35,510,"MACIULIS, JONAS",PJCC      ,Missed Three Pointer (1/3 -  5 pt),3FGA,,,Real Madrid,0
+MAD       ,,8,05:06,35,511,"MACIULIS, JONAS",PJCC      ,Off Rebound (2),O,,,Real Madrid,0
+MAD       ,,8,05:06,35,512,"MACIULIS, JONAS",PJCC      ,Foul Drawn (1),RV,,,Real Madrid,0
+TEL       ,,9,05:06,35,515,"TYUS, ALEX",P004119   ,Foul (2),CM,,,Maccabi FOX Tel Aviv,0
+MAD       ,,44,05:06,35,516,"TAYLOR, JEFFERY",P006546   ,Missed Three Pointer (0/1 -  3 pt),3FGA,,,Real Madrid,0
+TEL       ,,55,05:06,35,517,"JACKSON, PIERRE",P005112   ,Def Rebound (2),D,,,Maccabi FOX Tel Aviv,0
+TEL       ,,7,05:06,35,518,"KANE, DEANDRE",P005781   ,Two Pointer (3/6 -  9 pt),2FGM,84.0,67.0,Maccabi FOX Tel Aviv,0
+TEL       ,,55,05:06,35,519,"JACKSON, PIERRE",P005112   ,Assist (5),AS,,,Maccabi FOX Tel Aviv,0
+MAD       ,,5,05:06,35,520,"FERNANDEZ, RUDY",PBMT      ,Missed Three Pointer (2/5 -  6 pt),3FGA,,,Real Madrid,0
+TEL       ,,55,05:06,35,521,"JACKSON, PIERRE",P005112   ,Def Rebound (3),D,,,Maccabi FOX Tel Aviv,0
+TEL       ,,7,05:06,35,522,"KANE, DEANDRE",P005781   ,Missed Two Pointer (3/7 -  9 pt),2FGA,,,Maccabi FOX Tel Aviv,0
+MAD       ,,5,05:06,35,523,"FERNANDEZ, RUDY",PBMT      ,Def Rebound (2),D,,,Real Madrid,0
+MAD       ,,7,05:06,35,587,"DONCIC, LUKA",P005929   ,Turnover (3),TO,,,Real Madrid,0
+TEL       ,,9,05:06,35,588,"TYUS, ALEX",P004119   ,Steal (1),ST,,,Maccabi FOX Tel Aviv,0
+TEL       ,,55,04:14,36,527,"JACKSON, PIERRE",P005112   ,Foul Drawn (7),RV,,,Maccabi FOX Tel Aviv,0
+MAD       ,,9,04:14,36,528,"REYES, FELIPE",PAAX      ,Foul (4),CM,,,Real Madrid,0
+MAD       ,,5,04:14,36,529,"FERNANDEZ, RUDY",PBMT      ,Out,OUT,,,Real Madrid,0
+MAD       ,,20,04:14,36,530,"CARROLL, JAYCEE",P001960   ,In,IN,,,Real Madrid,0
+TEL       ,,55,04:14,36,531,"JACKSON, PIERRE",P005112   ,Free Throw In (2/4 -  19 pt),FTM,84.0,68.0,Maccabi FOX Tel Aviv,0
+TEL       ,,55,04:14,36,532,"JACKSON, PIERRE",P005112   ,Free Throw In (3/5 -  20 pt),FTM,84.0,69.0,Maccabi FOX Tel Aviv,0
+MAD       ,,7,03:59,37,534,"DONCIC, LUKA",P005929   ,Missed Three Pointer (1/4 -  9 pt),3FGA,,,Real Madrid,0
+MAD       ,,9,03:59,37,535,"REYES, FELIPE",PAAX      ,Off Rebound (2),O,,,Real Madrid,0
+MAD       ,,7,03:59,37,536,"DONCIC, LUKA",P005929   ,Missed Two Pointer (2/5 -  9 pt),2FGA,,,Real Madrid,0
+TEL       ,,55,03:59,37,537,"JACKSON, PIERRE",P005112   ,Def Rebound (4),D,,,Maccabi FOX Tel Aviv,0
+TEL       ,,55,03:26,37,538,"JACKSON, PIERRE",P005112   ,Two Pointer (5/6 -  22 pt),2FGM,84.0,71.0,Maccabi FOX Tel Aviv,0
+MAD       ,,9,03:14,37,539,"REYES, FELIPE",PAAX      ,Foul Drawn (4),RV,,,Real Madrid,0
+TEL       ,,7,03:14,37,540,"KANE, DEANDRE",P005781   ,Foul (2),CM,,,Maccabi FOX Tel Aviv,0
+MAD       ,,8,03:14,37,541,"MACIULIS, JONAS",PJCC      ,Three Pointer (2/4 -  8 pt),3FGM,87.0,71.0,Real Madrid,0
+MAD       ,,9,03:14,37,542,"REYES, FELIPE",PAAX      ,Assist (1),AS,,,Real Madrid,0
+TEL       ,,9,02:54,38,544,"TYUS, ALEX",P004119   ,Two Pointer (3/7 -  8 pt),2FGM,87.0,73.0,Maccabi FOX Tel Aviv,0
+TEL       ,,50,02:54,38,545,"ZOOSMAN, YOVEL",P006625   ,Assist (2),AS,,,Maccabi FOX Tel Aviv,0
+TEL       ,,9,02:54,38,546,"TYUS, ALEX",P004119   ,Foul Drawn (4),RV,,,Maccabi FOX Tel Aviv,0
+MAD       ,,9,02:54,38,547,"REYES, FELIPE",PAAX      ,Foul (5),CM,,,Real Madrid,0
+MAD       ,,9,02:54,38,548,"REYES, FELIPE",PAAX      ,Out,OUT,,,Real Madrid,0
+MAD       ,,22,02:54,38,549,"TAVARES, WALTER",P005791   ,In,IN,,,Real Madrid,0
+TEL       ,,9,02:54,38,550,"TYUS, ALEX",P004119   ,Free Throw In (3/4 -  9 pt),FTM,87.0,74.0,Maccabi FOX Tel Aviv,0
+MAD       ,,44,02:30,38,551,"TAYLOR, JEFFERY",P006546   ,Foul Drawn (3),RV,,,Real Madrid,0
+TEL       ,,55,02:30,38,552,"JACKSON, PIERRE",P005112   ,Foul (3),CM,,,Maccabi FOX Tel Aviv,0
+MAD       ,,44,02:30,38,553,"TAYLOR, JEFFERY",P006546   ,Missed Free Throw (3/5 -  3 pt),FTA,,,Real Madrid,0
+MAD       ,,44,02:30,38,554,"TAYLOR, JEFFERY",P006546   ,Missed Free Throw (3/6 -  3 pt),FTA,,,Real Madrid,0
+TEL       ,,9,02:30,38,555,"TYUS, ALEX",P004119   ,Def Rebound (2),D,,,Maccabi FOX Tel Aviv,0
+TEL       ,,55,02:12,38,556,"JACKSON, PIERRE",P005112   ,Missed Two Pointer (5/7 -  22 pt),2FGA,,,Maccabi FOX Tel Aviv,0
+MAD       ,,22,02:08,38,557,"TAVARES, WALTER",P005791   ,Def Rebound (8),D,,,Real Madrid,0
+MAD       ,,22,01:55,39,559,"TAVARES, WALTER",P005791   ,Two Pointer (3/5 -  8 pt),2FGM,89.0,74.0,Real Madrid,0
+MAD       ,,7,01:55,39,560,"DONCIC, LUKA",P005929   ,Assist (3),AS,,,Real Madrid,0
+TEL       ,,7,01:55,39,561,"KANE, DEANDRE",P005781   ,Missed Two Pointer (3/8 -  9 pt),2FGA,,,Maccabi FOX Tel Aviv,0
+MAD       ,,22,01:55,39,562,"TAVARES, WALTER",P005791   ,Def Rebound (9),D,,,Real Madrid,0
+MAD       ,,22,01:28,39,563,"TAVARES, WALTER",P005791   ,Two Pointer (4/6 -  10 pt),2FGM,91.0,74.0,Real Madrid,0
+MAD       ,,7,01:28,39,564,"DONCIC, LUKA",P005929   ,Assist (4),AS,,,Real Madrid,0
+TEL       ,,55,01:24,39,565,"JACKSON, PIERRE",P005112   ,Three Pointer (4/8 -  25 pt),3FGM,91.0,77.0,Maccabi FOX Tel Aviv,0
+MAD       ,,8,01:12,39,566,"MACIULIS, JONAS",PJCC      ,Out,OUT,,,Real Madrid,0
+MAD       ,,11,01:12,39,567,"CAMPAZZO, FACUNDO",P005928   ,In,IN,,,Real Madrid,0
+TEL       ,,9,01:12,39,568,"TYUS, ALEX",P004119   ,Out,OUT,,,Maccabi FOX Tel Aviv,0
+TEL       ,,45,01:12,39,569,"PARAKHOUSKI, ARTSIOM",P003034   ,In,IN,,,Maccabi FOX Tel Aviv,0
+MAD       ,,7,00:53,40,571,"DONCIC, LUKA",P005929   ,Missed Three Pointer (1/5 -  9 pt),3FGA,,,Real Madrid,0
+TEL       ,,55,00:51,40,572,"JACKSON, PIERRE",P005112   ,Def Rebound (5),D,,,Maccabi FOX Tel Aviv,0
+TEL       ,,55,00:41,40,573,"JACKSON, PIERRE",P005112   ,Foul Drawn (8),RV,,,Maccabi FOX Tel Aviv,0
+MAD       ,,22,00:41,40,574,"TAVARES, WALTER",P005791   ,Foul (3),CM,,,Real Madrid,0
+TEL       ,,55,00:41,40,575,"JACKSON, PIERRE",P005112   ,Free Throw In (4/6 -  26 pt),FTM,91.0,78.0,Maccabi FOX Tel Aviv,0
+TEL       ,,55,00:41,40,576,"JACKSON, PIERRE",P005112   ,Free Throw In (5/7 -  27 pt),FTM,91.0,79.0,Maccabi FOX Tel Aviv,0
+MAD       ,,44,00:24,40,577,"TAYLOR, JEFFERY",P006546   ,Turnover (1),TO,,,Real Madrid,0
+TEL       ,,7,00:03,40,578,"KANE, DEANDRE",P005781   ,Turnover (2),TO,,,Maccabi FOX Tel Aviv,0
+MAD       ,,7,00:03,40,579,"DONCIC, LUKA",P005929   ,Steal (2),ST,,,Real Madrid,0
+MAD       ,,7,00:03,40,580,"DONCIC, LUKA",P005929   ,Foul Drawn (4),RV,,,Real Madrid,0
+TEL       ,,55,00:03,40,581,"JACKSON, PIERRE",P005112   ,Foul (4),CM,,,Maccabi FOX Tel Aviv,0
+MAD       ,,7,00:03,40,582,"DONCIC, LUKA",P005929   ,Free Throw In (3/5 -  10 pt),FTM,92.0,79.0,Real Madrid,0
+MAD       ,,7,00:03,40,583,"DONCIC, LUKA",P005929   ,Free Throw In (4/6 -  11 pt),FTM,93.0,79.0,Real Madrid,0
+TEL       ,,55,00:03,40,584,"JACKSON, PIERRE",P005112   ,Two Pointer (6/8 -  29 pt),2FGM,93.0,81.0,Maccabi FOX Tel Aviv,0
+          ,,,,41,589,,          ,End Game,EG,,,,0

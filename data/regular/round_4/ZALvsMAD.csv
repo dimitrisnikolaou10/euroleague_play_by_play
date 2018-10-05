@@ -1,0 +1,524 @@
+CODETEAM,COMMENT,DORSAL,MARKERTIME,MINUTE,NUMBEROFPLAY,PLAYER,PLAYER_ID,PLAYINFO,PLAYTYPE,POINTS_A,POINTS_B,TEAM,TYPE
+          ,,,,1,2,,          ,Begin Period,BP,,,,0
+MAD       ,,14,09:36,1,3,"AYON, GUSTAVO",P005927   ,Two Pointer (1/1 -  2 pt),2FGM,,2.0,Real Madrid,0
+ZAL       ,,22,09:15,1,4,"MICIC, VASILIJE",P002580   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Zalgiris Kaunas,0
+ZAL       ,,,09:13,1,5,,          ,Off Rebound (1),O,,,Zalgiris Kaunas,0
+ZAL       ,,13,09:00,1,6,"JANKUNAS, PAULIUS",PBWI      ,Turnover (1),TO,,,Zalgiris Kaunas,0
+MAD       ,,14,08:59,2,8,"AYON, GUSTAVO",P005927   ,Steal (1),ST,,,Real Madrid,0
+MAD       ,,7,08:57,2,9,"DONCIC, LUKA",P005929   ,Turnover (1),TO,,,Real Madrid,0
+ZAL       ,,22,08:55,2,10,"MICIC, VASILIJE",P002580   ,Steal (1),ST,,,Zalgiris Kaunas,0
+ZAL       ,,22,08:49,2,11,"MICIC, VASILIJE",P002580   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Zalgiris Kaunas,0
+MAD       ,,7,08:47,2,12,"DONCIC, LUKA",P005929   ,Def Rebound (1),D,,,Real Madrid,0
+MAD       ,,14,08:36,2,13,"AYON, GUSTAVO",P005927   ,Two Pointer (2/2 -  4 pt),2FGM,,4.0,Real Madrid,0
+MAD       ,,7,08:34,2,14,"DONCIC, LUKA",P005929   ,Assist (1),AS,,,Real Madrid,0
+ZAL       ,,3,08:17,2,15,"PANGOS, KEVIN",P006433   ,Two Pointer (1/1 -  2 pt),2FGM,2.0,4.0,Zalgiris Kaunas,0
+MAD       ,,14,07:58,3,17,"AYON, GUSTAVO",P005927   ,Two Pointer (3/3 -  6 pt),2FGM,2.0,6.0,Real Madrid,0
+MAD       ,,11,07:56,3,18,"CAMPAZZO, FACUNDO",P005928   ,Assist (1),AS,,,Real Madrid,0
+ZAL       ,,0,07:39,3,19,"DAVIES, BRANDON",P007870   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Zalgiris Kaunas,0
+ZAL       ,,0,07:39,3,20,"DAVIES, BRANDON",P007870   ,Shot Rejected (1),AG,,,Zalgiris Kaunas,0
+MAD       ,,14,07:37,3,21,"AYON, GUSTAVO",P005927   ,Block (1),FV,,,Real Madrid,0
+MAD       ,,1,07:35,3,22,"CAUSEUR, FABIEN",P001392   ,Def Rebound (1),D,,,Real Madrid,0
+MAD       ,,9,07:23,3,23,"REYES, FELIPE",PAAX      ,Two Pointer (1/1 -  2 pt),2FGM,2.0,8.0,Real Madrid,0
+MAD       ,,14,07:23,3,24,"AYON, GUSTAVO",P005927   ,Assist (1),AS,,,Real Madrid,0
+ZAL       ,,0,07:23,3,25,"DAVIES, BRANDON",P007870   ,Out,OUT,,,Zalgiris Kaunas,0
+ZAL       ,,44,07:23,3,26,"KAVALIAUSKAS, ANTANAS",P000399   ,In,IN,,,Zalgiris Kaunas,0
+ZAL       ,,3,07:03,3,27,"PANGOS, KEVIN",P006433   ,Turnover (1),TO,,,Zalgiris Kaunas,0
+MAD       ,,14,07:01,3,28,"AYON, GUSTAVO",P005927   ,Steal (2),ST,,,Real Madrid,0
+MAD       ,,7,06:56,4,30,"DONCIC, LUKA",P005929   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Real Madrid,0
+ZAL       ,,44,06:54,4,31,"KAVALIAUSKAS, ANTANAS",P000399   ,Def Rebound (1),D,,,Zalgiris Kaunas,0
+MAD       ,,1,06:44,4,32,"CAUSEUR, FABIEN",P001392   ,Foul (1),CM,,,Real Madrid,0
+ZAL       ,,21,06:44,4,33,"MILAKNIS, ARTURAS",PKPD      ,Foul Drawn (1),RV,,,Zalgiris Kaunas,0
+ZAL       ,,21,06:34,4,34,"MILAKNIS, ARTURAS",PKPD      ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Zalgiris Kaunas,0
+MAD       ,,7,06:32,4,35,"DONCIC, LUKA",P005929   ,Def Rebound (2),D,,,Real Madrid,0
+MAD       ,,9,06:16,4,36,"REYES, FELIPE",PAAX      ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,Real Madrid,0
+ZAL       ,,21,06:13,4,37,"MILAKNIS, ARTURAS",PKPD      ,Def Rebound (1),D,,,Zalgiris Kaunas,0
+ZAL       ,,3,05:55,5,39,"PANGOS, KEVIN",P006433   ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,Zalgiris Kaunas,0
+MAD       ,,9,05:53,5,40,"REYES, FELIPE",PAAX      ,Def Rebound (1),D,,,Real Madrid,0
+MAD       ,,1,05:35,5,41,"CAUSEUR, FABIEN",P001392   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Real Madrid,0
+MAD       ,,9,05:33,5,42,"REYES, FELIPE",PAAX      ,Off Rebound (1),O,,,Real Madrid,0
+MAD       ,,9,05:30,5,43,"REYES, FELIPE",PAAX      ,Missed Two Pointer (1/3 -  2 pt),2FGA,,,Real Madrid,0
+ZAL       ,,44,05:28,5,44,"KAVALIAUSKAS, ANTANAS",P000399   ,Def Rebound (2),D,,,Zalgiris Kaunas,0
+ZAL       ,,21,05:12,5,45,"MILAKNIS, ARTURAS",PKPD      ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Zalgiris Kaunas,0
+MAD       ,,1,05:10,5,46,"CAUSEUR, FABIEN",P001392   ,Def Rebound (2),D,,,Real Madrid,0
+MAD       ,,7,05:08,5,47,"DONCIC, LUKA",P005929   ,Two Pointer (1/1 -  2 pt),2FGM,2.0,10.0,Real Madrid,0
+MAD       ,,1,05:08,5,48,"CAUSEUR, FABIEN",P001392   ,Assist (1),AS,,,Real Madrid,0
+ZAL       ,,,05:08,5,49,,          ,Time Out (1),TOUT,,,Zalgiris Kaunas,0
+          ,,,05:08,5,50,,          ,TV Time Out (1),TOUT_TV,,,,0
+ZAL       ,,13,04:48,6,52,"JANKUNAS, PAULIUS",PBWI      ,Three Pointer (1/1 -  3 pt),3FGM,5.0,10.0,Zalgiris Kaunas,0
+ZAL       ,,22,04:46,6,53,"MICIC, VASILIJE",P002580   ,Assist (1),AS,,,Zalgiris Kaunas,0
+MAD       ,,14,04:31,6,54,"AYON, GUSTAVO",P005927   ,Missed Two Pointer (3/4 -  6 pt),2FGA,,,Real Madrid,0
+ZAL       ,,13,04:28,6,55,"JANKUNAS, PAULIUS",PBWI      ,Def Rebound (1),D,,,Zalgiris Kaunas,0
+ZAL       ,,44,04:23,6,56,"KAVALIAUSKAS, ANTANAS",P000399   ,Two Pointer (1/1 -  2 pt),2FGM,7.0,10.0,Zalgiris Kaunas,0
+ZAL       ,,3,04:21,6,57,"PANGOS, KEVIN",P006433   ,Assist (1),AS,,,Zalgiris Kaunas,0
+MAD       ,,14,04:06,6,58,"AYON, GUSTAVO",P005927   ,Offensive Foul (1),OF,,,Real Madrid,0
+MAD       ,,14,04:06,6,59,"AYON, GUSTAVO",P005927   ,Turnover (1),TO,,,Real Madrid,0
+ZAL       ,,44,04:06,6,60,"KAVALIAUSKAS, ANTANAS",P000399   ,Foul Drawn (1),RV,,,Zalgiris Kaunas,0
+ZAL       ,,13,04:03,6,61,"JANKUNAS, PAULIUS",PBWI      ,Missed Two Pointer (0/1 -  3 pt),2FGA,,,Zalgiris Kaunas,0
+MAD       ,,7,04:03,6,62,"DONCIC, LUKA",P005929   ,Def Rebound (3),D,,,Real Madrid,0
+MAD       ,,9,03:42,7,64,"REYES, FELIPE",PAAX      ,Offensive Foul (1),OF,,,Real Madrid,0
+MAD       ,,9,03:42,7,65,"REYES, FELIPE",PAAX      ,Turnover (1),TO,,,Real Madrid,0
+ZAL       ,,3,03:42,7,66,"PANGOS, KEVIN",P006433   ,Foul Drawn (1),RV,,,Zalgiris Kaunas,0
+ZAL       ,,13,03:42,7,67,"JANKUNAS, PAULIUS",PBWI      ,Out,OUT,,,Zalgiris Kaunas,0
+ZAL       ,,21,03:42,7,68,"MILAKNIS, ARTURAS",PKPD      ,Out,OUT,,,Zalgiris Kaunas,0
+ZAL       ,,30,03:42,7,69,"WHITE, AARON",P006505   ,In,IN,,,Zalgiris Kaunas,0
+ZAL       ,,92,03:42,7,70,"ULANOVAS, EDGARAS",P002329   ,In,IN,,,Zalgiris Kaunas,0
+MAD       ,,8,03:42,7,71,"MACIULIS, JONAS",PJCC      ,In,IN,,,Real Madrid,0
+MAD       ,,9,03:42,7,72,"REYES, FELIPE",PAAX      ,Out,OUT,,,Real Madrid,0
+ZAL       ,,44,03:20,7,73,"KAVALIAUSKAS, ANTANAS",P000399   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,Zalgiris Kaunas,0
+MAD       ,,7,03:18,7,74,"DONCIC, LUKA",P005929   ,Def Rebound (4),D,,,Real Madrid,0
+MAD       ,,11,03:03,7,75,"CAMPAZZO, FACUNDO",P005928   ,Three Pointer (1/1 -  3 pt),3FGM,7.0,13.0,Real Madrid,0
+MAD       ,,8,03:01,7,76,"MACIULIS, JONAS",PJCC      ,Assist (1),AS,,,Real Madrid,0
+ZAL       ,,22,02:51,8,78,"MICIC, VASILIJE",P002580   ,Turnover (1),TO,,,Zalgiris Kaunas,0
+MAD       ,,1,02:50,8,79,"CAUSEUR, FABIEN",P001392   ,Steal (1),ST,,,Real Madrid,0
+ZAL       ,,92,02:50,8,80,"ULANOVAS, EDGARAS",P002329   ,Foul (1),CM,,,Zalgiris Kaunas,0
+MAD       ,,7,02:50,8,81,"DONCIC, LUKA",P005929   ,Foul Drawn (1),RV,,,Real Madrid,0
+ZAL       ,,6,02:50,8,82,"TOUPANE, AXEL",P002582   ,In,IN,,,Zalgiris Kaunas,0
+ZAL       ,,22,02:50,8,83,"MICIC, VASILIJE",P002580   ,Out,OUT,,,Zalgiris Kaunas,0
+MAD       ,,7,02:50,8,84,"DONCIC, LUKA",P005929   ,Free Throw In (1/1 -  3 pt),FTM,7.0,14.0,Real Madrid,0
+MAD       ,,7,02:50,8,85,"DONCIC, LUKA",P005929   ,Free Throw In (2/2 -  4 pt),FTM,7.0,15.0,Real Madrid,0
+MAD       ,,6,02:50,8,86,"RADONCIC, DINO",P006543   ,In,IN,,,Real Madrid,0
+MAD       ,,7,02:50,8,87,"DONCIC, LUKA",P005929   ,Out,OUT,,,Real Madrid,0
+ZAL       ,,44,02:34,8,88,"KAVALIAUSKAS, ANTANAS",P000399   ,Two Pointer (2/3 -  4 pt),2FGM,9.0,15.0,Zalgiris Kaunas,0
+ZAL       ,,6,02:23,8,89,"TOUPANE, AXEL",P002582   ,Foul (1),CM,,,Zalgiris Kaunas,0
+MAD       ,,1,02:23,8,90,"CAUSEUR, FABIEN",P001392   ,Foul Drawn (1),RV,,,Real Madrid,0
+ZAL       ,,30,02:20,8,91,"WHITE, AARON",P006505   ,Foul (1),CM,,,Zalgiris Kaunas,0
+MAD       ,,8,02:20,8,92,"MACIULIS, JONAS",PJCC      ,Foul Drawn (1),RV,,,Real Madrid,0
+MAD       ,,8,02:17,8,93,"MACIULIS, JONAS",PJCC      ,Offensive Foul (1),OF,,,Real Madrid,0
+MAD       ,,8,02:17,8,94,"MACIULIS, JONAS",PJCC      ,Turnover (1),TO,,,Real Madrid,0
+ZAL       ,,30,02:17,8,95,"WHITE, AARON",P006505   ,Foul Drawn (1),RV,,,Zalgiris Kaunas,0
+ZAL       ,,44,02:07,8,96,"KAVALIAUSKAS, ANTANAS",P000399   ,Two Pointer (3/4 -  6 pt),2FGM,11.0,15.0,Zalgiris Kaunas,0
+ZAL       ,,3,02:04,8,97,"PANGOS, KEVIN",P006433   ,Assist (2),AS,,,Zalgiris Kaunas,0
+MAD       ,,6,01:44,9,99,"RADONCIC, DINO",P006543   ,Three Pointer (1/1 -  3 pt),3FGM,11.0,18.0,Real Madrid,0
+MAD       ,,11,01:40,9,100,"CAMPAZZO, FACUNDO",P005928   ,Assist (2),AS,,,Real Madrid,0
+ZAL       ,,3,01:30,9,101,"PANGOS, KEVIN",P006433   ,Missed Three Pointer (0/2 -  2 pt),3FGA,,,Zalgiris Kaunas,0
+MAD       ,,8,01:29,9,102,"MACIULIS, JONAS",PJCC      ,Def Rebound (1),D,,,Real Madrid,0
+MAD       ,,8,01:18,9,103,"MACIULIS, JONAS",PJCC      ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Real Madrid,0
+ZAL       ,,3,01:15,9,104,"PANGOS, KEVIN",P006433   ,Def Rebound (1),D,,,Zalgiris Kaunas,0
+ZAL       ,,3,00:54,10,106,"PANGOS, KEVIN",P006433   ,Two Pointer (2/2 -  4 pt),2FGM,13.0,18.0,Zalgiris Kaunas,0
+MAD       ,,11,00:33,10,107,"CAMPAZZO, FACUNDO",P005928   ,Missed Three Pointer (1/2 -  3 pt),3FGA,,,Real Madrid,0
+ZAL       ,,92,00:31,10,108,"ULANOVAS, EDGARAS",P002329   ,Def Rebound (1),D,,,Zalgiris Kaunas,0
+ZAL       ,,13,00:27,10,109,"JANKUNAS, PAULIUS",PBWI      ,In,IN,,,Zalgiris Kaunas,0
+ZAL       ,,22,00:27,10,110,"MICIC, VASILIJE",P002580   ,In,IN,,,Zalgiris Kaunas,0
+ZAL       ,,44,00:27,10,111,"KAVALIAUSKAS, ANTANAS",P000399   ,Out,OUT,,,Zalgiris Kaunas,0
+ZAL       ,,92,00:27,10,112,"ULANOVAS, EDGARAS",P002329   ,Out,OUT,,,Zalgiris Kaunas,0
+MAD       ,,9,00:27,10,113,"REYES, FELIPE",PAAX      ,In,IN,,,Real Madrid,0
+MAD       ,,14,00:27,10,114,"AYON, GUSTAVO",P005927   ,Out,OUT,,,Real Madrid,0
+ZAL       ,,3,00:12,10,115,"PANGOS, KEVIN",P006433   ,Three Pointer (1/3 -  7 pt),3FGM,16.0,18.0,Zalgiris Kaunas,0
+ZAL       ,,22,00:09,10,116,"MICIC, VASILIJE",P002580   ,Assist (2),AS,,,Zalgiris Kaunas,0
+ZAL       ,,13,00:02,10,117,"JANKUNAS, PAULIUS",PBWI      ,Foul (1),CM,,,Zalgiris Kaunas,0
+MAD       ,,11,00:02,10,118,"CAMPAZZO, FACUNDO",P005928   ,Foul Drawn (1),RV,,,Real Madrid,0
+ZAL       ,,3,00:02,10,119,"PANGOS, KEVIN",P006433   ,Out,OUT,,,Zalgiris Kaunas,0
+ZAL       ,,92,00:02,10,120,"ULANOVAS, EDGARAS",P002329   ,In,IN,,,Zalgiris Kaunas,0
+MAD       ,,11,00:01,10,121,"CAMPAZZO, FACUNDO",P005928   ,Missed Three Pointer (1/3 -  3 pt),3FGA,,,Real Madrid,0
+          ,,,,11,123,,          ,End Period,EP,,,,0
+          ,,,,11,132,,          ,Begin Period,BP,,,,0
+ZAL       ,,3,10:00,11,124,"PANGOS, KEVIN",P006433   ,In,IN,,,Zalgiris Kaunas,0
+ZAL       ,,22,10:00,11,125,"MICIC, VASILIJE",P002580   ,Out,OUT,,,Zalgiris Kaunas,0
+ZAL       ,,66,10:00,11,126,"VALINSKAS, PAULIUS",P004664   ,In,IN,,,Zalgiris Kaunas,0
+ZAL       ,,92,10:00,11,127,"ULANOVAS, EDGARAS",P002329   ,Out,OUT,,,Zalgiris Kaunas,0
+MAD       ,,5,10:00,11,128,"FERNANDEZ, RUDY",PBMT      ,In,IN,,,Real Madrid,0
+MAD       ,,6,10:00,11,129,"RADONCIC, DINO",P006543   ,Out,OUT,,,Real Madrid,0
+MAD       ,,7,10:00,11,130,"DONCIC, LUKA",P005929   ,In,IN,,,Real Madrid,0
+MAD       ,,11,10:00,11,131,"CAMPAZZO, FACUNDO",P005928   ,Out,OUT,,,Real Madrid,0
+ZAL       ,,13,09:51,11,133,"JANKUNAS, PAULIUS",PBWI      ,Offensive Foul (2),OF,,,Zalgiris Kaunas,0
+ZAL       ,,13,09:51,11,134,"JANKUNAS, PAULIUS",PBWI      ,Turnover (2),TO,,,Zalgiris Kaunas,0
+MAD       ,,1,09:51,11,135,"CAUSEUR, FABIEN",P001392   ,Foul Drawn (2),RV,,,Real Madrid,0
+ZAL       ,,3,09:51,11,136,"PANGOS, KEVIN",P006433   ,Out,OUT,,,Zalgiris Kaunas,0
+ZAL       ,,13,09:51,11,137,"JANKUNAS, PAULIUS",PBWI      ,Out,OUT,,,Zalgiris Kaunas,0
+ZAL       ,,22,09:51,11,138,"MICIC, VASILIJE",P002580   ,In,IN,,,Zalgiris Kaunas,0
+ZAL       ,,44,09:51,11,139,"KAVALIAUSKAS, ANTANAS",P000399   ,In,IN,,,Zalgiris Kaunas,0
+MAD       ,,1,09:51,11,140,"CAUSEUR, FABIEN",P001392   ,Out,OUT,,,Real Madrid,0
+MAD       ,,20,09:51,11,141,"CARROLL, JAYCEE",P001960   ,In,IN,,,Real Madrid,0
+ZAL       ,,44,09:42,11,142,"KAVALIAUSKAS, ANTANAS",P000399   ,Foul (1),CM,,,Zalgiris Kaunas,0
+MAD       ,,9,09:42,11,143,"REYES, FELIPE",PAAX      ,Foul Drawn (1),RV,,,Real Madrid,0
+MAD       ,,8,09:31,11,144,"MACIULIS, JONAS",PJCC      ,Three Pointer (1/2 -  3 pt),3FGM,16.0,21.0,Real Madrid,0
+MAD       ,,7,09:28,11,145,"DONCIC, LUKA",P005929   ,Assist (2),AS,,,Real Madrid,0
+ZAL       ,,22,09:11,11,146,"MICIC, VASILIJE",P002580   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Zalgiris Kaunas,0
+ZAL       ,,22,09:11,11,147,"MICIC, VASILIJE",P002580   ,Shot Rejected (1),AG,,,Zalgiris Kaunas,0
+MAD       ,,20,09:09,11,148,"CARROLL, JAYCEE",P001960   ,Block (1),FV,,,Real Madrid,0
+MAD       ,,9,09:06,11,149,"REYES, FELIPE",PAAX      ,Def Rebound (2),D,,,Real Madrid,0
+MAD       ,,7,08:59,12,151,"DONCIC, LUKA",P005929   ,Missed Two Pointer (1/2 -  4 pt),2FGA,,,Real Madrid,0
+ZAL       ,,22,08:56,12,152,"MICIC, VASILIJE",P002580   ,Def Rebound (1),D,,,Zalgiris Kaunas,0
+ZAL       ,,30,08:40,12,153,"WHITE, AARON",P006505   ,Offensive Foul (2),OF,,,Zalgiris Kaunas,0
+ZAL       ,,30,08:40,12,154,"WHITE, AARON",P006505   ,Turnover (1),TO,,,Zalgiris Kaunas,0
+MAD       ,,20,08:40,12,155,"CARROLL, JAYCEE",P001960   ,Foul Drawn (1),RV,,,Real Madrid,0
+ZAL       ,,22,08:40,12,156,"MICIC, VASILIJE",P002580   ,Out,OUT,,,Zalgiris Kaunas,0
+ZAL       ,,92,08:40,12,157,"ULANOVAS, EDGARAS",P002329   ,In,IN,,,Zalgiris Kaunas,0
+MAD       ,,20,08:15,12,158,"CARROLL, JAYCEE",P001960   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Real Madrid,0
+ZAL       ,,6,08:13,12,159,"TOUPANE, AXEL",P002582   ,Def Rebound (1),D,,,Zalgiris Kaunas,0
+ZAL       ,,30,07:49,13,161,"WHITE, AARON",P006505   ,Turnover (2),TO,,,Zalgiris Kaunas,0
+ZAL       ,,21,07:49,13,162,"MILAKNIS, ARTURAS",PKPD      ,In,IN,,,Zalgiris Kaunas,0
+ZAL       ,,30,07:49,13,163,"WHITE, AARON",P006505   ,Out,OUT,,,Zalgiris Kaunas,0
+MAD       ,,7,07:31,13,164,"DONCIC, LUKA",P005929   ,Missed Three Pointer (0/2 -  4 pt),3FGA,,,Real Madrid,0
+ZAL       ,,,07:29,13,165,,          ,Def Rebound (1),D,,,Zalgiris Kaunas,0
+MAD       ,,8,07:12,13,166,"MACIULIS, JONAS",PJCC      ,Foul (2),CM,,,Real Madrid,0
+ZAL       ,,92,07:12,13,167,"ULANOVAS, EDGARAS",P002329   ,Foul Drawn (1),RV,,,Zalgiris Kaunas,0
+ZAL       ,,92,07:12,13,168,"ULANOVAS, EDGARAS",P002329   ,Free Throw In (1/1 -  1 pt),FTM,17.0,21.0,Zalgiris Kaunas,0
+ZAL       ,,92,07:12,13,169,"ULANOVAS, EDGARAS",P002329   ,Free Throw In (2/2 -  2 pt),FTM,18.0,21.0,Zalgiris Kaunas,0
+ZAL       ,,66,07:12,13,170,"VALINSKAS, PAULIUS",P004664   ,Foul (1),CM,,,Zalgiris Kaunas,0
+MAD       ,,9,07:12,13,171,"REYES, FELIPE",PAAX      ,Foul Drawn (2),RV,,,Real Madrid,0
+MAD       ,,20,06:54,14,173,"CARROLL, JAYCEE",P001960   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Real Madrid,0
+ZAL       ,,6,06:51,14,174,"TOUPANE, AXEL",P002582   ,Def Rebound (2),D,,,Zalgiris Kaunas,0
+ZAL       ,,6,06:38,14,175,"TOUPANE, AXEL",P002582   ,Two Pointer (1/1 -  2 pt),2FGM,20.0,21.0,Zalgiris Kaunas,0
+MAD       ,,9,06:25,14,176,"REYES, FELIPE",PAAX      ,Two Pointer (2/4 -  4 pt),2FGM,20.0,23.0,Real Madrid,0
+MAD       ,,7,06:23,14,177,"DONCIC, LUKA",P005929   ,Assist (3),AS,,,Real Madrid,0
+ZAL       ,,3,06:13,14,178,"PANGOS, KEVIN",P006433   ,In,IN,,,Zalgiris Kaunas,0
+ZAL       ,,66,06:13,14,179,"VALINSKAS, PAULIUS",P004664   ,Out,OUT,,,Zalgiris Kaunas,0
+MAD       ,,9,06:04,14,180,"REYES, FELIPE",PAAX      ,Foul (2),CM,,,Real Madrid,0
+ZAL       ,,3,06:04,14,181,"PANGOS, KEVIN",P006433   ,Foul Drawn (2),RV,,,Zalgiris Kaunas,0
+ZAL       ,,3,06:04,14,182,"PANGOS, KEVIN",P006433   ,Free Throw In (1/1 -  8 pt),FTM,21.0,23.0,Zalgiris Kaunas,0
+ZAL       ,,3,06:04,14,183,"PANGOS, KEVIN",P006433   ,Free Throw In (2/2 -  9 pt),FTM,22.0,23.0,Zalgiris Kaunas,0
+MAD       ,,,05:39,15,185,,          ,Turnover (1),TO,,,Real Madrid,0
+MAD       ,,20,05:39,15,186,"CARROLL, JAYCEE",P001960   ,Out,OUT,,,Real Madrid,0
+MAD       ,,44,05:39,15,187,"TAYLOR, JEFFERY",P006546   ,In,IN,,,Real Madrid,0
+ZAL       ,,6,05:20,15,188,"TOUPANE, AXEL",P002582   ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,Zalgiris Kaunas,0
+MAD       ,,9,05:18,15,189,"REYES, FELIPE",PAAX      ,Def Rebound (3),D,,,Real Madrid,0
+MAD       ,,5,05:06,15,190,"FERNANDEZ, RUDY",PBMT      ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Real Madrid,0
+MAD       ,,44,05:06,15,191,"TAYLOR, JEFFERY",P006546   ,Off Rebound (1),O,,,Real Madrid,0
+ZAL       ,,44,05:06,15,192,"KAVALIAUSKAS, ANTANAS",P000399   ,Foul (2),CM,,,Zalgiris Kaunas,0
+MAD       ,,44,05:06,15,193,"TAYLOR, JEFFERY",P006546   ,Foul Drawn (1),RV,,,Real Madrid,0
+MAD       ,,44,05:06,15,194,"TAYLOR, JEFFERY",P006546   ,Free Throw In (1/1 -  1 pt),FTM,22.0,24.0,Real Madrid,0
+MAD       ,,44,05:06,15,195,"TAYLOR, JEFFERY",P006546   ,Free Throw In (2/2 -  2 pt),FTM,22.0,25.0,Real Madrid,0
+ZAL       ,,44,04:48,16,197,"KAVALIAUSKAS, ANTANAS",P000399   ,Two Pointer (4/5 -  8 pt),2FGM,24.0,25.0,Zalgiris Kaunas,0
+MAD       ,,9,04:22,16,198,"REYES, FELIPE",PAAX      ,Missed Two Pointer (2/5 -  4 pt),2FGA,,,Real Madrid,0
+ZAL       ,,92,04:21,16,199,"ULANOVAS, EDGARAS",P002329   ,Def Rebound (2),D,,,Zalgiris Kaunas,0
+MAD       ,,7,04:21,16,200,"DONCIC, LUKA",P005929   ,Foul (1),CM,,,Real Madrid,0
+ZAL       ,,92,04:21,16,201,"ULANOVAS, EDGARAS",P002329   ,Foul Drawn (2),RV,,,Zalgiris Kaunas,0
+          ,,,04:21,16,202,,          ,TV Time Out (2),TOUT_TV,,,,0
+ZAL       ,,0,04:21,16,203,"DAVIES, BRANDON",P007870   ,In,IN,,,Zalgiris Kaunas,0
+ZAL       ,,6,04:21,16,204,"TOUPANE, AXEL",P002582   ,Out,OUT,,,Zalgiris Kaunas,0
+ZAL       ,,22,04:21,16,205,"MICIC, VASILIJE",P002580   ,In,IN,,,Zalgiris Kaunas,0
+ZAL       ,,44,04:21,16,206,"KAVALIAUSKAS, ANTANAS",P000399   ,Out,OUT,,,Zalgiris Kaunas,0
+MAD       ,,7,04:21,16,207,"DONCIC, LUKA",P005929   ,Out,OUT,,,Real Madrid,0
+MAD       ,,9,04:21,16,208,"REYES, FELIPE",PAAX      ,Out,OUT,,,Real Madrid,0
+MAD       ,,11,04:21,16,209,"CAMPAZZO, FACUNDO",P005928   ,In,IN,,,Real Madrid,0
+MAD       ,,14,04:21,16,210,"AYON, GUSTAVO",P005927   ,In,IN,,,Real Madrid,0
+ZAL       ,,3,04:09,16,211,"PANGOS, KEVIN",P006433   ,Two Pointer (3/3 -  11 pt),2FGM,26.0,25.0,Zalgiris Kaunas,0
+ZAL       ,,0,04:02,16,212,"DAVIES, BRANDON",P007870   ,Assist (1),AS,,,Zalgiris Kaunas,0
+MAD       ,,11,03:46,17,214,"CAMPAZZO, FACUNDO",P005928   ,Three Pointer (2/4 -  6 pt),3FGM,26.0,28.0,Real Madrid,0
+MAD       ,,14,03:44,17,215,"AYON, GUSTAVO",P005927   ,Assist (2),AS,,,Real Madrid,0
+ZAL       ,,92,03:28,17,216,"ULANOVAS, EDGARAS",P002329   ,Two Pointer (1/1 -  4 pt),2FGM,28.0,28.0,Zalgiris Kaunas,0
+MAD       ,,11,03:05,17,217,"CAMPAZZO, FACUNDO",P005928   ,Three Pointer (3/5 -  9 pt),3FGM,28.0,31.0,Real Madrid,0
+MAD       ,,44,03:03,17,218,"TAYLOR, JEFFERY",P006546   ,Assist (1),AS,,,Real Madrid,0
+ZAL       ,,92,02:46,18,220,"ULANOVAS, EDGARAS",P002329   ,Missed Two Pointer (1/2 -  4 pt),2FGA,,,Zalgiris Kaunas,0
+MAD       ,,8,02:44,18,221,"MACIULIS, JONAS",PJCC      ,Def Rebound (2),D,,,Real Madrid,0
+MAD       ,,5,02:25,18,222,"FERNANDEZ, RUDY",PBMT      ,Two Pointer (1/1 -  2 pt),2FGM,28.0,33.0,Real Madrid,0
+MAD       ,,14,02:23,18,223,"AYON, GUSTAVO",P005927   ,Assist (3),AS,,,Real Madrid,0
+ZAL       ,,22,02:05,18,224,"MICIC, VASILIJE",P002580   ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,Zalgiris Kaunas,0
+MAD       ,,5,02:01,18,225,"FERNANDEZ, RUDY",PBMT      ,Def Rebound (1),D,,,Real Madrid,0
+ZAL       ,,3,01:48,19,227,"PANGOS, KEVIN",P006433   ,Foul (1),CM,,,Zalgiris Kaunas,0
+MAD       ,,5,01:48,19,228,"FERNANDEZ, RUDY",PBMT      ,Foul Drawn (1),RV,,,Real Madrid,0
+MAD       ,,6,01:48,19,229,"RADONCIC, DINO",P006543   ,In,IN,,,Real Madrid,0
+MAD       ,,8,01:48,19,230,"MACIULIS, JONAS",PJCC      ,Out,OUT,,,Real Madrid,0
+MAD       ,,5,01:48,19,231,"FERNANDEZ, RUDY",PBMT      ,Free Throw In (1/1 -  3 pt),FTM,28.0,34.0,Real Madrid,0
+MAD       ,,5,01:48,19,232,"FERNANDEZ, RUDY",PBMT      ,Free Throw In (2/2 -  4 pt),FTM,28.0,35.0,Real Madrid,0
+MAD       ,,44,01:30,19,233,"TAYLOR, JEFFERY",P006546   ,Foul (1),CM,,,Real Madrid,0
+ZAL       ,,22,01:30,19,234,"MICIC, VASILIJE",P002580   ,Foul Drawn (1),RV,,,Zalgiris Kaunas,0
+ZAL       ,,21,01:29,19,235,"MILAKNIS, ARTURAS",PKPD      ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,Zalgiris Kaunas,0
+ZAL       ,,0,01:29,19,236,"DAVIES, BRANDON",P007870   ,Off Rebound (1),O,,,Zalgiris Kaunas,0
+ZAL       ,,0,01:29,19,237,"DAVIES, BRANDON",P007870   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Zalgiris Kaunas,0
+ZAL       ,,0,01:29,19,238,"DAVIES, BRANDON",P007870   ,Shot Rejected (2),AG,,,Zalgiris Kaunas,0
+MAD       ,,14,01:29,19,239,"AYON, GUSTAVO",P005927   ,Block (2),FV,,,Real Madrid,0
+MAD       ,,6,01:29,19,240,"RADONCIC, DINO",P006543   ,Def Rebound (1),D,,,Real Madrid,0
+MAD       ,,44,00:53,20,242,"TAYLOR, JEFFERY",P006546   ,Three Pointer (1/1 -  5 pt),3FGM,28.0,38.0,Real Madrid,0
+MAD       ,,5,00:53,20,243,"FERNANDEZ, RUDY",PBMT      ,Assist (1),AS,,,Real Madrid,0
+ZAL       ,,,00:53,20,244,,          ,Time Out (1),TOUT,,,Zalgiris Kaunas,0
+ZAL       ,,0,00:53,20,245,"DAVIES, BRANDON",P007870   ,Out,OUT,,,Zalgiris Kaunas,0
+ZAL       ,,44,00:53,20,246,"KAVALIAUSKAS, ANTANAS",P000399   ,In,IN,,,Zalgiris Kaunas,0
+ZAL       ,,3,00:37,20,247,"PANGOS, KEVIN",P006433   ,Three Pointer (2/4 -  14 pt),3FGM,31.0,38.0,Zalgiris Kaunas,0
+ZAL       ,,44,00:35,20,248,"KAVALIAUSKAS, ANTANAS",P000399   ,Assist (1),AS,,,Zalgiris Kaunas,0
+MAD       ,,14,00:06,20,249,"AYON, GUSTAVO",P005927   ,Two Pointer (4/5 -  8 pt),2FGM,31.0,40.0,Real Madrid,0
+MAD       ,,5,00:03,20,250,"FERNANDEZ, RUDY",PBMT      ,Assist (2),AS,,,Real Madrid,0
+ZAL       ,,3,00:02,20,251,"PANGOS, KEVIN",P006433   ,Turnover (2),TO,,,Zalgiris Kaunas,0
+MAD       ,,5,00:02,20,252,"FERNANDEZ, RUDY",PBMT      ,Steal (1),ST,,,Real Madrid,0
+          ,,,,21,254,,          ,End Period,EP,,,,0
+          ,,,,21,263,,          ,Begin Period,BP,,,,0
+ZAL       ,,21,10:00,21,255,"MILAKNIS, ARTURAS",PKPD      ,Out,OUT,,,Zalgiris Kaunas,0
+ZAL       ,,30,10:00,21,256,"WHITE, AARON",P006505   ,In,IN,,,Zalgiris Kaunas,0
+MAD       ,,1,10:00,21,257,"CAUSEUR, FABIEN",P001392   ,In,IN,,,Real Madrid,0
+MAD       ,,5,10:00,21,258,"FERNANDEZ, RUDY",PBMT      ,Out,OUT,,,Real Madrid,0
+MAD       ,,6,10:00,21,259,"RADONCIC, DINO",P006543   ,Out,OUT,,,Real Madrid,0
+MAD       ,,7,10:00,21,260,"DONCIC, LUKA",P005929   ,In,IN,,,Real Madrid,0
+MAD       ,,8,10:00,21,261,"MACIULIS, JONAS",PJCC      ,In,IN,,,Real Madrid,0
+MAD       ,,44,10:00,21,262,"TAYLOR, JEFFERY",P006546   ,Out,OUT,,,Real Madrid,0
+MAD       ,,8,09:39,21,264,"MACIULIS, JONAS",PJCC      ,Three Pointer (2/3 -  6 pt),3FGM,31.0,43.0,Real Madrid,0
+MAD       ,,11,09:36,21,265,"CAMPAZZO, FACUNDO",P005928   ,Assist (3),AS,,,Real Madrid,0
+MAD       ,,14,09:27,21,266,"AYON, GUSTAVO",P005927   ,Foul (2),CM,,,Real Madrid,0
+ZAL       ,,44,09:27,21,267,"KAVALIAUSKAS, ANTANAS",P000399   ,Foul Drawn (2),RV,,,Zalgiris Kaunas,0
+ZAL       ,,22,09:17,21,268,"MICIC, VASILIJE",P002580   ,Missed Two Pointer (0/3 -  0 pt),2FGA,,,Zalgiris Kaunas,0
+ZAL       ,,44,09:17,21,269,"KAVALIAUSKAS, ANTANAS",P000399   ,Off Rebound (1),O,,,Zalgiris Kaunas,0
+ZAL       ,,44,09:17,21,270,"KAVALIAUSKAS, ANTANAS",P000399   ,Two Pointer (5/6 -  10 pt),2FGM,33.0,43.0,Zalgiris Kaunas,0
+MAD       ,,8,09:17,21,271,"MACIULIS, JONAS",PJCC      ,Foul (3),CM,,,Real Madrid,0
+ZAL       ,,44,09:17,21,272,"KAVALIAUSKAS, ANTANAS",P000399   ,Foul Drawn (3),RV,,,Zalgiris Kaunas,0
+ZAL       ,,44,09:17,21,273,"KAVALIAUSKAS, ANTANAS",P000399   ,Free Throw In (1/1 -  11 pt),FTM,34.0,43.0,Zalgiris Kaunas,0
+MAD       ,,14,09:00,21,274,"AYON, GUSTAVO",P005927   ,Missed Two Pointer (4/6 -  8 pt),2FGA,,,Real Madrid,0
+MAD       ,,14,08:58,22,276,"AYON, GUSTAVO",P005927   ,Off Rebound (1),O,,,Real Madrid,0
+MAD       ,,14,08:56,22,277,"AYON, GUSTAVO",P005927   ,Two Pointer (5/7 -  10 pt),2FGM,34.0,45.0,Real Madrid,0
+MAD       ,,11,08:38,22,278,"CAMPAZZO, FACUNDO",P005928   ,Foul (1),CM,,,Real Madrid,0
+ZAL       ,,3,08:38,22,279,"PANGOS, KEVIN",P006433   ,Foul Drawn (3),RV,,,Zalgiris Kaunas,0
+ZAL       ,,44,08:28,22,280,"KAVALIAUSKAS, ANTANAS",P000399   ,Turnover (1),TO,,,Zalgiris Kaunas,0
+ZAL       ,,21,08:28,22,281,"MILAKNIS, ARTURAS",PKPD      ,In,IN,,,Zalgiris Kaunas,0
+ZAL       ,,22,08:28,22,282,"MICIC, VASILIJE",P002580   ,Out,OUT,,,Zalgiris Kaunas,0
+MAD       ,,8,08:04,22,283,"MACIULIS, JONAS",PJCC      ,Missed Three Pointer (2/4 -  6 pt),3FGA,,,Real Madrid,0
+ZAL       ,,3,08:02,22,284,"PANGOS, KEVIN",P006433   ,Def Rebound (2),D,,,Zalgiris Kaunas,0
+MAD       ,,7,07:59,23,286,"DONCIC, LUKA",P005929   ,Foul (2),CM,,,Real Madrid,0
+ZAL       ,,30,07:59,23,287,"WHITE, AARON",P006505   ,Foul Drawn (2),RV,,,Zalgiris Kaunas,0
+ZAL       ,,44,07:46,23,288,"KAVALIAUSKAS, ANTANAS",P000399   ,Missed Two Pointer (5/7 -  11 pt),2FGA,,,Zalgiris Kaunas,0
+MAD       ,,14,07:44,23,289,"AYON, GUSTAVO",P005927   ,Def Rebound (1),D,,,Real Madrid,0
+MAD       ,,14,07:34,23,290,"AYON, GUSTAVO",P005927   ,Missed Two Pointer (5/8 -  10 pt),2FGA,,,Real Madrid,0
+ZAL       ,,21,07:32,23,291,"MILAKNIS, ARTURAS",PKPD      ,Def Rebound (2),D,,,Zalgiris Kaunas,0
+ZAL       ,,44,07:17,23,292,"KAVALIAUSKAS, ANTANAS",P000399   ,Two Pointer (6/8 -  13 pt),2FGM,36.0,45.0,Zalgiris Kaunas,0
+ZAL       ,,3,07:15,23,293,"PANGOS, KEVIN",P006433   ,Assist (3),AS,,,Zalgiris Kaunas,0
+ZAL       ,,92,07:00,23,294,"ULANOVAS, EDGARAS",P002329   ,Unsportsmanlike Foul  (2),CMU,,,Zalgiris Kaunas,0
+MAD       ,,7,07:00,23,295,"DONCIC, LUKA",P005929   ,Foul Drawn (2),RV,,,Real Madrid,0
+ZAL       ,,13,07:00,23,296,"JANKUNAS, PAULIUS",PBWI      ,In,IN,,,Zalgiris Kaunas,0
+ZAL       ,,44,07:00,23,297,"KAVALIAUSKAS, ANTANAS",P000399   ,Out,OUT,,,Zalgiris Kaunas,0
+MAD       ,,7,07:00,23,298,"DONCIC, LUKA",P005929   ,Free Throw In (3/3 -  5 pt),FTM,36.0,46.0,Real Madrid,0
+MAD       ,,7,07:00,23,299,"DONCIC, LUKA",P005929   ,Free Throw In (4/4 -  6 pt),FTM,36.0,47.0,Real Madrid,0
+MAD       ,,11,06:47,24,301,"CAMPAZZO, FACUNDO",P005928   ,Missed Three Pointer (3/6 -  9 pt),3FGA,,,Real Madrid,0
+ZAL       ,,,06:45,24,302,,          ,Def Rebound (2),D,,,Zalgiris Kaunas,0
+ZAL       ,,13,06:30,24,303,"JANKUNAS, PAULIUS",PBWI      ,Two Pointer (1/2 -  5 pt),2FGM,38.0,47.0,Zalgiris Kaunas,0
+ZAL       ,,92,06:28,24,304,"ULANOVAS, EDGARAS",P002329   ,Assist (1),AS,,,Zalgiris Kaunas,0
+MAD       ,,8,06:16,24,305,"MACIULIS, JONAS",PJCC      ,Missed Three Pointer (2/5 -  6 pt),3FGA,,,Real Madrid,0
+ZAL       ,,92,06:14,24,306,"ULANOVAS, EDGARAS",P002329   ,Def Rebound (3),D,,,Zalgiris Kaunas,0
+ZAL       ,,13,06:08,24,307,"JANKUNAS, PAULIUS",PBWI      ,Offensive Foul (3),OF,,,Zalgiris Kaunas,0
+ZAL       ,,13,06:08,24,308,"JANKUNAS, PAULIUS",PBWI      ,Turnover (3),TO,,,Zalgiris Kaunas,0
+MAD       ,,14,06:08,24,309,"AYON, GUSTAVO",P005927   ,Foul Drawn (1),RV,,,Real Madrid,0
+MAD       ,,11,05:51,25,311,"CAMPAZZO, FACUNDO",P005928   ,Missed Three Pointer (3/7 -  9 pt),3FGA,,,Real Madrid,0
+ZAL       ,,3,05:47,25,312,"PANGOS, KEVIN",P006433   ,Def Rebound (3),D,,,Zalgiris Kaunas,0
+ZAL       ,,92,05:30,25,313,"ULANOVAS, EDGARAS",P002329   ,Missed Two Pointer (1/3 -  4 pt),2FGA,,,Zalgiris Kaunas,0
+ZAL       ,,13,05:29,25,314,"JANKUNAS, PAULIUS",PBWI      ,Off Rebound (1),O,,,Zalgiris Kaunas,0
+MAD       ,,9,05:29,25,315,"REYES, FELIPE",PAAX      ,In,IN,,,Real Madrid,0
+MAD       ,,14,05:29,25,316,"AYON, GUSTAVO",P005927   ,Out,OUT,,,Real Madrid,0
+ZAL       ,,3,05:15,25,317,"PANGOS, KEVIN",P006433   ,Missed Three Pointer (2/5 -  14 pt),3FGA,,,Zalgiris Kaunas,0
+MAD       ,,9,05:12,25,318,"REYES, FELIPE",PAAX      ,Def Rebound (4),D,,,Real Madrid,0
+MAD       ,,7,05:05,25,319,"DONCIC, LUKA",P005929   ,Two Pointer (2/3 -  8 pt),2FGM,38.0,49.0,Real Madrid,0
+ZAL       ,,30,04:41,26,321,"WHITE, AARON",P006505   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Zalgiris Kaunas,0
+MAD       ,,7,04:39,26,322,"DONCIC, LUKA",P005929   ,Def Rebound (5),D,,,Real Madrid,0
+MAD       ,,7,04:36,26,323,"DONCIC, LUKA",P005929   ,Three Pointer (1/3 -  11 pt),3FGM,38.0,52.0,Real Madrid,0
+ZAL       ,,,04:36,26,324,,          ,Time Out (1),TOUT,,,Zalgiris Kaunas,0
+          ,,,04:36,26,325,,          ,TV Time Out (3),TOUT_TV,,,,0
+ZAL       ,,22,04:36,26,326,"MICIC, VASILIJE",P002580   ,In,IN,,,Zalgiris Kaunas,0
+ZAL       ,,92,04:36,26,327,"ULANOVAS, EDGARAS",P002329   ,Out,OUT,,,Zalgiris Kaunas,0
+ZAL       ,,30,04:19,26,328,"WHITE, AARON",P006505   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Zalgiris Kaunas,0
+MAD       ,,7,04:16,26,329,"DONCIC, LUKA",P005929   ,Def Rebound (6),D,,,Real Madrid,0
+ZAL       ,,21,04:13,26,330,"MILAKNIS, ARTURAS",PKPD      ,Foul (1),CM,,,Zalgiris Kaunas,0
+MAD       ,,8,04:13,26,331,"MACIULIS, JONAS",PJCC      ,Foul Drawn (2),RV,,,Real Madrid,0
+MAD       ,,7,04:05,26,332,"DONCIC, LUKA",P005929   ,Two Pointer (3/4 -  13 pt),2FGM,38.0,54.0,Real Madrid,0
+ZAL       ,,22,03:45,27,334,"MICIC, VASILIJE",P002580   ,Missed Three Pointer (0/3 -  0 pt),3FGA,,,Zalgiris Kaunas,0
+ZAL       ,,30,03:43,27,335,"WHITE, AARON",P006505   ,Off Rebound (1),O,,,Zalgiris Kaunas,0
+MAD       ,,8,03:40,27,336,"MACIULIS, JONAS",PJCC      ,Foul (4),CM,,,Real Madrid,0
+ZAL       ,,13,03:40,27,337,"JANKUNAS, PAULIUS",PBWI      ,Foul Drawn (1),RV,,,Zalgiris Kaunas,0
+ZAL       ,,30,03:40,27,338,"WHITE, AARON",P006505   ,Out,OUT,,,Zalgiris Kaunas,0
+ZAL       ,,44,03:40,27,339,"KAVALIAUSKAS, ANTANAS",P000399   ,In,IN,,,Zalgiris Kaunas,0
+MAD       ,,8,03:40,27,340,"MACIULIS, JONAS",PJCC      ,Out,OUT,,,Real Madrid,0
+MAD       ,,14,03:40,27,341,"AYON, GUSTAVO",P005927   ,In,IN,,,Real Madrid,0
+ZAL       ,,13,03:40,27,342,"JANKUNAS, PAULIUS",PBWI      ,Free Throw In (1/1 -  6 pt),FTM,39.0,54.0,Zalgiris Kaunas,0
+ZAL       ,,13,03:40,27,343,"JANKUNAS, PAULIUS",PBWI      ,Free Throw In (2/2 -  7 pt),FTM,40.0,54.0,Zalgiris Kaunas,0
+MAD       ,,14,03:25,27,344,"AYON, GUSTAVO",P005927   ,Two Pointer (6/9 -  12 pt),2FGM,40.0,56.0,Real Madrid,0
+MAD       ,,11,03:22,27,345,"CAMPAZZO, FACUNDO",P005928   ,Assist (4),AS,,,Real Madrid,0
+MAD       ,,9,03:14,27,346,"REYES, FELIPE",PAAX      ,Foul (3),CM,,,Real Madrid,0
+ZAL       ,,13,03:14,27,347,"JANKUNAS, PAULIUS",PBWI      ,Foul Drawn (2),RV,,,Zalgiris Kaunas,0
+ZAL       ,,3,03:14,27,348,"PANGOS, KEVIN",P006433   ,Out,OUT,,,Zalgiris Kaunas,0
+ZAL       ,,6,03:14,27,349,"TOUPANE, AXEL",P002582   ,In,IN,,,Zalgiris Kaunas,0
+ZAL       ,,21,03:14,27,350,"MILAKNIS, ARTURAS",PKPD      ,Out,OUT,,,Zalgiris Kaunas,0
+ZAL       ,,92,03:14,27,351,"ULANOVAS, EDGARAS",P002329   ,In,IN,,,Zalgiris Kaunas,0
+ZAL       ,,13,03:14,27,352,"JANKUNAS, PAULIUS",PBWI      ,Free Throw In (3/3 -  8 pt),FTM,41.0,56.0,Zalgiris Kaunas,0
+ZAL       ,,13,03:14,27,353,"JANKUNAS, PAULIUS",PBWI      ,Free Throw In (4/4 -  9 pt),FTM,42.0,56.0,Zalgiris Kaunas,0
+MAD       ,,7,02:54,28,355,"DONCIC, LUKA",P005929   ,Turnover (2),TO,,,Real Madrid,0
+ZAL       ,,44,02:53,28,356,"KAVALIAUSKAS, ANTANAS",P000399   ,Steal (1),ST,,,Zalgiris Kaunas,0
+ZAL       ,,22,02:40,28,357,"MICIC, VASILIJE",P002580   ,Missed Two Pointer (0/4 -  0 pt),2FGA,,,Zalgiris Kaunas,0
+MAD       ,,9,02:38,28,358,"REYES, FELIPE",PAAX      ,Def Rebound (5),D,,,Real Madrid,0
+MAD       ,,7,02:19,28,360,"DONCIC, LUKA",P005929   ,Three Pointer (2/4 -  16 pt),3FGM,42.0,59.0,Real Madrid,0
+MAD       ,,14,02:17,28,361,"AYON, GUSTAVO",P005927   ,Assist (4),AS,,,Real Madrid,0
+ZAL       ,,22,02:11,28,362,"MICIC, VASILIJE",P002580   ,Turnover (2),TO,,,Zalgiris Kaunas,0
+MAD       ,,11,02:10,28,363,"CAMPAZZO, FACUNDO",P005928   ,Steal (1),ST,,,Real Madrid,0
+MAD       ,,11,02:10,28,364,"CAMPAZZO, FACUNDO",P005928   ,Two Pointer (1/1 -  11 pt),2FGM,42.0,61.0,Real Madrid,0
+ZAL       ,,,02:10,28,365,,          ,Time Out (2),TOUT,,,Zalgiris Kaunas,0
+ZAL       ,,0,02:10,28,366,"DAVIES, BRANDON",P007870   ,In,IN,,,Zalgiris Kaunas,0
+ZAL       ,,3,02:10,28,367,"PANGOS, KEVIN",P006433   ,In,IN,,,Zalgiris Kaunas,0
+ZAL       ,,22,02:10,28,368,"MICIC, VASILIJE",P002580   ,Out,OUT,,,Zalgiris Kaunas,0
+ZAL       ,,44,02:10,28,369,"KAVALIAUSKAS, ANTANAS",P000399   ,Out,OUT,,,Zalgiris Kaunas,0
+MAD       ,,5,02:10,28,370,"FERNANDEZ, RUDY",PBMT      ,In,IN,,,Real Madrid,0
+MAD       ,,11,02:10,28,371,"CAMPAZZO, FACUNDO",P005928   ,Out,OUT,,,Real Madrid,0
+ZAL       ,,0,01:55,29,373,"DAVIES, BRANDON",P007870   ,Two Pointer (1/3 -  2 pt),2FGM,44.0,61.0,Zalgiris Kaunas,0
+ZAL       ,,92,01:53,29,374,"ULANOVAS, EDGARAS",P002329   ,Assist (2),AS,,,Zalgiris Kaunas,0
+ZAL       ,,92,01:38,29,375,"ULANOVAS, EDGARAS",P002329   ,Foul (3),CM,,,Zalgiris Kaunas,0
+MAD       ,,9,01:38,29,376,"REYES, FELIPE",PAAX      ,Foul Drawn (3),RV,,,Real Madrid,0
+ZAL       ,,13,01:33,29,377,"JANKUNAS, PAULIUS",PBWI      ,Foul (4),CM,,,Zalgiris Kaunas,0
+MAD       ,,7,01:33,29,378,"DONCIC, LUKA",P005929   ,Foul Drawn (3),RV,,,Real Madrid,0
+MAD       ,,1,01:33,29,379,"CAUSEUR, FABIEN",P001392   ,Out,OUT,,,Real Madrid,0
+MAD       ,,44,01:33,29,380,"TAYLOR, JEFFERY",P006546   ,In,IN,,,Real Madrid,0
+MAD       ,,7,01:33,29,381,"DONCIC, LUKA",P005929   ,Free Throw In (5/5 -  17 pt),FTM,44.0,62.0,Real Madrid,0
+MAD       ,,7,01:33,29,382,"DONCIC, LUKA",P005929   ,Free Throw In (6/6 -  18 pt),FTM,44.0,63.0,Real Madrid,0
+ZAL       ,,6,01:16,29,383,"TOUPANE, AXEL",P002582   ,Two Pointer (2/2 -  4 pt),2FGM,46.0,63.0,Zalgiris Kaunas,0
+ZAL       ,,3,01:14,29,384,"PANGOS, KEVIN",P006433   ,Assist (4),AS,,,Zalgiris Kaunas,0
+MAD       ,,5,01:00,29,385,"FERNANDEZ, RUDY",PBMT      ,Turnover (1),TO,,,Real Madrid,0
+ZAL       ,,0,00:59,30,387,"DAVIES, BRANDON",P007870   ,Steal (1),ST,,,Zalgiris Kaunas,0
+ZAL       ,,0,00:44,30,388,"DAVIES, BRANDON",P007870   ,Two Pointer (2/4 -  4 pt),2FGM,48.0,63.0,Zalgiris Kaunas,0
+ZAL       ,,3,00:42,30,389,"PANGOS, KEVIN",P006433   ,Assist (5),AS,,,Zalgiris Kaunas,0
+MAD       ,,14,00:30,30,390,"AYON, GUSTAVO",P005927   ,Offensive Foul (3),OF,,,Real Madrid,0
+MAD       ,,14,00:30,30,391,"AYON, GUSTAVO",P005927   ,Turnover (2),TO,,,Real Madrid,0
+ZAL       ,,13,00:30,30,392,"JANKUNAS, PAULIUS",PBWI      ,Foul Drawn (3),RV,,,Zalgiris Kaunas,0
+ZAL       ,,13,00:30,30,393,"JANKUNAS, PAULIUS",PBWI      ,Out,OUT,,,Zalgiris Kaunas,0
+ZAL       ,,30,00:30,30,394,"WHITE, AARON",P006505   ,In,IN,,,Zalgiris Kaunas,0
+MAD       ,,6,00:30,30,395,"RADONCIC, DINO",P006543   ,In,IN,,,Real Madrid,0
+MAD       ,,14,00:30,30,396,"AYON, GUSTAVO",P005927   ,Out,OUT,,,Real Madrid,0
+ZAL       ,,30,00:11,30,397,"WHITE, AARON",P006505   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Zalgiris Kaunas,0
+ZAL       ,,92,00:09,30,398,"ULANOVAS, EDGARAS",P002329   ,Off Rebound (1),O,,,Zalgiris Kaunas,0
+ZAL       ,,92,00:05,30,399,"ULANOVAS, EDGARAS",P002329   ,Missed Two Pointer (1/4 -  4 pt),2FGA,,,Zalgiris Kaunas,0
+ZAL       ,,0,00:03,30,400,"DAVIES, BRANDON",P007870   ,Off Rebound (2),O,,,Zalgiris Kaunas,0
+ZAL       ,,0,00:01,30,401,"DAVIES, BRANDON",P007870   ,Two Pointer (3/5 -  6 pt),2FGM,50.0,63.0,Zalgiris Kaunas,0
+MAD       ,,44,00:01,30,402,"TAYLOR, JEFFERY",P006546   ,Missed Three Pointer (1/2 -  5 pt),3FGA,,,Real Madrid,0
+          ,,,,31,404,,          ,End Period,EP,,,,0
+          ,,,,31,407,,          ,Begin Period,BP,,,,0
+MAD       ,,7,10:00,31,405,"DONCIC, LUKA",P005929   ,Out,OUT,,,Real Madrid,0
+MAD       ,,11,10:00,31,406,"CAMPAZZO, FACUNDO",P005928   ,In,IN,,,Real Madrid,0
+MAD       ,,11,09:43,31,408,"CAMPAZZO, FACUNDO",P005928   ,Missed Two Pointer (1/2 -  11 pt),2FGA,,,Real Madrid,0
+MAD       ,,11,09:43,31,409,"CAMPAZZO, FACUNDO",P005928   ,Shot Rejected (1),AG,,,Real Madrid,0
+ZAL       ,,3,09:43,31,410,"PANGOS, KEVIN",P006433   ,Block (1),FV,,,Zalgiris Kaunas,0
+ZAL       ,,6,09:43,31,411,"TOUPANE, AXEL",P002582   ,Def Rebound (3),D,,,Zalgiris Kaunas,0
+MAD       ,,44,09:23,31,412,"TAYLOR, JEFFERY",P006546   ,Foul (2),CM,,,Real Madrid,0
+ZAL       ,,30,09:23,31,413,"WHITE, AARON",P006505   ,Foul Drawn (3),RV,,,Zalgiris Kaunas,0
+ZAL       ,,3,09:12,31,414,"PANGOS, KEVIN",P006433   ,Missed Three Pointer (2/6 -  14 pt),3FGA,,,Zalgiris Kaunas,0
+MAD       ,,5,09:10,31,415,"FERNANDEZ, RUDY",PBMT      ,Def Rebound (2),D,,,Real Madrid,0
+ZAL       ,,0,09:03,31,416,"DAVIES, BRANDON",P007870   ,Foul (1),CM,,,Zalgiris Kaunas,0
+MAD       ,,9,09:03,31,417,"REYES, FELIPE",PAAX      ,Foul Drawn (4),RV,,,Real Madrid,0
+ZAL       ,,92,08:53,32,419,"ULANOVAS, EDGARAS",P002329   ,Foul (4),CM,,,Zalgiris Kaunas,0
+MAD       ,,11,08:53,32,420,"CAMPAZZO, FACUNDO",P005928   ,Foul Drawn (2),RV,,,Real Madrid,0
+MAD       ,,5,08:51,32,421,"FERNANDEZ, RUDY",PBMT      ,Three Pointer (1/2 -  7 pt),3FGM,50.0,66.0,Real Madrid,0
+MAD       ,,11,08:51,32,422,"CAMPAZZO, FACUNDO",P005928   ,Assist (5),AS,,,Real Madrid,0
+ZAL       ,,0,08:44,32,423,"DAVIES, BRANDON",P007870   ,Turnover (1),TO,,,Zalgiris Kaunas,0
+ZAL       ,,3,08:31,32,424,"PANGOS, KEVIN",P006433   ,Foul (2),CM,,,Zalgiris Kaunas,0
+MAD       ,,44,08:31,32,425,"TAYLOR, JEFFERY",P006546   ,Foul Drawn (2),RV,,,Real Madrid,0
+ZAL       ,,3,08:31,32,426,"PANGOS, KEVIN",P006433   ,Out,OUT,,,Zalgiris Kaunas,0
+ZAL       ,,21,08:31,32,427,"MILAKNIS, ARTURAS",PKPD      ,In,IN,,,Zalgiris Kaunas,0
+ZAL       ,,22,08:31,32,428,"MICIC, VASILIJE",P002580   ,In,IN,,,Zalgiris Kaunas,0
+ZAL       ,,92,08:31,32,429,"ULANOVAS, EDGARAS",P002329   ,Out,OUT,,,Zalgiris Kaunas,0
+MAD       ,,44,08:31,32,430,"TAYLOR, JEFFERY",P006546   ,Missed Free Throw (2/3 -  5 pt),FTA,,,Real Madrid,0
+MAD       ,,44,08:31,32,431,"TAYLOR, JEFFERY",P006546   ,Free Throw In (3/4 -  6 pt),FTM,50.0,67.0,Real Madrid,0
+ZAL       ,,0,08:31,32,432,"DAVIES, BRANDON",P007870   ,Out,OUT,,,Zalgiris Kaunas,0
+ZAL       ,,44,08:31,32,433,"KAVALIAUSKAS, ANTANAS",P000399   ,In,IN,,,Zalgiris Kaunas,0
+ZAL       ,,44,08:14,32,434,"KAVALIAUSKAS, ANTANAS",P000399   ,Two Pointer (7/9 -  15 pt),2FGM,52.0,67.0,Zalgiris Kaunas,0
+MAD       ,,9,08:14,32,435,"REYES, FELIPE",PAAX      ,Foul (4),CM,,,Real Madrid,0
+ZAL       ,,44,08:14,32,436,"KAVALIAUSKAS, ANTANAS",P000399   ,Foul Drawn (4),RV,,,Zalgiris Kaunas,0
+MAD       ,,9,08:14,32,437,"REYES, FELIPE",PAAX      ,Out,OUT,,,Real Madrid,0
+MAD       ,,14,08:14,32,438,"AYON, GUSTAVO",P005927   ,In,IN,,,Real Madrid,0
+ZAL       ,,44,08:14,32,439,"KAVALIAUSKAS, ANTANAS",P000399   ,Free Throw In (2/2 -  16 pt),FTM,53.0,67.0,Zalgiris Kaunas,0
+MAD       ,,5,07:49,33,441,"FERNANDEZ, RUDY",PBMT      ,Missed Two Pointer (1/2 -  7 pt),2FGA,,,Real Madrid,0
+ZAL       ,,,07:49,33,442,,          ,Def Rebound (3),D,,,Zalgiris Kaunas,0
+ZAL       ,,22,07:33,33,443,"MICIC, VASILIJE",P002580   ,Missed Three Pointer (0/4 -  0 pt),3FGA,,,Zalgiris Kaunas,0
+MAD       ,,14,07:31,33,444,"AYON, GUSTAVO",P005927   ,Def Rebound (2),D,,,Real Madrid,0
+ZAL       ,,13,07:20,33,445,"JANKUNAS, PAULIUS",PBWI      ,In,IN,,,Zalgiris Kaunas,0
+ZAL       ,,30,07:20,33,446,"WHITE, AARON",P006505   ,Out,OUT,,,Zalgiris Kaunas,0
+MAD       ,,6,07:20,33,447,"RADONCIC, DINO",P006543   ,Out,OUT,,,Real Madrid,0
+MAD       ,,8,07:20,33,448,"MACIULIS, JONAS",PJCC      ,In,IN,,,Real Madrid,0
+MAD       ,,44,07:09,33,449,"TAYLOR, JEFFERY",P006546   ,Three Pointer (2/3 -  9 pt),3FGM,53.0,70.0,Real Madrid,0
+MAD       ,,11,07:06,33,450,"CAMPAZZO, FACUNDO",P005928   ,Assist (6),AS,,,Real Madrid,0
+ZAL       ,,6,06:55,34,452,"TOUPANE, AXEL",P002582   ,Turnover (1),TO,,,Zalgiris Kaunas,0
+MAD       ,,11,06:53,34,453,"CAMPAZZO, FACUNDO",P005928   ,Steal (2),ST,,,Real Madrid,0
+MAD       ,,44,06:48,34,454,"TAYLOR, JEFFERY",P006546   ,Three Pointer (3/4 -  12 pt),3FGM,53.0,73.0,Real Madrid,0
+MAD       ,,5,06:48,34,455,"FERNANDEZ, RUDY",PBMT      ,Assist (3),AS,,,Real Madrid,0
+ZAL       ,,,06:48,34,456,,          ,Time Out (1),TOUT,,,Zalgiris Kaunas,0
+          ,,,06:48,34,457,,          ,TV Time Out (4),TOUT_TV,,,,0
+ZAL       ,,3,06:48,34,458,"PANGOS, KEVIN",P006433   ,In,IN,,,Zalgiris Kaunas,0
+ZAL       ,,6,06:48,34,459,"TOUPANE, AXEL",P002582   ,Out,OUT,,,Zalgiris Kaunas,0
+ZAL       ,,21,06:32,34,460,"MILAKNIS, ARTURAS",PKPD      ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Zalgiris Kaunas,0
+ZAL       ,,13,06:30,34,461,"JANKUNAS, PAULIUS",PBWI      ,Off Rebound (2),O,,,Zalgiris Kaunas,0
+ZAL       ,,22,06:27,34,462,"MICIC, VASILIJE",P002580   ,Missed Three Pointer (0/5 -  0 pt),3FGA,,,Zalgiris Kaunas,0
+ZAL       ,,13,06:24,34,463,"JANKUNAS, PAULIUS",PBWI      ,Off Rebound (3),O,,,Zalgiris Kaunas,0
+ZAL       ,,3,06:20,34,464,"PANGOS, KEVIN",P006433   ,Three Pointer (3/7 -  17 pt),3FGM,56.0,73.0,Zalgiris Kaunas,0
+ZAL       ,,13,06:15,34,465,"JANKUNAS, PAULIUS",PBWI      ,Assist (1),AS,,,Zalgiris Kaunas,0
+ZAL       ,,21,06:04,34,466,"MILAKNIS, ARTURAS",PKPD      ,Foul (2),CM,,,Zalgiris Kaunas,0
+MAD       ,,11,06:04,34,467,"CAMPAZZO, FACUNDO",P005928   ,Foul Drawn (3),RV,,,Real Madrid,0
+MAD       ,,11,05:48,35,469,"CAMPAZZO, FACUNDO",P005928   ,Turnover (1),TO,,,Real Madrid,0
+ZAL       ,,3,05:46,35,470,"PANGOS, KEVIN",P006433   ,Steal (1),ST,,,Zalgiris Kaunas,0
+ZAL       ,,21,05:38,35,471,"MILAKNIS, ARTURAS",PKPD      ,Missed Two Pointer (0/3 -  0 pt),2FGA,,,Zalgiris Kaunas,0
+ZAL       ,,21,05:35,35,472,"MILAKNIS, ARTURAS",PKPD      ,Off Rebound (1),O,,,Zalgiris Kaunas,0
+ZAL       ,,3,05:33,35,473,"PANGOS, KEVIN",P006433   ,Missed Three Pointer (3/8 -  17 pt),3FGA,,,Zalgiris Kaunas,0
+ZAL       ,,,05:33,35,474,,          ,Off Rebound (2),O,,,Zalgiris Kaunas,0
+ZAL       ,,21,05:33,35,475,"MILAKNIS, ARTURAS",PKPD      ,Out,OUT,,,Zalgiris Kaunas,0
+ZAL       ,,22,05:33,35,476,"MICIC, VASILIJE",P002580   ,Out,OUT,,,Zalgiris Kaunas,0
+ZAL       ,,66,05:33,35,477,"VALINSKAS, PAULIUS",P004664   ,In,IN,,,Zalgiris Kaunas,0
+ZAL       ,,92,05:33,35,478,"ULANOVAS, EDGARAS",P002329   ,In,IN,,,Zalgiris Kaunas,0
+ZAL       ,,92,05:21,35,479,"ULANOVAS, EDGARAS",P002329   ,Missed Two Pointer (1/5 -  4 pt),2FGA,,,Zalgiris Kaunas,0
+MAD       ,,11,05:17,35,480,"CAMPAZZO, FACUNDO",P005928   ,Def Rebound (1),D,,,Real Madrid,0
+MAD       ,,5,04:56,36,482,"FERNANDEZ, RUDY",PBMT      ,Missed Three Pointer (1/3 -  7 pt),3FGA,,,Real Madrid,0
+ZAL       ,,,04:56,36,483,,          ,Def Rebound (4),D,,,Zalgiris Kaunas,0
+MAD       ,,5,04:56,36,484,"FERNANDEZ, RUDY",PBMT      ,Out,OUT,,,Real Madrid,0
+MAD       ,,7,04:56,36,485,"DONCIC, LUKA",P005929   ,In,IN,,,Real Madrid,0
+ZAL       ,,44,04:44,36,486,"KAVALIAUSKAS, ANTANAS",P000399   ,Missed Two Pointer (7/10 -  16 pt),2FGA,,,Zalgiris Kaunas,0
+MAD       ,,11,04:42,36,487,"CAMPAZZO, FACUNDO",P005928   ,Def Rebound (2),D,,,Real Madrid,0
+MAD       ,,7,04:26,36,488,"DONCIC, LUKA",P005929   ,Two Pointer (4/5 -  20 pt),2FGM,56.0,75.0,Real Madrid,0
+MAD       ,,14,04:24,36,489,"AYON, GUSTAVO",P005927   ,Assist (5),AS,,,Real Madrid,0
+ZAL       ,,13,04:11,36,490,"JANKUNAS, PAULIUS",PBWI      ,Out,OUT,,,Zalgiris Kaunas,0
+ZAL       ,,20,04:11,36,491,"MASIULIS, GYTIS",P006183   ,In,IN,,,Zalgiris Kaunas,0
+ZAL       ,,24,04:11,36,492,"ARLAUSKAS, MARTYNAS",P007516   ,In,IN,,,Zalgiris Kaunas,0
+ZAL       ,,92,04:11,36,493,"ULANOVAS, EDGARAS",P002329   ,Out,OUT,,,Zalgiris Kaunas,0
+ZAL       ,,24,04:05,36,494,"ARLAUSKAS, MARTYNAS",P007516   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Zalgiris Kaunas,0
+ZAL       ,,24,04:04,36,495,"ARLAUSKAS, MARTYNAS",P007516   ,Shot Rejected (1),AG,,,Zalgiris Kaunas,0
+MAD       ,,14,04:02,36,496,"AYON, GUSTAVO",P005927   ,Block (3),FV,,,Real Madrid,0
+MAD       ,,8,04:01,36,497,"MACIULIS, JONAS",PJCC      ,Def Rebound (3),D,,,Real Madrid,0
+MAD       ,,14,03:50,37,499,"AYON, GUSTAVO",P005927   ,Missed Two Pointer (6/10 -  12 pt),2FGA,,,Real Madrid,0
+MAD       ,,14,03:50,37,500,"AYON, GUSTAVO",P005927   ,Shot Rejected (1),AG,,,Real Madrid,0
+ZAL       ,,44,03:48,37,501,"KAVALIAUSKAS, ANTANAS",P000399   ,Block (1),FV,,,Zalgiris Kaunas,0
+ZAL       ,,66,03:46,37,502,"VALINSKAS, PAULIUS",P004664   ,Def Rebound (1),D,,,Zalgiris Kaunas,0
+MAD       ,,44,03:46,37,503,"TAYLOR, JEFFERY",P006546   ,Foul (3),CM,,,Real Madrid,0
+ZAL       ,,44,03:46,37,504,"KAVALIAUSKAS, ANTANAS",P000399   ,Foul Drawn (5),RV,,,Zalgiris Kaunas,0
+ZAL       ,,66,03:40,37,505,"VALINSKAS, PAULIUS",P004664   ,Offensive Foul (2),OF,,,Zalgiris Kaunas,0
+ZAL       ,,66,03:40,37,506,"VALINSKAS, PAULIUS",P004664   ,Turnover (1),TO,,,Zalgiris Kaunas,0
+MAD       ,,11,03:40,37,507,"CAMPAZZO, FACUNDO",P005928   ,Foul Drawn (4),RV,,,Real Madrid,0
+ZAL       ,,,03:40,37,508,,CO_A      ,Coach Foul (1),C,,,Zalgiris Kaunas,0
+MAD       ,,2,03:40,37,509,"RANDLE, CHASSON",P008038   ,In,IN,,,Real Madrid,0
+MAD       ,,8,03:40,37,510,"MACIULIS, JONAS",PJCC      ,Out,OUT,,,Real Madrid,0
+MAD       ,,11,03:40,37,511,"CAMPAZZO, FACUNDO",P005928   ,Free Throw In (1/1 -  12 pt),FTM,56.0,76.0,Real Madrid,0
+MAD       ,,7,03:26,37,512,"DONCIC, LUKA",P005929   ,Turnover (3),TO,,,Real Madrid,0
+ZAL       ,,3,03:24,37,513,"PANGOS, KEVIN",P006433   ,Steal (2),ST,,,Zalgiris Kaunas,0
+ZAL       ,,20,03:19,37,514,"MASIULIS, GYTIS",P006183   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Zalgiris Kaunas,0
+MAD       ,,2,03:17,37,515,"RANDLE, CHASSON",P008038   ,Def Rebound (1),D,,,Real Madrid,0
+MAD       ,,7,03:06,37,516,"DONCIC, LUKA",P005929   ,Two Pointer (5/6 -  22 pt),2FGM,56.0,78.0,Real Madrid,0
+ZAL       ,,3,02:52,38,518,"PANGOS, KEVIN",P006433   ,Three Pointer (4/9 -  20 pt),3FGM,59.0,78.0,Zalgiris Kaunas,0
+MAD       ,,11,02:29,38,519,"CAMPAZZO, FACUNDO",P005928   ,Missed Three Pointer (3/8 -  12 pt),3FGA,,,Real Madrid,0
+MAD       ,,14,02:27,38,520,"AYON, GUSTAVO",P005927   ,Off Rebound (2),O,,,Real Madrid,0
+MAD       ,,2,02:16,38,521,"RANDLE, CHASSON",P008038   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Real Madrid,0
+MAD       ,,7,02:12,38,522,"DONCIC, LUKA",P005929   ,Off Rebound (1),O,,,Real Madrid,0
+MAD       ,,7,02:10,38,523,"DONCIC, LUKA",P005929   ,Missed Two Pointer (5/7 -  22 pt),2FGA,,,Real Madrid,0
+MAD       ,,7,02:08,38,524,"DONCIC, LUKA",P005929   ,Off Rebound (2),O,,,Real Madrid,0
+ZAL       ,,44,01:59,39,526,"KAVALIAUSKAS, ANTANAS",P000399   ,Foul (3),CM,,,Zalgiris Kaunas,0
+MAD       ,,14,01:59,39,527,"AYON, GUSTAVO",P005927   ,Foul Drawn (2),RV,,,Real Madrid,0
+ZAL       ,,0,01:59,39,528,"DAVIES, BRANDON",P007870   ,In,IN,,,Zalgiris Kaunas,0
+ZAL       ,,3,01:59,39,529,"PANGOS, KEVIN",P006433   ,Out,OUT,,,Zalgiris Kaunas,0
+ZAL       ,,22,01:59,39,530,"MICIC, VASILIJE",P002580   ,In,IN,,,Zalgiris Kaunas,0
+ZAL       ,,44,01:59,39,531,"KAVALIAUSKAS, ANTANAS",P000399   ,Out,OUT,,,Zalgiris Kaunas,0
+MAD       ,,11,01:59,39,532,"CAMPAZZO, FACUNDO",P005928   ,Out,OUT,,,Real Madrid,0
+MAD       ,,16,01:59,39,533,"YUSTA, SANTI",P005368   ,In,IN,,,Real Madrid,0
+MAD       ,,14,01:59,39,534,"AYON, GUSTAVO",P005927   ,Technical Foul (4),CMT,,,Real Madrid,0
+MAD       ,,14,01:59,39,535,"AYON, GUSTAVO",P005927   ,Missed Free Throw (0/1 -  12 pt),FTA,,,Real Madrid,0
+MAD       ,,14,01:59,39,536,"AYON, GUSTAVO",P005927   ,Missed Free Throw (0/2 -  12 pt),FTA,,,Real Madrid,0
+MAD       ,,6,01:59,39,537,"RADONCIC, DINO",P006543   ,In,IN,,,Real Madrid,0
+MAD       ,,14,01:59,39,538,"AYON, GUSTAVO",P005927   ,Out,OUT,,,Real Madrid,0
+ZAL       ,,24,01:59,39,539,"ARLAUSKAS, MARTYNAS",P007516   ,Missed Free Throw (0/1 -  0 pt),FTA,,,Zalgiris Kaunas,0
+MAD       ,,6,01:49,39,540,"RADONCIC, DINO",P006543   ,Foul (1),CM,,,Real Madrid,0
+ZAL       ,,66,01:49,39,541,"VALINSKAS, PAULIUS",P004664   ,Foul Drawn (1),RV,,,Zalgiris Kaunas,0
+ZAL       ,,66,01:49,39,542,"VALINSKAS, PAULIUS",P004664   ,Free Throw In (1/1 -  1 pt),FTM,60.0,78.0,Zalgiris Kaunas,0
+ZAL       ,,66,01:49,39,543,"VALINSKAS, PAULIUS",P004664   ,Missed Free Throw (1/2 -  1 pt),FTA,,,Zalgiris Kaunas,0
+MAD       ,,7,01:49,39,544,"DONCIC, LUKA",P005929   ,Def Rebound (7),D,,,Real Madrid,0
+MAD       ,,6,01:33,39,545,"RADONCIC, DINO",P006543   ,Missed Three Pointer (1/2 -  3 pt),3FGA,,,Real Madrid,0
+ZAL       ,,20,01:31,39,546,"MASIULIS, GYTIS",P006183   ,Def Rebound (1),D,,,Zalgiris Kaunas,0
+MAD       ,,2,01:19,39,547,"RANDLE, CHASSON",P008038   ,Foul (1),CM,,,Real Madrid,0
+ZAL       ,,24,01:19,39,548,"ARLAUSKAS, MARTYNAS",P007516   ,Foul Drawn (1),RV,,,Zalgiris Kaunas,0
+ZAL       ,,24,01:19,39,549,"ARLAUSKAS, MARTYNAS",P007516   ,Free Throw In (1/2 -  1 pt),FTM,61.0,78.0,Zalgiris Kaunas,0
+ZAL       ,,24,01:19,39,550,"ARLAUSKAS, MARTYNAS",P007516   ,Free Throw In (2/3 -  2 pt),FTM,62.0,78.0,Zalgiris Kaunas,0
+MAD       ,,16,01:04,39,551,"YUSTA, SANTI",P005368   ,Three Pointer (1/1 -  3 pt),3FGM,62.0,81.0,Real Madrid,0
+MAD       ,,7,01:04,39,552,"DONCIC, LUKA",P005929   ,Assist (4),AS,,,Real Madrid,0
+ZAL       ,,20,00:52,40,554,"MASIULIS, GYTIS",P006183   ,Two Pointer (1/2 -  2 pt),2FGM,64.0,81.0,Zalgiris Kaunas,0
+ZAL       ,,0,00:52,40,555,"DAVIES, BRANDON",P007870   ,Assist (2),AS,,,Zalgiris Kaunas,0
+MAD       ,,7,00:39,40,556,"DONCIC, LUKA",P005929   ,Three Pointer (3/5 -  25 pt),3FGM,64.0,84.0,Real Madrid,0
+MAD       ,,44,00:39,40,557,"TAYLOR, JEFFERY",P006546   ,Assist (2),AS,,,Real Madrid,0
+MAD       ,,2,00:25,40,558,"RANDLE, CHASSON",P008038   ,Foul (2),CM,,,Real Madrid,0
+ZAL       ,,66,00:25,40,559,"VALINSKAS, PAULIUS",P004664   ,Foul Drawn (2),RV,,,Zalgiris Kaunas,0
+ZAL       ,,66,00:25,40,560,"VALINSKAS, PAULIUS",P004664   ,Free Throw In (2/3 -  2 pt),FTM,65.0,84.0,Zalgiris Kaunas,0
+ZAL       ,,66,00:25,40,561,"VALINSKAS, PAULIUS",P004664   ,Free Throw In (3/4 -  3 pt),FTM,66.0,84.0,Zalgiris Kaunas,0
+MAD       ,,7,00:01,40,562,"DONCIC, LUKA",P005929   ,Three Pointer (4/6 -  28 pt),3FGM,66.0,87.0,Real Madrid,0
+MAD       ,,2,00:01,40,563,"RANDLE, CHASSON",P008038   ,Assist (1),AS,,,Real Madrid,0
+          ,,,,41,566,,          ,End Game,EG,,,,0

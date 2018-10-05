@@ -1,0 +1,508 @@
+CODETEAM,COMMENT,DORSAL,MARKERTIME,MINUTE,NUMBEROFPLAY,PLAYER,PLAYER_ID,PLAYINFO,PLAYTYPE,POINTS_A,POINTS_B,TEAM,TYPE
+          ,,,,1,2,,          ,Begin Period,BP,,,,0
+CSK       ,,13,09:36,1,3,"RODRIGUEZ, SERGIO",PCVM      ,Turnover (1),TO,,,CSKA Moscow,0
+KHI       ,,21,09:35,1,4,"ANDERSON, JAMES",P005938   ,Steal (1),ST,,,Khimki Moscow Region,0
+KHI       ,,21,09:16,1,5,"ANDERSON, JAMES",P005938   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Khimki Moscow Region,0
+KHI       ,,22,09:14,1,6,"JENKINS, CHARLES",P005014   ,Off Rebound (1),O,,,Khimki Moscow Region,0
+KHI       ,,22,09:14,1,7,"JENKINS, CHARLES",P005014   ,Foul Drawn (1),RV,,,Khimki Moscow Region,0
+CSK       ,,11,09:14,1,8,"ANTONOV, SEMEN",P004941   ,Foul (1),CM,,,CSKA Moscow,0
+KHI       ,,13,09:12,1,9,"GILL, ANTHONY",P008001   ,Turnover (1),TO,,,Khimki Moscow Region,0
+CSK       ,,11,08:45,2,11,"ANTONOV, SEMEN",P004941   ,Two Pointer (1/1 -  2 pt),2FGM,2.0,,CSKA Moscow,0
+CSK       ,,41,08:42,2,12,"KURBANOV, NIKITA",PJLX      ,Assist (1),AS,,,CSKA Moscow,0
+KHI       ,,1,08:29,2,13,"SHVED, ALEXEY",PKVZ      ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Khimki Moscow Region,0
+CSK       ,,42,08:26,2,14,"HINES, KYLE",P002812   ,Def Rebound (1),D,,,CSKA Moscow,0
+CSK       ,,41,08:15,2,15,"KURBANOV, NIKITA",PJLX      ,Two Pointer (1/1 -  2 pt),2FGM,4.0,,CSKA Moscow,0
+KHI       ,,22,07:55,3,17,"JENKINS, CHARLES",P005014   ,Two Pointer (1/1 -  2 pt),2FGM,4.0,2.0,Khimki Moscow Region,0
+CSK       ,,41,07:37,3,18,"KURBANOV, NIKITA",PJLX      ,Three Pointer (1/1 -  5 pt),3FGM,7.0,2.0,CSKA Moscow,0
+CSK       ,,13,07:34,3,19,"RODRIGUEZ, SERGIO",PCVM      ,Assist (1),AS,,,CSKA Moscow,0
+KHI       ,,1,07:11,3,20,"SHVED, ALEXEY",PKVZ      ,Two Pointer (1/1 -  2 pt),2FGM,7.0,4.0,Khimki Moscow Region,0
+CSK       ,,22,06:56,4,22,"HIGGINS, CORY",P006450   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,CSKA Moscow,0
+CSK       ,,11,06:54,4,23,"ANTONOV, SEMEN",P004941   ,Off Rebound (1),O,,,CSKA Moscow,0
+CSK       ,,13,06:50,4,24,"RODRIGUEZ, SERGIO",PCVM      ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,CSKA Moscow,0
+KHI       ,,13,06:47,4,25,"GILL, ANTHONY",P008001   ,Def Rebound (1),D,,,Khimki Moscow Region,0
+KHI       ,,1,06:43,4,26,"SHVED, ALEXEY",PKVZ      ,Missed Three Pointer (0/2 -  2 pt),3FGA,,,Khimki Moscow Region,0
+CSK       ,,11,06:41,4,27,"ANTONOV, SEMEN",P004941   ,Def Rebound (1),D,,,CSKA Moscow,0
+CSK       ,,41,06:28,4,28,"KURBANOV, NIKITA",PJLX      ,Two Pointer (2/2 -  7 pt),2FGM,9.0,4.0,CSKA Moscow,0
+CSK       ,,22,06:26,4,29,"HIGGINS, CORY",P006450   ,Assist (1),AS,,,CSKA Moscow,0
+KHI       ,,1,06:05,4,30,"SHVED, ALEXEY",PKVZ      ,Turnover (1),TO,,,Khimki Moscow Region,0
+CSK       ,,11,06:03,4,31,"ANTONOV, SEMEN",P004941   ,Steal (1),ST,,,CSKA Moscow,0
+CSK       ,,22,06:01,4,32,"HIGGINS, CORY",P006450   ,Foul Drawn (1),RV,,,CSKA Moscow,0
+KHI       ,,21,06:01,4,33,"ANDERSON, JAMES",P005938   ,Foul (1),CM,,,Khimki Moscow Region,0
+CSK       ,,22,06:01,4,34,"HIGGINS, CORY",P006450   ,Free Throw In (1/1 -  1 pt),FTM,10.0,4.0,CSKA Moscow,0
+CSK       ,,22,06:01,4,35,"HIGGINS, CORY",P006450   ,Missed Free Throw (1/2 -  1 pt),FTA,,,CSKA Moscow,0
+KHI       ,,23,06:01,4,36,"THOMAS, MALCOLM",P004251   ,Def Rebound (1),D,,,Khimki Moscow Region,0
+KHI       ,,23,05:44,5,38,"THOMAS, MALCOLM",P004251   ,Three Pointer (1/1 -  3 pt),3FGM,10.0,7.0,Khimki Moscow Region,0
+KHI       ,,1,05:42,5,39,"SHVED, ALEXEY",PKVZ      ,Assist (1),AS,,,Khimki Moscow Region,0
+CSK       ,,22,05:28,5,40,"HIGGINS, CORY",P006450   ,Two Pointer (1/2 -  3 pt),2FGM,12.0,7.0,CSKA Moscow,0
+KHI       ,,1,05:05,5,41,"SHVED, ALEXEY",PKVZ      ,Turnover (2),TO,,,Khimki Moscow Region,0
+CSK       ,,13,05:01,5,42,"RODRIGUEZ, SERGIO",PCVM      ,Three Pointer (1/1 -  3 pt),3FGM,15.0,7.0,CSKA Moscow,0
+CSK       ,,11,05:01,5,43,"ANTONOV, SEMEN",P004941   ,Assist (1),AS,,,CSKA Moscow,0
+KHI       ,,22,04:37,6,45,"JENKINS, CHARLES",P005014   ,Foul Drawn (2),RV,,,Khimki Moscow Region,0
+CSK       ,,13,04:37,6,46,"RODRIGUEZ, SERGIO",PCVM      ,Foul (1),CM,,,CSKA Moscow,0
+          ,,,04:37,6,47,,          ,TV Time Out (1),TOUT_TV,,,,0
+KHI       ,,1,04:34,6,48,"SHVED, ALEXEY",PKVZ      ,Two Pointer (2/2 -  4 pt),2FGM,15.0,9.0,Khimki Moscow Region,0
+CSK       ,,22,04:34,6,49,"HIGGINS, CORY",P006450   ,Two Pointer (2/3 -  5 pt),2FGM,17.0,9.0,CSKA Moscow,0
+CSK       ,,41,04:34,6,50,"KURBANOV, NIKITA",PJLX      ,Assist (2),AS,,,CSKA Moscow,0
+KHI       ,,22,04:34,6,51,"JENKINS, CHARLES",P005014   ,Turnover (1),TO,,,Khimki Moscow Region,0
+CSK       ,,13,04:34,6,52,"RODRIGUEZ, SERGIO",PCVM      ,Steal (1),ST,,,CSKA Moscow,0
+CSK       ,,42,04:34,6,53,"HINES, KYLE",P002812   ,Foul Drawn (1),RV,,,CSKA Moscow,0
+KHI       ,,22,04:34,6,54,"JENKINS, CHARLES",P005014   ,Foul (1),CM,,,Khimki Moscow Region,0
+CSK       ,,41,03:27,7,56,"KURBANOV, NIKITA",PJLX      ,Missed Three Pointer (1/2 -  7 pt),3FGA,,,CSKA Moscow,0
+CSK       ,,11,03:25,7,57,"ANTONOV, SEMEN",P004941   ,Off Rebound (2),O,,,CSKA Moscow,0
+CSK       ,,13,03:23,7,58,"RODRIGUEZ, SERGIO",PCVM      ,Turnover (2),TO,,,CSKA Moscow,0
+KHI       ,,1,03:12,7,59,"SHVED, ALEXEY",PKVZ      ,Missed Two Pointer (2/3 -  4 pt),2FGA,,,Khimki Moscow Region,0
+CSK       ,,22,03:10,7,60,"HIGGINS, CORY",P006450   ,Def Rebound (1),D,,,CSKA Moscow,0
+CSK       ,,22,03:08,7,61,"HIGGINS, CORY",P006450   ,Foul Drawn (2),RV,,,CSKA Moscow,0
+KHI       ,,21,03:08,7,62,"ANDERSON, JAMES",P005938   ,Foul (2),CM,,,Khimki Moscow Region,0
+CSK       ,,11,03:08,7,63,"ANTONOV, SEMEN",P004941   ,Out,OUT,,,CSKA Moscow,0
+CSK       ,,21,03:08,7,64,"CLYBURN, WILL",P004888   ,In,IN,,,CSKA Moscow,0
+KHI       ,,2,03:08,7,65,"HONEYCUTT, TYLER",P005800   ,In,IN,,,Khimki Moscow Region,0
+KHI       ,,21,03:08,7,66,"ANDERSON, JAMES",P005938   ,Out,OUT,,,Khimki Moscow Region,0
+CSK       ,,22,03:08,7,67,"HIGGINS, CORY",P006450   ,Free Throw In (2/3 -  6 pt),FTM,18.0,9.0,CSKA Moscow,0
+CSK       ,,22,03:08,7,68,"HIGGINS, CORY",P006450   ,Free Throw In (3/4 -  7 pt),FTM,19.0,9.0,CSKA Moscow,0
+KHI       ,,1,02:48,8,70,"SHVED, ALEXEY",PKVZ      ,Two Pointer (3/4 -  6 pt),2FGM,19.0,11.0,Khimki Moscow Region,0
+CSK       ,,22,02:23,8,71,"HIGGINS, CORY",P006450   ,Missed Three Pointer (0/1 -  7 pt),3FGA,,,CSKA Moscow,0
+KHI       ,,23,02:20,8,72,"THOMAS, MALCOLM",P004251   ,Def Rebound (2),D,,,Khimki Moscow Region,0
+KHI       ,,23,02:15,8,73,"THOMAS, MALCOLM",P004251   ,Missed Two Pointer (0/1 -  3 pt),2FGA,,,Khimki Moscow Region,0
+CSK       ,,41,02:12,8,74,"KURBANOV, NIKITA",PJLX      ,Def Rebound (1),D,,,CSKA Moscow,0
+CSK       ,,21,01:59,9,76,"CLYBURN, WILL",P004888   ,Two Pointer (1/1 -  2 pt),2FGM,21.0,11.0,CSKA Moscow,0
+KHI       ,,2,01:37,9,77,"HONEYCUTT, TYLER",P005800   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Khimki Moscow Region,0
+CSK       ,,13,01:33,9,78,"RODRIGUEZ, SERGIO",PCVM      ,Def Rebound (1),D,,,CSKA Moscow,0
+CSK       ,,42,01:27,9,79,"HINES, KYLE",P002812   ,Two Pointer (1/1 -  2 pt),2FGM,23.0,11.0,CSKA Moscow,0
+CSK       ,,41,01:25,9,80,"KURBANOV, NIKITA",PJLX      ,Assist (3),AS,,,CSKA Moscow,0
+KHI       ,,1,01:06,9,81,"SHVED, ALEXEY",PKVZ      ,Two Pointer (4/5 -  8 pt),2FGM,23.0,13.0,Khimki Moscow Region,0
+KHI       ,,13,01:04,9,82,"GILL, ANTHONY",P008001   ,Assist (1),AS,,,Khimki Moscow Region,0
+CSK       ,,13,00:49,10,84,"RODRIGUEZ, SERGIO",PCVM      ,Turnover (3),TO,,,CSKA Moscow,0
+CSK       ,,1,00:49,10,85,"DE COLO, NANDO",P002100   ,In,IN,,,CSKA Moscow,0
+CSK       ,,13,00:49,10,86,"RODRIGUEZ, SERGIO",PCVM      ,Out,OUT,,,CSKA Moscow,0
+CSK       ,,20,00:49,10,87,"VORONTSEVICH, ANDREY",PLHI      ,In,IN,,,CSKA Moscow,0
+CSK       ,,41,00:49,10,88,"KURBANOV, NIKITA",PJLX      ,Out,OUT,,,CSKA Moscow,0
+KHI       ,,13,00:32,10,89,"GILL, ANTHONY",P008001   ,Three Pointer (1/1 -  3 pt),3FGM,23.0,16.0,Khimki Moscow Region,0
+KHI       ,,1,00:29,10,90,"SHVED, ALEXEY",PKVZ      ,Assist (2),AS,,,Khimki Moscow Region,0
+CSK       ,,21,00:29,10,91,"CLYBURN, WILL",P004888   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,CSKA Moscow,0
+KHI       ,,23,00:29,10,92,"THOMAS, MALCOLM",P004251   ,Def Rebound (3),D,,,Khimki Moscow Region,0
+KHI       ,,1,00:29,10,93,"SHVED, ALEXEY",PKVZ      ,Missed Two Pointer (4/6 -  8 pt),2FGA,,,Khimki Moscow Region,0
+CSK       ,,42,00:29,10,94,"HINES, KYLE",P002812   ,Def Rebound (2),D,,,CSKA Moscow,0
+          ,,,,11,96,,          ,End Period,EP,,,,0
+          ,,,,11,99,,          ,Begin Period,BP,,,,0
+KHI       ,,9,10:00,11,97,"MARKOVIC, STEFAN",PLME      ,In,IN,,,Khimki Moscow Region,0
+KHI       ,,22,10:00,11,98,"JENKINS, CHARLES",P005014   ,Out,OUT,,,Khimki Moscow Region,0
+KHI       ,,2,09:37,11,100,"HONEYCUTT, TYLER",P005800   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Khimki Moscow Region,0
+KHI       ,,2,09:37,11,101,"HONEYCUTT, TYLER",P005800   ,Shot Rejected (1),AG,,,Khimki Moscow Region,0
+CSK       ,,42,09:35,11,102,"HINES, KYLE",P002812   ,Block (1),FV,,,CSKA Moscow,0
+KHI       ,,9,09:31,11,103,"MARKOVIC, STEFAN",PLME      ,Off Rebound (1),O,,,Khimki Moscow Region,0
+KHI       ,,9,09:31,11,104,"MARKOVIC, STEFAN",PLME      ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Khimki Moscow Region,0
+CSK       ,,42,09:31,11,105,"HINES, KYLE",P002812   ,Def Rebound (3),D,,,CSKA Moscow,0
+CSK       ,,42,09:31,11,106,"HINES, KYLE",P002812   ,Two Pointer (2/2 -  4 pt),2FGM,25.0,16.0,CSKA Moscow,0
+CSK       ,,42,09:31,11,107,"HINES, KYLE",P002812   ,Foul Drawn (2),RV,,,CSKA Moscow,0
+KHI       ,,1,09:31,11,108,"SHVED, ALEXEY",PKVZ      ,Foul (1),CM,,,Khimki Moscow Region,0
+CSK       ,,42,09:31,11,109,"HINES, KYLE",P002812   ,Missed Free Throw (0/1 -  4 pt),FTA,,,CSKA Moscow,0
+CSK       ,,42,09:31,11,110,"HINES, KYLE",P002812   ,Off Rebound (1),O,,,CSKA Moscow,0
+CSK       ,,20,09:13,11,111,"VORONTSEVICH, ANDREY",PLHI      ,Two Pointer (1/1 -  2 pt),2FGM,27.0,16.0,CSKA Moscow,0
+KHI       ,,2,08:52,12,114,"HONEYCUTT, TYLER",P005800   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Khimki Moscow Region,0
+KHI       ,,,08:52,12,115,,          ,Off Rebound (1),O,,,Khimki Moscow Region,0
+KHI       ,,19,08:52,12,116,"TODOROVIC, MARKO",P001612   ,In,IN,,,Khimki Moscow Region,0
+KHI       ,,23,08:52,12,117,"THOMAS, MALCOLM",P004251   ,Out,OUT,,,Khimki Moscow Region,0
+KHI       ,,13,08:46,12,118,"GILL, ANTHONY",P008001   ,Missed Two Pointer (0/1 -  3 pt),2FGA,,,Khimki Moscow Region,0
+CSK       ,,20,08:46,12,119,"VORONTSEVICH, ANDREY",PLHI      ,Def Rebound (1),D,,,CSKA Moscow,0
+KHI       ,,,08:46,12,120,,CO_B      ,Coach Foul (1),C,,,Khimki Moscow Region,0
+CSK       ,,1,08:46,12,121,"DE COLO, NANDO",P002100   ,Free Throw In (1/1 -  1 pt),FTM,28.0,16.0,CSKA Moscow,0
+CSK       ,,22,08:23,12,122,"HIGGINS, CORY",P006450   ,Missed Three Pointer (0/2 -  7 pt),3FGA,,,CSKA Moscow,0
+KHI       ,,13,08:20,12,123,"GILL, ANTHONY",P008001   ,Def Rebound (2),D,,,Khimki Moscow Region,0
+KHI       ,,19,08:02,12,124,"TODOROVIC, MARKO",P001612   ,Two Pointer (1/1 -  2 pt),2FGM,28.0,18.0,Khimki Moscow Region,0
+KHI       ,,2,08:00,12,125,"HONEYCUTT, TYLER",P005800   ,Assist (1),AS,,,Khimki Moscow Region,0
+CSK       ,,22,07:44,13,127,"HIGGINS, CORY",P006450   ,Three Pointer (1/3 -  10 pt),3FGM,31.0,18.0,CSKA Moscow,0
+CSK       ,,1,07:41,13,128,"DE COLO, NANDO",P002100   ,Assist (1),AS,,,CSKA Moscow,0
+KHI       ,,1,07:27,13,129,"SHVED, ALEXEY",PKVZ      ,Missed Two Pointer (4/7 -  8 pt),2FGA,,,Khimki Moscow Region,0
+CSK       ,,1,07:24,13,130,"DE COLO, NANDO",P002100   ,Def Rebound (1),D,,,CSKA Moscow,0
+CSK       ,,22,07:16,13,131,"HIGGINS, CORY",P006450   ,Foul Drawn (3),RV,,,CSKA Moscow,0
+KHI       ,,9,07:16,13,132,"MARKOVIC, STEFAN",PLME      ,Foul (1),CM,,,Khimki Moscow Region,0
+KHI       ,,,07:16,13,133,,          ,Time Out (1),TOUT,,,Khimki Moscow Region,0
+CSK       ,,42,07:01,13,134,"HINES, KYLE",P002812   ,Two Pointer (3/3 -  6 pt),2FGM,33.0,18.0,CSKA Moscow,0
+CSK       ,,20,07:00,14,136,"VORONTSEVICH, ANDREY",PLHI      ,Assist (1),AS,,,CSKA Moscow,0
+KHI       ,,13,06:54,14,137,"GILL, ANTHONY",P008001   ,Foul Drawn (1),RV,,,Khimki Moscow Region,0
+CSK       ,,20,06:54,14,138,"VORONTSEVICH, ANDREY",PLHI      ,Foul (1),CM,,,CSKA Moscow,0
+CSK       ,,42,06:54,14,139,"HINES, KYLE",P002812   ,Out,OUT,,,CSKA Moscow,0
+CSK       ,,44,06:54,14,140,"HUNTER, OTHELLO",P005160   ,In,IN,,,CSKA Moscow,0
+KHI       ,,1,06:54,14,141,"SHVED, ALEXEY",PKVZ      ,Out,OUT,,,Khimki Moscow Region,0
+KHI       ,,6,06:54,14,142,"VIALTSEV, EGOR",PBGV      ,In,IN,,,Khimki Moscow Region,0
+KHI       ,,19,06:50,14,143,"TODOROVIC, MARKO",P001612   ,Turnover (1),TO,,,Khimki Moscow Region,0
+CSK       ,,21,06:50,14,144,"CLYBURN, WILL",P004888   ,Steal (1),ST,,,CSKA Moscow,0
+CSK       ,,22,06:50,14,145,"HIGGINS, CORY",P006450   ,Two Pointer (3/4 -  12 pt),2FGM,35.0,18.0,CSKA Moscow,0
+CSK       ,,21,06:50,14,146,"CLYBURN, WILL",P004888   ,Assist (1),AS,,,CSKA Moscow,0
+KHI       ,,19,06:18,14,147,"TODOROVIC, MARKO",P001612   ,Two Pointer (2/2 -  4 pt),2FGM,35.0,20.0,Khimki Moscow Region,0
+KHI       ,,19,06:18,14,148,"TODOROVIC, MARKO",P001612   ,Foul Drawn (1),RV,,,Khimki Moscow Region,0
+CSK       ,,21,06:18,14,149,"CLYBURN, WILL",P004888   ,Foul (1),CM,,,CSKA Moscow,0
+CSK       ,,13,06:18,14,150,"RODRIGUEZ, SERGIO",PCVM      ,In,IN,,,CSKA Moscow,0
+CSK       ,,22,06:18,14,151,"HIGGINS, CORY",P006450   ,Out,OUT,,,CSKA Moscow,0
+KHI       ,,12,06:18,14,152,"MONIA, SERGEY",PBFX      ,In,IN,,,Khimki Moscow Region,0
+KHI       ,,13,06:18,14,153,"GILL, ANTHONY",P008001   ,Out,OUT,,,Khimki Moscow Region,0
+KHI       ,,19,06:18,14,154,"TODOROVIC, MARKO",P001612   ,Free Throw In (1/1 -  5 pt),FTM,35.0,21.0,Khimki Moscow Region,0
+CSK       ,,21,06:01,14,155,"CLYBURN, WILL",P004888   ,Turnover (1),TO,,,CSKA Moscow,0
+KHI       ,,19,05:40,15,157,"TODOROVIC, MARKO",P001612   ,Foul Drawn (2),RV,,,Khimki Moscow Region,0
+CSK       ,,20,05:40,15,158,"VORONTSEVICH, ANDREY",PLHI      ,Foul (2),CM,,,CSKA Moscow,0
+CSK       ,,,05:40,15,160,,          ,Time Out (1),TOUT,,,CSKA Moscow,0
+CSK       ,,11,05:40,15,161,"ANTONOV, SEMEN",P004941   ,In,IN,,,CSKA Moscow,0
+CSK       ,,20,05:40,15,162,"VORONTSEVICH, ANDREY",PLHI      ,Out,OUT,,,CSKA Moscow,0
+KHI       ,,9,05:40,15,163,"MARKOVIC, STEFAN",PLME      ,Out,OUT,,,Khimki Moscow Region,0
+KHI       ,,13,05:40,15,164,"GILL, ANTHONY",P008001   ,In,IN,,,Khimki Moscow Region,0
+KHI       ,,9,05:40,15,165,"MARKOVIC, STEFAN",PLME      ,In,IN,,,Khimki Moscow Region,0
+KHI       ,,13,05:40,15,166,"GILL, ANTHONY",P008001   ,Out,OUT,,,Khimki Moscow Region,0
+KHI       ,,19,05:40,15,167,"TODOROVIC, MARKO",P001612   ,Missed Free Throw (1/2 -  5 pt),FTA,,,Khimki Moscow Region,0
+KHI       ,,19,05:40,15,168,"TODOROVIC, MARKO",P001612   ,Free Throw In (2/3 -  6 pt),FTM,35.0,22.0,Khimki Moscow Region,0
+KHI       ,,2,05:35,15,169,"HONEYCUTT, TYLER",P005800   ,Assist (2),AS,,,Khimki Moscow Region,0
+CSK       ,,1,05:35,15,170,"DE COLO, NANDO",P002100   ,Foul Drawn (1),RV,,,CSKA Moscow,0
+KHI       ,,19,05:35,15,171,"TODOROVIC, MARKO",P001612   ,Foul (1),CM,,,Khimki Moscow Region,0
+CSK       ,,1,05:13,15,172,"DE COLO, NANDO",P002100   ,Missed Three Pointer (0/1 -  1 pt),3FGA,,,CSKA Moscow,0
+KHI       ,,2,05:11,15,173,"HONEYCUTT, TYLER",P005800   ,Def Rebound (1),D,,,Khimki Moscow Region,0
+CSK       ,,1,04:55,16,175,"DE COLO, NANDO",P002100   ,Out,OUT,,,CSKA Moscow,0
+CSK       ,,7,04:55,16,176,"FRIDZON, VITALY",PLLH      ,In,IN,,,CSKA Moscow,0
+KHI       ,,19,04:50,16,177,"TODOROVIC, MARKO",P001612   ,Missed Two Pointer (2/3 -  6 pt),2FGA,,,Khimki Moscow Region,0
+CSK       ,,44,04:48,16,178,"HUNTER, OTHELLO",P005160   ,Def Rebound (1),D,,,CSKA Moscow,0
+CSK       ,,13,04:44,16,179,"RODRIGUEZ, SERGIO",PCVM      ,Missed Three Pointer (1/2 -  3 pt),3FGA,,,CSKA Moscow,0
+KHI       ,,2,04:41,16,180,"HONEYCUTT, TYLER",P005800   ,Def Rebound (2),D,,,Khimki Moscow Region,0
+KHI       ,,6,04:29,16,181,"VIALTSEV, EGOR",PBGV      ,Turnover (1),TO,,,Khimki Moscow Region,0
+CSK       ,,13,04:27,16,182,"RODRIGUEZ, SERGIO",PCVM      ,Steal (2),ST,,,CSKA Moscow,0
+CSK       ,,13,04:04,16,183,"RODRIGUEZ, SERGIO",PCVM      ,Missed Three Pointer (1/3 -  3 pt),3FGA,,,CSKA Moscow,0
+CSK       ,,13,04:04,16,184,"RODRIGUEZ, SERGIO",PCVM      ,Shot Rejected (1),AG,,,CSKA Moscow,0
+KHI       ,,19,04:04,16,185,"TODOROVIC, MARKO",P001612   ,Block (1),FV,,,Khimki Moscow Region,0
+CSK       ,,44,04:04,16,186,"HUNTER, OTHELLO",P005160   ,Off Rebound (1),O,,,CSKA Moscow,0
+CSK       ,,,04:04,16,187,,          ,Turnover (1),TO,,,CSKA Moscow,0
+KHI       ,,6,03:55,17,189,"VIALTSEV, EGOR",PBGV      ,Foul Drawn (1),RV,,,Khimki Moscow Region,0
+CSK       ,,7,03:55,17,190,"FRIDZON, VITALY",PLLH      ,Foul (1),CM,,,CSKA Moscow,0
+KHI       ,,9,03:40,17,191,"MARKOVIC, STEFAN",PLME      ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Khimki Moscow Region,0
+KHI       ,,19,03:40,17,192,"TODOROVIC, MARKO",P001612   ,Off Rebound (1),O,,,Khimki Moscow Region,0
+KHI       ,,19,03:40,17,193,"TODOROVIC, MARKO",P001612   ,Foul Drawn (3),RV,,,Khimki Moscow Region,0
+CSK       ,,21,03:40,17,194,"CLYBURN, WILL",P004888   ,Foul (2),CM,,,CSKA Moscow,0
+CSK       ,,21,03:40,17,195,"CLYBURN, WILL",P004888   ,Out,OUT,,,CSKA Moscow,0
+CSK       ,,41,03:40,17,196,"KURBANOV, NIKITA",PJLX      ,In,IN,,,CSKA Moscow,0
+KHI       ,,19,03:40,17,197,"TODOROVIC, MARKO",P001612   ,Missed Free Throw (2/4 -  6 pt),FTA,,,Khimki Moscow Region,0
+KHI       ,,19,03:40,17,198,"TODOROVIC, MARKO",P001612   ,Free Throw In (3/5 -  7 pt),FTM,35.0,23.0,Khimki Moscow Region,0
+CSK       ,,7,03:29,17,199,"FRIDZON, VITALY",PLLH      ,Turnover (1),TO,,,CSKA Moscow,0
+KHI       ,,6,03:29,17,200,"VIALTSEV, EGOR",PBGV      ,Steal (1),ST,,,Khimki Moscow Region,0
+KHI       ,,6,03:29,17,201,"VIALTSEV, EGOR",PBGV      ,Foul Drawn (2),RV,,,Khimki Moscow Region,0
+CSK       ,,7,03:29,17,202,"FRIDZON, VITALY",PLLH      ,Unsportsmanlike Foul  (2),CMU,,,CSKA Moscow,0
+KHI       ,,6,03:29,17,203,"VIALTSEV, EGOR",PBGV      ,Missed Free Throw (0/1 -  0 pt),FTA,,,Khimki Moscow Region,0
+KHI       ,,6,03:29,17,204,"VIALTSEV, EGOR",PBGV      ,Free Throw In (1/2 -  1 pt),FTM,35.0,24.0,Khimki Moscow Region,0
+KHI       ,,19,03:24,17,205,"TODOROVIC, MARKO",P001612   ,Two Pointer (3/4 -  9 pt),2FGM,35.0,26.0,Khimki Moscow Region,0
+KHI       ,,9,03:24,17,206,"MARKOVIC, STEFAN",PLME      ,Assist (1),AS,,,Khimki Moscow Region,0
+CSK       ,,,03:15,17,207,,          ,Time Out (2),TOUT,,,CSKA Moscow,0
+CSK       ,,7,03:15,17,208,"FRIDZON, VITALY",PLLH      ,Out,OUT,,,CSKA Moscow,0
+CSK       ,,22,03:15,17,209,"HIGGINS, CORY",P006450   ,In,IN,,,CSKA Moscow,0
+CSK       ,,42,03:15,17,210,"HINES, KYLE",P002812   ,In,IN,,,CSKA Moscow,0
+CSK       ,,44,03:15,17,211,"HUNTER, OTHELLO",P005160   ,Out,OUT,,,CSKA Moscow,0
+CSK       ,,22,02:55,18,261,"HIGGINS, CORY",P006450   ,Turnover (1),TO,,,CSKA Moscow,0
+KHI       ,,9,02:44,18,262,"MARKOVIC, STEFAN",PLME      ,Steal (1),ST,,,Khimki Moscow Region,0
+CSK       ,,13,02:55,18,213,"RODRIGUEZ, SERGIO",PCVM      ,Foul Drawn (1),RV,,,CSKA Moscow,0
+KHI       ,,9,02:44,18,263,"MARKOVIC, STEFAN",PLME      ,Turnover (1),TO,,,Khimki Moscow Region,0
+CSK       ,,41,02:44,18,264,"KURBANOV, NIKITA",PJLX      ,Steal (1),ST,,,CSKA Moscow,0
+KHI       ,,9,02:44,18,214,"MARKOVIC, STEFAN",PLME      ,Foul (2),CM,,,Khimki Moscow Region,0
+CSK       ,,13,02:44,18,215,"RODRIGUEZ, SERGIO",PCVM      ,Free Throw In (1/1 -  4 pt),FTM,36.0,26.0,CSKA Moscow,0
+CSK       ,,13,02:44,18,216,"RODRIGUEZ, SERGIO",PCVM      ,Free Throw In (2/2 -  5 pt),FTM,37.0,26.0,CSKA Moscow,0
+KHI       ,,2,02:26,18,217,"HONEYCUTT, TYLER",P005800   ,Three Pointer (1/2 -  3 pt),3FGM,37.0,29.0,Khimki Moscow Region,0
+KHI       ,,6,02:24,18,218,"VIALTSEV, EGOR",PBGV      ,Assist (1),AS,,,Khimki Moscow Region,0
+CSK       ,,41,02:08,18,219,"KURBANOV, NIKITA",PJLX      ,Three Pointer (2/3 -  10 pt),3FGM,40.0,29.0,CSKA Moscow,0
+CSK       ,,22,02:06,18,220,"HIGGINS, CORY",P006450   ,Assist (2),AS,,,CSKA Moscow,0
+KHI       ,,19,01:53,19,222,"TODOROVIC, MARKO",P001612   ,Two Pointer (4/5 -  11 pt),2FGM,40.0,31.0,Khimki Moscow Region,0
+CSK       ,,41,01:34,19,223,"KURBANOV, NIKITA",PJLX      ,Three Pointer (3/4 -  13 pt),3FGM,43.0,31.0,CSKA Moscow,0
+CSK       ,,13,01:33,19,224,"RODRIGUEZ, SERGIO",PCVM      ,Assist (2),AS,,,CSKA Moscow,0
+KHI       ,,6,01:11,19,225,"VIALTSEV, EGOR",PBGV      ,Missed Two Pointer (0/1 -  1 pt),2FGA,,,Khimki Moscow Region,0
+KHI       ,,,01:09,19,226,,          ,Off Rebound (2),O,,,Khimki Moscow Region,0
+KHI       ,,19,01:09,19,227,"TODOROVIC, MARKO",P001612   ,Out,OUT,,,Khimki Moscow Region,0
+KHI       ,,23,01:09,19,228,"THOMAS, MALCOLM",P004251   ,In,IN,,,Khimki Moscow Region,0
+KHI       ,,9,00:55,20,230,"MARKOVIC, STEFAN",PLME      ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,Khimki Moscow Region,0
+KHI       ,,,00:55,20,231,,          ,Off Rebound (3),O,,,Khimki Moscow Region,0
+KHI       ,,23,00:55,20,232,"THOMAS, MALCOLM",P004251   ,Foul Drawn (1),RV,,,Khimki Moscow Region,0
+CSK       ,,11,00:55,20,233,"ANTONOV, SEMEN",P004941   ,Foul (2),CM,,,CSKA Moscow,0
+KHI       ,,23,00:55,20,234,"THOMAS, MALCOLM",P004251   ,Missed Free Throw (0/1 -  3 pt),FTA,,,Khimki Moscow Region,0
+KHI       ,,23,00:55,20,235,"THOMAS, MALCOLM",P004251   ,Free Throw In (1/2 -  4 pt),FTM,43.0,32.0,Khimki Moscow Region,0
+CSK       ,,13,00:35,20,236,"RODRIGUEZ, SERGIO",PCVM      ,Missed Three Pointer (1/4 -  5 pt),3FGA,,,CSKA Moscow,0
+KHI       ,,2,00:33,20,237,"HONEYCUTT, TYLER",P005800   ,Def Rebound (3),D,,,Khimki Moscow Region,0
+KHI       ,,23,00:27,20,238,"THOMAS, MALCOLM",P004251   ,Foul Drawn (2),RV,,,Khimki Moscow Region,0
+CSK       ,,11,00:27,20,239,"ANTONOV, SEMEN",P004941   ,Foul (3),CM,,,CSKA Moscow,0
+CSK       ,,11,00:27,20,240,"ANTONOV, SEMEN",P004941   ,Out,OUT,,,CSKA Moscow,0
+CSK       ,,20,00:27,20,241,"VORONTSEVICH, ANDREY",PLHI      ,In,IN,,,CSKA Moscow,0
+KHI       ,,23,00:27,20,242,"THOMAS, MALCOLM",P004251   ,Missed Free Throw (1/3 -  4 pt),FTA,,,Khimki Moscow Region,0
+KHI       ,,23,00:27,20,243,"THOMAS, MALCOLM",P004251   ,Free Throw In (2/4 -  5 pt),FTM,43.0,33.0,Khimki Moscow Region,0
+KHI       ,,12,00:27,20,244,"MONIA, SERGEY",PBFX      ,Assist (1),AS,,,Khimki Moscow Region,0
+KHI       ,,8,00:27,20,245,"ZAYTSEV, VYACHESLAV",P001792   ,In,IN,,,Khimki Moscow Region,0
+KHI       ,,9,00:27,20,246,"MARKOVIC, STEFAN",PLME      ,Out,OUT,,,Khimki Moscow Region,0
+CSK       ,,13,00:02,20,247,"RODRIGUEZ, SERGIO",PCVM      ,Missed Three Pointer (1/5 -  5 pt),3FGA,,,CSKA Moscow,0
+CSK       ,,42,00:00,20,248,"HINES, KYLE",P002812   ,Off Rebound (2),O,,,CSKA Moscow,0
+CSK       ,,42,00:00,20,249,"HINES, KYLE",P002812   ,Missed Two Pointer (3/4 -  6 pt),2FGA,,,CSKA Moscow,0
+CSK       ,,42,00:00,20,250,"HINES, KYLE",P002812   ,Shot Rejected (1),AG,,,CSKA Moscow,0
+KHI       ,,12,00:00,20,251,"MONIA, SERGEY",PBFX      ,Block (1),FV,,,Khimki Moscow Region,0
+CSK       ,,20,00:00,20,252,"VORONTSEVICH, ANDREY",PLHI      ,Off Rebound (1),O,,,CSKA Moscow,0
+CSK       ,,20,00:00,20,253,"VORONTSEVICH, ANDREY",PLHI      ,Turnover (1),TO,,,CSKA Moscow,0
+KHI       ,,2,00:00,20,254,"HONEYCUTT, TYLER",P005800   ,Steal (1),ST,,,Khimki Moscow Region,0
+          ,,,,21,256,,          ,End Period,EP,,,,0
+          ,,,,21,273,,          ,Begin Period,BP,,,,0
+KHI       ,,1,10:00,21,265,"SHVED, ALEXEY",PKVZ      ,In,IN,,,Khimki Moscow Region,0
+KHI       ,,2,10:00,21,266,"HONEYCUTT, TYLER",P005800   ,Out,OUT,,,Khimki Moscow Region,0
+KHI       ,,6,10:00,21,267,"VIALTSEV, EGOR",PBGV      ,Out,OUT,,,Khimki Moscow Region,0
+KHI       ,,8,10:00,21,268,"ZAYTSEV, VYACHESLAV",P001792   ,Out,OUT,,,Khimki Moscow Region,0
+KHI       ,,12,10:00,21,269,"MONIA, SERGEY",PBFX      ,Out,OUT,,,Khimki Moscow Region,0
+KHI       ,,13,10:00,21,270,"GILL, ANTHONY",P008001   ,In,IN,,,Khimki Moscow Region,0
+KHI       ,,21,10:00,21,271,"ANDERSON, JAMES",P005938   ,In,IN,,,Khimki Moscow Region,0
+KHI       ,,22,10:00,21,272,"JENKINS, CHARLES",P005014   ,In,IN,,,Khimki Moscow Region,0
+KHI       ,,23,09:41,21,274,"THOMAS, MALCOLM",P004251   ,Missed Two Pointer (0/2 -  5 pt),2FGA,,,Khimki Moscow Region,0
+KHI       ,,23,09:41,21,275,"THOMAS, MALCOLM",P004251   ,Shot Rejected (1),AG,,,Khimki Moscow Region,0
+CSK       ,,42,09:41,21,276,"HINES, KYLE",P002812   ,Block (2),FV,,,CSKA Moscow,0
+KHI       ,,,09:41,21,277,,          ,Off Rebound (4),O,,,Khimki Moscow Region,0
+KHI       ,,22,09:25,21,278,"JENKINS, CHARLES",P005014   ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,Khimki Moscow Region,0
+CSK       ,,41,09:23,21,279,"KURBANOV, NIKITA",PJLX      ,Def Rebound (2),D,,,CSKA Moscow,0
+CSK       ,,22,09:10,21,280,"HIGGINS, CORY",P006450   ,Missed Two Pointer (3/5 -  12 pt),2FGA,,,CSKA Moscow,0
+KHI       ,,13,09:10,21,281,"GILL, ANTHONY",P008001   ,Def Rebound (3),D,,,Khimki Moscow Region,0
+KHI       ,,1,08:53,22,283,"SHVED, ALEXEY",PKVZ      ,Two Pointer (5/8 -  10 pt),2FGM,43.0,35.0,Khimki Moscow Region,0
+KHI       ,,1,08:53,22,284,"SHVED, ALEXEY",PKVZ      ,Foul Drawn (1),RV,,,Khimki Moscow Region,0
+CSK       ,,20,08:53,22,285,"VORONTSEVICH, ANDREY",PLHI      ,Foul (3),CM,,,CSKA Moscow,0
+KHI       ,,1,08:53,22,286,"SHVED, ALEXEY",PKVZ      ,Free Throw In (1/1 -  11 pt),FTM,43.0,36.0,Khimki Moscow Region,0
+CSK       ,,22,08:44,22,287,"HIGGINS, CORY",P006450   ,Foul Drawn (4),RV,,,CSKA Moscow,0
+KHI       ,,1,08:44,22,288,"SHVED, ALEXEY",PKVZ      ,Foul (2),CM,,,Khimki Moscow Region,0
+CSK       ,,42,08:36,22,289,"HINES, KYLE",P002812   ,Turnover (1),TO,,,CSKA Moscow,0
+KHI       ,,1,08:19,22,290,"SHVED, ALEXEY",PKVZ      ,Foul Drawn (2),RV,,,Khimki Moscow Region,0
+CSK       ,,41,08:19,22,291,"KURBANOV, NIKITA",PJLX      ,Foul (1),CM,,,CSKA Moscow,0
+KHI       ,,13,08:16,22,292,"GILL, ANTHONY",P008001   ,Two Pointer (1/2 -  5 pt),2FGM,43.0,38.0,Khimki Moscow Region,0
+KHI       ,,21,08:16,22,293,"ANDERSON, JAMES",P005938   ,Assist (1),AS,,,Khimki Moscow Region,0
+CSK       ,,13,08:16,22,294,"RODRIGUEZ, SERGIO",PCVM      ,Foul Drawn (2),RV,,,CSKA Moscow,0
+KHI       ,,22,08:16,22,295,"JENKINS, CHARLES",P005014   ,Foul (2),CM,,,Khimki Moscow Region,0
+CSK       ,,20,08:16,22,296,"VORONTSEVICH, ANDREY",PLHI      ,Out,OUT,,,CSKA Moscow,0
+CSK       ,,21,08:16,22,297,"CLYBURN, WILL",P004888   ,In,IN,,,CSKA Moscow,0
+CSK       ,,42,08:03,22,298,"HINES, KYLE",P002812   ,Foul Drawn (3),RV,,,CSKA Moscow,0
+KHI       ,,23,08:03,22,299,"THOMAS, MALCOLM",P004251   ,Foul (1),CM,,,Khimki Moscow Region,0
+CSK       ,,22,07:57,23,301,"HIGGINS, CORY",P006450   ,Foul Drawn (5),RV,,,CSKA Moscow,0
+KHI       ,,21,07:57,23,302,"ANDERSON, JAMES",P005938   ,Foul (3),CM,,,Khimki Moscow Region,0
+CSK       ,,22,07:57,23,303,"HIGGINS, CORY",P006450   ,Free Throw In (4/5 -  13 pt),FTM,44.0,38.0,CSKA Moscow,0
+CSK       ,,22,07:57,23,304,"HIGGINS, CORY",P006450   ,Free Throw In (5/6 -  14 pt),FTM,45.0,38.0,CSKA Moscow,0
+KHI       ,,2,07:57,23,305,"HONEYCUTT, TYLER",P005800   ,In,IN,,,Khimki Moscow Region,0
+KHI       ,,21,07:57,23,306,"ANDERSON, JAMES",P005938   ,Out,OUT,,,Khimki Moscow Region,0
+KHI       ,,22,07:51,23,307,"JENKINS, CHARLES",P005014   ,Turnover (2),TO,,,Khimki Moscow Region,0
+CSK       ,,13,07:51,23,308,"RODRIGUEZ, SERGIO",PCVM      ,Steal (3),ST,,,CSKA Moscow,0
+CSK       ,,13,07:51,23,309,"RODRIGUEZ, SERGIO",PCVM      ,Foul Drawn (3),RV,,,CSKA Moscow,0
+KHI       ,,22,07:51,23,310,"JENKINS, CHARLES",P005014   ,Foul (3),CM,,,Khimki Moscow Region,0
+CSK       ,,13,07:51,23,311,"RODRIGUEZ, SERGIO",PCVM      ,Free Throw In (3/3 -  6 pt),FTM,46.0,38.0,CSKA Moscow,0
+CSK       ,,13,07:51,23,312,"RODRIGUEZ, SERGIO",PCVM      ,Free Throw In (4/4 -  7 pt),FTM,47.0,38.0,CSKA Moscow,0
+KHI       ,,1,07:13,23,313,"SHVED, ALEXEY",PKVZ      ,Missed Two Pointer (5/9 -  11 pt),2FGA,,,Khimki Moscow Region,0
+CSK       ,,21,07:11,23,314,"CLYBURN, WILL",P004888   ,Def Rebound (1),D,,,CSKA Moscow,0
+CSK       ,,41,06:51,24,316,"KURBANOV, NIKITA",PJLX      ,Missed Three Pointer (3/5 -  13 pt),3FGA,,,CSKA Moscow,0
+KHI       ,,13,06:49,24,317,"GILL, ANTHONY",P008001   ,Def Rebound (4),D,,,Khimki Moscow Region,0
+KHI       ,,2,06:40,24,318,"HONEYCUTT, TYLER",P005800   ,Two Pointer (1/3 -  5 pt),2FGM,47.0,40.0,Khimki Moscow Region,0
+CSK       ,,13,06:18,24,319,"RODRIGUEZ, SERGIO",PCVM      ,Turnover (4),TO,,,CSKA Moscow,0
+KHI       ,,2,06:16,24,320,"HONEYCUTT, TYLER",P005800   ,Steal (2),ST,,,Khimki Moscow Region,0
+KHI       ,,13,06:07,24,321,"GILL, ANTHONY",P008001   ,Turnover (2),TO,,,Khimki Moscow Region,0
+CSK       ,,13,06:07,24,322,"RODRIGUEZ, SERGIO",PCVM      ,Steal (4),ST,,,CSKA Moscow,0
+CSK       ,,13,06:07,24,323,"RODRIGUEZ, SERGIO",PCVM      ,Turnover (5),TO,,,CSKA Moscow,0
+KHI       ,,2,06:07,24,324,"HONEYCUTT, TYLER",P005800   ,Steal (3),ST,,,Khimki Moscow Region,0
+CSK       ,,1,06:07,24,325,"DE COLO, NANDO",P002100   ,In,IN,,,CSKA Moscow,0
+CSK       ,,22,06:07,24,326,"HIGGINS, CORY",P006450   ,Out,OUT,,,CSKA Moscow,0
+KHI       ,,1,06:02,24,327,"SHVED, ALEXEY",PKVZ      ,Missed Two Pointer (5/10 -  11 pt),2FGA,,,Khimki Moscow Region,0
+CSK       ,,13,05:59,25,329,"RODRIGUEZ, SERGIO",PCVM      ,Def Rebound (2),D,,,CSKA Moscow,0
+CSK       ,,1,05:40,25,330,"DE COLO, NANDO",P002100   ,Missed Three Pointer (0/2 -  1 pt),3FGA,,,CSKA Moscow,0
+KHI       ,,,05:39,25,331,,          ,Def Rebound (1),D,,,Khimki Moscow Region,0
+KHI       ,,6,05:39,25,332,"VIALTSEV, EGOR",PBGV      ,In,IN,,,Khimki Moscow Region,0
+KHI       ,,22,05:39,25,333,"JENKINS, CHARLES",P005014   ,Out,OUT,,,Khimki Moscow Region,0
+KHI       ,,1,05:22,25,334,"SHVED, ALEXEY",PKVZ      ,Foul Drawn (3),RV,,,Khimki Moscow Region,0
+CSK       ,,41,05:22,25,335,"KURBANOV, NIKITA",PJLX      ,Foul (2),CM,,,CSKA Moscow,0
+KHI       ,,1,05:22,25,336,"SHVED, ALEXEY",PKVZ      ,Free Throw In (2/2 -  12 pt),FTM,47.0,41.0,Khimki Moscow Region,0
+KHI       ,,1,05:22,25,337,"SHVED, ALEXEY",PKVZ      ,Free Throw In (3/3 -  13 pt),FTM,47.0,42.0,Khimki Moscow Region,0
+CSK       ,,1,05:14,25,338,"DE COLO, NANDO",P002100   ,Foul Drawn (2),RV,,,CSKA Moscow,0
+KHI       ,,23,05:14,25,339,"THOMAS, MALCOLM",P004251   ,Foul (2),CM,,,Khimki Moscow Region,0
+KHI       ,,19,05:14,25,340,"TODOROVIC, MARKO",P001612   ,In,IN,,,Khimki Moscow Region,0
+KHI       ,,23,05:14,25,341,"THOMAS, MALCOLM",P004251   ,Out,OUT,,,Khimki Moscow Region,0
+CSK       ,,1,05:14,25,342,"DE COLO, NANDO",P002100   ,Free Throw In (2/2 -  2 pt),FTM,48.0,42.0,CSKA Moscow,0
+CSK       ,,1,05:14,25,343,"DE COLO, NANDO",P002100   ,Free Throw In (3/3 -  3 pt),FTM,49.0,42.0,CSKA Moscow,0
+KHI       ,,2,05:10,25,344,"HONEYCUTT, TYLER",P005800   ,Missed Two Pointer (1/4 -  5 pt),2FGA,,,Khimki Moscow Region,0
+CSK       ,,21,05:10,25,345,"CLYBURN, WILL",P004888   ,Def Rebound (2),D,,,CSKA Moscow,0
+CSK       ,,1,04:56,26,347,"DE COLO, NANDO",P002100   ,Turnover (1),TO,,,CSKA Moscow,0
+          ,,,04:56,26,348,,          ,TV Time Out (2),TOUT_TV,,,,0
+KHI       ,,19,04:34,26,349,"TODOROVIC, MARKO",P001612   ,Two Pointer (5/6 -  13 pt),2FGM,49.0,44.0,Khimki Moscow Region,0
+KHI       ,,2,04:30,26,350,"HONEYCUTT, TYLER",P005800   ,Assist (3),AS,,,Khimki Moscow Region,0
+CSK       ,,41,04:18,26,351,"KURBANOV, NIKITA",PJLX      ,Foul Drawn (1),RV,,,CSKA Moscow,0
+KHI       ,,19,04:18,26,352,"TODOROVIC, MARKO",P001612   ,Foul (2),CM,,,Khimki Moscow Region,0
+CSK       ,,41,04:18,26,353,"KURBANOV, NIKITA",PJLX      ,Free Throw In (1/1 -  14 pt),FTM,50.0,44.0,CSKA Moscow,0
+CSK       ,,41,04:18,26,354,"KURBANOV, NIKITA",PJLX      ,Free Throw In (2/2 -  15 pt),FTM,51.0,44.0,CSKA Moscow,0
+CSK       ,,13,04:18,26,355,"RODRIGUEZ, SERGIO",PCVM      ,Out,OUT,,,CSKA Moscow,0
+CSK       ,,22,04:18,26,356,"HIGGINS, CORY",P006450   ,In,IN,,,CSKA Moscow,0
+KHI       ,,1,04:06,26,357,"SHVED, ALEXEY",PKVZ      ,Missed Two Pointer (5/11 -  13 pt),2FGA,,,Khimki Moscow Region,0
+KHI       ,,1,04:06,26,358,"SHVED, ALEXEY",PKVZ      ,Shot Rejected (1),AG,,,Khimki Moscow Region,0
+CSK       ,,41,04:06,26,359,"KURBANOV, NIKITA",PJLX      ,Block (1),FV,,,CSKA Moscow,0
+KHI       ,,,04:06,26,360,,          ,Off Rebound (5),O,,,Khimki Moscow Region,0
+KHI       ,,6,04:06,26,361,"VIALTSEV, EGOR",PBGV      ,Foul Drawn (3),RV,,,Khimki Moscow Region,0
+CSK       ,,41,04:06,26,362,"KURBANOV, NIKITA",PJLX      ,Foul (3),CM,,,CSKA Moscow,0
+KHI       ,,1,03:59,27,364,"SHVED, ALEXEY",PKVZ      ,Two Pointer (6/12 -  15 pt),2FGM,51.0,46.0,Khimki Moscow Region,0
+KHI       ,,1,03:59,27,365,"SHVED, ALEXEY",PKVZ      ,Foul Drawn (4),RV,,,Khimki Moscow Region,0
+CSK       ,,42,03:59,27,366,"HINES, KYLE",P002812   ,Foul (1),CM,,,CSKA Moscow,0
+KHI       ,,1,03:59,27,367,"SHVED, ALEXEY",PKVZ      ,Free Throw In (4/4 -  16 pt),FTM,51.0,47.0,Khimki Moscow Region,0
+CSK       ,,22,03:37,27,368,"HIGGINS, CORY",P006450   ,Missed Two Pointer (3/6 -  14 pt),2FGA,,,CSKA Moscow,0
+CSK       ,,22,03:37,27,369,"HIGGINS, CORY",P006450   ,Shot Rejected (1),AG,,,CSKA Moscow,0
+KHI       ,,13,03:34,27,370,"GILL, ANTHONY",P008001   ,Block (1),FV,,,Khimki Moscow Region,0
+KHI       ,,6,03:32,27,371,"VIALTSEV, EGOR",PBGV      ,Def Rebound (1),D,,,Khimki Moscow Region,0
+KHI       ,,1,03:29,27,372,"SHVED, ALEXEY",PKVZ      ,Missed Three Pointer (0/3 -  16 pt),3FGA,,,Khimki Moscow Region,0
+KHI       ,,2,03:28,27,373,"HONEYCUTT, TYLER",P005800   ,Off Rebound (1),O,,,Khimki Moscow Region,0
+KHI       ,,2,03:28,27,374,"HONEYCUTT, TYLER",P005800   ,Two Pointer (2/5 -  7 pt),2FGM,51.0,49.0,Khimki Moscow Region,0
+CSK       ,,,03:28,27,375,,          ,Time Out (1),TOUT,,,CSKA Moscow,0
+CSK       ,,11,03:28,27,376,"ANTONOV, SEMEN",P004941   ,In,IN,,,CSKA Moscow,0
+CSK       ,,41,03:28,27,377,"KURBANOV, NIKITA",PJLX      ,Out,OUT,,,CSKA Moscow,0
+CSK       ,,21,03:07,27,378,"CLYBURN, WILL",P004888   ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,CSKA Moscow,0
+KHI       ,,19,03:05,27,379,"TODOROVIC, MARKO",P001612   ,Def Rebound (1),D,,,Khimki Moscow Region,0
+KHI       ,,19,02:50,28,381,"TODOROVIC, MARKO",P001612   ,Missed Two Pointer (5/7 -  13 pt),2FGA,,,Khimki Moscow Region,0
+CSK       ,,1,02:50,28,382,"DE COLO, NANDO",P002100   ,Def Rebound (2),D,,,CSKA Moscow,0
+CSK       ,,1,02:50,28,383,"DE COLO, NANDO",P002100   ,Foul Drawn (3),RV,,,CSKA Moscow,0
+KHI       ,,6,02:50,28,384,"VIALTSEV, EGOR",PBGV      ,Foul (1),CM,,,Khimki Moscow Region,0
+CSK       ,,42,02:50,28,385,"HINES, KYLE",P002812   ,Out,OUT,,,CSKA Moscow,0
+CSK       ,,44,02:50,28,386,"HUNTER, OTHELLO",P005160   ,In,IN,,,CSKA Moscow,0
+CSK       ,,1,02:50,28,387,"DE COLO, NANDO",P002100   ,Free Throw In (4/4 -  4 pt),FTM,52.0,49.0,CSKA Moscow,0
+CSK       ,,1,02:50,28,388,"DE COLO, NANDO",P002100   ,Free Throw In (5/5 -  5 pt),FTM,53.0,49.0,CSKA Moscow,0
+KHI       ,,6,02:38,28,389,"VIALTSEV, EGOR",PBGV      ,Three Pointer (1/1 -  4 pt),3FGM,53.0,52.0,Khimki Moscow Region,0
+KHI       ,,19,02:38,28,390,"TODOROVIC, MARKO",P001612   ,Assist (1),AS,,,Khimki Moscow Region,0
+CSK       ,,22,02:14,28,391,"HIGGINS, CORY",P006450   ,Foul Drawn (6),RV,,,CSKA Moscow,0
+KHI       ,,6,02:14,28,392,"VIALTSEV, EGOR",PBGV      ,Foul (2),CM,,,Khimki Moscow Region,0
+CSK       ,,22,02:14,28,393,"HIGGINS, CORY",P006450   ,Free Throw In (6/7 -  15 pt),FTM,54.0,52.0,CSKA Moscow,0
+CSK       ,,22,02:14,28,394,"HIGGINS, CORY",P006450   ,Free Throw In (7/8 -  16 pt),FTM,55.0,52.0,CSKA Moscow,0
+KHI       ,,19,02:04,28,395,"TODOROVIC, MARKO",P001612   ,Foul Drawn (4),RV,,,Khimki Moscow Region,0
+CSK       ,,44,02:04,28,396,"HUNTER, OTHELLO",P005160   ,Foul (1),CM,,,CSKA Moscow,0
+KHI       ,,19,02:04,28,397,"TODOROVIC, MARKO",P001612   ,Missed Free Throw (3/6 -  13 pt),FTA,,,Khimki Moscow Region,0
+KHI       ,,19,02:04,28,398,"TODOROVIC, MARKO",P001612   ,Missed Free Throw (3/7 -  13 pt),FTA,,,Khimki Moscow Region,0
+CSK       ,,21,02:04,28,399,"CLYBURN, WILL",P004888   ,Def Rebound (3),D,,,CSKA Moscow,0
+CSK       ,,44,01:59,29,401,"HUNTER, OTHELLO",P005160   ,Foul Drawn (1),RV,,,CSKA Moscow,0
+KHI       ,,19,01:59,29,402,"TODOROVIC, MARKO",P001612   ,Foul (3),CM,,,Khimki Moscow Region,0
+CSK       ,,44,01:59,29,403,"HUNTER, OTHELLO",P005160   ,Missed Free Throw (0/1 -  0 pt),FTA,,,CSKA Moscow,0
+CSK       ,,44,01:59,29,404,"HUNTER, OTHELLO",P005160   ,Free Throw In (1/2 -  1 pt),FTM,56.0,52.0,CSKA Moscow,0
+KHI       ,,19,01:34,29,405,"TODOROVIC, MARKO",P001612   ,Missed Two Pointer (5/8 -  13 pt),2FGA,,,Khimki Moscow Region,0
+CSK       ,,44,01:32,29,406,"HUNTER, OTHELLO",P005160   ,Def Rebound (2),D,,,CSKA Moscow,0
+CSK       ,,21,01:21,29,407,"CLYBURN, WILL",P004888   ,Foul Drawn (1),RV,,,CSKA Moscow,0
+KHI       ,,6,01:21,29,408,"VIALTSEV, EGOR",PBGV      ,Foul (3),CM,,,Khimki Moscow Region,0
+CSK       ,,21,01:21,29,409,"CLYBURN, WILL",P004888   ,Missed Free Throw (0/1 -  2 pt),FTA,,,CSKA Moscow,0
+CSK       ,,21,01:21,29,410,"CLYBURN, WILL",P004888   ,Free Throw In (1/2 -  3 pt),FTM,57.0,52.0,CSKA Moscow,0
+KHI       ,,12,01:21,29,411,"MONIA, SERGEY",PBFX      ,In,IN,,,Khimki Moscow Region,0
+KHI       ,,19,01:21,29,412,"TODOROVIC, MARKO",P001612   ,Out,OUT,,,Khimki Moscow Region,0
+KHI       ,,12,00:58,30,414,"MONIA, SERGEY",PBFX      ,Three Pointer (1/1 -  3 pt),3FGM,57.0,55.0,Khimki Moscow Region,0
+KHI       ,,1,00:56,30,415,"SHVED, ALEXEY",PKVZ      ,Assist (3),AS,,,Khimki Moscow Region,0
+CSK       ,,1,00:36,30,416,"DE COLO, NANDO",P002100   ,Missed Three Pointer (0/3 -  5 pt),3FGA,,,CSKA Moscow,0
+KHI       ,,,00:35,30,417,,          ,Def Rebound (2),D,,,Khimki Moscow Region,0
+CSK       ,,1,00:35,30,418,"DE COLO, NANDO",P002100   ,Technical Foul (1),CMT,,,CSKA Moscow,0
+KHI       ,,12,00:35,30,419,"MONIA, SERGEY",PBFX      ,Technical Foul (1),CMT,,,Khimki Moscow Region,0
+KHI       ,,13,00:13,30,420,"GILL, ANTHONY",P008001   ,Missed Two Pointer (1/3 -  5 pt),2FGA,,,Khimki Moscow Region,0
+CSK       ,,44,00:11,30,421,"HUNTER, OTHELLO",P005160   ,Def Rebound (3),D,,,CSKA Moscow,0
+CSK       ,,21,00:01,30,422,"CLYBURN, WILL",P004888   ,Turnover (2),TO,,,CSKA Moscow,0
+KHI       ,,13,00:00,30,423,"GILL, ANTHONY",P008001   ,Steal (1),ST,,,Khimki Moscow Region,0
+KHI       ,,13,00:00,30,424,"GILL, ANTHONY",P008001   ,Missed Three Pointer (1/2 -  5 pt),3FGA,,,Khimki Moscow Region,0
+          ,,,,31,426,,          ,End Period,EP,,,,0
+          ,,,,31,429,,          ,Begin Period,BP,,,,0
+CSK       ,,11,09:59,31,557,"ANTONOV, SEMEN",P004941   ,Three Pointer (1/1 -  5 pt),3FGM,60.0,55.0,CSKA Moscow,0
+CSK       ,,44,09:59,31,521,"HUNTER, OTHELLO",P005160   ,Assist (1),AS,,,CSKA Moscow,0
+KHI       ,,13,09:59,31,430,"GILL, ANTHONY",P008001   ,Foul Drawn (2),RV,,,Khimki Moscow Region,0
+CSK       ,,44,09:59,31,431,"HUNTER, OTHELLO",P005160   ,Foul (2),CM,,,CSKA Moscow,0
+KHI       ,,12,09:26,31,432,"MONIA, SERGEY",PBFX      ,Two Pointer (1/1 -  5 pt),2FGM,60.0,57.0,Khimki Moscow Region,0
+KHI       ,,2,09:26,31,433,"HONEYCUTT, TYLER",P005800   ,Assist (4),AS,,,Khimki Moscow Region,0
+CSK       ,,22,09:03,31,434,"HIGGINS, CORY",P006450   ,Foul Drawn (7),RV,,,CSKA Moscow,0
+KHI       ,,12,09:03,31,435,"MONIA, SERGEY",PBFX      ,Foul (2),CM,,,Khimki Moscow Region,0
+CSK       ,,22,09:03,31,436,"HIGGINS, CORY",P006450   ,Free Throw In (8/9 -  17 pt),FTM,61.0,57.0,CSKA Moscow,0
+CSK       ,,22,09:03,31,437,"HIGGINS, CORY",P006450   ,Free Throw In (9/10 -  18 pt),FTM,62.0,57.0,CSKA Moscow,0
+KHI       ,,1,08:46,32,439,"SHVED, ALEXEY",PKVZ      ,Missed Three Pointer (0/4 -  16 pt),3FGA,,,Khimki Moscow Region,0
+CSK       ,,44,08:43,32,440,"HUNTER, OTHELLO",P005160   ,Def Rebound (4),D,,,CSKA Moscow,0
+CSK       ,,44,08:37,32,441,"HUNTER, OTHELLO",P005160   ,Missed Two Pointer (0/1 -  1 pt),2FGA,,,CSKA Moscow,0
+CSK       ,,44,08:36,32,442,"HUNTER, OTHELLO",P005160   ,Shot Rejected (1),AG,,,CSKA Moscow,0
+KHI       ,,12,08:34,32,443,"MONIA, SERGEY",PBFX      ,Block (2),FV,,,Khimki Moscow Region,0
+CSK       ,,44,08:31,32,444,"HUNTER, OTHELLO",P005160   ,Off Rebound (2),O,,,CSKA Moscow,0
+CSK       ,,44,08:28,32,445,"HUNTER, OTHELLO",P005160   ,Two Pointer (1/2 -  3 pt),2FGM,64.0,57.0,CSKA Moscow,0
+KHI       ,,12,08:23,32,446,"MONIA, SERGEY",PBFX      ,Foul Drawn (1),RV,,,Khimki Moscow Region,0
+CSK       ,,11,08:23,32,447,"ANTONOV, SEMEN",P004941   ,Foul (4),CM,,,CSKA Moscow,0
+CSK       ,,11,08:23,32,448,"ANTONOV, SEMEN",P004941   ,Out,OUT,,,CSKA Moscow,0
+CSK       ,,41,08:23,32,449,"KURBANOV, NIKITA",PJLX      ,In,IN,,,CSKA Moscow,0
+KHI       ,,2,08:22,32,450,"HONEYCUTT, TYLER",P005800   ,Turnover (1),TO,,,Khimki Moscow Region,0
+KHI       ,,,08:22,32,452,,          ,Time Out (1),TOUT,,,Khimki Moscow Region,0
+CSK       ,,22,08:00,32,453,"HIGGINS, CORY",P006450   ,Three Pointer (2/4 -  21 pt),3FGM,67.0,57.0,CSKA Moscow,0
+CSK       ,,41,07:58,33,455,"KURBANOV, NIKITA",PJLX      ,Assist (4),AS,,,CSKA Moscow,0
+KHI       ,,1,07:51,33,456,"SHVED, ALEXEY",PKVZ      ,Turnover (3),TO,,,Khimki Moscow Region,0
+CSK       ,,21,07:49,33,457,"CLYBURN, WILL",P004888   ,Steal (2),ST,,,CSKA Moscow,0
+CSK       ,,21,07:44,33,458,"CLYBURN, WILL",P004888   ,Two Pointer (2/3 -  5 pt),2FGM,69.0,57.0,CSKA Moscow,0
+KHI       ,,1,07:28,33,459,"SHVED, ALEXEY",PKVZ      ,Missed Three Pointer (0/5 -  16 pt),3FGA,,,Khimki Moscow Region,0
+KHI       ,,12,07:24,33,460,"MONIA, SERGEY",PBFX      ,Off Rebound (1),O,,,Khimki Moscow Region,0
+KHI       ,,1,07:22,33,461,"SHVED, ALEXEY",PKVZ      ,Missed Two Pointer (6/13 -  16 pt),2FGA,,,Khimki Moscow Region,0
+CSK       ,,41,07:19,33,462,"KURBANOV, NIKITA",PJLX      ,Def Rebound (3),D,,,CSKA Moscow,0
+CSK       ,,1,06:59,34,464,"DE COLO, NANDO",P002100   ,Missed Two Pointer (0/1 -  5 pt),2FGA,,,CSKA Moscow,0
+CSK       ,,41,06:55,34,465,"KURBANOV, NIKITA",PJLX      ,Off Rebound (1),O,,,CSKA Moscow,0
+CSK       ,,1,06:44,34,466,"DE COLO, NANDO",P002100   ,Missed Two Pointer (0/2 -  5 pt),2FGA,,,CSKA Moscow,0
+CSK       ,,41,06:42,34,467,"KURBANOV, NIKITA",PJLX      ,Off Rebound (2),O,,,CSKA Moscow,0
+CSK       ,,21,06:31,34,468,"CLYBURN, WILL",P004888   ,Foul Drawn (2),RV,,,CSKA Moscow,0
+KHI       ,,6,06:31,34,469,"VIALTSEV, EGOR",PBGV      ,Foul (4),CM,,,Khimki Moscow Region,0
+CSK       ,,1,06:31,34,470,"DE COLO, NANDO",P002100   ,Out,OUT,,,CSKA Moscow,0
+CSK       ,,13,06:31,34,471,"RODRIGUEZ, SERGIO",PCVM      ,In,IN,,,CSKA Moscow,0
+CSK       ,,42,06:31,34,472,"HINES, KYLE",P002812   ,In,IN,,,CSKA Moscow,0
+CSK       ,,44,06:31,34,473,"HUNTER, OTHELLO",P005160   ,Out,OUT,,,CSKA Moscow,0
+KHI       ,,6,06:31,34,474,"VIALTSEV, EGOR",PBGV      ,Out,OUT,,,Khimki Moscow Region,0
+KHI       ,,9,06:31,34,475,"MARKOVIC, STEFAN",PLME      ,In,IN,,,Khimki Moscow Region,0
+CSK       ,,21,06:31,34,476,"CLYBURN, WILL",P004888   ,Free Throw In (2/3 -  6 pt),FTM,70.0,57.0,CSKA Moscow,0
+CSK       ,,21,06:31,34,477,"CLYBURN, WILL",P004888   ,Free Throw In (3/4 -  7 pt),FTM,71.0,57.0,CSKA Moscow,0
+KHI       ,,1,06:08,34,478,"SHVED, ALEXEY",PKVZ      ,Missed Three Pointer (0/6 -  16 pt),3FGA,,,Khimki Moscow Region,0
+CSK       ,,41,06:06,34,479,"KURBANOV, NIKITA",PJLX      ,Def Rebound (4),D,,,CSKA Moscow,0
+CSK       ,,41,05:44,35,481,"KURBANOV, NIKITA",PJLX      ,Three Pointer (4/6 -  18 pt),3FGM,74.0,57.0,CSKA Moscow,0
+CSK       ,,21,05:42,35,482,"CLYBURN, WILL",P004888   ,Assist (2),AS,,,CSKA Moscow,0
+KHI       ,,9,05:24,35,483,"MARKOVIC, STEFAN",PLME      ,Foul Drawn (1),RV,,,Khimki Moscow Region,0
+CSK       ,,13,05:24,35,484,"RODRIGUEZ, SERGIO",PCVM      ,Foul (2),CM,,,CSKA Moscow,0
+KHI       ,,2,05:17,35,485,"HONEYCUTT, TYLER",P005800   ,Three Pointer (2/3 -  10 pt),3FGM,74.0,60.0,Khimki Moscow Region,0
+KHI       ,,13,05:14,35,486,"GILL, ANTHONY",P008001   ,Assist (2),AS,,,Khimki Moscow Region,0
+CSK       ,,42,04:54,36,488,"HINES, KYLE",P002812   ,Missed Two Pointer (3/5 -  6 pt),2FGA,,,CSKA Moscow,0
+CSK       ,,42,04:54,36,489,"HINES, KYLE",P002812   ,Shot Rejected (2),AG,,,CSKA Moscow,0
+KHI       ,,2,04:54,36,490,"HONEYCUTT, TYLER",P005800   ,Block (1),FV,,,Khimki Moscow Region,0
+KHI       ,,2,04:54,36,491,"HONEYCUTT, TYLER",P005800   ,Def Rebound (4),D,,,Khimki Moscow Region,0
+KHI       ,,1,04:54,36,492,"SHVED, ALEXEY",PKVZ      ,Foul Drawn (5),RV,,,Khimki Moscow Region,0
+CSK       ,,21,04:54,36,493,"CLYBURN, WILL",P004888   ,Foul (3),CM,,,CSKA Moscow,0
+KHI       ,,2,04:54,36,494,"HONEYCUTT, TYLER",P005800   ,Out,OUT,,,Khimki Moscow Region,0
+KHI       ,,21,04:54,36,495,"ANDERSON, JAMES",P005938   ,In,IN,,,Khimki Moscow Region,0
+KHI       ,,13,04:47,36,496,"GILL, ANTHONY",P008001   ,Missed Three Pointer (1/3 -  5 pt),3FGA,,,Khimki Moscow Region,0
+CSK       ,,41,04:45,36,497,"KURBANOV, NIKITA",PJLX      ,Def Rebound (5),D,,,CSKA Moscow,0
+CSK       ,,22,04:33,36,498,"HIGGINS, CORY",P006450   ,Missed Three Pointer (2/5 -  21 pt),3FGA,,,CSKA Moscow,0
+KHI       ,,9,04:33,36,499,"MARKOVIC, STEFAN",PLME      ,Def Rebound (1),D,,,Khimki Moscow Region,0
+KHI       ,,21,04:19,36,500,"ANDERSON, JAMES",P005938   ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,Khimki Moscow Region,0
+CSK       ,,22,04:19,36,501,"HIGGINS, CORY",P006450   ,Def Rebound (2),D,,,CSKA Moscow,0
+CSK       ,,22,04:19,36,502,"HIGGINS, CORY",P006450   ,Foul Drawn (8),RV,,,CSKA Moscow,0
+KHI       ,,1,04:19,36,503,"SHVED, ALEXEY",PKVZ      ,Foul (3),CM,,,Khimki Moscow Region,0
+CSK       ,,21,04:03,36,504,"CLYBURN, WILL",P004888   ,Foul Drawn (3),RV,,,CSKA Moscow,0
+KHI       ,,12,04:03,36,505,"MONIA, SERGEY",PBFX      ,Foul (3),CM,,,Khimki Moscow Region,0
+CSK       ,,22,04:00,36,506,"HIGGINS, CORY",P006450   ,Foul Drawn (9),RV,,,CSKA Moscow,0
+KHI       ,,1,04:00,36,507,"SHVED, ALEXEY",PKVZ      ,Foul (4),CM,,,Khimki Moscow Region,0
+KHI       ,,1,04:01,36,508,"SHVED, ALEXEY",PKVZ      ,Out,OUT,,,Khimki Moscow Region,0
+KHI       ,,22,04:01,36,509,"JENKINS, CHARLES",P005014   ,In,IN,,,Khimki Moscow Region,0
+CSK       ,,22,04:01,36,510,"HIGGINS, CORY",P006450   ,Free Throw In (10/11 -  22 pt),FTM,75.0,60.0,CSKA Moscow,0
+CSK       ,,22,04:01,36,511,"HIGGINS, CORY",P006450   ,Free Throw In (11/12 -  23 pt),FTM,76.0,60.0,CSKA Moscow,0
+KHI       ,,13,03:48,37,513,"GILL, ANTHONY",P008001   ,Missed Two Pointer (1/4 -  5 pt),2FGA,,,Khimki Moscow Region,0
+KHI       ,,13,03:48,37,514,"GILL, ANTHONY",P008001   ,Shot Rejected (1),AG,,,Khimki Moscow Region,0
+CSK       ,,41,03:45,37,515,"KURBANOV, NIKITA",PJLX      ,Block (2),FV,,,CSKA Moscow,0
+CSK       ,,21,03:43,37,516,"CLYBURN, WILL",P004888   ,Def Rebound (4),D,,,CSKA Moscow,0
+CSK       ,,13,03:28,37,517,"RODRIGUEZ, SERGIO",PCVM      ,Missed Three Pointer (1/6 -  7 pt),3FGA,,,CSKA Moscow,0
+KHI       ,,13,03:25,37,518,"GILL, ANTHONY",P008001   ,Def Rebound (5),D,,,Khimki Moscow Region,0
+KHI       ,,21,03:10,37,519,"ANDERSON, JAMES",P005938   ,Two Pointer (1/1 -  2 pt),2FGM,76.0,62.0,Khimki Moscow Region,0
+CSK       ,,,03:10,37,520,,          ,Time Out (1),TOUT,,,CSKA Moscow,0
+CSK       ,,,02:45,38,523,,          ,Turnover (2),TO,,,CSKA Moscow,0
+KHI       ,,21,02:35,38,524,"ANDERSON, JAMES",P005938   ,Missed Three Pointer (0/3 -  2 pt),3FGA,,,Khimki Moscow Region,0
+CSK       ,,22,02:35,38,525,"HIGGINS, CORY",P006450   ,Def Rebound (3),D,,,CSKA Moscow,0
+CSK       ,,22,02:08,38,526,"HIGGINS, CORY",P006450   ,Missed Three Pointer (2/6 -  23 pt),3FGA,,,CSKA Moscow,0
+KHI       ,,9,02:05,38,527,"MARKOVIC, STEFAN",PLME      ,Def Rebound (2),D,,,Khimki Moscow Region,0
+KHI       ,,21,01:50,39,529,"ANDERSON, JAMES",P005938   ,Three Pointer (1/4 -  5 pt),3FGM,76.0,65.0,Khimki Moscow Region,0
+KHI       ,,9,01:50,39,530,"MARKOVIC, STEFAN",PLME      ,Assist (2),AS,,,Khimki Moscow Region,0
+CSK       ,,22,01:50,39,531,"HIGGINS, CORY",P006450   ,Foul Drawn (10),RV,,,CSKA Moscow,0
+KHI       ,,13,01:50,39,532,"GILL, ANTHONY",P008001   ,Foul (1),CM,,,Khimki Moscow Region,0
+CSK       ,,22,01:50,39,533,"HIGGINS, CORY",P006450   ,Free Throw In (12/13 -  24 pt),FTM,77.0,65.0,CSKA Moscow,0
+CSK       ,,22,01:50,39,534,"HIGGINS, CORY",P006450   ,Free Throw In (13/14 -  25 pt),FTM,78.0,65.0,CSKA Moscow,0
+KHI       ,,13,01:27,39,535,"GILL, ANTHONY",P008001   ,Missed Two Pointer (1/5 -  5 pt),2FGA,,,Khimki Moscow Region,0
+KHI       ,,13,01:27,39,536,"GILL, ANTHONY",P008001   ,Shot Rejected (2),AG,,,Khimki Moscow Region,0
+CSK       ,,42,01:27,39,537,"HINES, KYLE",P002812   ,Block (3),FV,,,CSKA Moscow,0
+CSK       ,,42,01:27,39,538,"HINES, KYLE",P002812   ,Def Rebound (4),D,,,CSKA Moscow,0
+CSK       ,,22,00:47,40,540,"HIGGINS, CORY",P006450   ,Foul Drawn (11),RV,,,CSKA Moscow,0
+KHI       ,,9,00:47,40,541,"MARKOVIC, STEFAN",PLME      ,Foul (3),CM,,,Khimki Moscow Region,0
+CSK       ,,22,00:47,40,542,"HIGGINS, CORY",P006450   ,Free Throw In (14/15 -  26 pt),FTM,79.0,65.0,CSKA Moscow,0
+CSK       ,,22,00:47,40,543,"HIGGINS, CORY",P006450   ,Missed Free Throw (14/16 -  26 pt),FTA,,,CSKA Moscow,0
+KHI       ,,13,00:47,40,544,"GILL, ANTHONY",P008001   ,Def Rebound (6),D,,,Khimki Moscow Region,0
+KHI       ,,21,00:30,40,545,"ANDERSON, JAMES",P005938   ,Two Pointer (2/2 -  7 pt),2FGM,79.0,67.0,Khimki Moscow Region,0
+KHI       ,,21,00:30,40,546,"ANDERSON, JAMES",P005938   ,Foul Drawn (1),RV,,,Khimki Moscow Region,0
+CSK       ,,21,00:30,40,547,"CLYBURN, WILL",P004888   ,Foul (4),CM,,,CSKA Moscow,0
+KHI       ,,21,00:30,40,548,"ANDERSON, JAMES",P005938   ,Free Throw In (1/1 -  8 pt),FTM,79.0,68.0,Khimki Moscow Region,0
+CSK       ,,,00:30,40,549,,          ,Time Out (2),TOUT,,,CSKA Moscow,0
+CSK       ,,1,00:30,40,550,"DE COLO, NANDO",P002100   ,In,IN,,,CSKA Moscow,0
+CSK       ,,21,00:30,40,551,"CLYBURN, WILL",P004888   ,Out,OUT,,,CSKA Moscow,0
+CSK       ,,1,00:05,40,552,"DE COLO, NANDO",P002100   ,Missed Two Pointer (0/3 -  5 pt),2FGA,,,CSKA Moscow,0
+KHI       ,,9,00:02,40,553,"MARKOVIC, STEFAN",PLME      ,Def Rebound (3),D,,,Khimki Moscow Region,0
+KHI       ,,9,00:00,40,554,"MARKOVIC, STEFAN",PLME      ,Missed Three Pointer (0/3 -  0 pt),3FGA,,,Khimki Moscow Region,0
+          ,,,,41,558,,          ,End Game,EG,,,,0
