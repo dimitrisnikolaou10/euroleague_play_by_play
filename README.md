@@ -9,5 +9,4 @@
 
 # Further work
 
-#### If you do any work on top of this code and adjust the data from the raw form to something more useful, push the new py file to the
-#### repo and explain what kind of a format you are offering. 
+#### If you do any work on top of this code and adjust the data from the raw form to something more useful, push the new py file to the repo and explain what kind of a format you are offering. 
