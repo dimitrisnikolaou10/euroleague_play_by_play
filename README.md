@@ -7,7 +7,7 @@
 
 # How to use
 
-#### Clone the repo locally in a suitable directory and run the create_pbp_data.py file file. This run will create all sub folders needed within that directory.
+#### Clone the repo locally in a suitable directory and run the create_pbp_database.py file file. This run will create all sub folders needed within that directory.
 
 # Further work
 
