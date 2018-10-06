@@ -7,10 +7,10 @@ import os
 
 
 def obtain_data(round, game_range):
-"""This function runs for a given range of games in a round of the Euroleague Season"""
-"""and creates a local database of the play by play data. It does so by first scraping"""
-"""the online database of Euroleague and then making some adjustments to fit all data"""
-"""in one dataframe. The last part of the code runs only to store the data locally"""
+	"""This function runs for a given range of games in a round of the Euroleague Season"""
+	"""and creates a local database of the play by play data. It does so by first scraping"""
+	"""the online database of Euroleague and then making some adjustments to fit all data"""
+	"""in one dataframe. The last part of the code runs only to store the data locally"""
 	for g in range(game_range[0], game_range[1]):
 
 		url = "http://live.euroleague.net/api/PlayByPlay?gamecode=" + str(g) + "&seasoncode=E2017&disp="
@@ -31,7 +31,7 @@ def obtain_data(round, game_range):
 		away_team = data['TeamB']
 		home_team_code = data['CodeTeamA']
 		away_team_code = data['CodeTeamB']
-		overtime_boolean = data['ActualQuarter'] - 4 """actual quarter indicates number of quarters"""
+		overtime_boolean = data['ActualQuarter'] - 4 #actual quarter indicates number of quarters
 		first_quarter = data['FirstQuarter']
 		second_quarter = data['SecondQuarter']
 		third_quarter = data['ThirdQuarter']
@@ -56,22 +56,22 @@ def obtain_data(round, game_range):
 			round_of_game = ((g-1)// 8) + 1
 			if not os.path.exists("data/" + round + "/round_" + str(round_of_game)):
 				os.makedirs("data/" + round + "/round_" + str(round_of_game))
-				path = "data/" + round + "/round_" + str(round_of_game) + "/" 
+			path = "data/" + round + "/round_" + str(round_of_game) + "/" 
 		elif round == "playoff":
 			round_of_game = ((g-241)// 4) + 1
 			if not os.path.exists("data/" + round + "/round_" + str(round_of_game)):
 				os.makedirs("data/" + round + "/round_" + str(round_of_game))
-				path = "data/" + round + "/round_" + str(round_of_game) + "/" 
+			path = "data/" + round + "/round_" + str(round_of_game) + "/" 
 		else: 
 			if not os.path.exists("data/" + round + "/"):
 				os.makedirs("data/" + round + "/")
-				path = "data/" + round + "/"
+			path = "data/" + round + "/"
 		
 		full_name = path + game_name + ".csv"
 
 		full_game.to_csv(full_name, index = False)
-		
-		return
+				
+	return
 		
 """These statements run the code, comment them if you don't want them to run"""
 obtain_data("regular", (1,241))
