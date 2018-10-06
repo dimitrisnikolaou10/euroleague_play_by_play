@@ -45,9 +45,9 @@ def obtain_data(round, game_range):
 		frames = [df1,df2,df3,df4]
 		full_game = pd.concat(frames)
 		full_game["home_team"] = home_team
-		full_game["home_team_code"] = home_team_code
+		full_game["home_team_code"] = home_team_code[0:3]
 		full_game["away_team"] = away_team
-		full_game["away_team_code"] = away_team_code
+		full_game["away_team_code"] = away_team_code[0:3]
 
 		game_name = home_team_code[0:3] + 'vs' + away_team_code[0:3]
 		
