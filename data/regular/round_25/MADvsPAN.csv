@@ -1,530 +1,530 @@
-CODETEAM,COMMENT,DORSAL,MARKERTIME,MINUTE,NUMBEROFPLAY,PLAYER,PLAYER_ID,PLAYINFO,PLAYTYPE,POINTS_A,POINTS_B,TEAM,TYPE
-          ,,,,1,2,,          ,Begin Period,BP,,,,0
-MAD       ,,20,09:39,1,3,"CARROLL, JAYCEE",P001960   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Real Madrid,0
-PAN       ,,14,09:37,1,4,"GIST, JAMES",P002980   ,Def Rebound (1),D,,,Panathinaikos Superfoods Athens,0
-PAN       ,,43,09:35,1,5,"ANTETOKOUNMPO, THANASIS",P007865   ,Foul Drawn (1),RV,,,Panathinaikos Superfoods Athens,0
-MAD       ,,20,09:35,1,6,"CARROLL, JAYCEE",P001960   ,Foul (1),CM,,,Real Madrid,0
-PAN       ,,24,09:26,1,7,"LOJESKI, MATT",P003608   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Panathinaikos Superfoods Athens,0
-MAD       ,,22,09:24,1,8,"TAVARES, WALTER",P005791   ,Def Rebound (1),D,,,Real Madrid,0
-MAD       ,,11,09:20,1,9,"CAMPAZZO, FACUNDO",P005928   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Real Madrid,0
-MAD       ,,22,09:20,1,10,"TAVARES, WALTER",P005791   ,Off Rebound (1),O,,,Real Madrid,0
-MAD       ,,22,09:20,1,11,"TAVARES, WALTER",P005791   ,Two Pointer (1/1 -  2 pt),2FGM,2.0,,Real Madrid,0
-PAN       ,,14,08:52,2,13,"GIST, JAMES",P002980   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Panathinaikos Superfoods Athens,0
-PAN       ,,43,08:49,2,14,"ANTETOKOUNMPO, THANASIS",P007865   ,Off Rebound (1),O,,,Panathinaikos Superfoods Athens,0
-PAN       ,,43,08:49,2,15,"ANTETOKOUNMPO, THANASIS",P007865   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Panathinaikos Superfoods Athens,0
-MAD       ,,3,08:47,2,16,"RANDOLPH, ANTHONY",P005757   ,Def Rebound (1),D,,,Real Madrid,0
-MAD       ,,20,08:45,2,17,"CARROLL, JAYCEE",P001960   ,Two Pointer (1/2 -  2 pt),2FGM,4.0,,Real Madrid,0
-MAD       ,,3,08:43,2,18,"RANDOLPH, ANTHONY",P005757   ,Assist (1),AS,,,Real Madrid,0
-PAN       ,,14,08:43,2,19,"GIST, JAMES",P002980   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Panathinaikos Superfoods Athens,0
-PAN       ,,14,08:43,2,20,"GIST, JAMES",P002980   ,Shot Rejected (1),AG,,,Panathinaikos Superfoods Athens,0
-MAD       ,,22,08:43,2,21,"TAVARES, WALTER",P005791   ,Block (1),FV,,,Real Madrid,0
-MAD       ,,11,08:43,2,22,"CAMPAZZO, FACUNDO",P005928   ,Def Rebound (1),D,,,Real Madrid,0
-MAD       ,,11,08:43,2,23,"CAMPAZZO, FACUNDO",P005928   ,Foul Drawn (1),RV,,,Real Madrid,0
-PAN       ,,14,08:43,2,24,"GIST, JAMES",P002980   ,Foul (1),CM,,,Panathinaikos Superfoods Athens,0
-MAD       ,,44,08:08,2,25,"TAYLOR, JEFFERY",P006546   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Real Madrid,0
-PAN       ,,14,08:06,2,26,"GIST, JAMES",P002980   ,Def Rebound (2),D,,,Panathinaikos Superfoods Athens,0
-PAN       ,,33,08:04,2,27,"CALATHES, NICK",P001932   ,Turnover (1),TO,,,Panathinaikos Superfoods Athens,0
-MAD       ,,11,08:02,2,28,"CAMPAZZO, FACUNDO",P005928   ,Steal (1),ST,,,Real Madrid,0
-MAD       ,,3,07:55,3,30,"RANDOLPH, ANTHONY",P005757   ,Foul Drawn (1),RV,,,Real Madrid,0
-PAN       ,,43,07:55,3,31,"ANTETOKOUNMPO, THANASIS",P007865   ,Foul (1),CM,,,Panathinaikos Superfoods Athens,0
-MAD       ,,3,07:55,3,32,"RANDOLPH, ANTHONY",P005757   ,Missed Free Throw (0/1 -  0 pt),FTA,,,Real Madrid,0
-MAD       ,,3,07:55,3,33,"RANDOLPH, ANTHONY",P005757   ,Missed Free Throw (0/2 -  0 pt),FTA,,,Real Madrid,0
-PAN       ,,43,07:55,3,34,"ANTETOKOUNMPO, THANASIS",P007865   ,Def Rebound (1),D,,,Panathinaikos Superfoods Athens,0
-PAN       ,,24,07:42,3,35,"LOJESKI, MATT",P003608   ,Foul Drawn (1),RV,,,Panathinaikos Superfoods Athens,0
-MAD       ,,3,07:42,3,36,"RANDOLPH, ANTHONY",P005757   ,Foul (1),CM,,,Real Madrid,0
-PAN       ,,33,07:34,3,37,"CALATHES, NICK",P001932   ,Turnover (2),TO,,,Panathinaikos Superfoods Athens,0
-MAD       ,,22,07:24,3,38,"TAVARES, WALTER",P005791   ,Two Pointer (2/2 -  4 pt),2FGM,6.0,,Real Madrid,0
-MAD       ,,3,07:24,3,39,"RANDOLPH, ANTHONY",P005757   ,Assist (2),AS,,,Real Madrid,0
-PAN       ,,14,06:49,4,41,"GIST, JAMES",P002980   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Panathinaikos Superfoods Athens,0
-PAN       ,,43,06:47,4,42,"ANTETOKOUNMPO, THANASIS",P007865   ,Off Rebound (2),O,,,Panathinaikos Superfoods Athens,0
-PAN       ,,43,06:47,4,43,"ANTETOKOUNMPO, THANASIS",P007865   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Panathinaikos Superfoods Athens,0
-MAD       ,,11,06:47,4,44,"CAMPAZZO, FACUNDO",P005928   ,Def Rebound (2),D,,,Real Madrid,0
-MAD       ,,44,06:47,4,45,"TAYLOR, JEFFERY",P006546   ,Two Pointer (1/1 -  2 pt),2FGM,8.0,,Real Madrid,0
-MAD       ,,11,06:47,4,46,"CAMPAZZO, FACUNDO",P005928   ,Assist (1),AS,,,Real Madrid,0
-PAN       ,,,06:47,4,47,,          ,Time Out (1),TOUT,,,Panathinaikos Superfoods Athens,0
-PAN       ,,12,06:47,4,48,"DENMON, MARCUS",P004195   ,In,IN,,,Panathinaikos Superfoods Athens,0
-PAN       ,,24,06:47,4,49,"LOJESKI, MATT",P003608   ,Out,OUT,,,Panathinaikos Superfoods Athens,0
-PAN       ,,33,06:29,4,50,"CALATHES, NICK",P001932   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Panathinaikos Superfoods Athens,0
-PAN       ,,0,06:26,4,51,"SINGLETON, CHRIS",P006614   ,Off Rebound (1),O,,,Panathinaikos Superfoods Athens,0
-PAN       ,,0,06:26,4,52,"SINGLETON, CHRIS",P006614   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Panathinaikos Superfoods Athens,0
-MAD       ,,11,06:24,4,53,"CAMPAZZO, FACUNDO",P005928   ,Def Rebound (3),D,,,Real Madrid,0
-MAD       ,,11,06:19,4,54,"CAMPAZZO, FACUNDO",P005928   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Real Madrid,0
-PAN       ,,0,06:17,4,55,"SINGLETON, CHRIS",P006614   ,Def Rebound (1),D,,,Panathinaikos Superfoods Athens,0
-PAN       ,,43,06:12,4,56,"ANTETOKOUNMPO, THANASIS",P007865   ,Missed Two Pointer (0/3 -  0 pt),2FGA,,,Panathinaikos Superfoods Athens,0
-PAN       ,,43,06:12,4,57,"ANTETOKOUNMPO, THANASIS",P007865   ,Shot Rejected (1),AG,,,Panathinaikos Superfoods Athens,0
-MAD       ,,22,06:12,4,58,"TAVARES, WALTER",P005791   ,Block (2),FV,,,Real Madrid,0
-PAN       ,,,06:12,4,59,,          ,Off Rebound (1),O,,,Panathinaikos Superfoods Athens,0
-PAN       ,,12,06:12,4,60,"DENMON, MARCUS",P004195   ,Two Pointer (1/1 -  2 pt),2FGM,8.0,2.0,Panathinaikos Superfoods Athens,0
-PAN       ,,33,06:12,4,61,"CALATHES, NICK",P001932   ,Assist (1),AS,,,Panathinaikos Superfoods Athens,0
-MAD       ,,3,05:45,5,110,"RANDOLPH, ANTHONY",P005757   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Real Madrid,0
-PAN       ,,12,05:43,5,64,"DENMON, MARCUS",P004195   ,Def Rebound (1),D,,,Panathinaikos Superfoods Athens,0
-PAN       ,,0,05:40,5,65,"SINGLETON, CHRIS",P006614   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Panathinaikos Superfoods Athens,0
-PAN       ,,43,05:40,5,66,"ANTETOKOUNMPO, THANASIS",P007865   ,Off Rebound (3),O,,,Panathinaikos Superfoods Athens,0
-PAN       ,,43,05:40,5,67,"ANTETOKOUNMPO, THANASIS",P007865   ,Missed Two Pointer (0/4 -  0 pt),2FGA,,,Panathinaikos Superfoods Athens,0
-PAN       ,,43,05:40,5,68,"ANTETOKOUNMPO, THANASIS",P007865   ,Off Rebound (4),O,,,Panathinaikos Superfoods Athens,0
-PAN       ,,43,05:28,5,69,"ANTETOKOUNMPO, THANASIS",P007865   ,Offensive Foul (2),OF,,,Panathinaikos Superfoods Athens,0
-PAN       ,,43,05:28,5,70,"ANTETOKOUNMPO, THANASIS",P007865   ,Turnover (1),TO,,,Panathinaikos Superfoods Athens,0
-MAD       ,,20,05:28,5,71,"CARROLL, JAYCEE",P001960   ,Foul Drawn (1),RV,,,Real Madrid,0
-PAN       ,,3,05:28,5,72,"RIVERS, KC",P002429   ,In,IN,,,Panathinaikos Superfoods Athens,0
-PAN       ,,43,05:28,5,73,"ANTETOKOUNMPO, THANASIS",P007865   ,Out,OUT,,,Panathinaikos Superfoods Athens,0
-MAD       ,,3,05:19,5,74,"RANDOLPH, ANTHONY",P005757   ,Foul Drawn (2),RV,,,Real Madrid,0
-PAN       ,,0,05:19,5,75,"SINGLETON, CHRIS",P006614   ,Foul (1),CM,,,Panathinaikos Superfoods Athens,0
-MAD       ,,20,05:09,5,76,"CARROLL, JAYCEE",P001960   ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,Real Madrid,0
-PAN       ,,14,05:09,5,78,"GIST, JAMES",P002980   ,Foul Drawn (1),RV,,,Panathinaikos Superfoods Athens,0
-MAD       ,,22,05:09,5,77,"TAVARES, WALTER",P005791   ,Foul (1),CM,,,Real Madrid,0
-MAD       ,,5,05:09,5,79,"FERNANDEZ, RUDY",PBMT      ,In,IN,,,Real Madrid,0
-MAD       ,,44,05:09,5,80,"TAYLOR, JEFFERY",P006546   ,Out,OUT,,,Real Madrid,0
-PAN       ,,33,04:55,6,82,"CALATHES, NICK",P001932   ,Two Pointer (1/1 -  2 pt),2FGM,8.0,4.0,Panathinaikos Superfoods Athens,0
-MAD       ,,3,04:40,6,83,"RANDOLPH, ANTHONY",P005757   ,Turnover (1),TO,,,Real Madrid,0
-PAN       ,,12,04:38,6,84,"DENMON, MARCUS",P004195   ,Steal (1),ST,,,Panathinaikos Superfoods Athens,0
-PAN       ,,12,04:33,6,85,"DENMON, MARCUS",P004195   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,Panathinaikos Superfoods Athens,0
-MAD       ,,3,04:30,6,86,"RANDOLPH, ANTHONY",P005757   ,Def Rebound (2),D,,,Real Madrid,0
-MAD       ,,20,04:25,6,87,"CARROLL, JAYCEE",P001960   ,Missed Three Pointer (0/2 -  2 pt),3FGA,,,Real Madrid,0
-PAN       ,,33,04:23,6,88,"CALATHES, NICK",P001932   ,Def Rebound (1),D,,,Panathinaikos Superfoods Athens,0
-PAN       ,,12,04:17,6,89,"DENMON, MARCUS",P004195   ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,Panathinaikos Superfoods Athens,0
-PAN       ,,3,04:15,6,90,"RIVERS, KC",P002429   ,Off Rebound (1),O,,,Panathinaikos Superfoods Athens,0
-PAN       ,,3,04:08,6,91,"RIVERS, KC",P002429   ,Three Pointer (1/1 -  3 pt),3FGM,8.0,7.0,Panathinaikos Superfoods Athens,0
-MAD       ,,,03:42,7,93,,          ,Turnover (1),TO,,,Real Madrid,0
-MAD       ,,1,03:42,7,94,"CAUSEUR, FABIEN",P001392   ,In,IN,,,Real Madrid,0
-MAD       ,,14,03:42,7,95,"AYON, GUSTAVO",P005927   ,In,IN,,,Real Madrid,0
-MAD       ,,20,03:42,7,96,"CARROLL, JAYCEE",P001960   ,Out,OUT,,,Real Madrid,0
-MAD       ,,22,03:42,7,97,"TAVARES, WALTER",P005791   ,Out,OUT,,,Real Madrid,0
-PAN       ,,33,03:42,7,98,"CALATHES, NICK",P001932   ,Three Pointer (1/2 -  5 pt),3FGM,8.0,10.0,Panathinaikos Superfoods Athens,0
-PAN       ,,14,03:42,7,99,"GIST, JAMES",P002980   ,Assist (1),AS,,,Panathinaikos Superfoods Athens,0
-MAD       ,,3,02:59,8,101,"RANDOLPH, ANTHONY",P005757   ,Two Pointer (1/1 -  2 pt),2FGM,10.0,10.0,Real Madrid,0
-MAD       ,,5,02:57,8,102,"FERNANDEZ, RUDY",PBMT      ,Assist (1),AS,,,Real Madrid,0
-PAN       ,,3,02:44,8,103,"RIVERS, KC",P002429   ,Three Pointer (2/2 -  6 pt),3FGM,10.0,13.0,Panathinaikos Superfoods Athens,0
-PAN       ,,12,02:41,8,104,"DENMON, MARCUS",P004195   ,Assist (1),AS,,,Panathinaikos Superfoods Athens,0
-MAD       ,,5,02:27,8,105,"FERNANDEZ, RUDY",PBMT      ,Turnover (1),TO,,,Real Madrid,0
-PAN       ,,0,02:25,8,106,"SINGLETON, CHRIS",P006614   ,Steal (1),ST,,,Panathinaikos Superfoods Athens,0
-PAN       ,,0,02:24,8,107,"SINGLETON, CHRIS",P006614   ,Three Pointer (1/1 -  3 pt),3FGM,10.0,16.0,Panathinaikos Superfoods Athens,0
-PAN       ,,33,02:24,8,108,"CALATHES, NICK",P001932   ,Assist (2),AS,,,Panathinaikos Superfoods Athens,0
-MAD       ,,,02:24,8,109,,          ,Time Out (1),TOUT,,,Real Madrid,0
-PAN       ,,6,02:24,8,111,"PAYNE, ADREIAN",P008348   ,In,IN,,,Panathinaikos Superfoods Athens,0
-PAN       ,,14,02:24,8,112,"GIST, JAMES",P002980   ,Out,OUT,,,Panathinaikos Superfoods Athens,0
-MAD       ,,5,02:13,8,113,"FERNANDEZ, RUDY",PBMT      ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Real Madrid,0
-MAD       ,,14,02:11,8,114,"AYON, GUSTAVO",P005927   ,Off Rebound (1),O,,,Real Madrid,0
-MAD       ,,3,02:06,8,115,"RANDOLPH, ANTHONY",P005757   ,Two Pointer (2/2 -  4 pt),2FGM,12.0,16.0,Real Madrid,0
-MAD       ,,14,02:05,8,116,"AYON, GUSTAVO",P005927   ,Assist (1),AS,,,Real Madrid,0
-PAN       ,,33,01:56,9,118,"CALATHES, NICK",P001932   ,Missed Two Pointer (1/2 -  5 pt),2FGA,,,Panathinaikos Superfoods Athens,0
-MAD       ,,5,01:56,9,119,"FERNANDEZ, RUDY",PBMT      ,Def Rebound (1),D,,,Real Madrid,0
-MAD       ,,1,01:41,9,120,"CAUSEUR, FABIEN",P001392   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Real Madrid,0
-PAN       ,,0,01:39,9,121,"SINGLETON, CHRIS",P006614   ,Def Rebound (2),D,,,Panathinaikos Superfoods Athens,0
-PAN       ,,0,01:33,9,122,"SINGLETON, CHRIS",P006614   ,Two Pointer (1/3 -  5 pt),2FGM,12.0,18.0,Panathinaikos Superfoods Athens,0
-MAD       ,,5,01:21,9,123,"FERNANDEZ, RUDY",PBMT      ,Three Pointer (1/2 -  3 pt),3FGM,15.0,18.0,Real Madrid,0
-MAD       ,,11,01:19,9,124,"CAMPAZZO, FACUNDO",P005928   ,Assist (2),AS,,,Real Madrid,0
-PAN       ,,12,00:58,10,126,"DENMON, MARCUS",P004195   ,Two Pointer (2/3 -  4 pt),2FGM,15.0,20.0,Panathinaikos Superfoods Athens,0
-MAD       ,,14,00:42,10,127,"AYON, GUSTAVO",P005927   ,Foul Drawn (1),RV,,,Real Madrid,0
-PAN       ,,3,00:42,10,128,"RIVERS, KC",P002429   ,Foul (1),CM,,,Panathinaikos Superfoods Athens,0
-MAD       ,,3,00:42,10,129,"RANDOLPH, ANTHONY",P005757   ,Out,OUT,,,Real Madrid,0
-MAD       ,,9,00:42,10,130,"REYES, FELIPE",PAAX      ,In,IN,,,Real Madrid,0
-MAD       ,,14,00:42,10,131,"AYON, GUSTAVO",P005927   ,Free Throw In (1/1 -  1 pt),FTM,16.0,20.0,Real Madrid,0
-MAD       ,,14,00:42,10,132,"AYON, GUSTAVO",P005927   ,Free Throw In (2/2 -  2 pt),FTM,17.0,20.0,Real Madrid,0
-MAD       ,,2,00:42,10,133,"RANDLE, CHASSON",P008038   ,In,IN,,,Real Madrid,0
-MAD       ,,11,00:42,10,134,"CAMPAZZO, FACUNDO",P005928   ,Out,OUT,,,Real Madrid,0
-PAN       ,,12,00:21,10,135,"DENMON, MARCUS",P004195   ,Missed Three Pointer (0/2 -  4 pt),3FGA,,,Panathinaikos Superfoods Athens,0
-MAD       ,,14,00:19,10,136,"AYON, GUSTAVO",P005927   ,Def Rebound (1),D,,,Real Madrid,0
-MAD       ,,2,00:04,10,137,"RANDLE, CHASSON",P008038   ,Two Pointer (1/1 -  2 pt),2FGM,19.0,20.0,Real Madrid,0
-          ,,,,11,139,,          ,End Period,EP,,,,0
-          ,,,,11,144,,          ,Begin Period,BP,,,,0
-PAN       ,,0,10:00,11,140,"SINGLETON, CHRIS",P006614   ,Out,OUT,,,Panathinaikos Superfoods Athens,0
-PAN       ,,14,10:00,11,141,"GIST, JAMES",P002980   ,In,IN,,,Panathinaikos Superfoods Athens,0
-PAN       ,,19,10:00,11,142,"LEKAVICIUS, LUKAS",P003210   ,In,IN,,,Panathinaikos Superfoods Athens,0
-PAN       ,,33,10:00,11,143,"CALATHES, NICK",P001932   ,Out,OUT,,,Panathinaikos Superfoods Athens,0
-PAN       ,,19,09:50,11,145,"LEKAVICIUS, LUKAS",P003210   ,Foul Drawn (1),RV,,,Panathinaikos Superfoods Athens,0
-MAD       ,,9,09:50,11,146,"REYES, FELIPE",PAAX      ,Foul (1),CM,,,Real Madrid,0
-PAN       ,,19,09:50,11,147,"LEKAVICIUS, LUKAS",P003210   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Panathinaikos Superfoods Athens,0
-PAN       ,,14,09:50,11,148,"GIST, JAMES",P002980   ,Off Rebound (1),O,,,Panathinaikos Superfoods Athens,0
-PAN       ,,6,09:50,11,149,"PAYNE, ADREIAN",P008348   ,Foul Drawn (1),RV,,,Panathinaikos Superfoods Athens,0
-MAD       ,,14,09:50,11,150,"AYON, GUSTAVO",P005927   ,Foul (1),CM,,,Real Madrid,0
-PAN       ,,6,09:50,11,151,"PAYNE, ADREIAN",P008348   ,Missed Free Throw (0/1 -  0 pt),FTA,,,Panathinaikos Superfoods Athens,0
-PAN       ,,6,09:50,11,152,"PAYNE, ADREIAN",P008348   ,Free Throw In (1/2 -  1 pt),FTM,19.0,21.0,Panathinaikos Superfoods Athens,0
-MAD       ,,2,09:21,11,153,"RANDLE, CHASSON",P008038   ,Foul Drawn (1),RV,,,Real Madrid,0
-PAN       ,,19,09:21,11,154,"LEKAVICIUS, LUKAS",P003210   ,Foul (1),CM,,,Panathinaikos Superfoods Athens,0
-MAD       ,,9,09:21,11,155,"REYES, FELIPE",PAAX      ,Turnover (1),TO,,,Real Madrid,0
-PAN       ,,6,08:56,12,157,"PAYNE, ADREIAN",P008348   ,Missed Two Pointer (0/1 -  1 pt),2FGA,,,Panathinaikos Superfoods Athens,0
-MAD       ,,9,08:54,12,158,"REYES, FELIPE",PAAX      ,Def Rebound (1),D,,,Real Madrid,0
-MAD       ,,1,08:50,12,159,"CAUSEUR, FABIEN",P001392   ,Two Pointer (1/1 -  2 pt),2FGM,21.0,21.0,Real Madrid,0
-MAD       ,,14,08:48,12,160,"AYON, GUSTAVO",P005927   ,Assist (2),AS,,,Real Madrid,0
-PAN       ,,12,08:31,12,161,"DENMON, MARCUS",P004195   ,Missed Three Pointer (0/3 -  4 pt),3FGA,,,Panathinaikos Superfoods Athens,0
-PAN       ,,6,08:28,12,162,"PAYNE, ADREIAN",P008348   ,Off Rebound (1),O,,,Panathinaikos Superfoods Athens,0
-PAN       ,,6,08:28,12,163,"PAYNE, ADREIAN",P008348   ,Two Pointer (1/2 -  3 pt),2FGM,21.0,23.0,Panathinaikos Superfoods Athens,0
-MAD       ,,5,08:15,12,164,"FERNANDEZ, RUDY",PBMT      ,Missed Three Pointer (1/3 -  3 pt),3FGA,,,Real Madrid,0
-PAN       ,,6,08:13,12,165,"PAYNE, ADREIAN",P008348   ,Def Rebound (1),D,,,Panathinaikos Superfoods Athens,0
-PAN       ,,19,08:08,12,166,"LEKAVICIUS, LUKAS",P003210   ,Foul Drawn (2),RV,,,Panathinaikos Superfoods Athens,0
-MAD       ,,2,08:08,12,167,"RANDLE, CHASSON",P008038   ,Foul (1),CM,,,Real Madrid,0
-PAN       ,,6,07:59,13,169,"PAYNE, ADREIAN",P008348   ,Missed Two Pointer (1/3 -  3 pt),2FGA,,,Panathinaikos Superfoods Athens,0
-PAN       ,,14,07:56,13,170,"GIST, JAMES",P002980   ,Off Rebound (2),O,,,Panathinaikos Superfoods Athens,0
-PAN       ,,14,07:56,13,171,"GIST, JAMES",P002980   ,Two Pointer (1/3 -  2 pt),2FGM,21.0,25.0,Panathinaikos Superfoods Athens,0
-MAD       ,,14,07:39,13,172,"AYON, GUSTAVO",P005927   ,Missed Two Pointer (0/1 -  2 pt),2FGA,,,Real Madrid,0
-PAN       ,,3,07:35,13,173,"RIVERS, KC",P002429   ,Def Rebound (1),D,,,Panathinaikos Superfoods Athens,0
-PAN       ,,12,07:30,13,174,"DENMON, MARCUS",P004195   ,Turnover (1),TO,,,Panathinaikos Superfoods Athens,0
-MAD       ,,1,07:28,13,175,"CAUSEUR, FABIEN",P001392   ,Steal (1),ST,,,Real Madrid,0
-MAD       ,,1,07:24,13,176,"CAUSEUR, FABIEN",P001392   ,Two Pointer (2/2 -  4 pt),2FGM,23.0,25.0,Real Madrid,0
-PAN       ,,12,07:10,13,177,"DENMON, MARCUS",P004195   ,Missed Three Pointer (0/4 -  4 pt),3FGA,,,Panathinaikos Superfoods Athens,0
-MAD       ,,5,07:10,13,178,"FERNANDEZ, RUDY",PBMT      ,Def Rebound (2),D,,,Real Madrid,0
-MAD       ,,5,07:00,13,179,"FERNANDEZ, RUDY",PBMT      ,Foul Drawn (1),RV,,,Real Madrid,0
-PAN       ,,19,07:00,13,180,"LEKAVICIUS, LUKAS",P003210   ,Unsportsmanlike Foul  (2),CMU,,,Panathinaikos Superfoods Athens,0
-PAN       ,,0,07:00,13,181,"SINGLETON, CHRIS",P006614   ,In,IN,,,Panathinaikos Superfoods Athens,0
-PAN       ,,5,07:00,13,182,"JAMES, MIKE",P005985   ,In,IN,,,Panathinaikos Superfoods Athens,0
-PAN       ,,6,07:00,13,183,"PAYNE, ADREIAN",P008348   ,Out,OUT,,,Panathinaikos Superfoods Athens,0
-PAN       ,,12,07:00,13,184,"DENMON, MARCUS",P004195   ,Out,OUT,,,Panathinaikos Superfoods Athens,0
-MAD       ,,5,07:00,13,185,"FERNANDEZ, RUDY",PBMT      ,Missed Free Throw (0/1 -  3 pt),FTA,,,Real Madrid,0
-MAD       ,,5,07:00,13,186,"FERNANDEZ, RUDY",PBMT      ,Free Throw In (1/2 -  4 pt),FTM,24.0,25.0,Real Madrid,0
-MAD       ,,1,06:51,14,188,"CAUSEUR, FABIEN",P001392   ,Three Pointer (1/2 -  7 pt),3FGM,27.0,25.0,Real Madrid,0
-MAD       ,,9,06:51,14,189,"REYES, FELIPE",PAAX      ,Assist (1),AS,,,Real Madrid,0
-PAN       ,,0,06:34,14,190,"SINGLETON, CHRIS",P006614   ,Missed Three Pointer (1/2 -  5 pt),3FGA,,,Panathinaikos Superfoods Athens,0
-MAD       ,,14,06:34,14,191,"AYON, GUSTAVO",P005927   ,Def Rebound (2),D,,,Real Madrid,0
-MAD       ,,2,06:23,14,192,"RANDLE, CHASSON",P008038   ,Foul Drawn (2),RV,,,Real Madrid,0
-PAN       ,,19,06:23,14,193,"LEKAVICIUS, LUKAS",P003210   ,Foul (3),CM,,,Panathinaikos Superfoods Athens,0
-PAN       ,,19,06:23,14,194,"LEKAVICIUS, LUKAS",P003210   ,Out,OUT,,,Panathinaikos Superfoods Athens,0
-PAN       ,,33,06:23,14,195,"CALATHES, NICK",P001932   ,In,IN,,,Panathinaikos Superfoods Athens,0
-MAD       ,,2,06:23,14,196,"RANDLE, CHASSON",P008038   ,Free Throw In (1/1 -  3 pt),FTM,28.0,25.0,Real Madrid,0
-MAD       ,,2,06:23,14,197,"RANDLE, CHASSON",P008038   ,Missed Free Throw (1/2 -  3 pt),FTA,,,Real Madrid,0
-PAN       ,,33,06:23,14,198,"CALATHES, NICK",P001932   ,Def Rebound (2),D,,,Panathinaikos Superfoods Athens,0
-PAN       ,,5,06:10,14,199,"JAMES, MIKE",P005985   ,Foul Drawn (1),RV,,,Panathinaikos Superfoods Athens,0
-MAD       ,,1,06:10,14,200,"CAUSEUR, FABIEN",P001392   ,Foul (1),CM,,,Real Madrid,0
-PAN       ,,5,06:10,14,201,"JAMES, MIKE",P005985   ,Free Throw In (1/1 -  1 pt),FTM,28.0,26.0,Panathinaikos Superfoods Athens,0
-PAN       ,,5,06:10,14,202,"JAMES, MIKE",P005985   ,Free Throw In (2/2 -  2 pt),FTM,28.0,27.0,Panathinaikos Superfoods Athens,0
-MAD       ,,9,05:56,15,204,"REYES, FELIPE",PAAX      ,Foul Drawn (1),RV,,,Real Madrid,0
-PAN       ,,3,05:56,15,205,"RIVERS, KC",P002429   ,Foul (2),CM,,,Panathinaikos Superfoods Athens,0
-MAD       ,,5,05:40,15,206,"FERNANDEZ, RUDY",PBMT      ,Missed Two Pointer (0/1 -  4 pt),2FGA,,,Real Madrid,0
-PAN       ,,33,05:38,15,207,"CALATHES, NICK",P001932   ,Def Rebound (3),D,,,Panathinaikos Superfoods Athens,0
-PAN       ,,33,05:33,15,208,"CALATHES, NICK",P001932   ,Missed Two Pointer (1/3 -  5 pt),2FGA,,,Panathinaikos Superfoods Athens,0
-MAD       ,,1,05:31,15,209,"CAUSEUR, FABIEN",P001392   ,Def Rebound (1),D,,,Real Madrid,0
-MAD       ,,1,05:27,15,210,"CAUSEUR, FABIEN",P001392   ,Two Pointer (3/3 -  9 pt),2FGM,30.0,27.0,Real Madrid,0
-PAN       ,,0,05:15,15,211,"SINGLETON, CHRIS",P006614   ,Missed Three Pointer (1/3 -  5 pt),3FGA,,,Panathinaikos Superfoods Athens,0
-PAN       ,,33,05:15,15,212,"CALATHES, NICK",P001932   ,Off Rebound (1),O,,,Panathinaikos Superfoods Athens,0
-PAN       ,,24,05:09,15,213,"LOJESKI, MATT",P003608   ,In,IN,,,Panathinaikos Superfoods Athens,0
-PAN       ,,33,05:09,15,214,"CALATHES, NICK",P001932   ,Out,OUT,,,Panathinaikos Superfoods Athens,0
-PAN       ,,3,05:09,15,215,"RIVERS, KC",P002429   ,Three Pointer (3/3 -  9 pt),3FGM,30.0,30.0,Panathinaikos Superfoods Athens,0
-MAD       ,,1,04:41,16,217,"CAUSEUR, FABIEN",P001392   ,Turnover (1),TO,,,Real Madrid,0
-PAN       ,,3,04:40,16,218,"RIVERS, KC",P002429   ,Steal (1),ST,,,Panathinaikos Superfoods Athens,0
-PAN       ,,5,04:23,16,219,"JAMES, MIKE",P005985   ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,Panathinaikos Superfoods Athens,0
-MAD       ,,2,04:20,16,220,"RANDLE, CHASSON",P008038   ,Def Rebound (1),D,,,Real Madrid,0
-MAD       ,,5,04:12,16,221,"FERNANDEZ, RUDY",PBMT      ,Turnover (2),TO,,,Real Madrid,0
-PAN       ,,5,04:12,16,222,"JAMES, MIKE",P005985   ,Steal (1),ST,,,Panathinaikos Superfoods Athens,0
-PAN       ,,24,04:12,16,223,"LOJESKI, MATT",P003608   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Panathinaikos Superfoods Athens,0
-PAN       ,,0,04:12,16,224,"SINGLETON, CHRIS",P006614   ,Off Rebound (2),O,,,Panathinaikos Superfoods Athens,0
-PAN       ,,5,04:12,16,225,"JAMES, MIKE",P005985   ,Two Pointer (1/1 -  4 pt),2FGM,30.0,32.0,Panathinaikos Superfoods Athens,0
-MAD       ,,5,03:30,17,227,"FERNANDEZ, RUDY",PBMT      ,Missed Three Pointer (1/4 -  4 pt),3FGA,,,Real Madrid,0
-MAD       ,,1,03:27,17,228,"CAUSEUR, FABIEN",P001392   ,Off Rebound (1),O,,,Real Madrid,0
-MAD       ,,1,03:27,17,229,"CAUSEUR, FABIEN",P001392   ,Two Pointer (4/4 -  11 pt),2FGM,32.0,32.0,Real Madrid,0
-PAN       ,,14,03:08,17,230,"GIST, JAMES",P002980   ,Offensive Foul (2),OF,,,Panathinaikos Superfoods Athens,0
-PAN       ,,14,03:08,17,231,"GIST, JAMES",P002980   ,Turnover (1),TO,,,Panathinaikos Superfoods Athens,0
-MAD       ,,2,03:08,17,232,"RANDLE, CHASSON",P008038   ,Foul Drawn (3),RV,,,Real Madrid,0
-          ,,,03:08,17,233,,          ,TV Time Out (1),TOUT_TV,,,,0
-MAD       ,,2,03:08,17,234,"RANDLE, CHASSON",P008038   ,Out,OUT,,,Real Madrid,0
-MAD       ,,5,03:08,17,235,"FERNANDEZ, RUDY",PBMT      ,Out,OUT,,,Real Madrid,0
-MAD       ,,11,03:08,17,236,"CAMPAZZO, FACUNDO",P005928   ,In,IN,,,Real Madrid,0
-MAD       ,,44,03:08,17,237,"TAYLOR, JEFFERY",P006546   ,In,IN,,,Real Madrid,0
-MAD       ,,14,02:52,18,239,"AYON, GUSTAVO",P005927   ,Two Pointer (1/2 -  4 pt),2FGM,34.0,32.0,Real Madrid,0
-MAD       ,,1,02:50,18,240,"CAUSEUR, FABIEN",P001392   ,Assist (1),AS,,,Real Madrid,0
-PAN       ,,5,02:39,18,241,"JAMES, MIKE",P005985   ,Foul Drawn (2),RV,,,Panathinaikos Superfoods Athens,0
-MAD       ,,1,02:39,18,242,"CAUSEUR, FABIEN",P001392   ,Foul (2),CM,,,Real Madrid,0
-PAN       ,,0,02:39,18,243,"SINGLETON, CHRIS",P006614   ,Out,OUT,,,Panathinaikos Superfoods Athens,0
-PAN       ,,6,02:39,18,244,"PAYNE, ADREIAN",P008348   ,In,IN,,,Panathinaikos Superfoods Athens,0
-MAD       ,,9,02:39,18,245,"REYES, FELIPE",PAAX      ,Out,OUT,,,Real Madrid,0
-MAD       ,,14,02:39,18,246,"AYON, GUSTAVO",P005927   ,Out,OUT,,,Real Madrid,0
-MAD       ,,22,02:39,18,247,"TAVARES, WALTER",P005791   ,In,IN,,,Real Madrid,0
-MAD       ,,33,02:39,18,248,"THOMPKINS, TREY",P005836   ,In,IN,,,Real Madrid,0
-PAN       ,,0,02:39,18,249,"SINGLETON, CHRIS",P006614   ,In,IN,,,Panathinaikos Superfoods Athens,0
-PAN       ,,14,02:39,18,250,"GIST, JAMES",P002980   ,Out,OUT,,,Panathinaikos Superfoods Athens,0
-PAN       ,,5,02:39,18,251,"JAMES, MIKE",P005985   ,Free Throw In (3/3 -  5 pt),FTM,34.0,33.0,Panathinaikos Superfoods Athens,0
-PAN       ,,5,02:39,18,252,"JAMES, MIKE",P005985   ,Free Throw In (4/4 -  6 pt),FTM,34.0,34.0,Panathinaikos Superfoods Athens,0
-PAN       ,,3,02:39,18,253,"RIVERS, KC",P002429   ,Out,OUT,,,Panathinaikos Superfoods Athens,0
-PAN       ,,12,02:39,18,254,"DENMON, MARCUS",P004195   ,In,IN,,,Panathinaikos Superfoods Athens,0
-MAD       ,,22,02:28,18,255,"TAVARES, WALTER",P005791   ,Two Pointer (3/3 -  6 pt),2FGM,36.0,34.0,Real Madrid,0
-MAD       ,,11,02:28,18,256,"CAMPAZZO, FACUNDO",P005928   ,Assist (3),AS,,,Real Madrid,0
-MAD       ,,1,02:28,18,257,"CAUSEUR, FABIEN",P001392   ,Out,OUT,,,Real Madrid,0
-MAD       ,,20,02:28,18,258,"CARROLL, JAYCEE",P001960   ,In,IN,,,Real Madrid,0
-PAN       ,,5,02:16,18,259,"JAMES, MIKE",P005985   ,Missed Three Pointer (0/2 -  6 pt),3FGA,,,Panathinaikos Superfoods Athens,0
-MAD       ,,44,02:16,18,260,"TAYLOR, JEFFERY",P006546   ,Def Rebound (1),D,,,Real Madrid,0
-MAD       ,,11,02:00,18,262,"CAMPAZZO, FACUNDO",P005928   ,Foul Drawn (2),RV,,,Real Madrid,0
-PAN       ,,12,02:00,18,263,"DENMON, MARCUS",P004195   ,Foul (1),CM,,,Panathinaikos Superfoods Athens,0
-MAD       ,,11,02:00,18,264,"CAMPAZZO, FACUNDO",P005928   ,Free Throw In (1/1 -  1 pt),FTM,37.0,34.0,Real Madrid,0
-MAD       ,,11,02:00,18,265,"CAMPAZZO, FACUNDO",P005928   ,Free Throw In (2/2 -  2 pt),FTM,38.0,34.0,Real Madrid,0
-PAN       ,,12,01:46,19,267,"DENMON, MARCUS",P004195   ,Three Pointer (1/5 -  7 pt),3FGM,38.0,37.0,Panathinaikos Superfoods Athens,0
-PAN       ,,5,01:44,19,268,"JAMES, MIKE",P005985   ,Assist (1),AS,,,Panathinaikos Superfoods Athens,0
-MAD       ,,44,01:26,19,269,"TAYLOR, JEFFERY",P006546   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,Real Madrid,0
-PAN       ,,24,01:16,19,270,"LOJESKI, MATT",P003608   ,Def Rebound (1),D,,,Panathinaikos Superfoods Athens,0
-PAN       ,,24,01:12,19,271,"LOJESKI, MATT",P003608   ,Missed Two Pointer (0/3 -  0 pt),2FGA,,,Panathinaikos Superfoods Athens,0
-PAN       ,,,01:12,19,272,,          ,Off Rebound (2),O,,,Panathinaikos Superfoods Athens,0
-PAN       ,,24,01:12,19,273,"LOJESKI, MATT",P003608   ,Out,OUT,,,Panathinaikos Superfoods Athens,0
-PAN       ,,43,01:12,19,274,"ANTETOKOUNMPO, THANASIS",P007865   ,In,IN,,,Panathinaikos Superfoods Athens,0
-PAN       ,,12,01:02,19,275,"DENMON, MARCUS",P004195   ,Missed Two Pointer (2/4 -  7 pt),2FGA,,,Panathinaikos Superfoods Athens,0
-MAD       ,,11,01:02,19,276,"CAMPAZZO, FACUNDO",P005928   ,Def Rebound (4),D,,,Real Madrid,0
-MAD       ,,33,00:47,20,278,"THOMPKINS, TREY",P005836   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Real Madrid,0
-PAN       ,,,00:47,20,279,,          ,Def Rebound (1),D,,,Panathinaikos Superfoods Athens,0
-PAN       ,,,00:47,20,280,,          ,Time Out (1),TOUT,,,Panathinaikos Superfoods Athens,0
-PAN       ,,24,00:47,20,281,"LOJESKI, MATT",P003608   ,In,IN,,,Panathinaikos Superfoods Athens,0
-PAN       ,,43,00:47,20,282,"ANTETOKOUNMPO, THANASIS",P007865   ,Out,OUT,,,Panathinaikos Superfoods Athens,0
-PAN       ,,6,00:28,20,283,"PAYNE, ADREIAN",P008348   ,Missed Two Pointer (1/4 -  3 pt),2FGA,,,Panathinaikos Superfoods Athens,0
-MAD       ,,33,00:25,20,284,"THOMPKINS, TREY",P005836   ,Def Rebound (1),D,,,Real Madrid,0
-MAD       ,,33,00:04,20,285,"THOMPKINS, TREY",P005836   ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,Real Madrid,0
-PAN       ,,24,00:02,20,286,"LOJESKI, MATT",P003608   ,Def Rebound (2),D,,,Panathinaikos Superfoods Athens,0
-PAN       ,,0,00:00,20,287,"SINGLETON, CHRIS",P006614   ,Missed Two Pointer (1/4 -  5 pt),2FGA,,,Panathinaikos Superfoods Athens,0
-          ,,,,21,289,,          ,End Period,EP,,,,0
-          ,,,,21,300,,          ,Begin Period,BP,,,,0
-MAD       ,,1,10:00,21,290,"CAUSEUR, FABIEN",P001392   ,In,IN,,,Real Madrid,0
-MAD       ,,3,10:00,21,291,"RANDOLPH, ANTHONY",P005757   ,In,IN,,,Real Madrid,0
-MAD       ,,20,10:00,21,292,"CARROLL, JAYCEE",P001960   ,Out,OUT,,,Real Madrid,0
-MAD       ,,33,10:00,21,293,"THOMPKINS, TREY",P005836   ,Out,OUT,,,Real Madrid,0
-PAN       ,,5,10:00,21,294,"JAMES, MIKE",P005985   ,Out,OUT,,,Panathinaikos Superfoods Athens,0
-PAN       ,,6,10:00,21,295,"PAYNE, ADREIAN",P008348   ,Out,OUT,,,Panathinaikos Superfoods Athens,0
-PAN       ,,14,10:00,21,296,"GIST, JAMES",P002980   ,In,IN,,,Panathinaikos Superfoods Athens,0
-PAN       ,,24,10:00,21,297,"LOJESKI, MATT",P003608   ,Out,OUT,,,Panathinaikos Superfoods Athens,0
-PAN       ,,33,10:00,21,298,"CALATHES, NICK",P001932   ,In,IN,,,Panathinaikos Superfoods Athens,0
-PAN       ,,43,10:00,21,299,"ANTETOKOUNMPO, THANASIS",P007865   ,In,IN,,,Panathinaikos Superfoods Athens,0
-MAD       ,,22,09:49,21,301,"TAVARES, WALTER",P005791   ,Foul Drawn (1),RV,,,Real Madrid,0
-PAN       ,,12,09:49,21,302,"DENMON, MARCUS",P004195   ,Foul (2),CM,,,Panathinaikos Superfoods Athens,0
-MAD       ,,1,09:48,21,303,"CAUSEUR, FABIEN",P001392   ,Missed Two Pointer (4/5 -  11 pt),2FGA,,,Real Madrid,0
-PAN       ,,43,09:48,21,304,"ANTETOKOUNMPO, THANASIS",P007865   ,Def Rebound (2),D,,,Panathinaikos Superfoods Athens,0
-PAN       ,,0,09:28,21,305,"SINGLETON, CHRIS",P006614   ,Missed Two Pointer (1/5 -  5 pt),2FGA,,,Panathinaikos Superfoods Athens,0
-MAD       ,,11,09:28,21,306,"CAMPAZZO, FACUNDO",P005928   ,Def Rebound (5),D,,,Real Madrid,0
-MAD       ,,3,09:13,21,309,"RANDOLPH, ANTHONY",P005757   ,Foul Drawn (3),RV,,,Real Madrid,0
-PAN       ,,0,09:13,21,308,"SINGLETON, CHRIS",P006614   ,Foul (2),CM,,,Panathinaikos Superfoods Athens,0
-MAD       ,,3,09:13,21,310,"RANDOLPH, ANTHONY",P005757   ,Missed Free Throw (0/3 -  4 pt),FTA,,,Real Madrid,0
-MAD       ,,3,09:13,21,311,"RANDOLPH, ANTHONY",P005757   ,Missed Free Throw (0/4 -  4 pt),FTA,,,Real Madrid,0
-PAN       ,,43,09:11,21,312,"ANTETOKOUNMPO, THANASIS",P007865   ,Def Rebound (3),D,,,Panathinaikos Superfoods Athens,0
-PAN       ,,33,08:59,22,314,"CALATHES, NICK",P001932   ,Turnover (3),TO,,,Panathinaikos Superfoods Athens,0
-MAD       ,,11,08:57,22,315,"CAMPAZZO, FACUNDO",P005928   ,Steal (2),ST,,,Real Madrid,0
-MAD       ,,44,08:57,22,316,"TAYLOR, JEFFERY",P006546   ,Foul Drawn (1),RV,,,Real Madrid,0
-PAN       ,,43,08:57,22,317,"ANTETOKOUNMPO, THANASIS",P007865   ,Foul (3),CM,,,Panathinaikos Superfoods Athens,0
-PAN       ,,3,08:57,22,318,"RIVERS, KC",P002429   ,In,IN,,,Panathinaikos Superfoods Athens,0
-PAN       ,,43,08:57,22,319,"ANTETOKOUNMPO, THANASIS",P007865   ,Out,OUT,,,Panathinaikos Superfoods Athens,0
-MAD       ,,44,08:57,22,320,"TAYLOR, JEFFERY",P006546   ,Free Throw In (1/1 -  3 pt),FTM,39.0,37.0,Real Madrid,0
-MAD       ,,1,08:57,22,321,"CAUSEUR, FABIEN",P001392   ,Assist (2),AS,,,Real Madrid,0
-MAD       ,,44,08:57,22,322,"TAYLOR, JEFFERY",P006546   ,Free Throw In (2/2 -  4 pt),FTM,40.0,37.0,Real Madrid,0
-PAN       ,,33,08:34,22,323,"CALATHES, NICK",P001932   ,Missed Two Pointer (1/4 -  5 pt),2FGA,,,Panathinaikos Superfoods Athens,0
-MAD       ,,22,08:32,22,324,"TAVARES, WALTER",P005791   ,Def Rebound (2),D,,,Real Madrid,0
-MAD       ,,44,08:21,22,325,"TAYLOR, JEFFERY",P006546   ,Two Pointer (2/3 -  6 pt),2FGM,42.0,37.0,Real Madrid,0
-PAN       ,,12,07:58,23,327,"DENMON, MARCUS",P004195   ,Two Pointer (3/5 -  9 pt),2FGM,42.0,39.0,Panathinaikos Superfoods Athens,0
-MAD       ,,11,07:40,23,328,"CAMPAZZO, FACUNDO",P005928   ,Two Pointer (1/3 -  4 pt),2FGM,44.0,39.0,Real Madrid,0
-PAN       ,,14,07:23,23,329,"GIST, JAMES",P002980   ,Turnover (2),TO,,,Panathinaikos Superfoods Athens,0
-MAD       ,,3,07:18,23,330,"RANDOLPH, ANTHONY",P005757   ,Steal (1),ST,,,Real Madrid,0
-MAD       ,,1,07:18,23,331,"CAUSEUR, FABIEN",P001392   ,Two Pointer (5/6 -  13 pt),2FGM,46.0,39.0,Real Madrid,0
-MAD       ,,11,07:18,23,332,"CAMPAZZO, FACUNDO",P005928   ,Assist (4),AS,,,Real Madrid,0
-PAN       ,,,07:18,23,333,,          ,Time Out (1),TOUT,,,Panathinaikos Superfoods Athens,0
-PAN       ,,3,07:02,23,334,"RIVERS, KC",P002429   ,Three Pointer (4/4 -  12 pt),3FGM,46.0,42.0,Panathinaikos Superfoods Athens,0
-PAN       ,,0,06:50,24,336,"SINGLETON, CHRIS",P006614   ,Assist (1),AS,,,Panathinaikos Superfoods Athens,0
-MAD       ,,22,06:50,24,337,"TAVARES, WALTER",P005791   ,Two Pointer (4/4 -  8 pt),2FGM,48.0,42.0,Real Madrid,0
-MAD       ,,1,06:50,24,338,"CAUSEUR, FABIEN",P001392   ,Assist (3),AS,,,Real Madrid,0
-PAN       ,,3,06:29,24,339,"RIVERS, KC",P002429   ,Missed Three Pointer (4/5 -  12 pt),3FGA,,,Panathinaikos Superfoods Athens,0
-PAN       ,,14,06:26,24,340,"GIST, JAMES",P002980   ,Off Rebound (3),O,,,Panathinaikos Superfoods Athens,0
-PAN       ,,14,06:26,24,341,"GIST, JAMES",P002980   ,Missed Two Pointer (1/4 -  2 pt),2FGA,,,Panathinaikos Superfoods Athens,0
-MAD       ,,3,06:23,24,342,"RANDOLPH, ANTHONY",P005757   ,Def Rebound (3),D,,,Real Madrid,0
-MAD       ,,3,06:19,24,343,"RANDOLPH, ANTHONY",P005757   ,Missed Two Pointer (2/3 -  4 pt),2FGA,,,Real Madrid,0
-PAN       ,,33,06:17,24,344,"CALATHES, NICK",P001932   ,Def Rebound (4),D,,,Panathinaikos Superfoods Athens,0
-PAN       ,,33,06:08,24,345,"CALATHES, NICK",P001932   ,Missed Two Pointer (1/5 -  5 pt),2FGA,,,Panathinaikos Superfoods Athens,0
-MAD       ,,11,06:08,24,346,"CAMPAZZO, FACUNDO",P005928   ,Foul Drawn (3),RV,,,Real Madrid,0
-PAN       ,,33,06:08,24,347,"CALATHES, NICK",P001932   ,Foul (1),CM,,,Panathinaikos Superfoods Athens,0
-PAN       ,,5,06:08,24,348,"JAMES, MIKE",P005985   ,In,IN,,,Panathinaikos Superfoods Athens,0
-PAN       ,,33,06:08,24,349,"CALATHES, NICK",P001932   ,Out,OUT,,,Panathinaikos Superfoods Athens,0
-MAD       ,,1,05:51,25,351,"CAUSEUR, FABIEN",P001392   ,Missed Two Pointer (5/7 -  13 pt),2FGA,,,Real Madrid,0
-MAD       ,,22,05:48,25,352,"TAVARES, WALTER",P005791   ,Off Rebound (2),O,,,Real Madrid,0
-MAD       ,,22,05:48,25,353,"TAVARES, WALTER",P005791   ,Two Pointer (5/5 -  10 pt),2FGM,50.0,42.0,Real Madrid,0
-PAN       ,,14,05:30,25,354,"GIST, JAMES",P002980   ,Missed Three Pointer (0/2 -  2 pt),3FGA,,,Panathinaikos Superfoods Athens,0
-MAD       ,,3,05:27,25,355,"RANDOLPH, ANTHONY",P005757   ,Def Rebound (4),D,,,Real Madrid,0
-MAD       ,,1,05:16,25,356,"CAUSEUR, FABIEN",P001392   ,Missed Three Pointer (1/3 -  13 pt),3FGA,,,Real Madrid,0
-MAD       ,,3,05:13,25,357,"RANDOLPH, ANTHONY",P005757   ,Off Rebound (1),O,,,Real Madrid,0
-MAD       ,,11,05:09,25,358,"CAMPAZZO, FACUNDO",P005928   ,Three Pointer (1/1 -  7 pt),3FGM,53.0,42.0,Real Madrid,0
-PAN       ,,12,04:58,26,360,"DENMON, MARCUS",P004195   ,Turnover (2),TO,,,Panathinaikos Superfoods Athens,0
-PAN       ,,6,04:44,26,361,"PAYNE, ADREIAN",P008348   ,In,IN,,,Panathinaikos Superfoods Athens,0
-PAN       ,,12,04:44,26,362,"DENMON, MARCUS",P004195   ,Out,OUT,,,Panathinaikos Superfoods Athens,0
-PAN       ,,14,04:44,26,363,"GIST, JAMES",P002980   ,Out,OUT,,,Panathinaikos Superfoods Athens,0
-PAN       ,,24,04:44,26,364,"LOJESKI, MATT",P003608   ,In,IN,,,Panathinaikos Superfoods Athens,0
-MAD       ,,1,04:33,26,365,"CAUSEUR, FABIEN",P001392   ,Two Pointer (6/8 -  15 pt),2FGM,55.0,42.0,Real Madrid,0
-PAN       ,,,04:33,26,366,,          ,Time Out (2),TOUT,,,Panathinaikos Superfoods Athens,0
-PAN       ,,5,04:20,26,367,"JAMES, MIKE",P005985   ,Missed Three Pointer (0/3 -  6 pt),3FGA,,,Panathinaikos Superfoods Athens,0
-MAD       ,,1,04:19,26,368,"CAUSEUR, FABIEN",P001392   ,Def Rebound (2),D,,,Real Madrid,0
-MAD       ,,1,04:19,26,369,"CAUSEUR, FABIEN",P001392   ,Foul Drawn (1),RV,,,Real Madrid,0
-PAN       ,,0,04:19,26,370,"SINGLETON, CHRIS",P006614   ,Foul (3),CM,,,Panathinaikos Superfoods Athens,0
-MAD       ,,1,04:19,26,371,"CAUSEUR, FABIEN",P001392   ,Free Throw In (1/1 -  16 pt),FTM,56.0,42.0,Real Madrid,0
-MAD       ,,1,04:19,26,372,"CAUSEUR, FABIEN",P001392   ,Missed Free Throw (1/2 -  16 pt),FTA,,,Real Madrid,0
-PAN       ,,0,04:19,26,373,"SINGLETON, CHRIS",P006614   ,Def Rebound (3),D,,,Panathinaikos Superfoods Athens,0
-PAN       ,,3,04:00,26,374,"RIVERS, KC",P002429   ,Foul Drawn (1),RV,,,Panathinaikos Superfoods Athens,0
-MAD       ,,11,04:00,26,375,"CAMPAZZO, FACUNDO",P005928   ,Foul (1),CM,,,Real Madrid,0
-PAN       ,,5,03:48,27,377,"JAMES, MIKE",P005985   ,Two Pointer (2/2 -  8 pt),2FGM,56.0,44.0,Panathinaikos Superfoods Athens,0
-MAD       ,,3,03:25,27,378,"RANDOLPH, ANTHONY",P005757   ,Turnover (2),TO,,,Real Madrid,0
-PAN       ,,5,03:22,27,379,"JAMES, MIKE",P005985   ,Steal (2),ST,,,Panathinaikos Superfoods Athens,0
-PAN       ,,5,03:22,27,380,"JAMES, MIKE",P005985   ,Two Pointer (3/3 -  10 pt),2FGM,56.0,46.0,Panathinaikos Superfoods Athens,0
-PAN       ,,3,03:22,27,382,"RIVERS, KC",P002429   ,Assist (1),AS,,,Panathinaikos Superfoods Athens,0
-MAD       ,,,03:22,27,381,,          ,Time Out (1),TOUT,,,Real Madrid,0
-MAD       ,,22,03:05,27,383,"TAVARES, WALTER",P005791   ,Missed Two Pointer (5/6 -  10 pt),2FGA,,,Real Madrid,0
-MAD       ,,22,03:05,27,384,"TAVARES, WALTER",P005791   ,Off Rebound (3),O,,,Real Madrid,0
-MAD       ,,44,03:05,27,385,"TAYLOR, JEFFERY",P006546   ,Missed Three Pointer (0/2 -  6 pt),3FGA,,,Real Madrid,0
-MAD       ,,1,03:05,27,386,"CAUSEUR, FABIEN",P001392   ,Off Rebound (2),O,,,Real Madrid,0
-MAD       ,,11,02:45,28,388,"CAMPAZZO, FACUNDO",P005928   ,Two Pointer (2/4 -  9 pt),2FGM,58.0,46.0,Real Madrid,0
-PAN       ,,24,02:27,28,389,"LOJESKI, MATT",P003608   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Panathinaikos Superfoods Athens,0
-PAN       ,,24,02:27,28,390,"LOJESKI, MATT",P003608   ,Shot Rejected (1),AG,,,Panathinaikos Superfoods Athens,0
-MAD       ,,1,02:27,28,391,"CAUSEUR, FABIEN",P001392   ,Block (1),FV,,,Real Madrid,0
-PAN       ,,,02:27,28,392,,          ,Off Rebound (3),O,,,Panathinaikos Superfoods Athens,0
-MAD       ,,14,02:27,28,393,"AYON, GUSTAVO",P005927   ,In,IN,,,Real Madrid,0
-MAD       ,,22,02:27,28,394,"TAVARES, WALTER",P005791   ,Out,OUT,,,Real Madrid,0
-PAN       ,,5,02:13,28,395,"JAMES, MIKE",P005985   ,Missed Three Pointer (0/4 -  10 pt),3FGA,,,Panathinaikos Superfoods Athens,0
-PAN       ,,0,02:13,28,397,"SINGLETON, CHRIS",P006614   ,Foul Drawn (1),RV,,,Panathinaikos Superfoods Athens,0
-MAD       ,,3,02:13,28,396,"RANDOLPH, ANTHONY",P005757   ,Foul (2),CM,,,Real Madrid,0
-PAN       ,,5,02:11,28,398,"JAMES, MIKE",P005985   ,Turnover (1),TO,,,Panathinaikos Superfoods Athens,0
-MAD       ,,14,01:55,29,400,"AYON, GUSTAVO",P005927   ,Missed Two Pointer (1/3 -  4 pt),2FGA,,,Real Madrid,0
-PAN       ,,24,01:50,29,401,"LOJESKI, MATT",P003608   ,Def Rebound (3),D,,,Panathinaikos Superfoods Athens,0
-PAN       ,,6,01:50,29,402,"PAYNE, ADREIAN",P008348   ,Foul Drawn (2),RV,,,Panathinaikos Superfoods Athens,0
-MAD       ,,14,01:50,29,403,"AYON, GUSTAVO",P005927   ,Foul (2),CM,,,Real Madrid,0
-PAN       ,,6,01:50,29,404,"PAYNE, ADREIAN",P008348   ,Free Throw In (2/3 -  4 pt),FTM,58.0,47.0,Panathinaikos Superfoods Athens,0
-PAN       ,,3,01:50,29,405,"RIVERS, KC",P002429   ,Assist (2),AS,,,Panathinaikos Superfoods Athens,0
-PAN       ,,6,01:50,29,406,"PAYNE, ADREIAN",P008348   ,Free Throw In (3/4 -  5 pt),FTM,58.0,48.0,Panathinaikos Superfoods Athens,0
-PAN       ,,24,01:50,29,407,"LOJESKI, MATT",P003608   ,Out,OUT,,,Panathinaikos Superfoods Athens,0
-PAN       ,,33,01:50,29,408,"CALATHES, NICK",P001932   ,In,IN,,,Panathinaikos Superfoods Athens,0
-MAD       ,,1,01:50,29,409,"CAUSEUR, FABIEN",P001392   ,Foul Drawn (2),RV,,,Real Madrid,0
-PAN       ,,5,01:50,29,410,"JAMES, MIKE",P005985   ,Foul (1),CM,,,Panathinaikos Superfoods Athens,0
-MAD       ,,3,01:50,29,411,"RANDOLPH, ANTHONY",P005757   ,Out,OUT,,,Real Madrid,0
-MAD       ,,9,01:50,29,412,"REYES, FELIPE",PAAX      ,In,IN,,,Real Madrid,0
-MAD       ,,1,01:50,29,413,"CAUSEUR, FABIEN",P001392   ,Free Throw In (2/3 -  17 pt),FTM,59.0,48.0,Real Madrid,0
-MAD       ,,1,01:50,29,414,"CAUSEUR, FABIEN",P001392   ,Free Throw In (3/4 -  18 pt),FTM,60.0,48.0,Real Madrid,0
-MAD       ,,1,01:50,29,415,"CAUSEUR, FABIEN",P001392   ,Out,OUT,,,Real Madrid,0
-MAD       ,,5,01:50,29,416,"FERNANDEZ, RUDY",PBMT      ,In,IN,,,Real Madrid,0
-PAN       ,,33,01:34,29,417,"CALATHES, NICK",P001932   ,Missed Three Pointer (1/3 -  5 pt),3FGA,,,Panathinaikos Superfoods Athens,0
-PAN       ,,6,01:34,29,418,"PAYNE, ADREIAN",P008348   ,Off Rebound (2),O,,,Panathinaikos Superfoods Athens,0
-PAN       ,,6,01:34,29,419,"PAYNE, ADREIAN",P008348   ,Foul Drawn (3),RV,,,Panathinaikos Superfoods Athens,0
-MAD       ,,14,01:34,29,420,"AYON, GUSTAVO",P005927   ,Foul (3),CM,,,Real Madrid,0
-PAN       ,,5,01:34,29,421,"JAMES, MIKE",P005985   ,Two Pointer (4/4 -  12 pt),2FGM,60.0,50.0,Panathinaikos Superfoods Athens,0
-PAN       ,,33,01:34,29,422,"CALATHES, NICK",P001932   ,Assist (3),AS,,,Panathinaikos Superfoods Athens,0
-MAD       ,,9,01:15,29,423,"REYES, FELIPE",PAAX      ,Turnover (2),TO,,,Real Madrid,0
-PAN       ,,33,01:14,29,424,"CALATHES, NICK",P001932   ,Steal (1),ST,,,Panathinaikos Superfoods Athens,0
-PAN       ,,5,01:07,29,425,"JAMES, MIKE",P005985   ,Three Pointer (1/5 -  15 pt),3FGM,60.0,53.0,Panathinaikos Superfoods Athens,0
-PAN       ,,6,01:07,29,426,"PAYNE, ADREIAN",P008348   ,Assist (1),AS,,,Panathinaikos Superfoods Athens,0
-MAD       ,,11,01:07,29,427,"CAMPAZZO, FACUNDO",P005928   ,Foul Drawn (4),RV,,,Real Madrid,0
-PAN       ,,33,01:07,29,428,"CALATHES, NICK",P001932   ,Foul (2),CM,,,Panathinaikos Superfoods Athens,0
-MAD       ,,11,01:07,29,429,"CAMPAZZO, FACUNDO",P005928   ,Free Throw In (3/3 -  10 pt),FTM,61.0,53.0,Real Madrid,0
-MAD       ,,11,01:07,29,430,"CAMPAZZO, FACUNDO",P005928   ,Free Throw In (4/4 -  11 pt),FTM,62.0,53.0,Real Madrid,0
-PAN       ,,33,00:36,30,432,"CALATHES, NICK",P001932   ,Two Pointer (2/6 -  7 pt),2FGM,62.0,55.0,Panathinaikos Superfoods Athens,0
-PAN       ,,5,00:34,30,433,"JAMES, MIKE",P005985   ,Assist (2),AS,,,Panathinaikos Superfoods Athens,0
-MAD       ,,14,00:15,30,434,"AYON, GUSTAVO",P005927   ,Two Pointer (2/4 -  6 pt),2FGM,64.0,55.0,Real Madrid,0
-MAD       ,,5,00:15,30,435,"FERNANDEZ, RUDY",PBMT      ,Assist (2),AS,,,Real Madrid,0
-          ,,,,31,437,,          ,End Period,EP,,,,0
-          ,,,,31,440,,          ,Begin Period,BP,,,,0
-PAN       ,,6,10:00,31,438,"PAYNE, ADREIAN",P008348   ,Out,OUT,,,Panathinaikos Superfoods Athens,0
-PAN       ,,14,10:00,31,439,"GIST, JAMES",P002980   ,In,IN,,,Panathinaikos Superfoods Athens,0
-PAN       ,,33,09:59,31,441,"CALATHES, NICK",P001932   ,Offensive Foul (3),OF,,,Panathinaikos Superfoods Athens,0
-PAN       ,,33,09:59,31,442,"CALATHES, NICK",P001932   ,Turnover (4),TO,,,Panathinaikos Superfoods Athens,0
-MAD       ,,11,09:59,31,443,"CAMPAZZO, FACUNDO",P005928   ,Foul Drawn (5),RV,,,Real Madrid,0
-PAN       ,,33,09:59,31,444,"CALATHES, NICK",P001932   ,Technical Foul (4),CMT,,,Panathinaikos Superfoods Athens,0
-MAD       ,,5,09:59,31,445,"FERNANDEZ, RUDY",PBMT      ,Free Throw In (2/3 -  5 pt),FTM,65.0,55.0,Real Madrid,0
-MAD       ,,5,09:35,31,446,"FERNANDEZ, RUDY",PBMT      ,Missed Three Pointer (1/5 -  5 pt),3FGA,,,Real Madrid,0
-PAN       ,,,09:35,31,447,,          ,Def Rebound (2),D,,,Panathinaikos Superfoods Athens,0
-PAN       ,,0,09:18,31,448,"SINGLETON, CHRIS",P006614   ,Missed Three Pointer (1/4 -  5 pt),3FGA,,,Panathinaikos Superfoods Athens,0
-PAN       ,,14,09:16,31,449,"GIST, JAMES",P002980   ,Off Rebound (4),O,,,Panathinaikos Superfoods Athens,0
-PAN       ,,33,09:12,31,450,"CALATHES, NICK",P001932   ,Two Pointer (3/7 -  9 pt),2FGM,65.0,57.0,Panathinaikos Superfoods Athens,0
-MAD       ,,5,08:59,32,452,"FERNANDEZ, RUDY",PBMT      ,Two Pointer (1/2 -  7 pt),2FGM,67.0,57.0,Real Madrid,0
-MAD       ,,14,08:59,32,453,"AYON, GUSTAVO",P005927   ,Assist (3),AS,,,Real Madrid,0
-PAN       ,,0,08:59,32,454,"SINGLETON, CHRIS",P006614   ,Out,OUT,,,Panathinaikos Superfoods Athens,0
-PAN       ,,22,08:59,32,455,"GABRIEL, KENNY",P005881   ,In,IN,,,Panathinaikos Superfoods Athens,0
-PAN       ,,5,08:48,32,456,"JAMES, MIKE",P005985   ,Foul Drawn (3),RV,,,Panathinaikos Superfoods Athens,0
-MAD       ,,9,08:48,32,457,"REYES, FELIPE",PAAX      ,Foul (2),CM,,,Real Madrid,0
-PAN       ,,33,08:40,32,458,"CALATHES, NICK",P001932   ,Missed Three Pointer (1/4 -  9 pt),3FGA,,,Panathinaikos Superfoods Athens,0
-MAD       ,,,08:40,32,459,,          ,Def Rebound (3),D,,,Real Madrid,0
-MAD       ,,14,08:16,32,460,"AYON, GUSTAVO",P005927   ,Turnover (1),TO,,,Real Madrid,0
-PAN       ,,5,08:16,32,461,"JAMES, MIKE",P005985   ,Steal (3),ST,,,Panathinaikos Superfoods Athens,0
-PAN       ,,33,08:16,32,462,"CALATHES, NICK",P001932   ,Foul Drawn (1),RV,,,Panathinaikos Superfoods Athens,0
-MAD       ,,5,08:16,32,463,"FERNANDEZ, RUDY",PBMT      ,Foul (1),CM,,,Real Madrid,0
-PAN       ,,33,08:16,32,464,"CALATHES, NICK",P001932   ,Free Throw In (1/1 -  10 pt),FTM,67.0,58.0,Panathinaikos Superfoods Athens,0
-PAN       ,,5,08:16,32,465,"JAMES, MIKE",P005985   ,Assist (3),AS,,,Panathinaikos Superfoods Athens,0
-PAN       ,,33,08:16,32,466,"CALATHES, NICK",P001932   ,Missed Free Throw (1/2 -  10 pt),FTA,,,Panathinaikos Superfoods Athens,0
-MAD       ,,5,08:16,32,467,"FERNANDEZ, RUDY",PBMT      ,Def Rebound (3),D,,,Real Madrid,0
-MAD       ,,14,07:58,33,469,"AYON, GUSTAVO",P005927   ,Foul Drawn (2),RV,,,Real Madrid,0
-PAN       ,,14,07:58,33,470,"GIST, JAMES",P002980   ,Foul (3),CM,,,Panathinaikos Superfoods Athens,0
-PAN       ,,12,07:58,33,471,"DENMON, MARCUS",P004195   ,In,IN,,,Panathinaikos Superfoods Athens,0
-PAN       ,,33,07:58,33,472,"CALATHES, NICK",P001932   ,Out,OUT,,,Panathinaikos Superfoods Athens,0
-MAD       ,,14,07:58,33,473,"AYON, GUSTAVO",P005927   ,Free Throw In (3/3 -  7 pt),FTM,68.0,58.0,Real Madrid,0
-MAD       ,,14,07:58,33,474,"AYON, GUSTAVO",P005927   ,Free Throw In (4/4 -  8 pt),FTM,69.0,58.0,Real Madrid,0
-MAD       ,,1,07:58,33,475,"CAUSEUR, FABIEN",P001392   ,In,IN,,,Real Madrid,0
-MAD       ,,44,07:58,33,476,"TAYLOR, JEFFERY",P006546   ,Out,OUT,,,Real Madrid,0
-PAN       ,,22,07:36,33,477,"GABRIEL, KENNY",P005881   ,Three Pointer (1/1 -  3 pt),3FGM,69.0,61.0,Panathinaikos Superfoods Athens,0
-PAN       ,,3,07:35,33,478,"RIVERS, KC",P002429   ,Assist (3),AS,,,Panathinaikos Superfoods Athens,0
-MAD       ,,9,07:19,33,479,"REYES, FELIPE",PAAX      ,Two Pointer (1/1 -  2 pt),2FGM,71.0,61.0,Real Madrid,0
-MAD       ,,1,07:19,33,480,"CAUSEUR, FABIEN",P001392   ,Assist (4),AS,,,Real Madrid,0
-MAD       ,,9,07:19,33,481,"REYES, FELIPE",PAAX      ,Foul Drawn (2),RV,,,Real Madrid,0
-PAN       ,,12,07:19,33,482,"DENMON, MARCUS",P004195   ,Foul (3),CM,,,Panathinaikos Superfoods Athens,0
-MAD       ,,9,07:19,33,483,"REYES, FELIPE",PAAX      ,Free Throw In (1/1 -  3 pt),FTM,72.0,61.0,Real Madrid,0
-PAN       ,,14,07:19,33,484,"GIST, JAMES",P002980   ,Two Pointer (2/5 -  4 pt),2FGM,72.0,63.0,Panathinaikos Superfoods Athens,0
-PAN       ,,12,07:19,33,485,"DENMON, MARCUS",P004195   ,Assist (2),AS,,,Panathinaikos Superfoods Athens,0
-MAD       ,,11,06:48,34,487,"CAMPAZZO, FACUNDO",P005928   ,Missed Three Pointer (1/2 -  11 pt),3FGA,,,Real Madrid,0
-MAD       ,,9,06:46,34,488,"REYES, FELIPE",PAAX      ,Off Rebound (1),O,,,Real Madrid,0
-MAD       ,,9,06:46,34,489,"REYES, FELIPE",PAAX      ,Two Pointer (2/2 -  5 pt),2FGM,74.0,63.0,Real Madrid,0
-PAN       ,,5,06:34,34,490,"JAMES, MIKE",P005985   ,Two Pointer (5/5 -  17 pt),2FGM,74.0,65.0,Panathinaikos Superfoods Athens,0
-MAD       ,,1,06:21,34,491,"CAUSEUR, FABIEN",P001392   ,Foul Drawn (3),RV,,,Real Madrid,0
-PAN       ,,14,06:21,34,492,"GIST, JAMES",P002980   ,Foul (4),CM,,,Panathinaikos Superfoods Athens,0
-MAD       ,,14,06:21,34,493,"AYON, GUSTAVO",P005927   ,Out,OUT,,,Real Madrid,0
-MAD       ,,22,06:21,34,494,"TAVARES, WALTER",P005791   ,In,IN,,,Real Madrid,0
-MAD       ,,1,06:21,34,495,"CAUSEUR, FABIEN",P001392   ,Missed Free Throw (3/5 -  18 pt),FTA,,,Real Madrid,0
-MAD       ,,1,06:21,34,496,"CAUSEUR, FABIEN",P001392   ,Free Throw In (4/6 -  19 pt),FTM,75.0,65.0,Real Madrid,0
-PAN       ,,12,06:04,34,497,"DENMON, MARCUS",P004195   ,Foul Drawn (1),RV,,,Panathinaikos Superfoods Athens,0
-MAD       ,,1,06:04,34,498,"CAUSEUR, FABIEN",P001392   ,Foul (3),CM,,,Real Madrid,0
-PAN       ,,5,06:04,34,499,"JAMES, MIKE",P005985   ,Two Pointer (6/6 -  19 pt),2FGM,75.0,67.0,Panathinaikos Superfoods Athens,0
-MAD       ,,9,05:32,35,501,"REYES, FELIPE",PAAX      ,Missed Two Pointer (2/3 -  5 pt),2FGA,,,Real Madrid,0
-MAD       ,,9,05:30,35,502,"REYES, FELIPE",PAAX      ,Off Rebound (2),O,,,Real Madrid,0
-MAD       ,,9,05:30,35,503,"REYES, FELIPE",PAAX      ,Two Pointer (3/4 -  7 pt),2FGM,77.0,67.0,Real Madrid,0
-PAN       ,,5,05:16,35,504,"JAMES, MIKE",P005985   ,Two Pointer (7/7 -  21 pt),2FGM,77.0,69.0,Panathinaikos Superfoods Athens,0
-MAD       ,,1,04:57,36,506,"CAUSEUR, FABIEN",P001392   ,Two Pointer (7/9 -  21 pt),2FGM,79.0,69.0,Real Madrid,0
-PAN       ,,5,04:47,36,508,"JAMES, MIKE",P005985   ,Missed Three Pointer (1/6 -  21 pt),3FGA,,,Panathinaikos Superfoods Athens,0
-MAD       ,,9,04:47,36,509,"REYES, FELIPE",PAAX      ,Def Rebound (2),D,,,Real Madrid,0
-MAD       ,,22,04:28,36,511,"TAVARES, WALTER",P005791   ,Foul Drawn (2),RV,,,Real Madrid,0
-PAN       ,,22,04:28,36,512,"GABRIEL, KENNY",P005881   ,Foul (1),CM,,,Panathinaikos Superfoods Athens,0
-          ,,,04:28,36,513,,          ,TV Time Out (2),TOUT_TV,,,,0
-MAD       ,,22,04:28,36,514,"TAVARES, WALTER",P005791   ,Free Throw In (1/1 -  11 pt),FTM,80.0,69.0,Real Madrid,0
-MAD       ,,22,04:28,36,515,"TAVARES, WALTER",P005791   ,Free Throw In (2/2 -  12 pt),FTM,81.0,69.0,Real Madrid,0
-PAN       ,,22,04:09,36,516,"GABRIEL, KENNY",P005881   ,Missed Three Pointer (1/2 -  3 pt),3FGA,,,Panathinaikos Superfoods Athens,0
-PAN       ,,12,04:09,36,517,"DENMON, MARCUS",P004195   ,Off Rebound (1),O,,,Panathinaikos Superfoods Athens,0
-PAN       ,,12,04:09,36,518,"DENMON, MARCUS",P004195   ,Two Pointer (4/6 -  11 pt),2FGM,81.0,71.0,Panathinaikos Superfoods Athens,0
-MAD       ,,5,03:50,37,520,"FERNANDEZ, RUDY",PBMT      ,Missed Three Pointer (1/6 -  7 pt),3FGA,,,Real Madrid,0
-PAN       ,,,03:50,37,521,,          ,Def Rebound (4),D,,,Panathinaikos Superfoods Athens,0
-PAN       ,,0,03:50,37,522,"SINGLETON, CHRIS",P006614   ,In,IN,,,Panathinaikos Superfoods Athens,0
-PAN       ,,14,03:50,37,523,"GIST, JAMES",P002980   ,Out,OUT,,,Panathinaikos Superfoods Athens,0
-PAN       ,,5,03:26,37,524,"JAMES, MIKE",P005985   ,Missed Three Pointer (1/7 -  21 pt),3FGA,,,Panathinaikos Superfoods Athens,0
-MAD       ,,22,03:24,37,525,"TAVARES, WALTER",P005791   ,Def Rebound (3),D,,,Real Madrid,0
-MAD       ,,1,03:05,37,526,"CAUSEUR, FABIEN",P001392   ,Three Pointer (2/4 -  24 pt),3FGM,84.0,71.0,Real Madrid,0
-MAD       ,,11,03:03,37,527,"CAMPAZZO, FACUNDO",P005928   ,Assist (5),AS,,,Real Madrid,0
-PAN       ,,3,02:51,38,529,"RIVERS, KC",P002429   ,Missed Three Pointer (4/6 -  12 pt),3FGA,,,Panathinaikos Superfoods Athens,0
-MAD       ,,9,02:49,38,530,"REYES, FELIPE",PAAX      ,Def Rebound (3),D,,,Real Madrid,0
-MAD       ,,1,02:36,38,531,"CAUSEUR, FABIEN",P001392   ,Two Pointer (8/10 -  26 pt),2FGM,86.0,71.0,Real Madrid,0
-PAN       ,,,02:36,38,532,,          ,Time Out (1),TOUT,,,Panathinaikos Superfoods Athens,0
-MAD       ,,9,02:36,38,533,"REYES, FELIPE",PAAX      ,Out,OUT,,,Real Madrid,0
-MAD       ,,33,02:36,38,534,"THOMPKINS, TREY",P005836   ,In,IN,,,Real Madrid,0
-PAN       ,,14,02:36,38,535,"GIST, JAMES",P002980   ,In,IN,,,Panathinaikos Superfoods Athens,0
-PAN       ,,22,02:36,38,536,"GABRIEL, KENNY",P005881   ,Out,OUT,,,Panathinaikos Superfoods Athens,0
-PAN       ,,5,02:29,38,537,"JAMES, MIKE",P005985   ,Foul Drawn (4),RV,,,Panathinaikos Superfoods Athens,0
-MAD       ,,22,02:29,38,538,"TAVARES, WALTER",P005791   ,Foul (2),CM,,,Real Madrid,0
-PAN       ,,5,02:29,38,539,"JAMES, MIKE",P005985   ,Free Throw In (5/5 -  22 pt),FTM,86.0,72.0,Panathinaikos Superfoods Athens,0
-PAN       ,,5,02:29,38,540,"JAMES, MIKE",P005985   ,Free Throw In (6/6 -  23 pt),FTM,86.0,73.0,Panathinaikos Superfoods Athens,0
-MAD       ,,11,02:23,38,541,"CAMPAZZO, FACUNDO",P005928   ,Foul Drawn (6),RV,,,Real Madrid,0
-PAN       ,,0,02:23,38,542,"SINGLETON, CHRIS",P006614   ,Foul (4),CM,,,Panathinaikos Superfoods Athens,0
-MAD       ,,11,02:23,38,543,"CAMPAZZO, FACUNDO",P005928   ,Missed Free Throw (4/5 -  11 pt),FTA,,,Real Madrid,0
-MAD       ,,11,02:23,38,544,"CAMPAZZO, FACUNDO",P005928   ,Free Throw In (5/6 -  12 pt),FTM,87.0,73.0,Real Madrid,0
-PAN       ,,5,02:13,38,545,"JAMES, MIKE",P005985   ,Turnover (2),TO,,,Panathinaikos Superfoods Athens,0
-MAD       ,,11,01:59,39,547,"CAMPAZZO, FACUNDO",P005928   ,Three Pointer (2/3 -  15 pt),3FGM,90.0,73.0,Real Madrid,0
-MAD       ,,22,01:59,39,548,"TAVARES, WALTER",P005791   ,Assist (1),AS,,,Real Madrid,0
-PAN       ,,0,01:46,39,549,"SINGLETON, CHRIS",P006614   ,Missed Three Pointer (1/5 -  5 pt),3FGA,,,Panathinaikos Superfoods Athens,0
-MAD       ,,22,01:43,39,550,"TAVARES, WALTER",P005791   ,Def Rebound (4),D,,,Real Madrid,0
-MAD       ,,22,01:27,39,551,"TAVARES, WALTER",P005791   ,Missed Two Pointer (5/7 -  12 pt),2FGA,,,Real Madrid,0
-PAN       ,,5,01:27,39,552,"JAMES, MIKE",P005985   ,Def Rebound (1),D,,,Panathinaikos Superfoods Athens,0
-PAN       ,,14,01:16,39,553,"GIST, JAMES",P002980   ,Two Pointer (3/6 -  6 pt),2FGM,90.0,75.0,Panathinaikos Superfoods Athens,0
-PAN       ,,5,01:16,39,554,"JAMES, MIKE",P005985   ,Assist (4),AS,,,Panathinaikos Superfoods Athens,0
-MAD       ,,1,01:16,39,555,"CAUSEUR, FABIEN",P001392   ,Out,OUT,,,Real Madrid,0
-MAD       ,,2,01:16,39,556,"RANDLE, CHASSON",P008038   ,In,IN,,,Real Madrid,0
-MAD       ,,5,01:16,39,557,"FERNANDEZ, RUDY",PBMT      ,Out,OUT,,,Real Madrid,0
-MAD       ,,11,01:16,39,558,"CAMPAZZO, FACUNDO",P005928   ,Out,OUT,,,Real Madrid,0
-MAD       ,,20,01:16,39,559,"CARROLL, JAYCEE",P001960   ,In,IN,,,Real Madrid,0
-MAD       ,,44,01:16,39,560,"TAYLOR, JEFFERY",P006546   ,In,IN,,,Real Madrid,0
-MAD       ,,22,00:58,40,562,"TAVARES, WALTER",P005791   ,Two Pointer (6/8 -  14 pt),2FGM,92.0,75.0,Real Madrid,0
-MAD       ,,44,00:58,40,563,"TAYLOR, JEFFERY",P006546   ,Assist (1),AS,,,Real Madrid,0
-PAN       ,,5,00:43,40,564,"JAMES, MIKE",P005985   ,Missed Three Pointer (1/8 -  23 pt),3FGA,,,Panathinaikos Superfoods Athens,0
-MAD       ,,33,00:41,40,565,"THOMPKINS, TREY",P005836   ,Def Rebound (2),D,,,Real Madrid,0
-MAD       ,,33,00:25,40,566,"THOMPKINS, TREY",P005836   ,Missed Three Pointer (0/3 -  0 pt),3FGA,,,Real Madrid,0
-PAN       ,,3,00:22,40,567,"RIVERS, KC",P002429   ,Def Rebound (2),D,,,Panathinaikos Superfoods Athens,0
-PAN       ,,5,00:17,40,568,"JAMES, MIKE",P005985   ,Missed Three Pointer (1/9 -  23 pt),3FGA,,,Panathinaikos Superfoods Athens,0
-PAN       ,,12,00:14,40,569,"DENMON, MARCUS",P004195   ,Off Rebound (2),O,,,Panathinaikos Superfoods Athens,0
-PAN       ,,14,00:11,40,570,"GIST, JAMES",P002980   ,Missed Two Pointer (3/7 -  6 pt),2FGA,,,Panathinaikos Superfoods Athens,0
-PAN       ,,14,00:11,40,571,"GIST, JAMES",P002980   ,Shot Rejected (2),AG,,,Panathinaikos Superfoods Athens,0
-MAD       ,,22,00:11,40,572,"TAVARES, WALTER",P005791   ,Block (3),FV,,,Real Madrid,0
-MAD       ,,,00:11,40,573,,          ,Def Rebound (5),D,,,Real Madrid,0
-          ,,,,41,576,,          ,End Game,EG,,,,0
+CODETEAM,COMMENT,DORSAL,MARKERTIME,MINUTE,NUMBEROFPLAY,PLAYER,PLAYER_ID,PLAYINFO,PLAYTYPE,POINTS_A,POINTS_B,TEAM,TYPE,home_team,home_team_code,away_team,away_team_code
+          ,,,,1,2,,          ,Begin Period,BP,,,,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,20,09:39,1,3,"CARROLL, JAYCEE",P001960   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,14,09:37,1,4,"GIST, JAMES",P002980   ,Def Rebound (1),D,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,43,09:35,1,5,"ANTETOKOUNMPO, THANASIS",P007865   ,Foul Drawn (1),RV,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,20,09:35,1,6,"CARROLL, JAYCEE",P001960   ,Foul (1),CM,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,24,09:26,1,7,"LOJESKI, MATT",P003608   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,22,09:24,1,8,"TAVARES, WALTER",P005791   ,Def Rebound (1),D,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,11,09:20,1,9,"CAMPAZZO, FACUNDO",P005928   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,22,09:20,1,10,"TAVARES, WALTER",P005791   ,Off Rebound (1),O,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,22,09:20,1,11,"TAVARES, WALTER",P005791   ,Two Pointer (1/1 -  2 pt),2FGM,2.0,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,14,08:52,2,13,"GIST, JAMES",P002980   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,43,08:49,2,14,"ANTETOKOUNMPO, THANASIS",P007865   ,Off Rebound (1),O,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,43,08:49,2,15,"ANTETOKOUNMPO, THANASIS",P007865   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,3,08:47,2,16,"RANDOLPH, ANTHONY",P005757   ,Def Rebound (1),D,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,20,08:45,2,17,"CARROLL, JAYCEE",P001960   ,Two Pointer (1/2 -  2 pt),2FGM,4.0,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,3,08:43,2,18,"RANDOLPH, ANTHONY",P005757   ,Assist (1),AS,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,14,08:43,2,19,"GIST, JAMES",P002980   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,14,08:43,2,20,"GIST, JAMES",P002980   ,Shot Rejected (1),AG,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,22,08:43,2,21,"TAVARES, WALTER",P005791   ,Block (1),FV,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,11,08:43,2,22,"CAMPAZZO, FACUNDO",P005928   ,Def Rebound (1),D,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,11,08:43,2,23,"CAMPAZZO, FACUNDO",P005928   ,Foul Drawn (1),RV,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,14,08:43,2,24,"GIST, JAMES",P002980   ,Foul (1),CM,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,44,08:08,2,25,"TAYLOR, JEFFERY",P006546   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,14,08:06,2,26,"GIST, JAMES",P002980   ,Def Rebound (2),D,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,08:04,2,27,"CALATHES, NICK",P001932   ,Turnover (1),TO,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,11,08:02,2,28,"CAMPAZZO, FACUNDO",P005928   ,Steal (1),ST,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,3,07:55,3,30,"RANDOLPH, ANTHONY",P005757   ,Foul Drawn (1),RV,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,43,07:55,3,31,"ANTETOKOUNMPO, THANASIS",P007865   ,Foul (1),CM,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,3,07:55,3,32,"RANDOLPH, ANTHONY",P005757   ,Missed Free Throw (0/1 -  0 pt),FTA,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,3,07:55,3,33,"RANDOLPH, ANTHONY",P005757   ,Missed Free Throw (0/2 -  0 pt),FTA,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,43,07:55,3,34,"ANTETOKOUNMPO, THANASIS",P007865   ,Def Rebound (1),D,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,24,07:42,3,35,"LOJESKI, MATT",P003608   ,Foul Drawn (1),RV,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,3,07:42,3,36,"RANDOLPH, ANTHONY",P005757   ,Foul (1),CM,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,07:34,3,37,"CALATHES, NICK",P001932   ,Turnover (2),TO,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,22,07:24,3,38,"TAVARES, WALTER",P005791   ,Two Pointer (2/2 -  4 pt),2FGM,6.0,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,3,07:24,3,39,"RANDOLPH, ANTHONY",P005757   ,Assist (2),AS,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,14,06:49,4,41,"GIST, JAMES",P002980   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,43,06:47,4,42,"ANTETOKOUNMPO, THANASIS",P007865   ,Off Rebound (2),O,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,43,06:47,4,43,"ANTETOKOUNMPO, THANASIS",P007865   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,11,06:47,4,44,"CAMPAZZO, FACUNDO",P005928   ,Def Rebound (2),D,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,44,06:47,4,45,"TAYLOR, JEFFERY",P006546   ,Two Pointer (1/1 -  2 pt),2FGM,8.0,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,11,06:47,4,46,"CAMPAZZO, FACUNDO",P005928   ,Assist (1),AS,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,,06:47,4,47,,          ,Time Out (1),TOUT,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,12,06:47,4,48,"DENMON, MARCUS",P004195   ,In,IN,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,24,06:47,4,49,"LOJESKI, MATT",P003608   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,06:29,4,50,"CALATHES, NICK",P001932   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,0,06:26,4,51,"SINGLETON, CHRIS",P006614   ,Off Rebound (1),O,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,0,06:26,4,52,"SINGLETON, CHRIS",P006614   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,11,06:24,4,53,"CAMPAZZO, FACUNDO",P005928   ,Def Rebound (3),D,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,11,06:19,4,54,"CAMPAZZO, FACUNDO",P005928   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,0,06:17,4,55,"SINGLETON, CHRIS",P006614   ,Def Rebound (1),D,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,43,06:12,4,56,"ANTETOKOUNMPO, THANASIS",P007865   ,Missed Two Pointer (0/3 -  0 pt),2FGA,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,43,06:12,4,57,"ANTETOKOUNMPO, THANASIS",P007865   ,Shot Rejected (1),AG,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,22,06:12,4,58,"TAVARES, WALTER",P005791   ,Block (2),FV,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,,06:12,4,59,,          ,Off Rebound (1),O,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,12,06:12,4,60,"DENMON, MARCUS",P004195   ,Two Pointer (1/1 -  2 pt),2FGM,8.0,2.0,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,06:12,4,61,"CALATHES, NICK",P001932   ,Assist (1),AS,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,3,05:45,5,110,"RANDOLPH, ANTHONY",P005757   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,12,05:43,5,64,"DENMON, MARCUS",P004195   ,Def Rebound (1),D,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,0,05:40,5,65,"SINGLETON, CHRIS",P006614   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,43,05:40,5,66,"ANTETOKOUNMPO, THANASIS",P007865   ,Off Rebound (3),O,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,43,05:40,5,67,"ANTETOKOUNMPO, THANASIS",P007865   ,Missed Two Pointer (0/4 -  0 pt),2FGA,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,43,05:40,5,68,"ANTETOKOUNMPO, THANASIS",P007865   ,Off Rebound (4),O,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,43,05:28,5,69,"ANTETOKOUNMPO, THANASIS",P007865   ,Offensive Foul (2),OF,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,43,05:28,5,70,"ANTETOKOUNMPO, THANASIS",P007865   ,Turnover (1),TO,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,20,05:28,5,71,"CARROLL, JAYCEE",P001960   ,Foul Drawn (1),RV,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,3,05:28,5,72,"RIVERS, KC",P002429   ,In,IN,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,43,05:28,5,73,"ANTETOKOUNMPO, THANASIS",P007865   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,3,05:19,5,74,"RANDOLPH, ANTHONY",P005757   ,Foul Drawn (2),RV,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,0,05:19,5,75,"SINGLETON, CHRIS",P006614   ,Foul (1),CM,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,20,05:09,5,76,"CARROLL, JAYCEE",P001960   ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,14,05:09,5,78,"GIST, JAMES",P002980   ,Foul Drawn (1),RV,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,22,05:09,5,77,"TAVARES, WALTER",P005791   ,Foul (1),CM,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,5,05:09,5,79,"FERNANDEZ, RUDY",PBMT      ,In,IN,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,44,05:09,5,80,"TAYLOR, JEFFERY",P006546   ,Out,OUT,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,04:55,6,82,"CALATHES, NICK",P001932   ,Two Pointer (1/1 -  2 pt),2FGM,8.0,4.0,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,3,04:40,6,83,"RANDOLPH, ANTHONY",P005757   ,Turnover (1),TO,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,12,04:38,6,84,"DENMON, MARCUS",P004195   ,Steal (1),ST,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,12,04:33,6,85,"DENMON, MARCUS",P004195   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,3,04:30,6,86,"RANDOLPH, ANTHONY",P005757   ,Def Rebound (2),D,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,20,04:25,6,87,"CARROLL, JAYCEE",P001960   ,Missed Three Pointer (0/2 -  2 pt),3FGA,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,04:23,6,88,"CALATHES, NICK",P001932   ,Def Rebound (1),D,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,12,04:17,6,89,"DENMON, MARCUS",P004195   ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,3,04:15,6,90,"RIVERS, KC",P002429   ,Off Rebound (1),O,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,3,04:08,6,91,"RIVERS, KC",P002429   ,Three Pointer (1/1 -  3 pt),3FGM,8.0,7.0,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,,03:42,7,93,,          ,Turnover (1),TO,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,1,03:42,7,94,"CAUSEUR, FABIEN",P001392   ,In,IN,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,14,03:42,7,95,"AYON, GUSTAVO",P005927   ,In,IN,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,20,03:42,7,96,"CARROLL, JAYCEE",P001960   ,Out,OUT,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,22,03:42,7,97,"TAVARES, WALTER",P005791   ,Out,OUT,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,03:42,7,98,"CALATHES, NICK",P001932   ,Three Pointer (1/2 -  5 pt),3FGM,8.0,10.0,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,14,03:42,7,99,"GIST, JAMES",P002980   ,Assist (1),AS,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,3,02:59,8,101,"RANDOLPH, ANTHONY",P005757   ,Two Pointer (1/1 -  2 pt),2FGM,10.0,10.0,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,5,02:57,8,102,"FERNANDEZ, RUDY",PBMT      ,Assist (1),AS,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,3,02:44,8,103,"RIVERS, KC",P002429   ,Three Pointer (2/2 -  6 pt),3FGM,10.0,13.0,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,12,02:41,8,104,"DENMON, MARCUS",P004195   ,Assist (1),AS,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,5,02:27,8,105,"FERNANDEZ, RUDY",PBMT      ,Turnover (1),TO,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,0,02:25,8,106,"SINGLETON, CHRIS",P006614   ,Steal (1),ST,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,0,02:24,8,107,"SINGLETON, CHRIS",P006614   ,Three Pointer (1/1 -  3 pt),3FGM,10.0,16.0,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,02:24,8,108,"CALATHES, NICK",P001932   ,Assist (2),AS,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,,02:24,8,109,,          ,Time Out (1),TOUT,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,6,02:24,8,111,"PAYNE, ADREIAN",P008348   ,In,IN,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,14,02:24,8,112,"GIST, JAMES",P002980   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,5,02:13,8,113,"FERNANDEZ, RUDY",PBMT      ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,14,02:11,8,114,"AYON, GUSTAVO",P005927   ,Off Rebound (1),O,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,3,02:06,8,115,"RANDOLPH, ANTHONY",P005757   ,Two Pointer (2/2 -  4 pt),2FGM,12.0,16.0,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,14,02:05,8,116,"AYON, GUSTAVO",P005927   ,Assist (1),AS,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,01:56,9,118,"CALATHES, NICK",P001932   ,Missed Two Pointer (1/2 -  5 pt),2FGA,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,5,01:56,9,119,"FERNANDEZ, RUDY",PBMT      ,Def Rebound (1),D,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,1,01:41,9,120,"CAUSEUR, FABIEN",P001392   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,0,01:39,9,121,"SINGLETON, CHRIS",P006614   ,Def Rebound (2),D,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,0,01:33,9,122,"SINGLETON, CHRIS",P006614   ,Two Pointer (1/3 -  5 pt),2FGM,12.0,18.0,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,5,01:21,9,123,"FERNANDEZ, RUDY",PBMT      ,Three Pointer (1/2 -  3 pt),3FGM,15.0,18.0,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,11,01:19,9,124,"CAMPAZZO, FACUNDO",P005928   ,Assist (2),AS,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,12,00:58,10,126,"DENMON, MARCUS",P004195   ,Two Pointer (2/3 -  4 pt),2FGM,15.0,20.0,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,14,00:42,10,127,"AYON, GUSTAVO",P005927   ,Foul Drawn (1),RV,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,3,00:42,10,128,"RIVERS, KC",P002429   ,Foul (1),CM,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,3,00:42,10,129,"RANDOLPH, ANTHONY",P005757   ,Out,OUT,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,9,00:42,10,130,"REYES, FELIPE",PAAX      ,In,IN,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,14,00:42,10,131,"AYON, GUSTAVO",P005927   ,Free Throw In (1/1 -  1 pt),FTM,16.0,20.0,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,14,00:42,10,132,"AYON, GUSTAVO",P005927   ,Free Throw In (2/2 -  2 pt),FTM,17.0,20.0,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,2,00:42,10,133,"RANDLE, CHASSON",P008038   ,In,IN,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,11,00:42,10,134,"CAMPAZZO, FACUNDO",P005928   ,Out,OUT,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,12,00:21,10,135,"DENMON, MARCUS",P004195   ,Missed Three Pointer (0/2 -  4 pt),3FGA,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,14,00:19,10,136,"AYON, GUSTAVO",P005927   ,Def Rebound (1),D,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,2,00:04,10,137,"RANDLE, CHASSON",P008038   ,Two Pointer (1/1 -  2 pt),2FGM,19.0,20.0,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+          ,,,,11,139,,          ,End Period,EP,,,,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+          ,,,,11,144,,          ,Begin Period,BP,,,,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,0,10:00,11,140,"SINGLETON, CHRIS",P006614   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,14,10:00,11,141,"GIST, JAMES",P002980   ,In,IN,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,19,10:00,11,142,"LEKAVICIUS, LUKAS",P003210   ,In,IN,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,10:00,11,143,"CALATHES, NICK",P001932   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,19,09:50,11,145,"LEKAVICIUS, LUKAS",P003210   ,Foul Drawn (1),RV,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,9,09:50,11,146,"REYES, FELIPE",PAAX      ,Foul (1),CM,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,19,09:50,11,147,"LEKAVICIUS, LUKAS",P003210   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,14,09:50,11,148,"GIST, JAMES",P002980   ,Off Rebound (1),O,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,6,09:50,11,149,"PAYNE, ADREIAN",P008348   ,Foul Drawn (1),RV,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,14,09:50,11,150,"AYON, GUSTAVO",P005927   ,Foul (1),CM,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,6,09:50,11,151,"PAYNE, ADREIAN",P008348   ,Missed Free Throw (0/1 -  0 pt),FTA,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,6,09:50,11,152,"PAYNE, ADREIAN",P008348   ,Free Throw In (1/2 -  1 pt),FTM,19.0,21.0,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,2,09:21,11,153,"RANDLE, CHASSON",P008038   ,Foul Drawn (1),RV,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,19,09:21,11,154,"LEKAVICIUS, LUKAS",P003210   ,Foul (1),CM,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,9,09:21,11,155,"REYES, FELIPE",PAAX      ,Turnover (1),TO,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,6,08:56,12,157,"PAYNE, ADREIAN",P008348   ,Missed Two Pointer (0/1 -  1 pt),2FGA,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,9,08:54,12,158,"REYES, FELIPE",PAAX      ,Def Rebound (1),D,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,1,08:50,12,159,"CAUSEUR, FABIEN",P001392   ,Two Pointer (1/1 -  2 pt),2FGM,21.0,21.0,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,14,08:48,12,160,"AYON, GUSTAVO",P005927   ,Assist (2),AS,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,12,08:31,12,161,"DENMON, MARCUS",P004195   ,Missed Three Pointer (0/3 -  4 pt),3FGA,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,6,08:28,12,162,"PAYNE, ADREIAN",P008348   ,Off Rebound (1),O,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,6,08:28,12,163,"PAYNE, ADREIAN",P008348   ,Two Pointer (1/2 -  3 pt),2FGM,21.0,23.0,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,5,08:15,12,164,"FERNANDEZ, RUDY",PBMT      ,Missed Three Pointer (1/3 -  3 pt),3FGA,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,6,08:13,12,165,"PAYNE, ADREIAN",P008348   ,Def Rebound (1),D,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,19,08:08,12,166,"LEKAVICIUS, LUKAS",P003210   ,Foul Drawn (2),RV,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,2,08:08,12,167,"RANDLE, CHASSON",P008038   ,Foul (1),CM,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,6,07:59,13,169,"PAYNE, ADREIAN",P008348   ,Missed Two Pointer (1/3 -  3 pt),2FGA,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,14,07:56,13,170,"GIST, JAMES",P002980   ,Off Rebound (2),O,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,14,07:56,13,171,"GIST, JAMES",P002980   ,Two Pointer (1/3 -  2 pt),2FGM,21.0,25.0,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,14,07:39,13,172,"AYON, GUSTAVO",P005927   ,Missed Two Pointer (0/1 -  2 pt),2FGA,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,3,07:35,13,173,"RIVERS, KC",P002429   ,Def Rebound (1),D,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,12,07:30,13,174,"DENMON, MARCUS",P004195   ,Turnover (1),TO,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,1,07:28,13,175,"CAUSEUR, FABIEN",P001392   ,Steal (1),ST,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,1,07:24,13,176,"CAUSEUR, FABIEN",P001392   ,Two Pointer (2/2 -  4 pt),2FGM,23.0,25.0,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,12,07:10,13,177,"DENMON, MARCUS",P004195   ,Missed Three Pointer (0/4 -  4 pt),3FGA,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,5,07:10,13,178,"FERNANDEZ, RUDY",PBMT      ,Def Rebound (2),D,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,5,07:00,13,179,"FERNANDEZ, RUDY",PBMT      ,Foul Drawn (1),RV,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,19,07:00,13,180,"LEKAVICIUS, LUKAS",P003210   ,Unsportsmanlike Foul  (2),CMU,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,0,07:00,13,181,"SINGLETON, CHRIS",P006614   ,In,IN,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,5,07:00,13,182,"JAMES, MIKE",P005985   ,In,IN,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,6,07:00,13,183,"PAYNE, ADREIAN",P008348   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,12,07:00,13,184,"DENMON, MARCUS",P004195   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,5,07:00,13,185,"FERNANDEZ, RUDY",PBMT      ,Missed Free Throw (0/1 -  3 pt),FTA,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,5,07:00,13,186,"FERNANDEZ, RUDY",PBMT      ,Free Throw In (1/2 -  4 pt),FTM,24.0,25.0,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,1,06:51,14,188,"CAUSEUR, FABIEN",P001392   ,Three Pointer (1/2 -  7 pt),3FGM,27.0,25.0,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,9,06:51,14,189,"REYES, FELIPE",PAAX      ,Assist (1),AS,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,0,06:34,14,190,"SINGLETON, CHRIS",P006614   ,Missed Three Pointer (1/2 -  5 pt),3FGA,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,14,06:34,14,191,"AYON, GUSTAVO",P005927   ,Def Rebound (2),D,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,2,06:23,14,192,"RANDLE, CHASSON",P008038   ,Foul Drawn (2),RV,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,19,06:23,14,193,"LEKAVICIUS, LUKAS",P003210   ,Foul (3),CM,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,19,06:23,14,194,"LEKAVICIUS, LUKAS",P003210   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,06:23,14,195,"CALATHES, NICK",P001932   ,In,IN,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,2,06:23,14,196,"RANDLE, CHASSON",P008038   ,Free Throw In (1/1 -  3 pt),FTM,28.0,25.0,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,2,06:23,14,197,"RANDLE, CHASSON",P008038   ,Missed Free Throw (1/2 -  3 pt),FTA,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,06:23,14,198,"CALATHES, NICK",P001932   ,Def Rebound (2),D,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,5,06:10,14,199,"JAMES, MIKE",P005985   ,Foul Drawn (1),RV,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,1,06:10,14,200,"CAUSEUR, FABIEN",P001392   ,Foul (1),CM,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,5,06:10,14,201,"JAMES, MIKE",P005985   ,Free Throw In (1/1 -  1 pt),FTM,28.0,26.0,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,5,06:10,14,202,"JAMES, MIKE",P005985   ,Free Throw In (2/2 -  2 pt),FTM,28.0,27.0,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,9,05:56,15,204,"REYES, FELIPE",PAAX      ,Foul Drawn (1),RV,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,3,05:56,15,205,"RIVERS, KC",P002429   ,Foul (2),CM,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,5,05:40,15,206,"FERNANDEZ, RUDY",PBMT      ,Missed Two Pointer (0/1 -  4 pt),2FGA,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,05:38,15,207,"CALATHES, NICK",P001932   ,Def Rebound (3),D,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,05:33,15,208,"CALATHES, NICK",P001932   ,Missed Two Pointer (1/3 -  5 pt),2FGA,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,1,05:31,15,209,"CAUSEUR, FABIEN",P001392   ,Def Rebound (1),D,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,1,05:27,15,210,"CAUSEUR, FABIEN",P001392   ,Two Pointer (3/3 -  9 pt),2FGM,30.0,27.0,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,0,05:15,15,211,"SINGLETON, CHRIS",P006614   ,Missed Three Pointer (1/3 -  5 pt),3FGA,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,05:15,15,212,"CALATHES, NICK",P001932   ,Off Rebound (1),O,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,24,05:09,15,213,"LOJESKI, MATT",P003608   ,In,IN,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,05:09,15,214,"CALATHES, NICK",P001932   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,3,05:09,15,215,"RIVERS, KC",P002429   ,Three Pointer (3/3 -  9 pt),3FGM,30.0,30.0,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,1,04:41,16,217,"CAUSEUR, FABIEN",P001392   ,Turnover (1),TO,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,3,04:40,16,218,"RIVERS, KC",P002429   ,Steal (1),ST,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,5,04:23,16,219,"JAMES, MIKE",P005985   ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,2,04:20,16,220,"RANDLE, CHASSON",P008038   ,Def Rebound (1),D,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,5,04:12,16,221,"FERNANDEZ, RUDY",PBMT      ,Turnover (2),TO,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,5,04:12,16,222,"JAMES, MIKE",P005985   ,Steal (1),ST,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,24,04:12,16,223,"LOJESKI, MATT",P003608   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,0,04:12,16,224,"SINGLETON, CHRIS",P006614   ,Off Rebound (2),O,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,5,04:12,16,225,"JAMES, MIKE",P005985   ,Two Pointer (1/1 -  4 pt),2FGM,30.0,32.0,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,5,03:30,17,227,"FERNANDEZ, RUDY",PBMT      ,Missed Three Pointer (1/4 -  4 pt),3FGA,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,1,03:27,17,228,"CAUSEUR, FABIEN",P001392   ,Off Rebound (1),O,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,1,03:27,17,229,"CAUSEUR, FABIEN",P001392   ,Two Pointer (4/4 -  11 pt),2FGM,32.0,32.0,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,14,03:08,17,230,"GIST, JAMES",P002980   ,Offensive Foul (2),OF,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,14,03:08,17,231,"GIST, JAMES",P002980   ,Turnover (1),TO,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,2,03:08,17,232,"RANDLE, CHASSON",P008038   ,Foul Drawn (3),RV,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+          ,,,03:08,17,233,,          ,TV Time Out (1),TOUT_TV,,,,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,2,03:08,17,234,"RANDLE, CHASSON",P008038   ,Out,OUT,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,5,03:08,17,235,"FERNANDEZ, RUDY",PBMT      ,Out,OUT,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,11,03:08,17,236,"CAMPAZZO, FACUNDO",P005928   ,In,IN,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,44,03:08,17,237,"TAYLOR, JEFFERY",P006546   ,In,IN,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,14,02:52,18,239,"AYON, GUSTAVO",P005927   ,Two Pointer (1/2 -  4 pt),2FGM,34.0,32.0,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,1,02:50,18,240,"CAUSEUR, FABIEN",P001392   ,Assist (1),AS,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,5,02:39,18,241,"JAMES, MIKE",P005985   ,Foul Drawn (2),RV,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,1,02:39,18,242,"CAUSEUR, FABIEN",P001392   ,Foul (2),CM,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,0,02:39,18,243,"SINGLETON, CHRIS",P006614   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,6,02:39,18,244,"PAYNE, ADREIAN",P008348   ,In,IN,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,9,02:39,18,245,"REYES, FELIPE",PAAX      ,Out,OUT,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,14,02:39,18,246,"AYON, GUSTAVO",P005927   ,Out,OUT,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,22,02:39,18,247,"TAVARES, WALTER",P005791   ,In,IN,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,33,02:39,18,248,"THOMPKINS, TREY",P005836   ,In,IN,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,0,02:39,18,249,"SINGLETON, CHRIS",P006614   ,In,IN,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,14,02:39,18,250,"GIST, JAMES",P002980   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,5,02:39,18,251,"JAMES, MIKE",P005985   ,Free Throw In (3/3 -  5 pt),FTM,34.0,33.0,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,5,02:39,18,252,"JAMES, MIKE",P005985   ,Free Throw In (4/4 -  6 pt),FTM,34.0,34.0,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,3,02:39,18,253,"RIVERS, KC",P002429   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,12,02:39,18,254,"DENMON, MARCUS",P004195   ,In,IN,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,22,02:28,18,255,"TAVARES, WALTER",P005791   ,Two Pointer (3/3 -  6 pt),2FGM,36.0,34.0,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,11,02:28,18,256,"CAMPAZZO, FACUNDO",P005928   ,Assist (3),AS,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,1,02:28,18,257,"CAUSEUR, FABIEN",P001392   ,Out,OUT,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,20,02:28,18,258,"CARROLL, JAYCEE",P001960   ,In,IN,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,5,02:16,18,259,"JAMES, MIKE",P005985   ,Missed Three Pointer (0/2 -  6 pt),3FGA,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,44,02:16,18,260,"TAYLOR, JEFFERY",P006546   ,Def Rebound (1),D,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,11,02:00,18,262,"CAMPAZZO, FACUNDO",P005928   ,Foul Drawn (2),RV,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,12,02:00,18,263,"DENMON, MARCUS",P004195   ,Foul (1),CM,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,11,02:00,18,264,"CAMPAZZO, FACUNDO",P005928   ,Free Throw In (1/1 -  1 pt),FTM,37.0,34.0,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,11,02:00,18,265,"CAMPAZZO, FACUNDO",P005928   ,Free Throw In (2/2 -  2 pt),FTM,38.0,34.0,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,12,01:46,19,267,"DENMON, MARCUS",P004195   ,Three Pointer (1/5 -  7 pt),3FGM,38.0,37.0,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,5,01:44,19,268,"JAMES, MIKE",P005985   ,Assist (1),AS,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,44,01:26,19,269,"TAYLOR, JEFFERY",P006546   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,24,01:16,19,270,"LOJESKI, MATT",P003608   ,Def Rebound (1),D,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,24,01:12,19,271,"LOJESKI, MATT",P003608   ,Missed Two Pointer (0/3 -  0 pt),2FGA,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,,01:12,19,272,,          ,Off Rebound (2),O,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,24,01:12,19,273,"LOJESKI, MATT",P003608   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,43,01:12,19,274,"ANTETOKOUNMPO, THANASIS",P007865   ,In,IN,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,12,01:02,19,275,"DENMON, MARCUS",P004195   ,Missed Two Pointer (2/4 -  7 pt),2FGA,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,11,01:02,19,276,"CAMPAZZO, FACUNDO",P005928   ,Def Rebound (4),D,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,33,00:47,20,278,"THOMPKINS, TREY",P005836   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,,00:47,20,279,,          ,Def Rebound (1),D,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,,00:47,20,280,,          ,Time Out (1),TOUT,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,24,00:47,20,281,"LOJESKI, MATT",P003608   ,In,IN,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,43,00:47,20,282,"ANTETOKOUNMPO, THANASIS",P007865   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,6,00:28,20,283,"PAYNE, ADREIAN",P008348   ,Missed Two Pointer (1/4 -  3 pt),2FGA,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,33,00:25,20,284,"THOMPKINS, TREY",P005836   ,Def Rebound (1),D,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,33,00:04,20,285,"THOMPKINS, TREY",P005836   ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,24,00:02,20,286,"LOJESKI, MATT",P003608   ,Def Rebound (2),D,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,0,00:00,20,287,"SINGLETON, CHRIS",P006614   ,Missed Two Pointer (1/4 -  5 pt),2FGA,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+          ,,,,21,289,,          ,End Period,EP,,,,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+          ,,,,21,300,,          ,Begin Period,BP,,,,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,1,10:00,21,290,"CAUSEUR, FABIEN",P001392   ,In,IN,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,3,10:00,21,291,"RANDOLPH, ANTHONY",P005757   ,In,IN,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,20,10:00,21,292,"CARROLL, JAYCEE",P001960   ,Out,OUT,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,33,10:00,21,293,"THOMPKINS, TREY",P005836   ,Out,OUT,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,5,10:00,21,294,"JAMES, MIKE",P005985   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,6,10:00,21,295,"PAYNE, ADREIAN",P008348   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,14,10:00,21,296,"GIST, JAMES",P002980   ,In,IN,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,24,10:00,21,297,"LOJESKI, MATT",P003608   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,10:00,21,298,"CALATHES, NICK",P001932   ,In,IN,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,43,10:00,21,299,"ANTETOKOUNMPO, THANASIS",P007865   ,In,IN,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,22,09:49,21,301,"TAVARES, WALTER",P005791   ,Foul Drawn (1),RV,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,12,09:49,21,302,"DENMON, MARCUS",P004195   ,Foul (2),CM,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,1,09:48,21,303,"CAUSEUR, FABIEN",P001392   ,Missed Two Pointer (4/5 -  11 pt),2FGA,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,43,09:48,21,304,"ANTETOKOUNMPO, THANASIS",P007865   ,Def Rebound (2),D,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,0,09:28,21,305,"SINGLETON, CHRIS",P006614   ,Missed Two Pointer (1/5 -  5 pt),2FGA,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,11,09:28,21,306,"CAMPAZZO, FACUNDO",P005928   ,Def Rebound (5),D,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,3,09:13,21,309,"RANDOLPH, ANTHONY",P005757   ,Foul Drawn (3),RV,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,0,09:13,21,308,"SINGLETON, CHRIS",P006614   ,Foul (2),CM,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,3,09:13,21,310,"RANDOLPH, ANTHONY",P005757   ,Missed Free Throw (0/3 -  4 pt),FTA,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,3,09:13,21,311,"RANDOLPH, ANTHONY",P005757   ,Missed Free Throw (0/4 -  4 pt),FTA,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,43,09:11,21,312,"ANTETOKOUNMPO, THANASIS",P007865   ,Def Rebound (3),D,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,08:59,22,314,"CALATHES, NICK",P001932   ,Turnover (3),TO,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,11,08:57,22,315,"CAMPAZZO, FACUNDO",P005928   ,Steal (2),ST,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,44,08:57,22,316,"TAYLOR, JEFFERY",P006546   ,Foul Drawn (1),RV,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,43,08:57,22,317,"ANTETOKOUNMPO, THANASIS",P007865   ,Foul (3),CM,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,3,08:57,22,318,"RIVERS, KC",P002429   ,In,IN,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,43,08:57,22,319,"ANTETOKOUNMPO, THANASIS",P007865   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,44,08:57,22,320,"TAYLOR, JEFFERY",P006546   ,Free Throw In (1/1 -  3 pt),FTM,39.0,37.0,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,1,08:57,22,321,"CAUSEUR, FABIEN",P001392   ,Assist (2),AS,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,44,08:57,22,322,"TAYLOR, JEFFERY",P006546   ,Free Throw In (2/2 -  4 pt),FTM,40.0,37.0,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,08:34,22,323,"CALATHES, NICK",P001932   ,Missed Two Pointer (1/4 -  5 pt),2FGA,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,22,08:32,22,324,"TAVARES, WALTER",P005791   ,Def Rebound (2),D,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,44,08:21,22,325,"TAYLOR, JEFFERY",P006546   ,Two Pointer (2/3 -  6 pt),2FGM,42.0,37.0,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,12,07:58,23,327,"DENMON, MARCUS",P004195   ,Two Pointer (3/5 -  9 pt),2FGM,42.0,39.0,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,11,07:40,23,328,"CAMPAZZO, FACUNDO",P005928   ,Two Pointer (1/3 -  4 pt),2FGM,44.0,39.0,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,14,07:23,23,329,"GIST, JAMES",P002980   ,Turnover (2),TO,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,3,07:18,23,330,"RANDOLPH, ANTHONY",P005757   ,Steal (1),ST,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,1,07:18,23,331,"CAUSEUR, FABIEN",P001392   ,Two Pointer (5/6 -  13 pt),2FGM,46.0,39.0,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,11,07:18,23,332,"CAMPAZZO, FACUNDO",P005928   ,Assist (4),AS,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,,07:18,23,333,,          ,Time Out (1),TOUT,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,3,07:02,23,334,"RIVERS, KC",P002429   ,Three Pointer (4/4 -  12 pt),3FGM,46.0,42.0,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,0,06:50,24,336,"SINGLETON, CHRIS",P006614   ,Assist (1),AS,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,22,06:50,24,337,"TAVARES, WALTER",P005791   ,Two Pointer (4/4 -  8 pt),2FGM,48.0,42.0,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,1,06:50,24,338,"CAUSEUR, FABIEN",P001392   ,Assist (3),AS,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,3,06:29,24,339,"RIVERS, KC",P002429   ,Missed Three Pointer (4/5 -  12 pt),3FGA,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,14,06:26,24,340,"GIST, JAMES",P002980   ,Off Rebound (3),O,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,14,06:26,24,341,"GIST, JAMES",P002980   ,Missed Two Pointer (1/4 -  2 pt),2FGA,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,3,06:23,24,342,"RANDOLPH, ANTHONY",P005757   ,Def Rebound (3),D,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,3,06:19,24,343,"RANDOLPH, ANTHONY",P005757   ,Missed Two Pointer (2/3 -  4 pt),2FGA,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,06:17,24,344,"CALATHES, NICK",P001932   ,Def Rebound (4),D,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,06:08,24,345,"CALATHES, NICK",P001932   ,Missed Two Pointer (1/5 -  5 pt),2FGA,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,11,06:08,24,346,"CAMPAZZO, FACUNDO",P005928   ,Foul Drawn (3),RV,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,06:08,24,347,"CALATHES, NICK",P001932   ,Foul (1),CM,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,5,06:08,24,348,"JAMES, MIKE",P005985   ,In,IN,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,06:08,24,349,"CALATHES, NICK",P001932   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,1,05:51,25,351,"CAUSEUR, FABIEN",P001392   ,Missed Two Pointer (5/7 -  13 pt),2FGA,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,22,05:48,25,352,"TAVARES, WALTER",P005791   ,Off Rebound (2),O,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,22,05:48,25,353,"TAVARES, WALTER",P005791   ,Two Pointer (5/5 -  10 pt),2FGM,50.0,42.0,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,14,05:30,25,354,"GIST, JAMES",P002980   ,Missed Three Pointer (0/2 -  2 pt),3FGA,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,3,05:27,25,355,"RANDOLPH, ANTHONY",P005757   ,Def Rebound (4),D,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,1,05:16,25,356,"CAUSEUR, FABIEN",P001392   ,Missed Three Pointer (1/3 -  13 pt),3FGA,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,3,05:13,25,357,"RANDOLPH, ANTHONY",P005757   ,Off Rebound (1),O,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,11,05:09,25,358,"CAMPAZZO, FACUNDO",P005928   ,Three Pointer (1/1 -  7 pt),3FGM,53.0,42.0,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,12,04:58,26,360,"DENMON, MARCUS",P004195   ,Turnover (2),TO,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,6,04:44,26,361,"PAYNE, ADREIAN",P008348   ,In,IN,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,12,04:44,26,362,"DENMON, MARCUS",P004195   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,14,04:44,26,363,"GIST, JAMES",P002980   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,24,04:44,26,364,"LOJESKI, MATT",P003608   ,In,IN,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,1,04:33,26,365,"CAUSEUR, FABIEN",P001392   ,Two Pointer (6/8 -  15 pt),2FGM,55.0,42.0,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,,04:33,26,366,,          ,Time Out (2),TOUT,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,5,04:20,26,367,"JAMES, MIKE",P005985   ,Missed Three Pointer (0/3 -  6 pt),3FGA,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,1,04:19,26,368,"CAUSEUR, FABIEN",P001392   ,Def Rebound (2),D,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,1,04:19,26,369,"CAUSEUR, FABIEN",P001392   ,Foul Drawn (1),RV,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,0,04:19,26,370,"SINGLETON, CHRIS",P006614   ,Foul (3),CM,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,1,04:19,26,371,"CAUSEUR, FABIEN",P001392   ,Free Throw In (1/1 -  16 pt),FTM,56.0,42.0,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,1,04:19,26,372,"CAUSEUR, FABIEN",P001392   ,Missed Free Throw (1/2 -  16 pt),FTA,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,0,04:19,26,373,"SINGLETON, CHRIS",P006614   ,Def Rebound (3),D,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,3,04:00,26,374,"RIVERS, KC",P002429   ,Foul Drawn (1),RV,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,11,04:00,26,375,"CAMPAZZO, FACUNDO",P005928   ,Foul (1),CM,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,5,03:48,27,377,"JAMES, MIKE",P005985   ,Two Pointer (2/2 -  8 pt),2FGM,56.0,44.0,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,3,03:25,27,378,"RANDOLPH, ANTHONY",P005757   ,Turnover (2),TO,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,5,03:22,27,379,"JAMES, MIKE",P005985   ,Steal (2),ST,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,5,03:22,27,380,"JAMES, MIKE",P005985   ,Two Pointer (3/3 -  10 pt),2FGM,56.0,46.0,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,3,03:22,27,382,"RIVERS, KC",P002429   ,Assist (1),AS,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,,03:22,27,381,,          ,Time Out (1),TOUT,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,22,03:05,27,383,"TAVARES, WALTER",P005791   ,Missed Two Pointer (5/6 -  10 pt),2FGA,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,22,03:05,27,384,"TAVARES, WALTER",P005791   ,Off Rebound (3),O,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,44,03:05,27,385,"TAYLOR, JEFFERY",P006546   ,Missed Three Pointer (0/2 -  6 pt),3FGA,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,1,03:05,27,386,"CAUSEUR, FABIEN",P001392   ,Off Rebound (2),O,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,11,02:45,28,388,"CAMPAZZO, FACUNDO",P005928   ,Two Pointer (2/4 -  9 pt),2FGM,58.0,46.0,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,24,02:27,28,389,"LOJESKI, MATT",P003608   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,24,02:27,28,390,"LOJESKI, MATT",P003608   ,Shot Rejected (1),AG,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,1,02:27,28,391,"CAUSEUR, FABIEN",P001392   ,Block (1),FV,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,,02:27,28,392,,          ,Off Rebound (3),O,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,14,02:27,28,393,"AYON, GUSTAVO",P005927   ,In,IN,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,22,02:27,28,394,"TAVARES, WALTER",P005791   ,Out,OUT,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,5,02:13,28,395,"JAMES, MIKE",P005985   ,Missed Three Pointer (0/4 -  10 pt),3FGA,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,0,02:13,28,397,"SINGLETON, CHRIS",P006614   ,Foul Drawn (1),RV,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,3,02:13,28,396,"RANDOLPH, ANTHONY",P005757   ,Foul (2),CM,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,5,02:11,28,398,"JAMES, MIKE",P005985   ,Turnover (1),TO,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,14,01:55,29,400,"AYON, GUSTAVO",P005927   ,Missed Two Pointer (1/3 -  4 pt),2FGA,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,24,01:50,29,401,"LOJESKI, MATT",P003608   ,Def Rebound (3),D,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,6,01:50,29,402,"PAYNE, ADREIAN",P008348   ,Foul Drawn (2),RV,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,14,01:50,29,403,"AYON, GUSTAVO",P005927   ,Foul (2),CM,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,6,01:50,29,404,"PAYNE, ADREIAN",P008348   ,Free Throw In (2/3 -  4 pt),FTM,58.0,47.0,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,3,01:50,29,405,"RIVERS, KC",P002429   ,Assist (2),AS,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,6,01:50,29,406,"PAYNE, ADREIAN",P008348   ,Free Throw In (3/4 -  5 pt),FTM,58.0,48.0,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,24,01:50,29,407,"LOJESKI, MATT",P003608   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,01:50,29,408,"CALATHES, NICK",P001932   ,In,IN,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,1,01:50,29,409,"CAUSEUR, FABIEN",P001392   ,Foul Drawn (2),RV,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,5,01:50,29,410,"JAMES, MIKE",P005985   ,Foul (1),CM,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,3,01:50,29,411,"RANDOLPH, ANTHONY",P005757   ,Out,OUT,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,9,01:50,29,412,"REYES, FELIPE",PAAX      ,In,IN,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,1,01:50,29,413,"CAUSEUR, FABIEN",P001392   ,Free Throw In (2/3 -  17 pt),FTM,59.0,48.0,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,1,01:50,29,414,"CAUSEUR, FABIEN",P001392   ,Free Throw In (3/4 -  18 pt),FTM,60.0,48.0,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,1,01:50,29,415,"CAUSEUR, FABIEN",P001392   ,Out,OUT,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,5,01:50,29,416,"FERNANDEZ, RUDY",PBMT      ,In,IN,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,01:34,29,417,"CALATHES, NICK",P001932   ,Missed Three Pointer (1/3 -  5 pt),3FGA,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,6,01:34,29,418,"PAYNE, ADREIAN",P008348   ,Off Rebound (2),O,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,6,01:34,29,419,"PAYNE, ADREIAN",P008348   ,Foul Drawn (3),RV,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,14,01:34,29,420,"AYON, GUSTAVO",P005927   ,Foul (3),CM,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,5,01:34,29,421,"JAMES, MIKE",P005985   ,Two Pointer (4/4 -  12 pt),2FGM,60.0,50.0,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,01:34,29,422,"CALATHES, NICK",P001932   ,Assist (3),AS,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,9,01:15,29,423,"REYES, FELIPE",PAAX      ,Turnover (2),TO,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,01:14,29,424,"CALATHES, NICK",P001932   ,Steal (1),ST,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,5,01:07,29,425,"JAMES, MIKE",P005985   ,Three Pointer (1/5 -  15 pt),3FGM,60.0,53.0,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,6,01:07,29,426,"PAYNE, ADREIAN",P008348   ,Assist (1),AS,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,11,01:07,29,427,"CAMPAZZO, FACUNDO",P005928   ,Foul Drawn (4),RV,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,01:07,29,428,"CALATHES, NICK",P001932   ,Foul (2),CM,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,11,01:07,29,429,"CAMPAZZO, FACUNDO",P005928   ,Free Throw In (3/3 -  10 pt),FTM,61.0,53.0,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,11,01:07,29,430,"CAMPAZZO, FACUNDO",P005928   ,Free Throw In (4/4 -  11 pt),FTM,62.0,53.0,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,00:36,30,432,"CALATHES, NICK",P001932   ,Two Pointer (2/6 -  7 pt),2FGM,62.0,55.0,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,5,00:34,30,433,"JAMES, MIKE",P005985   ,Assist (2),AS,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,14,00:15,30,434,"AYON, GUSTAVO",P005927   ,Two Pointer (2/4 -  6 pt),2FGM,64.0,55.0,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,5,00:15,30,435,"FERNANDEZ, RUDY",PBMT      ,Assist (2),AS,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+          ,,,,31,437,,          ,End Period,EP,,,,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+          ,,,,31,440,,          ,Begin Period,BP,,,,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,6,10:00,31,438,"PAYNE, ADREIAN",P008348   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,14,10:00,31,439,"GIST, JAMES",P002980   ,In,IN,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,09:59,31,441,"CALATHES, NICK",P001932   ,Offensive Foul (3),OF,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,09:59,31,442,"CALATHES, NICK",P001932   ,Turnover (4),TO,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,11,09:59,31,443,"CAMPAZZO, FACUNDO",P005928   ,Foul Drawn (5),RV,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,09:59,31,444,"CALATHES, NICK",P001932   ,Technical Foul (4),CMT,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,5,09:59,31,445,"FERNANDEZ, RUDY",PBMT      ,Free Throw In (2/3 -  5 pt),FTM,65.0,55.0,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,5,09:35,31,446,"FERNANDEZ, RUDY",PBMT      ,Missed Three Pointer (1/5 -  5 pt),3FGA,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,,09:35,31,447,,          ,Def Rebound (2),D,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,0,09:18,31,448,"SINGLETON, CHRIS",P006614   ,Missed Three Pointer (1/4 -  5 pt),3FGA,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,14,09:16,31,449,"GIST, JAMES",P002980   ,Off Rebound (4),O,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,09:12,31,450,"CALATHES, NICK",P001932   ,Two Pointer (3/7 -  9 pt),2FGM,65.0,57.0,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,5,08:59,32,452,"FERNANDEZ, RUDY",PBMT      ,Two Pointer (1/2 -  7 pt),2FGM,67.0,57.0,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,14,08:59,32,453,"AYON, GUSTAVO",P005927   ,Assist (3),AS,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,0,08:59,32,454,"SINGLETON, CHRIS",P006614   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,22,08:59,32,455,"GABRIEL, KENNY",P005881   ,In,IN,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,5,08:48,32,456,"JAMES, MIKE",P005985   ,Foul Drawn (3),RV,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,9,08:48,32,457,"REYES, FELIPE",PAAX      ,Foul (2),CM,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,08:40,32,458,"CALATHES, NICK",P001932   ,Missed Three Pointer (1/4 -  9 pt),3FGA,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,,08:40,32,459,,          ,Def Rebound (3),D,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,14,08:16,32,460,"AYON, GUSTAVO",P005927   ,Turnover (1),TO,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,5,08:16,32,461,"JAMES, MIKE",P005985   ,Steal (3),ST,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,08:16,32,462,"CALATHES, NICK",P001932   ,Foul Drawn (1),RV,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,5,08:16,32,463,"FERNANDEZ, RUDY",PBMT      ,Foul (1),CM,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,08:16,32,464,"CALATHES, NICK",P001932   ,Free Throw In (1/1 -  10 pt),FTM,67.0,58.0,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,5,08:16,32,465,"JAMES, MIKE",P005985   ,Assist (3),AS,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,08:16,32,466,"CALATHES, NICK",P001932   ,Missed Free Throw (1/2 -  10 pt),FTA,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,5,08:16,32,467,"FERNANDEZ, RUDY",PBMT      ,Def Rebound (3),D,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,14,07:58,33,469,"AYON, GUSTAVO",P005927   ,Foul Drawn (2),RV,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,14,07:58,33,470,"GIST, JAMES",P002980   ,Foul (3),CM,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,12,07:58,33,471,"DENMON, MARCUS",P004195   ,In,IN,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,07:58,33,472,"CALATHES, NICK",P001932   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,14,07:58,33,473,"AYON, GUSTAVO",P005927   ,Free Throw In (3/3 -  7 pt),FTM,68.0,58.0,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,14,07:58,33,474,"AYON, GUSTAVO",P005927   ,Free Throw In (4/4 -  8 pt),FTM,69.0,58.0,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,1,07:58,33,475,"CAUSEUR, FABIEN",P001392   ,In,IN,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,44,07:58,33,476,"TAYLOR, JEFFERY",P006546   ,Out,OUT,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,22,07:36,33,477,"GABRIEL, KENNY",P005881   ,Three Pointer (1/1 -  3 pt),3FGM,69.0,61.0,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,3,07:35,33,478,"RIVERS, KC",P002429   ,Assist (3),AS,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,9,07:19,33,479,"REYES, FELIPE",PAAX      ,Two Pointer (1/1 -  2 pt),2FGM,71.0,61.0,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,1,07:19,33,480,"CAUSEUR, FABIEN",P001392   ,Assist (4),AS,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,9,07:19,33,481,"REYES, FELIPE",PAAX      ,Foul Drawn (2),RV,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,12,07:19,33,482,"DENMON, MARCUS",P004195   ,Foul (3),CM,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,9,07:19,33,483,"REYES, FELIPE",PAAX      ,Free Throw In (1/1 -  3 pt),FTM,72.0,61.0,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,14,07:19,33,484,"GIST, JAMES",P002980   ,Two Pointer (2/5 -  4 pt),2FGM,72.0,63.0,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,12,07:19,33,485,"DENMON, MARCUS",P004195   ,Assist (2),AS,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,11,06:48,34,487,"CAMPAZZO, FACUNDO",P005928   ,Missed Three Pointer (1/2 -  11 pt),3FGA,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,9,06:46,34,488,"REYES, FELIPE",PAAX      ,Off Rebound (1),O,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,9,06:46,34,489,"REYES, FELIPE",PAAX      ,Two Pointer (2/2 -  5 pt),2FGM,74.0,63.0,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,5,06:34,34,490,"JAMES, MIKE",P005985   ,Two Pointer (5/5 -  17 pt),2FGM,74.0,65.0,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,1,06:21,34,491,"CAUSEUR, FABIEN",P001392   ,Foul Drawn (3),RV,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,14,06:21,34,492,"GIST, JAMES",P002980   ,Foul (4),CM,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,14,06:21,34,493,"AYON, GUSTAVO",P005927   ,Out,OUT,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,22,06:21,34,494,"TAVARES, WALTER",P005791   ,In,IN,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,1,06:21,34,495,"CAUSEUR, FABIEN",P001392   ,Missed Free Throw (3/5 -  18 pt),FTA,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,1,06:21,34,496,"CAUSEUR, FABIEN",P001392   ,Free Throw In (4/6 -  19 pt),FTM,75.0,65.0,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,12,06:04,34,497,"DENMON, MARCUS",P004195   ,Foul Drawn (1),RV,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,1,06:04,34,498,"CAUSEUR, FABIEN",P001392   ,Foul (3),CM,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,5,06:04,34,499,"JAMES, MIKE",P005985   ,Two Pointer (6/6 -  19 pt),2FGM,75.0,67.0,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,9,05:32,35,501,"REYES, FELIPE",PAAX      ,Missed Two Pointer (2/3 -  5 pt),2FGA,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,9,05:30,35,502,"REYES, FELIPE",PAAX      ,Off Rebound (2),O,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,9,05:30,35,503,"REYES, FELIPE",PAAX      ,Two Pointer (3/4 -  7 pt),2FGM,77.0,67.0,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,5,05:16,35,504,"JAMES, MIKE",P005985   ,Two Pointer (7/7 -  21 pt),2FGM,77.0,69.0,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,1,04:57,36,506,"CAUSEUR, FABIEN",P001392   ,Two Pointer (7/9 -  21 pt),2FGM,79.0,69.0,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,5,04:47,36,508,"JAMES, MIKE",P005985   ,Missed Three Pointer (1/6 -  21 pt),3FGA,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,9,04:47,36,509,"REYES, FELIPE",PAAX      ,Def Rebound (2),D,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,22,04:28,36,511,"TAVARES, WALTER",P005791   ,Foul Drawn (2),RV,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,22,04:28,36,512,"GABRIEL, KENNY",P005881   ,Foul (1),CM,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+          ,,,04:28,36,513,,          ,TV Time Out (2),TOUT_TV,,,,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,22,04:28,36,514,"TAVARES, WALTER",P005791   ,Free Throw In (1/1 -  11 pt),FTM,80.0,69.0,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,22,04:28,36,515,"TAVARES, WALTER",P005791   ,Free Throw In (2/2 -  12 pt),FTM,81.0,69.0,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,22,04:09,36,516,"GABRIEL, KENNY",P005881   ,Missed Three Pointer (1/2 -  3 pt),3FGA,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,12,04:09,36,517,"DENMON, MARCUS",P004195   ,Off Rebound (1),O,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,12,04:09,36,518,"DENMON, MARCUS",P004195   ,Two Pointer (4/6 -  11 pt),2FGM,81.0,71.0,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,5,03:50,37,520,"FERNANDEZ, RUDY",PBMT      ,Missed Three Pointer (1/6 -  7 pt),3FGA,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,,03:50,37,521,,          ,Def Rebound (4),D,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,0,03:50,37,522,"SINGLETON, CHRIS",P006614   ,In,IN,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,14,03:50,37,523,"GIST, JAMES",P002980   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,5,03:26,37,524,"JAMES, MIKE",P005985   ,Missed Three Pointer (1/7 -  21 pt),3FGA,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,22,03:24,37,525,"TAVARES, WALTER",P005791   ,Def Rebound (3),D,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,1,03:05,37,526,"CAUSEUR, FABIEN",P001392   ,Three Pointer (2/4 -  24 pt),3FGM,84.0,71.0,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,11,03:03,37,527,"CAMPAZZO, FACUNDO",P005928   ,Assist (5),AS,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,3,02:51,38,529,"RIVERS, KC",P002429   ,Missed Three Pointer (4/6 -  12 pt),3FGA,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,9,02:49,38,530,"REYES, FELIPE",PAAX      ,Def Rebound (3),D,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,1,02:36,38,531,"CAUSEUR, FABIEN",P001392   ,Two Pointer (8/10 -  26 pt),2FGM,86.0,71.0,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,,02:36,38,532,,          ,Time Out (1),TOUT,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,9,02:36,38,533,"REYES, FELIPE",PAAX      ,Out,OUT,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,33,02:36,38,534,"THOMPKINS, TREY",P005836   ,In,IN,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,14,02:36,38,535,"GIST, JAMES",P002980   ,In,IN,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,22,02:36,38,536,"GABRIEL, KENNY",P005881   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,5,02:29,38,537,"JAMES, MIKE",P005985   ,Foul Drawn (4),RV,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,22,02:29,38,538,"TAVARES, WALTER",P005791   ,Foul (2),CM,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,5,02:29,38,539,"JAMES, MIKE",P005985   ,Free Throw In (5/5 -  22 pt),FTM,86.0,72.0,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,5,02:29,38,540,"JAMES, MIKE",P005985   ,Free Throw In (6/6 -  23 pt),FTM,86.0,73.0,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,11,02:23,38,541,"CAMPAZZO, FACUNDO",P005928   ,Foul Drawn (6),RV,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,0,02:23,38,542,"SINGLETON, CHRIS",P006614   ,Foul (4),CM,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,11,02:23,38,543,"CAMPAZZO, FACUNDO",P005928   ,Missed Free Throw (4/5 -  11 pt),FTA,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,11,02:23,38,544,"CAMPAZZO, FACUNDO",P005928   ,Free Throw In (5/6 -  12 pt),FTM,87.0,73.0,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,5,02:13,38,545,"JAMES, MIKE",P005985   ,Turnover (2),TO,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,11,01:59,39,547,"CAMPAZZO, FACUNDO",P005928   ,Three Pointer (2/3 -  15 pt),3FGM,90.0,73.0,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,22,01:59,39,548,"TAVARES, WALTER",P005791   ,Assist (1),AS,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,0,01:46,39,549,"SINGLETON, CHRIS",P006614   ,Missed Three Pointer (1/5 -  5 pt),3FGA,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,22,01:43,39,550,"TAVARES, WALTER",P005791   ,Def Rebound (4),D,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,22,01:27,39,551,"TAVARES, WALTER",P005791   ,Missed Two Pointer (5/7 -  12 pt),2FGA,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,5,01:27,39,552,"JAMES, MIKE",P005985   ,Def Rebound (1),D,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,14,01:16,39,553,"GIST, JAMES",P002980   ,Two Pointer (3/6 -  6 pt),2FGM,90.0,75.0,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,5,01:16,39,554,"JAMES, MIKE",P005985   ,Assist (4),AS,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,1,01:16,39,555,"CAUSEUR, FABIEN",P001392   ,Out,OUT,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,2,01:16,39,556,"RANDLE, CHASSON",P008038   ,In,IN,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,5,01:16,39,557,"FERNANDEZ, RUDY",PBMT      ,Out,OUT,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,11,01:16,39,558,"CAMPAZZO, FACUNDO",P005928   ,Out,OUT,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,20,01:16,39,559,"CARROLL, JAYCEE",P001960   ,In,IN,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,44,01:16,39,560,"TAYLOR, JEFFERY",P006546   ,In,IN,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,22,00:58,40,562,"TAVARES, WALTER",P005791   ,Two Pointer (6/8 -  14 pt),2FGM,92.0,75.0,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,44,00:58,40,563,"TAYLOR, JEFFERY",P006546   ,Assist (1),AS,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,5,00:43,40,564,"JAMES, MIKE",P005985   ,Missed Three Pointer (1/8 -  23 pt),3FGA,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,33,00:41,40,565,"THOMPKINS, TREY",P005836   ,Def Rebound (2),D,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,33,00:25,40,566,"THOMPKINS, TREY",P005836   ,Missed Three Pointer (0/3 -  0 pt),3FGA,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,3,00:22,40,567,"RIVERS, KC",P002429   ,Def Rebound (2),D,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,5,00:17,40,568,"JAMES, MIKE",P005985   ,Missed Three Pointer (1/9 -  23 pt),3FGA,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,12,00:14,40,569,"DENMON, MARCUS",P004195   ,Off Rebound (2),O,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,14,00:11,40,570,"GIST, JAMES",P002980   ,Missed Two Pointer (3/7 -  6 pt),2FGA,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+PAN       ,,14,00:11,40,571,"GIST, JAMES",P002980   ,Shot Rejected (2),AG,,,Panathinaikos Superfoods Athens,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,22,00:11,40,572,"TAVARES, WALTER",P005791   ,Block (3),FV,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+MAD       ,,,00:11,40,573,,          ,Def Rebound (5),D,,,Real Madrid,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN
+          ,,,,41,576,,          ,End Game,EG,,,,0,Real Madrid,MAD,Panathinaikos Superfoods Athens,PAN

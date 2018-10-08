@@ -1,488 +1,488 @@
-CODETEAM,COMMENT,DORSAL,MARKERTIME,MINUTE,NUMBEROFPLAY,PLAYER,PLAYER_ID,PLAYINFO,PLAYTYPE,POINTS_A,POINTS_B,TEAM,TYPE
-          ,,,,1,12,,          ,Begin Period,BP,,,,0
-IST       ,,12,09:42,1,13,"MOTUM, BROCK",P006599   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Anadolu Efes Istanbul,0
-BAM       ,,3,09:40,1,14,"WRIGHT, DORELL",P008049   ,Def Rebound (1),D,,,Brose Bamberg,0
-IST       ,,3,09:16,1,15,"MCCOLLUM, ERRICK",P005216   ,Block (1),FV,,,Anadolu Efes Istanbul,0
-BAM       ,,2,09:15,1,16,"HICKMAN, RICKY",P004159   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Brose Bamberg,0
-BAM       ,,2,09:15,1,17,"HICKMAN, RICKY",P004159   ,Shot Rejected (1),AG,,,Brose Bamberg,0
-IST       ,,42,09:15,1,18,"DUNSTON, BRYANT",P003048   ,Def Rebound (1),D,,,Anadolu Efes Istanbul,0
-IST       ,,30,09:07,1,19,"DRAGIC, ZORAN",P003514   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Anadolu Efes Istanbul,0
-BAM       ,,2,09:07,1,20,"HICKMAN, RICKY",P004159   ,Def Rebound (1),D,,,Brose Bamberg,0
-IST       ,,42,08:53,2,22,"DUNSTON, BRYANT",P003048   ,Block (1),FV,,,Anadolu Efes Istanbul,0
-BAM       ,,42,08:51,2,23,"MUSLI, DEJAN",PLUR      ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Brose Bamberg,0
-BAM       ,,42,08:51,2,24,"MUSLI, DEJAN",PLUR      ,Shot Rejected (1),AG,,,Brose Bamberg,0
-IST       ,,42,08:48,2,25,"DUNSTON, BRYANT",P003048   ,Def Rebound (2),D,,,Anadolu Efes Istanbul,0
-IST       ,,12,08:42,2,26,"MOTUM, BROCK",P006599   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Anadolu Efes Istanbul,0
-BAM       ,,2,08:40,2,27,"HICKMAN, RICKY",P004159   ,Def Rebound (2),D,,,Brose Bamberg,0
-IST       ,,30,08:38,2,28,"DRAGIC, ZORAN",P003514   ,Foul (1),CM,,,Anadolu Efes Istanbul,0
-BAM       ,,2,08:38,2,29,"HICKMAN, RICKY",P004159   ,Foul Drawn (1),RV,,,Brose Bamberg,0
-BAM       ,,3,08:24,2,30,"WRIGHT, DORELL",P008049   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Brose Bamberg,0
-BAM       ,,3,08:21,2,31,"WRIGHT, DORELL",P008049   ,Off Rebound (1),O,,,Brose Bamberg,0
-BAM       ,,3,08:21,2,32,"WRIGHT, DORELL",P008049   ,Two Pointer (1/2 -  2 pt),2FGM,,2.0,Brose Bamberg,0
-IST       ,,44,08:06,2,33,"SIMON, KRUNOSLAV",PCPR      ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Anadolu Efes Istanbul,0
-BAM       ,,3,08:04,2,34,"WRIGHT, DORELL",P008049   ,Def Rebound (2),D,,,Brose Bamberg,0
-BAM       ,,3,07:58,3,36,"WRIGHT, DORELL",P008049   ,Two Pointer (2/3 -  4 pt),2FGM,,4.0,Brose Bamberg,0
-BAM       ,,6,07:46,3,37,"ZISIS, NIKOS",PABN      ,Foul (1),CM,,,Brose Bamberg,0
-IST       ,,12,07:46,3,38,"MOTUM, BROCK",P006599   ,Foul Drawn (1),RV,,,Anadolu Efes Istanbul,0
-IST       ,,3,07:39,3,39,"MCCOLLUM, ERRICK",P005216   ,Three Pointer (1/1 -  3 pt),3FGM,3.0,4.0,Anadolu Efes Istanbul,0
-BAM       ,,2,07:18,3,40,"HICKMAN, RICKY",P004159   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Brose Bamberg,0
-IST       ,,12,07:16,3,41,"MOTUM, BROCK",P006599   ,Def Rebound (1),D,,,Anadolu Efes Istanbul,0
-IST       ,,12,07:11,3,42,"MOTUM, BROCK",P006599   ,Two Pointer (1/2 -  2 pt),2FGM,5.0,4.0,Anadolu Efes Istanbul,0
-IST       ,,44,07:09,3,43,"SIMON, KRUNOSLAV",PCPR      ,Assist (1),AS,,,Anadolu Efes Istanbul,0
-BAM       ,,0,06:56,4,45,"HACKETT, DANIEL",P001844   ,Two Pointer (1/1 -  2 pt),2FGM,5.0,6.0,Brose Bamberg,0
-IST       ,,42,06:43,4,46,"DUNSTON, BRYANT",P003048   ,Two Pointer (1/1 -  2 pt),2FGM,7.0,6.0,Anadolu Efes Istanbul,0
-BAM       ,,3,06:26,4,47,"WRIGHT, DORELL",P008049   ,Turnover (1),TO,,,Brose Bamberg,0
-IST       ,,44,06:15,4,48,"SIMON, KRUNOSLAV",PCPR      ,Three Pointer (1/1 -  3 pt),3FGM,10.0,6.0,Anadolu Efes Istanbul,0
-IST       ,,12,05:56,5,50,"MOTUM, BROCK",P006599   ,Assist (1),AS,,,Anadolu Efes Istanbul,0
-BAM       ,,2,05:50,5,51,"HICKMAN, RICKY",P004159   ,Turnover (1),TO,,,Brose Bamberg,0
-BAM       ,,0,05:39,5,52,"HACKETT, DANIEL",P001844   ,Foul (1),CM,,,Brose Bamberg,0
-IST       ,,44,05:39,5,53,"SIMON, KRUNOSLAV",PCPR      ,Foul Drawn (1),RV,,,Anadolu Efes Istanbul,0
-IST       ,,44,05:32,5,54,"SIMON, KRUNOSLAV",PCPR      ,Missed Two Pointer (0/2 -  3 pt),2FGA,,,Anadolu Efes Istanbul,0
-IST       ,,,05:30,5,55,,          ,Off Rebound (1),O,,,Anadolu Efes Istanbul,0
-IST       ,,3,05:25,5,56,"MCCOLLUM, ERRICK",P005216   ,Missed Three Pointer (1/2 -  3 pt),3FGA,,,Anadolu Efes Istanbul,0
-BAM       ,,42,05:23,5,57,"MUSLI, DEJAN",PLUR      ,Def Rebound (1),D,,,Brose Bamberg,0
-BAM       ,,3,05:13,5,58,"WRIGHT, DORELL",P008049   ,Two Pointer (3/4 -  6 pt),2FGM,10.0,8.0,Brose Bamberg,0
-IST       ,,12,04:59,6,60,"MOTUM, BROCK",P006599   ,Two Pointer (2/3 -  4 pt),2FGM,12.0,8.0,Anadolu Efes Istanbul,0
-IST       ,,30,04:57,6,61,"DRAGIC, ZORAN",P003514   ,Assist (1),AS,,,Anadolu Efes Istanbul,0
-BAM       ,,42,04:34,6,62,"MUSLI, DEJAN",PLUR      ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Brose Bamberg,0
-IST       ,,42,04:32,6,63,"DUNSTON, BRYANT",P003048   ,Def Rebound (3),D,,,Anadolu Efes Istanbul,0
-IST       ,,44,04:22,6,64,"SIMON, KRUNOSLAV",PCPR      ,Missed Two Pointer (0/3 -  3 pt),2FGA,,,Anadolu Efes Istanbul,0
-IST       ,,42,04:19,6,65,"DUNSTON, BRYANT",P003048   ,Off Rebound (1),O,,,Anadolu Efes Istanbul,0
-IST       ,,42,04:19,6,66,"DUNSTON, BRYANT",P003048   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,Anadolu Efes Istanbul,0
-BAM       ,,6,04:17,6,67,"ZISIS, NIKOS",PABN      ,Def Rebound (1),D,,,Brose Bamberg,0
-IST       ,,42,04:13,6,68,"DUNSTON, BRYANT",P003048   ,Block (2),FV,,,Anadolu Efes Istanbul,0
-BAM       ,,6,04:13,6,69,"ZISIS, NIKOS",PABN      ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Brose Bamberg,0
-BAM       ,,6,04:13,6,70,"ZISIS, NIKOS",PABN      ,Shot Rejected (1),AG,,,Brose Bamberg,0
-IST       ,,12,04:13,6,71,"MOTUM, BROCK",P006599   ,Def Rebound (2),D,,,Anadolu Efes Istanbul,0
-BAM       ,,,04:13,6,72,,CO_B      ,Coach Foul (1),C,,,Brose Bamberg,0
-          ,,,04:13,6,73,,          ,TV Time Out (1),TOUT_TV,,,,0
-IST       ,,44,04:13,6,74,"SIMON, KRUNOSLAV",PCPR      ,Free Throw In (1/1 -  4 pt),FTM,13.0,8.0,Anadolu Efes Istanbul,0
-IST       ,,42,03:49,7,76,"DUNSTON, BRYANT",P003048   ,Two Pointer (2/3 -  4 pt),2FGM,15.0,8.0,Anadolu Efes Istanbul,0
-IST       ,,30,03:49,7,77,"DRAGIC, ZORAN",P003514   ,Assist (2),AS,,,Anadolu Efes Istanbul,0
-BAM       ,,2,03:31,7,78,"HICKMAN, RICKY",P004159   ,Three Pointer (1/2 -  3 pt),3FGM,15.0,11.0,Brose Bamberg,0
-BAM       ,,0,03:29,7,79,"HACKETT, DANIEL",P001844   ,Assist (1),AS,,,Brose Bamberg,0
-IST       ,,3,03:13,7,80,"MCCOLLUM, ERRICK",P005216   ,Missed Two Pointer (0/1 -  3 pt),2FGA,,,Anadolu Efes Istanbul,0
-BAM       ,,3,03:09,7,81,"WRIGHT, DORELL",P008049   ,Def Rebound (3),D,,,Brose Bamberg,0
-BAM       ,,42,02:50,8,83,"MUSLI, DEJAN",PLUR      ,Two Pointer (1/3 -  2 pt),2FGM,15.0,13.0,Brose Bamberg,0
-BAM       ,,6,02:48,8,84,"ZISIS, NIKOS",PABN      ,Assist (1),AS,,,Brose Bamberg,0
-BAM       ,,6,02:37,8,85,"ZISIS, NIKOS",PABN      ,Foul (2),CM,,,Brose Bamberg,0
-IST       ,,30,02:37,8,86,"DRAGIC, ZORAN",P003514   ,Foul Drawn (1),RV,,,Anadolu Efes Istanbul,0
-BAM       ,,42,02:37,8,87,"MUSLI, DEJAN",PLUR      ,Out,OUT,,,Brose Bamberg,0
-BAM       ,,43,02:37,8,88,"RADOSEVIC, LEON",PLEM      ,In,IN,,,Brose Bamberg,0
-BAM       ,,6,02:37,8,89,"ZISIS, NIKOS",PABN      ,Out,OUT,,,Brose Bamberg,0
-BAM       ,,7,02:37,8,90,"NIKOLIC, ALEKSEJ",P003703   ,In,IN,,,Brose Bamberg,0
-IST       ,,12,02:26,8,91,"MOTUM, BROCK",P006599   ,Missed Three Pointer (0/2 -  4 pt),3FGA,,,Anadolu Efes Istanbul,0
-BAM       ,,0,02:24,8,92,"HACKETT, DANIEL",P001844   ,Def Rebound (1),D,,,Brose Bamberg,0
-IST       ,,12,02:21,8,93,"MOTUM, BROCK",P006599   ,Foul (1),CM,,,Anadolu Efes Istanbul,0
-BAM       ,,3,02:21,8,94,"WRIGHT, DORELL",P008049   ,Foul Drawn (1),RV,,,Brose Bamberg,0
-IST       ,,5,02:21,8,95,"BROWN, DERRICK",P004425   ,In,IN,,,Anadolu Efes Istanbul,0
-IST       ,,12,02:21,8,96,"MOTUM, BROCK",P006599   ,Out,OUT,,,Anadolu Efes Istanbul,0
-BAM       ,,3,02:21,8,97,"WRIGHT, DORELL",P008049   ,Free Throw In (1/1 -  7 pt),FTM,15.0,14.0,Brose Bamberg,0
-BAM       ,,0,02:21,8,98,"HACKETT, DANIEL",P001844   ,Assist (2),AS,,,Brose Bamberg,0
-BAM       ,,3,02:21,8,99,"WRIGHT, DORELL",P008049   ,Free Throw In (2/2 -  8 pt),FTM,15.0,15.0,Brose Bamberg,0
-BAM       ,,3,02:21,8,100,"WRIGHT, DORELL",P008049   ,Out,OUT,,,Brose Bamberg,0
-BAM       ,,21,02:21,8,101,"RUBIT, AUGUSTINE",P006477   ,In,IN,,,Brose Bamberg,0
-BAM       ,,2,02:20,8,102,"HICKMAN, RICKY",P004159   ,Foul (1),CM,,,Brose Bamberg,0
-IST       ,,3,02:20,8,103,"MCCOLLUM, ERRICK",P005216   ,Foul Drawn (1),RV,,,Anadolu Efes Istanbul,0
-IST       ,,30,02:00,8,104,"DRAGIC, ZORAN",P003514   ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,Anadolu Efes Istanbul,0
-BAM       ,,21,01:59,9,106,"RUBIT, AUGUSTINE",P006477   ,Def Rebound (1),D,,,Brose Bamberg,0
-BAM       ,,43,01:36,9,107,"RADOSEVIC, LEON",PLEM      ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Brose Bamberg,0
-BAM       ,,21,01:34,9,108,"RUBIT, AUGUSTINE",P006477   ,Off Rebound (1),O,,,Brose Bamberg,0
-BAM       ,,21,01:22,9,109,"RUBIT, AUGUSTINE",P006477   ,Turnover (1),TO,,,Brose Bamberg,0
-IST       ,,22,01:22,9,110,"MUSTAFA, MUHAYMIN",P007991   ,In,IN,,,Anadolu Efes Istanbul,0
-IST       ,,30,01:22,9,111,"DRAGIC, ZORAN",P003514   ,Out,OUT,,,Anadolu Efes Istanbul,0
-IST       ,,44,00:57,10,113,"SIMON, KRUNOSLAV",PCPR      ,Missed Three Pointer (1/2 -  4 pt),3FGA,,,Anadolu Efes Istanbul,0
-IST       ,,,00:55,10,114,,          ,Turnover (1),TO,,,Anadolu Efes Istanbul,0
-BAM       ,,2,00:55,10,115,"HICKMAN, RICKY",P004159   ,Out,OUT,,,Brose Bamberg,0
-BAM       ,,8,00:55,10,116,"STAIGER, LUCCA",P002506   ,In,IN,,,Brose Bamberg,0
-BAM       ,,8,00:42,10,117,"STAIGER, LUCCA",P002506   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Brose Bamberg,0
-IST       ,,42,00:39,10,118,"DUNSTON, BRYANT",P003048   ,Def Rebound (4),D,,,Anadolu Efes Istanbul,0
-IST       ,,42,00:27,10,119,"DUNSTON, BRYANT",P003048   ,Turnover (1),TO,,,Anadolu Efes Istanbul,0
-BAM       ,,21,00:26,10,120,"RUBIT, AUGUSTINE",P006477   ,Steal (1),ST,,,Brose Bamberg,0
-BAM       ,,8,00:08,10,121,"STAIGER, LUCCA",P002506   ,Three Pointer (1/2 -  3 pt),3FGM,15.0,18.0,Brose Bamberg,0
-BAM       ,,7,00:07,10,122,"NIKOLIC, ALEKSEJ",P003703   ,Assist (1),AS,,,Brose Bamberg,0
-IST       ,,3,00:01,10,123,"MCCOLLUM, ERRICK",P005216   ,Missed Two Pointer (0/2 -  3 pt),2FGA,,,Anadolu Efes Istanbul,0
-          ,,,,11,125,,          ,End Period,EP,,,,0
-          ,,,,11,132,,          ,Begin Period,BP,,,,0
-IST       ,,14,10:00,11,126,"ADAMS, JOSH",P007872   ,In,IN,,,Anadolu Efes Istanbul,0
-IST       ,,15,10:00,11,127,"STIMAC, VLADIMIR",PLBJ      ,In,IN,,,Anadolu Efes Istanbul,0
-IST       ,,22,10:00,11,128,"MUSTAFA, MUHAYMIN",P007991   ,Out,OUT,,,Anadolu Efes Istanbul,0
-IST       ,,42,10:00,11,129,"DUNSTON, BRYANT",P003048   ,Out,OUT,,,Anadolu Efes Istanbul,0
-BAM       ,,0,10:00,11,130,"HACKETT, DANIEL",P001844   ,Out,OUT,,,Brose Bamberg,0
-BAM       ,,12,10:00,11,131,"LO, MAODO",P007032   ,In,IN,,,Brose Bamberg,0
-BAM       ,,43,09:54,11,133,"RADOSEVIC, LEON",PLEM      ,Turnover (1),TO,,,Brose Bamberg,0
-IST       ,,5,09:54,11,134,"BROWN, DERRICK",P004425   ,Steal (1),ST,,,Anadolu Efes Istanbul,0
-IST       ,,44,09:28,11,135,"SIMON, KRUNOSLAV",PCPR      ,Missed Two Pointer (0/4 -  4 pt),2FGA,,,Anadolu Efes Istanbul,0
-BAM       ,,8,09:26,11,136,"STAIGER, LUCCA",P002506   ,Def Rebound (1),D,,,Brose Bamberg,0
-BAM       ,,12,09:22,11,137,"LO, MAODO",P007032   ,Two Pointer (1/1 -  2 pt),2FGM,15.0,20.0,Brose Bamberg,0
-BAM       ,,12,09:22,11,138,"LO, MAODO",P007032   ,Foul Drawn (1),RV,,,Brose Bamberg,0
-IST       ,,15,09:22,11,139,"STIMAC, VLADIMIR",PLBJ      ,Foul (1),CM,,,Anadolu Efes Istanbul,0
-IST       ,,30,09:14,11,140,"DRAGIC, ZORAN",P003514   ,In,IN,,,Anadolu Efes Istanbul,0
-IST       ,,44,09:14,11,141,"SIMON, KRUNOSLAV",PCPR      ,Out,OUT,,,Anadolu Efes Istanbul,0
-BAM       ,,12,09:14,11,142,"LO, MAODO",P007032   ,Free Throw In (1/1 -  3 pt),FTM,15.0,21.0,Brose Bamberg,0
-BAM       ,,43,09:08,11,143,"RADOSEVIC, LEON",PLEM      ,Foul (1),CM,,,Brose Bamberg,0
-IST       ,,14,09:08,11,144,"ADAMS, JOSH",P007872   ,Foul Drawn (1),RV,,,Anadolu Efes Istanbul,0
-BAM       ,,43,08:58,12,146,"RADOSEVIC, LEON",PLEM      ,Foul (2),CM,,,Brose Bamberg,0
-IST       ,,15,08:58,12,147,"STIMAC, VLADIMIR",PLBJ      ,Foul Drawn (1),RV,,,Anadolu Efes Istanbul,0
-IST       ,,5,08:51,12,148,"BROWN, DERRICK",P004425   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Anadolu Efes Istanbul,0
-BAM       ,,12,08:49,12,149,"LO, MAODO",P007032   ,Def Rebound (1),D,,,Brose Bamberg,0
-BAM       ,,8,08:38,12,150,"STAIGER, LUCCA",P002506   ,Missed Three Pointer (1/3 -  3 pt),3FGA,,,Brose Bamberg,0
-IST       ,,3,08:36,12,151,"MCCOLLUM, ERRICK",P005216   ,Def Rebound (1),D,,,Anadolu Efes Istanbul,0
-IST       ,,30,08:24,12,152,"DRAGIC, ZORAN",P003514   ,Missed Three Pointer (0/3 -  0 pt),3FGA,,,Anadolu Efes Istanbul,0
-BAM       ,,7,08:22,12,153,"NIKOLIC, ALEKSEJ",P003703   ,Def Rebound (1),D,,,Brose Bamberg,0
-BAM       ,,43,08:11,12,154,"RADOSEVIC, LEON",PLEM      ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Brose Bamberg,0
-BAM       ,,21,08:07,12,155,"RUBIT, AUGUSTINE",P006477   ,Off Rebound (2),O,,,Brose Bamberg,0
-BAM       ,,21,08:07,12,156,"RUBIT, AUGUSTINE",P006477   ,Two Pointer (1/1 -  2 pt),2FGM,15.0,23.0,Brose Bamberg,0
-IST       ,,3,07:52,13,158,"MCCOLLUM, ERRICK",P005216   ,Two Pointer (1/3 -  5 pt),2FGM,17.0,23.0,Anadolu Efes Istanbul,0
-BAM       ,,8,07:26,13,159,"STAIGER, LUCCA",P002506   ,Missed Three Pointer (1/4 -  3 pt),3FGA,,,Brose Bamberg,0
-IST       ,,15,07:25,13,160,"STIMAC, VLADIMIR",PLBJ      ,Def Rebound (1),D,,,Anadolu Efes Istanbul,0
-IST       ,,14,07:24,13,161,"ADAMS, JOSH",P007872   ,Turnover (1),TO,,,Anadolu Efes Istanbul,0
-BAM       ,,12,07:24,13,162,"LO, MAODO",P007032   ,Steal (1),ST,,,Brose Bamberg,0
-BAM       ,,8,07:24,13,163,"STAIGER, LUCCA",P002506   ,Three Pointer (2/5 -  6 pt),3FGM,17.0,26.0,Brose Bamberg,0
-BAM       ,,12,07:24,13,164,"LO, MAODO",P007032   ,Assist (1),AS,,,Brose Bamberg,0
-BAM       ,,7,06:50,14,166,"NIKOLIC, ALEKSEJ",P003703   ,Foul (1),CM,,,Brose Bamberg,0
-IST       ,,3,06:50,14,167,"MCCOLLUM, ERRICK",P005216   ,Foul Drawn (2),RV,,,Anadolu Efes Istanbul,0
-BAM       ,,2,06:50,14,168,"HICKMAN, RICKY",P004159   ,In,IN,,,Brose Bamberg,0
-BAM       ,,7,06:50,14,169,"NIKOLIC, ALEKSEJ",P003703   ,Out,OUT,,,Brose Bamberg,0
-BAM       ,,42,06:50,14,170,"MUSLI, DEJAN",PLUR      ,In,IN,,,Brose Bamberg,0
-BAM       ,,43,06:50,14,171,"RADOSEVIC, LEON",PLEM      ,Out,OUT,,,Brose Bamberg,0
-IST       ,,3,06:40,14,172,"MCCOLLUM, ERRICK",P005216   ,Two Pointer (2/4 -  7 pt),2FGM,19.0,26.0,Anadolu Efes Istanbul,0
-BAM       ,,12,06:25,14,173,"LO, MAODO",P007032   ,Two Pointer (2/2 -  5 pt),2FGM,19.0,28.0,Brose Bamberg,0
-BAM       ,,12,06:25,14,174,"LO, MAODO",P007032   ,Foul Drawn (2),RV,,,Brose Bamberg,0
-IST       ,,14,06:25,14,175,"ADAMS, JOSH",P007872   ,Foul (1),CM,,,Anadolu Efes Istanbul,0
-IST       ,,8,06:25,14,176,"BATUK, BIRKAN",P004170   ,In,IN,,,Anadolu Efes Istanbul,0
-IST       ,,14,06:25,14,177,"ADAMS, JOSH",P007872   ,Out,OUT,,,Anadolu Efes Istanbul,0
-BAM       ,,12,06:25,14,178,"LO, MAODO",P007032   ,Missed Free Throw (1/2 -  5 pt),FTA,,,Brose Bamberg,0
-IST       ,,15,06:25,14,179,"STIMAC, VLADIMIR",PLBJ      ,Def Rebound (2),D,,,Anadolu Efes Istanbul,0
-BAM       ,,21,06:09,14,180,"RUBIT, AUGUSTINE",P006477   ,Foul (1),CM,,,Brose Bamberg,0
-IST       ,,5,06:09,14,181,"BROWN, DERRICK",P004425   ,Foul Drawn (1),RV,,,Anadolu Efes Istanbul,0
-BAM       ,,3,06:09,14,182,"WRIGHT, DORELL",P008049   ,In,IN,,,Brose Bamberg,0
-BAM       ,,21,06:09,14,183,"RUBIT, AUGUSTINE",P006477   ,Out,OUT,,,Brose Bamberg,0
-IST       ,,5,06:09,14,184,"BROWN, DERRICK",P004425   ,Free Throw In (1/1 -  1 pt),FTM,20.0,28.0,Anadolu Efes Istanbul,0
-IST       ,,5,06:09,14,186,"BROWN, DERRICK",P004425   ,Free Throw In (2/2 -  2 pt),FTM,21.0,28.0,Anadolu Efes Istanbul,0
-IST       ,,30,06:01,14,187,"DRAGIC, ZORAN",P003514   ,Foul (2),CM,,,Anadolu Efes Istanbul,0
-BAM       ,,8,06:01,14,188,"STAIGER, LUCCA",P002506   ,Foul Drawn (1),RV,,,Brose Bamberg,0
-BAM       ,,12,05:52,15,190,"LO, MAODO",P007032   ,Turnover (1),TO,,,Brose Bamberg,0
-IST       ,,3,05:51,15,191,"MCCOLLUM, ERRICK",P005216   ,Steal (1),ST,,,Anadolu Efes Istanbul,0
-IST       ,,3,05:43,15,192,"MCCOLLUM, ERRICK",P005216   ,Missed Two Pointer (2/5 -  7 pt),2FGA,,,Anadolu Efes Istanbul,0
-BAM       ,,42,05:42,15,193,"MUSLI, DEJAN",PLUR      ,Def Rebound (2),D,,,Brose Bamberg,0
-BAM       ,,42,05:42,15,194,"MUSLI, DEJAN",PLUR      ,Turnover (1),TO,,,Brose Bamberg,0
-IST       ,,8,05:42,15,195,"BATUK, BIRKAN",P004170   ,Steal (1),ST,,,Anadolu Efes Istanbul,0
-IST       ,,5,05:34,15,196,"BROWN, DERRICK",P004425   ,Two Pointer (1/2 -  4 pt),2FGM,23.0,28.0,Anadolu Efes Istanbul,0
-IST       ,,30,05:33,15,197,"DRAGIC, ZORAN",P003514   ,Assist (3),AS,,,Anadolu Efes Istanbul,0
-BAM       ,,,05:42,15,198,,          ,Time Out (1),TOUT,,,Brose Bamberg,0
-          ,,,05:42,15,199,,          ,TV Time Out (2),TOUT_TV,,,,0
-IST       ,,3,05:33,15,200,"MCCOLLUM, ERRICK",P005216   ,Out,OUT,,,Anadolu Efes Istanbul,0
-IST       ,,44,05:33,15,201,"SIMON, KRUNOSLAV",PCPR      ,In,IN,,,Anadolu Efes Istanbul,0
-BAM       ,,0,05:33,15,202,"HACKETT, DANIEL",P001844   ,In,IN,,,Brose Bamberg,0
-BAM       ,,8,05:33,15,203,"STAIGER, LUCCA",P002506   ,Out,OUT,,,Brose Bamberg,0
-IST       ,,8,05:22,15,204,"BATUK, BIRKAN",P004170   ,Foul (1),CM,,,Anadolu Efes Istanbul,0
-BAM       ,,2,05:22,15,205,"HICKMAN, RICKY",P004159   ,Foul Drawn (2),RV,,,Brose Bamberg,0
-BAM       ,,12,05:13,15,206,"LO, MAODO",P007032   ,Missed Two Pointer (2/3 -  5 pt),2FGA,,,Brose Bamberg,0
-IST       ,,5,05:13,15,207,"BROWN, DERRICK",P004425   ,Def Rebound (1),D,,,Anadolu Efes Istanbul,0
-IST       ,,15,04:45,16,209,"STIMAC, VLADIMIR",PLBJ      ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Anadolu Efes Istanbul,0
-BAM       ,,42,04:43,16,210,"MUSLI, DEJAN",PLUR      ,Def Rebound (3),D,,,Brose Bamberg,0
-BAM       ,,42,04:28,16,211,"MUSLI, DEJAN",PLUR      ,Missed Two Pointer (1/4 -  2 pt),2FGA,,,Brose Bamberg,0
-BAM       ,,42,04:26,16,212,"MUSLI, DEJAN",PLUR      ,Off Rebound (1),O,,,Brose Bamberg,0
-BAM       ,,12,04:20,16,213,"LO, MAODO",P007032   ,Missed Three Pointer (0/1 -  5 pt),3FGA,,,Brose Bamberg,0
-IST       ,,15,04:18,16,214,"STIMAC, VLADIMIR",PLBJ      ,Def Rebound (3),D,,,Anadolu Efes Istanbul,0
-IST       ,,15,04:07,16,215,"STIMAC, VLADIMIR",PLBJ      ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Anadolu Efes Istanbul,0
-BAM       ,,42,04:06,16,216,"MUSLI, DEJAN",PLUR      ,Def Rebound (4),D,,,Brose Bamberg,0
-BAM       ,,2,04:00,17,218,"HICKMAN, RICKY",P004159   ,Two Pointer (1/2 -  5 pt),2FGM,23.0,30.0,Brose Bamberg,0
-IST       ,,15,03:42,17,219,"STIMAC, VLADIMIR",PLBJ      ,Two Pointer (1/3 -  2 pt),2FGM,25.0,30.0,Anadolu Efes Istanbul,0
-IST       ,,44,03:40,17,220,"SIMON, KRUNOSLAV",PCPR      ,Assist (2),AS,,,Anadolu Efes Istanbul,0
-BAM       ,,12,03:26,17,221,"LO, MAODO",P007032   ,Three Pointer (1/2 -  8 pt),3FGM,25.0,33.0,Brose Bamberg,0
-IST       ,,30,03:14,17,222,"DRAGIC, ZORAN",P003514   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Anadolu Efes Istanbul,0
-BAM       ,,,03:14,17,223,,          ,Def Rebound (1),D,,,Brose Bamberg,0
-IST       ,,15,03:14,17,224,"STIMAC, VLADIMIR",PLBJ      ,Out,OUT,,,Anadolu Efes Istanbul,0
-IST       ,,22,03:14,17,225,"MUSTAFA, MUHAYMIN",P007991   ,In,IN,,,Anadolu Efes Istanbul,0
-IST       ,,30,03:14,17,226,"DRAGIC, ZORAN",P003514   ,Out,OUT,,,Anadolu Efes Istanbul,0
-IST       ,,42,03:14,17,227,"DUNSTON, BRYANT",P003048   ,In,IN,,,Anadolu Efes Istanbul,0
-IST       ,,42,02:53,18,229,"DUNSTON, BRYANT",P003048   ,Block (3),FV,,,Anadolu Efes Istanbul,0
-BAM       ,,3,02:50,18,230,"WRIGHT, DORELL",P008049   ,Missed Two Pointer (3/5 -  8 pt),2FGA,,,Brose Bamberg,0
-BAM       ,,3,02:50,18,231,"WRIGHT, DORELL",P008049   ,Shot Rejected (1),AG,,,Brose Bamberg,0
-IST       ,,8,02:50,18,232,"BATUK, BIRKAN",P004170   ,Def Rebound (1),D,,,Anadolu Efes Istanbul,0
-BAM       ,,12,02:50,18,233,"LO, MAODO",P007032   ,Foul (1),CM,,,Brose Bamberg,0
-IST       ,,8,02:50,18,234,"BATUK, BIRKAN",P004170   ,Foul Drawn (1),RV,,,Anadolu Efes Istanbul,0
-IST       ,,8,02:50,18,235,"BATUK, BIRKAN",P004170   ,Missed Free Throw (0/1 -  0 pt),FTA,,,Anadolu Efes Istanbul,0
-IST       ,,8,02:50,18,236,"BATUK, BIRKAN",P004170   ,Missed Free Throw (0/2 -  0 pt),FTA,,,Anadolu Efes Istanbul,0
-IST       ,,5,02:50,18,237,"BROWN, DERRICK",P004425   ,Off Rebound (1),O,,,Anadolu Efes Istanbul,0
-IST       ,,5,02:50,18,238,"BROWN, DERRICK",P004425   ,Missed Two Pointer (1/3 -  4 pt),2FGA,,,Anadolu Efes Istanbul,0
-IST       ,,5,02:50,18,239,"BROWN, DERRICK",P004425   ,Off Rebound (2),O,,,Anadolu Efes Istanbul,0
-BAM       ,,3,02:50,18,240,"WRIGHT, DORELL",P008049   ,Foul (1),CM,,,Brose Bamberg,0
-IST       ,,5,02:50,18,241,"BROWN, DERRICK",P004425   ,Foul Drawn (2),RV,,,Anadolu Efes Istanbul,0
-IST       ,,5,02:50,18,242,"BROWN, DERRICK",P004425   ,Missed Free Throw (2/3 -  4 pt),FTA,,,Anadolu Efes Istanbul,0
-IST       ,,5,02:50,18,243,"BROWN, DERRICK",P004425   ,Free Throw In (3/4 -  5 pt),FTM,26.0,33.0,Anadolu Efes Istanbul,0
-IST       ,,22,02:34,18,244,"MUSTAFA, MUHAYMIN",P007991   ,Foul (1),CM,,,Anadolu Efes Istanbul,0
-BAM       ,,0,02:34,18,245,"HACKETT, DANIEL",P001844   ,Foul Drawn (1),RV,,,Brose Bamberg,0
-IST       ,,3,02:34,18,246,"MCCOLLUM, ERRICK",P005216   ,In,IN,,,Anadolu Efes Istanbul,0
-IST       ,,22,02:34,18,247,"MUSTAFA, MUHAYMIN",P007991   ,Out,OUT,,,Anadolu Efes Istanbul,0
-BAM       ,,6,02:34,18,248,"ZISIS, NIKOS",PABN      ,In,IN,,,Brose Bamberg,0
-BAM       ,,12,02:34,18,249,"LO, MAODO",P007032   ,Out,OUT,,,Brose Bamberg,0
-BAM       ,,0,02:34,18,250,"HACKETT, DANIEL",P001844   ,Free Throw In (1/1 -  3 pt),FTM,26.0,34.0,Brose Bamberg,0
-BAM       ,,0,02:34,18,251,"HACKETT, DANIEL",P001844   ,Free Throw In (2/2 -  4 pt),FTM,26.0,35.0,Brose Bamberg,0
-IST       ,,5,02:18,18,252,"BROWN, DERRICK",P004425   ,Two Pointer (2/4 -  7 pt),2FGM,28.0,35.0,Anadolu Efes Istanbul,0
-IST       ,,8,01:55,19,254,"BATUK, BIRKAN",P004170   ,Foul (2),CM,,,Anadolu Efes Istanbul,0
-BAM       ,,2,01:55,19,255,"HICKMAN, RICKY",P004159   ,Foul Drawn (3),RV,,,Brose Bamberg,0
-BAM       ,,2,01:55,19,256,"HICKMAN, RICKY",P004159   ,Missed Free Throw (0/1 -  5 pt),FTA,,,Brose Bamberg,0
-BAM       ,,2,01:55,19,257,"HICKMAN, RICKY",P004159   ,Free Throw In (1/2 -  6 pt),FTM,28.0,36.0,Brose Bamberg,0
-BAM       ,,3,01:39,19,258,"WRIGHT, DORELL",P008049   ,Foul (2),CM,,,Brose Bamberg,0
-IST       ,,5,01:39,19,259,"BROWN, DERRICK",P004425   ,Foul Drawn (3),RV,,,Anadolu Efes Istanbul,0
-BAM       ,,3,01:39,19,260,"WRIGHT, DORELL",P008049   ,Out,OUT,,,Brose Bamberg,0
-BAM       ,,21,01:39,19,261,"RUBIT, AUGUSTINE",P006477   ,In,IN,,,Brose Bamberg,0
-IST       ,,5,01:39,19,262,"BROWN, DERRICK",P004425   ,Missed Free Throw (3/5 -  7 pt),FTA,,,Anadolu Efes Istanbul,0
-IST       ,,5,01:39,19,263,"BROWN, DERRICK",P004425   ,Free Throw In (4/6 -  8 pt),FTM,29.0,36.0,Anadolu Efes Istanbul,0
-BAM       ,,42,01:22,19,264,"MUSLI, DEJAN",PLUR      ,Missed Two Pointer (1/5 -  2 pt),2FGA,,,Brose Bamberg,0
-IST       ,,3,01:19,19,265,"MCCOLLUM, ERRICK",P005216   ,Def Rebound (2),D,,,Anadolu Efes Istanbul,0
-IST       ,,8,01:06,19,266,"BATUK, BIRKAN",P004170   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Anadolu Efes Istanbul,0
-BAM       ,,0,01:04,19,267,"HACKETT, DANIEL",P001844   ,Def Rebound (2),D,,,Brose Bamberg,0
-BAM       ,,6,00:44,20,269,"ZISIS, NIKOS",PABN      ,Two Pointer (1/2 -  2 pt),2FGM,29.0,38.0,Brose Bamberg,0
-BAM       ,,0,00:43,20,270,"HACKETT, DANIEL",P001844   ,Assist (3),AS,,,Brose Bamberg,0
-IST       ,,,00:43,20,271,,          ,Time Out (1),TOUT,,,Anadolu Efes Istanbul,0
-IST       ,,12,00:43,20,272,"MOTUM, BROCK",P006599   ,In,IN,,,Anadolu Efes Istanbul,0
-IST       ,,42,00:43,20,273,"DUNSTON, BRYANT",P003048   ,Out,OUT,,,Anadolu Efes Istanbul,0
-BAM       ,,6,00:43,20,274,"ZISIS, NIKOS",PABN      ,Out,OUT,,,Brose Bamberg,0
-BAM       ,,7,00:43,20,275,"NIKOLIC, ALEKSEJ",P003703   ,In,IN,,,Brose Bamberg,0
-BAM       ,,42,00:43,20,276,"MUSLI, DEJAN",PLUR      ,Out,OUT,,,Brose Bamberg,0
-BAM       ,,43,00:43,20,277,"RADOSEVIC, LEON",PLEM      ,In,IN,,,Brose Bamberg,0
-BAM       ,,43,00:21,20,278,"RADOSEVIC, LEON",PLEM      ,Block (1),FV,,,Brose Bamberg,0
-IST       ,,3,00:18,20,279,"MCCOLLUM, ERRICK",P005216   ,Missed Two Pointer (2/6 -  7 pt),2FGA,,,Anadolu Efes Istanbul,0
-IST       ,,3,00:18,20,280,"MCCOLLUM, ERRICK",P005216   ,Shot Rejected (1),AG,,,Anadolu Efes Istanbul,0
-BAM       ,,7,00:16,20,281,"NIKOLIC, ALEKSEJ",P003703   ,Def Rebound (2),D,,,Brose Bamberg,0
-BAM       ,,2,00:01,20,282,"HICKMAN, RICKY",P004159   ,Missed Two Pointer (1/3 -  6 pt),2FGA,,,Brose Bamberg,0
-          ,,,,21,284,,          ,End Period,EP,,,,0
-          ,,,,21,296,,          ,Begin Period,BP,,,,0
-IST       ,,8,10:00,21,288,"BATUK, BIRKAN",P004170   ,Out,OUT,,,Anadolu Efes Istanbul,0
-IST       ,,12,10:00,21,289,"MOTUM, BROCK",P006599   ,Out,OUT,,,Anadolu Efes Istanbul,0
-IST       ,,30,10:00,21,290,"DRAGIC, ZORAN",P003514   ,In,IN,,,Anadolu Efes Istanbul,0
-IST       ,,42,10:00,21,291,"DUNSTON, BRYANT",P003048   ,In,IN,,,Anadolu Efes Istanbul,0
-BAM       ,,6,10:00,21,292,"ZISIS, NIKOS",PABN      ,In,IN,,,Brose Bamberg,0
-BAM       ,,7,10:00,21,293,"NIKOLIC, ALEKSEJ",P003703   ,Out,OUT,,,Brose Bamberg,0
-BAM       ,,42,10:00,21,294,"MUSLI, DEJAN",PLUR      ,In,IN,,,Brose Bamberg,0
-BAM       ,,43,10:00,21,295,"RADOSEVIC, LEON",PLEM      ,Out,OUT,,,Brose Bamberg,0
-IST       ,,3,09:45,21,297,"MCCOLLUM, ERRICK",P005216   ,Missed Two Pointer (2/7 -  7 pt),2FGA,,,Anadolu Efes Istanbul,0
-BAM       ,,42,09:43,21,298,"MUSLI, DEJAN",PLUR      ,Def Rebound (5),D,,,Brose Bamberg,0
-IST       ,,42,09:30,21,299,"DUNSTON, BRYANT",P003048   ,Foul (1),CM,,,Anadolu Efes Istanbul,0
-BAM       ,,42,09:30,21,300,"MUSLI, DEJAN",PLUR      ,Foul Drawn (1),RV,,,Brose Bamberg,0
-IST       ,,44,09:21,21,301,"SIMON, KRUNOSLAV",PCPR      ,Foul (1),CM,,,Anadolu Efes Istanbul,0
-BAM       ,,2,09:21,21,302,"HICKMAN, RICKY",P004159   ,Foul Drawn (4),RV,,,Brose Bamberg,0
-BAM       ,,2,09:17,21,303,"HICKMAN, RICKY",P004159   ,Two Pointer (2/4 -  8 pt),2FGM,29.0,40.0,Brose Bamberg,0
-BAM       ,,0,09:15,21,304,"HACKETT, DANIEL",P001844   ,Assist (4),AS,,,Brose Bamberg,0
-BAM       ,,42,08:58,22,306,"MUSLI, DEJAN",PLUR      ,Block (1),FV,,,Brose Bamberg,0
-IST       ,,30,08:55,22,307,"DRAGIC, ZORAN",P003514   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Anadolu Efes Istanbul,0
-IST       ,,30,08:55,22,308,"DRAGIC, ZORAN",P003514   ,Shot Rejected (1),AG,,,Anadolu Efes Istanbul,0
-IST       ,,30,08:53,22,309,"DRAGIC, ZORAN",P003514   ,Def Rebound (1),D,,,Anadolu Efes Istanbul,0
-IST       ,,3,08:52,22,310,"MCCOLLUM, ERRICK",P005216   ,Turnover (1),TO,,,Anadolu Efes Istanbul,0
-BAM       ,,6,08:52,22,311,"ZISIS, NIKOS",PABN      ,Steal (1),ST,,,Brose Bamberg,0
-BAM       ,,0,08:52,22,312,"HACKETT, DANIEL",P001844   ,Turnover (1),TO,,,Brose Bamberg,0
-IST       ,,5,08:37,22,313,"BROWN, DERRICK",P004425   ,Turnover (1),TO,,,Anadolu Efes Istanbul,0
-IST       ,,30,08:18,22,314,"DRAGIC, ZORAN",P003514   ,Foul (3),CM,,,Anadolu Efes Istanbul,0
-BAM       ,,42,08:18,22,315,"MUSLI, DEJAN",PLUR      ,Foul Drawn (2),RV,,,Brose Bamberg,0
-IST       ,,,08:18,22,316,,          ,Time Out (1),TOUT,,,Anadolu Efes Istanbul,0
-          ,,,08:18,22,317,,          ,TV Time Out (3),TOUT_TV,,,,0
-BAM       ,,42,08:18,22,318,"MUSLI, DEJAN",PLUR      ,Free Throw In (1/1 -  3 pt),FTM,29.0,41.0,Brose Bamberg,0
-BAM       ,,0,08:18,22,388,"HACKETT, DANIEL",P001844   ,Assist (5),AS,,,Brose Bamberg,0
-BAM       ,,42,08:18,22,319,"MUSLI, DEJAN",PLUR      ,Free Throw In (2/2 -  4 pt),FTM,29.0,42.0,Brose Bamberg,0
-IST       ,,44,08:09,22,320,"SIMON, KRUNOSLAV",PCPR      ,Missed Three Pointer (1/3 -  4 pt),3FGA,,,Anadolu Efes Istanbul,0
-BAM       ,,21,08:09,22,321,"RUBIT, AUGUSTINE",P006477   ,Def Rebound (2),D,,,Brose Bamberg,0
-BAM       ,,42,07:40,23,323,"MUSLI, DEJAN",PLUR      ,Missed Two Pointer (1/6 -  4 pt),2FGA,,,Brose Bamberg,0
-BAM       ,,21,07:40,23,324,"RUBIT, AUGUSTINE",P006477   ,Foul (2),CM,,,Brose Bamberg,0
-IST       ,,5,07:40,23,325,"BROWN, DERRICK",P004425   ,Foul Drawn (4),RV,,,Anadolu Efes Istanbul,0
-IST       ,,,07:40,23,326,,          ,Def Rebound (2),D,,,Anadolu Efes Istanbul,0
-IST       ,,3,07:19,23,327,"MCCOLLUM, ERRICK",P005216   ,Offensive Foul (1),OF,,,Anadolu Efes Istanbul,0
-IST       ,,3,07:19,23,328,"MCCOLLUM, ERRICK",P005216   ,Turnover (2),TO,,,Anadolu Efes Istanbul,0
-BAM       ,,0,07:19,23,329,"HACKETT, DANIEL",P001844   ,Foul Drawn (2),RV,,,Brose Bamberg,0
-BAM       ,,21,07:05,23,330,"RUBIT, AUGUSTINE",P006477   ,Two Pointer (2/2 -  4 pt),2FGM,29.0,44.0,Brose Bamberg,0
-BAM       ,,0,07:04,23,331,"HACKETT, DANIEL",P001844   ,Assist (6),AS,,,Brose Bamberg,0
-IST       ,,5,06:44,24,333,"BROWN, DERRICK",P004425   ,Missed Two Pointer (2/5 -  8 pt),2FGA,,,Anadolu Efes Istanbul,0
-BAM       ,,0,06:42,24,334,"HACKETT, DANIEL",P001844   ,Def Rebound (3),D,,,Brose Bamberg,0
-BAM       ,,21,06:24,24,335,"RUBIT, AUGUSTINE",P006477   ,Offensive Foul (3),OF,,,Brose Bamberg,0
-BAM       ,,21,06:24,24,336,"RUBIT, AUGUSTINE",P006477   ,Turnover (2),TO,,,Brose Bamberg,0
-IST       ,,44,06:24,24,337,"SIMON, KRUNOSLAV",PCPR      ,Foul Drawn (2),RV,,,Anadolu Efes Istanbul,0
-BAM       ,,3,06:24,24,338,"WRIGHT, DORELL",P008049   ,In,IN,,,Brose Bamberg,0
-BAM       ,,21,06:24,24,339,"RUBIT, AUGUSTINE",P006477   ,Out,OUT,,,Brose Bamberg,0
-IST       ,,3,06:08,24,340,"MCCOLLUM, ERRICK",P005216   ,Three Pointer (2/3 -  10 pt),3FGM,32.0,44.0,Anadolu Efes Istanbul,0
-IST       ,,5,06:04,24,341,"BROWN, DERRICK",P004425   ,Assist (1),AS,,,Anadolu Efes Istanbul,0
-BAM       ,,2,05:50,25,343,"HICKMAN, RICKY",P004159   ,Missed Three Pointer (1/3 -  8 pt),3FGA,,,Brose Bamberg,0
-IST       ,,44,05:48,25,344,"SIMON, KRUNOSLAV",PCPR      ,Def Rebound (1),D,,,Anadolu Efes Istanbul,0
-IST       ,,3,05:37,25,345,"MCCOLLUM, ERRICK",P005216   ,Three Pointer (3/4 -  13 pt),3FGM,35.0,44.0,Anadolu Efes Istanbul,0
-IST       ,,42,05:34,25,346,"DUNSTON, BRYANT",P003048   ,Assist (1),AS,,,Anadolu Efes Istanbul,0
-IST       ,,42,05:15,25,347,"DUNSTON, BRYANT",P003048   ,Block (4),FV,,,Anadolu Efes Istanbul,0
-BAM       ,,2,05:15,25,348,"HICKMAN, RICKY",P004159   ,Missed Two Pointer (2/5 -  8 pt),2FGA,,,Brose Bamberg,0
-BAM       ,,2,05:15,25,349,"HICKMAN, RICKY",P004159   ,Shot Rejected (2),AG,,,Brose Bamberg,0
-BAM       ,,,05:15,25,350,,          ,Off Rebound (2),O,,,Brose Bamberg,0
-BAM       ,,2,05:15,25,351,"HICKMAN, RICKY",P004159   ,Out,OUT,,,Brose Bamberg,0
-BAM       ,,7,05:15,25,352,"NIKOLIC, ALEKSEJ",P003703   ,In,IN,,,Brose Bamberg,0
-BAM       ,,3,05:11,25,353,"WRIGHT, DORELL",P008049   ,Missed Three Pointer (0/1 -  8 pt),3FGA,,,Brose Bamberg,0
-IST       ,,30,05:09,25,354,"DRAGIC, ZORAN",P003514   ,Def Rebound (2),D,,,Anadolu Efes Istanbul,0
-IST       ,,44,04:58,26,356,"SIMON, KRUNOSLAV",PCPR      ,Missed Two Pointer (0/5 -  4 pt),2FGA,,,Anadolu Efes Istanbul,0
-BAM       ,,6,04:56,26,357,"ZISIS, NIKOS",PABN      ,Def Rebound (2),D,,,Brose Bamberg,0
-BAM       ,,,04:32,26,358,,          ,Turnover (2),TO,,,Brose Bamberg,0
-IST       ,,5,04:12,26,359,"BROWN, DERRICK",P004425   ,Missed Two Pointer (2/6 -  8 pt),2FGA,,,Anadolu Efes Istanbul,0
-IST       ,,42,04:09,26,360,"DUNSTON, BRYANT",P003048   ,Off Rebound (2),O,,,Anadolu Efes Istanbul,0
-IST       ,,42,04:09,26,361,"DUNSTON, BRYANT",P003048   ,Missed Two Pointer (2/4 -  4 pt),2FGA,,,Anadolu Efes Istanbul,0
-BAM       ,,42,04:08,26,362,"MUSLI, DEJAN",PLUR      ,Def Rebound (6),D,,,Brose Bamberg,0
-BAM       ,,42,04:00,26,363,"MUSLI, DEJAN",PLUR      ,Out,OUT,,,Brose Bamberg,0
-BAM       ,,43,04:00,26,364,"RADOSEVIC, LEON",PLEM      ,In,IN,,,Brose Bamberg,0
-BAM       ,,0,03:50,27,366,"HACKETT, DANIEL",P001844   ,Two Pointer (2/2 -  6 pt),2FGM,35.0,46.0,Brose Bamberg,0
-BAM       ,,3,03:30,27,367,"WRIGHT, DORELL",P008049   ,Foul (3),CM,,,Brose Bamberg,0
-IST       ,,5,03:30,27,368,"BROWN, DERRICK",P004425   ,Foul Drawn (5),RV,,,Anadolu Efes Istanbul,0
-BAM       ,,6,03:30,27,369,"ZISIS, NIKOS",PABN      ,Out,OUT,,,Brose Bamberg,0
-BAM       ,,12,03:30,27,370,"LO, MAODO",P007032   ,In,IN,,,Brose Bamberg,0
-IST       ,,3,03:26,27,371,"MCCOLLUM, ERRICK",P005216   ,Three Pointer (4/5 -  16 pt),3FGM,38.0,46.0,Anadolu Efes Istanbul,0
-IST       ,,5,03:24,27,372,"BROWN, DERRICK",P004425   ,Assist (2),AS,,,Anadolu Efes Istanbul,0
-BAM       ,,7,03:17,27,373,"NIKOLIC, ALEKSEJ",P003703   ,Two Pointer (1/1 -  2 pt),2FGM,38.0,48.0,Brose Bamberg,0
-IST       ,,42,02:38,28,375,"DUNSTON, BRYANT",P003048   ,Two Pointer (3/5 -  6 pt),2FGM,40.0,48.0,Anadolu Efes Istanbul,0
-IST       ,,30,02:37,28,376,"DRAGIC, ZORAN",P003514   ,Assist (4),AS,,,Anadolu Efes Istanbul,0
-IST       ,,5,02:19,28,377,"BROWN, DERRICK",P004425   ,Block (1),FV,,,Anadolu Efes Istanbul,0
-BAM       ,,3,02:17,28,378,"WRIGHT, DORELL",P008049   ,Missed Two Pointer (3/6 -  8 pt),2FGA,,,Brose Bamberg,0
-BAM       ,,3,02:17,28,379,"WRIGHT, DORELL",P008049   ,Shot Rejected (2),AG,,,Brose Bamberg,0
-IST       ,,5,02:15,28,380,"BROWN, DERRICK",P004425   ,Def Rebound (2),D,,,Anadolu Efes Istanbul,0
-IST       ,,3,02:03,28,381,"MCCOLLUM, ERRICK",P005216   ,Missed Three Pointer (4/6 -  16 pt),3FGA,,,Anadolu Efes Istanbul,0
-BAM       ,,7,02:01,28,382,"NIKOLIC, ALEKSEJ",P003703   ,Def Rebound (3),D,,,Brose Bamberg,0
-BAM       ,,12,01:49,29,384,"LO, MAODO",P007032   ,Missed Two Pointer (2/4 -  8 pt),2FGA,,,Brose Bamberg,0
-IST       ,,42,01:49,29,385,"DUNSTON, BRYANT",P003048   ,Def Rebound (5),D,,,Anadolu Efes Istanbul,0
-IST       ,,5,01:44,29,386,"BROWN, DERRICK",P004425   ,Two Pointer (3/7 -  10 pt),2FGM,42.0,48.0,Anadolu Efes Istanbul,0
-BAM       ,,,01:44,29,387,,          ,Time Out (1),TOUT,,,Brose Bamberg,0
-BAM       ,,0,01:44,29,389,"HACKETT, DANIEL",P001844   ,Out,OUT,,,Brose Bamberg,0
-BAM       ,,6,01:44,29,390,"ZISIS, NIKOS",PABN      ,In,IN,,,Brose Bamberg,0
-BAM       ,,12,01:22,29,391,"LO, MAODO",P007032   ,Turnover (2),TO,,,Brose Bamberg,0
-BAM       ,,7,01:12,29,392,"NIKOLIC, ALEKSEJ",P003703   ,Foul (2),CM,,,Brose Bamberg,0
-IST       ,,30,01:12,29,393,"DRAGIC, ZORAN",P003514   ,Foul Drawn (2),RV,,,Anadolu Efes Istanbul,0
-IST       ,,42,01:05,29,394,"DUNSTON, BRYANT",P003048   ,Two Pointer (4/6 -  8 pt),2FGM,44.0,48.0,Anadolu Efes Istanbul,0
-IST       ,,44,01:05,29,395,"SIMON, KRUNOSLAV",PCPR      ,Assist (3),AS,,,Anadolu Efes Istanbul,0
-BAM       ,,6,00:39,30,397,"ZISIS, NIKOS",PABN      ,Turnover (1),TO,,,Brose Bamberg,0
-IST       ,,5,00:38,30,398,"BROWN, DERRICK",P004425   ,Steal (2),ST,,,Anadolu Efes Istanbul,0
-IST       ,,3,00:25,30,399,"MCCOLLUM, ERRICK",P005216   ,Turnover (3),TO,,,Anadolu Efes Istanbul,0
-BAM       ,,12,00:23,30,400,"LO, MAODO",P007032   ,Steal (2),ST,,,Brose Bamberg,0
-BAM       ,,7,00:02,30,401,"NIKOLIC, ALEKSEJ",P003703   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,Brose Bamberg,0
-IST       ,,42,00:01,30,402,"DUNSTON, BRYANT",P003048   ,Def Rebound (6),D,,,Anadolu Efes Istanbul,0
-          ,,,,31,404,,          ,End Period,EP,,,,0
-          ,,,,31,409,,          ,Begin Period,BP,,,,0
-BAM       ,,2,10:00,31,405,"HICKMAN, RICKY",P004159   ,In,IN,,,Brose Bamberg,0
-BAM       ,,12,10:00,31,406,"LO, MAODO",P007032   ,Out,OUT,,,Brose Bamberg,0
-BAM       ,,42,10:00,31,407,"MUSLI, DEJAN",PLUR      ,In,IN,,,Brose Bamberg,0
-BAM       ,,43,10:00,31,408,"RADOSEVIC, LEON",PLEM      ,Out,OUT,,,Brose Bamberg,0
-BAM       ,,3,09:47,31,410,"WRIGHT, DORELL",P008049   ,Missed Two Pointer (3/7 -  8 pt),2FGA,,,Brose Bamberg,0
-IST       ,,44,09:45,31,411,"SIMON, KRUNOSLAV",PCPR      ,Def Rebound (2),D,,,Anadolu Efes Istanbul,0
-IST       ,,5,09:36,31,412,"BROWN, DERRICK",P004425   ,Three Pointer (1/1 -  13 pt),3FGM,47.0,48.0,Anadolu Efes Istanbul,0
-IST       ,,30,09:33,31,413,"DRAGIC, ZORAN",P003514   ,Assist (5),AS,,,Anadolu Efes Istanbul,0
-BAM       ,,2,09:15,31,414,"HICKMAN, RICKY",P004159   ,Turnover (2),TO,,,Brose Bamberg,0
-IST       ,,30,09:14,31,415,"DRAGIC, ZORAN",P003514   ,Steal (1),ST,,,Anadolu Efes Istanbul,0
-IST       ,,44,08:57,32,417,"SIMON, KRUNOSLAV",PCPR      ,Two Pointer (1/6 -  6 pt),2FGM,49.0,48.0,Anadolu Efes Istanbul,0
-BAM       ,,6,08:44,32,418,"ZISIS, NIKOS",PABN      ,Missed Two Pointer (1/3 -  2 pt),2FGA,,,Brose Bamberg,0
-IST       ,,42,08:42,32,419,"DUNSTON, BRYANT",P003048   ,Def Rebound (7),D,,,Anadolu Efes Istanbul,0
-IST       ,,30,08:37,32,420,"DRAGIC, ZORAN",P003514   ,Two Pointer (1/3 -  2 pt),2FGM,51.0,48.0,Anadolu Efes Istanbul,0
-IST       ,,5,08:37,32,421,"BROWN, DERRICK",P004425   ,Assist (3),AS,,,Anadolu Efes Istanbul,0
-BAM       ,,,08:37,32,422,,          ,Time Out (1),TOUT,,,Brose Bamberg,0
-          ,,,08:37,32,423,,          ,TV Time Out (4),TOUT_TV,,,,0
-BAM       ,,0,08:37,32,424,"HACKETT, DANIEL",P001844   ,In,IN,,,Brose Bamberg,0
-BAM       ,,7,08:37,32,425,"NIKOLIC, ALEKSEJ",P003703   ,Out,OUT,,,Brose Bamberg,0
-BAM       ,,21,08:37,32,426,"RUBIT, AUGUSTINE",P006477   ,In,IN,,,Brose Bamberg,0
-BAM       ,,42,08:37,32,427,"MUSLI, DEJAN",PLUR      ,Out,OUT,,,Brose Bamberg,0
-BAM       ,,2,08:19,32,428,"HICKMAN, RICKY",P004159   ,Two Pointer (3/6 -  10 pt),2FGM,51.0,50.0,Brose Bamberg,0
-IST       ,,44,08:15,32,429,"SIMON, KRUNOSLAV",PCPR      ,Three Pointer (2/4 -  9 pt),3FGM,54.0,50.0,Anadolu Efes Istanbul,0
-IST       ,,3,08:15,32,430,"MCCOLLUM, ERRICK",P005216   ,Assist (1),AS,,,Anadolu Efes Istanbul,0
-BAM       ,,2,07:51,33,432,"HICKMAN, RICKY",P004159   ,Missed Two Pointer (3/7 -  10 pt),2FGA,,,Brose Bamberg,0
-IST       ,,44,07:49,33,433,"SIMON, KRUNOSLAV",PCPR      ,Def Rebound (3),D,,,Anadolu Efes Istanbul,0
-IST       ,,30,07:29,33,434,"DRAGIC, ZORAN",P003514   ,Missed Three Pointer (0/4 -  2 pt),3FGA,,,Anadolu Efes Istanbul,0
-BAM       ,,3,07:30,33,435,"WRIGHT, DORELL",P008049   ,Def Rebound (4),D,,,Brose Bamberg,0
-BAM       ,,3,07:29,33,436,"WRIGHT, DORELL",P008049   ,Turnover (2),TO,,,Brose Bamberg,0
-IST       ,,42,07:18,33,437,"DUNSTON, BRYANT",P003048   ,Missed Two Pointer (4/7 -  8 pt),2FGA,,,Anadolu Efes Istanbul,0
-IST       ,,30,07:16,33,438,"DRAGIC, ZORAN",P003514   ,Off Rebound (1),O,,,Anadolu Efes Istanbul,0
-IST       ,,44,07:14,33,439,"SIMON, KRUNOSLAV",PCPR      ,Missed Three Pointer (2/5 -  9 pt),3FGA,,,Anadolu Efes Istanbul,0
-BAM       ,,2,07:11,33,440,"HICKMAN, RICKY",P004159   ,Def Rebound (3),D,,,Brose Bamberg,0
-BAM       ,,2,07:08,33,441,"HICKMAN, RICKY",P004159   ,Turnover (3),TO,,,Brose Bamberg,0
-IST       ,,3,07:07,33,442,"MCCOLLUM, ERRICK",P005216   ,Steal (2),ST,,,Anadolu Efes Istanbul,0
-IST       ,,3,07:04,33,443,"MCCOLLUM, ERRICK",P005216   ,Turnover (4),TO,,,Anadolu Efes Istanbul,0
-BAM       ,,3,06:41,34,445,"WRIGHT, DORELL",P008049   ,Turnover (3),TO,,,Brose Bamberg,0
-IST       ,,5,06:39,34,446,"BROWN, DERRICK",P004425   ,Steal (3),ST,,,Anadolu Efes Istanbul,0
-IST       ,,3,06:25,34,447,"MCCOLLUM, ERRICK",P005216   ,Three Pointer (5/7 -  19 pt),3FGM,57.0,50.0,Anadolu Efes Istanbul,0
-BAM       ,,3,06:09,34,448,"WRIGHT, DORELL",P008049   ,Missed Three Pointer (0/2 -  8 pt),3FGA,,,Brose Bamberg,0
-BAM       ,,2,06:07,34,449,"HICKMAN, RICKY",P004159   ,Off Rebound (1),O,,,Brose Bamberg,0
-BAM       ,,2,06:03,34,450,"HICKMAN, RICKY",P004159   ,Turnover (4),TO,,,Brose Bamberg,0
-IST       ,,3,06:01,34,451,"MCCOLLUM, ERRICK",P005216   ,Steal (3),ST,,,Anadolu Efes Istanbul,0
-IST       ,,3,05:58,35,453,"MCCOLLUM, ERRICK",P005216   ,Missed Two Pointer (2/8 -  19 pt),2FGA,,,Anadolu Efes Istanbul,0
-IST       ,,44,05:55,35,454,"SIMON, KRUNOSLAV",PCPR      ,Off Rebound (1),O,,,Anadolu Efes Istanbul,0
-IST       ,,44,05:55,35,455,"SIMON, KRUNOSLAV",PCPR      ,Missed Two Pointer (1/7 -  9 pt),2FGA,,,Anadolu Efes Istanbul,0
-BAM       ,,3,05:54,35,456,"WRIGHT, DORELL",P008049   ,Def Rebound (5),D,,,Brose Bamberg,0
-BAM       ,,2,05:51,35,457,"HICKMAN, RICKY",P004159   ,Missed Two Pointer (3/8 -  10 pt),2FGA,,,Brose Bamberg,0
-IST       ,,,05:50,35,458,,          ,Def Rebound (3),D,,,Anadolu Efes Istanbul,0
-IST       ,,5,05:50,35,459,"BROWN, DERRICK",P004425   ,Out,OUT,,,Anadolu Efes Istanbul,0
-IST       ,,12,05:50,35,460,"MOTUM, BROCK",P006599   ,In,IN,,,Anadolu Efes Istanbul,0
-BAM       ,,3,05:50,35,461,"WRIGHT, DORELL",P008049   ,Out,OUT,,,Brose Bamberg,0
-BAM       ,,42,05:50,35,462,"MUSLI, DEJAN",PLUR      ,In,IN,,,Brose Bamberg,0
-IST       ,,12,05:27,35,463,"MOTUM, BROCK",P006599   ,Missed Two Pointer (2/4 -  4 pt),2FGA,,,Anadolu Efes Istanbul,0
-IST       ,,42,05:26,35,464,"DUNSTON, BRYANT",P003048   ,Off Rebound (3),O,,,Anadolu Efes Istanbul,0
-IST       ,,42,05:26,35,465,"DUNSTON, BRYANT",P003048   ,Two Pointer (5/8 -  10 pt),2FGM,59.0,50.0,Anadolu Efes Istanbul,0
-BAM       ,,,05:26,35,466,,          ,Time Out (2),TOUT,,,Brose Bamberg,0
-BAM       ,,0,05:11,35,467,"HACKETT, DANIEL",P001844   ,Missed Two Pointer (2/3 -  6 pt),2FGA,,,Brose Bamberg,0
-BAM       ,,42,05:06,35,468,"MUSLI, DEJAN",PLUR      ,Off Rebound (2),O,,,Brose Bamberg,0
-BAM       ,,2,05:01,35,469,"HICKMAN, RICKY",P004159   ,Missed Three Pointer (1/4 -  10 pt),3FGA,,,Brose Bamberg,0
-IST       ,,42,05:00,35,470,"DUNSTON, BRYANT",P003048   ,Def Rebound (8),D,,,Anadolu Efes Istanbul,0
-IST       ,,12,04:43,36,472,"MOTUM, BROCK",P006599   ,Turnover (1),TO,,,Anadolu Efes Istanbul,0
-BAM       ,,2,04:43,36,473,"HICKMAN, RICKY",P004159   ,Out,OUT,,,Brose Bamberg,0
-BAM       ,,12,04:43,36,474,"LO, MAODO",P007032   ,In,IN,,,Brose Bamberg,0
-BAM       ,,6,04:24,36,475,"ZISIS, NIKOS",PABN      ,Missed Two Pointer (1/4 -  2 pt),2FGA,,,Brose Bamberg,0
-BAM       ,,42,04:23,36,476,"MUSLI, DEJAN",PLUR      ,Off Rebound (3),O,,,Brose Bamberg,0
-BAM       ,,42,04:23,36,477,"MUSLI, DEJAN",PLUR      ,Two Pointer (2/7 -  6 pt),2FGM,59.0,52.0,Brose Bamberg,0
-BAM       ,,42,04:23,36,478,"MUSLI, DEJAN",PLUR      ,Foul Drawn (3),RV,,,Brose Bamberg,0
-IST       ,,42,04:23,36,479,"DUNSTON, BRYANT",P003048   ,Foul (2),CM,,,Anadolu Efes Istanbul,0
-IST       ,,5,04:23,36,480,"BROWN, DERRICK",P004425   ,In,IN,,,Anadolu Efes Istanbul,0
-IST       ,,12,04:23,36,481,"MOTUM, BROCK",P006599   ,Out,OUT,,,Anadolu Efes Istanbul,0
-BAM       ,,42,04:23,36,482,"MUSLI, DEJAN",PLUR      ,Free Throw In (3/3 -  7 pt),FTM,59.0,53.0,Brose Bamberg,0
-IST       ,,42,04:06,36,483,"DUNSTON, BRYANT",P003048   ,Missed Two Pointer (5/9 -  10 pt),2FGA,,,Anadolu Efes Istanbul,0
-IST       ,,42,04:04,36,484,"DUNSTON, BRYANT",P003048   ,Off Rebound (4),O,,,Anadolu Efes Istanbul,0
-IST       ,,5,04:00,36,485,"BROWN, DERRICK",P004425   ,Two Pointer (4/8 -  15 pt),2FGM,61.0,53.0,Anadolu Efes Istanbul,0
-IST       ,,44,03:57,37,487,"SIMON, KRUNOSLAV",PCPR      ,Assist (4),AS,,,Anadolu Efes Istanbul,0
-BAM       ,,12,03:33,37,488,"LO, MAODO",P007032   ,Missed Three Pointer (1/3 -  8 pt),3FGA,,,Brose Bamberg,0
-IST       ,,44,03:31,37,489,"SIMON, KRUNOSLAV",PCPR      ,Def Rebound (4),D,,,Anadolu Efes Istanbul,0
-BAM       ,,42,03:12,37,490,"MUSLI, DEJAN",PLUR      ,Foul (1),CM,,,Brose Bamberg,0
-IST       ,,42,03:12,37,491,"DUNSTON, BRYANT",P003048   ,Foul Drawn (1),RV,,,Anadolu Efes Istanbul,0
-IST       ,,5,03:07,37,492,"BROWN, DERRICK",P004425   ,Three Pointer (2/2 -  18 pt),3FGM,64.0,53.0,Anadolu Efes Istanbul,0
-BAM       ,,21,02:59,38,536,"RUBIT, AUGUSTINE",P006477   ,Missed Two Pointer (2/3 -  4 pt),2FGA,,,Brose Bamberg,0
-IST       ,,44,02:56,38,498,"SIMON, KRUNOSLAV",PCPR      ,Def Rebound (5),D,,,Anadolu Efes Istanbul,0
-IST       ,,3,02:56,38,499,"MCCOLLUM, ERRICK",P005216   ,Missed Three Pointer (5/8 -  19 pt),3FGA,,,Anadolu Efes Istanbul,0
-IST       ,,44,02:56,38,500,"SIMON, KRUNOSLAV",PCPR      ,Off Rebound (2),O,,,Anadolu Efes Istanbul,0
-IST       ,,5,02:28,38,501,"BROWN, DERRICK",P004425   ,Three Pointer (3/3 -  21 pt),3FGM,67.0,53.0,Anadolu Efes Istanbul,0
-IST       ,,3,02:26,38,502,"MCCOLLUM, ERRICK",P005216   ,Assist (2),AS,,,Anadolu Efes Istanbul,0
-BAM       ,,6,02:09,38,503,"ZISIS, NIKOS",PABN      ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,Brose Bamberg,0
-IST       ,,44,02:09,38,504,"SIMON, KRUNOSLAV",PCPR      ,Foul (2),CM,,,Anadolu Efes Istanbul,0
-BAM       ,,42,02:09,38,505,"MUSLI, DEJAN",PLUR      ,Foul Drawn (4),RV,,,Brose Bamberg,0
-BAM       ,,,02:09,38,506,,          ,Off Rebound (3),O,,,Brose Bamberg,0
-BAM       ,,42,02:09,38,507,"MUSLI, DEJAN",PLUR      ,Free Throw In (4/4 -  8 pt),FTM,67.0,54.0,Brose Bamberg,0
-BAM       ,,42,02:09,38,508,"MUSLI, DEJAN",PLUR      ,Free Throw In (5/5 -  9 pt),FTM,67.0,55.0,Brose Bamberg,0
-IST       ,,44,01:49,39,510,"SIMON, KRUNOSLAV",PCPR      ,Two Pointer (2/8 -  11 pt),2FGM,69.0,55.0,Anadolu Efes Istanbul,0
-IST       ,,3,01:49,39,511,"MCCOLLUM, ERRICK",P005216   ,Foul (2),CM,,,Anadolu Efes Istanbul,0
-BAM       ,,6,01:49,39,512,"ZISIS, NIKOS",PABN      ,Foul Drawn (1),RV,,,Brose Bamberg,0
-IST       ,,30,01:38,39,513,"DRAGIC, ZORAN",P003514   ,Foul (4),CM,,,Anadolu Efes Istanbul,0
-BAM       ,,21,01:38,39,514,"RUBIT, AUGUSTINE",P006477   ,Foul Drawn (1),RV,,,Brose Bamberg,0
-BAM       ,,21,01:38,39,515,"RUBIT, AUGUSTINE",P006477   ,Missed Free Throw (0/1 -  4 pt),FTA,,,Brose Bamberg,0
-BAM       ,,21,01:38,39,516,"RUBIT, AUGUSTINE",P006477   ,Free Throw In (1/2 -  5 pt),FTM,69.0,56.0,Brose Bamberg,0
-BAM       ,,0,01:38,39,517,"HACKETT, DANIEL",P001844   ,Assist (7),AS,,,Brose Bamberg,0
-IST       ,,12,01:38,39,518,"MOTUM, BROCK",P006599   ,In,IN,,,Anadolu Efes Istanbul,0
-IST       ,,42,01:38,39,519,"DUNSTON, BRYANT",P003048   ,Out,OUT,,,Anadolu Efes Istanbul,0
-BAM       ,,6,01:38,39,520,"ZISIS, NIKOS",PABN      ,Out,OUT,,,Brose Bamberg,0
-BAM       ,,7,01:38,39,521,"NIKOLIC, ALEKSEJ",P003703   ,In,IN,,,Brose Bamberg,0
-IST       ,,44,01:19,39,522,"SIMON, KRUNOSLAV",PCPR      ,Missed Three Pointer (2/6 -  11 pt),3FGA,,,Anadolu Efes Istanbul,0
-BAM       ,,0,01:17,39,523,"HACKETT, DANIEL",P001844   ,Def Rebound (4),D,,,Brose Bamberg,0
-BAM       ,,0,01:13,39,524,"HACKETT, DANIEL",P001844   ,Missed Three Pointer (0/1 -  6 pt),3FGA,,,Brose Bamberg,0
-IST       ,,3,01:11,39,525,"MCCOLLUM, ERRICK",P005216   ,Def Rebound (3),D,,,Anadolu Efes Istanbul,0
-IST       ,,5,00:48,40,527,"BROWN, DERRICK",P004425   ,Missed Three Pointer (3/4 -  21 pt),3FGA,,,Anadolu Efes Istanbul,0
-BAM       ,,0,00:47,40,528,"HACKETT, DANIEL",P001844   ,Def Rebound (5),D,,,Brose Bamberg,0
-IST       ,,12,00:37,40,529,"MOTUM, BROCK",P006599   ,Foul (2),CM,,,Anadolu Efes Istanbul,0
-BAM       ,,21,00:37,40,530,"RUBIT, AUGUSTINE",P006477   ,Foul Drawn (2),RV,,,Brose Bamberg,0
-BAM       ,,42,00:37,40,531,"MUSLI, DEJAN",PLUR      ,Out,OUT,,,Brose Bamberg,0
-BAM       ,,43,00:37,40,532,"RADOSEVIC, LEON",PLEM      ,In,IN,,,Brose Bamberg,0
-BAM       ,,21,00:37,40,533,"RUBIT, AUGUSTINE",P006477   ,Free Throw In (2/3 -  6 pt),FTM,69.0,57.0,Brose Bamberg,0
-BAM       ,,21,00:37,40,534,"RUBIT, AUGUSTINE",P006477   ,Free Throw In (3/4 -  7 pt),FTM,69.0,58.0,Brose Bamberg,0
-IST       ,,,00:37,40,535,,          ,Time Out (1),TOUT,,,Anadolu Efes Istanbul,0
-IST       ,,12,00:37,40,537,"MOTUM, BROCK",P006599   ,Out,OUT,,,Anadolu Efes Istanbul,0
-IST       ,,42,00:37,40,538,"DUNSTON, BRYANT",P003048   ,In,IN,,,Anadolu Efes Istanbul,0
-IST       ,,3,00:16,40,539,"MCCOLLUM, ERRICK",P005216   ,Missed Two Pointer (2/9 -  19 pt),2FGA,,,Anadolu Efes Istanbul,0
-IST       ,,42,00:14,40,540,"DUNSTON, BRYANT",P003048   ,Off Rebound (5),O,,,Anadolu Efes Istanbul,0
-BAM       ,,43,00:05,40,541,"RADOSEVIC, LEON",PLEM      ,Foul (3),CM,,,Brose Bamberg,0
-IST       ,,3,00:05,40,542,"MCCOLLUM, ERRICK",P005216   ,Foul Drawn (3),RV,,,Anadolu Efes Istanbul,0
-BAM       ,,43,00:02,40,543,"RADOSEVIC, LEON",PLEM      ,Foul (4),CM,,,Brose Bamberg,0
-IST       ,,3,00:02,40,544,"MCCOLLUM, ERRICK",P005216   ,Foul Drawn (4),RV,,,Anadolu Efes Istanbul,0
-          ,,,,41,547,,          ,End Game,EG,,,,0
+CODETEAM,COMMENT,DORSAL,MARKERTIME,MINUTE,NUMBEROFPLAY,PLAYER,PLAYER_ID,PLAYINFO,PLAYTYPE,POINTS_A,POINTS_B,TEAM,TYPE,home_team,home_team_code,away_team,away_team_code
+          ,,,,1,12,,          ,Begin Period,BP,,,,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,12,09:42,1,13,"MOTUM, BROCK",P006599   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,3,09:40,1,14,"WRIGHT, DORELL",P008049   ,Def Rebound (1),D,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,3,09:16,1,15,"MCCOLLUM, ERRICK",P005216   ,Block (1),FV,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,2,09:15,1,16,"HICKMAN, RICKY",P004159   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,2,09:15,1,17,"HICKMAN, RICKY",P004159   ,Shot Rejected (1),AG,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,42,09:15,1,18,"DUNSTON, BRYANT",P003048   ,Def Rebound (1),D,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,30,09:07,1,19,"DRAGIC, ZORAN",P003514   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,2,09:07,1,20,"HICKMAN, RICKY",P004159   ,Def Rebound (1),D,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,42,08:53,2,22,"DUNSTON, BRYANT",P003048   ,Block (1),FV,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,42,08:51,2,23,"MUSLI, DEJAN",PLUR      ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,42,08:51,2,24,"MUSLI, DEJAN",PLUR      ,Shot Rejected (1),AG,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,42,08:48,2,25,"DUNSTON, BRYANT",P003048   ,Def Rebound (2),D,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,12,08:42,2,26,"MOTUM, BROCK",P006599   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,2,08:40,2,27,"HICKMAN, RICKY",P004159   ,Def Rebound (2),D,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,30,08:38,2,28,"DRAGIC, ZORAN",P003514   ,Foul (1),CM,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,2,08:38,2,29,"HICKMAN, RICKY",P004159   ,Foul Drawn (1),RV,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,3,08:24,2,30,"WRIGHT, DORELL",P008049   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,3,08:21,2,31,"WRIGHT, DORELL",P008049   ,Off Rebound (1),O,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,3,08:21,2,32,"WRIGHT, DORELL",P008049   ,Two Pointer (1/2 -  2 pt),2FGM,,2.0,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,44,08:06,2,33,"SIMON, KRUNOSLAV",PCPR      ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,3,08:04,2,34,"WRIGHT, DORELL",P008049   ,Def Rebound (2),D,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,3,07:58,3,36,"WRIGHT, DORELL",P008049   ,Two Pointer (2/3 -  4 pt),2FGM,,4.0,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,6,07:46,3,37,"ZISIS, NIKOS",PABN      ,Foul (1),CM,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,12,07:46,3,38,"MOTUM, BROCK",P006599   ,Foul Drawn (1),RV,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,3,07:39,3,39,"MCCOLLUM, ERRICK",P005216   ,Three Pointer (1/1 -  3 pt),3FGM,3.0,4.0,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,2,07:18,3,40,"HICKMAN, RICKY",P004159   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,12,07:16,3,41,"MOTUM, BROCK",P006599   ,Def Rebound (1),D,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,12,07:11,3,42,"MOTUM, BROCK",P006599   ,Two Pointer (1/2 -  2 pt),2FGM,5.0,4.0,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,44,07:09,3,43,"SIMON, KRUNOSLAV",PCPR      ,Assist (1),AS,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,0,06:56,4,45,"HACKETT, DANIEL",P001844   ,Two Pointer (1/1 -  2 pt),2FGM,5.0,6.0,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,42,06:43,4,46,"DUNSTON, BRYANT",P003048   ,Two Pointer (1/1 -  2 pt),2FGM,7.0,6.0,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,3,06:26,4,47,"WRIGHT, DORELL",P008049   ,Turnover (1),TO,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,44,06:15,4,48,"SIMON, KRUNOSLAV",PCPR      ,Three Pointer (1/1 -  3 pt),3FGM,10.0,6.0,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,12,05:56,5,50,"MOTUM, BROCK",P006599   ,Assist (1),AS,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,2,05:50,5,51,"HICKMAN, RICKY",P004159   ,Turnover (1),TO,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,0,05:39,5,52,"HACKETT, DANIEL",P001844   ,Foul (1),CM,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,44,05:39,5,53,"SIMON, KRUNOSLAV",PCPR      ,Foul Drawn (1),RV,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,44,05:32,5,54,"SIMON, KRUNOSLAV",PCPR      ,Missed Two Pointer (0/2 -  3 pt),2FGA,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,,05:30,5,55,,          ,Off Rebound (1),O,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,3,05:25,5,56,"MCCOLLUM, ERRICK",P005216   ,Missed Three Pointer (1/2 -  3 pt),3FGA,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,42,05:23,5,57,"MUSLI, DEJAN",PLUR      ,Def Rebound (1),D,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,3,05:13,5,58,"WRIGHT, DORELL",P008049   ,Two Pointer (3/4 -  6 pt),2FGM,10.0,8.0,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,12,04:59,6,60,"MOTUM, BROCK",P006599   ,Two Pointer (2/3 -  4 pt),2FGM,12.0,8.0,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,30,04:57,6,61,"DRAGIC, ZORAN",P003514   ,Assist (1),AS,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,42,04:34,6,62,"MUSLI, DEJAN",PLUR      ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,42,04:32,6,63,"DUNSTON, BRYANT",P003048   ,Def Rebound (3),D,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,44,04:22,6,64,"SIMON, KRUNOSLAV",PCPR      ,Missed Two Pointer (0/3 -  3 pt),2FGA,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,42,04:19,6,65,"DUNSTON, BRYANT",P003048   ,Off Rebound (1),O,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,42,04:19,6,66,"DUNSTON, BRYANT",P003048   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,6,04:17,6,67,"ZISIS, NIKOS",PABN      ,Def Rebound (1),D,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,42,04:13,6,68,"DUNSTON, BRYANT",P003048   ,Block (2),FV,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,6,04:13,6,69,"ZISIS, NIKOS",PABN      ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,6,04:13,6,70,"ZISIS, NIKOS",PABN      ,Shot Rejected (1),AG,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,12,04:13,6,71,"MOTUM, BROCK",P006599   ,Def Rebound (2),D,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,,04:13,6,72,,CO_B      ,Coach Foul (1),C,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+          ,,,04:13,6,73,,          ,TV Time Out (1),TOUT_TV,,,,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,44,04:13,6,74,"SIMON, KRUNOSLAV",PCPR      ,Free Throw In (1/1 -  4 pt),FTM,13.0,8.0,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,42,03:49,7,76,"DUNSTON, BRYANT",P003048   ,Two Pointer (2/3 -  4 pt),2FGM,15.0,8.0,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,30,03:49,7,77,"DRAGIC, ZORAN",P003514   ,Assist (2),AS,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,2,03:31,7,78,"HICKMAN, RICKY",P004159   ,Three Pointer (1/2 -  3 pt),3FGM,15.0,11.0,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,0,03:29,7,79,"HACKETT, DANIEL",P001844   ,Assist (1),AS,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,3,03:13,7,80,"MCCOLLUM, ERRICK",P005216   ,Missed Two Pointer (0/1 -  3 pt),2FGA,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,3,03:09,7,81,"WRIGHT, DORELL",P008049   ,Def Rebound (3),D,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,42,02:50,8,83,"MUSLI, DEJAN",PLUR      ,Two Pointer (1/3 -  2 pt),2FGM,15.0,13.0,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,6,02:48,8,84,"ZISIS, NIKOS",PABN      ,Assist (1),AS,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,6,02:37,8,85,"ZISIS, NIKOS",PABN      ,Foul (2),CM,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,30,02:37,8,86,"DRAGIC, ZORAN",P003514   ,Foul Drawn (1),RV,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,42,02:37,8,87,"MUSLI, DEJAN",PLUR      ,Out,OUT,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,43,02:37,8,88,"RADOSEVIC, LEON",PLEM      ,In,IN,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,6,02:37,8,89,"ZISIS, NIKOS",PABN      ,Out,OUT,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,7,02:37,8,90,"NIKOLIC, ALEKSEJ",P003703   ,In,IN,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,12,02:26,8,91,"MOTUM, BROCK",P006599   ,Missed Three Pointer (0/2 -  4 pt),3FGA,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,0,02:24,8,92,"HACKETT, DANIEL",P001844   ,Def Rebound (1),D,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,12,02:21,8,93,"MOTUM, BROCK",P006599   ,Foul (1),CM,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,3,02:21,8,94,"WRIGHT, DORELL",P008049   ,Foul Drawn (1),RV,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,5,02:21,8,95,"BROWN, DERRICK",P004425   ,In,IN,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,12,02:21,8,96,"MOTUM, BROCK",P006599   ,Out,OUT,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,3,02:21,8,97,"WRIGHT, DORELL",P008049   ,Free Throw In (1/1 -  7 pt),FTM,15.0,14.0,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,0,02:21,8,98,"HACKETT, DANIEL",P001844   ,Assist (2),AS,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,3,02:21,8,99,"WRIGHT, DORELL",P008049   ,Free Throw In (2/2 -  8 pt),FTM,15.0,15.0,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,3,02:21,8,100,"WRIGHT, DORELL",P008049   ,Out,OUT,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,21,02:21,8,101,"RUBIT, AUGUSTINE",P006477   ,In,IN,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,2,02:20,8,102,"HICKMAN, RICKY",P004159   ,Foul (1),CM,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,3,02:20,8,103,"MCCOLLUM, ERRICK",P005216   ,Foul Drawn (1),RV,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,30,02:00,8,104,"DRAGIC, ZORAN",P003514   ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,21,01:59,9,106,"RUBIT, AUGUSTINE",P006477   ,Def Rebound (1),D,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,43,01:36,9,107,"RADOSEVIC, LEON",PLEM      ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,21,01:34,9,108,"RUBIT, AUGUSTINE",P006477   ,Off Rebound (1),O,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,21,01:22,9,109,"RUBIT, AUGUSTINE",P006477   ,Turnover (1),TO,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,22,01:22,9,110,"MUSTAFA, MUHAYMIN",P007991   ,In,IN,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,30,01:22,9,111,"DRAGIC, ZORAN",P003514   ,Out,OUT,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,44,00:57,10,113,"SIMON, KRUNOSLAV",PCPR      ,Missed Three Pointer (1/2 -  4 pt),3FGA,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,,00:55,10,114,,          ,Turnover (1),TO,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,2,00:55,10,115,"HICKMAN, RICKY",P004159   ,Out,OUT,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,8,00:55,10,116,"STAIGER, LUCCA",P002506   ,In,IN,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,8,00:42,10,117,"STAIGER, LUCCA",P002506   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,42,00:39,10,118,"DUNSTON, BRYANT",P003048   ,Def Rebound (4),D,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,42,00:27,10,119,"DUNSTON, BRYANT",P003048   ,Turnover (1),TO,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,21,00:26,10,120,"RUBIT, AUGUSTINE",P006477   ,Steal (1),ST,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,8,00:08,10,121,"STAIGER, LUCCA",P002506   ,Three Pointer (1/2 -  3 pt),3FGM,15.0,18.0,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,7,00:07,10,122,"NIKOLIC, ALEKSEJ",P003703   ,Assist (1),AS,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,3,00:01,10,123,"MCCOLLUM, ERRICK",P005216   ,Missed Two Pointer (0/2 -  3 pt),2FGA,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+          ,,,,11,125,,          ,End Period,EP,,,,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+          ,,,,11,132,,          ,Begin Period,BP,,,,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,14,10:00,11,126,"ADAMS, JOSH",P007872   ,In,IN,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,15,10:00,11,127,"STIMAC, VLADIMIR",PLBJ      ,In,IN,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,22,10:00,11,128,"MUSTAFA, MUHAYMIN",P007991   ,Out,OUT,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,42,10:00,11,129,"DUNSTON, BRYANT",P003048   ,Out,OUT,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,0,10:00,11,130,"HACKETT, DANIEL",P001844   ,Out,OUT,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,12,10:00,11,131,"LO, MAODO",P007032   ,In,IN,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,43,09:54,11,133,"RADOSEVIC, LEON",PLEM      ,Turnover (1),TO,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,5,09:54,11,134,"BROWN, DERRICK",P004425   ,Steal (1),ST,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,44,09:28,11,135,"SIMON, KRUNOSLAV",PCPR      ,Missed Two Pointer (0/4 -  4 pt),2FGA,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,8,09:26,11,136,"STAIGER, LUCCA",P002506   ,Def Rebound (1),D,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,12,09:22,11,137,"LO, MAODO",P007032   ,Two Pointer (1/1 -  2 pt),2FGM,15.0,20.0,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,12,09:22,11,138,"LO, MAODO",P007032   ,Foul Drawn (1),RV,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,15,09:22,11,139,"STIMAC, VLADIMIR",PLBJ      ,Foul (1),CM,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,30,09:14,11,140,"DRAGIC, ZORAN",P003514   ,In,IN,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,44,09:14,11,141,"SIMON, KRUNOSLAV",PCPR      ,Out,OUT,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,12,09:14,11,142,"LO, MAODO",P007032   ,Free Throw In (1/1 -  3 pt),FTM,15.0,21.0,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,43,09:08,11,143,"RADOSEVIC, LEON",PLEM      ,Foul (1),CM,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,14,09:08,11,144,"ADAMS, JOSH",P007872   ,Foul Drawn (1),RV,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,43,08:58,12,146,"RADOSEVIC, LEON",PLEM      ,Foul (2),CM,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,15,08:58,12,147,"STIMAC, VLADIMIR",PLBJ      ,Foul Drawn (1),RV,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,5,08:51,12,148,"BROWN, DERRICK",P004425   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,12,08:49,12,149,"LO, MAODO",P007032   ,Def Rebound (1),D,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,8,08:38,12,150,"STAIGER, LUCCA",P002506   ,Missed Three Pointer (1/3 -  3 pt),3FGA,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,3,08:36,12,151,"MCCOLLUM, ERRICK",P005216   ,Def Rebound (1),D,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,30,08:24,12,152,"DRAGIC, ZORAN",P003514   ,Missed Three Pointer (0/3 -  0 pt),3FGA,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,7,08:22,12,153,"NIKOLIC, ALEKSEJ",P003703   ,Def Rebound (1),D,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,43,08:11,12,154,"RADOSEVIC, LEON",PLEM      ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,21,08:07,12,155,"RUBIT, AUGUSTINE",P006477   ,Off Rebound (2),O,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,21,08:07,12,156,"RUBIT, AUGUSTINE",P006477   ,Two Pointer (1/1 -  2 pt),2FGM,15.0,23.0,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,3,07:52,13,158,"MCCOLLUM, ERRICK",P005216   ,Two Pointer (1/3 -  5 pt),2FGM,17.0,23.0,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,8,07:26,13,159,"STAIGER, LUCCA",P002506   ,Missed Three Pointer (1/4 -  3 pt),3FGA,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,15,07:25,13,160,"STIMAC, VLADIMIR",PLBJ      ,Def Rebound (1),D,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,14,07:24,13,161,"ADAMS, JOSH",P007872   ,Turnover (1),TO,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,12,07:24,13,162,"LO, MAODO",P007032   ,Steal (1),ST,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,8,07:24,13,163,"STAIGER, LUCCA",P002506   ,Three Pointer (2/5 -  6 pt),3FGM,17.0,26.0,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,12,07:24,13,164,"LO, MAODO",P007032   ,Assist (1),AS,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,7,06:50,14,166,"NIKOLIC, ALEKSEJ",P003703   ,Foul (1),CM,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,3,06:50,14,167,"MCCOLLUM, ERRICK",P005216   ,Foul Drawn (2),RV,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,2,06:50,14,168,"HICKMAN, RICKY",P004159   ,In,IN,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,7,06:50,14,169,"NIKOLIC, ALEKSEJ",P003703   ,Out,OUT,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,42,06:50,14,170,"MUSLI, DEJAN",PLUR      ,In,IN,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,43,06:50,14,171,"RADOSEVIC, LEON",PLEM      ,Out,OUT,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,3,06:40,14,172,"MCCOLLUM, ERRICK",P005216   ,Two Pointer (2/4 -  7 pt),2FGM,19.0,26.0,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,12,06:25,14,173,"LO, MAODO",P007032   ,Two Pointer (2/2 -  5 pt),2FGM,19.0,28.0,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,12,06:25,14,174,"LO, MAODO",P007032   ,Foul Drawn (2),RV,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,14,06:25,14,175,"ADAMS, JOSH",P007872   ,Foul (1),CM,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,8,06:25,14,176,"BATUK, BIRKAN",P004170   ,In,IN,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,14,06:25,14,177,"ADAMS, JOSH",P007872   ,Out,OUT,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,12,06:25,14,178,"LO, MAODO",P007032   ,Missed Free Throw (1/2 -  5 pt),FTA,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,15,06:25,14,179,"STIMAC, VLADIMIR",PLBJ      ,Def Rebound (2),D,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,21,06:09,14,180,"RUBIT, AUGUSTINE",P006477   ,Foul (1),CM,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,5,06:09,14,181,"BROWN, DERRICK",P004425   ,Foul Drawn (1),RV,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,3,06:09,14,182,"WRIGHT, DORELL",P008049   ,In,IN,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,21,06:09,14,183,"RUBIT, AUGUSTINE",P006477   ,Out,OUT,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,5,06:09,14,184,"BROWN, DERRICK",P004425   ,Free Throw In (1/1 -  1 pt),FTM,20.0,28.0,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,5,06:09,14,186,"BROWN, DERRICK",P004425   ,Free Throw In (2/2 -  2 pt),FTM,21.0,28.0,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,30,06:01,14,187,"DRAGIC, ZORAN",P003514   ,Foul (2),CM,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,8,06:01,14,188,"STAIGER, LUCCA",P002506   ,Foul Drawn (1),RV,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,12,05:52,15,190,"LO, MAODO",P007032   ,Turnover (1),TO,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,3,05:51,15,191,"MCCOLLUM, ERRICK",P005216   ,Steal (1),ST,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,3,05:43,15,192,"MCCOLLUM, ERRICK",P005216   ,Missed Two Pointer (2/5 -  7 pt),2FGA,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,42,05:42,15,193,"MUSLI, DEJAN",PLUR      ,Def Rebound (2),D,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,42,05:42,15,194,"MUSLI, DEJAN",PLUR      ,Turnover (1),TO,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,8,05:42,15,195,"BATUK, BIRKAN",P004170   ,Steal (1),ST,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,5,05:34,15,196,"BROWN, DERRICK",P004425   ,Two Pointer (1/2 -  4 pt),2FGM,23.0,28.0,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,30,05:33,15,197,"DRAGIC, ZORAN",P003514   ,Assist (3),AS,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,,05:42,15,198,,          ,Time Out (1),TOUT,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+          ,,,05:42,15,199,,          ,TV Time Out (2),TOUT_TV,,,,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,3,05:33,15,200,"MCCOLLUM, ERRICK",P005216   ,Out,OUT,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,44,05:33,15,201,"SIMON, KRUNOSLAV",PCPR      ,In,IN,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,0,05:33,15,202,"HACKETT, DANIEL",P001844   ,In,IN,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,8,05:33,15,203,"STAIGER, LUCCA",P002506   ,Out,OUT,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,8,05:22,15,204,"BATUK, BIRKAN",P004170   ,Foul (1),CM,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,2,05:22,15,205,"HICKMAN, RICKY",P004159   ,Foul Drawn (2),RV,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,12,05:13,15,206,"LO, MAODO",P007032   ,Missed Two Pointer (2/3 -  5 pt),2FGA,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,5,05:13,15,207,"BROWN, DERRICK",P004425   ,Def Rebound (1),D,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,15,04:45,16,209,"STIMAC, VLADIMIR",PLBJ      ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,42,04:43,16,210,"MUSLI, DEJAN",PLUR      ,Def Rebound (3),D,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,42,04:28,16,211,"MUSLI, DEJAN",PLUR      ,Missed Two Pointer (1/4 -  2 pt),2FGA,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,42,04:26,16,212,"MUSLI, DEJAN",PLUR      ,Off Rebound (1),O,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,12,04:20,16,213,"LO, MAODO",P007032   ,Missed Three Pointer (0/1 -  5 pt),3FGA,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,15,04:18,16,214,"STIMAC, VLADIMIR",PLBJ      ,Def Rebound (3),D,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,15,04:07,16,215,"STIMAC, VLADIMIR",PLBJ      ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,42,04:06,16,216,"MUSLI, DEJAN",PLUR      ,Def Rebound (4),D,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,2,04:00,17,218,"HICKMAN, RICKY",P004159   ,Two Pointer (1/2 -  5 pt),2FGM,23.0,30.0,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,15,03:42,17,219,"STIMAC, VLADIMIR",PLBJ      ,Two Pointer (1/3 -  2 pt),2FGM,25.0,30.0,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,44,03:40,17,220,"SIMON, KRUNOSLAV",PCPR      ,Assist (2),AS,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,12,03:26,17,221,"LO, MAODO",P007032   ,Three Pointer (1/2 -  8 pt),3FGM,25.0,33.0,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,30,03:14,17,222,"DRAGIC, ZORAN",P003514   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,,03:14,17,223,,          ,Def Rebound (1),D,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,15,03:14,17,224,"STIMAC, VLADIMIR",PLBJ      ,Out,OUT,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,22,03:14,17,225,"MUSTAFA, MUHAYMIN",P007991   ,In,IN,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,30,03:14,17,226,"DRAGIC, ZORAN",P003514   ,Out,OUT,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,42,03:14,17,227,"DUNSTON, BRYANT",P003048   ,In,IN,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,42,02:53,18,229,"DUNSTON, BRYANT",P003048   ,Block (3),FV,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,3,02:50,18,230,"WRIGHT, DORELL",P008049   ,Missed Two Pointer (3/5 -  8 pt),2FGA,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,3,02:50,18,231,"WRIGHT, DORELL",P008049   ,Shot Rejected (1),AG,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,8,02:50,18,232,"BATUK, BIRKAN",P004170   ,Def Rebound (1),D,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,12,02:50,18,233,"LO, MAODO",P007032   ,Foul (1),CM,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,8,02:50,18,234,"BATUK, BIRKAN",P004170   ,Foul Drawn (1),RV,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,8,02:50,18,235,"BATUK, BIRKAN",P004170   ,Missed Free Throw (0/1 -  0 pt),FTA,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,8,02:50,18,236,"BATUK, BIRKAN",P004170   ,Missed Free Throw (0/2 -  0 pt),FTA,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,5,02:50,18,237,"BROWN, DERRICK",P004425   ,Off Rebound (1),O,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,5,02:50,18,238,"BROWN, DERRICK",P004425   ,Missed Two Pointer (1/3 -  4 pt),2FGA,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,5,02:50,18,239,"BROWN, DERRICK",P004425   ,Off Rebound (2),O,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,3,02:50,18,240,"WRIGHT, DORELL",P008049   ,Foul (1),CM,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,5,02:50,18,241,"BROWN, DERRICK",P004425   ,Foul Drawn (2),RV,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,5,02:50,18,242,"BROWN, DERRICK",P004425   ,Missed Free Throw (2/3 -  4 pt),FTA,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,5,02:50,18,243,"BROWN, DERRICK",P004425   ,Free Throw In (3/4 -  5 pt),FTM,26.0,33.0,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,22,02:34,18,244,"MUSTAFA, MUHAYMIN",P007991   ,Foul (1),CM,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,0,02:34,18,245,"HACKETT, DANIEL",P001844   ,Foul Drawn (1),RV,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,3,02:34,18,246,"MCCOLLUM, ERRICK",P005216   ,In,IN,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,22,02:34,18,247,"MUSTAFA, MUHAYMIN",P007991   ,Out,OUT,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,6,02:34,18,248,"ZISIS, NIKOS",PABN      ,In,IN,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,12,02:34,18,249,"LO, MAODO",P007032   ,Out,OUT,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,0,02:34,18,250,"HACKETT, DANIEL",P001844   ,Free Throw In (1/1 -  3 pt),FTM,26.0,34.0,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,0,02:34,18,251,"HACKETT, DANIEL",P001844   ,Free Throw In (2/2 -  4 pt),FTM,26.0,35.0,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,5,02:18,18,252,"BROWN, DERRICK",P004425   ,Two Pointer (2/4 -  7 pt),2FGM,28.0,35.0,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,8,01:55,19,254,"BATUK, BIRKAN",P004170   ,Foul (2),CM,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,2,01:55,19,255,"HICKMAN, RICKY",P004159   ,Foul Drawn (3),RV,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,2,01:55,19,256,"HICKMAN, RICKY",P004159   ,Missed Free Throw (0/1 -  5 pt),FTA,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,2,01:55,19,257,"HICKMAN, RICKY",P004159   ,Free Throw In (1/2 -  6 pt),FTM,28.0,36.0,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,3,01:39,19,258,"WRIGHT, DORELL",P008049   ,Foul (2),CM,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,5,01:39,19,259,"BROWN, DERRICK",P004425   ,Foul Drawn (3),RV,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,3,01:39,19,260,"WRIGHT, DORELL",P008049   ,Out,OUT,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,21,01:39,19,261,"RUBIT, AUGUSTINE",P006477   ,In,IN,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,5,01:39,19,262,"BROWN, DERRICK",P004425   ,Missed Free Throw (3/5 -  7 pt),FTA,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,5,01:39,19,263,"BROWN, DERRICK",P004425   ,Free Throw In (4/6 -  8 pt),FTM,29.0,36.0,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,42,01:22,19,264,"MUSLI, DEJAN",PLUR      ,Missed Two Pointer (1/5 -  2 pt),2FGA,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,3,01:19,19,265,"MCCOLLUM, ERRICK",P005216   ,Def Rebound (2),D,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,8,01:06,19,266,"BATUK, BIRKAN",P004170   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,0,01:04,19,267,"HACKETT, DANIEL",P001844   ,Def Rebound (2),D,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,6,00:44,20,269,"ZISIS, NIKOS",PABN      ,Two Pointer (1/2 -  2 pt),2FGM,29.0,38.0,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,0,00:43,20,270,"HACKETT, DANIEL",P001844   ,Assist (3),AS,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,,00:43,20,271,,          ,Time Out (1),TOUT,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,12,00:43,20,272,"MOTUM, BROCK",P006599   ,In,IN,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,42,00:43,20,273,"DUNSTON, BRYANT",P003048   ,Out,OUT,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,6,00:43,20,274,"ZISIS, NIKOS",PABN      ,Out,OUT,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,7,00:43,20,275,"NIKOLIC, ALEKSEJ",P003703   ,In,IN,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,42,00:43,20,276,"MUSLI, DEJAN",PLUR      ,Out,OUT,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,43,00:43,20,277,"RADOSEVIC, LEON",PLEM      ,In,IN,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,43,00:21,20,278,"RADOSEVIC, LEON",PLEM      ,Block (1),FV,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,3,00:18,20,279,"MCCOLLUM, ERRICK",P005216   ,Missed Two Pointer (2/6 -  7 pt),2FGA,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,3,00:18,20,280,"MCCOLLUM, ERRICK",P005216   ,Shot Rejected (1),AG,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,7,00:16,20,281,"NIKOLIC, ALEKSEJ",P003703   ,Def Rebound (2),D,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,2,00:01,20,282,"HICKMAN, RICKY",P004159   ,Missed Two Pointer (1/3 -  6 pt),2FGA,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+          ,,,,21,284,,          ,End Period,EP,,,,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+          ,,,,21,296,,          ,Begin Period,BP,,,,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,8,10:00,21,288,"BATUK, BIRKAN",P004170   ,Out,OUT,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,12,10:00,21,289,"MOTUM, BROCK",P006599   ,Out,OUT,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,30,10:00,21,290,"DRAGIC, ZORAN",P003514   ,In,IN,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,42,10:00,21,291,"DUNSTON, BRYANT",P003048   ,In,IN,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,6,10:00,21,292,"ZISIS, NIKOS",PABN      ,In,IN,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,7,10:00,21,293,"NIKOLIC, ALEKSEJ",P003703   ,Out,OUT,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,42,10:00,21,294,"MUSLI, DEJAN",PLUR      ,In,IN,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,43,10:00,21,295,"RADOSEVIC, LEON",PLEM      ,Out,OUT,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,3,09:45,21,297,"MCCOLLUM, ERRICK",P005216   ,Missed Two Pointer (2/7 -  7 pt),2FGA,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,42,09:43,21,298,"MUSLI, DEJAN",PLUR      ,Def Rebound (5),D,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,42,09:30,21,299,"DUNSTON, BRYANT",P003048   ,Foul (1),CM,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,42,09:30,21,300,"MUSLI, DEJAN",PLUR      ,Foul Drawn (1),RV,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,44,09:21,21,301,"SIMON, KRUNOSLAV",PCPR      ,Foul (1),CM,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,2,09:21,21,302,"HICKMAN, RICKY",P004159   ,Foul Drawn (4),RV,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,2,09:17,21,303,"HICKMAN, RICKY",P004159   ,Two Pointer (2/4 -  8 pt),2FGM,29.0,40.0,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,0,09:15,21,304,"HACKETT, DANIEL",P001844   ,Assist (4),AS,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,42,08:58,22,306,"MUSLI, DEJAN",PLUR      ,Block (1),FV,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,30,08:55,22,307,"DRAGIC, ZORAN",P003514   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,30,08:55,22,308,"DRAGIC, ZORAN",P003514   ,Shot Rejected (1),AG,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,30,08:53,22,309,"DRAGIC, ZORAN",P003514   ,Def Rebound (1),D,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,3,08:52,22,310,"MCCOLLUM, ERRICK",P005216   ,Turnover (1),TO,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,6,08:52,22,311,"ZISIS, NIKOS",PABN      ,Steal (1),ST,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,0,08:52,22,312,"HACKETT, DANIEL",P001844   ,Turnover (1),TO,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,5,08:37,22,313,"BROWN, DERRICK",P004425   ,Turnover (1),TO,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,30,08:18,22,314,"DRAGIC, ZORAN",P003514   ,Foul (3),CM,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,42,08:18,22,315,"MUSLI, DEJAN",PLUR      ,Foul Drawn (2),RV,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,,08:18,22,316,,          ,Time Out (1),TOUT,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+          ,,,08:18,22,317,,          ,TV Time Out (3),TOUT_TV,,,,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,42,08:18,22,318,"MUSLI, DEJAN",PLUR      ,Free Throw In (1/1 -  3 pt),FTM,29.0,41.0,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,0,08:18,22,388,"HACKETT, DANIEL",P001844   ,Assist (5),AS,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,42,08:18,22,319,"MUSLI, DEJAN",PLUR      ,Free Throw In (2/2 -  4 pt),FTM,29.0,42.0,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,44,08:09,22,320,"SIMON, KRUNOSLAV",PCPR      ,Missed Three Pointer (1/3 -  4 pt),3FGA,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,21,08:09,22,321,"RUBIT, AUGUSTINE",P006477   ,Def Rebound (2),D,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,42,07:40,23,323,"MUSLI, DEJAN",PLUR      ,Missed Two Pointer (1/6 -  4 pt),2FGA,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,21,07:40,23,324,"RUBIT, AUGUSTINE",P006477   ,Foul (2),CM,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,5,07:40,23,325,"BROWN, DERRICK",P004425   ,Foul Drawn (4),RV,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,,07:40,23,326,,          ,Def Rebound (2),D,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,3,07:19,23,327,"MCCOLLUM, ERRICK",P005216   ,Offensive Foul (1),OF,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,3,07:19,23,328,"MCCOLLUM, ERRICK",P005216   ,Turnover (2),TO,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,0,07:19,23,329,"HACKETT, DANIEL",P001844   ,Foul Drawn (2),RV,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,21,07:05,23,330,"RUBIT, AUGUSTINE",P006477   ,Two Pointer (2/2 -  4 pt),2FGM,29.0,44.0,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,0,07:04,23,331,"HACKETT, DANIEL",P001844   ,Assist (6),AS,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,5,06:44,24,333,"BROWN, DERRICK",P004425   ,Missed Two Pointer (2/5 -  8 pt),2FGA,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,0,06:42,24,334,"HACKETT, DANIEL",P001844   ,Def Rebound (3),D,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,21,06:24,24,335,"RUBIT, AUGUSTINE",P006477   ,Offensive Foul (3),OF,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,21,06:24,24,336,"RUBIT, AUGUSTINE",P006477   ,Turnover (2),TO,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,44,06:24,24,337,"SIMON, KRUNOSLAV",PCPR      ,Foul Drawn (2),RV,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,3,06:24,24,338,"WRIGHT, DORELL",P008049   ,In,IN,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,21,06:24,24,339,"RUBIT, AUGUSTINE",P006477   ,Out,OUT,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,3,06:08,24,340,"MCCOLLUM, ERRICK",P005216   ,Three Pointer (2/3 -  10 pt),3FGM,32.0,44.0,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,5,06:04,24,341,"BROWN, DERRICK",P004425   ,Assist (1),AS,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,2,05:50,25,343,"HICKMAN, RICKY",P004159   ,Missed Three Pointer (1/3 -  8 pt),3FGA,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,44,05:48,25,344,"SIMON, KRUNOSLAV",PCPR      ,Def Rebound (1),D,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,3,05:37,25,345,"MCCOLLUM, ERRICK",P005216   ,Three Pointer (3/4 -  13 pt),3FGM,35.0,44.0,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,42,05:34,25,346,"DUNSTON, BRYANT",P003048   ,Assist (1),AS,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,42,05:15,25,347,"DUNSTON, BRYANT",P003048   ,Block (4),FV,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,2,05:15,25,348,"HICKMAN, RICKY",P004159   ,Missed Two Pointer (2/5 -  8 pt),2FGA,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,2,05:15,25,349,"HICKMAN, RICKY",P004159   ,Shot Rejected (2),AG,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,,05:15,25,350,,          ,Off Rebound (2),O,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,2,05:15,25,351,"HICKMAN, RICKY",P004159   ,Out,OUT,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,7,05:15,25,352,"NIKOLIC, ALEKSEJ",P003703   ,In,IN,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,3,05:11,25,353,"WRIGHT, DORELL",P008049   ,Missed Three Pointer (0/1 -  8 pt),3FGA,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,30,05:09,25,354,"DRAGIC, ZORAN",P003514   ,Def Rebound (2),D,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,44,04:58,26,356,"SIMON, KRUNOSLAV",PCPR      ,Missed Two Pointer (0/5 -  4 pt),2FGA,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,6,04:56,26,357,"ZISIS, NIKOS",PABN      ,Def Rebound (2),D,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,,04:32,26,358,,          ,Turnover (2),TO,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,5,04:12,26,359,"BROWN, DERRICK",P004425   ,Missed Two Pointer (2/6 -  8 pt),2FGA,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,42,04:09,26,360,"DUNSTON, BRYANT",P003048   ,Off Rebound (2),O,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,42,04:09,26,361,"DUNSTON, BRYANT",P003048   ,Missed Two Pointer (2/4 -  4 pt),2FGA,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,42,04:08,26,362,"MUSLI, DEJAN",PLUR      ,Def Rebound (6),D,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,42,04:00,26,363,"MUSLI, DEJAN",PLUR      ,Out,OUT,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,43,04:00,26,364,"RADOSEVIC, LEON",PLEM      ,In,IN,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,0,03:50,27,366,"HACKETT, DANIEL",P001844   ,Two Pointer (2/2 -  6 pt),2FGM,35.0,46.0,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,3,03:30,27,367,"WRIGHT, DORELL",P008049   ,Foul (3),CM,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,5,03:30,27,368,"BROWN, DERRICK",P004425   ,Foul Drawn (5),RV,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,6,03:30,27,369,"ZISIS, NIKOS",PABN      ,Out,OUT,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,12,03:30,27,370,"LO, MAODO",P007032   ,In,IN,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,3,03:26,27,371,"MCCOLLUM, ERRICK",P005216   ,Three Pointer (4/5 -  16 pt),3FGM,38.0,46.0,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,5,03:24,27,372,"BROWN, DERRICK",P004425   ,Assist (2),AS,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,7,03:17,27,373,"NIKOLIC, ALEKSEJ",P003703   ,Two Pointer (1/1 -  2 pt),2FGM,38.0,48.0,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,42,02:38,28,375,"DUNSTON, BRYANT",P003048   ,Two Pointer (3/5 -  6 pt),2FGM,40.0,48.0,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,30,02:37,28,376,"DRAGIC, ZORAN",P003514   ,Assist (4),AS,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,5,02:19,28,377,"BROWN, DERRICK",P004425   ,Block (1),FV,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,3,02:17,28,378,"WRIGHT, DORELL",P008049   ,Missed Two Pointer (3/6 -  8 pt),2FGA,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,3,02:17,28,379,"WRIGHT, DORELL",P008049   ,Shot Rejected (2),AG,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,5,02:15,28,380,"BROWN, DERRICK",P004425   ,Def Rebound (2),D,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,3,02:03,28,381,"MCCOLLUM, ERRICK",P005216   ,Missed Three Pointer (4/6 -  16 pt),3FGA,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,7,02:01,28,382,"NIKOLIC, ALEKSEJ",P003703   ,Def Rebound (3),D,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,12,01:49,29,384,"LO, MAODO",P007032   ,Missed Two Pointer (2/4 -  8 pt),2FGA,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,42,01:49,29,385,"DUNSTON, BRYANT",P003048   ,Def Rebound (5),D,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,5,01:44,29,386,"BROWN, DERRICK",P004425   ,Two Pointer (3/7 -  10 pt),2FGM,42.0,48.0,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,,01:44,29,387,,          ,Time Out (1),TOUT,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,0,01:44,29,389,"HACKETT, DANIEL",P001844   ,Out,OUT,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,6,01:44,29,390,"ZISIS, NIKOS",PABN      ,In,IN,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,12,01:22,29,391,"LO, MAODO",P007032   ,Turnover (2),TO,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,7,01:12,29,392,"NIKOLIC, ALEKSEJ",P003703   ,Foul (2),CM,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,30,01:12,29,393,"DRAGIC, ZORAN",P003514   ,Foul Drawn (2),RV,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,42,01:05,29,394,"DUNSTON, BRYANT",P003048   ,Two Pointer (4/6 -  8 pt),2FGM,44.0,48.0,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,44,01:05,29,395,"SIMON, KRUNOSLAV",PCPR      ,Assist (3),AS,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,6,00:39,30,397,"ZISIS, NIKOS",PABN      ,Turnover (1),TO,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,5,00:38,30,398,"BROWN, DERRICK",P004425   ,Steal (2),ST,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,3,00:25,30,399,"MCCOLLUM, ERRICK",P005216   ,Turnover (3),TO,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,12,00:23,30,400,"LO, MAODO",P007032   ,Steal (2),ST,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,7,00:02,30,401,"NIKOLIC, ALEKSEJ",P003703   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,42,00:01,30,402,"DUNSTON, BRYANT",P003048   ,Def Rebound (6),D,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+          ,,,,31,404,,          ,End Period,EP,,,,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+          ,,,,31,409,,          ,Begin Period,BP,,,,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,2,10:00,31,405,"HICKMAN, RICKY",P004159   ,In,IN,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,12,10:00,31,406,"LO, MAODO",P007032   ,Out,OUT,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,42,10:00,31,407,"MUSLI, DEJAN",PLUR      ,In,IN,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,43,10:00,31,408,"RADOSEVIC, LEON",PLEM      ,Out,OUT,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,3,09:47,31,410,"WRIGHT, DORELL",P008049   ,Missed Two Pointer (3/7 -  8 pt),2FGA,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,44,09:45,31,411,"SIMON, KRUNOSLAV",PCPR      ,Def Rebound (2),D,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,5,09:36,31,412,"BROWN, DERRICK",P004425   ,Three Pointer (1/1 -  13 pt),3FGM,47.0,48.0,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,30,09:33,31,413,"DRAGIC, ZORAN",P003514   ,Assist (5),AS,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,2,09:15,31,414,"HICKMAN, RICKY",P004159   ,Turnover (2),TO,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,30,09:14,31,415,"DRAGIC, ZORAN",P003514   ,Steal (1),ST,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,44,08:57,32,417,"SIMON, KRUNOSLAV",PCPR      ,Two Pointer (1/6 -  6 pt),2FGM,49.0,48.0,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,6,08:44,32,418,"ZISIS, NIKOS",PABN      ,Missed Two Pointer (1/3 -  2 pt),2FGA,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,42,08:42,32,419,"DUNSTON, BRYANT",P003048   ,Def Rebound (7),D,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,30,08:37,32,420,"DRAGIC, ZORAN",P003514   ,Two Pointer (1/3 -  2 pt),2FGM,51.0,48.0,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,5,08:37,32,421,"BROWN, DERRICK",P004425   ,Assist (3),AS,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,,08:37,32,422,,          ,Time Out (1),TOUT,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+          ,,,08:37,32,423,,          ,TV Time Out (4),TOUT_TV,,,,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,0,08:37,32,424,"HACKETT, DANIEL",P001844   ,In,IN,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,7,08:37,32,425,"NIKOLIC, ALEKSEJ",P003703   ,Out,OUT,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,21,08:37,32,426,"RUBIT, AUGUSTINE",P006477   ,In,IN,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,42,08:37,32,427,"MUSLI, DEJAN",PLUR      ,Out,OUT,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,2,08:19,32,428,"HICKMAN, RICKY",P004159   ,Two Pointer (3/6 -  10 pt),2FGM,51.0,50.0,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,44,08:15,32,429,"SIMON, KRUNOSLAV",PCPR      ,Three Pointer (2/4 -  9 pt),3FGM,54.0,50.0,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,3,08:15,32,430,"MCCOLLUM, ERRICK",P005216   ,Assist (1),AS,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,2,07:51,33,432,"HICKMAN, RICKY",P004159   ,Missed Two Pointer (3/7 -  10 pt),2FGA,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,44,07:49,33,433,"SIMON, KRUNOSLAV",PCPR      ,Def Rebound (3),D,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,30,07:29,33,434,"DRAGIC, ZORAN",P003514   ,Missed Three Pointer (0/4 -  2 pt),3FGA,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,3,07:30,33,435,"WRIGHT, DORELL",P008049   ,Def Rebound (4),D,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,3,07:29,33,436,"WRIGHT, DORELL",P008049   ,Turnover (2),TO,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,42,07:18,33,437,"DUNSTON, BRYANT",P003048   ,Missed Two Pointer (4/7 -  8 pt),2FGA,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,30,07:16,33,438,"DRAGIC, ZORAN",P003514   ,Off Rebound (1),O,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,44,07:14,33,439,"SIMON, KRUNOSLAV",PCPR      ,Missed Three Pointer (2/5 -  9 pt),3FGA,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,2,07:11,33,440,"HICKMAN, RICKY",P004159   ,Def Rebound (3),D,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,2,07:08,33,441,"HICKMAN, RICKY",P004159   ,Turnover (3),TO,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,3,07:07,33,442,"MCCOLLUM, ERRICK",P005216   ,Steal (2),ST,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,3,07:04,33,443,"MCCOLLUM, ERRICK",P005216   ,Turnover (4),TO,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,3,06:41,34,445,"WRIGHT, DORELL",P008049   ,Turnover (3),TO,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,5,06:39,34,446,"BROWN, DERRICK",P004425   ,Steal (3),ST,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,3,06:25,34,447,"MCCOLLUM, ERRICK",P005216   ,Three Pointer (5/7 -  19 pt),3FGM,57.0,50.0,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,3,06:09,34,448,"WRIGHT, DORELL",P008049   ,Missed Three Pointer (0/2 -  8 pt),3FGA,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,2,06:07,34,449,"HICKMAN, RICKY",P004159   ,Off Rebound (1),O,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,2,06:03,34,450,"HICKMAN, RICKY",P004159   ,Turnover (4),TO,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,3,06:01,34,451,"MCCOLLUM, ERRICK",P005216   ,Steal (3),ST,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,3,05:58,35,453,"MCCOLLUM, ERRICK",P005216   ,Missed Two Pointer (2/8 -  19 pt),2FGA,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,44,05:55,35,454,"SIMON, KRUNOSLAV",PCPR      ,Off Rebound (1),O,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,44,05:55,35,455,"SIMON, KRUNOSLAV",PCPR      ,Missed Two Pointer (1/7 -  9 pt),2FGA,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,3,05:54,35,456,"WRIGHT, DORELL",P008049   ,Def Rebound (5),D,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,2,05:51,35,457,"HICKMAN, RICKY",P004159   ,Missed Two Pointer (3/8 -  10 pt),2FGA,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,,05:50,35,458,,          ,Def Rebound (3),D,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,5,05:50,35,459,"BROWN, DERRICK",P004425   ,Out,OUT,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,12,05:50,35,460,"MOTUM, BROCK",P006599   ,In,IN,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,3,05:50,35,461,"WRIGHT, DORELL",P008049   ,Out,OUT,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,42,05:50,35,462,"MUSLI, DEJAN",PLUR      ,In,IN,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,12,05:27,35,463,"MOTUM, BROCK",P006599   ,Missed Two Pointer (2/4 -  4 pt),2FGA,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,42,05:26,35,464,"DUNSTON, BRYANT",P003048   ,Off Rebound (3),O,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,42,05:26,35,465,"DUNSTON, BRYANT",P003048   ,Two Pointer (5/8 -  10 pt),2FGM,59.0,50.0,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,,05:26,35,466,,          ,Time Out (2),TOUT,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,0,05:11,35,467,"HACKETT, DANIEL",P001844   ,Missed Two Pointer (2/3 -  6 pt),2FGA,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,42,05:06,35,468,"MUSLI, DEJAN",PLUR      ,Off Rebound (2),O,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,2,05:01,35,469,"HICKMAN, RICKY",P004159   ,Missed Three Pointer (1/4 -  10 pt),3FGA,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,42,05:00,35,470,"DUNSTON, BRYANT",P003048   ,Def Rebound (8),D,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,12,04:43,36,472,"MOTUM, BROCK",P006599   ,Turnover (1),TO,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,2,04:43,36,473,"HICKMAN, RICKY",P004159   ,Out,OUT,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,12,04:43,36,474,"LO, MAODO",P007032   ,In,IN,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,6,04:24,36,475,"ZISIS, NIKOS",PABN      ,Missed Two Pointer (1/4 -  2 pt),2FGA,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,42,04:23,36,476,"MUSLI, DEJAN",PLUR      ,Off Rebound (3),O,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,42,04:23,36,477,"MUSLI, DEJAN",PLUR      ,Two Pointer (2/7 -  6 pt),2FGM,59.0,52.0,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,42,04:23,36,478,"MUSLI, DEJAN",PLUR      ,Foul Drawn (3),RV,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,42,04:23,36,479,"DUNSTON, BRYANT",P003048   ,Foul (2),CM,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,5,04:23,36,480,"BROWN, DERRICK",P004425   ,In,IN,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,12,04:23,36,481,"MOTUM, BROCK",P006599   ,Out,OUT,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,42,04:23,36,482,"MUSLI, DEJAN",PLUR      ,Free Throw In (3/3 -  7 pt),FTM,59.0,53.0,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,42,04:06,36,483,"DUNSTON, BRYANT",P003048   ,Missed Two Pointer (5/9 -  10 pt),2FGA,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,42,04:04,36,484,"DUNSTON, BRYANT",P003048   ,Off Rebound (4),O,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,5,04:00,36,485,"BROWN, DERRICK",P004425   ,Two Pointer (4/8 -  15 pt),2FGM,61.0,53.0,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,44,03:57,37,487,"SIMON, KRUNOSLAV",PCPR      ,Assist (4),AS,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,12,03:33,37,488,"LO, MAODO",P007032   ,Missed Three Pointer (1/3 -  8 pt),3FGA,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,44,03:31,37,489,"SIMON, KRUNOSLAV",PCPR      ,Def Rebound (4),D,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,42,03:12,37,490,"MUSLI, DEJAN",PLUR      ,Foul (1),CM,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,42,03:12,37,491,"DUNSTON, BRYANT",P003048   ,Foul Drawn (1),RV,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,5,03:07,37,492,"BROWN, DERRICK",P004425   ,Three Pointer (2/2 -  18 pt),3FGM,64.0,53.0,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,21,02:59,38,536,"RUBIT, AUGUSTINE",P006477   ,Missed Two Pointer (2/3 -  4 pt),2FGA,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,44,02:56,38,498,"SIMON, KRUNOSLAV",PCPR      ,Def Rebound (5),D,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,3,02:56,38,499,"MCCOLLUM, ERRICK",P005216   ,Missed Three Pointer (5/8 -  19 pt),3FGA,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,44,02:56,38,500,"SIMON, KRUNOSLAV",PCPR      ,Off Rebound (2),O,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,5,02:28,38,501,"BROWN, DERRICK",P004425   ,Three Pointer (3/3 -  21 pt),3FGM,67.0,53.0,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,3,02:26,38,502,"MCCOLLUM, ERRICK",P005216   ,Assist (2),AS,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,6,02:09,38,503,"ZISIS, NIKOS",PABN      ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,44,02:09,38,504,"SIMON, KRUNOSLAV",PCPR      ,Foul (2),CM,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,42,02:09,38,505,"MUSLI, DEJAN",PLUR      ,Foul Drawn (4),RV,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,,02:09,38,506,,          ,Off Rebound (3),O,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,42,02:09,38,507,"MUSLI, DEJAN",PLUR      ,Free Throw In (4/4 -  8 pt),FTM,67.0,54.0,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,42,02:09,38,508,"MUSLI, DEJAN",PLUR      ,Free Throw In (5/5 -  9 pt),FTM,67.0,55.0,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,44,01:49,39,510,"SIMON, KRUNOSLAV",PCPR      ,Two Pointer (2/8 -  11 pt),2FGM,69.0,55.0,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,3,01:49,39,511,"MCCOLLUM, ERRICK",P005216   ,Foul (2),CM,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,6,01:49,39,512,"ZISIS, NIKOS",PABN      ,Foul Drawn (1),RV,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,30,01:38,39,513,"DRAGIC, ZORAN",P003514   ,Foul (4),CM,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,21,01:38,39,514,"RUBIT, AUGUSTINE",P006477   ,Foul Drawn (1),RV,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,21,01:38,39,515,"RUBIT, AUGUSTINE",P006477   ,Missed Free Throw (0/1 -  4 pt),FTA,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,21,01:38,39,516,"RUBIT, AUGUSTINE",P006477   ,Free Throw In (1/2 -  5 pt),FTM,69.0,56.0,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,0,01:38,39,517,"HACKETT, DANIEL",P001844   ,Assist (7),AS,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,12,01:38,39,518,"MOTUM, BROCK",P006599   ,In,IN,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,42,01:38,39,519,"DUNSTON, BRYANT",P003048   ,Out,OUT,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,6,01:38,39,520,"ZISIS, NIKOS",PABN      ,Out,OUT,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,7,01:38,39,521,"NIKOLIC, ALEKSEJ",P003703   ,In,IN,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,44,01:19,39,522,"SIMON, KRUNOSLAV",PCPR      ,Missed Three Pointer (2/6 -  11 pt),3FGA,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,0,01:17,39,523,"HACKETT, DANIEL",P001844   ,Def Rebound (4),D,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,0,01:13,39,524,"HACKETT, DANIEL",P001844   ,Missed Three Pointer (0/1 -  6 pt),3FGA,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,3,01:11,39,525,"MCCOLLUM, ERRICK",P005216   ,Def Rebound (3),D,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,5,00:48,40,527,"BROWN, DERRICK",P004425   ,Missed Three Pointer (3/4 -  21 pt),3FGA,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,0,00:47,40,528,"HACKETT, DANIEL",P001844   ,Def Rebound (5),D,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,12,00:37,40,529,"MOTUM, BROCK",P006599   ,Foul (2),CM,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,21,00:37,40,530,"RUBIT, AUGUSTINE",P006477   ,Foul Drawn (2),RV,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,42,00:37,40,531,"MUSLI, DEJAN",PLUR      ,Out,OUT,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,43,00:37,40,532,"RADOSEVIC, LEON",PLEM      ,In,IN,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,21,00:37,40,533,"RUBIT, AUGUSTINE",P006477   ,Free Throw In (2/3 -  6 pt),FTM,69.0,57.0,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,21,00:37,40,534,"RUBIT, AUGUSTINE",P006477   ,Free Throw In (3/4 -  7 pt),FTM,69.0,58.0,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,,00:37,40,535,,          ,Time Out (1),TOUT,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,12,00:37,40,537,"MOTUM, BROCK",P006599   ,Out,OUT,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,42,00:37,40,538,"DUNSTON, BRYANT",P003048   ,In,IN,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,3,00:16,40,539,"MCCOLLUM, ERRICK",P005216   ,Missed Two Pointer (2/9 -  19 pt),2FGA,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,42,00:14,40,540,"DUNSTON, BRYANT",P003048   ,Off Rebound (5),O,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,43,00:05,40,541,"RADOSEVIC, LEON",PLEM      ,Foul (3),CM,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,3,00:05,40,542,"MCCOLLUM, ERRICK",P005216   ,Foul Drawn (3),RV,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+BAM       ,,43,00:02,40,543,"RADOSEVIC, LEON",PLEM      ,Foul (4),CM,,,Brose Bamberg,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+IST       ,,3,00:02,40,544,"MCCOLLUM, ERRICK",P005216   ,Foul Drawn (4),RV,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM
+          ,,,,41,547,,          ,End Game,EG,,,,0,Anadolu Efes Istanbul,IST,Brose Bamberg,BAM

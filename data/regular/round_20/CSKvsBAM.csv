@@ -1,535 +1,535 @@
-CODETEAM,COMMENT,DORSAL,MARKERTIME,MINUTE,NUMBEROFPLAY,PLAYER,PLAYER_ID,PLAYINFO,PLAYTYPE,POINTS_A,POINTS_B,TEAM,TYPE
-          ,,,,1,2,,          ,Begin Period,BP,,,,0
-BAM       ,,2,09:43,1,3,"HICKMAN, RICKY",P004159   ,Turnover (1),TO,,,Brose Bamberg,0
-CSK       ,,42,09:30,1,4,"HINES, KYLE",P002812   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,CSKA Moscow,0
-BAM       ,,2,09:27,1,5,"HICKMAN, RICKY",P004159   ,Def Rebound (1),D,,,Brose Bamberg,0
-BAM       ,,6,09:21,1,6,"ZISIS, NIKOS",PABN      ,Two Pointer (1/1 -  2 pt),2FGM,,2.0,Brose Bamberg,0
-CSK       ,,21,08:55,2,8,"CLYBURN, WILL",P004888   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,CSKA Moscow,0
-BAM       ,,3,08:51,2,9,"WRIGHT, DORELL",P008049   ,Def Rebound (1),D,,,Brose Bamberg,0
-BAM       ,,3,08:39,2,10,"WRIGHT, DORELL",P008049   ,Three Pointer (1/1 -  3 pt),3FGM,,5.0,Brose Bamberg,0
-BAM       ,,21,08:39,2,11,"RUBIT, AUGUSTINE",P006477   ,Assist (1),AS,,,Brose Bamberg,0
-CSK       ,,11,08:11,2,13,"ANTONOV, SEMEN",P004941   ,Two Pointer (1/1 -  2 pt),2FGM,2.0,5.0,CSKA Moscow,0
-CSK       ,,21,08:11,2,14,"CLYBURN, WILL",P004888   ,Assist (1),AS,,,CSKA Moscow,0
-BAM       ,,43,08:11,2,15,"RADOSEVIC, LEON",PLEM      ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Brose Bamberg,0
-CSK       ,,41,08:11,2,16,"KURBANOV, NIKITA",PJLX      ,Def Rebound (1),D,,,CSKA Moscow,0
-CSK       ,,42,07:50,3,18,"HINES, KYLE",P002812   ,Foul Drawn (1),RV,,,CSKA Moscow,0
-BAM       ,,3,07:50,3,19,"WRIGHT, DORELL",P008049   ,Foul (1),CM,,,Brose Bamberg,0
-CSK       ,,21,07:42,3,20,"CLYBURN, WILL",P004888   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,CSKA Moscow,0
-BAM       ,,2,07:40,3,21,"HICKMAN, RICKY",P004159   ,Def Rebound (2),D,,,Brose Bamberg,0
-BAM       ,,3,07:36,3,22,"WRIGHT, DORELL",P008049   ,Missed Three Pointer (1/2 -  3 pt),3FGA,,,Brose Bamberg,0
-CSK       ,,42,07:34,3,23,"HINES, KYLE",P002812   ,Def Rebound (1),D,,,CSKA Moscow,0
-CSK       ,,11,07:18,3,24,"ANTONOV, SEMEN",P004941   ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,CSKA Moscow,0
-BAM       ,,21,07:16,3,25,"RUBIT, AUGUSTINE",P006477   ,Def Rebound (1),D,,,Brose Bamberg,0
-BAM       ,,3,07:10,3,26,"WRIGHT, DORELL",P008049   ,Two Pointer (1/1 -  5 pt),2FGM,2.0,7.0,Brose Bamberg,0
-BAM       ,,2,07:08,3,27,"HICKMAN, RICKY",P004159   ,Assist (1),AS,,,Brose Bamberg,0
-CSK       ,,13,06:57,4,29,"RODRIGUEZ, SERGIO",PCVM      ,Three Pointer (1/1 -  3 pt),3FGM,5.0,7.0,CSKA Moscow,0
-BAM       ,,2,06:48,4,30,"HICKMAN, RICKY",P004159   ,Offensive Foul (1),OF,,,Brose Bamberg,0
-BAM       ,,2,06:48,4,31,"HICKMAN, RICKY",P004159   ,Turnover (2),TO,,,Brose Bamberg,0
-CSK       ,,41,06:48,4,32,"KURBANOV, NIKITA",PJLX      ,Foul Drawn (1),RV,,,CSKA Moscow,0
-CSK       ,,13,06:25,4,33,"RODRIGUEZ, SERGIO",PCVM      ,Missed Three Pointer (1/2 -  3 pt),3FGA,,,CSKA Moscow,0
-CSK       ,,11,06:22,4,34,"ANTONOV, SEMEN",P004941   ,Off Rebound (1),O,,,CSKA Moscow,0
-CSK       ,,42,06:10,4,35,"HINES, KYLE",P002812   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,CSKA Moscow,0
-BAM       ,,43,06:05,4,36,"RADOSEVIC, LEON",PLEM      ,Def Rebound (1),D,,,Brose Bamberg,0
-BAM       ,,6,05:56,5,38,"ZISIS, NIKOS",PABN      ,Two Pointer (2/2 -  4 pt),2FGM,5.0,9.0,Brose Bamberg,0
-CSK       ,,,05:56,5,39,,          ,Time Out (1),TOUT,,,CSKA Moscow,0
-CSK       ,,1,05:56,5,40,"DE COLO, NANDO",P002100   ,In,IN,,,CSKA Moscow,0
-CSK       ,,41,05:56,5,41,"KURBANOV, NIKITA",PJLX      ,Out,OUT,,,CSKA Moscow,0
-CSK       ,,1,05:36,5,42,"DE COLO, NANDO",P002100   ,Three Pointer (1/1 -  3 pt),3FGM,8.0,9.0,CSKA Moscow,0
-BAM       ,,2,05:13,5,43,"HICKMAN, RICKY",P004159   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Brose Bamberg,0
-CSK       ,,,05:13,5,44,,          ,Def Rebound (1),D,,,CSKA Moscow,0
-CSK       ,,1,05:01,5,45,"DE COLO, NANDO",P002100   ,Foul Drawn (1),RV,,,CSKA Moscow,0
-BAM       ,,43,05:01,5,46,"RADOSEVIC, LEON",PLEM      ,Foul (1),CM,,,Brose Bamberg,0
-CSK       ,,1,05:01,5,47,"DE COLO, NANDO",P002100   ,Free Throw In (1/1 -  4 pt),FTM,9.0,9.0,CSKA Moscow,0
-CSK       ,,1,05:01,5,48,"DE COLO, NANDO",P002100   ,Free Throw In (2/2 -  5 pt),FTM,10.0,9.0,CSKA Moscow,0
-BAM       ,,2,04:43,6,50,"HICKMAN, RICKY",P004159   ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,Brose Bamberg,0
-CSK       ,,21,04:39,6,51,"CLYBURN, WILL",P004888   ,Def Rebound (1),D,,,CSKA Moscow,0
-CSK       ,,11,04:31,6,52,"ANTONOV, SEMEN",P004941   ,Two Pointer (2/2 -  4 pt),2FGM,12.0,9.0,CSKA Moscow,0
-CSK       ,,21,04:28,6,53,"CLYBURN, WILL",P004888   ,Assist (2),AS,,,CSKA Moscow,0
-BAM       ,,21,04:18,6,54,"RUBIT, AUGUSTINE",P006477   ,Foul Drawn (1),RV,,,Brose Bamberg,0
-CSK       ,,13,04:18,6,55,"RODRIGUEZ, SERGIO",PCVM      ,Foul (1),CM,,,CSKA Moscow,0
-BAM       ,,0,04:18,6,56,"HACKETT, DANIEL",P001844   ,In,IN,,,Brose Bamberg,0
-BAM       ,,2,04:18,6,57,"HICKMAN, RICKY",P004159   ,Out,OUT,,,Brose Bamberg,0
-BAM       ,,6,04:18,6,58,"ZISIS, NIKOS",PABN      ,Out,OUT,,,Brose Bamberg,0
-BAM       ,,12,04:18,6,59,"LO, MAODO",P007032   ,In,IN,,,Brose Bamberg,0
-BAM       ,,21,04:18,6,60,"RUBIT, AUGUSTINE",P006477   ,Free Throw In (1/1 -  1 pt),FTM,12.0,10.0,Brose Bamberg,0
-BAM       ,,3,04:18,6,61,"WRIGHT, DORELL",P008049   ,Assist (1),AS,,,Brose Bamberg,0
-BAM       ,,21,04:18,6,62,"RUBIT, AUGUSTINE",P006477   ,Free Throw In (2/2 -  2 pt),FTM,12.0,11.0,Brose Bamberg,0
-CSK       ,,11,04:04,6,63,"ANTONOV, SEMEN",P004941   ,Three Pointer (1/2 -  7 pt),3FGM,15.0,11.0,CSKA Moscow,0
-CSK       ,,13,04:02,6,64,"RODRIGUEZ, SERGIO",PCVM      ,Assist (1),AS,,,CSKA Moscow,0
-BAM       ,,21,03:47,7,66,"RUBIT, AUGUSTINE",P006477   ,Missed Two Pointer (0/1 -  2 pt),2FGA,,,Brose Bamberg,0
-BAM       ,,12,03:45,7,67,"LO, MAODO",P007032   ,Off Rebound (1),O,,,Brose Bamberg,0
-BAM       ,,43,03:39,7,68,"RADOSEVIC, LEON",PLEM      ,Two Pointer (1/2 -  2 pt),2FGM,15.0,13.0,Brose Bamberg,0
-BAM       ,,0,03:37,7,69,"HACKETT, DANIEL",P001844   ,Assist (1),AS,,,Brose Bamberg,0
-CSK       ,,11,03:24,7,70,"ANTONOV, SEMEN",P004941   ,Two Pointer (3/3 -  9 pt),2FGM,17.0,13.0,CSKA Moscow,0
-CSK       ,,13,03:22,7,71,"RODRIGUEZ, SERGIO",PCVM      ,Assist (2),AS,,,CSKA Moscow,0
-BAM       ,,3,03:01,7,72,"WRIGHT, DORELL",P008049   ,Three Pointer (2/3 -  8 pt),3FGM,17.0,16.0,Brose Bamberg,0
-BAM       ,,12,02:58,8,74,"LO, MAODO",P007032   ,Assist (1),AS,,,Brose Bamberg,0
-CSK       ,,42,02:43,8,75,"HINES, KYLE",P002812   ,Missed Two Pointer (0/3 -  0 pt),2FGA,,,CSKA Moscow,0
-BAM       ,,12,02:41,8,76,"LO, MAODO",P007032   ,Def Rebound (1),D,,,Brose Bamberg,0
-BAM       ,,12,02:31,8,77,"LO, MAODO",P007032   ,Foul Drawn (1),RV,,,Brose Bamberg,0
-CSK       ,,11,02:31,8,78,"ANTONOV, SEMEN",P004941   ,Foul (1),CM,,,CSKA Moscow,0
-CSK       ,,11,02:31,8,79,"ANTONOV, SEMEN",P004941   ,Out,OUT,,,CSKA Moscow,0
-CSK       ,,13,02:31,8,80,"RODRIGUEZ, SERGIO",PCVM      ,Out,OUT,,,CSKA Moscow,0
-CSK       ,,20,02:31,8,81,"VORONTSEVICH, ANDREY",PLHI      ,In,IN,,,CSKA Moscow,0
-CSK       ,,22,02:31,8,82,"HIGGINS, CORY",P006450   ,In,IN,,,CSKA Moscow,0
-CSK       ,,42,02:31,8,83,"HINES, KYLE",P002812   ,Out,OUT,,,CSKA Moscow,0
-CSK       ,,44,02:31,8,84,"HUNTER, OTHELLO",P005160   ,In,IN,,,CSKA Moscow,0
-BAM       ,,21,02:31,8,85,"RUBIT, AUGUSTINE",P006477   ,Out,OUT,,,Brose Bamberg,0
-BAM       ,,33,02:31,8,86,"HECKMANN, PATRICK",P006420   ,In,IN,,,Brose Bamberg,0
-BAM       ,,42,02:31,8,87,"MUSLI, DEJAN",PLUR      ,In,IN,,,Brose Bamberg,0
-BAM       ,,43,02:31,8,88,"RADOSEVIC, LEON",PLEM      ,Out,OUT,,,Brose Bamberg,0
-BAM       ,,12,02:17,8,89,"LO, MAODO",P007032   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Brose Bamberg,0
-CSK       ,,22,02:15,8,90,"HIGGINS, CORY",P006450   ,Def Rebound (1),D,,,CSKA Moscow,0
-CSK       ,,1,02:13,8,91,"DE COLO, NANDO",P002100   ,Foul Drawn (2),RV,,,CSKA Moscow,0
-BAM       ,,12,02:13,8,92,"LO, MAODO",P007032   ,Foul (1),CM,,,Brose Bamberg,0
-CSK       ,,22,02:06,8,93,"HIGGINS, CORY",P006450   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,CSKA Moscow,0
-BAM       ,,3,02:04,8,94,"WRIGHT, DORELL",P008049   ,Def Rebound (2),D,,,Brose Bamberg,0
-BAM       ,,0,01:41,9,96,"HACKETT, DANIEL",P001844   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Brose Bamberg,0
-BAM       ,,42,01:38,9,97,"MUSLI, DEJAN",PLUR      ,Off Rebound (1),O,,,Brose Bamberg,0
-BAM       ,,12,01:35,9,98,"LO, MAODO",P007032   ,Three Pointer (1/1 -  3 pt),3FGM,17.0,19.0,Brose Bamberg,0
-BAM       ,,0,01:33,9,99,"HACKETT, DANIEL",P001844   ,Assist (2),AS,,,Brose Bamberg,0
-CSK       ,,22,01:10,9,100,"HIGGINS, CORY",P006450   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,CSKA Moscow,0
-CSK       ,,21,01:08,9,101,"CLYBURN, WILL",P004888   ,Off Rebound (1),O,,,CSKA Moscow,0
-CSK       ,,21,01:08,9,102,"CLYBURN, WILL",P004888   ,Foul Drawn (1),RV,,,CSKA Moscow,0
-BAM       ,,33,01:08,9,103,"HECKMANN, PATRICK",P006420   ,Foul (1),CM,,,Brose Bamberg,0
-BAM       ,,3,01:08,9,104,"WRIGHT, DORELL",P008049   ,Out,OUT,,,Brose Bamberg,0
-BAM       ,,7,01:08,9,105,"NIKOLIC, ALEKSEJ",P003703   ,In,IN,,,Brose Bamberg,0
-CSK       ,,21,01:08,9,106,"CLYBURN, WILL",P004888   ,Free Throw In (1/1 -  1 pt),FTM,18.0,19.0,CSKA Moscow,0
-CSK       ,,21,01:08,9,107,"CLYBURN, WILL",P004888   ,Missed Free Throw (1/2 -  1 pt),FTA,,,CSKA Moscow,0
-BAM       ,,42,01:08,9,108,"MUSLI, DEJAN",PLUR      ,Def Rebound (1),D,,,Brose Bamberg,0
-BAM       ,,0,00:41,10,110,"HACKETT, DANIEL",P001844   ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,Brose Bamberg,0
-CSK       ,,,00:41,10,113,,          ,Def Rebound (2),D,,,CSKA Moscow,0
-CSK       ,,9,00:41,10,111,"WESTERMANN, LEO",P002543   ,In,IN,,,CSKA Moscow,0
-CSK       ,,21,00:23,10,112,"CLYBURN, WILL",P004888   ,Out,OUT,,,CSKA Moscow,0
-CSK       ,,44,00:20,10,114,"HUNTER, OTHELLO",P005160   ,Turnover (1),TO,,,CSKA Moscow,0
-          ,,,,11,116,,          ,End Period,EP,,,,0
-          ,,,,11,117,,          ,Begin Period,BP,,,,0
-CSK       ,,1,09:51,11,118,"DE COLO, NANDO",P002100   ,Foul Drawn (3),RV,,,CSKA Moscow,0
-BAM       ,,33,09:51,11,119,"HECKMANN, PATRICK",P006420   ,Foul (2),CM,,,Brose Bamberg,0
-BAM       ,,8,09:51,11,120,"STAIGER, LUCCA",P002506   ,In,IN,,,Brose Bamberg,0
-BAM       ,,12,09:51,11,121,"LO, MAODO",P007032   ,Out,OUT,,,Brose Bamberg,0
-CSK       ,,1,09:51,11,122,"DE COLO, NANDO",P002100   ,Free Throw In (3/3 -  6 pt),FTM,19.0,19.0,CSKA Moscow,0
-CSK       ,,1,09:51,11,123,"DE COLO, NANDO",P002100   ,Free Throw In (4/4 -  7 pt),FTM,20.0,19.0,CSKA Moscow,0
-BAM       ,,7,09:30,11,124,"NIKOLIC, ALEKSEJ",P003703   ,Two Pointer (1/1 -  2 pt),2FGM,20.0,21.0,Brose Bamberg,0
-BAM       ,,0,09:28,11,125,"HACKETT, DANIEL",P001844   ,Assist (3),AS,,,Brose Bamberg,0
-CSK       ,,20,09:13,11,126,"VORONTSEVICH, ANDREY",PLHI      ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,CSKA Moscow,0
-CSK       ,,44,09:12,11,127,"HUNTER, OTHELLO",P005160   ,Off Rebound (1),O,,,CSKA Moscow,0
-CSK       ,,44,09:12,11,128,"HUNTER, OTHELLO",P005160   ,Two Pointer (1/1 -  2 pt),2FGM,22.0,21.0,CSKA Moscow,0
-CSK       ,,44,09:12,11,129,"HUNTER, OTHELLO",P005160   ,Foul Drawn (1),RV,,,CSKA Moscow,0
-BAM       ,,0,09:12,11,130,"HACKETT, DANIEL",P001844   ,Foul (1),CM,,,Brose Bamberg,0
-CSK       ,,44,09:12,11,131,"HUNTER, OTHELLO",P005160   ,Missed Free Throw (0/1 -  2 pt),FTA,,,CSKA Moscow,0
-BAM       ,,42,09:12,11,132,"MUSLI, DEJAN",PLUR      ,Def Rebound (2),D,,,Brose Bamberg,0
-BAM       ,,7,09:09,11,133,"NIKOLIC, ALEKSEJ",P003703   ,Foul Drawn (1),RV,,,Brose Bamberg,0
-CSK       ,,1,09:09,11,134,"DE COLO, NANDO",P002100   ,Foul (1),CM,,,CSKA Moscow,0
-BAM       ,,42,08:59,12,270,"MUSLI, DEJAN",PLUR      ,Shot Rejected (1),AG,,,Brose Bamberg,0
-CSK       ,,20,08:59,12,271,"VORONTSEVICH, ANDREY",PLHI      ,Block (1),FV,,,CSKA Moscow,0
-BAM       ,,42,08:59,12,272,"MUSLI, DEJAN",PLUR      ,Off Rebound (2),O,,,Brose Bamberg,0
-BAM       ,,42,08:59,12,273,"MUSLI, DEJAN",PLUR      ,Turnover (1),TO,,,Brose Bamberg,0
-BAM       ,,42,08:47,12,269,"MUSLI, DEJAN",PLUR      ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Brose Bamberg,0
-CSK       ,,22,08:34,12,137,"HIGGINS, CORY",P006450   ,Foul Drawn (1),RV,,,CSKA Moscow,0
-BAM       ,,7,08:34,12,138,"NIKOLIC, ALEKSEJ",P003703   ,Foul (1),CM,,,Brose Bamberg,0
-CSK       ,,22,08:34,12,139,"HIGGINS, CORY",P006450   ,Missed Free Throw (0/1 -  0 pt),FTA,,,CSKA Moscow,0
-CSK       ,,22,08:34,12,140,"HIGGINS, CORY",P006450   ,Free Throw In (1/2 -  1 pt),FTM,23.0,21.0,CSKA Moscow,0
-BAM       ,,7,08:16,12,141,"NIKOLIC, ALEKSEJ",P003703   ,Turnover (1),TO,,,Brose Bamberg,0
-CSK       ,,9,08:01,12,142,"WESTERMANN, LEO",P002543   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,CSKA Moscow,0
-CSK       ,,44,07:59,13,144,"HUNTER, OTHELLO",P005160   ,Off Rebound (2),O,,,CSKA Moscow,0
-CSK       ,,22,07:52,13,145,"HIGGINS, CORY",P006450   ,Two Pointer (1/3 -  3 pt),2FGM,25.0,21.0,CSKA Moscow,0
-CSK       ,,42,07:52,13,146,"HINES, KYLE",P002812   ,In,IN,,,CSKA Moscow,0
-CSK       ,,44,07:52,13,147,"HUNTER, OTHELLO",P005160   ,Out,OUT,,,CSKA Moscow,0
-BAM       ,,42,07:52,13,148,"MUSLI, DEJAN",PLUR      ,Out,OUT,,,Brose Bamberg,0
-BAM       ,,43,07:52,13,149,"RADOSEVIC, LEON",PLEM      ,In,IN,,,Brose Bamberg,0
-BAM       ,,0,07:32,13,150,"HACKETT, DANIEL",P001844   ,Missed Three Pointer (0/3 -  0 pt),3FGA,,,Brose Bamberg,0
-CSK       ,,,07:32,13,151,,          ,Def Rebound (3),D,,,CSKA Moscow,0
-CSK       ,,9,07:32,13,152,"WESTERMANN, LEO",P002543   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,CSKA Moscow,0
-BAM       ,,33,07:32,13,153,"HECKMANN, PATRICK",P006420   ,Def Rebound (1),D,,,Brose Bamberg,0
-BAM       ,,0,07:32,13,154,"HACKETT, DANIEL",P001844   ,Turnover (1),TO,,,Brose Bamberg,0
-CSK       ,,22,07:32,13,155,"HIGGINS, CORY",P006450   ,Steal (1),ST,,,CSKA Moscow,0
-CSK       ,,22,07:32,13,156,"HIGGINS, CORY",P006450   ,Foul Drawn (2),RV,,,CSKA Moscow,0
-BAM       ,,0,07:32,13,157,"HACKETT, DANIEL",P001844   ,Foul (2),CM,,,Brose Bamberg,0
-CSK       ,,9,07:32,13,158,"WESTERMANN, LEO",P002543   ,Out,OUT,,,CSKA Moscow,0
-CSK       ,,13,07:32,13,159,"RODRIGUEZ, SERGIO",PCVM      ,In,IN,,,CSKA Moscow,0
-BAM       ,,0,07:32,13,160,"HACKETT, DANIEL",P001844   ,Out,OUT,,,Brose Bamberg,0
-BAM       ,,6,07:32,13,161,"ZISIS, NIKOS",PABN      ,In,IN,,,Brose Bamberg,0
-BAM       ,,21,07:32,13,162,"RUBIT, AUGUSTINE",P006477   ,In,IN,,,Brose Bamberg,0
-BAM       ,,33,07:32,13,163,"HECKMANN, PATRICK",P006420   ,Out,OUT,,,Brose Bamberg,0
-CSK       ,,22,07:32,13,164,"HIGGINS, CORY",P006450   ,Free Throw In (2/3 -  4 pt),FTM,26.0,21.0,CSKA Moscow,0
-CSK       ,,22,06:56,14,166,"HIGGINS, CORY",P006450   ,Free Throw In (3/4 -  5 pt),FTM,27.0,21.0,CSKA Moscow,0
-BAM       ,,43,06:39,14,167,"RADOSEVIC, LEON",PLEM      ,Two Pointer (2/3 -  4 pt),2FGM,27.0,23.0,Brose Bamberg,0
-BAM       ,,6,06:36,14,168,"ZISIS, NIKOS",PABN      ,Assist (1),AS,,,Brose Bamberg,0
-CSK       ,,1,06:24,14,169,"DE COLO, NANDO",P002100   ,Foul Drawn (4),RV,,,CSKA Moscow,0
-BAM       ,,8,06:24,14,170,"STAIGER, LUCCA",P002506   ,Foul (1),CM,,,Brose Bamberg,0
-CSK       ,,1,06:24,14,171,"DE COLO, NANDO",P002100   ,Free Throw In (5/5 -  8 pt),FTM,28.0,23.0,CSKA Moscow,0
-CSK       ,,1,06:24,14,172,"DE COLO, NANDO",P002100   ,Free Throw In (6/6 -  9 pt),FTM,29.0,23.0,CSKA Moscow,0
-BAM       ,,21,06:11,14,173,"RUBIT, AUGUSTINE",P006477   ,Foul Drawn (2),RV,,,Brose Bamberg,0
-CSK       ,,20,06:11,14,174,"VORONTSEVICH, ANDREY",PLHI      ,Foul (1),CM,,,CSKA Moscow,0
-BAM       ,,21,06:11,14,175,"RUBIT, AUGUSTINE",P006477   ,Missed Free Throw (2/3 -  2 pt),FTA,,,Brose Bamberg,0
-BAM       ,,21,06:11,14,176,"RUBIT, AUGUSTINE",P006477   ,Missed Free Throw (2/4 -  2 pt),FTA,,,Brose Bamberg,0
-CSK       ,,20,06:11,14,177,"VORONTSEVICH, ANDREY",PLHI      ,Def Rebound (1),D,,,CSKA Moscow,0
-CSK       ,,22,05:53,15,179,"HIGGINS, CORY",P006450   ,Missed Three Pointer (0/1 -  5 pt),3FGA,,,CSKA Moscow,0
-BAM       ,,7,05:51,15,180,"NIKOLIC, ALEKSEJ",P003703   ,Def Rebound (1),D,,,Brose Bamberg,0
-BAM       ,,8,05:37,15,181,"STAIGER, LUCCA",P002506   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Brose Bamberg,0
-BAM       ,,21,05:35,15,182,"RUBIT, AUGUSTINE",P006477   ,Off Rebound (1),O,,,Brose Bamberg,0
-BAM       ,,21,05:28,15,183,"RUBIT, AUGUSTINE",P006477   ,Foul Drawn (3),RV,,,Brose Bamberg,0
-CSK       ,,22,05:28,15,184,"HIGGINS, CORY",P006450   ,Foul (1),CM,,,CSKA Moscow,0
-CSK       ,,11,05:28,15,185,"ANTONOV, SEMEN",P004941   ,In,IN,,,CSKA Moscow,0
-CSK       ,,20,05:28,15,186,"VORONTSEVICH, ANDREY",PLHI      ,Out,OUT,,,CSKA Moscow,0
-BAM       ,,2,05:28,15,187,"HICKMAN, RICKY",P004159   ,In,IN,,,Brose Bamberg,0
-BAM       ,,8,05:28,15,188,"STAIGER, LUCCA",P002506   ,Out,OUT,,,Brose Bamberg,0
-BAM       ,,43,05:18,15,189,"RADOSEVIC, LEON",PLEM      ,Foul Drawn (1),RV,,,Brose Bamberg,0
-CSK       ,,42,05:18,15,190,"HINES, KYLE",P002812   ,Foul (1),CM,,,CSKA Moscow,0
-BAM       ,,43,05:02,15,191,"RADOSEVIC, LEON",PLEM      ,Missed Two Pointer (2/4 -  4 pt),2FGA,,,Brose Bamberg,0
-CSK       ,,22,05:00,15,192,"HIGGINS, CORY",P006450   ,Def Rebound (2),D,,,CSKA Moscow,0
-CSK       ,,13,04:50,16,194,"RODRIGUEZ, SERGIO",PCVM      ,Turnover (1),TO,,,CSKA Moscow,0
-BAM       ,,43,04:48,16,195,"RADOSEVIC, LEON",PLEM      ,Steal (1),ST,,,Brose Bamberg,0
-BAM       ,,6,04:44,16,196,"ZISIS, NIKOS",PABN      ,Turnover (1),TO,,,Brose Bamberg,0
-CSK       ,,13,04:42,16,197,"RODRIGUEZ, SERGIO",PCVM      ,Steal (1),ST,,,CSKA Moscow,0
-CSK       ,,1,04:41,16,198,"DE COLO, NANDO",P002100   ,Two Pointer (1/1 -  11 pt),2FGM,31.0,23.0,CSKA Moscow,0
-CSK       ,,13,04:41,16,199,"RODRIGUEZ, SERGIO",PCVM      ,Assist (3),AS,,,CSKA Moscow,0
-BAM       ,,,04:41,16,200,,          ,Time Out (1),TOUT,,,Brose Bamberg,0
-BAM       ,,3,04:41,16,201,"WRIGHT, DORELL",P008049   ,In,IN,,,Brose Bamberg,0
-BAM       ,,7,04:41,16,202,"NIKOLIC, ALEKSEJ",P003703   ,Out,OUT,,,Brose Bamberg,0
-BAM       ,,21,04:15,16,203,"RUBIT, AUGUSTINE",P006477   ,Missed Two Pointer (0/2 -  2 pt),2FGA,,,Brose Bamberg,0
-CSK       ,,13,04:13,16,204,"RODRIGUEZ, SERGIO",PCVM      ,Def Rebound (1),D,,,CSKA Moscow,0
-CSK       ,,1,03:52,17,206,"DE COLO, NANDO",P002100   ,Foul Drawn (5),RV,,,CSKA Moscow,0
-BAM       ,,6,03:52,17,207,"ZISIS, NIKOS",PABN      ,Foul (1),CM,,,Brose Bamberg,0
-CSK       ,,1,03:52,17,208,"DE COLO, NANDO",P002100   ,Free Throw In (7/7 -  12 pt),FTM,32.0,23.0,CSKA Moscow,0
-CSK       ,,42,03:52,17,209,"HINES, KYLE",P002812   ,Assist (1),AS,,,CSKA Moscow,0
-CSK       ,,1,03:52,17,210,"DE COLO, NANDO",P002100   ,Free Throw In (8/8 -  13 pt),FTM,33.0,23.0,CSKA Moscow,0
-CSK       ,,1,03:52,17,211,"DE COLO, NANDO",P002100   ,Free Throw In (9/9 -  14 pt),FTM,34.0,23.0,CSKA Moscow,0
-CSK       ,,1,03:52,17,212,"DE COLO, NANDO",P002100   ,Out,OUT,,,CSKA Moscow,0
-CSK       ,,21,03:52,17,213,"CLYBURN, WILL",P004888   ,In,IN,,,CSKA Moscow,0
-BAM       ,,43,03:39,17,214,"RADOSEVIC, LEON",PLEM      ,Turnover (1),TO,,,Brose Bamberg,0
-CSK       ,,42,03:39,17,215,"HINES, KYLE",P002812   ,Steal (1),ST,,,CSKA Moscow,0
-CSK       ,,21,03:39,17,216,"CLYBURN, WILL",P004888   ,Missed Two Pointer (0/3 -  1 pt),2FGA,,,CSKA Moscow,0
-BAM       ,,43,03:39,17,217,"RADOSEVIC, LEON",PLEM      ,Def Rebound (2),D,,,Brose Bamberg,0
-BAM       ,,6,03:39,17,218,"ZISIS, NIKOS",PABN      ,Three Pointer (1/1 -  7 pt),3FGM,34.0,26.0,Brose Bamberg,0
-BAM       ,,43,03:39,17,263,"RADOSEVIC, LEON",PLEM      ,Assist (1),AS,,,Brose Bamberg,0
-CSK       ,,,03:39,17,219,,          ,Time Out (1),TOUT,,,CSKA Moscow,0
-CSK       ,,13,03:01,17,221,"RODRIGUEZ, SERGIO",PCVM      ,Foul Drawn (1),RV,,,CSKA Moscow,0
-BAM       ,,6,03:01,17,222,"ZISIS, NIKOS",PABN      ,Foul (2),CM,,,Brose Bamberg,0
-BAM       ,,6,03:01,17,223,"ZISIS, NIKOS",PABN      ,Out,OUT,,,Brose Bamberg,0
-BAM       ,,12,03:01,17,224,"LO, MAODO",P007032   ,In,IN,,,Brose Bamberg,0
-CSK       ,,13,03:01,17,225,"RODRIGUEZ, SERGIO",PCVM      ,Free Throw In (1/1 -  4 pt),FTM,35.0,26.0,CSKA Moscow,0
-CSK       ,,13,03:01,17,226,"RODRIGUEZ, SERGIO",PCVM      ,Free Throw In (2/2 -  5 pt),FTM,36.0,26.0,CSKA Moscow,0
-CSK       ,,42,03:01,17,227,"HINES, KYLE",P002812   ,Out,OUT,,,CSKA Moscow,0
-CSK       ,,44,03:01,17,228,"HUNTER, OTHELLO",P005160   ,In,IN,,,CSKA Moscow,0
-BAM       ,,42,03:01,17,229,"MUSLI, DEJAN",PLUR      ,In,IN,,,Brose Bamberg,0
-BAM       ,,43,03:01,17,230,"RADOSEVIC, LEON",PLEM      ,Out,OUT,,,Brose Bamberg,0
-BAM       ,,12,02:45,18,232,"LO, MAODO",P007032   ,Missed Three Pointer (1/2 -  3 pt),3FGA,,,Brose Bamberg,0
-CSK       ,,22,02:39,18,233,"HIGGINS, CORY",P006450   ,Def Rebound (3),D,,,CSKA Moscow,0
-CSK       ,,13,02:37,18,234,"RODRIGUEZ, SERGIO",PCVM      ,Turnover (2),TO,,,CSKA Moscow,0
-BAM       ,,2,02:36,18,235,"HICKMAN, RICKY",P004159   ,Steal (1),ST,,,Brose Bamberg,0
-BAM       ,,42,02:32,18,236,"MUSLI, DEJAN",PLUR      ,Foul Drawn (1),RV,,,Brose Bamberg,0
-CSK       ,,11,02:32,18,237,"ANTONOV, SEMEN",P004941   ,Foul (2),CM,,,CSKA Moscow,0
-BAM       ,,42,02:32,18,238,"MUSLI, DEJAN",PLUR      ,Missed Free Throw (0/1 -  0 pt),FTA,,,Brose Bamberg,0
-BAM       ,,42,02:32,18,239,"MUSLI, DEJAN",PLUR      ,Free Throw In (1/2 -  1 pt),FTM,36.0,27.0,Brose Bamberg,0
-CSK       ,,11,02:32,18,240,"ANTONOV, SEMEN",P004941   ,Out,OUT,,,CSKA Moscow,0
-CSK       ,,41,02:32,18,241,"KURBANOV, NIKITA",PJLX      ,In,IN,,,CSKA Moscow,0
-CSK       ,,44,02:12,18,242,"HUNTER, OTHELLO",P005160   ,Two Pointer (2/2 -  4 pt),2FGM,38.0,27.0,CSKA Moscow,0
-CSK       ,,13,02:08,18,243,"RODRIGUEZ, SERGIO",PCVM      ,Assist (4),AS,,,CSKA Moscow,0
-BAM       ,,,01:47,19,245,,          ,Turnover (1),TO,,,Brose Bamberg,0
-CSK       ,,13,01:27,19,246,"RODRIGUEZ, SERGIO",PCVM      ,Foul Drawn (2),RV,,,CSKA Moscow,0
-BAM       ,,21,01:27,19,247,"RUBIT, AUGUSTINE",P006477   ,Foul (1),CM,,,Brose Bamberg,0
-CSK       ,,13,01:27,19,248,"RODRIGUEZ, SERGIO",PCVM      ,Free Throw In (3/3 -  6 pt),FTM,39.0,27.0,CSKA Moscow,0
-CSK       ,,13,01:27,19,249,"RODRIGUEZ, SERGIO",PCVM      ,Missed Free Throw (3/4 -  6 pt),FTA,,,CSKA Moscow,0
-BAM       ,,3,01:27,19,250,"WRIGHT, DORELL",P008049   ,Def Rebound (3),D,,,Brose Bamberg,0
-BAM       ,,42,01:15,19,251,"MUSLI, DEJAN",PLUR      ,Foul Drawn (2),RV,,,Brose Bamberg,0
-CSK       ,,44,01:15,19,252,"HUNTER, OTHELLO",P005160   ,Foul (1),CM,,,CSKA Moscow,0
-CSK       ,,9,01:15,19,253,"WESTERMANN, LEO",P002543   ,In,IN,,,CSKA Moscow,0
-CSK       ,,13,01:15,19,254,"RODRIGUEZ, SERGIO",PCVM      ,Out,OUT,,,CSKA Moscow,0
-BAM       ,,42,01:15,19,255,"MUSLI, DEJAN",PLUR      ,Missed Free Throw (1/3 -  1 pt),FTA,,,Brose Bamberg,0
-BAM       ,,42,01:15,19,256,"MUSLI, DEJAN",PLUR      ,Free Throw In (2/4 -  2 pt),FTM,39.0,28.0,Brose Bamberg,0
-CSK       ,,9,00:55,20,258,"WESTERMANN, LEO",P002543   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,CSKA Moscow,0
-BAM       ,,2,00:53,20,259,"HICKMAN, RICKY",P004159   ,Def Rebound (3),D,,,Brose Bamberg,0
-BAM       ,,2,00:36,20,260,"HICKMAN, RICKY",P004159   ,Two Pointer (1/1 -  2 pt),2FGM,39.0,30.0,Brose Bamberg,0
-CSK       ,,9,00:19,20,261,"WESTERMANN, LEO",P002543   ,Turnover (1),TO,,,CSKA Moscow,0
-BAM       ,,,00:19,20,262,,          ,Time Out (2),TOUT,,,Brose Bamberg,0
-BAM       ,,8,00:19,20,264,"STAIGER, LUCCA",P002506   ,In,IN,,,Brose Bamberg,0
-BAM       ,,42,00:19,20,265,"MUSLI, DEJAN",PLUR      ,Out,OUT,,,Brose Bamberg,0
-BAM       ,,2,00:00,20,266,"HICKMAN, RICKY",P004159   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,Brose Bamberg,0
-          ,,,,21,268,,          ,End Period,EP,,,,0
-          ,,,,21,284,,          ,Begin Period,BP,,,,0
-CSK       ,,1,10:00,21,274,"DE COLO, NANDO",P002100   ,In,IN,,,CSKA Moscow,0
-CSK       ,,9,10:00,21,275,"WESTERMANN, LEO",P002543   ,Out,OUT,,,CSKA Moscow,0
-CSK       ,,11,10:00,21,276,"ANTONOV, SEMEN",P004941   ,In,IN,,,CSKA Moscow,0
-CSK       ,,21,10:00,21,277,"CLYBURN, WILL",P004888   ,Out,OUT,,,CSKA Moscow,0
-BAM       ,,0,10:00,21,278,"HACKETT, DANIEL",P001844   ,In,IN,,,Brose Bamberg,0
-BAM       ,,8,10:00,21,279,"STAIGER, LUCCA",P002506   ,Out,OUT,,,Brose Bamberg,0
-BAM       ,,12,10:00,21,280,"LO, MAODO",P007032   ,Out,OUT,,,Brose Bamberg,0
-BAM       ,,21,10:00,21,281,"RUBIT, AUGUSTINE",P006477   ,Out,OUT,,,Brose Bamberg,0
-BAM       ,,33,10:00,21,282,"HECKMANN, PATRICK",P006420   ,In,IN,,,Brose Bamberg,0
-BAM       ,,43,10:00,21,283,"RADOSEVIC, LEON",PLEM      ,In,IN,,,Brose Bamberg,0
-BAM       ,,2,09:38,21,285,"HICKMAN, RICKY",P004159   ,Turnover (3),TO,,,Brose Bamberg,0
-CSK       ,,1,09:34,21,286,"DE COLO, NANDO",P002100   ,Steal (1),ST,,,CSKA Moscow,0
-CSK       ,,1,09:32,21,287,"DE COLO, NANDO",P002100   ,Missed Two Pointer (1/2 -  14 pt),2FGA,,,CSKA Moscow,0
-BAM       ,,3,09:29,21,288,"WRIGHT, DORELL",P008049   ,Def Rebound (4),D,,,Brose Bamberg,0
-BAM       ,,2,09:25,21,289,"HICKMAN, RICKY",P004159   ,Three Pointer (1/3 -  5 pt),3FGM,39.0,33.0,Brose Bamberg,0
-BAM       ,,3,09:23,21,290,"WRIGHT, DORELL",P008049   ,Assist (2),AS,,,Brose Bamberg,0
-CSK       ,,1,09:19,21,291,"DE COLO, NANDO",P002100   ,Foul Drawn (6),RV,,,CSKA Moscow,0
-BAM       ,,0,09:19,21,292,"HACKETT, DANIEL",P001844   ,Foul (3),CM,,,Brose Bamberg,0
-BAM       ,,0,09:19,21,293,"HACKETT, DANIEL",P001844   ,Out,OUT,,,Brose Bamberg,0
-BAM       ,,7,09:19,21,294,"NIKOLIC, ALEKSEJ",P003703   ,In,IN,,,Brose Bamberg,0
-CSK       ,,22,09:08,21,295,"HIGGINS, CORY",P006450   ,Missed Two Pointer (1/4 -  5 pt),2FGA,,,CSKA Moscow,0
-CSK       ,,44,09:06,21,296,"HUNTER, OTHELLO",P005160   ,Off Rebound (3),O,,,CSKA Moscow,0
-CSK       ,,22,09:02,21,297,"HIGGINS, CORY",P006450   ,Foul Drawn (3),RV,,,CSKA Moscow,0
-BAM       ,,7,09:02,21,298,"NIKOLIC, ALEKSEJ",P003703   ,Foul (2),CM,,,Brose Bamberg,0
-CSK       ,,22,08:54,22,300,"HIGGINS, CORY",P006450   ,Turnover (1),TO,,,CSKA Moscow,0
-BAM       ,,2,08:39,22,301,"HICKMAN, RICKY",P004159   ,Missed Three Pointer (1/4 -  5 pt),3FGA,,,Brose Bamberg,0
-CSK       ,,1,08:36,22,302,"DE COLO, NANDO",P002100   ,Def Rebound (1),D,,,CSKA Moscow,0
-CSK       ,,44,08:33,22,303,"HUNTER, OTHELLO",P005160   ,Two Pointer (3/3 -  6 pt),2FGM,41.0,33.0,CSKA Moscow,0
-CSK       ,,1,08:31,22,304,"DE COLO, NANDO",P002100   ,Assist (1),AS,,,CSKA Moscow,0
-BAM       ,,3,08:13,22,305,"WRIGHT, DORELL",P008049   ,Missed Two Pointer (1/2 -  8 pt),2FGA,,,Brose Bamberg,0
-CSK       ,,41,08:11,22,306,"KURBANOV, NIKITA",PJLX      ,Def Rebound (2),D,,,CSKA Moscow,0
-CSK       ,,44,08:08,22,307,"HUNTER, OTHELLO",P005160   ,Missed Two Pointer (3/4 -  6 pt),2FGA,,,CSKA Moscow,0
-CSK       ,,,08:08,22,308,,          ,Off Rebound (1),O,,,CSKA Moscow,0
-CSK       ,,1,08:01,22,309,"DE COLO, NANDO",P002100   ,Turnover (1),TO,,,CSKA Moscow,0
-BAM       ,,7,07:47,23,311,"NIKOLIC, ALEKSEJ",P003703   ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,Brose Bamberg,0
-CSK       ,,11,07:44,23,312,"ANTONOV, SEMEN",P004941   ,Def Rebound (1),D,,,CSKA Moscow,0
-CSK       ,,41,07:44,23,313,"KURBANOV, NIKITA",PJLX      ,Two Pointer (1/1 -  2 pt),2FGM,43.0,33.0,CSKA Moscow,0
-CSK       ,,1,07:44,23,314,"DE COLO, NANDO",P002100   ,Assist (2),AS,,,CSKA Moscow,0
-BAM       ,,43,07:20,23,315,"RADOSEVIC, LEON",PLEM      ,Missed Two Pointer (2/5 -  4 pt),2FGA,,,Brose Bamberg,0
-CSK       ,,1,07:18,23,316,"DE COLO, NANDO",P002100   ,Def Rebound (2),D,,,CSKA Moscow,0
-CSK       ,,22,07:17,23,317,"HIGGINS, CORY",P006450   ,Foul Drawn (4),RV,,,CSKA Moscow,0
-BAM       ,,33,07:17,23,318,"HECKMANN, PATRICK",P006420   ,Foul (3),CM,,,Brose Bamberg,0
-CSK       ,,1,07:13,23,319,"DE COLO, NANDO",P002100   ,Turnover (2),TO,,,CSKA Moscow,0
-BAM       ,,2,06:46,24,321,"HICKMAN, RICKY",P004159   ,Missed Three Pointer (1/5 -  5 pt),3FGA,,,Brose Bamberg,0
-CSK       ,,44,06:43,24,322,"HUNTER, OTHELLO",P005160   ,Def Rebound (1),D,,,CSKA Moscow,0
-CSK       ,,1,06:40,24,323,"DE COLO, NANDO",P002100   ,Foul Drawn (7),RV,,,CSKA Moscow,0
-BAM       ,,2,06:40,24,324,"HICKMAN, RICKY",P004159   ,Foul (2),CM,,,Brose Bamberg,0
-CSK       ,,1,06:40,24,325,"DE COLO, NANDO",P002100   ,Free Throw In (10/10 -  15 pt),FTM,44.0,33.0,CSKA Moscow,0
-CSK       ,,41,06:40,24,326,"KURBANOV, NIKITA",PJLX      ,Assist (1),AS,,,CSKA Moscow,0
-CSK       ,,1,06:40,24,327,"DE COLO, NANDO",P002100   ,Free Throw In (11/11 -  16 pt),FTM,45.0,33.0,CSKA Moscow,0
-BAM       ,,7,06:40,24,328,"NIKOLIC, ALEKSEJ",P003703   ,Out,OUT,,,Brose Bamberg,0
-BAM       ,,12,06:40,24,329,"LO, MAODO",P007032   ,In,IN,,,Brose Bamberg,0
-BAM       ,,43,06:19,24,330,"RADOSEVIC, LEON",PLEM      ,Missed Two Pointer (2/6 -  4 pt),2FGA,,,Brose Bamberg,0
-CSK       ,,41,06:17,24,331,"KURBANOV, NIKITA",PJLX      ,Def Rebound (3),D,,,CSKA Moscow,0
-CSK       ,,1,06:10,24,332,"DE COLO, NANDO",P002100   ,Missed Three Pointer (1/2 -  16 pt),3FGA,,,CSKA Moscow,0
-BAM       ,,43,06:07,24,333,"RADOSEVIC, LEON",PLEM      ,Def Rebound (3),D,,,Brose Bamberg,0
-BAM       ,,33,05:57,25,335,"HECKMANN, PATRICK",P006420   ,Two Pointer (1/1 -  2 pt),2FGM,45.0,35.0,Brose Bamberg,0
-BAM       ,,12,05:55,25,336,"LO, MAODO",P007032   ,Assist (2),AS,,,Brose Bamberg,0
-CSK       ,,41,05:32,25,337,"KURBANOV, NIKITA",PJLX      ,Turnover (1),TO,,,CSKA Moscow,0
-BAM       ,,3,05:31,25,338,"WRIGHT, DORELL",P008049   ,Steal (1),ST,,,Brose Bamberg,0
-BAM       ,,3,05:31,25,339,"WRIGHT, DORELL",P008049   ,Foul Drawn (1),RV,,,Brose Bamberg,0
-CSK       ,,11,05:31,25,340,"ANTONOV, SEMEN",P004941   ,Foul (3),CM,,,CSKA Moscow,0
-CSK       ,,11,05:31,25,341,"ANTONOV, SEMEN",P004941   ,Out,OUT,,,CSKA Moscow,0
-CSK       ,,20,05:31,25,342,"VORONTSEVICH, ANDREY",PLHI      ,In,IN,,,CSKA Moscow,0
-BAM       ,,33,05:10,25,343,"HECKMANN, PATRICK",P006420   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,Brose Bamberg,0
-CSK       ,,20,05:08,25,344,"VORONTSEVICH, ANDREY",PLHI      ,Def Rebound (2),D,,,CSKA Moscow,0
-CSK       ,,1,05:00,26,346,"DE COLO, NANDO",P002100   ,Two Pointer (2/3 -  18 pt),2FGM,47.0,35.0,CSKA Moscow,0
-BAM       ,,3,04:40,26,347,"WRIGHT, DORELL",P008049   ,Two Pointer (2/3 -  10 pt),2FGM,47.0,37.0,Brose Bamberg,0
-BAM       ,,3,04:40,26,348,"WRIGHT, DORELL",P008049   ,Foul Drawn (2),RV,,,Brose Bamberg,0
-CSK       ,,20,04:40,26,349,"VORONTSEVICH, ANDREY",PLHI      ,Foul (2),CM,,,CSKA Moscow,0
-          ,,,04:40,26,350,,          ,TV Time Out (1),TOUT_TV,,,,0
-CSK       ,,21,04:40,26,351,"CLYBURN, WILL",P004888   ,In,IN,,,CSKA Moscow,0
-CSK       ,,22,04:40,26,352,"HIGGINS, CORY",P006450   ,Out,OUT,,,CSKA Moscow,0
-BAM       ,,2,04:40,26,353,"HICKMAN, RICKY",P004159   ,Out,OUT,,,Brose Bamberg,0
-BAM       ,,6,04:40,26,354,"ZISIS, NIKOS",PABN      ,In,IN,,,Brose Bamberg,0
-BAM       ,,21,04:40,26,355,"RUBIT, AUGUSTINE",P006477   ,In,IN,,,Brose Bamberg,0
-BAM       ,,33,04:40,26,356,"HECKMANN, PATRICK",P006420   ,Out,OUT,,,Brose Bamberg,0
-BAM       ,,42,04:40,26,357,"MUSLI, DEJAN",PLUR      ,In,IN,,,Brose Bamberg,0
-BAM       ,,43,04:40,26,358,"RADOSEVIC, LEON",PLEM      ,Out,OUT,,,Brose Bamberg,0
-BAM       ,,3,04:40,26,359,"WRIGHT, DORELL",P008049   ,Free Throw In (1/1 -  11 pt),FTM,47.0,38.0,Brose Bamberg,0
-CSK       ,,20,04:24,26,360,"VORONTSEVICH, ANDREY",PLHI      ,Turnover (1),TO,,,CSKA Moscow,0
-BAM       ,,42,03:59,27,362,"MUSLI, DEJAN",PLUR      ,Foul Drawn (3),RV,,,Brose Bamberg,0
-CSK       ,,44,03:59,27,363,"HUNTER, OTHELLO",P005160   ,Foul (2),CM,,,CSKA Moscow,0
-BAM       ,,42,03:59,27,364,"MUSLI, DEJAN",PLUR      ,Missed Free Throw (2/5 -  2 pt),FTA,,,Brose Bamberg,0
-BAM       ,,42,03:59,27,365,"MUSLI, DEJAN",PLUR      ,Missed Free Throw (2/6 -  2 pt),FTA,,,Brose Bamberg,0
-CSK       ,,21,03:59,27,366,"CLYBURN, WILL",P004888   ,Def Rebound (2),D,,,CSKA Moscow,0
-CSK       ,,21,03:48,27,367,"CLYBURN, WILL",P004888   ,Two Pointer (1/4 -  3 pt),2FGM,49.0,38.0,CSKA Moscow,0
-BAM       ,,21,03:26,27,368,"RUBIT, AUGUSTINE",P006477   ,Two Pointer (1/3 -  4 pt),2FGM,49.0,40.0,Brose Bamberg,0
-BAM       ,,12,03:24,27,369,"LO, MAODO",P007032   ,Assist (3),AS,,,Brose Bamberg,0
-CSK       ,,20,03:01,27,370,"VORONTSEVICH, ANDREY",PLHI      ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,CSKA Moscow,0
-BAM       ,,3,02:59,28,372,"WRIGHT, DORELL",P008049   ,Def Rebound (5),D,,,Brose Bamberg,0
-BAM       ,,42,02:53,28,373,"MUSLI, DEJAN",PLUR      ,Missed Two Pointer (0/2 -  2 pt),2FGA,,,Brose Bamberg,0
-CSK       ,,44,02:50,28,374,"HUNTER, OTHELLO",P005160   ,Def Rebound (2),D,,,CSKA Moscow,0
-CSK       ,,21,02:43,28,375,"CLYBURN, WILL",P004888   ,Three Pointer (1/1 -  6 pt),3FGM,52.0,40.0,CSKA Moscow,0
-CSK       ,,1,02:41,28,376,"DE COLO, NANDO",P002100   ,Assist (3),AS,,,CSKA Moscow,0
-BAM       ,,6,02:20,28,377,"ZISIS, NIKOS",PABN      ,Two Pointer (3/3 -  9 pt),2FGM,52.0,42.0,Brose Bamberg,0
-CSK       ,,44,01:55,29,379,"HUNTER, OTHELLO",P005160   ,Missed Two Pointer (3/5 -  6 pt),2FGA,,,CSKA Moscow,0
-BAM       ,,3,01:52,29,380,"WRIGHT, DORELL",P008049   ,Def Rebound (6),D,,,Brose Bamberg,0
-BAM       ,,42,01:43,29,381,"MUSLI, DEJAN",PLUR      ,Foul Drawn (4),RV,,,Brose Bamberg,0
-CSK       ,,20,01:43,29,382,"VORONTSEVICH, ANDREY",PLHI      ,Foul (3),CM,,,CSKA Moscow,0
-CSK       ,,1,01:43,29,383,"DE COLO, NANDO",P002100   ,Out,OUT,,,CSKA Moscow,0
-CSK       ,,13,01:43,29,384,"RODRIGUEZ, SERGIO",PCVM      ,In,IN,,,CSKA Moscow,0
-CSK       ,,22,01:43,29,385,"HIGGINS, CORY",P006450   ,In,IN,,,CSKA Moscow,0
-CSK       ,,41,01:43,29,386,"KURBANOV, NIKITA",PJLX      ,Out,OUT,,,CSKA Moscow,0
-BAM       ,,42,01:33,29,387,"MUSLI, DEJAN",PLUR      ,Two Pointer (1/3 -  4 pt),2FGM,52.0,44.0,Brose Bamberg,0
-BAM       ,,6,01:31,29,388,"ZISIS, NIKOS",PABN      ,Assist (2),AS,,,Brose Bamberg,0
-CSK       ,,13,01:07,29,389,"RODRIGUEZ, SERGIO",PCVM      ,Missed Three Pointer (1/3 -  6 pt),3FGA,,,CSKA Moscow,0
-CSK       ,,21,01:05,29,390,"CLYBURN, WILL",P004888   ,Off Rebound (2),O,,,CSKA Moscow,0
-CSK       ,,21,00:58,30,392,"CLYBURN, WILL",P004888   ,Missed Two Pointer (1/5 -  6 pt),2FGA,,,CSKA Moscow,0
-CSK       ,,21,00:58,30,393,"CLYBURN, WILL",P004888   ,Shot Rejected (1),AG,,,CSKA Moscow,0
-BAM       ,,3,00:58,30,394,"WRIGHT, DORELL",P008049   ,Block (1),FV,,,Brose Bamberg,0
-CSK       ,,,00:58,30,395,,          ,Off Rebound (2),O,,,CSKA Moscow,0
-CSK       ,,22,00:58,30,396,"HIGGINS, CORY",P006450   ,Missed Two Pointer (1/5 -  5 pt),2FGA,,,CSKA Moscow,0
-CSK       ,,21,00:58,30,397,"CLYBURN, WILL",P004888   ,Off Rebound (3),O,,,CSKA Moscow,0
-CSK       ,,21,00:58,30,398,"CLYBURN, WILL",P004888   ,Missed Two Pointer (1/6 -  6 pt),2FGA,,,CSKA Moscow,0
-BAM       ,,3,00:58,30,399,"WRIGHT, DORELL",P008049   ,Def Rebound (7),D,,,Brose Bamberg,0
-BAM       ,,21,00:58,30,400,"RUBIT, AUGUSTINE",P006477   ,Foul Drawn (4),RV,,,Brose Bamberg,0
-CSK       ,,20,00:58,30,401,"VORONTSEVICH, ANDREY",PLHI      ,Foul (4),CM,,,CSKA Moscow,0
-CSK       ,,11,00:40,30,402,"ANTONOV, SEMEN",P004941   ,In,IN,,,CSKA Moscow,0
-CSK       ,,20,00:40,30,403,"VORONTSEVICH, ANDREY",PLHI      ,Out,OUT,,,CSKA Moscow,0
-BAM       ,,3,00:40,30,404,"WRIGHT, DORELL",P008049   ,Out,OUT,,,Brose Bamberg,0
-BAM       ,,33,00:40,30,405,"HECKMANN, PATRICK",P006420   ,In,IN,,,Brose Bamberg,0
-BAM       ,,21,00:40,30,406,"RUBIT, AUGUSTINE",P006477   ,Free Throw In (3/5 -  5 pt),FTM,52.0,45.0,Brose Bamberg,0
-BAM       ,,21,00:40,30,407,"RUBIT, AUGUSTINE",P006477   ,Free Throw In (4/6 -  6 pt),FTM,52.0,46.0,Brose Bamberg,0
-BAM       ,,21,00:40,30,408,"RUBIT, AUGUSTINE",P006477   ,Out,OUT,,,Brose Bamberg,0
-BAM       ,,43,00:40,30,409,"RADOSEVIC, LEON",PLEM      ,In,IN,,,Brose Bamberg,0
-CSK       ,,22,00:16,30,410,"HIGGINS, CORY",P006450   ,Three Pointer (1/2 -  8 pt),3FGM,55.0,46.0,CSKA Moscow,0
-CSK       ,,21,00:14,30,411,"CLYBURN, WILL",P004888   ,Assist (3),AS,,,CSKA Moscow,0
-BAM       ,,12,00:05,30,412,"LO, MAODO",P007032   ,Missed Two Pointer (0/2 -  3 pt),2FGA,,,Brose Bamberg,0
-BAM       ,,12,00:05,30,413,"LO, MAODO",P007032   ,Shot Rejected (1),AG,,,Brose Bamberg,0
-CSK       ,,11,00:05,30,414,"ANTONOV, SEMEN",P004941   ,Block (1),FV,,,CSKA Moscow,0
-BAM       ,,,00:05,30,415,,          ,Off Rebound (3),O,,,Brose Bamberg,0
-BAM       ,,,00:05,30,416,,          ,Time Out (1),TOUT,,,Brose Bamberg,0
-CSK       ,,11,00:05,30,417,"ANTONOV, SEMEN",P004941   ,Out,OUT,,,CSKA Moscow,0
-CSK       ,,42,00:05,30,418,"HINES, KYLE",P002812   ,In,IN,,,CSKA Moscow,0
-BAM       ,,2,00:05,30,419,"HICKMAN, RICKY",P004159   ,In,IN,,,Brose Bamberg,0
-BAM       ,,8,00:05,30,420,"STAIGER, LUCCA",P002506   ,In,IN,,,Brose Bamberg,0
-BAM       ,,12,00:05,30,421,"LO, MAODO",P007032   ,Out,OUT,,,Brose Bamberg,0
-BAM       ,,21,00:05,30,422,"RUBIT, AUGUSTINE",P006477   ,In,IN,,,Brose Bamberg,0
-BAM       ,,33,00:05,30,423,"HECKMANN, PATRICK",P006420   ,Out,OUT,,,Brose Bamberg,0
-BAM       ,,43,00:05,30,424,"RADOSEVIC, LEON",PLEM      ,Out,OUT,,,Brose Bamberg,0
-BAM       ,,2,00:02,30,425,"HICKMAN, RICKY",P004159   ,Missed Two Pointer (1/3 -  5 pt),2FGA,,,Brose Bamberg,0
-CSK       ,,42,00:00,30,426,"HINES, KYLE",P002812   ,Def Rebound (2),D,,,CSKA Moscow,0
-          ,,,,31,428,,          ,End Period,EP,,,,0
-          ,,,,31,437,,          ,Begin Period,BP,,,,0
-CSK       ,,11,10:00,31,429,"ANTONOV, SEMEN",P004941   ,In,IN,,,CSKA Moscow,0
-CSK       ,,44,10:00,31,430,"HUNTER, OTHELLO",P005160   ,Out,OUT,,,CSKA Moscow,0
-BAM       ,,2,10:00,31,431,"HICKMAN, RICKY",P004159   ,Out,OUT,,,Brose Bamberg,0
-BAM       ,,6,10:00,31,432,"ZISIS, NIKOS",PABN      ,Out,OUT,,,Brose Bamberg,0
-BAM       ,,7,10:00,31,433,"NIKOLIC, ALEKSEJ",P003703   ,In,IN,,,Brose Bamberg,0
-BAM       ,,8,10:00,31,434,"STAIGER, LUCCA",P002506   ,Out,OUT,,,Brose Bamberg,0
-BAM       ,,12,10:00,31,435,"LO, MAODO",P007032   ,In,IN,,,Brose Bamberg,0
-BAM       ,,33,10:00,31,436,"HECKMANN, PATRICK",P006420   ,In,IN,,,Brose Bamberg,0
-CSK       ,,42,09:44,31,438,"HINES, KYLE",P002812   ,Two Pointer (1/4 -  2 pt),2FGM,57.0,46.0,CSKA Moscow,0
-CSK       ,,22,09:42,31,439,"HIGGINS, CORY",P006450   ,Assist (1),AS,,,CSKA Moscow,0
-BAM       ,,21,09:24,31,440,"RUBIT, AUGUSTINE",P006477   ,Two Pointer (2/4 -  8 pt),2FGM,57.0,48.0,Brose Bamberg,0
-CSK       ,,13,09:02,31,441,"RODRIGUEZ, SERGIO",PCVM      ,Two Pointer (1/1 -  8 pt),2FGM,59.0,48.0,CSKA Moscow,0
-BAM       ,,42,08:46,32,443,"MUSLI, DEJAN",PLUR      ,Turnover (2),TO,,,Brose Bamberg,0
-CSK       ,,13,08:25,32,444,"RODRIGUEZ, SERGIO",PCVM      ,Three Pointer (2/4 -  11 pt),3FGM,62.0,48.0,CSKA Moscow,0
-BAM       ,,33,08:01,32,445,"HECKMANN, PATRICK",P006420   ,Turnover (1),TO,,,Brose Bamberg,0
-CSK       ,,11,07:58,33,447,"ANTONOV, SEMEN",P004941   ,Steal (1),ST,,,CSKA Moscow,0
-CSK       ,,22,07:55,33,448,"HIGGINS, CORY",P006450   ,Two Pointer (2/6 -  10 pt),2FGM,64.0,48.0,CSKA Moscow,0
-CSK       ,,42,07:55,33,449,"HINES, KYLE",P002812   ,Assist (2),AS,,,CSKA Moscow,0
-BAM       ,,,07:55,33,450,,          ,Time Out (1),TOUT,,,Brose Bamberg,0
-BAM       ,,3,07:55,33,451,"WRIGHT, DORELL",P008049   ,In,IN,,,Brose Bamberg,0
-BAM       ,,33,07:55,33,452,"HECKMANN, PATRICK",P006420   ,Out,OUT,,,Brose Bamberg,0
-BAM       ,,42,07:55,33,453,"MUSLI, DEJAN",PLUR      ,Out,OUT,,,Brose Bamberg,0
-BAM       ,,43,07:55,33,454,"RADOSEVIC, LEON",PLEM      ,In,IN,,,Brose Bamberg,0
-BAM       ,,21,07:35,33,456,"RUBIT, AUGUSTINE",P006477   ,Missed Two Pointer (2/5 -  8 pt),2FGA,,,Brose Bamberg,0
-CSK       ,,21,07:35,33,457,"CLYBURN, WILL",P004888   ,Def Rebound (3),D,,,CSKA Moscow,0
-CSK       ,,11,07:17,33,458,"ANTONOV, SEMEN",P004941   ,Missed Three Pointer (1/3 -  9 pt),3FGA,,,CSKA Moscow,0
-BAM       ,,43,07:15,33,459,"RADOSEVIC, LEON",PLEM      ,Def Rebound (4),D,,,Brose Bamberg,0
-BAM       ,,21,07:08,33,460,"RUBIT, AUGUSTINE",P006477   ,Foul Drawn (5),RV,,,Brose Bamberg,0
-CSK       ,,11,07:08,33,461,"ANTONOV, SEMEN",P004941   ,Unsportsmanlike Foul  (4),CMU,,,CSKA Moscow,0
-BAM       ,,21,07:08,33,462,"RUBIT, AUGUSTINE",P006477   ,Free Throw In (5/7 -  9 pt),FTM,64.0,49.0,Brose Bamberg,0
-BAM       ,,7,07:08,33,463,"NIKOLIC, ALEKSEJ",P003703   ,Assist (1),AS,,,Brose Bamberg,0
-BAM       ,,21,07:08,33,464,"RUBIT, AUGUSTINE",P006477   ,Free Throw In (6/8 -  10 pt),FTM,64.0,50.0,Brose Bamberg,0
-CSK       ,,1,07:08,33,465,"DE COLO, NANDO",P002100   ,In,IN,,,CSKA Moscow,0
-CSK       ,,11,07:08,33,466,"ANTONOV, SEMEN",P004941   ,Out,OUT,,,CSKA Moscow,0
-BAM       ,,21,06:46,34,468,"RUBIT, AUGUSTINE",P006477   ,Turnover (1),TO,,,Brose Bamberg,0
-CSK       ,,1,06:45,34,469,"DE COLO, NANDO",P002100   ,Steal (2),ST,,,CSKA Moscow,0
-CSK       ,,13,06:42,34,470,"RODRIGUEZ, SERGIO",PCVM      ,Turnover (3),TO,,,CSKA Moscow,0
-BAM       ,,3,06:41,34,471,"WRIGHT, DORELL",P008049   ,Steal (2),ST,,,Brose Bamberg,0
-BAM       ,,3,06:40,34,472,"WRIGHT, DORELL",P008049   ,Turnover (1),TO,,,Brose Bamberg,0
-CSK       ,,42,06:28,34,473,"HINES, KYLE",P002812   ,Foul Drawn (2),RV,,,CSKA Moscow,0
-BAM       ,,12,06:28,34,474,"LO, MAODO",P007032   ,Foul (2),CM,,,Brose Bamberg,0
-CSK       ,,42,06:28,34,475,"HINES, KYLE",P002812   ,Free Throw In (1/1 -  3 pt),FTM,65.0,50.0,CSKA Moscow,0
-CSK       ,,13,06:28,34,476,"RODRIGUEZ, SERGIO",PCVM      ,Assist (5),AS,,,CSKA Moscow,0
-CSK       ,,42,06:28,34,477,"HINES, KYLE",P002812   ,Free Throw In (2/2 -  4 pt),FTM,66.0,50.0,CSKA Moscow,0
-BAM       ,,43,06:10,34,478,"RADOSEVIC, LEON",PLEM      ,Missed Two Pointer (2/7 -  4 pt),2FGA,,,Brose Bamberg,0
-BAM       ,,21,06:08,34,479,"RUBIT, AUGUSTINE",P006477   ,Off Rebound (2),O,,,Brose Bamberg,0
-BAM       ,,12,06:04,34,480,"LO, MAODO",P007032   ,Missed Two Pointer (0/3 -  3 pt),2FGA,,,Brose Bamberg,0
-BAM       ,,,06:04,34,481,,          ,Turnover (2),TO,,,Brose Bamberg,0
-BAM       ,,12,05:51,35,483,"LO, MAODO",P007032   ,Foul Drawn (2),RV,,,Brose Bamberg,0
-CSK       ,,42,05:51,35,484,"HINES, KYLE",P002812   ,Offensive Foul (2),OF,,,CSKA Moscow,0
-CSK       ,,42,05:51,35,485,"HINES, KYLE",P002812   ,Turnover (1),TO,,,CSKA Moscow,0
-BAM       ,,21,05:51,35,486,"RUBIT, AUGUSTINE",P006477   ,Out,OUT,,,Brose Bamberg,0
-BAM       ,,33,05:51,35,487,"HECKMANN, PATRICK",P006420   ,In,IN,,,Brose Bamberg,0
-BAM       ,,7,05:42,35,488,"NIKOLIC, ALEKSEJ",P003703   ,Foul Drawn (2),RV,,,Brose Bamberg,0
-CSK       ,,13,05:42,35,489,"RODRIGUEZ, SERGIO",PCVM      ,Foul (2),CM,,,CSKA Moscow,0
-CSK       ,,13,05:42,35,490,"RODRIGUEZ, SERGIO",PCVM      ,Foul Drawn (3),RV,,,CSKA Moscow,0
-BAM       ,,7,05:42,35,491,"NIKOLIC, ALEKSEJ",P003703   ,Unsportsmanlike Foul  (3),CMU,,,Brose Bamberg,0
-BAM       ,,7,05:42,35,572,"NIKOLIC, ALEKSEJ",P003703   ,Turnover (2),TO,,,Brose Bamberg,0
-CSK       ,,13,05:42,35,492,"RODRIGUEZ, SERGIO",PCVM      ,Free Throw In (4/5 -  12 pt),FTM,67.0,50.0,CSKA Moscow,0
-CSK       ,,13,05:42,35,493,"RODRIGUEZ, SERGIO",PCVM      ,Free Throw In (5/6 -  13 pt),FTM,68.0,50.0,CSKA Moscow,0
-CSK       ,,7,05:42,35,494,"FRIDZON, VITALY",PLLH      ,In,IN,,,CSKA Moscow,0
-CSK       ,,22,05:42,35,495,"HIGGINS, CORY",P006450   ,Out,OUT,,,CSKA Moscow,0
-CSK       ,,21,05:24,35,496,"CLYBURN, WILL",P004888   ,Missed Two Pointer (1/7 -  6 pt),2FGA,,,CSKA Moscow,0
-BAM       ,,,05:24,35,497,,          ,Off Rebound (4),O,,,Brose Bamberg,0
-BAM       ,,3,05:24,35,498,"WRIGHT, DORELL",P008049   ,Out,OUT,,,Brose Bamberg,0
-BAM       ,,8,05:24,35,499,"STAIGER, LUCCA",P002506   ,In,IN,,,Brose Bamberg,0
-BAM       ,,43,05:24,35,500,"RADOSEVIC, LEON",PLEM      ,Foul Drawn (2),RV,,,Brose Bamberg,0
-CSK       ,,13,05:24,35,501,"RODRIGUEZ, SERGIO",PCVM      ,Unsportsmanlike Foul  (3),CMU,,,CSKA Moscow,0
-BAM       ,,43,05:24,35,502,"RADOSEVIC, LEON",PLEM      ,Free Throw In (1/1 -  5 pt),FTM,68.0,51.0,Brose Bamberg,0
-BAM       ,,7,05:24,35,503,"NIKOLIC, ALEKSEJ",P003703   ,Assist (2),AS,,,Brose Bamberg,0
-BAM       ,,43,05:24,35,504,"RADOSEVIC, LEON",PLEM      ,Free Throw In (2/2 -  6 pt),FTM,68.0,52.0,Brose Bamberg,0
-BAM       ,,43,04:53,36,506,"RADOSEVIC, LEON",PLEM      ,Two Pointer (3/8 -  8 pt),2FGM,68.0,54.0,Brose Bamberg,0
-BAM       ,,12,04:51,36,507,"LO, MAODO",P007032   ,Assist (4),AS,,,Brose Bamberg,0
-CSK       ,,7,04:32,36,508,"FRIDZON, VITALY",PLLH      ,Three Pointer (1/1 -  3 pt),3FGM,71.0,54.0,CSKA Moscow,0
-CSK       ,,13,04:30,36,509,"RODRIGUEZ, SERGIO",PCVM      ,Assist (6),AS,,,CSKA Moscow,0
-BAM       ,,43,04:26,36,510,"RADOSEVIC, LEON",PLEM      ,Foul Drawn (3),RV,,,Brose Bamberg,0
-CSK       ,,7,04:26,36,511,"FRIDZON, VITALY",PLLH      ,Foul (1),CM,,,CSKA Moscow,0
-BAM       ,,43,04:26,36,512,"RADOSEVIC, LEON",PLEM      ,Free Throw In (3/3 -  9 pt),FTM,71.0,55.0,Brose Bamberg,0
-BAM       ,,43,04:26,36,513,"RADOSEVIC, LEON",PLEM      ,Free Throw In (4/4 -  10 pt),FTM,71.0,56.0,Brose Bamberg,0
-CSK       ,,7,04:11,36,514,"FRIDZON, VITALY",PLLH      ,Two Pointer (1/1 -  5 pt),2FGM,73.0,56.0,CSKA Moscow,0
-CSK       ,,1,04:09,36,515,"DE COLO, NANDO",P002100   ,Assist (4),AS,,,CSKA Moscow,0
-BAM       ,,12,03:58,37,517,"LO, MAODO",P007032   ,Two Pointer (1/4 -  5 pt),2FGM,73.0,58.0,Brose Bamberg,0
-CSK       ,,1,03:30,37,518,"DE COLO, NANDO",P002100   ,Missed Three Pointer (1/3 -  18 pt),3FGA,,,CSKA Moscow,0
-CSK       ,,21,03:27,37,519,"CLYBURN, WILL",P004888   ,Off Rebound (4),O,,,CSKA Moscow,0
-CSK       ,,1,03:23,37,520,"DE COLO, NANDO",P002100   ,Missed Two Pointer (2/4 -  18 pt),2FGA,,,CSKA Moscow,0
-BAM       ,,43,03:18,37,521,"RADOSEVIC, LEON",PLEM      ,Def Rebound (5),D,,,Brose Bamberg,0
-BAM       ,,12,03:08,37,522,"LO, MAODO",P007032   ,Three Pointer (2/3 -  8 pt),3FGM,73.0,61.0,Brose Bamberg,0
-CSK       ,,21,02:50,38,524,"CLYBURN, WILL",P004888   ,Missed Three Pointer (1/2 -  6 pt),3FGA,,,CSKA Moscow,0
-CSK       ,,42,02:50,38,525,"HINES, KYLE",P002812   ,Off Rebound (1),O,,,CSKA Moscow,0
-CSK       ,,42,02:50,38,526,"HINES, KYLE",P002812   ,Foul Drawn (3),RV,,,CSKA Moscow,0
-BAM       ,,12,02:50,38,527,"LO, MAODO",P007032   ,Foul (3),CM,,,Brose Bamberg,0
-BAM       ,,42,02:50,38,528,"MUSLI, DEJAN",PLUR      ,In,IN,,,Brose Bamberg,0
-BAM       ,,43,02:50,38,529,"RADOSEVIC, LEON",PLEM      ,Out,OUT,,,Brose Bamberg,0
-CSK       ,,42,02:50,38,530,"HINES, KYLE",P002812   ,Free Throw In (3/3 -  5 pt),FTM,74.0,61.0,CSKA Moscow,0
-CSK       ,,42,02:50,38,531,"HINES, KYLE",P002812   ,Free Throw In (4/4 -  6 pt),FTM,75.0,61.0,CSKA Moscow,0
-CSK       ,,42,02:50,38,532,"HINES, KYLE",P002812   ,Out,OUT,,,CSKA Moscow,0
-CSK       ,,44,02:50,38,533,"HUNTER, OTHELLO",P005160   ,In,IN,,,CSKA Moscow,0
-BAM       ,,8,02:36,38,534,"STAIGER, LUCCA",P002506   ,Foul Drawn (1),RV,,,Brose Bamberg,0
-CSK       ,,21,02:36,38,535,"CLYBURN, WILL",P004888   ,Foul (1),CM,,,CSKA Moscow,0
-BAM       ,,8,02:36,38,536,"STAIGER, LUCCA",P002506   ,Missed Free Throw (0/1 -  0 pt),FTA,,,Brose Bamberg,0
-BAM       ,,8,02:36,38,537,"STAIGER, LUCCA",P002506   ,Free Throw In (1/2 -  1 pt),FTM,75.0,62.0,Brose Bamberg,0
-CSK       ,,1,02:36,38,538,"DE COLO, NANDO",P002100   ,Technical Foul (2),CMT,,,CSKA Moscow,0
-BAM       ,,8,02:36,38,539,"STAIGER, LUCCA",P002506   ,Free Throw In (2/3 -  2 pt),FTM,75.0,63.0,Brose Bamberg,0
-BAM       ,,42,02:17,38,540,"MUSLI, DEJAN",PLUR      ,Missed Two Pointer (1/4 -  4 pt),2FGA,,,Brose Bamberg,0
-BAM       ,,42,02:15,38,541,"MUSLI, DEJAN",PLUR      ,Off Rebound (3),O,,,Brose Bamberg,0
-BAM       ,,42,02:14,38,542,"MUSLI, DEJAN",PLUR      ,Missed Two Pointer (1/5 -  4 pt),2FGA,,,Brose Bamberg,0
-BAM       ,,42,02:12,38,543,"MUSLI, DEJAN",PLUR      ,Off Rebound (4),O,,,Brose Bamberg,0
-BAM       ,,42,02:10,38,544,"MUSLI, DEJAN",PLUR      ,Missed Two Pointer (1/6 -  4 pt),2FGA,,,Brose Bamberg,0
-CSK       ,,44,02:07,38,545,"HUNTER, OTHELLO",P005160   ,Def Rebound (3),D,,,CSKA Moscow,0
-CSK       ,,1,02:05,38,546,"DE COLO, NANDO",P002100   ,Foul Drawn (8),RV,,,CSKA Moscow,0
-BAM       ,,12,02:05,38,547,"LO, MAODO",P007032   ,Foul (4),CM,,,Brose Bamberg,0
-CSK       ,,9,02:05,38,548,"WESTERMANN, LEO",P002543   ,In,IN,,,CSKA Moscow,0
-CSK       ,,13,02:05,38,549,"RODRIGUEZ, SERGIO",PCVM      ,Out,OUT,,,CSKA Moscow,0
-CSK       ,,1,02:05,38,550,"DE COLO, NANDO",P002100   ,Free Throw In (12/12 -  19 pt),FTM,76.0,63.0,CSKA Moscow,0
-CSK       ,,1,02:05,38,551,"DE COLO, NANDO",P002100   ,Free Throw In (13/13 -  20 pt),FTM,77.0,63.0,CSKA Moscow,0
-CSK       ,,1,02:05,38,552,"DE COLO, NANDO",P002100   ,Out,OUT,,,CSKA Moscow,0
-CSK       ,,22,02:05,38,553,"HIGGINS, CORY",P006450   ,In,IN,,,CSKA Moscow,0
-BAM       ,,42,01:54,39,555,"MUSLI, DEJAN",PLUR      ,Foul Drawn (5),RV,,,Brose Bamberg,0
-CSK       ,,7,01:54,39,556,"FRIDZON, VITALY",PLLH      ,Foul (2),CM,,,CSKA Moscow,0
-BAM       ,,42,01:54,39,557,"MUSLI, DEJAN",PLUR      ,Free Throw In (3/7 -  5 pt),FTM,77.0,64.0,Brose Bamberg,0
-BAM       ,,12,01:54,39,558,"LO, MAODO",P007032   ,Assist (5),AS,,,Brose Bamberg,0
-BAM       ,,42,01:54,39,559,"MUSLI, DEJAN",PLUR      ,Missed Free Throw (3/8 -  5 pt),FTA,,,Brose Bamberg,0
-CSK       ,,44,01:54,39,560,"HUNTER, OTHELLO",P005160   ,Def Rebound (4),D,,,CSKA Moscow,0
-CSK       ,,7,01:40,39,561,"FRIDZON, VITALY",PLLH      ,Missed Two Pointer (1/2 -  5 pt),2FGA,,,CSKA Moscow,0
-BAM       ,,33,01:38,39,562,"HECKMANN, PATRICK",P006420   ,Def Rebound (2),D,,,Brose Bamberg,0
-BAM       ,,12,01:28,39,563,"LO, MAODO",P007032   ,Two Pointer (2/5 -  10 pt),2FGM,77.0,66.0,Brose Bamberg,0
-BAM       ,,42,01:28,39,564,"MUSLI, DEJAN",PLUR      ,Assist (1),AS,,,Brose Bamberg,0
-CSK       ,,22,01:13,39,565,"HIGGINS, CORY",P006450   ,Two Pointer (3/7 -  12 pt),2FGM,79.0,66.0,CSKA Moscow,0
-BAM       ,,8,00:56,40,567,"STAIGER, LUCCA",P002506   ,Three Pointer (1/2 -  5 pt),3FGM,79.0,69.0,Brose Bamberg,0
-CSK       ,,22,00:38,40,568,"HIGGINS, CORY",P006450   ,Missed Two Pointer (3/8 -  12 pt),2FGA,,,CSKA Moscow,0
-CSK       ,,21,00:36,40,569,"CLYBURN, WILL",P004888   ,Off Rebound (5),O,,,CSKA Moscow,0
-CSK       ,,44,00:37,40,570,"HUNTER, OTHELLO",P005160   ,Two Pointer (4/6 -  8 pt),2FGM,81.0,69.0,CSKA Moscow,0
-CSK       ,,7,00:37,40,571,"FRIDZON, VITALY",PLLH      ,Assist (1),AS,,,CSKA Moscow,0
-BAM       ,,12,00:37,40,573,"LO, MAODO",P007032   ,Turnover (1),TO,,,Brose Bamberg,0
-CSK       ,,9,00:07,40,574,"WESTERMANN, LEO",P002543   ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,CSKA Moscow,0
-BAM       ,,12,00:04,40,575,"LO, MAODO",P007032   ,Def Rebound (2),D,,,Brose Bamberg,0
-BAM       ,,8,00:00,40,576,"STAIGER, LUCCA",P002506   ,Three Pointer (2/3 -  8 pt),3FGM,81.0,72.0,Brose Bamberg,0
-BAM       ,,12,00:00,40,577,"LO, MAODO",P007032   ,Assist (6),AS,,,Brose Bamberg,0
-          ,,,,41,580,,          ,End Game,EG,,,,0
+CODETEAM,COMMENT,DORSAL,MARKERTIME,MINUTE,NUMBEROFPLAY,PLAYER,PLAYER_ID,PLAYINFO,PLAYTYPE,POINTS_A,POINTS_B,TEAM,TYPE,home_team,home_team_code,away_team,away_team_code
+          ,,,,1,2,,          ,Begin Period,BP,,,,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,2,09:43,1,3,"HICKMAN, RICKY",P004159   ,Turnover (1),TO,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,42,09:30,1,4,"HINES, KYLE",P002812   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,2,09:27,1,5,"HICKMAN, RICKY",P004159   ,Def Rebound (1),D,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,6,09:21,1,6,"ZISIS, NIKOS",PABN      ,Two Pointer (1/1 -  2 pt),2FGM,,2.0,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,21,08:55,2,8,"CLYBURN, WILL",P004888   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,3,08:51,2,9,"WRIGHT, DORELL",P008049   ,Def Rebound (1),D,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,3,08:39,2,10,"WRIGHT, DORELL",P008049   ,Three Pointer (1/1 -  3 pt),3FGM,,5.0,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,21,08:39,2,11,"RUBIT, AUGUSTINE",P006477   ,Assist (1),AS,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,11,08:11,2,13,"ANTONOV, SEMEN",P004941   ,Two Pointer (1/1 -  2 pt),2FGM,2.0,5.0,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,21,08:11,2,14,"CLYBURN, WILL",P004888   ,Assist (1),AS,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,43,08:11,2,15,"RADOSEVIC, LEON",PLEM      ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,41,08:11,2,16,"KURBANOV, NIKITA",PJLX      ,Def Rebound (1),D,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,42,07:50,3,18,"HINES, KYLE",P002812   ,Foul Drawn (1),RV,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,3,07:50,3,19,"WRIGHT, DORELL",P008049   ,Foul (1),CM,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,21,07:42,3,20,"CLYBURN, WILL",P004888   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,2,07:40,3,21,"HICKMAN, RICKY",P004159   ,Def Rebound (2),D,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,3,07:36,3,22,"WRIGHT, DORELL",P008049   ,Missed Three Pointer (1/2 -  3 pt),3FGA,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,42,07:34,3,23,"HINES, KYLE",P002812   ,Def Rebound (1),D,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,11,07:18,3,24,"ANTONOV, SEMEN",P004941   ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,21,07:16,3,25,"RUBIT, AUGUSTINE",P006477   ,Def Rebound (1),D,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,3,07:10,3,26,"WRIGHT, DORELL",P008049   ,Two Pointer (1/1 -  5 pt),2FGM,2.0,7.0,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,2,07:08,3,27,"HICKMAN, RICKY",P004159   ,Assist (1),AS,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,13,06:57,4,29,"RODRIGUEZ, SERGIO",PCVM      ,Three Pointer (1/1 -  3 pt),3FGM,5.0,7.0,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,2,06:48,4,30,"HICKMAN, RICKY",P004159   ,Offensive Foul (1),OF,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,2,06:48,4,31,"HICKMAN, RICKY",P004159   ,Turnover (2),TO,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,41,06:48,4,32,"KURBANOV, NIKITA",PJLX      ,Foul Drawn (1),RV,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,13,06:25,4,33,"RODRIGUEZ, SERGIO",PCVM      ,Missed Three Pointer (1/2 -  3 pt),3FGA,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,11,06:22,4,34,"ANTONOV, SEMEN",P004941   ,Off Rebound (1),O,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,42,06:10,4,35,"HINES, KYLE",P002812   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,43,06:05,4,36,"RADOSEVIC, LEON",PLEM      ,Def Rebound (1),D,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,6,05:56,5,38,"ZISIS, NIKOS",PABN      ,Two Pointer (2/2 -  4 pt),2FGM,5.0,9.0,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,,05:56,5,39,,          ,Time Out (1),TOUT,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,1,05:56,5,40,"DE COLO, NANDO",P002100   ,In,IN,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,41,05:56,5,41,"KURBANOV, NIKITA",PJLX      ,Out,OUT,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,1,05:36,5,42,"DE COLO, NANDO",P002100   ,Three Pointer (1/1 -  3 pt),3FGM,8.0,9.0,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,2,05:13,5,43,"HICKMAN, RICKY",P004159   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,,05:13,5,44,,          ,Def Rebound (1),D,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,1,05:01,5,45,"DE COLO, NANDO",P002100   ,Foul Drawn (1),RV,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,43,05:01,5,46,"RADOSEVIC, LEON",PLEM      ,Foul (1),CM,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,1,05:01,5,47,"DE COLO, NANDO",P002100   ,Free Throw In (1/1 -  4 pt),FTM,9.0,9.0,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,1,05:01,5,48,"DE COLO, NANDO",P002100   ,Free Throw In (2/2 -  5 pt),FTM,10.0,9.0,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,2,04:43,6,50,"HICKMAN, RICKY",P004159   ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,21,04:39,6,51,"CLYBURN, WILL",P004888   ,Def Rebound (1),D,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,11,04:31,6,52,"ANTONOV, SEMEN",P004941   ,Two Pointer (2/2 -  4 pt),2FGM,12.0,9.0,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,21,04:28,6,53,"CLYBURN, WILL",P004888   ,Assist (2),AS,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,21,04:18,6,54,"RUBIT, AUGUSTINE",P006477   ,Foul Drawn (1),RV,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,13,04:18,6,55,"RODRIGUEZ, SERGIO",PCVM      ,Foul (1),CM,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,0,04:18,6,56,"HACKETT, DANIEL",P001844   ,In,IN,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,2,04:18,6,57,"HICKMAN, RICKY",P004159   ,Out,OUT,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,6,04:18,6,58,"ZISIS, NIKOS",PABN      ,Out,OUT,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,12,04:18,6,59,"LO, MAODO",P007032   ,In,IN,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,21,04:18,6,60,"RUBIT, AUGUSTINE",P006477   ,Free Throw In (1/1 -  1 pt),FTM,12.0,10.0,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,3,04:18,6,61,"WRIGHT, DORELL",P008049   ,Assist (1),AS,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,21,04:18,6,62,"RUBIT, AUGUSTINE",P006477   ,Free Throw In (2/2 -  2 pt),FTM,12.0,11.0,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,11,04:04,6,63,"ANTONOV, SEMEN",P004941   ,Three Pointer (1/2 -  7 pt),3FGM,15.0,11.0,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,13,04:02,6,64,"RODRIGUEZ, SERGIO",PCVM      ,Assist (1),AS,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,21,03:47,7,66,"RUBIT, AUGUSTINE",P006477   ,Missed Two Pointer (0/1 -  2 pt),2FGA,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,12,03:45,7,67,"LO, MAODO",P007032   ,Off Rebound (1),O,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,43,03:39,7,68,"RADOSEVIC, LEON",PLEM      ,Two Pointer (1/2 -  2 pt),2FGM,15.0,13.0,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,0,03:37,7,69,"HACKETT, DANIEL",P001844   ,Assist (1),AS,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,11,03:24,7,70,"ANTONOV, SEMEN",P004941   ,Two Pointer (3/3 -  9 pt),2FGM,17.0,13.0,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,13,03:22,7,71,"RODRIGUEZ, SERGIO",PCVM      ,Assist (2),AS,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,3,03:01,7,72,"WRIGHT, DORELL",P008049   ,Three Pointer (2/3 -  8 pt),3FGM,17.0,16.0,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,12,02:58,8,74,"LO, MAODO",P007032   ,Assist (1),AS,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,42,02:43,8,75,"HINES, KYLE",P002812   ,Missed Two Pointer (0/3 -  0 pt),2FGA,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,12,02:41,8,76,"LO, MAODO",P007032   ,Def Rebound (1),D,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,12,02:31,8,77,"LO, MAODO",P007032   ,Foul Drawn (1),RV,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,11,02:31,8,78,"ANTONOV, SEMEN",P004941   ,Foul (1),CM,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,11,02:31,8,79,"ANTONOV, SEMEN",P004941   ,Out,OUT,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,13,02:31,8,80,"RODRIGUEZ, SERGIO",PCVM      ,Out,OUT,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,20,02:31,8,81,"VORONTSEVICH, ANDREY",PLHI      ,In,IN,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,22,02:31,8,82,"HIGGINS, CORY",P006450   ,In,IN,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,42,02:31,8,83,"HINES, KYLE",P002812   ,Out,OUT,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,44,02:31,8,84,"HUNTER, OTHELLO",P005160   ,In,IN,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,21,02:31,8,85,"RUBIT, AUGUSTINE",P006477   ,Out,OUT,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,33,02:31,8,86,"HECKMANN, PATRICK",P006420   ,In,IN,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,42,02:31,8,87,"MUSLI, DEJAN",PLUR      ,In,IN,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,43,02:31,8,88,"RADOSEVIC, LEON",PLEM      ,Out,OUT,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,12,02:17,8,89,"LO, MAODO",P007032   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,22,02:15,8,90,"HIGGINS, CORY",P006450   ,Def Rebound (1),D,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,1,02:13,8,91,"DE COLO, NANDO",P002100   ,Foul Drawn (2),RV,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,12,02:13,8,92,"LO, MAODO",P007032   ,Foul (1),CM,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,22,02:06,8,93,"HIGGINS, CORY",P006450   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,3,02:04,8,94,"WRIGHT, DORELL",P008049   ,Def Rebound (2),D,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,0,01:41,9,96,"HACKETT, DANIEL",P001844   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,42,01:38,9,97,"MUSLI, DEJAN",PLUR      ,Off Rebound (1),O,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,12,01:35,9,98,"LO, MAODO",P007032   ,Three Pointer (1/1 -  3 pt),3FGM,17.0,19.0,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,0,01:33,9,99,"HACKETT, DANIEL",P001844   ,Assist (2),AS,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,22,01:10,9,100,"HIGGINS, CORY",P006450   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,21,01:08,9,101,"CLYBURN, WILL",P004888   ,Off Rebound (1),O,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,21,01:08,9,102,"CLYBURN, WILL",P004888   ,Foul Drawn (1),RV,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,33,01:08,9,103,"HECKMANN, PATRICK",P006420   ,Foul (1),CM,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,3,01:08,9,104,"WRIGHT, DORELL",P008049   ,Out,OUT,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,7,01:08,9,105,"NIKOLIC, ALEKSEJ",P003703   ,In,IN,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,21,01:08,9,106,"CLYBURN, WILL",P004888   ,Free Throw In (1/1 -  1 pt),FTM,18.0,19.0,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,21,01:08,9,107,"CLYBURN, WILL",P004888   ,Missed Free Throw (1/2 -  1 pt),FTA,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,42,01:08,9,108,"MUSLI, DEJAN",PLUR      ,Def Rebound (1),D,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,0,00:41,10,110,"HACKETT, DANIEL",P001844   ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,,00:41,10,113,,          ,Def Rebound (2),D,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,9,00:41,10,111,"WESTERMANN, LEO",P002543   ,In,IN,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,21,00:23,10,112,"CLYBURN, WILL",P004888   ,Out,OUT,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,44,00:20,10,114,"HUNTER, OTHELLO",P005160   ,Turnover (1),TO,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+          ,,,,11,116,,          ,End Period,EP,,,,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+          ,,,,11,117,,          ,Begin Period,BP,,,,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,1,09:51,11,118,"DE COLO, NANDO",P002100   ,Foul Drawn (3),RV,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,33,09:51,11,119,"HECKMANN, PATRICK",P006420   ,Foul (2),CM,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,8,09:51,11,120,"STAIGER, LUCCA",P002506   ,In,IN,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,12,09:51,11,121,"LO, MAODO",P007032   ,Out,OUT,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,1,09:51,11,122,"DE COLO, NANDO",P002100   ,Free Throw In (3/3 -  6 pt),FTM,19.0,19.0,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,1,09:51,11,123,"DE COLO, NANDO",P002100   ,Free Throw In (4/4 -  7 pt),FTM,20.0,19.0,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,7,09:30,11,124,"NIKOLIC, ALEKSEJ",P003703   ,Two Pointer (1/1 -  2 pt),2FGM,20.0,21.0,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,0,09:28,11,125,"HACKETT, DANIEL",P001844   ,Assist (3),AS,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,20,09:13,11,126,"VORONTSEVICH, ANDREY",PLHI      ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,44,09:12,11,127,"HUNTER, OTHELLO",P005160   ,Off Rebound (1),O,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,44,09:12,11,128,"HUNTER, OTHELLO",P005160   ,Two Pointer (1/1 -  2 pt),2FGM,22.0,21.0,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,44,09:12,11,129,"HUNTER, OTHELLO",P005160   ,Foul Drawn (1),RV,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,0,09:12,11,130,"HACKETT, DANIEL",P001844   ,Foul (1),CM,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,44,09:12,11,131,"HUNTER, OTHELLO",P005160   ,Missed Free Throw (0/1 -  2 pt),FTA,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,42,09:12,11,132,"MUSLI, DEJAN",PLUR      ,Def Rebound (2),D,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,7,09:09,11,133,"NIKOLIC, ALEKSEJ",P003703   ,Foul Drawn (1),RV,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,1,09:09,11,134,"DE COLO, NANDO",P002100   ,Foul (1),CM,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,42,08:59,12,270,"MUSLI, DEJAN",PLUR      ,Shot Rejected (1),AG,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,20,08:59,12,271,"VORONTSEVICH, ANDREY",PLHI      ,Block (1),FV,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,42,08:59,12,272,"MUSLI, DEJAN",PLUR      ,Off Rebound (2),O,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,42,08:59,12,273,"MUSLI, DEJAN",PLUR      ,Turnover (1),TO,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,42,08:47,12,269,"MUSLI, DEJAN",PLUR      ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,22,08:34,12,137,"HIGGINS, CORY",P006450   ,Foul Drawn (1),RV,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,7,08:34,12,138,"NIKOLIC, ALEKSEJ",P003703   ,Foul (1),CM,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,22,08:34,12,139,"HIGGINS, CORY",P006450   ,Missed Free Throw (0/1 -  0 pt),FTA,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,22,08:34,12,140,"HIGGINS, CORY",P006450   ,Free Throw In (1/2 -  1 pt),FTM,23.0,21.0,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,7,08:16,12,141,"NIKOLIC, ALEKSEJ",P003703   ,Turnover (1),TO,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,9,08:01,12,142,"WESTERMANN, LEO",P002543   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,44,07:59,13,144,"HUNTER, OTHELLO",P005160   ,Off Rebound (2),O,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,22,07:52,13,145,"HIGGINS, CORY",P006450   ,Two Pointer (1/3 -  3 pt),2FGM,25.0,21.0,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,42,07:52,13,146,"HINES, KYLE",P002812   ,In,IN,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,44,07:52,13,147,"HUNTER, OTHELLO",P005160   ,Out,OUT,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,42,07:52,13,148,"MUSLI, DEJAN",PLUR      ,Out,OUT,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,43,07:52,13,149,"RADOSEVIC, LEON",PLEM      ,In,IN,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,0,07:32,13,150,"HACKETT, DANIEL",P001844   ,Missed Three Pointer (0/3 -  0 pt),3FGA,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,,07:32,13,151,,          ,Def Rebound (3),D,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,9,07:32,13,152,"WESTERMANN, LEO",P002543   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,33,07:32,13,153,"HECKMANN, PATRICK",P006420   ,Def Rebound (1),D,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,0,07:32,13,154,"HACKETT, DANIEL",P001844   ,Turnover (1),TO,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,22,07:32,13,155,"HIGGINS, CORY",P006450   ,Steal (1),ST,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,22,07:32,13,156,"HIGGINS, CORY",P006450   ,Foul Drawn (2),RV,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,0,07:32,13,157,"HACKETT, DANIEL",P001844   ,Foul (2),CM,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,9,07:32,13,158,"WESTERMANN, LEO",P002543   ,Out,OUT,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,13,07:32,13,159,"RODRIGUEZ, SERGIO",PCVM      ,In,IN,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,0,07:32,13,160,"HACKETT, DANIEL",P001844   ,Out,OUT,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,6,07:32,13,161,"ZISIS, NIKOS",PABN      ,In,IN,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,21,07:32,13,162,"RUBIT, AUGUSTINE",P006477   ,In,IN,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,33,07:32,13,163,"HECKMANN, PATRICK",P006420   ,Out,OUT,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,22,07:32,13,164,"HIGGINS, CORY",P006450   ,Free Throw In (2/3 -  4 pt),FTM,26.0,21.0,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,22,06:56,14,166,"HIGGINS, CORY",P006450   ,Free Throw In (3/4 -  5 pt),FTM,27.0,21.0,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,43,06:39,14,167,"RADOSEVIC, LEON",PLEM      ,Two Pointer (2/3 -  4 pt),2FGM,27.0,23.0,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,6,06:36,14,168,"ZISIS, NIKOS",PABN      ,Assist (1),AS,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,1,06:24,14,169,"DE COLO, NANDO",P002100   ,Foul Drawn (4),RV,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,8,06:24,14,170,"STAIGER, LUCCA",P002506   ,Foul (1),CM,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,1,06:24,14,171,"DE COLO, NANDO",P002100   ,Free Throw In (5/5 -  8 pt),FTM,28.0,23.0,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,1,06:24,14,172,"DE COLO, NANDO",P002100   ,Free Throw In (6/6 -  9 pt),FTM,29.0,23.0,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,21,06:11,14,173,"RUBIT, AUGUSTINE",P006477   ,Foul Drawn (2),RV,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,20,06:11,14,174,"VORONTSEVICH, ANDREY",PLHI      ,Foul (1),CM,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,21,06:11,14,175,"RUBIT, AUGUSTINE",P006477   ,Missed Free Throw (2/3 -  2 pt),FTA,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,21,06:11,14,176,"RUBIT, AUGUSTINE",P006477   ,Missed Free Throw (2/4 -  2 pt),FTA,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,20,06:11,14,177,"VORONTSEVICH, ANDREY",PLHI      ,Def Rebound (1),D,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,22,05:53,15,179,"HIGGINS, CORY",P006450   ,Missed Three Pointer (0/1 -  5 pt),3FGA,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,7,05:51,15,180,"NIKOLIC, ALEKSEJ",P003703   ,Def Rebound (1),D,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,8,05:37,15,181,"STAIGER, LUCCA",P002506   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,21,05:35,15,182,"RUBIT, AUGUSTINE",P006477   ,Off Rebound (1),O,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,21,05:28,15,183,"RUBIT, AUGUSTINE",P006477   ,Foul Drawn (3),RV,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,22,05:28,15,184,"HIGGINS, CORY",P006450   ,Foul (1),CM,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,11,05:28,15,185,"ANTONOV, SEMEN",P004941   ,In,IN,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,20,05:28,15,186,"VORONTSEVICH, ANDREY",PLHI      ,Out,OUT,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,2,05:28,15,187,"HICKMAN, RICKY",P004159   ,In,IN,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,8,05:28,15,188,"STAIGER, LUCCA",P002506   ,Out,OUT,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,43,05:18,15,189,"RADOSEVIC, LEON",PLEM      ,Foul Drawn (1),RV,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,42,05:18,15,190,"HINES, KYLE",P002812   ,Foul (1),CM,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,43,05:02,15,191,"RADOSEVIC, LEON",PLEM      ,Missed Two Pointer (2/4 -  4 pt),2FGA,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,22,05:00,15,192,"HIGGINS, CORY",P006450   ,Def Rebound (2),D,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,13,04:50,16,194,"RODRIGUEZ, SERGIO",PCVM      ,Turnover (1),TO,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,43,04:48,16,195,"RADOSEVIC, LEON",PLEM      ,Steal (1),ST,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,6,04:44,16,196,"ZISIS, NIKOS",PABN      ,Turnover (1),TO,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,13,04:42,16,197,"RODRIGUEZ, SERGIO",PCVM      ,Steal (1),ST,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,1,04:41,16,198,"DE COLO, NANDO",P002100   ,Two Pointer (1/1 -  11 pt),2FGM,31.0,23.0,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,13,04:41,16,199,"RODRIGUEZ, SERGIO",PCVM      ,Assist (3),AS,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,,04:41,16,200,,          ,Time Out (1),TOUT,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,3,04:41,16,201,"WRIGHT, DORELL",P008049   ,In,IN,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,7,04:41,16,202,"NIKOLIC, ALEKSEJ",P003703   ,Out,OUT,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,21,04:15,16,203,"RUBIT, AUGUSTINE",P006477   ,Missed Two Pointer (0/2 -  2 pt),2FGA,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,13,04:13,16,204,"RODRIGUEZ, SERGIO",PCVM      ,Def Rebound (1),D,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,1,03:52,17,206,"DE COLO, NANDO",P002100   ,Foul Drawn (5),RV,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,6,03:52,17,207,"ZISIS, NIKOS",PABN      ,Foul (1),CM,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,1,03:52,17,208,"DE COLO, NANDO",P002100   ,Free Throw In (7/7 -  12 pt),FTM,32.0,23.0,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,42,03:52,17,209,"HINES, KYLE",P002812   ,Assist (1),AS,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,1,03:52,17,210,"DE COLO, NANDO",P002100   ,Free Throw In (8/8 -  13 pt),FTM,33.0,23.0,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,1,03:52,17,211,"DE COLO, NANDO",P002100   ,Free Throw In (9/9 -  14 pt),FTM,34.0,23.0,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,1,03:52,17,212,"DE COLO, NANDO",P002100   ,Out,OUT,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,21,03:52,17,213,"CLYBURN, WILL",P004888   ,In,IN,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,43,03:39,17,214,"RADOSEVIC, LEON",PLEM      ,Turnover (1),TO,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,42,03:39,17,215,"HINES, KYLE",P002812   ,Steal (1),ST,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,21,03:39,17,216,"CLYBURN, WILL",P004888   ,Missed Two Pointer (0/3 -  1 pt),2FGA,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,43,03:39,17,217,"RADOSEVIC, LEON",PLEM      ,Def Rebound (2),D,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,6,03:39,17,218,"ZISIS, NIKOS",PABN      ,Three Pointer (1/1 -  7 pt),3FGM,34.0,26.0,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,43,03:39,17,263,"RADOSEVIC, LEON",PLEM      ,Assist (1),AS,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,,03:39,17,219,,          ,Time Out (1),TOUT,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,13,03:01,17,221,"RODRIGUEZ, SERGIO",PCVM      ,Foul Drawn (1),RV,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,6,03:01,17,222,"ZISIS, NIKOS",PABN      ,Foul (2),CM,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,6,03:01,17,223,"ZISIS, NIKOS",PABN      ,Out,OUT,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,12,03:01,17,224,"LO, MAODO",P007032   ,In,IN,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,13,03:01,17,225,"RODRIGUEZ, SERGIO",PCVM      ,Free Throw In (1/1 -  4 pt),FTM,35.0,26.0,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,13,03:01,17,226,"RODRIGUEZ, SERGIO",PCVM      ,Free Throw In (2/2 -  5 pt),FTM,36.0,26.0,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,42,03:01,17,227,"HINES, KYLE",P002812   ,Out,OUT,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,44,03:01,17,228,"HUNTER, OTHELLO",P005160   ,In,IN,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,42,03:01,17,229,"MUSLI, DEJAN",PLUR      ,In,IN,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,43,03:01,17,230,"RADOSEVIC, LEON",PLEM      ,Out,OUT,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,12,02:45,18,232,"LO, MAODO",P007032   ,Missed Three Pointer (1/2 -  3 pt),3FGA,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,22,02:39,18,233,"HIGGINS, CORY",P006450   ,Def Rebound (3),D,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,13,02:37,18,234,"RODRIGUEZ, SERGIO",PCVM      ,Turnover (2),TO,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,2,02:36,18,235,"HICKMAN, RICKY",P004159   ,Steal (1),ST,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,42,02:32,18,236,"MUSLI, DEJAN",PLUR      ,Foul Drawn (1),RV,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,11,02:32,18,237,"ANTONOV, SEMEN",P004941   ,Foul (2),CM,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,42,02:32,18,238,"MUSLI, DEJAN",PLUR      ,Missed Free Throw (0/1 -  0 pt),FTA,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,42,02:32,18,239,"MUSLI, DEJAN",PLUR      ,Free Throw In (1/2 -  1 pt),FTM,36.0,27.0,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,11,02:32,18,240,"ANTONOV, SEMEN",P004941   ,Out,OUT,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,41,02:32,18,241,"KURBANOV, NIKITA",PJLX      ,In,IN,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,44,02:12,18,242,"HUNTER, OTHELLO",P005160   ,Two Pointer (2/2 -  4 pt),2FGM,38.0,27.0,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,13,02:08,18,243,"RODRIGUEZ, SERGIO",PCVM      ,Assist (4),AS,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,,01:47,19,245,,          ,Turnover (1),TO,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,13,01:27,19,246,"RODRIGUEZ, SERGIO",PCVM      ,Foul Drawn (2),RV,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,21,01:27,19,247,"RUBIT, AUGUSTINE",P006477   ,Foul (1),CM,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,13,01:27,19,248,"RODRIGUEZ, SERGIO",PCVM      ,Free Throw In (3/3 -  6 pt),FTM,39.0,27.0,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,13,01:27,19,249,"RODRIGUEZ, SERGIO",PCVM      ,Missed Free Throw (3/4 -  6 pt),FTA,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,3,01:27,19,250,"WRIGHT, DORELL",P008049   ,Def Rebound (3),D,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,42,01:15,19,251,"MUSLI, DEJAN",PLUR      ,Foul Drawn (2),RV,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,44,01:15,19,252,"HUNTER, OTHELLO",P005160   ,Foul (1),CM,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,9,01:15,19,253,"WESTERMANN, LEO",P002543   ,In,IN,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,13,01:15,19,254,"RODRIGUEZ, SERGIO",PCVM      ,Out,OUT,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,42,01:15,19,255,"MUSLI, DEJAN",PLUR      ,Missed Free Throw (1/3 -  1 pt),FTA,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,42,01:15,19,256,"MUSLI, DEJAN",PLUR      ,Free Throw In (2/4 -  2 pt),FTM,39.0,28.0,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,9,00:55,20,258,"WESTERMANN, LEO",P002543   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,2,00:53,20,259,"HICKMAN, RICKY",P004159   ,Def Rebound (3),D,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,2,00:36,20,260,"HICKMAN, RICKY",P004159   ,Two Pointer (1/1 -  2 pt),2FGM,39.0,30.0,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,9,00:19,20,261,"WESTERMANN, LEO",P002543   ,Turnover (1),TO,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,,00:19,20,262,,          ,Time Out (2),TOUT,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,8,00:19,20,264,"STAIGER, LUCCA",P002506   ,In,IN,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,42,00:19,20,265,"MUSLI, DEJAN",PLUR      ,Out,OUT,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,2,00:00,20,266,"HICKMAN, RICKY",P004159   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+          ,,,,21,268,,          ,End Period,EP,,,,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+          ,,,,21,284,,          ,Begin Period,BP,,,,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,1,10:00,21,274,"DE COLO, NANDO",P002100   ,In,IN,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,9,10:00,21,275,"WESTERMANN, LEO",P002543   ,Out,OUT,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,11,10:00,21,276,"ANTONOV, SEMEN",P004941   ,In,IN,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,21,10:00,21,277,"CLYBURN, WILL",P004888   ,Out,OUT,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,0,10:00,21,278,"HACKETT, DANIEL",P001844   ,In,IN,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,8,10:00,21,279,"STAIGER, LUCCA",P002506   ,Out,OUT,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,12,10:00,21,280,"LO, MAODO",P007032   ,Out,OUT,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,21,10:00,21,281,"RUBIT, AUGUSTINE",P006477   ,Out,OUT,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,33,10:00,21,282,"HECKMANN, PATRICK",P006420   ,In,IN,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,43,10:00,21,283,"RADOSEVIC, LEON",PLEM      ,In,IN,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,2,09:38,21,285,"HICKMAN, RICKY",P004159   ,Turnover (3),TO,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,1,09:34,21,286,"DE COLO, NANDO",P002100   ,Steal (1),ST,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,1,09:32,21,287,"DE COLO, NANDO",P002100   ,Missed Two Pointer (1/2 -  14 pt),2FGA,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,3,09:29,21,288,"WRIGHT, DORELL",P008049   ,Def Rebound (4),D,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,2,09:25,21,289,"HICKMAN, RICKY",P004159   ,Three Pointer (1/3 -  5 pt),3FGM,39.0,33.0,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,3,09:23,21,290,"WRIGHT, DORELL",P008049   ,Assist (2),AS,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,1,09:19,21,291,"DE COLO, NANDO",P002100   ,Foul Drawn (6),RV,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,0,09:19,21,292,"HACKETT, DANIEL",P001844   ,Foul (3),CM,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,0,09:19,21,293,"HACKETT, DANIEL",P001844   ,Out,OUT,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,7,09:19,21,294,"NIKOLIC, ALEKSEJ",P003703   ,In,IN,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,22,09:08,21,295,"HIGGINS, CORY",P006450   ,Missed Two Pointer (1/4 -  5 pt),2FGA,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,44,09:06,21,296,"HUNTER, OTHELLO",P005160   ,Off Rebound (3),O,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,22,09:02,21,297,"HIGGINS, CORY",P006450   ,Foul Drawn (3),RV,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,7,09:02,21,298,"NIKOLIC, ALEKSEJ",P003703   ,Foul (2),CM,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,22,08:54,22,300,"HIGGINS, CORY",P006450   ,Turnover (1),TO,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,2,08:39,22,301,"HICKMAN, RICKY",P004159   ,Missed Three Pointer (1/4 -  5 pt),3FGA,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,1,08:36,22,302,"DE COLO, NANDO",P002100   ,Def Rebound (1),D,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,44,08:33,22,303,"HUNTER, OTHELLO",P005160   ,Two Pointer (3/3 -  6 pt),2FGM,41.0,33.0,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,1,08:31,22,304,"DE COLO, NANDO",P002100   ,Assist (1),AS,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,3,08:13,22,305,"WRIGHT, DORELL",P008049   ,Missed Two Pointer (1/2 -  8 pt),2FGA,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,41,08:11,22,306,"KURBANOV, NIKITA",PJLX      ,Def Rebound (2),D,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,44,08:08,22,307,"HUNTER, OTHELLO",P005160   ,Missed Two Pointer (3/4 -  6 pt),2FGA,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,,08:08,22,308,,          ,Off Rebound (1),O,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,1,08:01,22,309,"DE COLO, NANDO",P002100   ,Turnover (1),TO,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,7,07:47,23,311,"NIKOLIC, ALEKSEJ",P003703   ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,11,07:44,23,312,"ANTONOV, SEMEN",P004941   ,Def Rebound (1),D,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,41,07:44,23,313,"KURBANOV, NIKITA",PJLX      ,Two Pointer (1/1 -  2 pt),2FGM,43.0,33.0,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,1,07:44,23,314,"DE COLO, NANDO",P002100   ,Assist (2),AS,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,43,07:20,23,315,"RADOSEVIC, LEON",PLEM      ,Missed Two Pointer (2/5 -  4 pt),2FGA,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,1,07:18,23,316,"DE COLO, NANDO",P002100   ,Def Rebound (2),D,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,22,07:17,23,317,"HIGGINS, CORY",P006450   ,Foul Drawn (4),RV,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,33,07:17,23,318,"HECKMANN, PATRICK",P006420   ,Foul (3),CM,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,1,07:13,23,319,"DE COLO, NANDO",P002100   ,Turnover (2),TO,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,2,06:46,24,321,"HICKMAN, RICKY",P004159   ,Missed Three Pointer (1/5 -  5 pt),3FGA,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,44,06:43,24,322,"HUNTER, OTHELLO",P005160   ,Def Rebound (1),D,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,1,06:40,24,323,"DE COLO, NANDO",P002100   ,Foul Drawn (7),RV,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,2,06:40,24,324,"HICKMAN, RICKY",P004159   ,Foul (2),CM,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,1,06:40,24,325,"DE COLO, NANDO",P002100   ,Free Throw In (10/10 -  15 pt),FTM,44.0,33.0,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,41,06:40,24,326,"KURBANOV, NIKITA",PJLX      ,Assist (1),AS,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,1,06:40,24,327,"DE COLO, NANDO",P002100   ,Free Throw In (11/11 -  16 pt),FTM,45.0,33.0,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,7,06:40,24,328,"NIKOLIC, ALEKSEJ",P003703   ,Out,OUT,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,12,06:40,24,329,"LO, MAODO",P007032   ,In,IN,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,43,06:19,24,330,"RADOSEVIC, LEON",PLEM      ,Missed Two Pointer (2/6 -  4 pt),2FGA,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,41,06:17,24,331,"KURBANOV, NIKITA",PJLX      ,Def Rebound (3),D,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,1,06:10,24,332,"DE COLO, NANDO",P002100   ,Missed Three Pointer (1/2 -  16 pt),3FGA,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,43,06:07,24,333,"RADOSEVIC, LEON",PLEM      ,Def Rebound (3),D,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,33,05:57,25,335,"HECKMANN, PATRICK",P006420   ,Two Pointer (1/1 -  2 pt),2FGM,45.0,35.0,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,12,05:55,25,336,"LO, MAODO",P007032   ,Assist (2),AS,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,41,05:32,25,337,"KURBANOV, NIKITA",PJLX      ,Turnover (1),TO,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,3,05:31,25,338,"WRIGHT, DORELL",P008049   ,Steal (1),ST,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,3,05:31,25,339,"WRIGHT, DORELL",P008049   ,Foul Drawn (1),RV,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,11,05:31,25,340,"ANTONOV, SEMEN",P004941   ,Foul (3),CM,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,11,05:31,25,341,"ANTONOV, SEMEN",P004941   ,Out,OUT,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,20,05:31,25,342,"VORONTSEVICH, ANDREY",PLHI      ,In,IN,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,33,05:10,25,343,"HECKMANN, PATRICK",P006420   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,20,05:08,25,344,"VORONTSEVICH, ANDREY",PLHI      ,Def Rebound (2),D,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,1,05:00,26,346,"DE COLO, NANDO",P002100   ,Two Pointer (2/3 -  18 pt),2FGM,47.0,35.0,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,3,04:40,26,347,"WRIGHT, DORELL",P008049   ,Two Pointer (2/3 -  10 pt),2FGM,47.0,37.0,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,3,04:40,26,348,"WRIGHT, DORELL",P008049   ,Foul Drawn (2),RV,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,20,04:40,26,349,"VORONTSEVICH, ANDREY",PLHI      ,Foul (2),CM,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+          ,,,04:40,26,350,,          ,TV Time Out (1),TOUT_TV,,,,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,21,04:40,26,351,"CLYBURN, WILL",P004888   ,In,IN,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,22,04:40,26,352,"HIGGINS, CORY",P006450   ,Out,OUT,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,2,04:40,26,353,"HICKMAN, RICKY",P004159   ,Out,OUT,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,6,04:40,26,354,"ZISIS, NIKOS",PABN      ,In,IN,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,21,04:40,26,355,"RUBIT, AUGUSTINE",P006477   ,In,IN,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,33,04:40,26,356,"HECKMANN, PATRICK",P006420   ,Out,OUT,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,42,04:40,26,357,"MUSLI, DEJAN",PLUR      ,In,IN,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,43,04:40,26,358,"RADOSEVIC, LEON",PLEM      ,Out,OUT,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,3,04:40,26,359,"WRIGHT, DORELL",P008049   ,Free Throw In (1/1 -  11 pt),FTM,47.0,38.0,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,20,04:24,26,360,"VORONTSEVICH, ANDREY",PLHI      ,Turnover (1),TO,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,42,03:59,27,362,"MUSLI, DEJAN",PLUR      ,Foul Drawn (3),RV,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,44,03:59,27,363,"HUNTER, OTHELLO",P005160   ,Foul (2),CM,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,42,03:59,27,364,"MUSLI, DEJAN",PLUR      ,Missed Free Throw (2/5 -  2 pt),FTA,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,42,03:59,27,365,"MUSLI, DEJAN",PLUR      ,Missed Free Throw (2/6 -  2 pt),FTA,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,21,03:59,27,366,"CLYBURN, WILL",P004888   ,Def Rebound (2),D,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,21,03:48,27,367,"CLYBURN, WILL",P004888   ,Two Pointer (1/4 -  3 pt),2FGM,49.0,38.0,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,21,03:26,27,368,"RUBIT, AUGUSTINE",P006477   ,Two Pointer (1/3 -  4 pt),2FGM,49.0,40.0,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,12,03:24,27,369,"LO, MAODO",P007032   ,Assist (3),AS,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,20,03:01,27,370,"VORONTSEVICH, ANDREY",PLHI      ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,3,02:59,28,372,"WRIGHT, DORELL",P008049   ,Def Rebound (5),D,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,42,02:53,28,373,"MUSLI, DEJAN",PLUR      ,Missed Two Pointer (0/2 -  2 pt),2FGA,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,44,02:50,28,374,"HUNTER, OTHELLO",P005160   ,Def Rebound (2),D,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,21,02:43,28,375,"CLYBURN, WILL",P004888   ,Three Pointer (1/1 -  6 pt),3FGM,52.0,40.0,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,1,02:41,28,376,"DE COLO, NANDO",P002100   ,Assist (3),AS,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,6,02:20,28,377,"ZISIS, NIKOS",PABN      ,Two Pointer (3/3 -  9 pt),2FGM,52.0,42.0,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,44,01:55,29,379,"HUNTER, OTHELLO",P005160   ,Missed Two Pointer (3/5 -  6 pt),2FGA,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,3,01:52,29,380,"WRIGHT, DORELL",P008049   ,Def Rebound (6),D,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,42,01:43,29,381,"MUSLI, DEJAN",PLUR      ,Foul Drawn (4),RV,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,20,01:43,29,382,"VORONTSEVICH, ANDREY",PLHI      ,Foul (3),CM,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,1,01:43,29,383,"DE COLO, NANDO",P002100   ,Out,OUT,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,13,01:43,29,384,"RODRIGUEZ, SERGIO",PCVM      ,In,IN,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,22,01:43,29,385,"HIGGINS, CORY",P006450   ,In,IN,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,41,01:43,29,386,"KURBANOV, NIKITA",PJLX      ,Out,OUT,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,42,01:33,29,387,"MUSLI, DEJAN",PLUR      ,Two Pointer (1/3 -  4 pt),2FGM,52.0,44.0,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,6,01:31,29,388,"ZISIS, NIKOS",PABN      ,Assist (2),AS,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,13,01:07,29,389,"RODRIGUEZ, SERGIO",PCVM      ,Missed Three Pointer (1/3 -  6 pt),3FGA,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,21,01:05,29,390,"CLYBURN, WILL",P004888   ,Off Rebound (2),O,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,21,00:58,30,392,"CLYBURN, WILL",P004888   ,Missed Two Pointer (1/5 -  6 pt),2FGA,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,21,00:58,30,393,"CLYBURN, WILL",P004888   ,Shot Rejected (1),AG,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,3,00:58,30,394,"WRIGHT, DORELL",P008049   ,Block (1),FV,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,,00:58,30,395,,          ,Off Rebound (2),O,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,22,00:58,30,396,"HIGGINS, CORY",P006450   ,Missed Two Pointer (1/5 -  5 pt),2FGA,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,21,00:58,30,397,"CLYBURN, WILL",P004888   ,Off Rebound (3),O,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,21,00:58,30,398,"CLYBURN, WILL",P004888   ,Missed Two Pointer (1/6 -  6 pt),2FGA,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,3,00:58,30,399,"WRIGHT, DORELL",P008049   ,Def Rebound (7),D,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,21,00:58,30,400,"RUBIT, AUGUSTINE",P006477   ,Foul Drawn (4),RV,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,20,00:58,30,401,"VORONTSEVICH, ANDREY",PLHI      ,Foul (4),CM,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,11,00:40,30,402,"ANTONOV, SEMEN",P004941   ,In,IN,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,20,00:40,30,403,"VORONTSEVICH, ANDREY",PLHI      ,Out,OUT,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,3,00:40,30,404,"WRIGHT, DORELL",P008049   ,Out,OUT,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,33,00:40,30,405,"HECKMANN, PATRICK",P006420   ,In,IN,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,21,00:40,30,406,"RUBIT, AUGUSTINE",P006477   ,Free Throw In (3/5 -  5 pt),FTM,52.0,45.0,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,21,00:40,30,407,"RUBIT, AUGUSTINE",P006477   ,Free Throw In (4/6 -  6 pt),FTM,52.0,46.0,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,21,00:40,30,408,"RUBIT, AUGUSTINE",P006477   ,Out,OUT,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,43,00:40,30,409,"RADOSEVIC, LEON",PLEM      ,In,IN,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,22,00:16,30,410,"HIGGINS, CORY",P006450   ,Three Pointer (1/2 -  8 pt),3FGM,55.0,46.0,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,21,00:14,30,411,"CLYBURN, WILL",P004888   ,Assist (3),AS,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,12,00:05,30,412,"LO, MAODO",P007032   ,Missed Two Pointer (0/2 -  3 pt),2FGA,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,12,00:05,30,413,"LO, MAODO",P007032   ,Shot Rejected (1),AG,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,11,00:05,30,414,"ANTONOV, SEMEN",P004941   ,Block (1),FV,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,,00:05,30,415,,          ,Off Rebound (3),O,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,,00:05,30,416,,          ,Time Out (1),TOUT,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,11,00:05,30,417,"ANTONOV, SEMEN",P004941   ,Out,OUT,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,42,00:05,30,418,"HINES, KYLE",P002812   ,In,IN,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,2,00:05,30,419,"HICKMAN, RICKY",P004159   ,In,IN,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,8,00:05,30,420,"STAIGER, LUCCA",P002506   ,In,IN,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,12,00:05,30,421,"LO, MAODO",P007032   ,Out,OUT,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,21,00:05,30,422,"RUBIT, AUGUSTINE",P006477   ,In,IN,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,33,00:05,30,423,"HECKMANN, PATRICK",P006420   ,Out,OUT,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,43,00:05,30,424,"RADOSEVIC, LEON",PLEM      ,Out,OUT,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,2,00:02,30,425,"HICKMAN, RICKY",P004159   ,Missed Two Pointer (1/3 -  5 pt),2FGA,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,42,00:00,30,426,"HINES, KYLE",P002812   ,Def Rebound (2),D,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+          ,,,,31,428,,          ,End Period,EP,,,,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+          ,,,,31,437,,          ,Begin Period,BP,,,,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,11,10:00,31,429,"ANTONOV, SEMEN",P004941   ,In,IN,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,44,10:00,31,430,"HUNTER, OTHELLO",P005160   ,Out,OUT,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,2,10:00,31,431,"HICKMAN, RICKY",P004159   ,Out,OUT,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,6,10:00,31,432,"ZISIS, NIKOS",PABN      ,Out,OUT,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,7,10:00,31,433,"NIKOLIC, ALEKSEJ",P003703   ,In,IN,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,8,10:00,31,434,"STAIGER, LUCCA",P002506   ,Out,OUT,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,12,10:00,31,435,"LO, MAODO",P007032   ,In,IN,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,33,10:00,31,436,"HECKMANN, PATRICK",P006420   ,In,IN,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,42,09:44,31,438,"HINES, KYLE",P002812   ,Two Pointer (1/4 -  2 pt),2FGM,57.0,46.0,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,22,09:42,31,439,"HIGGINS, CORY",P006450   ,Assist (1),AS,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,21,09:24,31,440,"RUBIT, AUGUSTINE",P006477   ,Two Pointer (2/4 -  8 pt),2FGM,57.0,48.0,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,13,09:02,31,441,"RODRIGUEZ, SERGIO",PCVM      ,Two Pointer (1/1 -  8 pt),2FGM,59.0,48.0,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,42,08:46,32,443,"MUSLI, DEJAN",PLUR      ,Turnover (2),TO,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,13,08:25,32,444,"RODRIGUEZ, SERGIO",PCVM      ,Three Pointer (2/4 -  11 pt),3FGM,62.0,48.0,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,33,08:01,32,445,"HECKMANN, PATRICK",P006420   ,Turnover (1),TO,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,11,07:58,33,447,"ANTONOV, SEMEN",P004941   ,Steal (1),ST,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,22,07:55,33,448,"HIGGINS, CORY",P006450   ,Two Pointer (2/6 -  10 pt),2FGM,64.0,48.0,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,42,07:55,33,449,"HINES, KYLE",P002812   ,Assist (2),AS,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,,07:55,33,450,,          ,Time Out (1),TOUT,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,3,07:55,33,451,"WRIGHT, DORELL",P008049   ,In,IN,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,33,07:55,33,452,"HECKMANN, PATRICK",P006420   ,Out,OUT,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,42,07:55,33,453,"MUSLI, DEJAN",PLUR      ,Out,OUT,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,43,07:55,33,454,"RADOSEVIC, LEON",PLEM      ,In,IN,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,21,07:35,33,456,"RUBIT, AUGUSTINE",P006477   ,Missed Two Pointer (2/5 -  8 pt),2FGA,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,21,07:35,33,457,"CLYBURN, WILL",P004888   ,Def Rebound (3),D,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,11,07:17,33,458,"ANTONOV, SEMEN",P004941   ,Missed Three Pointer (1/3 -  9 pt),3FGA,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,43,07:15,33,459,"RADOSEVIC, LEON",PLEM      ,Def Rebound (4),D,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,21,07:08,33,460,"RUBIT, AUGUSTINE",P006477   ,Foul Drawn (5),RV,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,11,07:08,33,461,"ANTONOV, SEMEN",P004941   ,Unsportsmanlike Foul  (4),CMU,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,21,07:08,33,462,"RUBIT, AUGUSTINE",P006477   ,Free Throw In (5/7 -  9 pt),FTM,64.0,49.0,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,7,07:08,33,463,"NIKOLIC, ALEKSEJ",P003703   ,Assist (1),AS,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,21,07:08,33,464,"RUBIT, AUGUSTINE",P006477   ,Free Throw In (6/8 -  10 pt),FTM,64.0,50.0,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,1,07:08,33,465,"DE COLO, NANDO",P002100   ,In,IN,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,11,07:08,33,466,"ANTONOV, SEMEN",P004941   ,Out,OUT,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,21,06:46,34,468,"RUBIT, AUGUSTINE",P006477   ,Turnover (1),TO,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,1,06:45,34,469,"DE COLO, NANDO",P002100   ,Steal (2),ST,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,13,06:42,34,470,"RODRIGUEZ, SERGIO",PCVM      ,Turnover (3),TO,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,3,06:41,34,471,"WRIGHT, DORELL",P008049   ,Steal (2),ST,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,3,06:40,34,472,"WRIGHT, DORELL",P008049   ,Turnover (1),TO,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,42,06:28,34,473,"HINES, KYLE",P002812   ,Foul Drawn (2),RV,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,12,06:28,34,474,"LO, MAODO",P007032   ,Foul (2),CM,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,42,06:28,34,475,"HINES, KYLE",P002812   ,Free Throw In (1/1 -  3 pt),FTM,65.0,50.0,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,13,06:28,34,476,"RODRIGUEZ, SERGIO",PCVM      ,Assist (5),AS,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,42,06:28,34,477,"HINES, KYLE",P002812   ,Free Throw In (2/2 -  4 pt),FTM,66.0,50.0,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,43,06:10,34,478,"RADOSEVIC, LEON",PLEM      ,Missed Two Pointer (2/7 -  4 pt),2FGA,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,21,06:08,34,479,"RUBIT, AUGUSTINE",P006477   ,Off Rebound (2),O,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,12,06:04,34,480,"LO, MAODO",P007032   ,Missed Two Pointer (0/3 -  3 pt),2FGA,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,,06:04,34,481,,          ,Turnover (2),TO,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,12,05:51,35,483,"LO, MAODO",P007032   ,Foul Drawn (2),RV,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,42,05:51,35,484,"HINES, KYLE",P002812   ,Offensive Foul (2),OF,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,42,05:51,35,485,"HINES, KYLE",P002812   ,Turnover (1),TO,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,21,05:51,35,486,"RUBIT, AUGUSTINE",P006477   ,Out,OUT,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,33,05:51,35,487,"HECKMANN, PATRICK",P006420   ,In,IN,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,7,05:42,35,488,"NIKOLIC, ALEKSEJ",P003703   ,Foul Drawn (2),RV,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,13,05:42,35,489,"RODRIGUEZ, SERGIO",PCVM      ,Foul (2),CM,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,13,05:42,35,490,"RODRIGUEZ, SERGIO",PCVM      ,Foul Drawn (3),RV,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,7,05:42,35,491,"NIKOLIC, ALEKSEJ",P003703   ,Unsportsmanlike Foul  (3),CMU,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,7,05:42,35,572,"NIKOLIC, ALEKSEJ",P003703   ,Turnover (2),TO,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,13,05:42,35,492,"RODRIGUEZ, SERGIO",PCVM      ,Free Throw In (4/5 -  12 pt),FTM,67.0,50.0,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,13,05:42,35,493,"RODRIGUEZ, SERGIO",PCVM      ,Free Throw In (5/6 -  13 pt),FTM,68.0,50.0,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,7,05:42,35,494,"FRIDZON, VITALY",PLLH      ,In,IN,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,22,05:42,35,495,"HIGGINS, CORY",P006450   ,Out,OUT,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,21,05:24,35,496,"CLYBURN, WILL",P004888   ,Missed Two Pointer (1/7 -  6 pt),2FGA,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,,05:24,35,497,,          ,Off Rebound (4),O,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,3,05:24,35,498,"WRIGHT, DORELL",P008049   ,Out,OUT,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,8,05:24,35,499,"STAIGER, LUCCA",P002506   ,In,IN,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,43,05:24,35,500,"RADOSEVIC, LEON",PLEM      ,Foul Drawn (2),RV,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,13,05:24,35,501,"RODRIGUEZ, SERGIO",PCVM      ,Unsportsmanlike Foul  (3),CMU,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,43,05:24,35,502,"RADOSEVIC, LEON",PLEM      ,Free Throw In (1/1 -  5 pt),FTM,68.0,51.0,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,7,05:24,35,503,"NIKOLIC, ALEKSEJ",P003703   ,Assist (2),AS,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,43,05:24,35,504,"RADOSEVIC, LEON",PLEM      ,Free Throw In (2/2 -  6 pt),FTM,68.0,52.0,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,43,04:53,36,506,"RADOSEVIC, LEON",PLEM      ,Two Pointer (3/8 -  8 pt),2FGM,68.0,54.0,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,12,04:51,36,507,"LO, MAODO",P007032   ,Assist (4),AS,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,7,04:32,36,508,"FRIDZON, VITALY",PLLH      ,Three Pointer (1/1 -  3 pt),3FGM,71.0,54.0,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,13,04:30,36,509,"RODRIGUEZ, SERGIO",PCVM      ,Assist (6),AS,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,43,04:26,36,510,"RADOSEVIC, LEON",PLEM      ,Foul Drawn (3),RV,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,7,04:26,36,511,"FRIDZON, VITALY",PLLH      ,Foul (1),CM,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,43,04:26,36,512,"RADOSEVIC, LEON",PLEM      ,Free Throw In (3/3 -  9 pt),FTM,71.0,55.0,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,43,04:26,36,513,"RADOSEVIC, LEON",PLEM      ,Free Throw In (4/4 -  10 pt),FTM,71.0,56.0,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,7,04:11,36,514,"FRIDZON, VITALY",PLLH      ,Two Pointer (1/1 -  5 pt),2FGM,73.0,56.0,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,1,04:09,36,515,"DE COLO, NANDO",P002100   ,Assist (4),AS,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,12,03:58,37,517,"LO, MAODO",P007032   ,Two Pointer (1/4 -  5 pt),2FGM,73.0,58.0,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,1,03:30,37,518,"DE COLO, NANDO",P002100   ,Missed Three Pointer (1/3 -  18 pt),3FGA,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,21,03:27,37,519,"CLYBURN, WILL",P004888   ,Off Rebound (4),O,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,1,03:23,37,520,"DE COLO, NANDO",P002100   ,Missed Two Pointer (2/4 -  18 pt),2FGA,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,43,03:18,37,521,"RADOSEVIC, LEON",PLEM      ,Def Rebound (5),D,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,12,03:08,37,522,"LO, MAODO",P007032   ,Three Pointer (2/3 -  8 pt),3FGM,73.0,61.0,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,21,02:50,38,524,"CLYBURN, WILL",P004888   ,Missed Three Pointer (1/2 -  6 pt),3FGA,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,42,02:50,38,525,"HINES, KYLE",P002812   ,Off Rebound (1),O,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,42,02:50,38,526,"HINES, KYLE",P002812   ,Foul Drawn (3),RV,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,12,02:50,38,527,"LO, MAODO",P007032   ,Foul (3),CM,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,42,02:50,38,528,"MUSLI, DEJAN",PLUR      ,In,IN,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,43,02:50,38,529,"RADOSEVIC, LEON",PLEM      ,Out,OUT,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,42,02:50,38,530,"HINES, KYLE",P002812   ,Free Throw In (3/3 -  5 pt),FTM,74.0,61.0,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,42,02:50,38,531,"HINES, KYLE",P002812   ,Free Throw In (4/4 -  6 pt),FTM,75.0,61.0,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,42,02:50,38,532,"HINES, KYLE",P002812   ,Out,OUT,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,44,02:50,38,533,"HUNTER, OTHELLO",P005160   ,In,IN,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,8,02:36,38,534,"STAIGER, LUCCA",P002506   ,Foul Drawn (1),RV,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,21,02:36,38,535,"CLYBURN, WILL",P004888   ,Foul (1),CM,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,8,02:36,38,536,"STAIGER, LUCCA",P002506   ,Missed Free Throw (0/1 -  0 pt),FTA,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,8,02:36,38,537,"STAIGER, LUCCA",P002506   ,Free Throw In (1/2 -  1 pt),FTM,75.0,62.0,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,1,02:36,38,538,"DE COLO, NANDO",P002100   ,Technical Foul (2),CMT,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,8,02:36,38,539,"STAIGER, LUCCA",P002506   ,Free Throw In (2/3 -  2 pt),FTM,75.0,63.0,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,42,02:17,38,540,"MUSLI, DEJAN",PLUR      ,Missed Two Pointer (1/4 -  4 pt),2FGA,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,42,02:15,38,541,"MUSLI, DEJAN",PLUR      ,Off Rebound (3),O,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,42,02:14,38,542,"MUSLI, DEJAN",PLUR      ,Missed Two Pointer (1/5 -  4 pt),2FGA,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,42,02:12,38,543,"MUSLI, DEJAN",PLUR      ,Off Rebound (4),O,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,42,02:10,38,544,"MUSLI, DEJAN",PLUR      ,Missed Two Pointer (1/6 -  4 pt),2FGA,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,44,02:07,38,545,"HUNTER, OTHELLO",P005160   ,Def Rebound (3),D,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,1,02:05,38,546,"DE COLO, NANDO",P002100   ,Foul Drawn (8),RV,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,12,02:05,38,547,"LO, MAODO",P007032   ,Foul (4),CM,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,9,02:05,38,548,"WESTERMANN, LEO",P002543   ,In,IN,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,13,02:05,38,549,"RODRIGUEZ, SERGIO",PCVM      ,Out,OUT,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,1,02:05,38,550,"DE COLO, NANDO",P002100   ,Free Throw In (12/12 -  19 pt),FTM,76.0,63.0,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,1,02:05,38,551,"DE COLO, NANDO",P002100   ,Free Throw In (13/13 -  20 pt),FTM,77.0,63.0,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,1,02:05,38,552,"DE COLO, NANDO",P002100   ,Out,OUT,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,22,02:05,38,553,"HIGGINS, CORY",P006450   ,In,IN,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,42,01:54,39,555,"MUSLI, DEJAN",PLUR      ,Foul Drawn (5),RV,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,7,01:54,39,556,"FRIDZON, VITALY",PLLH      ,Foul (2),CM,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,42,01:54,39,557,"MUSLI, DEJAN",PLUR      ,Free Throw In (3/7 -  5 pt),FTM,77.0,64.0,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,12,01:54,39,558,"LO, MAODO",P007032   ,Assist (5),AS,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,42,01:54,39,559,"MUSLI, DEJAN",PLUR      ,Missed Free Throw (3/8 -  5 pt),FTA,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,44,01:54,39,560,"HUNTER, OTHELLO",P005160   ,Def Rebound (4),D,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,7,01:40,39,561,"FRIDZON, VITALY",PLLH      ,Missed Two Pointer (1/2 -  5 pt),2FGA,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,33,01:38,39,562,"HECKMANN, PATRICK",P006420   ,Def Rebound (2),D,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,12,01:28,39,563,"LO, MAODO",P007032   ,Two Pointer (2/5 -  10 pt),2FGM,77.0,66.0,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,42,01:28,39,564,"MUSLI, DEJAN",PLUR      ,Assist (1),AS,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,22,01:13,39,565,"HIGGINS, CORY",P006450   ,Two Pointer (3/7 -  12 pt),2FGM,79.0,66.0,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,8,00:56,40,567,"STAIGER, LUCCA",P002506   ,Three Pointer (1/2 -  5 pt),3FGM,79.0,69.0,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,22,00:38,40,568,"HIGGINS, CORY",P006450   ,Missed Two Pointer (3/8 -  12 pt),2FGA,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,21,00:36,40,569,"CLYBURN, WILL",P004888   ,Off Rebound (5),O,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,44,00:37,40,570,"HUNTER, OTHELLO",P005160   ,Two Pointer (4/6 -  8 pt),2FGM,81.0,69.0,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,7,00:37,40,571,"FRIDZON, VITALY",PLLH      ,Assist (1),AS,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,12,00:37,40,573,"LO, MAODO",P007032   ,Turnover (1),TO,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+CSK       ,,9,00:07,40,574,"WESTERMANN, LEO",P002543   ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,CSKA Moscow,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,12,00:04,40,575,"LO, MAODO",P007032   ,Def Rebound (2),D,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,8,00:00,40,576,"STAIGER, LUCCA",P002506   ,Three Pointer (2/3 -  8 pt),3FGM,81.0,72.0,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+BAM       ,,12,00:00,40,577,"LO, MAODO",P007032   ,Assist (6),AS,,,Brose Bamberg,0,CSKA Moscow,CSK,Brose Bamberg,BAM
+          ,,,,41,580,,          ,End Game,EG,,,,0,CSKA Moscow,CSK,Brose Bamberg,BAM

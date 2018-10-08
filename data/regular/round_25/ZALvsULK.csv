@@ -1,559 +1,559 @@
-CODETEAM,COMMENT,DORSAL,MARKERTIME,MINUTE,NUMBEROFPLAY,PLAYER,PLAYER_ID,PLAYINFO,PLAYTYPE,POINTS_A,POINTS_B,TEAM,TYPE
-          ,,,,1,2,,          ,Begin Period,BP,,,,0
-ZAL       ,,13,09:48,1,3,"JANKUNAS, PAULIUS",PBWI      ,Foul (1),CM,,,Zalgiris Kaunas,0
-ULK       ,,4,09:48,1,4,"MELLI, NICOLO",P002849   ,Foul Drawn (1),RV,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,4,09:48,1,5,"MELLI, NICOLO",P002849   ,Free Throw In (1/1 -  1 pt),FTM,,1.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,4,09:48,1,6,"MELLI, NICOLO",P002849   ,Free Throw In (2/2 -  2 pt),FTM,,2.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,44,09:32,1,7,"DUVERIOGLU, AHMET",P006399   ,Foul (1),CM,,,Fenerbahce Dogus Istanbul,0
-ZAL       ,,3,09:32,1,8,"PANGOS, KEVIN",P006433   ,Foul Drawn (1),RV,,,Zalgiris Kaunas,0
-ZAL       ,,0,09:24,1,9,"DAVIES, BRANDON",P007870   ,Two Pointer (1/1 -  2 pt),2FGM,2.0,2.0,Zalgiris Kaunas,0
-ULK       ,,33,09:08,1,10,"KALINIC, NIKOLA",P004866   ,Offensive Foul (1),OF,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,33,09:08,1,11,"KALINIC, NIKOLA",P004866   ,Turnover (1),TO,,,Fenerbahce Dogus Istanbul,0
-ZAL       ,,92,09:08,1,12,"ULANOVAS, EDGARAS",P002329   ,Foul Drawn (1),RV,,,Zalgiris Kaunas,0
-ZAL       ,,0,08:55,2,14,"DAVIES, BRANDON",P007870   ,Two Pointer (2/2 -  4 pt),2FGM,4.0,2.0,Zalgiris Kaunas,0
-ZAL       ,,92,08:55,2,15,"ULANOVAS, EDGARAS",P002329   ,Assist (1),AS,,,Zalgiris Kaunas,0
-ULK       ,,,08:25,2,16,,          ,Turnover (1),TO,,,Fenerbahce Dogus Istanbul,0
-ZAL       ,,92,08:05,2,17,"ULANOVAS, EDGARAS",P002329   ,Turnover (1),TO,,,Zalgiris Kaunas,0
-ULK       ,,33,08:03,2,18,"KALINIC, NIKOLA",P004866   ,Steal (1),ST,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,44,07:48,3,20,"DUVERIOGLU, AHMET",P006399   ,Turnover (1),TO,,,Fenerbahce Dogus Istanbul,0
-ZAL       ,,6,07:46,3,21,"TOUPANE, AXEL",P002582   ,Steal (1),ST,,,Zalgiris Kaunas,0
-ZAL       ,,6,07:44,3,22,"TOUPANE, AXEL",P002582   ,Turnover (1),TO,,,Zalgiris Kaunas,0
-ULK       ,,33,07:43,3,23,"KALINIC, NIKOLA",P004866   ,Steal (2),ST,,,Fenerbahce Dogus Istanbul,0
-ZAL       ,,3,07:42,3,24,"PANGOS, KEVIN",P006433   ,Foul (1),CM,,,Zalgiris Kaunas,0
-ULK       ,,33,07:42,3,25,"KALINIC, NIKOLA",P004866   ,Foul Drawn (1),RV,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,33,07:33,3,26,"KALINIC, NIKOLA",P004866   ,Three Pointer (1/1 -  3 pt),3FGM,4.0,5.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,16,07:31,3,27,"SLOUKAS, KOSTAS",P001926   ,Assist (1),AS,,,Fenerbahce Dogus Istanbul,0
-ZAL       ,,13,07:20,3,28,"JANKUNAS, PAULIUS",PBWI      ,Two Pointer (1/1 -  2 pt),2FGM,6.0,5.0,Zalgiris Kaunas,0
-ZAL       ,,3,07:17,3,29,"PANGOS, KEVIN",P006433   ,Assist (1),AS,,,Zalgiris Kaunas,0
-ZAL       ,,0,07:03,3,30,"DAVIES, BRANDON",P007870   ,Foul (1),CM,,,Zalgiris Kaunas,0
-ULK       ,,16,07:03,3,31,"SLOUKAS, KOSTAS",P001926   ,Foul Drawn (1),RV,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,16,07:03,3,32,"SLOUKAS, KOSTAS",P001926   ,Free Throw In (1/1 -  1 pt),FTM,6.0,6.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,44,07:03,3,33,"DUVERIOGLU, AHMET",P006399   ,Assist (1),AS,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,16,07:03,3,34,"SLOUKAS, KOSTAS",P001926   ,Free Throw In (2/2 -  2 pt),FTM,6.0,7.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,44,06:49,4,36,"DUVERIOGLU, AHMET",P006399   ,Foul (2),CM,,,Fenerbahce Dogus Istanbul,0
-ZAL       ,,0,06:49,4,37,"DAVIES, BRANDON",P007870   ,Foul Drawn (1),RV,,,Zalgiris Kaunas,0
-ULK       ,,1,06:49,4,38,"THOMPSON, JASON",P007998   ,In,IN,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,44,06:49,4,39,"DUVERIOGLU, AHMET",P006399   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,21,06:38,4,40,"NUNNALLY, JAMES",P007400   ,Foul (1),CM,,,Fenerbahce Dogus Istanbul,0
-ZAL       ,,6,06:38,4,41,"TOUPANE, AXEL",P002582   ,Foul Drawn (1),RV,,,Zalgiris Kaunas,0
-ZAL       ,,6,06:38,4,42,"TOUPANE, AXEL",P002582   ,Free Throw In (1/1 -  1 pt),FTM,7.0,7.0,Zalgiris Kaunas,0
-ZAL       ,,6,06:38,4,43,"TOUPANE, AXEL",P002582   ,Free Throw In (2/2 -  2 pt),FTM,8.0,7.0,Zalgiris Kaunas,0
-ULK       ,,4,06:15,4,44,"MELLI, NICOLO",P002849   ,Missed Two Pointer (0/1 -  2 pt),2FGA,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,4,06:15,4,45,"MELLI, NICOLO",P002849   ,Shot Rejected (1),AG,,,Fenerbahce Dogus Istanbul,0
-ZAL       ,,0,06:12,4,46,"DAVIES, BRANDON",P007870   ,Block (1),FV,,,Zalgiris Kaunas,0
-ZAL       ,,6,06:10,4,47,"TOUPANE, AXEL",P002582   ,Def Rebound (1),D,,,Zalgiris Kaunas,0
-ULK       ,,4,06:07,4,48,"MELLI, NICOLO",P002849   ,Foul (1),CM,,,Fenerbahce Dogus Istanbul,0
-ZAL       ,,0,06:07,4,49,"DAVIES, BRANDON",P007870   ,Foul Drawn (2),RV,,,Zalgiris Kaunas,0
-ZAL       ,,0,06:07,4,50,"DAVIES, BRANDON",P007870   ,Free Throw In (1/1 -  5 pt),FTM,9.0,7.0,Zalgiris Kaunas,0
-ZAL       ,,13,06:07,4,51,"JANKUNAS, PAULIUS",PBWI      ,Assist (1),AS,,,Zalgiris Kaunas,0
-ZAL       ,,0,06:07,4,52,"DAVIES, BRANDON",P007870   ,Free Throw In (2/2 -  6 pt),FTM,10.0,7.0,Zalgiris Kaunas,0
-ULK       ,,21,05:46,5,54,"NUNNALLY, JAMES",P007400   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Fenerbahce Dogus Istanbul,0
-ZAL       ,,92,05:44,5,55,"ULANOVAS, EDGARAS",P002329   ,Def Rebound (1),D,,,Zalgiris Kaunas,0
-ZAL       ,,92,05:32,5,56,"ULANOVAS, EDGARAS",P002329   ,Two Pointer (1/1 -  2 pt),2FGM,12.0,7.0,Zalgiris Kaunas,0
-ULK       ,,16,05:21,5,57,"SLOUKAS, KOSTAS",P001926   ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,Fenerbahce Dogus Istanbul,0
-ZAL       ,,3,05:21,5,58,"PANGOS, KEVIN",P006433   ,Def Rebound (1),D,,,Zalgiris Kaunas,0
-ULK       ,,1,05:07,5,59,"THOMPSON, JASON",P007998   ,Foul (1),CM,,,Fenerbahce Dogus Istanbul,0
-ZAL       ,,13,05:07,5,60,"JANKUNAS, PAULIUS",PBWI      ,Foul Drawn (1),RV,,,Zalgiris Kaunas,0
-ZAL       ,,3,05:07,5,61,"PANGOS, KEVIN",P006433   ,Out,OUT,,,Zalgiris Kaunas,0
-ZAL       ,,22,05:07,5,62,"MICIC, VASILIJE",P002580   ,In,IN,,,Zalgiris Kaunas,0
-ULK       ,,21,05:07,5,63,"NUNNALLY, JAMES",P007400   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,23,05:07,5,64,"GUDURIC, MARKO",P004004   ,In,IN,,,Fenerbahce Dogus Istanbul,0
-ZAL       ,,13,05:07,5,65,"JANKUNAS, PAULIUS",PBWI      ,Free Throw In (1/1 -  3 pt),FTM,13.0,7.0,Zalgiris Kaunas,0
-ZAL       ,,13,05:07,5,66,"JANKUNAS, PAULIUS",PBWI      ,Free Throw In (2/2 -  4 pt),FTM,14.0,7.0,Zalgiris Kaunas,0
-ZAL       ,,0,04:53,6,68,"DAVIES, BRANDON",P007870   ,Foul (2),CM,,,Zalgiris Kaunas,0
-ULK       ,,23,04:53,6,69,"GUDURIC, MARKO",P004004   ,Foul Drawn (1),RV,,,Fenerbahce Dogus Istanbul,0
-          ,,,04:53,6,70,,          ,TV Time Out (1),TOUT_TV,,,,0
-ZAL       ,,0,04:53,6,71,"DAVIES, BRANDON",P007870   ,Out,OUT,,,Zalgiris Kaunas,0
-ZAL       ,,44,04:53,6,72,"KAVALIAUSKAS, ANTANAS",P000399   ,In,IN,,,Zalgiris Kaunas,0
-ULK       ,,23,04:40,6,73,"GUDURIC, MARKO",P004004   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Fenerbahce Dogus Istanbul,0
-ZAL       ,,13,04:38,6,74,"JANKUNAS, PAULIUS",PBWI      ,Def Rebound (1),D,,,Zalgiris Kaunas,0
-ZAL       ,,22,04:23,6,75,"MICIC, VASILIJE",P002580   ,Two Pointer (1/1 -  2 pt),2FGM,16.0,7.0,Zalgiris Kaunas,0
-ULK       ,,,03:57,7,77,,          ,Turnover (2),TO,,,Fenerbahce Dogus Istanbul,0
-ZAL       ,,6,03:57,7,78,"TOUPANE, AXEL",P002582   ,Out,OUT,,,Zalgiris Kaunas,0
-ZAL       ,,13,03:57,7,79,"JANKUNAS, PAULIUS",PBWI      ,Out,OUT,,,Zalgiris Kaunas,0
-ZAL       ,,21,03:57,7,80,"MILAKNIS, ARTURAS",PKPD      ,In,IN,,,Zalgiris Kaunas,0
-ZAL       ,,30,03:57,7,81,"WHITE, AARON",P006505   ,In,IN,,,Zalgiris Kaunas,0
-ULK       ,,1,03:57,7,82,"THOMPSON, JASON",P007998   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,24,03:57,7,83,"VESELY, JAN",P000925   ,In,IN,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,33,03:57,7,84,"KALINIC, NIKOLA",P004866   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,70,03:57,7,85,"DATOME, LUIGI",PCCD      ,In,IN,,,Fenerbahce Dogus Istanbul,0
-ZAL       ,,30,03:42,7,86,"WHITE, AARON",P006505   ,Turnover (1),TO,,,Zalgiris Kaunas,0
-ULK       ,,4,03:31,7,87,"MELLI, NICOLO",P002849   ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,Fenerbahce Dogus Istanbul,0
-ZAL       ,,22,03:28,7,88,"MICIC, VASILIJE",P002580   ,Def Rebound (1),D,,,Zalgiris Kaunas,0
-ULK       ,,24,03:19,7,89,"VESELY, JAN",P000925   ,Foul (1),CM,,,Fenerbahce Dogus Istanbul,0
-ZAL       ,,44,03:19,7,90,"KAVALIAUSKAS, ANTANAS",P000399   ,Foul Drawn (1),RV,,,Zalgiris Kaunas,0
-ZAL       ,,44,03:19,7,91,"KAVALIAUSKAS, ANTANAS",P000399   ,Free Throw In (1/1 -  1 pt),FTM,17.0,7.0,Zalgiris Kaunas,0
-ZAL       ,,44,03:19,7,92,"KAVALIAUSKAS, ANTANAS",P000399   ,Free Throw In (2/2 -  2 pt),FTM,18.0,7.0,Zalgiris Kaunas,0
-ULK       ,,70,02:55,8,94,"DATOME, LUIGI",PCCD      ,Three Pointer (1/1 -  3 pt),3FGM,18.0,10.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,23,02:52,8,95,"GUDURIC, MARKO",P004004   ,Assist (1),AS,,,Fenerbahce Dogus Istanbul,0
-ZAL       ,,22,02:31,8,96,"MICIC, VASILIJE",P002580   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,Zalgiris Kaunas,0
-ULK       ,,23,02:26,8,97,"GUDURIC, MARKO",P004004   ,Def Rebound (1),D,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,24,02:15,8,98,"VESELY, JAN",P000925   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Fenerbahce Dogus Istanbul,0
-ZAL       ,,92,02:11,8,99,"ULANOVAS, EDGARAS",P002329   ,Def Rebound (2),D,,,Zalgiris Kaunas,0
-ZAL       ,,92,02:00,8,100,"ULANOVAS, EDGARAS",P002329   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,Zalgiris Kaunas,0
-ULK       ,,4,01:58,9,102,"MELLI, NICOLO",P002849   ,Def Rebound (1),D,,,Fenerbahce Dogus Istanbul,0
-ZAL       ,,44,01:44,9,103,"KAVALIAUSKAS, ANTANAS",P000399   ,Foul (1),CM,,,Zalgiris Kaunas,0
-ULK       ,,24,01:44,9,104,"VESELY, JAN",P000925   ,Foul Drawn (1),RV,,,Fenerbahce Dogus Istanbul,0
-ZAL       ,,66,01:44,9,105,"VALINSKAS, PAULIUS",P004664   ,In,IN,,,Zalgiris Kaunas,0
-ZAL       ,,92,01:44,9,106,"ULANOVAS, EDGARAS",P002329   ,Out,OUT,,,Zalgiris Kaunas,0
-ULK       ,,4,01:44,9,107,"MELLI, NICOLO",P002849   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,11,01:44,9,108,"WANAMAKER, BRAD",P005838   ,In,IN,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,24,01:44,9,109,"VESELY, JAN",P000925   ,Free Throw In (1/1 -  1 pt),FTM,18.0,11.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,24,01:44,9,110,"VESELY, JAN",P000925   ,Free Throw In (2/2 -  2 pt),FTM,18.0,12.0,Fenerbahce Dogus Istanbul,0
-ZAL       ,,66,01:25,9,111,"VALINSKAS, PAULIUS",P004664   ,Two Pointer (1/1 -  2 pt),2FGM,20.0,12.0,Zalgiris Kaunas,0
-ZAL       ,,21,01:22,9,112,"MILAKNIS, ARTURAS",PKPD      ,Assist (1),AS,,,Zalgiris Kaunas,0
-ULK       ,,11,01:02,9,113,"WANAMAKER, BRAD",P005838   ,Three Pointer (1/1 -  3 pt),3FGM,20.0,15.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,23,01:00,9,114,"GUDURIC, MARKO",P004004   ,Assist (2),AS,,,Fenerbahce Dogus Istanbul,0
-ZAL       ,,30,00:51,10,116,"WHITE, AARON",P006505   ,Two Pointer (1/1 -  2 pt),2FGM,22.0,15.0,Zalgiris Kaunas,0
-ZAL       ,,22,00:49,10,117,"MICIC, VASILIJE",P002580   ,Assist (1),AS,,,Zalgiris Kaunas,0
-ULK       ,,11,00:35,10,118,"WANAMAKER, BRAD",P005838   ,Turnover (1),TO,,,Fenerbahce Dogus Istanbul,0
-ZAL       ,,22,00:33,10,119,"MICIC, VASILIJE",P002580   ,Steal (1),ST,,,Zalgiris Kaunas,0
-ZAL       ,,22,00:25,10,120,"MICIC, VASILIJE",P002580   ,Two Pointer (2/3 -  4 pt),2FGM,24.0,15.0,Zalgiris Kaunas,0
-ULK       ,,23,00:01,10,121,"GUDURIC, MARKO",P004004   ,Two Pointer (1/2 -  2 pt),2FGM,24.0,17.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,11,00:01,10,122,"WANAMAKER, BRAD",P005838   ,Assist (1),AS,,,Fenerbahce Dogus Istanbul,0
-          ,,,,11,124,,          ,End Period,EP,,,,0
-          ,,,,11,127,,          ,Begin Period,BP,,,,0
-ZAL       ,,3,10:00,11,125,"PANGOS, KEVIN",P006433   ,In,IN,,,Zalgiris Kaunas,0
-ZAL       ,,22,10:00,11,126,"MICIC, VASILIJE",P002580   ,Out,OUT,,,Zalgiris Kaunas,0
-ZAL       ,,3,09:43,11,128,"PANGOS, KEVIN",P006433   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Zalgiris Kaunas,0
-ULK       ,,24,09:39,11,129,"VESELY, JAN",P000925   ,Def Rebound (1),D,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,24,09:23,11,130,"VESELY, JAN",P000925   ,Two Pointer (1/2 -  4 pt),2FGM,24.0,19.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,23,09:23,11,131,"GUDURIC, MARKO",P004004   ,Assist (3),AS,,,Fenerbahce Dogus Istanbul,0
-ZAL       ,,3,09:23,11,132,"PANGOS, KEVIN",P006433   ,Foul (2),CM,,,Zalgiris Kaunas,0
-ULK       ,,24,09:23,11,133,"VESELY, JAN",P000925   ,Foul Drawn (2),RV,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,24,09:23,11,134,"VESELY, JAN",P000925   ,Free Throw In (3/3 -  5 pt),FTM,24.0,20.0,Fenerbahce Dogus Istanbul,0
-ZAL       ,,66,08:56,12,136,"VALINSKAS, PAULIUS",P004664   ,Two Pointer (2/2 -  4 pt),2FGM,26.0,20.0,Zalgiris Kaunas,0
-ULK       ,,70,08:41,12,137,"DATOME, LUIGI",PCCD      ,Missed Three Pointer (1/2 -  3 pt),3FGA,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,11,08:39,12,138,"WANAMAKER, BRAD",P005838   ,Off Rebound (1),O,,,Fenerbahce Dogus Istanbul,0
-ZAL       ,,44,08:37,12,139,"KAVALIAUSKAS, ANTANAS",P000399   ,Foul (2),CM,,,Zalgiris Kaunas,0
-ULK       ,,11,08:37,12,140,"WANAMAKER, BRAD",P005838   ,Foul Drawn (1),RV,,,Fenerbahce Dogus Istanbul,0
-ZAL       ,,13,08:37,12,141,"JANKUNAS, PAULIUS",PBWI      ,In,IN,,,Zalgiris Kaunas,0
-ZAL       ,,44,08:37,12,142,"KAVALIAUSKAS, ANTANAS",P000399   ,Out,OUT,,,Zalgiris Kaunas,0
-ULK       ,,16,08:28,12,143,"SLOUKAS, KOSTAS",P001926   ,Missed Two Pointer (0/1 -  2 pt),2FGA,,,Fenerbahce Dogus Istanbul,0
-ZAL       ,,3,08:25,12,144,"PANGOS, KEVIN",P006433   ,Def Rebound (2),D,,,Zalgiris Kaunas,0
-ZAL       ,,3,08:24,12,145,"PANGOS, KEVIN",P006433   ,Turnover (1),TO,,,Zalgiris Kaunas,0
-ZAL       ,,3,08:24,12,146,"PANGOS, KEVIN",P006433   ,Out,OUT,,,Zalgiris Kaunas,0
-ZAL       ,,22,08:24,12,147,"MICIC, VASILIJE",P002580   ,In,IN,,,Zalgiris Kaunas,0
-ULK       ,,10,08:24,12,148,"MAHMUTOGLU, MELIH",P002969   ,In,IN,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,16,08:24,12,149,"SLOUKAS, KOSTAS",P001926   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,11,08:08,12,150,"WANAMAKER, BRAD",P005838   ,Missed Two Pointer (0/1 -  3 pt),2FGA,,,Fenerbahce Dogus Istanbul,0
-ZAL       ,,13,08:08,12,151,"JANKUNAS, PAULIUS",PBWI      ,Def Rebound (2),D,,,Zalgiris Kaunas,0
-ULK       ,,11,08:08,12,152,"WANAMAKER, BRAD",P005838   ,Foul (1),CM,,,Fenerbahce Dogus Istanbul,0
-ZAL       ,,13,08:08,12,153,"JANKUNAS, PAULIUS",PBWI      ,Foul Drawn (2),RV,,,Zalgiris Kaunas,0
-ZAL       ,,21,07:50,13,155,"MILAKNIS, ARTURAS",PKPD      ,Three Pointer (1/1 -  3 pt),3FGM,29.0,20.0,Zalgiris Kaunas,0
-ZAL       ,,22,07:50,13,156,"MICIC, VASILIJE",P002580   ,Assist (2),AS,,,Zalgiris Kaunas,0
-ULK       ,,,07:50,13,157,,          ,Time Out (1),TOUT,,,Fenerbahce Dogus Istanbul,0
-          ,,,07:50,13,158,,          ,TV Time Out (2),TOUT_TV,,,,0
-ULK       ,,70,07:31,13,159,"DATOME, LUIGI",PCCD      ,Missed Three Pointer (1/3 -  3 pt),3FGA,,,Fenerbahce Dogus Istanbul,0
-ZAL       ,,21,07:28,13,160,"MILAKNIS, ARTURAS",PKPD      ,Def Rebound (1),D,,,Zalgiris Kaunas,0
-ZAL       ,,13,07:07,13,161,"JANKUNAS, PAULIUS",PBWI      ,Missed Two Pointer (1/2 -  4 pt),2FGA,,,Zalgiris Kaunas,0
-ULK       ,,10,07:03,13,162,"MAHMUTOGLU, MELIH",P002969   ,Def Rebound (1),D,,,Fenerbahce Dogus Istanbul,0
-ZAL       ,,13,06:57,14,164,"JANKUNAS, PAULIUS",PBWI      ,Foul (2),CM,,,Zalgiris Kaunas,0
-ULK       ,,24,06:57,14,165,"VESELY, JAN",P000925   ,Foul Drawn (3),RV,,,Fenerbahce Dogus Istanbul,0
-ZAL       ,,3,06:57,14,166,"PANGOS, KEVIN",P006433   ,In,IN,,,Zalgiris Kaunas,0
-ZAL       ,,66,06:57,14,167,"VALINSKAS, PAULIUS",P004664   ,Out,OUT,,,Zalgiris Kaunas,0
-ULK       ,,11,06:46,14,168,"WANAMAKER, BRAD",P005838   ,Missed Three Pointer (1/2 -  3 pt),3FGA,,,Fenerbahce Dogus Istanbul,0
-ZAL       ,,30,06:44,14,169,"WHITE, AARON",P006505   ,Def Rebound (1),D,,,Zalgiris Kaunas,0
-ZAL       ,,22,06:36,14,170,"MICIC, VASILIJE",P002580   ,Three Pointer (1/1 -  7 pt),3FGM,32.0,20.0,Zalgiris Kaunas,0
-ZAL       ,,3,06:33,14,171,"PANGOS, KEVIN",P006433   ,Assist (2),AS,,,Zalgiris Kaunas,0
-ULK       ,,11,06:14,14,172,"WANAMAKER, BRAD",P005838   ,Turnover (2),TO,,,Fenerbahce Dogus Istanbul,0
-ZAL       ,,22,06:14,14,173,"MICIC, VASILIJE",P002580   ,Steal (2),ST,,,Zalgiris Kaunas,0
-ZAL       ,,30,06:14,14,174,"WHITE, AARON",P006505   ,Out,OUT,,,Zalgiris Kaunas,0
-ZAL       ,,92,06:14,14,175,"ULANOVAS, EDGARAS",P002329   ,In,IN,,,Zalgiris Kaunas,0
-ULK       ,,4,06:14,14,176,"MELLI, NICOLO",P002849   ,In,IN,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,10,06:14,14,177,"MAHMUTOGLU, MELIH",P002969   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,11,06:14,14,178,"WANAMAKER, BRAD",P005838   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,16,06:14,14,179,"SLOUKAS, KOSTAS",P001926   ,In,IN,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,23,06:14,14,180,"GUDURIC, MARKO",P004004   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,33,06:14,14,181,"KALINIC, NIKOLA",P004866   ,In,IN,,,Fenerbahce Dogus Istanbul,0
-ZAL       ,,22,06:00,14,182,"MICIC, VASILIJE",P002580   ,Turnover (1),TO,,,Zalgiris Kaunas,0
-ZAL       ,,6,06:00,14,183,"TOUPANE, AXEL",P002582   ,In,IN,,,Zalgiris Kaunas,0
-ZAL       ,,22,06:00,14,184,"MICIC, VASILIJE",P002580   ,Out,OUT,,,Zalgiris Kaunas,0
-ULK       ,,4,05:35,15,186,"MELLI, NICOLO",P002849   ,Missed Two Pointer (0/2 -  2 pt),2FGA,,,Fenerbahce Dogus Istanbul,0
-ZAL       ,,21,05:34,15,187,"MILAKNIS, ARTURAS",PKPD      ,Def Rebound (2),D,,,Zalgiris Kaunas,0
-ULK       ,,70,05:34,15,188,"DATOME, LUIGI",PCCD      ,Foul (1),CM,,,Fenerbahce Dogus Istanbul,0
-ZAL       ,,21,05:34,15,189,"MILAKNIS, ARTURAS",PKPD      ,Foul Drawn (1),RV,,,Zalgiris Kaunas,0
-ZAL       ,,3,05:12,15,190,"PANGOS, KEVIN",P006433   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Zalgiris Kaunas,0
-ULK       ,,4,05:10,15,191,"MELLI, NICOLO",P002849   ,Def Rebound (2),D,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,4,05:10,15,192,"MELLI, NICOLO",P002849   ,Turnover (1),TO,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,16,04:55,16,194,"SLOUKAS, KOSTAS",P001926   ,Foul (1),CM,,,Fenerbahce Dogus Istanbul,0
-ZAL       ,,13,04:55,16,195,"JANKUNAS, PAULIUS",PBWI      ,Foul Drawn (3),RV,,,Zalgiris Kaunas,0
-ZAL       ,,13,04:42,16,196,"JANKUNAS, PAULIUS",PBWI      ,Missed Two Pointer (1/3 -  4 pt),2FGA,,,Zalgiris Kaunas,0
-ULK       ,,16,04:39,16,197,"SLOUKAS, KOSTAS",P001926   ,Def Rebound (1),D,,,Fenerbahce Dogus Istanbul,0
-ZAL       ,,3,04:35,16,198,"PANGOS, KEVIN",P006433   ,Foul (3),CM,,,Zalgiris Kaunas,0
-ULK       ,,24,04:35,16,199,"VESELY, JAN",P000925   ,Foul Drawn (4),RV,,,Fenerbahce Dogus Istanbul,0
-ZAL       ,,3,04:35,16,200,"PANGOS, KEVIN",P006433   ,Out,OUT,,,Zalgiris Kaunas,0
-ZAL       ,,22,04:35,16,201,"MICIC, VASILIJE",P002580   ,In,IN,,,Zalgiris Kaunas,0
-ULK       ,,16,04:24,16,202,"SLOUKAS, KOSTAS",P001926   ,Missed Three Pointer (0/2 -  2 pt),3FGA,,,Fenerbahce Dogus Istanbul,0
-ZAL       ,,21,04:22,16,203,"MILAKNIS, ARTURAS",PKPD      ,Def Rebound (3),D,,,Zalgiris Kaunas,0
-ZAL       ,,92,04:09,16,204,"ULANOVAS, EDGARAS",P002329   ,Missed Two Pointer (1/3 -  2 pt),2FGA,,,Zalgiris Kaunas,0
-ULK       ,,70,04:07,16,205,"DATOME, LUIGI",PCCD      ,Def Rebound (1),D,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,33,03:52,17,207,"KALINIC, NIKOLA",P004866   ,Two Pointer (1/1 -  5 pt),2FGM,32.0,22.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,4,03:52,17,208,"MELLI, NICOLO",P002849   ,Assist (1),AS,,,Fenerbahce Dogus Istanbul,0
-ZAL       ,,,03:52,17,209,,          ,Time Out (1),TOUT,,,Zalgiris Kaunas,0
-ZAL       ,,0,03:52,17,210,"DAVIES, BRANDON",P007870   ,In,IN,,,Zalgiris Kaunas,0
-ZAL       ,,13,03:52,17,211,"JANKUNAS, PAULIUS",PBWI      ,Out,OUT,,,Zalgiris Kaunas,0
-ZAL       ,,21,03:52,17,212,"MILAKNIS, ARTURAS",PKPD      ,Out,OUT,,,Zalgiris Kaunas,0
-ZAL       ,,30,03:52,17,213,"WHITE, AARON",P006505   ,In,IN,,,Zalgiris Kaunas,0
-ZAL       ,,22,03:35,17,214,"MICIC, VASILIJE",P002580   ,Missed Two Pointer (2/4 -  7 pt),2FGA,,,Zalgiris Kaunas,0
-ZAL       ,,0,03:33,17,215,"DAVIES, BRANDON",P007870   ,Off Rebound (1),O,,,Zalgiris Kaunas,0
-ZAL       ,,0,03:32,17,216,"DAVIES, BRANDON",P007870   ,Two Pointer (3/3 -  8 pt),2FGM,34.0,22.0,Zalgiris Kaunas,0
-ULK       ,,33,03:13,17,217,"KALINIC, NIKOLA",P004866   ,Missed Three Pointer (1/2 -  5 pt),3FGA,,,Fenerbahce Dogus Istanbul,0
-ZAL       ,,22,03:11,17,218,"MICIC, VASILIJE",P002580   ,Def Rebound (2),D,,,Zalgiris Kaunas,0
-ZAL       ,,22,02:52,18,220,"MICIC, VASILIJE",P002580   ,Missed Three Pointer (1/2 -  7 pt),3FGA,,,Zalgiris Kaunas,0
-ZAL       ,,,02:50,18,221,,          ,Off Rebound (1),O,,,Zalgiris Kaunas,0
-ULK       ,,33,02:50,18,222,"KALINIC, NIKOLA",P004866   ,Foul (2),CM,,,Fenerbahce Dogus Istanbul,0
-ZAL       ,,92,02:50,18,223,"ULANOVAS, EDGARAS",P002329   ,Foul Drawn (2),RV,,,Zalgiris Kaunas,0
-ZAL       ,,0,02:45,18,224,"DAVIES, BRANDON",P007870   ,Turnover (1),TO,,,Zalgiris Kaunas,0
-ULK       ,,33,02:32,18,225,"KALINIC, NIKOLA",P004866   ,Two Pointer (2/2 -  7 pt),2FGM,34.0,24.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,24,02:31,18,226,"VESELY, JAN",P000925   ,Assist (1),AS,,,Fenerbahce Dogus Istanbul,0
-ZAL       ,,22,02:14,18,227,"MICIC, VASILIJE",P002580   ,Two Pointer (3/5 -  9 pt),2FGM,36.0,24.0,Zalgiris Kaunas,0
-ULK       ,,24,01:57,19,229,"VESELY, JAN",P000925   ,Two Pointer (2/3 -  7 pt),2FGM,36.0,26.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,16,01:55,19,230,"SLOUKAS, KOSTAS",P001926   ,Assist (2),AS,,,Fenerbahce Dogus Istanbul,0
-ZAL       ,,30,01:39,19,231,"WHITE, AARON",P006505   ,Two Pointer (2/2 -  4 pt),2FGM,38.0,26.0,Zalgiris Kaunas,0
-ZAL       ,,22,01:36,19,232,"MICIC, VASILIJE",P002580   ,Assist (3),AS,,,Zalgiris Kaunas,0
-ULK       ,,70,01:14,19,233,"DATOME, LUIGI",PCCD      ,Missed Two Pointer (0/1 -  3 pt),2FGA,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,70,01:14,19,234,"DATOME, LUIGI",PCCD      ,Shot Rejected (1),AG,,,Fenerbahce Dogus Istanbul,0
-ZAL       ,,6,01:13,19,235,"TOUPANE, AXEL",P002582   ,Block (1),FV,,,Zalgiris Kaunas,0
-ULK       ,,,01:12,19,236,,          ,Turnover (3),TO,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,16,01:12,19,237,"SLOUKAS, KOSTAS",P001926   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,21,01:12,19,238,"NUNNALLY, JAMES",P007400   ,In,IN,,,Fenerbahce Dogus Istanbul,0
-ZAL       ,,,00:45,20,240,,          ,Turnover (4),TO,,,Zalgiris Kaunas,0
-ZAL       ,,0,00:45,20,241,"DAVIES, BRANDON",P007870   ,Out,OUT,,,Zalgiris Kaunas,0
-ZAL       ,,6,00:45,20,242,"TOUPANE, AXEL",P002582   ,Out,OUT,,,Zalgiris Kaunas,0
-ZAL       ,,19,00:45,20,243,"SAJUS, MARTYNAS",P005519   ,In,IN,,,Zalgiris Kaunas,0
-ZAL       ,,66,00:45,20,244,"VALINSKAS, PAULIUS",P004664   ,In,IN,,,Zalgiris Kaunas,0
-ULK       ,,4,00:45,20,245,"MELLI, NICOLO",P002849   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,16,00:45,20,246,"SLOUKAS, KOSTAS",P001926   ,In,IN,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,70,00:34,20,247,"DATOME, LUIGI",PCCD      ,Three Pointer (2/4 -  6 pt),3FGM,38.0,29.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,33,00:34,20,248,"KALINIC, NIKOLA",P004866   ,Assist (1),AS,,,Fenerbahce Dogus Istanbul,0
-ZAL       ,,,00:34,20,249,,          ,Time Out (2),TOUT,,,Zalgiris Kaunas,0
-ZAL       ,,0,00:34,20,250,"DAVIES, BRANDON",P007870   ,In,IN,,,Zalgiris Kaunas,0
-ZAL       ,,19,00:34,20,251,"SAJUS, MARTYNAS",P005519   ,Out,OUT,,,Zalgiris Kaunas,0
-ULK       ,,4,00:34,20,252,"MELLI, NICOLO",P002849   ,In,IN,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,16,00:34,20,253,"SLOUKAS, KOSTAS",P001926   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
-ZAL       ,,22,00:15,20,254,"MICIC, VASILIJE",P002580   ,Two Pointer (4/6 -  11 pt),2FGM,40.0,29.0,Zalgiris Kaunas,0
-ZAL       ,,92,00:15,20,255,"ULANOVAS, EDGARAS",P002329   ,Assist (2),AS,,,Zalgiris Kaunas,0
-ULK       ,,,00:15,20,256,,          ,Time Out (2),TOUT,,,Fenerbahce Dogus Istanbul,0
-ZAL       ,,0,00:15,20,257,"DAVIES, BRANDON",P007870   ,Out,OUT,,,Zalgiris Kaunas,0
-ZAL       ,,21,00:15,20,258,"MILAKNIS, ARTURAS",PKPD      ,In,IN,,,Zalgiris Kaunas,0
-ULK       ,,4,00:15,20,259,"MELLI, NICOLO",P002849   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,16,00:15,20,260,"SLOUKAS, KOSTAS",P001926   ,In,IN,,,Fenerbahce Dogus Istanbul,0
-ZAL       ,,92,00:03,20,261,"ULANOVAS, EDGARAS",P002329   ,Foul (1),CM,,,Zalgiris Kaunas,0
-ULK       ,,24,00:03,20,262,"VESELY, JAN",P000925   ,Foul Drawn (5),RV,,,Fenerbahce Dogus Istanbul,0
-ZAL       ,,0,00:03,20,263,"DAVIES, BRANDON",P007870   ,In,IN,,,Zalgiris Kaunas,0
-ZAL       ,,3,00:03,20,264,"PANGOS, KEVIN",P006433   ,In,IN,,,Zalgiris Kaunas,0
-ZAL       ,,21,00:03,20,265,"MILAKNIS, ARTURAS",PKPD      ,Out,OUT,,,Zalgiris Kaunas,0
-ZAL       ,,66,00:03,20,266,"VALINSKAS, PAULIUS",P004664   ,Out,OUT,,,Zalgiris Kaunas,0
-ULK       ,,11,00:03,20,267,"WANAMAKER, BRAD",P005838   ,In,IN,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,70,00:03,20,268,"DATOME, LUIGI",PCCD      ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,24,00:03,20,269,"VESELY, JAN",P000925   ,Free Throw In (4/4 -  8 pt),FTM,40.0,30.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,33,00:03,20,270,"KALINIC, NIKOLA",P004866   ,Assist (2),AS,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,24,00:03,20,271,"VESELY, JAN",P000925   ,Free Throw In (5/5 -  9 pt),FTM,40.0,31.0,Fenerbahce Dogus Istanbul,0
-ZAL       ,,22,00:01,20,272,"MICIC, VASILIJE",P002580   ,Turnover (2),TO,,,Zalgiris Kaunas,0
-          ,,,,21,274,,          ,End Period,EP,,,,0
-          ,,,,21,283,,          ,Begin Period,BP,,,,0
-ZAL       ,,3,10:00,21,275,"PANGOS, KEVIN",P006433   ,Out,OUT,,,Zalgiris Kaunas,0
-ZAL       ,,6,10:00,21,276,"TOUPANE, AXEL",P002582   ,In,IN,,,Zalgiris Kaunas,0
-ZAL       ,,13,10:00,21,277,"JANKUNAS, PAULIUS",PBWI      ,In,IN,,,Zalgiris Kaunas,0
-ZAL       ,,30,10:00,21,278,"WHITE, AARON",P006505   ,Out,OUT,,,Zalgiris Kaunas,0
-ULK       ,,4,10:00,21,279,"MELLI, NICOLO",P002849   ,In,IN,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,21,10:00,21,280,"NUNNALLY, JAMES",P007400   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,33,10:00,21,281,"KALINIC, NIKOLA",P004866   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,70,10:00,21,282,"DATOME, LUIGI",PCCD      ,In,IN,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,11,09:38,21,284,"WANAMAKER, BRAD",P005838   ,Missed Three Pointer (1/3 -  3 pt),3FGA,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,24,09:35,21,285,"VESELY, JAN",P000925   ,Off Rebound (1),O,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,24,09:32,21,286,"VESELY, JAN",P000925   ,Missed Two Pointer (2/4 -  9 pt),2FGA,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,24,09:32,21,287,"VESELY, JAN",P000925   ,Shot Rejected (1),AG,,,Fenerbahce Dogus Istanbul,0
-ZAL       ,,13,09:31,21,288,"JANKUNAS, PAULIUS",PBWI      ,Block (1),FV,,,Zalgiris Kaunas,0
-ZAL       ,,92,09:31,21,289,"ULANOVAS, EDGARAS",P002329   ,Def Rebound (3),D,,,Zalgiris Kaunas,0
-ULK       ,,24,09:31,21,290,"VESELY, JAN",P000925   ,Foul (2),CM,,,Fenerbahce Dogus Istanbul,0
-ZAL       ,,6,09:31,21,291,"TOUPANE, AXEL",P002582   ,Foul Drawn (2),RV,,,Zalgiris Kaunas,0
-ZAL       ,,6,09:31,21,292,"TOUPANE, AXEL",P002582   ,Missed Free Throw (2/3 -  2 pt),FTA,,,Zalgiris Kaunas,0
-ZAL       ,,6,09:31,21,293,"TOUPANE, AXEL",P002582   ,Free Throw In (3/4 -  3 pt),FTM,41.0,31.0,Zalgiris Kaunas,0
-ULK       ,,16,09:04,21,294,"SLOUKAS, KOSTAS",P001926   ,Missed Two Pointer (0/2 -  2 pt),2FGA,,,Fenerbahce Dogus Istanbul,0
-ZAL       ,,13,09:02,21,295,"JANKUNAS, PAULIUS",PBWI      ,Def Rebound (3),D,,,Zalgiris Kaunas,0
-ULK       ,,4,08:50,22,297,"MELLI, NICOLO",P002849   ,Foul (2),CM,,,Fenerbahce Dogus Istanbul,0
-ZAL       ,,92,08:50,22,298,"ULANOVAS, EDGARAS",P002329   ,Foul Drawn (3),RV,,,Zalgiris Kaunas,0
-ZAL       ,,92,08:38,22,299,"ULANOVAS, EDGARAS",P002329   ,Turnover (2),TO,,,Zalgiris Kaunas,0
-ULK       ,,16,08:37,22,300,"SLOUKAS, KOSTAS",P001926   ,Steal (1),ST,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,4,08:32,22,301,"MELLI, NICOLO",P002849   ,Two Pointer (1/3 -  4 pt),2FGM,41.0,33.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,11,08:30,22,302,"WANAMAKER, BRAD",P005838   ,Assist (2),AS,,,Fenerbahce Dogus Istanbul,0
-ZAL       ,,22,08:10,22,303,"MICIC, VASILIJE",P002580   ,Offensive Foul (1),OF,,,Zalgiris Kaunas,0
-ZAL       ,,22,08:10,22,304,"MICIC, VASILIJE",P002580   ,Turnover (3),TO,,,Zalgiris Kaunas,0
-ULK       ,,24,08:10,22,305,"VESELY, JAN",P000925   ,Foul Drawn (6),RV,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,70,07:52,23,307,"DATOME, LUIGI",PCCD      ,Two Pointer (1/2 -  8 pt),2FGM,41.0,35.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,11,07:49,23,308,"WANAMAKER, BRAD",P005838   ,Assist (3),AS,,,Fenerbahce Dogus Istanbul,0
-ZAL       ,,22,07:41,23,309,"MICIC, VASILIJE",P002580   ,Missed Two Pointer (4/7 -  11 pt),2FGA,,,Zalgiris Kaunas,0
-ULK       ,,4,07:38,23,310,"MELLI, NICOLO",P002849   ,Def Rebound (3),D,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,11,07:20,23,311,"WANAMAKER, BRAD",P005838   ,Missed Three Pointer (1/4 -  3 pt),3FGA,,,Fenerbahce Dogus Istanbul,0
-ZAL       ,,13,07:18,23,312,"JANKUNAS, PAULIUS",PBWI      ,Def Rebound (4),D,,,Zalgiris Kaunas,0
-ULK       ,,24,07:01,23,313,"VESELY, JAN",P000925   ,Foul (3),CM,,,Fenerbahce Dogus Istanbul,0
-ZAL       ,,13,07:01,23,314,"JANKUNAS, PAULIUS",PBWI      ,Foul Drawn (4),RV,,,Zalgiris Kaunas,0
-ULK       ,,1,07:01,23,315,"THOMPSON, JASON",P007998   ,In,IN,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,24,07:01,23,316,"VESELY, JAN",P000925   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
-ZAL       ,,21,07:01,23,317,"MILAKNIS, ARTURAS",PKPD      ,In,IN,,,Zalgiris Kaunas,0
-ZAL       ,,92,07:01,23,318,"ULANOVAS, EDGARAS",P002329   ,Out,OUT,,,Zalgiris Kaunas,0
-ZAL       ,,22,06:51,24,320,"MICIC, VASILIJE",P002580   ,Missed Two Pointer (4/8 -  11 pt),2FGA,,,Zalgiris Kaunas,0
-ZAL       ,,22,06:51,24,321,"MICIC, VASILIJE",P002580   ,Shot Rejected (1),AG,,,Zalgiris Kaunas,0
-ULK       ,,4,06:49,24,322,"MELLI, NICOLO",P002849   ,Block (1),FV,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,4,06:48,24,323,"MELLI, NICOLO",P002849   ,Def Rebound (4),D,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,4,06:40,24,324,"MELLI, NICOLO",P002849   ,Three Pointer (1/2 -  7 pt),3FGM,41.0,38.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,11,06:40,24,325,"WANAMAKER, BRAD",P005838   ,Assist (4),AS,,,Fenerbahce Dogus Istanbul,0
-ZAL       ,,,06:40,24,326,,          ,Time Out (1),TOUT,,,Zalgiris Kaunas,0
-          ,,,06:40,24,327,,          ,TV Time Out (3),TOUT_TV,,,,0
-ZAL       ,,0,06:40,24,328,"DAVIES, BRANDON",P007870   ,Out,OUT,,,Zalgiris Kaunas,0
-ZAL       ,,3,06:40,24,329,"PANGOS, KEVIN",P006433   ,In,IN,,,Zalgiris Kaunas,0
-ZAL       ,,22,06:40,24,330,"MICIC, VASILIJE",P002580   ,Out,OUT,,,Zalgiris Kaunas,0
-ZAL       ,,44,06:40,24,331,"KAVALIAUSKAS, ANTANAS",P000399   ,In,IN,,,Zalgiris Kaunas,0
-ZAL       ,,21,06:16,24,332,"MILAKNIS, ARTURAS",PKPD      ,Three Pointer (2/2 -  6 pt),3FGM,44.0,38.0,Zalgiris Kaunas,0
-ZAL       ,,44,06:13,24,333,"KAVALIAUSKAS, ANTANAS",P000399   ,Assist (1),AS,,,Zalgiris Kaunas,0
-ZAL       ,,21,05:57,25,335,"MILAKNIS, ARTURAS",PKPD      ,Foul (1),CM,,,Zalgiris Kaunas,0
-ULK       ,,70,05:57,25,336,"DATOME, LUIGI",PCCD      ,Foul Drawn (1),RV,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,70,05:57,25,337,"DATOME, LUIGI",PCCD      ,Free Throw In (1/1 -  9 pt),FTM,44.0,39.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,70,05:57,25,338,"DATOME, LUIGI",PCCD      ,Free Throw In (2/2 -  10 pt),FTM,44.0,40.0,Fenerbahce Dogus Istanbul,0
-ZAL       ,,21,05:35,25,339,"MILAKNIS, ARTURAS",PKPD      ,Missed Three Pointer (2/3 -  6 pt),3FGA,,,Zalgiris Kaunas,0
-ZAL       ,,44,05:33,25,340,"KAVALIAUSKAS, ANTANAS",P000399   ,Off Rebound (1),O,,,Zalgiris Kaunas,0
-ZAL       ,,13,05:27,25,341,"JANKUNAS, PAULIUS",PBWI      ,Two Pointer (2/4 -  6 pt),2FGM,46.0,40.0,Zalgiris Kaunas,0
-ZAL       ,,44,05:27,25,342,"KAVALIAUSKAS, ANTANAS",P000399   ,Assist (2),AS,,,Zalgiris Kaunas,0
-ULK       ,,4,05:27,25,343,"MELLI, NICOLO",P002849   ,Foul (3),CM,,,Fenerbahce Dogus Istanbul,0
-ZAL       ,,13,05:27,25,344,"JANKUNAS, PAULIUS",PBWI      ,Foul Drawn (5),RV,,,Zalgiris Kaunas,0
-ZAL       ,,13,05:27,25,345,"JANKUNAS, PAULIUS",PBWI      ,Free Throw In (3/3 -  7 pt),FTM,47.0,40.0,Zalgiris Kaunas,0
-ZAL       ,,44,05:09,25,346,"KAVALIAUSKAS, ANTANAS",P000399   ,Foul (3),CM,,,Zalgiris Kaunas,0
-ULK       ,,1,05:09,25,347,"THOMPSON, JASON",P007998   ,Foul Drawn (1),RV,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,16,05:09,25,348,"SLOUKAS, KOSTAS",P001926   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,23,05:09,25,349,"GUDURIC, MARKO",P004004   ,In,IN,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,1,05:09,25,350,"THOMPSON, JASON",P007998   ,Free Throw In (1/1 -  1 pt),FTM,47.0,41.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,70,05:09,25,351,"DATOME, LUIGI",PCCD      ,Assist (1),AS,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,1,05:09,25,352,"THOMPSON, JASON",P007998   ,Free Throw In (2/2 -  2 pt),FTM,47.0,42.0,Fenerbahce Dogus Istanbul,0
-ZAL       ,,3,04:45,26,354,"PANGOS, KEVIN",P006433   ,Two Pointer (1/3 -  2 pt),2FGM,49.0,42.0,Zalgiris Kaunas,0
-ULK       ,,23,04:23,26,355,"GUDURIC, MARKO",P004004   ,Two Pointer (2/3 -  4 pt),2FGM,49.0,44.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,4,04:20,26,356,"MELLI, NICOLO",P002849   ,Assist (2),AS,,,Fenerbahce Dogus Istanbul,0
-ZAL       ,,44,04:09,26,357,"KAVALIAUSKAS, ANTANAS",P000399   ,Missed Two Pointer (0/1 -  2 pt),2FGA,,,Zalgiris Kaunas,0
-ULK       ,,4,04:06,26,358,"MELLI, NICOLO",P002849   ,Def Rebound (5),D,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,1,03:54,27,360,"THOMPSON, JASON",P007998   ,Two Pointer (1/1 -  4 pt),2FGM,49.0,46.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,4,03:51,27,361,"MELLI, NICOLO",P002849   ,Assist (3),AS,,,Fenerbahce Dogus Istanbul,0
-ZAL       ,,3,03:41,27,362,"PANGOS, KEVIN",P006433   ,Two Pointer (2/4 -  4 pt),2FGM,51.0,46.0,Zalgiris Kaunas,0
-ULK       ,,70,03:15,27,363,"DATOME, LUIGI",PCCD      ,Two Pointer (2/3 -  12 pt),2FGM,51.0,48.0,Fenerbahce Dogus Istanbul,0
-ZAL       ,,6,03:01,27,364,"TOUPANE, AXEL",P002582   ,Missed Three Pointer (0/1 -  3 pt),3FGA,,,Zalgiris Kaunas,0
-ZAL       ,,,03:00,27,365,,          ,Off Rebound (2),O,,,Zalgiris Kaunas,0
-ULK       ,,4,03:00,27,366,"MELLI, NICOLO",P002849   ,Foul (4),CM,,,Fenerbahce Dogus Istanbul,0
-ZAL       ,,13,03:00,27,367,"JANKUNAS, PAULIUS",PBWI      ,Foul Drawn (6),RV,,,Zalgiris Kaunas,0
-ULK       ,,4,03:00,27,368,"MELLI, NICOLO",P002849   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,33,03:00,27,369,"KALINIC, NIKOLA",P004866   ,In,IN,,,Fenerbahce Dogus Istanbul,0
-ZAL       ,,6,03:00,27,370,"TOUPANE, AXEL",P002582   ,Out,OUT,,,Zalgiris Kaunas,0
-ZAL       ,,22,03:00,27,371,"MICIC, VASILIJE",P002580   ,In,IN,,,Zalgiris Kaunas,0
-ZAL       ,,13,03:00,27,372,"JANKUNAS, PAULIUS",PBWI      ,Free Throw In (4/4 -  8 pt),FTM,52.0,48.0,Zalgiris Kaunas,0
-ZAL       ,,13,03:00,27,373,"JANKUNAS, PAULIUS",PBWI      ,Free Throw In (5/5 -  9 pt),FTM,53.0,48.0,Zalgiris Kaunas,0
-ZAL       ,,13,03:00,27,374,"JANKUNAS, PAULIUS",PBWI      ,Out,OUT,,,Zalgiris Kaunas,0
-ZAL       ,,30,03:00,27,375,"WHITE, AARON",P006505   ,In,IN,,,Zalgiris Kaunas,0
-ZAL       ,,44,02:39,28,377,"KAVALIAUSKAS, ANTANAS",P000399   ,Foul (4),CM,,,Zalgiris Kaunas,0
-ULK       ,,11,02:39,28,378,"WANAMAKER, BRAD",P005838   ,Foul Drawn (2),RV,,,Fenerbahce Dogus Istanbul,0
-ZAL       ,,0,02:39,28,379,"DAVIES, BRANDON",P007870   ,In,IN,,,Zalgiris Kaunas,0
-ZAL       ,,44,02:39,28,380,"KAVALIAUSKAS, ANTANAS",P000399   ,Out,OUT,,,Zalgiris Kaunas,0
-ULK       ,,11,02:39,28,381,"WANAMAKER, BRAD",P005838   ,Free Throw In (1/1 -  4 pt),FTM,53.0,49.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,11,02:39,28,382,"WANAMAKER, BRAD",P005838   ,Free Throw In (2/2 -  5 pt),FTM,53.0,50.0,Fenerbahce Dogus Istanbul,0
-ZAL       ,,3,02:13,28,383,"PANGOS, KEVIN",P006433   ,Missed Two Pointer (2/5 -  4 pt),2FGA,,,Zalgiris Kaunas,0
-ULK       ,,70,02:11,28,384,"DATOME, LUIGI",PCCD      ,Def Rebound (2),D,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,1,02:04,28,385,"THOMPSON, JASON",P007998   ,Two Pointer (2/2 -  6 pt),2FGM,53.0,52.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,23,02:02,28,386,"GUDURIC, MARKO",P004004   ,Assist (4),AS,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,23,01:48,29,388,"GUDURIC, MARKO",P004004   ,Foul (1),CM,,,Fenerbahce Dogus Istanbul,0
-ZAL       ,,30,01:48,29,389,"WHITE, AARON",P006505   ,Foul Drawn (1),RV,,,Zalgiris Kaunas,0
-ZAL       ,,3,01:48,29,390,"PANGOS, KEVIN",P006433   ,Out,OUT,,,Zalgiris Kaunas,0
-ZAL       ,,92,01:48,29,391,"ULANOVAS, EDGARAS",P002329   ,In,IN,,,Zalgiris Kaunas,0
-ZAL       ,,30,01:48,29,392,"WHITE, AARON",P006505   ,Free Throw In (1/1 -  5 pt),FTM,54.0,52.0,Zalgiris Kaunas,0
-ZAL       ,,30,01:48,29,393,"WHITE, AARON",P006505   ,Free Throw In (2/2 -  6 pt),FTM,55.0,52.0,Zalgiris Kaunas,0
-ULK       ,,1,01:26,29,394,"THOMPSON, JASON",P007998   ,Missed Two Pointer (2/3 -  6 pt),2FGA,,,Fenerbahce Dogus Istanbul,0
-ZAL       ,,,01:25,29,395,,          ,Def Rebound (1),D,,,Zalgiris Kaunas,0
-ULK       ,,1,01:25,29,396,"THOMPSON, JASON",P007998   ,Foul (2),CM,,,Fenerbahce Dogus Istanbul,0
-ZAL       ,,30,01:25,29,397,"WHITE, AARON",P006505   ,Foul Drawn (2),RV,,,Zalgiris Kaunas,0
-ZAL       ,,30,01:25,29,398,"WHITE, AARON",P006505   ,Free Throw In (3/3 -  7 pt),FTM,56.0,52.0,Zalgiris Kaunas,0
-ZAL       ,,30,01:25,29,399,"WHITE, AARON",P006505   ,Missed Free Throw (3/4 -  7 pt),FTA,,,Zalgiris Kaunas,0
-ULK       ,,33,01:21,29,400,"KALINIC, NIKOLA",P004866   ,Def Rebound (1),D,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,11,01:04,29,401,"WANAMAKER, BRAD",P005838   ,Turnover (3),TO,,,Fenerbahce Dogus Istanbul,0
-ZAL       ,,30,00:51,30,403,"WHITE, AARON",P006505   ,Two Pointer (3/3 -  9 pt),2FGM,58.0,52.0,Zalgiris Kaunas,0
-ZAL       ,,22,00:49,30,404,"MICIC, VASILIJE",P002580   ,Assist (4),AS,,,Zalgiris Kaunas,0
-ULK       ,,23,00:28,30,405,"GUDURIC, MARKO",P004004   ,Missed Two Pointer (2/4 -  4 pt),2FGA,,,Fenerbahce Dogus Istanbul,0
-ZAL       ,,21,00:26,30,406,"MILAKNIS, ARTURAS",PKPD      ,Def Rebound (4),D,,,Zalgiris Kaunas,0
-ZAL       ,,21,00:16,30,407,"MILAKNIS, ARTURAS",PKPD      ,Offensive Foul (2),OF,,,Zalgiris Kaunas,0
-ZAL       ,,21,00:16,30,408,"MILAKNIS, ARTURAS",PKPD      ,Turnover (1),TO,,,Zalgiris Kaunas,0
-ULK       ,,1,00:16,30,409,"THOMPSON, JASON",P007998   ,Foul Drawn (2),RV,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,1,00:16,30,410,"THOMPSON, JASON",P007998   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,16,00:16,30,411,"SLOUKAS, KOSTAS",P001926   ,In,IN,,,Fenerbahce Dogus Istanbul,0
-ZAL       ,,0,00:16,30,412,"DAVIES, BRANDON",P007870   ,Out,OUT,,,Zalgiris Kaunas,0
-ZAL       ,,66,00:16,30,413,"VALINSKAS, PAULIUS",P004664   ,In,IN,,,Zalgiris Kaunas,0
-ULK       ,,11,00:03,30,414,"WANAMAKER, BRAD",P005838   ,Missed Two Pointer (0/2 -  5 pt),2FGA,,,Fenerbahce Dogus Istanbul,0
-ZAL       ,,30,00:03,30,415,"WHITE, AARON",P006505   ,Def Rebound (2),D,,,Zalgiris Kaunas,0
-ZAL       ,,30,00:01,30,416,"WHITE, AARON",P006505   ,Missed Three Pointer (0/1 -  9 pt),3FGA,,,Zalgiris Kaunas,0
-ZAL       ,,30,00:01,30,417,"WHITE, AARON",P006505   ,Shot Rejected (1),AG,,,Zalgiris Kaunas,0
-ULK       ,,70,00:01,30,418,"DATOME, LUIGI",PCCD      ,Block (1),FV,,,Fenerbahce Dogus Istanbul,0
-          ,,,,31,420,,          ,End Period,EP,,,,0
-          ,,,,31,427,,          ,Begin Period,BP,,,,0
-ZAL       ,,3,10:00,31,421,"PANGOS, KEVIN",P006433   ,In,IN,,,Zalgiris Kaunas,0
-ZAL       ,,13,10:00,31,422,"JANKUNAS, PAULIUS",PBWI      ,In,IN,,,Zalgiris Kaunas,0
-ZAL       ,,66,10:00,31,423,"VALINSKAS, PAULIUS",P004664   ,Out,OUT,,,Zalgiris Kaunas,0
-ZAL       ,,92,10:00,31,424,"ULANOVAS, EDGARAS",P002329   ,Out,OUT,,,Zalgiris Kaunas,0
-ULK       ,,1,10:00,31,425,"THOMPSON, JASON",P007998   ,In,IN,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,11,10:00,31,426,"WANAMAKER, BRAD",P005838   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
-ZAL       ,,30,09:41,31,428,"WHITE, AARON",P006505   ,Missed Two Pointer (3/4 -  9 pt),2FGA,,,Zalgiris Kaunas,0
-ZAL       ,,30,09:41,31,429,"WHITE, AARON",P006505   ,Shot Rejected (2),AG,,,Zalgiris Kaunas,0
-ULK       ,,1,09:41,31,430,"THOMPSON, JASON",P007998   ,Block (1),FV,,,Fenerbahce Dogus Istanbul,0
-ZAL       ,,22,09:41,31,431,"MICIC, VASILIJE",P002580   ,Off Rebound (1),O,,,Zalgiris Kaunas,0
-ZAL       ,,3,09:34,31,432,"PANGOS, KEVIN",P006433   ,Two Pointer (3/6 -  6 pt),2FGM,60.0,52.0,Zalgiris Kaunas,0
-ULK       ,,16,09:17,31,433,"SLOUKAS, KOSTAS",P001926   ,Three Pointer (1/3 -  5 pt),3FGM,60.0,55.0,Fenerbahce Dogus Istanbul,0
-ZAL       ,,30,08:51,32,435,"WHITE, AARON",P006505   ,Missed Two Pointer (3/5 -  9 pt),2FGA,,,Zalgiris Kaunas,0
-ZAL       ,,30,08:51,32,436,"WHITE, AARON",P006505   ,Shot Rejected (3),AG,,,Zalgiris Kaunas,0
-ULK       ,,70,08:49,32,437,"DATOME, LUIGI",PCCD      ,Block (2),FV,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,23,08:46,32,438,"GUDURIC, MARKO",P004004   ,Def Rebound (2),D,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,1,08:29,32,439,"THOMPSON, JASON",P007998   ,Two Pointer (3/4 -  8 pt),2FGM,60.0,57.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,33,08:29,32,440,"KALINIC, NIKOLA",P004866   ,Assist (3),AS,,,Fenerbahce Dogus Istanbul,0
-ZAL       ,,30,08:29,32,441,"WHITE, AARON",P006505   ,Foul (1),CM,,,Zalgiris Kaunas,0
-ULK       ,,1,08:29,32,442,"THOMPSON, JASON",P007998   ,Foul Drawn (3),RV,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,21,08:29,32,443,"NUNNALLY, JAMES",P007400   ,In,IN,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,70,08:29,32,444,"DATOME, LUIGI",PCCD      ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,1,08:29,32,445,"THOMPSON, JASON",P007998   ,Free Throw In (3/3 -  9 pt),FTM,60.0,58.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,23,08:27,32,446,"GUDURIC, MARKO",P004004   ,Foul (2),CM,,,Fenerbahce Dogus Istanbul,0
-ZAL       ,,3,08:27,32,447,"PANGOS, KEVIN",P006433   ,Foul Drawn (2),RV,,,Zalgiris Kaunas,0
-ULK       ,,23,08:13,32,448,"GUDURIC, MARKO",P004004   ,Foul (3),CM,,,Fenerbahce Dogus Istanbul,0
-ZAL       ,,3,08:13,32,449,"PANGOS, KEVIN",P006433   ,Foul Drawn (3),RV,,,Zalgiris Kaunas,0
-ZAL       ,,13,07:56,33,451,"JANKUNAS, PAULIUS",PBWI      ,Missed Two Pointer (2/5 -  9 pt),2FGA,,,Zalgiris Kaunas,0
-ULK       ,,16,07:54,33,452,"SLOUKAS, KOSTAS",P001926   ,Def Rebound (2),D,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,1,07:41,33,453,"THOMPSON, JASON",P007998   ,Two Pointer (4/5 -  11 pt),2FGM,60.0,60.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,33,07:38,33,454,"KALINIC, NIKOLA",P004866   ,Assist (4),AS,,,Fenerbahce Dogus Istanbul,0
-ZAL       ,,3,07:22,33,455,"PANGOS, KEVIN",P006433   ,Two Pointer (4/7 -  8 pt),2FGM,62.0,60.0,Zalgiris Kaunas,0
-ULK       ,,21,07:22,33,456,"NUNNALLY, JAMES",P007400   ,Foul (2),CM,,,Fenerbahce Dogus Istanbul,0
-ZAL       ,,3,07:22,33,457,"PANGOS, KEVIN",P006433   ,Foul Drawn (4),RV,,,Zalgiris Kaunas,0
-ZAL       ,,30,07:22,33,458,"WHITE, AARON",P006505   ,Out,OUT,,,Zalgiris Kaunas,0
-ZAL       ,,92,07:22,33,459,"ULANOVAS, EDGARAS",P002329   ,In,IN,,,Zalgiris Kaunas,0
-ZAL       ,,3,07:22,33,460,"PANGOS, KEVIN",P006433   ,Missed Free Throw (0/1 -  8 pt),FTA,,,Zalgiris Kaunas,0
-ULK       ,,21,07:19,33,461,"NUNNALLY, JAMES",P007400   ,Def Rebound (1),D,,,Fenerbahce Dogus Istanbul,0
-ZAL       ,,21,07:00,33,462,"MILAKNIS, ARTURAS",PKPD      ,Foul (3),CM,,,Zalgiris Kaunas,0
-ULK       ,,23,07:00,33,463,"GUDURIC, MARKO",P004004   ,Foul Drawn (2),RV,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,33,06:45,34,465,"KALINIC, NIKOLA",P004866   ,Two Pointer (3/3 -  9 pt),2FGM,62.0,62.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,21,06:27,34,466,"NUNNALLY, JAMES",P007400   ,Foul (3),CM,,,Fenerbahce Dogus Istanbul,0
-ZAL       ,,13,06:27,34,467,"JANKUNAS, PAULIUS",PBWI      ,Foul Drawn (7),RV,,,Zalgiris Kaunas,0
-ULK       ,,1,06:27,34,468,"THOMPSON, JASON",P007998   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,24,06:27,34,469,"VESELY, JAN",P000925   ,In,IN,,,Fenerbahce Dogus Istanbul,0
-ZAL       ,,22,06:17,34,470,"MICIC, VASILIJE",P002580   ,Missed Three Pointer (1/3 -  11 pt),3FGA,,,Zalgiris Kaunas,0
-ZAL       ,,21,06:15,34,471,"MILAKNIS, ARTURAS",PKPD      ,Off Rebound (1),O,,,Zalgiris Kaunas,0
-ZAL       ,,3,06:13,34,472,"PANGOS, KEVIN",P006433   ,Three Pointer (1/1 -  11 pt),3FGM,65.0,62.0,Zalgiris Kaunas,0
-ZAL       ,,22,06:13,34,473,"MICIC, VASILIJE",P002580   ,Assist (5),AS,,,Zalgiris Kaunas,0
-ZAL       ,,22,05:58,35,475,"MICIC, VASILIJE",P002580   ,Foul (2),CM,,,Zalgiris Kaunas,0
-ULK       ,,16,05:58,35,476,"SLOUKAS, KOSTAS",P001926   ,Foul Drawn (2),RV,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,23,05:58,35,477,"GUDURIC, MARKO",P004004   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,70,05:58,35,478,"DATOME, LUIGI",PCCD      ,In,IN,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,21,05:55,35,479,"NUNNALLY, JAMES",P007400   ,Two Pointer (1/2 -  2 pt),2FGM,65.0,64.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,33,05:50,35,480,"KALINIC, NIKOLA",P004866   ,Assist (5),AS,,,Fenerbahce Dogus Istanbul,0
-ZAL       ,,92,05:29,35,481,"ULANOVAS, EDGARAS",P002329   ,Missed Two Pointer (1/4 -  2 pt),2FGA,,,Zalgiris Kaunas,0
-ZAL       ,,13,05:27,35,482,"JANKUNAS, PAULIUS",PBWI      ,Off Rebound (1),O,,,Zalgiris Kaunas,0
-ZAL       ,,13,05:21,35,483,"JANKUNAS, PAULIUS",PBWI      ,Offensive Foul (3),OF,,,Zalgiris Kaunas,0
-ZAL       ,,13,05:21,35,484,"JANKUNAS, PAULIUS",PBWI      ,Turnover (1),TO,,,Zalgiris Kaunas,0
-ULK       ,,24,05:21,35,485,"VESELY, JAN",P000925   ,Foul Drawn (7),RV,,,Fenerbahce Dogus Istanbul,0
-ZAL       ,,0,05:21,35,486,"DAVIES, BRANDON",P007870   ,In,IN,,,Zalgiris Kaunas,0
-ZAL       ,,13,05:21,35,487,"JANKUNAS, PAULIUS",PBWI      ,Out,OUT,,,Zalgiris Kaunas,0
-ULK       ,,24,05:03,35,488,"VESELY, JAN",P000925   ,Two Pointer (3/5 -  11 pt),2FGM,65.0,66.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,33,05:03,35,489,"KALINIC, NIKOLA",P004866   ,Assist (6),AS,,,Fenerbahce Dogus Istanbul,0
-ZAL       ,,,05:03,35,490,,          ,Time Out (1),TOUT,,,Zalgiris Kaunas,0
-          ,,,05:03,35,491,,          ,TV Time Out (4),TOUT_TV,,,,0
-ZAL       ,,0,04:46,36,493,"DAVIES, BRANDON",P007870   ,Missed Two Pointer (3/4 -  8 pt),2FGA,,,Zalgiris Kaunas,0
-ULK       ,,24,04:43,36,494,"VESELY, JAN",P000925   ,Def Rebound (2),D,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,70,04:31,36,495,"DATOME, LUIGI",PCCD      ,Missed Three Pointer (2/5 -  12 pt),3FGA,,,Fenerbahce Dogus Istanbul,0
-ZAL       ,,92,04:29,36,496,"ULANOVAS, EDGARAS",P002329   ,Def Rebound (4),D,,,Zalgiris Kaunas,0
-ZAL       ,,0,04:08,36,497,"DAVIES, BRANDON",P007870   ,Missed Two Pointer (3/5 -  8 pt),2FGA,,,Zalgiris Kaunas,0
-ULK       ,,21,04:05,36,498,"NUNNALLY, JAMES",P007400   ,Def Rebound (2),D,,,Fenerbahce Dogus Istanbul,0
-ZAL       ,,22,03:51,37,500,"MICIC, VASILIJE",P002580   ,Foul (3),CM,,,Zalgiris Kaunas,0
-ULK       ,,16,03:51,37,501,"SLOUKAS, KOSTAS",P001926   ,Foul Drawn (3),RV,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,16,03:51,37,502,"SLOUKAS, KOSTAS",P001926   ,Free Throw In (3/3 -  6 pt),FTM,65.0,67.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,16,03:51,37,503,"SLOUKAS, KOSTAS",P001926   ,Free Throw In (4/4 -  7 pt),FTM,65.0,68.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,16,03:51,37,504,"SLOUKAS, KOSTAS",P001926   ,Free Throw In (5/5 -  8 pt),FTM,65.0,69.0,Fenerbahce Dogus Istanbul,0
-ZAL       ,,0,03:51,37,505,"DAVIES, BRANDON",P007870   ,Out,OUT,,,Zalgiris Kaunas,0
-ZAL       ,,13,03:51,37,506,"JANKUNAS, PAULIUS",PBWI      ,In,IN,,,Zalgiris Kaunas,0
-ULK       ,,1,03:51,37,507,"THOMPSON, JASON",P007998   ,In,IN,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,70,03:51,37,508,"DATOME, LUIGI",PCCD      ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,21,03:38,37,509,"NUNNALLY, JAMES",P007400   ,Foul (4),CM,,,Fenerbahce Dogus Istanbul,0
-ZAL       ,,92,03:38,37,510,"ULANOVAS, EDGARAS",P002329   ,Foul Drawn (4),RV,,,Zalgiris Kaunas,0
-ZAL       ,,92,03:38,37,511,"ULANOVAS, EDGARAS",P002329   ,Free Throw In (1/1 -  3 pt),FTM,66.0,69.0,Zalgiris Kaunas,0
-ZAL       ,,92,03:38,37,512,"ULANOVAS, EDGARAS",P002329   ,Free Throw In (2/2 -  4 pt),FTM,67.0,69.0,Zalgiris Kaunas,0
-ZAL       ,,0,03:38,37,513,"DAVIES, BRANDON",P007870   ,In,IN,,,Zalgiris Kaunas,0
-ZAL       ,,13,03:38,37,514,"JANKUNAS, PAULIUS",PBWI      ,Out,OUT,,,Zalgiris Kaunas,0
-ULK       ,,1,03:38,37,515,"THOMPSON, JASON",P007998   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,70,03:38,37,516,"DATOME, LUIGI",PCCD      ,In,IN,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,33,03:21,37,517,"KALINIC, NIKOLA",P004866   ,Three Pointer (2/3 -  12 pt),3FGM,67.0,72.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,16,03:18,37,518,"SLOUKAS, KOSTAS",P001926   ,Assist (3),AS,,,Fenerbahce Dogus Istanbul,0
-ZAL       ,,0,03:02,37,519,"DAVIES, BRANDON",P007870   ,Two Pointer (4/6 -  10 pt),2FGM,69.0,72.0,Zalgiris Kaunas,0
-ZAL       ,,0,02:47,38,521,"DAVIES, BRANDON",P007870   ,Foul (3),CM,,,Zalgiris Kaunas,0
-ULK       ,,24,02:47,38,522,"VESELY, JAN",P000925   ,Foul Drawn (8),RV,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,24,02:47,38,523,"VESELY, JAN",P000925   ,Free Throw In (6/6 -  12 pt),FTM,69.0,73.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,16,02:47,38,524,"SLOUKAS, KOSTAS",P001926   ,Assist (4),AS,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,24,02:47,38,525,"VESELY, JAN",P000925   ,Free Throw In (7/7 -  13 pt),FTM,69.0,74.0,Fenerbahce Dogus Istanbul,0
-ZAL       ,,0,02:47,38,526,"DAVIES, BRANDON",P007870   ,Out,OUT,,,Zalgiris Kaunas,0
-ZAL       ,,13,02:47,38,527,"JANKUNAS, PAULIUS",PBWI      ,In,IN,,,Zalgiris Kaunas,0
-ULK       ,,4,02:47,38,528,"MELLI, NICOLO",P002849   ,In,IN,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,70,02:47,38,529,"DATOME, LUIGI",PCCD      ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
-ZAL       ,,22,02:32,38,530,"MICIC, VASILIJE",P002580   ,Missed Two Pointer (4/9 -  11 pt),2FGA,,,Zalgiris Kaunas,0
-ULK       ,,24,02:29,38,531,"VESELY, JAN",P000925   ,Def Rebound (3),D,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,4,02:15,38,532,"MELLI, NICOLO",P002849   ,Missed Two Pointer (1/4 -  7 pt),2FGA,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,33,02:14,38,533,"KALINIC, NIKOLA",P004866   ,Off Rebound (1),O,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,24,02:12,38,534,"VESELY, JAN",P000925   ,Offensive Foul (4),OF,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,24,02:12,38,535,"VESELY, JAN",P000925   ,Turnover (1),TO,,,Fenerbahce Dogus Istanbul,0
-ZAL       ,,21,02:12,38,536,"MILAKNIS, ARTURAS",PKPD      ,Foul Drawn (2),RV,,,Zalgiris Kaunas,0
-ZAL       ,,22,02:12,38,537,"MICIC, VASILIJE",P002580   ,Out,OUT,,,Zalgiris Kaunas,0
-ZAL       ,,30,02:12,38,538,"WHITE, AARON",P006505   ,In,IN,,,Zalgiris Kaunas,0
-ULK       ,,16,01:51,39,540,"SLOUKAS, KOSTAS",P001926   ,Foul (2),CM,,,Fenerbahce Dogus Istanbul,0
-ZAL       ,,13,01:51,39,541,"JANKUNAS, PAULIUS",PBWI      ,Foul Drawn (8),RV,,,Zalgiris Kaunas,0
-ULK       ,,4,01:51,39,542,"MELLI, NICOLO",P002849   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,70,01:51,39,543,"DATOME, LUIGI",PCCD      ,In,IN,,,Fenerbahce Dogus Istanbul,0
-ZAL       ,,13,01:51,39,544,"JANKUNAS, PAULIUS",PBWI      ,Free Throw In (6/6 -  10 pt),FTM,70.0,74.0,Zalgiris Kaunas,0
-ZAL       ,,92,01:51,39,545,"ULANOVAS, EDGARAS",P002329   ,Assist (3),AS,,,Zalgiris Kaunas,0
-ZAL       ,,13,01:51,39,546,"JANKUNAS, PAULIUS",PBWI      ,Free Throw In (7/7 -  11 pt),FTM,71.0,74.0,Zalgiris Kaunas,0
-ZAL       ,,0,01:51,39,547,"DAVIES, BRANDON",P007870   ,In,IN,,,Zalgiris Kaunas,0
-ZAL       ,,13,01:51,39,548,"JANKUNAS, PAULIUS",PBWI      ,Out,OUT,,,Zalgiris Kaunas,0
-ZAL       ,,21,01:51,39,549,"MILAKNIS, ARTURAS",PKPD      ,Out,OUT,,,Zalgiris Kaunas,0
-ZAL       ,,22,01:51,39,550,"MICIC, VASILIJE",P002580   ,In,IN,,,Zalgiris Kaunas,0
-ULK       ,,16,01:33,39,551,"SLOUKAS, KOSTAS",P001926   ,Three Pointer (2/4 -  11 pt),3FGM,71.0,77.0,Fenerbahce Dogus Istanbul,0
-ZAL       ,,30,01:24,39,552,"WHITE, AARON",P006505   ,Missed Two Pointer (3/6 -  9 pt),2FGA,,,Zalgiris Kaunas,0
-ULK       ,,70,01:21,39,553,"DATOME, LUIGI",PCCD      ,Def Rebound (3),D,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,70,01:02,39,554,"DATOME, LUIGI",PCCD      ,Two Pointer (3/4 -  14 pt),2FGM,71.0,79.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,16,01:02,39,555,"SLOUKAS, KOSTAS",P001926   ,Assist (5),AS,,,Fenerbahce Dogus Istanbul,0
-ZAL       ,,,01:02,39,556,,          ,Time Out (2),TOUT,,,Zalgiris Kaunas,0
-ZAL       ,,0,01:02,39,557,"DAVIES, BRANDON",P007870   ,Out,OUT,,,Zalgiris Kaunas,0
-ZAL       ,,13,01:02,39,558,"JANKUNAS, PAULIUS",PBWI      ,In,IN,,,Zalgiris Kaunas,0
-ZAL       ,,21,01:02,39,559,"MILAKNIS, ARTURAS",PKPD      ,In,IN,,,Zalgiris Kaunas,0
-ZAL       ,,30,01:02,39,560,"WHITE, AARON",P006505   ,Out,OUT,,,Zalgiris Kaunas,0
-ULK       ,,4,01:02,39,561,"MELLI, NICOLO",P002849   ,In,IN,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,70,01:02,39,562,"DATOME, LUIGI",PCCD      ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
-ZAL       ,,13,00:54,40,564,"JANKUNAS, PAULIUS",PBWI      ,Two Pointer (3/6 -  13 pt),2FGM,73.0,79.0,Zalgiris Kaunas,0
-ZAL       ,,3,00:54,40,565,"PANGOS, KEVIN",P006433   ,Assist (3),AS,,,Zalgiris Kaunas,0
-ZAL       ,,0,00:54,40,566,"DAVIES, BRANDON",P007870   ,In,IN,,,Zalgiris Kaunas,0
-ZAL       ,,13,00:54,40,567,"JANKUNAS, PAULIUS",PBWI      ,Out,OUT,,,Zalgiris Kaunas,0
-ULK       ,,4,00:54,40,568,"MELLI, NICOLO",P002849   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,70,00:54,40,569,"DATOME, LUIGI",PCCD      ,In,IN,,,Fenerbahce Dogus Istanbul,0
-ZAL       ,,3,00:51,40,570,"PANGOS, KEVIN",P006433   ,Foul (4),CM,,,Zalgiris Kaunas,0
-ULK       ,,16,00:51,40,571,"SLOUKAS, KOSTAS",P001926   ,Foul Drawn (4),RV,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,4,00:51,40,572,"MELLI, NICOLO",P002849   ,In,IN,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,70,00:51,40,573,"DATOME, LUIGI",PCCD      ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,16,00:51,40,574,"SLOUKAS, KOSTAS",P001926   ,Free Throw In (6/6 -  12 pt),FTM,73.0,80.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,16,00:51,40,575,"SLOUKAS, KOSTAS",P001926   ,Free Throw In (7/7 -  13 pt),FTM,73.0,81.0,Fenerbahce Dogus Istanbul,0
-ZAL       ,,0,00:51,40,576,"DAVIES, BRANDON",P007870   ,Out,OUT,,,Zalgiris Kaunas,0
-ZAL       ,,13,00:51,40,577,"JANKUNAS, PAULIUS",PBWI      ,In,IN,,,Zalgiris Kaunas,0
-ZAL       ,,13,00:41,40,578,"JANKUNAS, PAULIUS",PBWI      ,Two Pointer (4/7 -  15 pt),2FGM,75.0,81.0,Zalgiris Kaunas,0
-ZAL       ,,3,00:41,40,579,"PANGOS, KEVIN",P006433   ,Assist (4),AS,,,Zalgiris Kaunas,0
-ZAL       ,,0,00:41,40,580,"DAVIES, BRANDON",P007870   ,In,IN,,,Zalgiris Kaunas,0
-ZAL       ,,13,00:41,40,581,"JANKUNAS, PAULIUS",PBWI      ,Out,OUT,,,Zalgiris Kaunas,0
-ULK       ,,4,00:41,40,582,"MELLI, NICOLO",P002849   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,70,00:41,40,583,"DATOME, LUIGI",PCCD      ,In,IN,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,16,00:24,40,584,"SLOUKAS, KOSTAS",P001926   ,Two Pointer (1/3 -  15 pt),2FGM,75.0,83.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,4,00:24,40,585,"MELLI, NICOLO",P002849   ,In,IN,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,70,00:24,40,586,"DATOME, LUIGI",PCCD      ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
-ZAL       ,,3,00:16,40,587,"PANGOS, KEVIN",P006433   ,Three Pointer (2/2 -  14 pt),3FGM,78.0,83.0,Zalgiris Kaunas,0
-ULK       ,,4,00:16,40,589,"MELLI, NICOLO",P002849   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,70,00:16,40,590,"DATOME, LUIGI",PCCD      ,In,IN,,,Fenerbahce Dogus Istanbul,0
-ZAL       ,,21,00:13,40,591,"MILAKNIS, ARTURAS",PKPD      ,Foul (4),CM,,,Zalgiris Kaunas,0
-ULK       ,,70,00:13,40,592,"DATOME, LUIGI",PCCD      ,Foul Drawn (2),RV,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,70,00:13,40,593,"DATOME, LUIGI",PCCD      ,Free Throw In (3/3 -  15 pt),FTM,78.0,84.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,70,00:13,40,594,"DATOME, LUIGI",PCCD      ,Free Throw In (4/4 -  16 pt),FTM,78.0,85.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,4,00:13,40,595,"MELLI, NICOLO",P002849   ,In,IN,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,70,00:13,40,596,"DATOME, LUIGI",PCCD      ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
-ZAL       ,,3,00:04,40,597,"PANGOS, KEVIN",P006433   ,Turnover (2),TO,,,Zalgiris Kaunas,0
-ULK       ,,4,00:04,40,598,"MELLI, NICOLO",P002849   ,Steal (1),ST,,,Fenerbahce Dogus Istanbul,0
-          ,,,,41,601,,          ,End Game,EG,,,,0
+CODETEAM,COMMENT,DORSAL,MARKERTIME,MINUTE,NUMBEROFPLAY,PLAYER,PLAYER_ID,PLAYINFO,PLAYTYPE,POINTS_A,POINTS_B,TEAM,TYPE,home_team,home_team_code,away_team,away_team_code
+          ,,,,1,2,,          ,Begin Period,BP,,,,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,13,09:48,1,3,"JANKUNAS, PAULIUS",PBWI      ,Foul (1),CM,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,4,09:48,1,4,"MELLI, NICOLO",P002849   ,Foul Drawn (1),RV,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,4,09:48,1,5,"MELLI, NICOLO",P002849   ,Free Throw In (1/1 -  1 pt),FTM,,1.0,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,4,09:48,1,6,"MELLI, NICOLO",P002849   ,Free Throw In (2/2 -  2 pt),FTM,,2.0,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,44,09:32,1,7,"DUVERIOGLU, AHMET",P006399   ,Foul (1),CM,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,3,09:32,1,8,"PANGOS, KEVIN",P006433   ,Foul Drawn (1),RV,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,0,09:24,1,9,"DAVIES, BRANDON",P007870   ,Two Pointer (1/1 -  2 pt),2FGM,2.0,2.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,33,09:08,1,10,"KALINIC, NIKOLA",P004866   ,Offensive Foul (1),OF,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,33,09:08,1,11,"KALINIC, NIKOLA",P004866   ,Turnover (1),TO,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,92,09:08,1,12,"ULANOVAS, EDGARAS",P002329   ,Foul Drawn (1),RV,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,0,08:55,2,14,"DAVIES, BRANDON",P007870   ,Two Pointer (2/2 -  4 pt),2FGM,4.0,2.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,92,08:55,2,15,"ULANOVAS, EDGARAS",P002329   ,Assist (1),AS,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,,08:25,2,16,,          ,Turnover (1),TO,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,92,08:05,2,17,"ULANOVAS, EDGARAS",P002329   ,Turnover (1),TO,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,33,08:03,2,18,"KALINIC, NIKOLA",P004866   ,Steal (1),ST,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,44,07:48,3,20,"DUVERIOGLU, AHMET",P006399   ,Turnover (1),TO,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,6,07:46,3,21,"TOUPANE, AXEL",P002582   ,Steal (1),ST,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,6,07:44,3,22,"TOUPANE, AXEL",P002582   ,Turnover (1),TO,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,33,07:43,3,23,"KALINIC, NIKOLA",P004866   ,Steal (2),ST,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,3,07:42,3,24,"PANGOS, KEVIN",P006433   ,Foul (1),CM,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,33,07:42,3,25,"KALINIC, NIKOLA",P004866   ,Foul Drawn (1),RV,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,33,07:33,3,26,"KALINIC, NIKOLA",P004866   ,Three Pointer (1/1 -  3 pt),3FGM,4.0,5.0,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,16,07:31,3,27,"SLOUKAS, KOSTAS",P001926   ,Assist (1),AS,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,13,07:20,3,28,"JANKUNAS, PAULIUS",PBWI      ,Two Pointer (1/1 -  2 pt),2FGM,6.0,5.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,3,07:17,3,29,"PANGOS, KEVIN",P006433   ,Assist (1),AS,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,0,07:03,3,30,"DAVIES, BRANDON",P007870   ,Foul (1),CM,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,16,07:03,3,31,"SLOUKAS, KOSTAS",P001926   ,Foul Drawn (1),RV,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,16,07:03,3,32,"SLOUKAS, KOSTAS",P001926   ,Free Throw In (1/1 -  1 pt),FTM,6.0,6.0,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,44,07:03,3,33,"DUVERIOGLU, AHMET",P006399   ,Assist (1),AS,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,16,07:03,3,34,"SLOUKAS, KOSTAS",P001926   ,Free Throw In (2/2 -  2 pt),FTM,6.0,7.0,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,44,06:49,4,36,"DUVERIOGLU, AHMET",P006399   ,Foul (2),CM,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,0,06:49,4,37,"DAVIES, BRANDON",P007870   ,Foul Drawn (1),RV,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,1,06:49,4,38,"THOMPSON, JASON",P007998   ,In,IN,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,44,06:49,4,39,"DUVERIOGLU, AHMET",P006399   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,21,06:38,4,40,"NUNNALLY, JAMES",P007400   ,Foul (1),CM,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,6,06:38,4,41,"TOUPANE, AXEL",P002582   ,Foul Drawn (1),RV,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,6,06:38,4,42,"TOUPANE, AXEL",P002582   ,Free Throw In (1/1 -  1 pt),FTM,7.0,7.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,6,06:38,4,43,"TOUPANE, AXEL",P002582   ,Free Throw In (2/2 -  2 pt),FTM,8.0,7.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,4,06:15,4,44,"MELLI, NICOLO",P002849   ,Missed Two Pointer (0/1 -  2 pt),2FGA,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,4,06:15,4,45,"MELLI, NICOLO",P002849   ,Shot Rejected (1),AG,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,0,06:12,4,46,"DAVIES, BRANDON",P007870   ,Block (1),FV,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,6,06:10,4,47,"TOUPANE, AXEL",P002582   ,Def Rebound (1),D,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,4,06:07,4,48,"MELLI, NICOLO",P002849   ,Foul (1),CM,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,0,06:07,4,49,"DAVIES, BRANDON",P007870   ,Foul Drawn (2),RV,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,0,06:07,4,50,"DAVIES, BRANDON",P007870   ,Free Throw In (1/1 -  5 pt),FTM,9.0,7.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,13,06:07,4,51,"JANKUNAS, PAULIUS",PBWI      ,Assist (1),AS,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,0,06:07,4,52,"DAVIES, BRANDON",P007870   ,Free Throw In (2/2 -  6 pt),FTM,10.0,7.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,21,05:46,5,54,"NUNNALLY, JAMES",P007400   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,92,05:44,5,55,"ULANOVAS, EDGARAS",P002329   ,Def Rebound (1),D,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,92,05:32,5,56,"ULANOVAS, EDGARAS",P002329   ,Two Pointer (1/1 -  2 pt),2FGM,12.0,7.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,16,05:21,5,57,"SLOUKAS, KOSTAS",P001926   ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,3,05:21,5,58,"PANGOS, KEVIN",P006433   ,Def Rebound (1),D,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,1,05:07,5,59,"THOMPSON, JASON",P007998   ,Foul (1),CM,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,13,05:07,5,60,"JANKUNAS, PAULIUS",PBWI      ,Foul Drawn (1),RV,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,3,05:07,5,61,"PANGOS, KEVIN",P006433   ,Out,OUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,22,05:07,5,62,"MICIC, VASILIJE",P002580   ,In,IN,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,21,05:07,5,63,"NUNNALLY, JAMES",P007400   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,23,05:07,5,64,"GUDURIC, MARKO",P004004   ,In,IN,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,13,05:07,5,65,"JANKUNAS, PAULIUS",PBWI      ,Free Throw In (1/1 -  3 pt),FTM,13.0,7.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,13,05:07,5,66,"JANKUNAS, PAULIUS",PBWI      ,Free Throw In (2/2 -  4 pt),FTM,14.0,7.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,0,04:53,6,68,"DAVIES, BRANDON",P007870   ,Foul (2),CM,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,23,04:53,6,69,"GUDURIC, MARKO",P004004   ,Foul Drawn (1),RV,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+          ,,,04:53,6,70,,          ,TV Time Out (1),TOUT_TV,,,,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,0,04:53,6,71,"DAVIES, BRANDON",P007870   ,Out,OUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,44,04:53,6,72,"KAVALIAUSKAS, ANTANAS",P000399   ,In,IN,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,23,04:40,6,73,"GUDURIC, MARKO",P004004   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,13,04:38,6,74,"JANKUNAS, PAULIUS",PBWI      ,Def Rebound (1),D,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,22,04:23,6,75,"MICIC, VASILIJE",P002580   ,Two Pointer (1/1 -  2 pt),2FGM,16.0,7.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,,03:57,7,77,,          ,Turnover (2),TO,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,6,03:57,7,78,"TOUPANE, AXEL",P002582   ,Out,OUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,13,03:57,7,79,"JANKUNAS, PAULIUS",PBWI      ,Out,OUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,21,03:57,7,80,"MILAKNIS, ARTURAS",PKPD      ,In,IN,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,30,03:57,7,81,"WHITE, AARON",P006505   ,In,IN,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,1,03:57,7,82,"THOMPSON, JASON",P007998   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,24,03:57,7,83,"VESELY, JAN",P000925   ,In,IN,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,33,03:57,7,84,"KALINIC, NIKOLA",P004866   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,70,03:57,7,85,"DATOME, LUIGI",PCCD      ,In,IN,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,30,03:42,7,86,"WHITE, AARON",P006505   ,Turnover (1),TO,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,4,03:31,7,87,"MELLI, NICOLO",P002849   ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,22,03:28,7,88,"MICIC, VASILIJE",P002580   ,Def Rebound (1),D,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,24,03:19,7,89,"VESELY, JAN",P000925   ,Foul (1),CM,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,44,03:19,7,90,"KAVALIAUSKAS, ANTANAS",P000399   ,Foul Drawn (1),RV,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,44,03:19,7,91,"KAVALIAUSKAS, ANTANAS",P000399   ,Free Throw In (1/1 -  1 pt),FTM,17.0,7.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,44,03:19,7,92,"KAVALIAUSKAS, ANTANAS",P000399   ,Free Throw In (2/2 -  2 pt),FTM,18.0,7.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,70,02:55,8,94,"DATOME, LUIGI",PCCD      ,Three Pointer (1/1 -  3 pt),3FGM,18.0,10.0,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,23,02:52,8,95,"GUDURIC, MARKO",P004004   ,Assist (1),AS,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,22,02:31,8,96,"MICIC, VASILIJE",P002580   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,23,02:26,8,97,"GUDURIC, MARKO",P004004   ,Def Rebound (1),D,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,24,02:15,8,98,"VESELY, JAN",P000925   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,92,02:11,8,99,"ULANOVAS, EDGARAS",P002329   ,Def Rebound (2),D,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,92,02:00,8,100,"ULANOVAS, EDGARAS",P002329   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,4,01:58,9,102,"MELLI, NICOLO",P002849   ,Def Rebound (1),D,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,44,01:44,9,103,"KAVALIAUSKAS, ANTANAS",P000399   ,Foul (1),CM,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,24,01:44,9,104,"VESELY, JAN",P000925   ,Foul Drawn (1),RV,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,66,01:44,9,105,"VALINSKAS, PAULIUS",P004664   ,In,IN,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,92,01:44,9,106,"ULANOVAS, EDGARAS",P002329   ,Out,OUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,4,01:44,9,107,"MELLI, NICOLO",P002849   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,11,01:44,9,108,"WANAMAKER, BRAD",P005838   ,In,IN,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,24,01:44,9,109,"VESELY, JAN",P000925   ,Free Throw In (1/1 -  1 pt),FTM,18.0,11.0,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,24,01:44,9,110,"VESELY, JAN",P000925   ,Free Throw In (2/2 -  2 pt),FTM,18.0,12.0,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,66,01:25,9,111,"VALINSKAS, PAULIUS",P004664   ,Two Pointer (1/1 -  2 pt),2FGM,20.0,12.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,21,01:22,9,112,"MILAKNIS, ARTURAS",PKPD      ,Assist (1),AS,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,11,01:02,9,113,"WANAMAKER, BRAD",P005838   ,Three Pointer (1/1 -  3 pt),3FGM,20.0,15.0,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,23,01:00,9,114,"GUDURIC, MARKO",P004004   ,Assist (2),AS,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,30,00:51,10,116,"WHITE, AARON",P006505   ,Two Pointer (1/1 -  2 pt),2FGM,22.0,15.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,22,00:49,10,117,"MICIC, VASILIJE",P002580   ,Assist (1),AS,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,11,00:35,10,118,"WANAMAKER, BRAD",P005838   ,Turnover (1),TO,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,22,00:33,10,119,"MICIC, VASILIJE",P002580   ,Steal (1),ST,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,22,00:25,10,120,"MICIC, VASILIJE",P002580   ,Two Pointer (2/3 -  4 pt),2FGM,24.0,15.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,23,00:01,10,121,"GUDURIC, MARKO",P004004   ,Two Pointer (1/2 -  2 pt),2FGM,24.0,17.0,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,11,00:01,10,122,"WANAMAKER, BRAD",P005838   ,Assist (1),AS,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+          ,,,,11,124,,          ,End Period,EP,,,,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+          ,,,,11,127,,          ,Begin Period,BP,,,,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,3,10:00,11,125,"PANGOS, KEVIN",P006433   ,In,IN,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,22,10:00,11,126,"MICIC, VASILIJE",P002580   ,Out,OUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,3,09:43,11,128,"PANGOS, KEVIN",P006433   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,24,09:39,11,129,"VESELY, JAN",P000925   ,Def Rebound (1),D,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,24,09:23,11,130,"VESELY, JAN",P000925   ,Two Pointer (1/2 -  4 pt),2FGM,24.0,19.0,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,23,09:23,11,131,"GUDURIC, MARKO",P004004   ,Assist (3),AS,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,3,09:23,11,132,"PANGOS, KEVIN",P006433   ,Foul (2),CM,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,24,09:23,11,133,"VESELY, JAN",P000925   ,Foul Drawn (2),RV,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,24,09:23,11,134,"VESELY, JAN",P000925   ,Free Throw In (3/3 -  5 pt),FTM,24.0,20.0,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,66,08:56,12,136,"VALINSKAS, PAULIUS",P004664   ,Two Pointer (2/2 -  4 pt),2FGM,26.0,20.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,70,08:41,12,137,"DATOME, LUIGI",PCCD      ,Missed Three Pointer (1/2 -  3 pt),3FGA,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,11,08:39,12,138,"WANAMAKER, BRAD",P005838   ,Off Rebound (1),O,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,44,08:37,12,139,"KAVALIAUSKAS, ANTANAS",P000399   ,Foul (2),CM,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,11,08:37,12,140,"WANAMAKER, BRAD",P005838   ,Foul Drawn (1),RV,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,13,08:37,12,141,"JANKUNAS, PAULIUS",PBWI      ,In,IN,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,44,08:37,12,142,"KAVALIAUSKAS, ANTANAS",P000399   ,Out,OUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,16,08:28,12,143,"SLOUKAS, KOSTAS",P001926   ,Missed Two Pointer (0/1 -  2 pt),2FGA,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,3,08:25,12,144,"PANGOS, KEVIN",P006433   ,Def Rebound (2),D,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,3,08:24,12,145,"PANGOS, KEVIN",P006433   ,Turnover (1),TO,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,3,08:24,12,146,"PANGOS, KEVIN",P006433   ,Out,OUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,22,08:24,12,147,"MICIC, VASILIJE",P002580   ,In,IN,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,10,08:24,12,148,"MAHMUTOGLU, MELIH",P002969   ,In,IN,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,16,08:24,12,149,"SLOUKAS, KOSTAS",P001926   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,11,08:08,12,150,"WANAMAKER, BRAD",P005838   ,Missed Two Pointer (0/1 -  3 pt),2FGA,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,13,08:08,12,151,"JANKUNAS, PAULIUS",PBWI      ,Def Rebound (2),D,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,11,08:08,12,152,"WANAMAKER, BRAD",P005838   ,Foul (1),CM,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,13,08:08,12,153,"JANKUNAS, PAULIUS",PBWI      ,Foul Drawn (2),RV,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,21,07:50,13,155,"MILAKNIS, ARTURAS",PKPD      ,Three Pointer (1/1 -  3 pt),3FGM,29.0,20.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,22,07:50,13,156,"MICIC, VASILIJE",P002580   ,Assist (2),AS,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,,07:50,13,157,,          ,Time Out (1),TOUT,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+          ,,,07:50,13,158,,          ,TV Time Out (2),TOUT_TV,,,,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,70,07:31,13,159,"DATOME, LUIGI",PCCD      ,Missed Three Pointer (1/3 -  3 pt),3FGA,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,21,07:28,13,160,"MILAKNIS, ARTURAS",PKPD      ,Def Rebound (1),D,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,13,07:07,13,161,"JANKUNAS, PAULIUS",PBWI      ,Missed Two Pointer (1/2 -  4 pt),2FGA,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,10,07:03,13,162,"MAHMUTOGLU, MELIH",P002969   ,Def Rebound (1),D,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,13,06:57,14,164,"JANKUNAS, PAULIUS",PBWI      ,Foul (2),CM,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,24,06:57,14,165,"VESELY, JAN",P000925   ,Foul Drawn (3),RV,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,3,06:57,14,166,"PANGOS, KEVIN",P006433   ,In,IN,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,66,06:57,14,167,"VALINSKAS, PAULIUS",P004664   ,Out,OUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,11,06:46,14,168,"WANAMAKER, BRAD",P005838   ,Missed Three Pointer (1/2 -  3 pt),3FGA,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,30,06:44,14,169,"WHITE, AARON",P006505   ,Def Rebound (1),D,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,22,06:36,14,170,"MICIC, VASILIJE",P002580   ,Three Pointer (1/1 -  7 pt),3FGM,32.0,20.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,3,06:33,14,171,"PANGOS, KEVIN",P006433   ,Assist (2),AS,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,11,06:14,14,172,"WANAMAKER, BRAD",P005838   ,Turnover (2),TO,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,22,06:14,14,173,"MICIC, VASILIJE",P002580   ,Steal (2),ST,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,30,06:14,14,174,"WHITE, AARON",P006505   ,Out,OUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,92,06:14,14,175,"ULANOVAS, EDGARAS",P002329   ,In,IN,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,4,06:14,14,176,"MELLI, NICOLO",P002849   ,In,IN,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,10,06:14,14,177,"MAHMUTOGLU, MELIH",P002969   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,11,06:14,14,178,"WANAMAKER, BRAD",P005838   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,16,06:14,14,179,"SLOUKAS, KOSTAS",P001926   ,In,IN,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,23,06:14,14,180,"GUDURIC, MARKO",P004004   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,33,06:14,14,181,"KALINIC, NIKOLA",P004866   ,In,IN,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,22,06:00,14,182,"MICIC, VASILIJE",P002580   ,Turnover (1),TO,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,6,06:00,14,183,"TOUPANE, AXEL",P002582   ,In,IN,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,22,06:00,14,184,"MICIC, VASILIJE",P002580   ,Out,OUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,4,05:35,15,186,"MELLI, NICOLO",P002849   ,Missed Two Pointer (0/2 -  2 pt),2FGA,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,21,05:34,15,187,"MILAKNIS, ARTURAS",PKPD      ,Def Rebound (2),D,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,70,05:34,15,188,"DATOME, LUIGI",PCCD      ,Foul (1),CM,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,21,05:34,15,189,"MILAKNIS, ARTURAS",PKPD      ,Foul Drawn (1),RV,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,3,05:12,15,190,"PANGOS, KEVIN",P006433   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,4,05:10,15,191,"MELLI, NICOLO",P002849   ,Def Rebound (2),D,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,4,05:10,15,192,"MELLI, NICOLO",P002849   ,Turnover (1),TO,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,16,04:55,16,194,"SLOUKAS, KOSTAS",P001926   ,Foul (1),CM,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,13,04:55,16,195,"JANKUNAS, PAULIUS",PBWI      ,Foul Drawn (3),RV,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,13,04:42,16,196,"JANKUNAS, PAULIUS",PBWI      ,Missed Two Pointer (1/3 -  4 pt),2FGA,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,16,04:39,16,197,"SLOUKAS, KOSTAS",P001926   ,Def Rebound (1),D,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,3,04:35,16,198,"PANGOS, KEVIN",P006433   ,Foul (3),CM,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,24,04:35,16,199,"VESELY, JAN",P000925   ,Foul Drawn (4),RV,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,3,04:35,16,200,"PANGOS, KEVIN",P006433   ,Out,OUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,22,04:35,16,201,"MICIC, VASILIJE",P002580   ,In,IN,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,16,04:24,16,202,"SLOUKAS, KOSTAS",P001926   ,Missed Three Pointer (0/2 -  2 pt),3FGA,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,21,04:22,16,203,"MILAKNIS, ARTURAS",PKPD      ,Def Rebound (3),D,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,92,04:09,16,204,"ULANOVAS, EDGARAS",P002329   ,Missed Two Pointer (1/3 -  2 pt),2FGA,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,70,04:07,16,205,"DATOME, LUIGI",PCCD      ,Def Rebound (1),D,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,33,03:52,17,207,"KALINIC, NIKOLA",P004866   ,Two Pointer (1/1 -  5 pt),2FGM,32.0,22.0,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,4,03:52,17,208,"MELLI, NICOLO",P002849   ,Assist (1),AS,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,,03:52,17,209,,          ,Time Out (1),TOUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,0,03:52,17,210,"DAVIES, BRANDON",P007870   ,In,IN,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,13,03:52,17,211,"JANKUNAS, PAULIUS",PBWI      ,Out,OUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,21,03:52,17,212,"MILAKNIS, ARTURAS",PKPD      ,Out,OUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,30,03:52,17,213,"WHITE, AARON",P006505   ,In,IN,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,22,03:35,17,214,"MICIC, VASILIJE",P002580   ,Missed Two Pointer (2/4 -  7 pt),2FGA,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,0,03:33,17,215,"DAVIES, BRANDON",P007870   ,Off Rebound (1),O,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,0,03:32,17,216,"DAVIES, BRANDON",P007870   ,Two Pointer (3/3 -  8 pt),2FGM,34.0,22.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,33,03:13,17,217,"KALINIC, NIKOLA",P004866   ,Missed Three Pointer (1/2 -  5 pt),3FGA,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,22,03:11,17,218,"MICIC, VASILIJE",P002580   ,Def Rebound (2),D,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,22,02:52,18,220,"MICIC, VASILIJE",P002580   ,Missed Three Pointer (1/2 -  7 pt),3FGA,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,,02:50,18,221,,          ,Off Rebound (1),O,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,33,02:50,18,222,"KALINIC, NIKOLA",P004866   ,Foul (2),CM,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,92,02:50,18,223,"ULANOVAS, EDGARAS",P002329   ,Foul Drawn (2),RV,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,0,02:45,18,224,"DAVIES, BRANDON",P007870   ,Turnover (1),TO,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,33,02:32,18,225,"KALINIC, NIKOLA",P004866   ,Two Pointer (2/2 -  7 pt),2FGM,34.0,24.0,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,24,02:31,18,226,"VESELY, JAN",P000925   ,Assist (1),AS,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,22,02:14,18,227,"MICIC, VASILIJE",P002580   ,Two Pointer (3/5 -  9 pt),2FGM,36.0,24.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,24,01:57,19,229,"VESELY, JAN",P000925   ,Two Pointer (2/3 -  7 pt),2FGM,36.0,26.0,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,16,01:55,19,230,"SLOUKAS, KOSTAS",P001926   ,Assist (2),AS,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,30,01:39,19,231,"WHITE, AARON",P006505   ,Two Pointer (2/2 -  4 pt),2FGM,38.0,26.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,22,01:36,19,232,"MICIC, VASILIJE",P002580   ,Assist (3),AS,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,70,01:14,19,233,"DATOME, LUIGI",PCCD      ,Missed Two Pointer (0/1 -  3 pt),2FGA,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,70,01:14,19,234,"DATOME, LUIGI",PCCD      ,Shot Rejected (1),AG,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,6,01:13,19,235,"TOUPANE, AXEL",P002582   ,Block (1),FV,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,,01:12,19,236,,          ,Turnover (3),TO,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,16,01:12,19,237,"SLOUKAS, KOSTAS",P001926   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,21,01:12,19,238,"NUNNALLY, JAMES",P007400   ,In,IN,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,,00:45,20,240,,          ,Turnover (4),TO,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,0,00:45,20,241,"DAVIES, BRANDON",P007870   ,Out,OUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,6,00:45,20,242,"TOUPANE, AXEL",P002582   ,Out,OUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,19,00:45,20,243,"SAJUS, MARTYNAS",P005519   ,In,IN,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,66,00:45,20,244,"VALINSKAS, PAULIUS",P004664   ,In,IN,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,4,00:45,20,245,"MELLI, NICOLO",P002849   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,16,00:45,20,246,"SLOUKAS, KOSTAS",P001926   ,In,IN,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,70,00:34,20,247,"DATOME, LUIGI",PCCD      ,Three Pointer (2/4 -  6 pt),3FGM,38.0,29.0,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,33,00:34,20,248,"KALINIC, NIKOLA",P004866   ,Assist (1),AS,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,,00:34,20,249,,          ,Time Out (2),TOUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,0,00:34,20,250,"DAVIES, BRANDON",P007870   ,In,IN,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,19,00:34,20,251,"SAJUS, MARTYNAS",P005519   ,Out,OUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,4,00:34,20,252,"MELLI, NICOLO",P002849   ,In,IN,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,16,00:34,20,253,"SLOUKAS, KOSTAS",P001926   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,22,00:15,20,254,"MICIC, VASILIJE",P002580   ,Two Pointer (4/6 -  11 pt),2FGM,40.0,29.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,92,00:15,20,255,"ULANOVAS, EDGARAS",P002329   ,Assist (2),AS,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,,00:15,20,256,,          ,Time Out (2),TOUT,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,0,00:15,20,257,"DAVIES, BRANDON",P007870   ,Out,OUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,21,00:15,20,258,"MILAKNIS, ARTURAS",PKPD      ,In,IN,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,4,00:15,20,259,"MELLI, NICOLO",P002849   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,16,00:15,20,260,"SLOUKAS, KOSTAS",P001926   ,In,IN,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,92,00:03,20,261,"ULANOVAS, EDGARAS",P002329   ,Foul (1),CM,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,24,00:03,20,262,"VESELY, JAN",P000925   ,Foul Drawn (5),RV,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,0,00:03,20,263,"DAVIES, BRANDON",P007870   ,In,IN,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,3,00:03,20,264,"PANGOS, KEVIN",P006433   ,In,IN,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,21,00:03,20,265,"MILAKNIS, ARTURAS",PKPD      ,Out,OUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,66,00:03,20,266,"VALINSKAS, PAULIUS",P004664   ,Out,OUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,11,00:03,20,267,"WANAMAKER, BRAD",P005838   ,In,IN,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,70,00:03,20,268,"DATOME, LUIGI",PCCD      ,Out,OUT,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,24,00:03,20,269,"VESELY, JAN",P000925   ,Free Throw In (4/4 -  8 pt),FTM,40.0,30.0,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,33,00:03,20,270,"KALINIC, NIKOLA",P004866   ,Assist (2),AS,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,24,00:03,20,271,"VESELY, JAN",P000925   ,Free Throw In (5/5 -  9 pt),FTM,40.0,31.0,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,22,00:01,20,272,"MICIC, VASILIJE",P002580   ,Turnover (2),TO,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+          ,,,,21,274,,          ,End Period,EP,,,,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+          ,,,,21,283,,          ,Begin Period,BP,,,,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,3,10:00,21,275,"PANGOS, KEVIN",P006433   ,Out,OUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,6,10:00,21,276,"TOUPANE, AXEL",P002582   ,In,IN,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,13,10:00,21,277,"JANKUNAS, PAULIUS",PBWI      ,In,IN,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,30,10:00,21,278,"WHITE, AARON",P006505   ,Out,OUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,4,10:00,21,279,"MELLI, NICOLO",P002849   ,In,IN,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,21,10:00,21,280,"NUNNALLY, JAMES",P007400   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,33,10:00,21,281,"KALINIC, NIKOLA",P004866   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,70,10:00,21,282,"DATOME, LUIGI",PCCD      ,In,IN,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,11,09:38,21,284,"WANAMAKER, BRAD",P005838   ,Missed Three Pointer (1/3 -  3 pt),3FGA,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,24,09:35,21,285,"VESELY, JAN",P000925   ,Off Rebound (1),O,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,24,09:32,21,286,"VESELY, JAN",P000925   ,Missed Two Pointer (2/4 -  9 pt),2FGA,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,24,09:32,21,287,"VESELY, JAN",P000925   ,Shot Rejected (1),AG,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,13,09:31,21,288,"JANKUNAS, PAULIUS",PBWI      ,Block (1),FV,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,92,09:31,21,289,"ULANOVAS, EDGARAS",P002329   ,Def Rebound (3),D,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,24,09:31,21,290,"VESELY, JAN",P000925   ,Foul (2),CM,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,6,09:31,21,291,"TOUPANE, AXEL",P002582   ,Foul Drawn (2),RV,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,6,09:31,21,292,"TOUPANE, AXEL",P002582   ,Missed Free Throw (2/3 -  2 pt),FTA,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,6,09:31,21,293,"TOUPANE, AXEL",P002582   ,Free Throw In (3/4 -  3 pt),FTM,41.0,31.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,16,09:04,21,294,"SLOUKAS, KOSTAS",P001926   ,Missed Two Pointer (0/2 -  2 pt),2FGA,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,13,09:02,21,295,"JANKUNAS, PAULIUS",PBWI      ,Def Rebound (3),D,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,4,08:50,22,297,"MELLI, NICOLO",P002849   ,Foul (2),CM,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,92,08:50,22,298,"ULANOVAS, EDGARAS",P002329   ,Foul Drawn (3),RV,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,92,08:38,22,299,"ULANOVAS, EDGARAS",P002329   ,Turnover (2),TO,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,16,08:37,22,300,"SLOUKAS, KOSTAS",P001926   ,Steal (1),ST,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,4,08:32,22,301,"MELLI, NICOLO",P002849   ,Two Pointer (1/3 -  4 pt),2FGM,41.0,33.0,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,11,08:30,22,302,"WANAMAKER, BRAD",P005838   ,Assist (2),AS,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,22,08:10,22,303,"MICIC, VASILIJE",P002580   ,Offensive Foul (1),OF,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,22,08:10,22,304,"MICIC, VASILIJE",P002580   ,Turnover (3),TO,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,24,08:10,22,305,"VESELY, JAN",P000925   ,Foul Drawn (6),RV,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,70,07:52,23,307,"DATOME, LUIGI",PCCD      ,Two Pointer (1/2 -  8 pt),2FGM,41.0,35.0,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,11,07:49,23,308,"WANAMAKER, BRAD",P005838   ,Assist (3),AS,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,22,07:41,23,309,"MICIC, VASILIJE",P002580   ,Missed Two Pointer (4/7 -  11 pt),2FGA,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,4,07:38,23,310,"MELLI, NICOLO",P002849   ,Def Rebound (3),D,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,11,07:20,23,311,"WANAMAKER, BRAD",P005838   ,Missed Three Pointer (1/4 -  3 pt),3FGA,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,13,07:18,23,312,"JANKUNAS, PAULIUS",PBWI      ,Def Rebound (4),D,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,24,07:01,23,313,"VESELY, JAN",P000925   ,Foul (3),CM,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,13,07:01,23,314,"JANKUNAS, PAULIUS",PBWI      ,Foul Drawn (4),RV,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,1,07:01,23,315,"THOMPSON, JASON",P007998   ,In,IN,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,24,07:01,23,316,"VESELY, JAN",P000925   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,21,07:01,23,317,"MILAKNIS, ARTURAS",PKPD      ,In,IN,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,92,07:01,23,318,"ULANOVAS, EDGARAS",P002329   ,Out,OUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,22,06:51,24,320,"MICIC, VASILIJE",P002580   ,Missed Two Pointer (4/8 -  11 pt),2FGA,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,22,06:51,24,321,"MICIC, VASILIJE",P002580   ,Shot Rejected (1),AG,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,4,06:49,24,322,"MELLI, NICOLO",P002849   ,Block (1),FV,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,4,06:48,24,323,"MELLI, NICOLO",P002849   ,Def Rebound (4),D,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,4,06:40,24,324,"MELLI, NICOLO",P002849   ,Three Pointer (1/2 -  7 pt),3FGM,41.0,38.0,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,11,06:40,24,325,"WANAMAKER, BRAD",P005838   ,Assist (4),AS,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,,06:40,24,326,,          ,Time Out (1),TOUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+          ,,,06:40,24,327,,          ,TV Time Out (3),TOUT_TV,,,,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,0,06:40,24,328,"DAVIES, BRANDON",P007870   ,Out,OUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,3,06:40,24,329,"PANGOS, KEVIN",P006433   ,In,IN,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,22,06:40,24,330,"MICIC, VASILIJE",P002580   ,Out,OUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,44,06:40,24,331,"KAVALIAUSKAS, ANTANAS",P000399   ,In,IN,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,21,06:16,24,332,"MILAKNIS, ARTURAS",PKPD      ,Three Pointer (2/2 -  6 pt),3FGM,44.0,38.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,44,06:13,24,333,"KAVALIAUSKAS, ANTANAS",P000399   ,Assist (1),AS,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,21,05:57,25,335,"MILAKNIS, ARTURAS",PKPD      ,Foul (1),CM,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,70,05:57,25,336,"DATOME, LUIGI",PCCD      ,Foul Drawn (1),RV,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,70,05:57,25,337,"DATOME, LUIGI",PCCD      ,Free Throw In (1/1 -  9 pt),FTM,44.0,39.0,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,70,05:57,25,338,"DATOME, LUIGI",PCCD      ,Free Throw In (2/2 -  10 pt),FTM,44.0,40.0,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,21,05:35,25,339,"MILAKNIS, ARTURAS",PKPD      ,Missed Three Pointer (2/3 -  6 pt),3FGA,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,44,05:33,25,340,"KAVALIAUSKAS, ANTANAS",P000399   ,Off Rebound (1),O,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,13,05:27,25,341,"JANKUNAS, PAULIUS",PBWI      ,Two Pointer (2/4 -  6 pt),2FGM,46.0,40.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,44,05:27,25,342,"KAVALIAUSKAS, ANTANAS",P000399   ,Assist (2),AS,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,4,05:27,25,343,"MELLI, NICOLO",P002849   ,Foul (3),CM,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,13,05:27,25,344,"JANKUNAS, PAULIUS",PBWI      ,Foul Drawn (5),RV,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,13,05:27,25,345,"JANKUNAS, PAULIUS",PBWI      ,Free Throw In (3/3 -  7 pt),FTM,47.0,40.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,44,05:09,25,346,"KAVALIAUSKAS, ANTANAS",P000399   ,Foul (3),CM,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,1,05:09,25,347,"THOMPSON, JASON",P007998   ,Foul Drawn (1),RV,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,16,05:09,25,348,"SLOUKAS, KOSTAS",P001926   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,23,05:09,25,349,"GUDURIC, MARKO",P004004   ,In,IN,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,1,05:09,25,350,"THOMPSON, JASON",P007998   ,Free Throw In (1/1 -  1 pt),FTM,47.0,41.0,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,70,05:09,25,351,"DATOME, LUIGI",PCCD      ,Assist (1),AS,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,1,05:09,25,352,"THOMPSON, JASON",P007998   ,Free Throw In (2/2 -  2 pt),FTM,47.0,42.0,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,3,04:45,26,354,"PANGOS, KEVIN",P006433   ,Two Pointer (1/3 -  2 pt),2FGM,49.0,42.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,23,04:23,26,355,"GUDURIC, MARKO",P004004   ,Two Pointer (2/3 -  4 pt),2FGM,49.0,44.0,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,4,04:20,26,356,"MELLI, NICOLO",P002849   ,Assist (2),AS,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,44,04:09,26,357,"KAVALIAUSKAS, ANTANAS",P000399   ,Missed Two Pointer (0/1 -  2 pt),2FGA,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,4,04:06,26,358,"MELLI, NICOLO",P002849   ,Def Rebound (5),D,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,1,03:54,27,360,"THOMPSON, JASON",P007998   ,Two Pointer (1/1 -  4 pt),2FGM,49.0,46.0,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,4,03:51,27,361,"MELLI, NICOLO",P002849   ,Assist (3),AS,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,3,03:41,27,362,"PANGOS, KEVIN",P006433   ,Two Pointer (2/4 -  4 pt),2FGM,51.0,46.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,70,03:15,27,363,"DATOME, LUIGI",PCCD      ,Two Pointer (2/3 -  12 pt),2FGM,51.0,48.0,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,6,03:01,27,364,"TOUPANE, AXEL",P002582   ,Missed Three Pointer (0/1 -  3 pt),3FGA,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,,03:00,27,365,,          ,Off Rebound (2),O,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,4,03:00,27,366,"MELLI, NICOLO",P002849   ,Foul (4),CM,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,13,03:00,27,367,"JANKUNAS, PAULIUS",PBWI      ,Foul Drawn (6),RV,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,4,03:00,27,368,"MELLI, NICOLO",P002849   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,33,03:00,27,369,"KALINIC, NIKOLA",P004866   ,In,IN,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,6,03:00,27,370,"TOUPANE, AXEL",P002582   ,Out,OUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,22,03:00,27,371,"MICIC, VASILIJE",P002580   ,In,IN,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,13,03:00,27,372,"JANKUNAS, PAULIUS",PBWI      ,Free Throw In (4/4 -  8 pt),FTM,52.0,48.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,13,03:00,27,373,"JANKUNAS, PAULIUS",PBWI      ,Free Throw In (5/5 -  9 pt),FTM,53.0,48.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,13,03:00,27,374,"JANKUNAS, PAULIUS",PBWI      ,Out,OUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,30,03:00,27,375,"WHITE, AARON",P006505   ,In,IN,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,44,02:39,28,377,"KAVALIAUSKAS, ANTANAS",P000399   ,Foul (4),CM,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,11,02:39,28,378,"WANAMAKER, BRAD",P005838   ,Foul Drawn (2),RV,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,0,02:39,28,379,"DAVIES, BRANDON",P007870   ,In,IN,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,44,02:39,28,380,"KAVALIAUSKAS, ANTANAS",P000399   ,Out,OUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,11,02:39,28,381,"WANAMAKER, BRAD",P005838   ,Free Throw In (1/1 -  4 pt),FTM,53.0,49.0,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,11,02:39,28,382,"WANAMAKER, BRAD",P005838   ,Free Throw In (2/2 -  5 pt),FTM,53.0,50.0,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,3,02:13,28,383,"PANGOS, KEVIN",P006433   ,Missed Two Pointer (2/5 -  4 pt),2FGA,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,70,02:11,28,384,"DATOME, LUIGI",PCCD      ,Def Rebound (2),D,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,1,02:04,28,385,"THOMPSON, JASON",P007998   ,Two Pointer (2/2 -  6 pt),2FGM,53.0,52.0,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,23,02:02,28,386,"GUDURIC, MARKO",P004004   ,Assist (4),AS,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,23,01:48,29,388,"GUDURIC, MARKO",P004004   ,Foul (1),CM,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,30,01:48,29,389,"WHITE, AARON",P006505   ,Foul Drawn (1),RV,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,3,01:48,29,390,"PANGOS, KEVIN",P006433   ,Out,OUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,92,01:48,29,391,"ULANOVAS, EDGARAS",P002329   ,In,IN,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,30,01:48,29,392,"WHITE, AARON",P006505   ,Free Throw In (1/1 -  5 pt),FTM,54.0,52.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,30,01:48,29,393,"WHITE, AARON",P006505   ,Free Throw In (2/2 -  6 pt),FTM,55.0,52.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,1,01:26,29,394,"THOMPSON, JASON",P007998   ,Missed Two Pointer (2/3 -  6 pt),2FGA,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,,01:25,29,395,,          ,Def Rebound (1),D,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,1,01:25,29,396,"THOMPSON, JASON",P007998   ,Foul (2),CM,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,30,01:25,29,397,"WHITE, AARON",P006505   ,Foul Drawn (2),RV,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,30,01:25,29,398,"WHITE, AARON",P006505   ,Free Throw In (3/3 -  7 pt),FTM,56.0,52.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,30,01:25,29,399,"WHITE, AARON",P006505   ,Missed Free Throw (3/4 -  7 pt),FTA,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,33,01:21,29,400,"KALINIC, NIKOLA",P004866   ,Def Rebound (1),D,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,11,01:04,29,401,"WANAMAKER, BRAD",P005838   ,Turnover (3),TO,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,30,00:51,30,403,"WHITE, AARON",P006505   ,Two Pointer (3/3 -  9 pt),2FGM,58.0,52.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,22,00:49,30,404,"MICIC, VASILIJE",P002580   ,Assist (4),AS,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,23,00:28,30,405,"GUDURIC, MARKO",P004004   ,Missed Two Pointer (2/4 -  4 pt),2FGA,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,21,00:26,30,406,"MILAKNIS, ARTURAS",PKPD      ,Def Rebound (4),D,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,21,00:16,30,407,"MILAKNIS, ARTURAS",PKPD      ,Offensive Foul (2),OF,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,21,00:16,30,408,"MILAKNIS, ARTURAS",PKPD      ,Turnover (1),TO,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,1,00:16,30,409,"THOMPSON, JASON",P007998   ,Foul Drawn (2),RV,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,1,00:16,30,410,"THOMPSON, JASON",P007998   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,16,00:16,30,411,"SLOUKAS, KOSTAS",P001926   ,In,IN,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,0,00:16,30,412,"DAVIES, BRANDON",P007870   ,Out,OUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,66,00:16,30,413,"VALINSKAS, PAULIUS",P004664   ,In,IN,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,11,00:03,30,414,"WANAMAKER, BRAD",P005838   ,Missed Two Pointer (0/2 -  5 pt),2FGA,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,30,00:03,30,415,"WHITE, AARON",P006505   ,Def Rebound (2),D,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,30,00:01,30,416,"WHITE, AARON",P006505   ,Missed Three Pointer (0/1 -  9 pt),3FGA,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,30,00:01,30,417,"WHITE, AARON",P006505   ,Shot Rejected (1),AG,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,70,00:01,30,418,"DATOME, LUIGI",PCCD      ,Block (1),FV,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+          ,,,,31,420,,          ,End Period,EP,,,,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+          ,,,,31,427,,          ,Begin Period,BP,,,,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,3,10:00,31,421,"PANGOS, KEVIN",P006433   ,In,IN,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,13,10:00,31,422,"JANKUNAS, PAULIUS",PBWI      ,In,IN,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,66,10:00,31,423,"VALINSKAS, PAULIUS",P004664   ,Out,OUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,92,10:00,31,424,"ULANOVAS, EDGARAS",P002329   ,Out,OUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,1,10:00,31,425,"THOMPSON, JASON",P007998   ,In,IN,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,11,10:00,31,426,"WANAMAKER, BRAD",P005838   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,30,09:41,31,428,"WHITE, AARON",P006505   ,Missed Two Pointer (3/4 -  9 pt),2FGA,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,30,09:41,31,429,"WHITE, AARON",P006505   ,Shot Rejected (2),AG,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,1,09:41,31,430,"THOMPSON, JASON",P007998   ,Block (1),FV,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,22,09:41,31,431,"MICIC, VASILIJE",P002580   ,Off Rebound (1),O,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,3,09:34,31,432,"PANGOS, KEVIN",P006433   ,Two Pointer (3/6 -  6 pt),2FGM,60.0,52.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,16,09:17,31,433,"SLOUKAS, KOSTAS",P001926   ,Three Pointer (1/3 -  5 pt),3FGM,60.0,55.0,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,30,08:51,32,435,"WHITE, AARON",P006505   ,Missed Two Pointer (3/5 -  9 pt),2FGA,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,30,08:51,32,436,"WHITE, AARON",P006505   ,Shot Rejected (3),AG,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,70,08:49,32,437,"DATOME, LUIGI",PCCD      ,Block (2),FV,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,23,08:46,32,438,"GUDURIC, MARKO",P004004   ,Def Rebound (2),D,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,1,08:29,32,439,"THOMPSON, JASON",P007998   ,Two Pointer (3/4 -  8 pt),2FGM,60.0,57.0,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,33,08:29,32,440,"KALINIC, NIKOLA",P004866   ,Assist (3),AS,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,30,08:29,32,441,"WHITE, AARON",P006505   ,Foul (1),CM,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,1,08:29,32,442,"THOMPSON, JASON",P007998   ,Foul Drawn (3),RV,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,21,08:29,32,443,"NUNNALLY, JAMES",P007400   ,In,IN,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,70,08:29,32,444,"DATOME, LUIGI",PCCD      ,Out,OUT,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,1,08:29,32,445,"THOMPSON, JASON",P007998   ,Free Throw In (3/3 -  9 pt),FTM,60.0,58.0,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,23,08:27,32,446,"GUDURIC, MARKO",P004004   ,Foul (2),CM,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,3,08:27,32,447,"PANGOS, KEVIN",P006433   ,Foul Drawn (2),RV,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,23,08:13,32,448,"GUDURIC, MARKO",P004004   ,Foul (3),CM,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,3,08:13,32,449,"PANGOS, KEVIN",P006433   ,Foul Drawn (3),RV,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,13,07:56,33,451,"JANKUNAS, PAULIUS",PBWI      ,Missed Two Pointer (2/5 -  9 pt),2FGA,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,16,07:54,33,452,"SLOUKAS, KOSTAS",P001926   ,Def Rebound (2),D,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,1,07:41,33,453,"THOMPSON, JASON",P007998   ,Two Pointer (4/5 -  11 pt),2FGM,60.0,60.0,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,33,07:38,33,454,"KALINIC, NIKOLA",P004866   ,Assist (4),AS,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,3,07:22,33,455,"PANGOS, KEVIN",P006433   ,Two Pointer (4/7 -  8 pt),2FGM,62.0,60.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,21,07:22,33,456,"NUNNALLY, JAMES",P007400   ,Foul (2),CM,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,3,07:22,33,457,"PANGOS, KEVIN",P006433   ,Foul Drawn (4),RV,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,30,07:22,33,458,"WHITE, AARON",P006505   ,Out,OUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,92,07:22,33,459,"ULANOVAS, EDGARAS",P002329   ,In,IN,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,3,07:22,33,460,"PANGOS, KEVIN",P006433   ,Missed Free Throw (0/1 -  8 pt),FTA,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,21,07:19,33,461,"NUNNALLY, JAMES",P007400   ,Def Rebound (1),D,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,21,07:00,33,462,"MILAKNIS, ARTURAS",PKPD      ,Foul (3),CM,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,23,07:00,33,463,"GUDURIC, MARKO",P004004   ,Foul Drawn (2),RV,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,33,06:45,34,465,"KALINIC, NIKOLA",P004866   ,Two Pointer (3/3 -  9 pt),2FGM,62.0,62.0,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,21,06:27,34,466,"NUNNALLY, JAMES",P007400   ,Foul (3),CM,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,13,06:27,34,467,"JANKUNAS, PAULIUS",PBWI      ,Foul Drawn (7),RV,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,1,06:27,34,468,"THOMPSON, JASON",P007998   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,24,06:27,34,469,"VESELY, JAN",P000925   ,In,IN,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,22,06:17,34,470,"MICIC, VASILIJE",P002580   ,Missed Three Pointer (1/3 -  11 pt),3FGA,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,21,06:15,34,471,"MILAKNIS, ARTURAS",PKPD      ,Off Rebound (1),O,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,3,06:13,34,472,"PANGOS, KEVIN",P006433   ,Three Pointer (1/1 -  11 pt),3FGM,65.0,62.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,22,06:13,34,473,"MICIC, VASILIJE",P002580   ,Assist (5),AS,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,22,05:58,35,475,"MICIC, VASILIJE",P002580   ,Foul (2),CM,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,16,05:58,35,476,"SLOUKAS, KOSTAS",P001926   ,Foul Drawn (2),RV,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,23,05:58,35,477,"GUDURIC, MARKO",P004004   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,70,05:58,35,478,"DATOME, LUIGI",PCCD      ,In,IN,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,21,05:55,35,479,"NUNNALLY, JAMES",P007400   ,Two Pointer (1/2 -  2 pt),2FGM,65.0,64.0,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,33,05:50,35,480,"KALINIC, NIKOLA",P004866   ,Assist (5),AS,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,92,05:29,35,481,"ULANOVAS, EDGARAS",P002329   ,Missed Two Pointer (1/4 -  2 pt),2FGA,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,13,05:27,35,482,"JANKUNAS, PAULIUS",PBWI      ,Off Rebound (1),O,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,13,05:21,35,483,"JANKUNAS, PAULIUS",PBWI      ,Offensive Foul (3),OF,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,13,05:21,35,484,"JANKUNAS, PAULIUS",PBWI      ,Turnover (1),TO,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,24,05:21,35,485,"VESELY, JAN",P000925   ,Foul Drawn (7),RV,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,0,05:21,35,486,"DAVIES, BRANDON",P007870   ,In,IN,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,13,05:21,35,487,"JANKUNAS, PAULIUS",PBWI      ,Out,OUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,24,05:03,35,488,"VESELY, JAN",P000925   ,Two Pointer (3/5 -  11 pt),2FGM,65.0,66.0,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,33,05:03,35,489,"KALINIC, NIKOLA",P004866   ,Assist (6),AS,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,,05:03,35,490,,          ,Time Out (1),TOUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+          ,,,05:03,35,491,,          ,TV Time Out (4),TOUT_TV,,,,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,0,04:46,36,493,"DAVIES, BRANDON",P007870   ,Missed Two Pointer (3/4 -  8 pt),2FGA,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,24,04:43,36,494,"VESELY, JAN",P000925   ,Def Rebound (2),D,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,70,04:31,36,495,"DATOME, LUIGI",PCCD      ,Missed Three Pointer (2/5 -  12 pt),3FGA,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,92,04:29,36,496,"ULANOVAS, EDGARAS",P002329   ,Def Rebound (4),D,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,0,04:08,36,497,"DAVIES, BRANDON",P007870   ,Missed Two Pointer (3/5 -  8 pt),2FGA,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,21,04:05,36,498,"NUNNALLY, JAMES",P007400   ,Def Rebound (2),D,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,22,03:51,37,500,"MICIC, VASILIJE",P002580   ,Foul (3),CM,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,16,03:51,37,501,"SLOUKAS, KOSTAS",P001926   ,Foul Drawn (3),RV,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,16,03:51,37,502,"SLOUKAS, KOSTAS",P001926   ,Free Throw In (3/3 -  6 pt),FTM,65.0,67.0,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,16,03:51,37,503,"SLOUKAS, KOSTAS",P001926   ,Free Throw In (4/4 -  7 pt),FTM,65.0,68.0,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,16,03:51,37,504,"SLOUKAS, KOSTAS",P001926   ,Free Throw In (5/5 -  8 pt),FTM,65.0,69.0,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,0,03:51,37,505,"DAVIES, BRANDON",P007870   ,Out,OUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,13,03:51,37,506,"JANKUNAS, PAULIUS",PBWI      ,In,IN,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,1,03:51,37,507,"THOMPSON, JASON",P007998   ,In,IN,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,70,03:51,37,508,"DATOME, LUIGI",PCCD      ,Out,OUT,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,21,03:38,37,509,"NUNNALLY, JAMES",P007400   ,Foul (4),CM,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,92,03:38,37,510,"ULANOVAS, EDGARAS",P002329   ,Foul Drawn (4),RV,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,92,03:38,37,511,"ULANOVAS, EDGARAS",P002329   ,Free Throw In (1/1 -  3 pt),FTM,66.0,69.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,92,03:38,37,512,"ULANOVAS, EDGARAS",P002329   ,Free Throw In (2/2 -  4 pt),FTM,67.0,69.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,0,03:38,37,513,"DAVIES, BRANDON",P007870   ,In,IN,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,13,03:38,37,514,"JANKUNAS, PAULIUS",PBWI      ,Out,OUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,1,03:38,37,515,"THOMPSON, JASON",P007998   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,70,03:38,37,516,"DATOME, LUIGI",PCCD      ,In,IN,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,33,03:21,37,517,"KALINIC, NIKOLA",P004866   ,Three Pointer (2/3 -  12 pt),3FGM,67.0,72.0,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,16,03:18,37,518,"SLOUKAS, KOSTAS",P001926   ,Assist (3),AS,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,0,03:02,37,519,"DAVIES, BRANDON",P007870   ,Two Pointer (4/6 -  10 pt),2FGM,69.0,72.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,0,02:47,38,521,"DAVIES, BRANDON",P007870   ,Foul (3),CM,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,24,02:47,38,522,"VESELY, JAN",P000925   ,Foul Drawn (8),RV,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,24,02:47,38,523,"VESELY, JAN",P000925   ,Free Throw In (6/6 -  12 pt),FTM,69.0,73.0,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,16,02:47,38,524,"SLOUKAS, KOSTAS",P001926   ,Assist (4),AS,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,24,02:47,38,525,"VESELY, JAN",P000925   ,Free Throw In (7/7 -  13 pt),FTM,69.0,74.0,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,0,02:47,38,526,"DAVIES, BRANDON",P007870   ,Out,OUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,13,02:47,38,527,"JANKUNAS, PAULIUS",PBWI      ,In,IN,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,4,02:47,38,528,"MELLI, NICOLO",P002849   ,In,IN,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,70,02:47,38,529,"DATOME, LUIGI",PCCD      ,Out,OUT,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,22,02:32,38,530,"MICIC, VASILIJE",P002580   ,Missed Two Pointer (4/9 -  11 pt),2FGA,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,24,02:29,38,531,"VESELY, JAN",P000925   ,Def Rebound (3),D,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,4,02:15,38,532,"MELLI, NICOLO",P002849   ,Missed Two Pointer (1/4 -  7 pt),2FGA,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,33,02:14,38,533,"KALINIC, NIKOLA",P004866   ,Off Rebound (1),O,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,24,02:12,38,534,"VESELY, JAN",P000925   ,Offensive Foul (4),OF,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,24,02:12,38,535,"VESELY, JAN",P000925   ,Turnover (1),TO,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,21,02:12,38,536,"MILAKNIS, ARTURAS",PKPD      ,Foul Drawn (2),RV,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,22,02:12,38,537,"MICIC, VASILIJE",P002580   ,Out,OUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,30,02:12,38,538,"WHITE, AARON",P006505   ,In,IN,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,16,01:51,39,540,"SLOUKAS, KOSTAS",P001926   ,Foul (2),CM,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,13,01:51,39,541,"JANKUNAS, PAULIUS",PBWI      ,Foul Drawn (8),RV,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,4,01:51,39,542,"MELLI, NICOLO",P002849   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,70,01:51,39,543,"DATOME, LUIGI",PCCD      ,In,IN,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,13,01:51,39,544,"JANKUNAS, PAULIUS",PBWI      ,Free Throw In (6/6 -  10 pt),FTM,70.0,74.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,92,01:51,39,545,"ULANOVAS, EDGARAS",P002329   ,Assist (3),AS,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,13,01:51,39,546,"JANKUNAS, PAULIUS",PBWI      ,Free Throw In (7/7 -  11 pt),FTM,71.0,74.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,0,01:51,39,547,"DAVIES, BRANDON",P007870   ,In,IN,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,13,01:51,39,548,"JANKUNAS, PAULIUS",PBWI      ,Out,OUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,21,01:51,39,549,"MILAKNIS, ARTURAS",PKPD      ,Out,OUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,22,01:51,39,550,"MICIC, VASILIJE",P002580   ,In,IN,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,16,01:33,39,551,"SLOUKAS, KOSTAS",P001926   ,Three Pointer (2/4 -  11 pt),3FGM,71.0,77.0,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,30,01:24,39,552,"WHITE, AARON",P006505   ,Missed Two Pointer (3/6 -  9 pt),2FGA,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,70,01:21,39,553,"DATOME, LUIGI",PCCD      ,Def Rebound (3),D,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,70,01:02,39,554,"DATOME, LUIGI",PCCD      ,Two Pointer (3/4 -  14 pt),2FGM,71.0,79.0,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,16,01:02,39,555,"SLOUKAS, KOSTAS",P001926   ,Assist (5),AS,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,,01:02,39,556,,          ,Time Out (2),TOUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,0,01:02,39,557,"DAVIES, BRANDON",P007870   ,Out,OUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,13,01:02,39,558,"JANKUNAS, PAULIUS",PBWI      ,In,IN,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,21,01:02,39,559,"MILAKNIS, ARTURAS",PKPD      ,In,IN,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,30,01:02,39,560,"WHITE, AARON",P006505   ,Out,OUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,4,01:02,39,561,"MELLI, NICOLO",P002849   ,In,IN,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,70,01:02,39,562,"DATOME, LUIGI",PCCD      ,Out,OUT,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,13,00:54,40,564,"JANKUNAS, PAULIUS",PBWI      ,Two Pointer (3/6 -  13 pt),2FGM,73.0,79.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,3,00:54,40,565,"PANGOS, KEVIN",P006433   ,Assist (3),AS,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,0,00:54,40,566,"DAVIES, BRANDON",P007870   ,In,IN,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,13,00:54,40,567,"JANKUNAS, PAULIUS",PBWI      ,Out,OUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,4,00:54,40,568,"MELLI, NICOLO",P002849   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,70,00:54,40,569,"DATOME, LUIGI",PCCD      ,In,IN,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,3,00:51,40,570,"PANGOS, KEVIN",P006433   ,Foul (4),CM,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,16,00:51,40,571,"SLOUKAS, KOSTAS",P001926   ,Foul Drawn (4),RV,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,4,00:51,40,572,"MELLI, NICOLO",P002849   ,In,IN,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,70,00:51,40,573,"DATOME, LUIGI",PCCD      ,Out,OUT,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,16,00:51,40,574,"SLOUKAS, KOSTAS",P001926   ,Free Throw In (6/6 -  12 pt),FTM,73.0,80.0,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,16,00:51,40,575,"SLOUKAS, KOSTAS",P001926   ,Free Throw In (7/7 -  13 pt),FTM,73.0,81.0,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,0,00:51,40,576,"DAVIES, BRANDON",P007870   ,Out,OUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,13,00:51,40,577,"JANKUNAS, PAULIUS",PBWI      ,In,IN,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,13,00:41,40,578,"JANKUNAS, PAULIUS",PBWI      ,Two Pointer (4/7 -  15 pt),2FGM,75.0,81.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,3,00:41,40,579,"PANGOS, KEVIN",P006433   ,Assist (4),AS,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,0,00:41,40,580,"DAVIES, BRANDON",P007870   ,In,IN,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,13,00:41,40,581,"JANKUNAS, PAULIUS",PBWI      ,Out,OUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,4,00:41,40,582,"MELLI, NICOLO",P002849   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,70,00:41,40,583,"DATOME, LUIGI",PCCD      ,In,IN,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,16,00:24,40,584,"SLOUKAS, KOSTAS",P001926   ,Two Pointer (1/3 -  15 pt),2FGM,75.0,83.0,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,4,00:24,40,585,"MELLI, NICOLO",P002849   ,In,IN,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,70,00:24,40,586,"DATOME, LUIGI",PCCD      ,Out,OUT,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,3,00:16,40,587,"PANGOS, KEVIN",P006433   ,Three Pointer (2/2 -  14 pt),3FGM,78.0,83.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,4,00:16,40,589,"MELLI, NICOLO",P002849   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,70,00:16,40,590,"DATOME, LUIGI",PCCD      ,In,IN,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,21,00:13,40,591,"MILAKNIS, ARTURAS",PKPD      ,Foul (4),CM,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,70,00:13,40,592,"DATOME, LUIGI",PCCD      ,Foul Drawn (2),RV,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,70,00:13,40,593,"DATOME, LUIGI",PCCD      ,Free Throw In (3/3 -  15 pt),FTM,78.0,84.0,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,70,00:13,40,594,"DATOME, LUIGI",PCCD      ,Free Throw In (4/4 -  16 pt),FTM,78.0,85.0,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,4,00:13,40,595,"MELLI, NICOLO",P002849   ,In,IN,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,70,00:13,40,596,"DATOME, LUIGI",PCCD      ,Out,OUT,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ZAL       ,,3,00:04,40,597,"PANGOS, KEVIN",P006433   ,Turnover (2),TO,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+ULK       ,,4,00:04,40,598,"MELLI, NICOLO",P002849   ,Steal (1),ST,,,Fenerbahce Dogus Istanbul,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK
+          ,,,,41,601,,          ,End Game,EG,,,,0,Zalgiris Kaunas,ZAL,Fenerbahce Dogus Istanbul,ULK

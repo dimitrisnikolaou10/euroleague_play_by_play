@@ -1,501 +1,501 @@
-CODETEAM,COMMENT,DORSAL,MARKERTIME,MINUTE,NUMBEROFPLAY,PLAYER,PLAYER_ID,PLAYINFO,PLAYTYPE,POINTS_A,POINTS_B,TEAM,TYPE
-          ,,,,1,22,,          ,Begin Period,BP,,,,0
-PAN       ,,14,09:44,1,23,"GIST, JAMES",P002980   ,Turnover (1),TO,,,Panathinaikos Superfoods Athens,0
-BAS       ,,17,09:43,1,24,"POIRIER, VINCENT",P004887   ,Steal (1),ST,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,6,09:35,1,25,"TIMMA, JANIS",P005718   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Baskonia Vitoria Gasteiz,0
-PAN       ,,14,09:33,1,26,"GIST, JAMES",P002980   ,Def Rebound (1),D,,,Panathinaikos Superfoods Athens,0
-PAN       ,,33,09:28,1,27,"CALATHES, NICK",P001932   ,Two Pointer (1/1 -  2 pt),2FGM,,2.0,Panathinaikos Superfoods Athens,0
-BAS       ,,10,09:23,1,28,"BEAUBOIS, RODRIGUE",P006590   ,Turnover (1),TO,,,Baskonia Vitoria Gasteiz,0
-PAN       ,,12,09:23,1,29,"DENMON, MARCUS",P004195   ,Two Pointer (1/1 -  2 pt),2FGM,,4.0,Panathinaikos Superfoods Athens,0
-PAN       ,,33,09:23,1,30,"CALATHES, NICK",P001932   ,Assist (1),AS,,,Panathinaikos Superfoods Athens,0
-BAS       ,,17,09:03,1,31,"POIRIER, VINCENT",P004887   ,Two Pointer (1/1 -  2 pt),2FGM,2.0,4.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,10,09:01,1,32,"BEAUBOIS, RODRIGUE",P006590   ,Assist (1),AS,,,Baskonia Vitoria Gasteiz,0
-PAN       ,,14,08:40,2,34,"GIST, JAMES",P002980   ,Two Pointer (1/1 -  2 pt),2FGM,2.0,6.0,Panathinaikos Superfoods Athens,0
-PAN       ,,24,08:37,2,35,"LOJESKI, MATT",P003608   ,Assist (1),AS,,,Panathinaikos Superfoods Athens,0
-BAS       ,,17,08:24,2,36,"POIRIER, VINCENT",P004887   ,Two Pointer (2/2 -  4 pt),2FGM,4.0,6.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,15,08:22,2,37,"GRANGER, JAYSON",P003024   ,Assist (1),AS,,,Baskonia Vitoria Gasteiz,0
-PAN       ,,33,08:14,2,38,"CALATHES, NICK",P001932   ,Two Pointer (2/2 -  4 pt),2FGM,4.0,8.0,Panathinaikos Superfoods Athens,0
-PAN       ,,33,08:14,2,39,"CALATHES, NICK",P001932   ,Foul Drawn (1),RV,,,Panathinaikos Superfoods Athens,0
-BAS       ,,15,08:14,2,40,"GRANGER, JAYSON",P003024   ,Foul (1),CM,,,Baskonia Vitoria Gasteiz,0
-PAN       ,,33,08:14,2,41,"CALATHES, NICK",P001932   ,Free Throw In (1/1 -  5 pt),FTM,4.0,9.0,Panathinaikos Superfoods Athens,0
-BAS       ,,15,08:01,2,42,"GRANGER, JAYSON",P003024   ,Three Pointer (1/1 -  3 pt),3FGM,7.0,9.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,17,07:59,3,44,"POIRIER, VINCENT",P004887   ,Assist (1),AS,,,Baskonia Vitoria Gasteiz,0
-PAN       ,,24,07:47,3,45,"LOJESKI, MATT",P003608   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Panathinaikos Superfoods Athens,0
-PAN       ,,14,07:44,3,46,"GIST, JAMES",P002980   ,Off Rebound (1),O,,,Panathinaikos Superfoods Athens,0
-PAN       ,,14,07:42,3,47,"GIST, JAMES",P002980   ,Two Pointer (2/2 -  4 pt),2FGM,7.0,11.0,Panathinaikos Superfoods Athens,0
-BAS       ,,8,07:39,3,48,"MALMANIS, RINALDS",P004185   ,Turnover (1),TO,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,9,07:39,3,49,"HUERTAS, MARCELINHO",PJUJ      ,In,IN,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,15,07:39,3,50,"GRANGER, JAYSON",P003024   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0
-PAN       ,,0,07:39,3,51,"SINGLETON, CHRIS",P006614   ,Foul Drawn (1),RV,,,Panathinaikos Superfoods Athens,0
-BAS       ,,8,07:39,3,52,"MALMANIS, RINALDS",P004185   ,Foul (1),CM,,,Baskonia Vitoria Gasteiz,0
-PAN       ,,0,07:27,3,53,"SINGLETON, CHRIS",P006614   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Panathinaikos Superfoods Athens,0
-PAN       ,,12,07:24,3,54,"DENMON, MARCUS",P004195   ,Off Rebound (1),O,,,Panathinaikos Superfoods Athens,0
-PAN       ,,0,07:10,3,55,"SINGLETON, CHRIS",P006614   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Panathinaikos Superfoods Athens,0
-BAS       ,,17,07:08,3,56,"POIRIER, VINCENT",P004887   ,Def Rebound (1),D,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,10,07:06,3,57,"BEAUBOIS, RODRIGUE",P006590   ,Two Pointer (1/1 -  2 pt),2FGM,9.0,11.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,9,06:52,4,59,"HUERTAS, MARCELINHO",PJUJ      ,Foul Drawn (1),RV,,,Baskonia Vitoria Gasteiz,0
-PAN       ,,33,06:52,4,60,"CALATHES, NICK",P001932   ,Offensive Foul (1),OF,,,Panathinaikos Superfoods Athens,0
-PAN       ,,33,06:52,4,61,"CALATHES, NICK",P001932   ,Turnover (1),TO,,,Panathinaikos Superfoods Athens,0
-BAS       ,,9,06:48,4,62,"HUERTAS, MARCELINHO",PJUJ      ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Baskonia Vitoria Gasteiz,0
-PAN       ,,14,06:46,4,63,"GIST, JAMES",P002980   ,Def Rebound (2),D,,,Panathinaikos Superfoods Athens,0
-PAN       ,,12,06:35,4,64,"DENMON, MARCUS",P004195   ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,Panathinaikos Superfoods Athens,0
-BAS       ,,8,06:32,4,65,"MALMANIS, RINALDS",P004185   ,Def Rebound (1),D,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,8,06:23,4,66,"MALMANIS, RINALDS",P004185   ,Foul Drawn (1),RV,,,Baskonia Vitoria Gasteiz,0
-PAN       ,,0,06:23,4,67,"SINGLETON, CHRIS",P006614   ,Foul (1),CM,,,Panathinaikos Superfoods Athens,0
-BAS       ,,8,06:23,4,68,"MALMANIS, RINALDS",P004185   ,Free Throw In (1/1 -  1 pt),FTM,10.0,11.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,8,06:23,4,69,"MALMANIS, RINALDS",P004185   ,Free Throw In (2/2 -  2 pt),FTM,11.0,11.0,Baskonia Vitoria Gasteiz,0
-PAN       ,,0,06:23,4,70,"SINGLETON, CHRIS",P006614   ,Out,OUT,,,Panathinaikos Superfoods Athens,0
-PAN       ,,22,06:23,4,71,"GABRIEL, KENNY",P005881   ,In,IN,,,Panathinaikos Superfoods Athens,0
-PAN       ,,24,06:07,4,72,"LOJESKI, MATT",P003608   ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,Panathinaikos Superfoods Athens,0
-BAS       ,,10,06:05,4,73,"BEAUBOIS, RODRIGUE",P006590   ,Def Rebound (1),D,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,10,05:57,5,75,"BEAUBOIS, RODRIGUE",P006590   ,Foul Drawn (1),RV,,,Baskonia Vitoria Gasteiz,0
-PAN       ,,14,05:57,5,76,"GIST, JAMES",P002980   ,Foul (1),CM,,,Panathinaikos Superfoods Athens,0
-PAN       ,,11,05:57,5,77,"PAPPAS, NIKOS",P000464   ,In,IN,,,Panathinaikos Superfoods Athens,0
-PAN       ,,12,05:57,5,78,"DENMON, MARCUS",P004195   ,Out,OUT,,,Panathinaikos Superfoods Athens,0
-BAS       ,,10,05:57,5,79,"BEAUBOIS, RODRIGUE",P006590   ,Free Throw In (1/1 -  3 pt),FTM,12.0,11.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,10,05:57,5,80,"BEAUBOIS, RODRIGUE",P006590   ,Free Throw In (2/2 -  4 pt),FTM,13.0,11.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,10,05:57,5,81,"BEAUBOIS, RODRIGUE",P006590   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,11,05:57,5,82,"JANNING, MATT",P004165   ,In,IN,,,Baskonia Vitoria Gasteiz,0
-PAN       ,,14,05:44,5,83,"GIST, JAMES",P002980   ,Missed Three Pointer (0/1 -  4 pt),3FGA,,,Panathinaikos Superfoods Athens,0
-PAN       ,,22,05:35,5,84,"GABRIEL, KENNY",P005881   ,Foul Drawn (1),RV,,,Panathinaikos Superfoods Athens,0
-BAS       ,,6,05:35,5,85,"TIMMA, JANIS",P005718   ,Foul (1),CM,,,Baskonia Vitoria Gasteiz,0
-PAN       ,,,05:35,5,86,,          ,Off Rebound (1),O,,,Panathinaikos Superfoods Athens,0
-PAN       ,,33,05:22,5,87,"CALATHES, NICK",P001932   ,Turnover (2),TO,,,Panathinaikos Superfoods Athens,0
-BAS       ,,6,05:20,5,88,"TIMMA, JANIS",P005718   ,Steal (1),ST,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,6,05:13,5,89,"TIMMA, JANIS",P005718   ,Foul Drawn (1),RV,,,Baskonia Vitoria Gasteiz,0
-PAN       ,,22,05:13,5,90,"GABRIEL, KENNY",P005881   ,Foul (1),CM,,,Panathinaikos Superfoods Athens,0
-BAS       ,,12,05:13,5,91,"DIOP, ILIMANE",P003540   ,In,IN,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,17,05:13,5,92,"POIRIER, VINCENT",P004887   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0
-PAN       ,,3,05:13,5,93,"RIVERS, KC",P002429   ,In,IN,,,Panathinaikos Superfoods Athens,0
-PAN       ,,14,05:13,5,94,"GIST, JAMES",P002980   ,Out,OUT,,,Panathinaikos Superfoods Athens,0
-PAN       ,,15,05:13,5,95,"VOUGIOUKAS, IAN",PTFX      ,In,IN,,,Panathinaikos Superfoods Athens,0
-PAN       ,,24,05:13,5,96,"LOJESKI, MATT",P003608   ,Out,OUT,,,Panathinaikos Superfoods Athens,0
-BAS       ,,6,05:13,5,97,"TIMMA, JANIS",P005718   ,Missed Free Throw (0/1 -  0 pt),FTA,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,6,05:13,5,98,"TIMMA, JANIS",P005718   ,Missed Free Throw (0/2 -  0 pt),FTA,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,6,05:13,5,99,"TIMMA, JANIS",P005718   ,Off Rebound (1),O,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,6,04:59,6,101,"TIMMA, JANIS",P005718   ,Three Pointer (1/2 -  3 pt),3FGM,16.0,11.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,12,04:57,6,102,"DIOP, ILIMANE",P003540   ,Assist (1),AS,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,9,04:47,6,103,"HUERTAS, MARCELINHO",PJUJ      ,Foul Drawn (2),RV,,,Baskonia Vitoria Gasteiz,0
-PAN       ,,22,04:47,6,104,"GABRIEL, KENNY",P005881   ,Offensive Foul (2),OF,,,Panathinaikos Superfoods Athens,0
-PAN       ,,22,04:47,6,105,"GABRIEL, KENNY",P005881   ,Turnover (1),TO,,,Panathinaikos Superfoods Athens,0
-          ,,,04:47,6,106,,          ,TV Time Out (1),TOUT_TV,,,,0
-BAS       ,,8,04:47,6,107,"MALMANIS, RINALDS",P004185   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,23,04:47,6,108,"SHENGELIA, TORNIKE",P001133   ,In,IN,,,Baskonia Vitoria Gasteiz,0
-PAN       ,,0,04:47,6,109,"SINGLETON, CHRIS",P006614   ,In,IN,,,Panathinaikos Superfoods Athens,0
-PAN       ,,22,04:47,6,110,"GABRIEL, KENNY",P005881   ,Out,OUT,,,Panathinaikos Superfoods Athens,0
-BAS       ,,6,04:34,6,111,"TIMMA, JANIS",P005718   ,Three Pointer (2/3 -  6 pt),3FGM,19.0,11.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,11,04:32,6,112,"JANNING, MATT",P004165   ,Assist (1),AS,,,Baskonia Vitoria Gasteiz,0
-PAN       ,,15,04:15,6,113,"VOUGIOUKAS, IAN",PTFX      ,Foul Drawn (1),RV,,,Panathinaikos Superfoods Athens,0
-BAS       ,,12,04:15,6,114,"DIOP, ILIMANE",P003540   ,Foul (1),CM,,,Baskonia Vitoria Gasteiz,0
-PAN       ,,11,04:12,6,115,"PAPPAS, NIKOS",P000464   ,Turnover (1),TO,,,Panathinaikos Superfoods Athens,0
-BAS       ,,12,04:10,6,116,"DIOP, ILIMANE",P003540   ,Steal (1),ST,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,11,04:05,6,117,"JANNING, MATT",P004165   ,Three Pointer (1/1 -  3 pt),3FGM,22.0,11.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,9,04:03,6,118,"HUERTAS, MARCELINHO",PJUJ      ,Assist (1),AS,,,Baskonia Vitoria Gasteiz,0
-PAN       ,,33,03:42,7,120,"CALATHES, NICK",P001932   ,Two Pointer (3/3 -  7 pt),2FGM,22.0,13.0,Panathinaikos Superfoods Athens,0
-BAS       ,,11,03:31,7,121,"JANNING, MATT",P004165   ,Missed Two Pointer (0/1 -  3 pt),2FGA,,,Baskonia Vitoria Gasteiz,0
-PAN       ,,15,03:29,7,122,"VOUGIOUKAS, IAN",PTFX      ,Def Rebound (1),D,,,Panathinaikos Superfoods Athens,0
-PAN       ,,33,03:26,7,123,"CALATHES, NICK",P001932   ,Missed Two Pointer (3/4 -  7 pt),2FGA,,,Panathinaikos Superfoods Athens,0
-BAS       ,,12,03:26,7,124,"DIOP, ILIMANE",P003540   ,Def Rebound (1),D,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,9,03:09,7,125,"HUERTAS, MARCELINHO",PJUJ      ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Baskonia Vitoria Gasteiz,0
-PAN       ,,15,03:09,7,126,"VOUGIOUKAS, IAN",PTFX      ,Def Rebound (2),D,,,Panathinaikos Superfoods Athens,0
-PAN       ,,0,02:55,8,128,"SINGLETON, CHRIS",P006614   ,Two Pointer (1/3 -  2 pt),2FGM,22.0,15.0,Panathinaikos Superfoods Athens,0
-PAN       ,,3,02:55,8,129,"RIVERS, KC",P002429   ,Assist (1),AS,,,Panathinaikos Superfoods Athens,0
-BAS       ,,6,02:23,8,130,"TIMMA, JANIS",P005718   ,Missed Three Pointer (2/4 -  6 pt),3FGA,,,Baskonia Vitoria Gasteiz,0
-PAN       ,,3,02:21,8,131,"RIVERS, KC",P002429   ,Def Rebound (1),D,,,Panathinaikos Superfoods Athens,0
-PAN       ,,33,02:06,8,132,"CALATHES, NICK",P001932   ,Two Pointer (4/5 -  9 pt),2FGM,22.0,17.0,Panathinaikos Superfoods Athens,0
-BAS       ,,11,01:54,9,134,"JANNING, MATT",P004165   ,Two Pointer (1/2 -  5 pt),2FGM,24.0,17.0,Baskonia Vitoria Gasteiz,0
-PAN       ,,11,01:39,9,135,"PAPPAS, NIKOS",P000464   ,Two Pointer (1/1 -  2 pt),2FGM,24.0,19.0,Panathinaikos Superfoods Athens,0
-BAS       ,,6,01:22,9,136,"TIMMA, JANIS",P005718   ,Missed Two Pointer (0/1 -  6 pt),2FGA,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,6,01:22,9,137,"TIMMA, JANIS",P005718   ,Shot Rejected (1),AG,,,Baskonia Vitoria Gasteiz,0
-PAN       ,,15,01:22,9,138,"VOUGIOUKAS, IAN",PTFX      ,Block (1),FV,,,Panathinaikos Superfoods Athens,0
-BAS       ,,,01:22,9,139,,          ,Off Rebound (2),O,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,6,01:22,9,140,"TIMMA, JANIS",P005718   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,9,01:22,9,141,"HUERTAS, MARCELINHO",PJUJ      ,Out,OUT,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,15,01:22,9,142,"GRANGER, JAYSON",P003024   ,In,IN,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,29,01:22,9,143,"GARINO, PATRICIO",P007994   ,In,IN,,,Baskonia Vitoria Gasteiz,0
-PAN       ,,19,01:22,9,144,"LEKAVICIUS, LUKAS",P003210   ,In,IN,,,Panathinaikos Superfoods Athens,0
-PAN       ,,33,01:22,9,145,"CALATHES, NICK",P001932   ,Out,OUT,,,Panathinaikos Superfoods Athens,0
-BAS       ,,,01:22,9,146,,          ,Time Out (1),TOUT,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,15,01:12,9,147,"GRANGER, JAYSON",P003024   ,Three Pointer (2/2 -  6 pt),3FGM,27.0,19.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,23,01:09,9,148,"SHENGELIA, TORNIKE",P001133   ,Assist (1),AS,,,Baskonia Vitoria Gasteiz,0
-PAN       ,,11,00:49,10,150,"PAPPAS, NIKOS",P000464   ,Three Pointer (1/1 -  5 pt),3FGM,27.0,22.0,Panathinaikos Superfoods Athens,0
-BAS       ,,15,00:23,10,151,"GRANGER, JAYSON",P003024   ,Missed Two Pointer (0/1 -  6 pt),2FGA,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,15,00:22,10,152,"GRANGER, JAYSON",P003024   ,Off Rebound (1),O,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,15,00:10,10,153,"GRANGER, JAYSON",P003024   ,Missed Two Pointer (0/2 -  6 pt),2FGA,,,Baskonia Vitoria Gasteiz,0
-PAN       ,,3,00:07,10,154,"RIVERS, KC",P002429   ,Def Rebound (2),D,,,Panathinaikos Superfoods Athens,0
-PAN       ,,11,00:00,10,155,"PAPPAS, NIKOS",P000464   ,Two Pointer (2/2 -  7 pt),2FGM,27.0,24.0,Panathinaikos Superfoods Athens,0
-          ,,,,11,157,,          ,End Period,EP,,,,0
-          ,,,,11,160,,          ,Begin Period,BP,,,,0
-BAS       ,,12,10:00,11,158,"DIOP, ILIMANE",P003540   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,17,10:00,11,159,"POIRIER, VINCENT",P004887   ,In,IN,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,17,09:44,11,161,"POIRIER, VINCENT",P004887   ,Turnover (1),TO,,,Baskonia Vitoria Gasteiz,0
-PAN       ,,11,09:42,11,162,"PAPPAS, NIKOS",P000464   ,Steal (1),ST,,,Panathinaikos Superfoods Athens,0
-PAN       ,,0,09:19,11,163,"SINGLETON, CHRIS",P006614   ,Three Pointer (1/1 -  5 pt),3FGM,27.0,27.0,Panathinaikos Superfoods Athens,0
-BAS       ,,15,09:04,11,165,"GRANGER, JAYSON",P003024   ,Foul Drawn (1),RV,,,Baskonia Vitoria Gasteiz,0
-PAN       ,,15,09:04,11,166,"VOUGIOUKAS, IAN",PTFX      ,Foul (1),CM,,,Panathinaikos Superfoods Athens,0
-BAS       ,,10,09:04,11,167,"BEAUBOIS, RODRIGUE",P006590   ,In,IN,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,11,09:04,11,168,"JANNING, MATT",P004165   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,23,08:49,12,170,"SHENGELIA, TORNIKE",P001133   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Baskonia Vitoria Gasteiz,0
-PAN       ,,15,08:47,12,171,"VOUGIOUKAS, IAN",PTFX      ,Def Rebound (3),D,,,Panathinaikos Superfoods Athens,0
-PAN       ,,19,08:31,12,172,"LEKAVICIUS, LUKAS",P003210   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Panathinaikos Superfoods Athens,0
-BAS       ,,10,08:29,12,173,"BEAUBOIS, RODRIGUE",P006590   ,Def Rebound (2),D,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,15,08:11,12,174,"GRANGER, JAYSON",P003024   ,Three Pointer (3/3 -  9 pt),3FGM,30.0,27.0,Baskonia Vitoria Gasteiz,0
-PAN       ,,3,07:52,13,176,"RIVERS, KC",P002429   ,Foul Drawn (1),RV,,,Panathinaikos Superfoods Athens,0
-BAS       ,,29,07:52,13,177,"GARINO, PATRICIO",P007994   ,Foul (1),CM,,,Baskonia Vitoria Gasteiz,0
-PAN       ,,19,07:52,13,178,"LEKAVICIUS, LUKAS",P003210   ,Out,OUT,,,Panathinaikos Superfoods Athens,0
-PAN       ,,33,07:52,13,179,"CALATHES, NICK",P001932   ,In,IN,,,Panathinaikos Superfoods Athens,0
-PAN       ,,33,07:43,13,180,"CALATHES, NICK",P001932   ,Turnover (3),TO,,,Panathinaikos Superfoods Athens,0
-BAS       ,,17,07:41,13,181,"POIRIER, VINCENT",P004887   ,Steal (2),ST,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,15,07:32,13,182,"GRANGER, JAYSON",P003024   ,Two Pointer (1/3 -  11 pt),2FGM,32.0,27.0,Baskonia Vitoria Gasteiz,0
-PAN       ,,11,07:06,13,183,"PAPPAS, NIKOS",P000464   ,Turnover (2),TO,,,Panathinaikos Superfoods Athens,0
-BAS       ,,17,07:04,13,184,"POIRIER, VINCENT",P004887   ,Steal (3),ST,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,23,07:01,13,185,"SHENGELIA, TORNIKE",P001133   ,Two Pointer (1/2 -  2 pt),2FGM,34.0,27.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,10,06:58,14,187,"BEAUBOIS, RODRIGUE",P006590   ,Assist (2),AS,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,29,06:44,14,188,"GARINO, PATRICIO",P007994   ,Foul Drawn (1),RV,,,Baskonia Vitoria Gasteiz,0
-PAN       ,,3,06:44,14,189,"RIVERS, KC",P002429   ,Offensive Foul (1),OF,,,Panathinaikos Superfoods Athens,0
-PAN       ,,3,06:44,14,190,"RIVERS, KC",P002429   ,Turnover (1),TO,,,Panathinaikos Superfoods Athens,0
-PAN       ,,,06:44,14,191,,          ,Time Out (1),TOUT,,,Panathinaikos Superfoods Athens,0
-PAN       ,,11,06:44,14,192,"PAPPAS, NIKOS",P000464   ,Out,OUT,,,Panathinaikos Superfoods Athens,0
-PAN       ,,14,06:44,14,193,"GIST, JAMES",P002980   ,In,IN,,,Panathinaikos Superfoods Athens,0
-PAN       ,,15,06:44,14,194,"VOUGIOUKAS, IAN",PTFX      ,Out,OUT,,,Panathinaikos Superfoods Athens,0
-PAN       ,,24,06:44,14,195,"LOJESKI, MATT",P003608   ,In,IN,,,Panathinaikos Superfoods Athens,0
-BAS       ,,23,06:21,14,196,"SHENGELIA, TORNIKE",P001133   ,Missed Two Pointer (1/3 -  2 pt),2FGA,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,17,06:20,14,197,"POIRIER, VINCENT",P004887   ,Off Rebound (1),O,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,,06:18,14,198,,          ,Turnover (1),TO,,,Baskonia Vitoria Gasteiz,0
-PAN       ,,0,06:06,14,199,"SINGLETON, CHRIS",P006614   ,Three Pointer (2/2 -  8 pt),3FGM,34.0,30.0,Panathinaikos Superfoods Athens,0
-PAN       ,,33,06:03,14,200,"CALATHES, NICK",P001932   ,Assist (2),AS,,,Panathinaikos Superfoods Athens,0
-BAS       ,,23,05:42,15,202,"SHENGELIA, TORNIKE",P001133   ,Two Pointer (2/4 -  4 pt),2FGM,36.0,30.0,Baskonia Vitoria Gasteiz,0
-PAN       ,,33,05:33,15,203,"CALATHES, NICK",P001932   ,Foul Drawn (2),RV,,,Panathinaikos Superfoods Athens,0
-BAS       ,,15,05:33,15,204,"GRANGER, JAYSON",P003024   ,Foul (2),CM,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,7,05:33,15,205,"VOIGTMANN, JOHANNES",P007201   ,In,IN,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,17,05:33,15,206,"POIRIER, VINCENT",P004887   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0
-PAN       ,,33,05:20,15,207,"CALATHES, NICK",P001932   ,Missed Two Pointer (4/6 -  9 pt),2FGA,,,Panathinaikos Superfoods Athens,0
-PAN       ,,,05:20,15,208,,          ,Off Rebound (3),O,,,Panathinaikos Superfoods Athens,0
-BAS       ,,9,05:20,15,209,"HUERTAS, MARCELINHO",PJUJ      ,In,IN,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,15,05:20,15,210,"GRANGER, JAYSON",P003024   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0
-PAN       ,,24,05:20,15,211,"LOJESKI, MATT",P003608   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Panathinaikos Superfoods Athens,0
-BAS       ,,23,05:20,15,212,"SHENGELIA, TORNIKE",P001133   ,Def Rebound (1),D,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,9,04:59,16,214,"HUERTAS, MARCELINHO",PJUJ      ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Baskonia Vitoria Gasteiz,0
-PAN       ,,0,04:57,16,215,"SINGLETON, CHRIS",P006614   ,Def Rebound (1),D,,,Panathinaikos Superfoods Athens,0
-PAN       ,,0,04:53,16,216,"SINGLETON, CHRIS",P006614   ,Turnover (1),TO,,,Panathinaikos Superfoods Athens,0
-BAS       ,,23,04:30,16,217,"SHENGELIA, TORNIKE",P001133   ,Missed Two Pointer (2/5 -  4 pt),2FGA,,,Baskonia Vitoria Gasteiz,0
-PAN       ,,0,04:27,16,218,"SINGLETON, CHRIS",P006614   ,Def Rebound (2),D,,,Panathinaikos Superfoods Athens,0
-PAN       ,,14,04:15,16,219,"GIST, JAMES",P002980   ,Two Pointer (3/3 -  6 pt),2FGM,36.0,32.0,Panathinaikos Superfoods Athens,0
-PAN       ,,33,04:13,16,220,"CALATHES, NICK",P001932   ,Assist (3),AS,,,Panathinaikos Superfoods Athens,0
-BAS       ,,10,03:51,17,222,"BEAUBOIS, RODRIGUE",P006590   ,Three Pointer (1/1 -  7 pt),3FGM,39.0,32.0,Baskonia Vitoria Gasteiz,0
-PAN       ,,24,03:35,17,223,"LOJESKI, MATT",P003608   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Panathinaikos Superfoods Athens,0
-BAS       ,,23,03:33,17,224,"SHENGELIA, TORNIKE",P001133   ,Def Rebound (2),D,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,10,03:25,17,225,"BEAUBOIS, RODRIGUE",P006590   ,Three Pointer (2/2 -  10 pt),3FGM,42.0,32.0,Baskonia Vitoria Gasteiz,0
-PAN       ,,,03:21,17,226,,          ,Time Out (2),TOUT,,,Panathinaikos Superfoods Athens,0
-BAS       ,,8,03:24,17,227,"MALMANIS, RINALDS",P004185   ,In,IN,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,23,03:24,17,228,"SHENGELIA, TORNIKE",P001133   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0
-PAN       ,,12,03:24,17,229,"DENMON, MARCUS",P004195   ,In,IN,,,Panathinaikos Superfoods Athens,0
-PAN       ,,24,03:24,17,230,"LOJESKI, MATT",P003608   ,Out,OUT,,,Panathinaikos Superfoods Athens,0
-PAN       ,,0,03:13,17,231,"SINGLETON, CHRIS",P006614   ,Three Pointer (3/3 -  11 pt),3FGM,42.0,35.0,Panathinaikos Superfoods Athens,0
-PAN       ,,33,03:11,17,232,"CALATHES, NICK",P001932   ,Assist (4),AS,,,Panathinaikos Superfoods Athens,0
-BAS       ,,10,02:55,18,234,"BEAUBOIS, RODRIGUE",P006590   ,Missed Two Pointer (1/2 -  10 pt),2FGA,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,10,02:55,18,235,"BEAUBOIS, RODRIGUE",P006590   ,Shot Rejected (1),AG,,,Baskonia Vitoria Gasteiz,0
-PAN       ,,14,02:53,18,236,"GIST, JAMES",P002980   ,Block (1),FV,,,Panathinaikos Superfoods Athens,0
-BAS       ,,8,02:50,18,237,"MALMANIS, RINALDS",P004185   ,Off Rebound (1),O,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,8,02:48,18,238,"MALMANIS, RINALDS",P004185   ,Missed Two Pointer (0/1 -  2 pt),2FGA,,,Baskonia Vitoria Gasteiz,0
-PAN       ,,3,02:45,18,239,"RIVERS, KC",P002429   ,Def Rebound (3),D,,,Panathinaikos Superfoods Athens,0
-PAN       ,,0,02:33,18,240,"SINGLETON, CHRIS",P006614   ,Three Pointer (4/4 -  14 pt),3FGM,42.0,38.0,Panathinaikos Superfoods Athens,0
-PAN       ,,33,02:31,18,241,"CALATHES, NICK",P001932   ,Assist (5),AS,,,Panathinaikos Superfoods Athens,0
-BAS       ,,9,02:10,18,242,"HUERTAS, MARCELINHO",PJUJ      ,Two Pointer (1/3 -  2 pt),2FGM,44.0,38.0,Baskonia Vitoria Gasteiz,0
-PAN       ,,3,01:47,19,244,"RIVERS, KC",P002429   ,Two Pointer (1/1 -  2 pt),2FGM,44.0,40.0,Panathinaikos Superfoods Athens,0
-BAS       ,,7,01:21,19,245,"VOIGTMANN, JOHANNES",P007201   ,Two Pointer (1/1 -  2 pt),2FGM,46.0,40.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,9,01:18,19,246,"HUERTAS, MARCELINHO",PJUJ      ,Assist (2),AS,,,Baskonia Vitoria Gasteiz,0
-PAN       ,,3,01:08,19,247,"RIVERS, KC",P002429   ,Three Pointer (1/1 -  5 pt),3FGM,46.0,43.0,Panathinaikos Superfoods Athens,0
-PAN       ,,14,01:06,19,248,"GIST, JAMES",P002980   ,Assist (1),AS,,,Panathinaikos Superfoods Athens,0
-BAS       ,,,01:06,19,249,,          ,Time Out (1),TOUT,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,6,01:06,19,250,"TIMMA, JANIS",P005718   ,In,IN,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,7,01:06,19,251,"VOIGTMANN, JOHANNES",P007201   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,17,01:06,19,252,"POIRIER, VINCENT",P004887   ,In,IN,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,29,01:06,19,253,"GARINO, PATRICIO",P007994   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,10,00:44,20,255,"BEAUBOIS, RODRIGUE",P006590   ,Foul Drawn (2),RV,,,Baskonia Vitoria Gasteiz,0
-PAN       ,,14,00:44,20,256,"GIST, JAMES",P002980   ,Foul (2),CM,,,Panathinaikos Superfoods Athens,0
-BAS       ,,10,00:44,20,257,"BEAUBOIS, RODRIGUE",P006590   ,Free Throw In (3/3 -  11 pt),FTM,47.0,43.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,10,00:44,20,258,"BEAUBOIS, RODRIGUE",P006590   ,Missed Free Throw (3/4 -  11 pt),FTA,,,Baskonia Vitoria Gasteiz,0
-PAN       ,,3,00:44,20,259,"RIVERS, KC",P002429   ,Def Rebound (4),D,,,Panathinaikos Superfoods Athens,0
-PAN       ,,14,00:22,20,260,"GIST, JAMES",P002980   ,Two Pointer (4/4 -  8 pt),2FGM,47.0,45.0,Panathinaikos Superfoods Athens,0
-PAN       ,,0,00:19,20,261,"SINGLETON, CHRIS",P006614   ,Assist (1),AS,,,Panathinaikos Superfoods Athens,0
-BAS       ,,10,00:08,20,262,"BEAUBOIS, RODRIGUE",P006590   ,Foul Drawn (3),RV,,,Baskonia Vitoria Gasteiz,0
-PAN       ,,12,00:08,20,263,"DENMON, MARCUS",P004195   ,Foul (1),CM,,,Panathinaikos Superfoods Athens,0
-PAN       ,,14,00:08,20,264,"GIST, JAMES",P002980   ,Out,OUT,,,Panathinaikos Superfoods Athens,0
-PAN       ,,43,00:08,20,265,"ANTETOKOUNMPO, THANASIS",P007865   ,In,IN,,,Panathinaikos Superfoods Athens,0
-BAS       ,,9,00:08,20,266,"HUERTAS, MARCELINHO",PJUJ      ,Missed Two Pointer (1/4 -  2 pt),2FGA,,,Baskonia Vitoria Gasteiz,0
-          ,,,,21,268,,          ,End Period,EP,,,,0
-          ,,,,21,279,,          ,Begin Period,BP,,,,0
-BAS       ,,8,10:00,21,269,"MALMANIS, RINALDS",P004185   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,9,10:00,21,270,"HUERTAS, MARCELINHO",PJUJ      ,Out,OUT,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,10,10:00,21,271,"BEAUBOIS, RODRIGUE",P006590   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,11,10:00,21,272,"JANNING, MATT",P004165   ,In,IN,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,15,10:00,21,273,"GRANGER, JAYSON",P003024   ,In,IN,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,23,10:00,21,274,"SHENGELIA, TORNIKE",P001133   ,In,IN,,,Baskonia Vitoria Gasteiz,0
-PAN       ,,11,10:00,21,275,"PAPPAS, NIKOS",P000464   ,In,IN,,,Panathinaikos Superfoods Athens,0
-PAN       ,,12,10:00,21,276,"DENMON, MARCUS",P004195   ,Out,OUT,,,Panathinaikos Superfoods Athens,0
-PAN       ,,14,10:00,21,277,"GIST, JAMES",P002980   ,In,IN,,,Panathinaikos Superfoods Athens,0
-PAN       ,,43,10:00,21,278,"ANTETOKOUNMPO, THANASIS",P007865   ,Out,OUT,,,Panathinaikos Superfoods Athens,0
-PAN       ,,0,09:39,21,280,"SINGLETON, CHRIS",P006614   ,Missed Two Pointer (1/4 -  14 pt),2FGA,,,Panathinaikos Superfoods Athens,0
-PAN       ,,14,09:37,21,281,"GIST, JAMES",P002980   ,Off Rebound (2),O,,,Panathinaikos Superfoods Athens,0
-PAN       ,,3,09:32,21,282,"RIVERS, KC",P002429   ,Turnover (2),TO,,,Panathinaikos Superfoods Athens,0
-BAS       ,,6,09:31,21,283,"TIMMA, JANIS",P005718   ,Steal (2),ST,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,11,09:27,21,284,"JANNING, MATT",P004165   ,Two Pointer (2/3 -  7 pt),2FGM,49.0,45.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,23,09:24,21,285,"SHENGELIA, TORNIKE",P001133   ,Assist (2),AS,,,Baskonia Vitoria Gasteiz,0
-PAN       ,,3,09:05,21,286,"RIVERS, KC",P002429   ,Missed Two Pointer (1/2 -  5 pt),2FGA,,,Panathinaikos Superfoods Athens,0
-BAS       ,,17,09:02,21,287,"POIRIER, VINCENT",P004887   ,Def Rebound (2),D,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,23,08:45,22,289,"SHENGELIA, TORNIKE",P001133   ,Two Pointer (3/6 -  6 pt),2FGM,51.0,45.0,Baskonia Vitoria Gasteiz,0
-PAN       ,,11,08:28,22,290,"PAPPAS, NIKOS",P000464   ,Three Pointer (2/2 -  10 pt),3FGM,51.0,48.0,Panathinaikos Superfoods Athens,0
-PAN       ,,33,08:26,22,291,"CALATHES, NICK",P001932   ,Assist (6),AS,,,Panathinaikos Superfoods Athens,0
-BAS       ,,15,08:12,22,292,"GRANGER, JAYSON",P003024   ,Three Pointer (4/4 -  14 pt),3FGM,54.0,48.0,Baskonia Vitoria Gasteiz,0
-PAN       ,,33,07:57,23,294,"CALATHES, NICK",P001932   ,Missed Two Pointer (4/7 -  9 pt),2FGA,,,Panathinaikos Superfoods Athens,0
-PAN       ,,33,07:57,23,295,"CALATHES, NICK",P001932   ,Shot Rejected (1),AG,,,Panathinaikos Superfoods Athens,0
-BAS       ,,17,07:57,23,296,"POIRIER, VINCENT",P004887   ,Block (1),FV,,,Baskonia Vitoria Gasteiz,0
-PAN       ,,,07:57,23,297,,          ,Off Rebound (4),O,,,Panathinaikos Superfoods Athens,0
-PAN       ,,0,07:52,23,298,"SINGLETON, CHRIS",P006614   ,Missed Two Pointer (1/5 -  14 pt),2FGA,,,Panathinaikos Superfoods Athens,0
-BAS       ,,15,07:49,23,299,"GRANGER, JAYSON",P003024   ,Def Rebound (1),D,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,15,07:43,23,300,"GRANGER, JAYSON",P003024   ,Missed Two Pointer (1/4 -  14 pt),2FGA,,,Baskonia Vitoria Gasteiz,0
-PAN       ,,33,07:41,23,301,"CALATHES, NICK",P001932   ,Def Rebound (1),D,,,Panathinaikos Superfoods Athens,0
-PAN       ,,11,07:38,23,302,"PAPPAS, NIKOS",P000464   ,Foul Drawn (1),RV,,,Panathinaikos Superfoods Athens,0
-BAS       ,,23,07:38,23,303,"SHENGELIA, TORNIKE",P001133   ,Foul (1),CM,,,Baskonia Vitoria Gasteiz,0
-PAN       ,,11,07:38,23,304,"PAPPAS, NIKOS",P000464   ,Free Throw In (1/1 -  11 pt),FTM,54.0,49.0,Panathinaikos Superfoods Athens,0
-PAN       ,,33,07:38,23,305,"CALATHES, NICK",P001932   ,Assist (7),AS,,,Panathinaikos Superfoods Athens,0
-PAN       ,,11,07:38,23,306,"PAPPAS, NIKOS",P000464   ,Free Throw In (2/2 -  12 pt),FTM,54.0,50.0,Panathinaikos Superfoods Athens,0
-BAS       ,,11,07:23,23,307,"JANNING, MATT",P004165   ,Missed Three Pointer (1/2 -  7 pt),3FGA,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,6,07:21,23,308,"TIMMA, JANIS",P005718   ,Off Rebound (2),O,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,17,07:10,23,309,"POIRIER, VINCENT",P004887   ,Missed Two Pointer (2/3 -  4 pt),2FGA,,,Baskonia Vitoria Gasteiz,0
-PAN       ,,14,07:08,23,310,"GIST, JAMES",P002980   ,Def Rebound (3),D,,,Panathinaikos Superfoods Athens,0
-PAN       ,,14,07:08,23,311,"GIST, JAMES",P002980   ,Foul Drawn (1),RV,,,Panathinaikos Superfoods Athens,0
-BAS       ,,11,07:08,23,312,"JANNING, MATT",P004165   ,Foul (1),CM,,,Baskonia Vitoria Gasteiz,0
-PAN       ,,11,06:58,24,314,"PAPPAS, NIKOS",P000464   ,Foul Drawn (2),RV,,,Panathinaikos Superfoods Athens,0
-BAS       ,,11,06:58,24,315,"JANNING, MATT",P004165   ,Foul (2),CM,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,10,06:58,24,316,"BEAUBOIS, RODRIGUE",P006590   ,In,IN,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,11,06:58,24,317,"JANNING, MATT",P004165   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0
-PAN       ,,14,06:52,24,318,"GIST, JAMES",P002980   ,Two Pointer (5/5 -  10 pt),2FGM,54.0,52.0,Panathinaikos Superfoods Athens,0
-PAN       ,,33,06:50,24,319,"CALATHES, NICK",P001932   ,Assist (8),AS,,,Panathinaikos Superfoods Athens,0
-BAS       ,,10,06:42,24,320,"BEAUBOIS, RODRIGUE",P006590   ,Foul Drawn (4),RV,,,Baskonia Vitoria Gasteiz,0
-PAN       ,,11,06:42,24,321,"PAPPAS, NIKOS",P000464   ,Foul (1),CM,,,Panathinaikos Superfoods Athens,0
-BAS       ,,15,06:28,24,322,"GRANGER, JAYSON",P003024   ,Missed Three Pointer (4/5 -  14 pt),3FGA,,,Baskonia Vitoria Gasteiz,0
-PAN       ,,33,06:26,24,323,"CALATHES, NICK",P001932   ,Def Rebound (2),D,,,Panathinaikos Superfoods Athens,0
-PAN       ,,3,06:19,24,324,"RIVERS, KC",P002429   ,Three Pointer (2/2 -  8 pt),3FGM,54.0,55.0,Panathinaikos Superfoods Athens,0
-PAN       ,,33,06:17,24,325,"CALATHES, NICK",P001932   ,Assist (9),AS,,,Panathinaikos Superfoods Athens,0
-BAS       ,,17,06:03,24,326,"POIRIER, VINCENT",P004887   ,Turnover (2),TO,,,Baskonia Vitoria Gasteiz,0
-PAN       ,,3,05:47,25,328,"RIVERS, KC",P002429   ,Three Pointer (3/3 -  11 pt),3FGM,54.0,58.0,Panathinaikos Superfoods Athens,0
-PAN       ,,33,05:44,25,329,"CALATHES, NICK",P001932   ,Assist (10),AS,,,Panathinaikos Superfoods Athens,0
-BAS       ,,17,05:39,25,330,"POIRIER, VINCENT",P004887   ,Foul Drawn (1),RV,,,Baskonia Vitoria Gasteiz,0
-PAN       ,,0,05:39,25,331,"SINGLETON, CHRIS",P006614   ,Foul (2),CM,,,Panathinaikos Superfoods Athens,0
-BAS       ,,15,05:31,25,332,"GRANGER, JAYSON",P003024   ,Three Pointer (5/6 -  17 pt),3FGM,57.0,58.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,10,05:28,25,333,"BEAUBOIS, RODRIGUE",P006590   ,Assist (3),AS,,,Baskonia Vitoria Gasteiz,0
-PAN       ,,14,05:13,25,334,"GIST, JAMES",P002980   ,Two Pointer (6/6 -  12 pt),2FGM,57.0,60.0,Panathinaikos Superfoods Athens,0
-PAN       ,,33,05:12,25,335,"CALATHES, NICK",P001932   ,Assist (11),AS,,,Panathinaikos Superfoods Athens,0
-BAS       ,,,05:12,25,336,,          ,Time Out (1),TOUT,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,23,04:56,26,338,"SHENGELIA, TORNIKE",P001133   ,Missed Three Pointer (0/1 -  6 pt),3FGA,,,Baskonia Vitoria Gasteiz,0
-PAN       ,,3,04:54,26,339,"RIVERS, KC",P002429   ,Def Rebound (5),D,,,Panathinaikos Superfoods Athens,0
-PAN       ,,33,04:44,26,340,"CALATHES, NICK",P001932   ,Foul Drawn (3),RV,,,Panathinaikos Superfoods Athens,0
-BAS       ,,23,04:44,26,341,"SHENGELIA, TORNIKE",P001133   ,Foul (2),CM,,,Baskonia Vitoria Gasteiz,0
-PAN       ,,33,04:44,26,342,"CALATHES, NICK",P001932   ,Free Throw In (2/2 -  10 pt),FTM,57.0,61.0,Panathinaikos Superfoods Athens,0
-PAN       ,,33,04:44,26,343,"CALATHES, NICK",P001932   ,Missed Free Throw (2/3 -  10 pt),FTA,,,Panathinaikos Superfoods Athens,0
-BAS       ,,,04:44,26,344,,          ,Def Rebound (1),D,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,6,04:27,26,345,"TIMMA, JANIS",P005718   ,Missed Three Pointer (2/5 -  6 pt),3FGA,,,Baskonia Vitoria Gasteiz,0
-PAN       ,,11,04:26,26,346,"PAPPAS, NIKOS",P000464   ,Def Rebound (1),D,,,Panathinaikos Superfoods Athens,0
-PAN       ,,0,04:12,26,347,"SINGLETON, CHRIS",P006614   ,Missed Three Pointer (4/5 -  14 pt),3FGA,,,Panathinaikos Superfoods Athens,0
-BAS       ,,6,04:10,26,348,"TIMMA, JANIS",P005718   ,Def Rebound (1),D,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,23,03:58,27,350,"SHENGELIA, TORNIKE",P001133   ,Foul Drawn (1),RV,,,Baskonia Vitoria Gasteiz,0
-PAN       ,,33,03:58,27,351,"CALATHES, NICK",P001932   ,Foul (2),CM,,,Panathinaikos Superfoods Athens,0
-BAS       ,,9,03:58,27,352,"HUERTAS, MARCELINHO",PJUJ      ,In,IN,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,15,03:58,27,353,"GRANGER, JAYSON",P003024   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,7,03:58,27,354,"VOIGTMANN, JOHANNES",P007201   ,In,IN,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,17,03:58,27,355,"POIRIER, VINCENT",P004887   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,23,03:58,27,356,"SHENGELIA, TORNIKE",P001133   ,Free Throw In (1/1 -  7 pt),FTM,58.0,61.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,23,03:58,27,357,"SHENGELIA, TORNIKE",P001133   ,Missed Free Throw (1/2 -  7 pt),FTA,,,Baskonia Vitoria Gasteiz,0
-PAN       ,,3,03:58,27,358,"RIVERS, KC",P002429   ,Def Rebound (6),D,,,Panathinaikos Superfoods Athens,0
-PAN       ,,33,03:47,27,359,"CALATHES, NICK",P001932   ,Foul Drawn (4),RV,,,Panathinaikos Superfoods Athens,0
-BAS       ,,9,03:47,27,360,"HUERTAS, MARCELINHO",PJUJ      ,Foul (1),CM,,,Baskonia Vitoria Gasteiz,0
-PAN       ,,33,03:47,27,361,"CALATHES, NICK",P001932   ,Free Throw In (3/4 -  11 pt),FTM,58.0,62.0,Panathinaikos Superfoods Athens,0
-PAN       ,,33,03:47,27,362,"CALATHES, NICK",P001932   ,Free Throw In (4/5 -  12 pt),FTM,58.0,63.0,Panathinaikos Superfoods Athens,0
-BAS       ,,6,03:30,27,363,"TIMMA, JANIS",P005718   ,Three Pointer (3/6 -  9 pt),3FGM,61.0,63.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,7,03:28,27,364,"VOIGTMANN, JOHANNES",P007201   ,Assist (1),AS,,,Baskonia Vitoria Gasteiz,0
-PAN       ,,11,03:16,27,365,"PAPPAS, NIKOS",P000464   ,Two Pointer (3/3 -  14 pt),2FGM,61.0,65.0,Panathinaikos Superfoods Athens,0
-PAN       ,,33,03:14,27,366,"CALATHES, NICK",P001932   ,Assist (12),AS,,,Panathinaikos Superfoods Athens,0
-BAS       ,,23,02:52,28,368,"SHENGELIA, TORNIKE",P001133   ,Foul Drawn (2),RV,,,Baskonia Vitoria Gasteiz,0
-PAN       ,,14,02:52,28,369,"GIST, JAMES",P002980   ,Foul (3),CM,,,Panathinaikos Superfoods Athens,0
-PAN       ,,14,02:52,28,370,"GIST, JAMES",P002980   ,Out,OUT,,,Panathinaikos Superfoods Athens,0
-PAN       ,,23,02:52,28,371,"AUGUSTE, ZACH",P007948   ,In,IN,,,Panathinaikos Superfoods Athens,0
-BAS       ,,23,02:44,28,372,"SHENGELIA, TORNIKE",P001133   ,Turnover (1),TO,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,9,02:23,28,373,"HUERTAS, MARCELINHO",PJUJ      ,Foul Drawn (3),RV,,,Baskonia Vitoria Gasteiz,0
-PAN       ,,23,02:23,28,374,"AUGUSTE, ZACH",P007948   ,Offensive Foul (1),OF,,,Panathinaikos Superfoods Athens,0
-PAN       ,,23,02:23,28,375,"AUGUSTE, ZACH",P007948   ,Turnover (1),TO,,,Panathinaikos Superfoods Athens,0
-BAS       ,,6,02:10,28,376,"TIMMA, JANIS",P005718   ,Missed Three Pointer (3/7 -  9 pt),3FGA,,,Baskonia Vitoria Gasteiz,0
-PAN       ,,0,02:08,28,377,"SINGLETON, CHRIS",P006614   ,Def Rebound (3),D,,,Panathinaikos Superfoods Athens,0
-PAN       ,,33,02:07,28,378,"CALATHES, NICK",P001932   ,Turnover (4),TO,,,Panathinaikos Superfoods Athens,0
-PAN       ,,19,02:07,28,379,"LEKAVICIUS, LUKAS",P003210   ,In,IN,,,Panathinaikos Superfoods Athens,0
-PAN       ,,33,02:07,28,380,"CALATHES, NICK",P001932   ,Out,OUT,,,Panathinaikos Superfoods Athens,0
-BAS       ,,10,02:06,28,381,"BEAUBOIS, RODRIGUE",P006590   ,Missed Three Pointer (2/3 -  11 pt),3FGA,,,Baskonia Vitoria Gasteiz,0
-PAN       ,,19,02:06,28,382,"LEKAVICIUS, LUKAS",P003210   ,Def Rebound (1),D,,,Panathinaikos Superfoods Athens,0
-PAN       ,,3,01:48,29,384,"RIVERS, KC",P002429   ,Foul Drawn (2),RV,,,Panathinaikos Superfoods Athens,0
-BAS       ,,9,01:48,29,385,"HUERTAS, MARCELINHO",PJUJ      ,Foul (2),CM,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,8,01:48,29,386,"MALMANIS, RINALDS",P004185   ,In,IN,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,23,01:48,29,387,"SHENGELIA, TORNIKE",P001133   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0
-PAN       ,,3,01:48,29,388,"RIVERS, KC",P002429   ,Missed Free Throw (0/1 -  11 pt),FTA,,,Panathinaikos Superfoods Athens,0
-PAN       ,,3,01:48,29,389,"RIVERS, KC",P002429   ,Free Throw In (1/2 -  12 pt),FTM,61.0,66.0,Panathinaikos Superfoods Athens,0
-BAS       ,,9,01:26,29,390,"HUERTAS, MARCELINHO",PJUJ      ,Missed Two Pointer (1/5 -  2 pt),2FGA,,,Baskonia Vitoria Gasteiz,0
-PAN       ,,0,01:26,29,391,"SINGLETON, CHRIS",P006614   ,Def Rebound (4),D,,,Panathinaikos Superfoods Athens,0
-PAN       ,,0,01:26,29,392,"SINGLETON, CHRIS",P006614   ,Foul Drawn (2),RV,,,Panathinaikos Superfoods Athens,0
-BAS       ,,8,01:26,29,393,"MALMANIS, RINALDS",P004185   ,Foul (2),CM,,,Baskonia Vitoria Gasteiz,0
-PAN       ,,0,01:26,29,394,"SINGLETON, CHRIS",P006614   ,Free Throw In (1/1 -  15 pt),FTM,61.0,67.0,Panathinaikos Superfoods Athens,0
-PAN       ,,0,01:26,29,395,"SINGLETON, CHRIS",P006614   ,Missed Free Throw (1/2 -  15 pt),FTA,,,Panathinaikos Superfoods Athens,0
-BAS       ,,10,01:26,29,396,"BEAUBOIS, RODRIGUE",P006590   ,Def Rebound (3),D,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,10,01:07,29,397,"BEAUBOIS, RODRIGUE",P006590   ,Two Pointer (2/3 -  13 pt),2FGM,63.0,67.0,Baskonia Vitoria Gasteiz,0
-PAN       ,,11,00:51,30,399,"PAPPAS, NIKOS",P000464   ,Missed Three Pointer (2/3 -  14 pt),3FGA,,,Panathinaikos Superfoods Athens,0
-PAN       ,,,00:49,30,400,,          ,Off Rebound (5),O,,,Panathinaikos Superfoods Athens,0
-PAN       ,,0,00:49,30,401,"SINGLETON, CHRIS",P006614   ,Foul Drawn (3),RV,,,Panathinaikos Superfoods Athens,0
-BAS       ,,8,00:49,30,402,"MALMANIS, RINALDS",P004185   ,Foul (3),CM,,,Baskonia Vitoria Gasteiz,0
-PAN       ,,0,00:49,30,403,"SINGLETON, CHRIS",P006614   ,Missed Free Throw (1/3 -  15 pt),FTA,,,Panathinaikos Superfoods Athens,0
-PAN       ,,0,00:49,30,404,"SINGLETON, CHRIS",P006614   ,Missed Free Throw (1/4 -  15 pt),FTA,,,Panathinaikos Superfoods Athens,0
-PAN       ,,23,00:49,30,405,"AUGUSTE, ZACH",P007948   ,Off Rebound (1),O,,,Panathinaikos Superfoods Athens,0
-PAN       ,,23,00:49,30,406,"AUGUSTE, ZACH",P007948   ,Foul Drawn (1),RV,,,Panathinaikos Superfoods Athens,0
-BAS       ,,10,00:49,30,407,"BEAUBOIS, RODRIGUE",P006590   ,Foul (1),CM,,,Baskonia Vitoria Gasteiz,0
-PAN       ,,23,00:47,30,408,"AUGUSTE, ZACH",P007948   ,Missed Free Throw (0/1 -  0 pt),FTA,,,Panathinaikos Superfoods Athens,0
-PAN       ,,23,00:47,30,409,"AUGUSTE, ZACH",P007948   ,Missed Free Throw (0/2 -  0 pt),FTA,,,Panathinaikos Superfoods Athens,0
-PAN       ,,3,00:47,30,410,"RIVERS, KC",P002429   ,Off Rebound (1),O,,,Panathinaikos Superfoods Athens,0
-PAN       ,,3,00:30,30,411,"RIVERS, KC",P002429   ,Missed Two Pointer (1/3 -  12 pt),2FGA,,,Panathinaikos Superfoods Athens,0
-BAS       ,,,00:29,30,412,,          ,Def Rebound (2),D,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,9,00:10,30,413,"HUERTAS, MARCELINHO",PJUJ      ,Turnover (1),TO,,,Baskonia Vitoria Gasteiz,0
-PAN       ,,19,00:10,30,414,"LEKAVICIUS, LUKAS",P003210   ,Steal (1),ST,,,Panathinaikos Superfoods Athens,0
-PAN       ,,23,00:02,30,415,"AUGUSTE, ZACH",P007948   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Panathinaikos Superfoods Athens,0
-PAN       ,,23,00:02,30,416,"AUGUSTE, ZACH",P007948   ,Shot Rejected (1),AG,,,Panathinaikos Superfoods Athens,0
-BAS       ,,10,00:00,30,417,"BEAUBOIS, RODRIGUE",P006590   ,Block (1),FV,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,6,00:00,30,418,"TIMMA, JANIS",P005718   ,Off Rebound (3),O,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,6,00:00,30,419,"TIMMA, JANIS",P005718   ,Missed Three Pointer (3/8 -  9 pt),3FGA,,,Baskonia Vitoria Gasteiz,0
-PAN       ,,,00:00,30,420,,          ,Def Rebound (3),D,,,Panathinaikos Superfoods Athens,0
-PAN       ,,11,00:00,30,421,"PAPPAS, NIKOS",P000464   ,Missed Three Pointer (2/4 -  14 pt),3FGA,,,Panathinaikos Superfoods Athens,0
-          ,,,,31,423,,          ,End Period,EP,,,,0
-          ,,,,31,430,,          ,Begin Period,BP,,,,0
-BAS       ,,6,10:00,31,424,"TIMMA, JANIS",P005718   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,8,10:00,31,425,"MALMANIS, RINALDS",P004185   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,11,10:00,31,426,"JANNING, MATT",P004165   ,In,IN,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,23,10:00,31,427,"SHENGELIA, TORNIKE",P001133   ,In,IN,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,9,09:59,31,565,"HUERTAS, MARCELINHO",PJUJ      ,Foul Drawn (4),RV,,,Baskonia Vitoria Gasteiz,0
-PAN       ,,19,09:49,31,435,"LEKAVICIUS, LUKAS",P003210   ,Foul (1),CM,,,Panathinaikos Superfoods Athens,0
-BAS       ,,11,09:12,31,431,"JANNING, MATT",P004165   ,Two Pointer (3/4 -  9 pt),2FGM,65.0,67.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,9,09:12,31,432,"HUERTAS, MARCELINHO",PJUJ      ,Foul Drawn (5),RV,,,Baskonia Vitoria Gasteiz,0
-PAN       ,,23,09:12,31,433,"AUGUSTE, ZACH",P007948   ,Offensive Foul (2),OF,,,Panathinaikos Superfoods Athens,0
-PAN       ,,23,09:59,31,434,"AUGUSTE, ZACH",P007948   ,Turnover (2),TO,,,Panathinaikos Superfoods Athens,0
-PAN       ,,23,09:12,31,436,"AUGUSTE, ZACH",P007948   ,Out,OUT,,,Panathinaikos Superfoods Athens,0
-PAN       ,,24,09:12,31,437,"LOJESKI, MATT",P003608   ,In,IN,,,Panathinaikos Superfoods Athens,0
-PAN       ,,3,09:12,31,438,"RIVERS, KC",P002429   ,Out,OUT,,,Panathinaikos Superfoods Athens,0
-PAN       ,,14,09:12,31,439,"GIST, JAMES",P002980   ,In,IN,,,Panathinaikos Superfoods Athens,0
-BAS       ,,7,09:12,31,440,"VOIGTMANN, JOHANNES",P007201   ,Turnover (1),TO,,,Baskonia Vitoria Gasteiz,0
-PAN       ,,19,08:47,32,442,"LEKAVICIUS, LUKAS",P003210   ,Three Pointer (1/1 -  3 pt),3FGM,65.0,70.0,Panathinaikos Superfoods Athens,0
-BAS       ,,23,08:25,32,443,"SHENGELIA, TORNIKE",P001133   ,Missed Two Pointer (3/7 -  7 pt),2FGA,,,Baskonia Vitoria Gasteiz,0
-PAN       ,,24,08:23,32,444,"LOJESKI, MATT",P003608   ,Def Rebound (1),D,,,Panathinaikos Superfoods Athens,0
-PAN       ,,11,08:07,32,445,"PAPPAS, NIKOS",P000464   ,Foul Drawn (3),RV,,,Panathinaikos Superfoods Athens,0
-BAS       ,,7,08:07,32,446,"VOIGTMANN, JOHANNES",P007201   ,Foul (1),CM,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,7,08:07,32,447,"VOIGTMANN, JOHANNES",P007201   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,17,08:07,32,448,"POIRIER, VINCENT",P004887   ,In,IN,,,Baskonia Vitoria Gasteiz,0
-PAN       ,,11,08:07,32,449,"PAPPAS, NIKOS",P000464   ,Out,OUT,,,Panathinaikos Superfoods Athens,0
-PAN       ,,33,08:07,32,450,"CALATHES, NICK",P001932   ,In,IN,,,Panathinaikos Superfoods Athens,0
-PAN       ,,14,08:07,32,451,"GIST, JAMES",P002980   ,Two Pointer (7/7 -  14 pt),2FGM,65.0,72.0,Panathinaikos Superfoods Athens,0
-PAN       ,,24,08:07,32,452,"LOJESKI, MATT",P003608   ,Assist (2),AS,,,Panathinaikos Superfoods Athens,0
-BAS       ,,17,07:35,33,454,"POIRIER, VINCENT",P004887   ,Missed Two Pointer (2/4 -  4 pt),2FGA,,,Baskonia Vitoria Gasteiz,0
-PAN       ,,33,07:32,33,455,"CALATHES, NICK",P001932   ,Def Rebound (3),D,,,Panathinaikos Superfoods Athens,0
-PAN       ,,24,07:28,33,456,"LOJESKI, MATT",P003608   ,Foul Drawn (1),RV,,,Panathinaikos Superfoods Athens,0
-BAS       ,,11,07:28,33,457,"JANNING, MATT",P004165   ,Foul (3),CM,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,9,07:28,33,458,"HUERTAS, MARCELINHO",PJUJ      ,Out,OUT,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,15,07:28,33,459,"GRANGER, JAYSON",P003024   ,In,IN,,,Baskonia Vitoria Gasteiz,0
-PAN       ,,33,07:09,33,460,"CALATHES, NICK",P001932   ,Missed Three Pointer (0/1 -  12 pt),3FGA,,,Panathinaikos Superfoods Athens,0
-BAS       ,,15,07:06,33,461,"GRANGER, JAYSON",P003024   ,Def Rebound (2),D,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,23,06:50,34,463,"SHENGELIA, TORNIKE",P001133   ,Two Pointer (4/8 -  9 pt),2FGM,67.0,72.0,Baskonia Vitoria Gasteiz,0
-PAN       ,,33,06:41,34,464,"CALATHES, NICK",P001932   ,Foul Drawn (5),RV,,,Panathinaikos Superfoods Athens,0
-BAS       ,,10,06:41,34,465,"BEAUBOIS, RODRIGUE",P006590   ,Foul (2),CM,,,Baskonia Vitoria Gasteiz,0
-PAN       ,,19,06:31,34,466,"LEKAVICIUS, LUKAS",P003210   ,Turnover (1),TO,,,Panathinaikos Superfoods Athens,0
-BAS       ,,17,06:29,34,467,"POIRIER, VINCENT",P004887   ,Steal (4),ST,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,23,06:23,34,468,"SHENGELIA, TORNIKE",P001133   ,Foul Drawn (3),RV,,,Baskonia Vitoria Gasteiz,0
-PAN       ,,19,06:23,34,469,"LEKAVICIUS, LUKAS",P003210   ,Foul (2),CM,,,Panathinaikos Superfoods Athens,0
-PAN       ,,11,06:23,34,470,"PAPPAS, NIKOS",P000464   ,In,IN,,,Panathinaikos Superfoods Athens,0
-PAN       ,,19,06:23,34,471,"LEKAVICIUS, LUKAS",P003210   ,Out,OUT,,,Panathinaikos Superfoods Athens,0
-BAS       ,,6,06:23,34,472,"TIMMA, JANIS",P005718   ,In,IN,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,10,06:23,34,473,"BEAUBOIS, RODRIGUE",P006590   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,23,06:12,34,474,"SHENGELIA, TORNIKE",P001133   ,Missed Two Pointer (4/9 -  9 pt),2FGA,,,Baskonia Vitoria Gasteiz,0
-PAN       ,,0,06:10,34,475,"SINGLETON, CHRIS",P006614   ,Def Rebound (5),D,,,Panathinaikos Superfoods Athens,0
-PAN       ,,0,05:49,35,477,"SINGLETON, CHRIS",P006614   ,Missed Two Pointer (1/6 -  15 pt),2FGA,,,Panathinaikos Superfoods Athens,0
-PAN       ,,0,05:46,35,478,"SINGLETON, CHRIS",P006614   ,Off Rebound (1),O,,,Panathinaikos Superfoods Athens,0
-BAS       ,,15,05:40,35,479,"GRANGER, JAYSON",P003024   ,Foul Drawn (2),RV,,,Baskonia Vitoria Gasteiz,0
-PAN       ,,11,05:40,35,480,"PAPPAS, NIKOS",P000464   ,Offensive Foul (2),OF,,,Panathinaikos Superfoods Athens,0
-PAN       ,,11,05:40,35,481,"PAPPAS, NIKOS",P000464   ,Turnover (3),TO,,,Panathinaikos Superfoods Athens,0
-BAS       ,,15,05:26,35,482,"GRANGER, JAYSON",P003024   ,Missed Two Pointer (1/5 -  17 pt),2FGA,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,17,05:24,35,483,"POIRIER, VINCENT",P004887   ,Off Rebound (2),O,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,17,05:23,35,484,"POIRIER, VINCENT",P004887   ,Two Pointer (3/5 -  6 pt),2FGM,69.0,72.0,Baskonia Vitoria Gasteiz,0
-PAN       ,,,05:22,35,485,,          ,Time Out (1),TOUT,,,Panathinaikos Superfoods Athens,0
-BAS       ,,15,05:06,35,486,"GRANGER, JAYSON",P003024   ,Foul Drawn (3),RV,,,Baskonia Vitoria Gasteiz,0
-PAN       ,,14,05:06,35,487,"GIST, JAMES",P002980   ,Offensive Foul (4),OF,,,Panathinaikos Superfoods Athens,0
-PAN       ,,14,05:06,35,488,"GIST, JAMES",P002980   ,Turnover (2),TO,,,Panathinaikos Superfoods Athens,0
-BAS       ,,17,04:53,36,490,"POIRIER, VINCENT",P004887   ,Turnover (3),TO,,,Baskonia Vitoria Gasteiz,0
-PAN       ,,33,04:48,36,491,"CALATHES, NICK",P001932   ,Steal (1),ST,,,Panathinaikos Superfoods Athens,0
-PAN       ,,14,04:49,36,492,"GIST, JAMES",P002980   ,Foul Drawn (2),RV,,,Panathinaikos Superfoods Athens,0
-BAS       ,,17,04:49,36,493,"POIRIER, VINCENT",P004887   ,Foul (1),CM,,,Baskonia Vitoria Gasteiz,0
-PAN       ,,14,04:49,36,494,"GIST, JAMES",P002980   ,Free Throw In (1/1 -  15 pt),FTM,69.0,73.0,Panathinaikos Superfoods Athens,0
-PAN       ,,33,04:49,36,495,"CALATHES, NICK",P001932   ,Assist (13),AS,,,Panathinaikos Superfoods Athens,0
-PAN       ,,14,04:49,36,496,"GIST, JAMES",P002980   ,Free Throw In (2/2 -  16 pt),FTM,69.0,74.0,Panathinaikos Superfoods Athens,0
-BAS       ,,11,04:36,36,497,"JANNING, MATT",P004165   ,Three Pointer (2/3 -  12 pt),3FGM,72.0,74.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,15,04:36,36,498,"GRANGER, JAYSON",P003024   ,Assist (2),AS,,,Baskonia Vitoria Gasteiz,0
-PAN       ,,33,04:09,36,499,"CALATHES, NICK",P001932   ,Missed Three Pointer (0/2 -  12 pt),3FGA,,,Panathinaikos Superfoods Athens,0
-BAS       ,,15,04:07,36,500,"GRANGER, JAYSON",P003024   ,Def Rebound (3),D,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,23,03:59,37,502,"SHENGELIA, TORNIKE",P001133   ,Two Pointer (5/10 -  11 pt),2FGM,74.0,74.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,11,03:59,37,503,"JANNING, MATT",P004165   ,Assist (2),AS,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,23,03:59,37,504,"SHENGELIA, TORNIKE",P001133   ,Foul Drawn (4),RV,,,Baskonia Vitoria Gasteiz,0
-PAN       ,,14,03:59,37,505,"GIST, JAMES",P002980   ,Foul (5),CM,,,Panathinaikos Superfoods Athens,0
-PAN       ,,3,03:59,37,506,"RIVERS, KC",P002429   ,In,IN,,,Panathinaikos Superfoods Athens,0
-PAN       ,,14,03:59,37,507,"GIST, JAMES",P002980   ,Out,OUT,,,Panathinaikos Superfoods Athens,0
-PAN       ,,23,03:59,37,508,"AUGUSTE, ZACH",P007948   ,In,IN,,,Panathinaikos Superfoods Athens,0
-PAN       ,,24,03:59,37,509,"LOJESKI, MATT",P003608   ,Out,OUT,,,Panathinaikos Superfoods Athens,0
-BAS       ,,23,03:59,37,510,"SHENGELIA, TORNIKE",P001133   ,Missed Free Throw (1/3 -  11 pt),FTA,,,Baskonia Vitoria Gasteiz,0
-PAN       ,,3,03:59,37,511,"RIVERS, KC",P002429   ,Def Rebound (7),D,,,Panathinaikos Superfoods Athens,0
-PAN       ,,33,03:38,37,512,"CALATHES, NICK",P001932   ,Two Pointer (5/8 -  14 pt),2FGM,74.0,76.0,Panathinaikos Superfoods Athens,0
-BAS       ,,6,03:22,37,513,"TIMMA, JANIS",P005718   ,Turnover (1),TO,,,Baskonia Vitoria Gasteiz,0
-PAN       ,,0,03:20,37,514,"SINGLETON, CHRIS",P006614   ,Steal (1),ST,,,Panathinaikos Superfoods Athens,0
-PAN       ,,11,03:19,37,515,"PAPPAS, NIKOS",P000464   ,Foul Drawn (4),RV,,,Panathinaikos Superfoods Athens,0
-BAS       ,,23,03:19,37,516,"SHENGELIA, TORNIKE",P001133   ,Foul (3),CM,,,Baskonia Vitoria Gasteiz,0
-PAN       ,,11,03:19,37,517,"PAPPAS, NIKOS",P000464   ,Free Throw In (3/3 -  15 pt),FTM,74.0,77.0,Panathinaikos Superfoods Athens,0
-PAN       ,,0,03:19,37,518,"SINGLETON, CHRIS",P006614   ,Assist (2),AS,,,Panathinaikos Superfoods Athens,0
-PAN       ,,11,03:19,37,519,"PAPPAS, NIKOS",P000464   ,Free Throw In (4/4 -  16 pt),FTM,74.0,78.0,Panathinaikos Superfoods Athens,0
-BAS       ,,17,03:06,37,520,"POIRIER, VINCENT",P004887   ,Two Pointer (4/6 -  8 pt),2FGM,76.0,78.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,15,03:04,37,521,"GRANGER, JAYSON",P003024   ,Assist (3),AS,,,Baskonia Vitoria Gasteiz,0
-PAN       ,,11,02:45,38,523,"PAPPAS, NIKOS",P000464   ,Three Pointer (3/5 -  19 pt),3FGM,76.0,81.0,Panathinaikos Superfoods Athens,0
-BAS       ,,11,02:29,38,524,"JANNING, MATT",P004165   ,Missed Three Pointer (2/4 -  12 pt),3FGA,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,23,02:26,38,525,"SHENGELIA, TORNIKE",P001133   ,Off Rebound (1),O,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,23,02:25,38,526,"SHENGELIA, TORNIKE",P001133   ,Two Pointer (6/11 -  13 pt),2FGM,78.0,81.0,Baskonia Vitoria Gasteiz,0
-PAN       ,,11,02:11,38,527,"PAPPAS, NIKOS",P000464   ,Two Pointer (4/4 -  21 pt),2FGM,78.0,83.0,Panathinaikos Superfoods Athens,0
-PAN       ,,33,02:10,38,528,"CALATHES, NICK",P001932   ,Assist (14),AS,,,Panathinaikos Superfoods Athens,0
-BAS       ,,23,01:55,39,530,"SHENGELIA, TORNIKE",P001133   ,Foul Drawn (5),RV,,,Baskonia Vitoria Gasteiz,0
-PAN       ,,11,01:55,39,531,"PAPPAS, NIKOS",P000464   ,Foul (3),CM,,,Panathinaikos Superfoods Athens,0
-BAS       ,,23,01:55,39,532,"SHENGELIA, TORNIKE",P001133   ,Free Throw In (2/4 -  14 pt),FTM,79.0,83.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,23,01:55,39,533,"SHENGELIA, TORNIKE",P001133   ,Free Throw In (3/5 -  15 pt),FTM,80.0,83.0,Baskonia Vitoria Gasteiz,0
-PAN       ,,0,01:32,39,534,"SINGLETON, CHRIS",P006614   ,Missed Three Pointer (4/6 -  15 pt),3FGA,,,Panathinaikos Superfoods Athens,0
-PAN       ,,,01:30,39,535,,          ,Off Rebound (6),O,,,Panathinaikos Superfoods Athens,0
-BAS       ,,6,01:30,39,536,"TIMMA, JANIS",P005718   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,10,01:30,39,537,"BEAUBOIS, RODRIGUE",P006590   ,In,IN,,,Baskonia Vitoria Gasteiz,0
-PAN       ,,11,01:22,39,538,"PAPPAS, NIKOS",P000464   ,Foul Drawn (5),RV,,,Panathinaikos Superfoods Athens,0
-BAS       ,,10,01:22,39,539,"BEAUBOIS, RODRIGUE",P006590   ,Foul (3),CM,,,Baskonia Vitoria Gasteiz,0
-PAN       ,,11,01:22,39,540,"PAPPAS, NIKOS",P000464   ,Free Throw In (5/5 -  22 pt),FTM,80.0,84.0,Panathinaikos Superfoods Athens,0
-PAN       ,,11,01:22,39,541,"PAPPAS, NIKOS",P000464   ,Missed Free Throw (5/6 -  22 pt),FTA,,,Panathinaikos Superfoods Athens,0
-BAS       ,,,01:22,39,542,,          ,Def Rebound (4),D,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,23,01:00,39,543,"SHENGELIA, TORNIKE",P001133   ,Missed Three Pointer (0/2 -  15 pt),3FGA,,,Baskonia Vitoria Gasteiz,0
-PAN       ,,3,00:56,40,545,"RIVERS, KC",P002429   ,Def Rebound (8),D,,,Panathinaikos Superfoods Athens,0
-PAN       ,,3,00:36,40,546,"RIVERS, KC",P002429   ,Missed Three Pointer (3/4 -  12 pt),3FGA,,,Panathinaikos Superfoods Athens,0
-BAS       ,,10,00:33,40,547,"BEAUBOIS, RODRIGUE",P006590   ,Def Rebound (4),D,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,15,00:28,40,548,"GRANGER, JAYSON",P003024   ,Three Pointer (6/7 -  20 pt),3FGM,83.0,84.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,23,00:27,40,549,"SHENGELIA, TORNIKE",P001133   ,Assist (3),AS,,,Baskonia Vitoria Gasteiz,0
-PAN       ,,,00:27,40,550,,          ,Time Out (2),TOUT,,,Panathinaikos Superfoods Athens,0
-PAN       ,,23,00:28,40,551,"AUGUSTE, ZACH",P007948   ,Out,OUT,,,Panathinaikos Superfoods Athens,0
-PAN       ,,24,00:28,40,552,"LOJESKI, MATT",P003608   ,In,IN,,,Panathinaikos Superfoods Athens,0
-PAN       ,,11,00:06,40,553,"PAPPAS, NIKOS",P000464   ,Missed Two Pointer (4/5 -  22 pt),2FGA,,,Panathinaikos Superfoods Athens,0
-PAN       ,,11,00:06,40,554,"PAPPAS, NIKOS",P000464   ,Shot Rejected (1),AG,,,Panathinaikos Superfoods Athens,0
-BAS       ,,23,00:04,40,555,"SHENGELIA, TORNIKE",P001133   ,Block (1),FV,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,17,00:03,40,556,"POIRIER, VINCENT",P004887   ,Def Rebound (3),D,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,10,00:01,40,557,"BEAUBOIS, RODRIGUE",P006590   ,Two Pointer (3/4 -  15 pt),2FGM,85.0,84.0,Baskonia Vitoria Gasteiz,0
-PAN       ,,,00:01,40,558,,          ,Time Out (3),TOUT,,,Panathinaikos Superfoods Athens,0
-BAS       ,,6,00:01,40,559,"TIMMA, JANIS",P005718   ,In,IN,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,17,00:01,40,560,"POIRIER, VINCENT",P004887   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,,00:01,40,562,,          ,Time Out (1),TOUT,,,Baskonia Vitoria Gasteiz,0
-          ,,,,41,566,,          ,End Game,EG,,,,0
+CODETEAM,COMMENT,DORSAL,MARKERTIME,MINUTE,NUMBEROFPLAY,PLAYER,PLAYER_ID,PLAYINFO,PLAYTYPE,POINTS_A,POINTS_B,TEAM,TYPE,home_team,home_team_code,away_team,away_team_code
+          ,,,,1,22,,          ,Begin Period,BP,,,,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,14,09:44,1,23,"GIST, JAMES",P002980   ,Turnover (1),TO,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,17,09:43,1,24,"POIRIER, VINCENT",P004887   ,Steal (1),ST,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,6,09:35,1,25,"TIMMA, JANIS",P005718   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,14,09:33,1,26,"GIST, JAMES",P002980   ,Def Rebound (1),D,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,09:28,1,27,"CALATHES, NICK",P001932   ,Two Pointer (1/1 -  2 pt),2FGM,,2.0,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,10,09:23,1,28,"BEAUBOIS, RODRIGUE",P006590   ,Turnover (1),TO,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,12,09:23,1,29,"DENMON, MARCUS",P004195   ,Two Pointer (1/1 -  2 pt),2FGM,,4.0,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,09:23,1,30,"CALATHES, NICK",P001932   ,Assist (1),AS,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,17,09:03,1,31,"POIRIER, VINCENT",P004887   ,Two Pointer (1/1 -  2 pt),2FGM,2.0,4.0,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,10,09:01,1,32,"BEAUBOIS, RODRIGUE",P006590   ,Assist (1),AS,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,14,08:40,2,34,"GIST, JAMES",P002980   ,Two Pointer (1/1 -  2 pt),2FGM,2.0,6.0,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,24,08:37,2,35,"LOJESKI, MATT",P003608   ,Assist (1),AS,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,17,08:24,2,36,"POIRIER, VINCENT",P004887   ,Two Pointer (2/2 -  4 pt),2FGM,4.0,6.0,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,15,08:22,2,37,"GRANGER, JAYSON",P003024   ,Assist (1),AS,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,08:14,2,38,"CALATHES, NICK",P001932   ,Two Pointer (2/2 -  4 pt),2FGM,4.0,8.0,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,08:14,2,39,"CALATHES, NICK",P001932   ,Foul Drawn (1),RV,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,15,08:14,2,40,"GRANGER, JAYSON",P003024   ,Foul (1),CM,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,08:14,2,41,"CALATHES, NICK",P001932   ,Free Throw In (1/1 -  5 pt),FTM,4.0,9.0,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,15,08:01,2,42,"GRANGER, JAYSON",P003024   ,Three Pointer (1/1 -  3 pt),3FGM,7.0,9.0,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,17,07:59,3,44,"POIRIER, VINCENT",P004887   ,Assist (1),AS,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,24,07:47,3,45,"LOJESKI, MATT",P003608   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,14,07:44,3,46,"GIST, JAMES",P002980   ,Off Rebound (1),O,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,14,07:42,3,47,"GIST, JAMES",P002980   ,Two Pointer (2/2 -  4 pt),2FGM,7.0,11.0,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,8,07:39,3,48,"MALMANIS, RINALDS",P004185   ,Turnover (1),TO,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,9,07:39,3,49,"HUERTAS, MARCELINHO",PJUJ      ,In,IN,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,15,07:39,3,50,"GRANGER, JAYSON",P003024   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,0,07:39,3,51,"SINGLETON, CHRIS",P006614   ,Foul Drawn (1),RV,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,8,07:39,3,52,"MALMANIS, RINALDS",P004185   ,Foul (1),CM,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,0,07:27,3,53,"SINGLETON, CHRIS",P006614   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,12,07:24,3,54,"DENMON, MARCUS",P004195   ,Off Rebound (1),O,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,0,07:10,3,55,"SINGLETON, CHRIS",P006614   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,17,07:08,3,56,"POIRIER, VINCENT",P004887   ,Def Rebound (1),D,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,10,07:06,3,57,"BEAUBOIS, RODRIGUE",P006590   ,Two Pointer (1/1 -  2 pt),2FGM,9.0,11.0,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,9,06:52,4,59,"HUERTAS, MARCELINHO",PJUJ      ,Foul Drawn (1),RV,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,06:52,4,60,"CALATHES, NICK",P001932   ,Offensive Foul (1),OF,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,06:52,4,61,"CALATHES, NICK",P001932   ,Turnover (1),TO,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,9,06:48,4,62,"HUERTAS, MARCELINHO",PJUJ      ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,14,06:46,4,63,"GIST, JAMES",P002980   ,Def Rebound (2),D,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,12,06:35,4,64,"DENMON, MARCUS",P004195   ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,8,06:32,4,65,"MALMANIS, RINALDS",P004185   ,Def Rebound (1),D,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,8,06:23,4,66,"MALMANIS, RINALDS",P004185   ,Foul Drawn (1),RV,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,0,06:23,4,67,"SINGLETON, CHRIS",P006614   ,Foul (1),CM,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,8,06:23,4,68,"MALMANIS, RINALDS",P004185   ,Free Throw In (1/1 -  1 pt),FTM,10.0,11.0,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,8,06:23,4,69,"MALMANIS, RINALDS",P004185   ,Free Throw In (2/2 -  2 pt),FTM,11.0,11.0,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,0,06:23,4,70,"SINGLETON, CHRIS",P006614   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,22,06:23,4,71,"GABRIEL, KENNY",P005881   ,In,IN,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,24,06:07,4,72,"LOJESKI, MATT",P003608   ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,10,06:05,4,73,"BEAUBOIS, RODRIGUE",P006590   ,Def Rebound (1),D,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,10,05:57,5,75,"BEAUBOIS, RODRIGUE",P006590   ,Foul Drawn (1),RV,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,14,05:57,5,76,"GIST, JAMES",P002980   ,Foul (1),CM,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,11,05:57,5,77,"PAPPAS, NIKOS",P000464   ,In,IN,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,12,05:57,5,78,"DENMON, MARCUS",P004195   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,10,05:57,5,79,"BEAUBOIS, RODRIGUE",P006590   ,Free Throw In (1/1 -  3 pt),FTM,12.0,11.0,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,10,05:57,5,80,"BEAUBOIS, RODRIGUE",P006590   ,Free Throw In (2/2 -  4 pt),FTM,13.0,11.0,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,10,05:57,5,81,"BEAUBOIS, RODRIGUE",P006590   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,11,05:57,5,82,"JANNING, MATT",P004165   ,In,IN,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,14,05:44,5,83,"GIST, JAMES",P002980   ,Missed Three Pointer (0/1 -  4 pt),3FGA,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,22,05:35,5,84,"GABRIEL, KENNY",P005881   ,Foul Drawn (1),RV,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,6,05:35,5,85,"TIMMA, JANIS",P005718   ,Foul (1),CM,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,,05:35,5,86,,          ,Off Rebound (1),O,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,05:22,5,87,"CALATHES, NICK",P001932   ,Turnover (2),TO,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,6,05:20,5,88,"TIMMA, JANIS",P005718   ,Steal (1),ST,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,6,05:13,5,89,"TIMMA, JANIS",P005718   ,Foul Drawn (1),RV,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,22,05:13,5,90,"GABRIEL, KENNY",P005881   ,Foul (1),CM,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,12,05:13,5,91,"DIOP, ILIMANE",P003540   ,In,IN,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,17,05:13,5,92,"POIRIER, VINCENT",P004887   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,3,05:13,5,93,"RIVERS, KC",P002429   ,In,IN,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,14,05:13,5,94,"GIST, JAMES",P002980   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,15,05:13,5,95,"VOUGIOUKAS, IAN",PTFX      ,In,IN,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,24,05:13,5,96,"LOJESKI, MATT",P003608   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,6,05:13,5,97,"TIMMA, JANIS",P005718   ,Missed Free Throw (0/1 -  0 pt),FTA,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,6,05:13,5,98,"TIMMA, JANIS",P005718   ,Missed Free Throw (0/2 -  0 pt),FTA,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,6,05:13,5,99,"TIMMA, JANIS",P005718   ,Off Rebound (1),O,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,6,04:59,6,101,"TIMMA, JANIS",P005718   ,Three Pointer (1/2 -  3 pt),3FGM,16.0,11.0,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,12,04:57,6,102,"DIOP, ILIMANE",P003540   ,Assist (1),AS,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,9,04:47,6,103,"HUERTAS, MARCELINHO",PJUJ      ,Foul Drawn (2),RV,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,22,04:47,6,104,"GABRIEL, KENNY",P005881   ,Offensive Foul (2),OF,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,22,04:47,6,105,"GABRIEL, KENNY",P005881   ,Turnover (1),TO,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+          ,,,04:47,6,106,,          ,TV Time Out (1),TOUT_TV,,,,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,8,04:47,6,107,"MALMANIS, RINALDS",P004185   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,23,04:47,6,108,"SHENGELIA, TORNIKE",P001133   ,In,IN,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,0,04:47,6,109,"SINGLETON, CHRIS",P006614   ,In,IN,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,22,04:47,6,110,"GABRIEL, KENNY",P005881   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,6,04:34,6,111,"TIMMA, JANIS",P005718   ,Three Pointer (2/3 -  6 pt),3FGM,19.0,11.0,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,11,04:32,6,112,"JANNING, MATT",P004165   ,Assist (1),AS,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,15,04:15,6,113,"VOUGIOUKAS, IAN",PTFX      ,Foul Drawn (1),RV,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,12,04:15,6,114,"DIOP, ILIMANE",P003540   ,Foul (1),CM,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,11,04:12,6,115,"PAPPAS, NIKOS",P000464   ,Turnover (1),TO,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,12,04:10,6,116,"DIOP, ILIMANE",P003540   ,Steal (1),ST,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,11,04:05,6,117,"JANNING, MATT",P004165   ,Three Pointer (1/1 -  3 pt),3FGM,22.0,11.0,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,9,04:03,6,118,"HUERTAS, MARCELINHO",PJUJ      ,Assist (1),AS,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,03:42,7,120,"CALATHES, NICK",P001932   ,Two Pointer (3/3 -  7 pt),2FGM,22.0,13.0,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,11,03:31,7,121,"JANNING, MATT",P004165   ,Missed Two Pointer (0/1 -  3 pt),2FGA,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,15,03:29,7,122,"VOUGIOUKAS, IAN",PTFX      ,Def Rebound (1),D,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,03:26,7,123,"CALATHES, NICK",P001932   ,Missed Two Pointer (3/4 -  7 pt),2FGA,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,12,03:26,7,124,"DIOP, ILIMANE",P003540   ,Def Rebound (1),D,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,9,03:09,7,125,"HUERTAS, MARCELINHO",PJUJ      ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,15,03:09,7,126,"VOUGIOUKAS, IAN",PTFX      ,Def Rebound (2),D,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,0,02:55,8,128,"SINGLETON, CHRIS",P006614   ,Two Pointer (1/3 -  2 pt),2FGM,22.0,15.0,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,3,02:55,8,129,"RIVERS, KC",P002429   ,Assist (1),AS,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,6,02:23,8,130,"TIMMA, JANIS",P005718   ,Missed Three Pointer (2/4 -  6 pt),3FGA,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,3,02:21,8,131,"RIVERS, KC",P002429   ,Def Rebound (1),D,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,02:06,8,132,"CALATHES, NICK",P001932   ,Two Pointer (4/5 -  9 pt),2FGM,22.0,17.0,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,11,01:54,9,134,"JANNING, MATT",P004165   ,Two Pointer (1/2 -  5 pt),2FGM,24.0,17.0,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,11,01:39,9,135,"PAPPAS, NIKOS",P000464   ,Two Pointer (1/1 -  2 pt),2FGM,24.0,19.0,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,6,01:22,9,136,"TIMMA, JANIS",P005718   ,Missed Two Pointer (0/1 -  6 pt),2FGA,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,6,01:22,9,137,"TIMMA, JANIS",P005718   ,Shot Rejected (1),AG,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,15,01:22,9,138,"VOUGIOUKAS, IAN",PTFX      ,Block (1),FV,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,,01:22,9,139,,          ,Off Rebound (2),O,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,6,01:22,9,140,"TIMMA, JANIS",P005718   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,9,01:22,9,141,"HUERTAS, MARCELINHO",PJUJ      ,Out,OUT,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,15,01:22,9,142,"GRANGER, JAYSON",P003024   ,In,IN,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,29,01:22,9,143,"GARINO, PATRICIO",P007994   ,In,IN,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,19,01:22,9,144,"LEKAVICIUS, LUKAS",P003210   ,In,IN,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,01:22,9,145,"CALATHES, NICK",P001932   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,,01:22,9,146,,          ,Time Out (1),TOUT,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,15,01:12,9,147,"GRANGER, JAYSON",P003024   ,Three Pointer (2/2 -  6 pt),3FGM,27.0,19.0,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,23,01:09,9,148,"SHENGELIA, TORNIKE",P001133   ,Assist (1),AS,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,11,00:49,10,150,"PAPPAS, NIKOS",P000464   ,Three Pointer (1/1 -  5 pt),3FGM,27.0,22.0,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,15,00:23,10,151,"GRANGER, JAYSON",P003024   ,Missed Two Pointer (0/1 -  6 pt),2FGA,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,15,00:22,10,152,"GRANGER, JAYSON",P003024   ,Off Rebound (1),O,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,15,00:10,10,153,"GRANGER, JAYSON",P003024   ,Missed Two Pointer (0/2 -  6 pt),2FGA,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,3,00:07,10,154,"RIVERS, KC",P002429   ,Def Rebound (2),D,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,11,00:00,10,155,"PAPPAS, NIKOS",P000464   ,Two Pointer (2/2 -  7 pt),2FGM,27.0,24.0,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+          ,,,,11,157,,          ,End Period,EP,,,,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+          ,,,,11,160,,          ,Begin Period,BP,,,,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,12,10:00,11,158,"DIOP, ILIMANE",P003540   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,17,10:00,11,159,"POIRIER, VINCENT",P004887   ,In,IN,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,17,09:44,11,161,"POIRIER, VINCENT",P004887   ,Turnover (1),TO,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,11,09:42,11,162,"PAPPAS, NIKOS",P000464   ,Steal (1),ST,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,0,09:19,11,163,"SINGLETON, CHRIS",P006614   ,Three Pointer (1/1 -  5 pt),3FGM,27.0,27.0,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,15,09:04,11,165,"GRANGER, JAYSON",P003024   ,Foul Drawn (1),RV,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,15,09:04,11,166,"VOUGIOUKAS, IAN",PTFX      ,Foul (1),CM,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,10,09:04,11,167,"BEAUBOIS, RODRIGUE",P006590   ,In,IN,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,11,09:04,11,168,"JANNING, MATT",P004165   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,23,08:49,12,170,"SHENGELIA, TORNIKE",P001133   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,15,08:47,12,171,"VOUGIOUKAS, IAN",PTFX      ,Def Rebound (3),D,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,19,08:31,12,172,"LEKAVICIUS, LUKAS",P003210   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,10,08:29,12,173,"BEAUBOIS, RODRIGUE",P006590   ,Def Rebound (2),D,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,15,08:11,12,174,"GRANGER, JAYSON",P003024   ,Three Pointer (3/3 -  9 pt),3FGM,30.0,27.0,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,3,07:52,13,176,"RIVERS, KC",P002429   ,Foul Drawn (1),RV,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,29,07:52,13,177,"GARINO, PATRICIO",P007994   ,Foul (1),CM,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,19,07:52,13,178,"LEKAVICIUS, LUKAS",P003210   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,07:52,13,179,"CALATHES, NICK",P001932   ,In,IN,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,07:43,13,180,"CALATHES, NICK",P001932   ,Turnover (3),TO,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,17,07:41,13,181,"POIRIER, VINCENT",P004887   ,Steal (2),ST,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,15,07:32,13,182,"GRANGER, JAYSON",P003024   ,Two Pointer (1/3 -  11 pt),2FGM,32.0,27.0,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,11,07:06,13,183,"PAPPAS, NIKOS",P000464   ,Turnover (2),TO,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,17,07:04,13,184,"POIRIER, VINCENT",P004887   ,Steal (3),ST,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,23,07:01,13,185,"SHENGELIA, TORNIKE",P001133   ,Two Pointer (1/2 -  2 pt),2FGM,34.0,27.0,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,10,06:58,14,187,"BEAUBOIS, RODRIGUE",P006590   ,Assist (2),AS,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,29,06:44,14,188,"GARINO, PATRICIO",P007994   ,Foul Drawn (1),RV,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,3,06:44,14,189,"RIVERS, KC",P002429   ,Offensive Foul (1),OF,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,3,06:44,14,190,"RIVERS, KC",P002429   ,Turnover (1),TO,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,,06:44,14,191,,          ,Time Out (1),TOUT,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,11,06:44,14,192,"PAPPAS, NIKOS",P000464   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,14,06:44,14,193,"GIST, JAMES",P002980   ,In,IN,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,15,06:44,14,194,"VOUGIOUKAS, IAN",PTFX      ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,24,06:44,14,195,"LOJESKI, MATT",P003608   ,In,IN,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,23,06:21,14,196,"SHENGELIA, TORNIKE",P001133   ,Missed Two Pointer (1/3 -  2 pt),2FGA,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,17,06:20,14,197,"POIRIER, VINCENT",P004887   ,Off Rebound (1),O,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,,06:18,14,198,,          ,Turnover (1),TO,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,0,06:06,14,199,"SINGLETON, CHRIS",P006614   ,Three Pointer (2/2 -  8 pt),3FGM,34.0,30.0,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,06:03,14,200,"CALATHES, NICK",P001932   ,Assist (2),AS,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,23,05:42,15,202,"SHENGELIA, TORNIKE",P001133   ,Two Pointer (2/4 -  4 pt),2FGM,36.0,30.0,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,05:33,15,203,"CALATHES, NICK",P001932   ,Foul Drawn (2),RV,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,15,05:33,15,204,"GRANGER, JAYSON",P003024   ,Foul (2),CM,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,7,05:33,15,205,"VOIGTMANN, JOHANNES",P007201   ,In,IN,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,17,05:33,15,206,"POIRIER, VINCENT",P004887   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,05:20,15,207,"CALATHES, NICK",P001932   ,Missed Two Pointer (4/6 -  9 pt),2FGA,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,,05:20,15,208,,          ,Off Rebound (3),O,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,9,05:20,15,209,"HUERTAS, MARCELINHO",PJUJ      ,In,IN,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,15,05:20,15,210,"GRANGER, JAYSON",P003024   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,24,05:20,15,211,"LOJESKI, MATT",P003608   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,23,05:20,15,212,"SHENGELIA, TORNIKE",P001133   ,Def Rebound (1),D,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,9,04:59,16,214,"HUERTAS, MARCELINHO",PJUJ      ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,0,04:57,16,215,"SINGLETON, CHRIS",P006614   ,Def Rebound (1),D,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,0,04:53,16,216,"SINGLETON, CHRIS",P006614   ,Turnover (1),TO,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,23,04:30,16,217,"SHENGELIA, TORNIKE",P001133   ,Missed Two Pointer (2/5 -  4 pt),2FGA,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,0,04:27,16,218,"SINGLETON, CHRIS",P006614   ,Def Rebound (2),D,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,14,04:15,16,219,"GIST, JAMES",P002980   ,Two Pointer (3/3 -  6 pt),2FGM,36.0,32.0,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,04:13,16,220,"CALATHES, NICK",P001932   ,Assist (3),AS,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,10,03:51,17,222,"BEAUBOIS, RODRIGUE",P006590   ,Three Pointer (1/1 -  7 pt),3FGM,39.0,32.0,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,24,03:35,17,223,"LOJESKI, MATT",P003608   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,23,03:33,17,224,"SHENGELIA, TORNIKE",P001133   ,Def Rebound (2),D,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,10,03:25,17,225,"BEAUBOIS, RODRIGUE",P006590   ,Three Pointer (2/2 -  10 pt),3FGM,42.0,32.0,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,,03:21,17,226,,          ,Time Out (2),TOUT,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,8,03:24,17,227,"MALMANIS, RINALDS",P004185   ,In,IN,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,23,03:24,17,228,"SHENGELIA, TORNIKE",P001133   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,12,03:24,17,229,"DENMON, MARCUS",P004195   ,In,IN,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,24,03:24,17,230,"LOJESKI, MATT",P003608   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,0,03:13,17,231,"SINGLETON, CHRIS",P006614   ,Three Pointer (3/3 -  11 pt),3FGM,42.0,35.0,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,03:11,17,232,"CALATHES, NICK",P001932   ,Assist (4),AS,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,10,02:55,18,234,"BEAUBOIS, RODRIGUE",P006590   ,Missed Two Pointer (1/2 -  10 pt),2FGA,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,10,02:55,18,235,"BEAUBOIS, RODRIGUE",P006590   ,Shot Rejected (1),AG,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,14,02:53,18,236,"GIST, JAMES",P002980   ,Block (1),FV,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,8,02:50,18,237,"MALMANIS, RINALDS",P004185   ,Off Rebound (1),O,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,8,02:48,18,238,"MALMANIS, RINALDS",P004185   ,Missed Two Pointer (0/1 -  2 pt),2FGA,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,3,02:45,18,239,"RIVERS, KC",P002429   ,Def Rebound (3),D,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,0,02:33,18,240,"SINGLETON, CHRIS",P006614   ,Three Pointer (4/4 -  14 pt),3FGM,42.0,38.0,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,02:31,18,241,"CALATHES, NICK",P001932   ,Assist (5),AS,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,9,02:10,18,242,"HUERTAS, MARCELINHO",PJUJ      ,Two Pointer (1/3 -  2 pt),2FGM,44.0,38.0,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,3,01:47,19,244,"RIVERS, KC",P002429   ,Two Pointer (1/1 -  2 pt),2FGM,44.0,40.0,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,7,01:21,19,245,"VOIGTMANN, JOHANNES",P007201   ,Two Pointer (1/1 -  2 pt),2FGM,46.0,40.0,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,9,01:18,19,246,"HUERTAS, MARCELINHO",PJUJ      ,Assist (2),AS,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,3,01:08,19,247,"RIVERS, KC",P002429   ,Three Pointer (1/1 -  5 pt),3FGM,46.0,43.0,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,14,01:06,19,248,"GIST, JAMES",P002980   ,Assist (1),AS,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,,01:06,19,249,,          ,Time Out (1),TOUT,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,6,01:06,19,250,"TIMMA, JANIS",P005718   ,In,IN,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,7,01:06,19,251,"VOIGTMANN, JOHANNES",P007201   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,17,01:06,19,252,"POIRIER, VINCENT",P004887   ,In,IN,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,29,01:06,19,253,"GARINO, PATRICIO",P007994   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,10,00:44,20,255,"BEAUBOIS, RODRIGUE",P006590   ,Foul Drawn (2),RV,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,14,00:44,20,256,"GIST, JAMES",P002980   ,Foul (2),CM,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,10,00:44,20,257,"BEAUBOIS, RODRIGUE",P006590   ,Free Throw In (3/3 -  11 pt),FTM,47.0,43.0,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,10,00:44,20,258,"BEAUBOIS, RODRIGUE",P006590   ,Missed Free Throw (3/4 -  11 pt),FTA,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,3,00:44,20,259,"RIVERS, KC",P002429   ,Def Rebound (4),D,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,14,00:22,20,260,"GIST, JAMES",P002980   ,Two Pointer (4/4 -  8 pt),2FGM,47.0,45.0,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,0,00:19,20,261,"SINGLETON, CHRIS",P006614   ,Assist (1),AS,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,10,00:08,20,262,"BEAUBOIS, RODRIGUE",P006590   ,Foul Drawn (3),RV,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,12,00:08,20,263,"DENMON, MARCUS",P004195   ,Foul (1),CM,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,14,00:08,20,264,"GIST, JAMES",P002980   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,43,00:08,20,265,"ANTETOKOUNMPO, THANASIS",P007865   ,In,IN,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,9,00:08,20,266,"HUERTAS, MARCELINHO",PJUJ      ,Missed Two Pointer (1/4 -  2 pt),2FGA,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+          ,,,,21,268,,          ,End Period,EP,,,,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+          ,,,,21,279,,          ,Begin Period,BP,,,,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,8,10:00,21,269,"MALMANIS, RINALDS",P004185   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,9,10:00,21,270,"HUERTAS, MARCELINHO",PJUJ      ,Out,OUT,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,10,10:00,21,271,"BEAUBOIS, RODRIGUE",P006590   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,11,10:00,21,272,"JANNING, MATT",P004165   ,In,IN,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,15,10:00,21,273,"GRANGER, JAYSON",P003024   ,In,IN,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,23,10:00,21,274,"SHENGELIA, TORNIKE",P001133   ,In,IN,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,11,10:00,21,275,"PAPPAS, NIKOS",P000464   ,In,IN,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,12,10:00,21,276,"DENMON, MARCUS",P004195   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,14,10:00,21,277,"GIST, JAMES",P002980   ,In,IN,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,43,10:00,21,278,"ANTETOKOUNMPO, THANASIS",P007865   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,0,09:39,21,280,"SINGLETON, CHRIS",P006614   ,Missed Two Pointer (1/4 -  14 pt),2FGA,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,14,09:37,21,281,"GIST, JAMES",P002980   ,Off Rebound (2),O,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,3,09:32,21,282,"RIVERS, KC",P002429   ,Turnover (2),TO,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,6,09:31,21,283,"TIMMA, JANIS",P005718   ,Steal (2),ST,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,11,09:27,21,284,"JANNING, MATT",P004165   ,Two Pointer (2/3 -  7 pt),2FGM,49.0,45.0,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,23,09:24,21,285,"SHENGELIA, TORNIKE",P001133   ,Assist (2),AS,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,3,09:05,21,286,"RIVERS, KC",P002429   ,Missed Two Pointer (1/2 -  5 pt),2FGA,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,17,09:02,21,287,"POIRIER, VINCENT",P004887   ,Def Rebound (2),D,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,23,08:45,22,289,"SHENGELIA, TORNIKE",P001133   ,Two Pointer (3/6 -  6 pt),2FGM,51.0,45.0,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,11,08:28,22,290,"PAPPAS, NIKOS",P000464   ,Three Pointer (2/2 -  10 pt),3FGM,51.0,48.0,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,08:26,22,291,"CALATHES, NICK",P001932   ,Assist (6),AS,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,15,08:12,22,292,"GRANGER, JAYSON",P003024   ,Three Pointer (4/4 -  14 pt),3FGM,54.0,48.0,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,07:57,23,294,"CALATHES, NICK",P001932   ,Missed Two Pointer (4/7 -  9 pt),2FGA,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,07:57,23,295,"CALATHES, NICK",P001932   ,Shot Rejected (1),AG,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,17,07:57,23,296,"POIRIER, VINCENT",P004887   ,Block (1),FV,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,,07:57,23,297,,          ,Off Rebound (4),O,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,0,07:52,23,298,"SINGLETON, CHRIS",P006614   ,Missed Two Pointer (1/5 -  14 pt),2FGA,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,15,07:49,23,299,"GRANGER, JAYSON",P003024   ,Def Rebound (1),D,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,15,07:43,23,300,"GRANGER, JAYSON",P003024   ,Missed Two Pointer (1/4 -  14 pt),2FGA,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,07:41,23,301,"CALATHES, NICK",P001932   ,Def Rebound (1),D,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,11,07:38,23,302,"PAPPAS, NIKOS",P000464   ,Foul Drawn (1),RV,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,23,07:38,23,303,"SHENGELIA, TORNIKE",P001133   ,Foul (1),CM,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,11,07:38,23,304,"PAPPAS, NIKOS",P000464   ,Free Throw In (1/1 -  11 pt),FTM,54.0,49.0,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,07:38,23,305,"CALATHES, NICK",P001932   ,Assist (7),AS,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,11,07:38,23,306,"PAPPAS, NIKOS",P000464   ,Free Throw In (2/2 -  12 pt),FTM,54.0,50.0,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,11,07:23,23,307,"JANNING, MATT",P004165   ,Missed Three Pointer (1/2 -  7 pt),3FGA,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,6,07:21,23,308,"TIMMA, JANIS",P005718   ,Off Rebound (2),O,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,17,07:10,23,309,"POIRIER, VINCENT",P004887   ,Missed Two Pointer (2/3 -  4 pt),2FGA,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,14,07:08,23,310,"GIST, JAMES",P002980   ,Def Rebound (3),D,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,14,07:08,23,311,"GIST, JAMES",P002980   ,Foul Drawn (1),RV,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,11,07:08,23,312,"JANNING, MATT",P004165   ,Foul (1),CM,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,11,06:58,24,314,"PAPPAS, NIKOS",P000464   ,Foul Drawn (2),RV,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,11,06:58,24,315,"JANNING, MATT",P004165   ,Foul (2),CM,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,10,06:58,24,316,"BEAUBOIS, RODRIGUE",P006590   ,In,IN,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,11,06:58,24,317,"JANNING, MATT",P004165   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,14,06:52,24,318,"GIST, JAMES",P002980   ,Two Pointer (5/5 -  10 pt),2FGM,54.0,52.0,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,06:50,24,319,"CALATHES, NICK",P001932   ,Assist (8),AS,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,10,06:42,24,320,"BEAUBOIS, RODRIGUE",P006590   ,Foul Drawn (4),RV,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,11,06:42,24,321,"PAPPAS, NIKOS",P000464   ,Foul (1),CM,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,15,06:28,24,322,"GRANGER, JAYSON",P003024   ,Missed Three Pointer (4/5 -  14 pt),3FGA,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,06:26,24,323,"CALATHES, NICK",P001932   ,Def Rebound (2),D,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,3,06:19,24,324,"RIVERS, KC",P002429   ,Three Pointer (2/2 -  8 pt),3FGM,54.0,55.0,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,06:17,24,325,"CALATHES, NICK",P001932   ,Assist (9),AS,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,17,06:03,24,326,"POIRIER, VINCENT",P004887   ,Turnover (2),TO,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,3,05:47,25,328,"RIVERS, KC",P002429   ,Three Pointer (3/3 -  11 pt),3FGM,54.0,58.0,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,05:44,25,329,"CALATHES, NICK",P001932   ,Assist (10),AS,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,17,05:39,25,330,"POIRIER, VINCENT",P004887   ,Foul Drawn (1),RV,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,0,05:39,25,331,"SINGLETON, CHRIS",P006614   ,Foul (2),CM,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,15,05:31,25,332,"GRANGER, JAYSON",P003024   ,Three Pointer (5/6 -  17 pt),3FGM,57.0,58.0,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,10,05:28,25,333,"BEAUBOIS, RODRIGUE",P006590   ,Assist (3),AS,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,14,05:13,25,334,"GIST, JAMES",P002980   ,Two Pointer (6/6 -  12 pt),2FGM,57.0,60.0,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,05:12,25,335,"CALATHES, NICK",P001932   ,Assist (11),AS,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,,05:12,25,336,,          ,Time Out (1),TOUT,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,23,04:56,26,338,"SHENGELIA, TORNIKE",P001133   ,Missed Three Pointer (0/1 -  6 pt),3FGA,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,3,04:54,26,339,"RIVERS, KC",P002429   ,Def Rebound (5),D,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,04:44,26,340,"CALATHES, NICK",P001932   ,Foul Drawn (3),RV,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,23,04:44,26,341,"SHENGELIA, TORNIKE",P001133   ,Foul (2),CM,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,04:44,26,342,"CALATHES, NICK",P001932   ,Free Throw In (2/2 -  10 pt),FTM,57.0,61.0,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,04:44,26,343,"CALATHES, NICK",P001932   ,Missed Free Throw (2/3 -  10 pt),FTA,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,,04:44,26,344,,          ,Def Rebound (1),D,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,6,04:27,26,345,"TIMMA, JANIS",P005718   ,Missed Three Pointer (2/5 -  6 pt),3FGA,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,11,04:26,26,346,"PAPPAS, NIKOS",P000464   ,Def Rebound (1),D,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,0,04:12,26,347,"SINGLETON, CHRIS",P006614   ,Missed Three Pointer (4/5 -  14 pt),3FGA,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,6,04:10,26,348,"TIMMA, JANIS",P005718   ,Def Rebound (1),D,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,23,03:58,27,350,"SHENGELIA, TORNIKE",P001133   ,Foul Drawn (1),RV,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,03:58,27,351,"CALATHES, NICK",P001932   ,Foul (2),CM,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,9,03:58,27,352,"HUERTAS, MARCELINHO",PJUJ      ,In,IN,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,15,03:58,27,353,"GRANGER, JAYSON",P003024   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,7,03:58,27,354,"VOIGTMANN, JOHANNES",P007201   ,In,IN,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,17,03:58,27,355,"POIRIER, VINCENT",P004887   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,23,03:58,27,356,"SHENGELIA, TORNIKE",P001133   ,Free Throw In (1/1 -  7 pt),FTM,58.0,61.0,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,23,03:58,27,357,"SHENGELIA, TORNIKE",P001133   ,Missed Free Throw (1/2 -  7 pt),FTA,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,3,03:58,27,358,"RIVERS, KC",P002429   ,Def Rebound (6),D,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,03:47,27,359,"CALATHES, NICK",P001932   ,Foul Drawn (4),RV,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,9,03:47,27,360,"HUERTAS, MARCELINHO",PJUJ      ,Foul (1),CM,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,03:47,27,361,"CALATHES, NICK",P001932   ,Free Throw In (3/4 -  11 pt),FTM,58.0,62.0,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,03:47,27,362,"CALATHES, NICK",P001932   ,Free Throw In (4/5 -  12 pt),FTM,58.0,63.0,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,6,03:30,27,363,"TIMMA, JANIS",P005718   ,Three Pointer (3/6 -  9 pt),3FGM,61.0,63.0,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,7,03:28,27,364,"VOIGTMANN, JOHANNES",P007201   ,Assist (1),AS,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,11,03:16,27,365,"PAPPAS, NIKOS",P000464   ,Two Pointer (3/3 -  14 pt),2FGM,61.0,65.0,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,03:14,27,366,"CALATHES, NICK",P001932   ,Assist (12),AS,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,23,02:52,28,368,"SHENGELIA, TORNIKE",P001133   ,Foul Drawn (2),RV,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,14,02:52,28,369,"GIST, JAMES",P002980   ,Foul (3),CM,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,14,02:52,28,370,"GIST, JAMES",P002980   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,23,02:52,28,371,"AUGUSTE, ZACH",P007948   ,In,IN,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,23,02:44,28,372,"SHENGELIA, TORNIKE",P001133   ,Turnover (1),TO,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,9,02:23,28,373,"HUERTAS, MARCELINHO",PJUJ      ,Foul Drawn (3),RV,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,23,02:23,28,374,"AUGUSTE, ZACH",P007948   ,Offensive Foul (1),OF,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,23,02:23,28,375,"AUGUSTE, ZACH",P007948   ,Turnover (1),TO,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,6,02:10,28,376,"TIMMA, JANIS",P005718   ,Missed Three Pointer (3/7 -  9 pt),3FGA,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,0,02:08,28,377,"SINGLETON, CHRIS",P006614   ,Def Rebound (3),D,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,02:07,28,378,"CALATHES, NICK",P001932   ,Turnover (4),TO,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,19,02:07,28,379,"LEKAVICIUS, LUKAS",P003210   ,In,IN,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,02:07,28,380,"CALATHES, NICK",P001932   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,10,02:06,28,381,"BEAUBOIS, RODRIGUE",P006590   ,Missed Three Pointer (2/3 -  11 pt),3FGA,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,19,02:06,28,382,"LEKAVICIUS, LUKAS",P003210   ,Def Rebound (1),D,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,3,01:48,29,384,"RIVERS, KC",P002429   ,Foul Drawn (2),RV,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,9,01:48,29,385,"HUERTAS, MARCELINHO",PJUJ      ,Foul (2),CM,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,8,01:48,29,386,"MALMANIS, RINALDS",P004185   ,In,IN,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,23,01:48,29,387,"SHENGELIA, TORNIKE",P001133   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,3,01:48,29,388,"RIVERS, KC",P002429   ,Missed Free Throw (0/1 -  11 pt),FTA,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,3,01:48,29,389,"RIVERS, KC",P002429   ,Free Throw In (1/2 -  12 pt),FTM,61.0,66.0,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,9,01:26,29,390,"HUERTAS, MARCELINHO",PJUJ      ,Missed Two Pointer (1/5 -  2 pt),2FGA,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,0,01:26,29,391,"SINGLETON, CHRIS",P006614   ,Def Rebound (4),D,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,0,01:26,29,392,"SINGLETON, CHRIS",P006614   ,Foul Drawn (2),RV,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,8,01:26,29,393,"MALMANIS, RINALDS",P004185   ,Foul (2),CM,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,0,01:26,29,394,"SINGLETON, CHRIS",P006614   ,Free Throw In (1/1 -  15 pt),FTM,61.0,67.0,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,0,01:26,29,395,"SINGLETON, CHRIS",P006614   ,Missed Free Throw (1/2 -  15 pt),FTA,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,10,01:26,29,396,"BEAUBOIS, RODRIGUE",P006590   ,Def Rebound (3),D,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,10,01:07,29,397,"BEAUBOIS, RODRIGUE",P006590   ,Two Pointer (2/3 -  13 pt),2FGM,63.0,67.0,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,11,00:51,30,399,"PAPPAS, NIKOS",P000464   ,Missed Three Pointer (2/3 -  14 pt),3FGA,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,,00:49,30,400,,          ,Off Rebound (5),O,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,0,00:49,30,401,"SINGLETON, CHRIS",P006614   ,Foul Drawn (3),RV,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,8,00:49,30,402,"MALMANIS, RINALDS",P004185   ,Foul (3),CM,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,0,00:49,30,403,"SINGLETON, CHRIS",P006614   ,Missed Free Throw (1/3 -  15 pt),FTA,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,0,00:49,30,404,"SINGLETON, CHRIS",P006614   ,Missed Free Throw (1/4 -  15 pt),FTA,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,23,00:49,30,405,"AUGUSTE, ZACH",P007948   ,Off Rebound (1),O,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,23,00:49,30,406,"AUGUSTE, ZACH",P007948   ,Foul Drawn (1),RV,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,10,00:49,30,407,"BEAUBOIS, RODRIGUE",P006590   ,Foul (1),CM,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,23,00:47,30,408,"AUGUSTE, ZACH",P007948   ,Missed Free Throw (0/1 -  0 pt),FTA,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,23,00:47,30,409,"AUGUSTE, ZACH",P007948   ,Missed Free Throw (0/2 -  0 pt),FTA,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,3,00:47,30,410,"RIVERS, KC",P002429   ,Off Rebound (1),O,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,3,00:30,30,411,"RIVERS, KC",P002429   ,Missed Two Pointer (1/3 -  12 pt),2FGA,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,,00:29,30,412,,          ,Def Rebound (2),D,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,9,00:10,30,413,"HUERTAS, MARCELINHO",PJUJ      ,Turnover (1),TO,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,19,00:10,30,414,"LEKAVICIUS, LUKAS",P003210   ,Steal (1),ST,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,23,00:02,30,415,"AUGUSTE, ZACH",P007948   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,23,00:02,30,416,"AUGUSTE, ZACH",P007948   ,Shot Rejected (1),AG,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,10,00:00,30,417,"BEAUBOIS, RODRIGUE",P006590   ,Block (1),FV,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,6,00:00,30,418,"TIMMA, JANIS",P005718   ,Off Rebound (3),O,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,6,00:00,30,419,"TIMMA, JANIS",P005718   ,Missed Three Pointer (3/8 -  9 pt),3FGA,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,,00:00,30,420,,          ,Def Rebound (3),D,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,11,00:00,30,421,"PAPPAS, NIKOS",P000464   ,Missed Three Pointer (2/4 -  14 pt),3FGA,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+          ,,,,31,423,,          ,End Period,EP,,,,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+          ,,,,31,430,,          ,Begin Period,BP,,,,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,6,10:00,31,424,"TIMMA, JANIS",P005718   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,8,10:00,31,425,"MALMANIS, RINALDS",P004185   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,11,10:00,31,426,"JANNING, MATT",P004165   ,In,IN,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,23,10:00,31,427,"SHENGELIA, TORNIKE",P001133   ,In,IN,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,9,09:59,31,565,"HUERTAS, MARCELINHO",PJUJ      ,Foul Drawn (4),RV,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,19,09:49,31,435,"LEKAVICIUS, LUKAS",P003210   ,Foul (1),CM,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,11,09:12,31,431,"JANNING, MATT",P004165   ,Two Pointer (3/4 -  9 pt),2FGM,65.0,67.0,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,9,09:12,31,432,"HUERTAS, MARCELINHO",PJUJ      ,Foul Drawn (5),RV,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,23,09:12,31,433,"AUGUSTE, ZACH",P007948   ,Offensive Foul (2),OF,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,23,09:59,31,434,"AUGUSTE, ZACH",P007948   ,Turnover (2),TO,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,23,09:12,31,436,"AUGUSTE, ZACH",P007948   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,24,09:12,31,437,"LOJESKI, MATT",P003608   ,In,IN,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,3,09:12,31,438,"RIVERS, KC",P002429   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,14,09:12,31,439,"GIST, JAMES",P002980   ,In,IN,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,7,09:12,31,440,"VOIGTMANN, JOHANNES",P007201   ,Turnover (1),TO,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,19,08:47,32,442,"LEKAVICIUS, LUKAS",P003210   ,Three Pointer (1/1 -  3 pt),3FGM,65.0,70.0,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,23,08:25,32,443,"SHENGELIA, TORNIKE",P001133   ,Missed Two Pointer (3/7 -  7 pt),2FGA,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,24,08:23,32,444,"LOJESKI, MATT",P003608   ,Def Rebound (1),D,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,11,08:07,32,445,"PAPPAS, NIKOS",P000464   ,Foul Drawn (3),RV,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,7,08:07,32,446,"VOIGTMANN, JOHANNES",P007201   ,Foul (1),CM,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,7,08:07,32,447,"VOIGTMANN, JOHANNES",P007201   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,17,08:07,32,448,"POIRIER, VINCENT",P004887   ,In,IN,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,11,08:07,32,449,"PAPPAS, NIKOS",P000464   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,08:07,32,450,"CALATHES, NICK",P001932   ,In,IN,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,14,08:07,32,451,"GIST, JAMES",P002980   ,Two Pointer (7/7 -  14 pt),2FGM,65.0,72.0,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,24,08:07,32,452,"LOJESKI, MATT",P003608   ,Assist (2),AS,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,17,07:35,33,454,"POIRIER, VINCENT",P004887   ,Missed Two Pointer (2/4 -  4 pt),2FGA,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,07:32,33,455,"CALATHES, NICK",P001932   ,Def Rebound (3),D,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,24,07:28,33,456,"LOJESKI, MATT",P003608   ,Foul Drawn (1),RV,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,11,07:28,33,457,"JANNING, MATT",P004165   ,Foul (3),CM,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,9,07:28,33,458,"HUERTAS, MARCELINHO",PJUJ      ,Out,OUT,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,15,07:28,33,459,"GRANGER, JAYSON",P003024   ,In,IN,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,07:09,33,460,"CALATHES, NICK",P001932   ,Missed Three Pointer (0/1 -  12 pt),3FGA,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,15,07:06,33,461,"GRANGER, JAYSON",P003024   ,Def Rebound (2),D,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,23,06:50,34,463,"SHENGELIA, TORNIKE",P001133   ,Two Pointer (4/8 -  9 pt),2FGM,67.0,72.0,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,06:41,34,464,"CALATHES, NICK",P001932   ,Foul Drawn (5),RV,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,10,06:41,34,465,"BEAUBOIS, RODRIGUE",P006590   ,Foul (2),CM,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,19,06:31,34,466,"LEKAVICIUS, LUKAS",P003210   ,Turnover (1),TO,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,17,06:29,34,467,"POIRIER, VINCENT",P004887   ,Steal (4),ST,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,23,06:23,34,468,"SHENGELIA, TORNIKE",P001133   ,Foul Drawn (3),RV,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,19,06:23,34,469,"LEKAVICIUS, LUKAS",P003210   ,Foul (2),CM,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,11,06:23,34,470,"PAPPAS, NIKOS",P000464   ,In,IN,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,19,06:23,34,471,"LEKAVICIUS, LUKAS",P003210   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,6,06:23,34,472,"TIMMA, JANIS",P005718   ,In,IN,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,10,06:23,34,473,"BEAUBOIS, RODRIGUE",P006590   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,23,06:12,34,474,"SHENGELIA, TORNIKE",P001133   ,Missed Two Pointer (4/9 -  9 pt),2FGA,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,0,06:10,34,475,"SINGLETON, CHRIS",P006614   ,Def Rebound (5),D,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,0,05:49,35,477,"SINGLETON, CHRIS",P006614   ,Missed Two Pointer (1/6 -  15 pt),2FGA,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,0,05:46,35,478,"SINGLETON, CHRIS",P006614   ,Off Rebound (1),O,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,15,05:40,35,479,"GRANGER, JAYSON",P003024   ,Foul Drawn (2),RV,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,11,05:40,35,480,"PAPPAS, NIKOS",P000464   ,Offensive Foul (2),OF,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,11,05:40,35,481,"PAPPAS, NIKOS",P000464   ,Turnover (3),TO,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,15,05:26,35,482,"GRANGER, JAYSON",P003024   ,Missed Two Pointer (1/5 -  17 pt),2FGA,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,17,05:24,35,483,"POIRIER, VINCENT",P004887   ,Off Rebound (2),O,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,17,05:23,35,484,"POIRIER, VINCENT",P004887   ,Two Pointer (3/5 -  6 pt),2FGM,69.0,72.0,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,,05:22,35,485,,          ,Time Out (1),TOUT,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,15,05:06,35,486,"GRANGER, JAYSON",P003024   ,Foul Drawn (3),RV,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,14,05:06,35,487,"GIST, JAMES",P002980   ,Offensive Foul (4),OF,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,14,05:06,35,488,"GIST, JAMES",P002980   ,Turnover (2),TO,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,17,04:53,36,490,"POIRIER, VINCENT",P004887   ,Turnover (3),TO,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,04:48,36,491,"CALATHES, NICK",P001932   ,Steal (1),ST,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,14,04:49,36,492,"GIST, JAMES",P002980   ,Foul Drawn (2),RV,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,17,04:49,36,493,"POIRIER, VINCENT",P004887   ,Foul (1),CM,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,14,04:49,36,494,"GIST, JAMES",P002980   ,Free Throw In (1/1 -  15 pt),FTM,69.0,73.0,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,04:49,36,495,"CALATHES, NICK",P001932   ,Assist (13),AS,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,14,04:49,36,496,"GIST, JAMES",P002980   ,Free Throw In (2/2 -  16 pt),FTM,69.0,74.0,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,11,04:36,36,497,"JANNING, MATT",P004165   ,Three Pointer (2/3 -  12 pt),3FGM,72.0,74.0,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,15,04:36,36,498,"GRANGER, JAYSON",P003024   ,Assist (2),AS,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,04:09,36,499,"CALATHES, NICK",P001932   ,Missed Three Pointer (0/2 -  12 pt),3FGA,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,15,04:07,36,500,"GRANGER, JAYSON",P003024   ,Def Rebound (3),D,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,23,03:59,37,502,"SHENGELIA, TORNIKE",P001133   ,Two Pointer (5/10 -  11 pt),2FGM,74.0,74.0,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,11,03:59,37,503,"JANNING, MATT",P004165   ,Assist (2),AS,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,23,03:59,37,504,"SHENGELIA, TORNIKE",P001133   ,Foul Drawn (4),RV,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,14,03:59,37,505,"GIST, JAMES",P002980   ,Foul (5),CM,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,3,03:59,37,506,"RIVERS, KC",P002429   ,In,IN,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,14,03:59,37,507,"GIST, JAMES",P002980   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,23,03:59,37,508,"AUGUSTE, ZACH",P007948   ,In,IN,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,24,03:59,37,509,"LOJESKI, MATT",P003608   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,23,03:59,37,510,"SHENGELIA, TORNIKE",P001133   ,Missed Free Throw (1/3 -  11 pt),FTA,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,3,03:59,37,511,"RIVERS, KC",P002429   ,Def Rebound (7),D,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,03:38,37,512,"CALATHES, NICK",P001932   ,Two Pointer (5/8 -  14 pt),2FGM,74.0,76.0,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,6,03:22,37,513,"TIMMA, JANIS",P005718   ,Turnover (1),TO,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,0,03:20,37,514,"SINGLETON, CHRIS",P006614   ,Steal (1),ST,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,11,03:19,37,515,"PAPPAS, NIKOS",P000464   ,Foul Drawn (4),RV,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,23,03:19,37,516,"SHENGELIA, TORNIKE",P001133   ,Foul (3),CM,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,11,03:19,37,517,"PAPPAS, NIKOS",P000464   ,Free Throw In (3/3 -  15 pt),FTM,74.0,77.0,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,0,03:19,37,518,"SINGLETON, CHRIS",P006614   ,Assist (2),AS,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,11,03:19,37,519,"PAPPAS, NIKOS",P000464   ,Free Throw In (4/4 -  16 pt),FTM,74.0,78.0,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,17,03:06,37,520,"POIRIER, VINCENT",P004887   ,Two Pointer (4/6 -  8 pt),2FGM,76.0,78.0,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,15,03:04,37,521,"GRANGER, JAYSON",P003024   ,Assist (3),AS,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,11,02:45,38,523,"PAPPAS, NIKOS",P000464   ,Three Pointer (3/5 -  19 pt),3FGM,76.0,81.0,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,11,02:29,38,524,"JANNING, MATT",P004165   ,Missed Three Pointer (2/4 -  12 pt),3FGA,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,23,02:26,38,525,"SHENGELIA, TORNIKE",P001133   ,Off Rebound (1),O,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,23,02:25,38,526,"SHENGELIA, TORNIKE",P001133   ,Two Pointer (6/11 -  13 pt),2FGM,78.0,81.0,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,11,02:11,38,527,"PAPPAS, NIKOS",P000464   ,Two Pointer (4/4 -  21 pt),2FGM,78.0,83.0,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,02:10,38,528,"CALATHES, NICK",P001932   ,Assist (14),AS,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,23,01:55,39,530,"SHENGELIA, TORNIKE",P001133   ,Foul Drawn (5),RV,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,11,01:55,39,531,"PAPPAS, NIKOS",P000464   ,Foul (3),CM,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,23,01:55,39,532,"SHENGELIA, TORNIKE",P001133   ,Free Throw In (2/4 -  14 pt),FTM,79.0,83.0,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,23,01:55,39,533,"SHENGELIA, TORNIKE",P001133   ,Free Throw In (3/5 -  15 pt),FTM,80.0,83.0,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,0,01:32,39,534,"SINGLETON, CHRIS",P006614   ,Missed Three Pointer (4/6 -  15 pt),3FGA,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,,01:30,39,535,,          ,Off Rebound (6),O,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,6,01:30,39,536,"TIMMA, JANIS",P005718   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,10,01:30,39,537,"BEAUBOIS, RODRIGUE",P006590   ,In,IN,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,11,01:22,39,538,"PAPPAS, NIKOS",P000464   ,Foul Drawn (5),RV,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,10,01:22,39,539,"BEAUBOIS, RODRIGUE",P006590   ,Foul (3),CM,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,11,01:22,39,540,"PAPPAS, NIKOS",P000464   ,Free Throw In (5/5 -  22 pt),FTM,80.0,84.0,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,11,01:22,39,541,"PAPPAS, NIKOS",P000464   ,Missed Free Throw (5/6 -  22 pt),FTA,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,,01:22,39,542,,          ,Def Rebound (4),D,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,23,01:00,39,543,"SHENGELIA, TORNIKE",P001133   ,Missed Three Pointer (0/2 -  15 pt),3FGA,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,3,00:56,40,545,"RIVERS, KC",P002429   ,Def Rebound (8),D,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,3,00:36,40,546,"RIVERS, KC",P002429   ,Missed Three Pointer (3/4 -  12 pt),3FGA,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,10,00:33,40,547,"BEAUBOIS, RODRIGUE",P006590   ,Def Rebound (4),D,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,15,00:28,40,548,"GRANGER, JAYSON",P003024   ,Three Pointer (6/7 -  20 pt),3FGM,83.0,84.0,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,23,00:27,40,549,"SHENGELIA, TORNIKE",P001133   ,Assist (3),AS,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,,00:27,40,550,,          ,Time Out (2),TOUT,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,23,00:28,40,551,"AUGUSTE, ZACH",P007948   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,24,00:28,40,552,"LOJESKI, MATT",P003608   ,In,IN,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,11,00:06,40,553,"PAPPAS, NIKOS",P000464   ,Missed Two Pointer (4/5 -  22 pt),2FGA,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,11,00:06,40,554,"PAPPAS, NIKOS",P000464   ,Shot Rejected (1),AG,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,23,00:04,40,555,"SHENGELIA, TORNIKE",P001133   ,Block (1),FV,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,17,00:03,40,556,"POIRIER, VINCENT",P004887   ,Def Rebound (3),D,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,10,00:01,40,557,"BEAUBOIS, RODRIGUE",P006590   ,Two Pointer (3/4 -  15 pt),2FGM,85.0,84.0,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+PAN       ,,,00:01,40,558,,          ,Time Out (3),TOUT,,,Panathinaikos Superfoods Athens,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,6,00:01,40,559,"TIMMA, JANIS",P005718   ,In,IN,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,17,00:01,40,560,"POIRIER, VINCENT",P004887   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+BAS       ,,,00:01,40,562,,          ,Time Out (1),TOUT,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN
+          ,,,,41,566,,          ,End Game,EG,,,,0,Baskonia Vitoria Gasteiz,BAS,Panathinaikos Superfoods Athens,PAN

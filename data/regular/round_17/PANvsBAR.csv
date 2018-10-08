@@ -1,531 +1,531 @@
-CODETEAM,COMMENT,DORSAL,MARKERTIME,MINUTE,NUMBEROFPLAY,PLAYER,PLAYER_ID,PLAYINFO,PLAYTYPE,POINTS_A,POINTS_B,TEAM,TYPE
-          ,,,,1,11,,          ,Begin Period,BP,,,,0
-BAR       ,,9,09:43,1,12,"HANGA, ADAM",P005099   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,FC Barcelona Lassa,0
-BAR       ,,11,09:41,1,13,"NAVARRO, JUAN CARLOS",PADI      ,Off Rebound (1),O,,,FC Barcelona Lassa,0
-BAR       ,,11,09:38,1,14,"NAVARRO, JUAN CARLOS",PADI      ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,FC Barcelona Lassa,0
-PAN       ,,14,09:36,1,15,"GIST, JAMES",P002980   ,Def Rebound (1),D,,,Panathinaikos Superfoods Athens,0
-PAN       ,,33,09:30,1,16,"CALATHES, NICK",P001932   ,Two Pointer (1/1 -  2 pt),2FGM,2.0,,Panathinaikos Superfoods Athens,0
-PAN       ,,43,09:27,1,17,"ANTETOKOUNMPO, THANASIS",P007865   ,Foul (1),CM,,,Panathinaikos Superfoods Athens,0
-BAR       ,,5,09:27,1,18,"RIBAS, PAU",PJUG      ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0
-BAR       ,,5,09:17,1,19,"RIBAS, PAU",PJUG      ,Three Pointer (1/1 -  3 pt),3FGM,2.0,3.0,FC Barcelona Lassa,0
-BAR       ,,11,09:17,1,20,"NAVARRO, JUAN CARLOS",PADI      ,Assist (1),AS,,,FC Barcelona Lassa,0
-PAN       ,,43,08:58,2,22,"ANTETOKOUNMPO, THANASIS",P007865   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Panathinaikos Superfoods Athens,0
-BAR       ,,,08:54,2,23,,          ,Def Rebound (1),D,,,FC Barcelona Lassa,0
-BAR       ,,45,08:37,2,24,"MOERMAN, ADRIEN",P001833   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,FC Barcelona Lassa,0
-PAN       ,,43,08:35,2,25,"ANTETOKOUNMPO, THANASIS",P007865   ,Def Rebound (1),D,,,Panathinaikos Superfoods Athens,0
-PAN       ,,0,08:32,2,26,"SINGLETON, CHRIS",P006614   ,Two Pointer (1/1 -  2 pt),2FGM,4.0,3.0,Panathinaikos Superfoods Athens,0
-PAN       ,,33,08:30,2,27,"CALATHES, NICK",P001932   ,Assist (1),AS,,,Panathinaikos Superfoods Athens,0
-PAN       ,,43,08:09,2,28,"ANTETOKOUNMPO, THANASIS",P007865   ,Foul (2),CM,,,Panathinaikos Superfoods Athens,0
-BAR       ,,44,08:09,2,29,"TOMIC, ANTE",P002507   ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0
-BAR       ,,44,08:09,2,30,"TOMIC, ANTE",P002507   ,Missed Free Throw (0/1 -  0 pt),FTA,,,FC Barcelona Lassa,0
-BAR       ,,44,08:09,2,31,"TOMIC, ANTE",P002507   ,Missed Free Throw (0/2 -  0 pt),FTA,,,FC Barcelona Lassa,0
-BAR       ,,45,08:09,2,32,"MOERMAN, ADRIEN",P001833   ,Off Rebound (1),O,,,FC Barcelona Lassa,0
-BAR       ,,44,07:59,3,34,"TOMIC, ANTE",P002507   ,Two Pointer (1/1 -  2 pt),2FGM,4.0,5.0,FC Barcelona Lassa,0
-BAR       ,,45,07:57,3,35,"MOERMAN, ADRIEN",P001833   ,Assist (1),AS,,,FC Barcelona Lassa,0
-PAN       ,,24,07:44,3,36,"LOJESKI, MATT",P003608   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Panathinaikos Superfoods Athens,0
-BAR       ,,9,07:42,3,37,"HANGA, ADAM",P005099   ,Def Rebound (1),D,,,FC Barcelona Lassa,0
-BAR       ,,9,07:30,3,38,"HANGA, ADAM",P005099   ,Turnover (1),TO,,,FC Barcelona Lassa,0
-PAN       ,,33,07:16,3,39,"CALATHES, NICK",P001932   ,Two Pointer (2/2 -  4 pt),2FGM,6.0,5.0,Panathinaikos Superfoods Athens,0
-PAN       ,,43,07:01,3,40,"ANTETOKOUNMPO, THANASIS",P007865   ,Foul (3),CM,,,Panathinaikos Superfoods Athens,0
-BAR       ,,44,07:01,3,41,"TOMIC, ANTE",P002507   ,Foul Drawn (2),RV,,,FC Barcelona Lassa,0
-PAN       ,,11,07:01,3,42,"PAPPAS, NIKOS",P000464   ,In,IN,,,Panathinaikos Superfoods Athens,0
-PAN       ,,43,07:01,3,43,"ANTETOKOUNMPO, THANASIS",P007865   ,Out,OUT,,,Panathinaikos Superfoods Athens,0
-BAR       ,,45,06:58,4,45,"MOERMAN, ADRIEN",P001833   ,Two Pointer (1/2 -  2 pt),2FGM,6.0,7.0,FC Barcelona Lassa,0
-BAR       ,,5,06:56,4,46,"RIBAS, PAU",PJUG      ,Assist (1),AS,,,FC Barcelona Lassa,0
-PAN       ,,0,06:39,4,47,"SINGLETON, CHRIS",P006614   ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,Panathinaikos Superfoods Athens,0
-BAR       ,,9,06:37,4,48,"HANGA, ADAM",P005099   ,Def Rebound (2),D,,,FC Barcelona Lassa,0
-BAR       ,,9,06:20,4,49,"HANGA, ADAM",P005099   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,FC Barcelona Lassa,0
-PAN       ,,14,06:17,4,50,"GIST, JAMES",P002980   ,Def Rebound (2),D,,,Panathinaikos Superfoods Athens,0
-PAN       ,,24,06:14,4,51,"LOJESKI, MATT",P003608   ,Two Pointer (1/1 -  2 pt),2FGM,8.0,7.0,Panathinaikos Superfoods Athens,0
-PAN       ,,33,06:03,4,52,"CALATHES, NICK",P001932   ,Assist (2),AS,,,Panathinaikos Superfoods Athens,0
-BAR       ,,44,05:52,5,54,"TOMIC, ANTE",P002507   ,Two Pointer (2/2 -  4 pt),2FGM,8.0,9.0,FC Barcelona Lassa,0
-BAR       ,,9,05:50,5,55,"HANGA, ADAM",P005099   ,Assist (1),AS,,,FC Barcelona Lassa,0
-BAR       ,,45,05:39,5,56,"MOERMAN, ADRIEN",P001833   ,Foul (1),CM,,,FC Barcelona Lassa,0
-PAN       ,,14,05:39,5,57,"GIST, JAMES",P002980   ,Foul Drawn (1),RV,,,Panathinaikos Superfoods Athens,0
-PAN       ,,11,05:24,5,58,"PAPPAS, NIKOS",P000464   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Panathinaikos Superfoods Athens,0
-BAR       ,,11,05:23,5,59,"NAVARRO, JUAN CARLOS",PADI      ,Def Rebound (1),D,,,FC Barcelona Lassa,0
-BAR       ,,11,05:14,5,60,"NAVARRO, JUAN CARLOS",PADI      ,Turnover (1),TO,,,FC Barcelona Lassa,0
-PAN       ,,14,05:13,5,61,"GIST, JAMES",P002980   ,Steal (1),ST,,,Panathinaikos Superfoods Athens,0
-PAN       ,,0,05:11,5,62,"SINGLETON, CHRIS",P006614   ,Two Pointer (2/2 -  4 pt),2FGM,10.0,9.0,Panathinaikos Superfoods Athens,0
-PAN       ,,14,05:09,5,63,"GIST, JAMES",P002980   ,Assist (1),AS,,,Panathinaikos Superfoods Athens,0
-BAR       ,,44,04:55,6,65,"TOMIC, ANTE",P002507   ,Two Pointer (3/3 -  6 pt),2FGM,10.0,11.0,FC Barcelona Lassa,0
-BAR       ,,45,04:53,6,66,"MOERMAN, ADRIEN",P001833   ,Assist (2),AS,,,FC Barcelona Lassa,0
-BAR       ,,11,04:37,6,67,"NAVARRO, JUAN CARLOS",PADI      ,Foul (1),CM,,,FC Barcelona Lassa,0
-PAN       ,,14,04:37,6,68,"GIST, JAMES",P002980   ,Foul Drawn (2),RV,,,Panathinaikos Superfoods Athens,0
-          ,,,04:37,6,69,,          ,TV Time Out (1),TOUT_TV,,,,0
-PAN       ,,24,04:37,6,70,"LOJESKI, MATT",P003608   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,Panathinaikos Superfoods Athens,0
-BAR       ,,44,04:37,6,71,"TOMIC, ANTE",P002507   ,Def Rebound (1),D,,,FC Barcelona Lassa,0
-BAR       ,,44,04:15,6,72,"TOMIC, ANTE",P002507   ,Two Pointer (4/4 -  8 pt),2FGM,10.0,13.0,FC Barcelona Lassa,0
-PAN       ,,11,03:49,7,74,"PAPPAS, NIKOS",P000464   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Panathinaikos Superfoods Athens,0
-BAR       ,,44,03:47,7,75,"TOMIC, ANTE",P002507   ,Def Rebound (2),D,,,FC Barcelona Lassa,0
-BAR       ,,11,03:26,7,76,"NAVARRO, JUAN CARLOS",PADI      ,Three Pointer (1/2 -  3 pt),3FGM,10.0,16.0,FC Barcelona Lassa,0
-BAR       ,,9,03:24,7,77,"HANGA, ADAM",P005099   ,Assist (2),AS,,,FC Barcelona Lassa,0
-PAN       ,,33,03:13,7,78,"CALATHES, NICK",P001932   ,Two Pointer (3/3 -  6 pt),2FGM,12.0,16.0,Panathinaikos Superfoods Athens,0
-BAR       ,,5,03:13,7,79,"RIBAS, PAU",PJUG      ,Foul (1),CM,,,FC Barcelona Lassa,0
-PAN       ,,33,03:13,7,80,"CALATHES, NICK",P001932   ,Foul Drawn (1),RV,,,Panathinaikos Superfoods Athens,0
-PAN       ,,3,03:13,7,81,"RIVERS, KC",P002429   ,In,IN,,,Panathinaikos Superfoods Athens,0
-PAN       ,,24,03:13,7,82,"LOJESKI, MATT",P003608   ,Out,OUT,,,Panathinaikos Superfoods Athens,0
-BAR       ,,18,03:13,7,83,"ORIOLA, PIERRE",P005917   ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,44,03:13,7,84,"TOMIC, ANTE",P002507   ,Out,OUT,,,FC Barcelona Lassa,0
-PAN       ,,33,03:13,7,85,"CALATHES, NICK",P001932   ,Missed Free Throw (0/1 -  6 pt),FTA,,,Panathinaikos Superfoods Athens,0
-PAN       ,,33,03:13,7,86,"CALATHES, NICK",P001932   ,Off Rebound (1),O,,,Panathinaikos Superfoods Athens,0
-PAN       ,,33,03:13,7,87,"CALATHES, NICK",P001932   ,Two Pointer (4/4 -  8 pt),2FGM,14.0,16.0,Panathinaikos Superfoods Athens,0
-BAR       ,,11,02:50,8,89,"NAVARRO, JUAN CARLOS",PADI      ,Turnover (2),TO,,,FC Barcelona Lassa,0
-PAN       ,,33,02:49,8,90,"CALATHES, NICK",P001932   ,Steal (1),ST,,,Panathinaikos Superfoods Athens,0
-PAN       ,,11,02:43,8,91,"PAPPAS, NIKOS",P000464   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Panathinaikos Superfoods Athens,0
-PAN       ,,14,02:40,8,92,"GIST, JAMES",P002980   ,Off Rebound (1),O,,,Panathinaikos Superfoods Athens,0
-PAN       ,,14,02:40,8,93,"GIST, JAMES",P002980   ,Two Pointer (1/1 -  2 pt),2FGM,16.0,16.0,Panathinaikos Superfoods Athens,0
-BAR       ,,5,02:25,8,94,"RIBAS, PAU",PJUG      ,Missed Two Pointer (0/1 -  3 pt),2FGA,,,FC Barcelona Lassa,0
-PAN       ,,14,02:25,8,95,"GIST, JAMES",P002980   ,Def Rebound (3),D,,,Panathinaikos Superfoods Athens,0
-PAN       ,,11,02:25,8,96,"PAPPAS, NIKOS",P000464   ,Missed Two Pointer (0/3 -  0 pt),2FGA,,,Panathinaikos Superfoods Athens,0
-BAR       ,,18,02:25,8,97,"ORIOLA, PIERRE",P005917   ,Def Rebound (1),D,,,FC Barcelona Lassa,0
-PAN       ,,0,02:16,8,98,"SINGLETON, CHRIS",P006614   ,Foul (1),CM,,,Panathinaikos Superfoods Athens,0
-BAR       ,,18,02:16,8,99,"ORIOLA, PIERRE",P005917   ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0
-PAN       ,,14,02:16,8,100,"GIST, JAMES",P002980   ,Out,OUT,,,Panathinaikos Superfoods Athens,0
-PAN       ,,22,02:16,8,101,"GABRIEL, KENNY",P005881   ,In,IN,,,Panathinaikos Superfoods Athens,0
-BAR       ,,5,02:16,8,102,"RIBAS, PAU",PJUG      ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,13,02:16,8,103,"HEURTEL, THOMAS",PKLT      ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,30,02:16,8,104,"CLAVER, VICTOR",P000556   ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,45,02:16,8,105,"MOERMAN, ADRIEN",P001833   ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,13,01:54,9,107,"HEURTEL, THOMAS",PKLT      ,Three Pointer (1/1 -  3 pt),3FGM,16.0,19.0,FC Barcelona Lassa,0
-BAR       ,,30,01:52,9,108,"CLAVER, VICTOR",P000556   ,Assist (1),AS,,,FC Barcelona Lassa,0
-PAN       ,,22,01:49,9,109,"GABRIEL, KENNY",P005881   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Panathinaikos Superfoods Athens,0
-BAR       ,,9,01:49,9,110,"HANGA, ADAM",P005099   ,Def Rebound (3),D,,,FC Barcelona Lassa,0
-BAR       ,,11,01:21,9,111,"NAVARRO, JUAN CARLOS",PADI      ,Turnover (3),TO,,,FC Barcelona Lassa,0
-BAR       ,,11,01:21,9,112,"NAVARRO, JUAN CARLOS",PADI      ,Technical Foul (2),CMT,,,FC Barcelona Lassa,0
-BAR       ,,11,01:21,9,113,"NAVARRO, JUAN CARLOS",PADI      ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,25,01:21,9,114,"KOPONEN, PETTERI",P004178   ,In,IN,,,FC Barcelona Lassa,0
-PAN       ,,11,01:21,9,115,"PAPPAS, NIKOS",P000464   ,Missed Free Throw (0/1 -  0 pt),FTA,,,Panathinaikos Superfoods Athens,0
-PAN       ,,0,01:08,9,116,"SINGLETON, CHRIS",P006614   ,Offensive Foul (2),OF,,,Panathinaikos Superfoods Athens,0
-PAN       ,,0,01:08,9,117,"SINGLETON, CHRIS",P006614   ,Turnover (1),TO,,,Panathinaikos Superfoods Athens,0
-BAR       ,,9,01:08,9,118,"HANGA, ADAM",P005099   ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0
-PAN       ,,0,01:08,9,119,"SINGLETON, CHRIS",P006614   ,Out,OUT,,,Panathinaikos Superfoods Athens,0
-PAN       ,,11,01:08,9,120,"PAPPAS, NIKOS",P000464   ,Out,OUT,,,Panathinaikos Superfoods Athens,0
-PAN       ,,12,01:08,9,121,"DENMON, MARCUS",P004195   ,In,IN,,,Panathinaikos Superfoods Athens,0
-PAN       ,,14,01:08,9,122,"GIST, JAMES",P002980   ,In,IN,,,Panathinaikos Superfoods Athens,0
-BAR       ,,9,00:51,10,124,"HANGA, ADAM",P005099   ,Turnover (2),TO,,,FC Barcelona Lassa,0
-PAN       ,,22,00:49,10,125,"GABRIEL, KENNY",P005881   ,Steal (1),ST,,,Panathinaikos Superfoods Athens,0
-BAR       ,,9,00:49,10,126,"HANGA, ADAM",P005099   ,Foul (1),CM,,,FC Barcelona Lassa,0
-PAN       ,,22,00:49,10,127,"GABRIEL, KENNY",P005881   ,Foul Drawn (1),RV,,,Panathinaikos Superfoods Athens,0
-BAR       ,,9,00:49,10,128,"HANGA, ADAM",P005099   ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,14,00:49,10,129,"VEZENKOV, SASHA",P003469   ,In,IN,,,FC Barcelona Lassa,0
-PAN       ,,22,00:49,10,130,"GABRIEL, KENNY",P005881   ,Free Throw In (1/1 -  1 pt),FTM,17.0,19.0,Panathinaikos Superfoods Athens,0
-PAN       ,,22,00:49,10,131,"GABRIEL, KENNY",P005881   ,Missed Free Throw (1/2 -  1 pt),FTA,,,Panathinaikos Superfoods Athens,0
-BAR       ,,14,00:49,10,132,"VEZENKOV, SASHA",P003469   ,Def Rebound (1),D,,,FC Barcelona Lassa,0
-PAN       ,,33,00:33,10,133,"CALATHES, NICK",P001932   ,Foul (1),CM,,,Panathinaikos Superfoods Athens,0
-BAR       ,,18,00:33,10,134,"ORIOLA, PIERRE",P005917   ,Foul Drawn (2),RV,,,FC Barcelona Lassa,0
-BAR       ,,18,00:33,10,135,"ORIOLA, PIERRE",P005917   ,Missed Free Throw (0/1 -  0 pt),FTA,,,FC Barcelona Lassa,0
-BAR       ,,18,00:33,10,136,"ORIOLA, PIERRE",P005917   ,Missed Free Throw (0/2 -  0 pt),FTA,,,FC Barcelona Lassa,0
-PAN       ,,33,00:33,10,137,"CALATHES, NICK",P001932   ,Def Rebound (1),D,,,Panathinaikos Superfoods Athens,0
-PAN       ,,22,00:26,10,138,"GABRIEL, KENNY",P005881   ,Turnover (1),TO,,,Panathinaikos Superfoods Athens,0
-BAR       ,,30,00:11,10,139,"CLAVER, VICTOR",P000556   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,FC Barcelona Lassa,0
-PAN       ,,33,00:09,10,140,"CALATHES, NICK",P001932   ,Def Rebound (2),D,,,Panathinaikos Superfoods Athens,0
-PAN       ,,22,00:00,10,141,"GABRIEL, KENNY",P005881   ,Missed Two Pointer (0/1 -  1 pt),2FGA,,,Panathinaikos Superfoods Athens,0
-          ,,,,11,143,,          ,End Period,EP,,,,0
-          ,,,,11,146,,          ,Begin Period,BP,,,,0
-PAN       ,,19,10:00,11,144,"LEKAVICIUS, LUKAS",P003210   ,In,IN,,,Panathinaikos Superfoods Athens,0
-PAN       ,,33,10:00,11,145,"CALATHES, NICK",P001932   ,Out,OUT,,,Panathinaikos Superfoods Athens,0
-PAN       ,,14,09:47,11,147,"GIST, JAMES",P002980   ,Offensive Foul (1),OF,,,Panathinaikos Superfoods Athens,0
-PAN       ,,14,09:47,11,148,"GIST, JAMES",P002980   ,Turnover (1),TO,,,Panathinaikos Superfoods Athens,0
-BAR       ,,30,09:47,11,149,"CLAVER, VICTOR",P000556   ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0
-PAN       ,,19,09:40,11,150,"LEKAVICIUS, LUKAS",P003210   ,Foul (1),CM,,,Panathinaikos Superfoods Athens,0
-BAR       ,,13,09:40,11,151,"HEURTEL, THOMAS",PKLT      ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0
-BAR       ,,30,09:30,11,152,"CLAVER, VICTOR",P000556   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,FC Barcelona Lassa,0
-PAN       ,,22,09:28,11,153,"GABRIEL, KENNY",P005881   ,Def Rebound (1),D,,,Panathinaikos Superfoods Athens,0
-PAN       ,,14,09:14,11,154,"GIST, JAMES",P002980   ,Two Pointer (2/2 -  4 pt),2FGM,19.0,19.0,Panathinaikos Superfoods Athens,0
-PAN       ,,12,09:14,11,155,"DENMON, MARCUS",P004195   ,Assist (1),AS,,,Panathinaikos Superfoods Athens,0
-BAR       ,,18,09:14,11,156,"ORIOLA, PIERRE",P005917   ,Foul (1),CM,,,FC Barcelona Lassa,0
-PAN       ,,14,09:14,11,157,"GIST, JAMES",P002980   ,Foul Drawn (3),RV,,,Panathinaikos Superfoods Athens,0
-PAN       ,,14,09:14,11,158,"GIST, JAMES",P002980   ,Missed Free Throw (0/1 -  4 pt),FTA,,,Panathinaikos Superfoods Athens,0
-BAR       ,,,09:12,11,159,,          ,Def Rebound (2),D,,,FC Barcelona Lassa,0
-BAR       ,,13,08:56,12,161,"HEURTEL, THOMAS",PKLT      ,Two Pointer (1/1 -  5 pt),2FGM,19.0,21.0,FC Barcelona Lassa,0
-PAN       ,,14,08:29,12,162,"GIST, JAMES",P002980   ,Missed Three Pointer (0/1 -  4 pt),3FGA,,,Panathinaikos Superfoods Athens,0
-BAR       ,,30,08:27,12,163,"CLAVER, VICTOR",P000556   ,Def Rebound (1),D,,,FC Barcelona Lassa,0
-PAN       ,,22,08:16,12,164,"GABRIEL, KENNY",P005881   ,Foul (1),CM,,,Panathinaikos Superfoods Athens,0
-BAR       ,,14,08:16,12,165,"VEZENKOV, SASHA",P003469   ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0
-BAR       ,,13,08:07,12,166,"HEURTEL, THOMAS",PKLT      ,Three Pointer (2/2 -  8 pt),3FGM,19.0,24.0,FC Barcelona Lassa,0
-PAN       ,,12,07:40,13,168,"DENMON, MARCUS",P004195   ,Two Pointer (1/1 -  2 pt),2FGM,21.0,24.0,Panathinaikos Superfoods Athens,0
-BAR       ,,25,07:19,13,169,"KOPONEN, PETTERI",P004178   ,Three Pointer (1/1 -  3 pt),3FGM,21.0,27.0,FC Barcelona Lassa,0
-PAN       ,,3,07:01,13,170,"RIVERS, KC",P002429   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Panathinaikos Superfoods Athens,0
-PAN       ,,14,07:01,13,171,"GIST, JAMES",P002980   ,Off Rebound (2),O,,,Panathinaikos Superfoods Athens,0
-PAN       ,,14,07:01,13,172,"GIST, JAMES",P002980   ,Two Pointer (3/3 -  6 pt),2FGM,23.0,27.0,Panathinaikos Superfoods Athens,0
-BAR       ,,30,06:34,14,174,"CLAVER, VICTOR",P000556   ,Turnover (1),TO,,,FC Barcelona Lassa,0
-PAN       ,,12,06:33,14,175,"DENMON, MARCUS",P004195   ,Steal (1),ST,,,Panathinaikos Superfoods Athens,0
-PAN       ,,3,06:24,14,176,"RIVERS, KC",P002429   ,Turnover (1),TO,,,Panathinaikos Superfoods Athens,0
-PAN       ,,19,06:24,14,177,"LEKAVICIUS, LUKAS",P003210   ,Out,OUT,,,Panathinaikos Superfoods Athens,0
-PAN       ,,33,06:24,14,178,"CALATHES, NICK",P001932   ,In,IN,,,Panathinaikos Superfoods Athens,0
-BAR       ,,13,06:11,14,179,"HEURTEL, THOMAS",PKLT      ,Two Pointer (2/2 -  10 pt),2FGM,23.0,29.0,FC Barcelona Lassa,0
-BAR       ,,18,05:56,15,181,"ORIOLA, PIERRE",P005917   ,Foul (2),CM,,,FC Barcelona Lassa,0
-PAN       ,,14,05:56,15,182,"GIST, JAMES",P002980   ,Foul Drawn (4),RV,,,Panathinaikos Superfoods Athens,0
-PAN       ,,14,05:56,15,183,"GIST, JAMES",P002980   ,Free Throw In (1/2 -  7 pt),FTM,24.0,29.0,Panathinaikos Superfoods Athens,0
-PAN       ,,33,05:56,15,184,"CALATHES, NICK",P001932   ,Assist (3),AS,,,Panathinaikos Superfoods Athens,0
-PAN       ,,14,05:56,15,185,"GIST, JAMES",P002980   ,Free Throw In (2/3 -  8 pt),FTM,25.0,29.0,Panathinaikos Superfoods Athens,0
-BAR       ,,18,05:32,15,186,"ORIOLA, PIERRE",P005917   ,Two Pointer (1/1 -  2 pt),2FGM,25.0,31.0,FC Barcelona Lassa,0
-BAR       ,,30,05:30,15,187,"CLAVER, VICTOR",P000556   ,Assist (2),AS,,,FC Barcelona Lassa,0
-PAN       ,,14,05:14,15,188,"GIST, JAMES",P002980   ,Missed Three Pointer (0/2 -  8 pt),3FGA,,,Panathinaikos Superfoods Athens,0
-BAR       ,,25,05:12,15,189,"KOPONEN, PETTERI",P004178   ,Def Rebound (1),D,,,FC Barcelona Lassa,0
-PAN       ,,14,05:11,15,190,"GIST, JAMES",P002980   ,Foul (2),CM,,,Panathinaikos Superfoods Athens,0
-BAR       ,,18,05:11,15,191,"ORIOLA, PIERRE",P005917   ,Foul Drawn (3),RV,,,FC Barcelona Lassa,0
-BAR       ,,18,05:11,15,192,"ORIOLA, PIERRE",P005917   ,Missed Free Throw (0/3 -  2 pt),FTA,,,FC Barcelona Lassa,0
-BAR       ,,18,05:11,15,193,"ORIOLA, PIERRE",P005917   ,Free Throw In (1/4 -  3 pt),FTM,25.0,32.0,FC Barcelona Lassa,0
-BAR       ,,25,05:11,15,194,"KOPONEN, PETTERI",P004178   ,Assist (1),AS,,,FC Barcelona Lassa,0
-PAN       ,,14,04:50,16,196,"GIST, JAMES",P002980   ,Two Pointer (4/4 -  10 pt),2FGM,27.0,32.0,Panathinaikos Superfoods Athens,0
-PAN       ,,12,04:48,16,197,"DENMON, MARCUS",P004195   ,Assist (2),AS,,,Panathinaikos Superfoods Athens,0
-BAR       ,,14,04:22,16,198,"VEZENKOV, SASHA",P003469   ,Two Pointer (1/1 -  2 pt),2FGM,27.0,34.0,FC Barcelona Lassa,0
-BAR       ,,30,04:20,16,199,"CLAVER, VICTOR",P000556   ,Assist (3),AS,,,FC Barcelona Lassa,0
-PAN       ,,33,04:01,16,200,"CALATHES, NICK",P001932   ,Two Pointer (5/5 -  10 pt),2FGM,29.0,34.0,Panathinaikos Superfoods Athens,0
-BAR       ,,18,03:49,17,202,"ORIOLA, PIERRE",P005917   ,Missed Two Pointer (1/2 -  3 pt),2FGA,,,FC Barcelona Lassa,0
-BAR       ,,,03:45,17,205,,          ,Off Rebound (1),O,,,FC Barcelona Lassa,0
-          ,,,03:45,17,204,,          ,TV Time Out (2),TOUT_TV,,,,0
-PAN       ,,0,03:45,17,206,"SINGLETON, CHRIS",P006614   ,In,IN,,,Panathinaikos Superfoods Athens,0
-PAN       ,,14,03:45,17,207,"GIST, JAMES",P002980   ,Out,OUT,,,Panathinaikos Superfoods Athens,0
-PAN       ,,15,03:45,17,208,"VOUGIOUKAS, IAN",PTFX      ,In,IN,,,Panathinaikos Superfoods Athens,0
-PAN       ,,22,03:45,17,209,"GABRIEL, KENNY",P005881   ,Out,OUT,,,Panathinaikos Superfoods Athens,0
-BAR       ,,18,03:45,17,210,"ORIOLA, PIERRE",P005917   ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,30,03:45,17,211,"CLAVER, VICTOR",P000556   ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,44,03:45,17,212,"TOMIC, ANTE",P002507   ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,45,03:45,17,213,"MOERMAN, ADRIEN",P001833   ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,13,03:32,17,214,"HEURTEL, THOMAS",PKLT      ,Missed Two Pointer (2/3 -  10 pt),2FGA,,,FC Barcelona Lassa,0
-BAR       ,,13,03:30,17,215,"HEURTEL, THOMAS",PKLT      ,Off Rebound (1),O,,,FC Barcelona Lassa,0
-BAR       ,,13,03:27,17,216,"HEURTEL, THOMAS",PKLT      ,Missed Two Pointer (2/4 -  10 pt),2FGA,,,FC Barcelona Lassa,0
-BAR       ,,13,03:27,17,217,"HEURTEL, THOMAS",PKLT      ,Shot Rejected (1),AG,,,FC Barcelona Lassa,0
-PAN       ,,15,03:27,17,218,"VOUGIOUKAS, IAN",PTFX      ,Block (1),FV,,,Panathinaikos Superfoods Athens,0
-PAN       ,,3,03:27,17,219,"RIVERS, KC",P002429   ,Def Rebound (1),D,,,Panathinaikos Superfoods Athens,0
-BAR       ,,13,03:27,17,220,"HEURTEL, THOMAS",PKLT      ,Unsportsmanlike Foul  (1),CMU,,,FC Barcelona Lassa,0
-PAN       ,,3,03:27,17,221,"RIVERS, KC",P002429   ,Foul Drawn (1),RV,,,Panathinaikos Superfoods Athens,0
-PAN       ,,3,03:27,17,222,"RIVERS, KC",P002429   ,Free Throw In (1/1 -  1 pt),FTM,30.0,34.0,Panathinaikos Superfoods Athens,0
-PAN       ,,3,03:27,17,223,"RIVERS, KC",P002429   ,Missed Free Throw (1/2 -  1 pt),FTA,,,Panathinaikos Superfoods Athens,0
-PAN       ,,15,03:16,17,224,"VOUGIOUKAS, IAN",PTFX      ,Turnover (1),TO,,,Panathinaikos Superfoods Athens,0
-BAR       ,,25,02:56,18,226,"KOPONEN, PETTERI",P004178   ,Turnover (1),TO,,,FC Barcelona Lassa,0
-BAR       ,,44,02:40,18,227,"TOMIC, ANTE",P002507   ,Foul (1),CM,,,FC Barcelona Lassa,0
-PAN       ,,15,02:40,18,228,"VOUGIOUKAS, IAN",PTFX      ,Foul Drawn (1),RV,,,Panathinaikos Superfoods Athens,0
-PAN       ,,3,02:40,18,229,"RIVERS, KC",P002429   ,Out,OUT,,,Panathinaikos Superfoods Athens,0
-PAN       ,,24,02:40,18,230,"LOJESKI, MATT",P003608   ,In,IN,,,Panathinaikos Superfoods Athens,0
-PAN       ,,24,02:40,18,231,"LOJESKI, MATT",P003608   ,Two Pointer (2/3 -  4 pt),2FGM,32.0,34.0,Panathinaikos Superfoods Athens,0
-PAN       ,,33,02:40,18,232,"CALATHES, NICK",P001932   ,Assist (4),AS,,,Panathinaikos Superfoods Athens,0
-BAR       ,,,02:37,18,233,,          ,Time Out (1),TOUT,,,FC Barcelona Lassa,0
-BAR       ,,13,02:30,18,234,"HEURTEL, THOMAS",PKLT      ,Turnover (1),TO,,,FC Barcelona Lassa,0
-PAN       ,,33,02:29,18,235,"CALATHES, NICK",P001932   ,Steal (2),ST,,,Panathinaikos Superfoods Athens,0
-PAN       ,,12,02:12,18,236,"DENMON, MARCUS",P004195   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,Panathinaikos Superfoods Athens,0
-BAR       ,,14,02:11,18,237,"VEZENKOV, SASHA",P003469   ,Def Rebound (2),D,,,FC Barcelona Lassa,0
-PAN       ,,33,01:59,19,239,"CALATHES, NICK",P001932   ,Foul (2),CM,,,Panathinaikos Superfoods Athens,0
-BAR       ,,44,01:59,19,240,"TOMIC, ANTE",P002507   ,Foul Drawn (3),RV,,,FC Barcelona Lassa,0
-BAR       ,,5,01:59,19,241,"RIBAS, PAU",PJUG      ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,13,01:59,19,242,"HEURTEL, THOMAS",PKLT      ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,44,01:59,19,243,"TOMIC, ANTE",P002507   ,Missed Free Throw (0/3 -  8 pt),FTA,,,FC Barcelona Lassa,0
-BAR       ,,44,01:59,19,244,"TOMIC, ANTE",P002507   ,Missed Free Throw (0/4 -  8 pt),FTA,,,FC Barcelona Lassa,0
-PAN       ,,24,01:59,19,245,"LOJESKI, MATT",P003608   ,Def Rebound (1),D,,,Panathinaikos Superfoods Athens,0
-PAN       ,,0,01:40,19,246,"SINGLETON, CHRIS",P006614   ,Three Pointer (1/2 -  7 pt),3FGM,35.0,34.0,Panathinaikos Superfoods Athens,0
-PAN       ,,12,01:40,19,247,"DENMON, MARCUS",P004195   ,Assist (3),AS,,,Panathinaikos Superfoods Athens,0
-BAR       ,,,01:40,19,248,,          ,Time Out (2),TOUT,,,FC Barcelona Lassa,0
-BAR       ,,9,01:40,19,249,"HANGA, ADAM",P005099   ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,14,01:40,19,250,"VEZENKOV, SASHA",P003469   ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,30,01:40,19,251,"CLAVER, VICTOR",P000556   ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,45,01:40,19,252,"MOERMAN, ADRIEN",P001833   ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,5,01:25,19,253,"RIBAS, PAU",PJUG      ,Missed Two Pointer (0/2 -  3 pt),2FGA,,,FC Barcelona Lassa,0
-BAR       ,,9,01:23,19,254,"HANGA, ADAM",P005099   ,Off Rebound (1),O,,,FC Barcelona Lassa,0
-BAR       ,,,01:09,19,255,,          ,Turnover (1),TO,,,FC Barcelona Lassa,0
-PAN       ,,33,00:53,20,257,"CALATHES, NICK",P001932   ,Missed Three Pointer (0/1 -  10 pt),3FGA,,,Panathinaikos Superfoods Athens,0
-BAR       ,,30,00:51,20,258,"CLAVER, VICTOR",P000556   ,Def Rebound (2),D,,,FC Barcelona Lassa,0
-BAR       ,,5,00:40,20,259,"RIBAS, PAU",PJUG      ,Missed Three Pointer (1/2 -  3 pt),3FGA,,,FC Barcelona Lassa,0
-PAN       ,,,00:40,20,260,,          ,Def Rebound (3),D,,,Panathinaikos Superfoods Athens,0
-BAR       ,,44,00:40,20,261,"TOMIC, ANTE",P002507   ,Foul (2),CM,,,FC Barcelona Lassa,0
-PAN       ,,0,00:40,20,262,"SINGLETON, CHRIS",P006614   ,Foul Drawn (1),RV,,,Panathinaikos Superfoods Athens,0
-PAN       ,,3,00:40,20,263,"RIVERS, KC",P002429   ,In,IN,,,Panathinaikos Superfoods Athens,0
-PAN       ,,33,00:40,20,264,"CALATHES, NICK",P001932   ,Out,OUT,,,Panathinaikos Superfoods Athens,0
-PAN       ,,0,00:40,20,265,"SINGLETON, CHRIS",P006614   ,Missed Free Throw (0/1 -  7 pt),FTA,,,Panathinaikos Superfoods Athens,0
-PAN       ,,0,00:40,20,266,"SINGLETON, CHRIS",P006614   ,Free Throw In (1/2 -  8 pt),FTM,36.0,34.0,Panathinaikos Superfoods Athens,0
-PAN       ,,0,00:40,20,267,"SINGLETON, CHRIS",P006614   ,Out,OUT,,,Panathinaikos Superfoods Athens,0
-PAN       ,,22,00:40,20,268,"GABRIEL, KENNY",P005881   ,In,IN,,,Panathinaikos Superfoods Athens,0
-BAR       ,,25,00:21,20,269,"KOPONEN, PETTERI",P004178   ,Turnover (2),TO,,,FC Barcelona Lassa,0
-PAN       ,,3,00:19,20,270,"RIVERS, KC",P002429   ,Steal (1),ST,,,Panathinaikos Superfoods Athens,0
-PAN       ,,3,00:02,20,271,"RIVERS, KC",P002429   ,Missed Three Pointer (0/2 -  1 pt),3FGA,,,Panathinaikos Superfoods Athens,0
-          ,,,,21,273,,          ,End Period,EP,,,,0
-          ,,,,21,284,,          ,Begin Period,BP,,,,0
-PAN       ,,0,10:00,21,274,"SINGLETON, CHRIS",P006614   ,In,IN,,,Panathinaikos Superfoods Athens,0
-PAN       ,,12,10:00,21,275,"DENMON, MARCUS",P004195   ,Out,OUT,,,Panathinaikos Superfoods Athens,0
-PAN       ,,14,10:00,21,276,"GIST, JAMES",P002980   ,In,IN,,,Panathinaikos Superfoods Athens,0
-PAN       ,,15,10:00,21,277,"VOUGIOUKAS, IAN",PTFX      ,Out,OUT,,,Panathinaikos Superfoods Athens,0
-PAN       ,,22,10:00,21,278,"GABRIEL, KENNY",P005881   ,Out,OUT,,,Panathinaikos Superfoods Athens,0
-PAN       ,,33,10:00,21,279,"CALATHES, NICK",P001932   ,In,IN,,,Panathinaikos Superfoods Athens,0
-BAR       ,,11,10:00,21,280,"NAVARRO, JUAN CARLOS",PADI      ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,25,10:00,21,281,"KOPONEN, PETTERI",P004178   ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,30,10:00,21,282,"CLAVER, VICTOR",P000556   ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,45,10:00,21,283,"MOERMAN, ADRIEN",P001833   ,In,IN,,,FC Barcelona Lassa,0
-PAN       ,,24,09:54,21,285,"LOJESKI, MATT",P003608   ,Foul (1),CM,,,Panathinaikos Superfoods Athens,0
-BAR       ,,11,09:54,21,286,"NAVARRO, JUAN CARLOS",PADI      ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0
-BAR       ,,44,09:49,21,287,"TOMIC, ANTE",P002507   ,Turnover (1),TO,,,FC Barcelona Lassa,0
-PAN       ,,33,09:48,21,288,"CALATHES, NICK",P001932   ,Steal (3),ST,,,Panathinaikos Superfoods Athens,0
-PAN       ,,33,09:45,21,289,"CALATHES, NICK",P001932   ,Missed Two Pointer (5/6 -  10 pt),2FGA,,,Panathinaikos Superfoods Athens,0
-PAN       ,,,09:45,21,290,,          ,Off Rebound (2),O,,,Panathinaikos Superfoods Athens,0
-PAN       ,,24,09:35,21,291,"LOJESKI, MATT",P003608   ,Missed Two Pointer (2/4 -  4 pt),2FGA,,,Panathinaikos Superfoods Athens,0
-BAR       ,,5,09:33,21,292,"RIBAS, PAU",PJUG      ,Def Rebound (1),D,,,FC Barcelona Lassa,0
-BAR       ,,44,09:20,21,293,"TOMIC, ANTE",P002507   ,Two Pointer (5/5 -  10 pt),2FGM,36.0,36.0,FC Barcelona Lassa,0
-BAR       ,,11,09:18,21,294,"NAVARRO, JUAN CARLOS",PADI      ,Assist (2),AS,,,FC Barcelona Lassa,0
-PAN       ,,33,09:03,21,295,"CALATHES, NICK",P001932   ,Turnover (1),TO,,,Panathinaikos Superfoods Athens,0
-BAR       ,,45,09:02,21,296,"MOERMAN, ADRIEN",P001833   ,Steal (1),ST,,,FC Barcelona Lassa,0
-BAR       ,,45,08:44,22,298,"MOERMAN, ADRIEN",P001833   ,Two Pointer (2/3 -  4 pt),2FGM,36.0,38.0,FC Barcelona Lassa,0
-BAR       ,,44,08:41,22,299,"TOMIC, ANTE",P002507   ,Assist (1),AS,,,FC Barcelona Lassa,0
-PAN       ,,3,08:27,22,300,"RIVERS, KC",P002429   ,Missed Three Pointer (0/3 -  1 pt),3FGA,,,Panathinaikos Superfoods Athens,0
-BAR       ,,45,08:25,22,301,"MOERMAN, ADRIEN",P001833   ,Def Rebound (1),D,,,FC Barcelona Lassa,0
-BAR       ,,9,08:08,22,302,"HANGA, ADAM",P005099   ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,FC Barcelona Lassa,0
-BAR       ,,45,08:07,22,303,"MOERMAN, ADRIEN",P001833   ,Off Rebound (2),O,,,FC Barcelona Lassa,0
-BAR       ,,45,08:05,22,304,"MOERMAN, ADRIEN",P001833   ,Turnover (1),TO,,,FC Barcelona Lassa,0
-PAN       ,,33,08:04,22,305,"CALATHES, NICK",P001932   ,Steal (4),ST,,,Panathinaikos Superfoods Athens,0
-BAR       ,,11,08:04,22,306,"NAVARRO, JUAN CARLOS",PADI      ,Foul (3),CM,,,FC Barcelona Lassa,0
-PAN       ,,33,08:04,22,307,"CALATHES, NICK",P001932   ,Foul Drawn (2),RV,,,Panathinaikos Superfoods Athens,0
-PAN       ,,0,07:47,23,309,"SINGLETON, CHRIS",P006614   ,Missed Two Pointer (2/3 -  8 pt),2FGA,,,Panathinaikos Superfoods Athens,0
-BAR       ,,9,07:45,23,310,"HANGA, ADAM",P005099   ,Def Rebound (4),D,,,FC Barcelona Lassa,0
-BAR       ,,44,07:41,23,311,"TOMIC, ANTE",P002507   ,Turnover (2),TO,,,FC Barcelona Lassa,0
-PAN       ,,3,07:23,23,312,"RIVERS, KC",P002429   ,Missed Three Pointer (0/4 -  1 pt),3FGA,,,Panathinaikos Superfoods Athens,0
-PAN       ,,0,07:21,23,313,"SINGLETON, CHRIS",P006614   ,Off Rebound (1),O,,,Panathinaikos Superfoods Athens,0
-BAR       ,,44,07:21,23,314,"TOMIC, ANTE",P002507   ,Foul (3),CM,,,FC Barcelona Lassa,0
-PAN       ,,0,07:21,23,315,"SINGLETON, CHRIS",P006614   ,Foul Drawn (2),RV,,,Panathinaikos Superfoods Athens,0
-PAN       ,,0,07:21,23,316,"SINGLETON, CHRIS",P006614   ,Missed Free Throw (1/3 -  8 pt),FTA,,,Panathinaikos Superfoods Athens,0
-PAN       ,,0,07:21,23,317,"SINGLETON, CHRIS",P006614   ,Free Throw In (2/4 -  9 pt),FTM,37.0,38.0,Panathinaikos Superfoods Athens,0
-BAR       ,,5,07:12,23,318,"RIBAS, PAU",PJUG      ,Two Pointer (1/3 -  5 pt),2FGM,37.0,40.0,FC Barcelona Lassa,0
-PAN       ,,14,06:55,24,320,"GIST, JAMES",P002980   ,Missed Three Pointer (0/3 -  10 pt),3FGA,,,Panathinaikos Superfoods Athens,0
-BAR       ,,5,06:55,24,321,"RIBAS, PAU",PJUG      ,Def Rebound (2),D,,,FC Barcelona Lassa,0
-BAR       ,,45,06:22,24,322,"MOERMAN, ADRIEN",P001833   ,Missed Two Pointer (2/4 -  4 pt),2FGA,,,FC Barcelona Lassa,0
-PAN       ,,0,06:20,24,323,"SINGLETON, CHRIS",P006614   ,Def Rebound (1),D,,,Panathinaikos Superfoods Athens,0
-PAN       ,,33,06:12,24,324,"CALATHES, NICK",P001932   ,Missed Two Pointer (5/7 -  10 pt),2FGA,,,Panathinaikos Superfoods Athens,0
-BAR       ,,45,06:10,24,325,"MOERMAN, ADRIEN",P001833   ,Def Rebound (2),D,,,FC Barcelona Lassa,0
-BAR       ,,45,05:54,25,327,"MOERMAN, ADRIEN",P001833   ,Missed Three Pointer (0/1 -  4 pt),3FGA,,,FC Barcelona Lassa,0
-PAN       ,,24,05:54,25,328,"LOJESKI, MATT",P003608   ,Def Rebound (2),D,,,Panathinaikos Superfoods Athens,0
-BAR       ,,9,05:39,25,329,"HANGA, ADAM",P005099   ,Foul (2),CM,,,FC Barcelona Lassa,0
-PAN       ,,0,05:39,25,330,"SINGLETON, CHRIS",P006614   ,Foul Drawn (3),RV,,,Panathinaikos Superfoods Athens,0
-PAN       ,,3,05:39,25,331,"RIVERS, KC",P002429   ,Two Pointer (1/1 -  3 pt),2FGM,39.0,40.0,Panathinaikos Superfoods Athens,0
-PAN       ,,33,05:39,25,332,"CALATHES, NICK",P001932   ,Assist (5),AS,,,Panathinaikos Superfoods Athens,0
-BAR       ,,44,05:22,25,333,"TOMIC, ANTE",P002507   ,Turnover (3),TO,,,FC Barcelona Lassa,0
-PAN       ,,3,05:22,25,334,"RIVERS, KC",P002429   ,Steal (2),ST,,,Panathinaikos Superfoods Athens,0
-PAN       ,,3,05:00,26,336,"RIVERS, KC",P002429   ,Missed Three Pointer (0/5 -  3 pt),3FGA,,,Panathinaikos Superfoods Athens,0
-BAR       ,,11,04:57,26,337,"NAVARRO, JUAN CARLOS",PADI      ,Def Rebound (2),D,,,FC Barcelona Lassa,0
-BAR       ,,45,04:50,26,338,"MOERMAN, ADRIEN",P001833   ,Missed Three Pointer (0/2 -  4 pt),3FGA,,,FC Barcelona Lassa,0
-BAR       ,,9,04:49,26,339,"HANGA, ADAM",P005099   ,Off Rebound (2),O,,,FC Barcelona Lassa,0
-PAN       ,,0,04:49,26,340,"SINGLETON, CHRIS",P006614   ,Foul (3),CM,,,Panathinaikos Superfoods Athens,0
-BAR       ,,9,04:49,26,341,"HANGA, ADAM",P005099   ,Foul Drawn (2),RV,,,FC Barcelona Lassa,0
-          ,,,04:49,26,342,,          ,TV Time Out (3),TOUT_TV,,,,0
-BAR       ,,11,04:38,26,343,"NAVARRO, JUAN CARLOS",PADI      ,Missed Three Pointer (1/3 -  3 pt),3FGA,,,FC Barcelona Lassa,0
-BAR       ,,45,04:36,26,344,"MOERMAN, ADRIEN",P001833   ,Off Rebound (3),O,,,FC Barcelona Lassa,0
-BAR       ,,45,04:22,26,345,"MOERMAN, ADRIEN",P001833   ,Missed Two Pointer (2/5 -  4 pt),2FGA,,,FC Barcelona Lassa,0
-BAR       ,,45,04:22,26,346,"MOERMAN, ADRIEN",P001833   ,Shot Rejected (1),AG,,,FC Barcelona Lassa,0
-PAN       ,,14,04:22,26,347,"GIST, JAMES",P002980   ,Block (1),FV,,,Panathinaikos Superfoods Athens,0
-BAR       ,,,04:22,26,348,,          ,Turnover (2),TO,,,FC Barcelona Lassa,0
-BAR       ,,18,04:22,26,349,"ORIOLA, PIERRE",P005917   ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,30,04:22,26,350,"CLAVER, VICTOR",P000556   ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,44,04:22,26,351,"TOMIC, ANTE",P002507   ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,45,04:22,26,352,"MOERMAN, ADRIEN",P001833   ,Out,OUT,,,FC Barcelona Lassa,0
-PAN       ,,14,04:12,26,353,"GIST, JAMES",P002980   ,Two Pointer (5/5 -  12 pt),2FGM,41.0,40.0,Panathinaikos Superfoods Athens,0
-PAN       ,,33,04:12,26,354,"CALATHES, NICK",P001932   ,Assist (6),AS,,,Panathinaikos Superfoods Athens,0
-BAR       ,,18,04:12,26,355,"ORIOLA, PIERRE",P005917   ,Foul (3),CM,,,FC Barcelona Lassa,0
-PAN       ,,14,04:12,26,356,"GIST, JAMES",P002980   ,Foul Drawn (5),RV,,,Panathinaikos Superfoods Athens,0
-BAR       ,,11,04:12,26,357,"NAVARRO, JUAN CARLOS",PADI      ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,25,04:12,26,358,"KOPONEN, PETTERI",P004178   ,In,IN,,,FC Barcelona Lassa,0
-PAN       ,,14,04:12,26,359,"GIST, JAMES",P002980   ,Free Throw In (3/4 -  13 pt),FTM,42.0,40.0,Panathinaikos Superfoods Athens,0
-BAR       ,,9,03:51,27,361,"HANGA, ADAM",P005099   ,Missed Three Pointer (0/3 -  0 pt),3FGA,,,FC Barcelona Lassa,0
-BAR       ,,,03:51,27,362,,          ,Off Rebound (3),O,,,FC Barcelona Lassa,0
-PAN       ,,3,03:51,27,363,"RIVERS, KC",P002429   ,Foul (1),CM,,,Panathinaikos Superfoods Athens,0
-BAR       ,,18,03:51,27,364,"ORIOLA, PIERRE",P005917   ,Foul Drawn (4),RV,,,FC Barcelona Lassa,0
-BAR       ,,5,03:51,27,365,"RIBAS, PAU",PJUG      ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,13,03:51,27,366,"HEURTEL, THOMAS",PKLT      ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,,03:37,27,367,,          ,Turnover (3),TO,,,FC Barcelona Lassa,0
-PAN       ,,33,03:28,27,368,"CALATHES, NICK",P001932   ,Two Pointer (6/8 -  12 pt),2FGM,44.0,40.0,Panathinaikos Superfoods Athens,0
-BAR       ,,13,03:16,27,369,"HEURTEL, THOMAS",PKLT      ,Missed Two Pointer (2/5 -  10 pt),2FGA,,,FC Barcelona Lassa,0
-PAN       ,,0,03:14,27,370,"SINGLETON, CHRIS",P006614   ,Def Rebound (2),D,,,Panathinaikos Superfoods Athens,0
-BAR       ,,30,03:04,27,371,"CLAVER, VICTOR",P000556   ,Foul (1),CM,,,FC Barcelona Lassa,0
-PAN       ,,14,03:04,27,372,"GIST, JAMES",P002980   ,Foul Drawn (6),RV,,,Panathinaikos Superfoods Athens,0
-BAR       ,,9,03:04,27,373,"HANGA, ADAM",P005099   ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,14,03:04,27,374,"VEZENKOV, SASHA",P003469   ,In,IN,,,FC Barcelona Lassa,0
-PAN       ,,14,03:04,27,375,"GIST, JAMES",P002980   ,Free Throw In (4/5 -  14 pt),FTM,45.0,40.0,Panathinaikos Superfoods Athens,0
-PAN       ,,14,03:04,27,376,"GIST, JAMES",P002980   ,Free Throw In (5/6 -  15 pt),FTM,46.0,40.0,Panathinaikos Superfoods Athens,0
-BAR       ,,,03:04,27,377,,          ,Time Out (1),TOUT,,,FC Barcelona Lassa,0
-PAN       ,,24,02:41,28,379,"LOJESKI, MATT",P003608   ,Foul (2),CM,,,Panathinaikos Superfoods Athens,0
-BAR       ,,18,02:41,28,380,"ORIOLA, PIERRE",P005917   ,Foul Drawn (5),RV,,,FC Barcelona Lassa,0
-BAR       ,,18,02:41,28,381,"ORIOLA, PIERRE",P005917   ,Free Throw In (2/5 -  4 pt),FTM,46.0,41.0,FC Barcelona Lassa,0
-BAR       ,,18,02:41,28,382,"ORIOLA, PIERRE",P005917   ,Free Throw In (3/6 -  5 pt),FTM,46.0,42.0,FC Barcelona Lassa,0
-PAN       ,,0,02:23,28,383,"SINGLETON, CHRIS",P006614   ,Three Pointer (2/3 -  12 pt),3FGM,49.0,42.0,Panathinaikos Superfoods Athens,0
-PAN       ,,33,02:21,28,384,"CALATHES, NICK",P001932   ,Assist (7),AS,,,Panathinaikos Superfoods Athens,0
-PAN       ,,14,02:05,28,385,"GIST, JAMES",P002980   ,Foul (3),CM,,,Panathinaikos Superfoods Athens,0
-BAR       ,,13,02:05,28,386,"HEURTEL, THOMAS",PKLT      ,Foul Drawn (2),RV,,,FC Barcelona Lassa,0
-PAN       ,,3,02:05,28,387,"RIVERS, KC",P002429   ,Out,OUT,,,Panathinaikos Superfoods Athens,0
-PAN       ,,11,02:05,28,388,"PAPPAS, NIKOS",P000464   ,In,IN,,,Panathinaikos Superfoods Athens,0
-PAN       ,,14,02:05,28,389,"GIST, JAMES",P002980   ,Out,OUT,,,Panathinaikos Superfoods Athens,0
-PAN       ,,22,02:05,28,390,"GABRIEL, KENNY",P005881   ,In,IN,,,Panathinaikos Superfoods Athens,0
-BAR       ,,13,02:05,28,391,"HEURTEL, THOMAS",PKLT      ,Free Throw In (1/1 -  11 pt),FTM,49.0,43.0,FC Barcelona Lassa,0
-BAR       ,,13,02:05,28,392,"HEURTEL, THOMAS",PKLT      ,Free Throw In (2/2 -  12 pt),FTM,49.0,44.0,FC Barcelona Lassa,0
-PAN       ,,,01:40,29,394,,          ,Turnover (4),TO,,,Panathinaikos Superfoods Athens,0
-BAR       ,,25,01:23,29,395,"KOPONEN, PETTERI",P004178   ,Missed Two Pointer (0/1 -  3 pt),2FGA,,,FC Barcelona Lassa,0
-PAN       ,,22,01:21,29,396,"GABRIEL, KENNY",P005881   ,Def Rebound (2),D,,,Panathinaikos Superfoods Athens,0
-BAR       ,,18,01:19,29,397,"ORIOLA, PIERRE",P005917   ,Foul (4),CM,,,FC Barcelona Lassa,0
-PAN       ,,33,01:19,29,398,"CALATHES, NICK",P001932   ,Foul Drawn (3),RV,,,Panathinaikos Superfoods Athens,0
-PAN       ,,0,01:19,29,399,"SINGLETON, CHRIS",P006614   ,Out,OUT,,,Panathinaikos Superfoods Athens,0
-PAN       ,,15,01:19,29,400,"VOUGIOUKAS, IAN",PTFX      ,In,IN,,,Panathinaikos Superfoods Athens,0
-PAN       ,,33,01:19,29,401,"CALATHES, NICK",P001932   ,Missed Free Throw (0/2 -  12 pt),FTA,,,Panathinaikos Superfoods Athens,0
-PAN       ,,33,01:19,29,402,"CALATHES, NICK",P001932   ,Free Throw In (1/3 -  13 pt),FTM,50.0,44.0,Panathinaikos Superfoods Athens,0
-PAN       ,,15,01:09,29,403,"VOUGIOUKAS, IAN",PTFX      ,Foul (1),CM,,,Panathinaikos Superfoods Athens,0
-BAR       ,,13,01:09,29,404,"HEURTEL, THOMAS",PKLT      ,Foul Drawn (3),RV,,,FC Barcelona Lassa,0
-BAR       ,,13,01:09,29,405,"HEURTEL, THOMAS",PKLT      ,Free Throw In (3/3 -  13 pt),FTM,50.0,45.0,FC Barcelona Lassa,0
-BAR       ,,13,01:09,29,406,"HEURTEL, THOMAS",PKLT      ,Free Throw In (4/4 -  14 pt),FTM,50.0,46.0,FC Barcelona Lassa,0
-PAN       ,,11,00:48,30,408,"PAPPAS, NIKOS",P000464   ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,Panathinaikos Superfoods Athens,0
-PAN       ,,15,00:47,30,409,"VOUGIOUKAS, IAN",PTFX      ,Off Rebound (1),O,,,Panathinaikos Superfoods Athens,0
-PAN       ,,15,00:35,30,410,"VOUGIOUKAS, IAN",PTFX      ,Two Pointer (1/1 -  2 pt),2FGM,52.0,46.0,Panathinaikos Superfoods Athens,0
-BAR       ,,13,00:26,30,411,"HEURTEL, THOMAS",PKLT      ,Turnover (2),TO,,,FC Barcelona Lassa,0
-PAN       ,,33,00:25,30,412,"CALATHES, NICK",P001932   ,Steal (5),ST,,,Panathinaikos Superfoods Athens,0
-PAN       ,,24,00:21,30,413,"LOJESKI, MATT",P003608   ,Two Pointer (3/5 -  6 pt),2FGM,54.0,46.0,Panathinaikos Superfoods Athens,0
-PAN       ,,33,00:20,30,414,"CALATHES, NICK",P001932   ,Assist (8),AS,,,Panathinaikos Superfoods Athens,0
-PAN       ,,15,00:20,30,415,"VOUGIOUKAS, IAN",PTFX      ,Out,OUT,,,Panathinaikos Superfoods Athens,0
-PAN       ,,43,00:20,30,416,"ANTETOKOUNMPO, THANASIS",P007865   ,In,IN,,,Panathinaikos Superfoods Athens,0
-BAR       ,,13,00:02,30,417,"HEURTEL, THOMAS",PKLT      ,Two Pointer (3/6 -  16 pt),2FGM,54.0,48.0,FC Barcelona Lassa,0
-          ,,,,31,419,,          ,End Period,EP,,,,0
-          ,,,,31,422,,          ,Begin Period,BP,,,,0
-PAN       ,,15,10:00,31,420,"VOUGIOUKAS, IAN",PTFX      ,In,IN,,,Panathinaikos Superfoods Athens,0
-PAN       ,,43,10:00,31,421,"ANTETOKOUNMPO, THANASIS",P007865   ,Out,OUT,,,Panathinaikos Superfoods Athens,0
-BAR       ,,13,09:38,31,423,"HEURTEL, THOMAS",PKLT      ,Two Pointer (4/7 -  18 pt),2FGM,54.0,50.0,FC Barcelona Lassa,0
-BAR       ,,30,09:21,31,424,"CLAVER, VICTOR",P000556   ,Foul (2),CM,,,FC Barcelona Lassa,0
-PAN       ,,15,09:21,31,425,"VOUGIOUKAS, IAN",PTFX      ,Foul Drawn (2),RV,,,Panathinaikos Superfoods Athens,0
-BAR       ,,30,09:09,31,426,"CLAVER, VICTOR",P000556   ,Foul (3),CM,,,FC Barcelona Lassa,0
-PAN       ,,11,09:09,31,427,"PAPPAS, NIKOS",P000464   ,Foul Drawn (1),RV,,,Panathinaikos Superfoods Athens,0
-PAN       ,,11,09:09,31,428,"PAPPAS, NIKOS",P000464   ,Free Throw In (1/2 -  1 pt),FTM,55.0,50.0,Panathinaikos Superfoods Athens,0
-PAN       ,,11,09:09,31,429,"PAPPAS, NIKOS",P000464   ,Free Throw In (2/3 -  2 pt),FTM,56.0,50.0,Panathinaikos Superfoods Athens,0
-PAN       ,,15,08:54,32,431,"VOUGIOUKAS, IAN",PTFX      ,Foul (2),CM,,,Panathinaikos Superfoods Athens,0
-BAR       ,,18,08:54,32,432,"ORIOLA, PIERRE",P005917   ,Foul Drawn (6),RV,,,FC Barcelona Lassa,0
-BAR       ,,18,08:54,32,433,"ORIOLA, PIERRE",P005917   ,Free Throw In (4/7 -  6 pt),FTM,56.0,51.0,FC Barcelona Lassa,0
-BAR       ,,13,08:54,32,434,"HEURTEL, THOMAS",PKLT      ,Assist (1),AS,,,FC Barcelona Lassa,0
-BAR       ,,18,08:54,32,435,"ORIOLA, PIERRE",P005917   ,Free Throw In (5/8 -  7 pt),FTM,56.0,52.0,FC Barcelona Lassa,0
-PAN       ,,15,08:33,32,436,"VOUGIOUKAS, IAN",PTFX      ,Two Pointer (2/2 -  4 pt),2FGM,58.0,52.0,Panathinaikos Superfoods Athens,0
-BAR       ,,13,08:12,32,437,"HEURTEL, THOMAS",PKLT      ,Missed Two Pointer (4/8 -  18 pt),2FGA,,,FC Barcelona Lassa,0
-BAR       ,,13,08:10,32,438,"HEURTEL, THOMAS",PKLT      ,Off Rebound (2),O,,,FC Barcelona Lassa,0
-BAR       ,,25,07:58,33,440,"KOPONEN, PETTERI",P004178   ,Two Pointer (1/2 -  5 pt),2FGM,58.0,54.0,FC Barcelona Lassa,0
-PAN       ,,33,07:39,33,441,"CALATHES, NICK",P001932   ,Two Pointer (7/9 -  15 pt),2FGM,60.0,54.0,Panathinaikos Superfoods Athens,0
-PAN       ,,15,07:39,33,442,"VOUGIOUKAS, IAN",PTFX      ,Assist (1),AS,,,Panathinaikos Superfoods Athens,0
-BAR       ,,25,07:39,33,443,"KOPONEN, PETTERI",P004178   ,Foul (1),CM,,,FC Barcelona Lassa,0
-PAN       ,,33,07:39,33,444,"CALATHES, NICK",P001932   ,Foul Drawn (4),RV,,,Panathinaikos Superfoods Athens,0
-PAN       ,,3,07:39,33,445,"RIVERS, KC",P002429   ,In,IN,,,Panathinaikos Superfoods Athens,0
-PAN       ,,24,07:39,33,446,"LOJESKI, MATT",P003608   ,Out,OUT,,,Panathinaikos Superfoods Athens,0
-PAN       ,,33,07:39,33,447,"CALATHES, NICK",P001932   ,Missed Free Throw (1/4 -  15 pt),FTA,,,Panathinaikos Superfoods Athens,0
-PAN       ,,15,07:39,33,448,"VOUGIOUKAS, IAN",PTFX      ,Off Rebound (2),O,,,Panathinaikos Superfoods Athens,0
-PAN       ,,33,07:34,33,449,"CALATHES, NICK",P001932   ,Missed Three Pointer (0/2 -  15 pt),3FGA,,,Panathinaikos Superfoods Athens,0
-BAR       ,,30,07:32,33,450,"CLAVER, VICTOR",P000556   ,Def Rebound (3),D,,,FC Barcelona Lassa,0
-PAN       ,,11,07:29,33,451,"PAPPAS, NIKOS",P000464   ,Foul (1),CM,,,Panathinaikos Superfoods Athens,0
-BAR       ,,13,07:29,33,452,"HEURTEL, THOMAS",PKLT      ,Foul Drawn (4),RV,,,FC Barcelona Lassa,0
-BAR       ,,13,07:16,33,453,"HEURTEL, THOMAS",PKLT      ,Missed Two Pointer (4/9 -  18 pt),2FGA,,,FC Barcelona Lassa,0
-BAR       ,,13,07:16,33,454,"HEURTEL, THOMAS",PKLT      ,Shot Rejected (2),AG,,,FC Barcelona Lassa,0
-PAN       ,,15,07:14,33,455,"VOUGIOUKAS, IAN",PTFX      ,Block (2),FV,,,Panathinaikos Superfoods Athens,0
-PAN       ,,33,07:14,33,456,"CALATHES, NICK",P001932   ,Def Rebound (3),D,,,Panathinaikos Superfoods Athens,0
-PAN       ,,11,07:14,33,457,"PAPPAS, NIKOS",P000464   ,Two Pointer (1/4 -  4 pt),2FGM,62.0,54.0,Panathinaikos Superfoods Athens,0
-PAN       ,,33,07:14,33,458,"CALATHES, NICK",P001932   ,Assist (9),AS,,,Panathinaikos Superfoods Athens,0
-PAN       ,,14,07:14,33,459,"GIST, JAMES",P002980   ,In,IN,,,Panathinaikos Superfoods Athens,0
-PAN       ,,15,07:14,33,460,"VOUGIOUKAS, IAN",PTFX      ,Out,OUT,,,Panathinaikos Superfoods Athens,0
-BAR       ,,5,07:14,33,461,"RIBAS, PAU",PJUG      ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,9,07:14,33,462,"HANGA, ADAM",P005099   ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,13,07:14,33,463,"HEURTEL, THOMAS",PKLT      ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,14,07:14,33,464,"VEZENKOV, SASHA",P003469   ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,18,07:14,33,465,"ORIOLA, PIERRE",P005917   ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,44,07:14,33,466,"TOMIC, ANTE",P002507   ,In,IN,,,FC Barcelona Lassa,0
-PAN       ,,11,06:55,34,468,"PAPPAS, NIKOS",P000464   ,Foul (2),CM,,,Panathinaikos Superfoods Athens,0
-BAR       ,,25,06:55,34,469,"KOPONEN, PETTERI",P004178   ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0
-BAR       ,,44,06:43,34,470,"TOMIC, ANTE",P002507   ,Two Pointer (6/6 -  12 pt),2FGM,62.0,56.0,FC Barcelona Lassa,0
-BAR       ,,30,06:42,34,471,"CLAVER, VICTOR",P000556   ,Assist (4),AS,,,FC Barcelona Lassa,0
-PAN       ,,22,06:30,34,472,"GABRIEL, KENNY",P005881   ,Three Pointer (1/2 -  4 pt),3FGM,65.0,56.0,Panathinaikos Superfoods Athens,0
-PAN       ,,33,06:28,34,473,"CALATHES, NICK",P001932   ,Assist (10),AS,,,Panathinaikos Superfoods Athens,0
-BAR       ,,25,06:10,34,474,"KOPONEN, PETTERI",P004178   ,Missed Three Pointer (1/2 -  5 pt),3FGA,,,FC Barcelona Lassa,0
-BAR       ,,44,06:09,34,475,"TOMIC, ANTE",P002507   ,Off Rebound (1),O,,,FC Barcelona Lassa,0
-PAN       ,,22,06:09,34,476,"GABRIEL, KENNY",P005881   ,Foul (2),CM,,,Panathinaikos Superfoods Athens,0
-BAR       ,,44,06:09,34,477,"TOMIC, ANTE",P002507   ,Foul Drawn (4),RV,,,FC Barcelona Lassa,0
-PAN       ,,12,06:09,34,478,"DENMON, MARCUS",P004195   ,In,IN,,,Panathinaikos Superfoods Athens,0
-PAN       ,,33,06:09,34,479,"CALATHES, NICK",P001932   ,Out,OUT,,,Panathinaikos Superfoods Athens,0
-BAR       ,,,06:09,34,480,,          ,Time Out (1),TOUT,,,FC Barcelona Lassa,0
-BAR       ,,25,06:08,34,481,"KOPONEN, PETTERI",P004178   ,Missed Two Pointer (1/3 -  5 pt),2FGA,,,FC Barcelona Lassa,0
-PAN       ,,,06:08,34,482,,          ,Def Rebound (4),D,,,Panathinaikos Superfoods Athens,0
-BAR       ,,44,06:08,34,483,"TOMIC, ANTE",P002507   ,Foul (4),CM,,,FC Barcelona Lassa,0
-PAN       ,,22,06:08,34,484,"GABRIEL, KENNY",P005881   ,Foul Drawn (2),RV,,,Panathinaikos Superfoods Athens,0
-BAR       ,,44,06:08,34,485,"TOMIC, ANTE",P002507   ,Technical Foul (5),CMT,,,FC Barcelona Lassa,0
-PAN       ,,22,06:08,34,486,"GABRIEL, KENNY",P005881   ,Technical Foul (3),CMT,,,Panathinaikos Superfoods Athens,0
-BAR       ,,44,05:59,35,488,"TOMIC, ANTE",P002507   ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,45,05:59,35,489,"MOERMAN, ADRIEN",P001833   ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,18,05:59,35,490,"ORIOLA, PIERRE",P005917   ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,45,05:59,35,491,"MOERMAN, ADRIEN",P001833   ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,11,05:59,35,492,"NAVARRO, JUAN CARLOS",PADI      ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,25,05:59,35,493,"KOPONEN, PETTERI",P004178   ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,30,05:55,35,494,"CLAVER, VICTOR",P000556   ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,45,05:55,35,495,"MOERMAN, ADRIEN",P001833   ,In,IN,,,FC Barcelona Lassa,0
-PAN       ,,11,05:46,35,496,"PAPPAS, NIKOS",P000464   ,Two Pointer (2/5 -  6 pt),2FGM,67.0,56.0,Panathinaikos Superfoods Athens,0
-BAR       ,,5,05:30,35,497,"RIBAS, PAU",PJUG      ,Turnover (1),TO,,,FC Barcelona Lassa,0
-PAN       ,,14,05:28,35,498,"GIST, JAMES",P002980   ,Steal (2),ST,,,Panathinaikos Superfoods Athens,0
-PAN       ,,11,05:18,35,499,"PAPPAS, NIKOS",P000464   ,Offensive Foul (3),OF,,,Panathinaikos Superfoods Athens,0
-PAN       ,,11,05:18,35,500,"PAPPAS, NIKOS",P000464   ,Turnover (1),TO,,,Panathinaikos Superfoods Athens,0
-BAR       ,,5,05:18,35,501,"RIBAS, PAU",PJUG      ,Foul Drawn (2),RV,,,FC Barcelona Lassa,0
-PAN       ,,12,05:04,35,502,"DENMON, MARCUS",P004195   ,Foul (1),CM,,,Panathinaikos Superfoods Athens,0
-BAR       ,,45,05:04,35,503,"MOERMAN, ADRIEN",P001833   ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0
-BAR       ,,45,05:04,35,504,"MOERMAN, ADRIEN",P001833   ,Free Throw In (1/1 -  5 pt),FTM,67.0,57.0,FC Barcelona Lassa,0
-BAR       ,,45,05:04,35,505,"MOERMAN, ADRIEN",P001833   ,Free Throw In (2/2 -  6 pt),FTM,67.0,58.0,FC Barcelona Lassa,0
-PAN       ,,12,04:43,36,507,"DENMON, MARCUS",P004195   ,Missed Two Pointer (1/3 -  2 pt),2FGA,,,Panathinaikos Superfoods Athens,0
-PAN       ,,12,04:43,36,508,"DENMON, MARCUS",P004195   ,Shot Rejected (1),AG,,,Panathinaikos Superfoods Athens,0
-BAR       ,,9,04:41,36,509,"HANGA, ADAM",P005099   ,Block (1),FV,,,FC Barcelona Lassa,0
-BAR       ,,45,04:39,36,510,"MOERMAN, ADRIEN",P001833   ,Def Rebound (3),D,,,FC Barcelona Lassa,0
-PAN       ,,0,04:39,36,511,"SINGLETON, CHRIS",P006614   ,In,IN,,,Panathinaikos Superfoods Athens,0
-PAN       ,,22,04:39,36,512,"GABRIEL, KENNY",P005881   ,Out,OUT,,,Panathinaikos Superfoods Athens,0
-BAR       ,,11,04:35,36,513,"NAVARRO, JUAN CARLOS",PADI      ,Two Pointer (1/1 -  5 pt),2FGM,67.0,60.0,FC Barcelona Lassa,0
-BAR       ,,5,04:33,36,514,"RIBAS, PAU",PJUG      ,Assist (2),AS,,,FC Barcelona Lassa,0
-PAN       ,,11,04:17,36,515,"PAPPAS, NIKOS",P000464   ,Two Pointer (3/6 -  8 pt),2FGM,69.0,60.0,Panathinaikos Superfoods Athens,0
-BAR       ,,9,03:57,37,517,"HANGA, ADAM",P005099   ,Two Pointer (1/2 -  2 pt),2FGM,69.0,62.0,FC Barcelona Lassa,0
-BAR       ,,45,03:55,37,518,"MOERMAN, ADRIEN",P001833   ,Assist (3),AS,,,FC Barcelona Lassa,0
-PAN       ,,12,03:31,37,519,"DENMON, MARCUS",P004195   ,Out,OUT,,,Panathinaikos Superfoods Athens,0
-PAN       ,,33,03:31,37,520,"CALATHES, NICK",P001932   ,In,IN,,,Panathinaikos Superfoods Athens,0
-BAR       ,,5,03:31,37,521,"RIBAS, PAU",PJUG      ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,30,03:31,37,522,"CLAVER, VICTOR",P000556   ,In,IN,,,FC Barcelona Lassa,0
-PAN       ,,3,03:27,37,523,"RIVERS, KC",P002429   ,Missed Three Pointer (0/6 -  3 pt),3FGA,,,Panathinaikos Superfoods Athens,0
-PAN       ,,0,03:25,37,524,"SINGLETON, CHRIS",P006614   ,Off Rebound (2),O,,,Panathinaikos Superfoods Athens,0
-PAN       ,,11,03:17,37,525,"PAPPAS, NIKOS",P000464   ,Two Pointer (4/7 -  10 pt),2FGM,71.0,62.0,Panathinaikos Superfoods Athens,0
-PAN       ,,33,03:15,37,526,"CALATHES, NICK",P001932   ,Assist (11),AS,,,Panathinaikos Superfoods Athens,0
-BAR       ,,9,02:58,38,528,"HANGA, ADAM",P005099   ,Turnover (3),TO,,,FC Barcelona Lassa,0
-BAR       ,,5,02:58,38,529,"RIBAS, PAU",PJUG      ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,30,02:58,38,530,"CLAVER, VICTOR",P000556   ,Out,OUT,,,FC Barcelona Lassa,0
-PAN       ,,11,02:52,38,531,"PAPPAS, NIKOS",P000464   ,Two Pointer (5/8 -  12 pt),2FGM,73.0,62.0,Panathinaikos Superfoods Athens,0
-PAN       ,,33,02:52,38,532,"CALATHES, NICK",P001932   ,Assist (12),AS,,,Panathinaikos Superfoods Athens,0
-BAR       ,,,02:52,38,533,,          ,Time Out (2),TOUT,,,FC Barcelona Lassa,0
-PAN       ,,3,02:39,38,534,"RIVERS, KC",P002429   ,Foul (2),CM,,,Panathinaikos Superfoods Athens,0
-BAR       ,,9,02:39,38,535,"HANGA, ADAM",P005099   ,Foul Drawn (3),RV,,,FC Barcelona Lassa,0
-BAR       ,,9,02:39,38,536,"HANGA, ADAM",P005099   ,Missed Free Throw (0/1 -  2 pt),FTA,,,FC Barcelona Lassa,0
-BAR       ,,9,02:39,38,537,"HANGA, ADAM",P005099   ,Free Throw In (1/2 -  3 pt),FTM,73.0,63.0,FC Barcelona Lassa,0
-PAN       ,,,02:18,38,538,,          ,Time Out (1),TOUT,,,Panathinaikos Superfoods Athens,0
-PAN       ,,3,02:18,38,539,"RIVERS, KC",P002429   ,Out,OUT,,,Panathinaikos Superfoods Athens,0
-PAN       ,,24,02:18,38,540,"LOJESKI, MATT",P003608   ,In,IN,,,Panathinaikos Superfoods Athens,0
-PAN       ,,33,02:12,38,541,"CALATHES, NICK",P001932   ,Missed Three Pointer (0/3 -  15 pt),3FGA,,,Panathinaikos Superfoods Athens,0
-PAN       ,,,02:12,38,542,,          ,Turnover (5),TO,,,Panathinaikos Superfoods Athens,0
-PAN       ,,0,02:05,38,543,"SINGLETON, CHRIS",P006614   ,Foul (4),CM,,,Panathinaikos Superfoods Athens,0
-BAR       ,,11,02:05,38,544,"NAVARRO, JUAN CARLOS",PADI      ,Foul Drawn (2),RV,,,FC Barcelona Lassa,0
-BAR       ,,11,02:05,38,545,"NAVARRO, JUAN CARLOS",PADI      ,Free Throw In (1/1 -  6 pt),FTM,73.0,64.0,FC Barcelona Lassa,0
-BAR       ,,11,02:05,38,546,"NAVARRO, JUAN CARLOS",PADI      ,Free Throw In (2/2 -  7 pt),FTM,73.0,65.0,FC Barcelona Lassa,0
-PAN       ,,11,01:43,39,548,"PAPPAS, NIKOS",P000464   ,Three Pointer (1/3 -  15 pt),3FGM,76.0,65.0,Panathinaikos Superfoods Athens,0
-BAR       ,,11,01:36,39,549,"NAVARRO, JUAN CARLOS",PADI      ,Missed Three Pointer (1/4 -  7 pt),3FGA,,,FC Barcelona Lassa,0
-PAN       ,,0,01:34,39,550,"SINGLETON, CHRIS",P006614   ,Def Rebound (3),D,,,Panathinaikos Superfoods Athens,0
-PAN       ,,0,01:30,39,551,"SINGLETON, CHRIS",P006614   ,Two Pointer (3/4 -  14 pt),2FGM,78.0,65.0,Panathinaikos Superfoods Athens,0
-PAN       ,,14,01:30,39,552,"GIST, JAMES",P002980   ,Assist (2),AS,,,Panathinaikos Superfoods Athens,0
-BAR       ,,45,01:10,39,553,"MOERMAN, ADRIEN",P001833   ,Two Pointer (3/6 -  8 pt),2FGM,78.0,67.0,FC Barcelona Lassa,0
-PAN       ,,33,00:52,40,555,"CALATHES, NICK",P001932   ,Two Pointer (8/10 -  17 pt),2FGM,80.0,67.0,Panathinaikos Superfoods Athens,0
-BAR       ,,11,00:52,40,556,"NAVARRO, JUAN CARLOS",PADI      ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,13,00:52,40,557,"HEURTEL, THOMAS",PKLT      ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,5,00:35,40,558,"RIBAS, PAU",PJUG      ,Three Pointer (2/3 -  8 pt),3FGM,80.0,70.0,FC Barcelona Lassa,0
-BAR       ,,13,00:35,40,559,"HEURTEL, THOMAS",PKLT      ,Assist (2),AS,,,FC Barcelona Lassa,0
-PAN       ,,11,00:24,40,560,"PAPPAS, NIKOS",P000464   ,Missed Three Pointer (1/4 -  15 pt),3FGA,,,Panathinaikos Superfoods Athens,0
-PAN       ,,14,00:22,40,561,"GIST, JAMES",P002980   ,Off Rebound (3),O,,,Panathinaikos Superfoods Athens,0
-BAR       ,,18,00:23,40,562,"ORIOLA, PIERRE",P005917   ,Foul (5),CM,,,FC Barcelona Lassa,0
-PAN       ,,14,00:23,40,563,"GIST, JAMES",P002980   ,Foul Drawn (7),RV,,,Panathinaikos Superfoods Athens,0
-PAN       ,,11,00:23,40,564,"PAPPAS, NIKOS",P000464   ,Out,OUT,,,Panathinaikos Superfoods Athens,0
-PAN       ,,43,00:23,40,565,"ANTETOKOUNMPO, THANASIS",P007865   ,In,IN,,,Panathinaikos Superfoods Athens,0
-BAR       ,,18,00:23,40,566,"ORIOLA, PIERRE",P005917   ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,30,00:23,40,567,"CLAVER, VICTOR",P000556   ,In,IN,,,FC Barcelona Lassa,0
-PAN       ,,14,00:23,40,568,"GIST, JAMES",P002980   ,Free Throw In (6/7 -  16 pt),FTM,81.0,70.0,Panathinaikos Superfoods Athens,0
-PAN       ,,14,00:23,40,569,"GIST, JAMES",P002980   ,Free Throw In (7/8 -  17 pt),FTM,82.0,70.0,Panathinaikos Superfoods Athens,0
-PAN       ,,0,00:09,40,570,"SINGLETON, CHRIS",P006614   ,Foul (5),CM,,,Panathinaikos Superfoods Athens,0
-BAR       ,,5,00:09,40,571,"RIBAS, PAU",PJUG      ,Foul Drawn (3),RV,,,FC Barcelona Lassa,0
-PAN       ,,0,00:09,40,572,"SINGLETON, CHRIS",P006614   ,Out,OUT,,,Panathinaikos Superfoods Athens,0
-PAN       ,,22,00:09,40,573,"GABRIEL, KENNY",P005881   ,In,IN,,,Panathinaikos Superfoods Athens,0
-BAR       ,,5,00:09,40,574,"RIBAS, PAU",PJUG      ,Free Throw In (1/1 -  9 pt),FTM,82.0,71.0,FC Barcelona Lassa,0
-BAR       ,,5,00:09,40,575,"RIBAS, PAU",PJUG      ,Free Throw In (2/2 -  10 pt),FTM,82.0,72.0,FC Barcelona Lassa,0
-PAN       ,,43,00:02,40,576,"ANTETOKOUNMPO, THANASIS",P007865   ,Two Pointer (1/2 -  2 pt),2FGM,84.0,72.0,Panathinaikos Superfoods Athens,0
-PAN       ,,24,00:02,40,577,"LOJESKI, MATT",P003608   ,Assist (1),AS,,,Panathinaikos Superfoods Athens,0
-BAR       ,,45,00:02,40,578,"MOERMAN, ADRIEN",P001833   ,Three Pointer (1/3 -  11 pt),3FGM,84.0,75.0,FC Barcelona Lassa,0
-BAR       ,,13,00:02,40,579,"HEURTEL, THOMAS",PKLT      ,Assist (3),AS,,,FC Barcelona Lassa,0
-          ,,,,41,582,,          ,End Game,EG,,,,0
+CODETEAM,COMMENT,DORSAL,MARKERTIME,MINUTE,NUMBEROFPLAY,PLAYER,PLAYER_ID,PLAYINFO,PLAYTYPE,POINTS_A,POINTS_B,TEAM,TYPE,home_team,home_team_code,away_team,away_team_code
+          ,,,,1,11,,          ,Begin Period,BP,,,,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,9,09:43,1,12,"HANGA, ADAM",P005099   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,11,09:41,1,13,"NAVARRO, JUAN CARLOS",PADI      ,Off Rebound (1),O,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,11,09:38,1,14,"NAVARRO, JUAN CARLOS",PADI      ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,14,09:36,1,15,"GIST, JAMES",P002980   ,Def Rebound (1),D,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,33,09:30,1,16,"CALATHES, NICK",P001932   ,Two Pointer (1/1 -  2 pt),2FGM,2.0,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,43,09:27,1,17,"ANTETOKOUNMPO, THANASIS",P007865   ,Foul (1),CM,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,5,09:27,1,18,"RIBAS, PAU",PJUG      ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,5,09:17,1,19,"RIBAS, PAU",PJUG      ,Three Pointer (1/1 -  3 pt),3FGM,2.0,3.0,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,11,09:17,1,20,"NAVARRO, JUAN CARLOS",PADI      ,Assist (1),AS,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,43,08:58,2,22,"ANTETOKOUNMPO, THANASIS",P007865   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,,08:54,2,23,,          ,Def Rebound (1),D,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,45,08:37,2,24,"MOERMAN, ADRIEN",P001833   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,43,08:35,2,25,"ANTETOKOUNMPO, THANASIS",P007865   ,Def Rebound (1),D,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,0,08:32,2,26,"SINGLETON, CHRIS",P006614   ,Two Pointer (1/1 -  2 pt),2FGM,4.0,3.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,33,08:30,2,27,"CALATHES, NICK",P001932   ,Assist (1),AS,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,43,08:09,2,28,"ANTETOKOUNMPO, THANASIS",P007865   ,Foul (2),CM,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,44,08:09,2,29,"TOMIC, ANTE",P002507   ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,44,08:09,2,30,"TOMIC, ANTE",P002507   ,Missed Free Throw (0/1 -  0 pt),FTA,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,44,08:09,2,31,"TOMIC, ANTE",P002507   ,Missed Free Throw (0/2 -  0 pt),FTA,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,45,08:09,2,32,"MOERMAN, ADRIEN",P001833   ,Off Rebound (1),O,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,44,07:59,3,34,"TOMIC, ANTE",P002507   ,Two Pointer (1/1 -  2 pt),2FGM,4.0,5.0,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,45,07:57,3,35,"MOERMAN, ADRIEN",P001833   ,Assist (1),AS,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,24,07:44,3,36,"LOJESKI, MATT",P003608   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,9,07:42,3,37,"HANGA, ADAM",P005099   ,Def Rebound (1),D,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,9,07:30,3,38,"HANGA, ADAM",P005099   ,Turnover (1),TO,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,33,07:16,3,39,"CALATHES, NICK",P001932   ,Two Pointer (2/2 -  4 pt),2FGM,6.0,5.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,43,07:01,3,40,"ANTETOKOUNMPO, THANASIS",P007865   ,Foul (3),CM,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,44,07:01,3,41,"TOMIC, ANTE",P002507   ,Foul Drawn (2),RV,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,11,07:01,3,42,"PAPPAS, NIKOS",P000464   ,In,IN,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,43,07:01,3,43,"ANTETOKOUNMPO, THANASIS",P007865   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,45,06:58,4,45,"MOERMAN, ADRIEN",P001833   ,Two Pointer (1/2 -  2 pt),2FGM,6.0,7.0,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,5,06:56,4,46,"RIBAS, PAU",PJUG      ,Assist (1),AS,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,0,06:39,4,47,"SINGLETON, CHRIS",P006614   ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,9,06:37,4,48,"HANGA, ADAM",P005099   ,Def Rebound (2),D,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,9,06:20,4,49,"HANGA, ADAM",P005099   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,14,06:17,4,50,"GIST, JAMES",P002980   ,Def Rebound (2),D,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,24,06:14,4,51,"LOJESKI, MATT",P003608   ,Two Pointer (1/1 -  2 pt),2FGM,8.0,7.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,33,06:03,4,52,"CALATHES, NICK",P001932   ,Assist (2),AS,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,44,05:52,5,54,"TOMIC, ANTE",P002507   ,Two Pointer (2/2 -  4 pt),2FGM,8.0,9.0,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,9,05:50,5,55,"HANGA, ADAM",P005099   ,Assist (1),AS,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,45,05:39,5,56,"MOERMAN, ADRIEN",P001833   ,Foul (1),CM,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,14,05:39,5,57,"GIST, JAMES",P002980   ,Foul Drawn (1),RV,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,11,05:24,5,58,"PAPPAS, NIKOS",P000464   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,11,05:23,5,59,"NAVARRO, JUAN CARLOS",PADI      ,Def Rebound (1),D,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,11,05:14,5,60,"NAVARRO, JUAN CARLOS",PADI      ,Turnover (1),TO,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,14,05:13,5,61,"GIST, JAMES",P002980   ,Steal (1),ST,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,0,05:11,5,62,"SINGLETON, CHRIS",P006614   ,Two Pointer (2/2 -  4 pt),2FGM,10.0,9.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,14,05:09,5,63,"GIST, JAMES",P002980   ,Assist (1),AS,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,44,04:55,6,65,"TOMIC, ANTE",P002507   ,Two Pointer (3/3 -  6 pt),2FGM,10.0,11.0,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,45,04:53,6,66,"MOERMAN, ADRIEN",P001833   ,Assist (2),AS,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,11,04:37,6,67,"NAVARRO, JUAN CARLOS",PADI      ,Foul (1),CM,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,14,04:37,6,68,"GIST, JAMES",P002980   ,Foul Drawn (2),RV,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+          ,,,04:37,6,69,,          ,TV Time Out (1),TOUT_TV,,,,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,24,04:37,6,70,"LOJESKI, MATT",P003608   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,44,04:37,6,71,"TOMIC, ANTE",P002507   ,Def Rebound (1),D,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,44,04:15,6,72,"TOMIC, ANTE",P002507   ,Two Pointer (4/4 -  8 pt),2FGM,10.0,13.0,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,11,03:49,7,74,"PAPPAS, NIKOS",P000464   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,44,03:47,7,75,"TOMIC, ANTE",P002507   ,Def Rebound (2),D,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,11,03:26,7,76,"NAVARRO, JUAN CARLOS",PADI      ,Three Pointer (1/2 -  3 pt),3FGM,10.0,16.0,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,9,03:24,7,77,"HANGA, ADAM",P005099   ,Assist (2),AS,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,33,03:13,7,78,"CALATHES, NICK",P001932   ,Two Pointer (3/3 -  6 pt),2FGM,12.0,16.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,5,03:13,7,79,"RIBAS, PAU",PJUG      ,Foul (1),CM,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,33,03:13,7,80,"CALATHES, NICK",P001932   ,Foul Drawn (1),RV,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,3,03:13,7,81,"RIVERS, KC",P002429   ,In,IN,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,24,03:13,7,82,"LOJESKI, MATT",P003608   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,18,03:13,7,83,"ORIOLA, PIERRE",P005917   ,In,IN,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,44,03:13,7,84,"TOMIC, ANTE",P002507   ,Out,OUT,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,33,03:13,7,85,"CALATHES, NICK",P001932   ,Missed Free Throw (0/1 -  6 pt),FTA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,33,03:13,7,86,"CALATHES, NICK",P001932   ,Off Rebound (1),O,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,33,03:13,7,87,"CALATHES, NICK",P001932   ,Two Pointer (4/4 -  8 pt),2FGM,14.0,16.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,11,02:50,8,89,"NAVARRO, JUAN CARLOS",PADI      ,Turnover (2),TO,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,33,02:49,8,90,"CALATHES, NICK",P001932   ,Steal (1),ST,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,11,02:43,8,91,"PAPPAS, NIKOS",P000464   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,14,02:40,8,92,"GIST, JAMES",P002980   ,Off Rebound (1),O,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,14,02:40,8,93,"GIST, JAMES",P002980   ,Two Pointer (1/1 -  2 pt),2FGM,16.0,16.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,5,02:25,8,94,"RIBAS, PAU",PJUG      ,Missed Two Pointer (0/1 -  3 pt),2FGA,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,14,02:25,8,95,"GIST, JAMES",P002980   ,Def Rebound (3),D,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,11,02:25,8,96,"PAPPAS, NIKOS",P000464   ,Missed Two Pointer (0/3 -  0 pt),2FGA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,18,02:25,8,97,"ORIOLA, PIERRE",P005917   ,Def Rebound (1),D,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,0,02:16,8,98,"SINGLETON, CHRIS",P006614   ,Foul (1),CM,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,18,02:16,8,99,"ORIOLA, PIERRE",P005917   ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,14,02:16,8,100,"GIST, JAMES",P002980   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,22,02:16,8,101,"GABRIEL, KENNY",P005881   ,In,IN,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,5,02:16,8,102,"RIBAS, PAU",PJUG      ,Out,OUT,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,13,02:16,8,103,"HEURTEL, THOMAS",PKLT      ,In,IN,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,30,02:16,8,104,"CLAVER, VICTOR",P000556   ,In,IN,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,45,02:16,8,105,"MOERMAN, ADRIEN",P001833   ,Out,OUT,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,13,01:54,9,107,"HEURTEL, THOMAS",PKLT      ,Three Pointer (1/1 -  3 pt),3FGM,16.0,19.0,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,30,01:52,9,108,"CLAVER, VICTOR",P000556   ,Assist (1),AS,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,22,01:49,9,109,"GABRIEL, KENNY",P005881   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,9,01:49,9,110,"HANGA, ADAM",P005099   ,Def Rebound (3),D,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,11,01:21,9,111,"NAVARRO, JUAN CARLOS",PADI      ,Turnover (3),TO,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,11,01:21,9,112,"NAVARRO, JUAN CARLOS",PADI      ,Technical Foul (2),CMT,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,11,01:21,9,113,"NAVARRO, JUAN CARLOS",PADI      ,Out,OUT,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,25,01:21,9,114,"KOPONEN, PETTERI",P004178   ,In,IN,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,11,01:21,9,115,"PAPPAS, NIKOS",P000464   ,Missed Free Throw (0/1 -  0 pt),FTA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,0,01:08,9,116,"SINGLETON, CHRIS",P006614   ,Offensive Foul (2),OF,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,0,01:08,9,117,"SINGLETON, CHRIS",P006614   ,Turnover (1),TO,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,9,01:08,9,118,"HANGA, ADAM",P005099   ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,0,01:08,9,119,"SINGLETON, CHRIS",P006614   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,11,01:08,9,120,"PAPPAS, NIKOS",P000464   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,12,01:08,9,121,"DENMON, MARCUS",P004195   ,In,IN,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,14,01:08,9,122,"GIST, JAMES",P002980   ,In,IN,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,9,00:51,10,124,"HANGA, ADAM",P005099   ,Turnover (2),TO,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,22,00:49,10,125,"GABRIEL, KENNY",P005881   ,Steal (1),ST,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,9,00:49,10,126,"HANGA, ADAM",P005099   ,Foul (1),CM,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,22,00:49,10,127,"GABRIEL, KENNY",P005881   ,Foul Drawn (1),RV,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,9,00:49,10,128,"HANGA, ADAM",P005099   ,Out,OUT,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,14,00:49,10,129,"VEZENKOV, SASHA",P003469   ,In,IN,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,22,00:49,10,130,"GABRIEL, KENNY",P005881   ,Free Throw In (1/1 -  1 pt),FTM,17.0,19.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,22,00:49,10,131,"GABRIEL, KENNY",P005881   ,Missed Free Throw (1/2 -  1 pt),FTA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,14,00:49,10,132,"VEZENKOV, SASHA",P003469   ,Def Rebound (1),D,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,33,00:33,10,133,"CALATHES, NICK",P001932   ,Foul (1),CM,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,18,00:33,10,134,"ORIOLA, PIERRE",P005917   ,Foul Drawn (2),RV,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,18,00:33,10,135,"ORIOLA, PIERRE",P005917   ,Missed Free Throw (0/1 -  0 pt),FTA,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,18,00:33,10,136,"ORIOLA, PIERRE",P005917   ,Missed Free Throw (0/2 -  0 pt),FTA,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,33,00:33,10,137,"CALATHES, NICK",P001932   ,Def Rebound (1),D,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,22,00:26,10,138,"GABRIEL, KENNY",P005881   ,Turnover (1),TO,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,30,00:11,10,139,"CLAVER, VICTOR",P000556   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,33,00:09,10,140,"CALATHES, NICK",P001932   ,Def Rebound (2),D,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,22,00:00,10,141,"GABRIEL, KENNY",P005881   ,Missed Two Pointer (0/1 -  1 pt),2FGA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+          ,,,,11,143,,          ,End Period,EP,,,,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+          ,,,,11,146,,          ,Begin Period,BP,,,,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,19,10:00,11,144,"LEKAVICIUS, LUKAS",P003210   ,In,IN,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,33,10:00,11,145,"CALATHES, NICK",P001932   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,14,09:47,11,147,"GIST, JAMES",P002980   ,Offensive Foul (1),OF,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,14,09:47,11,148,"GIST, JAMES",P002980   ,Turnover (1),TO,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,30,09:47,11,149,"CLAVER, VICTOR",P000556   ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,19,09:40,11,150,"LEKAVICIUS, LUKAS",P003210   ,Foul (1),CM,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,13,09:40,11,151,"HEURTEL, THOMAS",PKLT      ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,30,09:30,11,152,"CLAVER, VICTOR",P000556   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,22,09:28,11,153,"GABRIEL, KENNY",P005881   ,Def Rebound (1),D,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,14,09:14,11,154,"GIST, JAMES",P002980   ,Two Pointer (2/2 -  4 pt),2FGM,19.0,19.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,12,09:14,11,155,"DENMON, MARCUS",P004195   ,Assist (1),AS,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,18,09:14,11,156,"ORIOLA, PIERRE",P005917   ,Foul (1),CM,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,14,09:14,11,157,"GIST, JAMES",P002980   ,Foul Drawn (3),RV,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,14,09:14,11,158,"GIST, JAMES",P002980   ,Missed Free Throw (0/1 -  4 pt),FTA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,,09:12,11,159,,          ,Def Rebound (2),D,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,13,08:56,12,161,"HEURTEL, THOMAS",PKLT      ,Two Pointer (1/1 -  5 pt),2FGM,19.0,21.0,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,14,08:29,12,162,"GIST, JAMES",P002980   ,Missed Three Pointer (0/1 -  4 pt),3FGA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,30,08:27,12,163,"CLAVER, VICTOR",P000556   ,Def Rebound (1),D,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,22,08:16,12,164,"GABRIEL, KENNY",P005881   ,Foul (1),CM,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,14,08:16,12,165,"VEZENKOV, SASHA",P003469   ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,13,08:07,12,166,"HEURTEL, THOMAS",PKLT      ,Three Pointer (2/2 -  8 pt),3FGM,19.0,24.0,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,12,07:40,13,168,"DENMON, MARCUS",P004195   ,Two Pointer (1/1 -  2 pt),2FGM,21.0,24.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,25,07:19,13,169,"KOPONEN, PETTERI",P004178   ,Three Pointer (1/1 -  3 pt),3FGM,21.0,27.0,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,3,07:01,13,170,"RIVERS, KC",P002429   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,14,07:01,13,171,"GIST, JAMES",P002980   ,Off Rebound (2),O,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,14,07:01,13,172,"GIST, JAMES",P002980   ,Two Pointer (3/3 -  6 pt),2FGM,23.0,27.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,30,06:34,14,174,"CLAVER, VICTOR",P000556   ,Turnover (1),TO,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,12,06:33,14,175,"DENMON, MARCUS",P004195   ,Steal (1),ST,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,3,06:24,14,176,"RIVERS, KC",P002429   ,Turnover (1),TO,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,19,06:24,14,177,"LEKAVICIUS, LUKAS",P003210   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,33,06:24,14,178,"CALATHES, NICK",P001932   ,In,IN,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,13,06:11,14,179,"HEURTEL, THOMAS",PKLT      ,Two Pointer (2/2 -  10 pt),2FGM,23.0,29.0,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,18,05:56,15,181,"ORIOLA, PIERRE",P005917   ,Foul (2),CM,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,14,05:56,15,182,"GIST, JAMES",P002980   ,Foul Drawn (4),RV,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,14,05:56,15,183,"GIST, JAMES",P002980   ,Free Throw In (1/2 -  7 pt),FTM,24.0,29.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,33,05:56,15,184,"CALATHES, NICK",P001932   ,Assist (3),AS,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,14,05:56,15,185,"GIST, JAMES",P002980   ,Free Throw In (2/3 -  8 pt),FTM,25.0,29.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,18,05:32,15,186,"ORIOLA, PIERRE",P005917   ,Two Pointer (1/1 -  2 pt),2FGM,25.0,31.0,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,30,05:30,15,187,"CLAVER, VICTOR",P000556   ,Assist (2),AS,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,14,05:14,15,188,"GIST, JAMES",P002980   ,Missed Three Pointer (0/2 -  8 pt),3FGA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,25,05:12,15,189,"KOPONEN, PETTERI",P004178   ,Def Rebound (1),D,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,14,05:11,15,190,"GIST, JAMES",P002980   ,Foul (2),CM,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,18,05:11,15,191,"ORIOLA, PIERRE",P005917   ,Foul Drawn (3),RV,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,18,05:11,15,192,"ORIOLA, PIERRE",P005917   ,Missed Free Throw (0/3 -  2 pt),FTA,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,18,05:11,15,193,"ORIOLA, PIERRE",P005917   ,Free Throw In (1/4 -  3 pt),FTM,25.0,32.0,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,25,05:11,15,194,"KOPONEN, PETTERI",P004178   ,Assist (1),AS,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,14,04:50,16,196,"GIST, JAMES",P002980   ,Two Pointer (4/4 -  10 pt),2FGM,27.0,32.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,12,04:48,16,197,"DENMON, MARCUS",P004195   ,Assist (2),AS,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,14,04:22,16,198,"VEZENKOV, SASHA",P003469   ,Two Pointer (1/1 -  2 pt),2FGM,27.0,34.0,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,30,04:20,16,199,"CLAVER, VICTOR",P000556   ,Assist (3),AS,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,33,04:01,16,200,"CALATHES, NICK",P001932   ,Two Pointer (5/5 -  10 pt),2FGM,29.0,34.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,18,03:49,17,202,"ORIOLA, PIERRE",P005917   ,Missed Two Pointer (1/2 -  3 pt),2FGA,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,,03:45,17,205,,          ,Off Rebound (1),O,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+          ,,,03:45,17,204,,          ,TV Time Out (2),TOUT_TV,,,,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,0,03:45,17,206,"SINGLETON, CHRIS",P006614   ,In,IN,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,14,03:45,17,207,"GIST, JAMES",P002980   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,15,03:45,17,208,"VOUGIOUKAS, IAN",PTFX      ,In,IN,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,22,03:45,17,209,"GABRIEL, KENNY",P005881   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,18,03:45,17,210,"ORIOLA, PIERRE",P005917   ,Out,OUT,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,30,03:45,17,211,"CLAVER, VICTOR",P000556   ,Out,OUT,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,44,03:45,17,212,"TOMIC, ANTE",P002507   ,In,IN,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,45,03:45,17,213,"MOERMAN, ADRIEN",P001833   ,In,IN,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,13,03:32,17,214,"HEURTEL, THOMAS",PKLT      ,Missed Two Pointer (2/3 -  10 pt),2FGA,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,13,03:30,17,215,"HEURTEL, THOMAS",PKLT      ,Off Rebound (1),O,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,13,03:27,17,216,"HEURTEL, THOMAS",PKLT      ,Missed Two Pointer (2/4 -  10 pt),2FGA,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,13,03:27,17,217,"HEURTEL, THOMAS",PKLT      ,Shot Rejected (1),AG,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,15,03:27,17,218,"VOUGIOUKAS, IAN",PTFX      ,Block (1),FV,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,3,03:27,17,219,"RIVERS, KC",P002429   ,Def Rebound (1),D,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,13,03:27,17,220,"HEURTEL, THOMAS",PKLT      ,Unsportsmanlike Foul  (1),CMU,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,3,03:27,17,221,"RIVERS, KC",P002429   ,Foul Drawn (1),RV,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,3,03:27,17,222,"RIVERS, KC",P002429   ,Free Throw In (1/1 -  1 pt),FTM,30.0,34.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,3,03:27,17,223,"RIVERS, KC",P002429   ,Missed Free Throw (1/2 -  1 pt),FTA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,15,03:16,17,224,"VOUGIOUKAS, IAN",PTFX      ,Turnover (1),TO,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,25,02:56,18,226,"KOPONEN, PETTERI",P004178   ,Turnover (1),TO,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,44,02:40,18,227,"TOMIC, ANTE",P002507   ,Foul (1),CM,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,15,02:40,18,228,"VOUGIOUKAS, IAN",PTFX      ,Foul Drawn (1),RV,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,3,02:40,18,229,"RIVERS, KC",P002429   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,24,02:40,18,230,"LOJESKI, MATT",P003608   ,In,IN,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,24,02:40,18,231,"LOJESKI, MATT",P003608   ,Two Pointer (2/3 -  4 pt),2FGM,32.0,34.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,33,02:40,18,232,"CALATHES, NICK",P001932   ,Assist (4),AS,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,,02:37,18,233,,          ,Time Out (1),TOUT,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,13,02:30,18,234,"HEURTEL, THOMAS",PKLT      ,Turnover (1),TO,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,33,02:29,18,235,"CALATHES, NICK",P001932   ,Steal (2),ST,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,12,02:12,18,236,"DENMON, MARCUS",P004195   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,14,02:11,18,237,"VEZENKOV, SASHA",P003469   ,Def Rebound (2),D,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,33,01:59,19,239,"CALATHES, NICK",P001932   ,Foul (2),CM,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,44,01:59,19,240,"TOMIC, ANTE",P002507   ,Foul Drawn (3),RV,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,5,01:59,19,241,"RIBAS, PAU",PJUG      ,In,IN,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,13,01:59,19,242,"HEURTEL, THOMAS",PKLT      ,Out,OUT,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,44,01:59,19,243,"TOMIC, ANTE",P002507   ,Missed Free Throw (0/3 -  8 pt),FTA,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,44,01:59,19,244,"TOMIC, ANTE",P002507   ,Missed Free Throw (0/4 -  8 pt),FTA,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,24,01:59,19,245,"LOJESKI, MATT",P003608   ,Def Rebound (1),D,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,0,01:40,19,246,"SINGLETON, CHRIS",P006614   ,Three Pointer (1/2 -  7 pt),3FGM,35.0,34.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,12,01:40,19,247,"DENMON, MARCUS",P004195   ,Assist (3),AS,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,,01:40,19,248,,          ,Time Out (2),TOUT,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,9,01:40,19,249,"HANGA, ADAM",P005099   ,In,IN,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,14,01:40,19,250,"VEZENKOV, SASHA",P003469   ,Out,OUT,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,30,01:40,19,251,"CLAVER, VICTOR",P000556   ,In,IN,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,45,01:40,19,252,"MOERMAN, ADRIEN",P001833   ,Out,OUT,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,5,01:25,19,253,"RIBAS, PAU",PJUG      ,Missed Two Pointer (0/2 -  3 pt),2FGA,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,9,01:23,19,254,"HANGA, ADAM",P005099   ,Off Rebound (1),O,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,,01:09,19,255,,          ,Turnover (1),TO,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,33,00:53,20,257,"CALATHES, NICK",P001932   ,Missed Three Pointer (0/1 -  10 pt),3FGA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,30,00:51,20,258,"CLAVER, VICTOR",P000556   ,Def Rebound (2),D,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,5,00:40,20,259,"RIBAS, PAU",PJUG      ,Missed Three Pointer (1/2 -  3 pt),3FGA,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,,00:40,20,260,,          ,Def Rebound (3),D,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,44,00:40,20,261,"TOMIC, ANTE",P002507   ,Foul (2),CM,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,0,00:40,20,262,"SINGLETON, CHRIS",P006614   ,Foul Drawn (1),RV,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,3,00:40,20,263,"RIVERS, KC",P002429   ,In,IN,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,33,00:40,20,264,"CALATHES, NICK",P001932   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,0,00:40,20,265,"SINGLETON, CHRIS",P006614   ,Missed Free Throw (0/1 -  7 pt),FTA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,0,00:40,20,266,"SINGLETON, CHRIS",P006614   ,Free Throw In (1/2 -  8 pt),FTM,36.0,34.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,0,00:40,20,267,"SINGLETON, CHRIS",P006614   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,22,00:40,20,268,"GABRIEL, KENNY",P005881   ,In,IN,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,25,00:21,20,269,"KOPONEN, PETTERI",P004178   ,Turnover (2),TO,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,3,00:19,20,270,"RIVERS, KC",P002429   ,Steal (1),ST,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,3,00:02,20,271,"RIVERS, KC",P002429   ,Missed Three Pointer (0/2 -  1 pt),3FGA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+          ,,,,21,273,,          ,End Period,EP,,,,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+          ,,,,21,284,,          ,Begin Period,BP,,,,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,0,10:00,21,274,"SINGLETON, CHRIS",P006614   ,In,IN,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,12,10:00,21,275,"DENMON, MARCUS",P004195   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,14,10:00,21,276,"GIST, JAMES",P002980   ,In,IN,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,15,10:00,21,277,"VOUGIOUKAS, IAN",PTFX      ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,22,10:00,21,278,"GABRIEL, KENNY",P005881   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,33,10:00,21,279,"CALATHES, NICK",P001932   ,In,IN,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,11,10:00,21,280,"NAVARRO, JUAN CARLOS",PADI      ,In,IN,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,25,10:00,21,281,"KOPONEN, PETTERI",P004178   ,Out,OUT,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,30,10:00,21,282,"CLAVER, VICTOR",P000556   ,Out,OUT,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,45,10:00,21,283,"MOERMAN, ADRIEN",P001833   ,In,IN,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,24,09:54,21,285,"LOJESKI, MATT",P003608   ,Foul (1),CM,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,11,09:54,21,286,"NAVARRO, JUAN CARLOS",PADI      ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,44,09:49,21,287,"TOMIC, ANTE",P002507   ,Turnover (1),TO,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,33,09:48,21,288,"CALATHES, NICK",P001932   ,Steal (3),ST,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,33,09:45,21,289,"CALATHES, NICK",P001932   ,Missed Two Pointer (5/6 -  10 pt),2FGA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,,09:45,21,290,,          ,Off Rebound (2),O,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,24,09:35,21,291,"LOJESKI, MATT",P003608   ,Missed Two Pointer (2/4 -  4 pt),2FGA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,5,09:33,21,292,"RIBAS, PAU",PJUG      ,Def Rebound (1),D,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,44,09:20,21,293,"TOMIC, ANTE",P002507   ,Two Pointer (5/5 -  10 pt),2FGM,36.0,36.0,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,11,09:18,21,294,"NAVARRO, JUAN CARLOS",PADI      ,Assist (2),AS,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,33,09:03,21,295,"CALATHES, NICK",P001932   ,Turnover (1),TO,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,45,09:02,21,296,"MOERMAN, ADRIEN",P001833   ,Steal (1),ST,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,45,08:44,22,298,"MOERMAN, ADRIEN",P001833   ,Two Pointer (2/3 -  4 pt),2FGM,36.0,38.0,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,44,08:41,22,299,"TOMIC, ANTE",P002507   ,Assist (1),AS,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,3,08:27,22,300,"RIVERS, KC",P002429   ,Missed Three Pointer (0/3 -  1 pt),3FGA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,45,08:25,22,301,"MOERMAN, ADRIEN",P001833   ,Def Rebound (1),D,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,9,08:08,22,302,"HANGA, ADAM",P005099   ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,45,08:07,22,303,"MOERMAN, ADRIEN",P001833   ,Off Rebound (2),O,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,45,08:05,22,304,"MOERMAN, ADRIEN",P001833   ,Turnover (1),TO,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,33,08:04,22,305,"CALATHES, NICK",P001932   ,Steal (4),ST,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,11,08:04,22,306,"NAVARRO, JUAN CARLOS",PADI      ,Foul (3),CM,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,33,08:04,22,307,"CALATHES, NICK",P001932   ,Foul Drawn (2),RV,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,0,07:47,23,309,"SINGLETON, CHRIS",P006614   ,Missed Two Pointer (2/3 -  8 pt),2FGA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,9,07:45,23,310,"HANGA, ADAM",P005099   ,Def Rebound (4),D,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,44,07:41,23,311,"TOMIC, ANTE",P002507   ,Turnover (2),TO,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,3,07:23,23,312,"RIVERS, KC",P002429   ,Missed Three Pointer (0/4 -  1 pt),3FGA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,0,07:21,23,313,"SINGLETON, CHRIS",P006614   ,Off Rebound (1),O,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,44,07:21,23,314,"TOMIC, ANTE",P002507   ,Foul (3),CM,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,0,07:21,23,315,"SINGLETON, CHRIS",P006614   ,Foul Drawn (2),RV,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,0,07:21,23,316,"SINGLETON, CHRIS",P006614   ,Missed Free Throw (1/3 -  8 pt),FTA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,0,07:21,23,317,"SINGLETON, CHRIS",P006614   ,Free Throw In (2/4 -  9 pt),FTM,37.0,38.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,5,07:12,23,318,"RIBAS, PAU",PJUG      ,Two Pointer (1/3 -  5 pt),2FGM,37.0,40.0,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,14,06:55,24,320,"GIST, JAMES",P002980   ,Missed Three Pointer (0/3 -  10 pt),3FGA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,5,06:55,24,321,"RIBAS, PAU",PJUG      ,Def Rebound (2),D,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,45,06:22,24,322,"MOERMAN, ADRIEN",P001833   ,Missed Two Pointer (2/4 -  4 pt),2FGA,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,0,06:20,24,323,"SINGLETON, CHRIS",P006614   ,Def Rebound (1),D,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,33,06:12,24,324,"CALATHES, NICK",P001932   ,Missed Two Pointer (5/7 -  10 pt),2FGA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,45,06:10,24,325,"MOERMAN, ADRIEN",P001833   ,Def Rebound (2),D,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,45,05:54,25,327,"MOERMAN, ADRIEN",P001833   ,Missed Three Pointer (0/1 -  4 pt),3FGA,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,24,05:54,25,328,"LOJESKI, MATT",P003608   ,Def Rebound (2),D,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,9,05:39,25,329,"HANGA, ADAM",P005099   ,Foul (2),CM,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,0,05:39,25,330,"SINGLETON, CHRIS",P006614   ,Foul Drawn (3),RV,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,3,05:39,25,331,"RIVERS, KC",P002429   ,Two Pointer (1/1 -  3 pt),2FGM,39.0,40.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,33,05:39,25,332,"CALATHES, NICK",P001932   ,Assist (5),AS,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,44,05:22,25,333,"TOMIC, ANTE",P002507   ,Turnover (3),TO,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,3,05:22,25,334,"RIVERS, KC",P002429   ,Steal (2),ST,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,3,05:00,26,336,"RIVERS, KC",P002429   ,Missed Three Pointer (0/5 -  3 pt),3FGA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,11,04:57,26,337,"NAVARRO, JUAN CARLOS",PADI      ,Def Rebound (2),D,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,45,04:50,26,338,"MOERMAN, ADRIEN",P001833   ,Missed Three Pointer (0/2 -  4 pt),3FGA,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,9,04:49,26,339,"HANGA, ADAM",P005099   ,Off Rebound (2),O,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,0,04:49,26,340,"SINGLETON, CHRIS",P006614   ,Foul (3),CM,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,9,04:49,26,341,"HANGA, ADAM",P005099   ,Foul Drawn (2),RV,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+          ,,,04:49,26,342,,          ,TV Time Out (3),TOUT_TV,,,,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,11,04:38,26,343,"NAVARRO, JUAN CARLOS",PADI      ,Missed Three Pointer (1/3 -  3 pt),3FGA,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,45,04:36,26,344,"MOERMAN, ADRIEN",P001833   ,Off Rebound (3),O,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,45,04:22,26,345,"MOERMAN, ADRIEN",P001833   ,Missed Two Pointer (2/5 -  4 pt),2FGA,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,45,04:22,26,346,"MOERMAN, ADRIEN",P001833   ,Shot Rejected (1),AG,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,14,04:22,26,347,"GIST, JAMES",P002980   ,Block (1),FV,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,,04:22,26,348,,          ,Turnover (2),TO,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,18,04:22,26,349,"ORIOLA, PIERRE",P005917   ,In,IN,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,30,04:22,26,350,"CLAVER, VICTOR",P000556   ,In,IN,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,44,04:22,26,351,"TOMIC, ANTE",P002507   ,Out,OUT,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,45,04:22,26,352,"MOERMAN, ADRIEN",P001833   ,Out,OUT,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,14,04:12,26,353,"GIST, JAMES",P002980   ,Two Pointer (5/5 -  12 pt),2FGM,41.0,40.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,33,04:12,26,354,"CALATHES, NICK",P001932   ,Assist (6),AS,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,18,04:12,26,355,"ORIOLA, PIERRE",P005917   ,Foul (3),CM,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,14,04:12,26,356,"GIST, JAMES",P002980   ,Foul Drawn (5),RV,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,11,04:12,26,357,"NAVARRO, JUAN CARLOS",PADI      ,Out,OUT,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,25,04:12,26,358,"KOPONEN, PETTERI",P004178   ,In,IN,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,14,04:12,26,359,"GIST, JAMES",P002980   ,Free Throw In (3/4 -  13 pt),FTM,42.0,40.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,9,03:51,27,361,"HANGA, ADAM",P005099   ,Missed Three Pointer (0/3 -  0 pt),3FGA,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,,03:51,27,362,,          ,Off Rebound (3),O,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,3,03:51,27,363,"RIVERS, KC",P002429   ,Foul (1),CM,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,18,03:51,27,364,"ORIOLA, PIERRE",P005917   ,Foul Drawn (4),RV,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,5,03:51,27,365,"RIBAS, PAU",PJUG      ,Out,OUT,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,13,03:51,27,366,"HEURTEL, THOMAS",PKLT      ,In,IN,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,,03:37,27,367,,          ,Turnover (3),TO,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,33,03:28,27,368,"CALATHES, NICK",P001932   ,Two Pointer (6/8 -  12 pt),2FGM,44.0,40.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,13,03:16,27,369,"HEURTEL, THOMAS",PKLT      ,Missed Two Pointer (2/5 -  10 pt),2FGA,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,0,03:14,27,370,"SINGLETON, CHRIS",P006614   ,Def Rebound (2),D,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,30,03:04,27,371,"CLAVER, VICTOR",P000556   ,Foul (1),CM,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,14,03:04,27,372,"GIST, JAMES",P002980   ,Foul Drawn (6),RV,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,9,03:04,27,373,"HANGA, ADAM",P005099   ,Out,OUT,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,14,03:04,27,374,"VEZENKOV, SASHA",P003469   ,In,IN,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,14,03:04,27,375,"GIST, JAMES",P002980   ,Free Throw In (4/5 -  14 pt),FTM,45.0,40.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,14,03:04,27,376,"GIST, JAMES",P002980   ,Free Throw In (5/6 -  15 pt),FTM,46.0,40.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,,03:04,27,377,,          ,Time Out (1),TOUT,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,24,02:41,28,379,"LOJESKI, MATT",P003608   ,Foul (2),CM,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,18,02:41,28,380,"ORIOLA, PIERRE",P005917   ,Foul Drawn (5),RV,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,18,02:41,28,381,"ORIOLA, PIERRE",P005917   ,Free Throw In (2/5 -  4 pt),FTM,46.0,41.0,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,18,02:41,28,382,"ORIOLA, PIERRE",P005917   ,Free Throw In (3/6 -  5 pt),FTM,46.0,42.0,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,0,02:23,28,383,"SINGLETON, CHRIS",P006614   ,Three Pointer (2/3 -  12 pt),3FGM,49.0,42.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,33,02:21,28,384,"CALATHES, NICK",P001932   ,Assist (7),AS,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,14,02:05,28,385,"GIST, JAMES",P002980   ,Foul (3),CM,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,13,02:05,28,386,"HEURTEL, THOMAS",PKLT      ,Foul Drawn (2),RV,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,3,02:05,28,387,"RIVERS, KC",P002429   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,11,02:05,28,388,"PAPPAS, NIKOS",P000464   ,In,IN,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,14,02:05,28,389,"GIST, JAMES",P002980   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,22,02:05,28,390,"GABRIEL, KENNY",P005881   ,In,IN,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,13,02:05,28,391,"HEURTEL, THOMAS",PKLT      ,Free Throw In (1/1 -  11 pt),FTM,49.0,43.0,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,13,02:05,28,392,"HEURTEL, THOMAS",PKLT      ,Free Throw In (2/2 -  12 pt),FTM,49.0,44.0,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,,01:40,29,394,,          ,Turnover (4),TO,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,25,01:23,29,395,"KOPONEN, PETTERI",P004178   ,Missed Two Pointer (0/1 -  3 pt),2FGA,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,22,01:21,29,396,"GABRIEL, KENNY",P005881   ,Def Rebound (2),D,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,18,01:19,29,397,"ORIOLA, PIERRE",P005917   ,Foul (4),CM,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,33,01:19,29,398,"CALATHES, NICK",P001932   ,Foul Drawn (3),RV,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,0,01:19,29,399,"SINGLETON, CHRIS",P006614   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,15,01:19,29,400,"VOUGIOUKAS, IAN",PTFX      ,In,IN,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,33,01:19,29,401,"CALATHES, NICK",P001932   ,Missed Free Throw (0/2 -  12 pt),FTA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,33,01:19,29,402,"CALATHES, NICK",P001932   ,Free Throw In (1/3 -  13 pt),FTM,50.0,44.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,15,01:09,29,403,"VOUGIOUKAS, IAN",PTFX      ,Foul (1),CM,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,13,01:09,29,404,"HEURTEL, THOMAS",PKLT      ,Foul Drawn (3),RV,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,13,01:09,29,405,"HEURTEL, THOMAS",PKLT      ,Free Throw In (3/3 -  13 pt),FTM,50.0,45.0,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,13,01:09,29,406,"HEURTEL, THOMAS",PKLT      ,Free Throw In (4/4 -  14 pt),FTM,50.0,46.0,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,11,00:48,30,408,"PAPPAS, NIKOS",P000464   ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,15,00:47,30,409,"VOUGIOUKAS, IAN",PTFX      ,Off Rebound (1),O,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,15,00:35,30,410,"VOUGIOUKAS, IAN",PTFX      ,Two Pointer (1/1 -  2 pt),2FGM,52.0,46.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,13,00:26,30,411,"HEURTEL, THOMAS",PKLT      ,Turnover (2),TO,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,33,00:25,30,412,"CALATHES, NICK",P001932   ,Steal (5),ST,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,24,00:21,30,413,"LOJESKI, MATT",P003608   ,Two Pointer (3/5 -  6 pt),2FGM,54.0,46.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,33,00:20,30,414,"CALATHES, NICK",P001932   ,Assist (8),AS,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,15,00:20,30,415,"VOUGIOUKAS, IAN",PTFX      ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,43,00:20,30,416,"ANTETOKOUNMPO, THANASIS",P007865   ,In,IN,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,13,00:02,30,417,"HEURTEL, THOMAS",PKLT      ,Two Pointer (3/6 -  16 pt),2FGM,54.0,48.0,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+          ,,,,31,419,,          ,End Period,EP,,,,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+          ,,,,31,422,,          ,Begin Period,BP,,,,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,15,10:00,31,420,"VOUGIOUKAS, IAN",PTFX      ,In,IN,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,43,10:00,31,421,"ANTETOKOUNMPO, THANASIS",P007865   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,13,09:38,31,423,"HEURTEL, THOMAS",PKLT      ,Two Pointer (4/7 -  18 pt),2FGM,54.0,50.0,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,30,09:21,31,424,"CLAVER, VICTOR",P000556   ,Foul (2),CM,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,15,09:21,31,425,"VOUGIOUKAS, IAN",PTFX      ,Foul Drawn (2),RV,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,30,09:09,31,426,"CLAVER, VICTOR",P000556   ,Foul (3),CM,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,11,09:09,31,427,"PAPPAS, NIKOS",P000464   ,Foul Drawn (1),RV,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,11,09:09,31,428,"PAPPAS, NIKOS",P000464   ,Free Throw In (1/2 -  1 pt),FTM,55.0,50.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,11,09:09,31,429,"PAPPAS, NIKOS",P000464   ,Free Throw In (2/3 -  2 pt),FTM,56.0,50.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,15,08:54,32,431,"VOUGIOUKAS, IAN",PTFX      ,Foul (2),CM,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,18,08:54,32,432,"ORIOLA, PIERRE",P005917   ,Foul Drawn (6),RV,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,18,08:54,32,433,"ORIOLA, PIERRE",P005917   ,Free Throw In (4/7 -  6 pt),FTM,56.0,51.0,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,13,08:54,32,434,"HEURTEL, THOMAS",PKLT      ,Assist (1),AS,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,18,08:54,32,435,"ORIOLA, PIERRE",P005917   ,Free Throw In (5/8 -  7 pt),FTM,56.0,52.0,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,15,08:33,32,436,"VOUGIOUKAS, IAN",PTFX      ,Two Pointer (2/2 -  4 pt),2FGM,58.0,52.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,13,08:12,32,437,"HEURTEL, THOMAS",PKLT      ,Missed Two Pointer (4/8 -  18 pt),2FGA,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,13,08:10,32,438,"HEURTEL, THOMAS",PKLT      ,Off Rebound (2),O,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,25,07:58,33,440,"KOPONEN, PETTERI",P004178   ,Two Pointer (1/2 -  5 pt),2FGM,58.0,54.0,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,33,07:39,33,441,"CALATHES, NICK",P001932   ,Two Pointer (7/9 -  15 pt),2FGM,60.0,54.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,15,07:39,33,442,"VOUGIOUKAS, IAN",PTFX      ,Assist (1),AS,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,25,07:39,33,443,"KOPONEN, PETTERI",P004178   ,Foul (1),CM,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,33,07:39,33,444,"CALATHES, NICK",P001932   ,Foul Drawn (4),RV,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,3,07:39,33,445,"RIVERS, KC",P002429   ,In,IN,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,24,07:39,33,446,"LOJESKI, MATT",P003608   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,33,07:39,33,447,"CALATHES, NICK",P001932   ,Missed Free Throw (1/4 -  15 pt),FTA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,15,07:39,33,448,"VOUGIOUKAS, IAN",PTFX      ,Off Rebound (2),O,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,33,07:34,33,449,"CALATHES, NICK",P001932   ,Missed Three Pointer (0/2 -  15 pt),3FGA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,30,07:32,33,450,"CLAVER, VICTOR",P000556   ,Def Rebound (3),D,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,11,07:29,33,451,"PAPPAS, NIKOS",P000464   ,Foul (1),CM,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,13,07:29,33,452,"HEURTEL, THOMAS",PKLT      ,Foul Drawn (4),RV,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,13,07:16,33,453,"HEURTEL, THOMAS",PKLT      ,Missed Two Pointer (4/9 -  18 pt),2FGA,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,13,07:16,33,454,"HEURTEL, THOMAS",PKLT      ,Shot Rejected (2),AG,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,15,07:14,33,455,"VOUGIOUKAS, IAN",PTFX      ,Block (2),FV,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,33,07:14,33,456,"CALATHES, NICK",P001932   ,Def Rebound (3),D,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,11,07:14,33,457,"PAPPAS, NIKOS",P000464   ,Two Pointer (1/4 -  4 pt),2FGM,62.0,54.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,33,07:14,33,458,"CALATHES, NICK",P001932   ,Assist (9),AS,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,14,07:14,33,459,"GIST, JAMES",P002980   ,In,IN,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,15,07:14,33,460,"VOUGIOUKAS, IAN",PTFX      ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,5,07:14,33,461,"RIBAS, PAU",PJUG      ,In,IN,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,9,07:14,33,462,"HANGA, ADAM",P005099   ,In,IN,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,13,07:14,33,463,"HEURTEL, THOMAS",PKLT      ,Out,OUT,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,14,07:14,33,464,"VEZENKOV, SASHA",P003469   ,Out,OUT,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,18,07:14,33,465,"ORIOLA, PIERRE",P005917   ,Out,OUT,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,44,07:14,33,466,"TOMIC, ANTE",P002507   ,In,IN,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,11,06:55,34,468,"PAPPAS, NIKOS",P000464   ,Foul (2),CM,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,25,06:55,34,469,"KOPONEN, PETTERI",P004178   ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,44,06:43,34,470,"TOMIC, ANTE",P002507   ,Two Pointer (6/6 -  12 pt),2FGM,62.0,56.0,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,30,06:42,34,471,"CLAVER, VICTOR",P000556   ,Assist (4),AS,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,22,06:30,34,472,"GABRIEL, KENNY",P005881   ,Three Pointer (1/2 -  4 pt),3FGM,65.0,56.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,33,06:28,34,473,"CALATHES, NICK",P001932   ,Assist (10),AS,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,25,06:10,34,474,"KOPONEN, PETTERI",P004178   ,Missed Three Pointer (1/2 -  5 pt),3FGA,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,44,06:09,34,475,"TOMIC, ANTE",P002507   ,Off Rebound (1),O,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,22,06:09,34,476,"GABRIEL, KENNY",P005881   ,Foul (2),CM,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,44,06:09,34,477,"TOMIC, ANTE",P002507   ,Foul Drawn (4),RV,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,12,06:09,34,478,"DENMON, MARCUS",P004195   ,In,IN,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,33,06:09,34,479,"CALATHES, NICK",P001932   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,,06:09,34,480,,          ,Time Out (1),TOUT,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,25,06:08,34,481,"KOPONEN, PETTERI",P004178   ,Missed Two Pointer (1/3 -  5 pt),2FGA,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,,06:08,34,482,,          ,Def Rebound (4),D,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,44,06:08,34,483,"TOMIC, ANTE",P002507   ,Foul (4),CM,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,22,06:08,34,484,"GABRIEL, KENNY",P005881   ,Foul Drawn (2),RV,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,44,06:08,34,485,"TOMIC, ANTE",P002507   ,Technical Foul (5),CMT,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,22,06:08,34,486,"GABRIEL, KENNY",P005881   ,Technical Foul (3),CMT,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,44,05:59,35,488,"TOMIC, ANTE",P002507   ,Out,OUT,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,45,05:59,35,489,"MOERMAN, ADRIEN",P001833   ,In,IN,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,18,05:59,35,490,"ORIOLA, PIERRE",P005917   ,In,IN,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,45,05:59,35,491,"MOERMAN, ADRIEN",P001833   ,Out,OUT,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,11,05:59,35,492,"NAVARRO, JUAN CARLOS",PADI      ,In,IN,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,25,05:59,35,493,"KOPONEN, PETTERI",P004178   ,Out,OUT,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,30,05:55,35,494,"CLAVER, VICTOR",P000556   ,Out,OUT,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,45,05:55,35,495,"MOERMAN, ADRIEN",P001833   ,In,IN,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,11,05:46,35,496,"PAPPAS, NIKOS",P000464   ,Two Pointer (2/5 -  6 pt),2FGM,67.0,56.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,5,05:30,35,497,"RIBAS, PAU",PJUG      ,Turnover (1),TO,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,14,05:28,35,498,"GIST, JAMES",P002980   ,Steal (2),ST,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,11,05:18,35,499,"PAPPAS, NIKOS",P000464   ,Offensive Foul (3),OF,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,11,05:18,35,500,"PAPPAS, NIKOS",P000464   ,Turnover (1),TO,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,5,05:18,35,501,"RIBAS, PAU",PJUG      ,Foul Drawn (2),RV,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,12,05:04,35,502,"DENMON, MARCUS",P004195   ,Foul (1),CM,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,45,05:04,35,503,"MOERMAN, ADRIEN",P001833   ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,45,05:04,35,504,"MOERMAN, ADRIEN",P001833   ,Free Throw In (1/1 -  5 pt),FTM,67.0,57.0,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,45,05:04,35,505,"MOERMAN, ADRIEN",P001833   ,Free Throw In (2/2 -  6 pt),FTM,67.0,58.0,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,12,04:43,36,507,"DENMON, MARCUS",P004195   ,Missed Two Pointer (1/3 -  2 pt),2FGA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,12,04:43,36,508,"DENMON, MARCUS",P004195   ,Shot Rejected (1),AG,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,9,04:41,36,509,"HANGA, ADAM",P005099   ,Block (1),FV,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,45,04:39,36,510,"MOERMAN, ADRIEN",P001833   ,Def Rebound (3),D,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,0,04:39,36,511,"SINGLETON, CHRIS",P006614   ,In,IN,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,22,04:39,36,512,"GABRIEL, KENNY",P005881   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,11,04:35,36,513,"NAVARRO, JUAN CARLOS",PADI      ,Two Pointer (1/1 -  5 pt),2FGM,67.0,60.0,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,5,04:33,36,514,"RIBAS, PAU",PJUG      ,Assist (2),AS,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,11,04:17,36,515,"PAPPAS, NIKOS",P000464   ,Two Pointer (3/6 -  8 pt),2FGM,69.0,60.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,9,03:57,37,517,"HANGA, ADAM",P005099   ,Two Pointer (1/2 -  2 pt),2FGM,69.0,62.0,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,45,03:55,37,518,"MOERMAN, ADRIEN",P001833   ,Assist (3),AS,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,12,03:31,37,519,"DENMON, MARCUS",P004195   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,33,03:31,37,520,"CALATHES, NICK",P001932   ,In,IN,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,5,03:31,37,521,"RIBAS, PAU",PJUG      ,Out,OUT,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,30,03:31,37,522,"CLAVER, VICTOR",P000556   ,In,IN,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,3,03:27,37,523,"RIVERS, KC",P002429   ,Missed Three Pointer (0/6 -  3 pt),3FGA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,0,03:25,37,524,"SINGLETON, CHRIS",P006614   ,Off Rebound (2),O,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,11,03:17,37,525,"PAPPAS, NIKOS",P000464   ,Two Pointer (4/7 -  10 pt),2FGM,71.0,62.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,33,03:15,37,526,"CALATHES, NICK",P001932   ,Assist (11),AS,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,9,02:58,38,528,"HANGA, ADAM",P005099   ,Turnover (3),TO,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,5,02:58,38,529,"RIBAS, PAU",PJUG      ,In,IN,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,30,02:58,38,530,"CLAVER, VICTOR",P000556   ,Out,OUT,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,11,02:52,38,531,"PAPPAS, NIKOS",P000464   ,Two Pointer (5/8 -  12 pt),2FGM,73.0,62.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,33,02:52,38,532,"CALATHES, NICK",P001932   ,Assist (12),AS,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,,02:52,38,533,,          ,Time Out (2),TOUT,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,3,02:39,38,534,"RIVERS, KC",P002429   ,Foul (2),CM,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,9,02:39,38,535,"HANGA, ADAM",P005099   ,Foul Drawn (3),RV,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,9,02:39,38,536,"HANGA, ADAM",P005099   ,Missed Free Throw (0/1 -  2 pt),FTA,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,9,02:39,38,537,"HANGA, ADAM",P005099   ,Free Throw In (1/2 -  3 pt),FTM,73.0,63.0,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,,02:18,38,538,,          ,Time Out (1),TOUT,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,3,02:18,38,539,"RIVERS, KC",P002429   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,24,02:18,38,540,"LOJESKI, MATT",P003608   ,In,IN,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,33,02:12,38,541,"CALATHES, NICK",P001932   ,Missed Three Pointer (0/3 -  15 pt),3FGA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,,02:12,38,542,,          ,Turnover (5),TO,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,0,02:05,38,543,"SINGLETON, CHRIS",P006614   ,Foul (4),CM,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,11,02:05,38,544,"NAVARRO, JUAN CARLOS",PADI      ,Foul Drawn (2),RV,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,11,02:05,38,545,"NAVARRO, JUAN CARLOS",PADI      ,Free Throw In (1/1 -  6 pt),FTM,73.0,64.0,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,11,02:05,38,546,"NAVARRO, JUAN CARLOS",PADI      ,Free Throw In (2/2 -  7 pt),FTM,73.0,65.0,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,11,01:43,39,548,"PAPPAS, NIKOS",P000464   ,Three Pointer (1/3 -  15 pt),3FGM,76.0,65.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,11,01:36,39,549,"NAVARRO, JUAN CARLOS",PADI      ,Missed Three Pointer (1/4 -  7 pt),3FGA,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,0,01:34,39,550,"SINGLETON, CHRIS",P006614   ,Def Rebound (3),D,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,0,01:30,39,551,"SINGLETON, CHRIS",P006614   ,Two Pointer (3/4 -  14 pt),2FGM,78.0,65.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,14,01:30,39,552,"GIST, JAMES",P002980   ,Assist (2),AS,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,45,01:10,39,553,"MOERMAN, ADRIEN",P001833   ,Two Pointer (3/6 -  8 pt),2FGM,78.0,67.0,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,33,00:52,40,555,"CALATHES, NICK",P001932   ,Two Pointer (8/10 -  17 pt),2FGM,80.0,67.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,11,00:52,40,556,"NAVARRO, JUAN CARLOS",PADI      ,Out,OUT,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,13,00:52,40,557,"HEURTEL, THOMAS",PKLT      ,In,IN,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,5,00:35,40,558,"RIBAS, PAU",PJUG      ,Three Pointer (2/3 -  8 pt),3FGM,80.0,70.0,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,13,00:35,40,559,"HEURTEL, THOMAS",PKLT      ,Assist (2),AS,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,11,00:24,40,560,"PAPPAS, NIKOS",P000464   ,Missed Three Pointer (1/4 -  15 pt),3FGA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,14,00:22,40,561,"GIST, JAMES",P002980   ,Off Rebound (3),O,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,18,00:23,40,562,"ORIOLA, PIERRE",P005917   ,Foul (5),CM,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,14,00:23,40,563,"GIST, JAMES",P002980   ,Foul Drawn (7),RV,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,11,00:23,40,564,"PAPPAS, NIKOS",P000464   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,43,00:23,40,565,"ANTETOKOUNMPO, THANASIS",P007865   ,In,IN,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,18,00:23,40,566,"ORIOLA, PIERRE",P005917   ,Out,OUT,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,30,00:23,40,567,"CLAVER, VICTOR",P000556   ,In,IN,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,14,00:23,40,568,"GIST, JAMES",P002980   ,Free Throw In (6/7 -  16 pt),FTM,81.0,70.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,14,00:23,40,569,"GIST, JAMES",P002980   ,Free Throw In (7/8 -  17 pt),FTM,82.0,70.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,0,00:09,40,570,"SINGLETON, CHRIS",P006614   ,Foul (5),CM,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,5,00:09,40,571,"RIBAS, PAU",PJUG      ,Foul Drawn (3),RV,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,0,00:09,40,572,"SINGLETON, CHRIS",P006614   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,22,00:09,40,573,"GABRIEL, KENNY",P005881   ,In,IN,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,5,00:09,40,574,"RIBAS, PAU",PJUG      ,Free Throw In (1/1 -  9 pt),FTM,82.0,71.0,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,5,00:09,40,575,"RIBAS, PAU",PJUG      ,Free Throw In (2/2 -  10 pt),FTM,82.0,72.0,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,43,00:02,40,576,"ANTETOKOUNMPO, THANASIS",P007865   ,Two Pointer (1/2 -  2 pt),2FGM,84.0,72.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+PAN       ,,24,00:02,40,577,"LOJESKI, MATT",P003608   ,Assist (1),AS,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,45,00:02,40,578,"MOERMAN, ADRIEN",P001833   ,Three Pointer (1/3 -  11 pt),3FGM,84.0,75.0,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+BAR       ,,13,00:02,40,579,"HEURTEL, THOMAS",PKLT      ,Assist (3),AS,,,FC Barcelona Lassa,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR
+          ,,,,41,582,,          ,End Game,EG,,,,0,Panathinaikos Superfoods Athens,PAN,FC Barcelona Lassa,BAR

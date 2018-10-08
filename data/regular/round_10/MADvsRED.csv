@@ -1,545 +1,545 @@
-CODETEAM,COMMENT,DORSAL,MARKERTIME,MINUTE,NUMBEROFPLAY,PLAYER,PLAYER_ID,PLAYINFO,PLAYTYPE,POINTS_A,POINTS_B,TEAM,TYPE
-          ,,,,1,6,,          ,Begin Period,BP,,,,0
-MAD       ,,16,09:45,1,7,"YUSTA, SANTI",P005368   ,Turnover (1),TO,,,Real Madrid,0
-RED       ,,14,09:24,1,8,"FELDEINE, JAMES",P005918   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Crvena Zvezda mts Belgrade,0
-MAD       ,,16,09:21,1,9,"YUSTA, SANTI",P005368   ,Def Rebound (1),D,,,Real Madrid,0
-MAD       ,,1,09:15,1,10,"CAUSEUR, FABIEN",P001392   ,Foul Drawn (1),RV,,,Real Madrid,0
-RED       ,,22,09:15,1,11,"ROCHESTIE, TAYLOR",P002972   ,Foul (1),CM,,,Crvena Zvezda mts Belgrade,0
-MAD       ,,33,09:07,1,12,"THOMPKINS, TREY",P005836   ,Foul Drawn (1),RV,,,Real Madrid,0
-RED       ,,51,09:07,1,13,"BJELICA, MILKO",PCHX      ,Foul (1),CM,,,Crvena Zvezda mts Belgrade,0
-MAD       ,,11,08:57,2,15,"CAMPAZZO, FACUNDO",P005928   ,Turnover (1),TO,,,Real Madrid,0
-RED       ,,14,08:55,2,16,"FELDEINE, JAMES",P005918   ,Steal (1),ST,,,Crvena Zvezda mts Belgrade,0
-RED       ,,14,08:51,2,17,"FELDEINE, JAMES",P005918   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Crvena Zvezda mts Belgrade,0
-RED       ,,26,08:51,2,18,"LESSORT, MATHIAS",P003842   ,Off Rebound (1),O,,,Crvena Zvezda mts Belgrade,0
-RED       ,,22,08:51,2,19,"ROCHESTIE, TAYLOR",P002972   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Crvena Zvezda mts Belgrade,0
-MAD       ,,16,08:51,2,20,"YUSTA, SANTI",P005368   ,Def Rebound (2),D,,,Real Madrid,0
-MAD       ,,22,08:22,2,21,"TAVARES, WALTER",P005791   ,Two Pointer (1/1 -  2 pt),2FGM,2.0,,Real Madrid,0
-MAD       ,,16,08:19,2,22,"YUSTA, SANTI",P005368   ,Assist (1),AS,,,Real Madrid,0
-RED       ,,22,08:05,2,23,"ROCHESTIE, TAYLOR",P002972   ,Three Pointer (1/2 -  3 pt),3FGM,2.0,3.0,Crvena Zvezda mts Belgrade,0
-RED       ,,51,08:03,2,24,"BJELICA, MILKO",PCHX      ,Assist (1),AS,,,Crvena Zvezda mts Belgrade,0
-MAD       ,,16,07:40,3,26,"YUSTA, SANTI",P005368   ,Three Pointer (1/1 -  3 pt),3FGM,5.0,3.0,Real Madrid,0
-MAD       ,,11,07:38,3,27,"CAMPAZZO, FACUNDO",P005928   ,Assist (1),AS,,,Real Madrid,0
-RED       ,,26,07:21,3,28,"LESSORT, MATHIAS",P003842   ,Two Pointer (1/1 -  2 pt),2FGM,5.0,5.0,Crvena Zvezda mts Belgrade,0
-RED       ,,51,07:19,3,29,"BJELICA, MILKO",PCHX      ,Assist (2),AS,,,Crvena Zvezda mts Belgrade,0
-MAD       ,,16,07:06,3,30,"YUSTA, SANTI",P005368   ,Missed Two Pointer (0/1 -  3 pt),2FGA,,,Real Madrid,0
-MAD       ,,16,07:59,3,34,"YUSTA, SANTI",P005368   ,Shot Rejected (1),AG,,,Real Madrid,0
-RED       ,,26,07:04,3,31,"LESSORT, MATHIAS",P003842   ,Block (1),FV,,,Crvena Zvezda mts Belgrade,0
-RED       ,,51,07:04,3,32,"BJELICA, MILKO",PCHX      ,Def Rebound (1),D,,,Crvena Zvezda mts Belgrade,0
-          ,,,07:04,3,35,,          ,TV Time Out (1),TOUT_TV,,,,0
-RED       ,,14,07:00,3,36,"FELDEINE, JAMES",P005918   ,Turnover (1),TO,,,Crvena Zvezda mts Belgrade,0
-MAD       ,,1,06:59,4,38,"CAUSEUR, FABIEN",P001392   ,Steal (1),ST,,,Real Madrid,0
-MAD       ,,11,06:53,4,39,"CAMPAZZO, FACUNDO",P005928   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Real Madrid,0
-MAD       ,,22,06:53,4,40,"TAVARES, WALTER",P005791   ,Off Rebound (1),O,,,Real Madrid,0
-MAD       ,,33,06:53,4,42,"THOMPKINS, TREY",P005836   ,Three Pointer (1/1 -  3 pt),3FGM,8.0,5.0,Real Madrid,0
-MAD       ,,16,06:53,4,43,"YUSTA, SANTI",P005368   ,Assist (2),AS,,,Real Madrid,0
-RED       ,,51,06:31,4,44,"BJELICA, MILKO",PCHX      ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Crvena Zvezda mts Belgrade,0
-MAD       ,,11,06:30,4,45,"CAMPAZZO, FACUNDO",P005928   ,Def Rebound (1),D,,,Real Madrid,0
-MAD       ,,11,06:30,4,46,"CAMPAZZO, FACUNDO",P005928   ,Foul Drawn (1),RV,,,Real Madrid,0
-RED       ,,6,06:30,4,47,"DANGUBIC, NEMANJA",P005942   ,Foul (1),CM,,,Crvena Zvezda mts Belgrade,0
-MAD       ,,1,06:21,4,48,"CAUSEUR, FABIEN",P001392   ,Foul Drawn (2),RV,,,Real Madrid,0
-RED       ,,22,06:21,4,49,"ROCHESTIE, TAYLOR",P002972   ,Foul (2),CM,,,Crvena Zvezda mts Belgrade,0
-RED       ,,7,06:21,4,50,"DAVIDOVAC, DEJAN",P007960   ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,22,06:21,4,51,"ROCHESTIE, TAYLOR",P002972   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-MAD       ,,16,06:10,4,52,"YUSTA, SANTI",P005368   ,Turnover (2),TO,,,Real Madrid,0
-RED       ,,7,06:06,4,53,"DAVIDOVAC, DEJAN",P007960   ,Steal (1),ST,,,Crvena Zvezda mts Belgrade,0
-RED       ,,7,06:03,4,54,"DAVIDOVAC, DEJAN",P007960   ,Foul Drawn (1),RV,,,Crvena Zvezda mts Belgrade,0
-MAD       ,,16,06:03,4,55,"YUSTA, SANTI",P005368   ,Foul (1),CM,,,Real Madrid,0
-RED       ,,26,05:50,5,57,"LESSORT, MATHIAS",P003842   ,Foul Drawn (1),RV,,,Crvena Zvezda mts Belgrade,0
-MAD       ,,16,05:50,5,58,"YUSTA, SANTI",P005368   ,Foul (2),CM,,,Real Madrid,0
-RED       ,,6,05:50,5,59,"DANGUBIC, NEMANJA",P005942   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,10,05:50,5,60,"LAZIC, BRANKO",PLUO      ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,26,05:50,5,61,"LESSORT, MATHIAS",P003842   ,Free Throw In (1/1 -  3 pt),FTM,8.0,6.0,Crvena Zvezda mts Belgrade,0
-RED       ,,14,05:50,5,62,"FELDEINE, JAMES",P005918   ,Assist (1),AS,,,Crvena Zvezda mts Belgrade,0
-RED       ,,26,05:50,5,63,"LESSORT, MATHIAS",P003842   ,Missed Free Throw (1/2 -  3 pt),FTA,,,Crvena Zvezda mts Belgrade,0
-MAD       ,,33,05:50,5,64,"THOMPKINS, TREY",P005836   ,Def Rebound (1),D,,,Real Madrid,0
-MAD       ,,11,05:38,5,65,"CAMPAZZO, FACUNDO",P005928   ,Turnover (2),TO,,,Real Madrid,0
-RED       ,,7,05:38,5,66,"DAVIDOVAC, DEJAN",P007960   ,Foul Drawn (2),RV,,,Crvena Zvezda mts Belgrade,0
-MAD       ,,16,05:38,5,67,"YUSTA, SANTI",P005368   ,Foul (3),CM,,,Real Madrid,0
-MAD       ,,7,05:38,5,68,"DONCIC, LUKA",P005929   ,In,IN,,,Real Madrid,0
-MAD       ,,16,05:38,5,69,"YUSTA, SANTI",P005368   ,Out,OUT,,,Real Madrid,0
-RED       ,,7,05:38,5,70,"DAVIDOVAC, DEJAN",P007960   ,Free Throw In (1/1 -  1 pt),FTM,8.0,7.0,Crvena Zvezda mts Belgrade,0
-RED       ,,7,05:38,5,71,"DAVIDOVAC, DEJAN",P007960   ,Free Throw In (2/2 -  2 pt),FTM,8.0,8.0,Crvena Zvezda mts Belgrade,0
-MAD       ,,22,05:10,5,72,"TAVARES, WALTER",P005791   ,Turnover (1),TO,,,Real Madrid,0
-RED       ,,26,05:06,5,73,"LESSORT, MATHIAS",P003842   ,Steal (1),ST,,,Crvena Zvezda mts Belgrade,0
-RED       ,,51,05:01,5,74,"BJELICA, MILKO",PCHX      ,Three Pointer (1/2 -  3 pt),3FGM,8.0,11.0,Crvena Zvezda mts Belgrade,0
-RED       ,,14,05:01,5,75,"FELDEINE, JAMES",P005918   ,Assist (2),AS,,,Crvena Zvezda mts Belgrade,0
-MAD       ,,,05:01,5,76,,          ,Time Out (1),TOUT,,,Real Madrid,0
-MAD       ,,9,05:01,5,77,"REYES, FELIPE",PAAX      ,In,IN,,,Real Madrid,0
-MAD       ,,22,05:01,5,78,"TAVARES, WALTER",P005791   ,Out,OUT,,,Real Madrid,0
-MAD       ,,7,04:53,6,80,"DONCIC, LUKA",P005929   ,Two Pointer (1/1 -  2 pt),2FGM,10.0,11.0,Real Madrid,0
-MAD       ,,33,04:53,6,81,"THOMPKINS, TREY",P005836   ,Assist (1),AS,,,Real Madrid,0
-RED       ,,51,04:16,6,82,"BJELICA, MILKO",PCHX      ,Missed Two Pointer (0/1 -  3 pt),2FGA,,,Crvena Zvezda mts Belgrade,0
-RED       ,,26,04:15,6,83,"LESSORT, MATHIAS",P003842   ,Off Rebound (2),O,,,Crvena Zvezda mts Belgrade,0
-RED       ,,26,04:15,6,84,"LESSORT, MATHIAS",P003842   ,Missed Two Pointer (1/2 -  3 pt),2FGA,,,Crvena Zvezda mts Belgrade,0
-MAD       ,,,04:15,6,85,,          ,Def Rebound (1),D,,,Real Madrid,0
-MAD       ,,9,03:57,7,87,"REYES, FELIPE",PAAX      ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Real Madrid,0
-RED       ,,51,03:54,7,88,"BJELICA, MILKO",PCHX      ,Def Rebound (2),D,,,Crvena Zvezda mts Belgrade,0
-RED       ,,51,03:51,7,89,"BJELICA, MILKO",PCHX      ,Foul Drawn (1),RV,,,Crvena Zvezda mts Belgrade,0
-MAD       ,,33,03:51,7,90,"THOMPKINS, TREY",P005836   ,Foul (1),CM,,,Real Madrid,0
-MAD       ,,1,03:51,7,91,"CAUSEUR, FABIEN",P001392   ,Out,OUT,,,Real Madrid,0
-MAD       ,,5,03:51,7,92,"FERNANDEZ, RUDY",PBMT      ,In,IN,,,Real Madrid,0
-MAD       ,,11,03:51,7,93,"CAMPAZZO, FACUNDO",P005928   ,Out,OUT,,,Real Madrid,0
-MAD       ,,20,03:51,7,94,"CARROLL, JAYCEE",P001960   ,In,IN,,,Real Madrid,0
-RED       ,,14,03:31,7,95,"FELDEINE, JAMES",P005918   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Crvena Zvezda mts Belgrade,0
-MAD       ,,20,03:21,7,96,"CARROLL, JAYCEE",P001960   ,Def Rebound (1),D,,,Real Madrid,0
-MAD       ,,33,03:17,7,97,"THOMPKINS, TREY",P005836   ,Missed Two Pointer (0/1 -  3 pt),2FGA,,,Real Madrid,0
-RED       ,,26,03:14,7,98,"LESSORT, MATHIAS",P003842   ,Def Rebound (1),D,,,Crvena Zvezda mts Belgrade,0
-RED       ,,51,03:10,7,99,"BJELICA, MILKO",PCHX      ,Three Pointer (2/3 -  6 pt),3FGM,10.0,14.0,Crvena Zvezda mts Belgrade,0
-RED       ,,14,03:08,7,100,"FELDEINE, JAMES",P005918   ,Assist (3),AS,,,Crvena Zvezda mts Belgrade,0
-MAD       ,,20,02:50,8,102,"CARROLL, JAYCEE",P001960   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Real Madrid,0
-MAD       ,,33,02:47,8,103,"THOMPKINS, TREY",P005836   ,Off Rebound (1),O,,,Real Madrid,0
-MAD       ,,33,02:47,8,104,"THOMPKINS, TREY",P005836   ,Two Pointer (1/2 -  5 pt),2FGM,12.0,14.0,Real Madrid,0
-RED       ,,51,02:26,8,105,"BJELICA, MILKO",PCHX      ,Missed Three Pointer (2/4 -  6 pt),3FGA,,,Crvena Zvezda mts Belgrade,0
-MAD       ,,5,02:23,8,106,"FERNANDEZ, RUDY",PBMT      ,Def Rebound (1),D,,,Real Madrid,0
-MAD       ,,7,02:22,8,107,"DONCIC, LUKA",P005929   ,Two Pointer (2/2 -  4 pt),2FGM,14.0,14.0,Real Madrid,0
-MAD       ,,5,02:22,8,108,"FERNANDEZ, RUDY",PBMT      ,Assist (1),AS,,,Real Madrid,0
-RED       ,,,02:22,8,109,,          ,Time Out (1),TOUT,,,Crvena Zvezda mts Belgrade,0
-MAD       ,,8,02:22,8,110,"MACIULIS, JONAS",PJCC      ,In,IN,,,Real Madrid,0
-MAD       ,,33,02:22,8,111,"THOMPKINS, TREY",P005836   ,Out,OUT,,,Real Madrid,0
-RED       ,,12,02:22,8,112,"ANTIC, PERO",PBAE      ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,16,02:22,8,113,"JANKOVIC, STEFAN",P007961   ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,26,02:22,8,114,"LESSORT, MATHIAS",P003842   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,51,02:22,8,115,"BJELICA, MILKO",PCHX      ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-MAD       ,,9,02:13,8,116,"REYES, FELIPE",PAAX      ,Foul (1),CM,,,Real Madrid,0
-RED       ,,12,02:13,8,117,"ANTIC, PERO",PBAE      ,Foul Drawn (1),RV,,,Crvena Zvezda mts Belgrade,0
-RED       ,,12,02:13,8,118,"ANTIC, PERO",PBAE      ,Free Throw In (1/1 -  1 pt),FTM,14.0,15.0,Crvena Zvezda mts Belgrade,0
-RED       ,,12,02:13,8,119,"ANTIC, PERO",PBAE      ,Free Throw In (2/2 -  2 pt),FTM,14.0,16.0,Crvena Zvezda mts Belgrade,0
-MAD       ,,7,01:55,9,121,"DONCIC, LUKA",P005929   ,Three Pointer (1/1 -  7 pt),3FGM,17.0,16.0,Real Madrid,0
-MAD       ,,20,01:52,9,122,"CARROLL, JAYCEE",P001960   ,Assist (1),AS,,,Real Madrid,0
-RED       ,,12,01:39,9,123,"ANTIC, PERO",PBAE      ,Three Pointer (1/1 -  5 pt),3FGM,17.0,19.0,Crvena Zvezda mts Belgrade,0
-RED       ,,7,01:37,9,124,"DAVIDOVAC, DEJAN",P007960   ,Assist (1),AS,,,Crvena Zvezda mts Belgrade,0
-MAD       ,,20,01:24,9,125,"CARROLL, JAYCEE",P001960   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Real Madrid,0
-MAD       ,,,01:24,9,137,,          ,Off Rebound (1),O,,,Real Madrid,0
-MAD       ,,7,01:24,9,126,"DONCIC, LUKA",P005929   ,Foul Drawn (1),RV,,,Real Madrid,0
-RED       ,,10,01:24,9,127,"LAZIC, BRANKO",PLUO      ,Foul (1),CM,,,Crvena Zvezda mts Belgrade,0
-MAD       ,,7,01:24,9,128,"DONCIC, LUKA",P005929   ,Free Throw In (1/1 -  8 pt),FTM,18.0,19.0,Real Madrid,0
-MAD       ,,7,01:24,9,129,"DONCIC, LUKA",P005929   ,Free Throw In (2/2 -  9 pt),FTM,19.0,19.0,Real Madrid,0
-RED       ,,6,01:24,9,130,"DANGUBIC, NEMANJA",P005942   ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,10,01:24,9,131,"LAZIC, BRANKO",PLUO      ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,12,01:00,9,132,"ANTIC, PERO",PBAE      ,Missed Three Pointer (1/2 -  5 pt),3FGA,,,Crvena Zvezda mts Belgrade,0
-MAD       ,,9,00:58,10,134,"REYES, FELIPE",PAAX      ,Def Rebound (1),D,,,Real Madrid,0
-MAD       ,,20,00:56,10,135,"CARROLL, JAYCEE",P001960   ,Two Pointer (1/2 -  2 pt),2FGM,21.0,19.0,Real Madrid,0
-MAD       ,,9,00:56,10,136,"REYES, FELIPE",PAAX      ,Assist (1),AS,,,Real Madrid,0
-RED       ,,13,00:56,10,138,"DOBRIC, OGNJEN",P004007   ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,14,00:56,10,139,"FELDEINE, JAMES",P005918   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,16,00:56,10,140,"JANKOVIC, STEFAN",P007961   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,32,00:56,10,141,"JOVANOVIC, NIKOLA",P003264   ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,7,00:41,10,142,"DAVIDOVAC, DEJAN",P007960   ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,Crvena Zvezda mts Belgrade,0
-MAD       ,,8,00:38,10,143,"MACIULIS, JONAS",PJCC      ,Def Rebound (1),D,,,Real Madrid,0
-MAD       ,,7,00:34,10,144,"DONCIC, LUKA",P005929   ,Three Pointer (2/2 -  12 pt),3FGM,24.0,19.0,Real Madrid,0
-MAD       ,,5,00:29,10,145,"FERNANDEZ, RUDY",PBMT      ,Assist (2),AS,,,Real Madrid,0
-RED       ,,7,00:13,10,146,"DAVIDOVAC, DEJAN",P007960   ,Missed Three Pointer (0/2 -  2 pt),3FGA,,,Crvena Zvezda mts Belgrade,0
-MAD       ,,9,00:13,10,147,"REYES, FELIPE",PAAX      ,Def Rebound (2),D,,,Real Madrid,0
-MAD       ,,7,00:13,10,148,"DONCIC, LUKA",P005929   ,Missed Three Pointer (2/3 -  12 pt),3FGA,,,Real Madrid,0
-          ,,,,11,150,,          ,End Period,EP,,,,0
-          ,,,,11,156,,          ,Begin Period,BP,,,,0
-RED       ,,7,10:00,11,151,"DAVIDOVAC, DEJAN",P007960   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,13,10:00,11,152,"DOBRIC, OGNJEN",P004007   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,22,10:00,11,153,"ROCHESTIE, TAYLOR",P002972   ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,32,10:00,11,154,"JOVANOVIC, NIKOLA",P003264   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,51,10:00,11,155,"BJELICA, MILKO",PCHX      ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,13,09:59,11,157,"DOBRIC, OGNJEN",P004007   ,In,IN,,,Crvena Zvezda mts Belgrade,0
-MAD       ,,20,09:47,11,158,"CARROLL, JAYCEE",P001960   ,Missed Two Pointer (1/3 -  2 pt),2FGA,,,Real Madrid,0
-RED       ,,51,09:43,11,159,"BJELICA, MILKO",PCHX      ,Def Rebound (3),D,,,Crvena Zvezda mts Belgrade,0
-RED       ,,22,09:39,11,160,"ROCHESTIE, TAYLOR",P002972   ,Missed Two Pointer (0/1 -  3 pt),2FGA,,,Crvena Zvezda mts Belgrade,0
-MAD       ,,8,09:37,11,161,"MACIULIS, JONAS",PJCC      ,Def Rebound (2),D,,,Real Madrid,0
-MAD       ,,9,09:33,11,162,"REYES, FELIPE",PAAX      ,Foul Drawn (1),RV,,,Real Madrid,0
-RED       ,,12,09:33,11,163,"ANTIC, PERO",PBAE      ,Foul (1),CM,,,Crvena Zvezda mts Belgrade,0
-MAD       ,,9,09:33,11,164,"REYES, FELIPE",PAAX      ,Free Throw In (1/1 -  1 pt),FTM,25.0,19.0,Real Madrid,0
-MAD       ,,7,09:33,11,165,"DONCIC, LUKA",P005929   ,Assist (1),AS,,,Real Madrid,0
-MAD       ,,9,09:33,11,166,"REYES, FELIPE",PAAX      ,Free Throw In (2/2 -  2 pt),FTM,26.0,19.0,Real Madrid,0
-RED       ,,6,09:11,11,167,"DANGUBIC, NEMANJA",P005942   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Crvena Zvezda mts Belgrade,0
-RED       ,,12,09:09,11,168,"ANTIC, PERO",PBAE      ,Off Rebound (1),O,,,Crvena Zvezda mts Belgrade,0
-RED       ,,51,09:05,11,169,"BJELICA, MILKO",PCHX      ,Two Pointer (1/2 -  8 pt),2FGM,26.0,21.0,Crvena Zvezda mts Belgrade,0
-MAD       ,,7,08:49,12,171,"DONCIC, LUKA",P005929   ,Foul Drawn (2),RV,,,Real Madrid,0
-RED       ,,13,08:49,12,172,"DOBRIC, OGNJEN",P004007   ,Foul (1),CM,,,Crvena Zvezda mts Belgrade,0
-MAD       ,,20,08:41,12,173,"CARROLL, JAYCEE",P001960   ,Two Pointer (2/4 -  4 pt),2FGM,28.0,21.0,Real Madrid,0
-RED       ,,12,08:23,12,174,"ANTIC, PERO",PBAE      ,Missed Three Pointer (1/3 -  5 pt),3FGA,,,Crvena Zvezda mts Belgrade,0
-MAD       ,,7,08:20,12,175,"DONCIC, LUKA",P005929   ,Def Rebound (1),D,,,Real Madrid,0
-MAD       ,,5,08:09,12,176,"FERNANDEZ, RUDY",PBMT      ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Real Madrid,0
-RED       ,,6,08:06,12,177,"DANGUBIC, NEMANJA",P005942   ,Def Rebound (1),D,,,Crvena Zvezda mts Belgrade,0
-RED       ,,51,07:59,13,179,"BJELICA, MILKO",PCHX      ,Three Pointer (3/5 -  11 pt),3FGM,28.0,24.0,Crvena Zvezda mts Belgrade,0
-RED       ,,6,07:57,13,180,"DANGUBIC, NEMANJA",P005942   ,Assist (1),AS,,,Crvena Zvezda mts Belgrade,0
-MAD       ,,9,07:50,13,181,"REYES, FELIPE",PAAX      ,Offensive Foul (2),OF,,,Real Madrid,0
-MAD       ,,9,07:50,13,196,"REYES, FELIPE",PAAX      ,Turnover (1),TO,,,Real Madrid,0
-RED       ,,6,07:50,13,182,"DANGUBIC, NEMANJA",P005942   ,Foul Drawn (1),RV,,,Crvena Zvezda mts Belgrade,0
-MAD       ,,1,07:50,13,183,"CAUSEUR, FABIEN",P001392   ,In,IN,,,Real Madrid,0
-MAD       ,,5,07:50,13,184,"FERNANDEZ, RUDY",PBMT      ,Out,OUT,,,Real Madrid,0
-RED       ,,12,07:50,13,185,"ANTIC, PERO",PBAE      ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,26,07:50,13,186,"LESSORT, MATHIAS",P003842   ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,13,07:50,13,187,"DOBRIC, OGNJEN",P004007   ,Three Pointer (1/1 -  3 pt),3FGM,28.0,27.0,Crvena Zvezda mts Belgrade,0
-RED       ,,22,07:50,13,188,"ROCHESTIE, TAYLOR",P002972   ,Assist (1),AS,,,Crvena Zvezda mts Belgrade,0
-MAD       ,,9,07:50,13,189,"REYES, FELIPE",PAAX      ,Two Pointer (1/2 -  4 pt),2FGM,30.0,27.0,Real Madrid,0
-MAD       ,,7,07:50,13,190,"DONCIC, LUKA",P005929   ,Assist (2),AS,,,Real Madrid,0
-RED       ,,6,06:57,14,192,"DANGUBIC, NEMANJA",P005942   ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,Crvena Zvezda mts Belgrade,0
-MAD       ,,9,06:55,14,193,"REYES, FELIPE",PAAX      ,Def Rebound (3),D,,,Real Madrid,0
-MAD       ,,9,06:40,14,194,"REYES, FELIPE",PAAX      ,Foul Drawn (2),RV,,,Real Madrid,0
-RED       ,,6,06:40,14,195,"DANGUBIC, NEMANJA",P005942   ,Foul (2),CM,,,Crvena Zvezda mts Belgrade,0
-RED       ,,6,06:40,14,197,"DANGUBIC, NEMANJA",P005942   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,10,06:40,14,198,"LAZIC, BRANKO",PLUO      ,In,IN,,,Crvena Zvezda mts Belgrade,0
-MAD       ,,8,06:41,14,199,"MACIULIS, JONAS",PJCC      ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Real Madrid,0
-RED       ,,22,06:38,14,200,"ROCHESTIE, TAYLOR",P002972   ,Def Rebound (1),D,,,Crvena Zvezda mts Belgrade,0
-RED       ,,26,06:31,14,201,"LESSORT, MATHIAS",P003842   ,Missed Two Pointer (1/3 -  3 pt),2FGA,,,Crvena Zvezda mts Belgrade,0
-MAD       ,,8,06:29,14,202,"MACIULIS, JONAS",PJCC      ,Def Rebound (3),D,,,Real Madrid,0
-RED       ,,10,06:22,14,204,"LAZIC, BRANKO",PLUO      ,Foul Drawn (1),RV,,,Crvena Zvezda mts Belgrade,0
-MAD       ,,9,06:22,14,208,"REYES, FELIPE",PAAX      ,Offensive Foul (3),OF,,,Real Madrid,0
-MAD       ,,9,06:22,14,205,"REYES, FELIPE",PAAX      ,Turnover (2),TO,,,Real Madrid,0
-MAD       ,,9,06:22,14,206,"REYES, FELIPE",PAAX      ,Out,OUT,,,Real Madrid,0
-MAD       ,,22,06:22,14,207,"TAVARES, WALTER",P005791   ,In,IN,,,Real Madrid,0
-RED       ,,26,05:56,15,211,"LESSORT, MATHIAS",P003842   ,Two Pointer (2/4 -  5 pt),2FGM,30.0,29.0,Crvena Zvezda mts Belgrade,0
-RED       ,,22,05:54,15,212,"ROCHESTIE, TAYLOR",P002972   ,Assist (2),AS,,,Crvena Zvezda mts Belgrade,0
-MAD       ,,7,05:45,15,213,"DONCIC, LUKA",P005929   ,Foul Drawn (3),RV,,,Real Madrid,0
-RED       ,,10,05:45,15,214,"LAZIC, BRANKO",PLUO      ,Foul (2),CM,,,Crvena Zvezda mts Belgrade,0
-MAD       ,,1,05:45,15,215,"CAUSEUR, FABIEN",P001392   ,Foul Drawn (3),RV,,,Real Madrid,0
-RED       ,,51,05:45,15,216,"BJELICA, MILKO",PCHX      ,Foul (2),CM,,,Crvena Zvezda mts Belgrade,0
-RED       ,,12,05:45,15,217,"ANTIC, PERO",PBAE      ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,51,05:45,15,218,"BJELICA, MILKO",PCHX      ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-MAD       ,,1,05:45,15,219,"CAUSEUR, FABIEN",P001392   ,Free Throw In (1/1 -  1 pt),FTM,31.0,29.0,Real Madrid,0
-MAD       ,,22,05:45,15,222,"TAVARES, WALTER",P005791   ,Assist (1),AS,,,Real Madrid,0
-MAD       ,,1,05:45,15,220,"CAUSEUR, FABIEN",P001392   ,Free Throw In (2/2 -  2 pt),FTM,32.0,29.0,Real Madrid,0
-RED       ,,22,05:27,15,221,"ROCHESTIE, TAYLOR",P002972   ,Two Pointer (1/2 -  5 pt),2FGM,32.0,31.0,Crvena Zvezda mts Belgrade,0
-MAD       ,,22,05:27,15,223,"TAVARES, WALTER",P005791   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,Real Madrid,0
-MAD       ,,22,05:27,15,224,"TAVARES, WALTER",P005791   ,Shot Rejected (1),AG,,,Real Madrid,0
-RED       ,,26,05:27,15,225,"LESSORT, MATHIAS",P003842   ,Block (2),FV,,,Crvena Zvezda mts Belgrade,0
-RED       ,,13,05:27,15,226,"DOBRIC, OGNJEN",P004007   ,Def Rebound (1),D,,,Crvena Zvezda mts Belgrade,0
-RED       ,,22,05:27,15,227,"ROCHESTIE, TAYLOR",P002972   ,Two Pointer (2/3 -  7 pt),2FGM,32.0,33.0,Crvena Zvezda mts Belgrade,0
-RED       ,,22,05:27,15,228,"ROCHESTIE, TAYLOR",P002972   ,Foul Drawn (1),RV,,,Crvena Zvezda mts Belgrade,0
-MAD       ,,20,05:27,15,229,"CARROLL, JAYCEE",P001960   ,Foul (1),CM,,,Real Madrid,0
-MAD       ,,5,05:27,15,230,"FERNANDEZ, RUDY",PBMT      ,In,IN,,,Real Madrid,0
-MAD       ,,7,05:27,15,231,"DONCIC, LUKA",P005929   ,Out,OUT,,,Real Madrid,0
-MAD       ,,11,05:27,15,232,"CAMPAZZO, FACUNDO",P005928   ,In,IN,,,Real Madrid,0
-MAD       ,,20,05:27,15,233,"CARROLL, JAYCEE",P001960   ,Out,OUT,,,Real Madrid,0
-RED       ,,22,05:27,15,234,"ROCHESTIE, TAYLOR",P002972   ,Free Throw In (1/1 -  8 pt),FTM,32.0,34.0,Crvena Zvezda mts Belgrade,0
-MAD       ,,11,05:27,15,256,"CAMPAZZO, FACUNDO",P005928   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Real Madrid,0
-MAD       ,,22,05:27,15,257,"TAVARES, WALTER",P005791   ,Off Rebound (2),O,,,Real Madrid,0
-MAD       ,,22,05:27,15,235,"TAVARES, WALTER",P005791   ,Missed Two Pointer (1/3 -  2 pt),2FGA,,,Real Madrid,0
-MAD       ,,5,05:59,15,283,"FERNANDEZ, RUDY",PBMT      ,Off Rebound (1),O,,,Real Madrid,0
-MAD       ,,5,05:27,15,284,"FERNANDEZ, RUDY",PBMT      ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Real Madrid,0
-RED       ,,26,05:27,15,285,"LESSORT, MATHIAS",P003842   ,Def Rebound (2),D,,,Crvena Zvezda mts Belgrade,0
-MAD       ,,5,04:36,16,237,"FERNANDEZ, RUDY",PBMT      ,Foul (1),CM,,,Real Madrid,0
-RED       ,,12,04:36,16,238,"ANTIC, PERO",PBAE      ,Foul Drawn (2),RV,,,Crvena Zvezda mts Belgrade,0
-          ,,,04:36,16,299,,          ,TV Time Out (2),TOUT_TV,,,,0
-RED       ,,22,04:36,16,239,"ROCHESTIE, TAYLOR",P002972   ,Missed Three Pointer (1/3 -  8 pt),3FGA,,,Crvena Zvezda mts Belgrade,0
-RED       ,,10,04:36,16,240,"LAZIC, BRANKO",PLUO      ,Off Rebound (1),O,,,Crvena Zvezda mts Belgrade,0
-RED       ,,22,04:36,16,241,"ROCHESTIE, TAYLOR",P002972   ,Two Pointer (3/4 -  10 pt),2FGM,32.0,36.0,Crvena Zvezda mts Belgrade,0
-MAD       ,,1,04:00,16,242,"CAUSEUR, FABIEN",P001392   ,Foul Drawn (4),RV,,,Real Madrid,0
-RED       ,,26,04:00,16,243,"LESSORT, MATHIAS",P003842   ,Foul (1),CM,,,Crvena Zvezda mts Belgrade,0
-MAD       ,,1,04:00,16,244,"CAUSEUR, FABIEN",P001392   ,Free Throw In (3/3 -  3 pt),FTM,33.0,36.0,Real Madrid,0
-MAD       ,,1,04:00,16,245,"CAUSEUR, FABIEN",P001392   ,Free Throw In (4/4 -  4 pt),FTM,34.0,36.0,Real Madrid,0
-RED       ,,7,04:00,16,246,"DAVIDOVAC, DEJAN",P007960   ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,22,04:00,16,247,"ROCHESTIE, TAYLOR",P002972   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,10,04:00,16,248,"LAZIC, BRANKO",PLUO      ,Three Pointer (1/1 -  3 pt),3FGM,34.0,39.0,Crvena Zvezda mts Belgrade,0
-RED       ,,7,04:00,16,249,"DAVIDOVAC, DEJAN",P007960   ,Assist (2),AS,,,Crvena Zvezda mts Belgrade,0
-MAD       ,,11,03:33,17,251,"CAMPAZZO, FACUNDO",P005928   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Real Madrid,0
-RED       ,,7,03:31,17,252,"DAVIDOVAC, DEJAN",P007960   ,Def Rebound (1),D,,,Crvena Zvezda mts Belgrade,0
-RED       ,,26,03:27,17,253,"LESSORT, MATHIAS",P003842   ,Foul Drawn (2),RV,,,Crvena Zvezda mts Belgrade,0
-MAD       ,,22,03:27,17,254,"TAVARES, WALTER",P005791   ,Foul (1),CM,,,Real Madrid,0
-MAD       ,,,03:27,17,255,,          ,Time Out (1),TOUT,,,Real Madrid,0
-MAD       ,,22,03:27,17,258,"TAVARES, WALTER",P005791   ,Out,OUT,,,Real Madrid,0
-MAD       ,,33,03:27,17,259,"THOMPKINS, TREY",P005836   ,In,IN,,,Real Madrid,0
-RED       ,,26,03:27,17,260,"LESSORT, MATHIAS",P003842   ,Missed Free Throw (1/3 -  5 pt),FTA,,,Crvena Zvezda mts Belgrade,0
-RED       ,,26,03:27,17,261,"LESSORT, MATHIAS",P003842   ,Free Throw In (2/4 -  6 pt),FTM,34.0,40.0,Crvena Zvezda mts Belgrade,0
-RED       ,,7,03:27,17,262,"DAVIDOVAC, DEJAN",P007960   ,Assist (3),AS,,,Crvena Zvezda mts Belgrade,0
-MAD       ,,8,03:01,17,263,"MACIULIS, JONAS",PJCC      ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Real Madrid,0
-RED       ,,13,03:00,18,265,"DOBRIC, OGNJEN",P004007   ,Def Rebound (2),D,,,Crvena Zvezda mts Belgrade,0
-RED       ,,7,02:54,18,266,"DAVIDOVAC, DEJAN",P007960   ,Turnover (1),TO,,,Crvena Zvezda mts Belgrade,0
-MAD       ,,11,02:51,18,267,"CAMPAZZO, FACUNDO",P005928   ,Steal (1),ST,,,Real Madrid,0
-MAD       ,,11,02:49,18,268,"CAMPAZZO, FACUNDO",P005928   ,Three Pointer (1/2 -  3 pt),3FGM,37.0,40.0,Real Madrid,0
-RED       ,,7,02:49,18,300,"DAVIDOVAC, DEJAN",P007960   ,Turnover (2),TO,,,Crvena Zvezda mts Belgrade,0
-MAD       ,,33,02:49,18,301,"THOMPKINS, TREY",P005836   ,Steal (1),ST,,,Real Madrid,0
-MAD       ,,33,02:49,18,273,"THOMPKINS, TREY",P005836   ,Missed Three Pointer (1/2 -  5 pt),3FGA,,,Real Madrid,0
-RED       ,,7,02:49,18,274,"DAVIDOVAC, DEJAN",P007960   ,Def Rebound (2),D,,,Crvena Zvezda mts Belgrade,0
-RED       ,,12,01:49,19,276,"ANTIC, PERO",PBAE      ,Missed Two Pointer (0/1 -  5 pt),2FGA,,,Crvena Zvezda mts Belgrade,0
-MAD       ,,33,01:47,19,277,"THOMPKINS, TREY",P005836   ,Def Rebound (2),D,,,Real Madrid,0
-MAD       ,,5,01:29,19,278,"FERNANDEZ, RUDY",PBMT      ,Turnover (1),TO,,,Real Madrid,0
-RED       ,,13,01:28,19,279,"DOBRIC, OGNJEN",P004007   ,Steal (1),ST,,,Crvena Zvezda mts Belgrade,0
-RED       ,,13,01:23,19,280,"DOBRIC, OGNJEN",P004007   ,Two Pointer (1/1 -  5 pt),2FGM,37.0,42.0,Crvena Zvezda mts Belgrade,0
-MAD       ,,1,01:09,19,281,"CAUSEUR, FABIEN",P001392   ,Two Pointer (1/1 -  6 pt),2FGM,39.0,42.0,Real Madrid,0
-RED       ,,,01:09,19,282,,          ,Time Out (1),TOUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,6,01:09,19,286,"DANGUBIC, NEMANJA",P005942   ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,7,01:09,19,287,"DAVIDOVAC, DEJAN",P007960   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,10,01:09,19,288,"LAZIC, BRANKO",PLUO      ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,13,01:09,19,289,"DOBRIC, OGNJEN",P004007   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,14,01:09,19,290,"FELDEINE, JAMES",P005918   ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,22,01:09,19,291,"ROCHESTIE, TAYLOR",P002972   ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,14,01:09,19,292,"FELDEINE, JAMES",P005918   ,Two Pointer (1/3 -  2 pt),2FGM,39.0,44.0,Crvena Zvezda mts Belgrade,0
-MAD       ,,33,00:26,20,294,"THOMPKINS, TREY",P005836   ,Missed Two Pointer (1/3 -  5 pt),2FGA,,,Real Madrid,0
-RED       ,,6,00:24,20,295,"DANGUBIC, NEMANJA",P005942   ,Def Rebound (2),D,,,Crvena Zvezda mts Belgrade,0
-RED       ,,22,00:00,20,296,"ROCHESTIE, TAYLOR",P002972   ,Two Pointer (4/5 -  12 pt),2FGM,39.0,46.0,Crvena Zvezda mts Belgrade,0
-          ,,,,21,298,,          ,End Period,EP,,,,0
-          ,,,,21,308,,          ,Begin Period,BP,,,,0
-MAD       ,,5,10:00,21,302,"FERNANDEZ, RUDY",PBMT      ,Out,OUT,,,Real Madrid,0
-MAD       ,,7,10:00,21,303,"DONCIC, LUKA",P005929   ,In,IN,,,Real Madrid,0
-MAD       ,,22,10:00,21,304,"TAVARES, WALTER",P005791   ,In,IN,,,Real Madrid,0
-MAD       ,,33,10:00,21,305,"THOMPKINS, TREY",P005836   ,Out,OUT,,,Real Madrid,0
-RED       ,,12,10:00,21,306,"ANTIC, PERO",PBAE      ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,51,10:00,21,307,"BJELICA, MILKO",PCHX      ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,26,09:45,21,309,"LESSORT, MATHIAS",P003842   ,Missed Two Pointer (2/5 -  6 pt),2FGA,,,Crvena Zvezda mts Belgrade,0
-MAD       ,,11,09:42,21,310,"CAMPAZZO, FACUNDO",P005928   ,Def Rebound (2),D,,,Real Madrid,0
-MAD       ,,1,09:38,21,311,"CAUSEUR, FABIEN",P001392   ,Two Pointer (2/2 -  8 pt),2FGM,41.0,46.0,Real Madrid,0
-MAD       ,,11,09:36,21,312,"CAMPAZZO, FACUNDO",P005928   ,Assist (2),AS,,,Real Madrid,0
-RED       ,,14,09:15,21,313,"FELDEINE, JAMES",P005918   ,Three Pointer (1/2 -  5 pt),3FGM,41.0,49.0,Crvena Zvezda mts Belgrade,0
-RED       ,,6,09:13,21,314,"DANGUBIC, NEMANJA",P005942   ,Assist (2),AS,,,Crvena Zvezda mts Belgrade,0
-MAD       ,,11,08:52,22,316,"CAMPAZZO, FACUNDO",P005928   ,Missed Three Pointer (1/3 -  3 pt),3FGA,,,Real Madrid,0
-RED       ,,14,08:45,22,318,"FELDEINE, JAMES",P005918   ,Def Rebound (1),D,,,Crvena Zvezda mts Belgrade,0
-RED       ,,51,08:45,22,319,"BJELICA, MILKO",PCHX      ,Missed Three Pointer (3/6 -  11 pt),3FGA,,,Crvena Zvezda mts Belgrade,0
-RED       ,,6,08:45,22,320,"DANGUBIC, NEMANJA",P005942   ,Off Rebound (1),O,,,Crvena Zvezda mts Belgrade,0
-RED       ,,14,08:45,22,321,"FELDEINE, JAMES",P005918   ,Three Pointer (2/3 -  8 pt),3FGM,41.0,52.0,Crvena Zvezda mts Belgrade,0
-RED       ,,6,08:45,22,322,"DANGUBIC, NEMANJA",P005942   ,Assist (3),AS,,,Crvena Zvezda mts Belgrade,0
-RED       ,,6,08:18,22,323,"DANGUBIC, NEMANJA",P005942   ,Foul (3),CM,,,Crvena Zvezda mts Belgrade,0
-MAD       ,,7,08:18,22,324,"DONCIC, LUKA",P005929   ,Foul Drawn (4),RV,,,Real Madrid,0
-MAD       ,,7,08:17,22,325,"DONCIC, LUKA",P005929   ,Missed Three Pointer (2/4 -  12 pt),3FGA,,,Real Madrid,0
-RED       ,,,08:17,22,326,,          ,Def Rebound (2),D,,,Crvena Zvezda mts Belgrade,0
-RED       ,,6,07:47,23,328,"DANGUBIC, NEMANJA",P005942   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Crvena Zvezda mts Belgrade,0
-RED       ,,26,07:47,23,329,"LESSORT, MATHIAS",P003842   ,Off Rebound (3),O,,,Crvena Zvezda mts Belgrade,0
-RED       ,,26,07:47,23,330,"LESSORT, MATHIAS",P003842   ,Missed Two Pointer (2/6 -  6 pt),2FGA,,,Crvena Zvezda mts Belgrade,0
-RED       ,,26,07:47,23,331,"LESSORT, MATHIAS",P003842   ,Shot Rejected (1),AG,,,Crvena Zvezda mts Belgrade,0
-MAD       ,,22,07:47,23,332,"TAVARES, WALTER",P005791   ,Block (1),FV,,,Real Madrid,0
-MAD       ,,8,07:47,23,333,"MACIULIS, JONAS",PJCC      ,Def Rebound (4),D,,,Real Madrid,0
-MAD       ,,7,07:47,23,334,"DONCIC, LUKA",P005929   ,Foul Drawn (5),RV,,,Real Madrid,0
-RED       ,,26,07:47,23,335,"LESSORT, MATHIAS",P003842   ,Foul (2),CM,,,Crvena Zvezda mts Belgrade,0
-MAD       ,,1,07:47,23,336,"CAUSEUR, FABIEN",P001392   ,Missed Two Pointer (2/3 -  8 pt),2FGA,,,Real Madrid,0
-RED       ,,51,07:47,23,337,"BJELICA, MILKO",PCHX      ,Def Rebound (4),D,,,Crvena Zvezda mts Belgrade,0
-RED       ,,26,07:10,23,338,"LESSORT, MATHIAS",P003842   ,Missed Two Pointer (2/7 -  6 pt),2FGA,,,Crvena Zvezda mts Belgrade,0
-MAD       ,,8,07:07,23,339,"MACIULIS, JONAS",PJCC      ,Def Rebound (5),D,,,Real Madrid,0
-MAD       ,,11,07:04,23,340,"CAMPAZZO, FACUNDO",P005928   ,Two Pointer (1/3 -  5 pt),2FGM,43.0,52.0,Real Madrid,0
-MAD       ,,7,07:01,23,341,"DONCIC, LUKA",P005929   ,Assist (3),AS,,,Real Madrid,0
-RED       ,,22,06:53,24,343,"ROCHESTIE, TAYLOR",P002972   ,Foul Drawn (2),RV,,,Crvena Zvezda mts Belgrade,0
-MAD       ,,1,06:53,24,344,"CAUSEUR, FABIEN",P001392   ,Foul (1),CM,,,Real Madrid,0
-RED       ,,14,06:53,24,345,"FELDEINE, JAMES",P005918   ,Missed Two Pointer (1/4 -  8 pt),2FGA,,,Crvena Zvezda mts Belgrade,0
-MAD       ,,7,06:53,24,346,"DONCIC, LUKA",P005929   ,Def Rebound (2),D,,,Real Madrid,0
-MAD       ,,7,06:44,24,347,"DONCIC, LUKA",P005929   ,Two Pointer (3/3 -  14 pt),2FGM,45.0,52.0,Real Madrid,0
-RED       ,,6,06:18,24,348,"DANGUBIC, NEMANJA",P005942   ,Turnover (1),TO,,,Crvena Zvezda mts Belgrade,0
-MAD       ,,8,06:16,24,349,"MACIULIS, JONAS",PJCC      ,Steal (1),ST,,,Real Madrid,0
-MAD       ,,22,06:15,24,350,"TAVARES, WALTER",P005791   ,Two Pointer (2/4 -  4 pt),2FGM,47.0,52.0,Real Madrid,0
-MAD       ,,1,06:15,24,351,"CAUSEUR, FABIEN",P001392   ,Assist (1),AS,,,Real Madrid,0
-RED       ,,,06:15,24,352,,          ,Time Out (1),TOUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,6,06:15,24,353,"DANGUBIC, NEMANJA",P005942   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,10,06:15,24,354,"LAZIC, BRANKO",PLUO      ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,12,06:15,24,355,"ANTIC, PERO",PBAE      ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,26,06:15,24,356,"LESSORT, MATHIAS",P003842   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,22,05:56,25,358,"ROCHESTIE, TAYLOR",P002972   ,Three Pointer (2/4 -  15 pt),3FGM,47.0,55.0,Crvena Zvezda mts Belgrade,0
-MAD       ,,7,05:37,25,359,"DONCIC, LUKA",P005929   ,Turnover (1),TO,,,Real Madrid,0
-RED       ,,10,05:35,25,360,"LAZIC, BRANKO",PLUO      ,Steal (1),ST,,,Crvena Zvezda mts Belgrade,0
-RED       ,,12,05:27,25,361,"ANTIC, PERO",PBAE      ,Foul Drawn (3),RV,,,Crvena Zvezda mts Belgrade,0
-MAD       ,,22,05:27,25,362,"TAVARES, WALTER",P005791   ,Foul (2),CM,,,Real Madrid,0
-MAD       ,,22,05:27,25,363,"TAVARES, WALTER",P005791   ,Out,OUT,,,Real Madrid,0
-MAD       ,,33,05:27,25,364,"THOMPKINS, TREY",P005836   ,In,IN,,,Real Madrid,0
-RED       ,,51,05:23,25,365,"BJELICA, MILKO",PCHX      ,Two Pointer (2/3 -  13 pt),2FGM,47.0,57.0,Crvena Zvezda mts Belgrade,0
-RED       ,,14,05:23,25,366,"FELDEINE, JAMES",P005918   ,Assist (4),AS,,,Crvena Zvezda mts Belgrade,0
-MAD       ,,7,05:04,25,367,"DONCIC, LUKA",P005929   ,Foul Drawn (6),RV,,,Real Madrid,0
-RED       ,,10,05:04,25,368,"LAZIC, BRANKO",PLUO      ,Foul (3),CM,,,Crvena Zvezda mts Belgrade,0
-MAD       ,,33,05:04,25,369,"THOMPKINS, TREY",P005836   ,Offensive Foul (2),OF,,,Real Madrid,0
-MAD       ,,33,05:04,25,370,"THOMPKINS, TREY",P005836   ,Turnover (1),TO,,,Real Madrid,0
-RED       ,,10,05:04,25,371,"LAZIC, BRANKO",PLUO      ,Foul Drawn (2),RV,,,Crvena Zvezda mts Belgrade,0
-MAD       ,,8,05:04,25,372,"MACIULIS, JONAS",PJCC      ,Out,OUT,,,Real Madrid,0
-MAD       ,,9,05:04,25,373,"REYES, FELIPE",PAAX      ,In,IN,,,Real Madrid,0
-RED       ,,14,04:36,26,375,"FELDEINE, JAMES",P005918   ,Turnover (2),TO,,,Crvena Zvezda mts Belgrade,0
-MAD       ,,9,04:14,26,376,"REYES, FELIPE",PAAX      ,Missed Two Pointer (1/3 -  4 pt),2FGA,,,Real Madrid,0
-RED       ,,12,04:12,26,377,"ANTIC, PERO",PBAE      ,Def Rebound (1),D,,,Crvena Zvezda mts Belgrade,0
-RED       ,,12,04:03,26,378,"ANTIC, PERO",PBAE      ,Three Pointer (2/4 -  8 pt),3FGM,47.0,60.0,Crvena Zvezda mts Belgrade,0
-RED       ,,10,04:01,26,379,"LAZIC, BRANKO",PLUO      ,Assist (1),AS,,,Crvena Zvezda mts Belgrade,0
-MAD       ,,7,03:50,27,381,"DONCIC, LUKA",P005929   ,Foul Drawn (7),RV,,,Real Madrid,0
-RED       ,,51,03:50,27,382,"BJELICA, MILKO",PCHX      ,Foul (3),CM,,,Crvena Zvezda mts Belgrade,0
-MAD       ,,1,03:50,27,383,"CAUSEUR, FABIEN",P001392   ,Out,OUT,,,Real Madrid,0
-MAD       ,,2,03:50,27,384,"RANDLE, CHASSON",P008038   ,In,IN,,,Real Madrid,0
-MAD       ,,5,03:50,27,385,"FERNANDEZ, RUDY",PBMT      ,In,IN,,,Real Madrid,0
-MAD       ,,11,03:50,27,386,"CAMPAZZO, FACUNDO",P005928   ,Out,OUT,,,Real Madrid,0
-RED       ,,13,03:50,27,387,"DOBRIC, OGNJEN",P004007   ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,14,03:50,27,388,"FELDEINE, JAMES",P005918   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-MAD       ,,7,03:35,27,389,"DONCIC, LUKA",P005929   ,Two Pointer (4/4 -  16 pt),2FGM,49.0,60.0,Real Madrid,0
-RED       ,,13,03:13,27,390,"DOBRIC, OGNJEN",P004007   ,Missed Three Pointer (1/2 -  5 pt),3FGA,,,Crvena Zvezda mts Belgrade,0
-MAD       ,,9,03:11,27,391,"REYES, FELIPE",PAAX      ,Def Rebound (4),D,,,Real Madrid,0
-MAD       ,,33,03:02,27,392,"THOMPKINS, TREY",P005836   ,Two Pointer (2/4 -  7 pt),2FGM,51.0,60.0,Real Madrid,0
-MAD       ,,2,03:00,27,393,"RANDLE, CHASSON",P008038   ,Assist (1),AS,,,Real Madrid,0
-RED       ,,51,02:35,28,395,"BJELICA, MILKO",PCHX      ,Three Pointer (4/7 -  16 pt),3FGM,51.0,63.0,Crvena Zvezda mts Belgrade,0
-RED       ,,22,02:33,28,396,"ROCHESTIE, TAYLOR",P002972   ,Assist (3),AS,,,Crvena Zvezda mts Belgrade,0
-MAD       ,,7,02:15,28,397,"DONCIC, LUKA",P005929   ,Missed Three Pointer (2/5 -  16 pt),3FGA,,,Real Madrid,0
-RED       ,,51,02:13,28,398,"BJELICA, MILKO",PCHX      ,Def Rebound (5),D,,,Crvena Zvezda mts Belgrade,0
-RED       ,,12,01:50,29,400,"ANTIC, PERO",PBAE      ,Missed Three Pointer (2/5 -  8 pt),3FGA,,,Crvena Zvezda mts Belgrade,0
-MAD       ,,9,01:48,29,401,"REYES, FELIPE",PAAX      ,Def Rebound (5),D,,,Real Madrid,0
-MAD       ,,2,01:42,29,402,"RANDLE, CHASSON",P008038   ,Three Pointer (1/1 -  3 pt),3FGM,54.0,63.0,Real Madrid,0
-MAD       ,,7,01:39,29,403,"DONCIC, LUKA",P005929   ,Assist (4),AS,,,Real Madrid,0
-RED       ,,22,01:22,29,404,"ROCHESTIE, TAYLOR",P002972   ,Missed Three Pointer (2/5 -  15 pt),3FGA,,,Crvena Zvezda mts Belgrade,0
-RED       ,,22,01:20,29,405,"ROCHESTIE, TAYLOR",P002972   ,Off Rebound (1),O,,,Crvena Zvezda mts Belgrade,0
-RED       ,,13,01:16,29,406,"DOBRIC, OGNJEN",P004007   ,Two Pointer (2/2 -  7 pt),2FGM,54.0,65.0,Crvena Zvezda mts Belgrade,0
-RED       ,,22,01:13,29,407,"ROCHESTIE, TAYLOR",P002972   ,Assist (4),AS,,,Crvena Zvezda mts Belgrade,0
-MAD       ,,5,01:04,29,408,"FERNANDEZ, RUDY",PBMT      ,Foul Drawn (1),RV,,,Real Madrid,0
-RED       ,,22,01:04,29,409,"ROCHESTIE, TAYLOR",P002972   ,Foul (3),CM,,,Crvena Zvezda mts Belgrade,0
-MAD       ,,7,01:04,29,410,"DONCIC, LUKA",P005929   ,Out,OUT,,,Real Madrid,0
-MAD       ,,20,01:04,29,411,"CARROLL, JAYCEE",P001960   ,In,IN,,,Real Madrid,0
-RED       ,,7,01:04,29,412,"DAVIDOVAC, DEJAN",P007960   ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,22,01:04,29,413,"ROCHESTIE, TAYLOR",P002972   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,26,01:04,29,414,"LESSORT, MATHIAS",P003842   ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,51,01:04,29,415,"BJELICA, MILKO",PCHX      ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-MAD       ,,5,01:04,29,416,"FERNANDEZ, RUDY",PBMT      ,Free Throw In (1/1 -  1 pt),FTM,55.0,65.0,Real Madrid,0
-MAD       ,,5,01:04,29,417,"FERNANDEZ, RUDY",PBMT      ,Free Throw In (2/2 -  2 pt),FTM,56.0,65.0,Real Madrid,0
-RED       ,,12,01:04,29,418,"ANTIC, PERO",PBAE      ,Offensive Foul (2),OF,,,Crvena Zvezda mts Belgrade,0
-RED       ,,12,01:04,29,419,"ANTIC, PERO",PBAE      ,Turnover (1),TO,,,Crvena Zvezda mts Belgrade,0
-MAD       ,,2,01:04,29,420,"RANDLE, CHASSON",P008038   ,Foul Drawn (1),RV,,,Real Madrid,0
-MAD       ,,20,00:55,30,422,"CARROLL, JAYCEE",P001960   ,Turnover (1),TO,,,Real Madrid,0
-RED       ,,13,00:55,30,423,"DOBRIC, OGNJEN",P004007   ,Steal (2),ST,,,Crvena Zvezda mts Belgrade,0
-RED       ,,7,00:15,30,424,"DAVIDOVAC, DEJAN",P007960   ,Missed Two Pointer (0/1 -  2 pt),2FGA,,,Crvena Zvezda mts Belgrade,0
-MAD       ,,9,00:14,30,425,"REYES, FELIPE",PAAX      ,Def Rebound (6),D,,,Real Madrid,0
-MAD       ,,9,00:14,30,426,"REYES, FELIPE",PAAX      ,Foul Drawn (3),RV,,,Real Madrid,0
-RED       ,,26,00:14,30,427,"LESSORT, MATHIAS",P003842   ,Foul (3),CM,,,Crvena Zvezda mts Belgrade,0
-MAD       ,,9,00:14,30,428,"REYES, FELIPE",PAAX      ,Free Throw In (3/3 -  5 pt),FTM,57.0,65.0,Real Madrid,0
-MAD       ,,9,00:14,30,429,"REYES, FELIPE",PAAX      ,Free Throw In (4/4 -  6 pt),FTM,58.0,65.0,Real Madrid,0
-MAD       ,,7,00:14,30,430,"DONCIC, LUKA",P005929   ,In,IN,,,Real Madrid,0
-MAD       ,,9,00:14,30,431,"REYES, FELIPE",PAAX      ,Out,OUT,,,Real Madrid,0
-RED       ,,14,00:14,30,432,"FELDEINE, JAMES",P005918   ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,26,00:14,30,433,"LESSORT, MATHIAS",P003842   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,7,00:02,30,434,"DAVIDOVAC, DEJAN",P007960   ,Two Pointer (1/2 -  4 pt),2FGM,58.0,67.0,Crvena Zvezda mts Belgrade,0
-RED       ,,12,00:00,30,435,"ANTIC, PERO",PBAE      ,Assist (1),AS,,,Crvena Zvezda mts Belgrade,0
-MAD       ,,2,00:00,30,436,"RANDLE, CHASSON",P008038   ,Missed Three Pointer (1/2 -  3 pt),3FGA,,,Real Madrid,0
-          ,,,,31,438,,          ,End Period,EP,,,,0
-          ,,,,31,439,,          ,Begin Period,BP,,,,0
-MAD       ,,9,09:59,31,440,"REYES, FELIPE",PAAX      ,In,IN,,,Real Madrid,0
-MAD       ,,33,09:59,31,441,"THOMPKINS, TREY",P005836   ,Out,OUT,,,Real Madrid,0
-RED       ,,12,09:59,31,442,"ANTIC, PERO",PBAE      ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,13,09:59,31,443,"DOBRIC, OGNJEN",P004007   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,26,09:59,31,444,"LESSORT, MATHIAS",P003842   ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,51,09:59,31,445,"BJELICA, MILKO",PCHX      ,In,IN,,,Crvena Zvezda mts Belgrade,0
-MAD       ,,5,09:59,31,446,"FERNANDEZ, RUDY",PBMT      ,Three Pointer (1/2 -  5 pt),3FGM,61.0,67.0,Real Madrid,0
-MAD       ,,9,09:59,31,447,"REYES, FELIPE",PAAX      ,Assist (2),AS,,,Real Madrid,0
-RED       ,,26,09:29,31,448,"LESSORT, MATHIAS",P003842   ,Turnover (1),TO,,,Crvena Zvezda mts Belgrade,0
-MAD       ,,9,09:23,31,449,"REYES, FELIPE",PAAX      ,Foul Drawn (4),RV,,,Real Madrid,0
-RED       ,,26,09:23,31,450,"LESSORT, MATHIAS",P003842   ,Foul (4),CM,,,Crvena Zvezda mts Belgrade,0
-RED       ,,12,09:23,31,451,"ANTIC, PERO",PBAE      ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,26,09:23,31,452,"LESSORT, MATHIAS",P003842   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-MAD       ,,20,09:17,31,453,"CARROLL, JAYCEE",P001960   ,Three Pointer (1/2 -  7 pt),3FGM,64.0,67.0,Real Madrid,0
-MAD       ,,5,09:17,31,454,"FERNANDEZ, RUDY",PBMT      ,Assist (3),AS,,,Real Madrid,0
-RED       ,,,09:17,31,455,,          ,Time Out (1),TOUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,7,09:17,31,456,"DAVIDOVAC, DEJAN",P007960   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,22,09:17,31,457,"ROCHESTIE, TAYLOR",P002972   ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,10,09:17,31,458,"LAZIC, BRANKO",PLUO      ,Missed Three Pointer (1/2 -  3 pt),3FGA,,,Crvena Zvezda mts Belgrade,0
-RED       ,,10,09:17,31,459,"LAZIC, BRANKO",PLUO      ,Off Rebound (2),O,,,Crvena Zvezda mts Belgrade,0
-RED       ,,14,09:17,31,460,"FELDEINE, JAMES",P005918   ,Missed Three Pointer (2/4 -  8 pt),3FGA,,,Crvena Zvezda mts Belgrade,0
-MAD       ,,7,09:17,31,461,"DONCIC, LUKA",P005929   ,Def Rebound (3),D,,,Real Madrid,0
-MAD       ,,20,08:36,32,463,"CARROLL, JAYCEE",P001960   ,Two Pointer (3/5 -  9 pt),2FGM,66.0,67.0,Real Madrid,0
-MAD       ,,5,08:32,32,464,"FERNANDEZ, RUDY",PBMT      ,Assist (4),AS,,,Real Madrid,0
-RED       ,,22,08:16,32,465,"ROCHESTIE, TAYLOR",P002972   ,Turnover (1),TO,,,Crvena Zvezda mts Belgrade,0
-MAD       ,,5,08:14,32,466,"FERNANDEZ, RUDY",PBMT      ,Steal (1),ST,,,Real Madrid,0
-MAD       ,,9,08:03,32,467,"REYES, FELIPE",PAAX      ,Offensive Foul (4),OF,,,Real Madrid,0
-MAD       ,,9,08:03,32,468,"REYES, FELIPE",PAAX      ,Turnover (3),TO,,,Real Madrid,0
-RED       ,,10,08:03,32,469,"LAZIC, BRANKO",PLUO      ,Foul Drawn (3),RV,,,Crvena Zvezda mts Belgrade,0
-RED       ,,6,08:03,32,470,"DANGUBIC, NEMANJA",P005942   ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,13,08:03,32,471,"DOBRIC, OGNJEN",P004007   ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,14,08:03,32,472,"FELDEINE, JAMES",P005918   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,51,08:03,32,473,"BJELICA, MILKO",PCHX      ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,22,07:42,33,475,"ROCHESTIE, TAYLOR",P002972   ,Three Pointer (3/6 -  18 pt),3FGM,66.0,70.0,Crvena Zvezda mts Belgrade,0
-MAD       ,,9,07:37,33,476,"REYES, FELIPE",PAAX      ,Foul Drawn (5),RV,,,Real Madrid,0
-RED       ,,12,07:37,33,477,"ANTIC, PERO",PBAE      ,Foul (3),CM,,,Crvena Zvezda mts Belgrade,0
-MAD       ,,5,07:37,33,478,"FERNANDEZ, RUDY",PBMT      ,Three Pointer (2/3 -  8 pt),3FGM,69.0,70.0,Real Madrid,0
-MAD       ,,2,07:37,33,479,"RANDLE, CHASSON",P008038   ,Assist (2),AS,,,Real Madrid,0
-RED       ,,22,07:10,33,480,"ROCHESTIE, TAYLOR",P002972   ,Missed Two Pointer (4/6 -  18 pt),2FGA,,,Crvena Zvezda mts Belgrade,0
-RED       ,,12,07:10,33,481,"ANTIC, PERO",PBAE      ,Off Rebound (2),O,,,Crvena Zvezda mts Belgrade,0
-RED       ,,12,07:10,33,482,"ANTIC, PERO",PBAE      ,Missed Two Pointer (0/2 -  8 pt),2FGA,,,Crvena Zvezda mts Belgrade,0
-RED       ,,,07:10,33,483,,          ,Off Rebound (2),O,,,Crvena Zvezda mts Belgrade,0
-MAD       ,,9,07:10,33,484,"REYES, FELIPE",PAAX      ,Out,OUT,,,Real Madrid,0
-MAD       ,,33,07:10,33,485,"THOMPKINS, TREY",P005836   ,In,IN,,,Real Madrid,0
-RED       ,,12,07:10,33,486,"ANTIC, PERO",PBAE      ,Missed Three Pointer (2/6 -  8 pt),3FGA,,,Crvena Zvezda mts Belgrade,0
-MAD       ,,33,07:10,33,487,"THOMPKINS, TREY",P005836   ,Def Rebound (3),D,,,Real Madrid,0
-MAD       ,,5,06:42,34,489,"FERNANDEZ, RUDY",PBMT      ,Missed Three Pointer (2/4 -  8 pt),3FGA,,,Real Madrid,0
-RED       ,,13,06:39,34,490,"DOBRIC, OGNJEN",P004007   ,Def Rebound (3),D,,,Crvena Zvezda mts Belgrade,0
-RED       ,,6,06:24,34,491,"DANGUBIC, NEMANJA",P005942   ,Three Pointer (1/3 -  3 pt),3FGM,69.0,73.0,Crvena Zvezda mts Belgrade,0
-RED       ,,22,06:22,34,492,"ROCHESTIE, TAYLOR",P002972   ,Assist (5),AS,,,Crvena Zvezda mts Belgrade,0
-MAD       ,,20,06:05,34,493,"CARROLL, JAYCEE",P001960   ,Missed Three Pointer (1/3 -  9 pt),3FGA,,,Real Madrid,0
-RED       ,,6,06:03,34,494,"DANGUBIC, NEMANJA",P005942   ,Def Rebound (3),D,,,Crvena Zvezda mts Belgrade,0
-RED       ,,6,05:52,35,496,"DANGUBIC, NEMANJA",P005942   ,Three Pointer (2/4 -  6 pt),3FGM,69.0,76.0,Crvena Zvezda mts Belgrade,0
-RED       ,,22,05:52,35,497,"ROCHESTIE, TAYLOR",P002972   ,Assist (6),AS,,,Crvena Zvezda mts Belgrade,0
-MAD       ,,,05:52,35,498,,          ,Time Out (1),TOUT,,,Real Madrid,0
-MAD       ,,7,05:31,35,499,"DONCIC, LUKA",P005929   ,Missed Two Pointer (4/5 -  16 pt),2FGA,,,Real Madrid,0
-RED       ,,13,05:28,35,500,"DOBRIC, OGNJEN",P004007   ,Def Rebound (4),D,,,Crvena Zvezda mts Belgrade,0
-MAD       ,,2,05:24,35,501,"RANDLE, CHASSON",P008038   ,Foul (1),CM,,,Real Madrid,0
-RED       ,,22,05:24,35,502,"ROCHESTIE, TAYLOR",P002972   ,Foul Drawn (3),RV,,,Crvena Zvezda mts Belgrade,0
-RED       ,,13,05:24,35,503,"DOBRIC, OGNJEN",P004007   ,Missed Three Pointer (1/3 -  7 pt),3FGA,,,Crvena Zvezda mts Belgrade,0
-MAD       ,,33,05:24,35,504,"THOMPKINS, TREY",P005836   ,Def Rebound (4),D,,,Real Madrid,0
-MAD       ,,7,05:24,35,505,"DONCIC, LUKA",P005929   ,Foul Drawn (8),RV,,,Real Madrid,0
-RED       ,,6,05:24,35,506,"DANGUBIC, NEMANJA",P005942   ,Foul (4),CM,,,Crvena Zvezda mts Belgrade,0
-MAD       ,,7,04:57,36,508,"DONCIC, LUKA",P005929   ,Foul Drawn (9),RV,,,Real Madrid,0
-RED       ,,10,04:57,36,509,"LAZIC, BRANKO",PLUO      ,Foul (4),CM,,,Crvena Zvezda mts Belgrade,0
-MAD       ,,33,04:41,36,510,"THOMPKINS, TREY",P005836   ,Three Pointer (2/3 -  10 pt),3FGM,72.0,76.0,Real Madrid,0
-MAD       ,,20,04:38,36,511,"CARROLL, JAYCEE",P001960   ,Assist (2),AS,,,Real Madrid,0
-RED       ,,13,04:26,36,512,"DOBRIC, OGNJEN",P004007   ,Three Pointer (2/4 -  10 pt),3FGM,72.0,79.0,Crvena Zvezda mts Belgrade,0
-RED       ,,22,04:25,36,513,"ROCHESTIE, TAYLOR",P002972   ,Assist (7),AS,,,Crvena Zvezda mts Belgrade,0
-MAD       ,,2,04:08,36,514,"RANDLE, CHASSON",P008038   ,Missed Two Pointer (0/1 -  3 pt),2FGA,,,Real Madrid,0
-MAD       ,,2,04:08,36,515,"RANDLE, CHASSON",P008038   ,Shot Rejected (1),AG,,,Real Madrid,0
-RED       ,,6,04:05,36,516,"DANGUBIC, NEMANJA",P005942   ,Block (1),FV,,,Crvena Zvezda mts Belgrade,0
-RED       ,,12,04:01,36,517,"ANTIC, PERO",PBAE      ,Def Rebound (2),D,,,Crvena Zvezda mts Belgrade,0
-RED       ,,22,03:50,37,519,"ROCHESTIE, TAYLOR",P002972   ,Missed Three Pointer (3/7 -  18 pt),3FGA,,,Crvena Zvezda mts Belgrade,0
-MAD       ,,5,03:48,37,520,"FERNANDEZ, RUDY",PBMT      ,Def Rebound (2),D,,,Real Madrid,0
-MAD       ,,20,03:41,37,521,"CARROLL, JAYCEE",P001960   ,Three Pointer (2/4 -  12 pt),3FGM,75.0,79.0,Real Madrid,0
-MAD       ,,5,03:39,37,522,"FERNANDEZ, RUDY",PBMT      ,Assist (5),AS,,,Real Madrid,0
-MAD       ,,2,03:32,37,523,"RANDLE, CHASSON",P008038   ,Out,OUT,,,Real Madrid,0
-MAD       ,,9,03:32,37,524,"REYES, FELIPE",PAAX      ,In,IN,,,Real Madrid,0
-RED       ,,12,03:32,37,525,"ANTIC, PERO",PBAE      ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,51,03:32,37,526,"BJELICA, MILKO",PCHX      ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,6,03:32,37,527,"DANGUBIC, NEMANJA",P005942   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,26,03:32,37,528,"LESSORT, MATHIAS",P003842   ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,51,03:17,37,529,"BJELICA, MILKO",PCHX      ,Missed Three Pointer (4/8 -  16 pt),3FGA,,,Crvena Zvezda mts Belgrade,0
-MAD       ,,5,03:17,37,530,"FERNANDEZ, RUDY",PBMT      ,Def Rebound (3),D,,,Real Madrid,0
-MAD       ,,5,03:17,37,531,"FERNANDEZ, RUDY",PBMT      ,Foul Drawn (2),RV,,,Real Madrid,0
-RED       ,,26,03:17,37,532,"LESSORT, MATHIAS",P003842   ,Foul (5),CM,,,Crvena Zvezda mts Belgrade,0
-RED       ,,12,03:17,37,533,"ANTIC, PERO",PBAE      ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,26,03:17,37,534,"LESSORT, MATHIAS",P003842   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-MAD       ,,5,03:17,37,535,"FERNANDEZ, RUDY",PBMT      ,Free Throw In (3/3 -  9 pt),FTM,76.0,79.0,Real Madrid,0
-MAD       ,,5,03:17,37,536,"FERNANDEZ, RUDY",PBMT      ,Free Throw In (4/4 -  10 pt),FTM,77.0,79.0,Real Madrid,0
-MAD       ,,5,03:17,37,537,"FERNANDEZ, RUDY",PBMT      ,Out,OUT,,,Real Madrid,0
-MAD       ,,11,03:17,37,538,"CAMPAZZO, FACUNDO",P005928   ,In,IN,,,Real Madrid,0
-RED       ,,12,02:53,38,540,"ANTIC, PERO",PBAE      ,Missed Three Pointer (2/7 -  8 pt),3FGA,,,Crvena Zvezda mts Belgrade,0
-RED       ,,51,02:51,38,541,"BJELICA, MILKO",PCHX      ,Off Rebound (1),O,,,Crvena Zvezda mts Belgrade,0
-RED       ,,22,02:50,38,542,"ROCHESTIE, TAYLOR",P002972   ,Missed Three Pointer (3/8 -  18 pt),3FGA,,,Crvena Zvezda mts Belgrade,0
-MAD       ,,9,02:48,38,543,"REYES, FELIPE",PAAX      ,Def Rebound (7),D,,,Real Madrid,0
-MAD       ,,7,02:40,38,544,"DONCIC, LUKA",P005929   ,Foul Drawn (10),RV,,,Real Madrid,0
-RED       ,,22,02:40,38,545,"ROCHESTIE, TAYLOR",P002972   ,Foul (4),CM,,,Crvena Zvezda mts Belgrade,0
-RED       ,,10,02:40,38,546,"LAZIC, BRANKO",PLUO      ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,14,02:40,38,547,"FELDEINE, JAMES",P005918   ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,7,02:40,38,548,"DAVIDOVAC, DEJAN",P007960   ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,22,02:40,38,549,"ROCHESTIE, TAYLOR",P002972   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-MAD       ,,7,02:40,38,550,"DONCIC, LUKA",P005929   ,Free Throw In (3/3 -  17 pt),FTM,78.0,79.0,Real Madrid,0
-MAD       ,,7,02:40,38,551,"DONCIC, LUKA",P005929   ,Free Throw In (4/4 -  18 pt),FTM,79.0,79.0,Real Madrid,0
-RED       ,,6,02:40,38,552,"DANGUBIC, NEMANJA",P005942   ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,13,02:40,38,553,"DOBRIC, OGNJEN",P004007   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,14,02:16,38,554,"FELDEINE, JAMES",P005918   ,Two Pointer (2/5 -  10 pt),2FGM,79.0,81.0,Crvena Zvezda mts Belgrade,0
-MAD       ,,7,02:03,38,555,"DONCIC, LUKA",P005929   ,Two Pointer (5/6 -  20 pt),2FGM,81.0,81.0,Real Madrid,0
-RED       ,,7,01:54,39,557,"DAVIDOVAC, DEJAN",P007960   ,Foul Drawn (3),RV,,,Crvena Zvezda mts Belgrade,0
-MAD       ,,20,01:54,39,558,"CARROLL, JAYCEE",P001960   ,Foul (2),CM,,,Real Madrid,0
-MAD       ,,5,01:54,39,559,"FERNANDEZ, RUDY",PBMT      ,In,IN,,,Real Madrid,0
-MAD       ,,11,01:54,39,560,"CAMPAZZO, FACUNDO",P005928   ,Out,OUT,,,Real Madrid,0
-RED       ,,7,01:54,39,561,"DAVIDOVAC, DEJAN",P007960   ,Foul Drawn (4),RV,,,Crvena Zvezda mts Belgrade,0
-MAD       ,,20,01:54,39,562,"CARROLL, JAYCEE",P001960   ,Foul (3),CM,,,Real Madrid,0
-MAD       ,,11,01:54,39,563,"CAMPAZZO, FACUNDO",P005928   ,In,IN,,,Real Madrid,0
-MAD       ,,20,01:54,39,564,"CARROLL, JAYCEE",P001960   ,Out,OUT,,,Real Madrid,0
-RED       ,,7,01:47,39,565,"DAVIDOVAC, DEJAN",P007960   ,Foul Drawn (5),RV,,,Crvena Zvezda mts Belgrade,0
-MAD       ,,11,01:47,39,566,"CAMPAZZO, FACUNDO",P005928   ,Foul (1),CM,,,Real Madrid,0
-RED       ,,7,01:47,39,567,"DAVIDOVAC, DEJAN",P007960   ,Free Throw In (3/3 -  5 pt),FTM,81.0,82.0,Crvena Zvezda mts Belgrade,0
-RED       ,,7,01:47,39,568,"DAVIDOVAC, DEJAN",P007960   ,Missed Free Throw (3/4 -  5 pt),FTA,,,Crvena Zvezda mts Belgrade,0
-MAD       ,,9,01:47,39,569,"REYES, FELIPE",PAAX      ,Def Rebound (8),D,,,Real Madrid,0
-MAD       ,,33,01:24,39,570,"THOMPKINS, TREY",P005836   ,Missed Two Pointer (2/5 -  10 pt),2FGA,,,Real Madrid,0
-MAD       ,,11,01:22,39,571,"CAMPAZZO, FACUNDO",P005928   ,Off Rebound (1),O,,,Real Madrid,0
-MAD       ,,11,01:59,39,582,"CAMPAZZO, FACUNDO",P005928   ,Shot Rejected (1),AG,,,Real Madrid,0
-MAD       ,,11,01:22,39,581,"CAMPAZZO, FACUNDO",P005928   ,Missed Two Pointer (1/4 -  5 pt),2FGA,,,Real Madrid,0
-RED       ,,12,01:22,39,583,"ANTIC, PERO",PBAE      ,Block (1),FV,,,Crvena Zvezda mts Belgrade,0
-RED       ,,7,01:18,39,573,"DAVIDOVAC, DEJAN",P007960   ,Def Rebound (3),D,,,Crvena Zvezda mts Belgrade,0
-RED       ,,7,01:15,39,574,"DAVIDOVAC, DEJAN",P007960   ,Foul Drawn (6),RV,,,Crvena Zvezda mts Belgrade,0
-MAD       ,,11,01:15,39,575,"CAMPAZZO, FACUNDO",P005928   ,Foul (2),CM,,,Real Madrid,0
-MAD       ,,11,01:15,39,576,"CAMPAZZO, FACUNDO",P005928   ,Out,OUT,,,Real Madrid,0
-MAD       ,,20,01:15,39,577,"CARROLL, JAYCEE",P001960   ,In,IN,,,Real Madrid,0
-RED       ,,7,01:15,39,578,"DAVIDOVAC, DEJAN",P007960   ,Free Throw In (4/5 -  6 pt),FTM,81.0,83.0,Crvena Zvezda mts Belgrade,0
-RED       ,,7,01:15,39,579,"DAVIDOVAC, DEJAN",P007960   ,Free Throw In (5/6 -  7 pt),FTM,81.0,84.0,Crvena Zvezda mts Belgrade,0
-MAD       ,,,01:15,39,580,,          ,Time Out (2),TOUT,,,Real Madrid,0
-MAD       ,,9,01:15,39,584,"REYES, FELIPE",PAAX      ,Two Pointer (2/4 -  8 pt),2FGM,83.0,84.0,Real Madrid,0
-MAD       ,,7,01:15,39,585,"DONCIC, LUKA",P005929   ,Assist (5),AS,,,Real Madrid,0
-RED       ,,7,00:46,40,587,"DAVIDOVAC, DEJAN",P007960   ,Turnover (3),TO,,,Crvena Zvezda mts Belgrade,0
-MAD       ,,9,00:44,40,588,"REYES, FELIPE",PAAX      ,Steal (1),ST,,,Real Madrid,0
-MAD       ,,7,00:29,40,589,"DONCIC, LUKA",P005929   ,Turnover (2),TO,,,Real Madrid,0
-RED       ,,6,00:27,40,590,"DANGUBIC, NEMANJA",P005942   ,Steal (1),ST,,,Crvena Zvezda mts Belgrade,0
-RED       ,,12,00:07,40,591,"ANTIC, PERO",PBAE      ,Three Pointer (3/8 -  11 pt),3FGM,83.0,87.0,Crvena Zvezda mts Belgrade,0
-RED       ,,14,00:07,40,592,"FELDEINE, JAMES",P005918   ,Assist (5),AS,,,Crvena Zvezda mts Belgrade,0
-MAD       ,,,00:07,40,593,,          ,Time Out (3),TOUT,,,Real Madrid,0
-RED       ,,10,00:07,40,594,"LAZIC, BRANKO",PLUO      ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,12,00:07,40,595,"ANTIC, PERO",PBAE      ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-MAD       ,,5,00:07,40,596,"FERNANDEZ, RUDY",PBMT      ,Turnover (2),TO,,,Real Madrid,0
-RED       ,,,00:04,40,597,,          ,Time Out (2),TOUT,,,Crvena Zvezda mts Belgrade,0
-          ,,,,41,600,,          ,End Game,EG,,,,0
+CODETEAM,COMMENT,DORSAL,MARKERTIME,MINUTE,NUMBEROFPLAY,PLAYER,PLAYER_ID,PLAYINFO,PLAYTYPE,POINTS_A,POINTS_B,TEAM,TYPE,home_team,home_team_code,away_team,away_team_code
+          ,,,,1,6,,          ,Begin Period,BP,,,,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,16,09:45,1,7,"YUSTA, SANTI",P005368   ,Turnover (1),TO,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,14,09:24,1,8,"FELDEINE, JAMES",P005918   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,16,09:21,1,9,"YUSTA, SANTI",P005368   ,Def Rebound (1),D,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,1,09:15,1,10,"CAUSEUR, FABIEN",P001392   ,Foul Drawn (1),RV,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,22,09:15,1,11,"ROCHESTIE, TAYLOR",P002972   ,Foul (1),CM,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,33,09:07,1,12,"THOMPKINS, TREY",P005836   ,Foul Drawn (1),RV,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,51,09:07,1,13,"BJELICA, MILKO",PCHX      ,Foul (1),CM,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,11,08:57,2,15,"CAMPAZZO, FACUNDO",P005928   ,Turnover (1),TO,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,14,08:55,2,16,"FELDEINE, JAMES",P005918   ,Steal (1),ST,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,14,08:51,2,17,"FELDEINE, JAMES",P005918   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,26,08:51,2,18,"LESSORT, MATHIAS",P003842   ,Off Rebound (1),O,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,22,08:51,2,19,"ROCHESTIE, TAYLOR",P002972   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,16,08:51,2,20,"YUSTA, SANTI",P005368   ,Def Rebound (2),D,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,22,08:22,2,21,"TAVARES, WALTER",P005791   ,Two Pointer (1/1 -  2 pt),2FGM,2.0,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,16,08:19,2,22,"YUSTA, SANTI",P005368   ,Assist (1),AS,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,22,08:05,2,23,"ROCHESTIE, TAYLOR",P002972   ,Three Pointer (1/2 -  3 pt),3FGM,2.0,3.0,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,51,08:03,2,24,"BJELICA, MILKO",PCHX      ,Assist (1),AS,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,16,07:40,3,26,"YUSTA, SANTI",P005368   ,Three Pointer (1/1 -  3 pt),3FGM,5.0,3.0,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,11,07:38,3,27,"CAMPAZZO, FACUNDO",P005928   ,Assist (1),AS,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,26,07:21,3,28,"LESSORT, MATHIAS",P003842   ,Two Pointer (1/1 -  2 pt),2FGM,5.0,5.0,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,51,07:19,3,29,"BJELICA, MILKO",PCHX      ,Assist (2),AS,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,16,07:06,3,30,"YUSTA, SANTI",P005368   ,Missed Two Pointer (0/1 -  3 pt),2FGA,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,16,07:59,3,34,"YUSTA, SANTI",P005368   ,Shot Rejected (1),AG,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,26,07:04,3,31,"LESSORT, MATHIAS",P003842   ,Block (1),FV,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,51,07:04,3,32,"BJELICA, MILKO",PCHX      ,Def Rebound (1),D,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+          ,,,07:04,3,35,,          ,TV Time Out (1),TOUT_TV,,,,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,14,07:00,3,36,"FELDEINE, JAMES",P005918   ,Turnover (1),TO,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,1,06:59,4,38,"CAUSEUR, FABIEN",P001392   ,Steal (1),ST,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,11,06:53,4,39,"CAMPAZZO, FACUNDO",P005928   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,22,06:53,4,40,"TAVARES, WALTER",P005791   ,Off Rebound (1),O,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,33,06:53,4,42,"THOMPKINS, TREY",P005836   ,Three Pointer (1/1 -  3 pt),3FGM,8.0,5.0,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,16,06:53,4,43,"YUSTA, SANTI",P005368   ,Assist (2),AS,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,51,06:31,4,44,"BJELICA, MILKO",PCHX      ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,11,06:30,4,45,"CAMPAZZO, FACUNDO",P005928   ,Def Rebound (1),D,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,11,06:30,4,46,"CAMPAZZO, FACUNDO",P005928   ,Foul Drawn (1),RV,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,6,06:30,4,47,"DANGUBIC, NEMANJA",P005942   ,Foul (1),CM,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,1,06:21,4,48,"CAUSEUR, FABIEN",P001392   ,Foul Drawn (2),RV,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,22,06:21,4,49,"ROCHESTIE, TAYLOR",P002972   ,Foul (2),CM,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,7,06:21,4,50,"DAVIDOVAC, DEJAN",P007960   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,22,06:21,4,51,"ROCHESTIE, TAYLOR",P002972   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,16,06:10,4,52,"YUSTA, SANTI",P005368   ,Turnover (2),TO,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,7,06:06,4,53,"DAVIDOVAC, DEJAN",P007960   ,Steal (1),ST,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,7,06:03,4,54,"DAVIDOVAC, DEJAN",P007960   ,Foul Drawn (1),RV,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,16,06:03,4,55,"YUSTA, SANTI",P005368   ,Foul (1),CM,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,26,05:50,5,57,"LESSORT, MATHIAS",P003842   ,Foul Drawn (1),RV,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,16,05:50,5,58,"YUSTA, SANTI",P005368   ,Foul (2),CM,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,6,05:50,5,59,"DANGUBIC, NEMANJA",P005942   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,10,05:50,5,60,"LAZIC, BRANKO",PLUO      ,In,IN,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,26,05:50,5,61,"LESSORT, MATHIAS",P003842   ,Free Throw In (1/1 -  3 pt),FTM,8.0,6.0,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,14,05:50,5,62,"FELDEINE, JAMES",P005918   ,Assist (1),AS,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,26,05:50,5,63,"LESSORT, MATHIAS",P003842   ,Missed Free Throw (1/2 -  3 pt),FTA,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,33,05:50,5,64,"THOMPKINS, TREY",P005836   ,Def Rebound (1),D,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,11,05:38,5,65,"CAMPAZZO, FACUNDO",P005928   ,Turnover (2),TO,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,7,05:38,5,66,"DAVIDOVAC, DEJAN",P007960   ,Foul Drawn (2),RV,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,16,05:38,5,67,"YUSTA, SANTI",P005368   ,Foul (3),CM,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,7,05:38,5,68,"DONCIC, LUKA",P005929   ,In,IN,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,16,05:38,5,69,"YUSTA, SANTI",P005368   ,Out,OUT,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,7,05:38,5,70,"DAVIDOVAC, DEJAN",P007960   ,Free Throw In (1/1 -  1 pt),FTM,8.0,7.0,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,7,05:38,5,71,"DAVIDOVAC, DEJAN",P007960   ,Free Throw In (2/2 -  2 pt),FTM,8.0,8.0,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,22,05:10,5,72,"TAVARES, WALTER",P005791   ,Turnover (1),TO,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,26,05:06,5,73,"LESSORT, MATHIAS",P003842   ,Steal (1),ST,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,51,05:01,5,74,"BJELICA, MILKO",PCHX      ,Three Pointer (1/2 -  3 pt),3FGM,8.0,11.0,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,14,05:01,5,75,"FELDEINE, JAMES",P005918   ,Assist (2),AS,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,,05:01,5,76,,          ,Time Out (1),TOUT,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,9,05:01,5,77,"REYES, FELIPE",PAAX      ,In,IN,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,22,05:01,5,78,"TAVARES, WALTER",P005791   ,Out,OUT,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,7,04:53,6,80,"DONCIC, LUKA",P005929   ,Two Pointer (1/1 -  2 pt),2FGM,10.0,11.0,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,33,04:53,6,81,"THOMPKINS, TREY",P005836   ,Assist (1),AS,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,51,04:16,6,82,"BJELICA, MILKO",PCHX      ,Missed Two Pointer (0/1 -  3 pt),2FGA,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,26,04:15,6,83,"LESSORT, MATHIAS",P003842   ,Off Rebound (2),O,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,26,04:15,6,84,"LESSORT, MATHIAS",P003842   ,Missed Two Pointer (1/2 -  3 pt),2FGA,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,,04:15,6,85,,          ,Def Rebound (1),D,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,9,03:57,7,87,"REYES, FELIPE",PAAX      ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,51,03:54,7,88,"BJELICA, MILKO",PCHX      ,Def Rebound (2),D,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,51,03:51,7,89,"BJELICA, MILKO",PCHX      ,Foul Drawn (1),RV,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,33,03:51,7,90,"THOMPKINS, TREY",P005836   ,Foul (1),CM,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,1,03:51,7,91,"CAUSEUR, FABIEN",P001392   ,Out,OUT,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,5,03:51,7,92,"FERNANDEZ, RUDY",PBMT      ,In,IN,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,11,03:51,7,93,"CAMPAZZO, FACUNDO",P005928   ,Out,OUT,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,20,03:51,7,94,"CARROLL, JAYCEE",P001960   ,In,IN,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,14,03:31,7,95,"FELDEINE, JAMES",P005918   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,20,03:21,7,96,"CARROLL, JAYCEE",P001960   ,Def Rebound (1),D,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,33,03:17,7,97,"THOMPKINS, TREY",P005836   ,Missed Two Pointer (0/1 -  3 pt),2FGA,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,26,03:14,7,98,"LESSORT, MATHIAS",P003842   ,Def Rebound (1),D,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,51,03:10,7,99,"BJELICA, MILKO",PCHX      ,Three Pointer (2/3 -  6 pt),3FGM,10.0,14.0,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,14,03:08,7,100,"FELDEINE, JAMES",P005918   ,Assist (3),AS,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,20,02:50,8,102,"CARROLL, JAYCEE",P001960   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,33,02:47,8,103,"THOMPKINS, TREY",P005836   ,Off Rebound (1),O,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,33,02:47,8,104,"THOMPKINS, TREY",P005836   ,Two Pointer (1/2 -  5 pt),2FGM,12.0,14.0,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,51,02:26,8,105,"BJELICA, MILKO",PCHX      ,Missed Three Pointer (2/4 -  6 pt),3FGA,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,5,02:23,8,106,"FERNANDEZ, RUDY",PBMT      ,Def Rebound (1),D,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,7,02:22,8,107,"DONCIC, LUKA",P005929   ,Two Pointer (2/2 -  4 pt),2FGM,14.0,14.0,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,5,02:22,8,108,"FERNANDEZ, RUDY",PBMT      ,Assist (1),AS,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,,02:22,8,109,,          ,Time Out (1),TOUT,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,8,02:22,8,110,"MACIULIS, JONAS",PJCC      ,In,IN,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,33,02:22,8,111,"THOMPKINS, TREY",P005836   ,Out,OUT,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,12,02:22,8,112,"ANTIC, PERO",PBAE      ,In,IN,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,16,02:22,8,113,"JANKOVIC, STEFAN",P007961   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,26,02:22,8,114,"LESSORT, MATHIAS",P003842   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,51,02:22,8,115,"BJELICA, MILKO",PCHX      ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,9,02:13,8,116,"REYES, FELIPE",PAAX      ,Foul (1),CM,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,12,02:13,8,117,"ANTIC, PERO",PBAE      ,Foul Drawn (1),RV,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,12,02:13,8,118,"ANTIC, PERO",PBAE      ,Free Throw In (1/1 -  1 pt),FTM,14.0,15.0,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,12,02:13,8,119,"ANTIC, PERO",PBAE      ,Free Throw In (2/2 -  2 pt),FTM,14.0,16.0,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,7,01:55,9,121,"DONCIC, LUKA",P005929   ,Three Pointer (1/1 -  7 pt),3FGM,17.0,16.0,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,20,01:52,9,122,"CARROLL, JAYCEE",P001960   ,Assist (1),AS,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,12,01:39,9,123,"ANTIC, PERO",PBAE      ,Three Pointer (1/1 -  5 pt),3FGM,17.0,19.0,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,7,01:37,9,124,"DAVIDOVAC, DEJAN",P007960   ,Assist (1),AS,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,20,01:24,9,125,"CARROLL, JAYCEE",P001960   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,,01:24,9,137,,          ,Off Rebound (1),O,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,7,01:24,9,126,"DONCIC, LUKA",P005929   ,Foul Drawn (1),RV,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,10,01:24,9,127,"LAZIC, BRANKO",PLUO      ,Foul (1),CM,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,7,01:24,9,128,"DONCIC, LUKA",P005929   ,Free Throw In (1/1 -  8 pt),FTM,18.0,19.0,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,7,01:24,9,129,"DONCIC, LUKA",P005929   ,Free Throw In (2/2 -  9 pt),FTM,19.0,19.0,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,6,01:24,9,130,"DANGUBIC, NEMANJA",P005942   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,10,01:24,9,131,"LAZIC, BRANKO",PLUO      ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,12,01:00,9,132,"ANTIC, PERO",PBAE      ,Missed Three Pointer (1/2 -  5 pt),3FGA,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,9,00:58,10,134,"REYES, FELIPE",PAAX      ,Def Rebound (1),D,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,20,00:56,10,135,"CARROLL, JAYCEE",P001960   ,Two Pointer (1/2 -  2 pt),2FGM,21.0,19.0,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,9,00:56,10,136,"REYES, FELIPE",PAAX      ,Assist (1),AS,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,13,00:56,10,138,"DOBRIC, OGNJEN",P004007   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,14,00:56,10,139,"FELDEINE, JAMES",P005918   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,16,00:56,10,140,"JANKOVIC, STEFAN",P007961   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,32,00:56,10,141,"JOVANOVIC, NIKOLA",P003264   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,7,00:41,10,142,"DAVIDOVAC, DEJAN",P007960   ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,8,00:38,10,143,"MACIULIS, JONAS",PJCC      ,Def Rebound (1),D,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,7,00:34,10,144,"DONCIC, LUKA",P005929   ,Three Pointer (2/2 -  12 pt),3FGM,24.0,19.0,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,5,00:29,10,145,"FERNANDEZ, RUDY",PBMT      ,Assist (2),AS,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,7,00:13,10,146,"DAVIDOVAC, DEJAN",P007960   ,Missed Three Pointer (0/2 -  2 pt),3FGA,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,9,00:13,10,147,"REYES, FELIPE",PAAX      ,Def Rebound (2),D,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,7,00:13,10,148,"DONCIC, LUKA",P005929   ,Missed Three Pointer (2/3 -  12 pt),3FGA,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+          ,,,,11,150,,          ,End Period,EP,,,,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+          ,,,,11,156,,          ,Begin Period,BP,,,,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,7,10:00,11,151,"DAVIDOVAC, DEJAN",P007960   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,13,10:00,11,152,"DOBRIC, OGNJEN",P004007   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,22,10:00,11,153,"ROCHESTIE, TAYLOR",P002972   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,32,10:00,11,154,"JOVANOVIC, NIKOLA",P003264   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,51,10:00,11,155,"BJELICA, MILKO",PCHX      ,In,IN,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,13,09:59,11,157,"DOBRIC, OGNJEN",P004007   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,20,09:47,11,158,"CARROLL, JAYCEE",P001960   ,Missed Two Pointer (1/3 -  2 pt),2FGA,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,51,09:43,11,159,"BJELICA, MILKO",PCHX      ,Def Rebound (3),D,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,22,09:39,11,160,"ROCHESTIE, TAYLOR",P002972   ,Missed Two Pointer (0/1 -  3 pt),2FGA,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,8,09:37,11,161,"MACIULIS, JONAS",PJCC      ,Def Rebound (2),D,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,9,09:33,11,162,"REYES, FELIPE",PAAX      ,Foul Drawn (1),RV,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,12,09:33,11,163,"ANTIC, PERO",PBAE      ,Foul (1),CM,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,9,09:33,11,164,"REYES, FELIPE",PAAX      ,Free Throw In (1/1 -  1 pt),FTM,25.0,19.0,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,7,09:33,11,165,"DONCIC, LUKA",P005929   ,Assist (1),AS,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,9,09:33,11,166,"REYES, FELIPE",PAAX      ,Free Throw In (2/2 -  2 pt),FTM,26.0,19.0,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,6,09:11,11,167,"DANGUBIC, NEMANJA",P005942   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,12,09:09,11,168,"ANTIC, PERO",PBAE      ,Off Rebound (1),O,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,51,09:05,11,169,"BJELICA, MILKO",PCHX      ,Two Pointer (1/2 -  8 pt),2FGM,26.0,21.0,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,7,08:49,12,171,"DONCIC, LUKA",P005929   ,Foul Drawn (2),RV,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,13,08:49,12,172,"DOBRIC, OGNJEN",P004007   ,Foul (1),CM,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,20,08:41,12,173,"CARROLL, JAYCEE",P001960   ,Two Pointer (2/4 -  4 pt),2FGM,28.0,21.0,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,12,08:23,12,174,"ANTIC, PERO",PBAE      ,Missed Three Pointer (1/3 -  5 pt),3FGA,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,7,08:20,12,175,"DONCIC, LUKA",P005929   ,Def Rebound (1),D,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,5,08:09,12,176,"FERNANDEZ, RUDY",PBMT      ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,6,08:06,12,177,"DANGUBIC, NEMANJA",P005942   ,Def Rebound (1),D,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,51,07:59,13,179,"BJELICA, MILKO",PCHX      ,Three Pointer (3/5 -  11 pt),3FGM,28.0,24.0,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,6,07:57,13,180,"DANGUBIC, NEMANJA",P005942   ,Assist (1),AS,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,9,07:50,13,181,"REYES, FELIPE",PAAX      ,Offensive Foul (2),OF,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,9,07:50,13,196,"REYES, FELIPE",PAAX      ,Turnover (1),TO,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,6,07:50,13,182,"DANGUBIC, NEMANJA",P005942   ,Foul Drawn (1),RV,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,1,07:50,13,183,"CAUSEUR, FABIEN",P001392   ,In,IN,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,5,07:50,13,184,"FERNANDEZ, RUDY",PBMT      ,Out,OUT,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,12,07:50,13,185,"ANTIC, PERO",PBAE      ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,26,07:50,13,186,"LESSORT, MATHIAS",P003842   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,13,07:50,13,187,"DOBRIC, OGNJEN",P004007   ,Three Pointer (1/1 -  3 pt),3FGM,28.0,27.0,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,22,07:50,13,188,"ROCHESTIE, TAYLOR",P002972   ,Assist (1),AS,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,9,07:50,13,189,"REYES, FELIPE",PAAX      ,Two Pointer (1/2 -  4 pt),2FGM,30.0,27.0,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,7,07:50,13,190,"DONCIC, LUKA",P005929   ,Assist (2),AS,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,6,06:57,14,192,"DANGUBIC, NEMANJA",P005942   ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,9,06:55,14,193,"REYES, FELIPE",PAAX      ,Def Rebound (3),D,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,9,06:40,14,194,"REYES, FELIPE",PAAX      ,Foul Drawn (2),RV,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,6,06:40,14,195,"DANGUBIC, NEMANJA",P005942   ,Foul (2),CM,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,6,06:40,14,197,"DANGUBIC, NEMANJA",P005942   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,10,06:40,14,198,"LAZIC, BRANKO",PLUO      ,In,IN,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,8,06:41,14,199,"MACIULIS, JONAS",PJCC      ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,22,06:38,14,200,"ROCHESTIE, TAYLOR",P002972   ,Def Rebound (1),D,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,26,06:31,14,201,"LESSORT, MATHIAS",P003842   ,Missed Two Pointer (1/3 -  3 pt),2FGA,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,8,06:29,14,202,"MACIULIS, JONAS",PJCC      ,Def Rebound (3),D,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,10,06:22,14,204,"LAZIC, BRANKO",PLUO      ,Foul Drawn (1),RV,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,9,06:22,14,208,"REYES, FELIPE",PAAX      ,Offensive Foul (3),OF,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,9,06:22,14,205,"REYES, FELIPE",PAAX      ,Turnover (2),TO,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,9,06:22,14,206,"REYES, FELIPE",PAAX      ,Out,OUT,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,22,06:22,14,207,"TAVARES, WALTER",P005791   ,In,IN,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,26,05:56,15,211,"LESSORT, MATHIAS",P003842   ,Two Pointer (2/4 -  5 pt),2FGM,30.0,29.0,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,22,05:54,15,212,"ROCHESTIE, TAYLOR",P002972   ,Assist (2),AS,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,7,05:45,15,213,"DONCIC, LUKA",P005929   ,Foul Drawn (3),RV,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,10,05:45,15,214,"LAZIC, BRANKO",PLUO      ,Foul (2),CM,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,1,05:45,15,215,"CAUSEUR, FABIEN",P001392   ,Foul Drawn (3),RV,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,51,05:45,15,216,"BJELICA, MILKO",PCHX      ,Foul (2),CM,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,12,05:45,15,217,"ANTIC, PERO",PBAE      ,In,IN,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,51,05:45,15,218,"BJELICA, MILKO",PCHX      ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,1,05:45,15,219,"CAUSEUR, FABIEN",P001392   ,Free Throw In (1/1 -  1 pt),FTM,31.0,29.0,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,22,05:45,15,222,"TAVARES, WALTER",P005791   ,Assist (1),AS,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,1,05:45,15,220,"CAUSEUR, FABIEN",P001392   ,Free Throw In (2/2 -  2 pt),FTM,32.0,29.0,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,22,05:27,15,221,"ROCHESTIE, TAYLOR",P002972   ,Two Pointer (1/2 -  5 pt),2FGM,32.0,31.0,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,22,05:27,15,223,"TAVARES, WALTER",P005791   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,22,05:27,15,224,"TAVARES, WALTER",P005791   ,Shot Rejected (1),AG,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,26,05:27,15,225,"LESSORT, MATHIAS",P003842   ,Block (2),FV,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,13,05:27,15,226,"DOBRIC, OGNJEN",P004007   ,Def Rebound (1),D,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,22,05:27,15,227,"ROCHESTIE, TAYLOR",P002972   ,Two Pointer (2/3 -  7 pt),2FGM,32.0,33.0,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,22,05:27,15,228,"ROCHESTIE, TAYLOR",P002972   ,Foul Drawn (1),RV,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,20,05:27,15,229,"CARROLL, JAYCEE",P001960   ,Foul (1),CM,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,5,05:27,15,230,"FERNANDEZ, RUDY",PBMT      ,In,IN,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,7,05:27,15,231,"DONCIC, LUKA",P005929   ,Out,OUT,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,11,05:27,15,232,"CAMPAZZO, FACUNDO",P005928   ,In,IN,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,20,05:27,15,233,"CARROLL, JAYCEE",P001960   ,Out,OUT,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,22,05:27,15,234,"ROCHESTIE, TAYLOR",P002972   ,Free Throw In (1/1 -  8 pt),FTM,32.0,34.0,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,11,05:27,15,256,"CAMPAZZO, FACUNDO",P005928   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,22,05:27,15,257,"TAVARES, WALTER",P005791   ,Off Rebound (2),O,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,22,05:27,15,235,"TAVARES, WALTER",P005791   ,Missed Two Pointer (1/3 -  2 pt),2FGA,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,5,05:59,15,283,"FERNANDEZ, RUDY",PBMT      ,Off Rebound (1),O,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,5,05:27,15,284,"FERNANDEZ, RUDY",PBMT      ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,26,05:27,15,285,"LESSORT, MATHIAS",P003842   ,Def Rebound (2),D,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,5,04:36,16,237,"FERNANDEZ, RUDY",PBMT      ,Foul (1),CM,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,12,04:36,16,238,"ANTIC, PERO",PBAE      ,Foul Drawn (2),RV,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+          ,,,04:36,16,299,,          ,TV Time Out (2),TOUT_TV,,,,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,22,04:36,16,239,"ROCHESTIE, TAYLOR",P002972   ,Missed Three Pointer (1/3 -  8 pt),3FGA,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,10,04:36,16,240,"LAZIC, BRANKO",PLUO      ,Off Rebound (1),O,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,22,04:36,16,241,"ROCHESTIE, TAYLOR",P002972   ,Two Pointer (3/4 -  10 pt),2FGM,32.0,36.0,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,1,04:00,16,242,"CAUSEUR, FABIEN",P001392   ,Foul Drawn (4),RV,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,26,04:00,16,243,"LESSORT, MATHIAS",P003842   ,Foul (1),CM,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,1,04:00,16,244,"CAUSEUR, FABIEN",P001392   ,Free Throw In (3/3 -  3 pt),FTM,33.0,36.0,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,1,04:00,16,245,"CAUSEUR, FABIEN",P001392   ,Free Throw In (4/4 -  4 pt),FTM,34.0,36.0,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,7,04:00,16,246,"DAVIDOVAC, DEJAN",P007960   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,22,04:00,16,247,"ROCHESTIE, TAYLOR",P002972   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,10,04:00,16,248,"LAZIC, BRANKO",PLUO      ,Three Pointer (1/1 -  3 pt),3FGM,34.0,39.0,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,7,04:00,16,249,"DAVIDOVAC, DEJAN",P007960   ,Assist (2),AS,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,11,03:33,17,251,"CAMPAZZO, FACUNDO",P005928   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,7,03:31,17,252,"DAVIDOVAC, DEJAN",P007960   ,Def Rebound (1),D,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,26,03:27,17,253,"LESSORT, MATHIAS",P003842   ,Foul Drawn (2),RV,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,22,03:27,17,254,"TAVARES, WALTER",P005791   ,Foul (1),CM,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,,03:27,17,255,,          ,Time Out (1),TOUT,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,22,03:27,17,258,"TAVARES, WALTER",P005791   ,Out,OUT,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,33,03:27,17,259,"THOMPKINS, TREY",P005836   ,In,IN,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,26,03:27,17,260,"LESSORT, MATHIAS",P003842   ,Missed Free Throw (1/3 -  5 pt),FTA,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,26,03:27,17,261,"LESSORT, MATHIAS",P003842   ,Free Throw In (2/4 -  6 pt),FTM,34.0,40.0,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,7,03:27,17,262,"DAVIDOVAC, DEJAN",P007960   ,Assist (3),AS,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,8,03:01,17,263,"MACIULIS, JONAS",PJCC      ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,13,03:00,18,265,"DOBRIC, OGNJEN",P004007   ,Def Rebound (2),D,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,7,02:54,18,266,"DAVIDOVAC, DEJAN",P007960   ,Turnover (1),TO,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,11,02:51,18,267,"CAMPAZZO, FACUNDO",P005928   ,Steal (1),ST,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,11,02:49,18,268,"CAMPAZZO, FACUNDO",P005928   ,Three Pointer (1/2 -  3 pt),3FGM,37.0,40.0,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,7,02:49,18,300,"DAVIDOVAC, DEJAN",P007960   ,Turnover (2),TO,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,33,02:49,18,301,"THOMPKINS, TREY",P005836   ,Steal (1),ST,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,33,02:49,18,273,"THOMPKINS, TREY",P005836   ,Missed Three Pointer (1/2 -  5 pt),3FGA,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,7,02:49,18,274,"DAVIDOVAC, DEJAN",P007960   ,Def Rebound (2),D,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,12,01:49,19,276,"ANTIC, PERO",PBAE      ,Missed Two Pointer (0/1 -  5 pt),2FGA,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,33,01:47,19,277,"THOMPKINS, TREY",P005836   ,Def Rebound (2),D,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,5,01:29,19,278,"FERNANDEZ, RUDY",PBMT      ,Turnover (1),TO,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,13,01:28,19,279,"DOBRIC, OGNJEN",P004007   ,Steal (1),ST,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,13,01:23,19,280,"DOBRIC, OGNJEN",P004007   ,Two Pointer (1/1 -  5 pt),2FGM,37.0,42.0,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,1,01:09,19,281,"CAUSEUR, FABIEN",P001392   ,Two Pointer (1/1 -  6 pt),2FGM,39.0,42.0,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,,01:09,19,282,,          ,Time Out (1),TOUT,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,6,01:09,19,286,"DANGUBIC, NEMANJA",P005942   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,7,01:09,19,287,"DAVIDOVAC, DEJAN",P007960   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,10,01:09,19,288,"LAZIC, BRANKO",PLUO      ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,13,01:09,19,289,"DOBRIC, OGNJEN",P004007   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,14,01:09,19,290,"FELDEINE, JAMES",P005918   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,22,01:09,19,291,"ROCHESTIE, TAYLOR",P002972   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,14,01:09,19,292,"FELDEINE, JAMES",P005918   ,Two Pointer (1/3 -  2 pt),2FGM,39.0,44.0,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,33,00:26,20,294,"THOMPKINS, TREY",P005836   ,Missed Two Pointer (1/3 -  5 pt),2FGA,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,6,00:24,20,295,"DANGUBIC, NEMANJA",P005942   ,Def Rebound (2),D,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,22,00:00,20,296,"ROCHESTIE, TAYLOR",P002972   ,Two Pointer (4/5 -  12 pt),2FGM,39.0,46.0,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+          ,,,,21,298,,          ,End Period,EP,,,,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+          ,,,,21,308,,          ,Begin Period,BP,,,,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,5,10:00,21,302,"FERNANDEZ, RUDY",PBMT      ,Out,OUT,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,7,10:00,21,303,"DONCIC, LUKA",P005929   ,In,IN,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,22,10:00,21,304,"TAVARES, WALTER",P005791   ,In,IN,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,33,10:00,21,305,"THOMPKINS, TREY",P005836   ,Out,OUT,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,12,10:00,21,306,"ANTIC, PERO",PBAE      ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,51,10:00,21,307,"BJELICA, MILKO",PCHX      ,In,IN,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,26,09:45,21,309,"LESSORT, MATHIAS",P003842   ,Missed Two Pointer (2/5 -  6 pt),2FGA,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,11,09:42,21,310,"CAMPAZZO, FACUNDO",P005928   ,Def Rebound (2),D,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,1,09:38,21,311,"CAUSEUR, FABIEN",P001392   ,Two Pointer (2/2 -  8 pt),2FGM,41.0,46.0,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,11,09:36,21,312,"CAMPAZZO, FACUNDO",P005928   ,Assist (2),AS,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,14,09:15,21,313,"FELDEINE, JAMES",P005918   ,Three Pointer (1/2 -  5 pt),3FGM,41.0,49.0,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,6,09:13,21,314,"DANGUBIC, NEMANJA",P005942   ,Assist (2),AS,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,11,08:52,22,316,"CAMPAZZO, FACUNDO",P005928   ,Missed Three Pointer (1/3 -  3 pt),3FGA,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,14,08:45,22,318,"FELDEINE, JAMES",P005918   ,Def Rebound (1),D,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,51,08:45,22,319,"BJELICA, MILKO",PCHX      ,Missed Three Pointer (3/6 -  11 pt),3FGA,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,6,08:45,22,320,"DANGUBIC, NEMANJA",P005942   ,Off Rebound (1),O,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,14,08:45,22,321,"FELDEINE, JAMES",P005918   ,Three Pointer (2/3 -  8 pt),3FGM,41.0,52.0,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,6,08:45,22,322,"DANGUBIC, NEMANJA",P005942   ,Assist (3),AS,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,6,08:18,22,323,"DANGUBIC, NEMANJA",P005942   ,Foul (3),CM,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,7,08:18,22,324,"DONCIC, LUKA",P005929   ,Foul Drawn (4),RV,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,7,08:17,22,325,"DONCIC, LUKA",P005929   ,Missed Three Pointer (2/4 -  12 pt),3FGA,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,,08:17,22,326,,          ,Def Rebound (2),D,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,6,07:47,23,328,"DANGUBIC, NEMANJA",P005942   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,26,07:47,23,329,"LESSORT, MATHIAS",P003842   ,Off Rebound (3),O,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,26,07:47,23,330,"LESSORT, MATHIAS",P003842   ,Missed Two Pointer (2/6 -  6 pt),2FGA,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,26,07:47,23,331,"LESSORT, MATHIAS",P003842   ,Shot Rejected (1),AG,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,22,07:47,23,332,"TAVARES, WALTER",P005791   ,Block (1),FV,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,8,07:47,23,333,"MACIULIS, JONAS",PJCC      ,Def Rebound (4),D,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,7,07:47,23,334,"DONCIC, LUKA",P005929   ,Foul Drawn (5),RV,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,26,07:47,23,335,"LESSORT, MATHIAS",P003842   ,Foul (2),CM,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,1,07:47,23,336,"CAUSEUR, FABIEN",P001392   ,Missed Two Pointer (2/3 -  8 pt),2FGA,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,51,07:47,23,337,"BJELICA, MILKO",PCHX      ,Def Rebound (4),D,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,26,07:10,23,338,"LESSORT, MATHIAS",P003842   ,Missed Two Pointer (2/7 -  6 pt),2FGA,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,8,07:07,23,339,"MACIULIS, JONAS",PJCC      ,Def Rebound (5),D,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,11,07:04,23,340,"CAMPAZZO, FACUNDO",P005928   ,Two Pointer (1/3 -  5 pt),2FGM,43.0,52.0,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,7,07:01,23,341,"DONCIC, LUKA",P005929   ,Assist (3),AS,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,22,06:53,24,343,"ROCHESTIE, TAYLOR",P002972   ,Foul Drawn (2),RV,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,1,06:53,24,344,"CAUSEUR, FABIEN",P001392   ,Foul (1),CM,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,14,06:53,24,345,"FELDEINE, JAMES",P005918   ,Missed Two Pointer (1/4 -  8 pt),2FGA,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,7,06:53,24,346,"DONCIC, LUKA",P005929   ,Def Rebound (2),D,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,7,06:44,24,347,"DONCIC, LUKA",P005929   ,Two Pointer (3/3 -  14 pt),2FGM,45.0,52.0,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,6,06:18,24,348,"DANGUBIC, NEMANJA",P005942   ,Turnover (1),TO,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,8,06:16,24,349,"MACIULIS, JONAS",PJCC      ,Steal (1),ST,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,22,06:15,24,350,"TAVARES, WALTER",P005791   ,Two Pointer (2/4 -  4 pt),2FGM,47.0,52.0,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,1,06:15,24,351,"CAUSEUR, FABIEN",P001392   ,Assist (1),AS,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,,06:15,24,352,,          ,Time Out (1),TOUT,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,6,06:15,24,353,"DANGUBIC, NEMANJA",P005942   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,10,06:15,24,354,"LAZIC, BRANKO",PLUO      ,In,IN,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,12,06:15,24,355,"ANTIC, PERO",PBAE      ,In,IN,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,26,06:15,24,356,"LESSORT, MATHIAS",P003842   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,22,05:56,25,358,"ROCHESTIE, TAYLOR",P002972   ,Three Pointer (2/4 -  15 pt),3FGM,47.0,55.0,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,7,05:37,25,359,"DONCIC, LUKA",P005929   ,Turnover (1),TO,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,10,05:35,25,360,"LAZIC, BRANKO",PLUO      ,Steal (1),ST,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,12,05:27,25,361,"ANTIC, PERO",PBAE      ,Foul Drawn (3),RV,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,22,05:27,25,362,"TAVARES, WALTER",P005791   ,Foul (2),CM,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,22,05:27,25,363,"TAVARES, WALTER",P005791   ,Out,OUT,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,33,05:27,25,364,"THOMPKINS, TREY",P005836   ,In,IN,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,51,05:23,25,365,"BJELICA, MILKO",PCHX      ,Two Pointer (2/3 -  13 pt),2FGM,47.0,57.0,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,14,05:23,25,366,"FELDEINE, JAMES",P005918   ,Assist (4),AS,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,7,05:04,25,367,"DONCIC, LUKA",P005929   ,Foul Drawn (6),RV,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,10,05:04,25,368,"LAZIC, BRANKO",PLUO      ,Foul (3),CM,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,33,05:04,25,369,"THOMPKINS, TREY",P005836   ,Offensive Foul (2),OF,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,33,05:04,25,370,"THOMPKINS, TREY",P005836   ,Turnover (1),TO,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,10,05:04,25,371,"LAZIC, BRANKO",PLUO      ,Foul Drawn (2),RV,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,8,05:04,25,372,"MACIULIS, JONAS",PJCC      ,Out,OUT,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,9,05:04,25,373,"REYES, FELIPE",PAAX      ,In,IN,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,14,04:36,26,375,"FELDEINE, JAMES",P005918   ,Turnover (2),TO,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,9,04:14,26,376,"REYES, FELIPE",PAAX      ,Missed Two Pointer (1/3 -  4 pt),2FGA,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,12,04:12,26,377,"ANTIC, PERO",PBAE      ,Def Rebound (1),D,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,12,04:03,26,378,"ANTIC, PERO",PBAE      ,Three Pointer (2/4 -  8 pt),3FGM,47.0,60.0,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,10,04:01,26,379,"LAZIC, BRANKO",PLUO      ,Assist (1),AS,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,7,03:50,27,381,"DONCIC, LUKA",P005929   ,Foul Drawn (7),RV,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,51,03:50,27,382,"BJELICA, MILKO",PCHX      ,Foul (3),CM,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,1,03:50,27,383,"CAUSEUR, FABIEN",P001392   ,Out,OUT,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,2,03:50,27,384,"RANDLE, CHASSON",P008038   ,In,IN,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,5,03:50,27,385,"FERNANDEZ, RUDY",PBMT      ,In,IN,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,11,03:50,27,386,"CAMPAZZO, FACUNDO",P005928   ,Out,OUT,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,13,03:50,27,387,"DOBRIC, OGNJEN",P004007   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,14,03:50,27,388,"FELDEINE, JAMES",P005918   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,7,03:35,27,389,"DONCIC, LUKA",P005929   ,Two Pointer (4/4 -  16 pt),2FGM,49.0,60.0,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,13,03:13,27,390,"DOBRIC, OGNJEN",P004007   ,Missed Three Pointer (1/2 -  5 pt),3FGA,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,9,03:11,27,391,"REYES, FELIPE",PAAX      ,Def Rebound (4),D,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,33,03:02,27,392,"THOMPKINS, TREY",P005836   ,Two Pointer (2/4 -  7 pt),2FGM,51.0,60.0,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,2,03:00,27,393,"RANDLE, CHASSON",P008038   ,Assist (1),AS,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,51,02:35,28,395,"BJELICA, MILKO",PCHX      ,Three Pointer (4/7 -  16 pt),3FGM,51.0,63.0,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,22,02:33,28,396,"ROCHESTIE, TAYLOR",P002972   ,Assist (3),AS,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,7,02:15,28,397,"DONCIC, LUKA",P005929   ,Missed Three Pointer (2/5 -  16 pt),3FGA,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,51,02:13,28,398,"BJELICA, MILKO",PCHX      ,Def Rebound (5),D,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,12,01:50,29,400,"ANTIC, PERO",PBAE      ,Missed Three Pointer (2/5 -  8 pt),3FGA,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,9,01:48,29,401,"REYES, FELIPE",PAAX      ,Def Rebound (5),D,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,2,01:42,29,402,"RANDLE, CHASSON",P008038   ,Three Pointer (1/1 -  3 pt),3FGM,54.0,63.0,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,7,01:39,29,403,"DONCIC, LUKA",P005929   ,Assist (4),AS,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,22,01:22,29,404,"ROCHESTIE, TAYLOR",P002972   ,Missed Three Pointer (2/5 -  15 pt),3FGA,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,22,01:20,29,405,"ROCHESTIE, TAYLOR",P002972   ,Off Rebound (1),O,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,13,01:16,29,406,"DOBRIC, OGNJEN",P004007   ,Two Pointer (2/2 -  7 pt),2FGM,54.0,65.0,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,22,01:13,29,407,"ROCHESTIE, TAYLOR",P002972   ,Assist (4),AS,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,5,01:04,29,408,"FERNANDEZ, RUDY",PBMT      ,Foul Drawn (1),RV,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,22,01:04,29,409,"ROCHESTIE, TAYLOR",P002972   ,Foul (3),CM,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,7,01:04,29,410,"DONCIC, LUKA",P005929   ,Out,OUT,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,20,01:04,29,411,"CARROLL, JAYCEE",P001960   ,In,IN,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,7,01:04,29,412,"DAVIDOVAC, DEJAN",P007960   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,22,01:04,29,413,"ROCHESTIE, TAYLOR",P002972   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,26,01:04,29,414,"LESSORT, MATHIAS",P003842   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,51,01:04,29,415,"BJELICA, MILKO",PCHX      ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,5,01:04,29,416,"FERNANDEZ, RUDY",PBMT      ,Free Throw In (1/1 -  1 pt),FTM,55.0,65.0,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,5,01:04,29,417,"FERNANDEZ, RUDY",PBMT      ,Free Throw In (2/2 -  2 pt),FTM,56.0,65.0,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,12,01:04,29,418,"ANTIC, PERO",PBAE      ,Offensive Foul (2),OF,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,12,01:04,29,419,"ANTIC, PERO",PBAE      ,Turnover (1),TO,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,2,01:04,29,420,"RANDLE, CHASSON",P008038   ,Foul Drawn (1),RV,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,20,00:55,30,422,"CARROLL, JAYCEE",P001960   ,Turnover (1),TO,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,13,00:55,30,423,"DOBRIC, OGNJEN",P004007   ,Steal (2),ST,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,7,00:15,30,424,"DAVIDOVAC, DEJAN",P007960   ,Missed Two Pointer (0/1 -  2 pt),2FGA,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,9,00:14,30,425,"REYES, FELIPE",PAAX      ,Def Rebound (6),D,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,9,00:14,30,426,"REYES, FELIPE",PAAX      ,Foul Drawn (3),RV,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,26,00:14,30,427,"LESSORT, MATHIAS",P003842   ,Foul (3),CM,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,9,00:14,30,428,"REYES, FELIPE",PAAX      ,Free Throw In (3/3 -  5 pt),FTM,57.0,65.0,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,9,00:14,30,429,"REYES, FELIPE",PAAX      ,Free Throw In (4/4 -  6 pt),FTM,58.0,65.0,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,7,00:14,30,430,"DONCIC, LUKA",P005929   ,In,IN,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,9,00:14,30,431,"REYES, FELIPE",PAAX      ,Out,OUT,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,14,00:14,30,432,"FELDEINE, JAMES",P005918   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,26,00:14,30,433,"LESSORT, MATHIAS",P003842   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,7,00:02,30,434,"DAVIDOVAC, DEJAN",P007960   ,Two Pointer (1/2 -  4 pt),2FGM,58.0,67.0,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,12,00:00,30,435,"ANTIC, PERO",PBAE      ,Assist (1),AS,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,2,00:00,30,436,"RANDLE, CHASSON",P008038   ,Missed Three Pointer (1/2 -  3 pt),3FGA,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+          ,,,,31,438,,          ,End Period,EP,,,,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+          ,,,,31,439,,          ,Begin Period,BP,,,,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,9,09:59,31,440,"REYES, FELIPE",PAAX      ,In,IN,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,33,09:59,31,441,"THOMPKINS, TREY",P005836   ,Out,OUT,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,12,09:59,31,442,"ANTIC, PERO",PBAE      ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,13,09:59,31,443,"DOBRIC, OGNJEN",P004007   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,26,09:59,31,444,"LESSORT, MATHIAS",P003842   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,51,09:59,31,445,"BJELICA, MILKO",PCHX      ,In,IN,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,5,09:59,31,446,"FERNANDEZ, RUDY",PBMT      ,Three Pointer (1/2 -  5 pt),3FGM,61.0,67.0,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,9,09:59,31,447,"REYES, FELIPE",PAAX      ,Assist (2),AS,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,26,09:29,31,448,"LESSORT, MATHIAS",P003842   ,Turnover (1),TO,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,9,09:23,31,449,"REYES, FELIPE",PAAX      ,Foul Drawn (4),RV,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,26,09:23,31,450,"LESSORT, MATHIAS",P003842   ,Foul (4),CM,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,12,09:23,31,451,"ANTIC, PERO",PBAE      ,In,IN,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,26,09:23,31,452,"LESSORT, MATHIAS",P003842   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,20,09:17,31,453,"CARROLL, JAYCEE",P001960   ,Three Pointer (1/2 -  7 pt),3FGM,64.0,67.0,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,5,09:17,31,454,"FERNANDEZ, RUDY",PBMT      ,Assist (3),AS,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,,09:17,31,455,,          ,Time Out (1),TOUT,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,7,09:17,31,456,"DAVIDOVAC, DEJAN",P007960   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,22,09:17,31,457,"ROCHESTIE, TAYLOR",P002972   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,10,09:17,31,458,"LAZIC, BRANKO",PLUO      ,Missed Three Pointer (1/2 -  3 pt),3FGA,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,10,09:17,31,459,"LAZIC, BRANKO",PLUO      ,Off Rebound (2),O,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,14,09:17,31,460,"FELDEINE, JAMES",P005918   ,Missed Three Pointer (2/4 -  8 pt),3FGA,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,7,09:17,31,461,"DONCIC, LUKA",P005929   ,Def Rebound (3),D,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,20,08:36,32,463,"CARROLL, JAYCEE",P001960   ,Two Pointer (3/5 -  9 pt),2FGM,66.0,67.0,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,5,08:32,32,464,"FERNANDEZ, RUDY",PBMT      ,Assist (4),AS,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,22,08:16,32,465,"ROCHESTIE, TAYLOR",P002972   ,Turnover (1),TO,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,5,08:14,32,466,"FERNANDEZ, RUDY",PBMT      ,Steal (1),ST,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,9,08:03,32,467,"REYES, FELIPE",PAAX      ,Offensive Foul (4),OF,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,9,08:03,32,468,"REYES, FELIPE",PAAX      ,Turnover (3),TO,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,10,08:03,32,469,"LAZIC, BRANKO",PLUO      ,Foul Drawn (3),RV,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,6,08:03,32,470,"DANGUBIC, NEMANJA",P005942   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,13,08:03,32,471,"DOBRIC, OGNJEN",P004007   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,14,08:03,32,472,"FELDEINE, JAMES",P005918   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,51,08:03,32,473,"BJELICA, MILKO",PCHX      ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,22,07:42,33,475,"ROCHESTIE, TAYLOR",P002972   ,Three Pointer (3/6 -  18 pt),3FGM,66.0,70.0,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,9,07:37,33,476,"REYES, FELIPE",PAAX      ,Foul Drawn (5),RV,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,12,07:37,33,477,"ANTIC, PERO",PBAE      ,Foul (3),CM,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,5,07:37,33,478,"FERNANDEZ, RUDY",PBMT      ,Three Pointer (2/3 -  8 pt),3FGM,69.0,70.0,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,2,07:37,33,479,"RANDLE, CHASSON",P008038   ,Assist (2),AS,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,22,07:10,33,480,"ROCHESTIE, TAYLOR",P002972   ,Missed Two Pointer (4/6 -  18 pt),2FGA,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,12,07:10,33,481,"ANTIC, PERO",PBAE      ,Off Rebound (2),O,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,12,07:10,33,482,"ANTIC, PERO",PBAE      ,Missed Two Pointer (0/2 -  8 pt),2FGA,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,,07:10,33,483,,          ,Off Rebound (2),O,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,9,07:10,33,484,"REYES, FELIPE",PAAX      ,Out,OUT,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,33,07:10,33,485,"THOMPKINS, TREY",P005836   ,In,IN,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,12,07:10,33,486,"ANTIC, PERO",PBAE      ,Missed Three Pointer (2/6 -  8 pt),3FGA,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,33,07:10,33,487,"THOMPKINS, TREY",P005836   ,Def Rebound (3),D,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,5,06:42,34,489,"FERNANDEZ, RUDY",PBMT      ,Missed Three Pointer (2/4 -  8 pt),3FGA,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,13,06:39,34,490,"DOBRIC, OGNJEN",P004007   ,Def Rebound (3),D,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,6,06:24,34,491,"DANGUBIC, NEMANJA",P005942   ,Three Pointer (1/3 -  3 pt),3FGM,69.0,73.0,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,22,06:22,34,492,"ROCHESTIE, TAYLOR",P002972   ,Assist (5),AS,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,20,06:05,34,493,"CARROLL, JAYCEE",P001960   ,Missed Three Pointer (1/3 -  9 pt),3FGA,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,6,06:03,34,494,"DANGUBIC, NEMANJA",P005942   ,Def Rebound (3),D,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,6,05:52,35,496,"DANGUBIC, NEMANJA",P005942   ,Three Pointer (2/4 -  6 pt),3FGM,69.0,76.0,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,22,05:52,35,497,"ROCHESTIE, TAYLOR",P002972   ,Assist (6),AS,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,,05:52,35,498,,          ,Time Out (1),TOUT,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,7,05:31,35,499,"DONCIC, LUKA",P005929   ,Missed Two Pointer (4/5 -  16 pt),2FGA,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,13,05:28,35,500,"DOBRIC, OGNJEN",P004007   ,Def Rebound (4),D,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,2,05:24,35,501,"RANDLE, CHASSON",P008038   ,Foul (1),CM,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,22,05:24,35,502,"ROCHESTIE, TAYLOR",P002972   ,Foul Drawn (3),RV,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,13,05:24,35,503,"DOBRIC, OGNJEN",P004007   ,Missed Three Pointer (1/3 -  7 pt),3FGA,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,33,05:24,35,504,"THOMPKINS, TREY",P005836   ,Def Rebound (4),D,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,7,05:24,35,505,"DONCIC, LUKA",P005929   ,Foul Drawn (8),RV,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,6,05:24,35,506,"DANGUBIC, NEMANJA",P005942   ,Foul (4),CM,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,7,04:57,36,508,"DONCIC, LUKA",P005929   ,Foul Drawn (9),RV,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,10,04:57,36,509,"LAZIC, BRANKO",PLUO      ,Foul (4),CM,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,33,04:41,36,510,"THOMPKINS, TREY",P005836   ,Three Pointer (2/3 -  10 pt),3FGM,72.0,76.0,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,20,04:38,36,511,"CARROLL, JAYCEE",P001960   ,Assist (2),AS,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,13,04:26,36,512,"DOBRIC, OGNJEN",P004007   ,Three Pointer (2/4 -  10 pt),3FGM,72.0,79.0,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,22,04:25,36,513,"ROCHESTIE, TAYLOR",P002972   ,Assist (7),AS,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,2,04:08,36,514,"RANDLE, CHASSON",P008038   ,Missed Two Pointer (0/1 -  3 pt),2FGA,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,2,04:08,36,515,"RANDLE, CHASSON",P008038   ,Shot Rejected (1),AG,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,6,04:05,36,516,"DANGUBIC, NEMANJA",P005942   ,Block (1),FV,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,12,04:01,36,517,"ANTIC, PERO",PBAE      ,Def Rebound (2),D,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,22,03:50,37,519,"ROCHESTIE, TAYLOR",P002972   ,Missed Three Pointer (3/7 -  18 pt),3FGA,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,5,03:48,37,520,"FERNANDEZ, RUDY",PBMT      ,Def Rebound (2),D,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,20,03:41,37,521,"CARROLL, JAYCEE",P001960   ,Three Pointer (2/4 -  12 pt),3FGM,75.0,79.0,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,5,03:39,37,522,"FERNANDEZ, RUDY",PBMT      ,Assist (5),AS,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,2,03:32,37,523,"RANDLE, CHASSON",P008038   ,Out,OUT,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,9,03:32,37,524,"REYES, FELIPE",PAAX      ,In,IN,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,12,03:32,37,525,"ANTIC, PERO",PBAE      ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,51,03:32,37,526,"BJELICA, MILKO",PCHX      ,In,IN,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,6,03:32,37,527,"DANGUBIC, NEMANJA",P005942   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,26,03:32,37,528,"LESSORT, MATHIAS",P003842   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,51,03:17,37,529,"BJELICA, MILKO",PCHX      ,Missed Three Pointer (4/8 -  16 pt),3FGA,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,5,03:17,37,530,"FERNANDEZ, RUDY",PBMT      ,Def Rebound (3),D,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,5,03:17,37,531,"FERNANDEZ, RUDY",PBMT      ,Foul Drawn (2),RV,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,26,03:17,37,532,"LESSORT, MATHIAS",P003842   ,Foul (5),CM,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,12,03:17,37,533,"ANTIC, PERO",PBAE      ,In,IN,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,26,03:17,37,534,"LESSORT, MATHIAS",P003842   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,5,03:17,37,535,"FERNANDEZ, RUDY",PBMT      ,Free Throw In (3/3 -  9 pt),FTM,76.0,79.0,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,5,03:17,37,536,"FERNANDEZ, RUDY",PBMT      ,Free Throw In (4/4 -  10 pt),FTM,77.0,79.0,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,5,03:17,37,537,"FERNANDEZ, RUDY",PBMT      ,Out,OUT,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,11,03:17,37,538,"CAMPAZZO, FACUNDO",P005928   ,In,IN,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,12,02:53,38,540,"ANTIC, PERO",PBAE      ,Missed Three Pointer (2/7 -  8 pt),3FGA,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,51,02:51,38,541,"BJELICA, MILKO",PCHX      ,Off Rebound (1),O,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,22,02:50,38,542,"ROCHESTIE, TAYLOR",P002972   ,Missed Three Pointer (3/8 -  18 pt),3FGA,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,9,02:48,38,543,"REYES, FELIPE",PAAX      ,Def Rebound (7),D,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,7,02:40,38,544,"DONCIC, LUKA",P005929   ,Foul Drawn (10),RV,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,22,02:40,38,545,"ROCHESTIE, TAYLOR",P002972   ,Foul (4),CM,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,10,02:40,38,546,"LAZIC, BRANKO",PLUO      ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,14,02:40,38,547,"FELDEINE, JAMES",P005918   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,7,02:40,38,548,"DAVIDOVAC, DEJAN",P007960   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,22,02:40,38,549,"ROCHESTIE, TAYLOR",P002972   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,7,02:40,38,550,"DONCIC, LUKA",P005929   ,Free Throw In (3/3 -  17 pt),FTM,78.0,79.0,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,7,02:40,38,551,"DONCIC, LUKA",P005929   ,Free Throw In (4/4 -  18 pt),FTM,79.0,79.0,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,6,02:40,38,552,"DANGUBIC, NEMANJA",P005942   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,13,02:40,38,553,"DOBRIC, OGNJEN",P004007   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,14,02:16,38,554,"FELDEINE, JAMES",P005918   ,Two Pointer (2/5 -  10 pt),2FGM,79.0,81.0,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,7,02:03,38,555,"DONCIC, LUKA",P005929   ,Two Pointer (5/6 -  20 pt),2FGM,81.0,81.0,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,7,01:54,39,557,"DAVIDOVAC, DEJAN",P007960   ,Foul Drawn (3),RV,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,20,01:54,39,558,"CARROLL, JAYCEE",P001960   ,Foul (2),CM,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,5,01:54,39,559,"FERNANDEZ, RUDY",PBMT      ,In,IN,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,11,01:54,39,560,"CAMPAZZO, FACUNDO",P005928   ,Out,OUT,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,7,01:54,39,561,"DAVIDOVAC, DEJAN",P007960   ,Foul Drawn (4),RV,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,20,01:54,39,562,"CARROLL, JAYCEE",P001960   ,Foul (3),CM,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,11,01:54,39,563,"CAMPAZZO, FACUNDO",P005928   ,In,IN,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,20,01:54,39,564,"CARROLL, JAYCEE",P001960   ,Out,OUT,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,7,01:47,39,565,"DAVIDOVAC, DEJAN",P007960   ,Foul Drawn (5),RV,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,11,01:47,39,566,"CAMPAZZO, FACUNDO",P005928   ,Foul (1),CM,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,7,01:47,39,567,"DAVIDOVAC, DEJAN",P007960   ,Free Throw In (3/3 -  5 pt),FTM,81.0,82.0,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,7,01:47,39,568,"DAVIDOVAC, DEJAN",P007960   ,Missed Free Throw (3/4 -  5 pt),FTA,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,9,01:47,39,569,"REYES, FELIPE",PAAX      ,Def Rebound (8),D,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,33,01:24,39,570,"THOMPKINS, TREY",P005836   ,Missed Two Pointer (2/5 -  10 pt),2FGA,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,11,01:22,39,571,"CAMPAZZO, FACUNDO",P005928   ,Off Rebound (1),O,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,11,01:59,39,582,"CAMPAZZO, FACUNDO",P005928   ,Shot Rejected (1),AG,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,11,01:22,39,581,"CAMPAZZO, FACUNDO",P005928   ,Missed Two Pointer (1/4 -  5 pt),2FGA,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,12,01:22,39,583,"ANTIC, PERO",PBAE      ,Block (1),FV,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,7,01:18,39,573,"DAVIDOVAC, DEJAN",P007960   ,Def Rebound (3),D,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,7,01:15,39,574,"DAVIDOVAC, DEJAN",P007960   ,Foul Drawn (6),RV,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,11,01:15,39,575,"CAMPAZZO, FACUNDO",P005928   ,Foul (2),CM,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,11,01:15,39,576,"CAMPAZZO, FACUNDO",P005928   ,Out,OUT,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,20,01:15,39,577,"CARROLL, JAYCEE",P001960   ,In,IN,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,7,01:15,39,578,"DAVIDOVAC, DEJAN",P007960   ,Free Throw In (4/5 -  6 pt),FTM,81.0,83.0,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,7,01:15,39,579,"DAVIDOVAC, DEJAN",P007960   ,Free Throw In (5/6 -  7 pt),FTM,81.0,84.0,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,,01:15,39,580,,          ,Time Out (2),TOUT,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,9,01:15,39,584,"REYES, FELIPE",PAAX      ,Two Pointer (2/4 -  8 pt),2FGM,83.0,84.0,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,7,01:15,39,585,"DONCIC, LUKA",P005929   ,Assist (5),AS,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,7,00:46,40,587,"DAVIDOVAC, DEJAN",P007960   ,Turnover (3),TO,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,9,00:44,40,588,"REYES, FELIPE",PAAX      ,Steal (1),ST,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,7,00:29,40,589,"DONCIC, LUKA",P005929   ,Turnover (2),TO,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,6,00:27,40,590,"DANGUBIC, NEMANJA",P005942   ,Steal (1),ST,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,12,00:07,40,591,"ANTIC, PERO",PBAE      ,Three Pointer (3/8 -  11 pt),3FGM,83.0,87.0,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,14,00:07,40,592,"FELDEINE, JAMES",P005918   ,Assist (5),AS,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,,00:07,40,593,,          ,Time Out (3),TOUT,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,10,00:07,40,594,"LAZIC, BRANKO",PLUO      ,In,IN,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,12,00:07,40,595,"ANTIC, PERO",PBAE      ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+MAD       ,,5,00:07,40,596,"FERNANDEZ, RUDY",PBMT      ,Turnover (2),TO,,,Real Madrid,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+RED       ,,,00:04,40,597,,          ,Time Out (2),TOUT,,,Crvena Zvezda mts Belgrade,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED
+          ,,,,41,600,,          ,End Game,EG,,,,0,Real Madrid,MAD,Crvena Zvezda mts Belgrade,RED

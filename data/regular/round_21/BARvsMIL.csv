@@ -1,500 +1,500 @@
-CODETEAM,COMMENT,DORSAL,MARKERTIME,MINUTE,NUMBEROFPLAY,PLAYER,PLAYER_ID,PLAYINFO,PLAYTYPE,POINTS_A,POINTS_B,TEAM,TYPE
-          ,,,,1,10,,          ,Begin Period,BP,,,,0
-MIL       ,,25,09:33,1,11,"THEODORE, JORDAN",P007946   ,Turnover (1),TO,,,AX Armani Exchange Olimpia Milan,0
-BAR       ,,9,09:31,1,12,"HANGA, ADAM",P005099   ,Steal (1),ST,,,FC Barcelona Lassa,0
-BAR       ,,9,09:27,1,13,"HANGA, ADAM",P005099   ,Two Pointer (1/1 -  2 pt),2FGM,2.0,,FC Barcelona Lassa,0
-MIL       ,,5,09:24,1,14,"MICOV, VLADIMIR",P000529   ,Three Pointer (1/1 -  3 pt),3FGM,2.0,3.0,AX Armani Exchange Olimpia Milan,0
-MIL       ,,0,09:24,1,15,"GOUDELOCK, ANDREW",P004903   ,Assist (1),AS,,,AX Armani Exchange Olimpia Milan,0
-BAR       ,,11,08:56,2,17,"NAVARRO, JUAN CARLOS",PADI      ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,FC Barcelona Lassa,0
-MIL       ,,24,08:54,2,18,"M'BAYE, AMATH",P007993   ,Def Rebound (1),D,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,25,08:38,2,19,"THEODORE, JORDAN",P007946   ,Three Pointer (1/1 -  3 pt),3FGM,2.0,6.0,AX Armani Exchange Olimpia Milan,0
-MIL       ,,0,08:36,2,20,"GOUDELOCK, ANDREW",P004903   ,Assist (2),AS,,,AX Armani Exchange Olimpia Milan,0
-BAR       ,,44,08:18,2,21,"TOMIC, ANTE",P002507   ,Two Pointer (1/1 -  2 pt),2FGM,4.0,6.0,FC Barcelona Lassa,0
-BAR       ,,11,08:06,2,22,"NAVARRO, JUAN CARLOS",PADI      ,Assist (1),AS,,,FC Barcelona Lassa,0
-MIL       ,,25,07:59,3,24,"THEODORE, JORDAN",P007946   ,Missed Three Pointer (1/2 -  3 pt),3FGA,,,AX Armani Exchange Olimpia Milan,0
-BAR       ,,44,07:57,3,25,"TOMIC, ANTE",P002507   ,Def Rebound (1),D,,,FC Barcelona Lassa,0
-BAR       ,,11,07:48,3,26,"NAVARRO, JUAN CARLOS",PADI      ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,FC Barcelona Lassa,0
-MIL       ,,,07:46,3,27,,          ,Def Rebound (1),D,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,5,07:32,3,28,"MICOV, VLADIMIR",P000529   ,Turnover (1),TO,,,AX Armani Exchange Olimpia Milan,0
-BAR       ,,44,07:30,3,29,"TOMIC, ANTE",P002507   ,Steal (1),ST,,,FC Barcelona Lassa,0
-MIL       ,,25,07:23,3,30,"THEODORE, JORDAN",P007946   ,Foul (1),CM,,,AX Armani Exchange Olimpia Milan,0
-BAR       ,,44,07:23,3,31,"TOMIC, ANTE",P002507   ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0
-BAR       ,,45,07:11,3,32,"MOERMAN, ADRIEN",P001833   ,Three Pointer (1/1 -  3 pt),3FGM,7.0,6.0,FC Barcelona Lassa,0
-BAR       ,,44,07:09,3,33,"TOMIC, ANTE",P002507   ,Assist (1),AS,,,FC Barcelona Lassa,0
-BAR       ,,9,06:58,4,35,"HANGA, ADAM",P005099   ,Foul (1),CM,,,FC Barcelona Lassa,0
-MIL       ,,5,06:58,4,36,"MICOV, VLADIMIR",P000529   ,Foul Drawn (1),RV,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,5,06:47,4,37,"MICOV, VLADIMIR",P000529   ,Missed Three Pointer (1/2 -  3 pt),3FGA,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,,06:48,4,38,,          ,Off Rebound (1),O,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,24,06:41,4,39,"M'BAYE, AMATH",P007993   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,AX Armani Exchange Olimpia Milan,0
-BAR       ,,,06:41,4,40,,          ,Def Rebound (2),D,,,FC Barcelona Lassa,0
-BAR       ,,5,06:29,4,41,"RIBAS, PAU",PJUG      ,Three Pointer (1/1 -  3 pt),3FGM,10.0,6.0,FC Barcelona Lassa,0
-BAR       ,,9,06:27,4,42,"HANGA, ADAM",P005099   ,Assist (1),AS,,,FC Barcelona Lassa,0
-BAR       ,,9,06:14,4,43,"HANGA, ADAM",P005099   ,Foul (2),CM,,,FC Barcelona Lassa,0
-MIL       ,,15,06:14,4,44,"TARCZEWSKI, KALEB",P008004   ,Foul Drawn (1),RV,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,15,06:13,4,45,"TARCZEWSKI, KALEB",P008004   ,Missed Free Throw (0/1 -  0 pt),FTA,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,15,06:13,4,46,"TARCZEWSKI, KALEB",P008004   ,Missed Free Throw (0/2 -  0 pt),FTA,,,AX Armani Exchange Olimpia Milan,0
-BAR       ,,45,06:13,4,47,"MOERMAN, ADRIEN",P001833   ,Def Rebound (1),D,,,FC Barcelona Lassa,0
-BAR       ,,44,06:13,4,48,"TOMIC, ANTE",P002507   ,Two Pointer (2/2 -  4 pt),2FGM,12.0,6.0,FC Barcelona Lassa,0
-BAR       ,,11,06:13,4,49,"NAVARRO, JUAN CARLOS",PADI      ,Assist (2),AS,,,FC Barcelona Lassa,0
-MIL       ,,,06:02,4,50,,          ,Time Out (1),TOUT,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,15,06:02,4,51,"TARCZEWSKI, KALEB",P008004   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,77,06:02,4,52,"GUDAITIS, ARTURAS",P003120   ,In,IN,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,0,05:43,5,54,"GOUDELOCK, ANDREW",P004903   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,AX Armani Exchange Olimpia Milan,0
-BAR       ,,9,05:41,5,55,"HANGA, ADAM",P005099   ,Def Rebound (1),D,,,FC Barcelona Lassa,0
-BAR       ,,45,05:31,5,56,"MOERMAN, ADRIEN",P001833   ,Missed Two Pointer (0/1 -  3 pt),2FGA,,,FC Barcelona Lassa,0
-MIL       ,,77,05:29,5,57,"GUDAITIS, ARTURAS",P003120   ,Def Rebound (1),D,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,24,05:08,5,58,"M'BAYE, AMATH",P007993   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,77,05:09,5,59,"GUDAITIS, ARTURAS",P003120   ,Off Rebound (1),O,,,AX Armani Exchange Olimpia Milan,0
-BAR       ,,9,05:09,5,60,"HANGA, ADAM",P005099   ,Foul (3),CM,,,FC Barcelona Lassa,0
-MIL       ,,77,05:09,5,61,"GUDAITIS, ARTURAS",P003120   ,Foul Drawn (1),RV,,,AX Armani Exchange Olimpia Milan,0
-BAR       ,,9,05:09,5,62,"HANGA, ADAM",P005099   ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,21,05:09,5,63,"SANDERS, RAKIM",P005001   ,In,IN,,,FC Barcelona Lassa,0
-MIL       ,,77,05:09,5,64,"GUDAITIS, ARTURAS",P003120   ,Missed Free Throw (0/1 -  0 pt),FTA,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,77,05:09,5,65,"GUDAITIS, ARTURAS",P003120   ,Missed Free Throw (0/2 -  0 pt),FTA,,,AX Armani Exchange Olimpia Milan,0
-BAR       ,,45,05:09,5,66,"MOERMAN, ADRIEN",P001833   ,Def Rebound (2),D,,,FC Barcelona Lassa,0
-BAR       ,,5,04:53,6,68,"RIBAS, PAU",PJUG      ,Two Pointer (1/1 -  5 pt),2FGM,14.0,6.0,FC Barcelona Lassa,0
-MIL       ,,5,04:24,6,69,"MICOV, VLADIMIR",P000529   ,Missed Three Pointer (1/3 -  3 pt),3FGA,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,25,04:20,6,70,"THEODORE, JORDAN",P007946   ,Off Rebound (1),O,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,24,04:07,6,71,"M'BAYE, AMATH",P007993   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,77,04:04,6,72,"GUDAITIS, ARTURAS",P003120   ,Off Rebound (2),O,,,AX Armani Exchange Olimpia Milan,0
-BAR       ,,21,03:57,7,74,"SANDERS, RAKIM",P005001   ,Foul (1),CM,,,FC Barcelona Lassa,0
-MIL       ,,25,03:57,7,75,"THEODORE, JORDAN",P007946   ,Foul Drawn (1),RV,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,25,03:48,7,76,"THEODORE, JORDAN",P007946   ,Two Pointer (1/1 -  5 pt),2FGM,14.0,8.0,AX Armani Exchange Olimpia Milan,0
-BAR       ,,5,03:30,7,77,"RIBAS, PAU",PJUG      ,Two Pointer (2/2 -  7 pt),2FGM,16.0,8.0,FC Barcelona Lassa,0
-BAR       ,,5,03:29,7,78,"RIBAS, PAU",PJUG      ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,13,03:29,7,79,"HEURTEL, THOMAS",PKLT      ,In,IN,,,FC Barcelona Lassa,0
-MIL       ,,9,03:29,7,80,"KALNIETIS, MANTAS",PJBX      ,In,IN,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,25,03:29,7,81,"THEODORE, JORDAN",P007946   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,9,03:10,7,82,"KALNIETIS, MANTAS",PJBX      ,Turnover (1),TO,,,AX Armani Exchange Olimpia Milan,0
-BAR       ,,45,03:08,7,83,"MOERMAN, ADRIEN",P001833   ,Steal (1),ST,,,FC Barcelona Lassa,0
-BAR       ,,44,03:03,7,84,"TOMIC, ANTE",P002507   ,Two Pointer (3/3 -  6 pt),2FGM,18.0,8.0,FC Barcelona Lassa,0
-BAR       ,,13,03:01,7,85,"HEURTEL, THOMAS",PKLT      ,Assist (1),AS,,,FC Barcelona Lassa,0
-MIL       ,,77,02:45,8,87,"GUDAITIS, ARTURAS",P003120   ,Two Pointer (1/1 -  2 pt),2FGM,18.0,10.0,AX Armani Exchange Olimpia Milan,0
-BAR       ,,44,02:45,8,88,"TOMIC, ANTE",P002507   ,Foul (1),CM,,,FC Barcelona Lassa,0
-MIL       ,,77,02:45,8,89,"GUDAITIS, ARTURAS",P003120   ,Foul Drawn (2),RV,,,AX Armani Exchange Olimpia Milan,0
-BAR       ,,11,02:45,8,90,"NAVARRO, JUAN CARLOS",PADI      ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,25,02:45,8,91,"KOPONEN, PETTERI",P004178   ,In,IN,,,FC Barcelona Lassa,0
-MIL       ,,77,02:45,8,92,"GUDAITIS, ARTURAS",P003120   ,Free Throw In (1/3 -  3 pt),FTM,18.0,11.0,AX Armani Exchange Olimpia Milan,0
-BAR       ,,21,02:28,8,93,"SANDERS, RAKIM",P005001   ,Two Pointer (1/1 -  2 pt),2FGM,20.0,11.0,FC Barcelona Lassa,0
-BAR       ,,44,02:26,8,94,"TOMIC, ANTE",P002507   ,Assist (2),AS,,,FC Barcelona Lassa,0
-MIL       ,,5,02:06,8,95,"MICOV, VLADIMIR",P000529   ,Two Pointer (1/1 -  5 pt),2FGM,20.0,13.0,AX Armani Exchange Olimpia Milan,0
-BAR       ,,44,01:48,9,97,"TOMIC, ANTE",P002507   ,Two Pointer (4/4 -  8 pt),2FGM,22.0,13.0,FC Barcelona Lassa,0
-BAR       ,,13,01:48,9,98,"HEURTEL, THOMAS",PKLT      ,Assist (2),AS,,,FC Barcelona Lassa,0
-MIL       ,,24,01:48,9,99,"M'BAYE, AMATH",P007993   ,Foul (1),CM,,,AX Armani Exchange Olimpia Milan,0
-BAR       ,,44,01:48,9,100,"TOMIC, ANTE",P002507   ,Foul Drawn (2),RV,,,FC Barcelona Lassa,0
-BAR       ,,30,01:48,9,101,"CLAVER, VICTOR",P000556   ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,45,01:48,9,102,"MOERMAN, ADRIEN",P001833   ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,44,01:48,9,103,"TOMIC, ANTE",P002507   ,Free Throw In (1/1 -  9 pt),FTM,23.0,13.0,FC Barcelona Lassa,0
-BAR       ,,18,01:48,9,104,"ORIOLA, PIERRE",P005917   ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,44,01:48,9,105,"TOMIC, ANTE",P002507   ,Out,OUT,,,FC Barcelona Lassa,0
-MIL       ,,9,01:35,9,106,"KALNIETIS, MANTAS",PJBX      ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,9,01:35,9,107,"KALNIETIS, MANTAS",PJBX      ,Shot Rejected (1),AG,,,AX Armani Exchange Olimpia Milan,0
-BAR       ,,21,01:32,9,108,"SANDERS, RAKIM",P005001   ,Block (1),FV,,,FC Barcelona Lassa,0
-BAR       ,,18,01:32,9,109,"ORIOLA, PIERRE",P005917   ,Def Rebound (1),D,,,FC Barcelona Lassa,0
-MIL       ,,5,01:32,9,110,"MICOV, VLADIMIR",P000529   ,Foul (1),CM,,,AX Armani Exchange Olimpia Milan,0
-BAR       ,,13,01:32,9,111,"HEURTEL, THOMAS",PKLT      ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0
-BAR       ,,13,01:32,9,112,"HEURTEL, THOMAS",PKLT      ,Turnover (1),TO,,,FC Barcelona Lassa,0
-MIL       ,,5,01:32,9,113,"MICOV, VLADIMIR",P000529   ,Steal (1),ST,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,0,00:59,10,115,"GOUDELOCK, ANDREW",P004903   ,Two Pointer (1/2 -  2 pt),2FGM,23.0,15.0,AX Armani Exchange Olimpia Milan,0
-BAR       ,,25,00:38,10,116,"KOPONEN, PETTERI",P004178   ,Two Pointer (1/1 -  2 pt),2FGM,25.0,15.0,FC Barcelona Lassa,0
-BAR       ,,21,00:36,10,117,"SANDERS, RAKIM",P005001   ,Assist (1),AS,,,FC Barcelona Lassa,0
-MIL       ,,9,00:25,10,118,"KALNIETIS, MANTAS",PJBX      ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,AX Armani Exchange Olimpia Milan,0
-BAR       ,,,00:25,10,119,,          ,Def Rebound (3),D,,,FC Barcelona Lassa,0
-BAR       ,,25,00:03,10,120,"KOPONEN, PETTERI",P004178   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,FC Barcelona Lassa,0
-MIL       ,,9,00:02,10,121,"KALNIETIS, MANTAS",PJBX      ,Def Rebound (1),D,,,AX Armani Exchange Olimpia Milan,0
-          ,,,,11,123,,          ,End Period,EP,,,,0
-          ,,,,11,128,,          ,Begin Period,BP,,,,0
-MIL       ,,0,10:00,11,124,"GOUDELOCK, ANDREW",P004903   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,9,10:00,11,125,"KALNIETIS, MANTAS",PJBX      ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,25,10:00,11,126,"THEODORE, JORDAN",P007946   ,In,IN,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,55,10:00,11,127,"JERRELLS, CURTIS",P003067   ,In,IN,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,77,09:45,11,129,"GUDAITIS, ARTURAS",P003120   ,Foul (1),CM,,,AX Armani Exchange Olimpia Milan,0
-BAR       ,,13,09:45,11,130,"HEURTEL, THOMAS",PKLT      ,Foul Drawn (2),RV,,,FC Barcelona Lassa,0
-BAR       ,,18,09:34,11,131,"ORIOLA, PIERRE",P005917   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,FC Barcelona Lassa,0
-MIL       ,,77,09:32,11,132,"GUDAITIS, ARTURAS",P003120   ,Def Rebound (2),D,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,5,09:20,11,133,"MICOV, VLADIMIR",P000529   ,Two Pointer (2/2 -  7 pt),2FGM,25.0,17.0,AX Armani Exchange Olimpia Milan,0
-BAR       ,,30,08:00,12,135,"CLAVER, VICTOR",P000556   ,Three Pointer (1/1 -  3 pt),3FGM,28.0,17.0,FC Barcelona Lassa,0
-MIL       ,,25,08:36,12,136,"THEODORE, JORDAN",P007946   ,Two Pointer (2/2 -  7 pt),2FGM,28.0,19.0,AX Armani Exchange Olimpia Milan,0
-BAR       ,,13,08:23,12,137,"HEURTEL, THOMAS",PKLT      ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,FC Barcelona Lassa,0
-MIL       ,,55,08:20,12,138,"JERRELLS, CURTIS",P003067   ,Def Rebound (1),D,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,77,08:15,12,139,"GUDAITIS, ARTURAS",P003120   ,Two Pointer (2/2 -  5 pt),2FGM,28.0,21.0,AX Armani Exchange Olimpia Milan,0
-MIL       ,,55,08:13,12,140,"JERRELLS, CURTIS",P003067   ,Assist (1),AS,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,24,07:56,13,142,"M'BAYE, AMATH",P007993   ,Foul (2),CM,,,AX Armani Exchange Olimpia Milan,0
-BAR       ,,30,07:56,13,143,"CLAVER, VICTOR",P000556   ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0
-MIL       ,,7,07:56,13,144,"PASCOLO, DAVIDE",P006385   ,In,IN,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,24,07:56,13,145,"M'BAYE, AMATH",P007993   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0
-BAR       ,,30,07:56,13,146,"CLAVER, VICTOR",P000556   ,Free Throw In (1/1 -  4 pt),FTM,29.0,21.0,FC Barcelona Lassa,0
-BAR       ,,30,07:56,13,147,"CLAVER, VICTOR",P000556   ,Free Throw In (2/2 -  5 pt),FTM,30.0,21.0,FC Barcelona Lassa,0
-MIL       ,,7,07:40,13,148,"PASCOLO, DAVIDE",P006385   ,Two Pointer (1/1 -  2 pt),2FGM,30.0,23.0,AX Armani Exchange Olimpia Milan,0
-MIL       ,,25,07:37,13,149,"THEODORE, JORDAN",P007946   ,Assist (1),AS,,,AX Armani Exchange Olimpia Milan,0
-BAR       ,,21,07:30,13,150,"SANDERS, RAKIM",P005001   ,Two Pointer (2/2 -  4 pt),2FGM,32.0,23.0,FC Barcelona Lassa,0
-BAR       ,,30,07:28,13,151,"CLAVER, VICTOR",P000556   ,Assist (1),AS,,,FC Barcelona Lassa,0
-MIL       ,,77,07:21,13,152,"GUDAITIS, ARTURAS",P003120   ,Two Pointer (3/3 -  7 pt),2FGM,32.0,25.0,AX Armani Exchange Olimpia Milan,0
-MIL       ,,5,07:21,13,153,"MICOV, VLADIMIR",P000529   ,Assist (1),AS,,,AX Armani Exchange Olimpia Milan,0
-BAR       ,,21,07:21,13,154,"SANDERS, RAKIM",P005001   ,Foul (2),CM,,,FC Barcelona Lassa,0
-MIL       ,,77,07:21,13,155,"GUDAITIS, ARTURAS",P003120   ,Foul Drawn (3),RV,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,77,07:20,13,156,"GUDAITIS, ARTURAS",P003120   ,Free Throw In (2/4 -  8 pt),FTM,32.0,26.0,AX Armani Exchange Olimpia Milan,0
-BAR       ,,18,07:07,13,157,"ORIOLA, PIERRE",P005917   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,FC Barcelona Lassa,0
-MIL       ,,7,07:03,13,158,"PASCOLO, DAVIDE",P006385   ,Def Rebound (1),D,,,AX Armani Exchange Olimpia Milan,0
-BAR       ,,13,07:01,13,159,"HEURTEL, THOMAS",PKLT      ,Foul (1),CM,,,FC Barcelona Lassa,0
-MIL       ,,25,07:01,13,160,"THEODORE, JORDAN",P007946   ,Foul Drawn (2),RV,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,25,06:49,14,162,"THEODORE, JORDAN",P007946   ,Missed Two Pointer (2/3 -  7 pt),2FGA,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,7,06:46,14,163,"PASCOLO, DAVIDE",P006385   ,Off Rebound (1),O,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,7,06:46,14,164,"PASCOLO, DAVIDE",P006385   ,Two Pointer (2/2 -  4 pt),2FGM,32.0,28.0,AX Armani Exchange Olimpia Milan,0
-BAR       ,,,06:46,14,165,,          ,Time Out (1),TOUT,,,FC Barcelona Lassa,0
-MIL       ,,5,06:46,14,166,"MICOV, VLADIMIR",P000529   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,23,06:46,14,167,"ABASS, AWUDU",P003527   ,In,IN,,,AX Armani Exchange Olimpia Milan,0
-BAR       ,,13,06:31,14,168,"HEURTEL, THOMAS",PKLT      ,Turnover (2),TO,,,FC Barcelona Lassa,0
-MIL       ,,55,06:28,14,169,"JERRELLS, CURTIS",P003067   ,Steal (1),ST,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,55,06:22,14,170,"JERRELLS, CURTIS",P003067   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,AX Armani Exchange Olimpia Milan,0
-BAR       ,,21,06:19,14,171,"SANDERS, RAKIM",P005001   ,Def Rebound (1),D,,,FC Barcelona Lassa,0
-BAR       ,,21,06:13,14,172,"SANDERS, RAKIM",P005001   ,Two Pointer (3/3 -  6 pt),2FGM,34.0,28.0,FC Barcelona Lassa,0
-MIL       ,,77,05:49,15,174,"GUDAITIS, ARTURAS",P003120   ,Two Pointer (4/4 -  10 pt),2FGM,34.0,30.0,AX Armani Exchange Olimpia Milan,0
-MIL       ,,7,05:42,15,175,"PASCOLO, DAVIDE",P006385   ,Foul (1),CM,,,AX Armani Exchange Olimpia Milan,0
-BAR       ,,30,05:42,15,176,"CLAVER, VICTOR",P000556   ,Foul Drawn (2),RV,,,FC Barcelona Lassa,0
-BAR       ,,5,05:42,15,177,"RIBAS, PAU",PJUG      ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,13,05:42,15,178,"HEURTEL, THOMAS",PKLT      ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,18,05:42,15,179,"ORIOLA, PIERRE",P005917   ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,44,05:42,15,180,"TOMIC, ANTE",P002507   ,In,IN,,,FC Barcelona Lassa,0
-MIL       ,,15,05:42,15,181,"TARCZEWSKI, KALEB",P008004   ,In,IN,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,77,05:42,15,182,"GUDAITIS, ARTURAS",P003120   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0
-BAR       ,,25,05:30,15,183,"KOPONEN, PETTERI",P004178   ,Three Pointer (1/1 -  5 pt),3FGM,37.0,30.0,FC Barcelona Lassa,0
-MIL       ,,23,05:14,15,184,"ABASS, AWUDU",P003527   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,AX Armani Exchange Olimpia Milan,0
-BAR       ,,25,05:12,15,185,"KOPONEN, PETTERI",P004178   ,Def Rebound (1),D,,,FC Barcelona Lassa,0
-BAR       ,,25,04:54,16,187,"KOPONEN, PETTERI",P004178   ,Two Pointer (2/3 -  7 pt),2FGM,39.0,30.0,FC Barcelona Lassa,0
-BAR       ,,44,04:30,16,188,"TOMIC, ANTE",P002507   ,Foul (2),CM,,,FC Barcelona Lassa,0
-MIL       ,,25,04:30,16,189,"THEODORE, JORDAN",P007946   ,Foul Drawn (3),RV,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,25,04:14,16,190,"THEODORE, JORDAN",P007946   ,Two Pointer (3/4 -  9 pt),2FGM,39.0,32.0,AX Armani Exchange Olimpia Milan,0
-MIL       ,,15,04:10,16,191,"TARCZEWSKI, KALEB",P008004   ,Assist (1),AS,,,AX Armani Exchange Olimpia Milan,0
-BAR       ,,5,03:59,17,193,"RIBAS, PAU",PJUG      ,Three Pointer (2/2 -  10 pt),3FGM,42.0,32.0,FC Barcelona Lassa,0
-MIL       ,,55,03:39,17,194,"JERRELLS, CURTIS",P003067   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,,03:39,17,195,,          ,Off Rebound (2),O,,,AX Armani Exchange Olimpia Milan,0
-BAR       ,,30,03:39,17,196,"CLAVER, VICTOR",P000556   ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,45,03:39,17,197,"MOERMAN, ADRIEN",P001833   ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,25,03:35,17,198,"KOPONEN, PETTERI",P004178   ,Foul (1),CM,,,FC Barcelona Lassa,0
-MIL       ,,15,03:35,17,199,"TARCZEWSKI, KALEB",P008004   ,Foul Drawn (2),RV,,,AX Armani Exchange Olimpia Milan,0
-BAR       ,,10,03:35,17,200,"JACKSON, EDWIN",P000229   ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,21,03:35,17,201,"SANDERS, RAKIM",P005001   ,Out,OUT,,,FC Barcelona Lassa,0
-MIL       ,,0,03:35,17,202,"GOUDELOCK, ANDREW",P004903   ,In,IN,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,55,03:35,17,203,"JERRELLS, CURTIS",P003067   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,25,03:35,17,204,"THEODORE, JORDAN",P007946   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,55,03:35,17,205,"JERRELLS, CURTIS",P003067   ,In,IN,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,7,03:16,17,206,"PASCOLO, DAVIDE",P006385   ,Two Pointer (3/3 -  6 pt),2FGM,42.0,34.0,AX Armani Exchange Olimpia Milan,0
-MIL       ,,0,03:14,17,207,"GOUDELOCK, ANDREW",P004903   ,Assist (3),AS,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,0,03:05,17,208,"GOUDELOCK, ANDREW",P004903   ,Foul (1),CM,,,AX Armani Exchange Olimpia Milan,0
-BAR       ,,25,03:05,17,209,"KOPONEN, PETTERI",P004178   ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0
-BAR       ,,25,03:02,17,210,"KOPONEN, PETTERI",P004178   ,Two Pointer (3/4 -  9 pt),2FGM,44.0,34.0,FC Barcelona Lassa,0
-BAR       ,,5,03:00,17,211,"RIBAS, PAU",PJUG      ,Assist (1),AS,,,FC Barcelona Lassa,0
-MIL       ,,23,02:35,18,213,"ABASS, AWUDU",P003527   ,Turnover (1),TO,,,AX Armani Exchange Olimpia Milan,0
-BAR       ,,44,02:33,18,214,"TOMIC, ANTE",P002507   ,Steal (2),ST,,,FC Barcelona Lassa,0
-BAR       ,,45,02:29,18,215,"MOERMAN, ADRIEN",P001833   ,Two Pointer (1/2 -  5 pt),2FGM,46.0,34.0,FC Barcelona Lassa,0
-BAR       ,,5,02:29,18,216,"RIBAS, PAU",PJUG      ,Assist (2),AS,,,FC Barcelona Lassa,0
-MIL       ,,,02:29,18,217,,          ,Time Out (1),TOUT,,,AX Armani Exchange Olimpia Milan,0
-BAR       ,,30,02:29,18,218,"CLAVER, VICTOR",P000556   ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,44,02:29,18,219,"TOMIC, ANTE",P002507   ,Out,OUT,,,FC Barcelona Lassa,0
-MIL       ,,23,02:29,18,220,"ABASS, AWUDU",P003527   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,45,02:29,18,221,"BERTANS, DAIRIS",P000436   ,In,IN,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,0,02:06,18,222,"GOUDELOCK, ANDREW",P004903   ,Missed Two Pointer (1/3 -  2 pt),2FGA,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,7,02:02,18,223,"PASCOLO, DAVIDE",P006385   ,Off Rebound (2),O,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,7,02:02,18,224,"PASCOLO, DAVIDE",P006385   ,Two Pointer (4/4 -  8 pt),2FGM,46.0,36.0,AX Armani Exchange Olimpia Milan,0
-BAR       ,,25,01:46,19,226,"KOPONEN, PETTERI",P004178   ,Missed Three Pointer (1/2 -  9 pt),3FGA,,,FC Barcelona Lassa,0
-MIL       ,,7,01:44,19,227,"PASCOLO, DAVIDE",P006385   ,Def Rebound (2),D,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,7,01:27,19,228,"PASCOLO, DAVIDE",P006385   ,Missed Two Pointer (4/5 -  8 pt),2FGA,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,15,01:25,19,229,"TARCZEWSKI, KALEB",P008004   ,Off Rebound (1),O,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,45,01:20,19,230,"BERTANS, DAIRIS",P000436   ,Three Pointer (1/1 -  3 pt),3FGM,46.0,39.0,AX Armani Exchange Olimpia Milan,0
-MIL       ,,55,01:20,19,231,"JERRELLS, CURTIS",P003067   ,Assist (2),AS,,,AX Armani Exchange Olimpia Milan,0
-BAR       ,,,01:20,19,232,,          ,Time Out (2),TOUT,,,FC Barcelona Lassa,0
-BAR       ,,30,01:04,19,233,"CLAVER, VICTOR",P000556   ,Missed Three Pointer (1/2 -  5 pt),3FGA,,,FC Barcelona Lassa,0
-BAR       ,,25,00:56,20,235,"KOPONEN, PETTERI",P004178   ,Off Rebound (1),O,,,FC Barcelona Lassa,0
-BAR       ,,45,00:50,20,236,"MOERMAN, ADRIEN",P001833   ,Missed Three Pointer (1/2 -  5 pt),3FGA,,,FC Barcelona Lassa,0
-MIL       ,,0,00:46,20,237,"GOUDELOCK, ANDREW",P004903   ,Def Rebound (1),D,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,0,00:43,20,238,"GOUDELOCK, ANDREW",P004903   ,Missed Two Pointer (1/4 -  2 pt),2FGA,,,AX Armani Exchange Olimpia Milan,0
-BAR       ,,30,00:43,20,239,"CLAVER, VICTOR",P000556   ,Foul (1),CM,,,FC Barcelona Lassa,0
-MIL       ,,15,00:43,20,240,"TARCZEWSKI, KALEB",P008004   ,Foul Drawn (3),RV,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,,00:43,20,251,,          ,Off Rebound (3),O,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,15,00:43,20,241,"TARCZEWSKI, KALEB",P008004   ,Missed Free Throw (0/3 -  0 pt),FTA,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,15,00:43,20,242,"TARCZEWSKI, KALEB",P008004   ,Free Throw In (1/4 -  1 pt),FTM,46.0,40.0,AX Armani Exchange Olimpia Milan,0
-BAR       ,,25,00:20,20,243,"KOPONEN, PETTERI",P004178   ,Two Pointer (4/5 -  11 pt),2FGM,48.0,40.0,FC Barcelona Lassa,0
-BAR       ,,10,00:02,20,244,"JACKSON, EDWIN",P000229   ,Foul (1),CM,,,FC Barcelona Lassa,0
-MIL       ,,0,00:02,20,245,"GOUDELOCK, ANDREW",P004903   ,Foul Drawn (1),RV,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,0,00:02,20,246,"GOUDELOCK, ANDREW",P004903   ,Free Throw In (1/1 -  3 pt),FTM,48.0,41.0,AX Armani Exchange Olimpia Milan,0
-MIL       ,,0,00:02,20,247,"GOUDELOCK, ANDREW",P004903   ,Free Throw In (2/2 -  4 pt),FTM,48.0,42.0,AX Armani Exchange Olimpia Milan,0
-BAR       ,,45,00:02,20,248,"MOERMAN, ADRIEN",P001833   ,Missed Three Pointer (1/3 -  5 pt),3FGA,,,FC Barcelona Lassa,0
-          ,,,,21,250,,          ,End Period,EP,,,,0
-          ,,,,21,262,,          ,Begin Period,BP,,,,0
-BAR       ,,9,10:00,21,252,"HANGA, ADAM",P005099   ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,10,10:00,21,253,"JACKSON, EDWIN",P000229   ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,11,10:00,21,254,"NAVARRO, JUAN CARLOS",PADI      ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,25,10:00,21,255,"KOPONEN, PETTERI",P004178   ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,30,10:00,21,256,"CLAVER, VICTOR",P000556   ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,44,10:00,21,257,"TOMIC, ANTE",P002507   ,In,IN,,,FC Barcelona Lassa,0
-MIL       ,,15,10:00,21,258,"TARCZEWSKI, KALEB",P008004   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,25,10:00,21,259,"THEODORE, JORDAN",P007946   ,In,IN,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,55,10:00,21,260,"JERRELLS, CURTIS",P003067   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,77,10:00,21,261,"GUDAITIS, ARTURAS",P003120   ,In,IN,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,0,09:41,21,263,"GOUDELOCK, ANDREW",P004903   ,Two Pointer (2/5 -  6 pt),2FGM,48.0,44.0,AX Armani Exchange Olimpia Milan,0
-MIL       ,,25,09:29,21,264,"THEODORE, JORDAN",P007946   ,Foul (2),CM,,,AX Armani Exchange Olimpia Milan,0
-BAR       ,,44,09:29,21,265,"TOMIC, ANTE",P002507   ,Foul Drawn (3),RV,,,FC Barcelona Lassa,0
-BAR       ,,9,09:15,21,266,"HANGA, ADAM",P005099   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,FC Barcelona Lassa,0
-BAR       ,,9,09:12,21,267,"HANGA, ADAM",P005099   ,Off Rebound (1),O,,,FC Barcelona Lassa,0
-BAR       ,,45,09:07,21,268,"MOERMAN, ADRIEN",P001833   ,Three Pointer (2/4 -  8 pt),3FGM,51.0,44.0,FC Barcelona Lassa,0
-BAR       ,,9,09:06,21,269,"HANGA, ADAM",P005099   ,Assist (2),AS,,,FC Barcelona Lassa,0
-MIL       ,,25,08:48,22,271,"THEODORE, JORDAN",P007946   ,Missed Two Pointer (3/5 -  9 pt),2FGA,,,AX Armani Exchange Olimpia Milan,0
-BAR       ,,44,08:46,22,272,"TOMIC, ANTE",P002507   ,Def Rebound (2),D,,,FC Barcelona Lassa,0
-BAR       ,,5,08:37,22,273,"RIBAS, PAU",PJUG      ,Missed Three Pointer (2/3 -  10 pt),3FGA,,,FC Barcelona Lassa,0
-BAR       ,,11,08:34,22,274,"NAVARRO, JUAN CARLOS",PADI      ,Off Rebound (1),O,,,FC Barcelona Lassa,0
-BAR       ,,45,08:30,22,275,"MOERMAN, ADRIEN",P001833   ,Missed Three Pointer (2/5 -  8 pt),3FGA,,,FC Barcelona Lassa,0
-BAR       ,,9,08:28,22,276,"HANGA, ADAM",P005099   ,Off Rebound (2),O,,,FC Barcelona Lassa,0
-BAR       ,,11,08:15,22,277,"NAVARRO, JUAN CARLOS",PADI      ,Three Pointer (1/2 -  3 pt),3FGM,54.0,44.0,FC Barcelona Lassa,0
-BAR       ,,5,08:13,22,278,"RIBAS, PAU",PJUG      ,Assist (3),AS,,,FC Barcelona Lassa,0
-MIL       ,,0,07:55,23,280,"GOUDELOCK, ANDREW",P004903   ,Three Pointer (1/1 -  9 pt),3FGM,54.0,47.0,AX Armani Exchange Olimpia Milan,0
-BAR       ,,44,07:37,23,281,"TOMIC, ANTE",P002507   ,Missed Two Pointer (4/5 -  9 pt),2FGA,,,FC Barcelona Lassa,0
-MIL       ,,77,07:35,23,282,"GUDAITIS, ARTURAS",P003120   ,Def Rebound (3),D,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,45,07:18,23,283,"BERTANS, DAIRIS",P000436   ,Missed Three Pointer (1/2 -  3 pt),3FGA,,,AX Armani Exchange Olimpia Milan,0
-BAR       ,,44,07:16,23,284,"TOMIC, ANTE",P002507   ,Def Rebound (3),D,,,FC Barcelona Lassa,0
-BAR       ,,11,07:07,23,285,"NAVARRO, JUAN CARLOS",PADI      ,Missed Two Pointer (0/2 -  3 pt),2FGA,,,FC Barcelona Lassa,0
-BAR       ,,11,07:07,23,286,"NAVARRO, JUAN CARLOS",PADI      ,Shot Rejected (1),AG,,,FC Barcelona Lassa,0
-MIL       ,,0,07:05,23,287,"GOUDELOCK, ANDREW",P004903   ,Block (1),FV,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,77,07:00,23,288,"GUDAITIS, ARTURAS",P003120   ,Def Rebound (4),D,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,25,06:56,24,290,"THEODORE, JORDAN",P007946   ,Turnover (2),TO,,,AX Armani Exchange Olimpia Milan,0
-BAR       ,,9,06:54,24,291,"HANGA, ADAM",P005099   ,Steal (2),ST,,,FC Barcelona Lassa,0
-BAR       ,,11,06:50,24,292,"NAVARRO, JUAN CARLOS",PADI      ,Missed Three Pointer (1/3 -  3 pt),3FGA,,,FC Barcelona Lassa,0
-BAR       ,,5,06:48,24,293,"RIBAS, PAU",PJUG      ,Foul (1),CM,,,FC Barcelona Lassa,0
-MIL       ,,7,06:48,24,294,"PASCOLO, DAVIDE",P006385   ,Foul Drawn (1),RV,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,,06:48,24,317,,          ,Def Rebound (4),D,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,25,06:30,24,296,"THEODORE, JORDAN",P007946   ,Missed Two Pointer (3/6 -  9 pt),2FGA,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,0,06:24,24,298,"GOUDELOCK, ANDREW",P004903   ,Three Pointer (2/2 -  12 pt),3FGM,54.0,50.0,AX Armani Exchange Olimpia Milan,0
-MIL       ,,77,06:24,24,453,"GUDAITIS, ARTURAS",P003120   ,Assist (1),AS,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,77,06:11,24,299,"GUDAITIS, ARTURAS",P003120   ,Foul (2),CM,,,AX Armani Exchange Olimpia Milan,0
-BAR       ,,44,06:11,24,300,"TOMIC, ANTE",P002507   ,Foul Drawn (4),RV,,,FC Barcelona Lassa,0
-BAR       ,,11,06:05,24,301,"NAVARRO, JUAN CARLOS",PADI      ,Two Pointer (1/3 -  5 pt),2FGM,56.0,50.0,FC Barcelona Lassa,0
-BAR       ,,5,06:04,24,302,"RIBAS, PAU",PJUG      ,Assist (4),AS,,,FC Barcelona Lassa,0
-MIL       ,,7,05:41,25,304,"PASCOLO, DAVIDE",P006385   ,Missed Two Pointer (4/6 -  8 pt),2FGA,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,7,05:39,25,305,"PASCOLO, DAVIDE",P006385   ,Off Rebound (3),O,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,7,05:38,25,306,"PASCOLO, DAVIDE",P006385   ,Missed Two Pointer (4/7 -  8 pt),2FGA,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,77,05:38,25,390,"GUDAITIS, ARTURAS",P003120   ,Off Rebound (3),O,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,77,05:59,25,339,"GUDAITIS, ARTURAS",P003120   ,Two Pointer (5/5 -  12 pt),2FGM,56.0,52.0,AX Armani Exchange Olimpia Milan,0
-BAR       ,,45,05:17,25,307,"MOERMAN, ADRIEN",P001833   ,Two Pointer (2/3 -  10 pt),2FGM,58.0,52.0,FC Barcelona Lassa,0
-BAR       ,,9,05:00,25,308,"HANGA, ADAM",P005099   ,Foul (4),CM,,,FC Barcelona Lassa,0
-MIL       ,,0,05:00,25,309,"GOUDELOCK, ANDREW",P004903   ,Foul Drawn (2),RV,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,45,04:48,26,312,"BERTANS, DAIRIS",P000436   ,Missed Three Pointer (1/3 -  3 pt),3FGA,,,AX Armani Exchange Olimpia Milan,0
-BAR       ,,44,04:45,26,313,"TOMIC, ANTE",P002507   ,Def Rebound (4),D,,,FC Barcelona Lassa,0
-MIL       ,,7,04:40,26,314,"PASCOLO, DAVIDE",P006385   ,Foul (2),CM,,,AX Armani Exchange Olimpia Milan,0
-BAR       ,,44,04:40,26,315,"TOMIC, ANTE",P002507   ,Foul Drawn (5),RV,,,FC Barcelona Lassa,0
-          ,,,04:40,26,316,,          ,TV Time Out (1),TOUT_TV,,,,0
-MIL       ,,0,04:38,26,318,"GOUDELOCK, ANDREW",P004903   ,Foul (2),CM,,,AX Armani Exchange Olimpia Milan,0
-BAR       ,,11,04:38,26,319,"NAVARRO, JUAN CARLOS",PADI      ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0
-BAR       ,,11,04:30,26,320,"NAVARRO, JUAN CARLOS",PADI      ,Missed Two Pointer (1/4 -  5 pt),2FGA,,,FC Barcelona Lassa,0
-MIL       ,,7,04:30,26,321,"PASCOLO, DAVIDE",P006385   ,Def Rebound (3),D,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,77,04:03,26,322,"GUDAITIS, ARTURAS",P003120   ,Two Pointer (6/6 -  14 pt),2FGM,58.0,54.0,AX Armani Exchange Olimpia Milan,0
-MIL       ,,7,04:01,26,323,"PASCOLO, DAVIDE",P006385   ,Assist (1),AS,,,AX Armani Exchange Olimpia Milan,0
-BAR       ,,9,03:47,27,325,"HANGA, ADAM",P005099   ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,FC Barcelona Lassa,0
-MIL       ,,7,03:45,27,326,"PASCOLO, DAVIDE",P006385   ,Def Rebound (4),D,,,AX Armani Exchange Olimpia Milan,0
-BAR       ,,45,03:45,27,327,"MOERMAN, ADRIEN",P001833   ,Foul (1),CM,,,FC Barcelona Lassa,0
-MIL       ,,25,03:45,27,328,"THEODORE, JORDAN",P007946   ,Foul Drawn (4),RV,,,AX Armani Exchange Olimpia Milan,0
-BAR       ,,9,03:45,27,329,"HANGA, ADAM",P005099   ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,11,03:45,27,330,"NAVARRO, JUAN CARLOS",PADI      ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,13,03:45,27,331,"HEURTEL, THOMAS",PKLT      ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,25,03:45,27,332,"KOPONEN, PETTERI",P004178   ,In,IN,,,FC Barcelona Lassa,0
-MIL       ,,0,03:33,27,333,"GOUDELOCK, ANDREW",P004903   ,Two Pointer (3/6 -  14 pt),2FGM,58.0,56.0,AX Armani Exchange Olimpia Milan,0
-BAR       ,,25,03:17,27,334,"KOPONEN, PETTERI",P004178   ,Turnover (1),TO,,,FC Barcelona Lassa,0
-MIL       ,,7,03:03,27,335,"PASCOLO, DAVIDE",P006385   ,Two Pointer (5/8 -  10 pt),2FGM,58.0,58.0,AX Armani Exchange Olimpia Milan,0
-MIL       ,,25,03:03,27,336,"THEODORE, JORDAN",P007946   ,Assist (2),AS,,,AX Armani Exchange Olimpia Milan,0
-BAR       ,,,03:03,27,337,,          ,Time Out (1),TOUT,,,FC Barcelona Lassa,0
-BAR       ,,18,03:03,27,340,"ORIOLA, PIERRE",P005917   ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,30,03:03,27,341,"CLAVER, VICTOR",P000556   ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,44,03:03,27,342,"TOMIC, ANTE",P002507   ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,45,03:03,27,343,"MOERMAN, ADRIEN",P001833   ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,5,02:51,28,345,"RIBAS, PAU",PJUG      ,Turnover (1),TO,,,FC Barcelona Lassa,0
-MIL       ,,25,02:40,28,346,"THEODORE, JORDAN",P007946   ,Missed Two Pointer (3/7 -  9 pt),2FGA,,,AX Armani Exchange Olimpia Milan,0
-BAR       ,,,02:40,28,347,,          ,Def Rebound (5),D,,,FC Barcelona Lassa,0
-MIL       ,,25,02:40,28,348,"THEODORE, JORDAN",P007946   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,55,02:40,28,349,"JERRELLS, CURTIS",P003067   ,In,IN,,,AX Armani Exchange Olimpia Milan,0
-BAR       ,,18,02:29,28,350,"ORIOLA, PIERRE",P005917   ,Offensive Foul (1),OF,,,FC Barcelona Lassa,0
-BAR       ,,18,02:29,28,351,"ORIOLA, PIERRE",P005917   ,Turnover (1),TO,,,FC Barcelona Lassa,0
-MIL       ,,45,02:29,28,352,"BERTANS, DAIRIS",P000436   ,Foul Drawn (1),RV,,,AX Armani Exchange Olimpia Milan,0
-BAR       ,,5,02:29,28,353,"RIBAS, PAU",PJUG      ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,21,02:29,28,354,"SANDERS, RAKIM",P005001   ,In,IN,,,FC Barcelona Lassa,0
-MIL       ,,0,02:29,28,355,"GOUDELOCK, ANDREW",P004903   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,5,02:29,28,356,"MICOV, VLADIMIR",P000529   ,In,IN,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,0,02:12,28,357,"GOUDELOCK, ANDREW",P004903   ,In,IN,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,45,02:12,28,358,"BERTANS, DAIRIS",P000436   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,7,02:11,28,359,"PASCOLO, DAVIDE",P006385   ,Two Pointer (6/9 -  12 pt),2FGM,58.0,60.0,AX Armani Exchange Olimpia Milan,0
-MIL       ,,77,02:11,28,360,"GUDAITIS, ARTURAS",P003120   ,Assist (2),AS,,,AX Armani Exchange Olimpia Milan,0
-BAR       ,,30,02:11,28,361,"CLAVER, VICTOR",P000556   ,Foul (2),CM,,,FC Barcelona Lassa,0
-MIL       ,,7,02:11,28,362,"PASCOLO, DAVIDE",P006385   ,Foul Drawn (2),RV,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,7,02:11,28,363,"PASCOLO, DAVIDE",P006385   ,Missed Free Throw (0/1 -  12 pt),FTA,,,AX Armani Exchange Olimpia Milan,0
-BAR       ,,18,02:11,28,364,"ORIOLA, PIERRE",P005917   ,Def Rebound (2),D,,,FC Barcelona Lassa,0
-BAR       ,,18,02:11,28,365,"ORIOLA, PIERRE",P005917   ,Missed Two Pointer (0/3 -  0 pt),2FGA,,,FC Barcelona Lassa,0
-BAR       ,,30,02:11,28,366,"CLAVER, VICTOR",P000556   ,Off Rebound (1),O,,,FC Barcelona Lassa,0
-BAR       ,,30,02:11,28,367,"CLAVER, VICTOR",P000556   ,Two Pointer (1/1 -  7 pt),2FGM,60.0,60.0,FC Barcelona Lassa,0
-MIL       ,,0,02:11,28,368,"GOUDELOCK, ANDREW",P004903   ,Two Pointer (4/7 -  16 pt),2FGM,60.0,62.0,AX Armani Exchange Olimpia Milan,0
-BAR       ,,13,02:11,28,369,"HEURTEL, THOMAS",PKLT      ,Two Pointer (1/1 -  2 pt),2FGM,62.0,62.0,FC Barcelona Lassa,0
-MIL       ,,5,00:51,30,372,"MICOV, VLADIMIR",P000529   ,Missed Three Pointer (1/4 -  7 pt),3FGA,,,AX Armani Exchange Olimpia Milan,0
-BAR       ,,30,00:49,30,373,"CLAVER, VICTOR",P000556   ,Def Rebound (1),D,,,FC Barcelona Lassa,0
-BAR       ,,21,00:37,30,374,"SANDERS, RAKIM",P005001   ,Missed Two Pointer (3/4 -  6 pt),2FGA,,,FC Barcelona Lassa,0
-BAR       ,,21,00:37,30,375,"SANDERS, RAKIM",P005001   ,Shot Rejected (1),AG,,,FC Barcelona Lassa,0
-MIL       ,,77,00:33,30,376,"GUDAITIS, ARTURAS",P003120   ,Block (1),FV,,,AX Armani Exchange Olimpia Milan,0
-BAR       ,,18,00:30,30,377,"ORIOLA, PIERRE",P005917   ,Off Rebound (1),O,,,FC Barcelona Lassa,0
-BAR       ,,18,00:27,30,378,"ORIOLA, PIERRE",P005917   ,Missed Two Pointer (0/4 -  0 pt),2FGA,,,FC Barcelona Lassa,0
-MIL       ,,77,00:25,30,379,"GUDAITIS, ARTURAS",P003120   ,Def Rebound (5),D,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,5,00:25,30,380,"MICOV, VLADIMIR",P000529   ,Two Pointer (3/3 -  9 pt),2FGM,62.0,64.0,AX Armani Exchange Olimpia Milan,0
-MIL       ,,0,00:25,30,381,"GOUDELOCK, ANDREW",P004903   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,20,00:25,30,382,"CINCIARINI, ANDREA",PKIW      ,In,IN,,,AX Armani Exchange Olimpia Milan,0
-BAR       ,,25,00:10,30,383,"KOPONEN, PETTERI",P004178   ,Missed Three Pointer (1/3 -  11 pt),3FGA,,,FC Barcelona Lassa,0
-MIL       ,,5,00:08,30,384,"MICOV, VLADIMIR",P000529   ,Def Rebound (1),D,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,55,00:01,30,385,"JERRELLS, CURTIS",P003067   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,AX Armani Exchange Olimpia Milan,0
-BAR       ,,21,00:00,30,386,"SANDERS, RAKIM",P005001   ,Def Rebound (2),D,,,FC Barcelona Lassa,0
-BAR       ,,21,00:00,30,387,"SANDERS, RAKIM",P005001   ,Missed Three Pointer (0/1 -  6 pt),3FGA,,,FC Barcelona Lassa,0
-          ,,,,31,389,,          ,End Period,EP,,,,0
-          ,,,,31,395,,          ,Begin Period,BP,,,,0
-MIL       ,,15,10:00,31,391,"TARCZEWSKI, KALEB",P008004   ,In,IN,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,20,10:00,31,392,"CINCIARINI, ANDREA",PKIW      ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,25,10:00,31,393,"THEODORE, JORDAN",P007946   ,In,IN,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,77,10:00,31,394,"GUDAITIS, ARTURAS",P003120   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0
-BAR       ,,13,09:39,31,396,"HEURTEL, THOMAS",PKLT      ,Missed Three Pointer (0/2 -  2 pt),3FGA,,,FC Barcelona Lassa,0
-BAR       ,,21,09:36,31,397,"SANDERS, RAKIM",P005001   ,Off Rebound (1),O,,,FC Barcelona Lassa,0
-BAR       ,,21,09:34,31,398,"SANDERS, RAKIM",P005001   ,Turnover (1),TO,,,FC Barcelona Lassa,0
-MIL       ,,55,09:33,31,399,"JERRELLS, CURTIS",P003067   ,Steal (2),ST,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,55,09:33,31,400,"JERRELLS, CURTIS",P003067   ,Two Pointer (1/3 -  2 pt),2FGM,62.0,66.0,AX Armani Exchange Olimpia Milan,0
-BAR       ,,30,09:15,31,401,"CLAVER, VICTOR",P000556   ,Two Pointer (2/2 -  9 pt),2FGM,64.0,66.0,FC Barcelona Lassa,0
-MIL       ,,7,09:15,31,402,"PASCOLO, DAVIDE",P006385   ,Foul (3),CM,,,AX Armani Exchange Olimpia Milan,0
-BAR       ,,30,09:15,31,403,"CLAVER, VICTOR",P000556   ,Foul Drawn (3),RV,,,FC Barcelona Lassa,0
-BAR       ,,30,09:15,31,404,"CLAVER, VICTOR",P000556   ,Free Throw In (3/3 -  10 pt),FTM,65.0,66.0,FC Barcelona Lassa,0
-MIL       ,,15,09:03,31,405,"TARCZEWSKI, KALEB",P008004   ,Offensive Foul (1),OF,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,15,09:03,31,406,"TARCZEWSKI, KALEB",P008004   ,Turnover (1),TO,,,AX Armani Exchange Olimpia Milan,0
-BAR       ,,21,09:03,31,407,"SANDERS, RAKIM",P005001   ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0
-BAR       ,,25,08:47,32,409,"KOPONEN, PETTERI",P004178   ,Turnover (2),TO,,,FC Barcelona Lassa,0
-MIL       ,,7,08:45,32,410,"PASCOLO, DAVIDE",P006385   ,Steal (1),ST,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,7,08:29,32,411,"PASCOLO, DAVIDE",P006385   ,Missed Three Pointer (0/1 -  12 pt),3FGA,,,AX Armani Exchange Olimpia Milan,0
-BAR       ,,21,08:26,32,412,"SANDERS, RAKIM",P005001   ,Def Rebound (3),D,,,FC Barcelona Lassa,0
-MIL       ,,5,08:16,32,413,"MICOV, VLADIMIR",P000529   ,Foul (2),CM,,,AX Armani Exchange Olimpia Milan,0
-BAR       ,,18,08:16,32,414,"ORIOLA, PIERRE",P005917   ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0
-BAR       ,,18,08:16,32,415,"ORIOLA, PIERRE",P005917   ,Free Throw In (1/1 -  1 pt),FTM,66.0,66.0,FC Barcelona Lassa,0
-BAR       ,,13,08:16,32,416,"HEURTEL, THOMAS",PKLT      ,Assist (3),AS,,,FC Barcelona Lassa,0
-BAR       ,,18,08:16,32,417,"ORIOLA, PIERRE",P005917   ,Free Throw In (2/2 -  2 pt),FTM,67.0,66.0,FC Barcelona Lassa,0
-MIL       ,,55,07:54,33,419,"JERRELLS, CURTIS",P003067   ,Missed Three Pointer (0/2 -  2 pt),3FGA,,,AX Armani Exchange Olimpia Milan,0
-BAR       ,,30,07:50,33,420,"CLAVER, VICTOR",P000556   ,Def Rebound (2),D,,,FC Barcelona Lassa,0
-MIL       ,,25,07:40,33,421,"THEODORE, JORDAN",P007946   ,Foul (3),CM,,,AX Armani Exchange Olimpia Milan,0
-BAR       ,,13,07:40,33,422,"HEURTEL, THOMAS",PKLT      ,Foul Drawn (3),RV,,,FC Barcelona Lassa,0
-MIL       ,,,07:40,33,423,,          ,Time Out (1),TOUT,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,0,07:40,33,424,"GOUDELOCK, ANDREW",P004903   ,In,IN,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,7,07:40,33,425,"PASCOLO, DAVIDE",P006385   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,24,07:40,33,426,"M'BAYE, AMATH",P007993   ,In,IN,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,55,07:40,33,427,"JERRELLS, CURTIS",P003067   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,15,07:29,33,428,"TARCZEWSKI, KALEB",P008004   ,Foul (2),CM,,,AX Armani Exchange Olimpia Milan,0
-BAR       ,,13,07:29,33,429,"HEURTEL, THOMAS",PKLT      ,Foul Drawn (4),RV,,,FC Barcelona Lassa,0
-BAR       ,,13,07:29,33,430,"HEURTEL, THOMAS",PKLT      ,Free Throw In (1/1 -  3 pt),FTM,68.0,66.0,FC Barcelona Lassa,0
-BAR       ,,13,07:29,33,431,"HEURTEL, THOMAS",PKLT      ,Missed Free Throw (1/2 -  3 pt),FTA,,,FC Barcelona Lassa,0
-MIL       ,,,07:29,33,432,,          ,Def Rebound (6),D,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,15,07:11,33,433,"TARCZEWSKI, KALEB",P008004   ,Two Pointer (1/1 -  3 pt),2FGM,68.0,68.0,AX Armani Exchange Olimpia Milan,0
-MIL       ,,5,07:06,33,434,"MICOV, VLADIMIR",P000529   ,Assist (2),AS,,,AX Armani Exchange Olimpia Milan,0
-BAR       ,,13,06:55,34,436,"HEURTEL, THOMAS",PKLT      ,Turnover (3),TO,,,FC Barcelona Lassa,0
-MIL       ,,25,06:55,34,437,"THEODORE, JORDAN",P007946   ,Steal (1),ST,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,25,06:55,34,438,"THEODORE, JORDAN",P007946   ,Turnover (3),TO,,,AX Armani Exchange Olimpia Milan,0
-BAR       ,,21,06:38,34,439,"SANDERS, RAKIM",P005001   ,Missed Two Pointer (3/5 -  6 pt),2FGA,,,FC Barcelona Lassa,0
-BAR       ,,21,06:38,34,440,"SANDERS, RAKIM",P005001   ,Shot Rejected (2),AG,,,FC Barcelona Lassa,0
-MIL       ,,15,06:38,34,441,"TARCZEWSKI, KALEB",P008004   ,Block (1),FV,,,AX Armani Exchange Olimpia Milan,0
-BAR       ,,,06:38,34,442,,          ,Off Rebound (4),O,,,FC Barcelona Lassa,0
-BAR       ,,30,06:36,34,443,"CLAVER, VICTOR",P000556   ,Missed Two Pointer (2/3 -  10 pt),2FGA,,,FC Barcelona Lassa,0
-MIL       ,,15,06:34,34,444,"TARCZEWSKI, KALEB",P008004   ,Def Rebound (1),D,,,AX Armani Exchange Olimpia Milan,0
-BAR       ,,25,06:20,34,445,"KOPONEN, PETTERI",P004178   ,Foul (2),CM,,,FC Barcelona Lassa,0
-MIL       ,,5,06:20,34,446,"MICOV, VLADIMIR",P000529   ,Foul Drawn (2),RV,,,AX Armani Exchange Olimpia Milan,0
-BAR       ,,21,06:16,34,447,"SANDERS, RAKIM",P005001   ,Foul (3),CM,,,FC Barcelona Lassa,0
-MIL       ,,0,06:16,34,448,"GOUDELOCK, ANDREW",P004903   ,Foul Drawn (3),RV,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,0,06:16,34,449,"GOUDELOCK, ANDREW",P004903   ,Free Throw In (3/3 -  17 pt),FTM,68.0,69.0,AX Armani Exchange Olimpia Milan,0
-MIL       ,,0,06:16,34,450,"GOUDELOCK, ANDREW",P004903   ,Free Throw In (4/4 -  18 pt),FTM,68.0,70.0,AX Armani Exchange Olimpia Milan,0
-BAR       ,,13,06:00,34,451,"HEURTEL, THOMAS",PKLT      ,Two Pointer (2/2 -  5 pt),2FGM,70.0,70.0,FC Barcelona Lassa,0
-MIL       ,,15,05:00,35,454,"TARCZEWSKI, KALEB",P008004   ,Two Pointer (2/2 -  5 pt),2FGM,70.0,72.0,AX Armani Exchange Olimpia Milan,0
-MIL       ,,5,05:00,35,477,"MICOV, VLADIMIR",P000529   ,Assist (3),AS,,,AX Armani Exchange Olimpia Milan,0
-BAR       ,,18,05:21,35,455,"ORIOLA, PIERRE",P005917   ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,44,05:21,35,456,"TOMIC, ANTE",P002507   ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,13,05:16,35,457,"HEURTEL, THOMAS",PKLT      ,Two Pointer (3/3 -  7 pt),2FGM,72.0,72.0,FC Barcelona Lassa,0
-BAR       ,,25,05:14,35,458,"KOPONEN, PETTERI",P004178   ,Assist (1),AS,,,FC Barcelona Lassa,0
-BAR       ,,13,04:54,36,460,"HEURTEL, THOMAS",PKLT      ,Foul (2),CM,,,FC Barcelona Lassa,0
-MIL       ,,5,04:54,36,461,"MICOV, VLADIMIR",P000529   ,Foul Drawn (3),RV,,,AX Armani Exchange Olimpia Milan,0
-BAR       ,,44,04:41,36,462,"TOMIC, ANTE",P002507   ,Foul (3),CM,,,FC Barcelona Lassa,0
-MIL       ,,24,04:41,36,463,"M'BAYE, AMATH",P007993   ,Foul Drawn (1),RV,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,24,04:41,36,464,"M'BAYE, AMATH",P007993   ,Free Throw In (1/1 -  1 pt),FTM,72.0,73.0,AX Armani Exchange Olimpia Milan,0
-MIL       ,,24,04:41,36,465,"M'BAYE, AMATH",P007993   ,Free Throw In (2/2 -  2 pt),FTM,72.0,74.0,AX Armani Exchange Olimpia Milan,0
-BAR       ,,25,04:41,36,466,"KOPONEN, PETTERI",P004178   ,Missed Two Pointer (4/6 -  11 pt),2FGA,,,FC Barcelona Lassa,0
-BAR       ,,25,04:41,36,467,"KOPONEN, PETTERI",P004178   ,Shot Rejected (1),AG,,,FC Barcelona Lassa,0
-MIL       ,,15,04:41,36,468,"TARCZEWSKI, KALEB",P008004   ,Block (2),FV,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,24,04:41,36,469,"M'BAYE, AMATH",P007993   ,Def Rebound (2),D,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,25,04:03,36,470,"THEODORE, JORDAN",P007946   ,Missed Three Pointer (1/3 -  9 pt),3FGA,,,AX Armani Exchange Olimpia Milan,0
-BAR       ,,,04:04,36,471,,          ,Def Rebound (7),D,,,FC Barcelona Lassa,0
-BAR       ,,9,04:04,36,472,"HANGA, ADAM",P005099   ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,21,04:04,36,473,"SANDERS, RAKIM",P005001   ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,30,04:04,36,474,"CLAVER, VICTOR",P000556   ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,45,04:04,36,475,"MOERMAN, ADRIEN",P001833   ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,,04:04,36,476,,          ,Time Out (1),TOUT,,,FC Barcelona Lassa,0
-MIL       ,,7,03:41,37,479,"PASCOLO, DAVIDE",P006385   ,In,IN,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,24,03:41,37,480,"M'BAYE, AMATH",P007993   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0
-BAR       ,,45,03:38,37,481,"MOERMAN, ADRIEN",P001833   ,Missed Two Pointer (2/4 -  10 pt),2FGA,,,FC Barcelona Lassa,0
-BAR       ,,44,03:35,37,482,"TOMIC, ANTE",P002507   ,Off Rebound (1),O,,,FC Barcelona Lassa,0
-MIL       ,,15,03:31,37,483,"TARCZEWSKI, KALEB",P008004   ,Foul (3),CM,,,AX Armani Exchange Olimpia Milan,0
-BAR       ,,44,03:31,37,484,"TOMIC, ANTE",P002507   ,Foul Drawn (6),RV,,,FC Barcelona Lassa,0
-BAR       ,,11,03:31,37,485,"NAVARRO, JUAN CARLOS",PADI      ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,25,03:31,37,486,"KOPONEN, PETTERI",P004178   ,Out,OUT,,,FC Barcelona Lassa,0
-MIL       ,,15,03:31,37,487,"TARCZEWSKI, KALEB",P008004   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,77,03:31,37,488,"GUDAITIS, ARTURAS",P003120   ,In,IN,,,AX Armani Exchange Olimpia Milan,0
-BAR       ,,44,03:31,37,489,"TOMIC, ANTE",P002507   ,Missed Free Throw (1/2 -  9 pt),FTA,,,FC Barcelona Lassa,0
-BAR       ,,44,03:31,37,490,"TOMIC, ANTE",P002507   ,Free Throw In (2/3 -  10 pt),FTM,73.0,74.0,FC Barcelona Lassa,0
-MIL       ,,5,03:08,37,491,"MICOV, VLADIMIR",P000529   ,Two Pointer (4/4 -  11 pt),2FGM,73.0,76.0,AX Armani Exchange Olimpia Milan,0
-MIL       ,,25,03:06,37,492,"THEODORE, JORDAN",P007946   ,Assist (3),AS,,,AX Armani Exchange Olimpia Milan,0
-BAR       ,,45,03:00,38,494,"MOERMAN, ADRIEN",P001833   ,Missed Three Pointer (2/6 -  10 pt),3FGA,,,FC Barcelona Lassa,0
-MIL       ,,77,02:56,38,495,"GUDAITIS, ARTURAS",P003120   ,Def Rebound (6),D,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,0,02:39,38,496,"GOUDELOCK, ANDREW",P004903   ,Two Pointer (5/8 -  20 pt),2FGM,73.0,78.0,AX Armani Exchange Olimpia Milan,0
-MIL       ,,0,02:24,38,497,"GOUDELOCK, ANDREW",P004903   ,Foul (3),CM,,,AX Armani Exchange Olimpia Milan,0
-BAR       ,,11,02:24,38,498,"NAVARRO, JUAN CARLOS",PADI      ,Foul Drawn (2),RV,,,FC Barcelona Lassa,0
-BAR       ,,5,02:24,38,499,"RIBAS, PAU",PJUG      ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,13,02:24,38,500,"HEURTEL, THOMAS",PKLT      ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,11,02:24,38,501,"NAVARRO, JUAN CARLOS",PADI      ,Free Throw In (1/1 -  6 pt),FTM,74.0,78.0,FC Barcelona Lassa,0
-BAR       ,,11,02:24,38,502,"NAVARRO, JUAN CARLOS",PADI      ,Free Throw In (2/2 -  7 pt),FTM,75.0,78.0,FC Barcelona Lassa,0
-MIL       ,,5,02:07,38,503,"MICOV, VLADIMIR",P000529   ,Missed Two Pointer (4/5 -  11 pt),2FGA,,,AX Armani Exchange Olimpia Milan,0
-BAR       ,,45,02:05,38,504,"MOERMAN, ADRIEN",P001833   ,Def Rebound (3),D,,,FC Barcelona Lassa,0
-BAR       ,,44,01:55,39,506,"TOMIC, ANTE",P002507   ,Missed Two Pointer (4/6 -  10 pt),2FGA,,,FC Barcelona Lassa,0
-MIL       ,,7,01:53,39,507,"PASCOLO, DAVIDE",P006385   ,Def Rebound (5),D,,,AX Armani Exchange Olimpia Milan,0
-BAR       ,,11,01:52,39,508,"NAVARRO, JUAN CARLOS",PADI      ,Foul (1),CM,,,FC Barcelona Lassa,0
-MIL       ,,25,01:52,39,509,"THEODORE, JORDAN",P007946   ,Foul Drawn (5),RV,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,25,01:52,39,510,"THEODORE, JORDAN",P007946   ,Free Throw In (1/1 -  10 pt),FTM,75.0,79.0,AX Armani Exchange Olimpia Milan,0
-MIL       ,,25,01:52,39,511,"THEODORE, JORDAN",P007946   ,Missed Free Throw (1/2 -  10 pt),FTA,,,AX Armani Exchange Olimpia Milan,0
-BAR       ,,45,01:52,39,512,"MOERMAN, ADRIEN",P001833   ,Def Rebound (4),D,,,FC Barcelona Lassa,0
-BAR       ,,44,01:42,39,513,"TOMIC, ANTE",P002507   ,Offensive Foul (4),OF,,,FC Barcelona Lassa,0
-BAR       ,,44,01:42,39,514,"TOMIC, ANTE",P002507   ,Turnover (1),TO,,,FC Barcelona Lassa,0
-MIL       ,,0,01:42,39,515,"GOUDELOCK, ANDREW",P004903   ,Foul Drawn (4),RV,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,25,01:23,39,516,"THEODORE, JORDAN",P007946   ,Turnover (4),TO,,,AX Armani Exchange Olimpia Milan,0
-BAR       ,,9,01:12,39,517,"HANGA, ADAM",P005099   ,Missed Three Pointer (0/2 -  2 pt),3FGA,,,FC Barcelona Lassa,0
-BAR       ,,,01:12,39,536,,          ,Off Rebound (5),O,,,FC Barcelona Lassa,0
-MIL       ,,77,01:11,39,519,"GUDAITIS, ARTURAS",P003120   ,Foul (3),CM,,,AX Armani Exchange Olimpia Milan,0
-BAR       ,,44,01:11,39,520,"TOMIC, ANTE",P002507   ,Foul Drawn (7),RV,,,FC Barcelona Lassa,0
-BAR       ,,44,01:11,39,521,"TOMIC, ANTE",P002507   ,Free Throw In (3/4 -  11 pt),FTM,76.0,79.0,FC Barcelona Lassa,0
-BAR       ,,44,01:11,39,522,"TOMIC, ANTE",P002507   ,Free Throw In (4/5 -  12 pt),FTM,77.0,79.0,FC Barcelona Lassa,0
-MIL       ,,0,00:49,40,524,"GOUDELOCK, ANDREW",P004903   ,Missed Two Pointer (5/9 -  20 pt),2FGA,,,AX Armani Exchange Olimpia Milan,0
-BAR       ,,44,00:46,40,525,"TOMIC, ANTE",P002507   ,Def Rebound (5),D,,,FC Barcelona Lassa,0
-BAR       ,,9,00:44,40,526,"HANGA, ADAM",P005099   ,Two Pointer (2/3 -  4 pt),2FGM,79.0,79.0,FC Barcelona Lassa,0
-BAR       ,,5,00:44,40,527,"RIBAS, PAU",PJUG      ,Assist (5),AS,,,FC Barcelona Lassa,0
-MIL       ,,77,00:27,40,528,"GUDAITIS, ARTURAS",P003120   ,Two Pointer (7/7 -  16 pt),2FGM,79.0,81.0,AX Armani Exchange Olimpia Milan,0
-MIL       ,,25,00:27,40,529,"THEODORE, JORDAN",P007946   ,Assist (4),AS,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,25,00:08,40,530,"THEODORE, JORDAN",P007946   ,Foul (4),CM,,,AX Armani Exchange Olimpia Milan,0
-BAR       ,,44,00:08,40,531,"TOMIC, ANTE",P002507   ,Foul Drawn (8),RV,,,FC Barcelona Lassa,0
-BAR       ,,44,00:08,40,532,"TOMIC, ANTE",P002507   ,Free Throw In (5/6 -  13 pt),FTM,80.0,81.0,FC Barcelona Lassa,0
-BAR       ,,44,00:08,40,533,"TOMIC, ANTE",P002507   ,Free Throw In (6/7 -  14 pt),FTM,81.0,81.0,FC Barcelona Lassa,0
-MIL       ,,,00:08,40,534,,          ,Time Out (2),TOUT,,,AX Armani Exchange Olimpia Milan,0
-BAR       ,,10,00:08,40,537,"JACKSON, EDWIN",P000229   ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,11,00:08,40,538,"NAVARRO, JUAN CARLOS",PADI      ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,30,00:08,40,539,"CLAVER, VICTOR",P000556   ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,44,00:08,40,540,"TOMIC, ANTE",P002507   ,Out,OUT,,,FC Barcelona Lassa,0
-MIL       ,,7,00:08,40,541,"PASCOLO, DAVIDE",P006385   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,45,00:08,40,542,"BERTANS, DAIRIS",P000436   ,In,IN,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,45,00:05,40,543,"BERTANS, DAIRIS",P000436   ,Two Pointer (1/1 -  5 pt),2FGM,81.0,83.0,AX Armani Exchange Olimpia Milan,0
-MIL       ,,5,00:05,40,544,"MICOV, VLADIMIR",P000529   ,Assist (4),AS,,,AX Armani Exchange Olimpia Milan,0
-BAR       ,,,00:05,40,545,,          ,Time Out (2),TOUT,,,FC Barcelona Lassa,0
-BAR       ,,10,00:05,40,546,"JACKSON, EDWIN",P000229   ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,11,00:05,40,547,"NAVARRO, JUAN CARLOS",PADI      ,In,IN,,,FC Barcelona Lassa,0
-MIL       ,,7,00:05,40,548,"PASCOLO, DAVIDE",P006385   ,In,IN,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,77,00:05,40,549,"GUDAITIS, ARTURAS",P003120   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0
-BAR       ,,30,00:00,40,552,"CLAVER, VICTOR",P000556   ,Missed Two Pointer (2/4 -  10 pt),2FGA,,,FC Barcelona Lassa,0
-BAR       ,,45,00:00,40,553,"MOERMAN, ADRIEN",P001833   ,Off Rebound (1),O,,,FC Barcelona Lassa,0
-BAR       ,,45,00:00,40,554,"MOERMAN, ADRIEN",P001833   ,Missed Two Pointer (2/5 -  10 pt),2FGA,,,FC Barcelona Lassa,0
-          ,,,,41,557,,          ,End Game,EG,,,,0
+CODETEAM,COMMENT,DORSAL,MARKERTIME,MINUTE,NUMBEROFPLAY,PLAYER,PLAYER_ID,PLAYINFO,PLAYTYPE,POINTS_A,POINTS_B,TEAM,TYPE,home_team,home_team_code,away_team,away_team_code
+          ,,,,1,10,,          ,Begin Period,BP,,,,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,25,09:33,1,11,"THEODORE, JORDAN",P007946   ,Turnover (1),TO,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,9,09:31,1,12,"HANGA, ADAM",P005099   ,Steal (1),ST,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,9,09:27,1,13,"HANGA, ADAM",P005099   ,Two Pointer (1/1 -  2 pt),2FGM,2.0,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,5,09:24,1,14,"MICOV, VLADIMIR",P000529   ,Three Pointer (1/1 -  3 pt),3FGM,2.0,3.0,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,0,09:24,1,15,"GOUDELOCK, ANDREW",P004903   ,Assist (1),AS,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,11,08:56,2,17,"NAVARRO, JUAN CARLOS",PADI      ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,24,08:54,2,18,"M'BAYE, AMATH",P007993   ,Def Rebound (1),D,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,25,08:38,2,19,"THEODORE, JORDAN",P007946   ,Three Pointer (1/1 -  3 pt),3FGM,2.0,6.0,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,0,08:36,2,20,"GOUDELOCK, ANDREW",P004903   ,Assist (2),AS,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,44,08:18,2,21,"TOMIC, ANTE",P002507   ,Two Pointer (1/1 -  2 pt),2FGM,4.0,6.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,11,08:06,2,22,"NAVARRO, JUAN CARLOS",PADI      ,Assist (1),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,25,07:59,3,24,"THEODORE, JORDAN",P007946   ,Missed Three Pointer (1/2 -  3 pt),3FGA,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,44,07:57,3,25,"TOMIC, ANTE",P002507   ,Def Rebound (1),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,11,07:48,3,26,"NAVARRO, JUAN CARLOS",PADI      ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,,07:46,3,27,,          ,Def Rebound (1),D,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,5,07:32,3,28,"MICOV, VLADIMIR",P000529   ,Turnover (1),TO,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,44,07:30,3,29,"TOMIC, ANTE",P002507   ,Steal (1),ST,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,25,07:23,3,30,"THEODORE, JORDAN",P007946   ,Foul (1),CM,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,44,07:23,3,31,"TOMIC, ANTE",P002507   ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,45,07:11,3,32,"MOERMAN, ADRIEN",P001833   ,Three Pointer (1/1 -  3 pt),3FGM,7.0,6.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,44,07:09,3,33,"TOMIC, ANTE",P002507   ,Assist (1),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,9,06:58,4,35,"HANGA, ADAM",P005099   ,Foul (1),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,5,06:58,4,36,"MICOV, VLADIMIR",P000529   ,Foul Drawn (1),RV,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,5,06:47,4,37,"MICOV, VLADIMIR",P000529   ,Missed Three Pointer (1/2 -  3 pt),3FGA,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,,06:48,4,38,,          ,Off Rebound (1),O,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,24,06:41,4,39,"M'BAYE, AMATH",P007993   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,,06:41,4,40,,          ,Def Rebound (2),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,5,06:29,4,41,"RIBAS, PAU",PJUG      ,Three Pointer (1/1 -  3 pt),3FGM,10.0,6.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,9,06:27,4,42,"HANGA, ADAM",P005099   ,Assist (1),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,9,06:14,4,43,"HANGA, ADAM",P005099   ,Foul (2),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,15,06:14,4,44,"TARCZEWSKI, KALEB",P008004   ,Foul Drawn (1),RV,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,15,06:13,4,45,"TARCZEWSKI, KALEB",P008004   ,Missed Free Throw (0/1 -  0 pt),FTA,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,15,06:13,4,46,"TARCZEWSKI, KALEB",P008004   ,Missed Free Throw (0/2 -  0 pt),FTA,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,45,06:13,4,47,"MOERMAN, ADRIEN",P001833   ,Def Rebound (1),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,44,06:13,4,48,"TOMIC, ANTE",P002507   ,Two Pointer (2/2 -  4 pt),2FGM,12.0,6.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,11,06:13,4,49,"NAVARRO, JUAN CARLOS",PADI      ,Assist (2),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,,06:02,4,50,,          ,Time Out (1),TOUT,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,15,06:02,4,51,"TARCZEWSKI, KALEB",P008004   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,77,06:02,4,52,"GUDAITIS, ARTURAS",P003120   ,In,IN,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,0,05:43,5,54,"GOUDELOCK, ANDREW",P004903   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,9,05:41,5,55,"HANGA, ADAM",P005099   ,Def Rebound (1),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,45,05:31,5,56,"MOERMAN, ADRIEN",P001833   ,Missed Two Pointer (0/1 -  3 pt),2FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,77,05:29,5,57,"GUDAITIS, ARTURAS",P003120   ,Def Rebound (1),D,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,24,05:08,5,58,"M'BAYE, AMATH",P007993   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,77,05:09,5,59,"GUDAITIS, ARTURAS",P003120   ,Off Rebound (1),O,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,9,05:09,5,60,"HANGA, ADAM",P005099   ,Foul (3),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,77,05:09,5,61,"GUDAITIS, ARTURAS",P003120   ,Foul Drawn (1),RV,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,9,05:09,5,62,"HANGA, ADAM",P005099   ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,21,05:09,5,63,"SANDERS, RAKIM",P005001   ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,77,05:09,5,64,"GUDAITIS, ARTURAS",P003120   ,Missed Free Throw (0/1 -  0 pt),FTA,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,77,05:09,5,65,"GUDAITIS, ARTURAS",P003120   ,Missed Free Throw (0/2 -  0 pt),FTA,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,45,05:09,5,66,"MOERMAN, ADRIEN",P001833   ,Def Rebound (2),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,5,04:53,6,68,"RIBAS, PAU",PJUG      ,Two Pointer (1/1 -  5 pt),2FGM,14.0,6.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,5,04:24,6,69,"MICOV, VLADIMIR",P000529   ,Missed Three Pointer (1/3 -  3 pt),3FGA,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,25,04:20,6,70,"THEODORE, JORDAN",P007946   ,Off Rebound (1),O,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,24,04:07,6,71,"M'BAYE, AMATH",P007993   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,77,04:04,6,72,"GUDAITIS, ARTURAS",P003120   ,Off Rebound (2),O,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,21,03:57,7,74,"SANDERS, RAKIM",P005001   ,Foul (1),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,25,03:57,7,75,"THEODORE, JORDAN",P007946   ,Foul Drawn (1),RV,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,25,03:48,7,76,"THEODORE, JORDAN",P007946   ,Two Pointer (1/1 -  5 pt),2FGM,14.0,8.0,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,5,03:30,7,77,"RIBAS, PAU",PJUG      ,Two Pointer (2/2 -  7 pt),2FGM,16.0,8.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,5,03:29,7,78,"RIBAS, PAU",PJUG      ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,13,03:29,7,79,"HEURTEL, THOMAS",PKLT      ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,9,03:29,7,80,"KALNIETIS, MANTAS",PJBX      ,In,IN,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,25,03:29,7,81,"THEODORE, JORDAN",P007946   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,9,03:10,7,82,"KALNIETIS, MANTAS",PJBX      ,Turnover (1),TO,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,45,03:08,7,83,"MOERMAN, ADRIEN",P001833   ,Steal (1),ST,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,44,03:03,7,84,"TOMIC, ANTE",P002507   ,Two Pointer (3/3 -  6 pt),2FGM,18.0,8.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,13,03:01,7,85,"HEURTEL, THOMAS",PKLT      ,Assist (1),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,77,02:45,8,87,"GUDAITIS, ARTURAS",P003120   ,Two Pointer (1/1 -  2 pt),2FGM,18.0,10.0,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,44,02:45,8,88,"TOMIC, ANTE",P002507   ,Foul (1),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,77,02:45,8,89,"GUDAITIS, ARTURAS",P003120   ,Foul Drawn (2),RV,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,11,02:45,8,90,"NAVARRO, JUAN CARLOS",PADI      ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,25,02:45,8,91,"KOPONEN, PETTERI",P004178   ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,77,02:45,8,92,"GUDAITIS, ARTURAS",P003120   ,Free Throw In (1/3 -  3 pt),FTM,18.0,11.0,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,21,02:28,8,93,"SANDERS, RAKIM",P005001   ,Two Pointer (1/1 -  2 pt),2FGM,20.0,11.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,44,02:26,8,94,"TOMIC, ANTE",P002507   ,Assist (2),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,5,02:06,8,95,"MICOV, VLADIMIR",P000529   ,Two Pointer (1/1 -  5 pt),2FGM,20.0,13.0,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,44,01:48,9,97,"TOMIC, ANTE",P002507   ,Two Pointer (4/4 -  8 pt),2FGM,22.0,13.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,13,01:48,9,98,"HEURTEL, THOMAS",PKLT      ,Assist (2),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,24,01:48,9,99,"M'BAYE, AMATH",P007993   ,Foul (1),CM,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,44,01:48,9,100,"TOMIC, ANTE",P002507   ,Foul Drawn (2),RV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,30,01:48,9,101,"CLAVER, VICTOR",P000556   ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,45,01:48,9,102,"MOERMAN, ADRIEN",P001833   ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,44,01:48,9,103,"TOMIC, ANTE",P002507   ,Free Throw In (1/1 -  9 pt),FTM,23.0,13.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,18,01:48,9,104,"ORIOLA, PIERRE",P005917   ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,44,01:48,9,105,"TOMIC, ANTE",P002507   ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,9,01:35,9,106,"KALNIETIS, MANTAS",PJBX      ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,9,01:35,9,107,"KALNIETIS, MANTAS",PJBX      ,Shot Rejected (1),AG,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,21,01:32,9,108,"SANDERS, RAKIM",P005001   ,Block (1),FV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,18,01:32,9,109,"ORIOLA, PIERRE",P005917   ,Def Rebound (1),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,5,01:32,9,110,"MICOV, VLADIMIR",P000529   ,Foul (1),CM,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,13,01:32,9,111,"HEURTEL, THOMAS",PKLT      ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,13,01:32,9,112,"HEURTEL, THOMAS",PKLT      ,Turnover (1),TO,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,5,01:32,9,113,"MICOV, VLADIMIR",P000529   ,Steal (1),ST,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,0,00:59,10,115,"GOUDELOCK, ANDREW",P004903   ,Two Pointer (1/2 -  2 pt),2FGM,23.0,15.0,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,25,00:38,10,116,"KOPONEN, PETTERI",P004178   ,Two Pointer (1/1 -  2 pt),2FGM,25.0,15.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,21,00:36,10,117,"SANDERS, RAKIM",P005001   ,Assist (1),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,9,00:25,10,118,"KALNIETIS, MANTAS",PJBX      ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,,00:25,10,119,,          ,Def Rebound (3),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,25,00:03,10,120,"KOPONEN, PETTERI",P004178   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,9,00:02,10,121,"KALNIETIS, MANTAS",PJBX      ,Def Rebound (1),D,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+          ,,,,11,123,,          ,End Period,EP,,,,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+          ,,,,11,128,,          ,Begin Period,BP,,,,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,0,10:00,11,124,"GOUDELOCK, ANDREW",P004903   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,9,10:00,11,125,"KALNIETIS, MANTAS",PJBX      ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,25,10:00,11,126,"THEODORE, JORDAN",P007946   ,In,IN,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,55,10:00,11,127,"JERRELLS, CURTIS",P003067   ,In,IN,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,77,09:45,11,129,"GUDAITIS, ARTURAS",P003120   ,Foul (1),CM,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,13,09:45,11,130,"HEURTEL, THOMAS",PKLT      ,Foul Drawn (2),RV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,18,09:34,11,131,"ORIOLA, PIERRE",P005917   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,77,09:32,11,132,"GUDAITIS, ARTURAS",P003120   ,Def Rebound (2),D,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,5,09:20,11,133,"MICOV, VLADIMIR",P000529   ,Two Pointer (2/2 -  7 pt),2FGM,25.0,17.0,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,30,08:00,12,135,"CLAVER, VICTOR",P000556   ,Three Pointer (1/1 -  3 pt),3FGM,28.0,17.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,25,08:36,12,136,"THEODORE, JORDAN",P007946   ,Two Pointer (2/2 -  7 pt),2FGM,28.0,19.0,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,13,08:23,12,137,"HEURTEL, THOMAS",PKLT      ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,55,08:20,12,138,"JERRELLS, CURTIS",P003067   ,Def Rebound (1),D,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,77,08:15,12,139,"GUDAITIS, ARTURAS",P003120   ,Two Pointer (2/2 -  5 pt),2FGM,28.0,21.0,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,55,08:13,12,140,"JERRELLS, CURTIS",P003067   ,Assist (1),AS,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,24,07:56,13,142,"M'BAYE, AMATH",P007993   ,Foul (2),CM,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,30,07:56,13,143,"CLAVER, VICTOR",P000556   ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,7,07:56,13,144,"PASCOLO, DAVIDE",P006385   ,In,IN,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,24,07:56,13,145,"M'BAYE, AMATH",P007993   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,30,07:56,13,146,"CLAVER, VICTOR",P000556   ,Free Throw In (1/1 -  4 pt),FTM,29.0,21.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,30,07:56,13,147,"CLAVER, VICTOR",P000556   ,Free Throw In (2/2 -  5 pt),FTM,30.0,21.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,7,07:40,13,148,"PASCOLO, DAVIDE",P006385   ,Two Pointer (1/1 -  2 pt),2FGM,30.0,23.0,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,25,07:37,13,149,"THEODORE, JORDAN",P007946   ,Assist (1),AS,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,21,07:30,13,150,"SANDERS, RAKIM",P005001   ,Two Pointer (2/2 -  4 pt),2FGM,32.0,23.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,30,07:28,13,151,"CLAVER, VICTOR",P000556   ,Assist (1),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,77,07:21,13,152,"GUDAITIS, ARTURAS",P003120   ,Two Pointer (3/3 -  7 pt),2FGM,32.0,25.0,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,5,07:21,13,153,"MICOV, VLADIMIR",P000529   ,Assist (1),AS,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,21,07:21,13,154,"SANDERS, RAKIM",P005001   ,Foul (2),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,77,07:21,13,155,"GUDAITIS, ARTURAS",P003120   ,Foul Drawn (3),RV,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,77,07:20,13,156,"GUDAITIS, ARTURAS",P003120   ,Free Throw In (2/4 -  8 pt),FTM,32.0,26.0,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,18,07:07,13,157,"ORIOLA, PIERRE",P005917   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,7,07:03,13,158,"PASCOLO, DAVIDE",P006385   ,Def Rebound (1),D,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,13,07:01,13,159,"HEURTEL, THOMAS",PKLT      ,Foul (1),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,25,07:01,13,160,"THEODORE, JORDAN",P007946   ,Foul Drawn (2),RV,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,25,06:49,14,162,"THEODORE, JORDAN",P007946   ,Missed Two Pointer (2/3 -  7 pt),2FGA,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,7,06:46,14,163,"PASCOLO, DAVIDE",P006385   ,Off Rebound (1),O,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,7,06:46,14,164,"PASCOLO, DAVIDE",P006385   ,Two Pointer (2/2 -  4 pt),2FGM,32.0,28.0,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,,06:46,14,165,,          ,Time Out (1),TOUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,5,06:46,14,166,"MICOV, VLADIMIR",P000529   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,23,06:46,14,167,"ABASS, AWUDU",P003527   ,In,IN,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,13,06:31,14,168,"HEURTEL, THOMAS",PKLT      ,Turnover (2),TO,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,55,06:28,14,169,"JERRELLS, CURTIS",P003067   ,Steal (1),ST,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,55,06:22,14,170,"JERRELLS, CURTIS",P003067   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,21,06:19,14,171,"SANDERS, RAKIM",P005001   ,Def Rebound (1),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,21,06:13,14,172,"SANDERS, RAKIM",P005001   ,Two Pointer (3/3 -  6 pt),2FGM,34.0,28.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,77,05:49,15,174,"GUDAITIS, ARTURAS",P003120   ,Two Pointer (4/4 -  10 pt),2FGM,34.0,30.0,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,7,05:42,15,175,"PASCOLO, DAVIDE",P006385   ,Foul (1),CM,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,30,05:42,15,176,"CLAVER, VICTOR",P000556   ,Foul Drawn (2),RV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,5,05:42,15,177,"RIBAS, PAU",PJUG      ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,13,05:42,15,178,"HEURTEL, THOMAS",PKLT      ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,18,05:42,15,179,"ORIOLA, PIERRE",P005917   ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,44,05:42,15,180,"TOMIC, ANTE",P002507   ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,15,05:42,15,181,"TARCZEWSKI, KALEB",P008004   ,In,IN,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,77,05:42,15,182,"GUDAITIS, ARTURAS",P003120   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,25,05:30,15,183,"KOPONEN, PETTERI",P004178   ,Three Pointer (1/1 -  5 pt),3FGM,37.0,30.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,23,05:14,15,184,"ABASS, AWUDU",P003527   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,25,05:12,15,185,"KOPONEN, PETTERI",P004178   ,Def Rebound (1),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,25,04:54,16,187,"KOPONEN, PETTERI",P004178   ,Two Pointer (2/3 -  7 pt),2FGM,39.0,30.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,44,04:30,16,188,"TOMIC, ANTE",P002507   ,Foul (2),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,25,04:30,16,189,"THEODORE, JORDAN",P007946   ,Foul Drawn (3),RV,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,25,04:14,16,190,"THEODORE, JORDAN",P007946   ,Two Pointer (3/4 -  9 pt),2FGM,39.0,32.0,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,15,04:10,16,191,"TARCZEWSKI, KALEB",P008004   ,Assist (1),AS,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,5,03:59,17,193,"RIBAS, PAU",PJUG      ,Three Pointer (2/2 -  10 pt),3FGM,42.0,32.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,55,03:39,17,194,"JERRELLS, CURTIS",P003067   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,,03:39,17,195,,          ,Off Rebound (2),O,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,30,03:39,17,196,"CLAVER, VICTOR",P000556   ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,45,03:39,17,197,"MOERMAN, ADRIEN",P001833   ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,25,03:35,17,198,"KOPONEN, PETTERI",P004178   ,Foul (1),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,15,03:35,17,199,"TARCZEWSKI, KALEB",P008004   ,Foul Drawn (2),RV,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,10,03:35,17,200,"JACKSON, EDWIN",P000229   ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,21,03:35,17,201,"SANDERS, RAKIM",P005001   ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,0,03:35,17,202,"GOUDELOCK, ANDREW",P004903   ,In,IN,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,55,03:35,17,203,"JERRELLS, CURTIS",P003067   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,25,03:35,17,204,"THEODORE, JORDAN",P007946   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,55,03:35,17,205,"JERRELLS, CURTIS",P003067   ,In,IN,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,7,03:16,17,206,"PASCOLO, DAVIDE",P006385   ,Two Pointer (3/3 -  6 pt),2FGM,42.0,34.0,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,0,03:14,17,207,"GOUDELOCK, ANDREW",P004903   ,Assist (3),AS,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,0,03:05,17,208,"GOUDELOCK, ANDREW",P004903   ,Foul (1),CM,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,25,03:05,17,209,"KOPONEN, PETTERI",P004178   ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,25,03:02,17,210,"KOPONEN, PETTERI",P004178   ,Two Pointer (3/4 -  9 pt),2FGM,44.0,34.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,5,03:00,17,211,"RIBAS, PAU",PJUG      ,Assist (1),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,23,02:35,18,213,"ABASS, AWUDU",P003527   ,Turnover (1),TO,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,44,02:33,18,214,"TOMIC, ANTE",P002507   ,Steal (2),ST,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,45,02:29,18,215,"MOERMAN, ADRIEN",P001833   ,Two Pointer (1/2 -  5 pt),2FGM,46.0,34.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,5,02:29,18,216,"RIBAS, PAU",PJUG      ,Assist (2),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,,02:29,18,217,,          ,Time Out (1),TOUT,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,30,02:29,18,218,"CLAVER, VICTOR",P000556   ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,44,02:29,18,219,"TOMIC, ANTE",P002507   ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,23,02:29,18,220,"ABASS, AWUDU",P003527   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,45,02:29,18,221,"BERTANS, DAIRIS",P000436   ,In,IN,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,0,02:06,18,222,"GOUDELOCK, ANDREW",P004903   ,Missed Two Pointer (1/3 -  2 pt),2FGA,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,7,02:02,18,223,"PASCOLO, DAVIDE",P006385   ,Off Rebound (2),O,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,7,02:02,18,224,"PASCOLO, DAVIDE",P006385   ,Two Pointer (4/4 -  8 pt),2FGM,46.0,36.0,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,25,01:46,19,226,"KOPONEN, PETTERI",P004178   ,Missed Three Pointer (1/2 -  9 pt),3FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,7,01:44,19,227,"PASCOLO, DAVIDE",P006385   ,Def Rebound (2),D,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,7,01:27,19,228,"PASCOLO, DAVIDE",P006385   ,Missed Two Pointer (4/5 -  8 pt),2FGA,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,15,01:25,19,229,"TARCZEWSKI, KALEB",P008004   ,Off Rebound (1),O,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,45,01:20,19,230,"BERTANS, DAIRIS",P000436   ,Three Pointer (1/1 -  3 pt),3FGM,46.0,39.0,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,55,01:20,19,231,"JERRELLS, CURTIS",P003067   ,Assist (2),AS,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,,01:20,19,232,,          ,Time Out (2),TOUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,30,01:04,19,233,"CLAVER, VICTOR",P000556   ,Missed Three Pointer (1/2 -  5 pt),3FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,25,00:56,20,235,"KOPONEN, PETTERI",P004178   ,Off Rebound (1),O,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,45,00:50,20,236,"MOERMAN, ADRIEN",P001833   ,Missed Three Pointer (1/2 -  5 pt),3FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,0,00:46,20,237,"GOUDELOCK, ANDREW",P004903   ,Def Rebound (1),D,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,0,00:43,20,238,"GOUDELOCK, ANDREW",P004903   ,Missed Two Pointer (1/4 -  2 pt),2FGA,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,30,00:43,20,239,"CLAVER, VICTOR",P000556   ,Foul (1),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,15,00:43,20,240,"TARCZEWSKI, KALEB",P008004   ,Foul Drawn (3),RV,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,,00:43,20,251,,          ,Off Rebound (3),O,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,15,00:43,20,241,"TARCZEWSKI, KALEB",P008004   ,Missed Free Throw (0/3 -  0 pt),FTA,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,15,00:43,20,242,"TARCZEWSKI, KALEB",P008004   ,Free Throw In (1/4 -  1 pt),FTM,46.0,40.0,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,25,00:20,20,243,"KOPONEN, PETTERI",P004178   ,Two Pointer (4/5 -  11 pt),2FGM,48.0,40.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,10,00:02,20,244,"JACKSON, EDWIN",P000229   ,Foul (1),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,0,00:02,20,245,"GOUDELOCK, ANDREW",P004903   ,Foul Drawn (1),RV,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,0,00:02,20,246,"GOUDELOCK, ANDREW",P004903   ,Free Throw In (1/1 -  3 pt),FTM,48.0,41.0,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,0,00:02,20,247,"GOUDELOCK, ANDREW",P004903   ,Free Throw In (2/2 -  4 pt),FTM,48.0,42.0,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,45,00:02,20,248,"MOERMAN, ADRIEN",P001833   ,Missed Three Pointer (1/3 -  5 pt),3FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+          ,,,,21,250,,          ,End Period,EP,,,,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+          ,,,,21,262,,          ,Begin Period,BP,,,,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,9,10:00,21,252,"HANGA, ADAM",P005099   ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,10,10:00,21,253,"JACKSON, EDWIN",P000229   ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,11,10:00,21,254,"NAVARRO, JUAN CARLOS",PADI      ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,25,10:00,21,255,"KOPONEN, PETTERI",P004178   ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,30,10:00,21,256,"CLAVER, VICTOR",P000556   ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,44,10:00,21,257,"TOMIC, ANTE",P002507   ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,15,10:00,21,258,"TARCZEWSKI, KALEB",P008004   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,25,10:00,21,259,"THEODORE, JORDAN",P007946   ,In,IN,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,55,10:00,21,260,"JERRELLS, CURTIS",P003067   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,77,10:00,21,261,"GUDAITIS, ARTURAS",P003120   ,In,IN,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,0,09:41,21,263,"GOUDELOCK, ANDREW",P004903   ,Two Pointer (2/5 -  6 pt),2FGM,48.0,44.0,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,25,09:29,21,264,"THEODORE, JORDAN",P007946   ,Foul (2),CM,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,44,09:29,21,265,"TOMIC, ANTE",P002507   ,Foul Drawn (3),RV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,9,09:15,21,266,"HANGA, ADAM",P005099   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,9,09:12,21,267,"HANGA, ADAM",P005099   ,Off Rebound (1),O,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,45,09:07,21,268,"MOERMAN, ADRIEN",P001833   ,Three Pointer (2/4 -  8 pt),3FGM,51.0,44.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,9,09:06,21,269,"HANGA, ADAM",P005099   ,Assist (2),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,25,08:48,22,271,"THEODORE, JORDAN",P007946   ,Missed Two Pointer (3/5 -  9 pt),2FGA,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,44,08:46,22,272,"TOMIC, ANTE",P002507   ,Def Rebound (2),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,5,08:37,22,273,"RIBAS, PAU",PJUG      ,Missed Three Pointer (2/3 -  10 pt),3FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,11,08:34,22,274,"NAVARRO, JUAN CARLOS",PADI      ,Off Rebound (1),O,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,45,08:30,22,275,"MOERMAN, ADRIEN",P001833   ,Missed Three Pointer (2/5 -  8 pt),3FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,9,08:28,22,276,"HANGA, ADAM",P005099   ,Off Rebound (2),O,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,11,08:15,22,277,"NAVARRO, JUAN CARLOS",PADI      ,Three Pointer (1/2 -  3 pt),3FGM,54.0,44.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,5,08:13,22,278,"RIBAS, PAU",PJUG      ,Assist (3),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,0,07:55,23,280,"GOUDELOCK, ANDREW",P004903   ,Three Pointer (1/1 -  9 pt),3FGM,54.0,47.0,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,44,07:37,23,281,"TOMIC, ANTE",P002507   ,Missed Two Pointer (4/5 -  9 pt),2FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,77,07:35,23,282,"GUDAITIS, ARTURAS",P003120   ,Def Rebound (3),D,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,45,07:18,23,283,"BERTANS, DAIRIS",P000436   ,Missed Three Pointer (1/2 -  3 pt),3FGA,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,44,07:16,23,284,"TOMIC, ANTE",P002507   ,Def Rebound (3),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,11,07:07,23,285,"NAVARRO, JUAN CARLOS",PADI      ,Missed Two Pointer (0/2 -  3 pt),2FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,11,07:07,23,286,"NAVARRO, JUAN CARLOS",PADI      ,Shot Rejected (1),AG,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,0,07:05,23,287,"GOUDELOCK, ANDREW",P004903   ,Block (1),FV,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,77,07:00,23,288,"GUDAITIS, ARTURAS",P003120   ,Def Rebound (4),D,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,25,06:56,24,290,"THEODORE, JORDAN",P007946   ,Turnover (2),TO,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,9,06:54,24,291,"HANGA, ADAM",P005099   ,Steal (2),ST,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,11,06:50,24,292,"NAVARRO, JUAN CARLOS",PADI      ,Missed Three Pointer (1/3 -  3 pt),3FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,5,06:48,24,293,"RIBAS, PAU",PJUG      ,Foul (1),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,7,06:48,24,294,"PASCOLO, DAVIDE",P006385   ,Foul Drawn (1),RV,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,,06:48,24,317,,          ,Def Rebound (4),D,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,25,06:30,24,296,"THEODORE, JORDAN",P007946   ,Missed Two Pointer (3/6 -  9 pt),2FGA,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,0,06:24,24,298,"GOUDELOCK, ANDREW",P004903   ,Three Pointer (2/2 -  12 pt),3FGM,54.0,50.0,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,77,06:24,24,453,"GUDAITIS, ARTURAS",P003120   ,Assist (1),AS,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,77,06:11,24,299,"GUDAITIS, ARTURAS",P003120   ,Foul (2),CM,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,44,06:11,24,300,"TOMIC, ANTE",P002507   ,Foul Drawn (4),RV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,11,06:05,24,301,"NAVARRO, JUAN CARLOS",PADI      ,Two Pointer (1/3 -  5 pt),2FGM,56.0,50.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,5,06:04,24,302,"RIBAS, PAU",PJUG      ,Assist (4),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,7,05:41,25,304,"PASCOLO, DAVIDE",P006385   ,Missed Two Pointer (4/6 -  8 pt),2FGA,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,7,05:39,25,305,"PASCOLO, DAVIDE",P006385   ,Off Rebound (3),O,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,7,05:38,25,306,"PASCOLO, DAVIDE",P006385   ,Missed Two Pointer (4/7 -  8 pt),2FGA,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,77,05:38,25,390,"GUDAITIS, ARTURAS",P003120   ,Off Rebound (3),O,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,77,05:59,25,339,"GUDAITIS, ARTURAS",P003120   ,Two Pointer (5/5 -  12 pt),2FGM,56.0,52.0,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,45,05:17,25,307,"MOERMAN, ADRIEN",P001833   ,Two Pointer (2/3 -  10 pt),2FGM,58.0,52.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,9,05:00,25,308,"HANGA, ADAM",P005099   ,Foul (4),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,0,05:00,25,309,"GOUDELOCK, ANDREW",P004903   ,Foul Drawn (2),RV,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,45,04:48,26,312,"BERTANS, DAIRIS",P000436   ,Missed Three Pointer (1/3 -  3 pt),3FGA,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,44,04:45,26,313,"TOMIC, ANTE",P002507   ,Def Rebound (4),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,7,04:40,26,314,"PASCOLO, DAVIDE",P006385   ,Foul (2),CM,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,44,04:40,26,315,"TOMIC, ANTE",P002507   ,Foul Drawn (5),RV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+          ,,,04:40,26,316,,          ,TV Time Out (1),TOUT_TV,,,,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,0,04:38,26,318,"GOUDELOCK, ANDREW",P004903   ,Foul (2),CM,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,11,04:38,26,319,"NAVARRO, JUAN CARLOS",PADI      ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,11,04:30,26,320,"NAVARRO, JUAN CARLOS",PADI      ,Missed Two Pointer (1/4 -  5 pt),2FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,7,04:30,26,321,"PASCOLO, DAVIDE",P006385   ,Def Rebound (3),D,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,77,04:03,26,322,"GUDAITIS, ARTURAS",P003120   ,Two Pointer (6/6 -  14 pt),2FGM,58.0,54.0,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,7,04:01,26,323,"PASCOLO, DAVIDE",P006385   ,Assist (1),AS,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,9,03:47,27,325,"HANGA, ADAM",P005099   ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,7,03:45,27,326,"PASCOLO, DAVIDE",P006385   ,Def Rebound (4),D,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,45,03:45,27,327,"MOERMAN, ADRIEN",P001833   ,Foul (1),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,25,03:45,27,328,"THEODORE, JORDAN",P007946   ,Foul Drawn (4),RV,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,9,03:45,27,329,"HANGA, ADAM",P005099   ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,11,03:45,27,330,"NAVARRO, JUAN CARLOS",PADI      ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,13,03:45,27,331,"HEURTEL, THOMAS",PKLT      ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,25,03:45,27,332,"KOPONEN, PETTERI",P004178   ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,0,03:33,27,333,"GOUDELOCK, ANDREW",P004903   ,Two Pointer (3/6 -  14 pt),2FGM,58.0,56.0,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,25,03:17,27,334,"KOPONEN, PETTERI",P004178   ,Turnover (1),TO,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,7,03:03,27,335,"PASCOLO, DAVIDE",P006385   ,Two Pointer (5/8 -  10 pt),2FGM,58.0,58.0,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,25,03:03,27,336,"THEODORE, JORDAN",P007946   ,Assist (2),AS,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,,03:03,27,337,,          ,Time Out (1),TOUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,18,03:03,27,340,"ORIOLA, PIERRE",P005917   ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,30,03:03,27,341,"CLAVER, VICTOR",P000556   ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,44,03:03,27,342,"TOMIC, ANTE",P002507   ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,45,03:03,27,343,"MOERMAN, ADRIEN",P001833   ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,5,02:51,28,345,"RIBAS, PAU",PJUG      ,Turnover (1),TO,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,25,02:40,28,346,"THEODORE, JORDAN",P007946   ,Missed Two Pointer (3/7 -  9 pt),2FGA,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,,02:40,28,347,,          ,Def Rebound (5),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,25,02:40,28,348,"THEODORE, JORDAN",P007946   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,55,02:40,28,349,"JERRELLS, CURTIS",P003067   ,In,IN,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,18,02:29,28,350,"ORIOLA, PIERRE",P005917   ,Offensive Foul (1),OF,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,18,02:29,28,351,"ORIOLA, PIERRE",P005917   ,Turnover (1),TO,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,45,02:29,28,352,"BERTANS, DAIRIS",P000436   ,Foul Drawn (1),RV,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,5,02:29,28,353,"RIBAS, PAU",PJUG      ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,21,02:29,28,354,"SANDERS, RAKIM",P005001   ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,0,02:29,28,355,"GOUDELOCK, ANDREW",P004903   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,5,02:29,28,356,"MICOV, VLADIMIR",P000529   ,In,IN,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,0,02:12,28,357,"GOUDELOCK, ANDREW",P004903   ,In,IN,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,45,02:12,28,358,"BERTANS, DAIRIS",P000436   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,7,02:11,28,359,"PASCOLO, DAVIDE",P006385   ,Two Pointer (6/9 -  12 pt),2FGM,58.0,60.0,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,77,02:11,28,360,"GUDAITIS, ARTURAS",P003120   ,Assist (2),AS,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,30,02:11,28,361,"CLAVER, VICTOR",P000556   ,Foul (2),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,7,02:11,28,362,"PASCOLO, DAVIDE",P006385   ,Foul Drawn (2),RV,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,7,02:11,28,363,"PASCOLO, DAVIDE",P006385   ,Missed Free Throw (0/1 -  12 pt),FTA,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,18,02:11,28,364,"ORIOLA, PIERRE",P005917   ,Def Rebound (2),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,18,02:11,28,365,"ORIOLA, PIERRE",P005917   ,Missed Two Pointer (0/3 -  0 pt),2FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,30,02:11,28,366,"CLAVER, VICTOR",P000556   ,Off Rebound (1),O,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,30,02:11,28,367,"CLAVER, VICTOR",P000556   ,Two Pointer (1/1 -  7 pt),2FGM,60.0,60.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,0,02:11,28,368,"GOUDELOCK, ANDREW",P004903   ,Two Pointer (4/7 -  16 pt),2FGM,60.0,62.0,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,13,02:11,28,369,"HEURTEL, THOMAS",PKLT      ,Two Pointer (1/1 -  2 pt),2FGM,62.0,62.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,5,00:51,30,372,"MICOV, VLADIMIR",P000529   ,Missed Three Pointer (1/4 -  7 pt),3FGA,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,30,00:49,30,373,"CLAVER, VICTOR",P000556   ,Def Rebound (1),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,21,00:37,30,374,"SANDERS, RAKIM",P005001   ,Missed Two Pointer (3/4 -  6 pt),2FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,21,00:37,30,375,"SANDERS, RAKIM",P005001   ,Shot Rejected (1),AG,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,77,00:33,30,376,"GUDAITIS, ARTURAS",P003120   ,Block (1),FV,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,18,00:30,30,377,"ORIOLA, PIERRE",P005917   ,Off Rebound (1),O,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,18,00:27,30,378,"ORIOLA, PIERRE",P005917   ,Missed Two Pointer (0/4 -  0 pt),2FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,77,00:25,30,379,"GUDAITIS, ARTURAS",P003120   ,Def Rebound (5),D,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,5,00:25,30,380,"MICOV, VLADIMIR",P000529   ,Two Pointer (3/3 -  9 pt),2FGM,62.0,64.0,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,0,00:25,30,381,"GOUDELOCK, ANDREW",P004903   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,20,00:25,30,382,"CINCIARINI, ANDREA",PKIW      ,In,IN,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,25,00:10,30,383,"KOPONEN, PETTERI",P004178   ,Missed Three Pointer (1/3 -  11 pt),3FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,5,00:08,30,384,"MICOV, VLADIMIR",P000529   ,Def Rebound (1),D,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,55,00:01,30,385,"JERRELLS, CURTIS",P003067   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,21,00:00,30,386,"SANDERS, RAKIM",P005001   ,Def Rebound (2),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,21,00:00,30,387,"SANDERS, RAKIM",P005001   ,Missed Three Pointer (0/1 -  6 pt),3FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+          ,,,,31,389,,          ,End Period,EP,,,,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+          ,,,,31,395,,          ,Begin Period,BP,,,,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,15,10:00,31,391,"TARCZEWSKI, KALEB",P008004   ,In,IN,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,20,10:00,31,392,"CINCIARINI, ANDREA",PKIW      ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,25,10:00,31,393,"THEODORE, JORDAN",P007946   ,In,IN,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,77,10:00,31,394,"GUDAITIS, ARTURAS",P003120   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,13,09:39,31,396,"HEURTEL, THOMAS",PKLT      ,Missed Three Pointer (0/2 -  2 pt),3FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,21,09:36,31,397,"SANDERS, RAKIM",P005001   ,Off Rebound (1),O,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,21,09:34,31,398,"SANDERS, RAKIM",P005001   ,Turnover (1),TO,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,55,09:33,31,399,"JERRELLS, CURTIS",P003067   ,Steal (2),ST,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,55,09:33,31,400,"JERRELLS, CURTIS",P003067   ,Two Pointer (1/3 -  2 pt),2FGM,62.0,66.0,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,30,09:15,31,401,"CLAVER, VICTOR",P000556   ,Two Pointer (2/2 -  9 pt),2FGM,64.0,66.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,7,09:15,31,402,"PASCOLO, DAVIDE",P006385   ,Foul (3),CM,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,30,09:15,31,403,"CLAVER, VICTOR",P000556   ,Foul Drawn (3),RV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,30,09:15,31,404,"CLAVER, VICTOR",P000556   ,Free Throw In (3/3 -  10 pt),FTM,65.0,66.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,15,09:03,31,405,"TARCZEWSKI, KALEB",P008004   ,Offensive Foul (1),OF,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,15,09:03,31,406,"TARCZEWSKI, KALEB",P008004   ,Turnover (1),TO,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,21,09:03,31,407,"SANDERS, RAKIM",P005001   ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,25,08:47,32,409,"KOPONEN, PETTERI",P004178   ,Turnover (2),TO,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,7,08:45,32,410,"PASCOLO, DAVIDE",P006385   ,Steal (1),ST,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,7,08:29,32,411,"PASCOLO, DAVIDE",P006385   ,Missed Three Pointer (0/1 -  12 pt),3FGA,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,21,08:26,32,412,"SANDERS, RAKIM",P005001   ,Def Rebound (3),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,5,08:16,32,413,"MICOV, VLADIMIR",P000529   ,Foul (2),CM,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,18,08:16,32,414,"ORIOLA, PIERRE",P005917   ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,18,08:16,32,415,"ORIOLA, PIERRE",P005917   ,Free Throw In (1/1 -  1 pt),FTM,66.0,66.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,13,08:16,32,416,"HEURTEL, THOMAS",PKLT      ,Assist (3),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,18,08:16,32,417,"ORIOLA, PIERRE",P005917   ,Free Throw In (2/2 -  2 pt),FTM,67.0,66.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,55,07:54,33,419,"JERRELLS, CURTIS",P003067   ,Missed Three Pointer (0/2 -  2 pt),3FGA,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,30,07:50,33,420,"CLAVER, VICTOR",P000556   ,Def Rebound (2),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,25,07:40,33,421,"THEODORE, JORDAN",P007946   ,Foul (3),CM,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,13,07:40,33,422,"HEURTEL, THOMAS",PKLT      ,Foul Drawn (3),RV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,,07:40,33,423,,          ,Time Out (1),TOUT,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,0,07:40,33,424,"GOUDELOCK, ANDREW",P004903   ,In,IN,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,7,07:40,33,425,"PASCOLO, DAVIDE",P006385   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,24,07:40,33,426,"M'BAYE, AMATH",P007993   ,In,IN,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,55,07:40,33,427,"JERRELLS, CURTIS",P003067   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,15,07:29,33,428,"TARCZEWSKI, KALEB",P008004   ,Foul (2),CM,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,13,07:29,33,429,"HEURTEL, THOMAS",PKLT      ,Foul Drawn (4),RV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,13,07:29,33,430,"HEURTEL, THOMAS",PKLT      ,Free Throw In (1/1 -  3 pt),FTM,68.0,66.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,13,07:29,33,431,"HEURTEL, THOMAS",PKLT      ,Missed Free Throw (1/2 -  3 pt),FTA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,,07:29,33,432,,          ,Def Rebound (6),D,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,15,07:11,33,433,"TARCZEWSKI, KALEB",P008004   ,Two Pointer (1/1 -  3 pt),2FGM,68.0,68.0,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,5,07:06,33,434,"MICOV, VLADIMIR",P000529   ,Assist (2),AS,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,13,06:55,34,436,"HEURTEL, THOMAS",PKLT      ,Turnover (3),TO,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,25,06:55,34,437,"THEODORE, JORDAN",P007946   ,Steal (1),ST,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,25,06:55,34,438,"THEODORE, JORDAN",P007946   ,Turnover (3),TO,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,21,06:38,34,439,"SANDERS, RAKIM",P005001   ,Missed Two Pointer (3/5 -  6 pt),2FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,21,06:38,34,440,"SANDERS, RAKIM",P005001   ,Shot Rejected (2),AG,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,15,06:38,34,441,"TARCZEWSKI, KALEB",P008004   ,Block (1),FV,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,,06:38,34,442,,          ,Off Rebound (4),O,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,30,06:36,34,443,"CLAVER, VICTOR",P000556   ,Missed Two Pointer (2/3 -  10 pt),2FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,15,06:34,34,444,"TARCZEWSKI, KALEB",P008004   ,Def Rebound (1),D,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,25,06:20,34,445,"KOPONEN, PETTERI",P004178   ,Foul (2),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,5,06:20,34,446,"MICOV, VLADIMIR",P000529   ,Foul Drawn (2),RV,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,21,06:16,34,447,"SANDERS, RAKIM",P005001   ,Foul (3),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,0,06:16,34,448,"GOUDELOCK, ANDREW",P004903   ,Foul Drawn (3),RV,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,0,06:16,34,449,"GOUDELOCK, ANDREW",P004903   ,Free Throw In (3/3 -  17 pt),FTM,68.0,69.0,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,0,06:16,34,450,"GOUDELOCK, ANDREW",P004903   ,Free Throw In (4/4 -  18 pt),FTM,68.0,70.0,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,13,06:00,34,451,"HEURTEL, THOMAS",PKLT      ,Two Pointer (2/2 -  5 pt),2FGM,70.0,70.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,15,05:00,35,454,"TARCZEWSKI, KALEB",P008004   ,Two Pointer (2/2 -  5 pt),2FGM,70.0,72.0,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,5,05:00,35,477,"MICOV, VLADIMIR",P000529   ,Assist (3),AS,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,18,05:21,35,455,"ORIOLA, PIERRE",P005917   ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,44,05:21,35,456,"TOMIC, ANTE",P002507   ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,13,05:16,35,457,"HEURTEL, THOMAS",PKLT      ,Two Pointer (3/3 -  7 pt),2FGM,72.0,72.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,25,05:14,35,458,"KOPONEN, PETTERI",P004178   ,Assist (1),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,13,04:54,36,460,"HEURTEL, THOMAS",PKLT      ,Foul (2),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,5,04:54,36,461,"MICOV, VLADIMIR",P000529   ,Foul Drawn (3),RV,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,44,04:41,36,462,"TOMIC, ANTE",P002507   ,Foul (3),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,24,04:41,36,463,"M'BAYE, AMATH",P007993   ,Foul Drawn (1),RV,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,24,04:41,36,464,"M'BAYE, AMATH",P007993   ,Free Throw In (1/1 -  1 pt),FTM,72.0,73.0,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,24,04:41,36,465,"M'BAYE, AMATH",P007993   ,Free Throw In (2/2 -  2 pt),FTM,72.0,74.0,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,25,04:41,36,466,"KOPONEN, PETTERI",P004178   ,Missed Two Pointer (4/6 -  11 pt),2FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,25,04:41,36,467,"KOPONEN, PETTERI",P004178   ,Shot Rejected (1),AG,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,15,04:41,36,468,"TARCZEWSKI, KALEB",P008004   ,Block (2),FV,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,24,04:41,36,469,"M'BAYE, AMATH",P007993   ,Def Rebound (2),D,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,25,04:03,36,470,"THEODORE, JORDAN",P007946   ,Missed Three Pointer (1/3 -  9 pt),3FGA,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,,04:04,36,471,,          ,Def Rebound (7),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,9,04:04,36,472,"HANGA, ADAM",P005099   ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,21,04:04,36,473,"SANDERS, RAKIM",P005001   ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,30,04:04,36,474,"CLAVER, VICTOR",P000556   ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,45,04:04,36,475,"MOERMAN, ADRIEN",P001833   ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,,04:04,36,476,,          ,Time Out (1),TOUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,7,03:41,37,479,"PASCOLO, DAVIDE",P006385   ,In,IN,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,24,03:41,37,480,"M'BAYE, AMATH",P007993   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,45,03:38,37,481,"MOERMAN, ADRIEN",P001833   ,Missed Two Pointer (2/4 -  10 pt),2FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,44,03:35,37,482,"TOMIC, ANTE",P002507   ,Off Rebound (1),O,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,15,03:31,37,483,"TARCZEWSKI, KALEB",P008004   ,Foul (3),CM,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,44,03:31,37,484,"TOMIC, ANTE",P002507   ,Foul Drawn (6),RV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,11,03:31,37,485,"NAVARRO, JUAN CARLOS",PADI      ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,25,03:31,37,486,"KOPONEN, PETTERI",P004178   ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,15,03:31,37,487,"TARCZEWSKI, KALEB",P008004   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,77,03:31,37,488,"GUDAITIS, ARTURAS",P003120   ,In,IN,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,44,03:31,37,489,"TOMIC, ANTE",P002507   ,Missed Free Throw (1/2 -  9 pt),FTA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,44,03:31,37,490,"TOMIC, ANTE",P002507   ,Free Throw In (2/3 -  10 pt),FTM,73.0,74.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,5,03:08,37,491,"MICOV, VLADIMIR",P000529   ,Two Pointer (4/4 -  11 pt),2FGM,73.0,76.0,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,25,03:06,37,492,"THEODORE, JORDAN",P007946   ,Assist (3),AS,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,45,03:00,38,494,"MOERMAN, ADRIEN",P001833   ,Missed Three Pointer (2/6 -  10 pt),3FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,77,02:56,38,495,"GUDAITIS, ARTURAS",P003120   ,Def Rebound (6),D,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,0,02:39,38,496,"GOUDELOCK, ANDREW",P004903   ,Two Pointer (5/8 -  20 pt),2FGM,73.0,78.0,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,0,02:24,38,497,"GOUDELOCK, ANDREW",P004903   ,Foul (3),CM,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,11,02:24,38,498,"NAVARRO, JUAN CARLOS",PADI      ,Foul Drawn (2),RV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,5,02:24,38,499,"RIBAS, PAU",PJUG      ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,13,02:24,38,500,"HEURTEL, THOMAS",PKLT      ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,11,02:24,38,501,"NAVARRO, JUAN CARLOS",PADI      ,Free Throw In (1/1 -  6 pt),FTM,74.0,78.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,11,02:24,38,502,"NAVARRO, JUAN CARLOS",PADI      ,Free Throw In (2/2 -  7 pt),FTM,75.0,78.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,5,02:07,38,503,"MICOV, VLADIMIR",P000529   ,Missed Two Pointer (4/5 -  11 pt),2FGA,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,45,02:05,38,504,"MOERMAN, ADRIEN",P001833   ,Def Rebound (3),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,44,01:55,39,506,"TOMIC, ANTE",P002507   ,Missed Two Pointer (4/6 -  10 pt),2FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,7,01:53,39,507,"PASCOLO, DAVIDE",P006385   ,Def Rebound (5),D,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,11,01:52,39,508,"NAVARRO, JUAN CARLOS",PADI      ,Foul (1),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,25,01:52,39,509,"THEODORE, JORDAN",P007946   ,Foul Drawn (5),RV,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,25,01:52,39,510,"THEODORE, JORDAN",P007946   ,Free Throw In (1/1 -  10 pt),FTM,75.0,79.0,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,25,01:52,39,511,"THEODORE, JORDAN",P007946   ,Missed Free Throw (1/2 -  10 pt),FTA,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,45,01:52,39,512,"MOERMAN, ADRIEN",P001833   ,Def Rebound (4),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,44,01:42,39,513,"TOMIC, ANTE",P002507   ,Offensive Foul (4),OF,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,44,01:42,39,514,"TOMIC, ANTE",P002507   ,Turnover (1),TO,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,0,01:42,39,515,"GOUDELOCK, ANDREW",P004903   ,Foul Drawn (4),RV,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,25,01:23,39,516,"THEODORE, JORDAN",P007946   ,Turnover (4),TO,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,9,01:12,39,517,"HANGA, ADAM",P005099   ,Missed Three Pointer (0/2 -  2 pt),3FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,,01:12,39,536,,          ,Off Rebound (5),O,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,77,01:11,39,519,"GUDAITIS, ARTURAS",P003120   ,Foul (3),CM,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,44,01:11,39,520,"TOMIC, ANTE",P002507   ,Foul Drawn (7),RV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,44,01:11,39,521,"TOMIC, ANTE",P002507   ,Free Throw In (3/4 -  11 pt),FTM,76.0,79.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,44,01:11,39,522,"TOMIC, ANTE",P002507   ,Free Throw In (4/5 -  12 pt),FTM,77.0,79.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,0,00:49,40,524,"GOUDELOCK, ANDREW",P004903   ,Missed Two Pointer (5/9 -  20 pt),2FGA,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,44,00:46,40,525,"TOMIC, ANTE",P002507   ,Def Rebound (5),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,9,00:44,40,526,"HANGA, ADAM",P005099   ,Two Pointer (2/3 -  4 pt),2FGM,79.0,79.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,5,00:44,40,527,"RIBAS, PAU",PJUG      ,Assist (5),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,77,00:27,40,528,"GUDAITIS, ARTURAS",P003120   ,Two Pointer (7/7 -  16 pt),2FGM,79.0,81.0,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,25,00:27,40,529,"THEODORE, JORDAN",P007946   ,Assist (4),AS,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,25,00:08,40,530,"THEODORE, JORDAN",P007946   ,Foul (4),CM,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,44,00:08,40,531,"TOMIC, ANTE",P002507   ,Foul Drawn (8),RV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,44,00:08,40,532,"TOMIC, ANTE",P002507   ,Free Throw In (5/6 -  13 pt),FTM,80.0,81.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,44,00:08,40,533,"TOMIC, ANTE",P002507   ,Free Throw In (6/7 -  14 pt),FTM,81.0,81.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,,00:08,40,534,,          ,Time Out (2),TOUT,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,10,00:08,40,537,"JACKSON, EDWIN",P000229   ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,11,00:08,40,538,"NAVARRO, JUAN CARLOS",PADI      ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,30,00:08,40,539,"CLAVER, VICTOR",P000556   ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,44,00:08,40,540,"TOMIC, ANTE",P002507   ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,7,00:08,40,541,"PASCOLO, DAVIDE",P006385   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,45,00:08,40,542,"BERTANS, DAIRIS",P000436   ,In,IN,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,45,00:05,40,543,"BERTANS, DAIRIS",P000436   ,Two Pointer (1/1 -  5 pt),2FGM,81.0,83.0,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,5,00:05,40,544,"MICOV, VLADIMIR",P000529   ,Assist (4),AS,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,,00:05,40,545,,          ,Time Out (2),TOUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,10,00:05,40,546,"JACKSON, EDWIN",P000229   ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,11,00:05,40,547,"NAVARRO, JUAN CARLOS",PADI      ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,7,00:05,40,548,"PASCOLO, DAVIDE",P006385   ,In,IN,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,77,00:05,40,549,"GUDAITIS, ARTURAS",P003120   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,30,00:00,40,552,"CLAVER, VICTOR",P000556   ,Missed Two Pointer (2/4 -  10 pt),2FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,45,00:00,40,553,"MOERMAN, ADRIEN",P001833   ,Off Rebound (1),O,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+BAR       ,,45,00:00,40,554,"MOERMAN, ADRIEN",P001833   ,Missed Two Pointer (2/5 -  10 pt),2FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL
+          ,,,,41,557,,          ,End Game,EG,,,,0,FC Barcelona Lassa,BAR,AX Armani Exchange Olimpia Milan,MIL

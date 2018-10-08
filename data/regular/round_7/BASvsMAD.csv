@@ -1,508 +1,508 @@
-CODETEAM,COMMENT,DORSAL,MARKERTIME,MINUTE,NUMBEROFPLAY,PLAYER,PLAYER_ID,PLAYINFO,PLAYTYPE,POINTS_A,POINTS_B,TEAM,TYPE
-          ,,,,1,16,,          ,Begin Period,BP,,,,0
-BAS       ,,6,09:34,1,17,"TIMMA, JANIS",P005718   ,Three Pointer (1/1 -  3 pt),3FGM,3.0,,Baskonia Vitoria Gasteiz,0
-BAS       ,,11,09:32,1,18,"JANNING, MATT",P004165   ,Assist (1),AS,,,Baskonia Vitoria Gasteiz,0
-MAD       ,,9,09:17,1,19,"REYES, FELIPE",PAAX      ,Two Pointer (1/1 -  2 pt),2FGM,3.0,2.0,Real Madrid,0
-MAD       ,,11,09:14,1,20,"CAMPAZZO, FACUNDO",P005928   ,Assist (1),AS,,,Real Madrid,0
-BAS       ,,8,09:02,1,21,"MALMANIS, RINALDS",P004185   ,Two Pointer (1/1 -  2 pt),2FGM,5.0,2.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,17,09:00,1,22,"POIRIER, VINCENT",P004887   ,Assist (1),AS,,,Baskonia Vitoria Gasteiz,0
-MAD       ,,3,08:43,2,24,"RANDOLPH, ANTHONY",P005757   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Real Madrid,0
-BAS       ,,17,08:40,2,25,"POIRIER, VINCENT",P004887   ,Def Rebound (1),D,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,15,08:28,2,26,"GRANGER, JAYSON",P003024   ,Three Pointer (1/1 -  3 pt),3FGM,8.0,2.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,6,08:26,2,27,"TIMMA, JANIS",P005718   ,Assist (1),AS,,,Baskonia Vitoria Gasteiz,0
-MAD       ,,11,08:11,2,28,"CAMPAZZO, FACUNDO",P005928   ,Foul Drawn (1),RV,,,Real Madrid,0
-BAS       ,,15,08:11,2,29,"GRANGER, JAYSON",P003024   ,Foul (1),CM,,,Baskonia Vitoria Gasteiz,0
-MAD       ,,44,08:09,2,30,"TAYLOR, JEFFERY",P006546   ,Two Pointer (1/1 -  2 pt),2FGM,8.0,4.0,Real Madrid,0
-MAD       ,,44,08:09,2,31,"TAYLOR, JEFFERY",P006546   ,Foul Drawn (1),RV,,,Real Madrid,0
-BAS       ,,6,08:09,2,32,"TIMMA, JANIS",P005718   ,Foul (1),CM,,,Baskonia Vitoria Gasteiz,0
-MAD       ,,44,08:09,2,33,"TAYLOR, JEFFERY",P006546   ,Free Throw In (1/1 -  3 pt),FTM,8.0,5.0,Real Madrid,0
-BAS       ,,15,08:02,2,34,"GRANGER, JAYSON",P003024   ,Foul Drawn (1),RV,,,Baskonia Vitoria Gasteiz,0
-MAD       ,,44,08:02,2,35,"TAYLOR, JEFFERY",P006546   ,Foul (1),CM,,,Real Madrid,0
-BAS       ,,15,07:53,3,37,"GRANGER, JAYSON",P003024   ,Missed Three Pointer (1/2 -  3 pt),3FGA,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,17,07:50,3,38,"POIRIER, VINCENT",P004887   ,Off Rebound (1),O,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,17,07:50,3,39,"POIRIER, VINCENT",P004887   ,Two Pointer (1/1 -  2 pt),2FGM,10.0,5.0,Baskonia Vitoria Gasteiz,0
-MAD       ,,1,07:30,3,40,"CAUSEUR, FABIEN",P001392   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Real Madrid,0
-BAS       ,,17,07:27,3,41,"POIRIER, VINCENT",P004887   ,Def Rebound (2),D,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,6,07:23,3,42,"TIMMA, JANIS",P005718   ,Three Pointer (2/2 -  6 pt),3FGM,13.0,5.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,11,07:21,3,43,"JANNING, MATT",P004165   ,Assist (2),AS,,,Baskonia Vitoria Gasteiz,0
-MAD       ,,3,07:07,3,44,"RANDOLPH, ANTHONY",P005757   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Real Madrid,0
-BAS       ,,17,07:07,3,45,"POIRIER, VINCENT",P004887   ,Def Rebound (3),D,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,17,07:07,3,46,"POIRIER, VINCENT",P004887   ,Two Pointer (2/2 -  4 pt),2FGM,15.0,5.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,8,07:07,3,47,"MALMANIS, RINALDS",P004185   ,Assist (1),AS,,,Baskonia Vitoria Gasteiz,0
-MAD       ,,,06:50,4,49,,          ,Time Out (1),TOUT,,,Real Madrid,0
-MAD       ,,3,06:41,4,50,"RANDOLPH, ANTHONY",P005757   ,Foul Drawn (1),RV,,,Real Madrid,0
-BAS       ,,15,06:41,4,51,"GRANGER, JAYSON",P003024   ,Foul (2),CM,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,9,06:41,4,52,"HUERTAS, MARCELINHO",PJUJ      ,In,IN,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,15,06:41,4,53,"GRANGER, JAYSON",P003024   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0
-MAD       ,,11,06:33,4,54,"CAMPAZZO, FACUNDO",P005928   ,Turnover (1),TO,,,Real Madrid,0
-BAS       ,,9,06:31,4,55,"HUERTAS, MARCELINHO",PJUJ      ,Steal (1),ST,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,17,06:17,4,56,"POIRIER, VINCENT",P004887   ,Foul Drawn (1),RV,,,Baskonia Vitoria Gasteiz,0
-MAD       ,,9,06:17,4,57,"REYES, FELIPE",PAAX      ,Foul (1),CM,,,Real Madrid,0
-MAD       ,,5,06:17,4,58,"FERNANDEZ, RUDY",PBMT      ,In,IN,,,Real Madrid,0
-MAD       ,,44,06:17,4,59,"TAYLOR, JEFFERY",P006546   ,Out,OUT,,,Real Madrid,0
-BAS       ,,11,06:10,4,60,"JANNING, MATT",P004165   ,Two Pointer (1/1 -  2 pt),2FGM,17.0,5.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,11,05:51,5,62,"JANNING, MATT",P004165   ,Foul Drawn (1),RV,,,Baskonia Vitoria Gasteiz,0
-MAD       ,,3,05:51,5,63,"RANDOLPH, ANTHONY",P005757   ,Offensive Foul (1),OF,,,Real Madrid,0
-MAD       ,,3,05:51,5,64,"RANDOLPH, ANTHONY",P005757   ,Turnover (1),TO,,,Real Madrid,0
-MAD       ,,3,05:51,5,65,"RANDOLPH, ANTHONY",P005757   ,Out,OUT,,,Real Madrid,0
-MAD       ,,33,05:51,5,66,"THOMPKINS, TREY",P005836   ,In,IN,,,Real Madrid,0
-BAS       ,,9,05:34,5,67,"HUERTAS, MARCELINHO",PJUJ      ,Two Pointer (1/1 -  2 pt),2FGM,19.0,5.0,Baskonia Vitoria Gasteiz,0
-MAD       ,,5,05:21,5,68,"FERNANDEZ, RUDY",PBMT      ,Turnover (1),TO,,,Real Madrid,0
-BAS       ,,11,05:11,5,69,"JANNING, MATT",P004165   ,Foul Drawn (2),RV,,,Baskonia Vitoria Gasteiz,0
-MAD       ,,1,05:11,5,70,"CAUSEUR, FABIEN",P001392   ,Foul (1),CM,,,Real Madrid,0
-MAD       ,,1,05:11,5,71,"CAUSEUR, FABIEN",P001392   ,Out,OUT,,,Real Madrid,0
-MAD       ,,7,05:11,5,72,"DONCIC, LUKA",P005929   ,In,IN,,,Real Madrid,0
-BAS       ,,11,05:11,5,73,"JANNING, MATT",P004165   ,Free Throw In (1/1 -  3 pt),FTM,20.0,5.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,9,05:11,5,74,"HUERTAS, MARCELINHO",PJUJ      ,Assist (1),AS,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,11,05:11,5,75,"JANNING, MATT",P004165   ,Free Throw In (2/2 -  4 pt),FTM,21.0,5.0,Baskonia Vitoria Gasteiz,0
-MAD       ,,33,04:52,6,77,"THOMPKINS, TREY",P005836   ,Turnover (1),TO,,,Real Madrid,0
-BAS       ,,9,04:44,6,78,"HUERTAS, MARCELINHO",PJUJ      ,Foul Drawn (1),RV,,,Baskonia Vitoria Gasteiz,0
-MAD       ,,11,04:44,6,79,"CAMPAZZO, FACUNDO",P005928   ,Foul (1),CM,,,Real Madrid,0
-BAS       ,,9,04:44,6,80,"HUERTAS, MARCELINHO",PJUJ      ,Free Throw In (1/1 -  3 pt),FTM,22.0,5.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,9,04:44,6,81,"HUERTAS, MARCELINHO",PJUJ      ,Free Throw In (2/2 -  4 pt),FTM,23.0,5.0,Baskonia Vitoria Gasteiz,0
-MAD       ,,11,04:35,6,82,"CAMPAZZO, FACUNDO",P005928   ,Out,OUT,,,Real Madrid,0
-MAD       ,,20,04:35,6,83,"CARROLL, JAYCEE",P001960   ,In,IN,,,Real Madrid,0
-BAS       ,,10,04:35,6,84,"BEAUBOIS, RODRIGUE",P006590   ,In,IN,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,11,04:35,6,85,"JANNING, MATT",P004165   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0
-MAD       ,,7,04:25,6,86,"DONCIC, LUKA",P005929   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Real Madrid,0
-BAS       ,,8,04:23,6,87,"MALMANIS, RINALDS",P004185   ,Def Rebound (1),D,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,10,04:15,6,88,"BEAUBOIS, RODRIGUE",P006590   ,Two Pointer (1/1 -  2 pt),2FGM,25.0,5.0,Baskonia Vitoria Gasteiz,0
-MAD       ,,9,04:03,6,89,"REYES, FELIPE",PAAX      ,Foul Drawn (1),RV,,,Real Madrid,0
-BAS       ,,10,04:03,6,90,"BEAUBOIS, RODRIGUE",P006590   ,Foul (1),CM,,,Baskonia Vitoria Gasteiz,0
-MAD       ,,33,03:54,7,92,"THOMPKINS, TREY",P005836   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Real Madrid,0
-MAD       ,,33,03:51,7,93,"THOMPKINS, TREY",P005836   ,Off Rebound (1),O,,,Real Madrid,0
-MAD       ,,5,03:47,7,94,"FERNANDEZ, RUDY",PBMT      ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Real Madrid,0
-MAD       ,,9,03:44,7,95,"REYES, FELIPE",PAAX      ,Off Rebound (1),O,,,Real Madrid,0
-MAD       ,,9,03:43,7,96,"REYES, FELIPE",PAAX      ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,Real Madrid,0
-BAS       ,,6,03:39,7,97,"TIMMA, JANIS",P005718   ,Def Rebound (1),D,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,9,03:31,7,98,"HUERTAS, MARCELINHO",PJUJ      ,Two Pointer (2/2 -  6 pt),2FGM,27.0,5.0,Baskonia Vitoria Gasteiz,0
-MAD       ,,7,03:09,7,99,"DONCIC, LUKA",P005929   ,Foul Drawn (1),RV,,,Real Madrid,0
-BAS       ,,9,03:09,7,100,"HUERTAS, MARCELINHO",PJUJ      ,Foul (1),CM,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,7,03:09,7,101,"VOIGTMANN, JOHANNES",P007201   ,In,IN,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,8,03:09,7,102,"MALMANIS, RINALDS",P004185   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,17,03:09,7,103,"POIRIER, VINCENT",P004887   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,23,03:09,7,104,"SHENGELIA, TORNIKE",P001133   ,In,IN,,,Baskonia Vitoria Gasteiz,0
-MAD       ,,3,03:09,7,105,"RANDOLPH, ANTHONY",P005757   ,In,IN,,,Real Madrid,0
-MAD       ,,9,03:09,7,106,"REYES, FELIPE",PAAX      ,Out,OUT,,,Real Madrid,0
-MAD       ,,7,03:09,7,107,"DONCIC, LUKA",P005929   ,Free Throw In (1/1 -  1 pt),FTM,27.0,6.0,Real Madrid,0
-MAD       ,,7,03:09,7,108,"DONCIC, LUKA",P005929   ,Free Throw In (2/2 -  2 pt),FTM,27.0,7.0,Real Madrid,0
-BAS       ,,10,02:51,8,110,"BEAUBOIS, RODRIGUE",P006590   ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,Baskonia Vitoria Gasteiz,0
-MAD       ,,5,02:48,8,111,"FERNANDEZ, RUDY",PBMT      ,Def Rebound (1),D,,,Real Madrid,0
-MAD       ,,7,02:35,8,112,"DONCIC, LUKA",P005929   ,Three Pointer (1/2 -  5 pt),3FGM,27.0,10.0,Real Madrid,0
-MAD       ,,3,02:33,8,113,"RANDOLPH, ANTHONY",P005757   ,Assist (1),AS,,,Real Madrid,0
-BAS       ,,23,02:10,8,114,"SHENGELIA, TORNIKE",P001133   ,Two Pointer (1/1 -  2 pt),2FGM,29.0,10.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,9,02:08,8,115,"HUERTAS, MARCELINHO",PJUJ      ,Assist (2),AS,,,Baskonia Vitoria Gasteiz,0
-MAD       ,,7,01:53,9,117,"DONCIC, LUKA",P005929   ,Missed Three Pointer (1/3 -  5 pt),3FGA,,,Real Madrid,0
-BAS       ,,10,01:51,9,118,"BEAUBOIS, RODRIGUE",P006590   ,Def Rebound (1),D,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,10,01:44,9,119,"BEAUBOIS, RODRIGUE",P006590   ,Missed Three Pointer (0/2 -  2 pt),3FGA,,,Baskonia Vitoria Gasteiz,0
-MAD       ,,7,01:42,9,120,"DONCIC, LUKA",P005929   ,Def Rebound (1),D,,,Real Madrid,0
-MAD       ,,20,01:34,9,121,"CARROLL, JAYCEE",P001960   ,Three Pointer (1/1 -  3 pt),3FGM,29.0,13.0,Real Madrid,0
-MAD       ,,3,01:31,9,122,"RANDOLPH, ANTHONY",P005757   ,Assist (2),AS,,,Real Madrid,0
-BAS       ,,9,01:26,9,123,"HUERTAS, MARCELINHO",PJUJ      ,Foul Drawn (2),RV,,,Baskonia Vitoria Gasteiz,0
-MAD       ,,5,01:26,9,124,"FERNANDEZ, RUDY",PBMT      ,Foul (1),CM,,,Real Madrid,0
-BAS       ,,6,01:26,9,125,"TIMMA, JANIS",P005718   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,52,01:26,9,126,"MCRAE, JORDAN",P007996   ,In,IN,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,9,01:26,9,127,"HUERTAS, MARCELINHO",PJUJ      ,Free Throw In (3/3 -  7 pt),FTM,30.0,13.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,9,01:26,9,128,"HUERTAS, MARCELINHO",PJUJ      ,Free Throw In (4/4 -  8 pt),FTM,31.0,13.0,Baskonia Vitoria Gasteiz,0
-MAD       ,,7,01:12,9,129,"DONCIC, LUKA",P005929   ,Two Pointer (1/1 -  7 pt),2FGM,31.0,15.0,Real Madrid,0
-MAD       ,,3,01:10,9,130,"RANDOLPH, ANTHONY",P005757   ,Assist (3),AS,,,Real Madrid,0
-BAS       ,,9,01:07,9,131,"HUERTAS, MARCELINHO",PJUJ      ,Turnover (1),TO,,,Baskonia Vitoria Gasteiz,0
-MAD       ,,3,01:07,9,132,"RANDOLPH, ANTHONY",P005757   ,Two Pointer (1/3 -  2 pt),2FGM,31.0,17.0,Real Madrid,0
-BAS       ,,23,00:41,10,134,"SHENGELIA, TORNIKE",P001133   ,Foul Drawn (1),RV,,,Baskonia Vitoria Gasteiz,0
-MAD       ,,33,00:41,10,135,"THOMPKINS, TREY",P005836   ,Foul (1),CM,,,Real Madrid,0
-BAS       ,,23,00:41,10,136,"SHENGELIA, TORNIKE",P001133   ,Free Throw In (1/1 -  3 pt),FTM,32.0,17.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,23,00:41,10,137,"SHENGELIA, TORNIKE",P001133   ,Free Throw In (2/2 -  4 pt),FTM,33.0,17.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,23,00:29,10,138,"SHENGELIA, TORNIKE",P001133   ,Foul Drawn (2),RV,,,Baskonia Vitoria Gasteiz,0
-MAD       ,,3,00:29,10,139,"RANDOLPH, ANTHONY",P005757   ,Offensive Foul (2),OF,,,Real Madrid,0
-MAD       ,,3,00:29,10,140,"RANDOLPH, ANTHONY",P005757   ,Turnover (2),TO,,,Real Madrid,0
-BAS       ,,10,00:06,10,141,"BEAUBOIS, RODRIGUE",P006590   ,Three Pointer (1/3 -  5 pt),3FGM,36.0,17.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,9,00:04,10,142,"HUERTAS, MARCELINHO",PJUJ      ,Assist (3),AS,,,Baskonia Vitoria Gasteiz,0
-MAD       ,,7,00:01,10,143,"DONCIC, LUKA",P005929   ,Missed Three Pointer (1/4 -  7 pt),3FGA,,,Real Madrid,0
-          ,,,,11,145,,          ,End Period,EP,,,,0
-          ,,,,11,146,,          ,Begin Period,BP,,,,0
-MAD       ,,7,09:59,11,147,"DONCIC, LUKA",P005929   ,Two Pointer (2/2 -  9 pt),2FGM,36.0,19.0,Real Madrid,0
-BAS       ,,10,09:45,11,148,"BEAUBOIS, RODRIGUE",P006590   ,Three Pointer (2/4 -  8 pt),3FGM,39.0,19.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,9,09:45,11,149,"HUERTAS, MARCELINHO",PJUJ      ,Assist (4),AS,,,Baskonia Vitoria Gasteiz,0
-MAD       ,,3,09:20,11,150,"RANDOLPH, ANTHONY",P005757   ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,Real Madrid,0
-BAS       ,,23,09:20,11,151,"SHENGELIA, TORNIKE",P001133   ,Def Rebound (1),D,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,23,09:14,11,152,"SHENGELIA, TORNIKE",P001133   ,Foul Drawn (3),RV,,,Baskonia Vitoria Gasteiz,0
-MAD       ,,20,09:14,11,153,"CARROLL, JAYCEE",P001960   ,Foul (1),CM,,,Real Madrid,0
-BAS       ,,23,09:04,11,154,"SHENGELIA, TORNIKE",P001133   ,Missed Three Pointer (0/1 -  4 pt),3FGA,,,Baskonia Vitoria Gasteiz,0
-MAD       ,,7,09:04,11,155,"DONCIC, LUKA",P005929   ,Def Rebound (2),D,,,Real Madrid,0
-MAD       ,,5,08:41,12,157,"FERNANDEZ, RUDY",PBMT      ,Three Pointer (1/2 -  3 pt),3FGM,39.0,22.0,Real Madrid,0
-BAS       ,,10,08:25,12,158,"BEAUBOIS, RODRIGUE",P006590   ,Two Pointer (2/2 -  10 pt),2FGM,41.0,22.0,Baskonia Vitoria Gasteiz,0
-MAD       ,,7,08:17,12,159,"DONCIC, LUKA",P005929   ,Foul Drawn (2),RV,,,Real Madrid,0
-BAS       ,,7,08:17,12,160,"VOIGTMANN, JOHANNES",P007201   ,Foul (1),CM,,,Baskonia Vitoria Gasteiz,0
-MAD       ,,3,08:17,12,161,"RANDOLPH, ANTHONY",P005757   ,Out,OUT,,,Real Madrid,0
-MAD       ,,44,08:17,12,162,"TAYLOR, JEFFERY",P006546   ,In,IN,,,Real Madrid,0
-MAD       ,,33,08:09,12,163,"THOMPKINS, TREY",P005836   ,Two Pointer (1/2 -  2 pt),2FGM,41.0,24.0,Real Madrid,0
-MAD       ,,7,08:07,12,164,"DONCIC, LUKA",P005929   ,Assist (1),AS,,,Real Madrid,0
-BAS       ,,23,07:43,13,166,"SHENGELIA, TORNIKE",P001133   ,Missed Two Pointer (1/2 -  4 pt),2FGA,,,Baskonia Vitoria Gasteiz,0
-MAD       ,,33,07:41,13,167,"THOMPKINS, TREY",P005836   ,Def Rebound (1),D,,,Real Madrid,0
-MAD       ,,5,07:37,13,168,"FERNANDEZ, RUDY",PBMT      ,Three Pointer (2/3 -  6 pt),3FGM,41.0,27.0,Real Madrid,0
-MAD       ,,7,07:37,13,169,"DONCIC, LUKA",P005929   ,Assist (2),AS,,,Real Madrid,0
-BAS       ,,,07:37,13,170,,          ,Time Out (1),TOUT,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,9,07:37,13,171,"HUERTAS, MARCELINHO",PJUJ      ,Out,OUT,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,15,07:37,13,172,"GRANGER, JAYSON",P003024   ,In,IN,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,23,07:25,13,173,"SHENGELIA, TORNIKE",P001133   ,Missed Two Pointer (1/3 -  4 pt),2FGA,,,Baskonia Vitoria Gasteiz,0
-MAD       ,,33,07:23,13,174,"THOMPKINS, TREY",P005836   ,Def Rebound (2),D,,,Real Madrid,0
-MAD       ,,5,07:14,13,175,"FERNANDEZ, RUDY",PBMT      ,Foul Drawn (1),RV,,,Real Madrid,0
-BAS       ,,10,07:14,13,176,"BEAUBOIS, RODRIGUE",P006590   ,Foul (2),CM,,,Baskonia Vitoria Gasteiz,0
-MAD       ,,20,07:01,13,177,"CARROLL, JAYCEE",P001960   ,Missed Three Pointer (1/2 -  3 pt),3FGA,,,Real Madrid,0
-BAS       ,,10,06:58,14,179,"BEAUBOIS, RODRIGUE",P006590   ,Def Rebound (2),D,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,7,06:44,14,180,"VOIGTMANN, JOHANNES",P007201   ,Turnover (1),TO,,,Baskonia Vitoria Gasteiz,0
-MAD       ,,5,06:43,14,181,"FERNANDEZ, RUDY",PBMT      ,Steal (1),ST,,,Real Madrid,0
-BAS       ,,10,06:39,14,182,"BEAUBOIS, RODRIGUE",P006590   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,11,06:39,14,183,"JANNING, MATT",P004165   ,In,IN,,,Baskonia Vitoria Gasteiz,0
-MAD       ,,7,06:32,14,184,"DONCIC, LUKA",P005929   ,Shot Rejected (1),AG,,,Real Madrid,0
-MAD       ,,7,06:32,14,517,"DONCIC, LUKA",P005929   ,Missed Two Pointer (2/3 -  9 pt),2FGA,,,Real Madrid,0
-BAS       ,,52,06:32,14,197,"MCRAE, JORDAN",P007996   ,Block (1),FV,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,23,06:30,14,185,"SHENGELIA, TORNIKE",P001133   ,Def Rebound (2),D,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,23,06:26,14,186,"SHENGELIA, TORNIKE",P001133   ,Two Pointer (2/4 -  6 pt),2FGM,43.0,27.0,Baskonia Vitoria Gasteiz,0
-MAD       ,,33,06:14,14,187,"THOMPKINS, TREY",P005836   ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,Real Madrid,0
-BAS       ,,,06:08,14,188,,          ,Def Rebound (1),D,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,15,05:56,15,190,"GRANGER, JAYSON",P003024   ,Two Pointer (1/1 -  5 pt),2FGM,45.0,27.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,15,05:41,15,191,"GRANGER, JAYSON",P003024   ,Foul Drawn (2),RV,,,Baskonia Vitoria Gasteiz,0
-MAD       ,,33,05:41,15,192,"THOMPKINS, TREY",P005836   ,Offensive Foul (2),OF,,,Real Madrid,0
-MAD       ,,33,05:41,15,193,"THOMPKINS, TREY",P005836   ,Turnover (2),TO,,,Real Madrid,0
-BAS       ,,52,05:28,15,194,"MCRAE, JORDAN",P007996   ,Three Pointer (1/1 -  3 pt),3FGM,48.0,27.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,15,05:27,15,195,"GRANGER, JAYSON",P003024   ,Assist (1),AS,,,Baskonia Vitoria Gasteiz,0
-MAD       ,,,05:27,15,196,,          ,Time Out (1),TOUT,,,Real Madrid,0
-BAS       ,,7,05:27,15,198,"VOIGTMANN, JOHANNES",P007201   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,17,05:27,15,199,"POIRIER, VINCENT",P004887   ,In,IN,,,Baskonia Vitoria Gasteiz,0
-MAD       ,,11,05:27,15,200,"CAMPAZZO, FACUNDO",P005928   ,In,IN,,,Real Madrid,0
-MAD       ,,20,05:27,15,201,"CARROLL, JAYCEE",P001960   ,Out,OUT,,,Real Madrid,0
-MAD       ,,5,05:17,15,202,"FERNANDEZ, RUDY",PBMT      ,Three Pointer (3/4 -  9 pt),3FGM,48.0,30.0,Real Madrid,0
-MAD       ,,33,05:15,15,203,"THOMPKINS, TREY",P005836   ,Assist (1),AS,,,Real Madrid,0
-BAS       ,,15,04:54,16,205,"GRANGER, JAYSON",P003024   ,Three Pointer (2/3 -  8 pt),3FGM,51.0,30.0,Baskonia Vitoria Gasteiz,0
-MAD       ,,7,04:33,16,206,"DONCIC, LUKA",P005929   ,Three Pointer (2/5 -  12 pt),3FGM,51.0,33.0,Real Madrid,0
-MAD       ,,22,04:19,16,207,"TAVARES, WALTER",P005791   ,In,IN,,,Real Madrid,0
-MAD       ,,33,04:19,16,208,"THOMPKINS, TREY",P005836   ,Out,OUT,,,Real Madrid,0
-BAS       ,,11,04:14,16,209,"JANNING, MATT",P004165   ,Three Pointer (1/1 -  7 pt),3FGM,54.0,33.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,23,04:13,16,210,"SHENGELIA, TORNIKE",P001133   ,Assist (1),AS,,,Baskonia Vitoria Gasteiz,0
-MAD       ,,7,03:46,17,212,"DONCIC, LUKA",P005929   ,Missed Three Pointer (2/6 -  12 pt),3FGA,,,Real Madrid,0
-MAD       ,,,03:46,17,213,,          ,Turnover (1),TO,,,Real Madrid,0
-BAS       ,,8,03:46,17,214,"MALMANIS, RINALDS",P004185   ,In,IN,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,23,03:46,17,215,"SHENGELIA, TORNIKE",P001133   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,11,03:35,17,216,"JANNING, MATT",P004165   ,Three Pointer (2/2 -  10 pt),3FGM,57.0,33.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,15,03:32,17,217,"GRANGER, JAYSON",P003024   ,Assist (2),AS,,,Baskonia Vitoria Gasteiz,0
-MAD       ,,11,03:22,17,218,"CAMPAZZO, FACUNDO",P005928   ,Three Pointer (1/1 -  3 pt),3FGM,57.0,36.0,Real Madrid,0
-MAD       ,,7,03:19,17,219,"DONCIC, LUKA",P005929   ,Assist (3),AS,,,Real Madrid,0
-BAS       ,,15,03:06,17,220,"GRANGER, JAYSON",P003024   ,Missed Two Pointer (1/2 -  8 pt),2FGA,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,17,03:04,17,221,"POIRIER, VINCENT",P004887   ,Off Rebound (2),O,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,17,03:04,17,222,"POIRIER, VINCENT",P004887   ,Two Pointer (3/3 -  6 pt),2FGM,59.0,36.0,Baskonia Vitoria Gasteiz,0
-MAD       ,,11,02:56,18,224,"CAMPAZZO, FACUNDO",P005928   ,Foul Drawn (2),RV,,,Real Madrid,0
-BAS       ,,17,02:56,18,225,"POIRIER, VINCENT",P004887   ,Foul (1),CM,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,6,02:56,18,226,"TIMMA, JANIS",P005718   ,In,IN,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,52,02:56,18,227,"MCRAE, JORDAN",P007996   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0
-MAD       ,,1,02:56,18,228,"CAUSEUR, FABIEN",P001392   ,In,IN,,,Real Madrid,0
-MAD       ,,5,02:56,18,229,"FERNANDEZ, RUDY",PBMT      ,Out,OUT,,,Real Madrid,0
-MAD       ,,44,02:53,18,230,"TAYLOR, JEFFERY",P006546   ,Missed Three Pointer (0/1 -  3 pt),3FGA,,,Real Madrid,0
-BAS       ,,6,02:53,18,231,"TIMMA, JANIS",P005718   ,Def Rebound (2),D,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,15,02:53,18,232,"GRANGER, JAYSON",P003024   ,Missed Three Pointer (2/4 -  8 pt),3FGA,,,Baskonia Vitoria Gasteiz,0
-MAD       ,,1,02:53,18,233,"CAUSEUR, FABIEN",P001392   ,Def Rebound (1),D,,,Real Madrid,0
-MAD       ,,22,02:29,18,234,"TAVARES, WALTER",P005791   ,Two Pointer (1/1 -  2 pt),2FGM,59.0,38.0,Real Madrid,0
-MAD       ,,1,02:27,18,235,"CAUSEUR, FABIEN",P001392   ,Assist (1),AS,,,Real Madrid,0
-BAS       ,,11,02:23,18,236,"JANNING, MATT",P004165   ,Missed Three Pointer (2/3 -  10 pt),3FGA,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,8,02:23,18,237,"MALMANIS, RINALDS",P004185   ,Off Rebound (1),O,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,8,02:23,18,238,"MALMANIS, RINALDS",P004185   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,17,02:23,18,239,"POIRIER, VINCENT",P004887   ,Off Rebound (3),O,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,17,02:23,18,240,"POIRIER, VINCENT",P004887   ,Two Pointer (4/4 -  8 pt),2FGM,61.0,38.0,Baskonia Vitoria Gasteiz,0
-MAD       ,,44,01:41,19,242,"TAYLOR, JEFFERY",P006546   ,Missed Three Pointer (0/2 -  3 pt),3FGA,,,Real Madrid,0
-BAS       ,,15,01:38,19,243,"GRANGER, JAYSON",P003024   ,Def Rebound (1),D,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,15,01:38,19,244,"GRANGER, JAYSON",P003024   ,Foul Drawn (3),RV,,,Baskonia Vitoria Gasteiz,0
-MAD       ,,11,01:38,19,245,"CAMPAZZO, FACUNDO",P005928   ,Foul (2),CM,,,Real Madrid,0
-BAS       ,,9,01:38,19,246,"HUERTAS, MARCELINHO",PJUJ      ,In,IN,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,15,01:38,19,247,"GRANGER, JAYSON",P003024   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0
-MAD       ,,11,01:38,19,248,"CAMPAZZO, FACUNDO",P005928   ,Technical Foul (3),CMT,,,Real Madrid,0
-BAS       ,,11,01:38,19,249,"JANNING, MATT",P004165   ,Free Throw In (3/3 -  11 pt),FTM,62.0,38.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,9,01:33,19,250,"HUERTAS, MARCELINHO",PJUJ      ,Turnover (2),TO,,,Baskonia Vitoria Gasteiz,0
-MAD       ,,11,01:33,19,251,"CAMPAZZO, FACUNDO",P005928   ,Steal (1),ST,,,Real Madrid,0
-MAD       ,,7,01:33,19,252,"DONCIC, LUKA",P005929   ,Foul Drawn (3),RV,,,Real Madrid,0
-BAS       ,,6,01:33,19,253,"TIMMA, JANIS",P005718   ,Unsportsmanlike Foul  (2),CMU,,,Baskonia Vitoria Gasteiz,0
-MAD       ,,8,01:24,19,254,"MACIULIS, JONAS",PJCC      ,In,IN,,,Real Madrid,0
-MAD       ,,11,01:24,19,255,"CAMPAZZO, FACUNDO",P005928   ,Out,OUT,,,Real Madrid,0
-MAD       ,,7,01:24,19,256,"DONCIC, LUKA",P005929   ,Free Throw In (3/3 -  13 pt),FTM,62.0,39.0,Real Madrid,0
-MAD       ,,22,01:24,19,257,"TAVARES, WALTER",P005791   ,Assist (1),AS,,,Real Madrid,0
-MAD       ,,7,01:24,19,258,"DONCIC, LUKA",P005929   ,Free Throw In (4/4 -  14 pt),FTM,62.0,40.0,Real Madrid,0
-MAD       ,,8,01:18,19,259,"MACIULIS, JONAS",PJCC      ,Foul Drawn (1),RV,,,Real Madrid,0
-BAS       ,,8,01:18,19,260,"MALMANIS, RINALDS",P004185   ,Foul (1),CM,,,Baskonia Vitoria Gasteiz,0
-MAD       ,,8,01:18,19,261,"MACIULIS, JONAS",PJCC      ,Free Throw In (1/1 -  1 pt),FTM,62.0,41.0,Real Madrid,0
-MAD       ,,8,01:18,19,262,"MACIULIS, JONAS",PJCC      ,Free Throw In (2/2 -  2 pt),FTM,62.0,42.0,Real Madrid,0
-BAS       ,,6,00:57,20,264,"TIMMA, JANIS",P005718   ,Missed Three Pointer (2/3 -  6 pt),3FGA,,,Baskonia Vitoria Gasteiz,0
-MAD       ,,,00:57,20,265,,          ,Def Rebound (2),D,,,Real Madrid,0
-MAD       ,,22,00:36,20,266,"TAVARES, WALTER",P005791   ,Two Pointer (2/2 -  4 pt),2FGM,62.0,44.0,Real Madrid,0
-MAD       ,,7,00:36,20,267,"DONCIC, LUKA",P005929   ,Assist (4),AS,,,Real Madrid,0
-MAD       ,,22,00:36,20,268,"TAVARES, WALTER",P005791   ,Foul Drawn (1),RV,,,Real Madrid,0
-BAS       ,,17,00:36,20,269,"POIRIER, VINCENT",P004887   ,Foul (2),CM,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,7,00:36,20,270,"VOIGTMANN, JOHANNES",P007201   ,In,IN,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,17,00:36,20,271,"POIRIER, VINCENT",P004887   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0
-MAD       ,,22,00:36,20,272,"TAVARES, WALTER",P005791   ,Missed Free Throw (0/1 -  4 pt),FTA,,,Real Madrid,0
-BAS       ,,6,00:36,20,273,"TIMMA, JANIS",P005718   ,Def Rebound (3),D,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,,00:21,20,274,,          ,Time Out (2),TOUT,,,Baskonia Vitoria Gasteiz,0
-MAD       ,,9,00:21,20,275,"REYES, FELIPE",PAAX      ,In,IN,,,Real Madrid,0
-MAD       ,,22,00:21,20,276,"TAVARES, WALTER",P005791   ,Out,OUT,,,Real Madrid,0
-BAS       ,,9,00:15,20,277,"HUERTAS, MARCELINHO",PJUJ      ,Missed Three Pointer (0/1 -  8 pt),3FGA,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,9,00:13,20,278,"HUERTAS, MARCELINHO",PJUJ      ,Off Rebound (1),O,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,9,00:01,20,279,"HUERTAS, MARCELINHO",PJUJ      ,Two Pointer (3/3 -  10 pt),2FGM,64.0,44.0,Baskonia Vitoria Gasteiz,0
-          ,,,,21,281,,          ,End Period,EP,,,,0
-          ,,,,21,290,,          ,Begin Period,BP,,,,0
-BAS       ,,7,10:00,21,282,"VOIGTMANN, JOHANNES",P007201   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,9,10:00,21,283,"HUERTAS, MARCELINHO",PJUJ      ,Out,OUT,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,15,10:00,21,284,"GRANGER, JAYSON",P003024   ,In,IN,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,17,10:00,21,285,"POIRIER, VINCENT",P004887   ,In,IN,,,Baskonia Vitoria Gasteiz,0
-MAD       ,,3,10:00,21,286,"RANDOLPH, ANTHONY",P005757   ,In,IN,,,Real Madrid,0
-MAD       ,,7,10:00,21,287,"DONCIC, LUKA",P005929   ,Out,OUT,,,Real Madrid,0
-MAD       ,,8,10:00,21,288,"MACIULIS, JONAS",PJCC      ,Out,OUT,,,Real Madrid,0
-MAD       ,,11,10:00,21,289,"CAMPAZZO, FACUNDO",P005928   ,In,IN,,,Real Madrid,0
-BAS       ,,11,09:46,21,291,"JANNING, MATT",P004165   ,Missed Two Pointer (1/2 -  11 pt),2FGA,,,Baskonia Vitoria Gasteiz,0
-MAD       ,,9,09:43,21,292,"REYES, FELIPE",PAAX      ,Def Rebound (1),D,,,Real Madrid,0
-MAD       ,,3,09:34,21,293,"RANDOLPH, ANTHONY",P005757   ,Missed Two Pointer (1/4 -  2 pt),2FGA,,,Real Madrid,0
-MAD       ,,3,09:32,21,294,"RANDOLPH, ANTHONY",P005757   ,Off Rebound (1),O,,,Real Madrid,0
-MAD       ,,1,09:28,21,295,"CAUSEUR, FABIEN",P001392   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Real Madrid,0
-MAD       ,,3,09:27,21,296,"RANDOLPH, ANTHONY",P005757   ,Off Rebound (2),O,,,Real Madrid,0
-MAD       ,,3,09:22,21,297,"RANDOLPH, ANTHONY",P005757   ,Two Pointer (2/5 -  4 pt),2FGM,64.0,46.0,Real Madrid,0
-BAS       ,,8,08:55,22,299,"MALMANIS, RINALDS",P004185   ,Turnover (1),TO,,,Baskonia Vitoria Gasteiz,0
-MAD       ,,3,08:42,22,300,"RANDOLPH, ANTHONY",P005757   ,Missed Two Pointer (2/6 -  4 pt),2FGA,,,Real Madrid,0
-MAD       ,,44,08:40,22,301,"TAYLOR, JEFFERY",P006546   ,Off Rebound (1),O,,,Real Madrid,0
-MAD       ,,44,08:38,22,302,"TAYLOR, JEFFERY",P006546   ,Missed Two Pointer (1/2 -  3 pt),2FGA,,,Real Madrid,0
-BAS       ,,17,08:37,22,303,"POIRIER, VINCENT",P004887   ,Def Rebound (4),D,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,8,08:34,22,304,"MALMANIS, RINALDS",P004185   ,Two Pointer (2/3 -  4 pt),2FGM,66.0,46.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,15,08:32,22,305,"GRANGER, JAYSON",P003024   ,Assist (3),AS,,,Baskonia Vitoria Gasteiz,0
-MAD       ,,11,08:18,22,306,"CAMPAZZO, FACUNDO",P005928   ,Missed Two Pointer (0/1 -  3 pt),2FGA,,,Real Madrid,0
-MAD       ,,44,08:16,22,307,"TAYLOR, JEFFERY",P006546   ,Off Rebound (2),O,,,Real Madrid,0
-MAD       ,,9,08:10,22,308,"REYES, FELIPE",PAAX      ,Turnover (1),TO,,,Real Madrid,0
-BAS       ,,15,07:54,23,310,"GRANGER, JAYSON",P003024   ,Missed Two Pointer (1/3 -  8 pt),2FGA,,,Baskonia Vitoria Gasteiz,0
-MAD       ,,11,07:53,23,311,"CAMPAZZO, FACUNDO",P005928   ,Def Rebound (1),D,,,Real Madrid,0
-MAD       ,,44,07:53,23,312,"TAYLOR, JEFFERY",P006546   ,Three Pointer (1/3 -  6 pt),3FGM,66.0,49.0,Real Madrid,0
-MAD       ,,3,07:53,23,313,"RANDOLPH, ANTHONY",P005757   ,Assist (4),AS,,,Real Madrid,0
-BAS       ,,15,07:21,23,314,"GRANGER, JAYSON",P003024   ,Missed Two Pointer (1/4 -  8 pt),2FGA,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,15,07:21,23,315,"GRANGER, JAYSON",P003024   ,Shot Rejected (1),AG,,,Baskonia Vitoria Gasteiz,0
-MAD       ,,9,07:21,23,316,"REYES, FELIPE",PAAX      ,Block (1),FV,,,Real Madrid,0
-BAS       ,,,07:21,23,317,,          ,Off Rebound (1),O,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,11,07:16,23,318,"JANNING, MATT",P004165   ,Foul Drawn (3),RV,,,Baskonia Vitoria Gasteiz,0
-MAD       ,,1,07:16,23,319,"CAUSEUR, FABIEN",P001392   ,Foul (2),CM,,,Real Madrid,0
-MAD       ,,3,07:16,23,320,"RANDOLPH, ANTHONY",P005757   ,Out,OUT,,,Real Madrid,0
-MAD       ,,8,07:16,23,321,"MACIULIS, JONAS",PJCC      ,In,IN,,,Real Madrid,0
-BAS       ,,6,07:08,23,322,"TIMMA, JANIS",P005718   ,Foul Drawn (1),RV,,,Baskonia Vitoria Gasteiz,0
-MAD       ,,44,07:08,23,324,"TAYLOR, JEFFERY",P006546   ,Unsportsmanlike Foul  (2),CMU,,,Real Madrid,0
-BAS       ,,6,07:08,23,325,"TIMMA, JANIS",P005718   ,Free Throw In (1/1 -  7 pt),FTM,67.0,49.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,6,07:08,23,326,"TIMMA, JANIS",P005718   ,Free Throw In (2/2 -  8 pt),FTM,68.0,49.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,11,06:52,24,328,"JANNING, MATT",P004165   ,Missed Two Pointer (1/3 -  11 pt),2FGA,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,,06:50,24,329,,          ,Off Rebound (2),O,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,15,06:47,24,330,"GRANGER, JAYSON",P003024   ,Foul Drawn (4),RV,,,Baskonia Vitoria Gasteiz,0
-MAD       ,,11,06:47,24,331,"CAMPAZZO, FACUNDO",P005928   ,Foul (4),CM,,,Real Madrid,0
-MAD       ,,7,06:47,24,332,"DONCIC, LUKA",P005929   ,In,IN,,,Real Madrid,0
-MAD       ,,11,06:47,24,333,"CAMPAZZO, FACUNDO",P005928   ,Out,OUT,,,Real Madrid,0
-BAS       ,,8,06:44,24,334,"MALMANIS, RINALDS",P004185   ,Two Pointer (3/4 -  6 pt),2FGM,70.0,49.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,15,06:41,24,335,"GRANGER, JAYSON",P003024   ,Assist (4),AS,,,Baskonia Vitoria Gasteiz,0
-MAD       ,,9,06:25,24,336,"REYES, FELIPE",PAAX      ,Foul Drawn (2),RV,,,Real Madrid,0
-BAS       ,,17,06:25,24,337,"POIRIER, VINCENT",P004887   ,Foul (3),CM,,,Baskonia Vitoria Gasteiz,0
-MAD       ,,9,06:25,24,338,"REYES, FELIPE",PAAX      ,Free Throw In (1/1 -  3 pt),FTM,70.0,50.0,Real Madrid,0
-MAD       ,,9,06:25,24,339,"REYES, FELIPE",PAAX      ,Missed Free Throw (1/2 -  3 pt),FTA,,,Real Madrid,0
-BAS       ,,17,06:25,24,340,"POIRIER, VINCENT",P004887   ,Def Rebound (5),D,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,15,06:03,24,341,"GRANGER, JAYSON",P003024   ,Foul Drawn (5),RV,,,Baskonia Vitoria Gasteiz,0
-MAD       ,,9,06:03,24,342,"REYES, FELIPE",PAAX      ,Foul (2),CM,,,Real Madrid,0
-BAS       ,,12,06:03,24,343,"DIOP, ILIMANE",P003540   ,In,IN,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,17,06:03,24,344,"POIRIER, VINCENT",P004887   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0
-MAD       ,,9,06:03,24,345,"REYES, FELIPE",PAAX      ,Out,OUT,,,Real Madrid,0
-MAD       ,,22,06:03,24,346,"TAVARES, WALTER",P005791   ,In,IN,,,Real Madrid,0
-BAS       ,,15,06:03,24,347,"GRANGER, JAYSON",P003024   ,Missed Free Throw (0/1 -  8 pt),FTA,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,15,06:03,24,348,"GRANGER, JAYSON",P003024   ,Missed Free Throw (0/2 -  8 pt),FTA,,,Baskonia Vitoria Gasteiz,0
-MAD       ,,22,06:03,24,349,"TAVARES, WALTER",P005791   ,Def Rebound (1),D,,,Real Madrid,0
-MAD       ,,1,05:55,25,351,"CAUSEUR, FABIEN",P001392   ,Two Pointer (1/3 -  2 pt),2FGM,70.0,52.0,Real Madrid,0
-MAD       ,,1,05:55,25,352,"CAUSEUR, FABIEN",P001392   ,Foul Drawn (1),RV,,,Real Madrid,0
-BAS       ,,8,05:55,25,353,"MALMANIS, RINALDS",P004185   ,Foul (2),CM,,,Baskonia Vitoria Gasteiz,0
-MAD       ,,1,05:51,25,354,"CAUSEUR, FABIEN",P001392   ,Free Throw In (1/1 -  3 pt),FTM,70.0,53.0,Real Madrid,0
-BAS       ,,12,05:39,25,355,"DIOP, ILIMANE",P003540   ,Foul Drawn (1),RV,,,Baskonia Vitoria Gasteiz,0
-MAD       ,,22,05:39,25,356,"TAVARES, WALTER",P005791   ,Foul (1),CM,,,Real Madrid,0
-BAS       ,,10,05:39,25,357,"BEAUBOIS, RODRIGUE",P006590   ,In,IN,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,11,05:39,25,358,"JANNING, MATT",P004165   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,12,05:39,25,359,"DIOP, ILIMANE",P003540   ,Free Throw In (1/1 -  1 pt),FTM,71.0,53.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,12,05:39,25,360,"DIOP, ILIMANE",P003540   ,Free Throw In (2/2 -  2 pt),FTM,72.0,53.0,Baskonia Vitoria Gasteiz,0
-MAD       ,,8,05:28,25,361,"MACIULIS, JONAS",PJCC      ,Foul Drawn (2),RV,,,Real Madrid,0
-BAS       ,,8,05:28,25,362,"MALMANIS, RINALDS",P004185   ,Foul (3),CM,,,Baskonia Vitoria Gasteiz,0
-MAD       ,,7,05:17,25,363,"DONCIC, LUKA",P005929   ,Missed Three Pointer (2/7 -  14 pt),3FGA,,,Real Madrid,0
-BAS       ,,,05:16,25,364,,          ,Def Rebound (3),D,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,8,05:16,25,365,"MALMANIS, RINALDS",P004185   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,23,05:16,25,366,"SHENGELIA, TORNIKE",P001133   ,In,IN,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,10,05:01,25,367,"BEAUBOIS, RODRIGUE",P006590   ,Missed Three Pointer (2/5 -  10 pt),3FGA,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,6,04:56,26,369,"TIMMA, JANIS",P005718   ,Off Rebound (1),O,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,10,04:47,26,370,"BEAUBOIS, RODRIGUE",P006590   ,Two Pointer (3/3 -  12 pt),2FGM,74.0,53.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,15,04:47,26,371,"GRANGER, JAYSON",P003024   ,Foul Drawn (6),RV,,,Baskonia Vitoria Gasteiz,0
-MAD       ,,1,04:47,26,372,"CAUSEUR, FABIEN",P001392   ,Foul (3),CM,,,Real Madrid,0
-          ,,,04:47,26,373,,          ,TV Time Out (1),TOUT_TV,,,,0
-BAS       ,,15,04:47,26,374,"GRANGER, JAYSON",P003024   ,Free Throw In (1/3 -  9 pt),FTM,75.0,53.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,15,04:47,26,375,"GRANGER, JAYSON",P003024   ,Free Throw In (2/4 -  10 pt),FTM,76.0,53.0,Baskonia Vitoria Gasteiz,0
-MAD       ,,7,04:35,26,376,"DONCIC, LUKA",P005929   ,Foul Drawn (4),RV,,,Real Madrid,0
-BAS       ,,12,04:35,26,377,"DIOP, ILIMANE",P003540   ,Foul (1),CM,,,Baskonia Vitoria Gasteiz,0
-MAD       ,,7,04:35,26,378,"DONCIC, LUKA",P005929   ,Free Throw In (5/5 -  15 pt),FTM,76.0,54.0,Real Madrid,0
-MAD       ,,7,04:35,26,379,"DONCIC, LUKA",P005929   ,Free Throw In (6/6 -  16 pt),FTM,76.0,55.0,Real Madrid,0
-BAS       ,,23,04:20,26,380,"SHENGELIA, TORNIKE",P001133   ,Missed Three Pointer (0/2 -  6 pt),3FGA,,,Baskonia Vitoria Gasteiz,0
-MAD       ,,44,04:17,26,381,"TAYLOR, JEFFERY",P006546   ,Def Rebound (1),D,,,Real Madrid,0
-MAD       ,,8,04:03,26,382,"MACIULIS, JONAS",PJCC      ,Foul Drawn (3),RV,,,Real Madrid,0
-BAS       ,,12,04:03,26,383,"DIOP, ILIMANE",P003540   ,Foul (2),CM,,,Baskonia Vitoria Gasteiz,0
-MAD       ,,8,04:03,26,384,"MACIULIS, JONAS",PJCC      ,Free Throw In (3/3 -  3 pt),FTM,76.0,56.0,Real Madrid,0
-MAD       ,,8,04:03,26,385,"MACIULIS, JONAS",PJCC      ,Free Throw In (4/4 -  4 pt),FTM,76.0,57.0,Real Madrid,0
-BAS       ,,23,03:38,27,387,"SHENGELIA, TORNIKE",P001133   ,Missed Two Pointer (2/5 -  6 pt),2FGA,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,6,03:36,27,388,"TIMMA, JANIS",P005718   ,Off Rebound (2),O,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,6,03:35,27,389,"TIMMA, JANIS",P005718   ,Two Pointer (1/1 -  10 pt),2FGM,78.0,57.0,Baskonia Vitoria Gasteiz,0
-MAD       ,,8,03:16,27,390,"MACIULIS, JONAS",PJCC      ,Missed Three Pointer (0/1 -  4 pt),3FGA,,,Real Madrid,0
-BAS       ,,12,03:13,27,391,"DIOP, ILIMANE",P003540   ,Def Rebound (1),D,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,12,03:13,27,392,"DIOP, ILIMANE",P003540   ,Foul Drawn (2),RV,,,Baskonia Vitoria Gasteiz,0
-MAD       ,,7,03:13,27,393,"DONCIC, LUKA",P005929   ,Foul (1),CM,,,Real Madrid,0
-BAS       ,,9,03:13,27,394,"HUERTAS, MARCELINHO",PJUJ      ,In,IN,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,15,03:13,27,395,"GRANGER, JAYSON",P003024   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,12,03:13,27,396,"DIOP, ILIMANE",P003540   ,Free Throw In (3/3 -  3 pt),FTM,79.0,57.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,12,03:13,27,397,"DIOP, ILIMANE",P003540   ,Free Throw In (4/4 -  4 pt),FTM,80.0,57.0,Baskonia Vitoria Gasteiz,0
-MAD       ,,7,03:03,27,398,"DONCIC, LUKA",P005929   ,Turnover (1),TO,,,Real Madrid,0
-BAS       ,,23,03:01,27,399,"SHENGELIA, TORNIKE",P001133   ,Steal (1),ST,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,10,02:45,28,401,"BEAUBOIS, RODRIGUE",P006590   ,Three Pointer (3/6 -  15 pt),3FGM,83.0,57.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,9,02:43,28,402,"HUERTAS, MARCELINHO",PJUJ      ,Assist (5),AS,,,Baskonia Vitoria Gasteiz,0
-MAD       ,,44,02:37,28,403,"TAYLOR, JEFFERY",P006546   ,Shot Rejected (1),AG,,,Real Madrid,0
-MAD       ,,22,02:37,28,516,"TAVARES, WALTER",P005791   ,Missed Two Pointer (2/3 -  4 pt),2FGA,,,Real Madrid,0
-BAS       ,,12,02:37,28,440,"DIOP, ILIMANE",P003540   ,Block (1),FV,,,Baskonia Vitoria Gasteiz,0
-MAD       ,,22,02:37,28,404,"TAVARES, WALTER",P005791   ,Off Rebound (1),O,,,Real Madrid,0
-MAD       ,,22,02:37,28,405,"TAVARES, WALTER",P005791   ,Foul Drawn (2),RV,,,Real Madrid,0
-BAS       ,,6,02:37,28,406,"TIMMA, JANIS",P005718   ,Foul (3),CM,,,Baskonia Vitoria Gasteiz,0
-MAD       ,,5,02:37,28,407,"FERNANDEZ, RUDY",PBMT      ,In,IN,,,Real Madrid,0
-MAD       ,,8,02:37,28,408,"MACIULIS, JONAS",PJCC      ,Out,OUT,,,Real Madrid,0
-MAD       ,,33,02:37,28,409,"THOMPKINS, TREY",P005836   ,In,IN,,,Real Madrid,0
-MAD       ,,44,02:37,28,410,"TAYLOR, JEFFERY",P006546   ,Out,OUT,,,Real Madrid,0
-MAD       ,,22,02:26,28,411,"TAVARES, WALTER",P005791   ,Free Throw In (1/2 -  5 pt),FTM,83.0,58.0,Real Madrid,0
-MAD       ,,22,02:26,28,412,"TAVARES, WALTER",P005791   ,Free Throw In (2/3 -  6 pt),FTM,83.0,59.0,Real Madrid,0
-BAS       ,,6,02:26,28,413,"TIMMA, JANIS",P005718   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,52,02:26,28,414,"MCRAE, JORDAN",P007996   ,In,IN,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,23,02:14,28,415,"SHENGELIA, TORNIKE",P001133   ,Missed Three Pointer (0/3 -  6 pt),3FGA,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,52,02:14,28,416,"MCRAE, JORDAN",P007996   ,Off Rebound (1),O,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,52,02:14,28,417,"MCRAE, JORDAN",P007996   ,Missed Three Pointer (1/2 -  3 pt),3FGA,,,Baskonia Vitoria Gasteiz,0
-MAD       ,,,02:14,28,418,,          ,Def Rebound (4),D,,,Real Madrid,0
-MAD       ,,1,01:52,29,420,"CAUSEUR, FABIEN",P001392   ,Out,OUT,,,Real Madrid,0
-MAD       ,,2,01:52,29,421,"RANDLE, CHASSON",P008038   ,In,IN,,,Real Madrid,0
-MAD       ,,5,01:38,29,422,"FERNANDEZ, RUDY",PBMT      ,Missed Three Pointer (3/5 -  9 pt),3FGA,,,Real Madrid,0
-BAS       ,,9,01:37,29,423,"HUERTAS, MARCELINHO",PJUJ      ,Def Rebound (1),D,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,9,01:15,29,424,"HUERTAS, MARCELINHO",PJUJ      ,Missed Two Pointer (3/4 -  10 pt),2FGA,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,23,01:15,29,425,"SHENGELIA, TORNIKE",P001133   ,Foul Drawn (4),RV,,,Baskonia Vitoria Gasteiz,0
-MAD       ,,33,01:15,29,426,"THOMPKINS, TREY",P005836   ,Foul (3),CM,,,Real Madrid,0
-BAS       ,,,01:15,29,427,,          ,Off Rebound (3),O,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,23,01:15,29,428,"SHENGELIA, TORNIKE",P001133   ,Missed Free Throw (2/3 -  6 pt),FTA,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,23,01:15,29,429,"SHENGELIA, TORNIKE",P001133   ,Free Throw In (3/4 -  7 pt),FTM,84.0,59.0,Baskonia Vitoria Gasteiz,0
-MAD       ,,7,00:51,30,431,"DONCIC, LUKA",P005929   ,Two Pointer (3/4 -  18 pt),2FGM,84.0,61.0,Real Madrid,0
-BAS       ,,12,00:37,30,432,"DIOP, ILIMANE",P003540   ,Two Pointer (1/1 -  6 pt),2FGM,86.0,61.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,10,00:35,30,433,"BEAUBOIS, RODRIGUE",P006590   ,Assist (1),AS,,,Baskonia Vitoria Gasteiz,0
-MAD       ,,33,00:21,30,434,"THOMPKINS, TREY",P005836   ,Two Pointer (2/3 -  4 pt),2FGM,86.0,63.0,Real Madrid,0
-MAD       ,,5,00:19,30,435,"FERNANDEZ, RUDY",PBMT      ,Assist (1),AS,,,Real Madrid,0
-BAS       ,,12,00:00,30,436,"DIOP, ILIMANE",P003540   ,Two Pointer (2/2 -  8 pt),2FGM,88.0,63.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,9,00:00,30,437,"HUERTAS, MARCELINHO",PJUJ      ,Assist (6),AS,,,Baskonia Vitoria Gasteiz,0
-          ,,,,31,439,,          ,End Period,EP,,,,0
-          ,,,,31,441,,          ,Begin Period,BP,,,,0
-MAD       ,,33,09:39,31,442,"THOMPKINS, TREY",P005836   ,Missed Three Pointer (0/2 -  4 pt),3FGA,,,Real Madrid,0
-BAS       ,,9,09:37,31,443,"HUERTAS, MARCELINHO",PJUJ      ,Def Rebound (2),D,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,52,09:21,31,444,"MCRAE, JORDAN",P007996   ,Missed Three Pointer (1/3 -  3 pt),3FGA,,,Baskonia Vitoria Gasteiz,0
-MAD       ,,,09:19,31,445,,          ,Def Rebound (5),D,,,Real Madrid,0
-MAD       ,,7,09:19,31,446,"DONCIC, LUKA",P005929   ,Out,OUT,,,Real Madrid,0
-MAD       ,,11,09:19,31,447,"CAMPAZZO, FACUNDO",P005928   ,In,IN,,,Real Madrid,0
-MAD       ,,22,09:11,31,448,"TAVARES, WALTER",P005791   ,Foul Drawn (3),RV,,,Real Madrid,0
-BAS       ,,12,09:11,31,449,"DIOP, ILIMANE",P003540   ,Foul (3),CM,,,Baskonia Vitoria Gasteiz,0
-MAD       ,,5,09:05,31,450,"FERNANDEZ, RUDY",PBMT      ,Foul Drawn (2),RV,,,Real Madrid,0
-BAS       ,,52,09:05,31,451,"MCRAE, JORDAN",P007996   ,Foul (1),CM,,,Baskonia Vitoria Gasteiz,0
-MAD       ,,2,08:52,32,453,"RANDLE, CHASSON",P008038   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Real Madrid,0
-MAD       ,,22,08:50,32,454,"TAVARES, WALTER",P005791   ,Off Rebound (2),O,,,Real Madrid,0
-MAD       ,,22,08:49,32,455,"TAVARES, WALTER",P005791   ,Two Pointer (3/4 -  8 pt),2FGM,88.0,65.0,Real Madrid,0
-BAS       ,,52,08:24,32,456,"MCRAE, JORDAN",P007996   ,Missed Three Pointer (1/4 -  3 pt),3FGA,,,Baskonia Vitoria Gasteiz,0
-MAD       ,,,08:21,32,457,,          ,Def Rebound (6),D,,,Real Madrid,0
-BAS       ,,7,08:21,32,458,"VOIGTMANN, JOHANNES",P007201   ,In,IN,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,12,08:21,32,459,"DIOP, ILIMANE",P003540   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0
-MAD       ,,5,08:04,32,460,"FERNANDEZ, RUDY",PBMT      ,Missed Three Pointer (3/6 -  9 pt),3FGA,,,Real Madrid,0
-BAS       ,,23,08:02,32,461,"SHENGELIA, TORNIKE",P001133   ,Def Rebound (3),D,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,9,07:49,33,463,"HUERTAS, MARCELINHO",PJUJ      ,Three Pointer (1/2 -  13 pt),3FGM,91.0,65.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,23,07:49,33,464,"SHENGELIA, TORNIKE",P001133   ,Assist (2),AS,,,Baskonia Vitoria Gasteiz,0
-MAD       ,,33,07:35,33,465,"THOMPKINS, TREY",P005836   ,Two Pointer (3/4 -  6 pt),2FGM,91.0,67.0,Real Madrid,0
-MAD       ,,5,07:33,33,466,"FERNANDEZ, RUDY",PBMT      ,Assist (2),AS,,,Real Madrid,0
-BAS       ,,10,07:20,33,467,"BEAUBOIS, RODRIGUE",P006590   ,Missed Three Pointer (3/7 -  15 pt),3FGA,,,Baskonia Vitoria Gasteiz,0
-MAD       ,,22,07:17,33,468,"TAVARES, WALTER",P005791   ,Def Rebound (2),D,,,Real Madrid,0
-MAD       ,,33,07:14,33,469,"THOMPKINS, TREY",P005836   ,Missed Three Pointer (0/3 -  6 pt),3FGA,,,Real Madrid,0
-BAS       ,,52,07:14,33,470,"MCRAE, JORDAN",P007996   ,Def Rebound (1),D,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,52,06:56,34,472,"MCRAE, JORDAN",P007996   ,Two Pointer (1/1 -  5 pt),2FGM,93.0,67.0,Baskonia Vitoria Gasteiz,0
-MAD       ,,11,06:44,34,473,"CAMPAZZO, FACUNDO",P005928   ,Turnover (2),TO,,,Real Madrid,0
-BAS       ,,52,06:44,34,474,"MCRAE, JORDAN",P007996   ,Steal (1),ST,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,23,06:44,34,475,"SHENGELIA, TORNIKE",P001133   ,Offensive Foul (1),OF,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,23,06:44,34,476,"SHENGELIA, TORNIKE",P001133   ,Turnover (1),TO,,,Baskonia Vitoria Gasteiz,0
-MAD       ,,11,06:44,34,477,"CAMPAZZO, FACUNDO",P005928   ,Foul Drawn (3),RV,,,Real Madrid,0
-MAD       ,,5,06:37,34,478,"FERNANDEZ, RUDY",PBMT      ,Out,OUT,,,Real Madrid,0
-MAD       ,,44,06:37,34,479,"TAYLOR, JEFFERY",P006546   ,In,IN,,,Real Madrid,0
-BAS       ,,8,06:37,34,480,"MALMANIS, RINALDS",P004185   ,In,IN,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,23,06:37,34,481,"SHENGELIA, TORNIKE",P001133   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0
-MAD       ,,11,06:30,34,482,"CAMPAZZO, FACUNDO",P005928   ,Out,OUT,,,Real Madrid,0
-MAD       ,,20,06:30,34,483,"CARROLL, JAYCEE",P001960   ,In,IN,,,Real Madrid,0
-MAD       ,,2,06:12,34,484,"RANDLE, CHASSON",P008038   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Real Madrid,0
-MAD       ,,22,06:11,34,485,"TAVARES, WALTER",P005791   ,Off Rebound (3),O,,,Real Madrid,0
-MAD       ,,22,06:11,34,486,"TAVARES, WALTER",P005791   ,Foul Drawn (4),RV,,,Real Madrid,0
-BAS       ,,7,06:11,34,487,"VOIGTMANN, JOHANNES",P007201   ,Foul (2),CM,,,Baskonia Vitoria Gasteiz,0
-MAD       ,,44,06:01,34,488,"TAYLOR, JEFFERY",P006546   ,Turnover (1),TO,,,Real Madrid,0
-BAS       ,,52,06:00,34,489,"MCRAE, JORDAN",P007996   ,Steal (2),ST,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,52,05:59,35,491,"MCRAE, JORDAN",P007996   ,Two Pointer (2/2 -  7 pt),2FGM,95.0,67.0,Baskonia Vitoria Gasteiz,0
-MAD       ,,2,05:37,35,492,"RANDLE, CHASSON",P008038   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Real Madrid,0
-BAS       ,,8,05:35,35,493,"MALMANIS, RINALDS",P004185   ,Def Rebound (2),D,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,52,05:24,35,494,"MCRAE, JORDAN",P007996   ,Missed Two Pointer (2/3 -  7 pt),2FGA,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,10,05:22,35,495,"BEAUBOIS, RODRIGUE",P006590   ,Off Rebound (1),O,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,10,05:19,35,496,"BEAUBOIS, RODRIGUE",P006590   ,Missed Three Pointer (3/8 -  15 pt),3FGA,,,Baskonia Vitoria Gasteiz,0
-MAD       ,,2,05:17,35,497,"RANDLE, CHASSON",P008038   ,Def Rebound (1),D,,,Real Madrid,0
-MAD       ,,2,05:15,35,498,"RANDLE, CHASSON",P008038   ,Foul Drawn (1),RV,,,Real Madrid,0
-BAS       ,,10,05:15,35,499,"BEAUBOIS, RODRIGUE",P006590   ,Foul (3),CM,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,10,05:15,35,500,"BEAUBOIS, RODRIGUE",P006590   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,11,05:15,35,501,"JANNING, MATT",P004165   ,In,IN,,,Baskonia Vitoria Gasteiz,0
-MAD       ,,2,05:15,35,502,"RANDLE, CHASSON",P008038   ,Free Throw In (1/1 -  1 pt),FTM,95.0,68.0,Real Madrid,0
-MAD       ,,2,05:15,35,503,"RANDLE, CHASSON",P008038   ,Free Throw In (2/2 -  2 pt),FTM,95.0,69.0,Real Madrid,0
-BAS       ,,52,05:02,35,504,"MCRAE, JORDAN",P007996   ,Foul Drawn (1),RV,,,Baskonia Vitoria Gasteiz,0
-MAD       ,,44,05:02,35,505,"TAYLOR, JEFFERY",P006546   ,Foul (3),CM,,,Real Madrid,0
-BAS       ,,9,05:02,35,506,"HUERTAS, MARCELINHO",PJUJ      ,Out,OUT,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,15,05:02,35,507,"GRANGER, JAYSON",P003024   ,In,IN,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,8,05:02,35,508,"MALMANIS, RINALDS",P004185   ,Two Pointer (4/5 -  8 pt),2FGM,97.0,69.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,15,05:02,35,509,"GRANGER, JAYSON",P003024   ,Assist (5),AS,,,Baskonia Vitoria Gasteiz,0
-MAD       ,,20,04:44,36,511,"CARROLL, JAYCEE",P001960   ,Missed Three Pointer (1/3 -  3 pt),3FGA,,,Real Madrid,0
-BAS       ,,52,04:44,36,512,"MCRAE, JORDAN",P007996   ,Def Rebound (2),D,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,52,04:16,36,513,"MCRAE, JORDAN",P007996   ,Foul Drawn (2),RV,,,Baskonia Vitoria Gasteiz,0
-MAD       ,,44,04:16,36,514,"TAYLOR, JEFFERY",P006546   ,Foul (4),CM,,,Real Madrid,0
-          ,,,04:16,36,515,,          ,TV Time Out (2),TOUT_TV,,,,0
-BAS       ,,15,04:02,36,518,"GRANGER, JAYSON",P003024   ,Foul Drawn (7),RV,,,Baskonia Vitoria Gasteiz,0
-MAD       ,,2,04:02,36,519,"RANDLE, CHASSON",P008038   ,Foul (1),CM,,,Real Madrid,0
-BAS       ,,15,04:02,36,520,"GRANGER, JAYSON",P003024   ,Free Throw In (3/5 -  11 pt),FTM,98.0,69.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,15,04:02,36,521,"GRANGER, JAYSON",P003024   ,Free Throw In (4/6 -  12 pt),FTM,99.0,69.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,3,04:02,36,522,"VILDOZA, LUCA",P007947   ,In,IN,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,15,04:02,36,523,"GRANGER, JAYSON",P003024   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0
-MAD       ,,20,03:41,37,525,"CARROLL, JAYCEE",P001960   ,Two Pointer (1/1 -  5 pt),2FGM,99.0,71.0,Real Madrid,0
-BAS       ,,11,03:29,37,526,"JANNING, MATT",P004165   ,Missed Two Pointer (1/4 -  11 pt),2FGA,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,,03:29,37,527,,          ,Turnover (2),TO,,,Baskonia Vitoria Gasteiz,0
-MAD       ,,2,02:53,38,529,"RANDLE, CHASSON",P008038   ,Missed Two Pointer (0/3 -  2 pt),2FGA,,,Real Madrid,0
-BAS       ,,7,02:51,38,530,"VOIGTMANN, JOHANNES",P007201   ,Def Rebound (1),D,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,3,02:40,38,531,"VILDOZA, LUCA",P007947   ,Three Pointer (1/1 -  3 pt),3FGM,102.0,71.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,11,02:38,38,532,"JANNING, MATT",P004165   ,Assist (3),AS,,,Baskonia Vitoria Gasteiz,0
-MAD       ,,20,02:18,38,533,"CARROLL, JAYCEE",P001960   ,Missed Two Pointer (1/2 -  5 pt),2FGA,,,Real Madrid,0
-MAD       ,,20,02:18,38,534,"CARROLL, JAYCEE",P001960   ,Shot Rejected (1),AG,,,Real Madrid,0
-BAS       ,,11,02:16,38,535,"JANNING, MATT",P004165   ,Block (1),FV,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,8,02:13,38,536,"MALMANIS, RINALDS",P004185   ,Def Rebound (3),D,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,3,02:02,38,537,"VILDOZA, LUCA",P007947   ,Missed Two Pointer (0/1 -  3 pt),2FGA,,,Baskonia Vitoria Gasteiz,0
-MAD       ,,22,01:57,39,541,"TAVARES, WALTER",P005791   ,Def Rebound (3),D,,,Real Madrid,0
-MAD       ,,2,01:49,39,542,"RANDLE, CHASSON",P008038   ,Missed Three Pointer (0/2 -  2 pt),3FGA,,,Real Madrid,0
-BAS       ,,11,01:46,39,543,"JANNING, MATT",P004165   ,Def Rebound (1),D,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,52,01:30,39,544,"MCRAE, JORDAN",P007996   ,Missed Two Pointer (2/4 -  7 pt),2FGA,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,7,01:30,39,545,"VOIGTMANN, JOHANNES",P007201   ,Off Rebound (1),O,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,7,01:30,39,546,"VOIGTMANN, JOHANNES",P007201   ,Two Pointer (1/1 -  2 pt),2FGM,104.0,71.0,Baskonia Vitoria Gasteiz,0
-MAD       ,,22,01:12,39,547,"TAVARES, WALTER",P005791   ,Two Pointer (4/5 -  10 pt),2FGM,104.0,73.0,Real Madrid,0
-MAD       ,,33,01:12,39,548,"THOMPKINS, TREY",P005836   ,Assist (2),AS,,,Real Madrid,0
-BAS       ,,6,01:12,39,549,"TIMMA, JANIS",P005718   ,In,IN,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,11,01:12,39,550,"JANNING, MATT",P004165   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,52,00:52,40,552,"MCRAE, JORDAN",P007996   ,Foul Drawn (3),RV,,,Baskonia Vitoria Gasteiz,0
-MAD       ,,22,00:52,40,553,"TAVARES, WALTER",P005791   ,Foul (2),CM,,,Real Madrid,0
-BAS       ,,52,00:52,40,554,"MCRAE, JORDAN",P007996   ,Free Throw In (1/1 -  8 pt),FTM,105.0,73.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,8,00:52,40,555,"MALMANIS, RINALDS",P004185   ,Assist (2),AS,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,52,00:52,40,556,"MCRAE, JORDAN",P007996   ,Missed Free Throw (1/2 -  8 pt),FTA,,,Baskonia Vitoria Gasteiz,0
-MAD       ,,33,00:52,40,557,"THOMPKINS, TREY",P005836   ,Def Rebound (3),D,,,Real Madrid,0
-MAD       ,,20,00:34,40,558,"CARROLL, JAYCEE",P001960   ,Two Pointer (2/3 -  7 pt),2FGM,105.0,75.0,Real Madrid,0
-MAD       ,,44,00:35,40,559,"TAYLOR, JEFFERY",P006546   ,Assist (1),AS,,,Real Madrid,0
-BAS       ,,52,00:15,40,560,"MCRAE, JORDAN",P007996   ,Missed Two Pointer (2/5 -  8 pt),2FGA,,,Baskonia Vitoria Gasteiz,0
-MAD       ,,22,00:13,40,561,"TAVARES, WALTER",P005791   ,Def Rebound (4),D,,,Real Madrid,0
-MAD       ,,44,00:08,40,562,"TAYLOR, JEFFERY",P006546   ,Missed Three Pointer (1/4 -  6 pt),3FGA,,,Real Madrid,0
-BAS       ,,6,00:05,40,563,"TIMMA, JANIS",P005718   ,Def Rebound (4),D,,,Baskonia Vitoria Gasteiz,0
-          ,,,,41,566,,          ,End Game,EG,,,,0
+CODETEAM,COMMENT,DORSAL,MARKERTIME,MINUTE,NUMBEROFPLAY,PLAYER,PLAYER_ID,PLAYINFO,PLAYTYPE,POINTS_A,POINTS_B,TEAM,TYPE,home_team,home_team_code,away_team,away_team_code
+          ,,,,1,16,,          ,Begin Period,BP,,,,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,6,09:34,1,17,"TIMMA, JANIS",P005718   ,Three Pointer (1/1 -  3 pt),3FGM,3.0,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,11,09:32,1,18,"JANNING, MATT",P004165   ,Assist (1),AS,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,9,09:17,1,19,"REYES, FELIPE",PAAX      ,Two Pointer (1/1 -  2 pt),2FGM,3.0,2.0,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,11,09:14,1,20,"CAMPAZZO, FACUNDO",P005928   ,Assist (1),AS,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,8,09:02,1,21,"MALMANIS, RINALDS",P004185   ,Two Pointer (1/1 -  2 pt),2FGM,5.0,2.0,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,17,09:00,1,22,"POIRIER, VINCENT",P004887   ,Assist (1),AS,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,3,08:43,2,24,"RANDOLPH, ANTHONY",P005757   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,17,08:40,2,25,"POIRIER, VINCENT",P004887   ,Def Rebound (1),D,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,15,08:28,2,26,"GRANGER, JAYSON",P003024   ,Three Pointer (1/1 -  3 pt),3FGM,8.0,2.0,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,6,08:26,2,27,"TIMMA, JANIS",P005718   ,Assist (1),AS,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,11,08:11,2,28,"CAMPAZZO, FACUNDO",P005928   ,Foul Drawn (1),RV,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,15,08:11,2,29,"GRANGER, JAYSON",P003024   ,Foul (1),CM,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,44,08:09,2,30,"TAYLOR, JEFFERY",P006546   ,Two Pointer (1/1 -  2 pt),2FGM,8.0,4.0,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,44,08:09,2,31,"TAYLOR, JEFFERY",P006546   ,Foul Drawn (1),RV,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,6,08:09,2,32,"TIMMA, JANIS",P005718   ,Foul (1),CM,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,44,08:09,2,33,"TAYLOR, JEFFERY",P006546   ,Free Throw In (1/1 -  3 pt),FTM,8.0,5.0,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,15,08:02,2,34,"GRANGER, JAYSON",P003024   ,Foul Drawn (1),RV,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,44,08:02,2,35,"TAYLOR, JEFFERY",P006546   ,Foul (1),CM,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,15,07:53,3,37,"GRANGER, JAYSON",P003024   ,Missed Three Pointer (1/2 -  3 pt),3FGA,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,17,07:50,3,38,"POIRIER, VINCENT",P004887   ,Off Rebound (1),O,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,17,07:50,3,39,"POIRIER, VINCENT",P004887   ,Two Pointer (1/1 -  2 pt),2FGM,10.0,5.0,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,1,07:30,3,40,"CAUSEUR, FABIEN",P001392   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,17,07:27,3,41,"POIRIER, VINCENT",P004887   ,Def Rebound (2),D,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,6,07:23,3,42,"TIMMA, JANIS",P005718   ,Three Pointer (2/2 -  6 pt),3FGM,13.0,5.0,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,11,07:21,3,43,"JANNING, MATT",P004165   ,Assist (2),AS,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,3,07:07,3,44,"RANDOLPH, ANTHONY",P005757   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,17,07:07,3,45,"POIRIER, VINCENT",P004887   ,Def Rebound (3),D,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,17,07:07,3,46,"POIRIER, VINCENT",P004887   ,Two Pointer (2/2 -  4 pt),2FGM,15.0,5.0,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,8,07:07,3,47,"MALMANIS, RINALDS",P004185   ,Assist (1),AS,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,,06:50,4,49,,          ,Time Out (1),TOUT,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,3,06:41,4,50,"RANDOLPH, ANTHONY",P005757   ,Foul Drawn (1),RV,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,15,06:41,4,51,"GRANGER, JAYSON",P003024   ,Foul (2),CM,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,9,06:41,4,52,"HUERTAS, MARCELINHO",PJUJ      ,In,IN,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,15,06:41,4,53,"GRANGER, JAYSON",P003024   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,11,06:33,4,54,"CAMPAZZO, FACUNDO",P005928   ,Turnover (1),TO,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,9,06:31,4,55,"HUERTAS, MARCELINHO",PJUJ      ,Steal (1),ST,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,17,06:17,4,56,"POIRIER, VINCENT",P004887   ,Foul Drawn (1),RV,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,9,06:17,4,57,"REYES, FELIPE",PAAX      ,Foul (1),CM,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,5,06:17,4,58,"FERNANDEZ, RUDY",PBMT      ,In,IN,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,44,06:17,4,59,"TAYLOR, JEFFERY",P006546   ,Out,OUT,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,11,06:10,4,60,"JANNING, MATT",P004165   ,Two Pointer (1/1 -  2 pt),2FGM,17.0,5.0,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,11,05:51,5,62,"JANNING, MATT",P004165   ,Foul Drawn (1),RV,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,3,05:51,5,63,"RANDOLPH, ANTHONY",P005757   ,Offensive Foul (1),OF,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,3,05:51,5,64,"RANDOLPH, ANTHONY",P005757   ,Turnover (1),TO,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,3,05:51,5,65,"RANDOLPH, ANTHONY",P005757   ,Out,OUT,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,33,05:51,5,66,"THOMPKINS, TREY",P005836   ,In,IN,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,9,05:34,5,67,"HUERTAS, MARCELINHO",PJUJ      ,Two Pointer (1/1 -  2 pt),2FGM,19.0,5.0,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,5,05:21,5,68,"FERNANDEZ, RUDY",PBMT      ,Turnover (1),TO,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,11,05:11,5,69,"JANNING, MATT",P004165   ,Foul Drawn (2),RV,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,1,05:11,5,70,"CAUSEUR, FABIEN",P001392   ,Foul (1),CM,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,1,05:11,5,71,"CAUSEUR, FABIEN",P001392   ,Out,OUT,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,7,05:11,5,72,"DONCIC, LUKA",P005929   ,In,IN,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,11,05:11,5,73,"JANNING, MATT",P004165   ,Free Throw In (1/1 -  3 pt),FTM,20.0,5.0,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,9,05:11,5,74,"HUERTAS, MARCELINHO",PJUJ      ,Assist (1),AS,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,11,05:11,5,75,"JANNING, MATT",P004165   ,Free Throw In (2/2 -  4 pt),FTM,21.0,5.0,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,33,04:52,6,77,"THOMPKINS, TREY",P005836   ,Turnover (1),TO,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,9,04:44,6,78,"HUERTAS, MARCELINHO",PJUJ      ,Foul Drawn (1),RV,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,11,04:44,6,79,"CAMPAZZO, FACUNDO",P005928   ,Foul (1),CM,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,9,04:44,6,80,"HUERTAS, MARCELINHO",PJUJ      ,Free Throw In (1/1 -  3 pt),FTM,22.0,5.0,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,9,04:44,6,81,"HUERTAS, MARCELINHO",PJUJ      ,Free Throw In (2/2 -  4 pt),FTM,23.0,5.0,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,11,04:35,6,82,"CAMPAZZO, FACUNDO",P005928   ,Out,OUT,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,20,04:35,6,83,"CARROLL, JAYCEE",P001960   ,In,IN,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,10,04:35,6,84,"BEAUBOIS, RODRIGUE",P006590   ,In,IN,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,11,04:35,6,85,"JANNING, MATT",P004165   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,7,04:25,6,86,"DONCIC, LUKA",P005929   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,8,04:23,6,87,"MALMANIS, RINALDS",P004185   ,Def Rebound (1),D,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,10,04:15,6,88,"BEAUBOIS, RODRIGUE",P006590   ,Two Pointer (1/1 -  2 pt),2FGM,25.0,5.0,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,9,04:03,6,89,"REYES, FELIPE",PAAX      ,Foul Drawn (1),RV,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,10,04:03,6,90,"BEAUBOIS, RODRIGUE",P006590   ,Foul (1),CM,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,33,03:54,7,92,"THOMPKINS, TREY",P005836   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,33,03:51,7,93,"THOMPKINS, TREY",P005836   ,Off Rebound (1),O,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,5,03:47,7,94,"FERNANDEZ, RUDY",PBMT      ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,9,03:44,7,95,"REYES, FELIPE",PAAX      ,Off Rebound (1),O,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,9,03:43,7,96,"REYES, FELIPE",PAAX      ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,6,03:39,7,97,"TIMMA, JANIS",P005718   ,Def Rebound (1),D,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,9,03:31,7,98,"HUERTAS, MARCELINHO",PJUJ      ,Two Pointer (2/2 -  6 pt),2FGM,27.0,5.0,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,7,03:09,7,99,"DONCIC, LUKA",P005929   ,Foul Drawn (1),RV,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,9,03:09,7,100,"HUERTAS, MARCELINHO",PJUJ      ,Foul (1),CM,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,7,03:09,7,101,"VOIGTMANN, JOHANNES",P007201   ,In,IN,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,8,03:09,7,102,"MALMANIS, RINALDS",P004185   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,17,03:09,7,103,"POIRIER, VINCENT",P004887   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,23,03:09,7,104,"SHENGELIA, TORNIKE",P001133   ,In,IN,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,3,03:09,7,105,"RANDOLPH, ANTHONY",P005757   ,In,IN,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,9,03:09,7,106,"REYES, FELIPE",PAAX      ,Out,OUT,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,7,03:09,7,107,"DONCIC, LUKA",P005929   ,Free Throw In (1/1 -  1 pt),FTM,27.0,6.0,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,7,03:09,7,108,"DONCIC, LUKA",P005929   ,Free Throw In (2/2 -  2 pt),FTM,27.0,7.0,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,10,02:51,8,110,"BEAUBOIS, RODRIGUE",P006590   ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,5,02:48,8,111,"FERNANDEZ, RUDY",PBMT      ,Def Rebound (1),D,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,7,02:35,8,112,"DONCIC, LUKA",P005929   ,Three Pointer (1/2 -  5 pt),3FGM,27.0,10.0,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,3,02:33,8,113,"RANDOLPH, ANTHONY",P005757   ,Assist (1),AS,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,23,02:10,8,114,"SHENGELIA, TORNIKE",P001133   ,Two Pointer (1/1 -  2 pt),2FGM,29.0,10.0,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,9,02:08,8,115,"HUERTAS, MARCELINHO",PJUJ      ,Assist (2),AS,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,7,01:53,9,117,"DONCIC, LUKA",P005929   ,Missed Three Pointer (1/3 -  5 pt),3FGA,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,10,01:51,9,118,"BEAUBOIS, RODRIGUE",P006590   ,Def Rebound (1),D,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,10,01:44,9,119,"BEAUBOIS, RODRIGUE",P006590   ,Missed Three Pointer (0/2 -  2 pt),3FGA,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,7,01:42,9,120,"DONCIC, LUKA",P005929   ,Def Rebound (1),D,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,20,01:34,9,121,"CARROLL, JAYCEE",P001960   ,Three Pointer (1/1 -  3 pt),3FGM,29.0,13.0,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,3,01:31,9,122,"RANDOLPH, ANTHONY",P005757   ,Assist (2),AS,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,9,01:26,9,123,"HUERTAS, MARCELINHO",PJUJ      ,Foul Drawn (2),RV,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,5,01:26,9,124,"FERNANDEZ, RUDY",PBMT      ,Foul (1),CM,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,6,01:26,9,125,"TIMMA, JANIS",P005718   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,52,01:26,9,126,"MCRAE, JORDAN",P007996   ,In,IN,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,9,01:26,9,127,"HUERTAS, MARCELINHO",PJUJ      ,Free Throw In (3/3 -  7 pt),FTM,30.0,13.0,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,9,01:26,9,128,"HUERTAS, MARCELINHO",PJUJ      ,Free Throw In (4/4 -  8 pt),FTM,31.0,13.0,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,7,01:12,9,129,"DONCIC, LUKA",P005929   ,Two Pointer (1/1 -  7 pt),2FGM,31.0,15.0,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,3,01:10,9,130,"RANDOLPH, ANTHONY",P005757   ,Assist (3),AS,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,9,01:07,9,131,"HUERTAS, MARCELINHO",PJUJ      ,Turnover (1),TO,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,3,01:07,9,132,"RANDOLPH, ANTHONY",P005757   ,Two Pointer (1/3 -  2 pt),2FGM,31.0,17.0,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,23,00:41,10,134,"SHENGELIA, TORNIKE",P001133   ,Foul Drawn (1),RV,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,33,00:41,10,135,"THOMPKINS, TREY",P005836   ,Foul (1),CM,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,23,00:41,10,136,"SHENGELIA, TORNIKE",P001133   ,Free Throw In (1/1 -  3 pt),FTM,32.0,17.0,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,23,00:41,10,137,"SHENGELIA, TORNIKE",P001133   ,Free Throw In (2/2 -  4 pt),FTM,33.0,17.0,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,23,00:29,10,138,"SHENGELIA, TORNIKE",P001133   ,Foul Drawn (2),RV,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,3,00:29,10,139,"RANDOLPH, ANTHONY",P005757   ,Offensive Foul (2),OF,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,3,00:29,10,140,"RANDOLPH, ANTHONY",P005757   ,Turnover (2),TO,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,10,00:06,10,141,"BEAUBOIS, RODRIGUE",P006590   ,Three Pointer (1/3 -  5 pt),3FGM,36.0,17.0,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,9,00:04,10,142,"HUERTAS, MARCELINHO",PJUJ      ,Assist (3),AS,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,7,00:01,10,143,"DONCIC, LUKA",P005929   ,Missed Three Pointer (1/4 -  7 pt),3FGA,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+          ,,,,11,145,,          ,End Period,EP,,,,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+          ,,,,11,146,,          ,Begin Period,BP,,,,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,7,09:59,11,147,"DONCIC, LUKA",P005929   ,Two Pointer (2/2 -  9 pt),2FGM,36.0,19.0,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,10,09:45,11,148,"BEAUBOIS, RODRIGUE",P006590   ,Three Pointer (2/4 -  8 pt),3FGM,39.0,19.0,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,9,09:45,11,149,"HUERTAS, MARCELINHO",PJUJ      ,Assist (4),AS,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,3,09:20,11,150,"RANDOLPH, ANTHONY",P005757   ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,23,09:20,11,151,"SHENGELIA, TORNIKE",P001133   ,Def Rebound (1),D,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,23,09:14,11,152,"SHENGELIA, TORNIKE",P001133   ,Foul Drawn (3),RV,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,20,09:14,11,153,"CARROLL, JAYCEE",P001960   ,Foul (1),CM,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,23,09:04,11,154,"SHENGELIA, TORNIKE",P001133   ,Missed Three Pointer (0/1 -  4 pt),3FGA,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,7,09:04,11,155,"DONCIC, LUKA",P005929   ,Def Rebound (2),D,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,5,08:41,12,157,"FERNANDEZ, RUDY",PBMT      ,Three Pointer (1/2 -  3 pt),3FGM,39.0,22.0,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,10,08:25,12,158,"BEAUBOIS, RODRIGUE",P006590   ,Two Pointer (2/2 -  10 pt),2FGM,41.0,22.0,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,7,08:17,12,159,"DONCIC, LUKA",P005929   ,Foul Drawn (2),RV,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,7,08:17,12,160,"VOIGTMANN, JOHANNES",P007201   ,Foul (1),CM,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,3,08:17,12,161,"RANDOLPH, ANTHONY",P005757   ,Out,OUT,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,44,08:17,12,162,"TAYLOR, JEFFERY",P006546   ,In,IN,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,33,08:09,12,163,"THOMPKINS, TREY",P005836   ,Two Pointer (1/2 -  2 pt),2FGM,41.0,24.0,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,7,08:07,12,164,"DONCIC, LUKA",P005929   ,Assist (1),AS,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,23,07:43,13,166,"SHENGELIA, TORNIKE",P001133   ,Missed Two Pointer (1/2 -  4 pt),2FGA,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,33,07:41,13,167,"THOMPKINS, TREY",P005836   ,Def Rebound (1),D,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,5,07:37,13,168,"FERNANDEZ, RUDY",PBMT      ,Three Pointer (2/3 -  6 pt),3FGM,41.0,27.0,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,7,07:37,13,169,"DONCIC, LUKA",P005929   ,Assist (2),AS,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,,07:37,13,170,,          ,Time Out (1),TOUT,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,9,07:37,13,171,"HUERTAS, MARCELINHO",PJUJ      ,Out,OUT,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,15,07:37,13,172,"GRANGER, JAYSON",P003024   ,In,IN,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,23,07:25,13,173,"SHENGELIA, TORNIKE",P001133   ,Missed Two Pointer (1/3 -  4 pt),2FGA,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,33,07:23,13,174,"THOMPKINS, TREY",P005836   ,Def Rebound (2),D,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,5,07:14,13,175,"FERNANDEZ, RUDY",PBMT      ,Foul Drawn (1),RV,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,10,07:14,13,176,"BEAUBOIS, RODRIGUE",P006590   ,Foul (2),CM,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,20,07:01,13,177,"CARROLL, JAYCEE",P001960   ,Missed Three Pointer (1/2 -  3 pt),3FGA,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,10,06:58,14,179,"BEAUBOIS, RODRIGUE",P006590   ,Def Rebound (2),D,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,7,06:44,14,180,"VOIGTMANN, JOHANNES",P007201   ,Turnover (1),TO,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,5,06:43,14,181,"FERNANDEZ, RUDY",PBMT      ,Steal (1),ST,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,10,06:39,14,182,"BEAUBOIS, RODRIGUE",P006590   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,11,06:39,14,183,"JANNING, MATT",P004165   ,In,IN,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,7,06:32,14,184,"DONCIC, LUKA",P005929   ,Shot Rejected (1),AG,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,7,06:32,14,517,"DONCIC, LUKA",P005929   ,Missed Two Pointer (2/3 -  9 pt),2FGA,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,52,06:32,14,197,"MCRAE, JORDAN",P007996   ,Block (1),FV,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,23,06:30,14,185,"SHENGELIA, TORNIKE",P001133   ,Def Rebound (2),D,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,23,06:26,14,186,"SHENGELIA, TORNIKE",P001133   ,Two Pointer (2/4 -  6 pt),2FGM,43.0,27.0,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,33,06:14,14,187,"THOMPKINS, TREY",P005836   ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,,06:08,14,188,,          ,Def Rebound (1),D,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,15,05:56,15,190,"GRANGER, JAYSON",P003024   ,Two Pointer (1/1 -  5 pt),2FGM,45.0,27.0,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,15,05:41,15,191,"GRANGER, JAYSON",P003024   ,Foul Drawn (2),RV,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,33,05:41,15,192,"THOMPKINS, TREY",P005836   ,Offensive Foul (2),OF,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,33,05:41,15,193,"THOMPKINS, TREY",P005836   ,Turnover (2),TO,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,52,05:28,15,194,"MCRAE, JORDAN",P007996   ,Three Pointer (1/1 -  3 pt),3FGM,48.0,27.0,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,15,05:27,15,195,"GRANGER, JAYSON",P003024   ,Assist (1),AS,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,,05:27,15,196,,          ,Time Out (1),TOUT,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,7,05:27,15,198,"VOIGTMANN, JOHANNES",P007201   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,17,05:27,15,199,"POIRIER, VINCENT",P004887   ,In,IN,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,11,05:27,15,200,"CAMPAZZO, FACUNDO",P005928   ,In,IN,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,20,05:27,15,201,"CARROLL, JAYCEE",P001960   ,Out,OUT,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,5,05:17,15,202,"FERNANDEZ, RUDY",PBMT      ,Three Pointer (3/4 -  9 pt),3FGM,48.0,30.0,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,33,05:15,15,203,"THOMPKINS, TREY",P005836   ,Assist (1),AS,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,15,04:54,16,205,"GRANGER, JAYSON",P003024   ,Three Pointer (2/3 -  8 pt),3FGM,51.0,30.0,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,7,04:33,16,206,"DONCIC, LUKA",P005929   ,Three Pointer (2/5 -  12 pt),3FGM,51.0,33.0,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,22,04:19,16,207,"TAVARES, WALTER",P005791   ,In,IN,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,33,04:19,16,208,"THOMPKINS, TREY",P005836   ,Out,OUT,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,11,04:14,16,209,"JANNING, MATT",P004165   ,Three Pointer (1/1 -  7 pt),3FGM,54.0,33.0,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,23,04:13,16,210,"SHENGELIA, TORNIKE",P001133   ,Assist (1),AS,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,7,03:46,17,212,"DONCIC, LUKA",P005929   ,Missed Three Pointer (2/6 -  12 pt),3FGA,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,,03:46,17,213,,          ,Turnover (1),TO,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,8,03:46,17,214,"MALMANIS, RINALDS",P004185   ,In,IN,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,23,03:46,17,215,"SHENGELIA, TORNIKE",P001133   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,11,03:35,17,216,"JANNING, MATT",P004165   ,Three Pointer (2/2 -  10 pt),3FGM,57.0,33.0,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,15,03:32,17,217,"GRANGER, JAYSON",P003024   ,Assist (2),AS,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,11,03:22,17,218,"CAMPAZZO, FACUNDO",P005928   ,Three Pointer (1/1 -  3 pt),3FGM,57.0,36.0,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,7,03:19,17,219,"DONCIC, LUKA",P005929   ,Assist (3),AS,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,15,03:06,17,220,"GRANGER, JAYSON",P003024   ,Missed Two Pointer (1/2 -  8 pt),2FGA,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,17,03:04,17,221,"POIRIER, VINCENT",P004887   ,Off Rebound (2),O,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,17,03:04,17,222,"POIRIER, VINCENT",P004887   ,Two Pointer (3/3 -  6 pt),2FGM,59.0,36.0,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,11,02:56,18,224,"CAMPAZZO, FACUNDO",P005928   ,Foul Drawn (2),RV,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,17,02:56,18,225,"POIRIER, VINCENT",P004887   ,Foul (1),CM,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,6,02:56,18,226,"TIMMA, JANIS",P005718   ,In,IN,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,52,02:56,18,227,"MCRAE, JORDAN",P007996   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,1,02:56,18,228,"CAUSEUR, FABIEN",P001392   ,In,IN,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,5,02:56,18,229,"FERNANDEZ, RUDY",PBMT      ,Out,OUT,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,44,02:53,18,230,"TAYLOR, JEFFERY",P006546   ,Missed Three Pointer (0/1 -  3 pt),3FGA,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,6,02:53,18,231,"TIMMA, JANIS",P005718   ,Def Rebound (2),D,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,15,02:53,18,232,"GRANGER, JAYSON",P003024   ,Missed Three Pointer (2/4 -  8 pt),3FGA,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,1,02:53,18,233,"CAUSEUR, FABIEN",P001392   ,Def Rebound (1),D,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,22,02:29,18,234,"TAVARES, WALTER",P005791   ,Two Pointer (1/1 -  2 pt),2FGM,59.0,38.0,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,1,02:27,18,235,"CAUSEUR, FABIEN",P001392   ,Assist (1),AS,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,11,02:23,18,236,"JANNING, MATT",P004165   ,Missed Three Pointer (2/3 -  10 pt),3FGA,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,8,02:23,18,237,"MALMANIS, RINALDS",P004185   ,Off Rebound (1),O,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,8,02:23,18,238,"MALMANIS, RINALDS",P004185   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,17,02:23,18,239,"POIRIER, VINCENT",P004887   ,Off Rebound (3),O,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,17,02:23,18,240,"POIRIER, VINCENT",P004887   ,Two Pointer (4/4 -  8 pt),2FGM,61.0,38.0,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,44,01:41,19,242,"TAYLOR, JEFFERY",P006546   ,Missed Three Pointer (0/2 -  3 pt),3FGA,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,15,01:38,19,243,"GRANGER, JAYSON",P003024   ,Def Rebound (1),D,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,15,01:38,19,244,"GRANGER, JAYSON",P003024   ,Foul Drawn (3),RV,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,11,01:38,19,245,"CAMPAZZO, FACUNDO",P005928   ,Foul (2),CM,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,9,01:38,19,246,"HUERTAS, MARCELINHO",PJUJ      ,In,IN,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,15,01:38,19,247,"GRANGER, JAYSON",P003024   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,11,01:38,19,248,"CAMPAZZO, FACUNDO",P005928   ,Technical Foul (3),CMT,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,11,01:38,19,249,"JANNING, MATT",P004165   ,Free Throw In (3/3 -  11 pt),FTM,62.0,38.0,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,9,01:33,19,250,"HUERTAS, MARCELINHO",PJUJ      ,Turnover (2),TO,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,11,01:33,19,251,"CAMPAZZO, FACUNDO",P005928   ,Steal (1),ST,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,7,01:33,19,252,"DONCIC, LUKA",P005929   ,Foul Drawn (3),RV,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,6,01:33,19,253,"TIMMA, JANIS",P005718   ,Unsportsmanlike Foul  (2),CMU,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,8,01:24,19,254,"MACIULIS, JONAS",PJCC      ,In,IN,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,11,01:24,19,255,"CAMPAZZO, FACUNDO",P005928   ,Out,OUT,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,7,01:24,19,256,"DONCIC, LUKA",P005929   ,Free Throw In (3/3 -  13 pt),FTM,62.0,39.0,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,22,01:24,19,257,"TAVARES, WALTER",P005791   ,Assist (1),AS,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,7,01:24,19,258,"DONCIC, LUKA",P005929   ,Free Throw In (4/4 -  14 pt),FTM,62.0,40.0,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,8,01:18,19,259,"MACIULIS, JONAS",PJCC      ,Foul Drawn (1),RV,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,8,01:18,19,260,"MALMANIS, RINALDS",P004185   ,Foul (1),CM,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,8,01:18,19,261,"MACIULIS, JONAS",PJCC      ,Free Throw In (1/1 -  1 pt),FTM,62.0,41.0,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,8,01:18,19,262,"MACIULIS, JONAS",PJCC      ,Free Throw In (2/2 -  2 pt),FTM,62.0,42.0,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,6,00:57,20,264,"TIMMA, JANIS",P005718   ,Missed Three Pointer (2/3 -  6 pt),3FGA,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,,00:57,20,265,,          ,Def Rebound (2),D,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,22,00:36,20,266,"TAVARES, WALTER",P005791   ,Two Pointer (2/2 -  4 pt),2FGM,62.0,44.0,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,7,00:36,20,267,"DONCIC, LUKA",P005929   ,Assist (4),AS,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,22,00:36,20,268,"TAVARES, WALTER",P005791   ,Foul Drawn (1),RV,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,17,00:36,20,269,"POIRIER, VINCENT",P004887   ,Foul (2),CM,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,7,00:36,20,270,"VOIGTMANN, JOHANNES",P007201   ,In,IN,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,17,00:36,20,271,"POIRIER, VINCENT",P004887   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,22,00:36,20,272,"TAVARES, WALTER",P005791   ,Missed Free Throw (0/1 -  4 pt),FTA,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,6,00:36,20,273,"TIMMA, JANIS",P005718   ,Def Rebound (3),D,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,,00:21,20,274,,          ,Time Out (2),TOUT,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,9,00:21,20,275,"REYES, FELIPE",PAAX      ,In,IN,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,22,00:21,20,276,"TAVARES, WALTER",P005791   ,Out,OUT,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,9,00:15,20,277,"HUERTAS, MARCELINHO",PJUJ      ,Missed Three Pointer (0/1 -  8 pt),3FGA,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,9,00:13,20,278,"HUERTAS, MARCELINHO",PJUJ      ,Off Rebound (1),O,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,9,00:01,20,279,"HUERTAS, MARCELINHO",PJUJ      ,Two Pointer (3/3 -  10 pt),2FGM,64.0,44.0,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+          ,,,,21,281,,          ,End Period,EP,,,,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+          ,,,,21,290,,          ,Begin Period,BP,,,,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,7,10:00,21,282,"VOIGTMANN, JOHANNES",P007201   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,9,10:00,21,283,"HUERTAS, MARCELINHO",PJUJ      ,Out,OUT,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,15,10:00,21,284,"GRANGER, JAYSON",P003024   ,In,IN,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,17,10:00,21,285,"POIRIER, VINCENT",P004887   ,In,IN,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,3,10:00,21,286,"RANDOLPH, ANTHONY",P005757   ,In,IN,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,7,10:00,21,287,"DONCIC, LUKA",P005929   ,Out,OUT,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,8,10:00,21,288,"MACIULIS, JONAS",PJCC      ,Out,OUT,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,11,10:00,21,289,"CAMPAZZO, FACUNDO",P005928   ,In,IN,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,11,09:46,21,291,"JANNING, MATT",P004165   ,Missed Two Pointer (1/2 -  11 pt),2FGA,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,9,09:43,21,292,"REYES, FELIPE",PAAX      ,Def Rebound (1),D,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,3,09:34,21,293,"RANDOLPH, ANTHONY",P005757   ,Missed Two Pointer (1/4 -  2 pt),2FGA,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,3,09:32,21,294,"RANDOLPH, ANTHONY",P005757   ,Off Rebound (1),O,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,1,09:28,21,295,"CAUSEUR, FABIEN",P001392   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,3,09:27,21,296,"RANDOLPH, ANTHONY",P005757   ,Off Rebound (2),O,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,3,09:22,21,297,"RANDOLPH, ANTHONY",P005757   ,Two Pointer (2/5 -  4 pt),2FGM,64.0,46.0,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,8,08:55,22,299,"MALMANIS, RINALDS",P004185   ,Turnover (1),TO,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,3,08:42,22,300,"RANDOLPH, ANTHONY",P005757   ,Missed Two Pointer (2/6 -  4 pt),2FGA,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,44,08:40,22,301,"TAYLOR, JEFFERY",P006546   ,Off Rebound (1),O,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,44,08:38,22,302,"TAYLOR, JEFFERY",P006546   ,Missed Two Pointer (1/2 -  3 pt),2FGA,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,17,08:37,22,303,"POIRIER, VINCENT",P004887   ,Def Rebound (4),D,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,8,08:34,22,304,"MALMANIS, RINALDS",P004185   ,Two Pointer (2/3 -  4 pt),2FGM,66.0,46.0,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,15,08:32,22,305,"GRANGER, JAYSON",P003024   ,Assist (3),AS,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,11,08:18,22,306,"CAMPAZZO, FACUNDO",P005928   ,Missed Two Pointer (0/1 -  3 pt),2FGA,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,44,08:16,22,307,"TAYLOR, JEFFERY",P006546   ,Off Rebound (2),O,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,9,08:10,22,308,"REYES, FELIPE",PAAX      ,Turnover (1),TO,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,15,07:54,23,310,"GRANGER, JAYSON",P003024   ,Missed Two Pointer (1/3 -  8 pt),2FGA,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,11,07:53,23,311,"CAMPAZZO, FACUNDO",P005928   ,Def Rebound (1),D,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,44,07:53,23,312,"TAYLOR, JEFFERY",P006546   ,Three Pointer (1/3 -  6 pt),3FGM,66.0,49.0,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,3,07:53,23,313,"RANDOLPH, ANTHONY",P005757   ,Assist (4),AS,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,15,07:21,23,314,"GRANGER, JAYSON",P003024   ,Missed Two Pointer (1/4 -  8 pt),2FGA,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,15,07:21,23,315,"GRANGER, JAYSON",P003024   ,Shot Rejected (1),AG,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,9,07:21,23,316,"REYES, FELIPE",PAAX      ,Block (1),FV,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,,07:21,23,317,,          ,Off Rebound (1),O,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,11,07:16,23,318,"JANNING, MATT",P004165   ,Foul Drawn (3),RV,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,1,07:16,23,319,"CAUSEUR, FABIEN",P001392   ,Foul (2),CM,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,3,07:16,23,320,"RANDOLPH, ANTHONY",P005757   ,Out,OUT,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,8,07:16,23,321,"MACIULIS, JONAS",PJCC      ,In,IN,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,6,07:08,23,322,"TIMMA, JANIS",P005718   ,Foul Drawn (1),RV,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,44,07:08,23,324,"TAYLOR, JEFFERY",P006546   ,Unsportsmanlike Foul  (2),CMU,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,6,07:08,23,325,"TIMMA, JANIS",P005718   ,Free Throw In (1/1 -  7 pt),FTM,67.0,49.0,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,6,07:08,23,326,"TIMMA, JANIS",P005718   ,Free Throw In (2/2 -  8 pt),FTM,68.0,49.0,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,11,06:52,24,328,"JANNING, MATT",P004165   ,Missed Two Pointer (1/3 -  11 pt),2FGA,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,,06:50,24,329,,          ,Off Rebound (2),O,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,15,06:47,24,330,"GRANGER, JAYSON",P003024   ,Foul Drawn (4),RV,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,11,06:47,24,331,"CAMPAZZO, FACUNDO",P005928   ,Foul (4),CM,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,7,06:47,24,332,"DONCIC, LUKA",P005929   ,In,IN,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,11,06:47,24,333,"CAMPAZZO, FACUNDO",P005928   ,Out,OUT,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,8,06:44,24,334,"MALMANIS, RINALDS",P004185   ,Two Pointer (3/4 -  6 pt),2FGM,70.0,49.0,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,15,06:41,24,335,"GRANGER, JAYSON",P003024   ,Assist (4),AS,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,9,06:25,24,336,"REYES, FELIPE",PAAX      ,Foul Drawn (2),RV,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,17,06:25,24,337,"POIRIER, VINCENT",P004887   ,Foul (3),CM,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,9,06:25,24,338,"REYES, FELIPE",PAAX      ,Free Throw In (1/1 -  3 pt),FTM,70.0,50.0,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,9,06:25,24,339,"REYES, FELIPE",PAAX      ,Missed Free Throw (1/2 -  3 pt),FTA,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,17,06:25,24,340,"POIRIER, VINCENT",P004887   ,Def Rebound (5),D,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,15,06:03,24,341,"GRANGER, JAYSON",P003024   ,Foul Drawn (5),RV,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,9,06:03,24,342,"REYES, FELIPE",PAAX      ,Foul (2),CM,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,12,06:03,24,343,"DIOP, ILIMANE",P003540   ,In,IN,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,17,06:03,24,344,"POIRIER, VINCENT",P004887   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,9,06:03,24,345,"REYES, FELIPE",PAAX      ,Out,OUT,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,22,06:03,24,346,"TAVARES, WALTER",P005791   ,In,IN,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,15,06:03,24,347,"GRANGER, JAYSON",P003024   ,Missed Free Throw (0/1 -  8 pt),FTA,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,15,06:03,24,348,"GRANGER, JAYSON",P003024   ,Missed Free Throw (0/2 -  8 pt),FTA,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,22,06:03,24,349,"TAVARES, WALTER",P005791   ,Def Rebound (1),D,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,1,05:55,25,351,"CAUSEUR, FABIEN",P001392   ,Two Pointer (1/3 -  2 pt),2FGM,70.0,52.0,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,1,05:55,25,352,"CAUSEUR, FABIEN",P001392   ,Foul Drawn (1),RV,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,8,05:55,25,353,"MALMANIS, RINALDS",P004185   ,Foul (2),CM,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,1,05:51,25,354,"CAUSEUR, FABIEN",P001392   ,Free Throw In (1/1 -  3 pt),FTM,70.0,53.0,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,12,05:39,25,355,"DIOP, ILIMANE",P003540   ,Foul Drawn (1),RV,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,22,05:39,25,356,"TAVARES, WALTER",P005791   ,Foul (1),CM,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,10,05:39,25,357,"BEAUBOIS, RODRIGUE",P006590   ,In,IN,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,11,05:39,25,358,"JANNING, MATT",P004165   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,12,05:39,25,359,"DIOP, ILIMANE",P003540   ,Free Throw In (1/1 -  1 pt),FTM,71.0,53.0,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,12,05:39,25,360,"DIOP, ILIMANE",P003540   ,Free Throw In (2/2 -  2 pt),FTM,72.0,53.0,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,8,05:28,25,361,"MACIULIS, JONAS",PJCC      ,Foul Drawn (2),RV,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,8,05:28,25,362,"MALMANIS, RINALDS",P004185   ,Foul (3),CM,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,7,05:17,25,363,"DONCIC, LUKA",P005929   ,Missed Three Pointer (2/7 -  14 pt),3FGA,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,,05:16,25,364,,          ,Def Rebound (3),D,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,8,05:16,25,365,"MALMANIS, RINALDS",P004185   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,23,05:16,25,366,"SHENGELIA, TORNIKE",P001133   ,In,IN,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,10,05:01,25,367,"BEAUBOIS, RODRIGUE",P006590   ,Missed Three Pointer (2/5 -  10 pt),3FGA,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,6,04:56,26,369,"TIMMA, JANIS",P005718   ,Off Rebound (1),O,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,10,04:47,26,370,"BEAUBOIS, RODRIGUE",P006590   ,Two Pointer (3/3 -  12 pt),2FGM,74.0,53.0,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,15,04:47,26,371,"GRANGER, JAYSON",P003024   ,Foul Drawn (6),RV,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,1,04:47,26,372,"CAUSEUR, FABIEN",P001392   ,Foul (3),CM,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+          ,,,04:47,26,373,,          ,TV Time Out (1),TOUT_TV,,,,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,15,04:47,26,374,"GRANGER, JAYSON",P003024   ,Free Throw In (1/3 -  9 pt),FTM,75.0,53.0,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,15,04:47,26,375,"GRANGER, JAYSON",P003024   ,Free Throw In (2/4 -  10 pt),FTM,76.0,53.0,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,7,04:35,26,376,"DONCIC, LUKA",P005929   ,Foul Drawn (4),RV,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,12,04:35,26,377,"DIOP, ILIMANE",P003540   ,Foul (1),CM,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,7,04:35,26,378,"DONCIC, LUKA",P005929   ,Free Throw In (5/5 -  15 pt),FTM,76.0,54.0,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,7,04:35,26,379,"DONCIC, LUKA",P005929   ,Free Throw In (6/6 -  16 pt),FTM,76.0,55.0,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,23,04:20,26,380,"SHENGELIA, TORNIKE",P001133   ,Missed Three Pointer (0/2 -  6 pt),3FGA,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,44,04:17,26,381,"TAYLOR, JEFFERY",P006546   ,Def Rebound (1),D,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,8,04:03,26,382,"MACIULIS, JONAS",PJCC      ,Foul Drawn (3),RV,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,12,04:03,26,383,"DIOP, ILIMANE",P003540   ,Foul (2),CM,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,8,04:03,26,384,"MACIULIS, JONAS",PJCC      ,Free Throw In (3/3 -  3 pt),FTM,76.0,56.0,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,8,04:03,26,385,"MACIULIS, JONAS",PJCC      ,Free Throw In (4/4 -  4 pt),FTM,76.0,57.0,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,23,03:38,27,387,"SHENGELIA, TORNIKE",P001133   ,Missed Two Pointer (2/5 -  6 pt),2FGA,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,6,03:36,27,388,"TIMMA, JANIS",P005718   ,Off Rebound (2),O,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,6,03:35,27,389,"TIMMA, JANIS",P005718   ,Two Pointer (1/1 -  10 pt),2FGM,78.0,57.0,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,8,03:16,27,390,"MACIULIS, JONAS",PJCC      ,Missed Three Pointer (0/1 -  4 pt),3FGA,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,12,03:13,27,391,"DIOP, ILIMANE",P003540   ,Def Rebound (1),D,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,12,03:13,27,392,"DIOP, ILIMANE",P003540   ,Foul Drawn (2),RV,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,7,03:13,27,393,"DONCIC, LUKA",P005929   ,Foul (1),CM,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,9,03:13,27,394,"HUERTAS, MARCELINHO",PJUJ      ,In,IN,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,15,03:13,27,395,"GRANGER, JAYSON",P003024   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,12,03:13,27,396,"DIOP, ILIMANE",P003540   ,Free Throw In (3/3 -  3 pt),FTM,79.0,57.0,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,12,03:13,27,397,"DIOP, ILIMANE",P003540   ,Free Throw In (4/4 -  4 pt),FTM,80.0,57.0,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,7,03:03,27,398,"DONCIC, LUKA",P005929   ,Turnover (1),TO,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,23,03:01,27,399,"SHENGELIA, TORNIKE",P001133   ,Steal (1),ST,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,10,02:45,28,401,"BEAUBOIS, RODRIGUE",P006590   ,Three Pointer (3/6 -  15 pt),3FGM,83.0,57.0,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,9,02:43,28,402,"HUERTAS, MARCELINHO",PJUJ      ,Assist (5),AS,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,44,02:37,28,403,"TAYLOR, JEFFERY",P006546   ,Shot Rejected (1),AG,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,22,02:37,28,516,"TAVARES, WALTER",P005791   ,Missed Two Pointer (2/3 -  4 pt),2FGA,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,12,02:37,28,440,"DIOP, ILIMANE",P003540   ,Block (1),FV,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,22,02:37,28,404,"TAVARES, WALTER",P005791   ,Off Rebound (1),O,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,22,02:37,28,405,"TAVARES, WALTER",P005791   ,Foul Drawn (2),RV,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,6,02:37,28,406,"TIMMA, JANIS",P005718   ,Foul (3),CM,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,5,02:37,28,407,"FERNANDEZ, RUDY",PBMT      ,In,IN,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,8,02:37,28,408,"MACIULIS, JONAS",PJCC      ,Out,OUT,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,33,02:37,28,409,"THOMPKINS, TREY",P005836   ,In,IN,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,44,02:37,28,410,"TAYLOR, JEFFERY",P006546   ,Out,OUT,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,22,02:26,28,411,"TAVARES, WALTER",P005791   ,Free Throw In (1/2 -  5 pt),FTM,83.0,58.0,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,22,02:26,28,412,"TAVARES, WALTER",P005791   ,Free Throw In (2/3 -  6 pt),FTM,83.0,59.0,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,6,02:26,28,413,"TIMMA, JANIS",P005718   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,52,02:26,28,414,"MCRAE, JORDAN",P007996   ,In,IN,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,23,02:14,28,415,"SHENGELIA, TORNIKE",P001133   ,Missed Three Pointer (0/3 -  6 pt),3FGA,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,52,02:14,28,416,"MCRAE, JORDAN",P007996   ,Off Rebound (1),O,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,52,02:14,28,417,"MCRAE, JORDAN",P007996   ,Missed Three Pointer (1/2 -  3 pt),3FGA,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,,02:14,28,418,,          ,Def Rebound (4),D,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,1,01:52,29,420,"CAUSEUR, FABIEN",P001392   ,Out,OUT,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,2,01:52,29,421,"RANDLE, CHASSON",P008038   ,In,IN,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,5,01:38,29,422,"FERNANDEZ, RUDY",PBMT      ,Missed Three Pointer (3/5 -  9 pt),3FGA,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,9,01:37,29,423,"HUERTAS, MARCELINHO",PJUJ      ,Def Rebound (1),D,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,9,01:15,29,424,"HUERTAS, MARCELINHO",PJUJ      ,Missed Two Pointer (3/4 -  10 pt),2FGA,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,23,01:15,29,425,"SHENGELIA, TORNIKE",P001133   ,Foul Drawn (4),RV,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,33,01:15,29,426,"THOMPKINS, TREY",P005836   ,Foul (3),CM,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,,01:15,29,427,,          ,Off Rebound (3),O,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,23,01:15,29,428,"SHENGELIA, TORNIKE",P001133   ,Missed Free Throw (2/3 -  6 pt),FTA,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,23,01:15,29,429,"SHENGELIA, TORNIKE",P001133   ,Free Throw In (3/4 -  7 pt),FTM,84.0,59.0,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,7,00:51,30,431,"DONCIC, LUKA",P005929   ,Two Pointer (3/4 -  18 pt),2FGM,84.0,61.0,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,12,00:37,30,432,"DIOP, ILIMANE",P003540   ,Two Pointer (1/1 -  6 pt),2FGM,86.0,61.0,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,10,00:35,30,433,"BEAUBOIS, RODRIGUE",P006590   ,Assist (1),AS,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,33,00:21,30,434,"THOMPKINS, TREY",P005836   ,Two Pointer (2/3 -  4 pt),2FGM,86.0,63.0,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,5,00:19,30,435,"FERNANDEZ, RUDY",PBMT      ,Assist (1),AS,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,12,00:00,30,436,"DIOP, ILIMANE",P003540   ,Two Pointer (2/2 -  8 pt),2FGM,88.0,63.0,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,9,00:00,30,437,"HUERTAS, MARCELINHO",PJUJ      ,Assist (6),AS,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+          ,,,,31,439,,          ,End Period,EP,,,,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+          ,,,,31,441,,          ,Begin Period,BP,,,,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,33,09:39,31,442,"THOMPKINS, TREY",P005836   ,Missed Three Pointer (0/2 -  4 pt),3FGA,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,9,09:37,31,443,"HUERTAS, MARCELINHO",PJUJ      ,Def Rebound (2),D,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,52,09:21,31,444,"MCRAE, JORDAN",P007996   ,Missed Three Pointer (1/3 -  3 pt),3FGA,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,,09:19,31,445,,          ,Def Rebound (5),D,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,7,09:19,31,446,"DONCIC, LUKA",P005929   ,Out,OUT,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,11,09:19,31,447,"CAMPAZZO, FACUNDO",P005928   ,In,IN,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,22,09:11,31,448,"TAVARES, WALTER",P005791   ,Foul Drawn (3),RV,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,12,09:11,31,449,"DIOP, ILIMANE",P003540   ,Foul (3),CM,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,5,09:05,31,450,"FERNANDEZ, RUDY",PBMT      ,Foul Drawn (2),RV,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,52,09:05,31,451,"MCRAE, JORDAN",P007996   ,Foul (1),CM,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,2,08:52,32,453,"RANDLE, CHASSON",P008038   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,22,08:50,32,454,"TAVARES, WALTER",P005791   ,Off Rebound (2),O,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,22,08:49,32,455,"TAVARES, WALTER",P005791   ,Two Pointer (3/4 -  8 pt),2FGM,88.0,65.0,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,52,08:24,32,456,"MCRAE, JORDAN",P007996   ,Missed Three Pointer (1/4 -  3 pt),3FGA,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,,08:21,32,457,,          ,Def Rebound (6),D,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,7,08:21,32,458,"VOIGTMANN, JOHANNES",P007201   ,In,IN,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,12,08:21,32,459,"DIOP, ILIMANE",P003540   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,5,08:04,32,460,"FERNANDEZ, RUDY",PBMT      ,Missed Three Pointer (3/6 -  9 pt),3FGA,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,23,08:02,32,461,"SHENGELIA, TORNIKE",P001133   ,Def Rebound (3),D,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,9,07:49,33,463,"HUERTAS, MARCELINHO",PJUJ      ,Three Pointer (1/2 -  13 pt),3FGM,91.0,65.0,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,23,07:49,33,464,"SHENGELIA, TORNIKE",P001133   ,Assist (2),AS,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,33,07:35,33,465,"THOMPKINS, TREY",P005836   ,Two Pointer (3/4 -  6 pt),2FGM,91.0,67.0,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,5,07:33,33,466,"FERNANDEZ, RUDY",PBMT      ,Assist (2),AS,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,10,07:20,33,467,"BEAUBOIS, RODRIGUE",P006590   ,Missed Three Pointer (3/7 -  15 pt),3FGA,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,22,07:17,33,468,"TAVARES, WALTER",P005791   ,Def Rebound (2),D,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,33,07:14,33,469,"THOMPKINS, TREY",P005836   ,Missed Three Pointer (0/3 -  6 pt),3FGA,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,52,07:14,33,470,"MCRAE, JORDAN",P007996   ,Def Rebound (1),D,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,52,06:56,34,472,"MCRAE, JORDAN",P007996   ,Two Pointer (1/1 -  5 pt),2FGM,93.0,67.0,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,11,06:44,34,473,"CAMPAZZO, FACUNDO",P005928   ,Turnover (2),TO,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,52,06:44,34,474,"MCRAE, JORDAN",P007996   ,Steal (1),ST,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,23,06:44,34,475,"SHENGELIA, TORNIKE",P001133   ,Offensive Foul (1),OF,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,23,06:44,34,476,"SHENGELIA, TORNIKE",P001133   ,Turnover (1),TO,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,11,06:44,34,477,"CAMPAZZO, FACUNDO",P005928   ,Foul Drawn (3),RV,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,5,06:37,34,478,"FERNANDEZ, RUDY",PBMT      ,Out,OUT,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,44,06:37,34,479,"TAYLOR, JEFFERY",P006546   ,In,IN,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,8,06:37,34,480,"MALMANIS, RINALDS",P004185   ,In,IN,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,23,06:37,34,481,"SHENGELIA, TORNIKE",P001133   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,11,06:30,34,482,"CAMPAZZO, FACUNDO",P005928   ,Out,OUT,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,20,06:30,34,483,"CARROLL, JAYCEE",P001960   ,In,IN,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,2,06:12,34,484,"RANDLE, CHASSON",P008038   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,22,06:11,34,485,"TAVARES, WALTER",P005791   ,Off Rebound (3),O,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,22,06:11,34,486,"TAVARES, WALTER",P005791   ,Foul Drawn (4),RV,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,7,06:11,34,487,"VOIGTMANN, JOHANNES",P007201   ,Foul (2),CM,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,44,06:01,34,488,"TAYLOR, JEFFERY",P006546   ,Turnover (1),TO,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,52,06:00,34,489,"MCRAE, JORDAN",P007996   ,Steal (2),ST,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,52,05:59,35,491,"MCRAE, JORDAN",P007996   ,Two Pointer (2/2 -  7 pt),2FGM,95.0,67.0,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,2,05:37,35,492,"RANDLE, CHASSON",P008038   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,8,05:35,35,493,"MALMANIS, RINALDS",P004185   ,Def Rebound (2),D,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,52,05:24,35,494,"MCRAE, JORDAN",P007996   ,Missed Two Pointer (2/3 -  7 pt),2FGA,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,10,05:22,35,495,"BEAUBOIS, RODRIGUE",P006590   ,Off Rebound (1),O,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,10,05:19,35,496,"BEAUBOIS, RODRIGUE",P006590   ,Missed Three Pointer (3/8 -  15 pt),3FGA,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,2,05:17,35,497,"RANDLE, CHASSON",P008038   ,Def Rebound (1),D,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,2,05:15,35,498,"RANDLE, CHASSON",P008038   ,Foul Drawn (1),RV,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,10,05:15,35,499,"BEAUBOIS, RODRIGUE",P006590   ,Foul (3),CM,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,10,05:15,35,500,"BEAUBOIS, RODRIGUE",P006590   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,11,05:15,35,501,"JANNING, MATT",P004165   ,In,IN,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,2,05:15,35,502,"RANDLE, CHASSON",P008038   ,Free Throw In (1/1 -  1 pt),FTM,95.0,68.0,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,2,05:15,35,503,"RANDLE, CHASSON",P008038   ,Free Throw In (2/2 -  2 pt),FTM,95.0,69.0,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,52,05:02,35,504,"MCRAE, JORDAN",P007996   ,Foul Drawn (1),RV,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,44,05:02,35,505,"TAYLOR, JEFFERY",P006546   ,Foul (3),CM,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,9,05:02,35,506,"HUERTAS, MARCELINHO",PJUJ      ,Out,OUT,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,15,05:02,35,507,"GRANGER, JAYSON",P003024   ,In,IN,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,8,05:02,35,508,"MALMANIS, RINALDS",P004185   ,Two Pointer (4/5 -  8 pt),2FGM,97.0,69.0,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,15,05:02,35,509,"GRANGER, JAYSON",P003024   ,Assist (5),AS,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,20,04:44,36,511,"CARROLL, JAYCEE",P001960   ,Missed Three Pointer (1/3 -  3 pt),3FGA,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,52,04:44,36,512,"MCRAE, JORDAN",P007996   ,Def Rebound (2),D,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,52,04:16,36,513,"MCRAE, JORDAN",P007996   ,Foul Drawn (2),RV,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,44,04:16,36,514,"TAYLOR, JEFFERY",P006546   ,Foul (4),CM,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+          ,,,04:16,36,515,,          ,TV Time Out (2),TOUT_TV,,,,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,15,04:02,36,518,"GRANGER, JAYSON",P003024   ,Foul Drawn (7),RV,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,2,04:02,36,519,"RANDLE, CHASSON",P008038   ,Foul (1),CM,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,15,04:02,36,520,"GRANGER, JAYSON",P003024   ,Free Throw In (3/5 -  11 pt),FTM,98.0,69.0,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,15,04:02,36,521,"GRANGER, JAYSON",P003024   ,Free Throw In (4/6 -  12 pt),FTM,99.0,69.0,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,3,04:02,36,522,"VILDOZA, LUCA",P007947   ,In,IN,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,15,04:02,36,523,"GRANGER, JAYSON",P003024   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,20,03:41,37,525,"CARROLL, JAYCEE",P001960   ,Two Pointer (1/1 -  5 pt),2FGM,99.0,71.0,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,11,03:29,37,526,"JANNING, MATT",P004165   ,Missed Two Pointer (1/4 -  11 pt),2FGA,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,,03:29,37,527,,          ,Turnover (2),TO,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,2,02:53,38,529,"RANDLE, CHASSON",P008038   ,Missed Two Pointer (0/3 -  2 pt),2FGA,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,7,02:51,38,530,"VOIGTMANN, JOHANNES",P007201   ,Def Rebound (1),D,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,3,02:40,38,531,"VILDOZA, LUCA",P007947   ,Three Pointer (1/1 -  3 pt),3FGM,102.0,71.0,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,11,02:38,38,532,"JANNING, MATT",P004165   ,Assist (3),AS,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,20,02:18,38,533,"CARROLL, JAYCEE",P001960   ,Missed Two Pointer (1/2 -  5 pt),2FGA,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,20,02:18,38,534,"CARROLL, JAYCEE",P001960   ,Shot Rejected (1),AG,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,11,02:16,38,535,"JANNING, MATT",P004165   ,Block (1),FV,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,8,02:13,38,536,"MALMANIS, RINALDS",P004185   ,Def Rebound (3),D,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,3,02:02,38,537,"VILDOZA, LUCA",P007947   ,Missed Two Pointer (0/1 -  3 pt),2FGA,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,22,01:57,39,541,"TAVARES, WALTER",P005791   ,Def Rebound (3),D,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,2,01:49,39,542,"RANDLE, CHASSON",P008038   ,Missed Three Pointer (0/2 -  2 pt),3FGA,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,11,01:46,39,543,"JANNING, MATT",P004165   ,Def Rebound (1),D,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,52,01:30,39,544,"MCRAE, JORDAN",P007996   ,Missed Two Pointer (2/4 -  7 pt),2FGA,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,7,01:30,39,545,"VOIGTMANN, JOHANNES",P007201   ,Off Rebound (1),O,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,7,01:30,39,546,"VOIGTMANN, JOHANNES",P007201   ,Two Pointer (1/1 -  2 pt),2FGM,104.0,71.0,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,22,01:12,39,547,"TAVARES, WALTER",P005791   ,Two Pointer (4/5 -  10 pt),2FGM,104.0,73.0,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,33,01:12,39,548,"THOMPKINS, TREY",P005836   ,Assist (2),AS,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,6,01:12,39,549,"TIMMA, JANIS",P005718   ,In,IN,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,11,01:12,39,550,"JANNING, MATT",P004165   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,52,00:52,40,552,"MCRAE, JORDAN",P007996   ,Foul Drawn (3),RV,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,22,00:52,40,553,"TAVARES, WALTER",P005791   ,Foul (2),CM,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,52,00:52,40,554,"MCRAE, JORDAN",P007996   ,Free Throw In (1/1 -  8 pt),FTM,105.0,73.0,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,8,00:52,40,555,"MALMANIS, RINALDS",P004185   ,Assist (2),AS,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,52,00:52,40,556,"MCRAE, JORDAN",P007996   ,Missed Free Throw (1/2 -  8 pt),FTA,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,33,00:52,40,557,"THOMPKINS, TREY",P005836   ,Def Rebound (3),D,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,20,00:34,40,558,"CARROLL, JAYCEE",P001960   ,Two Pointer (2/3 -  7 pt),2FGM,105.0,75.0,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,44,00:35,40,559,"TAYLOR, JEFFERY",P006546   ,Assist (1),AS,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,52,00:15,40,560,"MCRAE, JORDAN",P007996   ,Missed Two Pointer (2/5 -  8 pt),2FGA,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,22,00:13,40,561,"TAVARES, WALTER",P005791   ,Def Rebound (4),D,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+MAD       ,,44,00:08,40,562,"TAYLOR, JEFFERY",P006546   ,Missed Three Pointer (1/4 -  6 pt),3FGA,,,Real Madrid,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+BAS       ,,6,00:05,40,563,"TIMMA, JANIS",P005718   ,Def Rebound (4),D,,,Baskonia Vitoria Gasteiz,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD
+          ,,,,41,566,,          ,End Game,EG,,,,0,Baskonia Vitoria Gasteiz,BAS,Real Madrid,MAD

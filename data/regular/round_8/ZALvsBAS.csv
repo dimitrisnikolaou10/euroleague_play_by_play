@@ -1,531 +1,531 @@
-CODETEAM,COMMENT,DORSAL,MARKERTIME,MINUTE,NUMBEROFPLAY,PLAYER,PLAYER_ID,PLAYINFO,PLAYTYPE,POINTS_A,POINTS_B,TEAM,TYPE
-          ,,,,1,2,,          ,Begin Period,BP,,,,0
-BAS       ,,8,09:51,1,3,"MALMANIS, RINALDS",P004185   ,Foul (1),CM,,,Baskonia Vitoria Gasteiz,0
-ZAL       ,,13,09:51,1,4,"JANKUNAS, PAULIUS",PBWI      ,Foul Drawn (1),RV,,,Zalgiris Kaunas,0
-BAS       ,,8,09:45,1,5,"MALMANIS, RINALDS",P004185   ,Foul (2),CM,,,Baskonia Vitoria Gasteiz,0
-ZAL       ,,13,09:45,1,6,"JANKUNAS, PAULIUS",PBWI      ,Foul Drawn (2),RV,,,Zalgiris Kaunas,0
-ZAL       ,,13,09:43,1,7,"JANKUNAS, PAULIUS",PBWI      ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Zalgiris Kaunas,0
-BAS       ,,7,09:43,1,8,"VOIGTMANN, JOHANNES",P007201   ,Def Rebound (1),D,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,7,09:28,1,9,"VOIGTMANN, JOHANNES",P007201   ,Two Pointer (1/1 -  2 pt),2FGM,,2.0,Baskonia Vitoria Gasteiz,0
-ZAL       ,,3,09:16,1,10,"PANGOS, KEVIN",P006433   ,Turnover (1),TO,,,Zalgiris Kaunas,0
-BAS       ,,15,09:03,1,11,"GRANGER, JAYSON",P003024   ,Turnover (1),TO,,,Baskonia Vitoria Gasteiz,0
-ZAL       ,,21,09:01,1,12,"MILAKNIS, ARTURAS",PKPD      ,Steal (1),ST,,,Zalgiris Kaunas,0
-ZAL       ,,13,08:51,2,14,"JANKUNAS, PAULIUS",PBWI      ,Two Pointer (1/2 -  2 pt),2FGM,2.0,2.0,Zalgiris Kaunas,0
-BAS       ,,15,08:34,2,15,"GRANGER, JAYSON",P003024   ,Two Pointer (1/1 -  2 pt),2FGM,2.0,4.0,Baskonia Vitoria Gasteiz,0
-ZAL       ,,21,08:22,2,16,"MILAKNIS, ARTURAS",PKPD      ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Zalgiris Kaunas,0
-BAS       ,,6,08:18,2,17,"TIMMA, JANIS",P005718   ,Def Rebound (1),D,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,15,08:12,2,18,"GRANGER, JAYSON",P003024   ,Three Pointer (1/1 -  5 pt),3FGM,2.0,7.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,6,08:10,2,19,"TIMMA, JANIS",P005718   ,Assist (1),AS,,,Baskonia Vitoria Gasteiz,0
-ZAL       ,,13,07:58,3,21,"JANKUNAS, PAULIUS",PBWI      ,Missed Two Pointer (1/3 -  2 pt),2FGA,,,Zalgiris Kaunas,0
-BAS       ,,7,07:55,3,22,"VOIGTMANN, JOHANNES",P007201   ,Def Rebound (2),D,,,Baskonia Vitoria Gasteiz,0
-ZAL       ,,22,07:41,3,23,"MICIC, VASILIJE",P002580   ,Foul (1),CM,,,Zalgiris Kaunas,0
-BAS       ,,15,07:41,3,24,"GRANGER, JAYSON",P003024   ,Foul Drawn (1),RV,,,Baskonia Vitoria Gasteiz,0
-ZAL       ,,6,07:41,3,25,"TOUPANE, AXEL",P002582   ,In,IN,,,Zalgiris Kaunas,0
-ZAL       ,,22,07:41,3,26,"MICIC, VASILIJE",P002580   ,Out,OUT,,,Zalgiris Kaunas,0
-BAS       ,,8,07:41,3,27,"MALMANIS, RINALDS",P004185   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,23,07:41,3,28,"SHENGELIA, TORNIKE",P001133   ,In,IN,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,6,07:38,3,29,"TIMMA, JANIS",P005718   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,7,07:38,3,30,"VOIGTMANN, JOHANNES",P007201   ,Off Rebound (1),O,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,7,07:38,3,31,"VOIGTMANN, JOHANNES",P007201   ,Two Pointer (2/2 -  4 pt),2FGM,2.0,9.0,Baskonia Vitoria Gasteiz,0
-ZAL       ,,3,07:38,3,32,"PANGOS, KEVIN",P006433   ,Turnover (2),TO,,,Zalgiris Kaunas,0
-BAS       ,,23,07:38,3,33,"SHENGELIA, TORNIKE",P001133   ,Steal (1),ST,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,23,07:11,3,34,"SHENGELIA, TORNIKE",P001133   ,Offensive Foul (1),OF,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,23,07:11,3,35,"SHENGELIA, TORNIKE",P001133   ,Turnover (1),TO,,,Baskonia Vitoria Gasteiz,0
-ZAL       ,,13,07:11,3,36,"JANKUNAS, PAULIUS",PBWI      ,Foul Drawn (3),RV,,,Zalgiris Kaunas,0
-ZAL       ,,6,06:52,4,38,"TOUPANE, AXEL",P002582   ,Turnover (1),TO,,,Zalgiris Kaunas,0
-BAS       ,,15,06:50,4,39,"GRANGER, JAYSON",P003024   ,Steal (1),ST,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,6,06:37,4,40,"TIMMA, JANIS",P005718   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Baskonia Vitoria Gasteiz,0
-ZAL       ,,6,06:35,4,41,"TOUPANE, AXEL",P002582   ,Def Rebound (1),D,,,Zalgiris Kaunas,0
-ZAL       ,,6,06:17,4,42,"TOUPANE, AXEL",P002582   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Zalgiris Kaunas,0
-ZAL       ,,6,06:17,4,43,"TOUPANE, AXEL",P002582   ,Shot Rejected (1),AG,,,Zalgiris Kaunas,0
-BAS       ,,7,06:15,4,44,"VOIGTMANN, JOHANNES",P007201   ,Block (1),FV,,,Baskonia Vitoria Gasteiz,0
-ZAL       ,,6,06:12,4,45,"TOUPANE, AXEL",P002582   ,Off Rebound (1),O,,,Zalgiris Kaunas,0
-ZAL       ,,6,06:09,4,46,"TOUPANE, AXEL",P002582   ,Two Pointer (1/2 -  2 pt),2FGM,4.0,9.0,Zalgiris Kaunas,0
-BAS       ,,6,06:00,4,47,"TIMMA, JANIS",P005718   ,Three Pointer (1/2 -  3 pt),3FGM,4.0,12.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,7,06:00,4,48,"VOIGTMANN, JOHANNES",P007201   ,Assist (1),AS,,,Baskonia Vitoria Gasteiz,0
-ZAL       ,,21,05:37,5,50,"MILAKNIS, ARTURAS",PKPD      ,Three Pointer (1/2 -  3 pt),3FGM,7.0,12.0,Zalgiris Kaunas,0
-ZAL       ,,3,05:34,5,51,"PANGOS, KEVIN",P006433   ,Assist (1),AS,,,Zalgiris Kaunas,0
-BAS       ,,6,05:17,5,52,"TIMMA, JANIS",P005718   ,Turnover (1),TO,,,Baskonia Vitoria Gasteiz,0
-ZAL       ,,0,05:16,5,53,"DAVIES, BRANDON",P007870   ,Steal (1),ST,,,Zalgiris Kaunas,0
-ZAL       ,,3,05:06,5,54,"PANGOS, KEVIN",P006433   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Zalgiris Kaunas,0
-BAS       ,,7,05:03,5,55,"VOIGTMANN, JOHANNES",P007201   ,Def Rebound (3),D,,,Baskonia Vitoria Gasteiz,0
-ZAL       ,,0,04:59,6,57,"DAVIES, BRANDON",P007870   ,Foul (1),CM,,,Zalgiris Kaunas,0
-BAS       ,,15,04:59,6,58,"GRANGER, JAYSON",P003024   ,Foul Drawn (2),RV,,,Baskonia Vitoria Gasteiz,0
-          ,,,04:59,6,59,,          ,TV Time Out (1),TOUT_TV,,,,0
-ZAL       ,,0,04:59,6,60,"DAVIES, BRANDON",P007870   ,Out,OUT,,,Zalgiris Kaunas,0
-ZAL       ,,13,04:59,6,61,"JANKUNAS, PAULIUS",PBWI      ,Out,OUT,,,Zalgiris Kaunas,0
-ZAL       ,,30,04:59,6,62,"WHITE, AARON",P006505   ,In,IN,,,Zalgiris Kaunas,0
-ZAL       ,,44,04:59,6,63,"KAVALIAUSKAS, ANTANAS",P000399   ,In,IN,,,Zalgiris Kaunas,0
-BAS       ,,6,04:59,6,64,"TIMMA, JANIS",P005718   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,52,04:59,6,65,"MCRAE, JORDAN",P007996   ,In,IN,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,23,04:46,6,66,"SHENGELIA, TORNIKE",P001133   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Baskonia Vitoria Gasteiz,0
-ZAL       ,,6,04:43,6,67,"TOUPANE, AXEL",P002582   ,Def Rebound (2),D,,,Zalgiris Kaunas,0
-ZAL       ,,3,04:24,6,68,"PANGOS, KEVIN",P006433   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Zalgiris Kaunas,0
-ZAL       ,,3,04:24,6,69,"PANGOS, KEVIN",P006433   ,Shot Rejected (1),AG,,,Zalgiris Kaunas,0
-BAS       ,,15,04:24,6,70,"GRANGER, JAYSON",P003024   ,Block (1),FV,,,Baskonia Vitoria Gasteiz,0
-ZAL       ,,,04:24,6,71,,          ,Off Rebound (1),O,,,Zalgiris Kaunas,0
-ZAL       ,,1,04:24,6,72,"BOST, DEE",P004264   ,In,IN,,,Zalgiris Kaunas,0
-ZAL       ,,3,04:24,6,73,"PANGOS, KEVIN",P006433   ,Out,OUT,,,Zalgiris Kaunas,0
-ZAL       ,,30,04:20,6,74,"WHITE, AARON",P006505   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Zalgiris Kaunas,0
-BAS       ,,23,04:18,6,75,"SHENGELIA, TORNIKE",P001133   ,Def Rebound (1),D,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,52,04:07,6,76,"MCRAE, JORDAN",P007996   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Baskonia Vitoria Gasteiz,0
-ZAL       ,,,04:07,6,77,,          ,Def Rebound (1),D,,,Zalgiris Kaunas,0
-BAS       ,,9,04:01,6,78,"HUERTAS, MARCELINHO",PJUJ      ,In,IN,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,15,04:01,6,79,"GRANGER, JAYSON",P003024   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0
-ZAL       ,,1,03:44,7,81,"BOST, DEE",P004264   ,Turnover (1),TO,,,Zalgiris Kaunas,0
-BAS       ,,7,03:36,7,82,"VOIGTMANN, JOHANNES",P007201   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,17,03:36,7,83,"POIRIER, VINCENT",P004887   ,In,IN,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,17,03:25,7,84,"POIRIER, VINCENT",P004887   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Baskonia Vitoria Gasteiz,0
-ZAL       ,,44,03:25,7,85,"KAVALIAUSKAS, ANTANAS",P000399   ,Def Rebound (1),D,,,Zalgiris Kaunas,0
-ZAL       ,,6,03:25,7,86,"TOUPANE, AXEL",P002582   ,Two Pointer (2/3 -  4 pt),2FGM,9.0,12.0,Zalgiris Kaunas,0
-ZAL       ,,1,03:25,7,284,"BOST, DEE",P004264   ,Assist (1),AS,,,Zalgiris Kaunas,0
-BAS       ,,11,03:25,7,87,"JANNING, MATT",P004165   ,Foul (1),CM,,,Baskonia Vitoria Gasteiz,0
-ZAL       ,,6,03:25,7,88,"TOUPANE, AXEL",P002582   ,Foul Drawn (1),RV,,,Zalgiris Kaunas,0
-BAS       ,,10,03:25,7,89,"BEAUBOIS, RODRIGUE",P006590   ,In,IN,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,11,03:25,7,90,"JANNING, MATT",P004165   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0
-ZAL       ,,6,03:25,7,91,"TOUPANE, AXEL",P002582   ,Missed Free Throw (0/1 -  4 pt),FTA,,,Zalgiris Kaunas,0
-BAS       ,,,03:25,7,92,,          ,Def Rebound (2),D,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,9,03:13,7,93,"HUERTAS, MARCELINHO",PJUJ      ,Turnover (1),TO,,,Baskonia Vitoria Gasteiz,0
-ZAL       ,,6,03:12,7,94,"TOUPANE, AXEL",P002582   ,Steal (1),ST,,,Zalgiris Kaunas,0
-ZAL       ,,6,03:09,7,95,"TOUPANE, AXEL",P002582   ,Missed Two Pointer (2/4 -  4 pt),2FGA,,,Zalgiris Kaunas,0
-BAS       ,,17,03:09,7,96,"POIRIER, VINCENT",P004887   ,Def Rebound (1),D,,,Baskonia Vitoria Gasteiz,0
-ZAL       ,,1,03:06,7,97,"BOST, DEE",P004264   ,Foul (1),CM,,,Zalgiris Kaunas,0
-BAS       ,,9,03:06,7,98,"HUERTAS, MARCELINHO",PJUJ      ,Foul Drawn (1),RV,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,17,02:48,8,100,"POIRIER, VINCENT",P004887   ,Two Pointer (1/2 -  2 pt),2FGM,9.0,14.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,9,02:46,8,101,"HUERTAS, MARCELINHO",PJUJ      ,Assist (1),AS,,,Baskonia Vitoria Gasteiz,0
-ZAL       ,,6,02:32,8,102,"TOUPANE, AXEL",P002582   ,Two Pointer (3/5 -  6 pt),2FGM,11.0,14.0,Zalgiris Kaunas,0
-ZAL       ,,1,02:32,8,103,"BOST, DEE",P004264   ,Assist (2),AS,,,Zalgiris Kaunas,0
-ZAL       ,,21,02:32,8,104,"MILAKNIS, ARTURAS",PKPD      ,Out,OUT,,,Zalgiris Kaunas,0
-ZAL       ,,92,02:32,8,105,"ULANOVAS, EDGARAS",P002329   ,In,IN,,,Zalgiris Kaunas,0
-ZAL       ,,6,02:15,8,106,"TOUPANE, AXEL",P002582   ,Foul (1),CM,,,Zalgiris Kaunas,0
-BAS       ,,52,02:15,8,107,"MCRAE, JORDAN",P007996   ,Foul Drawn (1),RV,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,52,02:15,8,108,"MCRAE, JORDAN",P007996   ,Free Throw In (1/1 -  1 pt),FTM,11.0,15.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,52,02:15,8,109,"MCRAE, JORDAN",P007996   ,Free Throw In (2/2 -  2 pt),FTM,11.0,16.0,Baskonia Vitoria Gasteiz,0
-ZAL       ,,6,01:56,9,111,"TOUPANE, AXEL",P002582   ,Missed Two Pointer (3/6 -  6 pt),2FGA,,,Zalgiris Kaunas,0
-BAS       ,,,01:56,9,112,,          ,Def Rebound (3),D,,,Baskonia Vitoria Gasteiz,0
-ZAL       ,,44,01:45,9,113,"KAVALIAUSKAS, ANTANAS",P000399   ,Foul (1),CM,,,Zalgiris Kaunas,0
-BAS       ,,23,01:45,9,114,"SHENGELIA, TORNIKE",P001133   ,Foul Drawn (1),RV,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,23,01:45,9,115,"SHENGELIA, TORNIKE",P001133   ,Free Throw In (1/1 -  1 pt),FTM,11.0,17.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,23,01:45,9,116,"SHENGELIA, TORNIKE",P001133   ,Free Throw In (2/2 -  2 pt),FTM,11.0,18.0,Baskonia Vitoria Gasteiz,0
-ZAL       ,,6,01:45,9,117,"TOUPANE, AXEL",P002582   ,Out,OUT,,,Zalgiris Kaunas,0
-ZAL       ,,22,01:45,9,118,"MICIC, VASILIJE",P002580   ,In,IN,,,Zalgiris Kaunas,0
-ZAL       ,,30,01:21,9,119,"WHITE, AARON",P006505   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Zalgiris Kaunas,0
-BAS       ,,17,01:19,9,120,"POIRIER, VINCENT",P004887   ,Def Rebound (2),D,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,23,01:17,9,121,"SHENGELIA, TORNIKE",P001133   ,Two Pointer (1/2 -  4 pt),2FGM,11.0,20.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,9,01:17,9,122,"HUERTAS, MARCELINHO",PJUJ      ,Assist (2),AS,,,Baskonia Vitoria Gasteiz,0
-ZAL       ,,1,01:17,9,123,"BOST, DEE",P004264   ,Foul (2),CM,,,Zalgiris Kaunas,0
-BAS       ,,23,01:17,9,124,"SHENGELIA, TORNIKE",P001133   ,Foul Drawn (2),RV,,,Baskonia Vitoria Gasteiz,0
-ZAL       ,,,01:17,9,125,,          ,Time Out (1),TOUT,,,Zalgiris Kaunas,0
-ZAL       ,,1,01:17,9,126,"BOST, DEE",P004264   ,Out,OUT,,,Zalgiris Kaunas,0
-ZAL       ,,66,01:17,9,127,"VALINSKAS, PAULIUS",P004664   ,In,IN,,,Zalgiris Kaunas,0
-BAS       ,,23,01:17,9,128,"SHENGELIA, TORNIKE",P001133   ,Free Throw In (3/3 -  5 pt),FTM,11.0,21.0,Baskonia Vitoria Gasteiz,0
-ZAL       ,,30,01:04,9,129,"WHITE, AARON",P006505   ,Two Pointer (1/3 -  2 pt),2FGM,13.0,21.0,Zalgiris Kaunas,0
-ZAL       ,,44,01:01,9,130,"KAVALIAUSKAS, ANTANAS",P000399   ,Assist (1),AS,,,Zalgiris Kaunas,0
-BAS       ,,10,00:49,10,132,"BEAUBOIS, RODRIGUE",P006590   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Baskonia Vitoria Gasteiz,0
-ZAL       ,,66,00:47,10,133,"VALINSKAS, PAULIUS",P004664   ,Def Rebound (1),D,,,Zalgiris Kaunas,0
-ZAL       ,,92,00:27,10,134,"ULANOVAS, EDGARAS",P002329   ,Two Pointer (1/1 -  2 pt),2FGM,15.0,21.0,Zalgiris Kaunas,0
-ZAL       ,,22,00:22,10,135,"MICIC, VASILIJE",P002580   ,Assist (1),AS,,,Zalgiris Kaunas,0
-BAS       ,,52,00:01,10,136,"MCRAE, JORDAN",P007996   ,Missed Two Pointer (0/2 -  2 pt),2FGA,,,Baskonia Vitoria Gasteiz,0
-          ,,,,11,138,,          ,End Period,EP,,,,0
-          ,,,,11,143,,          ,Begin Period,BP,,,,0
-BAS       ,,6,10:00,11,139,"TIMMA, JANIS",P005718   ,In,IN,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,8,10:00,11,140,"MALMANIS, RINALDS",P004185   ,In,IN,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,23,10:00,11,141,"SHENGELIA, TORNIKE",P001133   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,52,10:00,11,142,"MCRAE, JORDAN",P007996   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,10,09:50,11,144,"BEAUBOIS, RODRIGUE",P006590   ,Three Pointer (1/2 -  3 pt),3FGM,15.0,24.0,Baskonia Vitoria Gasteiz,0
-ZAL       ,,22,09:27,11,145,"MICIC, VASILIJE",P002580   ,Two Pointer (1/1 -  2 pt),2FGM,17.0,24.0,Zalgiris Kaunas,0
-BAS       ,,9,09:07,11,146,"HUERTAS, MARCELINHO",PJUJ      ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Baskonia Vitoria Gasteiz,0
-ZAL       ,,44,09:04,11,147,"KAVALIAUSKAS, ANTANAS",P000399   ,Def Rebound (2),D,,,Zalgiris Kaunas,0
-BAS       ,,17,08:55,12,149,"POIRIER, VINCENT",P004887   ,Foul (1),CM,,,Baskonia Vitoria Gasteiz,0
-ZAL       ,,22,08:55,12,150,"MICIC, VASILIJE",P002580   ,Foul Drawn (1),RV,,,Zalgiris Kaunas,0
-ZAL       ,,22,08:44,12,151,"MICIC, VASILIJE",P002580   ,Turnover (1),TO,,,Zalgiris Kaunas,0
-BAS       ,,6,08:42,12,152,"TIMMA, JANIS",P005718   ,Steal (1),ST,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,17,08:40,12,153,"POIRIER, VINCENT",P004887   ,Turnover (1),TO,,,Baskonia Vitoria Gasteiz,0
-ZAL       ,,66,08:24,12,154,"VALINSKAS, PAULIUS",P004664   ,Two Pointer (1/1 -  2 pt),2FGM,19.0,24.0,Zalgiris Kaunas,0
-ZAL       ,,22,08:21,12,155,"MICIC, VASILIJE",P002580   ,Assist (2),AS,,,Zalgiris Kaunas,0
-BAS       ,,10,08:10,12,156,"BEAUBOIS, RODRIGUE",P006590   ,Missed Two Pointer (0/1 -  3 pt),2FGA,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,,08:10,12,157,,          ,Off Rebound (2),O,,,Baskonia Vitoria Gasteiz,0
-ZAL       ,,44,08:10,12,158,"KAVALIAUSKAS, ANTANAS",P000399   ,Foul (2),CM,,,Zalgiris Kaunas,0
-BAS       ,,17,08:10,12,159,"POIRIER, VINCENT",P004887   ,Foul Drawn (1),RV,,,Baskonia Vitoria Gasteiz,0
-ZAL       ,,13,08:10,12,160,"JANKUNAS, PAULIUS",PBWI      ,In,IN,,,Zalgiris Kaunas,0
-ZAL       ,,44,08:10,12,161,"KAVALIAUSKAS, ANTANAS",P000399   ,Out,OUT,,,Zalgiris Kaunas,0
-BAS       ,,9,08:10,12,162,"HUERTAS, MARCELINHO",PJUJ      ,Out,OUT,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,15,08:10,12,163,"GRANGER, JAYSON",P003024   ,In,IN,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,10,08:03,12,164,"BEAUBOIS, RODRIGUE",P006590   ,Missed Two Pointer (0/2 -  3 pt),2FGA,,,Baskonia Vitoria Gasteiz,0
-ZAL       ,,66,08:00,13,166,"VALINSKAS, PAULIUS",P004664   ,Def Rebound (2),D,,,Zalgiris Kaunas,0
-BAS       ,,17,07:55,13,167,"POIRIER, VINCENT",P004887   ,Foul (2),CM,,,Baskonia Vitoria Gasteiz,0
-ZAL       ,,13,07:55,13,168,"JANKUNAS, PAULIUS",PBWI      ,Foul Drawn (4),RV,,,Zalgiris Kaunas,0
-BAS       ,,7,07:55,13,169,"VOIGTMANN, JOHANNES",P007201   ,In,IN,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,17,07:55,13,170,"POIRIER, VINCENT",P004887   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0
-ZAL       ,,22,07:46,13,171,"MICIC, VASILIJE",P002580   ,Two Pointer (2/2 -  4 pt),2FGM,21.0,24.0,Zalgiris Kaunas,0
-BAS       ,,7,07:30,13,172,"VOIGTMANN, JOHANNES",P007201   ,Missed Two Pointer (2/3 -  4 pt),2FGA,,,Baskonia Vitoria Gasteiz,0
-ZAL       ,,,07:30,13,173,,          ,Def Rebound (4),D,,,Zalgiris Kaunas,0
-BAS       ,,7,07:30,13,174,"VOIGTMANN, JOHANNES",P007201   ,Foul (1),CM,,,Baskonia Vitoria Gasteiz,0
-ZAL       ,,92,07:30,13,175,"ULANOVAS, EDGARAS",P002329   ,Foul Drawn (1),RV,,,Zalgiris Kaunas,0
-ZAL       ,,22,07:17,13,176,"MICIC, VASILIJE",P002580   ,Turnover (2),TO,,,Zalgiris Kaunas,0
-BAS       ,,8,07:03,13,177,"MALMANIS, RINALDS",P004185   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Baskonia Vitoria Gasteiz,0
-ZAL       ,,92,07:03,13,178,"ULANOVAS, EDGARAS",P002329   ,Def Rebound (1),D,,,Zalgiris Kaunas,0
-ZAL       ,,21,07:03,13,179,"MILAKNIS, ARTURAS",PKPD      ,In,IN,,,Zalgiris Kaunas,0
-ZAL       ,,30,07:03,13,180,"WHITE, AARON",P006505   ,Out,OUT,,,Zalgiris Kaunas,0
-ZAL       ,,13,06:51,14,182,"JANKUNAS, PAULIUS",PBWI      ,Two Pointer (2/4 -  4 pt),2FGM,23.0,24.0,Zalgiris Kaunas,0
-ZAL       ,,22,06:49,14,183,"MICIC, VASILIJE",P002580   ,Assist (3),AS,,,Zalgiris Kaunas,0
-BAS       ,,15,06:28,14,184,"GRANGER, JAYSON",P003024   ,Missed Three Pointer (1/2 -  5 pt),3FGA,,,Baskonia Vitoria Gasteiz,0
-ZAL       ,,,06:28,14,185,,          ,Def Rebound (5),D,,,Zalgiris Kaunas,0
-BAS       ,,8,06:28,14,186,"MALMANIS, RINALDS",P004185   ,Foul (3),CM,,,Baskonia Vitoria Gasteiz,0
-ZAL       ,,22,06:28,14,187,"MICIC, VASILIJE",P002580   ,Foul Drawn (2),RV,,,Zalgiris Kaunas,0
-BAS       ,,8,06:28,14,188,"MALMANIS, RINALDS",P004185   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,23,06:28,14,189,"SHENGELIA, TORNIKE",P001133   ,In,IN,,,Baskonia Vitoria Gasteiz,0
-ZAL       ,,92,06:16,14,190,"ULANOVAS, EDGARAS",P002329   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,Zalgiris Kaunas,0
-ZAL       ,,92,06:16,14,191,"ULANOVAS, EDGARAS",P002329   ,Shot Rejected (1),AG,,,Zalgiris Kaunas,0
-BAS       ,,7,06:14,14,192,"VOIGTMANN, JOHANNES",P007201   ,Block (2),FV,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,15,06:12,14,193,"GRANGER, JAYSON",P003024   ,Def Rebound (1),D,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,10,06:08,14,194,"BEAUBOIS, RODRIGUE",P006590   ,Three Pointer (2/3 -  6 pt),3FGM,23.0,27.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,6,06:05,14,195,"TIMMA, JANIS",P005718   ,Assist (2),AS,,,Baskonia Vitoria Gasteiz,0
-ZAL       ,,22,05:44,15,197,"MICIC, VASILIJE",P002580   ,Two Pointer (3/3 -  6 pt),2FGM,25.0,27.0,Zalgiris Kaunas,0
-BAS       ,,23,05:33,15,198,"SHENGELIA, TORNIKE",P001133   ,Two Pointer (2/3 -  7 pt),2FGM,25.0,29.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,10,05:31,15,199,"BEAUBOIS, RODRIGUE",P006590   ,Assist (1),AS,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,6,05:17,15,200,"TIMMA, JANIS",P005718   ,Foul (1),CM,,,Baskonia Vitoria Gasteiz,0
-ZAL       ,,13,05:17,15,201,"JANKUNAS, PAULIUS",PBWI      ,Foul Drawn (5),RV,,,Zalgiris Kaunas,0
-ZAL       ,,3,05:17,15,202,"PANGOS, KEVIN",P006433   ,In,IN,,,Zalgiris Kaunas,0
-ZAL       ,,66,05:17,15,203,"VALINSKAS, PAULIUS",P004664   ,Out,OUT,,,Zalgiris Kaunas,0
-ZAL       ,,13,05:17,15,204,"JANKUNAS, PAULIUS",PBWI      ,Free Throw In (1/1 -  5 pt),FTM,26.0,29.0,Zalgiris Kaunas,0
-ZAL       ,,13,05:17,15,205,"JANKUNAS, PAULIUS",PBWI      ,Free Throw In (2/2 -  6 pt),FTM,27.0,29.0,Zalgiris Kaunas,0
-BAS       ,,10,04:54,16,207,"BEAUBOIS, RODRIGUE",P006590   ,Three Pointer (3/4 -  9 pt),3FGM,27.0,32.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,15,04:51,16,208,"GRANGER, JAYSON",P003024   ,Assist (1),AS,,,Baskonia Vitoria Gasteiz,0
-          ,,,04:39,16,209,,          ,TV Time Out (2),TOUT_TV,,,,0
-BAS       ,,10,04:39,16,210,"BEAUBOIS, RODRIGUE",P006590   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,11,04:39,16,211,"JANNING, MATT",P004165   ,In,IN,,,Baskonia Vitoria Gasteiz,0
-ZAL       ,,13,04:27,16,212,"JANKUNAS, PAULIUS",PBWI      ,Two Pointer (3/5 -  8 pt),2FGM,29.0,32.0,Zalgiris Kaunas,0
-ZAL       ,,3,04:26,16,213,"PANGOS, KEVIN",P006433   ,Assist (2),AS,,,Zalgiris Kaunas,0
-BAS       ,,15,04:18,16,214,"GRANGER, JAYSON",P003024   ,Three Pointer (2/3 -  8 pt),3FGM,29.0,35.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,7,04:18,16,215,"VOIGTMANN, JOHANNES",P007201   ,Assist (2),AS,,,Baskonia Vitoria Gasteiz,0
-ZAL       ,,,04:11,16,216,,          ,Time Out (1),TOUT,,,Zalgiris Kaunas,0
-ZAL       ,,3,03:57,17,218,"PANGOS, KEVIN",P006433   ,Turnover (3),TO,,,Zalgiris Kaunas,0
-ZAL       ,,22,03:43,17,219,"MICIC, VASILIJE",P002580   ,Foul (2),CM,,,Zalgiris Kaunas,0
-BAS       ,,7,03:43,17,220,"VOIGTMANN, JOHANNES",P007201   ,Foul Drawn (1),RV,,,Baskonia Vitoria Gasteiz,0
-ZAL       ,,6,03:43,17,221,"TOUPANE, AXEL",P002582   ,In,IN,,,Zalgiris Kaunas,0
-ZAL       ,,22,03:43,17,222,"MICIC, VASILIJE",P002580   ,Out,OUT,,,Zalgiris Kaunas,0
-BAS       ,,11,03:28,17,223,"JANNING, MATT",P004165   ,Three Pointer (1/1 -  3 pt),3FGM,29.0,38.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,23,03:26,17,224,"SHENGELIA, TORNIKE",P001133   ,Assist (1),AS,,,Baskonia Vitoria Gasteiz,0
-ZAL       ,,6,03:11,17,225,"TOUPANE, AXEL",P002582   ,Missed Two Pointer (3/7 -  6 pt),2FGA,,,Zalgiris Kaunas,0
-ZAL       ,,6,03:11,17,226,"TOUPANE, AXEL",P002582   ,Shot Rejected (2),AG,,,Zalgiris Kaunas,0
-BAS       ,,6,03:10,17,227,"TIMMA, JANIS",P005718   ,Block (1),FV,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,7,03:08,17,228,"VOIGTMANN, JOHANNES",P007201   ,Def Rebound (4),D,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,15,03:05,17,229,"GRANGER, JAYSON",P003024   ,Three Pointer (3/4 -  11 pt),3FGM,29.0,41.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,15,02:43,18,231,"GRANGER, JAYSON",P003024   ,Foul (1),CM,,,Baskonia Vitoria Gasteiz,0
-ZAL       ,,13,02:43,18,232,"JANKUNAS, PAULIUS",PBWI      ,Foul Drawn (6),RV,,,Zalgiris Kaunas,0
-ZAL       ,,13,02:43,18,233,"JANKUNAS, PAULIUS",PBWI      ,Free Throw In (3/3 -  9 pt),FTM,30.0,41.0,Zalgiris Kaunas,0
-ZAL       ,,13,02:43,18,234,"JANKUNAS, PAULIUS",PBWI      ,Missed Free Throw (3/4 -  9 pt),FTA,,,Zalgiris Kaunas,0
-BAS       ,,23,02:43,18,235,"SHENGELIA, TORNIKE",P001133   ,Def Rebound (2),D,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,11,02:31,18,236,"JANNING, MATT",P004165   ,Missed Three Pointer (1/2 -  3 pt),3FGA,,,Baskonia Vitoria Gasteiz,0
-ZAL       ,,21,02:31,18,237,"MILAKNIS, ARTURAS",PKPD      ,Def Rebound (1),D,,,Zalgiris Kaunas,0
-ZAL       ,,3,02:07,18,238,"PANGOS, KEVIN",P006433   ,Missed Two Pointer (0/3 -  0 pt),2FGA,,,Zalgiris Kaunas,0
-BAS       ,,,02:07,18,239,,          ,Def Rebound (6),D,,,Baskonia Vitoria Gasteiz,0
-ZAL       ,,92,02:07,18,240,"ULANOVAS, EDGARAS",P002329   ,Foul (1),CM,,,Zalgiris Kaunas,0
-BAS       ,,23,02:07,18,241,"SHENGELIA, TORNIKE",P001133   ,Foul Drawn (3),RV,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,23,01:51,19,243,"SHENGELIA, TORNIKE",P001133   ,Three Pointer (1/1 -  10 pt),3FGM,30.0,44.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,15,01:48,19,244,"GRANGER, JAYSON",P003024   ,Assist (2),AS,,,Baskonia Vitoria Gasteiz,0
-ZAL       ,,13,01:27,19,245,"JANKUNAS, PAULIUS",PBWI      ,Missed Two Pointer (3/6 -  9 pt),2FGA,,,Zalgiris Kaunas,0
-BAS       ,,23,01:25,19,246,"SHENGELIA, TORNIKE",P001133   ,Def Rebound (3),D,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,23,01:11,19,247,"SHENGELIA, TORNIKE",P001133   ,Two Pointer (3/4 -  12 pt),2FGM,30.0,46.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,15,01:09,19,248,"GRANGER, JAYSON",P003024   ,Assist (3),AS,,,Baskonia Vitoria Gasteiz,0
-ZAL       ,,3,00:58,20,250,"PANGOS, KEVIN",P006433   ,Turnover (4),TO,,,Zalgiris Kaunas,0
-BAS       ,,11,00:56,20,251,"JANNING, MATT",P004165   ,Steal (1),ST,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,11,00:53,20,252,"JANNING, MATT",P004165   ,Two Pointer (1/1 -  5 pt),2FGM,30.0,48.0,Baskonia Vitoria Gasteiz,0
-ZAL       ,,3,00:53,20,253,"PANGOS, KEVIN",P006433   ,Foul (1),CM,,,Zalgiris Kaunas,0
-BAS       ,,11,00:53,20,254,"JANNING, MATT",P004165   ,Foul Drawn (1),RV,,,Baskonia Vitoria Gasteiz,0
-ZAL       ,,3,00:53,20,255,"PANGOS, KEVIN",P006433   ,Out,OUT,,,Zalgiris Kaunas,0
-ZAL       ,,6,00:53,20,256,"TOUPANE, AXEL",P002582   ,Out,OUT,,,Zalgiris Kaunas,0
-ZAL       ,,21,00:53,20,257,"MILAKNIS, ARTURAS",PKPD      ,Out,OUT,,,Zalgiris Kaunas,0
-ZAL       ,,22,00:53,20,258,"MICIC, VASILIJE",P002580   ,In,IN,,,Zalgiris Kaunas,0
-ZAL       ,,30,00:53,20,259,"WHITE, AARON",P006505   ,In,IN,,,Zalgiris Kaunas,0
-ZAL       ,,66,00:53,20,260,"VALINSKAS, PAULIUS",P004664   ,In,IN,,,Zalgiris Kaunas,0
-BAS       ,,7,00:53,20,261,"VOIGTMANN, JOHANNES",P007201   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,17,00:53,20,262,"POIRIER, VINCENT",P004887   ,In,IN,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,11,00:53,20,263,"JANNING, MATT",P004165   ,Free Throw In (1/1 -  6 pt),FTM,30.0,49.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,9,00:53,20,264,"HUERTAS, MARCELINHO",PJUJ      ,In,IN,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,15,00:53,20,265,"GRANGER, JAYSON",P003024   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0
-ZAL       ,,13,00:44,20,266,"JANKUNAS, PAULIUS",PBWI      ,Offensive Foul (1),OF,,,Zalgiris Kaunas,0
-ZAL       ,,13,00:44,20,267,"JANKUNAS, PAULIUS",PBWI      ,Turnover (1),TO,,,Zalgiris Kaunas,0
-BAS       ,,11,00:44,20,268,"JANNING, MATT",P004165   ,Foul Drawn (2),RV,,,Baskonia Vitoria Gasteiz,0
-ZAL       ,,0,00:44,20,269,"DAVIES, BRANDON",P007870   ,In,IN,,,Zalgiris Kaunas,0
-ZAL       ,,13,00:44,20,270,"JANKUNAS, PAULIUS",PBWI      ,Out,OUT,,,Zalgiris Kaunas,0
-BAS       ,,6,00:30,20,271,"TIMMA, JANIS",P005718   ,Three Pointer (2/3 -  6 pt),3FGM,30.0,52.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,9,00:28,20,272,"HUERTAS, MARCELINHO",PJUJ      ,Assist (3),AS,,,Baskonia Vitoria Gasteiz,0
-ZAL       ,,22,00:09,20,273,"MICIC, VASILIJE",P002580   ,Two Pointer (4/4 -  8 pt),2FGM,32.0,52.0,Zalgiris Kaunas,0
-BAS       ,,,00:09,20,274,,          ,Time Out (1),TOUT,,,Baskonia Vitoria Gasteiz,0
-ZAL       ,,0,00:09,20,275,"DAVIES, BRANDON",P007870   ,Out,OUT,,,Zalgiris Kaunas,0
-ZAL       ,,6,00:09,20,276,"TOUPANE, AXEL",P002582   ,In,IN,,,Zalgiris Kaunas,0
-ZAL       ,,21,00:09,20,277,"MILAKNIS, ARTURAS",PKPD      ,In,IN,,,Zalgiris Kaunas,0
-ZAL       ,,66,00:09,20,278,"VALINSKAS, PAULIUS",P004664   ,Out,OUT,,,Zalgiris Kaunas,0
-BAS       ,,17,00:02,20,279,"POIRIER, VINCENT",P004887   ,Two Pointer (2/3 -  4 pt),2FGM,32.0,54.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,9,00:02,20,280,"HUERTAS, MARCELINHO",PJUJ      ,Assist (4),AS,,,Baskonia Vitoria Gasteiz,0
-ZAL       ,,22,00:01,20,281,"MICIC, VASILIJE",P002580   ,Missed Three Pointer (0/1 -  8 pt),3FGA,,,Zalgiris Kaunas,0
-          ,,,,21,283,,          ,End Period,EP,,,,0
-          ,,,,21,297,,          ,Begin Period,BP,,,,0
-ZAL       ,,0,10:00,21,285,"DAVIES, BRANDON",P007870   ,In,IN,,,Zalgiris Kaunas,0
-ZAL       ,,3,10:00,21,286,"PANGOS, KEVIN",P006433   ,In,IN,,,Zalgiris Kaunas,0
-ZAL       ,,6,10:00,21,287,"TOUPANE, AXEL",P002582   ,Out,OUT,,,Zalgiris Kaunas,0
-ZAL       ,,13,10:00,21,288,"JANKUNAS, PAULIUS",PBWI      ,In,IN,,,Zalgiris Kaunas,0
-ZAL       ,,30,10:00,21,289,"WHITE, AARON",P006505   ,Out,OUT,,,Zalgiris Kaunas,0
-ZAL       ,,92,10:00,21,290,"ULANOVAS, EDGARAS",P002329   ,Out,OUT,,,Zalgiris Kaunas,0
-BAS       ,,7,10:00,21,291,"VOIGTMANN, JOHANNES",P007201   ,In,IN,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,8,10:00,21,292,"MALMANIS, RINALDS",P004185   ,In,IN,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,9,10:00,21,293,"HUERTAS, MARCELINHO",PJUJ      ,Out,OUT,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,15,10:00,21,294,"GRANGER, JAYSON",P003024   ,In,IN,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,17,10:00,21,295,"POIRIER, VINCENT",P004887   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,23,10:00,21,296,"SHENGELIA, TORNIKE",P001133   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,6,09:39,21,298,"TIMMA, JANIS",P005718   ,Two Pointer (1/2 -  8 pt),2FGM,32.0,56.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,7,09:31,21,299,"VOIGTMANN, JOHANNES",P007201   ,Foul (2),CM,,,Baskonia Vitoria Gasteiz,0
-ZAL       ,,22,09:31,21,300,"MICIC, VASILIJE",P002580   ,Foul Drawn (3),RV,,,Zalgiris Kaunas,0
-ZAL       ,,21,09:25,21,301,"MILAKNIS, ARTURAS",PKPD      ,Missed Three Pointer (1/3 -  3 pt),3FGA,,,Zalgiris Kaunas,0
-BAS       ,,15,09:23,21,302,"GRANGER, JAYSON",P003024   ,Def Rebound (2),D,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,6,09:19,21,303,"TIMMA, JANIS",P005718   ,Missed Three Pointer (2/4 -  8 pt),3FGA,,,Baskonia Vitoria Gasteiz,0
-ZAL       ,,3,09:19,21,304,"PANGOS, KEVIN",P006433   ,Def Rebound (1),D,,,Zalgiris Kaunas,0
-ZAL       ,,3,09:19,21,305,"PANGOS, KEVIN",P006433   ,Missed Two Pointer (0/4 -  0 pt),2FGA,,,Zalgiris Kaunas,0
-BAS       ,,15,09:19,21,306,"GRANGER, JAYSON",P003024   ,Def Rebound (3),D,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,7,08:50,22,308,"VOIGTMANN, JOHANNES",P007201   ,Missed Two Pointer (2/4 -  4 pt),2FGA,,,Baskonia Vitoria Gasteiz,0
-ZAL       ,,13,08:48,22,309,"JANKUNAS, PAULIUS",PBWI      ,Def Rebound (1),D,,,Zalgiris Kaunas,0
-ZAL       ,,21,08:37,22,310,"MILAKNIS, ARTURAS",PKPD      ,Two Pointer (1/1 -  5 pt),2FGM,34.0,56.0,Zalgiris Kaunas,0
-ZAL       ,,22,08:35,22,311,"MICIC, VASILIJE",P002580   ,Assist (4),AS,,,Zalgiris Kaunas,0
-BAS       ,,7,08:26,22,312,"VOIGTMANN, JOHANNES",P007201   ,Three Pointer (1/1 -  7 pt),3FGM,34.0,59.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,8,08:23,22,313,"MALMANIS, RINALDS",P004185   ,Assist (1),AS,,,Baskonia Vitoria Gasteiz,0
-ZAL       ,,0,08:03,22,314,"DAVIES, BRANDON",P007870   ,Two Pointer (1/1 -  2 pt),2FGM,36.0,59.0,Zalgiris Kaunas,0
-ZAL       ,,22,08:03,22,315,"MICIC, VASILIJE",P002580   ,Assist (5),AS,,,Zalgiris Kaunas,0
-BAS       ,,8,07:48,23,317,"MALMANIS, RINALDS",P004185   ,Three Pointer (1/2 -  3 pt),3FGM,36.0,62.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,7,07:46,23,318,"VOIGTMANN, JOHANNES",P007201   ,Assist (3),AS,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,15,07:34,23,319,"GRANGER, JAYSON",P003024   ,Foul (2),CM,,,Baskonia Vitoria Gasteiz,0
-ZAL       ,,3,07:34,23,320,"PANGOS, KEVIN",P006433   ,Foul Drawn (1),RV,,,Zalgiris Kaunas,0
-BAS       ,,6,07:29,23,321,"TIMMA, JANIS",P005718   ,Foul (2),CM,,,Baskonia Vitoria Gasteiz,0
-ZAL       ,,0,07:29,23,322,"DAVIES, BRANDON",P007870   ,Foul Drawn (1),RV,,,Zalgiris Kaunas,0
-BAS       ,,11,07:18,23,323,"JANNING, MATT",P004165   ,Foul (2),CM,,,Baskonia Vitoria Gasteiz,0
-ZAL       ,,22,07:18,23,324,"MICIC, VASILIJE",P002580   ,Foul Drawn (4),RV,,,Zalgiris Kaunas,0
-ZAL       ,,22,07:18,23,325,"MICIC, VASILIJE",P002580   ,Free Throw In (1/1 -  9 pt),FTM,37.0,62.0,Zalgiris Kaunas,0
-ZAL       ,,22,07:18,23,326,"MICIC, VASILIJE",P002580   ,Free Throw In (2/2 -  10 pt),FTM,38.0,62.0,Zalgiris Kaunas,0
-BAS       ,,7,07:01,23,327,"VOIGTMANN, JOHANNES",P007201   ,Two Pointer (3/5 -  9 pt),2FGM,38.0,64.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,8,06:59,24,329,"MALMANIS, RINALDS",P004185   ,Assist (2),AS,,,Baskonia Vitoria Gasteiz,0
-ZAL       ,,13,06:52,24,330,"JANKUNAS, PAULIUS",PBWI      ,Two Pointer (4/7 -  11 pt),2FGM,40.0,64.0,Zalgiris Kaunas,0
-ZAL       ,,3,06:52,24,331,"PANGOS, KEVIN",P006433   ,Assist (3),AS,,,Zalgiris Kaunas,0
-BAS       ,,15,06:26,24,332,"GRANGER, JAYSON",P003024   ,Turnover (2),TO,,,Baskonia Vitoria Gasteiz,0
-ZAL       ,,13,06:24,24,333,"JANKUNAS, PAULIUS",PBWI      ,Steal (1),ST,,,Zalgiris Kaunas,0
-ZAL       ,,13,06:16,24,334,"JANKUNAS, PAULIUS",PBWI      ,Two Pointer (5/8 -  13 pt),2FGM,42.0,64.0,Zalgiris Kaunas,0
-ZAL       ,,3,06:14,24,335,"PANGOS, KEVIN",P006433   ,Assist (4),AS,,,Zalgiris Kaunas,0
-BAS       ,,8,05:57,25,337,"MALMANIS, RINALDS",P004185   ,Missed Three Pointer (1/3 -  3 pt),3FGA,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,7,05:55,25,338,"VOIGTMANN, JOHANNES",P007201   ,Off Rebound (2),O,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,7,05:53,25,339,"VOIGTMANN, JOHANNES",P007201   ,Two Pointer (4/6 -  11 pt),2FGM,42.0,66.0,Baskonia Vitoria Gasteiz,0
-ZAL       ,,13,05:38,25,340,"JANKUNAS, PAULIUS",PBWI      ,Two Pointer (6/9 -  15 pt),2FGM,44.0,66.0,Zalgiris Kaunas,0
-ZAL       ,,0,05:38,25,341,"DAVIES, BRANDON",P007870   ,Assist (1),AS,,,Zalgiris Kaunas,0
-ZAL       ,,0,05:38,25,342,"DAVIES, BRANDON",P007870   ,Out,OUT,,,Zalgiris Kaunas,0
-ZAL       ,,21,05:38,25,343,"MILAKNIS, ARTURAS",PKPD      ,Out,OUT,,,Zalgiris Kaunas,0
-ZAL       ,,30,05:38,25,344,"WHITE, AARON",P006505   ,In,IN,,,Zalgiris Kaunas,0
-ZAL       ,,92,05:38,25,345,"ULANOVAS, EDGARAS",P002329   ,In,IN,,,Zalgiris Kaunas,0
-BAS       ,,7,05:38,25,346,"VOIGTMANN, JOHANNES",P007201   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,17,05:38,25,347,"POIRIER, VINCENT",P004887   ,In,IN,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,11,05:22,25,348,"JANNING, MATT",P004165   ,Two Pointer (2/2 -  8 pt),2FGM,44.0,68.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,15,05:19,25,349,"GRANGER, JAYSON",P003024   ,Assist (4),AS,,,Baskonia Vitoria Gasteiz,0
-ZAL       ,,30,05:14,25,350,"WHITE, AARON",P006505   ,Two Pointer (2/4 -  4 pt),2FGM,46.0,68.0,Zalgiris Kaunas,0
-ZAL       ,,3,05:14,25,351,"PANGOS, KEVIN",P006433   ,Assist (5),AS,,,Zalgiris Kaunas,0
-          ,,,04:52,26,353,,          ,TV Time Out (3),TOUT_TV,,,,0
-BAS       ,,15,04:45,26,354,"GRANGER, JAYSON",P003024   ,Missed Two Pointer (1/2 -  11 pt),2FGA,,,Baskonia Vitoria Gasteiz,0
-ZAL       ,,13,04:43,26,355,"JANKUNAS, PAULIUS",PBWI      ,Def Rebound (2),D,,,Zalgiris Kaunas,0
-BAS       ,,6,04:31,26,356,"TIMMA, JANIS",P005718   ,Foul (3),CM,,,Baskonia Vitoria Gasteiz,0
-ZAL       ,,22,04:31,26,357,"MICIC, VASILIJE",P002580   ,Foul Drawn (5),RV,,,Zalgiris Kaunas,0
-ZAL       ,,3,04:31,26,358,"PANGOS, KEVIN",P006433   ,Out,OUT,,,Zalgiris Kaunas,0
-ZAL       ,,66,04:31,26,359,"VALINSKAS, PAULIUS",P004664   ,In,IN,,,Zalgiris Kaunas,0
-BAS       ,,6,04:31,26,360,"TIMMA, JANIS",P005718   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,10,04:31,26,361,"BEAUBOIS, RODRIGUE",P006590   ,In,IN,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,11,04:31,26,362,"JANNING, MATT",P004165   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,52,04:31,26,363,"MCRAE, JORDAN",P007996   ,In,IN,,,Baskonia Vitoria Gasteiz,0
-ZAL       ,,22,04:31,26,364,"MICIC, VASILIJE",P002580   ,Missed Free Throw (2/3 -  10 pt),FTA,,,Zalgiris Kaunas,0
-ZAL       ,,22,04:31,26,365,"MICIC, VASILIJE",P002580   ,Free Throw In (3/4 -  11 pt),FTM,47.0,68.0,Zalgiris Kaunas,0
-ZAL       ,,30,04:17,26,366,"WHITE, AARON",P006505   ,Foul (1),CM,,,Zalgiris Kaunas,0
-BAS       ,,17,04:17,26,367,"POIRIER, VINCENT",P004887   ,Foul Drawn (2),RV,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,10,04:11,26,368,"BEAUBOIS, RODRIGUE",P006590   ,Missed Two Pointer (0/3 -  9 pt),2FGA,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,8,04:08,26,369,"MALMANIS, RINALDS",P004185   ,Off Rebound (1),O,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,8,04:05,26,370,"MALMANIS, RINALDS",P004185   ,Missed Two Pointer (0/1 -  3 pt),2FGA,,,Baskonia Vitoria Gasteiz,0
-ZAL       ,,30,04:03,26,371,"WHITE, AARON",P006505   ,Def Rebound (1),D,,,Zalgiris Kaunas,0
-BAS       ,,17,04:02,26,372,"POIRIER, VINCENT",P004887   ,Foul (3),CM,,,Baskonia Vitoria Gasteiz,0
-ZAL       ,,13,04:02,26,373,"JANKUNAS, PAULIUS",PBWI      ,Foul Drawn (7),RV,,,Zalgiris Kaunas,0
-BAS       ,,9,04:02,26,374,"HUERTAS, MARCELINHO",PJUJ      ,In,IN,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,15,04:02,26,375,"GRANGER, JAYSON",P003024   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0
-ZAL       ,,13,04:02,26,376,"JANKUNAS, PAULIUS",PBWI      ,Missed Free Throw (3/5 -  15 pt),FTA,,,Zalgiris Kaunas,0
-ZAL       ,,13,04:02,26,377,"JANKUNAS, PAULIUS",PBWI      ,Free Throw In (4/6 -  16 pt),FTM,48.0,68.0,Zalgiris Kaunas,0
-BAS       ,,10,03:55,27,379,"BEAUBOIS, RODRIGUE",P006590   ,Turnover (1),TO,,,Baskonia Vitoria Gasteiz,0
-ZAL       ,,66,03:53,27,380,"VALINSKAS, PAULIUS",P004664   ,Steal (1),ST,,,Zalgiris Kaunas,0
-ZAL       ,,66,03:50,27,381,"VALINSKAS, PAULIUS",P004664   ,Two Pointer (2/2 -  4 pt),2FGM,50.0,68.0,Zalgiris Kaunas,0
-BAS       ,,52,03:38,27,382,"MCRAE, JORDAN",P007996   ,Missed Two Pointer (0/3 -  2 pt),2FGA,,,Baskonia Vitoria Gasteiz,0
-ZAL       ,,13,03:38,27,383,"JANKUNAS, PAULIUS",PBWI      ,Def Rebound (3),D,,,Zalgiris Kaunas,0
-ZAL       ,,92,03:14,27,384,"ULANOVAS, EDGARAS",P002329   ,Turnover (1),TO,,,Zalgiris Kaunas,0
-BAS       ,,8,03:14,27,385,"MALMANIS, RINALDS",P004185   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,23,03:14,27,386,"SHENGELIA, TORNIKE",P001133   ,In,IN,,,Baskonia Vitoria Gasteiz,0
-ZAL       ,,13,03:06,27,387,"JANKUNAS, PAULIUS",PBWI      ,Foul (2),CM,,,Zalgiris Kaunas,0
-BAS       ,,23,03:06,27,388,"SHENGELIA, TORNIKE",P001133   ,Foul Drawn (4),RV,,,Baskonia Vitoria Gasteiz,0
-ZAL       ,,13,03:06,27,389,"JANKUNAS, PAULIUS",PBWI      ,Out,OUT,,,Zalgiris Kaunas,0
-ZAL       ,,44,03:06,27,390,"KAVALIAUSKAS, ANTANAS",P000399   ,In,IN,,,Zalgiris Kaunas,0
-BAS       ,,17,03:04,27,391,"POIRIER, VINCENT",P004887   ,Missed Two Pointer (2/4 -  4 pt),2FGA,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,17,03:04,27,392,"POIRIER, VINCENT",P004887   ,Shot Rejected (1),AG,,,Baskonia Vitoria Gasteiz,0
-ZAL       ,,30,03:04,27,393,"WHITE, AARON",P006505   ,Block (1),FV,,,Zalgiris Kaunas,0
-ZAL       ,,44,03:04,27,394,"KAVALIAUSKAS, ANTANAS",P000399   ,Def Rebound (3),D,,,Zalgiris Kaunas,0
-ZAL       ,,30,02:50,28,396,"WHITE, AARON",P006505   ,Two Pointer (3/5 -  6 pt),2FGM,52.0,68.0,Zalgiris Kaunas,0
-ZAL       ,,22,02:50,28,397,"MICIC, VASILIJE",P002580   ,Assist (6),AS,,,Zalgiris Kaunas,0
-BAS       ,,,02:50,28,398,,          ,Time Out (1),TOUT,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,23,02:30,28,399,"SHENGELIA, TORNIKE",P001133   ,Turnover (2),TO,,,Baskonia Vitoria Gasteiz,0
-ZAL       ,,66,02:15,28,400,"VALINSKAS, PAULIUS",P004664   ,Three Pointer (1/1 -  7 pt),3FGM,55.0,68.0,Zalgiris Kaunas,0
-ZAL       ,,92,02:12,28,401,"ULANOVAS, EDGARAS",P002329   ,Assist (1),AS,,,Zalgiris Kaunas,0
-BAS       ,,6,02:10,28,402,"TIMMA, JANIS",P005718   ,In,IN,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,52,02:10,28,403,"MCRAE, JORDAN",P007996   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,9,01:45,29,405,"HUERTAS, MARCELINHO",PJUJ      ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Baskonia Vitoria Gasteiz,0
-ZAL       ,,,01:45,29,406,,          ,Def Rebound (7),D,,,Zalgiris Kaunas,0
-BAS       ,,23,01:30,29,407,"SHENGELIA, TORNIKE",P001133   ,Foul (2),CM,,,Baskonia Vitoria Gasteiz,0
-ZAL       ,,44,01:30,29,408,"KAVALIAUSKAS, ANTANAS",P000399   ,Foul Drawn (1),RV,,,Zalgiris Kaunas,0
-ZAL       ,,44,01:30,29,409,"KAVALIAUSKAS, ANTANAS",P000399   ,Free Throw In (1/1 -  1 pt),FTM,56.0,68.0,Zalgiris Kaunas,0
-ZAL       ,,92,01:30,29,410,"ULANOVAS, EDGARAS",P002329   ,Assist (2),AS,,,Zalgiris Kaunas,0
-ZAL       ,,44,01:30,29,411,"KAVALIAUSKAS, ANTANAS",P000399   ,Free Throw In (2/2 -  2 pt),FTM,57.0,68.0,Zalgiris Kaunas,0
-ZAL       ,,92,01:15,29,412,"ULANOVAS, EDGARAS",P002329   ,Foul (2),CM,,,Zalgiris Kaunas,0
-BAS       ,,17,01:15,29,413,"POIRIER, VINCENT",P004887   ,Foul Drawn (3),RV,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,9,01:08,29,414,"HUERTAS, MARCELINHO",PJUJ      ,Two Pointer (1/2 -  2 pt),2FGM,57.0,70.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,17,01:06,29,415,"POIRIER, VINCENT",P004887   ,Assist (1),AS,,,Baskonia Vitoria Gasteiz,0
-ZAL       ,,66,00:52,30,417,"VALINSKAS, PAULIUS",P004664   ,Missed Three Pointer (1/2 -  7 pt),3FGA,,,Zalgiris Kaunas,0
-BAS       ,,23,00:48,30,418,"SHENGELIA, TORNIKE",P001133   ,Def Rebound (4),D,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,23,00:23,30,419,"SHENGELIA, TORNIKE",P001133   ,Missed Two Pointer (3/5 -  12 pt),2FGA,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,17,00:21,30,420,"POIRIER, VINCENT",P004887   ,Off Rebound (1),O,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,17,00:09,30,421,"POIRIER, VINCENT",P004887   ,Missed Two Pointer (2/5 -  4 pt),2FGA,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,17,00:09,30,422,"POIRIER, VINCENT",P004887   ,Shot Rejected (2),AG,,,Baskonia Vitoria Gasteiz,0
-ZAL       ,,44,00:07,30,423,"KAVALIAUSKAS, ANTANAS",P000399   ,Block (1),FV,,,Zalgiris Kaunas,0
-BAS       ,,6,00:07,30,424,"TIMMA, JANIS",P005718   ,Off Rebound (1),O,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,6,00:07,30,425,"TIMMA, JANIS",P005718   ,Missed Two Pointer (1/3 -  8 pt),2FGA,,,Baskonia Vitoria Gasteiz,0
-ZAL       ,,92,00:07,30,426,"ULANOVAS, EDGARAS",P002329   ,Def Rebound (2),D,,,Zalgiris Kaunas,0
-ZAL       ,,22,00:02,30,427,"MICIC, VASILIJE",P002580   ,Missed Three Pointer (0/2 -  11 pt),3FGA,,,Zalgiris Kaunas,0
-BAS       ,,23,00:02,30,428,"SHENGELIA, TORNIKE",P001133   ,Def Rebound (5),D,,,Baskonia Vitoria Gasteiz,0
-          ,,,,31,430,,          ,End Period,EP,,,,0
-          ,,,,31,433,,          ,Begin Period,BP,,,,0
-ZAL       ,,21,10:00,31,431,"MILAKNIS, ARTURAS",PKPD      ,In,IN,,,Zalgiris Kaunas,0
-ZAL       ,,92,10:00,31,432,"ULANOVAS, EDGARAS",P002329   ,Out,OUT,,,Zalgiris Kaunas,0
-ZAL       ,,21,09:47,31,434,"MILAKNIS, ARTURAS",PKPD      ,Two Pointer (2/2 -  7 pt),2FGM,59.0,70.0,Zalgiris Kaunas,0
-BAS       ,,10,09:25,31,435,"BEAUBOIS, RODRIGUE",P006590   ,Missed Three Pointer (3/5 -  9 pt),3FGA,,,Baskonia Vitoria Gasteiz,0
-ZAL       ,,22,09:23,31,436,"MICIC, VASILIJE",P002580   ,Def Rebound (1),D,,,Zalgiris Kaunas,0
-BAS       ,,10,09:19,31,437,"BEAUBOIS, RODRIGUE",P006590   ,Foul (1),CM,,,Baskonia Vitoria Gasteiz,0
-ZAL       ,,22,09:19,31,438,"MICIC, VASILIJE",P002580   ,Foul Drawn (6),RV,,,Zalgiris Kaunas,0
-BAS       ,,6,09:19,31,439,"TIMMA, JANIS",P005718   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,11,09:19,31,440,"JANNING, MATT",P004165   ,In,IN,,,Baskonia Vitoria Gasteiz,0
-ZAL       ,,44,09:07,31,441,"KAVALIAUSKAS, ANTANAS",P000399   ,Two Pointer (1/1 -  4 pt),2FGM,61.0,70.0,Zalgiris Kaunas,0
-ZAL       ,,22,09:04,31,442,"MICIC, VASILIJE",P002580   ,Assist (7),AS,,,Zalgiris Kaunas,0
-ZAL       ,,30,09:00,31,443,"WHITE, AARON",P006505   ,Foul (2),CM,,,Zalgiris Kaunas,0
-BAS       ,,23,09:00,31,444,"SHENGELIA, TORNIKE",P001133   ,Foul Drawn (5),RV,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,7,09:00,31,445,"VOIGTMANN, JOHANNES",P007201   ,In,IN,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,17,09:00,31,446,"POIRIER, VINCENT",P004887   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,23,09:00,31,447,"SHENGELIA, TORNIKE",P001133   ,Free Throw In (4/4 -  13 pt),FTM,61.0,71.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,23,09:00,31,448,"SHENGELIA, TORNIKE",P001133   ,Missed Free Throw (4/5 -  13 pt),FTA,,,Baskonia Vitoria Gasteiz,0
-ZAL       ,,44,08:57,32,450,"KAVALIAUSKAS, ANTANAS",P000399   ,Def Rebound (4),D,,,Zalgiris Kaunas,0
-ZAL       ,,66,08:36,32,451,"VALINSKAS, PAULIUS",P004664   ,Missed Three Pointer (1/3 -  7 pt),3FGA,,,Zalgiris Kaunas,0
-ZAL       ,,66,08:34,32,452,"VALINSKAS, PAULIUS",P004664   ,Off Rebound (1),O,,,Zalgiris Kaunas,0
-ZAL       ,,30,08:24,32,453,"WHITE, AARON",P006505   ,Missed Two Pointer (3/6 -  6 pt),2FGA,,,Zalgiris Kaunas,0
-ZAL       ,,,08:24,32,454,,          ,Off Rebound (3),O,,,Zalgiris Kaunas,0
-BAS       ,,9,08:24,32,455,"HUERTAS, MARCELINHO",PJUJ      ,Out,OUT,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,15,08:24,32,456,"GRANGER, JAYSON",P003024   ,In,IN,,,Baskonia Vitoria Gasteiz,0
-ZAL       ,,30,08:10,32,457,"WHITE, AARON",P006505   ,Three Pointer (1/1 -  9 pt),3FGM,64.0,71.0,Zalgiris Kaunas,0
-ZAL       ,,22,08:08,32,458,"MICIC, VASILIJE",P002580   ,Assist (8),AS,,,Zalgiris Kaunas,0
-ZAL       ,,44,08:05,32,459,"KAVALIAUSKAS, ANTANAS",P000399   ,Foul (3),CM,,,Zalgiris Kaunas,0
-BAS       ,,23,08:05,32,460,"SHENGELIA, TORNIKE",P001133   ,Foul Drawn (6),RV,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,23,07:57,33,462,"SHENGELIA, TORNIKE",P001133   ,Missed Three Pointer (1/2 -  13 pt),3FGA,,,Baskonia Vitoria Gasteiz,0
-ZAL       ,,30,07:55,33,463,"WHITE, AARON",P006505   ,Def Rebound (2),D,,,Zalgiris Kaunas,0
-ZAL       ,,66,07:42,33,464,"VALINSKAS, PAULIUS",P004664   ,Missed Two Pointer (2/3 -  7 pt),2FGA,,,Zalgiris Kaunas,0
-BAS       ,,23,07:40,33,465,"SHENGELIA, TORNIKE",P001133   ,Def Rebound (6),D,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,10,07:26,33,466,"BEAUBOIS, RODRIGUE",P006590   ,Three Pointer (4/6 -  12 pt),3FGM,64.0,74.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,11,07:25,33,467,"JANNING, MATT",P004165   ,Assist (1),AS,,,Baskonia Vitoria Gasteiz,0
-ZAL       ,,30,07:24,33,468,"WHITE, AARON",P006505   ,Missed Three Pointer (1/2 -  9 pt),3FGA,,,Zalgiris Kaunas,0
-BAS       ,,15,07:24,33,469,"GRANGER, JAYSON",P003024   ,Def Rebound (4),D,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,7,07:04,33,470,"VOIGTMANN, JOHANNES",P007201   ,Two Pointer (5/7 -  13 pt),2FGM,64.0,76.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,15,07:04,33,471,"GRANGER, JAYSON",P003024   ,Assist (5),AS,,,Baskonia Vitoria Gasteiz,0
-ZAL       ,,,07:04,33,472,,          ,Time Out (1),TOUT,,,Zalgiris Kaunas,0
-          ,,,07:04,33,473,,          ,TV Time Out (4),TOUT_TV,,,,0
-ZAL       ,,3,07:03,33,474,"PANGOS, KEVIN",P006433   ,In,IN,,,Zalgiris Kaunas,0
-ZAL       ,,13,07:03,33,475,"JANKUNAS, PAULIUS",PBWI      ,In,IN,,,Zalgiris Kaunas,0
-ZAL       ,,22,07:03,33,476,"MICIC, VASILIJE",P002580   ,Out,OUT,,,Zalgiris Kaunas,0
-ZAL       ,,44,07:03,33,477,"KAVALIAUSKAS, ANTANAS",P000399   ,Out,OUT,,,Zalgiris Kaunas,0
-ZAL       ,,66,07:03,33,478,"VALINSKAS, PAULIUS",P004664   ,Out,OUT,,,Zalgiris Kaunas,0
-ZAL       ,,92,07:03,33,479,"ULANOVAS, EDGARAS",P002329   ,In,IN,,,Zalgiris Kaunas,0
-ZAL       ,,13,06:49,34,481,"JANKUNAS, PAULIUS",PBWI      ,Two Pointer (7/10 -  18 pt),2FGM,66.0,76.0,Zalgiris Kaunas,0
-ZAL       ,,92,06:49,34,482,"ULANOVAS, EDGARAS",P002329   ,Assist (3),AS,,,Zalgiris Kaunas,0
-BAS       ,,23,06:29,34,483,"SHENGELIA, TORNIKE",P001133   ,Turnover (3),TO,,,Baskonia Vitoria Gasteiz,0
-ZAL       ,,13,06:25,34,484,"JANKUNAS, PAULIUS",PBWI      ,Two Pointer (8/11 -  20 pt),2FGM,68.0,76.0,Zalgiris Kaunas,0
-ZAL       ,,3,06:25,34,485,"PANGOS, KEVIN",P006433   ,Assist (6),AS,,,Zalgiris Kaunas,0
-BAS       ,,10,05:53,35,487,"BEAUBOIS, RODRIGUE",P006590   ,Missed Two Pointer (0/4 -  12 pt),2FGA,,,Baskonia Vitoria Gasteiz,0
-ZAL       ,,30,05:49,35,488,"WHITE, AARON",P006505   ,Def Rebound (3),D,,,Zalgiris Kaunas,0
-ZAL       ,,30,05:48,35,489,"WHITE, AARON",P006505   ,Turnover (1),TO,,,Zalgiris Kaunas,0
-BAS       ,,10,05:47,35,490,"BEAUBOIS, RODRIGUE",P006590   ,Steal (1),ST,,,Baskonia Vitoria Gasteiz,0
-ZAL       ,,13,05:47,35,491,"JANKUNAS, PAULIUS",PBWI      ,Foul (3),CM,,,Zalgiris Kaunas,0
-BAS       ,,10,05:47,35,492,"BEAUBOIS, RODRIGUE",P006590   ,Foul Drawn (1),RV,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,10,05:25,35,493,"BEAUBOIS, RODRIGUE",P006590   ,Three Pointer (5/7 -  15 pt),3FGM,68.0,79.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,23,05:23,35,494,"SHENGELIA, TORNIKE",P001133   ,Assist (2),AS,,,Baskonia Vitoria Gasteiz,0
-ZAL       ,,13,05:07,35,495,"JANKUNAS, PAULIUS",PBWI      ,Missed Two Pointer (8/12 -  20 pt),2FGA,,,Zalgiris Kaunas,0
-BAS       ,,23,05:05,35,496,"SHENGELIA, TORNIKE",P001133   ,Def Rebound (7),D,,,Baskonia Vitoria Gasteiz,0
-ZAL       ,,22,04:56,36,498,"MICIC, VASILIJE",P002580   ,In,IN,,,Zalgiris Kaunas,0
-ZAL       ,,30,04:56,36,499,"WHITE, AARON",P006505   ,Out,OUT,,,Zalgiris Kaunas,0
-BAS       ,,23,04:49,36,500,"SHENGELIA, TORNIKE",P001133   ,Two Pointer (4/6 -  15 pt),2FGM,68.0,81.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,7,04:49,36,501,"VOIGTMANN, JOHANNES",P007201   ,Assist (4),AS,,,Baskonia Vitoria Gasteiz,0
-ZAL       ,,92,04:49,36,502,"ULANOVAS, EDGARAS",P002329   ,Foul (3),CM,,,Zalgiris Kaunas,0
-BAS       ,,23,04:49,36,503,"SHENGELIA, TORNIKE",P001133   ,Foul Drawn (7),RV,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,23,04:49,36,504,"SHENGELIA, TORNIKE",P001133   ,Missed Free Throw (4/6 -  15 pt),FTA,,,Baskonia Vitoria Gasteiz,0
-ZAL       ,,21,04:46,36,505,"MILAKNIS, ARTURAS",PKPD      ,Def Rebound (2),D,,,Zalgiris Kaunas,0
-BAS       ,,11,04:30,36,506,"JANNING, MATT",P004165   ,Foul (3),CM,,,Baskonia Vitoria Gasteiz,0
-ZAL       ,,13,04:30,36,507,"JANKUNAS, PAULIUS",PBWI      ,Foul Drawn (8),RV,,,Zalgiris Kaunas,0
-ZAL       ,,13,04:30,36,508,"JANKUNAS, PAULIUS",PBWI      ,Missed Free Throw (4/7 -  20 pt),FTA,,,Zalgiris Kaunas,0
-ZAL       ,,13,04:30,36,509,"JANKUNAS, PAULIUS",PBWI      ,Missed Free Throw (4/8 -  20 pt),FTA,,,Zalgiris Kaunas,0
-BAS       ,,23,04:27,36,510,"SHENGELIA, TORNIKE",P001133   ,Def Rebound (8),D,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,11,04:11,36,511,"JANNING, MATT",P004165   ,Three Pointer (2/3 -  11 pt),3FGM,68.0,84.0,Baskonia Vitoria Gasteiz,0
-ZAL       ,,,04:11,36,512,,          ,Time Out (2),TOUT,,,Zalgiris Kaunas,0
-ZAL       ,,0,04:11,36,513,"DAVIES, BRANDON",P007870   ,In,IN,,,Zalgiris Kaunas,0
-ZAL       ,,13,04:11,36,514,"JANKUNAS, PAULIUS",PBWI      ,Out,OUT,,,Zalgiris Kaunas,0
-ZAL       ,,0,03:59,37,516,"DAVIES, BRANDON",P007870   ,Two Pointer (2/2 -  4 pt),2FGM,70.0,84.0,Zalgiris Kaunas,0
-ZAL       ,,3,03:57,37,517,"PANGOS, KEVIN",P006433   ,Assist (7),AS,,,Zalgiris Kaunas,0
-ZAL       ,,0,03:49,37,518,"DAVIES, BRANDON",P007870   ,Unsportsmanlike Foul  (2),CMU,,,Zalgiris Kaunas,0
-BAS       ,,23,03:49,37,519,"SHENGELIA, TORNIKE",P001133   ,Foul Drawn (8),RV,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,23,03:49,37,520,"SHENGELIA, TORNIKE",P001133   ,Free Throw In (5/7 -  16 pt),FTM,70.0,85.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,11,03:49,37,521,"JANNING, MATT",P004165   ,Assist (2),AS,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,23,03:49,37,522,"SHENGELIA, TORNIKE",P001133   ,Free Throw In (6/8 -  17 pt),FTM,70.0,86.0,Baskonia Vitoria Gasteiz,0
-ZAL       ,,22,03:39,37,523,"MICIC, VASILIJE",P002580   ,Foul (3),CM,,,Zalgiris Kaunas,0
-BAS       ,,10,03:39,37,524,"BEAUBOIS, RODRIGUE",P006590   ,Foul Drawn (2),RV,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,10,03:39,37,525,"BEAUBOIS, RODRIGUE",P006590   ,Missed Free Throw (0/1 -  15 pt),FTA,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,10,03:39,37,526,"BEAUBOIS, RODRIGUE",P006590   ,Free Throw In (1/2 -  16 pt),FTM,70.0,87.0,Baskonia Vitoria Gasteiz,0
-ZAL       ,,3,03:28,37,527,"PANGOS, KEVIN",P006433   ,Missed Two Pointer (0/5 -  0 pt),2FGA,,,Zalgiris Kaunas,0
-BAS       ,,15,03:27,37,528,"GRANGER, JAYSON",P003024   ,Def Rebound (5),D,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,10,03:27,37,529,"BEAUBOIS, RODRIGUE",P006590   ,Missed Two Pointer (0/5 -  16 pt),2FGA,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,10,03:27,37,530,"BEAUBOIS, RODRIGUE",P006590   ,Off Rebound (1),O,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,11,03:05,37,531,"JANNING, MATT",P004165   ,Missed Three Pointer (2/4 -  11 pt),3FGA,,,Baskonia Vitoria Gasteiz,0
-ZAL       ,,0,03:03,37,532,"DAVIES, BRANDON",P007870   ,Def Rebound (1),D,,,Zalgiris Kaunas,0
-BAS       ,,23,02:54,38,534,"SHENGELIA, TORNIKE",P001133   ,Foul (3),CM,,,Baskonia Vitoria Gasteiz,0
-ZAL       ,,92,02:54,38,535,"ULANOVAS, EDGARAS",P002329   ,Foul Drawn (2),RV,,,Zalgiris Kaunas,0
-ZAL       ,,3,02:44,38,536,"PANGOS, KEVIN",P006433   ,Missed Two Pointer (0/6 -  0 pt),2FGA,,,Zalgiris Kaunas,0
-BAS       ,,11,02:42,38,537,"JANNING, MATT",P004165   ,Def Rebound (1),D,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,7,02:27,38,538,"VOIGTMANN, JOHANNES",P007201   ,Two Pointer (6/8 -  15 pt),2FGM,70.0,89.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,15,02:25,38,539,"GRANGER, JAYSON",P003024   ,Assist (6),AS,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,10,02:18,38,540,"BEAUBOIS, RODRIGUE",P006590   ,Foul (2),CM,,,Baskonia Vitoria Gasteiz,0
-ZAL       ,,22,02:18,38,541,"MICIC, VASILIJE",P002580   ,Foul Drawn (7),RV,,,Zalgiris Kaunas,0
-ZAL       ,,3,02:18,38,542,"PANGOS, KEVIN",P006433   ,Out,OUT,,,Zalgiris Kaunas,0
-ZAL       ,,66,02:18,38,543,"VALINSKAS, PAULIUS",P004664   ,In,IN,,,Zalgiris Kaunas,0
-ZAL       ,,22,02:18,38,544,"MICIC, VASILIJE",P002580   ,Free Throw In (4/5 -  12 pt),FTM,71.0,89.0,Zalgiris Kaunas,0
-ZAL       ,,22,02:18,38,545,"MICIC, VASILIJE",P002580   ,Missed Free Throw (4/6 -  12 pt),FTA,,,Zalgiris Kaunas,0
-BAS       ,,7,02:12,38,546,"VOIGTMANN, JOHANNES",P007201   ,Def Rebound (5),D,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,23,02:00,38,547,"SHENGELIA, TORNIKE",P001133   ,Turnover (4),TO,,,Baskonia Vitoria Gasteiz,0
-ZAL       ,,0,02:00,38,548,"DAVIES, BRANDON",P007870   ,Out,OUT,,,Zalgiris Kaunas,0
-ZAL       ,,19,02:00,38,549,"SAJUS, MARTYNAS",P005519   ,In,IN,,,Zalgiris Kaunas,0
-ZAL       ,,21,01:48,39,551,"MILAKNIS, ARTURAS",PKPD      ,Three Pointer (2/4 -  10 pt),3FGM,74.0,89.0,Zalgiris Kaunas,0
-ZAL       ,,66,01:48,39,552,"VALINSKAS, PAULIUS",P004664   ,Assist (1),AS,,,Zalgiris Kaunas,0
-BAS       ,,10,01:32,39,553,"BEAUBOIS, RODRIGUE",P006590   ,Three Pointer (6/8 -  19 pt),3FGM,74.0,92.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,15,01:32,39,554,"GRANGER, JAYSON",P003024   ,Assist (7),AS,,,Baskonia Vitoria Gasteiz,0
-ZAL       ,,19,01:19,39,555,"SAJUS, MARTYNAS",P005519   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Zalgiris Kaunas,0
-BAS       ,,7,01:17,39,556,"VOIGTMANN, JOHANNES",P007201   ,Def Rebound (6),D,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,15,01:03,39,557,"GRANGER, JAYSON",P003024   ,Three Pointer (4/5 -  14 pt),3FGM,74.0,95.0,Baskonia Vitoria Gasteiz,0
-ZAL       ,,92,00:49,40,559,"ULANOVAS, EDGARAS",P002329   ,Three Pointer (1/1 -  5 pt),3FGM,77.0,95.0,Zalgiris Kaunas,0
-ZAL       ,,66,00:49,40,560,"VALINSKAS, PAULIUS",P004664   ,Assist (2),AS,,,Zalgiris Kaunas,0
-BAS       ,,15,00:27,40,561,"GRANGER, JAYSON",P003024   ,Missed Three Pointer (4/6 -  14 pt),3FGA,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,,00:26,40,562,,          ,Off Rebound (4),O,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,7,00:26,40,563,"VOIGTMANN, JOHANNES",P007201   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,17,00:26,40,564,"POIRIER, VINCENT",P004887   ,In,IN,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,10,00:21,40,565,"BEAUBOIS, RODRIGUE",P006590   ,Missed Two Pointer (0/6 -  19 pt),2FGA,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,10,00:17,40,566,"BEAUBOIS, RODRIGUE",P006590   ,Off Rebound (2),O,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,23,00:18,40,567,"SHENGELIA, TORNIKE",P001133   ,Two Pointer (5/7 -  19 pt),2FGM,77.0,97.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,10,00:18,40,568,"BEAUBOIS, RODRIGUE",P006590   ,Assist (2),AS,,,Baskonia Vitoria Gasteiz,0
-ZAL       ,,66,00:03,40,569,"VALINSKAS, PAULIUS",P004664   ,Missed Two Pointer (2/4 -  7 pt),2FGA,,,Zalgiris Kaunas,0
-          ,,,,41,572,,          ,End Game,EG,,,,0
+CODETEAM,COMMENT,DORSAL,MARKERTIME,MINUTE,NUMBEROFPLAY,PLAYER,PLAYER_ID,PLAYINFO,PLAYTYPE,POINTS_A,POINTS_B,TEAM,TYPE,home_team,home_team_code,away_team,away_team_code
+          ,,,,1,2,,          ,Begin Period,BP,,,,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,8,09:51,1,3,"MALMANIS, RINALDS",P004185   ,Foul (1),CM,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,13,09:51,1,4,"JANKUNAS, PAULIUS",PBWI      ,Foul Drawn (1),RV,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,8,09:45,1,5,"MALMANIS, RINALDS",P004185   ,Foul (2),CM,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,13,09:45,1,6,"JANKUNAS, PAULIUS",PBWI      ,Foul Drawn (2),RV,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,13,09:43,1,7,"JANKUNAS, PAULIUS",PBWI      ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,7,09:43,1,8,"VOIGTMANN, JOHANNES",P007201   ,Def Rebound (1),D,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,7,09:28,1,9,"VOIGTMANN, JOHANNES",P007201   ,Two Pointer (1/1 -  2 pt),2FGM,,2.0,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,3,09:16,1,10,"PANGOS, KEVIN",P006433   ,Turnover (1),TO,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,15,09:03,1,11,"GRANGER, JAYSON",P003024   ,Turnover (1),TO,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,21,09:01,1,12,"MILAKNIS, ARTURAS",PKPD      ,Steal (1),ST,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,13,08:51,2,14,"JANKUNAS, PAULIUS",PBWI      ,Two Pointer (1/2 -  2 pt),2FGM,2.0,2.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,15,08:34,2,15,"GRANGER, JAYSON",P003024   ,Two Pointer (1/1 -  2 pt),2FGM,2.0,4.0,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,21,08:22,2,16,"MILAKNIS, ARTURAS",PKPD      ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,6,08:18,2,17,"TIMMA, JANIS",P005718   ,Def Rebound (1),D,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,15,08:12,2,18,"GRANGER, JAYSON",P003024   ,Three Pointer (1/1 -  5 pt),3FGM,2.0,7.0,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,6,08:10,2,19,"TIMMA, JANIS",P005718   ,Assist (1),AS,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,13,07:58,3,21,"JANKUNAS, PAULIUS",PBWI      ,Missed Two Pointer (1/3 -  2 pt),2FGA,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,7,07:55,3,22,"VOIGTMANN, JOHANNES",P007201   ,Def Rebound (2),D,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,22,07:41,3,23,"MICIC, VASILIJE",P002580   ,Foul (1),CM,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,15,07:41,3,24,"GRANGER, JAYSON",P003024   ,Foul Drawn (1),RV,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,6,07:41,3,25,"TOUPANE, AXEL",P002582   ,In,IN,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,22,07:41,3,26,"MICIC, VASILIJE",P002580   ,Out,OUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,8,07:41,3,27,"MALMANIS, RINALDS",P004185   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,23,07:41,3,28,"SHENGELIA, TORNIKE",P001133   ,In,IN,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,6,07:38,3,29,"TIMMA, JANIS",P005718   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,7,07:38,3,30,"VOIGTMANN, JOHANNES",P007201   ,Off Rebound (1),O,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,7,07:38,3,31,"VOIGTMANN, JOHANNES",P007201   ,Two Pointer (2/2 -  4 pt),2FGM,2.0,9.0,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,3,07:38,3,32,"PANGOS, KEVIN",P006433   ,Turnover (2),TO,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,23,07:38,3,33,"SHENGELIA, TORNIKE",P001133   ,Steal (1),ST,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,23,07:11,3,34,"SHENGELIA, TORNIKE",P001133   ,Offensive Foul (1),OF,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,23,07:11,3,35,"SHENGELIA, TORNIKE",P001133   ,Turnover (1),TO,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,13,07:11,3,36,"JANKUNAS, PAULIUS",PBWI      ,Foul Drawn (3),RV,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,6,06:52,4,38,"TOUPANE, AXEL",P002582   ,Turnover (1),TO,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,15,06:50,4,39,"GRANGER, JAYSON",P003024   ,Steal (1),ST,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,6,06:37,4,40,"TIMMA, JANIS",P005718   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,6,06:35,4,41,"TOUPANE, AXEL",P002582   ,Def Rebound (1),D,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,6,06:17,4,42,"TOUPANE, AXEL",P002582   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,6,06:17,4,43,"TOUPANE, AXEL",P002582   ,Shot Rejected (1),AG,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,7,06:15,4,44,"VOIGTMANN, JOHANNES",P007201   ,Block (1),FV,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,6,06:12,4,45,"TOUPANE, AXEL",P002582   ,Off Rebound (1),O,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,6,06:09,4,46,"TOUPANE, AXEL",P002582   ,Two Pointer (1/2 -  2 pt),2FGM,4.0,9.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,6,06:00,4,47,"TIMMA, JANIS",P005718   ,Three Pointer (1/2 -  3 pt),3FGM,4.0,12.0,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,7,06:00,4,48,"VOIGTMANN, JOHANNES",P007201   ,Assist (1),AS,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,21,05:37,5,50,"MILAKNIS, ARTURAS",PKPD      ,Three Pointer (1/2 -  3 pt),3FGM,7.0,12.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,3,05:34,5,51,"PANGOS, KEVIN",P006433   ,Assist (1),AS,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,6,05:17,5,52,"TIMMA, JANIS",P005718   ,Turnover (1),TO,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,0,05:16,5,53,"DAVIES, BRANDON",P007870   ,Steal (1),ST,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,3,05:06,5,54,"PANGOS, KEVIN",P006433   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,7,05:03,5,55,"VOIGTMANN, JOHANNES",P007201   ,Def Rebound (3),D,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,0,04:59,6,57,"DAVIES, BRANDON",P007870   ,Foul (1),CM,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,15,04:59,6,58,"GRANGER, JAYSON",P003024   ,Foul Drawn (2),RV,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+          ,,,04:59,6,59,,          ,TV Time Out (1),TOUT_TV,,,,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,0,04:59,6,60,"DAVIES, BRANDON",P007870   ,Out,OUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,13,04:59,6,61,"JANKUNAS, PAULIUS",PBWI      ,Out,OUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,30,04:59,6,62,"WHITE, AARON",P006505   ,In,IN,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,44,04:59,6,63,"KAVALIAUSKAS, ANTANAS",P000399   ,In,IN,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,6,04:59,6,64,"TIMMA, JANIS",P005718   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,52,04:59,6,65,"MCRAE, JORDAN",P007996   ,In,IN,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,23,04:46,6,66,"SHENGELIA, TORNIKE",P001133   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,6,04:43,6,67,"TOUPANE, AXEL",P002582   ,Def Rebound (2),D,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,3,04:24,6,68,"PANGOS, KEVIN",P006433   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,3,04:24,6,69,"PANGOS, KEVIN",P006433   ,Shot Rejected (1),AG,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,15,04:24,6,70,"GRANGER, JAYSON",P003024   ,Block (1),FV,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,,04:24,6,71,,          ,Off Rebound (1),O,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,1,04:24,6,72,"BOST, DEE",P004264   ,In,IN,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,3,04:24,6,73,"PANGOS, KEVIN",P006433   ,Out,OUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,30,04:20,6,74,"WHITE, AARON",P006505   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,23,04:18,6,75,"SHENGELIA, TORNIKE",P001133   ,Def Rebound (1),D,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,52,04:07,6,76,"MCRAE, JORDAN",P007996   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,,04:07,6,77,,          ,Def Rebound (1),D,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,9,04:01,6,78,"HUERTAS, MARCELINHO",PJUJ      ,In,IN,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,15,04:01,6,79,"GRANGER, JAYSON",P003024   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,1,03:44,7,81,"BOST, DEE",P004264   ,Turnover (1),TO,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,7,03:36,7,82,"VOIGTMANN, JOHANNES",P007201   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,17,03:36,7,83,"POIRIER, VINCENT",P004887   ,In,IN,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,17,03:25,7,84,"POIRIER, VINCENT",P004887   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,44,03:25,7,85,"KAVALIAUSKAS, ANTANAS",P000399   ,Def Rebound (1),D,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,6,03:25,7,86,"TOUPANE, AXEL",P002582   ,Two Pointer (2/3 -  4 pt),2FGM,9.0,12.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,1,03:25,7,284,"BOST, DEE",P004264   ,Assist (1),AS,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,11,03:25,7,87,"JANNING, MATT",P004165   ,Foul (1),CM,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,6,03:25,7,88,"TOUPANE, AXEL",P002582   ,Foul Drawn (1),RV,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,10,03:25,7,89,"BEAUBOIS, RODRIGUE",P006590   ,In,IN,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,11,03:25,7,90,"JANNING, MATT",P004165   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,6,03:25,7,91,"TOUPANE, AXEL",P002582   ,Missed Free Throw (0/1 -  4 pt),FTA,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,,03:25,7,92,,          ,Def Rebound (2),D,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,9,03:13,7,93,"HUERTAS, MARCELINHO",PJUJ      ,Turnover (1),TO,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,6,03:12,7,94,"TOUPANE, AXEL",P002582   ,Steal (1),ST,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,6,03:09,7,95,"TOUPANE, AXEL",P002582   ,Missed Two Pointer (2/4 -  4 pt),2FGA,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,17,03:09,7,96,"POIRIER, VINCENT",P004887   ,Def Rebound (1),D,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,1,03:06,7,97,"BOST, DEE",P004264   ,Foul (1),CM,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,9,03:06,7,98,"HUERTAS, MARCELINHO",PJUJ      ,Foul Drawn (1),RV,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,17,02:48,8,100,"POIRIER, VINCENT",P004887   ,Two Pointer (1/2 -  2 pt),2FGM,9.0,14.0,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,9,02:46,8,101,"HUERTAS, MARCELINHO",PJUJ      ,Assist (1),AS,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,6,02:32,8,102,"TOUPANE, AXEL",P002582   ,Two Pointer (3/5 -  6 pt),2FGM,11.0,14.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,1,02:32,8,103,"BOST, DEE",P004264   ,Assist (2),AS,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,21,02:32,8,104,"MILAKNIS, ARTURAS",PKPD      ,Out,OUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,92,02:32,8,105,"ULANOVAS, EDGARAS",P002329   ,In,IN,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,6,02:15,8,106,"TOUPANE, AXEL",P002582   ,Foul (1),CM,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,52,02:15,8,107,"MCRAE, JORDAN",P007996   ,Foul Drawn (1),RV,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,52,02:15,8,108,"MCRAE, JORDAN",P007996   ,Free Throw In (1/1 -  1 pt),FTM,11.0,15.0,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,52,02:15,8,109,"MCRAE, JORDAN",P007996   ,Free Throw In (2/2 -  2 pt),FTM,11.0,16.0,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,6,01:56,9,111,"TOUPANE, AXEL",P002582   ,Missed Two Pointer (3/6 -  6 pt),2FGA,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,,01:56,9,112,,          ,Def Rebound (3),D,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,44,01:45,9,113,"KAVALIAUSKAS, ANTANAS",P000399   ,Foul (1),CM,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,23,01:45,9,114,"SHENGELIA, TORNIKE",P001133   ,Foul Drawn (1),RV,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,23,01:45,9,115,"SHENGELIA, TORNIKE",P001133   ,Free Throw In (1/1 -  1 pt),FTM,11.0,17.0,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,23,01:45,9,116,"SHENGELIA, TORNIKE",P001133   ,Free Throw In (2/2 -  2 pt),FTM,11.0,18.0,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,6,01:45,9,117,"TOUPANE, AXEL",P002582   ,Out,OUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,22,01:45,9,118,"MICIC, VASILIJE",P002580   ,In,IN,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,30,01:21,9,119,"WHITE, AARON",P006505   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,17,01:19,9,120,"POIRIER, VINCENT",P004887   ,Def Rebound (2),D,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,23,01:17,9,121,"SHENGELIA, TORNIKE",P001133   ,Two Pointer (1/2 -  4 pt),2FGM,11.0,20.0,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,9,01:17,9,122,"HUERTAS, MARCELINHO",PJUJ      ,Assist (2),AS,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,1,01:17,9,123,"BOST, DEE",P004264   ,Foul (2),CM,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,23,01:17,9,124,"SHENGELIA, TORNIKE",P001133   ,Foul Drawn (2),RV,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,,01:17,9,125,,          ,Time Out (1),TOUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,1,01:17,9,126,"BOST, DEE",P004264   ,Out,OUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,66,01:17,9,127,"VALINSKAS, PAULIUS",P004664   ,In,IN,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,23,01:17,9,128,"SHENGELIA, TORNIKE",P001133   ,Free Throw In (3/3 -  5 pt),FTM,11.0,21.0,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,30,01:04,9,129,"WHITE, AARON",P006505   ,Two Pointer (1/3 -  2 pt),2FGM,13.0,21.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,44,01:01,9,130,"KAVALIAUSKAS, ANTANAS",P000399   ,Assist (1),AS,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,10,00:49,10,132,"BEAUBOIS, RODRIGUE",P006590   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,66,00:47,10,133,"VALINSKAS, PAULIUS",P004664   ,Def Rebound (1),D,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,92,00:27,10,134,"ULANOVAS, EDGARAS",P002329   ,Two Pointer (1/1 -  2 pt),2FGM,15.0,21.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,22,00:22,10,135,"MICIC, VASILIJE",P002580   ,Assist (1),AS,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,52,00:01,10,136,"MCRAE, JORDAN",P007996   ,Missed Two Pointer (0/2 -  2 pt),2FGA,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+          ,,,,11,138,,          ,End Period,EP,,,,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+          ,,,,11,143,,          ,Begin Period,BP,,,,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,6,10:00,11,139,"TIMMA, JANIS",P005718   ,In,IN,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,8,10:00,11,140,"MALMANIS, RINALDS",P004185   ,In,IN,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,23,10:00,11,141,"SHENGELIA, TORNIKE",P001133   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,52,10:00,11,142,"MCRAE, JORDAN",P007996   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,10,09:50,11,144,"BEAUBOIS, RODRIGUE",P006590   ,Three Pointer (1/2 -  3 pt),3FGM,15.0,24.0,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,22,09:27,11,145,"MICIC, VASILIJE",P002580   ,Two Pointer (1/1 -  2 pt),2FGM,17.0,24.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,9,09:07,11,146,"HUERTAS, MARCELINHO",PJUJ      ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,44,09:04,11,147,"KAVALIAUSKAS, ANTANAS",P000399   ,Def Rebound (2),D,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,17,08:55,12,149,"POIRIER, VINCENT",P004887   ,Foul (1),CM,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,22,08:55,12,150,"MICIC, VASILIJE",P002580   ,Foul Drawn (1),RV,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,22,08:44,12,151,"MICIC, VASILIJE",P002580   ,Turnover (1),TO,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,6,08:42,12,152,"TIMMA, JANIS",P005718   ,Steal (1),ST,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,17,08:40,12,153,"POIRIER, VINCENT",P004887   ,Turnover (1),TO,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,66,08:24,12,154,"VALINSKAS, PAULIUS",P004664   ,Two Pointer (1/1 -  2 pt),2FGM,19.0,24.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,22,08:21,12,155,"MICIC, VASILIJE",P002580   ,Assist (2),AS,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,10,08:10,12,156,"BEAUBOIS, RODRIGUE",P006590   ,Missed Two Pointer (0/1 -  3 pt),2FGA,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,,08:10,12,157,,          ,Off Rebound (2),O,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,44,08:10,12,158,"KAVALIAUSKAS, ANTANAS",P000399   ,Foul (2),CM,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,17,08:10,12,159,"POIRIER, VINCENT",P004887   ,Foul Drawn (1),RV,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,13,08:10,12,160,"JANKUNAS, PAULIUS",PBWI      ,In,IN,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,44,08:10,12,161,"KAVALIAUSKAS, ANTANAS",P000399   ,Out,OUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,9,08:10,12,162,"HUERTAS, MARCELINHO",PJUJ      ,Out,OUT,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,15,08:10,12,163,"GRANGER, JAYSON",P003024   ,In,IN,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,10,08:03,12,164,"BEAUBOIS, RODRIGUE",P006590   ,Missed Two Pointer (0/2 -  3 pt),2FGA,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,66,08:00,13,166,"VALINSKAS, PAULIUS",P004664   ,Def Rebound (2),D,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,17,07:55,13,167,"POIRIER, VINCENT",P004887   ,Foul (2),CM,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,13,07:55,13,168,"JANKUNAS, PAULIUS",PBWI      ,Foul Drawn (4),RV,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,7,07:55,13,169,"VOIGTMANN, JOHANNES",P007201   ,In,IN,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,17,07:55,13,170,"POIRIER, VINCENT",P004887   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,22,07:46,13,171,"MICIC, VASILIJE",P002580   ,Two Pointer (2/2 -  4 pt),2FGM,21.0,24.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,7,07:30,13,172,"VOIGTMANN, JOHANNES",P007201   ,Missed Two Pointer (2/3 -  4 pt),2FGA,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,,07:30,13,173,,          ,Def Rebound (4),D,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,7,07:30,13,174,"VOIGTMANN, JOHANNES",P007201   ,Foul (1),CM,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,92,07:30,13,175,"ULANOVAS, EDGARAS",P002329   ,Foul Drawn (1),RV,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,22,07:17,13,176,"MICIC, VASILIJE",P002580   ,Turnover (2),TO,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,8,07:03,13,177,"MALMANIS, RINALDS",P004185   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,92,07:03,13,178,"ULANOVAS, EDGARAS",P002329   ,Def Rebound (1),D,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,21,07:03,13,179,"MILAKNIS, ARTURAS",PKPD      ,In,IN,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,30,07:03,13,180,"WHITE, AARON",P006505   ,Out,OUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,13,06:51,14,182,"JANKUNAS, PAULIUS",PBWI      ,Two Pointer (2/4 -  4 pt),2FGM,23.0,24.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,22,06:49,14,183,"MICIC, VASILIJE",P002580   ,Assist (3),AS,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,15,06:28,14,184,"GRANGER, JAYSON",P003024   ,Missed Three Pointer (1/2 -  5 pt),3FGA,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,,06:28,14,185,,          ,Def Rebound (5),D,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,8,06:28,14,186,"MALMANIS, RINALDS",P004185   ,Foul (3),CM,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,22,06:28,14,187,"MICIC, VASILIJE",P002580   ,Foul Drawn (2),RV,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,8,06:28,14,188,"MALMANIS, RINALDS",P004185   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,23,06:28,14,189,"SHENGELIA, TORNIKE",P001133   ,In,IN,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,92,06:16,14,190,"ULANOVAS, EDGARAS",P002329   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,92,06:16,14,191,"ULANOVAS, EDGARAS",P002329   ,Shot Rejected (1),AG,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,7,06:14,14,192,"VOIGTMANN, JOHANNES",P007201   ,Block (2),FV,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,15,06:12,14,193,"GRANGER, JAYSON",P003024   ,Def Rebound (1),D,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,10,06:08,14,194,"BEAUBOIS, RODRIGUE",P006590   ,Three Pointer (2/3 -  6 pt),3FGM,23.0,27.0,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,6,06:05,14,195,"TIMMA, JANIS",P005718   ,Assist (2),AS,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,22,05:44,15,197,"MICIC, VASILIJE",P002580   ,Two Pointer (3/3 -  6 pt),2FGM,25.0,27.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,23,05:33,15,198,"SHENGELIA, TORNIKE",P001133   ,Two Pointer (2/3 -  7 pt),2FGM,25.0,29.0,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,10,05:31,15,199,"BEAUBOIS, RODRIGUE",P006590   ,Assist (1),AS,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,6,05:17,15,200,"TIMMA, JANIS",P005718   ,Foul (1),CM,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,13,05:17,15,201,"JANKUNAS, PAULIUS",PBWI      ,Foul Drawn (5),RV,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,3,05:17,15,202,"PANGOS, KEVIN",P006433   ,In,IN,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,66,05:17,15,203,"VALINSKAS, PAULIUS",P004664   ,Out,OUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,13,05:17,15,204,"JANKUNAS, PAULIUS",PBWI      ,Free Throw In (1/1 -  5 pt),FTM,26.0,29.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,13,05:17,15,205,"JANKUNAS, PAULIUS",PBWI      ,Free Throw In (2/2 -  6 pt),FTM,27.0,29.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,10,04:54,16,207,"BEAUBOIS, RODRIGUE",P006590   ,Three Pointer (3/4 -  9 pt),3FGM,27.0,32.0,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,15,04:51,16,208,"GRANGER, JAYSON",P003024   ,Assist (1),AS,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+          ,,,04:39,16,209,,          ,TV Time Out (2),TOUT_TV,,,,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,10,04:39,16,210,"BEAUBOIS, RODRIGUE",P006590   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,11,04:39,16,211,"JANNING, MATT",P004165   ,In,IN,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,13,04:27,16,212,"JANKUNAS, PAULIUS",PBWI      ,Two Pointer (3/5 -  8 pt),2FGM,29.0,32.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,3,04:26,16,213,"PANGOS, KEVIN",P006433   ,Assist (2),AS,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,15,04:18,16,214,"GRANGER, JAYSON",P003024   ,Three Pointer (2/3 -  8 pt),3FGM,29.0,35.0,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,7,04:18,16,215,"VOIGTMANN, JOHANNES",P007201   ,Assist (2),AS,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,,04:11,16,216,,          ,Time Out (1),TOUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,3,03:57,17,218,"PANGOS, KEVIN",P006433   ,Turnover (3),TO,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,22,03:43,17,219,"MICIC, VASILIJE",P002580   ,Foul (2),CM,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,7,03:43,17,220,"VOIGTMANN, JOHANNES",P007201   ,Foul Drawn (1),RV,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,6,03:43,17,221,"TOUPANE, AXEL",P002582   ,In,IN,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,22,03:43,17,222,"MICIC, VASILIJE",P002580   ,Out,OUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,11,03:28,17,223,"JANNING, MATT",P004165   ,Three Pointer (1/1 -  3 pt),3FGM,29.0,38.0,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,23,03:26,17,224,"SHENGELIA, TORNIKE",P001133   ,Assist (1),AS,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,6,03:11,17,225,"TOUPANE, AXEL",P002582   ,Missed Two Pointer (3/7 -  6 pt),2FGA,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,6,03:11,17,226,"TOUPANE, AXEL",P002582   ,Shot Rejected (2),AG,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,6,03:10,17,227,"TIMMA, JANIS",P005718   ,Block (1),FV,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,7,03:08,17,228,"VOIGTMANN, JOHANNES",P007201   ,Def Rebound (4),D,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,15,03:05,17,229,"GRANGER, JAYSON",P003024   ,Three Pointer (3/4 -  11 pt),3FGM,29.0,41.0,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,15,02:43,18,231,"GRANGER, JAYSON",P003024   ,Foul (1),CM,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,13,02:43,18,232,"JANKUNAS, PAULIUS",PBWI      ,Foul Drawn (6),RV,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,13,02:43,18,233,"JANKUNAS, PAULIUS",PBWI      ,Free Throw In (3/3 -  9 pt),FTM,30.0,41.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,13,02:43,18,234,"JANKUNAS, PAULIUS",PBWI      ,Missed Free Throw (3/4 -  9 pt),FTA,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,23,02:43,18,235,"SHENGELIA, TORNIKE",P001133   ,Def Rebound (2),D,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,11,02:31,18,236,"JANNING, MATT",P004165   ,Missed Three Pointer (1/2 -  3 pt),3FGA,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,21,02:31,18,237,"MILAKNIS, ARTURAS",PKPD      ,Def Rebound (1),D,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,3,02:07,18,238,"PANGOS, KEVIN",P006433   ,Missed Two Pointer (0/3 -  0 pt),2FGA,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,,02:07,18,239,,          ,Def Rebound (6),D,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,92,02:07,18,240,"ULANOVAS, EDGARAS",P002329   ,Foul (1),CM,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,23,02:07,18,241,"SHENGELIA, TORNIKE",P001133   ,Foul Drawn (3),RV,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,23,01:51,19,243,"SHENGELIA, TORNIKE",P001133   ,Three Pointer (1/1 -  10 pt),3FGM,30.0,44.0,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,15,01:48,19,244,"GRANGER, JAYSON",P003024   ,Assist (2),AS,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,13,01:27,19,245,"JANKUNAS, PAULIUS",PBWI      ,Missed Two Pointer (3/6 -  9 pt),2FGA,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,23,01:25,19,246,"SHENGELIA, TORNIKE",P001133   ,Def Rebound (3),D,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,23,01:11,19,247,"SHENGELIA, TORNIKE",P001133   ,Two Pointer (3/4 -  12 pt),2FGM,30.0,46.0,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,15,01:09,19,248,"GRANGER, JAYSON",P003024   ,Assist (3),AS,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,3,00:58,20,250,"PANGOS, KEVIN",P006433   ,Turnover (4),TO,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,11,00:56,20,251,"JANNING, MATT",P004165   ,Steal (1),ST,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,11,00:53,20,252,"JANNING, MATT",P004165   ,Two Pointer (1/1 -  5 pt),2FGM,30.0,48.0,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,3,00:53,20,253,"PANGOS, KEVIN",P006433   ,Foul (1),CM,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,11,00:53,20,254,"JANNING, MATT",P004165   ,Foul Drawn (1),RV,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,3,00:53,20,255,"PANGOS, KEVIN",P006433   ,Out,OUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,6,00:53,20,256,"TOUPANE, AXEL",P002582   ,Out,OUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,21,00:53,20,257,"MILAKNIS, ARTURAS",PKPD      ,Out,OUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,22,00:53,20,258,"MICIC, VASILIJE",P002580   ,In,IN,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,30,00:53,20,259,"WHITE, AARON",P006505   ,In,IN,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,66,00:53,20,260,"VALINSKAS, PAULIUS",P004664   ,In,IN,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,7,00:53,20,261,"VOIGTMANN, JOHANNES",P007201   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,17,00:53,20,262,"POIRIER, VINCENT",P004887   ,In,IN,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,11,00:53,20,263,"JANNING, MATT",P004165   ,Free Throw In (1/1 -  6 pt),FTM,30.0,49.0,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,9,00:53,20,264,"HUERTAS, MARCELINHO",PJUJ      ,In,IN,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,15,00:53,20,265,"GRANGER, JAYSON",P003024   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,13,00:44,20,266,"JANKUNAS, PAULIUS",PBWI      ,Offensive Foul (1),OF,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,13,00:44,20,267,"JANKUNAS, PAULIUS",PBWI      ,Turnover (1),TO,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,11,00:44,20,268,"JANNING, MATT",P004165   ,Foul Drawn (2),RV,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,0,00:44,20,269,"DAVIES, BRANDON",P007870   ,In,IN,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,13,00:44,20,270,"JANKUNAS, PAULIUS",PBWI      ,Out,OUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,6,00:30,20,271,"TIMMA, JANIS",P005718   ,Three Pointer (2/3 -  6 pt),3FGM,30.0,52.0,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,9,00:28,20,272,"HUERTAS, MARCELINHO",PJUJ      ,Assist (3),AS,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,22,00:09,20,273,"MICIC, VASILIJE",P002580   ,Two Pointer (4/4 -  8 pt),2FGM,32.0,52.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,,00:09,20,274,,          ,Time Out (1),TOUT,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,0,00:09,20,275,"DAVIES, BRANDON",P007870   ,Out,OUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,6,00:09,20,276,"TOUPANE, AXEL",P002582   ,In,IN,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,21,00:09,20,277,"MILAKNIS, ARTURAS",PKPD      ,In,IN,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,66,00:09,20,278,"VALINSKAS, PAULIUS",P004664   ,Out,OUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,17,00:02,20,279,"POIRIER, VINCENT",P004887   ,Two Pointer (2/3 -  4 pt),2FGM,32.0,54.0,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,9,00:02,20,280,"HUERTAS, MARCELINHO",PJUJ      ,Assist (4),AS,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,22,00:01,20,281,"MICIC, VASILIJE",P002580   ,Missed Three Pointer (0/1 -  8 pt),3FGA,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+          ,,,,21,283,,          ,End Period,EP,,,,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+          ,,,,21,297,,          ,Begin Period,BP,,,,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,0,10:00,21,285,"DAVIES, BRANDON",P007870   ,In,IN,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,3,10:00,21,286,"PANGOS, KEVIN",P006433   ,In,IN,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,6,10:00,21,287,"TOUPANE, AXEL",P002582   ,Out,OUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,13,10:00,21,288,"JANKUNAS, PAULIUS",PBWI      ,In,IN,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,30,10:00,21,289,"WHITE, AARON",P006505   ,Out,OUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,92,10:00,21,290,"ULANOVAS, EDGARAS",P002329   ,Out,OUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,7,10:00,21,291,"VOIGTMANN, JOHANNES",P007201   ,In,IN,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,8,10:00,21,292,"MALMANIS, RINALDS",P004185   ,In,IN,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,9,10:00,21,293,"HUERTAS, MARCELINHO",PJUJ      ,Out,OUT,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,15,10:00,21,294,"GRANGER, JAYSON",P003024   ,In,IN,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,17,10:00,21,295,"POIRIER, VINCENT",P004887   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,23,10:00,21,296,"SHENGELIA, TORNIKE",P001133   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,6,09:39,21,298,"TIMMA, JANIS",P005718   ,Two Pointer (1/2 -  8 pt),2FGM,32.0,56.0,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,7,09:31,21,299,"VOIGTMANN, JOHANNES",P007201   ,Foul (2),CM,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,22,09:31,21,300,"MICIC, VASILIJE",P002580   ,Foul Drawn (3),RV,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,21,09:25,21,301,"MILAKNIS, ARTURAS",PKPD      ,Missed Three Pointer (1/3 -  3 pt),3FGA,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,15,09:23,21,302,"GRANGER, JAYSON",P003024   ,Def Rebound (2),D,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,6,09:19,21,303,"TIMMA, JANIS",P005718   ,Missed Three Pointer (2/4 -  8 pt),3FGA,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,3,09:19,21,304,"PANGOS, KEVIN",P006433   ,Def Rebound (1),D,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,3,09:19,21,305,"PANGOS, KEVIN",P006433   ,Missed Two Pointer (0/4 -  0 pt),2FGA,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,15,09:19,21,306,"GRANGER, JAYSON",P003024   ,Def Rebound (3),D,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,7,08:50,22,308,"VOIGTMANN, JOHANNES",P007201   ,Missed Two Pointer (2/4 -  4 pt),2FGA,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,13,08:48,22,309,"JANKUNAS, PAULIUS",PBWI      ,Def Rebound (1),D,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,21,08:37,22,310,"MILAKNIS, ARTURAS",PKPD      ,Two Pointer (1/1 -  5 pt),2FGM,34.0,56.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,22,08:35,22,311,"MICIC, VASILIJE",P002580   ,Assist (4),AS,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,7,08:26,22,312,"VOIGTMANN, JOHANNES",P007201   ,Three Pointer (1/1 -  7 pt),3FGM,34.0,59.0,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,8,08:23,22,313,"MALMANIS, RINALDS",P004185   ,Assist (1),AS,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,0,08:03,22,314,"DAVIES, BRANDON",P007870   ,Two Pointer (1/1 -  2 pt),2FGM,36.0,59.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,22,08:03,22,315,"MICIC, VASILIJE",P002580   ,Assist (5),AS,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,8,07:48,23,317,"MALMANIS, RINALDS",P004185   ,Three Pointer (1/2 -  3 pt),3FGM,36.0,62.0,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,7,07:46,23,318,"VOIGTMANN, JOHANNES",P007201   ,Assist (3),AS,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,15,07:34,23,319,"GRANGER, JAYSON",P003024   ,Foul (2),CM,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,3,07:34,23,320,"PANGOS, KEVIN",P006433   ,Foul Drawn (1),RV,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,6,07:29,23,321,"TIMMA, JANIS",P005718   ,Foul (2),CM,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,0,07:29,23,322,"DAVIES, BRANDON",P007870   ,Foul Drawn (1),RV,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,11,07:18,23,323,"JANNING, MATT",P004165   ,Foul (2),CM,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,22,07:18,23,324,"MICIC, VASILIJE",P002580   ,Foul Drawn (4),RV,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,22,07:18,23,325,"MICIC, VASILIJE",P002580   ,Free Throw In (1/1 -  9 pt),FTM,37.0,62.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,22,07:18,23,326,"MICIC, VASILIJE",P002580   ,Free Throw In (2/2 -  10 pt),FTM,38.0,62.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,7,07:01,23,327,"VOIGTMANN, JOHANNES",P007201   ,Two Pointer (3/5 -  9 pt),2FGM,38.0,64.0,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,8,06:59,24,329,"MALMANIS, RINALDS",P004185   ,Assist (2),AS,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,13,06:52,24,330,"JANKUNAS, PAULIUS",PBWI      ,Two Pointer (4/7 -  11 pt),2FGM,40.0,64.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,3,06:52,24,331,"PANGOS, KEVIN",P006433   ,Assist (3),AS,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,15,06:26,24,332,"GRANGER, JAYSON",P003024   ,Turnover (2),TO,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,13,06:24,24,333,"JANKUNAS, PAULIUS",PBWI      ,Steal (1),ST,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,13,06:16,24,334,"JANKUNAS, PAULIUS",PBWI      ,Two Pointer (5/8 -  13 pt),2FGM,42.0,64.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,3,06:14,24,335,"PANGOS, KEVIN",P006433   ,Assist (4),AS,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,8,05:57,25,337,"MALMANIS, RINALDS",P004185   ,Missed Three Pointer (1/3 -  3 pt),3FGA,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,7,05:55,25,338,"VOIGTMANN, JOHANNES",P007201   ,Off Rebound (2),O,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,7,05:53,25,339,"VOIGTMANN, JOHANNES",P007201   ,Two Pointer (4/6 -  11 pt),2FGM,42.0,66.0,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,13,05:38,25,340,"JANKUNAS, PAULIUS",PBWI      ,Two Pointer (6/9 -  15 pt),2FGM,44.0,66.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,0,05:38,25,341,"DAVIES, BRANDON",P007870   ,Assist (1),AS,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,0,05:38,25,342,"DAVIES, BRANDON",P007870   ,Out,OUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,21,05:38,25,343,"MILAKNIS, ARTURAS",PKPD      ,Out,OUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,30,05:38,25,344,"WHITE, AARON",P006505   ,In,IN,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,92,05:38,25,345,"ULANOVAS, EDGARAS",P002329   ,In,IN,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,7,05:38,25,346,"VOIGTMANN, JOHANNES",P007201   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,17,05:38,25,347,"POIRIER, VINCENT",P004887   ,In,IN,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,11,05:22,25,348,"JANNING, MATT",P004165   ,Two Pointer (2/2 -  8 pt),2FGM,44.0,68.0,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,15,05:19,25,349,"GRANGER, JAYSON",P003024   ,Assist (4),AS,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,30,05:14,25,350,"WHITE, AARON",P006505   ,Two Pointer (2/4 -  4 pt),2FGM,46.0,68.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,3,05:14,25,351,"PANGOS, KEVIN",P006433   ,Assist (5),AS,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+          ,,,04:52,26,353,,          ,TV Time Out (3),TOUT_TV,,,,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,15,04:45,26,354,"GRANGER, JAYSON",P003024   ,Missed Two Pointer (1/2 -  11 pt),2FGA,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,13,04:43,26,355,"JANKUNAS, PAULIUS",PBWI      ,Def Rebound (2),D,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,6,04:31,26,356,"TIMMA, JANIS",P005718   ,Foul (3),CM,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,22,04:31,26,357,"MICIC, VASILIJE",P002580   ,Foul Drawn (5),RV,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,3,04:31,26,358,"PANGOS, KEVIN",P006433   ,Out,OUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,66,04:31,26,359,"VALINSKAS, PAULIUS",P004664   ,In,IN,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,6,04:31,26,360,"TIMMA, JANIS",P005718   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,10,04:31,26,361,"BEAUBOIS, RODRIGUE",P006590   ,In,IN,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,11,04:31,26,362,"JANNING, MATT",P004165   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,52,04:31,26,363,"MCRAE, JORDAN",P007996   ,In,IN,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,22,04:31,26,364,"MICIC, VASILIJE",P002580   ,Missed Free Throw (2/3 -  10 pt),FTA,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,22,04:31,26,365,"MICIC, VASILIJE",P002580   ,Free Throw In (3/4 -  11 pt),FTM,47.0,68.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,30,04:17,26,366,"WHITE, AARON",P006505   ,Foul (1),CM,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,17,04:17,26,367,"POIRIER, VINCENT",P004887   ,Foul Drawn (2),RV,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,10,04:11,26,368,"BEAUBOIS, RODRIGUE",P006590   ,Missed Two Pointer (0/3 -  9 pt),2FGA,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,8,04:08,26,369,"MALMANIS, RINALDS",P004185   ,Off Rebound (1),O,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,8,04:05,26,370,"MALMANIS, RINALDS",P004185   ,Missed Two Pointer (0/1 -  3 pt),2FGA,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,30,04:03,26,371,"WHITE, AARON",P006505   ,Def Rebound (1),D,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,17,04:02,26,372,"POIRIER, VINCENT",P004887   ,Foul (3),CM,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,13,04:02,26,373,"JANKUNAS, PAULIUS",PBWI      ,Foul Drawn (7),RV,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,9,04:02,26,374,"HUERTAS, MARCELINHO",PJUJ      ,In,IN,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,15,04:02,26,375,"GRANGER, JAYSON",P003024   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,13,04:02,26,376,"JANKUNAS, PAULIUS",PBWI      ,Missed Free Throw (3/5 -  15 pt),FTA,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,13,04:02,26,377,"JANKUNAS, PAULIUS",PBWI      ,Free Throw In (4/6 -  16 pt),FTM,48.0,68.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,10,03:55,27,379,"BEAUBOIS, RODRIGUE",P006590   ,Turnover (1),TO,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,66,03:53,27,380,"VALINSKAS, PAULIUS",P004664   ,Steal (1),ST,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,66,03:50,27,381,"VALINSKAS, PAULIUS",P004664   ,Two Pointer (2/2 -  4 pt),2FGM,50.0,68.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,52,03:38,27,382,"MCRAE, JORDAN",P007996   ,Missed Two Pointer (0/3 -  2 pt),2FGA,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,13,03:38,27,383,"JANKUNAS, PAULIUS",PBWI      ,Def Rebound (3),D,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,92,03:14,27,384,"ULANOVAS, EDGARAS",P002329   ,Turnover (1),TO,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,8,03:14,27,385,"MALMANIS, RINALDS",P004185   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,23,03:14,27,386,"SHENGELIA, TORNIKE",P001133   ,In,IN,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,13,03:06,27,387,"JANKUNAS, PAULIUS",PBWI      ,Foul (2),CM,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,23,03:06,27,388,"SHENGELIA, TORNIKE",P001133   ,Foul Drawn (4),RV,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,13,03:06,27,389,"JANKUNAS, PAULIUS",PBWI      ,Out,OUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,44,03:06,27,390,"KAVALIAUSKAS, ANTANAS",P000399   ,In,IN,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,17,03:04,27,391,"POIRIER, VINCENT",P004887   ,Missed Two Pointer (2/4 -  4 pt),2FGA,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,17,03:04,27,392,"POIRIER, VINCENT",P004887   ,Shot Rejected (1),AG,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,30,03:04,27,393,"WHITE, AARON",P006505   ,Block (1),FV,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,44,03:04,27,394,"KAVALIAUSKAS, ANTANAS",P000399   ,Def Rebound (3),D,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,30,02:50,28,396,"WHITE, AARON",P006505   ,Two Pointer (3/5 -  6 pt),2FGM,52.0,68.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,22,02:50,28,397,"MICIC, VASILIJE",P002580   ,Assist (6),AS,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,,02:50,28,398,,          ,Time Out (1),TOUT,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,23,02:30,28,399,"SHENGELIA, TORNIKE",P001133   ,Turnover (2),TO,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,66,02:15,28,400,"VALINSKAS, PAULIUS",P004664   ,Three Pointer (1/1 -  7 pt),3FGM,55.0,68.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,92,02:12,28,401,"ULANOVAS, EDGARAS",P002329   ,Assist (1),AS,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,6,02:10,28,402,"TIMMA, JANIS",P005718   ,In,IN,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,52,02:10,28,403,"MCRAE, JORDAN",P007996   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,9,01:45,29,405,"HUERTAS, MARCELINHO",PJUJ      ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,,01:45,29,406,,          ,Def Rebound (7),D,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,23,01:30,29,407,"SHENGELIA, TORNIKE",P001133   ,Foul (2),CM,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,44,01:30,29,408,"KAVALIAUSKAS, ANTANAS",P000399   ,Foul Drawn (1),RV,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,44,01:30,29,409,"KAVALIAUSKAS, ANTANAS",P000399   ,Free Throw In (1/1 -  1 pt),FTM,56.0,68.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,92,01:30,29,410,"ULANOVAS, EDGARAS",P002329   ,Assist (2),AS,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,44,01:30,29,411,"KAVALIAUSKAS, ANTANAS",P000399   ,Free Throw In (2/2 -  2 pt),FTM,57.0,68.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,92,01:15,29,412,"ULANOVAS, EDGARAS",P002329   ,Foul (2),CM,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,17,01:15,29,413,"POIRIER, VINCENT",P004887   ,Foul Drawn (3),RV,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,9,01:08,29,414,"HUERTAS, MARCELINHO",PJUJ      ,Two Pointer (1/2 -  2 pt),2FGM,57.0,70.0,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,17,01:06,29,415,"POIRIER, VINCENT",P004887   ,Assist (1),AS,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,66,00:52,30,417,"VALINSKAS, PAULIUS",P004664   ,Missed Three Pointer (1/2 -  7 pt),3FGA,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,23,00:48,30,418,"SHENGELIA, TORNIKE",P001133   ,Def Rebound (4),D,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,23,00:23,30,419,"SHENGELIA, TORNIKE",P001133   ,Missed Two Pointer (3/5 -  12 pt),2FGA,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,17,00:21,30,420,"POIRIER, VINCENT",P004887   ,Off Rebound (1),O,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,17,00:09,30,421,"POIRIER, VINCENT",P004887   ,Missed Two Pointer (2/5 -  4 pt),2FGA,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,17,00:09,30,422,"POIRIER, VINCENT",P004887   ,Shot Rejected (2),AG,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,44,00:07,30,423,"KAVALIAUSKAS, ANTANAS",P000399   ,Block (1),FV,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,6,00:07,30,424,"TIMMA, JANIS",P005718   ,Off Rebound (1),O,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,6,00:07,30,425,"TIMMA, JANIS",P005718   ,Missed Two Pointer (1/3 -  8 pt),2FGA,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,92,00:07,30,426,"ULANOVAS, EDGARAS",P002329   ,Def Rebound (2),D,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,22,00:02,30,427,"MICIC, VASILIJE",P002580   ,Missed Three Pointer (0/2 -  11 pt),3FGA,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,23,00:02,30,428,"SHENGELIA, TORNIKE",P001133   ,Def Rebound (5),D,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+          ,,,,31,430,,          ,End Period,EP,,,,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+          ,,,,31,433,,          ,Begin Period,BP,,,,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,21,10:00,31,431,"MILAKNIS, ARTURAS",PKPD      ,In,IN,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,92,10:00,31,432,"ULANOVAS, EDGARAS",P002329   ,Out,OUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,21,09:47,31,434,"MILAKNIS, ARTURAS",PKPD      ,Two Pointer (2/2 -  7 pt),2FGM,59.0,70.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,10,09:25,31,435,"BEAUBOIS, RODRIGUE",P006590   ,Missed Three Pointer (3/5 -  9 pt),3FGA,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,22,09:23,31,436,"MICIC, VASILIJE",P002580   ,Def Rebound (1),D,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,10,09:19,31,437,"BEAUBOIS, RODRIGUE",P006590   ,Foul (1),CM,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,22,09:19,31,438,"MICIC, VASILIJE",P002580   ,Foul Drawn (6),RV,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,6,09:19,31,439,"TIMMA, JANIS",P005718   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,11,09:19,31,440,"JANNING, MATT",P004165   ,In,IN,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,44,09:07,31,441,"KAVALIAUSKAS, ANTANAS",P000399   ,Two Pointer (1/1 -  4 pt),2FGM,61.0,70.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,22,09:04,31,442,"MICIC, VASILIJE",P002580   ,Assist (7),AS,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,30,09:00,31,443,"WHITE, AARON",P006505   ,Foul (2),CM,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,23,09:00,31,444,"SHENGELIA, TORNIKE",P001133   ,Foul Drawn (5),RV,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,7,09:00,31,445,"VOIGTMANN, JOHANNES",P007201   ,In,IN,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,17,09:00,31,446,"POIRIER, VINCENT",P004887   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,23,09:00,31,447,"SHENGELIA, TORNIKE",P001133   ,Free Throw In (4/4 -  13 pt),FTM,61.0,71.0,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,23,09:00,31,448,"SHENGELIA, TORNIKE",P001133   ,Missed Free Throw (4/5 -  13 pt),FTA,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,44,08:57,32,450,"KAVALIAUSKAS, ANTANAS",P000399   ,Def Rebound (4),D,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,66,08:36,32,451,"VALINSKAS, PAULIUS",P004664   ,Missed Three Pointer (1/3 -  7 pt),3FGA,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,66,08:34,32,452,"VALINSKAS, PAULIUS",P004664   ,Off Rebound (1),O,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,30,08:24,32,453,"WHITE, AARON",P006505   ,Missed Two Pointer (3/6 -  6 pt),2FGA,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,,08:24,32,454,,          ,Off Rebound (3),O,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,9,08:24,32,455,"HUERTAS, MARCELINHO",PJUJ      ,Out,OUT,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,15,08:24,32,456,"GRANGER, JAYSON",P003024   ,In,IN,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,30,08:10,32,457,"WHITE, AARON",P006505   ,Three Pointer (1/1 -  9 pt),3FGM,64.0,71.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,22,08:08,32,458,"MICIC, VASILIJE",P002580   ,Assist (8),AS,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,44,08:05,32,459,"KAVALIAUSKAS, ANTANAS",P000399   ,Foul (3),CM,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,23,08:05,32,460,"SHENGELIA, TORNIKE",P001133   ,Foul Drawn (6),RV,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,23,07:57,33,462,"SHENGELIA, TORNIKE",P001133   ,Missed Three Pointer (1/2 -  13 pt),3FGA,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,30,07:55,33,463,"WHITE, AARON",P006505   ,Def Rebound (2),D,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,66,07:42,33,464,"VALINSKAS, PAULIUS",P004664   ,Missed Two Pointer (2/3 -  7 pt),2FGA,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,23,07:40,33,465,"SHENGELIA, TORNIKE",P001133   ,Def Rebound (6),D,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,10,07:26,33,466,"BEAUBOIS, RODRIGUE",P006590   ,Three Pointer (4/6 -  12 pt),3FGM,64.0,74.0,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,11,07:25,33,467,"JANNING, MATT",P004165   ,Assist (1),AS,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,30,07:24,33,468,"WHITE, AARON",P006505   ,Missed Three Pointer (1/2 -  9 pt),3FGA,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,15,07:24,33,469,"GRANGER, JAYSON",P003024   ,Def Rebound (4),D,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,7,07:04,33,470,"VOIGTMANN, JOHANNES",P007201   ,Two Pointer (5/7 -  13 pt),2FGM,64.0,76.0,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,15,07:04,33,471,"GRANGER, JAYSON",P003024   ,Assist (5),AS,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,,07:04,33,472,,          ,Time Out (1),TOUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+          ,,,07:04,33,473,,          ,TV Time Out (4),TOUT_TV,,,,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,3,07:03,33,474,"PANGOS, KEVIN",P006433   ,In,IN,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,13,07:03,33,475,"JANKUNAS, PAULIUS",PBWI      ,In,IN,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,22,07:03,33,476,"MICIC, VASILIJE",P002580   ,Out,OUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,44,07:03,33,477,"KAVALIAUSKAS, ANTANAS",P000399   ,Out,OUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,66,07:03,33,478,"VALINSKAS, PAULIUS",P004664   ,Out,OUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,92,07:03,33,479,"ULANOVAS, EDGARAS",P002329   ,In,IN,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,13,06:49,34,481,"JANKUNAS, PAULIUS",PBWI      ,Two Pointer (7/10 -  18 pt),2FGM,66.0,76.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,92,06:49,34,482,"ULANOVAS, EDGARAS",P002329   ,Assist (3),AS,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,23,06:29,34,483,"SHENGELIA, TORNIKE",P001133   ,Turnover (3),TO,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,13,06:25,34,484,"JANKUNAS, PAULIUS",PBWI      ,Two Pointer (8/11 -  20 pt),2FGM,68.0,76.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,3,06:25,34,485,"PANGOS, KEVIN",P006433   ,Assist (6),AS,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,10,05:53,35,487,"BEAUBOIS, RODRIGUE",P006590   ,Missed Two Pointer (0/4 -  12 pt),2FGA,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,30,05:49,35,488,"WHITE, AARON",P006505   ,Def Rebound (3),D,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,30,05:48,35,489,"WHITE, AARON",P006505   ,Turnover (1),TO,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,10,05:47,35,490,"BEAUBOIS, RODRIGUE",P006590   ,Steal (1),ST,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,13,05:47,35,491,"JANKUNAS, PAULIUS",PBWI      ,Foul (3),CM,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,10,05:47,35,492,"BEAUBOIS, RODRIGUE",P006590   ,Foul Drawn (1),RV,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,10,05:25,35,493,"BEAUBOIS, RODRIGUE",P006590   ,Three Pointer (5/7 -  15 pt),3FGM,68.0,79.0,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,23,05:23,35,494,"SHENGELIA, TORNIKE",P001133   ,Assist (2),AS,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,13,05:07,35,495,"JANKUNAS, PAULIUS",PBWI      ,Missed Two Pointer (8/12 -  20 pt),2FGA,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,23,05:05,35,496,"SHENGELIA, TORNIKE",P001133   ,Def Rebound (7),D,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,22,04:56,36,498,"MICIC, VASILIJE",P002580   ,In,IN,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,30,04:56,36,499,"WHITE, AARON",P006505   ,Out,OUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,23,04:49,36,500,"SHENGELIA, TORNIKE",P001133   ,Two Pointer (4/6 -  15 pt),2FGM,68.0,81.0,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,7,04:49,36,501,"VOIGTMANN, JOHANNES",P007201   ,Assist (4),AS,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,92,04:49,36,502,"ULANOVAS, EDGARAS",P002329   ,Foul (3),CM,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,23,04:49,36,503,"SHENGELIA, TORNIKE",P001133   ,Foul Drawn (7),RV,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,23,04:49,36,504,"SHENGELIA, TORNIKE",P001133   ,Missed Free Throw (4/6 -  15 pt),FTA,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,21,04:46,36,505,"MILAKNIS, ARTURAS",PKPD      ,Def Rebound (2),D,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,11,04:30,36,506,"JANNING, MATT",P004165   ,Foul (3),CM,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,13,04:30,36,507,"JANKUNAS, PAULIUS",PBWI      ,Foul Drawn (8),RV,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,13,04:30,36,508,"JANKUNAS, PAULIUS",PBWI      ,Missed Free Throw (4/7 -  20 pt),FTA,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,13,04:30,36,509,"JANKUNAS, PAULIUS",PBWI      ,Missed Free Throw (4/8 -  20 pt),FTA,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,23,04:27,36,510,"SHENGELIA, TORNIKE",P001133   ,Def Rebound (8),D,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,11,04:11,36,511,"JANNING, MATT",P004165   ,Three Pointer (2/3 -  11 pt),3FGM,68.0,84.0,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,,04:11,36,512,,          ,Time Out (2),TOUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,0,04:11,36,513,"DAVIES, BRANDON",P007870   ,In,IN,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,13,04:11,36,514,"JANKUNAS, PAULIUS",PBWI      ,Out,OUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,0,03:59,37,516,"DAVIES, BRANDON",P007870   ,Two Pointer (2/2 -  4 pt),2FGM,70.0,84.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,3,03:57,37,517,"PANGOS, KEVIN",P006433   ,Assist (7),AS,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,0,03:49,37,518,"DAVIES, BRANDON",P007870   ,Unsportsmanlike Foul  (2),CMU,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,23,03:49,37,519,"SHENGELIA, TORNIKE",P001133   ,Foul Drawn (8),RV,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,23,03:49,37,520,"SHENGELIA, TORNIKE",P001133   ,Free Throw In (5/7 -  16 pt),FTM,70.0,85.0,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,11,03:49,37,521,"JANNING, MATT",P004165   ,Assist (2),AS,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,23,03:49,37,522,"SHENGELIA, TORNIKE",P001133   ,Free Throw In (6/8 -  17 pt),FTM,70.0,86.0,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,22,03:39,37,523,"MICIC, VASILIJE",P002580   ,Foul (3),CM,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,10,03:39,37,524,"BEAUBOIS, RODRIGUE",P006590   ,Foul Drawn (2),RV,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,10,03:39,37,525,"BEAUBOIS, RODRIGUE",P006590   ,Missed Free Throw (0/1 -  15 pt),FTA,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,10,03:39,37,526,"BEAUBOIS, RODRIGUE",P006590   ,Free Throw In (1/2 -  16 pt),FTM,70.0,87.0,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,3,03:28,37,527,"PANGOS, KEVIN",P006433   ,Missed Two Pointer (0/5 -  0 pt),2FGA,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,15,03:27,37,528,"GRANGER, JAYSON",P003024   ,Def Rebound (5),D,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,10,03:27,37,529,"BEAUBOIS, RODRIGUE",P006590   ,Missed Two Pointer (0/5 -  16 pt),2FGA,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,10,03:27,37,530,"BEAUBOIS, RODRIGUE",P006590   ,Off Rebound (1),O,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,11,03:05,37,531,"JANNING, MATT",P004165   ,Missed Three Pointer (2/4 -  11 pt),3FGA,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,0,03:03,37,532,"DAVIES, BRANDON",P007870   ,Def Rebound (1),D,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,23,02:54,38,534,"SHENGELIA, TORNIKE",P001133   ,Foul (3),CM,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,92,02:54,38,535,"ULANOVAS, EDGARAS",P002329   ,Foul Drawn (2),RV,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,3,02:44,38,536,"PANGOS, KEVIN",P006433   ,Missed Two Pointer (0/6 -  0 pt),2FGA,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,11,02:42,38,537,"JANNING, MATT",P004165   ,Def Rebound (1),D,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,7,02:27,38,538,"VOIGTMANN, JOHANNES",P007201   ,Two Pointer (6/8 -  15 pt),2FGM,70.0,89.0,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,15,02:25,38,539,"GRANGER, JAYSON",P003024   ,Assist (6),AS,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,10,02:18,38,540,"BEAUBOIS, RODRIGUE",P006590   ,Foul (2),CM,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,22,02:18,38,541,"MICIC, VASILIJE",P002580   ,Foul Drawn (7),RV,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,3,02:18,38,542,"PANGOS, KEVIN",P006433   ,Out,OUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,66,02:18,38,543,"VALINSKAS, PAULIUS",P004664   ,In,IN,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,22,02:18,38,544,"MICIC, VASILIJE",P002580   ,Free Throw In (4/5 -  12 pt),FTM,71.0,89.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,22,02:18,38,545,"MICIC, VASILIJE",P002580   ,Missed Free Throw (4/6 -  12 pt),FTA,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,7,02:12,38,546,"VOIGTMANN, JOHANNES",P007201   ,Def Rebound (5),D,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,23,02:00,38,547,"SHENGELIA, TORNIKE",P001133   ,Turnover (4),TO,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,0,02:00,38,548,"DAVIES, BRANDON",P007870   ,Out,OUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,19,02:00,38,549,"SAJUS, MARTYNAS",P005519   ,In,IN,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,21,01:48,39,551,"MILAKNIS, ARTURAS",PKPD      ,Three Pointer (2/4 -  10 pt),3FGM,74.0,89.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,66,01:48,39,552,"VALINSKAS, PAULIUS",P004664   ,Assist (1),AS,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,10,01:32,39,553,"BEAUBOIS, RODRIGUE",P006590   ,Three Pointer (6/8 -  19 pt),3FGM,74.0,92.0,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,15,01:32,39,554,"GRANGER, JAYSON",P003024   ,Assist (7),AS,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,19,01:19,39,555,"SAJUS, MARTYNAS",P005519   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,7,01:17,39,556,"VOIGTMANN, JOHANNES",P007201   ,Def Rebound (6),D,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,15,01:03,39,557,"GRANGER, JAYSON",P003024   ,Three Pointer (4/5 -  14 pt),3FGM,74.0,95.0,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,92,00:49,40,559,"ULANOVAS, EDGARAS",P002329   ,Three Pointer (1/1 -  5 pt),3FGM,77.0,95.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,66,00:49,40,560,"VALINSKAS, PAULIUS",P004664   ,Assist (2),AS,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,15,00:27,40,561,"GRANGER, JAYSON",P003024   ,Missed Three Pointer (4/6 -  14 pt),3FGA,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,,00:26,40,562,,          ,Off Rebound (4),O,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,7,00:26,40,563,"VOIGTMANN, JOHANNES",P007201   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,17,00:26,40,564,"POIRIER, VINCENT",P004887   ,In,IN,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,10,00:21,40,565,"BEAUBOIS, RODRIGUE",P006590   ,Missed Two Pointer (0/6 -  19 pt),2FGA,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,10,00:17,40,566,"BEAUBOIS, RODRIGUE",P006590   ,Off Rebound (2),O,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,23,00:18,40,567,"SHENGELIA, TORNIKE",P001133   ,Two Pointer (5/7 -  19 pt),2FGM,77.0,97.0,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,10,00:18,40,568,"BEAUBOIS, RODRIGUE",P006590   ,Assist (2),AS,,,Baskonia Vitoria Gasteiz,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+ZAL       ,,66,00:03,40,569,"VALINSKAS, PAULIUS",P004664   ,Missed Two Pointer (2/4 -  7 pt),2FGA,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS
+          ,,,,41,572,,          ,End Game,EG,,,,0,Zalgiris Kaunas,ZAL,Baskonia Vitoria Gasteiz,BAS

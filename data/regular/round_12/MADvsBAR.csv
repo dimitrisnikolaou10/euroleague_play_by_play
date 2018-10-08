@@ -1,541 +1,541 @@
-CODETEAM,COMMENT,DORSAL,MARKERTIME,MINUTE,NUMBEROFPLAY,PLAYER,PLAYER_ID,PLAYINFO,PLAYTYPE,POINTS_A,POINTS_B,TEAM,TYPE
-          ,,,,1,27,,          ,Begin Period,BP,,,,0
-MAD       ,,11,09:45,1,28,"CAMPAZZO, FACUNDO",P005928   ,Foul Drawn (1),RV,,,Real Madrid,0
-BAR       ,,13,09:45,1,29,"HEURTEL, THOMAS",PKLT      ,Foul (1),CM,,,FC Barcelona Lassa,0
-MAD       ,,11,09:39,1,30,"CAMPAZZO, FACUNDO",P005928   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Real Madrid,0
-MAD       ,,22,09:36,1,31,"TAVARES, WALTER",P005791   ,Off Rebound (1),O,,,Real Madrid,0
-MAD       ,,22,09:36,1,32,"TAVARES, WALTER",P005791   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Real Madrid,0
-BAR       ,,45,09:34,1,33,"MOERMAN, ADRIEN",P001833   ,Def Rebound (1),D,,,FC Barcelona Lassa,0
-BAR       ,,13,09:16,1,34,"HEURTEL, THOMAS",PKLT      ,Turnover (1),TO,,,FC Barcelona Lassa,0
-MAD       ,,5,09:15,1,35,"FERNANDEZ, RUDY",PBMT      ,Steal (1),ST,,,Real Madrid,0
-MAD       ,,5,09:09,1,36,"FERNANDEZ, RUDY",PBMT      ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Real Madrid,0
-MAD       ,,22,09:07,1,37,"TAVARES, WALTER",P005791   ,Off Rebound (2),O,,,Real Madrid,0
-MAD       ,,11,09:02,1,38,"CAMPAZZO, FACUNDO",P005928   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Real Madrid,0
-BAR       ,,9,09:00,1,39,"HANGA, ADAM",P005099   ,Def Rebound (1),D,,,FC Barcelona Lassa,0
-BAR       ,,1,08:53,2,41,"SERAPHIN, KEVIN",P001948   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,FC Barcelona Lassa,0
-MAD       ,,44,08:50,2,42,"TAYLOR, JEFFERY",P006546   ,Def Rebound (1),D,,,Real Madrid,0
-MAD       ,,33,08:47,2,43,"THOMPKINS, TREY",P005836   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Real Madrid,0
-MAD       ,,11,08:45,2,44,"CAMPAZZO, FACUNDO",P005928   ,Off Rebound (1),O,,,Real Madrid,0
-MAD       ,,11,08:37,2,45,"CAMPAZZO, FACUNDO",P005928   ,Foul Drawn (2),RV,,,Real Madrid,0
-BAR       ,,25,08:37,2,46,"KOPONEN, PETTERI",P004178   ,Foul (1),CM,,,FC Barcelona Lassa,0
-MAD       ,,11,08:22,2,47,"CAMPAZZO, FACUNDO",P005928   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Real Madrid,0
-BAR       ,,45,08:20,2,48,"MOERMAN, ADRIEN",P001833   ,Def Rebound (2),D,,,FC Barcelona Lassa,0
-BAR       ,,9,08:05,2,49,"HANGA, ADAM",P005099   ,Two Pointer (1/1 -  2 pt),2FGM,,2.0,FC Barcelona Lassa,0
-MAD       ,,11,07:45,3,51,"CAMPAZZO, FACUNDO",P005928   ,Three Pointer (1/2 -  3 pt),3FGM,3.0,2.0,Real Madrid,0
-BAR       ,,13,07:39,3,52,"HEURTEL, THOMAS",PKLT      ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0
-MAD       ,,44,07:39,3,53,"TAYLOR, JEFFERY",P006546   ,Foul (1),CM,,,Real Madrid,0
-BAR       ,,25,07:26,3,54,"KOPONEN, PETTERI",P004178   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,FC Barcelona Lassa,0
-MAD       ,,,07:26,3,55,,          ,Def Rebound (1),D,,,Real Madrid,0
-MAD       ,,22,07:13,3,56,"TAVARES, WALTER",P005791   ,Turnover (1),TO,,,Real Madrid,0
-BAR       ,,9,07:13,3,57,"HANGA, ADAM",P005099   ,Steal (1),ST,,,FC Barcelona Lassa,0
-BAR       ,,1,06:50,4,59,"SERAPHIN, KEVIN",P001948   ,Turnover (1),TO,,,FC Barcelona Lassa,0
-MAD       ,,33,06:48,4,60,"THOMPKINS, TREY",P005836   ,Steal (1),ST,,,Real Madrid,0
-MAD       ,,11,06:42,4,61,"CAMPAZZO, FACUNDO",P005928   ,Two Pointer (1/3 -  5 pt),2FGM,5.0,2.0,Real Madrid,0
-BAR       ,,1,06:22,4,62,"SERAPHIN, KEVIN",P001948   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,FC Barcelona Lassa,0
-BAR       ,,1,06:22,4,63,"SERAPHIN, KEVIN",P001948   ,Shot Rejected (1),AG,,,FC Barcelona Lassa,0
-MAD       ,,22,06:21,4,64,"TAVARES, WALTER",P005791   ,Block (1),FV,,,Real Madrid,0
-MAD       ,,44,06:21,4,65,"TAYLOR, JEFFERY",P006546   ,Def Rebound (2),D,,,Real Madrid,0
-MAD       ,,44,06:21,4,66,"TAYLOR, JEFFERY",P006546   ,Foul Drawn (1),RV,,,Real Madrid,0
-BAR       ,,13,06:21,4,67,"HEURTEL, THOMAS",PKLT      ,Foul (2),CM,,,FC Barcelona Lassa,0
-MAD       ,,33,06:19,4,68,"THOMPKINS, TREY",P005836   ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,Real Madrid,0
-BAR       ,,45,06:19,4,69,"MOERMAN, ADRIEN",P001833   ,Def Rebound (3),D,,,FC Barcelona Lassa,0
-BAR       ,,1,05:57,5,71,"SERAPHIN, KEVIN",P001948   ,Two Pointer (1/3 -  2 pt),2FGM,5.0,4.0,FC Barcelona Lassa,0
-MAD       ,,5,05:40,5,72,"FERNANDEZ, RUDY",PBMT      ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Real Madrid,0
-BAR       ,,9,05:38,5,73,"HANGA, ADAM",P005099   ,Def Rebound (2),D,,,FC Barcelona Lassa,0
-BAR       ,,9,05:38,5,74,"HANGA, ADAM",P005099   ,Offensive Foul (1),OF,,,FC Barcelona Lassa,0
-BAR       ,,9,05:38,5,75,"HANGA, ADAM",P005099   ,Turnover (1),TO,,,FC Barcelona Lassa,0
-MAD       ,,11,05:38,5,76,"CAMPAZZO, FACUNDO",P005928   ,Foul Drawn (3),RV,,,Real Madrid,0
-MAD       ,,11,05:38,5,77,"CAMPAZZO, FACUNDO",P005928   ,Three Pointer (2/3 -  8 pt),3FGM,8.0,4.0,Real Madrid,0
-MAD       ,,33,05:38,5,78,"THOMPKINS, TREY",P005836   ,Assist (1),AS,,,Real Madrid,0
-BAR       ,,1,04:58,6,80,"SERAPHIN, KEVIN",P001948   ,Turnover (2),TO,,,FC Barcelona Lassa,0
-MAD       ,,33,04:56,6,81,"THOMPKINS, TREY",P005836   ,Steal (2),ST,,,Real Madrid,0
-MAD       ,,11,04:48,6,82,"CAMPAZZO, FACUNDO",P005928   ,Turnover (1),TO,,,Real Madrid,0
-BAR       ,,25,04:46,6,83,"KOPONEN, PETTERI",P004178   ,Steal (1),ST,,,FC Barcelona Lassa,0
-BAR       ,,13,04:40,6,84,"HEURTEL, THOMAS",PKLT      ,Foul Drawn (2),RV,,,FC Barcelona Lassa,0
-MAD       ,,11,04:40,6,85,"CAMPAZZO, FACUNDO",P005928   ,Foul (1),CM,,,Real Madrid,0
-          ,,,04:40,6,86,,          ,TV Time Out (1),TOUT_TV,,,,0
-BAR       ,,45,04:34,6,87,"MOERMAN, ADRIEN",P001833   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,FC Barcelona Lassa,0
-MAD       ,,11,04:34,6,88,"CAMPAZZO, FACUNDO",P005928   ,Def Rebound (1),D,,,Real Madrid,0
-MAD       ,,44,04:34,6,89,"TAYLOR, JEFFERY",P006546   ,Turnover (1),TO,,,Real Madrid,0
-BAR       ,,45,03:51,7,91,"MOERMAN, ADRIEN",P001833   ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,FC Barcelona Lassa,0
-BAR       ,,9,03:49,7,92,"HANGA, ADAM",P005099   ,Off Rebound (1),O,,,FC Barcelona Lassa,0
-BAR       ,,1,03:44,7,93,"SERAPHIN, KEVIN",P001948   ,Two Pointer (2/4 -  4 pt),2FGM,8.0,6.0,FC Barcelona Lassa,0
-BAR       ,,45,03:41,7,94,"MOERMAN, ADRIEN",P001833   ,Assist (1),AS,,,FC Barcelona Lassa,0
-MAD       ,,22,03:25,7,95,"TAVARES, WALTER",P005791   ,Two Pointer (1/2 -  2 pt),2FGM,10.0,6.0,Real Madrid,0
-MAD       ,,11,03:23,7,96,"CAMPAZZO, FACUNDO",P005928   ,Assist (1),AS,,,Real Madrid,0
-BAR       ,,1,03:00,8,98,"SERAPHIN, KEVIN",P001948   ,Two Pointer (3/5 -  6 pt),2FGM,10.0,8.0,FC Barcelona Lassa,0
-BAR       ,,13,02:00,8,162,"HEURTEL, THOMAS",PKLT      ,Assist (1),AS,,,FC Barcelona Lassa,0
-BAR       ,,8,02:56,8,99,"PRESSEY, PHIL",P007997   ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,13,02:56,8,100,"HEURTEL, THOMAS",PKLT      ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,18,02:56,8,101,"ORIOLA, PIERRE",P005917   ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,45,02:56,8,102,"MOERMAN, ADRIEN",P001833   ,Out,OUT,,,FC Barcelona Lassa,0
-MAD       ,,5,02:38,8,103,"FERNANDEZ, RUDY",PBMT      ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Real Madrid,0
-BAR       ,,8,02:36,8,104,"PRESSEY, PHIL",P007997   ,Def Rebound (1),D,,,FC Barcelona Lassa,0
-BAR       ,,9,02:27,8,105,"HANGA, ADAM",P005099   ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0
-MAD       ,,11,02:27,8,106,"CAMPAZZO, FACUNDO",P005928   ,Foul (2),CM,,,Real Madrid,0
-MAD       ,,7,02:27,8,107,"DONCIC, LUKA",P005929   ,In,IN,,,Real Madrid,0
-MAD       ,,8,02:27,8,108,"MACIULIS, JONAS",PJCC      ,In,IN,,,Real Madrid,0
-MAD       ,,11,02:27,8,109,"CAMPAZZO, FACUNDO",P005928   ,Out,OUT,,,Real Madrid,0
-MAD       ,,33,02:27,8,110,"THOMPKINS, TREY",P005836   ,Out,OUT,,,Real Madrid,0
-BAR       ,,1,02:27,8,111,"SERAPHIN, KEVIN",P001948   ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,44,02:27,8,112,"TOMIC, ANTE",P002507   ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,9,02:27,8,113,"HANGA, ADAM",P005099   ,Missed Free Throw (0/1 -  2 pt),FTA,,,FC Barcelona Lassa,0
-BAR       ,,9,02:27,8,114,"HANGA, ADAM",P005099   ,Free Throw In (1/2 -  3 pt),FTM,10.0,9.0,FC Barcelona Lassa,0
-MAD       ,,8,02:06,8,115,"MACIULIS, JONAS",PJCC      ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Real Madrid,0
-BAR       ,,8,02:03,8,116,"PRESSEY, PHIL",P007997   ,Def Rebound (2),D,,,FC Barcelona Lassa,0
-BAR       ,,18,02:00,8,117,"ORIOLA, PIERRE",P005917   ,Two Pointer (1/1 -  2 pt),2FGM,10.0,11.0,FC Barcelona Lassa,0
-BAR       ,,8,01:57,9,119,"PRESSEY, PHIL",P007997   ,Assist (1),AS,,,FC Barcelona Lassa,0
-MAD       ,,5,01:48,9,120,"FERNANDEZ, RUDY",PBMT      ,Foul Drawn (1),RV,,,Real Madrid,0
-BAR       ,,25,01:48,9,121,"KOPONEN, PETTERI",P004178   ,Foul (2),CM,,,FC Barcelona Lassa,0
-BAR       ,,5,01:48,9,122,"RIBAS, PAU",PJUG      ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,9,01:48,9,123,"HANGA, ADAM",P005099   ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,21,01:48,9,124,"SANDERS, RAKIM",P005001   ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,25,01:48,9,125,"KOPONEN, PETTERI",P004178   ,Out,OUT,,,FC Barcelona Lassa,0
-MAD       ,,5,01:48,9,126,"FERNANDEZ, RUDY",PBMT      ,Free Throw In (1/1 -  1 pt),FTM,11.0,11.0,Real Madrid,0
-MAD       ,,5,01:48,9,127,"FERNANDEZ, RUDY",PBMT      ,Free Throw In (2/2 -  2 pt),FTM,12.0,11.0,Real Madrid,0
-BAR       ,,8,01:39,9,128,"PRESSEY, PHIL",P007997   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,FC Barcelona Lassa,0
-BAR       ,,44,01:39,9,129,"TOMIC, ANTE",P002507   ,Off Rebound (1),O,,,FC Barcelona Lassa,0
-BAR       ,,44,01:39,9,130,"TOMIC, ANTE",P002507   ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0
-MAD       ,,8,01:32,9,133,"MACIULIS, JONAS",PJCC      ,Foul (1),CM,,,Real Madrid,0
-MAD       ,,20,01:32,9,131,"CARROLL, JAYCEE",P001960   ,In,IN,,,Real Madrid,0
-MAD       ,,44,01:32,9,132,"TAYLOR, JEFFERY",P006546   ,Out,OUT,,,Real Madrid,0
-BAR       ,,5,01:32,9,134,"RIBAS, PAU",PJUG      ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0
-MAD       ,,22,01:32,9,135,"TAVARES, WALTER",P005791   ,Foul (1),CM,,,Real Madrid,0
-BAR       ,,5,01:23,9,136,"RIBAS, PAU",PJUG      ,Free Throw In (1/1 -  1 pt),FTM,12.0,12.0,FC Barcelona Lassa,0
-BAR       ,,5,01:23,9,137,"RIBAS, PAU",PJUG      ,Free Throw In (2/2 -  2 pt),FTM,12.0,13.0,FC Barcelona Lassa,0
-MAD       ,,7,01:17,9,138,"DONCIC, LUKA",P005929   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Real Madrid,0
-BAR       ,,8,01:17,9,139,"PRESSEY, PHIL",P007997   ,Def Rebound (3),D,,,FC Barcelona Lassa,0
-BAR       ,,18,00:37,10,141,"ORIOLA, PIERRE",P005917   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,FC Barcelona Lassa,0
-MAD       ,,22,00:34,10,142,"TAVARES, WALTER",P005791   ,Def Rebound (1),D,,,Real Madrid,0
-MAD       ,,7,00:28,10,143,"DONCIC, LUKA",P005929   ,Foul Drawn (1),RV,,,Real Madrid,0
-BAR       ,,5,00:28,10,144,"RIBAS, PAU",PJUG      ,Foul (1),CM,,,FC Barcelona Lassa,0
-MAD       ,,2,00:28,10,145,"RANDLE, CHASSON",P008038   ,In,IN,,,Real Madrid,0
-MAD       ,,5,00:28,10,146,"FERNANDEZ, RUDY",PBMT      ,Out,OUT,,,Real Madrid,0
-MAD       ,,7,00:28,10,147,"DONCIC, LUKA",P005929   ,Missed Free Throw (0/1 -  0 pt),FTA,,,Real Madrid,0
-MAD       ,,7,00:28,10,148,"DONCIC, LUKA",P005929   ,Free Throw In (1/2 -  1 pt),FTM,13.0,13.0,Real Madrid,0
-BAR       ,,44,00:28,10,150,"TOMIC, ANTE",P002507   ,Foul Drawn (2),RV,,,FC Barcelona Lassa,0
-MAD       ,,22,00:28,10,149,"TAVARES, WALTER",P005791   ,Foul (2),CM,,,Real Madrid,0
-MAD       ,,9,00:28,10,151,"REYES, FELIPE",PAAX      ,In,IN,,,Real Madrid,0
-MAD       ,,22,00:28,10,152,"TAVARES, WALTER",P005791   ,Out,OUT,,,Real Madrid,0
-BAR       ,,44,00:28,10,153,"TOMIC, ANTE",P002507   ,Free Throw In (1/1 -  1 pt),FTM,13.0,14.0,FC Barcelona Lassa,0
-BAR       ,,44,00:28,10,154,"TOMIC, ANTE",P002507   ,Free Throw In (2/2 -  2 pt),FTM,13.0,15.0,FC Barcelona Lassa,0
-MAD       ,,9,00:17,10,155,"REYES, FELIPE",PAAX      ,Foul Drawn (1),RV,,,Real Madrid,0
-BAR       ,,21,00:17,10,156,"SANDERS, RAKIM",P005001   ,Foul (1),CM,,,FC Barcelona Lassa,0
-MAD       ,,9,00:17,10,157,"REYES, FELIPE",PAAX      ,Free Throw In (1/1 -  1 pt),FTM,14.0,15.0,Real Madrid,0
-MAD       ,,9,00:17,10,158,"REYES, FELIPE",PAAX      ,Free Throw In (2/2 -  2 pt),FTM,15.0,15.0,Real Madrid,0
-BAR       ,,8,00:00,10,159,"PRESSEY, PHIL",P007997   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,FC Barcelona Lassa,0
-          ,,,,11,161,,          ,End Period,EP,,,,0
-          ,,,,11,163,,          ,Begin Period,BP,,,,0
-MAD       ,,20,09:46,11,164,"CARROLL, JAYCEE",P001960   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Real Madrid,0
-BAR       ,,18,09:44,11,165,"ORIOLA, PIERRE",P005917   ,Def Rebound (1),D,,,FC Barcelona Lassa,0
-BAR       ,,21,09:31,11,166,"SANDERS, RAKIM",P005001   ,Two Pointer (1/1 -  2 pt),2FGM,15.0,17.0,FC Barcelona Lassa,0
-MAD       ,,2,09:26,11,167,"RANDLE, CHASSON",P008038   ,Foul Drawn (1),RV,,,Real Madrid,0
-BAR       ,,8,09:26,11,168,"PRESSEY, PHIL",P007997   ,Foul (1),CM,,,FC Barcelona Lassa,0
-MAD       ,,20,09:07,11,169,"CARROLL, JAYCEE",P001960   ,Two Pointer (1/1 -  2 pt),2FGM,17.0,17.0,Real Madrid,0
-MAD       ,,7,09:03,11,170,"DONCIC, LUKA",P005929   ,Assist (1),AS,,,Real Madrid,0
-BAR       ,,5,08:52,12,172,"RIBAS, PAU",PJUG      ,Three Pointer (1/1 -  5 pt),3FGM,17.0,20.0,FC Barcelona Lassa,0
-BAR       ,,44,08:39,12,173,"TOMIC, ANTE",P002507   ,Assist (1),AS,,,FC Barcelona Lassa,0
-MAD       ,,20,08:36,12,174,"CARROLL, JAYCEE",P001960   ,Three Pointer (1/2 -  5 pt),3FGM,20.0,20.0,Real Madrid,0
-MAD       ,,7,08:33,12,175,"DONCIC, LUKA",P005929   ,Assist (2),AS,,,Real Madrid,0
-BAR       ,,21,08:21,12,176,"SANDERS, RAKIM",P005001   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,FC Barcelona Lassa,0
-MAD       ,,8,08:21,12,177,"MACIULIS, JONAS",PJCC      ,Def Rebound (1),D,,,Real Madrid,0
-MAD       ,,7,08:21,12,178,"DONCIC, LUKA",P005929   ,Foul Drawn (2),RV,,,Real Madrid,0
-BAR       ,,21,08:21,12,179,"SANDERS, RAKIM",P005001   ,Foul (2),CM,,,FC Barcelona Lassa,0
-MAD       ,,20,08:21,12,180,"CARROLL, JAYCEE",P001960   ,Foul Drawn (1),RV,,,Real Madrid,0
-BAR       ,,5,08:21,12,181,"RIBAS, PAU",PJUG      ,Foul (2),CM,,,FC Barcelona Lassa,0
-MAD       ,,20,08:08,12,182,"CARROLL, JAYCEE",P001960   ,Two Pointer (2/2 -  7 pt),2FGM,22.0,20.0,Real Madrid,0
-MAD       ,,8,08:06,12,183,"MACIULIS, JONAS",PJCC      ,Assist (1),AS,,,Real Madrid,0
-BAR       ,,21,07:49,13,185,"SANDERS, RAKIM",P005001   ,Two Pointer (2/3 -  4 pt),2FGM,22.0,22.0,FC Barcelona Lassa,0
-BAR       ,,21,07:49,13,186,"SANDERS, RAKIM",P005001   ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0
-MAD       ,,8,07:49,13,187,"MACIULIS, JONAS",PJCC      ,Foul (2),CM,,,Real Madrid,0
-BAR       ,,5,07:49,13,188,"RIBAS, PAU",PJUG      ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,9,07:49,13,189,"HANGA, ADAM",P005099   ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,21,07:49,13,190,"SANDERS, RAKIM",P005001   ,Missed Free Throw (0/1 -  4 pt),FTA,,,FC Barcelona Lassa,0
-MAD       ,,8,07:49,13,191,"MACIULIS, JONAS",PJCC      ,Def Rebound (2),D,,,Real Madrid,0
-MAD       ,,1,07:38,13,192,"CAUSEUR, FABIEN",P001392   ,In,IN,,,Real Madrid,0
-MAD       ,,2,07:38,13,193,"RANDLE, CHASSON",P008038   ,Out,OUT,,,Real Madrid,0
-MAD       ,,20,07:38,13,194,"CARROLL, JAYCEE",P001960   ,Foul Drawn (2),RV,,,Real Madrid,0
-BAR       ,,9,07:38,13,195,"HANGA, ADAM",P005099   ,Foul (2),CM,,,FC Barcelona Lassa,0
-BAR       ,,,07:38,13,211,,CO_B      ,Coach Foul (1),C,,,FC Barcelona Lassa,0
-MAD       ,,20,07:38,13,197,"CARROLL, JAYCEE",P001960   ,Free Throw In (1/1 -  8 pt),FTM,23.0,22.0,Real Madrid,0
-MAD       ,,9,07:38,13,198,"REYES, FELIPE",PAAX      ,Two Pointer (1/1 -  4 pt),2FGM,25.0,22.0,Real Madrid,0
-MAD       ,,7,07:38,13,199,"DONCIC, LUKA",P005929   ,Assist (3),AS,,,Real Madrid,0
-MAD       ,,9,07:38,13,200,"REYES, FELIPE",PAAX      ,Foul Drawn (2),RV,,,Real Madrid,0
-BAR       ,,18,07:38,13,201,"ORIOLA, PIERRE",P005917   ,Foul (1),CM,,,FC Barcelona Lassa,0
-BAR       ,,8,07:38,13,202,"PRESSEY, PHIL",P007997   ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,13,07:38,13,203,"HEURTEL, THOMAS",PKLT      ,In,IN,,,FC Barcelona Lassa,0
-MAD       ,,9,07:32,13,204,"REYES, FELIPE",PAAX      ,Free Throw In (3/3 -  5 pt),FTM,26.0,22.0,Real Madrid,0
-BAR       ,,9,07:17,13,205,"HANGA, ADAM",P005099   ,Missed Three Pointer (0/1 -  3 pt),3FGA,,,FC Barcelona Lassa,0
-MAD       ,,7,07:17,13,206,"DONCIC, LUKA",P005929   ,Def Rebound (1),D,,,Real Madrid,0
-MAD       ,,9,07:17,13,207,"REYES, FELIPE",PAAX      ,Two Pointer (2/2 -  7 pt),2FGM,28.0,22.0,Real Madrid,0
-MAD       ,,7,06:58,14,209,"DONCIC, LUKA",P005929   ,Assist (4),AS,,,Real Madrid,0
-BAR       ,,,06:58,14,210,,          ,Time Out (1),TOUT,,,FC Barcelona Lassa,0
-BAR       ,,44,06:37,14,212,"TOMIC, ANTE",P002507   ,Two Pointer (1/1 -  4 pt),2FGM,28.0,24.0,FC Barcelona Lassa,0
-MAD       ,,9,06:27,14,213,"REYES, FELIPE",PAAX      ,Missed Two Pointer (2/3 -  7 pt),2FGA,,,Real Madrid,0
-BAR       ,,21,06:27,14,214,"SANDERS, RAKIM",P005001   ,Def Rebound (1),D,,,FC Barcelona Lassa,0
-BAR       ,,9,06:04,14,215,"HANGA, ADAM",P005099   ,Missed Two Pointer (1/2 -  3 pt),2FGA,,,FC Barcelona Lassa,0
-BAR       ,,9,06:04,14,216,"HANGA, ADAM",P005099   ,Shot Rejected (1),AG,,,FC Barcelona Lassa,0
-MAD       ,,1,06:01,14,217,"CAUSEUR, FABIEN",P001392   ,Block (1),FV,,,Real Madrid,0
-MAD       ,,9,05:58,15,219,"REYES, FELIPE",PAAX      ,Def Rebound (1),D,,,Real Madrid,0
-MAD       ,,7,05:58,15,220,"DONCIC, LUKA",P005929   ,Three Pointer (1/2 -  4 pt),3FGM,31.0,24.0,Real Madrid,0
-BAR       ,,13,05:34,15,221,"HEURTEL, THOMAS",PKLT      ,Foul Drawn (3),RV,,,FC Barcelona Lassa,0
-MAD       ,,8,05:34,15,222,"MACIULIS, JONAS",PJCC      ,Foul (3),CM,,,Real Madrid,0
-MAD       ,,8,05:34,15,223,"MACIULIS, JONAS",PJCC      ,Out,OUT,,,Real Madrid,0
-MAD       ,,33,05:34,15,224,"THOMPKINS, TREY",P005836   ,In,IN,,,Real Madrid,0
-BAR       ,,1,05:34,15,225,"SERAPHIN, KEVIN",P001948   ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,44,05:34,15,226,"TOMIC, ANTE",P002507   ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,13,05:34,15,227,"HEURTEL, THOMAS",PKLT      ,Free Throw In (1/1 -  1 pt),FTM,31.0,25.0,FC Barcelona Lassa,0
-BAR       ,,13,05:34,15,228,"HEURTEL, THOMAS",PKLT      ,Free Throw In (2/2 -  2 pt),FTM,31.0,26.0,FC Barcelona Lassa,0
-BAR       ,,9,05:34,15,229,"HANGA, ADAM",P005099   ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,11,05:34,15,230,"NAVARRO, JUAN CARLOS",PADI      ,In,IN,,,FC Barcelona Lassa,0
-MAD       ,,7,05:20,15,231,"DONCIC, LUKA",P005929   ,Three Pointer (2/3 -  7 pt),3FGM,34.0,26.0,Real Madrid,0
-BAR       ,,21,05:09,15,232,"SANDERS, RAKIM",P005001   ,Missed Two Pointer (2/4 -  4 pt),2FGA,,,FC Barcelona Lassa,0
-MAD       ,,9,05:07,15,233,"REYES, FELIPE",PAAX      ,Def Rebound (2),D,,,Real Madrid,0
-MAD       ,,7,05:00,15,234,"DONCIC, LUKA",P005929   ,Missed Three Pointer (2/4 -  7 pt),3FGA,,,Real Madrid,0
-MAD       ,,9,04:58,16,236,"REYES, FELIPE",PAAX      ,Off Rebound (1),O,,,Real Madrid,0
-MAD       ,,20,04:56,16,237,"CARROLL, JAYCEE",P001960   ,Missed Two Pointer (2/3 -  8 pt),2FGA,,,Real Madrid,0
-BAR       ,,18,04:55,16,238,"ORIOLA, PIERRE",P005917   ,Def Rebound (2),D,,,FC Barcelona Lassa,0
-BAR       ,,1,04:39,16,239,"SERAPHIN, KEVIN",P001948   ,Missed Two Pointer (3/6 -  6 pt),2FGA,,,FC Barcelona Lassa,0
-MAD       ,,9,04:37,16,240,"REYES, FELIPE",PAAX      ,Def Rebound (3),D,,,Real Madrid,0
-MAD       ,,7,04:25,16,241,"DONCIC, LUKA",P005929   ,Turnover (1),TO,,,Real Madrid,0
-BAR       ,,18,04:25,16,242,"ORIOLA, PIERRE",P005917   ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,45,04:25,16,243,"MOERMAN, ADRIEN",P001833   ,In,IN,,,FC Barcelona Lassa,0
-MAD       ,,20,04:25,16,244,"CARROLL, JAYCEE",P001960   ,Out,OUT,,,Real Madrid,0
-MAD       ,,44,04:25,16,245,"TAYLOR, JEFFERY",P006546   ,In,IN,,,Real Madrid,0
-BAR       ,,13,04:00,16,246,"HEURTEL, THOMAS",PKLT      ,Two Pointer (1/1 -  4 pt),2FGM,34.0,28.0,FC Barcelona Lassa,0
-MAD       ,,33,03:44,17,248,"THOMPKINS, TREY",P005836   ,Three Pointer (1/3 -  3 pt),3FGM,37.0,28.0,Real Madrid,0
-MAD       ,,7,03:42,17,249,"DONCIC, LUKA",P005929   ,Assist (5),AS,,,Real Madrid,0
-BAR       ,,13,03:28,17,250,"HEURTEL, THOMAS",PKLT      ,Three Pointer (1/1 -  7 pt),3FGM,37.0,31.0,FC Barcelona Lassa,0
-BAR       ,,1,03:26,17,251,"SERAPHIN, KEVIN",P001948   ,Assist (1),AS,,,FC Barcelona Lassa,0
-MAD       ,,33,03:09,17,252,"THOMPKINS, TREY",P005836   ,Missed Three Pointer (1/4 -  3 pt),3FGA,,,Real Madrid,0
-MAD       ,,9,03:07,17,253,"REYES, FELIPE",PAAX      ,Off Rebound (2),O,,,Real Madrid,0
-MAD       ,,9,03:07,17,254,"REYES, FELIPE",PAAX      ,Foul Drawn (3),RV,,,Real Madrid,0
-BAR       ,,1,03:07,17,255,"SERAPHIN, KEVIN",P001948   ,Foul (1),CM,,,FC Barcelona Lassa,0
-BAR       ,,9,03:07,17,256,"HANGA, ADAM",P005099   ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,21,03:07,17,257,"SANDERS, RAKIM",P005001   ,Out,OUT,,,FC Barcelona Lassa,0
-MAD       ,,9,03:07,17,258,"REYES, FELIPE",PAAX      ,Free Throw In (4/4 -  8 pt),FTM,38.0,31.0,Real Madrid,0
-MAD       ,,9,03:07,17,259,"REYES, FELIPE",PAAX      ,Missed Free Throw (4/5 -  8 pt),FTA,,,Real Madrid,0
-BAR       ,,45,03:07,17,260,"MOERMAN, ADRIEN",P001833   ,Def Rebound (4),D,,,FC Barcelona Lassa,0
-BAR       ,,11,03:02,17,261,"NAVARRO, JUAN CARLOS",PADI      ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0
-MAD       ,,44,03:02,17,262,"TAYLOR, JEFFERY",P006546   ,Foul (2),CM,,,Real Madrid,0
-BAR       ,,45,03:02,17,263,"MOERMAN, ADRIEN",P001833   ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0
-MAD       ,,33,03:02,17,264,"THOMPKINS, TREY",P005836   ,Foul (1),CM,,,Real Madrid,0
-BAR       ,,13,02:49,18,266,"HEURTEL, THOMAS",PKLT      ,Turnover (2),TO,,,FC Barcelona Lassa,0
-MAD       ,,1,02:48,18,267,"CAUSEUR, FABIEN",P001392   ,Steal (1),ST,,,Real Madrid,0
-MAD       ,,7,02:43,18,268,"DONCIC, LUKA",P005929   ,Two Pointer (1/1 -  9 pt),2FGM,40.0,31.0,Real Madrid,0
-MAD       ,,1,02:40,18,269,"CAUSEUR, FABIEN",P001392   ,Assist (1),AS,,,Real Madrid,0
-BAR       ,,11,02:33,18,270,"NAVARRO, JUAN CARLOS",PADI      ,Foul Drawn (2),RV,,,FC Barcelona Lassa,0
-MAD       ,,9,02:33,18,271,"REYES, FELIPE",PAAX      ,Foul (1),CM,,,Real Madrid,0
-BAR       ,,11,02:33,18,272,"NAVARRO, JUAN CARLOS",PADI      ,Free Throw In (1/1 -  1 pt),FTM,40.0,32.0,FC Barcelona Lassa,0
-BAR       ,,11,02:33,18,273,"NAVARRO, JUAN CARLOS",PADI      ,Free Throw In (2/2 -  2 pt),FTM,40.0,33.0,FC Barcelona Lassa,0
-MAD       ,,9,02:15,18,274,"REYES, FELIPE",PAAX      ,Missed Two Pointer (2/4 -  8 pt),2FGA,,,Real Madrid,0
-MAD       ,,33,02:13,18,275,"THOMPKINS, TREY",P005836   ,Off Rebound (1),O,,,Real Madrid,0
-MAD       ,,33,02:13,18,276,"THOMPKINS, TREY",P005836   ,Missed Two Pointer (0/1 -  3 pt),2FGA,,,Real Madrid,0
-BAR       ,,9,02:11,18,277,"HANGA, ADAM",P005099   ,Def Rebound (3),D,,,FC Barcelona Lassa,0
-BAR       ,,11,02:02,18,278,"NAVARRO, JUAN CARLOS",PADI      ,Missed Two Pointer (0/1 -  2 pt),2FGA,,,FC Barcelona Lassa,0
-MAD       ,,9,02:00,19,280,"REYES, FELIPE",PAAX      ,Def Rebound (4),D,,,Real Madrid,0
-MAD       ,,33,01:49,19,281,"THOMPKINS, TREY",P005836   ,Turnover (1),TO,,,Real Madrid,0
-BAR       ,,9,01:47,19,282,"HANGA, ADAM",P005099   ,Steal (2),ST,,,FC Barcelona Lassa,0
-MAD       ,,1,01:32,19,283,"CAUSEUR, FABIEN",P001392   ,Out,OUT,,,Real Madrid,0
-MAD       ,,5,01:32,19,284,"FERNANDEZ, RUDY",PBMT      ,In,IN,,,Real Madrid,0
-BAR       ,,9,01:32,19,285,"HANGA, ADAM",P005099   ,Missed Three Pointer (0/2 -  3 pt),3FGA,,,FC Barcelona Lassa,0
-MAD       ,,7,01:32,19,286,"DONCIC, LUKA",P005929   ,Def Rebound (2),D,,,Real Madrid,0
-MAD       ,,33,01:02,19,287,"THOMPKINS, TREY",P005836   ,Missed Three Pointer (1/5 -  3 pt),3FGA,,,Real Madrid,0
-BAR       ,,1,00:59,20,289,"SERAPHIN, KEVIN",P001948   ,Def Rebound (1),D,,,FC Barcelona Lassa,0
-BAR       ,,45,00:54,20,290,"MOERMAN, ADRIEN",P001833   ,Missed Three Pointer (0/3 -  0 pt),3FGA,,,FC Barcelona Lassa,0
-MAD       ,,9,00:52,20,291,"REYES, FELIPE",PAAX      ,Def Rebound (5),D,,,Real Madrid,0
-MAD       ,,5,00:33,20,292,"FERNANDEZ, RUDY",PBMT      ,Turnover (1),TO,,,Real Madrid,0
-BAR       ,,1,00:32,20,293,"SERAPHIN, KEVIN",P001948   ,Steal (1),ST,,,FC Barcelona Lassa,0
-BAR       ,,45,00:30,20,294,"MOERMAN, ADRIEN",P001833   ,Two Pointer (1/1 -  2 pt),2FGM,40.0,35.0,FC Barcelona Lassa,0
-BAR       ,,13,00:30,20,295,"HEURTEL, THOMAS",PKLT      ,Assist (2),AS,,,FC Barcelona Lassa,0
-MAD       ,,,00:30,20,296,,          ,Time Out (1),TOUT,,,Real Madrid,0
-MAD       ,,20,00:30,20,297,"CARROLL, JAYCEE",P001960   ,In,IN,,,Real Madrid,0
-MAD       ,,44,00:30,20,298,"TAYLOR, JEFFERY",P006546   ,Out,OUT,,,Real Madrid,0
-BAR       ,,5,00:30,20,299,"RIBAS, PAU",PJUG      ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,13,00:30,20,300,"HEURTEL, THOMAS",PKLT      ,Out,OUT,,,FC Barcelona Lassa,0
-MAD       ,,9,00:14,20,301,"REYES, FELIPE",PAAX      ,Turnover (1),TO,,,Real Madrid,0
-BAR       ,,11,00:13,20,302,"NAVARRO, JUAN CARLOS",PADI      ,Steal (1),ST,,,FC Barcelona Lassa,0
-BAR       ,,11,00:02,20,303,"NAVARRO, JUAN CARLOS",PADI      ,Foul Drawn (3),RV,,,FC Barcelona Lassa,0
-MAD       ,,5,00:02,20,304,"FERNANDEZ, RUDY",PBMT      ,Foul (1),CM,,,Real Madrid,0
-MAD       ,,5,00:02,20,305,"FERNANDEZ, RUDY",PBMT      ,Technical Foul (2),CMT,,,Real Madrid,0
-BAR       ,,11,00:02,20,306,"NAVARRO, JUAN CARLOS",PADI      ,Free Throw In (3/3 -  3 pt),FTM,40.0,36.0,FC Barcelona Lassa,0
-BAR       ,,11,00:02,20,307,"NAVARRO, JUAN CARLOS",PADI      ,Free Throw In (4/4 -  4 pt),FTM,40.0,37.0,FC Barcelona Lassa,0
-BAR       ,,11,00:02,20,308,"NAVARRO, JUAN CARLOS",PADI      ,Free Throw In (5/5 -  5 pt),FTM,40.0,38.0,FC Barcelona Lassa,0
-BAR       ,,,00:02,20,309,,          ,Time Out (2),TOUT,,,FC Barcelona Lassa,0
-MAD       ,,20,00:02,20,310,"CARROLL, JAYCEE",P001960   ,Out,OUT,,,Real Madrid,0
-MAD       ,,22,00:02,20,311,"TAVARES, WALTER",P005791   ,In,IN,,,Real Madrid,0
-BAR       ,,45,00:02,20,312,"MOERMAN, ADRIEN",P001833   ,Turnover (1),TO,,,FC Barcelona Lassa,0
-MAD       ,,7,00:02,20,313,"DONCIC, LUKA",P005929   ,Steal (1),ST,,,Real Madrid,0
-          ,,,,21,315,,          ,End Period,EP,,,,0
-          ,,,,21,322,,          ,Begin Period,BP,,,,0
-MAD       ,,7,10:00,21,316,"DONCIC, LUKA",P005929   ,Out,OUT,,,Real Madrid,0
-MAD       ,,9,10:00,21,317,"REYES, FELIPE",PAAX      ,Out,OUT,,,Real Madrid,0
-MAD       ,,11,10:00,21,318,"CAMPAZZO, FACUNDO",P005928   ,In,IN,,,Real Madrid,0
-MAD       ,,44,10:00,21,319,"TAYLOR, JEFFERY",P006546   ,In,IN,,,Real Madrid,0
-BAR       ,,11,10:00,21,320,"NAVARRO, JUAN CARLOS",PADI      ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,21,10:00,21,321,"SANDERS, RAKIM",P005001   ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,5,09:46,21,323,"RIBAS, PAU",PJUG      ,Turnover (1),TO,,,FC Barcelona Lassa,0
-MAD       ,,33,09:45,21,324,"THOMPKINS, TREY",P005836   ,Steal (3),ST,,,Real Madrid,0
-MAD       ,,11,09:40,21,325,"CAMPAZZO, FACUNDO",P005928   ,Foul Drawn (4),RV,,,Real Madrid,0
-BAR       ,,45,09:40,21,326,"MOERMAN, ADRIEN",P001833   ,Foul (1),CM,,,FC Barcelona Lassa,0
-MAD       ,,11,09:40,21,327,"CAMPAZZO, FACUNDO",P005928   ,Free Throw In (1/1 -  9 pt),FTM,41.0,38.0,Real Madrid,0
-MAD       ,,11,09:40,21,328,"CAMPAZZO, FACUNDO",P005928   ,Free Throw In (2/2 -  10 pt),FTM,42.0,38.0,Real Madrid,0
-BAR       ,,1,09:29,21,329,"SERAPHIN, KEVIN",P001948   ,Missed Two Pointer (3/7 -  6 pt),2FGA,,,FC Barcelona Lassa,0
-MAD       ,,22,09:29,21,330,"TAVARES, WALTER",P005791   ,Def Rebound (2),D,,,Real Madrid,0
-MAD       ,,33,09:05,21,331,"THOMPKINS, TREY",P005836   ,Turnover (2),TO,,,Real Madrid,0
-BAR       ,,21,09:04,21,332,"SANDERS, RAKIM",P005001   ,Steal (1),ST,,,FC Barcelona Lassa,0
-BAR       ,,9,09:02,21,333,"HANGA, ADAM",P005099   ,Turnover (2),TO,,,FC Barcelona Lassa,0
-MAD       ,,11,08:38,22,335,"CAMPAZZO, FACUNDO",P005928   ,Missed Three Pointer (2/4 -  10 pt),3FGA,,,Real Madrid,0
-MAD       ,,22,08:34,22,336,"TAVARES, WALTER",P005791   ,Off Rebound (3),O,,,Real Madrid,0
-MAD       ,,22,08:31,22,337,"TAVARES, WALTER",P005791   ,Foul Drawn (1),RV,,,Real Madrid,0
-BAR       ,,9,08:31,22,338,"HANGA, ADAM",P005099   ,Foul (3),CM,,,FC Barcelona Lassa,0
-MAD       ,,22,08:31,22,339,"TAVARES, WALTER",P005791   ,Missed Free Throw (0/1 -  2 pt),FTA,,,Real Madrid,0
-MAD       ,,22,08:31,22,340,"TAVARES, WALTER",P005791   ,Free Throw In (1/2 -  3 pt),FTM,43.0,38.0,Real Madrid,0
-MAD       ,,11,08:31,22,341,"CAMPAZZO, FACUNDO",P005928   ,Assist (2),AS,,,Real Madrid,0
-BAR       ,,21,08:20,22,342,"SANDERS, RAKIM",P005001   ,Foul Drawn (2),RV,,,FC Barcelona Lassa,0
-MAD       ,,5,08:20,22,343,"FERNANDEZ, RUDY",PBMT      ,Foul (3),CM,,,Real Madrid,0
-BAR       ,,5,08:18,22,344,"RIBAS, PAU",PJUG      ,Missed Two Pointer (0/1 -  5 pt),2FGA,,,FC Barcelona Lassa,0
-BAR       ,,1,08:18,22,345,"SERAPHIN, KEVIN",P001948   ,Off Rebound (1),O,,,FC Barcelona Lassa,0
-BAR       ,,1,08:18,22,346,"SERAPHIN, KEVIN",P001948   ,Missed Two Pointer (3/8 -  6 pt),2FGA,,,FC Barcelona Lassa,0
-MAD       ,,22,08:18,22,347,"TAVARES, WALTER",P005791   ,Def Rebound (3),D,,,Real Madrid,0
-MAD       ,,33,08:01,22,348,"THOMPKINS, TREY",P005836   ,Two Pointer (1/2 -  5 pt),2FGM,45.0,38.0,Real Madrid,0
-BAR       ,,1,07:31,23,350,"SERAPHIN, KEVIN",P001948   ,Missed Two Pointer (3/9 -  6 pt),2FGA,,,FC Barcelona Lassa,0
-BAR       ,,1,07:59,23,356,"SERAPHIN, KEVIN",P001948   ,Shot Rejected (2),AG,,,FC Barcelona Lassa,0
-MAD       ,,22,07:59,23,357,"TAVARES, WALTER",P005791   ,Block (2),FV,,,Real Madrid,0
-MAD       ,,11,07:29,23,351,"CAMPAZZO, FACUNDO",P005928   ,Def Rebound (2),D,,,Real Madrid,0
-MAD       ,,33,07:16,23,352,"THOMPKINS, TREY",P005836   ,Three Pointer (2/6 -  8 pt),3FGM,48.0,38.0,Real Madrid,0
-MAD       ,,5,07:16,23,353,"FERNANDEZ, RUDY",PBMT      ,Assist (1),AS,,,Real Madrid,0
-BAR       ,,,07:12,23,354,,          ,Time Out (1),TOUT,,,FC Barcelona Lassa,0
-BAR       ,,5,07:12,23,358,"RIBAS, PAU",PJUG      ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,13,07:12,23,359,"HEURTEL, THOMAS",PKLT      ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,21,06:54,24,361,"SANDERS, RAKIM",P005001   ,Two Pointer (3/5 -  6 pt),2FGM,48.0,40.0,FC Barcelona Lassa,0
-MAD       ,,5,06:40,24,362,"FERNANDEZ, RUDY",PBMT      ,Three Pointer (1/2 -  5 pt),3FGM,51.0,40.0,Real Madrid,0
-MAD       ,,33,06:38,24,363,"THOMPKINS, TREY",P005836   ,Assist (2),AS,,,Real Madrid,0
-BAR       ,,45,06:17,24,364,"MOERMAN, ADRIEN",P001833   ,Foul Drawn (2),RV,,,FC Barcelona Lassa,0
-MAD       ,,33,06:17,24,365,"THOMPKINS, TREY",P005836   ,Foul (2),CM,,,Real Madrid,0
-BAR       ,,45,06:17,24,366,"MOERMAN, ADRIEN",P001833   ,Free Throw In (1/1 -  3 pt),FTM,51.0,41.0,FC Barcelona Lassa,0
-BAR       ,,45,06:17,24,367,"MOERMAN, ADRIEN",P001833   ,Free Throw In (2/2 -  4 pt),FTM,51.0,42.0,FC Barcelona Lassa,0
-MAD       ,,22,06:02,24,368,"TAVARES, WALTER",P005791   ,Missed Two Pointer (1/3 -  3 pt),2FGA,,,Real Madrid,0
-BAR       ,,13,06:00,24,369,"HEURTEL, THOMAS",PKLT      ,Def Rebound (1),D,,,FC Barcelona Lassa,0
-BAR       ,,13,05:59,25,371,"HEURTEL, THOMAS",PKLT      ,Foul Drawn (4),RV,,,FC Barcelona Lassa,0
-MAD       ,,22,05:59,25,372,"TAVARES, WALTER",P005791   ,Foul (3),CM,,,Real Madrid,0
-BAR       ,,13,05:59,25,373,"HEURTEL, THOMAS",PKLT      ,Free Throw In (3/3 -  8 pt),FTM,51.0,43.0,FC Barcelona Lassa,0
-BAR       ,,13,05:59,25,374,"HEURTEL, THOMAS",PKLT      ,Free Throw In (4/4 -  9 pt),FTM,51.0,44.0,FC Barcelona Lassa,0
-MAD       ,,44,05:35,25,375,"TAYLOR, JEFFERY",P006546   ,Three Pointer (1/1 -  3 pt),3FGM,54.0,44.0,Real Madrid,0
-MAD       ,,5,05:32,25,376,"FERNANDEZ, RUDY",PBMT      ,Assist (2),AS,,,Real Madrid,0
-BAR       ,,13,05:11,25,377,"HEURTEL, THOMAS",PKLT      ,Missed Two Pointer (1/2 -  9 pt),2FGA,,,FC Barcelona Lassa,0
-MAD       ,,,05:11,25,378,,          ,Def Rebound (2),D,,,Real Madrid,0
-MAD       ,,9,05:11,25,379,"REYES, FELIPE",PAAX      ,In,IN,,,Real Madrid,0
-MAD       ,,22,05:11,25,380,"TAVARES, WALTER",P005791   ,Out,OUT,,,Real Madrid,0
-MAD       ,,11,04:59,26,382,"CAMPAZZO, FACUNDO",P005928   ,Missed Three Pointer (2/5 -  10 pt),3FGA,,,Real Madrid,0
-BAR       ,,45,04:59,26,383,"MOERMAN, ADRIEN",P001833   ,Def Rebound (5),D,,,FC Barcelona Lassa,0
-BAR       ,,21,04:37,26,384,"SANDERS, RAKIM",P005001   ,Two Pointer (4/6 -  8 pt),2FGM,54.0,46.0,FC Barcelona Lassa,0
-MAD       ,,5,04:22,26,385,"FERNANDEZ, RUDY",PBMT      ,Missed Three Pointer (1/3 -  5 pt),3FGA,,,Real Madrid,0
-BAR       ,,21,04:20,26,386,"SANDERS, RAKIM",P005001   ,Def Rebound (2),D,,,FC Barcelona Lassa,0
-BAR       ,,45,04:11,26,387,"MOERMAN, ADRIEN",P001833   ,Missed Three Pointer (0/4 -  4 pt),3FGA,,,FC Barcelona Lassa,0
-MAD       ,,11,04:08,26,388,"CAMPAZZO, FACUNDO",P005928   ,Def Rebound (3),D,,,Real Madrid,0
-MAD       ,,5,03:55,27,390,"FERNANDEZ, RUDY",PBMT      ,Missed Two Pointer (0/3 -  5 pt),2FGA,,,Real Madrid,0
-MAD       ,,9,03:55,27,391,"REYES, FELIPE",PAAX      ,Off Rebound (3),O,,,Real Madrid,0
-MAD       ,,9,03:55,27,392,"REYES, FELIPE",PAAX      ,Foul Drawn (4),RV,,,Real Madrid,0
-BAR       ,,1,03:55,27,393,"SERAPHIN, KEVIN",P001948   ,Foul (2),CM,,,FC Barcelona Lassa,0
-MAD       ,,5,03:55,27,394,"FERNANDEZ, RUDY",PBMT      ,Out,OUT,,,Real Madrid,0
-MAD       ,,7,03:55,27,395,"DONCIC, LUKA",P005929   ,In,IN,,,Real Madrid,0
-MAD       ,,7,03:55,27,396,"DONCIC, LUKA",P005929   ,Two Pointer (2/2 -  11 pt),2FGM,56.0,46.0,Real Madrid,0
-MAD       ,,44,03:55,27,397,"TAYLOR, JEFFERY",P006546   ,Assist (1),AS,,,Real Madrid,0
-BAR       ,,21,03:31,27,398,"SANDERS, RAKIM",P005001   ,Missed Three Pointer (0/1 -  8 pt),3FGA,,,FC Barcelona Lassa,0
-MAD       ,,7,03:28,27,399,"DONCIC, LUKA",P005929   ,Def Rebound (3),D,,,Real Madrid,0
-MAD       ,,44,03:10,27,400,"TAYLOR, JEFFERY",P006546   ,Missed Three Pointer (1/2 -  3 pt),3FGA,,,Real Madrid,0
-BAR       ,,9,03:08,27,401,"HANGA, ADAM",P005099   ,Def Rebound (4),D,,,FC Barcelona Lassa,0
-BAR       ,,21,02:47,28,403,"SANDERS, RAKIM",P005001   ,Missed Two Pointer (4/7 -  8 pt),2FGA,,,FC Barcelona Lassa,0
-MAD       ,,7,02:45,28,404,"DONCIC, LUKA",P005929   ,Def Rebound (4),D,,,Real Madrid,0
-MAD       ,,9,02:45,28,405,"REYES, FELIPE",PAAX      ,Foul Drawn (5),RV,,,Real Madrid,0
-BAR       ,,21,02:45,28,406,"SANDERS, RAKIM",P005001   ,Foul (3),CM,,,FC Barcelona Lassa,0
-BAR       ,,1,02:45,28,407,"SERAPHIN, KEVIN",P001948   ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,9,02:45,28,408,"HANGA, ADAM",P005099   ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,18,02:45,28,409,"ORIOLA, PIERRE",P005917   ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,25,02:45,28,410,"KOPONEN, PETTERI",P004178   ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,44,02:45,28,411,"TOMIC, ANTE",P002507   ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,45,02:45,28,412,"MOERMAN, ADRIEN",P001833   ,Out,OUT,,,FC Barcelona Lassa,0
-MAD       ,,33,02:30,28,413,"THOMPKINS, TREY",P005836   ,Two Pointer (2/3 -  10 pt),2FGM,58.0,46.0,Real Madrid,0
-MAD       ,,7,02:30,28,414,"DONCIC, LUKA",P005929   ,Assist (6),AS,,,Real Madrid,0
-BAR       ,,44,02:15,28,415,"TOMIC, ANTE",P002507   ,Two Pointer (2/2 -  6 pt),2FGM,58.0,48.0,FC Barcelona Lassa,0
-BAR       ,,13,02:15,28,416,"HEURTEL, THOMAS",PKLT      ,Assist (3),AS,,,FC Barcelona Lassa,0
-MAD       ,,11,01:53,29,418,"CAMPAZZO, FACUNDO",P005928   ,Missed Two Pointer (1/4 -  10 pt),2FGA,,,Real Madrid,0
-MAD       ,,,01:53,29,419,,          ,Off Rebound (1),O,,,Real Madrid,0
-MAD       ,,44,01:37,29,420,"TAYLOR, JEFFERY",P006546   ,Three Pointer (2/3 -  6 pt),3FGM,61.0,48.0,Real Madrid,0
-MAD       ,,11,01:35,29,421,"CAMPAZZO, FACUNDO",P005928   ,Assist (3),AS,,,Real Madrid,0
-BAR       ,,25,01:13,29,422,"KOPONEN, PETTERI",P004178   ,Turnover (1),TO,,,FC Barcelona Lassa,0
-MAD       ,,11,01:11,29,423,"CAMPAZZO, FACUNDO",P005928   ,Steal (1),ST,,,Real Madrid,0
-MAD       ,,33,01:04,29,424,"THOMPKINS, TREY",P005836   ,Missed Three Pointer (2/7 -  10 pt),3FGA,,,Real Madrid,0
-BAR       ,,13,01:02,29,425,"HEURTEL, THOMAS",PKLT      ,Def Rebound (2),D,,,FC Barcelona Lassa,0
-BAR       ,,25,00:58,30,427,"KOPONEN, PETTERI",P004178   ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,FC Barcelona Lassa,0
-MAD       ,,9,00:58,30,428,"REYES, FELIPE",PAAX      ,Foul Drawn (6),RV,,,Real Madrid,0
-BAR       ,,44,00:58,30,429,"TOMIC, ANTE",P002507   ,Foul (1),CM,,,FC Barcelona Lassa,0
-MAD       ,,,00:58,30,459,,          ,Def Rebound (3),D,,,Real Madrid,0
-MAD       ,,11,00:58,30,430,"CAMPAZZO, FACUNDO",P005928   ,Out,OUT,,,Real Madrid,0
-MAD       ,,20,00:58,30,431,"CARROLL, JAYCEE",P001960   ,In,IN,,,Real Madrid,0
-MAD       ,,9,00:58,30,432,"REYES, FELIPE",PAAX      ,Free Throw In (5/6 -  9 pt),FTM,62.0,48.0,Real Madrid,0
-MAD       ,,9,00:58,30,433,"REYES, FELIPE",PAAX      ,Free Throw In (6/7 -  10 pt),FTM,63.0,48.0,Real Madrid,0
-BAR       ,,21,00:41,30,434,"SANDERS, RAKIM",P005001   ,Foul Drawn (3),RV,,,FC Barcelona Lassa,0
-MAD       ,,7,00:41,30,435,"DONCIC, LUKA",P005929   ,Foul (1),CM,,,Real Madrid,0
-BAR       ,,44,00:41,30,436,"TOMIC, ANTE",P002507   ,Missed Two Pointer (2/3 -  6 pt),2FGA,,,FC Barcelona Lassa,0
-BAR       ,,44,00:41,30,437,"TOMIC, ANTE",P002507   ,Off Rebound (2),O,,,FC Barcelona Lassa,0
-BAR       ,,44,00:41,30,438,"TOMIC, ANTE",P002507   ,Foul Drawn (3),RV,,,FC Barcelona Lassa,0
-MAD       ,,9,00:41,30,439,"REYES, FELIPE",PAAX      ,Foul (2),CM,,,Real Madrid,0
-BAR       ,,44,00:41,30,440,"TOMIC, ANTE",P002507   ,Free Throw In (3/3 -  7 pt),FTM,63.0,49.0,FC Barcelona Lassa,0
-BAR       ,,44,00:41,30,441,"TOMIC, ANTE",P002507   ,Free Throw In (4/4 -  8 pt),FTM,63.0,50.0,FC Barcelona Lassa,0
-MAD       ,,11,00:41,30,442,"CAMPAZZO, FACUNDO",P005928   ,In,IN,,,Real Madrid,0
-MAD       ,,44,00:41,30,443,"TAYLOR, JEFFERY",P006546   ,Out,OUT,,,Real Madrid,0
-BAR       ,,5,00:41,30,444,"RIBAS, PAU",PJUG      ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,44,00:41,30,445,"TOMIC, ANTE",P002507   ,Out,OUT,,,FC Barcelona Lassa,0
-MAD       ,,20,00:20,30,446,"CARROLL, JAYCEE",P001960   ,Foul Drawn (3),RV,,,Real Madrid,0
-BAR       ,,25,00:20,30,447,"KOPONEN, PETTERI",P004178   ,Foul (3),CM,,,FC Barcelona Lassa,0
-MAD       ,,20,00:20,30,448,"CARROLL, JAYCEE",P001960   ,Free Throw In (2/2 -  9 pt),FTM,64.0,50.0,Real Madrid,0
-MAD       ,,20,00:20,30,449,"CARROLL, JAYCEE",P001960   ,Free Throw In (3/3 -  10 pt),FTM,65.0,50.0,Real Madrid,0
-BAR       ,,5,00:20,30,450,"RIBAS, PAU",PJUG      ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,44,00:20,30,451,"TOMIC, ANTE",P002507   ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,21,00:04,30,452,"SANDERS, RAKIM",P005001   ,Missed Three Pointer (0/2 -  8 pt),3FGA,,,FC Barcelona Lassa,0
-BAR       ,,18,00:02,30,453,"ORIOLA, PIERRE",P005917   ,Off Rebound (1),O,,,FC Barcelona Lassa,0
-BAR       ,,44,00:00,30,454,"TOMIC, ANTE",P002507   ,Two Pointer (3/4 -  10 pt),2FGM,65.0,52.0,FC Barcelona Lassa,0
-BAR       ,,21,00:00,30,455,"SANDERS, RAKIM",P005001   ,Assist (1),AS,,,FC Barcelona Lassa,0
-MAD       ,,7,00:00,30,456,"DONCIC, LUKA",P005929   ,Three Pointer (3/5 -  14 pt),3FGM,68.0,52.0,Real Madrid,0
-MAD       ,,33,00:00,30,460,"THOMPKINS, TREY",P005836   ,Assist (3),AS,,,Real Madrid,0
-          ,,,,31,458,,          ,End Period,EP,,,,0
-          ,,,,31,467,,          ,Begin Period,BP,,,,0
-BAR       ,,8,10:00,31,461,"PRESSEY, PHIL",P007997   ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,9,10:00,31,462,"HANGA, ADAM",P005099   ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,11,10:00,31,463,"NAVARRO, JUAN CARLOS",PADI      ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,13,10:00,31,464,"HEURTEL, THOMAS",PKLT      ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,21,10:00,31,465,"SANDERS, RAKIM",P005001   ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,25,10:00,31,466,"KOPONEN, PETTERI",P004178   ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,8,09:55,31,468,"PRESSEY, PHIL",P007997   ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0
-MAD       ,,9,09:55,31,469,"REYES, FELIPE",PAAX      ,Offensive Foul (3),OF,,,Real Madrid,0
-MAD       ,,9,09:55,31,470,"REYES, FELIPE",PAAX      ,Turnover (2),TO,,,Real Madrid,0
-BAR       ,,11,09:46,31,471,"NAVARRO, JUAN CARLOS",PADI      ,Turnover (1),TO,,,FC Barcelona Lassa,0
-MAD       ,,11,09:44,31,472,"CAMPAZZO, FACUNDO",P005928   ,Steal (2),ST,,,Real Madrid,0
-MAD       ,,11,09:43,31,473,"CAMPAZZO, FACUNDO",P005928   ,Missed Two Pointer (1/5 -  10 pt),2FGA,,,Real Madrid,0
-MAD       ,,11,09:43,31,474,"CAMPAZZO, FACUNDO",P005928   ,Shot Rejected (1),AG,,,Real Madrid,0
-BAR       ,,9,09:43,31,475,"HANGA, ADAM",P005099   ,Block (1),FV,,,FC Barcelona Lassa,0
-MAD       ,,7,09:43,31,476,"DONCIC, LUKA",P005929   ,Off Rebound (1),O,,,Real Madrid,0
-MAD       ,,7,09:43,31,477,"DONCIC, LUKA",P005929   ,Two Pointer (3/3 -  16 pt),2FGM,70.0,52.0,Real Madrid,0
-MAD       ,,7,09:43,31,478,"DONCIC, LUKA",P005929   ,Foul Drawn (3),RV,,,Real Madrid,0
-BAR       ,,18,09:43,31,479,"ORIOLA, PIERRE",P005917   ,Foul (2),CM,,,FC Barcelona Lassa,0
-MAD       ,,7,09:43,31,480,"DONCIC, LUKA",P005929   ,Missed Free Throw (1/3 -  16 pt),FTA,,,Real Madrid,0
-BAR       ,,9,09:43,31,481,"HANGA, ADAM",P005099   ,Def Rebound (5),D,,,FC Barcelona Lassa,0
-BAR       ,,11,09:30,31,482,"NAVARRO, JUAN CARLOS",PADI      ,Foul Drawn (4),RV,,,FC Barcelona Lassa,0
-MAD       ,,11,09:30,31,483,"CAMPAZZO, FACUNDO",P005928   ,Foul (4),CM,,,Real Madrid,0
-BAR       ,,11,09:30,31,557,"NAVARRO, JUAN CARLOS",PADI      ,Foul Drawn (5),RV,,,FC Barcelona Lassa,0
-MAD       ,,11,09:30,31,521,"CAMPAZZO, FACUNDO",P005928   ,Foul (4),CM,,,Real Madrid,0
-MAD       ,,11,09:17,31,485,"CAMPAZZO, FACUNDO",P005928   ,Technical Foul (5),CMT,,,Real Madrid,0
-BAR       ,,11,09:17,31,487,"NAVARRO, JUAN CARLOS",PADI      ,Technical Foul (1),CMT,,,FC Barcelona Lassa,0
-MAD       ,,1,09:17,31,488,"CAUSEUR, FABIEN",P001392   ,In,IN,,,Real Madrid,0
-MAD       ,,11,09:17,31,489,"CAMPAZZO, FACUNDO",P005928   ,Out,OUT,,,Real Madrid,0
-BAR       ,,44,09:04,31,490,"TOMIC, ANTE",P002507   ,Two Pointer (4/5 -  12 pt),2FGM,70.0,54.0,FC Barcelona Lassa,0
-BAR       ,,11,09:01,31,491,"NAVARRO, JUAN CARLOS",PADI      ,Assist (1),AS,,,FC Barcelona Lassa,0
-MAD       ,,1,09:01,31,492,"CAUSEUR, FABIEN",P001392   ,Three Pointer (1/1 -  3 pt),3FGM,73.0,54.0,Real Madrid,0
-MAD       ,,20,09:01,31,493,"CARROLL, JAYCEE",P001960   ,Assist (1),AS,,,Real Madrid,0
-BAR       ,,11,09:01,31,494,"NAVARRO, JUAN CARLOS",PADI      ,Missed Three Pointer (0/1 -  5 pt),3FGA,,,FC Barcelona Lassa,0
-MAD       ,,33,09:01,31,495,"THOMPKINS, TREY",P005836   ,Def Rebound (1),D,,,Real Madrid,0
-MAD       ,,7,08:32,32,497,"DONCIC, LUKA",P005929   ,Foul Drawn (4),RV,,,Real Madrid,0
-BAR       ,,8,08:32,32,498,"PRESSEY, PHIL",P007997   ,Foul (2),CM,,,FC Barcelona Lassa,0
-MAD       ,,1,08:32,32,499,"CAUSEUR, FABIEN",P001392   ,Foul Drawn (1),RV,,,Real Madrid,0
-BAR       ,,44,08:32,32,500,"TOMIC, ANTE",P002507   ,Foul (2),CM,,,FC Barcelona Lassa,0
-MAD       ,,1,08:32,32,502,"CAUSEUR, FABIEN",P001392   ,Missed Three Pointer (1/2 -  3 pt),3FGA,,,Real Madrid,0
-MAD       ,,33,08:32,32,503,"THOMPKINS, TREY",P005836   ,Off Rebound (2),O,,,Real Madrid,0
-MAD       ,,33,08:32,32,504,"THOMPKINS, TREY",P005836   ,Two Pointer (3/4 -  12 pt),2FGM,75.0,54.0,Real Madrid,0
-BAR       ,,8,07:52,33,506,"PRESSEY, PHIL",P007997   ,Two Pointer (1/2 -  2 pt),2FGM,75.0,56.0,FC Barcelona Lassa,0
-BAR       ,,44,07:49,33,507,"TOMIC, ANTE",P002507   ,Assist (2),AS,,,FC Barcelona Lassa,0
-MAD       ,,20,07:36,33,508,"CARROLL, JAYCEE",P001960   ,Missed Two Pointer (2/4 -  10 pt),2FGA,,,Real Madrid,0
-BAR       ,,,07:36,33,509,,          ,Def Rebound (4),D,,,FC Barcelona Lassa,0
-BAR       ,,11,07:36,33,510,"NAVARRO, JUAN CARLOS",PADI      ,Missed Two Pointer (0/2 -  5 pt),2FGA,,,FC Barcelona Lassa,0
-MAD       ,,1,07:36,33,511,"CAUSEUR, FABIEN",P001392   ,Def Rebound (1),D,,,Real Madrid,0
-MAD       ,,33,07:07,33,512,"THOMPKINS, TREY",P005836   ,Missed Three Pointer (2/8 -  12 pt),3FGA,,,Real Madrid,0
-BAR       ,,8,07:04,33,513,"PRESSEY, PHIL",P007997   ,Def Rebound (4),D,,,FC Barcelona Lassa,0
-BAR       ,,18,06:52,34,515,"ORIOLA, PIERRE",P005917   ,Three Pointer (1/1 -  5 pt),3FGM,75.0,59.0,FC Barcelona Lassa,0
-BAR       ,,11,06:48,34,516,"NAVARRO, JUAN CARLOS",PADI      ,Assist (2),AS,,,FC Barcelona Lassa,0
-MAD       ,,9,06:30,34,517,"REYES, FELIPE",PAAX      ,Missed Two Pointer (2/5 -  10 pt),2FGA,,,Real Madrid,0
-BAR       ,,44,06:30,34,518,"TOMIC, ANTE",P002507   ,Def Rebound (1),D,,,FC Barcelona Lassa,0
-BAR       ,,8,06:30,34,519,"PRESSEY, PHIL",P007997   ,Two Pointer (2/3 -  4 pt),2FGM,75.0,61.0,FC Barcelona Lassa,0
-MAD       ,,,06:21,34,520,,          ,Time Out (1),TOUT,,,Real Madrid,0
-MAD       ,,5,06:21,34,522,"FERNANDEZ, RUDY",PBMT      ,In,IN,,,Real Madrid,0
-MAD       ,,9,06:21,34,523,"REYES, FELIPE",PAAX      ,Out,OUT,,,Real Madrid,0
-MAD       ,,22,06:21,34,524,"TAVARES, WALTER",P005791   ,In,IN,,,Real Madrid,0
-MAD       ,,33,06:21,34,525,"THOMPKINS, TREY",P005836   ,Out,OUT,,,Real Madrid,0
-BAR       ,,30,06:21,34,526,"CLAVER, VICTOR",P000556   ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,44,06:21,34,527,"TOMIC, ANTE",P002507   ,Out,OUT,,,FC Barcelona Lassa,0
-MAD       ,,1,06:07,34,529,"CAUSEUR, FABIEN",P001392   ,Foul Drawn (2),RV,,,Real Madrid,0
-BAR       ,,9,06:07,34,528,"HANGA, ADAM",P005099   ,Foul (4),CM,,,FC Barcelona Lassa,0
-MAD       ,,1,06:07,34,530,"CAUSEUR, FABIEN",P001392   ,Free Throw In (1/1 -  4 pt),FTM,76.0,61.0,Real Madrid,0
-MAD       ,,1,06:07,34,531,"CAUSEUR, FABIEN",P001392   ,Free Throw In (2/2 -  5 pt),FTM,77.0,61.0,Real Madrid,0
-BAR       ,,9,05:51,35,533,"HANGA, ADAM",P005099   ,Two Pointer (2/3 -  5 pt),2FGM,77.0,63.0,FC Barcelona Lassa,0
-BAR       ,,11,05:49,35,534,"NAVARRO, JUAN CARLOS",PADI      ,Assist (3),AS,,,FC Barcelona Lassa,0
-MAD       ,,1,05:46,35,535,"CAUSEUR, FABIEN",P001392   ,Missed Two Pointer (0/1 -  5 pt),2FGA,,,Real Madrid,0
-MAD       ,,1,05:46,35,536,"CAUSEUR, FABIEN",P001392   ,Shot Rejected (1),AG,,,Real Madrid,0
-BAR       ,,9,05:46,35,537,"HANGA, ADAM",P005099   ,Block (2),FV,,,FC Barcelona Lassa,0
-BAR       ,,,05:46,35,538,,          ,Def Rebound (5),D,,,FC Barcelona Lassa,0
-BAR       ,,11,05:46,35,539,"NAVARRO, JUAN CARLOS",PADI      ,Foul Drawn (6),RV,,,FC Barcelona Lassa,0
-MAD       ,,5,05:46,35,540,"FERNANDEZ, RUDY",PBMT      ,Foul (4),CM,,,Real Madrid,0
-BAR       ,,11,05:46,35,541,"NAVARRO, JUAN CARLOS",PADI      ,Free Throw In (6/6 -  6 pt),FTM,77.0,64.0,FC Barcelona Lassa,0
-BAR       ,,11,05:46,35,542,"NAVARRO, JUAN CARLOS",PADI      ,Free Throw In (7/7 -  7 pt),FTM,77.0,65.0,FC Barcelona Lassa,0
-MAD       ,,5,05:24,35,543,"FERNANDEZ, RUDY",PBMT      ,Three Pointer (2/4 -  8 pt),3FGM,80.0,65.0,Real Madrid,0
-MAD       ,,20,05:24,35,544,"CARROLL, JAYCEE",P001960   ,Assist (2),AS,,,Real Madrid,0
-BAR       ,,9,05:24,35,545,"HANGA, ADAM",P005099   ,Missed Three Pointer (0/3 -  5 pt),3FGA,,,FC Barcelona Lassa,0
-BAR       ,,18,05:24,35,546,"ORIOLA, PIERRE",P005917   ,Off Rebound (2),O,,,FC Barcelona Lassa,0
-BAR       ,,18,05:24,35,547,"ORIOLA, PIERRE",P005917   ,Two Pointer (2/3 -  7 pt),2FGM,80.0,67.0,FC Barcelona Lassa,0
-BAR       ,,18,05:24,35,548,"ORIOLA, PIERRE",P005917   ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0
-MAD       ,,22,05:24,35,549,"TAVARES, WALTER",P005791   ,Foul (4),CM,,,Real Madrid,0
-BAR       ,,18,05:24,35,550,"ORIOLA, PIERRE",P005917   ,Free Throw In (1/1 -  8 pt),FTM,80.0,68.0,FC Barcelona Lassa,0
-MAD       ,,7,04:33,36,552,"DONCIC, LUKA",P005929   ,Missed Three Pointer (3/6 -  16 pt),3FGA,,,Real Madrid,0
-BAR       ,,,04:33,36,553,,          ,Def Rebound (6),D,,,FC Barcelona Lassa,0
-BAR       ,,18,04:10,36,554,"ORIOLA, PIERRE",P005917   ,Three Pointer (2/2 -  11 pt),3FGM,80.0,71.0,FC Barcelona Lassa,0
-BAR       ,,9,04:10,36,555,"HANGA, ADAM",P005099   ,Assist (1),AS,,,FC Barcelona Lassa,0
-MAD       ,,,04:10,36,556,,          ,Time Out (2),TOUT,,,Real Madrid,0
-MAD       ,,5,04:10,36,558,"FERNANDEZ, RUDY",PBMT      ,Out,OUT,,,Real Madrid,0
-MAD       ,,9,04:10,36,559,"REYES, FELIPE",PAAX      ,In,IN,,,Real Madrid,0
-MAD       ,,22,04:10,36,560,"TAVARES, WALTER",P005791   ,Out,OUT,,,Real Madrid,0
-MAD       ,,33,04:10,36,561,"THOMPKINS, TREY",P005836   ,In,IN,,,Real Madrid,0
-MAD       ,,7,03:43,37,563,"DONCIC, LUKA",P005929   ,Missed Three Pointer (3/7 -  16 pt),3FGA,,,Real Madrid,0
-BAR       ,,30,03:41,37,564,"CLAVER, VICTOR",P000556   ,Def Rebound (1),D,,,FC Barcelona Lassa,0
-BAR       ,,18,03:25,37,565,"ORIOLA, PIERRE",P005917   ,Missed Three Pointer (2/3 -  11 pt),3FGA,,,FC Barcelona Lassa,0
-MAD       ,,,03:25,37,566,,          ,Def Rebound (7),D,,,Real Madrid,0
-MAD       ,,1,03:25,37,567,"CAUSEUR, FABIEN",P001392   ,Missed Two Pointer (0/2 -  5 pt),2FGA,,,Real Madrid,0
-MAD       ,,7,03:25,37,569,"DONCIC, LUKA",P005929   ,Off Rebound (2),O,,,Real Madrid,0
-MAD       ,,9,03:25,37,570,"REYES, FELIPE",PAAX      ,Two Pointer (3/6 -  12 pt),2FGM,82.0,71.0,Real Madrid,0
-MAD       ,,7,03:25,37,571,"DONCIC, LUKA",P005929   ,Assist (7),AS,,,Real Madrid,0
-BAR       ,,,02:56,38,573,,          ,Time Out (1),TOUT,,,FC Barcelona Lassa,0
-MAD       ,,20,02:56,38,574,"CARROLL, JAYCEE",P001960   ,Out,OUT,,,Real Madrid,0
-MAD       ,,44,02:56,38,575,"TAYLOR, JEFFERY",P006546   ,In,IN,,,Real Madrid,0
-BAR       ,,11,02:42,38,576,"NAVARRO, JUAN CARLOS",PADI      ,Missed Three Pointer (0/2 -  7 pt),3FGA,,,FC Barcelona Lassa,0
-MAD       ,,33,02:42,38,577,"THOMPKINS, TREY",P005836   ,Def Rebound (2),D,,,Real Madrid,0
-MAD       ,,9,02:20,38,578,"REYES, FELIPE",PAAX      ,Two Pointer (4/7 -  14 pt),2FGM,84.0,71.0,Real Madrid,0
-MAD       ,,44,02:18,38,579,"TAYLOR, JEFFERY",P006546   ,Assist (2),AS,,,Real Madrid,0
-BAR       ,,8,02:09,38,580,"PRESSEY, PHIL",P007997   ,Missed Three Pointer (0/2 -  4 pt),3FGA,,,FC Barcelona Lassa,0
-MAD       ,,1,02:07,38,581,"CAUSEUR, FABIEN",P001392   ,Def Rebound (2),D,,,Real Madrid,0
-MAD       ,,44,01:54,39,583,"TAYLOR, JEFFERY",P006546   ,Missed Three Pointer (2/4 -  6 pt),3FGA,,,Real Madrid,0
-BAR       ,,8,01:54,39,584,"PRESSEY, PHIL",P007997   ,Def Rebound (5),D,,,FC Barcelona Lassa,0
-BAR       ,,8,01:54,39,585,"PRESSEY, PHIL",P007997   ,Two Pointer (3/4 -  6 pt),2FGM,84.0,73.0,FC Barcelona Lassa,0
-MAD       ,,5,01:45,39,586,"FERNANDEZ, RUDY",PBMT      ,In,IN,,,Real Madrid,0
-MAD       ,,9,01:45,39,587,"REYES, FELIPE",PAAX      ,Out,OUT,,,Real Madrid,0
-BAR       ,,8,01:45,39,588,"PRESSEY, PHIL",P007997   ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,13,01:45,39,589,"HEURTEL, THOMAS",PKLT      ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,,01:45,39,590,,          ,Time Out (2),TOUT,,,FC Barcelona Lassa,0
-BAR       ,,5,01:45,39,591,"RIBAS, PAU",PJUG      ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,11,01:45,39,592,"NAVARRO, JUAN CARLOS",PADI      ,Out,OUT,,,FC Barcelona Lassa,0
-MAD       ,,1,01:22,39,593,"CAUSEUR, FABIEN",P001392   ,Missed Three Pointer (1/3 -  5 pt),3FGA,,,Real Madrid,0
-BAR       ,,13,01:22,39,594,"HEURTEL, THOMAS",PKLT      ,Def Rebound (3),D,,,FC Barcelona Lassa,0
-BAR       ,,13,01:22,39,595,"HEURTEL, THOMAS",PKLT      ,Turnover (3),TO,,,FC Barcelona Lassa,0
-MAD       ,,33,01:22,39,596,"THOMPKINS, TREY",P005836   ,Steal (4),ST,,,Real Madrid,0
-MAD       ,,1,00:54,40,598,"CAUSEUR, FABIEN",P001392   ,Foul Drawn (3),RV,,,Real Madrid,0
-BAR       ,,5,00:54,40,599,"RIBAS, PAU",PJUG      ,Foul (3),CM,,,FC Barcelona Lassa,0
-MAD       ,,1,00:54,40,600,"CAUSEUR, FABIEN",P001392   ,Missed Free Throw (2/3 -  5 pt),FTA,,,Real Madrid,0
-MAD       ,,1,00:54,40,601,"CAUSEUR, FABIEN",P001392   ,Free Throw In (3/4 -  6 pt),FTM,85.0,73.0,Real Madrid,0
-BAR       ,,13,00:38,40,602,"HEURTEL, THOMAS",PKLT      ,Two Pointer (2/3 -  11 pt),2FGM,85.0,75.0,FC Barcelona Lassa,0
-MAD       ,,33,00:19,40,603,"THOMPKINS, TREY",P005836   ,Missed Three Pointer (2/9 -  12 pt),3FGA,,,Real Madrid,0
-BAR       ,,9,00:17,40,604,"HANGA, ADAM",P005099   ,Def Rebound (6),D,,,FC Barcelona Lassa,0
-BAR       ,,13,00:12,40,605,"HEURTEL, THOMAS",PKLT      ,Missed Two Pointer (2/4 -  11 pt),2FGA,,,FC Barcelona Lassa,0
-MAD       ,,33,00:11,40,606,"THOMPKINS, TREY",P005836   ,Def Rebound (3),D,,,Real Madrid,0
-MAD       ,,5,00:11,40,607,"FERNANDEZ, RUDY",PBMT      ,Foul Drawn (2),RV,,,Real Madrid,0
-BAR       ,,30,00:11,40,608,"CLAVER, VICTOR",P000556   ,Foul (1),CM,,,FC Barcelona Lassa,0
-MAD       ,,5,00:11,40,609,"FERNANDEZ, RUDY",PBMT      ,Free Throw In (3/3 -  9 pt),FTM,86.0,75.0,Real Madrid,0
-MAD       ,,5,00:11,40,610,"FERNANDEZ, RUDY",PBMT      ,Free Throw In (4/4 -  10 pt),FTM,87.0,75.0,Real Madrid,0
-          ,,,,41,613,,          ,End Game,EG,,,,0
+CODETEAM,COMMENT,DORSAL,MARKERTIME,MINUTE,NUMBEROFPLAY,PLAYER,PLAYER_ID,PLAYINFO,PLAYTYPE,POINTS_A,POINTS_B,TEAM,TYPE,home_team,home_team_code,away_team,away_team_code
+          ,,,,1,27,,          ,Begin Period,BP,,,,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,11,09:45,1,28,"CAMPAZZO, FACUNDO",P005928   ,Foul Drawn (1),RV,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,13,09:45,1,29,"HEURTEL, THOMAS",PKLT      ,Foul (1),CM,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,11,09:39,1,30,"CAMPAZZO, FACUNDO",P005928   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,22,09:36,1,31,"TAVARES, WALTER",P005791   ,Off Rebound (1),O,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,22,09:36,1,32,"TAVARES, WALTER",P005791   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,45,09:34,1,33,"MOERMAN, ADRIEN",P001833   ,Def Rebound (1),D,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,13,09:16,1,34,"HEURTEL, THOMAS",PKLT      ,Turnover (1),TO,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,5,09:15,1,35,"FERNANDEZ, RUDY",PBMT      ,Steal (1),ST,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,5,09:09,1,36,"FERNANDEZ, RUDY",PBMT      ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,22,09:07,1,37,"TAVARES, WALTER",P005791   ,Off Rebound (2),O,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,11,09:02,1,38,"CAMPAZZO, FACUNDO",P005928   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,9,09:00,1,39,"HANGA, ADAM",P005099   ,Def Rebound (1),D,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,1,08:53,2,41,"SERAPHIN, KEVIN",P001948   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,44,08:50,2,42,"TAYLOR, JEFFERY",P006546   ,Def Rebound (1),D,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,33,08:47,2,43,"THOMPKINS, TREY",P005836   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,11,08:45,2,44,"CAMPAZZO, FACUNDO",P005928   ,Off Rebound (1),O,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,11,08:37,2,45,"CAMPAZZO, FACUNDO",P005928   ,Foul Drawn (2),RV,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,25,08:37,2,46,"KOPONEN, PETTERI",P004178   ,Foul (1),CM,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,11,08:22,2,47,"CAMPAZZO, FACUNDO",P005928   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,45,08:20,2,48,"MOERMAN, ADRIEN",P001833   ,Def Rebound (2),D,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,9,08:05,2,49,"HANGA, ADAM",P005099   ,Two Pointer (1/1 -  2 pt),2FGM,,2.0,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,11,07:45,3,51,"CAMPAZZO, FACUNDO",P005928   ,Three Pointer (1/2 -  3 pt),3FGM,3.0,2.0,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,13,07:39,3,52,"HEURTEL, THOMAS",PKLT      ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,44,07:39,3,53,"TAYLOR, JEFFERY",P006546   ,Foul (1),CM,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,25,07:26,3,54,"KOPONEN, PETTERI",P004178   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,,07:26,3,55,,          ,Def Rebound (1),D,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,22,07:13,3,56,"TAVARES, WALTER",P005791   ,Turnover (1),TO,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,9,07:13,3,57,"HANGA, ADAM",P005099   ,Steal (1),ST,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,1,06:50,4,59,"SERAPHIN, KEVIN",P001948   ,Turnover (1),TO,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,33,06:48,4,60,"THOMPKINS, TREY",P005836   ,Steal (1),ST,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,11,06:42,4,61,"CAMPAZZO, FACUNDO",P005928   ,Two Pointer (1/3 -  5 pt),2FGM,5.0,2.0,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,1,06:22,4,62,"SERAPHIN, KEVIN",P001948   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,1,06:22,4,63,"SERAPHIN, KEVIN",P001948   ,Shot Rejected (1),AG,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,22,06:21,4,64,"TAVARES, WALTER",P005791   ,Block (1),FV,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,44,06:21,4,65,"TAYLOR, JEFFERY",P006546   ,Def Rebound (2),D,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,44,06:21,4,66,"TAYLOR, JEFFERY",P006546   ,Foul Drawn (1),RV,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,13,06:21,4,67,"HEURTEL, THOMAS",PKLT      ,Foul (2),CM,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,33,06:19,4,68,"THOMPKINS, TREY",P005836   ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,45,06:19,4,69,"MOERMAN, ADRIEN",P001833   ,Def Rebound (3),D,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,1,05:57,5,71,"SERAPHIN, KEVIN",P001948   ,Two Pointer (1/3 -  2 pt),2FGM,5.0,4.0,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,5,05:40,5,72,"FERNANDEZ, RUDY",PBMT      ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,9,05:38,5,73,"HANGA, ADAM",P005099   ,Def Rebound (2),D,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,9,05:38,5,74,"HANGA, ADAM",P005099   ,Offensive Foul (1),OF,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,9,05:38,5,75,"HANGA, ADAM",P005099   ,Turnover (1),TO,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,11,05:38,5,76,"CAMPAZZO, FACUNDO",P005928   ,Foul Drawn (3),RV,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,11,05:38,5,77,"CAMPAZZO, FACUNDO",P005928   ,Three Pointer (2/3 -  8 pt),3FGM,8.0,4.0,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,33,05:38,5,78,"THOMPKINS, TREY",P005836   ,Assist (1),AS,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,1,04:58,6,80,"SERAPHIN, KEVIN",P001948   ,Turnover (2),TO,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,33,04:56,6,81,"THOMPKINS, TREY",P005836   ,Steal (2),ST,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,11,04:48,6,82,"CAMPAZZO, FACUNDO",P005928   ,Turnover (1),TO,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,25,04:46,6,83,"KOPONEN, PETTERI",P004178   ,Steal (1),ST,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,13,04:40,6,84,"HEURTEL, THOMAS",PKLT      ,Foul Drawn (2),RV,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,11,04:40,6,85,"CAMPAZZO, FACUNDO",P005928   ,Foul (1),CM,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+          ,,,04:40,6,86,,          ,TV Time Out (1),TOUT_TV,,,,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,45,04:34,6,87,"MOERMAN, ADRIEN",P001833   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,11,04:34,6,88,"CAMPAZZO, FACUNDO",P005928   ,Def Rebound (1),D,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,44,04:34,6,89,"TAYLOR, JEFFERY",P006546   ,Turnover (1),TO,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,45,03:51,7,91,"MOERMAN, ADRIEN",P001833   ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,9,03:49,7,92,"HANGA, ADAM",P005099   ,Off Rebound (1),O,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,1,03:44,7,93,"SERAPHIN, KEVIN",P001948   ,Two Pointer (2/4 -  4 pt),2FGM,8.0,6.0,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,45,03:41,7,94,"MOERMAN, ADRIEN",P001833   ,Assist (1),AS,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,22,03:25,7,95,"TAVARES, WALTER",P005791   ,Two Pointer (1/2 -  2 pt),2FGM,10.0,6.0,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,11,03:23,7,96,"CAMPAZZO, FACUNDO",P005928   ,Assist (1),AS,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,1,03:00,8,98,"SERAPHIN, KEVIN",P001948   ,Two Pointer (3/5 -  6 pt),2FGM,10.0,8.0,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,13,02:00,8,162,"HEURTEL, THOMAS",PKLT      ,Assist (1),AS,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,8,02:56,8,99,"PRESSEY, PHIL",P007997   ,In,IN,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,13,02:56,8,100,"HEURTEL, THOMAS",PKLT      ,Out,OUT,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,18,02:56,8,101,"ORIOLA, PIERRE",P005917   ,In,IN,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,45,02:56,8,102,"MOERMAN, ADRIEN",P001833   ,Out,OUT,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,5,02:38,8,103,"FERNANDEZ, RUDY",PBMT      ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,8,02:36,8,104,"PRESSEY, PHIL",P007997   ,Def Rebound (1),D,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,9,02:27,8,105,"HANGA, ADAM",P005099   ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,11,02:27,8,106,"CAMPAZZO, FACUNDO",P005928   ,Foul (2),CM,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,7,02:27,8,107,"DONCIC, LUKA",P005929   ,In,IN,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,8,02:27,8,108,"MACIULIS, JONAS",PJCC      ,In,IN,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,11,02:27,8,109,"CAMPAZZO, FACUNDO",P005928   ,Out,OUT,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,33,02:27,8,110,"THOMPKINS, TREY",P005836   ,Out,OUT,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,1,02:27,8,111,"SERAPHIN, KEVIN",P001948   ,Out,OUT,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,44,02:27,8,112,"TOMIC, ANTE",P002507   ,In,IN,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,9,02:27,8,113,"HANGA, ADAM",P005099   ,Missed Free Throw (0/1 -  2 pt),FTA,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,9,02:27,8,114,"HANGA, ADAM",P005099   ,Free Throw In (1/2 -  3 pt),FTM,10.0,9.0,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,8,02:06,8,115,"MACIULIS, JONAS",PJCC      ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,8,02:03,8,116,"PRESSEY, PHIL",P007997   ,Def Rebound (2),D,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,18,02:00,8,117,"ORIOLA, PIERRE",P005917   ,Two Pointer (1/1 -  2 pt),2FGM,10.0,11.0,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,8,01:57,9,119,"PRESSEY, PHIL",P007997   ,Assist (1),AS,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,5,01:48,9,120,"FERNANDEZ, RUDY",PBMT      ,Foul Drawn (1),RV,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,25,01:48,9,121,"KOPONEN, PETTERI",P004178   ,Foul (2),CM,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,5,01:48,9,122,"RIBAS, PAU",PJUG      ,In,IN,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,9,01:48,9,123,"HANGA, ADAM",P005099   ,Out,OUT,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,21,01:48,9,124,"SANDERS, RAKIM",P005001   ,In,IN,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,25,01:48,9,125,"KOPONEN, PETTERI",P004178   ,Out,OUT,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,5,01:48,9,126,"FERNANDEZ, RUDY",PBMT      ,Free Throw In (1/1 -  1 pt),FTM,11.0,11.0,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,5,01:48,9,127,"FERNANDEZ, RUDY",PBMT      ,Free Throw In (2/2 -  2 pt),FTM,12.0,11.0,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,8,01:39,9,128,"PRESSEY, PHIL",P007997   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,44,01:39,9,129,"TOMIC, ANTE",P002507   ,Off Rebound (1),O,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,44,01:39,9,130,"TOMIC, ANTE",P002507   ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,8,01:32,9,133,"MACIULIS, JONAS",PJCC      ,Foul (1),CM,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,20,01:32,9,131,"CARROLL, JAYCEE",P001960   ,In,IN,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,44,01:32,9,132,"TAYLOR, JEFFERY",P006546   ,Out,OUT,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,5,01:32,9,134,"RIBAS, PAU",PJUG      ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,22,01:32,9,135,"TAVARES, WALTER",P005791   ,Foul (1),CM,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,5,01:23,9,136,"RIBAS, PAU",PJUG      ,Free Throw In (1/1 -  1 pt),FTM,12.0,12.0,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,5,01:23,9,137,"RIBAS, PAU",PJUG      ,Free Throw In (2/2 -  2 pt),FTM,12.0,13.0,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,7,01:17,9,138,"DONCIC, LUKA",P005929   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,8,01:17,9,139,"PRESSEY, PHIL",P007997   ,Def Rebound (3),D,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,18,00:37,10,141,"ORIOLA, PIERRE",P005917   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,22,00:34,10,142,"TAVARES, WALTER",P005791   ,Def Rebound (1),D,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,7,00:28,10,143,"DONCIC, LUKA",P005929   ,Foul Drawn (1),RV,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,5,00:28,10,144,"RIBAS, PAU",PJUG      ,Foul (1),CM,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,2,00:28,10,145,"RANDLE, CHASSON",P008038   ,In,IN,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,5,00:28,10,146,"FERNANDEZ, RUDY",PBMT      ,Out,OUT,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,7,00:28,10,147,"DONCIC, LUKA",P005929   ,Missed Free Throw (0/1 -  0 pt),FTA,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,7,00:28,10,148,"DONCIC, LUKA",P005929   ,Free Throw In (1/2 -  1 pt),FTM,13.0,13.0,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,44,00:28,10,150,"TOMIC, ANTE",P002507   ,Foul Drawn (2),RV,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,22,00:28,10,149,"TAVARES, WALTER",P005791   ,Foul (2),CM,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,9,00:28,10,151,"REYES, FELIPE",PAAX      ,In,IN,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,22,00:28,10,152,"TAVARES, WALTER",P005791   ,Out,OUT,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,44,00:28,10,153,"TOMIC, ANTE",P002507   ,Free Throw In (1/1 -  1 pt),FTM,13.0,14.0,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,44,00:28,10,154,"TOMIC, ANTE",P002507   ,Free Throw In (2/2 -  2 pt),FTM,13.0,15.0,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,9,00:17,10,155,"REYES, FELIPE",PAAX      ,Foul Drawn (1),RV,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,21,00:17,10,156,"SANDERS, RAKIM",P005001   ,Foul (1),CM,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,9,00:17,10,157,"REYES, FELIPE",PAAX      ,Free Throw In (1/1 -  1 pt),FTM,14.0,15.0,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,9,00:17,10,158,"REYES, FELIPE",PAAX      ,Free Throw In (2/2 -  2 pt),FTM,15.0,15.0,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,8,00:00,10,159,"PRESSEY, PHIL",P007997   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+          ,,,,11,161,,          ,End Period,EP,,,,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+          ,,,,11,163,,          ,Begin Period,BP,,,,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,20,09:46,11,164,"CARROLL, JAYCEE",P001960   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,18,09:44,11,165,"ORIOLA, PIERRE",P005917   ,Def Rebound (1),D,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,21,09:31,11,166,"SANDERS, RAKIM",P005001   ,Two Pointer (1/1 -  2 pt),2FGM,15.0,17.0,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,2,09:26,11,167,"RANDLE, CHASSON",P008038   ,Foul Drawn (1),RV,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,8,09:26,11,168,"PRESSEY, PHIL",P007997   ,Foul (1),CM,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,20,09:07,11,169,"CARROLL, JAYCEE",P001960   ,Two Pointer (1/1 -  2 pt),2FGM,17.0,17.0,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,7,09:03,11,170,"DONCIC, LUKA",P005929   ,Assist (1),AS,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,5,08:52,12,172,"RIBAS, PAU",PJUG      ,Three Pointer (1/1 -  5 pt),3FGM,17.0,20.0,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,44,08:39,12,173,"TOMIC, ANTE",P002507   ,Assist (1),AS,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,20,08:36,12,174,"CARROLL, JAYCEE",P001960   ,Three Pointer (1/2 -  5 pt),3FGM,20.0,20.0,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,7,08:33,12,175,"DONCIC, LUKA",P005929   ,Assist (2),AS,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,21,08:21,12,176,"SANDERS, RAKIM",P005001   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,8,08:21,12,177,"MACIULIS, JONAS",PJCC      ,Def Rebound (1),D,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,7,08:21,12,178,"DONCIC, LUKA",P005929   ,Foul Drawn (2),RV,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,21,08:21,12,179,"SANDERS, RAKIM",P005001   ,Foul (2),CM,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,20,08:21,12,180,"CARROLL, JAYCEE",P001960   ,Foul Drawn (1),RV,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,5,08:21,12,181,"RIBAS, PAU",PJUG      ,Foul (2),CM,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,20,08:08,12,182,"CARROLL, JAYCEE",P001960   ,Two Pointer (2/2 -  7 pt),2FGM,22.0,20.0,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,8,08:06,12,183,"MACIULIS, JONAS",PJCC      ,Assist (1),AS,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,21,07:49,13,185,"SANDERS, RAKIM",P005001   ,Two Pointer (2/3 -  4 pt),2FGM,22.0,22.0,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,21,07:49,13,186,"SANDERS, RAKIM",P005001   ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,8,07:49,13,187,"MACIULIS, JONAS",PJCC      ,Foul (2),CM,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,5,07:49,13,188,"RIBAS, PAU",PJUG      ,Out,OUT,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,9,07:49,13,189,"HANGA, ADAM",P005099   ,In,IN,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,21,07:49,13,190,"SANDERS, RAKIM",P005001   ,Missed Free Throw (0/1 -  4 pt),FTA,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,8,07:49,13,191,"MACIULIS, JONAS",PJCC      ,Def Rebound (2),D,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,1,07:38,13,192,"CAUSEUR, FABIEN",P001392   ,In,IN,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,2,07:38,13,193,"RANDLE, CHASSON",P008038   ,Out,OUT,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,20,07:38,13,194,"CARROLL, JAYCEE",P001960   ,Foul Drawn (2),RV,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,9,07:38,13,195,"HANGA, ADAM",P005099   ,Foul (2),CM,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,,07:38,13,211,,CO_B      ,Coach Foul (1),C,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,20,07:38,13,197,"CARROLL, JAYCEE",P001960   ,Free Throw In (1/1 -  8 pt),FTM,23.0,22.0,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,9,07:38,13,198,"REYES, FELIPE",PAAX      ,Two Pointer (1/1 -  4 pt),2FGM,25.0,22.0,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,7,07:38,13,199,"DONCIC, LUKA",P005929   ,Assist (3),AS,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,9,07:38,13,200,"REYES, FELIPE",PAAX      ,Foul Drawn (2),RV,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,18,07:38,13,201,"ORIOLA, PIERRE",P005917   ,Foul (1),CM,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,8,07:38,13,202,"PRESSEY, PHIL",P007997   ,Out,OUT,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,13,07:38,13,203,"HEURTEL, THOMAS",PKLT      ,In,IN,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,9,07:32,13,204,"REYES, FELIPE",PAAX      ,Free Throw In (3/3 -  5 pt),FTM,26.0,22.0,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,9,07:17,13,205,"HANGA, ADAM",P005099   ,Missed Three Pointer (0/1 -  3 pt),3FGA,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,7,07:17,13,206,"DONCIC, LUKA",P005929   ,Def Rebound (1),D,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,9,07:17,13,207,"REYES, FELIPE",PAAX      ,Two Pointer (2/2 -  7 pt),2FGM,28.0,22.0,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,7,06:58,14,209,"DONCIC, LUKA",P005929   ,Assist (4),AS,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,,06:58,14,210,,          ,Time Out (1),TOUT,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,44,06:37,14,212,"TOMIC, ANTE",P002507   ,Two Pointer (1/1 -  4 pt),2FGM,28.0,24.0,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,9,06:27,14,213,"REYES, FELIPE",PAAX      ,Missed Two Pointer (2/3 -  7 pt),2FGA,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,21,06:27,14,214,"SANDERS, RAKIM",P005001   ,Def Rebound (1),D,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,9,06:04,14,215,"HANGA, ADAM",P005099   ,Missed Two Pointer (1/2 -  3 pt),2FGA,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,9,06:04,14,216,"HANGA, ADAM",P005099   ,Shot Rejected (1),AG,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,1,06:01,14,217,"CAUSEUR, FABIEN",P001392   ,Block (1),FV,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,9,05:58,15,219,"REYES, FELIPE",PAAX      ,Def Rebound (1),D,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,7,05:58,15,220,"DONCIC, LUKA",P005929   ,Three Pointer (1/2 -  4 pt),3FGM,31.0,24.0,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,13,05:34,15,221,"HEURTEL, THOMAS",PKLT      ,Foul Drawn (3),RV,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,8,05:34,15,222,"MACIULIS, JONAS",PJCC      ,Foul (3),CM,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,8,05:34,15,223,"MACIULIS, JONAS",PJCC      ,Out,OUT,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,33,05:34,15,224,"THOMPKINS, TREY",P005836   ,In,IN,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,1,05:34,15,225,"SERAPHIN, KEVIN",P001948   ,In,IN,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,44,05:34,15,226,"TOMIC, ANTE",P002507   ,Out,OUT,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,13,05:34,15,227,"HEURTEL, THOMAS",PKLT      ,Free Throw In (1/1 -  1 pt),FTM,31.0,25.0,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,13,05:34,15,228,"HEURTEL, THOMAS",PKLT      ,Free Throw In (2/2 -  2 pt),FTM,31.0,26.0,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,9,05:34,15,229,"HANGA, ADAM",P005099   ,Out,OUT,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,11,05:34,15,230,"NAVARRO, JUAN CARLOS",PADI      ,In,IN,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,7,05:20,15,231,"DONCIC, LUKA",P005929   ,Three Pointer (2/3 -  7 pt),3FGM,34.0,26.0,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,21,05:09,15,232,"SANDERS, RAKIM",P005001   ,Missed Two Pointer (2/4 -  4 pt),2FGA,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,9,05:07,15,233,"REYES, FELIPE",PAAX      ,Def Rebound (2),D,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,7,05:00,15,234,"DONCIC, LUKA",P005929   ,Missed Three Pointer (2/4 -  7 pt),3FGA,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,9,04:58,16,236,"REYES, FELIPE",PAAX      ,Off Rebound (1),O,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,20,04:56,16,237,"CARROLL, JAYCEE",P001960   ,Missed Two Pointer (2/3 -  8 pt),2FGA,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,18,04:55,16,238,"ORIOLA, PIERRE",P005917   ,Def Rebound (2),D,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,1,04:39,16,239,"SERAPHIN, KEVIN",P001948   ,Missed Two Pointer (3/6 -  6 pt),2FGA,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,9,04:37,16,240,"REYES, FELIPE",PAAX      ,Def Rebound (3),D,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,7,04:25,16,241,"DONCIC, LUKA",P005929   ,Turnover (1),TO,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,18,04:25,16,242,"ORIOLA, PIERRE",P005917   ,Out,OUT,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,45,04:25,16,243,"MOERMAN, ADRIEN",P001833   ,In,IN,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,20,04:25,16,244,"CARROLL, JAYCEE",P001960   ,Out,OUT,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,44,04:25,16,245,"TAYLOR, JEFFERY",P006546   ,In,IN,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,13,04:00,16,246,"HEURTEL, THOMAS",PKLT      ,Two Pointer (1/1 -  4 pt),2FGM,34.0,28.0,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,33,03:44,17,248,"THOMPKINS, TREY",P005836   ,Three Pointer (1/3 -  3 pt),3FGM,37.0,28.0,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,7,03:42,17,249,"DONCIC, LUKA",P005929   ,Assist (5),AS,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,13,03:28,17,250,"HEURTEL, THOMAS",PKLT      ,Three Pointer (1/1 -  7 pt),3FGM,37.0,31.0,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,1,03:26,17,251,"SERAPHIN, KEVIN",P001948   ,Assist (1),AS,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,33,03:09,17,252,"THOMPKINS, TREY",P005836   ,Missed Three Pointer (1/4 -  3 pt),3FGA,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,9,03:07,17,253,"REYES, FELIPE",PAAX      ,Off Rebound (2),O,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,9,03:07,17,254,"REYES, FELIPE",PAAX      ,Foul Drawn (3),RV,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,1,03:07,17,255,"SERAPHIN, KEVIN",P001948   ,Foul (1),CM,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,9,03:07,17,256,"HANGA, ADAM",P005099   ,In,IN,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,21,03:07,17,257,"SANDERS, RAKIM",P005001   ,Out,OUT,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,9,03:07,17,258,"REYES, FELIPE",PAAX      ,Free Throw In (4/4 -  8 pt),FTM,38.0,31.0,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,9,03:07,17,259,"REYES, FELIPE",PAAX      ,Missed Free Throw (4/5 -  8 pt),FTA,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,45,03:07,17,260,"MOERMAN, ADRIEN",P001833   ,Def Rebound (4),D,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,11,03:02,17,261,"NAVARRO, JUAN CARLOS",PADI      ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,44,03:02,17,262,"TAYLOR, JEFFERY",P006546   ,Foul (2),CM,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,45,03:02,17,263,"MOERMAN, ADRIEN",P001833   ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,33,03:02,17,264,"THOMPKINS, TREY",P005836   ,Foul (1),CM,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,13,02:49,18,266,"HEURTEL, THOMAS",PKLT      ,Turnover (2),TO,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,1,02:48,18,267,"CAUSEUR, FABIEN",P001392   ,Steal (1),ST,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,7,02:43,18,268,"DONCIC, LUKA",P005929   ,Two Pointer (1/1 -  9 pt),2FGM,40.0,31.0,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,1,02:40,18,269,"CAUSEUR, FABIEN",P001392   ,Assist (1),AS,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,11,02:33,18,270,"NAVARRO, JUAN CARLOS",PADI      ,Foul Drawn (2),RV,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,9,02:33,18,271,"REYES, FELIPE",PAAX      ,Foul (1),CM,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,11,02:33,18,272,"NAVARRO, JUAN CARLOS",PADI      ,Free Throw In (1/1 -  1 pt),FTM,40.0,32.0,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,11,02:33,18,273,"NAVARRO, JUAN CARLOS",PADI      ,Free Throw In (2/2 -  2 pt),FTM,40.0,33.0,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,9,02:15,18,274,"REYES, FELIPE",PAAX      ,Missed Two Pointer (2/4 -  8 pt),2FGA,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,33,02:13,18,275,"THOMPKINS, TREY",P005836   ,Off Rebound (1),O,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,33,02:13,18,276,"THOMPKINS, TREY",P005836   ,Missed Two Pointer (0/1 -  3 pt),2FGA,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,9,02:11,18,277,"HANGA, ADAM",P005099   ,Def Rebound (3),D,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,11,02:02,18,278,"NAVARRO, JUAN CARLOS",PADI      ,Missed Two Pointer (0/1 -  2 pt),2FGA,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,9,02:00,19,280,"REYES, FELIPE",PAAX      ,Def Rebound (4),D,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,33,01:49,19,281,"THOMPKINS, TREY",P005836   ,Turnover (1),TO,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,9,01:47,19,282,"HANGA, ADAM",P005099   ,Steal (2),ST,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,1,01:32,19,283,"CAUSEUR, FABIEN",P001392   ,Out,OUT,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,5,01:32,19,284,"FERNANDEZ, RUDY",PBMT      ,In,IN,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,9,01:32,19,285,"HANGA, ADAM",P005099   ,Missed Three Pointer (0/2 -  3 pt),3FGA,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,7,01:32,19,286,"DONCIC, LUKA",P005929   ,Def Rebound (2),D,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,33,01:02,19,287,"THOMPKINS, TREY",P005836   ,Missed Three Pointer (1/5 -  3 pt),3FGA,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,1,00:59,20,289,"SERAPHIN, KEVIN",P001948   ,Def Rebound (1),D,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,45,00:54,20,290,"MOERMAN, ADRIEN",P001833   ,Missed Three Pointer (0/3 -  0 pt),3FGA,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,9,00:52,20,291,"REYES, FELIPE",PAAX      ,Def Rebound (5),D,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,5,00:33,20,292,"FERNANDEZ, RUDY",PBMT      ,Turnover (1),TO,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,1,00:32,20,293,"SERAPHIN, KEVIN",P001948   ,Steal (1),ST,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,45,00:30,20,294,"MOERMAN, ADRIEN",P001833   ,Two Pointer (1/1 -  2 pt),2FGM,40.0,35.0,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,13,00:30,20,295,"HEURTEL, THOMAS",PKLT      ,Assist (2),AS,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,,00:30,20,296,,          ,Time Out (1),TOUT,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,20,00:30,20,297,"CARROLL, JAYCEE",P001960   ,In,IN,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,44,00:30,20,298,"TAYLOR, JEFFERY",P006546   ,Out,OUT,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,5,00:30,20,299,"RIBAS, PAU",PJUG      ,In,IN,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,13,00:30,20,300,"HEURTEL, THOMAS",PKLT      ,Out,OUT,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,9,00:14,20,301,"REYES, FELIPE",PAAX      ,Turnover (1),TO,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,11,00:13,20,302,"NAVARRO, JUAN CARLOS",PADI      ,Steal (1),ST,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,11,00:02,20,303,"NAVARRO, JUAN CARLOS",PADI      ,Foul Drawn (3),RV,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,5,00:02,20,304,"FERNANDEZ, RUDY",PBMT      ,Foul (1),CM,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,5,00:02,20,305,"FERNANDEZ, RUDY",PBMT      ,Technical Foul (2),CMT,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,11,00:02,20,306,"NAVARRO, JUAN CARLOS",PADI      ,Free Throw In (3/3 -  3 pt),FTM,40.0,36.0,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,11,00:02,20,307,"NAVARRO, JUAN CARLOS",PADI      ,Free Throw In (4/4 -  4 pt),FTM,40.0,37.0,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,11,00:02,20,308,"NAVARRO, JUAN CARLOS",PADI      ,Free Throw In (5/5 -  5 pt),FTM,40.0,38.0,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,,00:02,20,309,,          ,Time Out (2),TOUT,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,20,00:02,20,310,"CARROLL, JAYCEE",P001960   ,Out,OUT,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,22,00:02,20,311,"TAVARES, WALTER",P005791   ,In,IN,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,45,00:02,20,312,"MOERMAN, ADRIEN",P001833   ,Turnover (1),TO,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,7,00:02,20,313,"DONCIC, LUKA",P005929   ,Steal (1),ST,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+          ,,,,21,315,,          ,End Period,EP,,,,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+          ,,,,21,322,,          ,Begin Period,BP,,,,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,7,10:00,21,316,"DONCIC, LUKA",P005929   ,Out,OUT,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,9,10:00,21,317,"REYES, FELIPE",PAAX      ,Out,OUT,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,11,10:00,21,318,"CAMPAZZO, FACUNDO",P005928   ,In,IN,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,44,10:00,21,319,"TAYLOR, JEFFERY",P006546   ,In,IN,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,11,10:00,21,320,"NAVARRO, JUAN CARLOS",PADI      ,Out,OUT,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,21,10:00,21,321,"SANDERS, RAKIM",P005001   ,In,IN,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,5,09:46,21,323,"RIBAS, PAU",PJUG      ,Turnover (1),TO,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,33,09:45,21,324,"THOMPKINS, TREY",P005836   ,Steal (3),ST,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,11,09:40,21,325,"CAMPAZZO, FACUNDO",P005928   ,Foul Drawn (4),RV,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,45,09:40,21,326,"MOERMAN, ADRIEN",P001833   ,Foul (1),CM,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,11,09:40,21,327,"CAMPAZZO, FACUNDO",P005928   ,Free Throw In (1/1 -  9 pt),FTM,41.0,38.0,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,11,09:40,21,328,"CAMPAZZO, FACUNDO",P005928   ,Free Throw In (2/2 -  10 pt),FTM,42.0,38.0,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,1,09:29,21,329,"SERAPHIN, KEVIN",P001948   ,Missed Two Pointer (3/7 -  6 pt),2FGA,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,22,09:29,21,330,"TAVARES, WALTER",P005791   ,Def Rebound (2),D,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,33,09:05,21,331,"THOMPKINS, TREY",P005836   ,Turnover (2),TO,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,21,09:04,21,332,"SANDERS, RAKIM",P005001   ,Steal (1),ST,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,9,09:02,21,333,"HANGA, ADAM",P005099   ,Turnover (2),TO,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,11,08:38,22,335,"CAMPAZZO, FACUNDO",P005928   ,Missed Three Pointer (2/4 -  10 pt),3FGA,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,22,08:34,22,336,"TAVARES, WALTER",P005791   ,Off Rebound (3),O,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,22,08:31,22,337,"TAVARES, WALTER",P005791   ,Foul Drawn (1),RV,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,9,08:31,22,338,"HANGA, ADAM",P005099   ,Foul (3),CM,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,22,08:31,22,339,"TAVARES, WALTER",P005791   ,Missed Free Throw (0/1 -  2 pt),FTA,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,22,08:31,22,340,"TAVARES, WALTER",P005791   ,Free Throw In (1/2 -  3 pt),FTM,43.0,38.0,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,11,08:31,22,341,"CAMPAZZO, FACUNDO",P005928   ,Assist (2),AS,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,21,08:20,22,342,"SANDERS, RAKIM",P005001   ,Foul Drawn (2),RV,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,5,08:20,22,343,"FERNANDEZ, RUDY",PBMT      ,Foul (3),CM,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,5,08:18,22,344,"RIBAS, PAU",PJUG      ,Missed Two Pointer (0/1 -  5 pt),2FGA,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,1,08:18,22,345,"SERAPHIN, KEVIN",P001948   ,Off Rebound (1),O,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,1,08:18,22,346,"SERAPHIN, KEVIN",P001948   ,Missed Two Pointer (3/8 -  6 pt),2FGA,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,22,08:18,22,347,"TAVARES, WALTER",P005791   ,Def Rebound (3),D,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,33,08:01,22,348,"THOMPKINS, TREY",P005836   ,Two Pointer (1/2 -  5 pt),2FGM,45.0,38.0,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,1,07:31,23,350,"SERAPHIN, KEVIN",P001948   ,Missed Two Pointer (3/9 -  6 pt),2FGA,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,1,07:59,23,356,"SERAPHIN, KEVIN",P001948   ,Shot Rejected (2),AG,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,22,07:59,23,357,"TAVARES, WALTER",P005791   ,Block (2),FV,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,11,07:29,23,351,"CAMPAZZO, FACUNDO",P005928   ,Def Rebound (2),D,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,33,07:16,23,352,"THOMPKINS, TREY",P005836   ,Three Pointer (2/6 -  8 pt),3FGM,48.0,38.0,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,5,07:16,23,353,"FERNANDEZ, RUDY",PBMT      ,Assist (1),AS,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,,07:12,23,354,,          ,Time Out (1),TOUT,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,5,07:12,23,358,"RIBAS, PAU",PJUG      ,Out,OUT,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,13,07:12,23,359,"HEURTEL, THOMAS",PKLT      ,In,IN,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,21,06:54,24,361,"SANDERS, RAKIM",P005001   ,Two Pointer (3/5 -  6 pt),2FGM,48.0,40.0,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,5,06:40,24,362,"FERNANDEZ, RUDY",PBMT      ,Three Pointer (1/2 -  5 pt),3FGM,51.0,40.0,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,33,06:38,24,363,"THOMPKINS, TREY",P005836   ,Assist (2),AS,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,45,06:17,24,364,"MOERMAN, ADRIEN",P001833   ,Foul Drawn (2),RV,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,33,06:17,24,365,"THOMPKINS, TREY",P005836   ,Foul (2),CM,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,45,06:17,24,366,"MOERMAN, ADRIEN",P001833   ,Free Throw In (1/1 -  3 pt),FTM,51.0,41.0,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,45,06:17,24,367,"MOERMAN, ADRIEN",P001833   ,Free Throw In (2/2 -  4 pt),FTM,51.0,42.0,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,22,06:02,24,368,"TAVARES, WALTER",P005791   ,Missed Two Pointer (1/3 -  3 pt),2FGA,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,13,06:00,24,369,"HEURTEL, THOMAS",PKLT      ,Def Rebound (1),D,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,13,05:59,25,371,"HEURTEL, THOMAS",PKLT      ,Foul Drawn (4),RV,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,22,05:59,25,372,"TAVARES, WALTER",P005791   ,Foul (3),CM,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,13,05:59,25,373,"HEURTEL, THOMAS",PKLT      ,Free Throw In (3/3 -  8 pt),FTM,51.0,43.0,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,13,05:59,25,374,"HEURTEL, THOMAS",PKLT      ,Free Throw In (4/4 -  9 pt),FTM,51.0,44.0,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,44,05:35,25,375,"TAYLOR, JEFFERY",P006546   ,Three Pointer (1/1 -  3 pt),3FGM,54.0,44.0,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,5,05:32,25,376,"FERNANDEZ, RUDY",PBMT      ,Assist (2),AS,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,13,05:11,25,377,"HEURTEL, THOMAS",PKLT      ,Missed Two Pointer (1/2 -  9 pt),2FGA,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,,05:11,25,378,,          ,Def Rebound (2),D,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,9,05:11,25,379,"REYES, FELIPE",PAAX      ,In,IN,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,22,05:11,25,380,"TAVARES, WALTER",P005791   ,Out,OUT,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,11,04:59,26,382,"CAMPAZZO, FACUNDO",P005928   ,Missed Three Pointer (2/5 -  10 pt),3FGA,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,45,04:59,26,383,"MOERMAN, ADRIEN",P001833   ,Def Rebound (5),D,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,21,04:37,26,384,"SANDERS, RAKIM",P005001   ,Two Pointer (4/6 -  8 pt),2FGM,54.0,46.0,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,5,04:22,26,385,"FERNANDEZ, RUDY",PBMT      ,Missed Three Pointer (1/3 -  5 pt),3FGA,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,21,04:20,26,386,"SANDERS, RAKIM",P005001   ,Def Rebound (2),D,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,45,04:11,26,387,"MOERMAN, ADRIEN",P001833   ,Missed Three Pointer (0/4 -  4 pt),3FGA,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,11,04:08,26,388,"CAMPAZZO, FACUNDO",P005928   ,Def Rebound (3),D,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,5,03:55,27,390,"FERNANDEZ, RUDY",PBMT      ,Missed Two Pointer (0/3 -  5 pt),2FGA,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,9,03:55,27,391,"REYES, FELIPE",PAAX      ,Off Rebound (3),O,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,9,03:55,27,392,"REYES, FELIPE",PAAX      ,Foul Drawn (4),RV,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,1,03:55,27,393,"SERAPHIN, KEVIN",P001948   ,Foul (2),CM,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,5,03:55,27,394,"FERNANDEZ, RUDY",PBMT      ,Out,OUT,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,7,03:55,27,395,"DONCIC, LUKA",P005929   ,In,IN,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,7,03:55,27,396,"DONCIC, LUKA",P005929   ,Two Pointer (2/2 -  11 pt),2FGM,56.0,46.0,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,44,03:55,27,397,"TAYLOR, JEFFERY",P006546   ,Assist (1),AS,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,21,03:31,27,398,"SANDERS, RAKIM",P005001   ,Missed Three Pointer (0/1 -  8 pt),3FGA,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,7,03:28,27,399,"DONCIC, LUKA",P005929   ,Def Rebound (3),D,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,44,03:10,27,400,"TAYLOR, JEFFERY",P006546   ,Missed Three Pointer (1/2 -  3 pt),3FGA,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,9,03:08,27,401,"HANGA, ADAM",P005099   ,Def Rebound (4),D,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,21,02:47,28,403,"SANDERS, RAKIM",P005001   ,Missed Two Pointer (4/7 -  8 pt),2FGA,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,7,02:45,28,404,"DONCIC, LUKA",P005929   ,Def Rebound (4),D,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,9,02:45,28,405,"REYES, FELIPE",PAAX      ,Foul Drawn (5),RV,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,21,02:45,28,406,"SANDERS, RAKIM",P005001   ,Foul (3),CM,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,1,02:45,28,407,"SERAPHIN, KEVIN",P001948   ,Out,OUT,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,9,02:45,28,408,"HANGA, ADAM",P005099   ,Out,OUT,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,18,02:45,28,409,"ORIOLA, PIERRE",P005917   ,In,IN,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,25,02:45,28,410,"KOPONEN, PETTERI",P004178   ,In,IN,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,44,02:45,28,411,"TOMIC, ANTE",P002507   ,In,IN,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,45,02:45,28,412,"MOERMAN, ADRIEN",P001833   ,Out,OUT,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,33,02:30,28,413,"THOMPKINS, TREY",P005836   ,Two Pointer (2/3 -  10 pt),2FGM,58.0,46.0,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,7,02:30,28,414,"DONCIC, LUKA",P005929   ,Assist (6),AS,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,44,02:15,28,415,"TOMIC, ANTE",P002507   ,Two Pointer (2/2 -  6 pt),2FGM,58.0,48.0,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,13,02:15,28,416,"HEURTEL, THOMAS",PKLT      ,Assist (3),AS,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,11,01:53,29,418,"CAMPAZZO, FACUNDO",P005928   ,Missed Two Pointer (1/4 -  10 pt),2FGA,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,,01:53,29,419,,          ,Off Rebound (1),O,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,44,01:37,29,420,"TAYLOR, JEFFERY",P006546   ,Three Pointer (2/3 -  6 pt),3FGM,61.0,48.0,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,11,01:35,29,421,"CAMPAZZO, FACUNDO",P005928   ,Assist (3),AS,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,25,01:13,29,422,"KOPONEN, PETTERI",P004178   ,Turnover (1),TO,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,11,01:11,29,423,"CAMPAZZO, FACUNDO",P005928   ,Steal (1),ST,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,33,01:04,29,424,"THOMPKINS, TREY",P005836   ,Missed Three Pointer (2/7 -  10 pt),3FGA,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,13,01:02,29,425,"HEURTEL, THOMAS",PKLT      ,Def Rebound (2),D,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,25,00:58,30,427,"KOPONEN, PETTERI",P004178   ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,9,00:58,30,428,"REYES, FELIPE",PAAX      ,Foul Drawn (6),RV,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,44,00:58,30,429,"TOMIC, ANTE",P002507   ,Foul (1),CM,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,,00:58,30,459,,          ,Def Rebound (3),D,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,11,00:58,30,430,"CAMPAZZO, FACUNDO",P005928   ,Out,OUT,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,20,00:58,30,431,"CARROLL, JAYCEE",P001960   ,In,IN,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,9,00:58,30,432,"REYES, FELIPE",PAAX      ,Free Throw In (5/6 -  9 pt),FTM,62.0,48.0,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,9,00:58,30,433,"REYES, FELIPE",PAAX      ,Free Throw In (6/7 -  10 pt),FTM,63.0,48.0,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,21,00:41,30,434,"SANDERS, RAKIM",P005001   ,Foul Drawn (3),RV,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,7,00:41,30,435,"DONCIC, LUKA",P005929   ,Foul (1),CM,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,44,00:41,30,436,"TOMIC, ANTE",P002507   ,Missed Two Pointer (2/3 -  6 pt),2FGA,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,44,00:41,30,437,"TOMIC, ANTE",P002507   ,Off Rebound (2),O,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,44,00:41,30,438,"TOMIC, ANTE",P002507   ,Foul Drawn (3),RV,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,9,00:41,30,439,"REYES, FELIPE",PAAX      ,Foul (2),CM,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,44,00:41,30,440,"TOMIC, ANTE",P002507   ,Free Throw In (3/3 -  7 pt),FTM,63.0,49.0,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,44,00:41,30,441,"TOMIC, ANTE",P002507   ,Free Throw In (4/4 -  8 pt),FTM,63.0,50.0,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,11,00:41,30,442,"CAMPAZZO, FACUNDO",P005928   ,In,IN,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,44,00:41,30,443,"TAYLOR, JEFFERY",P006546   ,Out,OUT,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,5,00:41,30,444,"RIBAS, PAU",PJUG      ,In,IN,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,44,00:41,30,445,"TOMIC, ANTE",P002507   ,Out,OUT,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,20,00:20,30,446,"CARROLL, JAYCEE",P001960   ,Foul Drawn (3),RV,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,25,00:20,30,447,"KOPONEN, PETTERI",P004178   ,Foul (3),CM,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,20,00:20,30,448,"CARROLL, JAYCEE",P001960   ,Free Throw In (2/2 -  9 pt),FTM,64.0,50.0,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,20,00:20,30,449,"CARROLL, JAYCEE",P001960   ,Free Throw In (3/3 -  10 pt),FTM,65.0,50.0,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,5,00:20,30,450,"RIBAS, PAU",PJUG      ,Out,OUT,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,44,00:20,30,451,"TOMIC, ANTE",P002507   ,In,IN,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,21,00:04,30,452,"SANDERS, RAKIM",P005001   ,Missed Three Pointer (0/2 -  8 pt),3FGA,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,18,00:02,30,453,"ORIOLA, PIERRE",P005917   ,Off Rebound (1),O,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,44,00:00,30,454,"TOMIC, ANTE",P002507   ,Two Pointer (3/4 -  10 pt),2FGM,65.0,52.0,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,21,00:00,30,455,"SANDERS, RAKIM",P005001   ,Assist (1),AS,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,7,00:00,30,456,"DONCIC, LUKA",P005929   ,Three Pointer (3/5 -  14 pt),3FGM,68.0,52.0,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,33,00:00,30,460,"THOMPKINS, TREY",P005836   ,Assist (3),AS,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+          ,,,,31,458,,          ,End Period,EP,,,,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+          ,,,,31,467,,          ,Begin Period,BP,,,,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,8,10:00,31,461,"PRESSEY, PHIL",P007997   ,In,IN,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,9,10:00,31,462,"HANGA, ADAM",P005099   ,In,IN,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,11,10:00,31,463,"NAVARRO, JUAN CARLOS",PADI      ,In,IN,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,13,10:00,31,464,"HEURTEL, THOMAS",PKLT      ,Out,OUT,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,21,10:00,31,465,"SANDERS, RAKIM",P005001   ,Out,OUT,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,25,10:00,31,466,"KOPONEN, PETTERI",P004178   ,Out,OUT,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,8,09:55,31,468,"PRESSEY, PHIL",P007997   ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,9,09:55,31,469,"REYES, FELIPE",PAAX      ,Offensive Foul (3),OF,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,9,09:55,31,470,"REYES, FELIPE",PAAX      ,Turnover (2),TO,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,11,09:46,31,471,"NAVARRO, JUAN CARLOS",PADI      ,Turnover (1),TO,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,11,09:44,31,472,"CAMPAZZO, FACUNDO",P005928   ,Steal (2),ST,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,11,09:43,31,473,"CAMPAZZO, FACUNDO",P005928   ,Missed Two Pointer (1/5 -  10 pt),2FGA,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,11,09:43,31,474,"CAMPAZZO, FACUNDO",P005928   ,Shot Rejected (1),AG,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,9,09:43,31,475,"HANGA, ADAM",P005099   ,Block (1),FV,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,7,09:43,31,476,"DONCIC, LUKA",P005929   ,Off Rebound (1),O,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,7,09:43,31,477,"DONCIC, LUKA",P005929   ,Two Pointer (3/3 -  16 pt),2FGM,70.0,52.0,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,7,09:43,31,478,"DONCIC, LUKA",P005929   ,Foul Drawn (3),RV,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,18,09:43,31,479,"ORIOLA, PIERRE",P005917   ,Foul (2),CM,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,7,09:43,31,480,"DONCIC, LUKA",P005929   ,Missed Free Throw (1/3 -  16 pt),FTA,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,9,09:43,31,481,"HANGA, ADAM",P005099   ,Def Rebound (5),D,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,11,09:30,31,482,"NAVARRO, JUAN CARLOS",PADI      ,Foul Drawn (4),RV,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,11,09:30,31,483,"CAMPAZZO, FACUNDO",P005928   ,Foul (4),CM,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,11,09:30,31,557,"NAVARRO, JUAN CARLOS",PADI      ,Foul Drawn (5),RV,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,11,09:30,31,521,"CAMPAZZO, FACUNDO",P005928   ,Foul (4),CM,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,11,09:17,31,485,"CAMPAZZO, FACUNDO",P005928   ,Technical Foul (5),CMT,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,11,09:17,31,487,"NAVARRO, JUAN CARLOS",PADI      ,Technical Foul (1),CMT,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,1,09:17,31,488,"CAUSEUR, FABIEN",P001392   ,In,IN,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,11,09:17,31,489,"CAMPAZZO, FACUNDO",P005928   ,Out,OUT,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,44,09:04,31,490,"TOMIC, ANTE",P002507   ,Two Pointer (4/5 -  12 pt),2FGM,70.0,54.0,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,11,09:01,31,491,"NAVARRO, JUAN CARLOS",PADI      ,Assist (1),AS,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,1,09:01,31,492,"CAUSEUR, FABIEN",P001392   ,Three Pointer (1/1 -  3 pt),3FGM,73.0,54.0,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,20,09:01,31,493,"CARROLL, JAYCEE",P001960   ,Assist (1),AS,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,11,09:01,31,494,"NAVARRO, JUAN CARLOS",PADI      ,Missed Three Pointer (0/1 -  5 pt),3FGA,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,33,09:01,31,495,"THOMPKINS, TREY",P005836   ,Def Rebound (1),D,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,7,08:32,32,497,"DONCIC, LUKA",P005929   ,Foul Drawn (4),RV,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,8,08:32,32,498,"PRESSEY, PHIL",P007997   ,Foul (2),CM,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,1,08:32,32,499,"CAUSEUR, FABIEN",P001392   ,Foul Drawn (1),RV,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,44,08:32,32,500,"TOMIC, ANTE",P002507   ,Foul (2),CM,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,1,08:32,32,502,"CAUSEUR, FABIEN",P001392   ,Missed Three Pointer (1/2 -  3 pt),3FGA,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,33,08:32,32,503,"THOMPKINS, TREY",P005836   ,Off Rebound (2),O,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,33,08:32,32,504,"THOMPKINS, TREY",P005836   ,Two Pointer (3/4 -  12 pt),2FGM,75.0,54.0,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,8,07:52,33,506,"PRESSEY, PHIL",P007997   ,Two Pointer (1/2 -  2 pt),2FGM,75.0,56.0,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,44,07:49,33,507,"TOMIC, ANTE",P002507   ,Assist (2),AS,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,20,07:36,33,508,"CARROLL, JAYCEE",P001960   ,Missed Two Pointer (2/4 -  10 pt),2FGA,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,,07:36,33,509,,          ,Def Rebound (4),D,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,11,07:36,33,510,"NAVARRO, JUAN CARLOS",PADI      ,Missed Two Pointer (0/2 -  5 pt),2FGA,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,1,07:36,33,511,"CAUSEUR, FABIEN",P001392   ,Def Rebound (1),D,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,33,07:07,33,512,"THOMPKINS, TREY",P005836   ,Missed Three Pointer (2/8 -  12 pt),3FGA,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,8,07:04,33,513,"PRESSEY, PHIL",P007997   ,Def Rebound (4),D,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,18,06:52,34,515,"ORIOLA, PIERRE",P005917   ,Three Pointer (1/1 -  5 pt),3FGM,75.0,59.0,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,11,06:48,34,516,"NAVARRO, JUAN CARLOS",PADI      ,Assist (2),AS,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,9,06:30,34,517,"REYES, FELIPE",PAAX      ,Missed Two Pointer (2/5 -  10 pt),2FGA,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,44,06:30,34,518,"TOMIC, ANTE",P002507   ,Def Rebound (1),D,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,8,06:30,34,519,"PRESSEY, PHIL",P007997   ,Two Pointer (2/3 -  4 pt),2FGM,75.0,61.0,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,,06:21,34,520,,          ,Time Out (1),TOUT,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,5,06:21,34,522,"FERNANDEZ, RUDY",PBMT      ,In,IN,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,9,06:21,34,523,"REYES, FELIPE",PAAX      ,Out,OUT,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,22,06:21,34,524,"TAVARES, WALTER",P005791   ,In,IN,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,33,06:21,34,525,"THOMPKINS, TREY",P005836   ,Out,OUT,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,30,06:21,34,526,"CLAVER, VICTOR",P000556   ,In,IN,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,44,06:21,34,527,"TOMIC, ANTE",P002507   ,Out,OUT,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,1,06:07,34,529,"CAUSEUR, FABIEN",P001392   ,Foul Drawn (2),RV,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,9,06:07,34,528,"HANGA, ADAM",P005099   ,Foul (4),CM,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,1,06:07,34,530,"CAUSEUR, FABIEN",P001392   ,Free Throw In (1/1 -  4 pt),FTM,76.0,61.0,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,1,06:07,34,531,"CAUSEUR, FABIEN",P001392   ,Free Throw In (2/2 -  5 pt),FTM,77.0,61.0,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,9,05:51,35,533,"HANGA, ADAM",P005099   ,Two Pointer (2/3 -  5 pt),2FGM,77.0,63.0,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,11,05:49,35,534,"NAVARRO, JUAN CARLOS",PADI      ,Assist (3),AS,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,1,05:46,35,535,"CAUSEUR, FABIEN",P001392   ,Missed Two Pointer (0/1 -  5 pt),2FGA,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,1,05:46,35,536,"CAUSEUR, FABIEN",P001392   ,Shot Rejected (1),AG,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,9,05:46,35,537,"HANGA, ADAM",P005099   ,Block (2),FV,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,,05:46,35,538,,          ,Def Rebound (5),D,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,11,05:46,35,539,"NAVARRO, JUAN CARLOS",PADI      ,Foul Drawn (6),RV,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,5,05:46,35,540,"FERNANDEZ, RUDY",PBMT      ,Foul (4),CM,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,11,05:46,35,541,"NAVARRO, JUAN CARLOS",PADI      ,Free Throw In (6/6 -  6 pt),FTM,77.0,64.0,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,11,05:46,35,542,"NAVARRO, JUAN CARLOS",PADI      ,Free Throw In (7/7 -  7 pt),FTM,77.0,65.0,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,5,05:24,35,543,"FERNANDEZ, RUDY",PBMT      ,Three Pointer (2/4 -  8 pt),3FGM,80.0,65.0,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,20,05:24,35,544,"CARROLL, JAYCEE",P001960   ,Assist (2),AS,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,9,05:24,35,545,"HANGA, ADAM",P005099   ,Missed Three Pointer (0/3 -  5 pt),3FGA,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,18,05:24,35,546,"ORIOLA, PIERRE",P005917   ,Off Rebound (2),O,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,18,05:24,35,547,"ORIOLA, PIERRE",P005917   ,Two Pointer (2/3 -  7 pt),2FGM,80.0,67.0,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,18,05:24,35,548,"ORIOLA, PIERRE",P005917   ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,22,05:24,35,549,"TAVARES, WALTER",P005791   ,Foul (4),CM,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,18,05:24,35,550,"ORIOLA, PIERRE",P005917   ,Free Throw In (1/1 -  8 pt),FTM,80.0,68.0,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,7,04:33,36,552,"DONCIC, LUKA",P005929   ,Missed Three Pointer (3/6 -  16 pt),3FGA,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,,04:33,36,553,,          ,Def Rebound (6),D,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,18,04:10,36,554,"ORIOLA, PIERRE",P005917   ,Three Pointer (2/2 -  11 pt),3FGM,80.0,71.0,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,9,04:10,36,555,"HANGA, ADAM",P005099   ,Assist (1),AS,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,,04:10,36,556,,          ,Time Out (2),TOUT,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,5,04:10,36,558,"FERNANDEZ, RUDY",PBMT      ,Out,OUT,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,9,04:10,36,559,"REYES, FELIPE",PAAX      ,In,IN,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,22,04:10,36,560,"TAVARES, WALTER",P005791   ,Out,OUT,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,33,04:10,36,561,"THOMPKINS, TREY",P005836   ,In,IN,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,7,03:43,37,563,"DONCIC, LUKA",P005929   ,Missed Three Pointer (3/7 -  16 pt),3FGA,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,30,03:41,37,564,"CLAVER, VICTOR",P000556   ,Def Rebound (1),D,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,18,03:25,37,565,"ORIOLA, PIERRE",P005917   ,Missed Three Pointer (2/3 -  11 pt),3FGA,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,,03:25,37,566,,          ,Def Rebound (7),D,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,1,03:25,37,567,"CAUSEUR, FABIEN",P001392   ,Missed Two Pointer (0/2 -  5 pt),2FGA,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,7,03:25,37,569,"DONCIC, LUKA",P005929   ,Off Rebound (2),O,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,9,03:25,37,570,"REYES, FELIPE",PAAX      ,Two Pointer (3/6 -  12 pt),2FGM,82.0,71.0,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,7,03:25,37,571,"DONCIC, LUKA",P005929   ,Assist (7),AS,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,,02:56,38,573,,          ,Time Out (1),TOUT,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,20,02:56,38,574,"CARROLL, JAYCEE",P001960   ,Out,OUT,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,44,02:56,38,575,"TAYLOR, JEFFERY",P006546   ,In,IN,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,11,02:42,38,576,"NAVARRO, JUAN CARLOS",PADI      ,Missed Three Pointer (0/2 -  7 pt),3FGA,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,33,02:42,38,577,"THOMPKINS, TREY",P005836   ,Def Rebound (2),D,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,9,02:20,38,578,"REYES, FELIPE",PAAX      ,Two Pointer (4/7 -  14 pt),2FGM,84.0,71.0,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,44,02:18,38,579,"TAYLOR, JEFFERY",P006546   ,Assist (2),AS,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,8,02:09,38,580,"PRESSEY, PHIL",P007997   ,Missed Three Pointer (0/2 -  4 pt),3FGA,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,1,02:07,38,581,"CAUSEUR, FABIEN",P001392   ,Def Rebound (2),D,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,44,01:54,39,583,"TAYLOR, JEFFERY",P006546   ,Missed Three Pointer (2/4 -  6 pt),3FGA,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,8,01:54,39,584,"PRESSEY, PHIL",P007997   ,Def Rebound (5),D,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,8,01:54,39,585,"PRESSEY, PHIL",P007997   ,Two Pointer (3/4 -  6 pt),2FGM,84.0,73.0,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,5,01:45,39,586,"FERNANDEZ, RUDY",PBMT      ,In,IN,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,9,01:45,39,587,"REYES, FELIPE",PAAX      ,Out,OUT,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,8,01:45,39,588,"PRESSEY, PHIL",P007997   ,Out,OUT,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,13,01:45,39,589,"HEURTEL, THOMAS",PKLT      ,In,IN,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,,01:45,39,590,,          ,Time Out (2),TOUT,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,5,01:45,39,591,"RIBAS, PAU",PJUG      ,In,IN,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,11,01:45,39,592,"NAVARRO, JUAN CARLOS",PADI      ,Out,OUT,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,1,01:22,39,593,"CAUSEUR, FABIEN",P001392   ,Missed Three Pointer (1/3 -  5 pt),3FGA,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,13,01:22,39,594,"HEURTEL, THOMAS",PKLT      ,Def Rebound (3),D,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,13,01:22,39,595,"HEURTEL, THOMAS",PKLT      ,Turnover (3),TO,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,33,01:22,39,596,"THOMPKINS, TREY",P005836   ,Steal (4),ST,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,1,00:54,40,598,"CAUSEUR, FABIEN",P001392   ,Foul Drawn (3),RV,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,5,00:54,40,599,"RIBAS, PAU",PJUG      ,Foul (3),CM,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,1,00:54,40,600,"CAUSEUR, FABIEN",P001392   ,Missed Free Throw (2/3 -  5 pt),FTA,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,1,00:54,40,601,"CAUSEUR, FABIEN",P001392   ,Free Throw In (3/4 -  6 pt),FTM,85.0,73.0,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,13,00:38,40,602,"HEURTEL, THOMAS",PKLT      ,Two Pointer (2/3 -  11 pt),2FGM,85.0,75.0,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,33,00:19,40,603,"THOMPKINS, TREY",P005836   ,Missed Three Pointer (2/9 -  12 pt),3FGA,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,9,00:17,40,604,"HANGA, ADAM",P005099   ,Def Rebound (6),D,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,13,00:12,40,605,"HEURTEL, THOMAS",PKLT      ,Missed Two Pointer (2/4 -  11 pt),2FGA,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,33,00:11,40,606,"THOMPKINS, TREY",P005836   ,Def Rebound (3),D,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,5,00:11,40,607,"FERNANDEZ, RUDY",PBMT      ,Foul Drawn (2),RV,,,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+BAR       ,,30,00:11,40,608,"CLAVER, VICTOR",P000556   ,Foul (1),CM,,,FC Barcelona Lassa,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,5,00:11,40,609,"FERNANDEZ, RUDY",PBMT      ,Free Throw In (3/3 -  9 pt),FTM,86.0,75.0,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+MAD       ,,5,00:11,40,610,"FERNANDEZ, RUDY",PBMT      ,Free Throw In (4/4 -  10 pt),FTM,87.0,75.0,Real Madrid,0,Real Madrid,MAD,FC Barcelona Lassa,BAR
+          ,,,,41,613,,          ,End Game,EG,,,,0,Real Madrid,MAD,FC Barcelona Lassa,BAR

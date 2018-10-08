@@ -1,525 +1,525 @@
-CODETEAM,COMMENT,DORSAL,MARKERTIME,MINUTE,NUMBEROFPLAY,PLAYER,PLAYER_ID,PLAYINFO,PLAYTYPE,POINTS_A,POINTS_B,TEAM,TYPE
-          ,,,,1,10,,          ,Begin Period,BP,,,,0
-RED       ,,26,09:52,1,11,"LESSORT, MATHIAS",P003842   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Crvena Zvezda mts Belgrade,0
-MAL       ,,21,09:52,1,12,"WACZYNSKI, ADAM",PLDX      ,Def Rebound (1),D,,,Unicaja Malaga,0
-MAL       ,,23,09:28,1,13,"BROOKS, JEFF",P004117   ,Two Pointer (1/1 -  2 pt),2FGM,2.0,,Unicaja Malaga,0
-MAL       ,,3,09:25,1,14,"MCCALLUM, RAY",P008002   ,Assist (1),AS,,,Unicaja Malaga,0
-RED       ,,6,09:03,1,15,"DANGUBIC, NEMANJA",P005942   ,Turnover (1),TO,,,Crvena Zvezda mts Belgrade,0
-MAL       ,,17,09:00,1,16,"SHERMADINI, GIORGI",P001386   ,Steal (1),ST,,,Unicaja Malaga,0
-MAL       ,,21,08:43,2,18,"WACZYNSKI, ADAM",PLDX      ,Two Pointer (1/1 -  2 pt),2FGM,4.0,,Unicaja Malaga,0
-RED       ,,22,08:17,2,19,"ROCHESTIE, TAYLOR",P002972   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Crvena Zvezda mts Belgrade,0
-MAL       ,,3,08:15,2,20,"MCCALLUM, RAY",P008002   ,Def Rebound (1),D,,,Unicaja Malaga,0
-RED       ,,26,07:58,3,22,"LESSORT, MATHIAS",P003842   ,Foul (1),CM,,,Crvena Zvezda mts Belgrade,0
-MAL       ,,17,07:58,3,23,"SHERMADINI, GIORGI",P001386   ,Foul Drawn (1),RV,,,Unicaja Malaga,0
-MAL       ,,10,07:41,3,24,"SALIN, SASU",P002820   ,Three Pointer (1/1 -  3 pt),3FGM,7.0,,Unicaja Malaga,0
-MAL       ,,3,07:39,3,25,"MCCALLUM, RAY",P008002   ,Assist (2),AS,,,Unicaja Malaga,0
-RED       ,,22,07:28,3,26,"ROCHESTIE, TAYLOR",P002972   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Crvena Zvezda mts Belgrade,0
-MAL       ,,23,07:26,3,27,"BROOKS, JEFF",P004117   ,Def Rebound (1),D,,,Unicaja Malaga,0
-MAL       ,,17,07:19,3,28,"SHERMADINI, GIORGI",P001386   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Unicaja Malaga,0
-RED       ,,14,07:16,3,29,"FELDEINE, JAMES",P005918   ,Def Rebound (1),D,,,Crvena Zvezda mts Belgrade,0
-RED       ,,14,07:12,3,30,"FELDEINE, JAMES",P005918   ,Two Pointer (1/1 -  2 pt),2FGM,7.0,2.0,Crvena Zvezda mts Belgrade,0
-MAL       ,,10,06:40,4,32,"SALIN, SASU",P002820   ,Missed Two Pointer (0/1 -  3 pt),2FGA,,,Unicaja Malaga,0
-MAL       ,,,06:40,4,33,,          ,Turnover (1),TO,,,Unicaja Malaga,0
-RED       ,,5,06:40,4,34,"RADICEVIC, NIKOLA",P002561   ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,22,06:40,4,35,"ROCHESTIE, TAYLOR",P002972   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,6,06:20,4,36,"DANGUBIC, NEMANJA",P005942   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Crvena Zvezda mts Belgrade,0
-MAL       ,,23,06:16,4,37,"BROOKS, JEFF",P004117   ,Def Rebound (2),D,,,Unicaja Malaga,0
-MAL       ,,10,06:11,4,38,"SALIN, SASU",P002820   ,Three Pointer (2/2 -  6 pt),3FGM,10.0,2.0,Unicaja Malaga,0
-MAL       ,,3,06:11,4,39,"MCCALLUM, RAY",P008002   ,Assist (3),AS,,,Unicaja Malaga,0
-RED       ,,,06:11,4,40,,          ,Time Out (1),TOUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,6,06:11,4,41,"DANGUBIC, NEMANJA",P005942   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,10,06:11,4,42,"LAZIC, BRANKO",PLUO      ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,13,06:11,4,43,"DOBRIC, OGNJEN",P004007   ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,14,06:11,4,44,"FELDEINE, JAMES",P005918   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,13,06:10,4,45,"DOBRIC, OGNJEN",P004007   ,Two Pointer (1/1 -  2 pt),2FGM,10.0,4.0,Crvena Zvezda mts Belgrade,0
-RED       ,,26,06:00,4,46,"LESSORT, MATHIAS",P003842   ,Assist (1),AS,,,Crvena Zvezda mts Belgrade,0
-RED       ,,5,05:59,5,48,"RADICEVIC, NIKOLA",P002561   ,Foul (1),CM,,,Crvena Zvezda mts Belgrade,0
-MAL       ,,3,05:59,5,49,"MCCALLUM, RAY",P008002   ,Foul Drawn (1),RV,,,Unicaja Malaga,0
-MAL       ,,10,05:43,5,50,"SALIN, SASU",P002820   ,Three Pointer (3/3 -  9 pt),3FGM,13.0,4.0,Unicaja Malaga,0
-MAL       ,,21,05:41,5,51,"WACZYNSKI, ADAM",PLDX      ,Assist (1),AS,,,Unicaja Malaga,0
-MAL       ,,23,05:20,5,52,"BROOKS, JEFF",P004117   ,Foul (1),CM,,,Unicaja Malaga,0
-RED       ,,51,05:20,5,53,"BJELICA, MILKO",PCHX      ,Foul Drawn (1),RV,,,Crvena Zvezda mts Belgrade,0
-RED       ,,51,05:20,5,54,"BJELICA, MILKO",PCHX      ,Missed Free Throw (0/1 -  0 pt),FTA,,,Crvena Zvezda mts Belgrade,0
-RED       ,,51,05:20,5,55,"BJELICA, MILKO",PCHX      ,Missed Free Throw (0/2 -  0 pt),FTA,,,Crvena Zvezda mts Belgrade,0
-MAL       ,,21,05:17,5,56,"WACZYNSKI, ADAM",PLDX      ,Def Rebound (2),D,,,Unicaja Malaga,0
-RED       ,,10,05:13,5,57,"LAZIC, BRANKO",PLUO      ,Foul (1),CM,,,Crvena Zvezda mts Belgrade,0
-MAL       ,,3,05:13,5,58,"MCCALLUM, RAY",P008002   ,Foul Drawn (2),RV,,,Unicaja Malaga,0
-RED       ,,32,05:13,5,59,"JOVANOVIC, NIKOLA",P003264   ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,51,05:13,5,60,"BJELICA, MILKO",PCHX      ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-MAL       ,,23,04:59,6,62,"BROOKS, JEFF",P004117   ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,Unicaja Malaga,0
-MAL       ,,21,04:57,6,63,"WACZYNSKI, ADAM",PLDX      ,Off Rebound (1),O,,,Unicaja Malaga,0
-MAL       ,,17,04:48,6,64,"SHERMADINI, GIORGI",P001386   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Unicaja Malaga,0
-MAL       ,,23,04:44,6,65,"BROOKS, JEFF",P004117   ,Off Rebound (1),O,,,Unicaja Malaga,0
-MAL       ,,23,04:44,6,66,"BROOKS, JEFF",P004117   ,Two Pointer (2/2 -  4 pt),2FGM,15.0,4.0,Unicaja Malaga,0
-MAL       ,,10,04:34,6,67,"SALIN, SASU",P002820   ,Foul (1),CM,,,Unicaja Malaga,0
-RED       ,,32,04:34,6,68,"JOVANOVIC, NIKOLA",P003264   ,Foul Drawn (1),RV,,,Crvena Zvezda mts Belgrade,0
-RED       ,,13,04:34,6,69,"DOBRIC, OGNJEN",P004007   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,14,04:34,6,70,"FELDEINE, JAMES",P005918   ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,15,04:34,6,71,"APIC, DRAGAN",P003945   ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,26,04:34,6,72,"LESSORT, MATHIAS",P003842   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,32,04:34,6,73,"JOVANOVIC, NIKOLA",P003264   ,Missed Free Throw (0/1 -  0 pt),FTA,,,Crvena Zvezda mts Belgrade,0
-RED       ,,32,04:34,6,74,"JOVANOVIC, NIKOLA",P003264   ,Missed Free Throw (0/2 -  0 pt),FTA,,,Crvena Zvezda mts Belgrade,0
-MAL       ,,17,04:34,6,75,"SHERMADINI, GIORGI",P001386   ,Def Rebound (1),D,,,Unicaja Malaga,0
-MAL       ,,23,04:14,6,76,"BROOKS, JEFF",P004117   ,Missed Two Pointer (2/3 -  4 pt),2FGA,,,Unicaja Malaga,0
-RED       ,,14,04:11,6,77,"FELDEINE, JAMES",P005918   ,Def Rebound (2),D,,,Crvena Zvezda mts Belgrade,0
-RED       ,,5,04:03,6,78,"RADICEVIC, NIKOLA",P002561   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Crvena Zvezda mts Belgrade,0
-MAL       ,,3,04:01,6,79,"MCCALLUM, RAY",P008002   ,Def Rebound (2),D,,,Unicaja Malaga,0
-MAL       ,,3,03:58,7,81,"MCCALLUM, RAY",P008002   ,Turnover (1),TO,,,Unicaja Malaga,0
-MAL       ,,17,03:58,7,82,"SHERMADINI, GIORGI",P001386   ,Out,OUT,,,Unicaja Malaga,0
-MAL       ,,40,03:58,7,83,"AUGUSTINE, JAMES",P001438   ,In,IN,,,Unicaja Malaga,0
-RED       ,,10,03:40,7,84,"LAZIC, BRANKO",PLUO      ,Turnover (1),TO,,,Crvena Zvezda mts Belgrade,0
-MAL       ,,12,03:40,7,85,"MILOSAVLJEVIC, DRAGAN",P002822   ,In,IN,,,Unicaja Malaga,0
-MAL       ,,21,03:40,7,86,"WACZYNSKI, ADAM",PLDX      ,Out,OUT,,,Unicaja Malaga,0
-MAL       ,,12,03:15,7,87,"MILOSAVLJEVIC, DRAGAN",P002822   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Unicaja Malaga,0
-RED       ,,,03:15,7,88,,          ,Def Rebound (1),D,,,Crvena Zvezda mts Belgrade,0
-RED       ,,5,03:15,7,89,"RADICEVIC, NIKOLA",P002561   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,22,03:15,7,90,"ROCHESTIE, TAYLOR",P002972   ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,15,03:05,7,91,"APIC, DRAGAN",P003945   ,Offensive Foul (1),OF,,,Crvena Zvezda mts Belgrade,0
-RED       ,,15,03:05,7,92,"APIC, DRAGAN",P003945   ,Turnover (1),TO,,,Crvena Zvezda mts Belgrade,0
-MAL       ,,10,03:05,7,93,"SALIN, SASU",P002820   ,Foul Drawn (1),RV,,,Unicaja Malaga,0
-MAL       ,,23,03:05,7,94,"BROOKS, JEFF",P004117   ,Out,OUT,,,Unicaja Malaga,0
-MAL       ,,43,03:05,7,95,"SUAREZ, CARLOS",PJJS      ,In,IN,,,Unicaja Malaga,0
-MAL       ,,40,02:46,8,97,"AUGUSTINE, JAMES",P001438   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Unicaja Malaga,0
-RED       ,,32,02:39,8,98,"JOVANOVIC, NIKOLA",P003264   ,Def Rebound (1),D,,,Crvena Zvezda mts Belgrade,0
-RED       ,,15,02:33,8,99,"APIC, DRAGAN",P003945   ,Turnover (2),TO,,,Crvena Zvezda mts Belgrade,0
-MAL       ,,10,02:31,8,100,"SALIN, SASU",P002820   ,Steal (1),ST,,,Unicaja Malaga,0
-MAL       ,,12,02:26,8,101,"MILOSAVLJEVIC, DRAGAN",P002822   ,Two Pointer (1/1 -  2 pt),2FGM,17.0,4.0,Unicaja Malaga,0
-MAL       ,,10,02:23,8,102,"SALIN, SASU",P002820   ,Assist (1),AS,,,Unicaja Malaga,0
-RED       ,,14,02:09,8,103,"FELDEINE, JAMES",P005918   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,Crvena Zvezda mts Belgrade,0
-MAL       ,,12,02:06,8,104,"MILOSAVLJEVIC, DRAGAN",P002822   ,Def Rebound (1),D,,,Unicaja Malaga,0
-MAL       ,,10,02:01,8,105,"SALIN, SASU",P002820   ,Three Pointer (4/4 -  12 pt),3FGM,20.0,4.0,Unicaja Malaga,0
-MAL       ,,12,01:58,9,107,"MILOSAVLJEVIC, DRAGAN",P002822   ,Assist (1),AS,,,Unicaja Malaga,0
-RED       ,,14,01:28,9,108,"FELDEINE, JAMES",P005918   ,Three Pointer (1/1 -  5 pt),3FGM,20.0,7.0,Crvena Zvezda mts Belgrade,0
-RED       ,,32,01:25,9,109,"JOVANOVIC, NIKOLA",P003264   ,Assist (1),AS,,,Crvena Zvezda mts Belgrade,0
-MAL       ,,12,01:20,9,110,"MILOSAVLJEVIC, DRAGAN",P002822   ,Two Pointer (2/2 -  4 pt),2FGM,22.0,7.0,Unicaja Malaga,0
-MAL       ,,43,01:18,9,111,"SUAREZ, CARLOS",PJJS      ,Assist (1),AS,,,Unicaja Malaga,0
-RED       ,,32,01:00,9,112,"JOVANOVIC, NIKOLA",P003264   ,Three Pointer (1/1 -  3 pt),3FGM,22.0,10.0,Crvena Zvezda mts Belgrade,0
-RED       ,,22,00:57,10,114,"ROCHESTIE, TAYLOR",P002972   ,Assist (1),AS,,,Crvena Zvezda mts Belgrade,0
-MAL       ,,10,00:40,10,115,"SALIN, SASU",P002820   ,Missed Three Pointer (4/5 -  12 pt),3FGA,,,Unicaja Malaga,0
-RED       ,,32,00:38,10,116,"JOVANOVIC, NIKOLA",P003264   ,Def Rebound (2),D,,,Crvena Zvezda mts Belgrade,0
-RED       ,,10,00:19,10,117,"LAZIC, BRANKO",PLUO      ,Two Pointer (1/1 -  2 pt),2FGM,22.0,12.0,Crvena Zvezda mts Belgrade,0
-MAL       ,,40,00:01,10,118,"AUGUSTINE, JAMES",P001438   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Unicaja Malaga,0
-          ,,,,11,120,,          ,End Period,EP,,,,0
-          ,,,,11,131,,          ,Begin Period,BP,,,,0
-MAL       ,,3,10:00,11,121,"MCCALLUM, RAY",P008002   ,Out,OUT,,,Unicaja Malaga,0
-MAL       ,,9,10:00,11,122,"DIAZ, ALBERTO",P004213   ,In,IN,,,Unicaja Malaga,0
-MAL       ,,10,10:00,11,123,"SALIN, SASU",P002820   ,Out,OUT,,,Unicaja Malaga,0
-MAL       ,,16,10:00,11,124,"NEDOVIC, NEMANJA",P000848   ,In,IN,,,Unicaja Malaga,0
-RED       ,,6,10:00,11,125,"DANGUBIC, NEMANJA",P005942   ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,10,10:00,11,126,"LAZIC, BRANKO",PLUO      ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,15,10:00,11,127,"APIC, DRAGAN",P003945   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,26,10:00,11,128,"LESSORT, MATHIAS",P003842   ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,32,10:00,11,129,"JOVANOVIC, NIKOLA",P003264   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,51,10:00,11,130,"BJELICA, MILKO",PCHX      ,In,IN,,,Crvena Zvezda mts Belgrade,0
-MAL       ,,12,09:45,11,132,"MILOSAVLJEVIC, DRAGAN",P002822   ,Two Pointer (3/3 -  6 pt),2FGM,24.0,12.0,Unicaja Malaga,0
-MAL       ,,16,09:40,11,133,"NEDOVIC, NEMANJA",P000848   ,Assist (1),AS,,,Unicaja Malaga,0
-RED       ,,26,09:26,11,134,"LESSORT, MATHIAS",P003842   ,Two Pointer (1/2 -  2 pt),2FGM,24.0,14.0,Crvena Zvezda mts Belgrade,0
-RED       ,,14,09:09,11,135,"FELDEINE, JAMES",P005918   ,Foul (1),CM,,,Crvena Zvezda mts Belgrade,0
-MAL       ,,40,09:09,11,136,"AUGUSTINE, JAMES",P001438   ,Foul Drawn (1),RV,,,Unicaja Malaga,0
-RED       ,,13,09:09,11,137,"DOBRIC, OGNJEN",P004007   ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,14,09:09,11,138,"FELDEINE, JAMES",P005918   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-MAL       ,,40,09:09,11,139,"AUGUSTINE, JAMES",P001438   ,Free Throw In (1/1 -  1 pt),FTM,25.0,14.0,Unicaja Malaga,0
-MAL       ,,40,09:09,11,140,"AUGUSTINE, JAMES",P001438   ,Missed Free Throw (1/2 -  1 pt),FTA,,,Unicaja Malaga,0
-MAL       ,,16,09:09,11,141,"NEDOVIC, NEMANJA",P000848   ,Assist (2),AS,,,Unicaja Malaga,0
-MAL       ,,40,09:09,11,142,"AUGUSTINE, JAMES",P001438   ,Off Rebound (1),O,,,Unicaja Malaga,0
-MAL       ,,16,08:53,12,144,"NEDOVIC, NEMANJA",P000848   ,Two Pointer (1/1 -  2 pt),2FGM,27.0,14.0,Unicaja Malaga,0
-RED       ,,13,08:35,12,145,"DOBRIC, OGNJEN",P004007   ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,Crvena Zvezda mts Belgrade,0
-MAL       ,,,08:35,12,146,,          ,Def Rebound (2),D,,,Unicaja Malaga,0
-MAL       ,,16,08:10,12,147,"NEDOVIC, NEMANJA",P000848   ,Three Pointer (1/1 -  5 pt),3FGM,30.0,14.0,Unicaja Malaga,0
-MAL       ,,40,08:10,12,148,"AUGUSTINE, JAMES",P001438   ,Assist (1),AS,,,Unicaja Malaga,0
-RED       ,,,08:10,12,149,,          ,Time Out (1),TOUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,5,08:10,12,150,"RADICEVIC, NIKOLA",P002561   ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,10,08:10,12,151,"LAZIC, BRANKO",PLUO      ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,13,08:10,12,152,"DOBRIC, OGNJEN",P004007   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,22,08:10,12,153,"ROCHESTIE, TAYLOR",P002972   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,5,07:47,13,156,"RADICEVIC, NIKOLA",P002561   ,Turnover (1),TO,,,Crvena Zvezda mts Belgrade,0
-MAL       ,,12,07:44,13,157,"MILOSAVLJEVIC, DRAGAN",P002822   ,Steal (1),ST,,,Unicaja Malaga,0
-MAL       ,,40,07:34,13,158,"AUGUSTINE, JAMES",P001438   ,Two Pointer (1/3 -  3 pt),2FGM,32.0,14.0,Unicaja Malaga,0
-MAL       ,,16,07:32,13,159,"NEDOVIC, NEMANJA",P000848   ,Assist (3),AS,,,Unicaja Malaga,0
-MAL       ,,43,07:16,13,160,"SUAREZ, CARLOS",PJJS      ,Foul (1),CM,,,Unicaja Malaga,0
-RED       ,,51,07:16,13,161,"BJELICA, MILKO",PCHX      ,Foul Drawn (2),RV,,,Crvena Zvezda mts Belgrade,0
-RED       ,,6,07:16,13,162,"DANGUBIC, NEMANJA",P005942   ,Two Pointer (1/1 -  2 pt),2FGM,32.0,16.0,Crvena Zvezda mts Belgrade,0
-MAL       ,,12,06:39,14,164,"MILOSAVLJEVIC, DRAGAN",P002822   ,Two Pointer (4/4 -  8 pt),2FGM,34.0,16.0,Unicaja Malaga,0
-MAL       ,,40,06:37,14,165,"AUGUSTINE, JAMES",P001438   ,Assist (2),AS,,,Unicaja Malaga,0
-RED       ,,5,06:15,14,166,"RADICEVIC, NIKOLA",P002561   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Crvena Zvezda mts Belgrade,0
-RED       ,,5,06:15,14,167,"RADICEVIC, NIKOLA",P002561   ,Shot Rejected (1),AG,,,Crvena Zvezda mts Belgrade,0
-MAL       ,,40,06:12,14,168,"AUGUSTINE, JAMES",P001438   ,Block (1),FV,,,Unicaja Malaga,0
-MAL       ,,40,06:12,14,169,"AUGUSTINE, JAMES",P001438   ,Def Rebound (1),D,,,Unicaja Malaga,0
-MAL       ,,40,05:55,15,171,"AUGUSTINE, JAMES",P001438   ,Missed Two Pointer (1/4 -  3 pt),2FGA,,,Unicaja Malaga,0
-RED       ,,6,05:53,15,172,"DANGUBIC, NEMANJA",P005942   ,Def Rebound (1),D,,,Crvena Zvezda mts Belgrade,0
-RED       ,,5,05:38,15,173,"RADICEVIC, NIKOLA",P002561   ,Two Pointer (1/3 -  2 pt),2FGM,34.0,18.0,Crvena Zvezda mts Belgrade,0
-MAL       ,,16,05:24,15,174,"NEDOVIC, NEMANJA",P000848   ,Three Pointer (2/2 -  8 pt),3FGM,37.0,18.0,Unicaja Malaga,0
-RED       ,,10,05:04,15,175,"LAZIC, BRANKO",PLUO      ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,Crvena Zvezda mts Belgrade,0
-MAL       ,,9,05:01,15,176,"DIAZ, ALBERTO",P004213   ,Def Rebound (1),D,,,Unicaja Malaga,0
-MAL       ,,12,04:58,16,178,"MILOSAVLJEVIC, DRAGAN",P002822   ,Two Pointer (5/5 -  10 pt),2FGM,39.0,18.0,Unicaja Malaga,0
-MAL       ,,9,04:50,16,179,"DIAZ, ALBERTO",P004213   ,Assist (1),AS,,,Unicaja Malaga,0
-RED       ,,10,04:45,16,180,"LAZIC, BRANKO",PLUO      ,Two Pointer (2/2 -  4 pt),2FGM,39.0,20.0,Crvena Zvezda mts Belgrade,0
-RED       ,,5,04:43,16,181,"RADICEVIC, NIKOLA",P002561   ,Assist (1),AS,,,Crvena Zvezda mts Belgrade,0
-MAL       ,,9,04:26,16,182,"DIAZ, ALBERTO",P004213   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Unicaja Malaga,0
-MAL       ,,43,04:26,16,183,"SUAREZ, CARLOS",PJJS      ,Off Rebound (1),O,,,Unicaja Malaga,0
-RED       ,,51,04:26,16,184,"BJELICA, MILKO",PCHX      ,Foul (1),CM,,,Crvena Zvezda mts Belgrade,0
-MAL       ,,43,04:26,16,185,"SUAREZ, CARLOS",PJJS      ,Foul Drawn (1),RV,,,Unicaja Malaga,0
-RED       ,,5,04:26,16,186,"RADICEVIC, NIKOLA",P002561   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,10,04:26,16,187,"LAZIC, BRANKO",PLUO      ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,14,04:26,16,188,"FELDEINE, JAMES",P005918   ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,15,04:26,16,189,"APIC, DRAGAN",P003945   ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,22,04:26,16,190,"ROCHESTIE, TAYLOR",P002972   ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,26,04:26,16,191,"LESSORT, MATHIAS",P003842   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-MAL       ,,16,04:17,16,192,"NEDOVIC, NEMANJA",P000848   ,Missed Three Pointer (2/3 -  8 pt),3FGA,,,Unicaja Malaga,0
-RED       ,,51,04:15,16,193,"BJELICA, MILKO",PCHX      ,Def Rebound (1),D,,,Crvena Zvezda mts Belgrade,0
-RED       ,,22,04:05,16,194,"ROCHESTIE, TAYLOR",P002972   ,Three Pointer (1/2 -  3 pt),3FGM,39.0,23.0,Crvena Zvezda mts Belgrade,0
-RED       ,,6,03:42,17,196,"DANGUBIC, NEMANJA",P005942   ,Foul (1),CM,,,Crvena Zvezda mts Belgrade,0
-MAL       ,,16,03:42,17,197,"NEDOVIC, NEMANJA",P000848   ,Foul Drawn (1),RV,,,Unicaja Malaga,0
-MAL       ,,23,03:42,17,198,"BROOKS, JEFF",P004117   ,In,IN,,,Unicaja Malaga,0
-MAL       ,,43,03:42,17,199,"SUAREZ, CARLOS",PJJS      ,Out,OUT,,,Unicaja Malaga,0
-RED       ,,6,03:42,17,200,"DANGUBIC, NEMANJA",P005942   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,13,03:42,17,201,"DOBRIC, OGNJEN",P004007   ,In,IN,,,Crvena Zvezda mts Belgrade,0
-MAL       ,,16,03:31,17,202,"NEDOVIC, NEMANJA",P000848   ,Turnover (1),TO,,,Unicaja Malaga,0
-RED       ,,13,03:29,17,203,"DOBRIC, OGNJEN",P004007   ,Turnover (1),TO,,,Crvena Zvezda mts Belgrade,0
-MAL       ,,40,03:29,17,204,"AUGUSTINE, JAMES",P001438   ,Out,OUT,,,Unicaja Malaga,0
-MAL       ,,44,03:29,17,205,"MUSLI, DEJAN",PLUR      ,In,IN,,,Unicaja Malaga,0
-MAL       ,,44,03:12,17,206,"MUSLI, DEJAN",PLUR      ,Two Pointer (1/1 -  2 pt),2FGM,41.0,23.0,Unicaja Malaga,0
-MAL       ,,9,03:10,17,207,"DIAZ, ALBERTO",P004213   ,Assist (2),AS,,,Unicaja Malaga,0
-RED       ,,14,02:55,18,209,"FELDEINE, JAMES",P005918   ,Two Pointer (2/3 -  7 pt),2FGM,41.0,25.0,Crvena Zvezda mts Belgrade,0
-RED       ,,51,02:36,18,210,"BJELICA, MILKO",PCHX      ,Foul (2),CM,,,Crvena Zvezda mts Belgrade,0
-MAL       ,,44,02:36,18,211,"MUSLI, DEJAN",PLUR      ,Foul Drawn (1),RV,,,Unicaja Malaga,0
-MAL       ,,3,02:36,18,212,"MCCALLUM, RAY",P008002   ,In,IN,,,Unicaja Malaga,0
-MAL       ,,9,02:36,18,213,"DIAZ, ALBERTO",P004213   ,Out,OUT,,,Unicaja Malaga,0
-RED       ,,16,02:36,18,214,"JANKOVIC, STEFAN",P007961   ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,51,02:36,18,215,"BJELICA, MILKO",PCHX      ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-MAL       ,,44,02:36,18,216,"MUSLI, DEJAN",PLUR      ,Missed Free Throw (0/1 -  2 pt),FTA,,,Unicaja Malaga,0
-MAL       ,,44,02:36,18,217,"MUSLI, DEJAN",PLUR      ,Missed Free Throw (0/2 -  2 pt),FTA,,,Unicaja Malaga,0
-RED       ,,13,02:36,18,218,"DOBRIC, OGNJEN",P004007   ,Def Rebound (1),D,,,Crvena Zvezda mts Belgrade,0
-RED       ,,14,02:18,18,219,"FELDEINE, JAMES",P005918   ,Missed Three Pointer (1/2 -  7 pt),3FGA,,,Crvena Zvezda mts Belgrade,0
-MAL       ,,12,02:16,18,220,"MILOSAVLJEVIC, DRAGAN",P002822   ,Def Rebound (2),D,,,Unicaja Malaga,0
-RED       ,,13,02:16,18,221,"DOBRIC, OGNJEN",P004007   ,Foul (1),CM,,,Crvena Zvezda mts Belgrade,0
-MAL       ,,12,02:16,18,222,"MILOSAVLJEVIC, DRAGAN",P002822   ,Foul Drawn (1),RV,,,Unicaja Malaga,0
-MAL       ,,12,02:16,18,223,"MILOSAVLJEVIC, DRAGAN",P002822   ,Free Throw In (1/1 -  11 pt),FTM,42.0,25.0,Unicaja Malaga,0
-MAL       ,,12,02:16,18,224,"MILOSAVLJEVIC, DRAGAN",P002822   ,Free Throw In (2/2 -  12 pt),FTM,43.0,25.0,Unicaja Malaga,0
-RED       ,,15,02:01,18,225,"APIC, DRAGAN",P003945   ,Two Pointer (1/1 -  2 pt),2FGM,43.0,27.0,Crvena Zvezda mts Belgrade,0
-RED       ,,22,02:01,18,226,"ROCHESTIE, TAYLOR",P002972   ,Assist (2),AS,,,Crvena Zvezda mts Belgrade,0
-MAL       ,,23,02:01,18,227,"BROOKS, JEFF",P004117   ,Foul (2),CM,,,Unicaja Malaga,0
-RED       ,,15,02:01,18,228,"APIC, DRAGAN",P003945   ,Foul Drawn (1),RV,,,Crvena Zvezda mts Belgrade,0
-RED       ,,15,02:01,18,229,"APIC, DRAGAN",P003945   ,Missed Free Throw (0/1 -  2 pt),FTA,,,Crvena Zvezda mts Belgrade,0
-MAL       ,,3,02:01,18,230,"MCCALLUM, RAY",P008002   ,Def Rebound (3),D,,,Unicaja Malaga,0
-MAL       ,,12,01:46,19,232,"MILOSAVLJEVIC, DRAGAN",P002822   ,Turnover (1),TO,,,Unicaja Malaga,0
-RED       ,,16,01:24,19,233,"JANKOVIC, STEFAN",P007961   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Crvena Zvezda mts Belgrade,0
-MAL       ,,3,01:21,19,234,"MCCALLUM, RAY",P008002   ,Def Rebound (4),D,,,Unicaja Malaga,0
-MAL       ,,3,01:16,19,235,"MCCALLUM, RAY",P008002   ,Two Pointer (1/1 -  2 pt),2FGM,45.0,27.0,Unicaja Malaga,0
-MAL       ,,23,01:14,19,236,"BROOKS, JEFF",P004117   ,Assist (1),AS,,,Unicaja Malaga,0
-RED       ,,16,00:56,20,238,"JANKOVIC, STEFAN",P007961   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Crvena Zvezda mts Belgrade,0
-RED       ,,13,00:54,20,239,"DOBRIC, OGNJEN",P004007   ,Off Rebound (1),O,,,Crvena Zvezda mts Belgrade,0
-RED       ,,22,00:49,20,240,"ROCHESTIE, TAYLOR",P002972   ,Two Pointer (1/2 -  5 pt),2FGM,45.0,29.0,Crvena Zvezda mts Belgrade,0
-MAL       ,,3,00:31,20,241,"MCCALLUM, RAY",P008002   ,Turnover (2),TO,,,Unicaja Malaga,0
-RED       ,,15,00:31,20,242,"APIC, DRAGAN",P003945   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,16,00:31,20,243,"JANKOVIC, STEFAN",P007961   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,26,00:31,20,244,"LESSORT, MATHIAS",P003842   ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,51,00:31,20,245,"BJELICA, MILKO",PCHX      ,In,IN,,,Crvena Zvezda mts Belgrade,0
-MAL       ,,23,00:31,20,246,"BROOKS, JEFF",P004117   ,Out,OUT,,,Unicaja Malaga,0
-MAL       ,,43,00:31,20,247,"SUAREZ, CARLOS",PJJS      ,In,IN,,,Unicaja Malaga,0
-MAL       ,,16,00:10,20,248,"NEDOVIC, NEMANJA",P000848   ,Foul (1),CM,,,Unicaja Malaga,0
-RED       ,,14,00:10,20,249,"FELDEINE, JAMES",P005918   ,Foul Drawn (1),RV,,,Crvena Zvezda mts Belgrade,0
-RED       ,,51,00:02,20,250,"BJELICA, MILKO",PCHX      ,Two Pointer (1/1 -  2 pt),2FGM,45.0,31.0,Crvena Zvezda mts Belgrade,0
-RED       ,,26,00:02,20,251,"LESSORT, MATHIAS",P003842   ,Assist (2),AS,,,Crvena Zvezda mts Belgrade,0
-MAL       ,,,00:02,20,252,,          ,Time Out (1),TOUT,,,Unicaja Malaga,0
-MAL       ,,12,00:02,20,253,"MILOSAVLJEVIC, DRAGAN",P002822   ,Out,OUT,,,Unicaja Malaga,0
-MAL       ,,21,00:02,20,254,"WACZYNSKI, ADAM",PLDX      ,In,IN,,,Unicaja Malaga,0
-RED       ,,5,00:02,20,255,"RADICEVIC, NIKOLA",P002561   ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,6,00:02,20,256,"DANGUBIC, NEMANJA",P005942   ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,10,00:02,20,257,"LAZIC, BRANKO",PLUO      ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,14,00:02,20,258,"FELDEINE, JAMES",P005918   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,22,00:02,20,259,"ROCHESTIE, TAYLOR",P002972   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,26,00:02,20,260,"LESSORT, MATHIAS",P003842   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,32,00:02,20,261,"JOVANOVIC, NIKOLA",P003264   ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,51,00:02,20,262,"BJELICA, MILKO",PCHX      ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-MAL       ,,16,00:01,20,263,"NEDOVIC, NEMANJA",P000848   ,Missed Three Pointer (2/4 -  8 pt),3FGA,,,Unicaja Malaga,0
-          ,,,,21,265,,          ,End Period,EP,,,,0
-          ,,,,21,278,,          ,Begin Period,BP,,,,0
-MAL       ,,10,10:00,21,266,"SALIN, SASU",P002820   ,In,IN,,,Unicaja Malaga,0
-MAL       ,,16,10:00,21,267,"NEDOVIC, NEMANJA",P000848   ,Out,OUT,,,Unicaja Malaga,0
-MAL       ,,17,10:00,21,268,"SHERMADINI, GIORGI",P001386   ,In,IN,,,Unicaja Malaga,0
-MAL       ,,44,10:00,21,269,"MUSLI, DEJAN",PLUR      ,Out,OUT,,,Unicaja Malaga,0
-RED       ,,5,10:00,21,270,"RADICEVIC, NIKOLA",P002561   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,6,10:00,21,271,"DANGUBIC, NEMANJA",P005942   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,13,10:00,21,272,"DOBRIC, OGNJEN",P004007   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,14,10:00,21,273,"FELDEINE, JAMES",P005918   ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,22,10:00,21,274,"ROCHESTIE, TAYLOR",P002972   ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,26,10:00,21,275,"LESSORT, MATHIAS",P003842   ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,32,10:00,21,276,"JOVANOVIC, NIKOLA",P003264   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,51,10:00,21,277,"BJELICA, MILKO",PCHX      ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,10,09:48,21,279,"LAZIC, BRANKO",PLUO      ,Two Pointer (3/3 -  6 pt),2FGM,45.0,33.0,Crvena Zvezda mts Belgrade,0
-RED       ,,14,09:48,21,280,"FELDEINE, JAMES",P005918   ,Assist (1),AS,,,Crvena Zvezda mts Belgrade,0
-MAL       ,,17,09:30,21,281,"SHERMADINI, GIORGI",P001386   ,Offensive Foul (1),OF,,,Unicaja Malaga,0
-MAL       ,,17,09:30,21,282,"SHERMADINI, GIORGI",P001386   ,Turnover (1),TO,,,Unicaja Malaga,0
-RED       ,,26,09:30,21,283,"LESSORT, MATHIAS",P003842   ,Foul Drawn (1),RV,,,Crvena Zvezda mts Belgrade,0
-RED       ,,14,09:11,21,284,"FELDEINE, JAMES",P005918   ,Three Pointer (2/3 -  10 pt),3FGM,45.0,36.0,Crvena Zvezda mts Belgrade,0
-RED       ,,22,09:08,21,285,"ROCHESTIE, TAYLOR",P002972   ,Assist (3),AS,,,Crvena Zvezda mts Belgrade,0
-MAL       ,,21,08:52,22,287,"WACZYNSKI, ADAM",PLDX      ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,Unicaja Malaga,0
-RED       ,,22,08:50,22,288,"ROCHESTIE, TAYLOR",P002972   ,Def Rebound (1),D,,,Crvena Zvezda mts Belgrade,0
-RED       ,,22,08:43,22,289,"ROCHESTIE, TAYLOR",P002972   ,Missed Two Pointer (1/3 -  5 pt),2FGA,,,Crvena Zvezda mts Belgrade,0
-RED       ,,26,08:40,22,290,"LESSORT, MATHIAS",P003842   ,Off Rebound (1),O,,,Crvena Zvezda mts Belgrade,0
-RED       ,,26,08:38,22,291,"LESSORT, MATHIAS",P003842   ,Missed Two Pointer (1/3 -  2 pt),2FGA,,,Crvena Zvezda mts Belgrade,0
-MAL       ,,43,08:36,22,292,"SUAREZ, CARLOS",PJJS      ,Def Rebound (1),D,,,Unicaja Malaga,0
-MAL       ,,17,08:32,22,293,"SHERMADINI, GIORGI",P001386   ,Missed Two Pointer (0/3 -  0 pt),2FGA,,,Unicaja Malaga,0
-MAL       ,,17,08:32,22,294,"SHERMADINI, GIORGI",P001386   ,Shot Rejected (1),AG,,,Unicaja Malaga,0
-RED       ,,26,08:32,22,295,"LESSORT, MATHIAS",P003842   ,Block (1),FV,,,Crvena Zvezda mts Belgrade,0
-RED       ,,10,08:32,22,296,"LAZIC, BRANKO",PLUO      ,Def Rebound (1),D,,,Crvena Zvezda mts Belgrade,0
-RED       ,,51,08:32,22,297,"BJELICA, MILKO",PCHX      ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,Crvena Zvezda mts Belgrade,0
-MAL       ,,3,08:32,22,298,"MCCALLUM, RAY",P008002   ,Def Rebound (5),D,,,Unicaja Malaga,0
-MAL       ,,17,08:32,22,299,"SHERMADINI, GIORGI",P001386   ,Two Pointer (1/4 -  2 pt),2FGM,47.0,36.0,Unicaja Malaga,0
-MAL       ,,3,08:32,22,300,"MCCALLUM, RAY",P008002   ,Assist (4),AS,,,Unicaja Malaga,0
-RED       ,,14,07:48,23,302,"FELDEINE, JAMES",P005918   ,Missed Two Pointer (2/4 -  10 pt),2FGA,,,Crvena Zvezda mts Belgrade,0
-RED       ,,26,07:46,23,303,"LESSORT, MATHIAS",P003842   ,Off Rebound (2),O,,,Crvena Zvezda mts Belgrade,0
-RED       ,,26,07:46,23,304,"LESSORT, MATHIAS",P003842   ,Two Pointer (2/4 -  4 pt),2FGM,47.0,38.0,Crvena Zvezda mts Belgrade,0
-MAL       ,,3,07:37,23,305,"MCCALLUM, RAY",P008002   ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,Unicaja Malaga,0
-RED       ,,26,07:37,23,306,"LESSORT, MATHIAS",P003842   ,Def Rebound (1),D,,,Crvena Zvezda mts Belgrade,0
-RED       ,,14,07:17,23,307,"FELDEINE, JAMES",P005918   ,Missed Two Pointer (2/5 -  10 pt),2FGA,,,Crvena Zvezda mts Belgrade,0
-RED       ,,26,07:15,23,308,"LESSORT, MATHIAS",P003842   ,Off Rebound (3),O,,,Crvena Zvezda mts Belgrade,0
-RED       ,,51,07:03,23,309,"BJELICA, MILKO",PCHX      ,Missed Three Pointer (0/2 -  2 pt),3FGA,,,Crvena Zvezda mts Belgrade,0
-MAL       ,,21,07:01,23,310,"WACZYNSKI, ADAM",PLDX      ,Def Rebound (3),D,,,Unicaja Malaga,0
-MAL       ,,17,06:50,24,312,"SHERMADINI, GIORGI",P001386   ,Missed Two Pointer (1/5 -  2 pt),2FGA,,,Unicaja Malaga,0
-MAL       ,,17,06:50,24,313,"SHERMADINI, GIORGI",P001386   ,Shot Rejected (2),AG,,,Unicaja Malaga,0
-RED       ,,26,06:48,24,314,"LESSORT, MATHIAS",P003842   ,Block (2),FV,,,Crvena Zvezda mts Belgrade,0
-MAL       ,,21,06:46,24,315,"WACZYNSKI, ADAM",PLDX      ,Off Rebound (2),O,,,Unicaja Malaga,0
-MAL       ,,21,06:44,24,316,"WACZYNSKI, ADAM",PLDX      ,Two Pointer (2/2 -  4 pt),2FGM,49.0,38.0,Unicaja Malaga,0
-RED       ,,51,06:38,24,317,"BJELICA, MILKO",PCHX      ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,Crvena Zvezda mts Belgrade,0
-MAL       ,,43,06:38,24,318,"SUAREZ, CARLOS",PJJS      ,Def Rebound (2),D,,,Unicaja Malaga,0
-MAL       ,,21,06:38,24,319,"WACZYNSKI, ADAM",PLDX      ,Missed Three Pointer (0/2 -  4 pt),3FGA,,,Unicaja Malaga,0
-MAL       ,,43,06:38,24,320,"SUAREZ, CARLOS",PJJS      ,Off Rebound (2),O,,,Unicaja Malaga,0
-MAL       ,,3,06:38,24,321,"MCCALLUM, RAY",P008002   ,Two Pointer (2/2 -  4 pt),2FGM,51.0,38.0,Unicaja Malaga,0
-RED       ,,22,06:06,24,322,"ROCHESTIE, TAYLOR",P002972   ,Two Pointer (2/4 -  7 pt),2FGM,51.0,40.0,Crvena Zvezda mts Belgrade,0
-RED       ,,10,06:04,24,323,"LAZIC, BRANKO",PLUO      ,Foul (2),CM,,,Crvena Zvezda mts Belgrade,0
-MAL       ,,3,06:04,24,324,"MCCALLUM, RAY",P008002   ,Foul Drawn (3),RV,,,Unicaja Malaga,0
-MAL       ,,17,06:04,24,325,"SHERMADINI, GIORGI",P001386   ,Out,OUT,,,Unicaja Malaga,0
-MAL       ,,40,06:04,24,326,"AUGUSTINE, JAMES",P001438   ,In,IN,,,Unicaja Malaga,0
-RED       ,,13,06:04,24,327,"DOBRIC, OGNJEN",P004007   ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,14,06:04,24,328,"FELDEINE, JAMES",P005918   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-MAL       ,,3,05:59,25,330,"MCCALLUM, RAY",P008002   ,Missed Two Pointer (2/3 -  4 pt),2FGA,,,Unicaja Malaga,0
-MAL       ,,21,05:59,25,331,"WACZYNSKI, ADAM",PLDX      ,Off Rebound (3),O,,,Unicaja Malaga,0
-MAL       ,,21,05:59,25,332,"WACZYNSKI, ADAM",PLDX      ,Missed Two Pointer (2/3 -  4 pt),2FGA,,,Unicaja Malaga,0
-RED       ,,51,05:59,25,333,"BJELICA, MILKO",PCHX      ,Def Rebound (2),D,,,Crvena Zvezda mts Belgrade,0
-RED       ,,10,05:45,25,334,"LAZIC, BRANKO",PLUO      ,Offensive Foul (3),OF,,,Crvena Zvezda mts Belgrade,0
-RED       ,,10,05:45,25,335,"LAZIC, BRANKO",PLUO      ,Turnover (2),TO,,,Crvena Zvezda mts Belgrade,0
-MAL       ,,10,05:45,25,336,"SALIN, SASU",P002820   ,Foul Drawn (2),RV,,,Unicaja Malaga,0
-MAL       ,,10,05:23,25,337,"SALIN, SASU",P002820   ,Three Pointer (5/6 -  15 pt),3FGM,54.0,40.0,Unicaja Malaga,0
-MAL       ,,40,05:06,25,338,"AUGUSTINE, JAMES",P001438   ,Foul (1),CM,,,Unicaja Malaga,0
-RED       ,,26,05:06,25,339,"LESSORT, MATHIAS",P003842   ,Foul Drawn (2),RV,,,Crvena Zvezda mts Belgrade,0
-RED       ,,6,05:06,25,340,"DANGUBIC, NEMANJA",P005942   ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,10,05:06,25,341,"LAZIC, BRANKO",PLUO      ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,26,05:06,25,343,"LESSORT, MATHIAS",P003842   ,Free Throw In (1/1 -  5 pt),FTM,54.0,41.0,Crvena Zvezda mts Belgrade,0
-RED       ,,26,05:06,25,344,"LESSORT, MATHIAS",P003842   ,Free Throw In (2/2 -  6 pt),FTM,54.0,42.0,Crvena Zvezda mts Belgrade,0
-RED       ,,22,05:06,25,345,"ROCHESTIE, TAYLOR",P002972   ,Assist (4),AS,,,Crvena Zvezda mts Belgrade,0
-MAL       ,,10,04:57,26,347,"SALIN, SASU",P002820   ,Missed Three Pointer (5/7 -  15 pt),3FGA,,,Unicaja Malaga,0
-RED       ,,13,04:57,26,348,"DOBRIC, OGNJEN",P004007   ,Def Rebound (2),D,,,Crvena Zvezda mts Belgrade,0
-MAL       ,,3,04:38,26,349,"MCCALLUM, RAY",P008002   ,Foul (1),CM,,,Unicaja Malaga,0
-RED       ,,22,04:38,26,350,"ROCHESTIE, TAYLOR",P002972   ,Foul Drawn (1),RV,,,Crvena Zvezda mts Belgrade,0
-          ,,,04:38,26,351,,          ,TV Time Out (1),TOUT_TV,,,,0
-MAL       ,,3,04:38,26,352,"MCCALLUM, RAY",P008002   ,Out,OUT,,,Unicaja Malaga,0
-MAL       ,,9,04:38,26,353,"DIAZ, ALBERTO",P004213   ,In,IN,,,Unicaja Malaga,0
-MAL       ,,10,04:38,26,354,"SALIN, SASU",P002820   ,Out,OUT,,,Unicaja Malaga,0
-MAL       ,,16,04:38,26,355,"NEDOVIC, NEMANJA",P000848   ,In,IN,,,Unicaja Malaga,0
-RED       ,,22,04:33,26,356,"ROCHESTIE, TAYLOR",P002972   ,Missed Two Pointer (2/5 -  7 pt),2FGA,,,Crvena Zvezda mts Belgrade,0
-MAL       ,,40,04:33,26,357,"AUGUSTINE, JAMES",P001438   ,Def Rebound (2),D,,,Unicaja Malaga,0
-MAL       ,,9,04:06,26,358,"DIAZ, ALBERTO",P004213   ,Turnover (1),TO,,,Unicaja Malaga,0
-RED       ,,26,04:04,26,359,"LESSORT, MATHIAS",P003842   ,Steal (1),ST,,,Crvena Zvezda mts Belgrade,0
-RED       ,,22,04:04,26,360,"ROCHESTIE, TAYLOR",P002972   ,Two Pointer (3/6 -  9 pt),2FGM,54.0,44.0,Crvena Zvezda mts Belgrade,0
-RED       ,,26,04:04,26,361,"LESSORT, MATHIAS",P003842   ,Assist (3),AS,,,Crvena Zvezda mts Belgrade,0
-MAL       ,,9,04:04,26,362,"DIAZ, ALBERTO",P004213   ,Foul (1),CM,,,Unicaja Malaga,0
-RED       ,,22,04:04,26,363,"ROCHESTIE, TAYLOR",P002972   ,Foul Drawn (2),RV,,,Crvena Zvezda mts Belgrade,0
-RED       ,,22,04:04,26,364,"ROCHESTIE, TAYLOR",P002972   ,Free Throw In (1/1 -  10 pt),FTM,54.0,45.0,Crvena Zvezda mts Belgrade,0
-MAL       ,,16,03:49,27,366,"NEDOVIC, NEMANJA",P000848   ,Turnover (2),TO,,,Unicaja Malaga,0
-RED       ,,13,03:28,27,367,"DOBRIC, OGNJEN",P004007   ,Three Pointer (1/2 -  5 pt),3FGM,54.0,48.0,Crvena Zvezda mts Belgrade,0
-RED       ,,22,03:26,27,368,"ROCHESTIE, TAYLOR",P002972   ,Assist (5),AS,,,Crvena Zvezda mts Belgrade,0
-MAL       ,,16,03:18,27,369,"NEDOVIC, NEMANJA",P000848   ,Turnover (3),TO,,,Unicaja Malaga,0
-RED       ,,22,03:16,27,370,"ROCHESTIE, TAYLOR",P002972   ,Steal (1),ST,,,Crvena Zvezda mts Belgrade,0
-RED       ,,13,03:13,27,371,"DOBRIC, OGNJEN",P004007   ,Missed Two Pointer (1/2 -  5 pt),2FGA,,,Crvena Zvezda mts Belgrade,0
-MAL       ,,,03:13,27,372,,          ,Def Rebound (3),D,,,Unicaja Malaga,0
-MAL       ,,,03:13,27,373,,          ,Time Out (1),TOUT,,,Unicaja Malaga,0
-MAL       ,,12,03:13,27,374,"MILOSAVLJEVIC, DRAGAN",P002822   ,In,IN,,,Unicaja Malaga,0
-MAL       ,,21,03:13,27,375,"WACZYNSKI, ADAM",PLDX      ,Out,OUT,,,Unicaja Malaga,0
-MAL       ,,23,03:13,27,376,"BROOKS, JEFF",P004117   ,In,IN,,,Unicaja Malaga,0
-MAL       ,,43,03:13,27,377,"SUAREZ, CARLOS",PJJS      ,Out,OUT,,,Unicaja Malaga,0
-MAL       ,,16,03:00,27,378,"NEDOVIC, NEMANJA",P000848   ,Three Pointer (3/5 -  11 pt),3FGM,57.0,48.0,Unicaja Malaga,0
-MAL       ,,9,02:58,28,380,"DIAZ, ALBERTO",P004213   ,Assist (3),AS,,,Unicaja Malaga,0
-RED       ,,13,02:40,28,381,"DOBRIC, OGNJEN",P004007   ,Missed Three Pointer (1/3 -  5 pt),3FGA,,,Crvena Zvezda mts Belgrade,0
-MAL       ,,,02:40,28,382,,          ,Def Rebound (4),D,,,Unicaja Malaga,0
-RED       ,,26,02:18,28,383,"LESSORT, MATHIAS",P003842   ,Foul (2),CM,,,Crvena Zvezda mts Belgrade,0
-MAL       ,,12,02:18,28,384,"MILOSAVLJEVIC, DRAGAN",P002822   ,Foul Drawn (2),RV,,,Unicaja Malaga,0
-RED       ,,5,02:18,28,385,"RADICEVIC, NIKOLA",P002561   ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,15,02:18,28,386,"APIC, DRAGAN",P003945   ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,22,02:18,28,387,"ROCHESTIE, TAYLOR",P002972   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,26,02:18,28,388,"LESSORT, MATHIAS",P003842   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-MAL       ,,16,02:10,28,389,"NEDOVIC, NEMANJA",P000848   ,Two Pointer (2/2 -  13 pt),2FGM,59.0,48.0,Unicaja Malaga,0
-RED       ,,6,01:51,29,391,"DANGUBIC, NEMANJA",P005942   ,Missed Three Pointer (0/2 -  2 pt),3FGA,,,Crvena Zvezda mts Belgrade,0
-MAL       ,,9,01:51,29,392,"DIAZ, ALBERTO",P004213   ,Def Rebound (2),D,,,Unicaja Malaga,0
-RED       ,,5,01:45,29,395,"RADICEVIC, NIKOLA",P002561   ,Foul (2),CM,,,Crvena Zvezda mts Belgrade,0
-MAL       ,,9,01:45,29,396,"DIAZ, ALBERTO",P004213   ,Foul Drawn (1),RV,,,Unicaja Malaga,0
-RED       ,,6,01:45,29,397,"DANGUBIC, NEMANJA",P005942   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,10,01:45,29,398,"LAZIC, BRANKO",PLUO      ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,10,01:40,29,399,"LAZIC, BRANKO",PLUO      ,Foul (4),CM,,,Crvena Zvezda mts Belgrade,0
-MAL       ,,16,01:40,29,400,"NEDOVIC, NEMANJA",P000848   ,Foul Drawn (2),RV,,,Unicaja Malaga,0
-MAL       ,,16,01:40,29,401,"NEDOVIC, NEMANJA",P000848   ,Free Throw In (1/1 -  14 pt),FTM,60.0,48.0,Unicaja Malaga,0
-MAL       ,,16,01:40,29,402,"NEDOVIC, NEMANJA",P000848   ,Free Throw In (2/2 -  15 pt),FTM,61.0,48.0,Unicaja Malaga,0
-MAL       ,,12,01:40,29,403,"MILOSAVLJEVIC, DRAGAN",P002822   ,Assist (2),AS,,,Unicaja Malaga,0
-RED       ,,7,01:40,29,404,"DAVIDOVAC, DEJAN",P007960   ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,10,01:40,29,405,"LAZIC, BRANKO",PLUO      ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,13,01:28,29,406,"DOBRIC, OGNJEN",P004007   ,Turnover (2),TO,,,Crvena Zvezda mts Belgrade,0
-MAL       ,,16,01:12,29,407,"NEDOVIC, NEMANJA",P000848   ,Missed Two Pointer (2/3 -  15 pt),2FGA,,,Unicaja Malaga,0
-MAL       ,,12,01:10,29,408,"MILOSAVLJEVIC, DRAGAN",P002822   ,Off Rebound (1),O,,,Unicaja Malaga,0
-MAL       ,,23,01:00,29,409,"BROOKS, JEFF",P004117   ,Turnover (1),TO,,,Unicaja Malaga,0
-RED       ,,5,00:58,30,411,"RADICEVIC, NIKOLA",P002561   ,Steal (1),ST,,,Crvena Zvezda mts Belgrade,0
-RED       ,,7,00:54,30,412,"DAVIDOVAC, DEJAN",P007960   ,Two Pointer (1/1 -  2 pt),2FGM,61.0,50.0,Crvena Zvezda mts Belgrade,0
-RED       ,,5,00:51,30,413,"RADICEVIC, NIKOLA",P002561   ,Assist (2),AS,,,Crvena Zvezda mts Belgrade,0
-MAL       ,,12,00:34,30,414,"MILOSAVLJEVIC, DRAGAN",P002822   ,Missed Three Pointer (0/2 -  12 pt),3FGA,,,Unicaja Malaga,0
-RED       ,,,00:34,30,415,,          ,Def Rebound (5),D,,,Crvena Zvezda mts Belgrade,0
-RED       ,,51,00:09,30,416,"BJELICA, MILKO",PCHX      ,Missed Three Pointer (0/3 -  2 pt),3FGA,,,Crvena Zvezda mts Belgrade,0
-MAL       ,,12,00:07,30,417,"MILOSAVLJEVIC, DRAGAN",P002822   ,Def Rebound (3),D,,,Unicaja Malaga,0
-RED       ,,15,00:02,30,418,"APIC, DRAGAN",P003945   ,Foul (2),CM,,,Crvena Zvezda mts Belgrade,0
-MAL       ,,16,00:02,30,419,"NEDOVIC, NEMANJA",P000848   ,Foul Drawn (3),RV,,,Unicaja Malaga,0
-MAL       ,,23,00:02,30,420,"BROOKS, JEFF",P004117   ,Out,OUT,,,Unicaja Malaga,0
-MAL       ,,43,00:02,30,421,"SUAREZ, CARLOS",PJJS      ,In,IN,,,Unicaja Malaga,0
-MAL       ,,16,00:02,30,422,"NEDOVIC, NEMANJA",P000848   ,Free Throw In (3/3 -  16 pt),FTM,62.0,50.0,Unicaja Malaga,0
-MAL       ,,16,00:02,30,423,"NEDOVIC, NEMANJA",P000848   ,Free Throw In (4/4 -  17 pt),FTM,63.0,50.0,Unicaja Malaga,0
-RED       ,,7,00:01,30,424,"DAVIDOVAC, DEJAN",P007960   ,Turnover (1),TO,,,Crvena Zvezda mts Belgrade,0
-MAL       ,,43,00:01,30,425,"SUAREZ, CARLOS",PJJS      ,Steal (1),ST,,,Unicaja Malaga,0
-MAL       ,,43,00:01,30,426,"SUAREZ, CARLOS",PJJS      ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Unicaja Malaga,0
-          ,,,,31,428,,          ,End Period,EP,,,,0
-          ,,,,31,437,,          ,Begin Period,BP,,,,0
-MAL       ,,23,10:00,31,429,"BROOKS, JEFF",P004117   ,In,IN,,,Unicaja Malaga,0
-MAL       ,,43,10:00,31,430,"SUAREZ, CARLOS",PJJS      ,Out,OUT,,,Unicaja Malaga,0
-RED       ,,6,10:00,31,431,"DANGUBIC, NEMANJA",P005942   ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,13,10:00,31,432,"DOBRIC, OGNJEN",P004007   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,15,10:00,31,433,"APIC, DRAGAN",P003945   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,26,10:00,31,434,"LESSORT, MATHIAS",P003842   ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,32,10:00,31,435,"JOVANOVIC, NIKOLA",P003264   ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,51,10:00,31,436,"BJELICA, MILKO",PCHX      ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,7,09:52,31,438,"DAVIDOVAC, DEJAN",P007960   ,Foul (1),CM,,,Crvena Zvezda mts Belgrade,0
-MAL       ,,12,09:52,31,439,"MILOSAVLJEVIC, DRAGAN",P002822   ,Foul Drawn (3),RV,,,Unicaja Malaga,0
-MAL       ,,12,09:44,31,440,"MILOSAVLJEVIC, DRAGAN",P002822   ,Turnover (2),TO,,,Unicaja Malaga,0
-RED       ,,7,09:44,31,441,"DAVIDOVAC, DEJAN",P007960   ,Steal (1),ST,,,Crvena Zvezda mts Belgrade,0
-MAL       ,,9,09:36,31,442,"DIAZ, ALBERTO",P004213   ,Foul (2),CM,,,Unicaja Malaga,0
-RED       ,,32,09:36,31,443,"JOVANOVIC, NIKOLA",P003264   ,Foul Drawn (2),RV,,,Crvena Zvezda mts Belgrade,0
-MAL       ,,16,09:30,31,444,"NEDOVIC, NEMANJA",P000848   ,Foul (2),CM,,,Unicaja Malaga,0
-RED       ,,6,09:30,31,445,"DANGUBIC, NEMANJA",P005942   ,Foul Drawn (1),RV,,,Crvena Zvezda mts Belgrade,0
-RED       ,,6,09:30,31,446,"DANGUBIC, NEMANJA",P005942   ,Free Throw In (1/1 -  3 pt),FTM,63.0,51.0,Crvena Zvezda mts Belgrade,0
-RED       ,,6,09:30,31,447,"DANGUBIC, NEMANJA",P005942   ,Missed Free Throw (1/2 -  3 pt),FTA,,,Crvena Zvezda mts Belgrade,0
-RED       ,,32,09:30,31,448,"JOVANOVIC, NIKOLA",P003264   ,Off Rebound (1),O,,,Crvena Zvezda mts Belgrade,0
-RED       ,,6,09:13,31,449,"DANGUBIC, NEMANJA",P005942   ,Missed Three Pointer (0/3 -  3 pt),3FGA,,,Crvena Zvezda mts Belgrade,0
-MAL       ,,23,09:11,31,450,"BROOKS, JEFF",P004117   ,Def Rebound (3),D,,,Unicaja Malaga,0
-RED       ,,6,09:08,31,451,"DANGUBIC, NEMANJA",P005942   ,Foul (2),CM,,,Crvena Zvezda mts Belgrade,0
-MAL       ,,16,09:08,31,452,"NEDOVIC, NEMANJA",P000848   ,Foul Drawn (4),RV,,,Unicaja Malaga,0
-MAL       ,,40,09:01,31,453,"AUGUSTINE, JAMES",P001438   ,Two Pointer (2/5 -  5 pt),2FGM,65.0,51.0,Unicaja Malaga,0
-MAL       ,,16,09:01,31,454,"NEDOVIC, NEMANJA",P000848   ,Assist (4),AS,,,Unicaja Malaga,0
-RED       ,,5,09:01,31,455,"RADICEVIC, NIKOLA",P002561   ,Foul (3),CM,,,Crvena Zvezda mts Belgrade,0
-MAL       ,,40,09:01,31,456,"AUGUSTINE, JAMES",P001438   ,Foul Drawn (2),RV,,,Unicaja Malaga,0
-RED       ,,,09:01,31,457,,          ,Time Out (1),TOUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,32,09:01,31,458,"JOVANOVIC, NIKOLA",P003264   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,51,09:01,31,459,"BJELICA, MILKO",PCHX      ,In,IN,,,Crvena Zvezda mts Belgrade,0
-MAL       ,,40,09:01,31,460,"AUGUSTINE, JAMES",P001438   ,Free Throw In (2/3 -  6 pt),FTM,66.0,51.0,Unicaja Malaga,0
-RED       ,,26,08:48,32,462,"LESSORT, MATHIAS",P003842   ,Two Pointer (3/5 -  8 pt),2FGM,66.0,53.0,Crvena Zvezda mts Belgrade,0
-RED       ,,5,08:48,32,463,"RADICEVIC, NIKOLA",P002561   ,Assist (3),AS,,,Crvena Zvezda mts Belgrade,0
-MAL       ,,23,08:22,32,464,"BROOKS, JEFF",P004117   ,Two Pointer (3/4 -  6 pt),2FGM,68.0,53.0,Unicaja Malaga,0
-RED       ,,7,07:59,33,466,"DAVIDOVAC, DEJAN",P007960   ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,Crvena Zvezda mts Belgrade,0
-MAL       ,,,07:59,33,467,,          ,Def Rebound (6),D,,,Unicaja Malaga,0
-RED       ,,5,07:59,33,468,"RADICEVIC, NIKOLA",P002561   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,22,07:59,33,469,"ROCHESTIE, TAYLOR",P002972   ,In,IN,,,Crvena Zvezda mts Belgrade,0
-MAL       ,,40,07:40,33,470,"AUGUSTINE, JAMES",P001438   ,Two Pointer (3/6 -  8 pt),2FGM,70.0,53.0,Unicaja Malaga,0
-RED       ,,22,07:15,33,471,"ROCHESTIE, TAYLOR",P002972   ,Missed Two Pointer (3/7 -  10 pt),2FGA,,,Crvena Zvezda mts Belgrade,0
-MAL       ,,9,07:13,33,472,"DIAZ, ALBERTO",P004213   ,Def Rebound (3),D,,,Unicaja Malaga,0
-MAL       ,,16,07:07,33,473,"NEDOVIC, NEMANJA",P000848   ,Missed Three Pointer (3/6 -  17 pt),3FGA,,,Unicaja Malaga,0
-RED       ,,26,07:04,33,474,"LESSORT, MATHIAS",P003842   ,Def Rebound (2),D,,,Crvena Zvezda mts Belgrade,0
-RED       ,,6,07:00,33,475,"DANGUBIC, NEMANJA",P005942   ,Three Pointer (1/4 -  6 pt),3FGM,70.0,56.0,Crvena Zvezda mts Belgrade,0
-RED       ,,22,06:58,34,477,"ROCHESTIE, TAYLOR",P002972   ,Assist (6),AS,,,Crvena Zvezda mts Belgrade,0
-RED       ,,7,06:39,34,478,"DAVIDOVAC, DEJAN",P007960   ,Foul (2),CM,,,Crvena Zvezda mts Belgrade,0
-MAL       ,,40,06:39,34,479,"AUGUSTINE, JAMES",P001438   ,Foul Drawn (3),RV,,,Unicaja Malaga,0
-RED       ,,7,06:39,34,480,"DAVIDOVAC, DEJAN",P007960   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,10,06:39,34,481,"LAZIC, BRANKO",PLUO      ,In,IN,,,Crvena Zvezda mts Belgrade,0
-MAL       ,,40,06:24,34,482,"AUGUSTINE, JAMES",P001438   ,Missed Two Pointer (3/7 -  8 pt),2FGA,,,Unicaja Malaga,0
-MAL       ,,40,06:20,34,483,"AUGUSTINE, JAMES",P001438   ,Off Rebound (2),O,,,Unicaja Malaga,0
-MAL       ,,40,06:20,34,484,"AUGUSTINE, JAMES",P001438   ,Two Pointer (4/8 -  10 pt),2FGM,72.0,56.0,Unicaja Malaga,0
-RED       ,,51,06:05,34,485,"BJELICA, MILKO",PCHX      ,Missed Three Pointer (0/4 -  2 pt),3FGA,,,Crvena Zvezda mts Belgrade,0
-MAL       ,,9,06:02,34,486,"DIAZ, ALBERTO",P004213   ,Def Rebound (4),D,,,Unicaja Malaga,0
-MAL       ,,40,06:02,34,487,"AUGUSTINE, JAMES",P001438   ,Turnover (1),TO,,,Unicaja Malaga,0
-RED       ,,32,06:02,34,488,"JOVANOVIC, NIKOLA",P003264   ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,51,06:02,34,489,"BJELICA, MILKO",PCHX      ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,32,05:49,35,491,"JOVANOVIC, NIKOLA",P003264   ,Two Pointer (1/1 -  5 pt),2FGM,72.0,58.0,Crvena Zvezda mts Belgrade,0
-RED       ,,10,05:46,35,492,"LAZIC, BRANKO",PLUO      ,Assist (1),AS,,,Crvena Zvezda mts Belgrade,0
-MAL       ,,23,05:31,35,493,"BROOKS, JEFF",P004117   ,Two Pointer (4/5 -  8 pt),2FGM,74.0,58.0,Unicaja Malaga,0
-MAL       ,,12,05:28,35,494,"MILOSAVLJEVIC, DRAGAN",P002822   ,Assist (3),AS,,,Unicaja Malaga,0
-RED       ,,32,05:08,35,495,"JOVANOVIC, NIKOLA",P003264   ,Missed Three Pointer (1/2 -  5 pt),3FGA,,,Crvena Zvezda mts Belgrade,0
-RED       ,,6,05:06,35,496,"DANGUBIC, NEMANJA",P005942   ,Off Rebound (1),O,,,Crvena Zvezda mts Belgrade,0
-RED       ,,6,05:04,35,497,"DANGUBIC, NEMANJA",P005942   ,Two Pointer (2/2 -  8 pt),2FGM,74.0,60.0,Crvena Zvezda mts Belgrade,0
-MAL       ,,23,04:42,36,499,"BROOKS, JEFF",P004117   ,Missed Three Pointer (0/2 -  8 pt),3FGA,,,Unicaja Malaga,0
-RED       ,,32,04:38,36,500,"JOVANOVIC, NIKOLA",P003264   ,Def Rebound (3),D,,,Crvena Zvezda mts Belgrade,0
-RED       ,,22,04:33,36,501,"ROCHESTIE, TAYLOR",P002972   ,Missed Three Pointer (1/3 -  10 pt),3FGA,,,Crvena Zvezda mts Belgrade,0
-RED       ,,32,04:31,36,502,"JOVANOVIC, NIKOLA",P003264   ,Off Rebound (2),O,,,Crvena Zvezda mts Belgrade,0
-RED       ,,32,04:31,36,503,"JOVANOVIC, NIKOLA",P003264   ,Missed Two Pointer (1/2 -  5 pt),2FGA,,,Crvena Zvezda mts Belgrade,0
-RED       ,,32,04:31,36,504,"JOVANOVIC, NIKOLA",P003264   ,Off Rebound (3),O,,,Crvena Zvezda mts Belgrade,0
-MAL       ,,9,04:31,36,505,"DIAZ, ALBERTO",P004213   ,Foul (3),CM,,,Unicaja Malaga,0
-RED       ,,32,04:31,36,506,"JOVANOVIC, NIKOLA",P003264   ,Foul Drawn (3),RV,,,Crvena Zvezda mts Belgrade,0
-MAL       ,,40,04:31,36,507,"AUGUSTINE, JAMES",P001438   ,Out,OUT,,,Unicaja Malaga,0
-MAL       ,,44,04:31,36,508,"MUSLI, DEJAN",PLUR      ,In,IN,,,Unicaja Malaga,0
-RED       ,,6,04:31,36,509,"DANGUBIC, NEMANJA",P005942   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,13,04:31,36,510,"DOBRIC, OGNJEN",P004007   ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,32,04:31,36,511,"JOVANOVIC, NIKOLA",P003264   ,Missed Free Throw (0/3 -  5 pt),FTA,,,Crvena Zvezda mts Belgrade,0
-RED       ,,32,04:31,36,512,"JOVANOVIC, NIKOLA",P003264   ,Missed Free Throw (0/4 -  5 pt),FTA,,,Crvena Zvezda mts Belgrade,0
-MAL       ,,44,04:31,36,513,"MUSLI, DEJAN",PLUR      ,Def Rebound (1),D,,,Unicaja Malaga,0
-MAL       ,,16,04:09,36,514,"NEDOVIC, NEMANJA",P000848   ,Missed Three Pointer (3/7 -  17 pt),3FGA,,,Unicaja Malaga,0
-MAL       ,,23,04:07,36,515,"BROOKS, JEFF",P004117   ,Off Rebound (2),O,,,Unicaja Malaga,0
-MAL       ,,,03:55,37,517,,          ,Turnover (2),TO,,,Unicaja Malaga,0
-RED       ,,13,03:35,37,518,"DOBRIC, OGNJEN",P004007   ,Missed Three Pointer (1/4 -  5 pt),3FGA,,,Crvena Zvezda mts Belgrade,0
-RED       ,,32,03:30,37,519,"JOVANOVIC, NIKOLA",P003264   ,Off Rebound (4),O,,,Crvena Zvezda mts Belgrade,0
-RED       ,,32,03:22,37,520,"JOVANOVIC, NIKOLA",P003264   ,Missed Two Pointer (1/3 -  5 pt),2FGA,,,Crvena Zvezda mts Belgrade,0
-RED       ,,26,03:19,37,521,"LESSORT, MATHIAS",P003842   ,Off Rebound (4),O,,,Crvena Zvezda mts Belgrade,0
-RED       ,,26,03:18,37,522,"LESSORT, MATHIAS",P003842   ,Missed Two Pointer (3/6 -  8 pt),2FGA,,,Crvena Zvezda mts Belgrade,0
-RED       ,,26,03:16,37,523,"LESSORT, MATHIAS",P003842   ,Off Rebound (5),O,,,Crvena Zvezda mts Belgrade,0
-RED       ,,26,03:16,37,524,"LESSORT, MATHIAS",P003842   ,Two Pointer (4/7 -  10 pt),2FGM,74.0,62.0,Crvena Zvezda mts Belgrade,0
-RED       ,,22,03:02,37,525,"ROCHESTIE, TAYLOR",P002972   ,Foul (1),CM,,,Crvena Zvezda mts Belgrade,0
-MAL       ,,44,03:02,37,526,"MUSLI, DEJAN",PLUR      ,Foul Drawn (2),RV,,,Unicaja Malaga,0
-MAL       ,,10,03:02,37,527,"SALIN, SASU",P002820   ,In,IN,,,Unicaja Malaga,0
-MAL       ,,16,03:02,37,528,"NEDOVIC, NEMANJA",P000848   ,Out,OUT,,,Unicaja Malaga,0
-RED       ,,15,03:02,37,529,"APIC, DRAGAN",P003945   ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,26,03:02,37,530,"LESSORT, MATHIAS",P003842   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-MAL       ,,44,03:02,37,531,"MUSLI, DEJAN",PLUR      ,Missed Free Throw (0/3 -  2 pt),FTA,,,Unicaja Malaga,0
-MAL       ,,44,03:02,37,532,"MUSLI, DEJAN",PLUR      ,Free Throw In (1/4 -  3 pt),FTM,75.0,62.0,Unicaja Malaga,0
-MAL       ,,9,02:48,38,534,"DIAZ, ALBERTO",P004213   ,Foul (4),CM,,,Unicaja Malaga,0
-RED       ,,10,02:48,38,535,"LAZIC, BRANKO",PLUO      ,Foul Drawn (1),RV,,,Crvena Zvezda mts Belgrade,0
-MAL       ,,3,02:48,38,536,"MCCALLUM, RAY",P008002   ,In,IN,,,Unicaja Malaga,0
-MAL       ,,9,02:48,38,537,"DIAZ, ALBERTO",P004213   ,Out,OUT,,,Unicaja Malaga,0
-RED       ,,13,02:36,38,538,"DOBRIC, OGNJEN",P004007   ,Turnover (3),TO,,,Crvena Zvezda mts Belgrade,0
-MAL       ,,10,02:34,38,539,"SALIN, SASU",P002820   ,Steal (2),ST,,,Unicaja Malaga,0
-RED       ,,15,02:26,38,540,"APIC, DRAGAN",P003945   ,Foul (3),CM,,,Crvena Zvezda mts Belgrade,0
-MAL       ,,44,02:26,38,541,"MUSLI, DEJAN",PLUR      ,Foul Drawn (3),RV,,,Unicaja Malaga,0
-MAL       ,,6,02:26,38,542,"SOLUADE, MO",P004479   ,In,IN,,,Unicaja Malaga,0
-MAL       ,,12,02:26,38,543,"MILOSAVLJEVIC, DRAGAN",P002822   ,Out,OUT,,,Unicaja Malaga,0
-RED       ,,5,02:26,38,544,"RADICEVIC, NIKOLA",P002561   ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,7,02:26,38,545,"DAVIDOVAC, DEJAN",P007960   ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,10,02:26,38,546,"LAZIC, BRANKO",PLUO      ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,22,02:26,38,547,"ROCHESTIE, TAYLOR",P002972   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-MAL       ,,44,02:26,38,548,"MUSLI, DEJAN",PLUR      ,Missed Free Throw (1/5 -  3 pt),FTA,,,Unicaja Malaga,0
-MAL       ,,44,02:26,38,549,"MUSLI, DEJAN",PLUR      ,Missed Free Throw (1/6 -  3 pt),FTA,,,Unicaja Malaga,0
-RED       ,,32,02:26,38,550,"JOVANOVIC, NIKOLA",P003264   ,Def Rebound (4),D,,,Crvena Zvezda mts Belgrade,0
-RED       ,,7,02:11,38,551,"DAVIDOVAC, DEJAN",P007960   ,Turnover (2),TO,,,Crvena Zvezda mts Belgrade,0
-MAL       ,,44,01:59,39,553,"MUSLI, DEJAN",PLUR      ,Two Pointer (2/2 -  5 pt),2FGM,77.0,62.0,Unicaja Malaga,0
-MAL       ,,23,01:59,39,554,"BROOKS, JEFF",P004117   ,Assist (2),AS,,,Unicaja Malaga,0
-RED       ,,5,01:49,39,555,"RADICEVIC, NIKOLA",P002561   ,Two Pointer (2/4 -  4 pt),2FGM,77.0,64.0,Crvena Zvezda mts Belgrade,0
-MAL       ,,44,01:36,39,556,"MUSLI, DEJAN",PLUR      ,Two Pointer (3/3 -  7 pt),2FGM,79.0,64.0,Unicaja Malaga,0
-MAL       ,,3,01:24,39,557,"MCCALLUM, RAY",P008002   ,Foul (2),CM,,,Unicaja Malaga,0
-RED       ,,5,01:24,39,558,"RADICEVIC, NIKOLA",P002561   ,Foul Drawn (1),RV,,,Crvena Zvezda mts Belgrade,0
-RED       ,,5,01:24,39,559,"RADICEVIC, NIKOLA",P002561   ,Free Throw In (1/1 -  5 pt),FTM,79.0,65.0,Crvena Zvezda mts Belgrade,0
-RED       ,,5,01:24,39,560,"RADICEVIC, NIKOLA",P002561   ,Missed Free Throw (1/2 -  5 pt),FTA,,,Crvena Zvezda mts Belgrade,0
-RED       ,,5,01:24,39,561,"RADICEVIC, NIKOLA",P002561   ,Off Rebound (1),O,,,Crvena Zvezda mts Belgrade,0
-RED       ,,7,01:09,39,562,"DAVIDOVAC, DEJAN",P007960   ,Turnover (3),TO,,,Crvena Zvezda mts Belgrade,0
-MAL       ,,6,00:48,40,564,"SOLUADE, MO",P004479   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Unicaja Malaga,0
-MAL       ,,23,00:46,40,565,"BROOKS, JEFF",P004117   ,Off Rebound (3),O,,,Unicaja Malaga,0
-MAL       ,,23,00:43,40,566,"BROOKS, JEFF",P004117   ,Missed Two Pointer (4/6 -  8 pt),2FGA,,,Unicaja Malaga,0
-MAL       ,,44,00:39,40,567,"MUSLI, DEJAN",PLUR      ,Off Rebound (1),O,,,Unicaja Malaga,0
-MAL       ,,44,00:39,40,568,"MUSLI, DEJAN",PLUR      ,Missed Two Pointer (3/4 -  7 pt),2FGA,,,Unicaja Malaga,0
-RED       ,,5,00:35,40,569,"RADICEVIC, NIKOLA",P002561   ,Def Rebound (1),D,,,Crvena Zvezda mts Belgrade,0
-RED       ,,32,00:20,40,570,"JOVANOVIC, NIKOLA",P003264   ,Missed Three Pointer (1/3 -  5 pt),3FGA,,,Crvena Zvezda mts Belgrade,0
-RED       ,,13,00:18,40,571,"DOBRIC, OGNJEN",P004007   ,Off Rebound (2),O,,,Crvena Zvezda mts Belgrade,0
-RED       ,,13,00:16,40,572,"DOBRIC, OGNJEN",P004007   ,Missed Two Pointer (1/3 -  5 pt),2FGA,,,Crvena Zvezda mts Belgrade,0
-MAL       ,,23,00:14,40,573,"BROOKS, JEFF",P004117   ,Def Rebound (4),D,,,Unicaja Malaga,0
-MAL       ,,23,00:03,40,574,"BROOKS, JEFF",P004117   ,Missed Two Pointer (4/7 -  8 pt),2FGA,,,Unicaja Malaga,0
-RED       ,,13,00:02,40,575,"DOBRIC, OGNJEN",P004007   ,Def Rebound (3),D,,,Crvena Zvezda mts Belgrade,0
-          ,,,,41,578,,          ,End Game,EG,,,,0
+CODETEAM,COMMENT,DORSAL,MARKERTIME,MINUTE,NUMBEROFPLAY,PLAYER,PLAYER_ID,PLAYINFO,PLAYTYPE,POINTS_A,POINTS_B,TEAM,TYPE,home_team,home_team_code,away_team,away_team_code
+          ,,,,1,10,,          ,Begin Period,BP,,,,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,26,09:52,1,11,"LESSORT, MATHIAS",P003842   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,21,09:52,1,12,"WACZYNSKI, ADAM",PLDX      ,Def Rebound (1),D,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,23,09:28,1,13,"BROOKS, JEFF",P004117   ,Two Pointer (1/1 -  2 pt),2FGM,2.0,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,3,09:25,1,14,"MCCALLUM, RAY",P008002   ,Assist (1),AS,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,6,09:03,1,15,"DANGUBIC, NEMANJA",P005942   ,Turnover (1),TO,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,17,09:00,1,16,"SHERMADINI, GIORGI",P001386   ,Steal (1),ST,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,21,08:43,2,18,"WACZYNSKI, ADAM",PLDX      ,Two Pointer (1/1 -  2 pt),2FGM,4.0,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,22,08:17,2,19,"ROCHESTIE, TAYLOR",P002972   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,3,08:15,2,20,"MCCALLUM, RAY",P008002   ,Def Rebound (1),D,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,26,07:58,3,22,"LESSORT, MATHIAS",P003842   ,Foul (1),CM,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,17,07:58,3,23,"SHERMADINI, GIORGI",P001386   ,Foul Drawn (1),RV,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,10,07:41,3,24,"SALIN, SASU",P002820   ,Three Pointer (1/1 -  3 pt),3FGM,7.0,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,3,07:39,3,25,"MCCALLUM, RAY",P008002   ,Assist (2),AS,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,22,07:28,3,26,"ROCHESTIE, TAYLOR",P002972   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,23,07:26,3,27,"BROOKS, JEFF",P004117   ,Def Rebound (1),D,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,17,07:19,3,28,"SHERMADINI, GIORGI",P001386   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,14,07:16,3,29,"FELDEINE, JAMES",P005918   ,Def Rebound (1),D,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,14,07:12,3,30,"FELDEINE, JAMES",P005918   ,Two Pointer (1/1 -  2 pt),2FGM,7.0,2.0,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,10,06:40,4,32,"SALIN, SASU",P002820   ,Missed Two Pointer (0/1 -  3 pt),2FGA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,,06:40,4,33,,          ,Turnover (1),TO,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,5,06:40,4,34,"RADICEVIC, NIKOLA",P002561   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,22,06:40,4,35,"ROCHESTIE, TAYLOR",P002972   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,6,06:20,4,36,"DANGUBIC, NEMANJA",P005942   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,23,06:16,4,37,"BROOKS, JEFF",P004117   ,Def Rebound (2),D,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,10,06:11,4,38,"SALIN, SASU",P002820   ,Three Pointer (2/2 -  6 pt),3FGM,10.0,2.0,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,3,06:11,4,39,"MCCALLUM, RAY",P008002   ,Assist (3),AS,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,,06:11,4,40,,          ,Time Out (1),TOUT,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,6,06:11,4,41,"DANGUBIC, NEMANJA",P005942   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,10,06:11,4,42,"LAZIC, BRANKO",PLUO      ,In,IN,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,13,06:11,4,43,"DOBRIC, OGNJEN",P004007   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,14,06:11,4,44,"FELDEINE, JAMES",P005918   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,13,06:10,4,45,"DOBRIC, OGNJEN",P004007   ,Two Pointer (1/1 -  2 pt),2FGM,10.0,4.0,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,26,06:00,4,46,"LESSORT, MATHIAS",P003842   ,Assist (1),AS,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,5,05:59,5,48,"RADICEVIC, NIKOLA",P002561   ,Foul (1),CM,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,3,05:59,5,49,"MCCALLUM, RAY",P008002   ,Foul Drawn (1),RV,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,10,05:43,5,50,"SALIN, SASU",P002820   ,Three Pointer (3/3 -  9 pt),3FGM,13.0,4.0,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,21,05:41,5,51,"WACZYNSKI, ADAM",PLDX      ,Assist (1),AS,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,23,05:20,5,52,"BROOKS, JEFF",P004117   ,Foul (1),CM,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,51,05:20,5,53,"BJELICA, MILKO",PCHX      ,Foul Drawn (1),RV,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,51,05:20,5,54,"BJELICA, MILKO",PCHX      ,Missed Free Throw (0/1 -  0 pt),FTA,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,51,05:20,5,55,"BJELICA, MILKO",PCHX      ,Missed Free Throw (0/2 -  0 pt),FTA,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,21,05:17,5,56,"WACZYNSKI, ADAM",PLDX      ,Def Rebound (2),D,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,10,05:13,5,57,"LAZIC, BRANKO",PLUO      ,Foul (1),CM,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,3,05:13,5,58,"MCCALLUM, RAY",P008002   ,Foul Drawn (2),RV,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,32,05:13,5,59,"JOVANOVIC, NIKOLA",P003264   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,51,05:13,5,60,"BJELICA, MILKO",PCHX      ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,23,04:59,6,62,"BROOKS, JEFF",P004117   ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,21,04:57,6,63,"WACZYNSKI, ADAM",PLDX      ,Off Rebound (1),O,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,17,04:48,6,64,"SHERMADINI, GIORGI",P001386   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,23,04:44,6,65,"BROOKS, JEFF",P004117   ,Off Rebound (1),O,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,23,04:44,6,66,"BROOKS, JEFF",P004117   ,Two Pointer (2/2 -  4 pt),2FGM,15.0,4.0,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,10,04:34,6,67,"SALIN, SASU",P002820   ,Foul (1),CM,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,32,04:34,6,68,"JOVANOVIC, NIKOLA",P003264   ,Foul Drawn (1),RV,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,13,04:34,6,69,"DOBRIC, OGNJEN",P004007   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,14,04:34,6,70,"FELDEINE, JAMES",P005918   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,15,04:34,6,71,"APIC, DRAGAN",P003945   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,26,04:34,6,72,"LESSORT, MATHIAS",P003842   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,32,04:34,6,73,"JOVANOVIC, NIKOLA",P003264   ,Missed Free Throw (0/1 -  0 pt),FTA,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,32,04:34,6,74,"JOVANOVIC, NIKOLA",P003264   ,Missed Free Throw (0/2 -  0 pt),FTA,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,17,04:34,6,75,"SHERMADINI, GIORGI",P001386   ,Def Rebound (1),D,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,23,04:14,6,76,"BROOKS, JEFF",P004117   ,Missed Two Pointer (2/3 -  4 pt),2FGA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,14,04:11,6,77,"FELDEINE, JAMES",P005918   ,Def Rebound (2),D,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,5,04:03,6,78,"RADICEVIC, NIKOLA",P002561   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,3,04:01,6,79,"MCCALLUM, RAY",P008002   ,Def Rebound (2),D,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,3,03:58,7,81,"MCCALLUM, RAY",P008002   ,Turnover (1),TO,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,17,03:58,7,82,"SHERMADINI, GIORGI",P001386   ,Out,OUT,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,40,03:58,7,83,"AUGUSTINE, JAMES",P001438   ,In,IN,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,10,03:40,7,84,"LAZIC, BRANKO",PLUO      ,Turnover (1),TO,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,12,03:40,7,85,"MILOSAVLJEVIC, DRAGAN",P002822   ,In,IN,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,21,03:40,7,86,"WACZYNSKI, ADAM",PLDX      ,Out,OUT,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,12,03:15,7,87,"MILOSAVLJEVIC, DRAGAN",P002822   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,,03:15,7,88,,          ,Def Rebound (1),D,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,5,03:15,7,89,"RADICEVIC, NIKOLA",P002561   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,22,03:15,7,90,"ROCHESTIE, TAYLOR",P002972   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,15,03:05,7,91,"APIC, DRAGAN",P003945   ,Offensive Foul (1),OF,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,15,03:05,7,92,"APIC, DRAGAN",P003945   ,Turnover (1),TO,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,10,03:05,7,93,"SALIN, SASU",P002820   ,Foul Drawn (1),RV,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,23,03:05,7,94,"BROOKS, JEFF",P004117   ,Out,OUT,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,43,03:05,7,95,"SUAREZ, CARLOS",PJJS      ,In,IN,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,40,02:46,8,97,"AUGUSTINE, JAMES",P001438   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,32,02:39,8,98,"JOVANOVIC, NIKOLA",P003264   ,Def Rebound (1),D,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,15,02:33,8,99,"APIC, DRAGAN",P003945   ,Turnover (2),TO,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,10,02:31,8,100,"SALIN, SASU",P002820   ,Steal (1),ST,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,12,02:26,8,101,"MILOSAVLJEVIC, DRAGAN",P002822   ,Two Pointer (1/1 -  2 pt),2FGM,17.0,4.0,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,10,02:23,8,102,"SALIN, SASU",P002820   ,Assist (1),AS,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,14,02:09,8,103,"FELDEINE, JAMES",P005918   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,12,02:06,8,104,"MILOSAVLJEVIC, DRAGAN",P002822   ,Def Rebound (1),D,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,10,02:01,8,105,"SALIN, SASU",P002820   ,Three Pointer (4/4 -  12 pt),3FGM,20.0,4.0,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,12,01:58,9,107,"MILOSAVLJEVIC, DRAGAN",P002822   ,Assist (1),AS,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,14,01:28,9,108,"FELDEINE, JAMES",P005918   ,Three Pointer (1/1 -  5 pt),3FGM,20.0,7.0,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,32,01:25,9,109,"JOVANOVIC, NIKOLA",P003264   ,Assist (1),AS,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,12,01:20,9,110,"MILOSAVLJEVIC, DRAGAN",P002822   ,Two Pointer (2/2 -  4 pt),2FGM,22.0,7.0,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,43,01:18,9,111,"SUAREZ, CARLOS",PJJS      ,Assist (1),AS,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,32,01:00,9,112,"JOVANOVIC, NIKOLA",P003264   ,Three Pointer (1/1 -  3 pt),3FGM,22.0,10.0,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,22,00:57,10,114,"ROCHESTIE, TAYLOR",P002972   ,Assist (1),AS,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,10,00:40,10,115,"SALIN, SASU",P002820   ,Missed Three Pointer (4/5 -  12 pt),3FGA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,32,00:38,10,116,"JOVANOVIC, NIKOLA",P003264   ,Def Rebound (2),D,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,10,00:19,10,117,"LAZIC, BRANKO",PLUO      ,Two Pointer (1/1 -  2 pt),2FGM,22.0,12.0,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,40,00:01,10,118,"AUGUSTINE, JAMES",P001438   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+          ,,,,11,120,,          ,End Period,EP,,,,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+          ,,,,11,131,,          ,Begin Period,BP,,,,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,3,10:00,11,121,"MCCALLUM, RAY",P008002   ,Out,OUT,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,9,10:00,11,122,"DIAZ, ALBERTO",P004213   ,In,IN,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,10,10:00,11,123,"SALIN, SASU",P002820   ,Out,OUT,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,16,10:00,11,124,"NEDOVIC, NEMANJA",P000848   ,In,IN,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,6,10:00,11,125,"DANGUBIC, NEMANJA",P005942   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,10,10:00,11,126,"LAZIC, BRANKO",PLUO      ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,15,10:00,11,127,"APIC, DRAGAN",P003945   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,26,10:00,11,128,"LESSORT, MATHIAS",P003842   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,32,10:00,11,129,"JOVANOVIC, NIKOLA",P003264   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,51,10:00,11,130,"BJELICA, MILKO",PCHX      ,In,IN,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,12,09:45,11,132,"MILOSAVLJEVIC, DRAGAN",P002822   ,Two Pointer (3/3 -  6 pt),2FGM,24.0,12.0,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,16,09:40,11,133,"NEDOVIC, NEMANJA",P000848   ,Assist (1),AS,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,26,09:26,11,134,"LESSORT, MATHIAS",P003842   ,Two Pointer (1/2 -  2 pt),2FGM,24.0,14.0,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,14,09:09,11,135,"FELDEINE, JAMES",P005918   ,Foul (1),CM,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,40,09:09,11,136,"AUGUSTINE, JAMES",P001438   ,Foul Drawn (1),RV,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,13,09:09,11,137,"DOBRIC, OGNJEN",P004007   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,14,09:09,11,138,"FELDEINE, JAMES",P005918   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,40,09:09,11,139,"AUGUSTINE, JAMES",P001438   ,Free Throw In (1/1 -  1 pt),FTM,25.0,14.0,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,40,09:09,11,140,"AUGUSTINE, JAMES",P001438   ,Missed Free Throw (1/2 -  1 pt),FTA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,16,09:09,11,141,"NEDOVIC, NEMANJA",P000848   ,Assist (2),AS,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,40,09:09,11,142,"AUGUSTINE, JAMES",P001438   ,Off Rebound (1),O,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,16,08:53,12,144,"NEDOVIC, NEMANJA",P000848   ,Two Pointer (1/1 -  2 pt),2FGM,27.0,14.0,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,13,08:35,12,145,"DOBRIC, OGNJEN",P004007   ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,,08:35,12,146,,          ,Def Rebound (2),D,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,16,08:10,12,147,"NEDOVIC, NEMANJA",P000848   ,Three Pointer (1/1 -  5 pt),3FGM,30.0,14.0,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,40,08:10,12,148,"AUGUSTINE, JAMES",P001438   ,Assist (1),AS,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,,08:10,12,149,,          ,Time Out (1),TOUT,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,5,08:10,12,150,"RADICEVIC, NIKOLA",P002561   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,10,08:10,12,151,"LAZIC, BRANKO",PLUO      ,In,IN,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,13,08:10,12,152,"DOBRIC, OGNJEN",P004007   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,22,08:10,12,153,"ROCHESTIE, TAYLOR",P002972   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,5,07:47,13,156,"RADICEVIC, NIKOLA",P002561   ,Turnover (1),TO,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,12,07:44,13,157,"MILOSAVLJEVIC, DRAGAN",P002822   ,Steal (1),ST,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,40,07:34,13,158,"AUGUSTINE, JAMES",P001438   ,Two Pointer (1/3 -  3 pt),2FGM,32.0,14.0,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,16,07:32,13,159,"NEDOVIC, NEMANJA",P000848   ,Assist (3),AS,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,43,07:16,13,160,"SUAREZ, CARLOS",PJJS      ,Foul (1),CM,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,51,07:16,13,161,"BJELICA, MILKO",PCHX      ,Foul Drawn (2),RV,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,6,07:16,13,162,"DANGUBIC, NEMANJA",P005942   ,Two Pointer (1/1 -  2 pt),2FGM,32.0,16.0,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,12,06:39,14,164,"MILOSAVLJEVIC, DRAGAN",P002822   ,Two Pointer (4/4 -  8 pt),2FGM,34.0,16.0,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,40,06:37,14,165,"AUGUSTINE, JAMES",P001438   ,Assist (2),AS,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,5,06:15,14,166,"RADICEVIC, NIKOLA",P002561   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,5,06:15,14,167,"RADICEVIC, NIKOLA",P002561   ,Shot Rejected (1),AG,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,40,06:12,14,168,"AUGUSTINE, JAMES",P001438   ,Block (1),FV,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,40,06:12,14,169,"AUGUSTINE, JAMES",P001438   ,Def Rebound (1),D,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,40,05:55,15,171,"AUGUSTINE, JAMES",P001438   ,Missed Two Pointer (1/4 -  3 pt),2FGA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,6,05:53,15,172,"DANGUBIC, NEMANJA",P005942   ,Def Rebound (1),D,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,5,05:38,15,173,"RADICEVIC, NIKOLA",P002561   ,Two Pointer (1/3 -  2 pt),2FGM,34.0,18.0,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,16,05:24,15,174,"NEDOVIC, NEMANJA",P000848   ,Three Pointer (2/2 -  8 pt),3FGM,37.0,18.0,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,10,05:04,15,175,"LAZIC, BRANKO",PLUO      ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,9,05:01,15,176,"DIAZ, ALBERTO",P004213   ,Def Rebound (1),D,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,12,04:58,16,178,"MILOSAVLJEVIC, DRAGAN",P002822   ,Two Pointer (5/5 -  10 pt),2FGM,39.0,18.0,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,9,04:50,16,179,"DIAZ, ALBERTO",P004213   ,Assist (1),AS,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,10,04:45,16,180,"LAZIC, BRANKO",PLUO      ,Two Pointer (2/2 -  4 pt),2FGM,39.0,20.0,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,5,04:43,16,181,"RADICEVIC, NIKOLA",P002561   ,Assist (1),AS,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,9,04:26,16,182,"DIAZ, ALBERTO",P004213   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,43,04:26,16,183,"SUAREZ, CARLOS",PJJS      ,Off Rebound (1),O,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,51,04:26,16,184,"BJELICA, MILKO",PCHX      ,Foul (1),CM,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,43,04:26,16,185,"SUAREZ, CARLOS",PJJS      ,Foul Drawn (1),RV,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,5,04:26,16,186,"RADICEVIC, NIKOLA",P002561   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,10,04:26,16,187,"LAZIC, BRANKO",PLUO      ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,14,04:26,16,188,"FELDEINE, JAMES",P005918   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,15,04:26,16,189,"APIC, DRAGAN",P003945   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,22,04:26,16,190,"ROCHESTIE, TAYLOR",P002972   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,26,04:26,16,191,"LESSORT, MATHIAS",P003842   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,16,04:17,16,192,"NEDOVIC, NEMANJA",P000848   ,Missed Three Pointer (2/3 -  8 pt),3FGA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,51,04:15,16,193,"BJELICA, MILKO",PCHX      ,Def Rebound (1),D,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,22,04:05,16,194,"ROCHESTIE, TAYLOR",P002972   ,Three Pointer (1/2 -  3 pt),3FGM,39.0,23.0,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,6,03:42,17,196,"DANGUBIC, NEMANJA",P005942   ,Foul (1),CM,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,16,03:42,17,197,"NEDOVIC, NEMANJA",P000848   ,Foul Drawn (1),RV,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,23,03:42,17,198,"BROOKS, JEFF",P004117   ,In,IN,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,43,03:42,17,199,"SUAREZ, CARLOS",PJJS      ,Out,OUT,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,6,03:42,17,200,"DANGUBIC, NEMANJA",P005942   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,13,03:42,17,201,"DOBRIC, OGNJEN",P004007   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,16,03:31,17,202,"NEDOVIC, NEMANJA",P000848   ,Turnover (1),TO,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,13,03:29,17,203,"DOBRIC, OGNJEN",P004007   ,Turnover (1),TO,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,40,03:29,17,204,"AUGUSTINE, JAMES",P001438   ,Out,OUT,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,44,03:29,17,205,"MUSLI, DEJAN",PLUR      ,In,IN,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,44,03:12,17,206,"MUSLI, DEJAN",PLUR      ,Two Pointer (1/1 -  2 pt),2FGM,41.0,23.0,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,9,03:10,17,207,"DIAZ, ALBERTO",P004213   ,Assist (2),AS,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,14,02:55,18,209,"FELDEINE, JAMES",P005918   ,Two Pointer (2/3 -  7 pt),2FGM,41.0,25.0,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,51,02:36,18,210,"BJELICA, MILKO",PCHX      ,Foul (2),CM,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,44,02:36,18,211,"MUSLI, DEJAN",PLUR      ,Foul Drawn (1),RV,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,3,02:36,18,212,"MCCALLUM, RAY",P008002   ,In,IN,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,9,02:36,18,213,"DIAZ, ALBERTO",P004213   ,Out,OUT,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,16,02:36,18,214,"JANKOVIC, STEFAN",P007961   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,51,02:36,18,215,"BJELICA, MILKO",PCHX      ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,44,02:36,18,216,"MUSLI, DEJAN",PLUR      ,Missed Free Throw (0/1 -  2 pt),FTA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,44,02:36,18,217,"MUSLI, DEJAN",PLUR      ,Missed Free Throw (0/2 -  2 pt),FTA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,13,02:36,18,218,"DOBRIC, OGNJEN",P004007   ,Def Rebound (1),D,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,14,02:18,18,219,"FELDEINE, JAMES",P005918   ,Missed Three Pointer (1/2 -  7 pt),3FGA,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,12,02:16,18,220,"MILOSAVLJEVIC, DRAGAN",P002822   ,Def Rebound (2),D,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,13,02:16,18,221,"DOBRIC, OGNJEN",P004007   ,Foul (1),CM,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,12,02:16,18,222,"MILOSAVLJEVIC, DRAGAN",P002822   ,Foul Drawn (1),RV,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,12,02:16,18,223,"MILOSAVLJEVIC, DRAGAN",P002822   ,Free Throw In (1/1 -  11 pt),FTM,42.0,25.0,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,12,02:16,18,224,"MILOSAVLJEVIC, DRAGAN",P002822   ,Free Throw In (2/2 -  12 pt),FTM,43.0,25.0,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,15,02:01,18,225,"APIC, DRAGAN",P003945   ,Two Pointer (1/1 -  2 pt),2FGM,43.0,27.0,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,22,02:01,18,226,"ROCHESTIE, TAYLOR",P002972   ,Assist (2),AS,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,23,02:01,18,227,"BROOKS, JEFF",P004117   ,Foul (2),CM,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,15,02:01,18,228,"APIC, DRAGAN",P003945   ,Foul Drawn (1),RV,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,15,02:01,18,229,"APIC, DRAGAN",P003945   ,Missed Free Throw (0/1 -  2 pt),FTA,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,3,02:01,18,230,"MCCALLUM, RAY",P008002   ,Def Rebound (3),D,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,12,01:46,19,232,"MILOSAVLJEVIC, DRAGAN",P002822   ,Turnover (1),TO,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,16,01:24,19,233,"JANKOVIC, STEFAN",P007961   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,3,01:21,19,234,"MCCALLUM, RAY",P008002   ,Def Rebound (4),D,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,3,01:16,19,235,"MCCALLUM, RAY",P008002   ,Two Pointer (1/1 -  2 pt),2FGM,45.0,27.0,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,23,01:14,19,236,"BROOKS, JEFF",P004117   ,Assist (1),AS,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,16,00:56,20,238,"JANKOVIC, STEFAN",P007961   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,13,00:54,20,239,"DOBRIC, OGNJEN",P004007   ,Off Rebound (1),O,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,22,00:49,20,240,"ROCHESTIE, TAYLOR",P002972   ,Two Pointer (1/2 -  5 pt),2FGM,45.0,29.0,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,3,00:31,20,241,"MCCALLUM, RAY",P008002   ,Turnover (2),TO,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,15,00:31,20,242,"APIC, DRAGAN",P003945   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,16,00:31,20,243,"JANKOVIC, STEFAN",P007961   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,26,00:31,20,244,"LESSORT, MATHIAS",P003842   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,51,00:31,20,245,"BJELICA, MILKO",PCHX      ,In,IN,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,23,00:31,20,246,"BROOKS, JEFF",P004117   ,Out,OUT,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,43,00:31,20,247,"SUAREZ, CARLOS",PJJS      ,In,IN,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,16,00:10,20,248,"NEDOVIC, NEMANJA",P000848   ,Foul (1),CM,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,14,00:10,20,249,"FELDEINE, JAMES",P005918   ,Foul Drawn (1),RV,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,51,00:02,20,250,"BJELICA, MILKO",PCHX      ,Two Pointer (1/1 -  2 pt),2FGM,45.0,31.0,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,26,00:02,20,251,"LESSORT, MATHIAS",P003842   ,Assist (2),AS,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,,00:02,20,252,,          ,Time Out (1),TOUT,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,12,00:02,20,253,"MILOSAVLJEVIC, DRAGAN",P002822   ,Out,OUT,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,21,00:02,20,254,"WACZYNSKI, ADAM",PLDX      ,In,IN,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,5,00:02,20,255,"RADICEVIC, NIKOLA",P002561   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,6,00:02,20,256,"DANGUBIC, NEMANJA",P005942   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,10,00:02,20,257,"LAZIC, BRANKO",PLUO      ,In,IN,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,14,00:02,20,258,"FELDEINE, JAMES",P005918   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,22,00:02,20,259,"ROCHESTIE, TAYLOR",P002972   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,26,00:02,20,260,"LESSORT, MATHIAS",P003842   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,32,00:02,20,261,"JOVANOVIC, NIKOLA",P003264   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,51,00:02,20,262,"BJELICA, MILKO",PCHX      ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,16,00:01,20,263,"NEDOVIC, NEMANJA",P000848   ,Missed Three Pointer (2/4 -  8 pt),3FGA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+          ,,,,21,265,,          ,End Period,EP,,,,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+          ,,,,21,278,,          ,Begin Period,BP,,,,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,10,10:00,21,266,"SALIN, SASU",P002820   ,In,IN,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,16,10:00,21,267,"NEDOVIC, NEMANJA",P000848   ,Out,OUT,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,17,10:00,21,268,"SHERMADINI, GIORGI",P001386   ,In,IN,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,44,10:00,21,269,"MUSLI, DEJAN",PLUR      ,Out,OUT,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,5,10:00,21,270,"RADICEVIC, NIKOLA",P002561   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,6,10:00,21,271,"DANGUBIC, NEMANJA",P005942   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,13,10:00,21,272,"DOBRIC, OGNJEN",P004007   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,14,10:00,21,273,"FELDEINE, JAMES",P005918   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,22,10:00,21,274,"ROCHESTIE, TAYLOR",P002972   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,26,10:00,21,275,"LESSORT, MATHIAS",P003842   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,32,10:00,21,276,"JOVANOVIC, NIKOLA",P003264   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,51,10:00,21,277,"BJELICA, MILKO",PCHX      ,In,IN,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,10,09:48,21,279,"LAZIC, BRANKO",PLUO      ,Two Pointer (3/3 -  6 pt),2FGM,45.0,33.0,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,14,09:48,21,280,"FELDEINE, JAMES",P005918   ,Assist (1),AS,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,17,09:30,21,281,"SHERMADINI, GIORGI",P001386   ,Offensive Foul (1),OF,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,17,09:30,21,282,"SHERMADINI, GIORGI",P001386   ,Turnover (1),TO,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,26,09:30,21,283,"LESSORT, MATHIAS",P003842   ,Foul Drawn (1),RV,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,14,09:11,21,284,"FELDEINE, JAMES",P005918   ,Three Pointer (2/3 -  10 pt),3FGM,45.0,36.0,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,22,09:08,21,285,"ROCHESTIE, TAYLOR",P002972   ,Assist (3),AS,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,21,08:52,22,287,"WACZYNSKI, ADAM",PLDX      ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,22,08:50,22,288,"ROCHESTIE, TAYLOR",P002972   ,Def Rebound (1),D,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,22,08:43,22,289,"ROCHESTIE, TAYLOR",P002972   ,Missed Two Pointer (1/3 -  5 pt),2FGA,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,26,08:40,22,290,"LESSORT, MATHIAS",P003842   ,Off Rebound (1),O,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,26,08:38,22,291,"LESSORT, MATHIAS",P003842   ,Missed Two Pointer (1/3 -  2 pt),2FGA,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,43,08:36,22,292,"SUAREZ, CARLOS",PJJS      ,Def Rebound (1),D,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,17,08:32,22,293,"SHERMADINI, GIORGI",P001386   ,Missed Two Pointer (0/3 -  0 pt),2FGA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,17,08:32,22,294,"SHERMADINI, GIORGI",P001386   ,Shot Rejected (1),AG,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,26,08:32,22,295,"LESSORT, MATHIAS",P003842   ,Block (1),FV,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,10,08:32,22,296,"LAZIC, BRANKO",PLUO      ,Def Rebound (1),D,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,51,08:32,22,297,"BJELICA, MILKO",PCHX      ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,3,08:32,22,298,"MCCALLUM, RAY",P008002   ,Def Rebound (5),D,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,17,08:32,22,299,"SHERMADINI, GIORGI",P001386   ,Two Pointer (1/4 -  2 pt),2FGM,47.0,36.0,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,3,08:32,22,300,"MCCALLUM, RAY",P008002   ,Assist (4),AS,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,14,07:48,23,302,"FELDEINE, JAMES",P005918   ,Missed Two Pointer (2/4 -  10 pt),2FGA,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,26,07:46,23,303,"LESSORT, MATHIAS",P003842   ,Off Rebound (2),O,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,26,07:46,23,304,"LESSORT, MATHIAS",P003842   ,Two Pointer (2/4 -  4 pt),2FGM,47.0,38.0,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,3,07:37,23,305,"MCCALLUM, RAY",P008002   ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,26,07:37,23,306,"LESSORT, MATHIAS",P003842   ,Def Rebound (1),D,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,14,07:17,23,307,"FELDEINE, JAMES",P005918   ,Missed Two Pointer (2/5 -  10 pt),2FGA,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,26,07:15,23,308,"LESSORT, MATHIAS",P003842   ,Off Rebound (3),O,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,51,07:03,23,309,"BJELICA, MILKO",PCHX      ,Missed Three Pointer (0/2 -  2 pt),3FGA,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,21,07:01,23,310,"WACZYNSKI, ADAM",PLDX      ,Def Rebound (3),D,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,17,06:50,24,312,"SHERMADINI, GIORGI",P001386   ,Missed Two Pointer (1/5 -  2 pt),2FGA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,17,06:50,24,313,"SHERMADINI, GIORGI",P001386   ,Shot Rejected (2),AG,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,26,06:48,24,314,"LESSORT, MATHIAS",P003842   ,Block (2),FV,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,21,06:46,24,315,"WACZYNSKI, ADAM",PLDX      ,Off Rebound (2),O,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,21,06:44,24,316,"WACZYNSKI, ADAM",PLDX      ,Two Pointer (2/2 -  4 pt),2FGM,49.0,38.0,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,51,06:38,24,317,"BJELICA, MILKO",PCHX      ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,43,06:38,24,318,"SUAREZ, CARLOS",PJJS      ,Def Rebound (2),D,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,21,06:38,24,319,"WACZYNSKI, ADAM",PLDX      ,Missed Three Pointer (0/2 -  4 pt),3FGA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,43,06:38,24,320,"SUAREZ, CARLOS",PJJS      ,Off Rebound (2),O,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,3,06:38,24,321,"MCCALLUM, RAY",P008002   ,Two Pointer (2/2 -  4 pt),2FGM,51.0,38.0,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,22,06:06,24,322,"ROCHESTIE, TAYLOR",P002972   ,Two Pointer (2/4 -  7 pt),2FGM,51.0,40.0,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,10,06:04,24,323,"LAZIC, BRANKO",PLUO      ,Foul (2),CM,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,3,06:04,24,324,"MCCALLUM, RAY",P008002   ,Foul Drawn (3),RV,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,17,06:04,24,325,"SHERMADINI, GIORGI",P001386   ,Out,OUT,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,40,06:04,24,326,"AUGUSTINE, JAMES",P001438   ,In,IN,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,13,06:04,24,327,"DOBRIC, OGNJEN",P004007   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,14,06:04,24,328,"FELDEINE, JAMES",P005918   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,3,05:59,25,330,"MCCALLUM, RAY",P008002   ,Missed Two Pointer (2/3 -  4 pt),2FGA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,21,05:59,25,331,"WACZYNSKI, ADAM",PLDX      ,Off Rebound (3),O,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,21,05:59,25,332,"WACZYNSKI, ADAM",PLDX      ,Missed Two Pointer (2/3 -  4 pt),2FGA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,51,05:59,25,333,"BJELICA, MILKO",PCHX      ,Def Rebound (2),D,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,10,05:45,25,334,"LAZIC, BRANKO",PLUO      ,Offensive Foul (3),OF,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,10,05:45,25,335,"LAZIC, BRANKO",PLUO      ,Turnover (2),TO,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,10,05:45,25,336,"SALIN, SASU",P002820   ,Foul Drawn (2),RV,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,10,05:23,25,337,"SALIN, SASU",P002820   ,Three Pointer (5/6 -  15 pt),3FGM,54.0,40.0,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,40,05:06,25,338,"AUGUSTINE, JAMES",P001438   ,Foul (1),CM,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,26,05:06,25,339,"LESSORT, MATHIAS",P003842   ,Foul Drawn (2),RV,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,6,05:06,25,340,"DANGUBIC, NEMANJA",P005942   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,10,05:06,25,341,"LAZIC, BRANKO",PLUO      ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,26,05:06,25,343,"LESSORT, MATHIAS",P003842   ,Free Throw In (1/1 -  5 pt),FTM,54.0,41.0,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,26,05:06,25,344,"LESSORT, MATHIAS",P003842   ,Free Throw In (2/2 -  6 pt),FTM,54.0,42.0,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,22,05:06,25,345,"ROCHESTIE, TAYLOR",P002972   ,Assist (4),AS,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,10,04:57,26,347,"SALIN, SASU",P002820   ,Missed Three Pointer (5/7 -  15 pt),3FGA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,13,04:57,26,348,"DOBRIC, OGNJEN",P004007   ,Def Rebound (2),D,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,3,04:38,26,349,"MCCALLUM, RAY",P008002   ,Foul (1),CM,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,22,04:38,26,350,"ROCHESTIE, TAYLOR",P002972   ,Foul Drawn (1),RV,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+          ,,,04:38,26,351,,          ,TV Time Out (1),TOUT_TV,,,,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,3,04:38,26,352,"MCCALLUM, RAY",P008002   ,Out,OUT,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,9,04:38,26,353,"DIAZ, ALBERTO",P004213   ,In,IN,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,10,04:38,26,354,"SALIN, SASU",P002820   ,Out,OUT,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,16,04:38,26,355,"NEDOVIC, NEMANJA",P000848   ,In,IN,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,22,04:33,26,356,"ROCHESTIE, TAYLOR",P002972   ,Missed Two Pointer (2/5 -  7 pt),2FGA,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,40,04:33,26,357,"AUGUSTINE, JAMES",P001438   ,Def Rebound (2),D,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,9,04:06,26,358,"DIAZ, ALBERTO",P004213   ,Turnover (1),TO,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,26,04:04,26,359,"LESSORT, MATHIAS",P003842   ,Steal (1),ST,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,22,04:04,26,360,"ROCHESTIE, TAYLOR",P002972   ,Two Pointer (3/6 -  9 pt),2FGM,54.0,44.0,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,26,04:04,26,361,"LESSORT, MATHIAS",P003842   ,Assist (3),AS,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,9,04:04,26,362,"DIAZ, ALBERTO",P004213   ,Foul (1),CM,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,22,04:04,26,363,"ROCHESTIE, TAYLOR",P002972   ,Foul Drawn (2),RV,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,22,04:04,26,364,"ROCHESTIE, TAYLOR",P002972   ,Free Throw In (1/1 -  10 pt),FTM,54.0,45.0,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,16,03:49,27,366,"NEDOVIC, NEMANJA",P000848   ,Turnover (2),TO,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,13,03:28,27,367,"DOBRIC, OGNJEN",P004007   ,Three Pointer (1/2 -  5 pt),3FGM,54.0,48.0,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,22,03:26,27,368,"ROCHESTIE, TAYLOR",P002972   ,Assist (5),AS,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,16,03:18,27,369,"NEDOVIC, NEMANJA",P000848   ,Turnover (3),TO,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,22,03:16,27,370,"ROCHESTIE, TAYLOR",P002972   ,Steal (1),ST,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,13,03:13,27,371,"DOBRIC, OGNJEN",P004007   ,Missed Two Pointer (1/2 -  5 pt),2FGA,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,,03:13,27,372,,          ,Def Rebound (3),D,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,,03:13,27,373,,          ,Time Out (1),TOUT,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,12,03:13,27,374,"MILOSAVLJEVIC, DRAGAN",P002822   ,In,IN,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,21,03:13,27,375,"WACZYNSKI, ADAM",PLDX      ,Out,OUT,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,23,03:13,27,376,"BROOKS, JEFF",P004117   ,In,IN,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,43,03:13,27,377,"SUAREZ, CARLOS",PJJS      ,Out,OUT,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,16,03:00,27,378,"NEDOVIC, NEMANJA",P000848   ,Three Pointer (3/5 -  11 pt),3FGM,57.0,48.0,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,9,02:58,28,380,"DIAZ, ALBERTO",P004213   ,Assist (3),AS,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,13,02:40,28,381,"DOBRIC, OGNJEN",P004007   ,Missed Three Pointer (1/3 -  5 pt),3FGA,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,,02:40,28,382,,          ,Def Rebound (4),D,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,26,02:18,28,383,"LESSORT, MATHIAS",P003842   ,Foul (2),CM,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,12,02:18,28,384,"MILOSAVLJEVIC, DRAGAN",P002822   ,Foul Drawn (2),RV,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,5,02:18,28,385,"RADICEVIC, NIKOLA",P002561   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,15,02:18,28,386,"APIC, DRAGAN",P003945   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,22,02:18,28,387,"ROCHESTIE, TAYLOR",P002972   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,26,02:18,28,388,"LESSORT, MATHIAS",P003842   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,16,02:10,28,389,"NEDOVIC, NEMANJA",P000848   ,Two Pointer (2/2 -  13 pt),2FGM,59.0,48.0,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,6,01:51,29,391,"DANGUBIC, NEMANJA",P005942   ,Missed Three Pointer (0/2 -  2 pt),3FGA,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,9,01:51,29,392,"DIAZ, ALBERTO",P004213   ,Def Rebound (2),D,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,5,01:45,29,395,"RADICEVIC, NIKOLA",P002561   ,Foul (2),CM,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,9,01:45,29,396,"DIAZ, ALBERTO",P004213   ,Foul Drawn (1),RV,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,6,01:45,29,397,"DANGUBIC, NEMANJA",P005942   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,10,01:45,29,398,"LAZIC, BRANKO",PLUO      ,In,IN,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,10,01:40,29,399,"LAZIC, BRANKO",PLUO      ,Foul (4),CM,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,16,01:40,29,400,"NEDOVIC, NEMANJA",P000848   ,Foul Drawn (2),RV,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,16,01:40,29,401,"NEDOVIC, NEMANJA",P000848   ,Free Throw In (1/1 -  14 pt),FTM,60.0,48.0,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,16,01:40,29,402,"NEDOVIC, NEMANJA",P000848   ,Free Throw In (2/2 -  15 pt),FTM,61.0,48.0,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,12,01:40,29,403,"MILOSAVLJEVIC, DRAGAN",P002822   ,Assist (2),AS,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,7,01:40,29,404,"DAVIDOVAC, DEJAN",P007960   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,10,01:40,29,405,"LAZIC, BRANKO",PLUO      ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,13,01:28,29,406,"DOBRIC, OGNJEN",P004007   ,Turnover (2),TO,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,16,01:12,29,407,"NEDOVIC, NEMANJA",P000848   ,Missed Two Pointer (2/3 -  15 pt),2FGA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,12,01:10,29,408,"MILOSAVLJEVIC, DRAGAN",P002822   ,Off Rebound (1),O,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,23,01:00,29,409,"BROOKS, JEFF",P004117   ,Turnover (1),TO,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,5,00:58,30,411,"RADICEVIC, NIKOLA",P002561   ,Steal (1),ST,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,7,00:54,30,412,"DAVIDOVAC, DEJAN",P007960   ,Two Pointer (1/1 -  2 pt),2FGM,61.0,50.0,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,5,00:51,30,413,"RADICEVIC, NIKOLA",P002561   ,Assist (2),AS,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,12,00:34,30,414,"MILOSAVLJEVIC, DRAGAN",P002822   ,Missed Three Pointer (0/2 -  12 pt),3FGA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,,00:34,30,415,,          ,Def Rebound (5),D,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,51,00:09,30,416,"BJELICA, MILKO",PCHX      ,Missed Three Pointer (0/3 -  2 pt),3FGA,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,12,00:07,30,417,"MILOSAVLJEVIC, DRAGAN",P002822   ,Def Rebound (3),D,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,15,00:02,30,418,"APIC, DRAGAN",P003945   ,Foul (2),CM,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,16,00:02,30,419,"NEDOVIC, NEMANJA",P000848   ,Foul Drawn (3),RV,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,23,00:02,30,420,"BROOKS, JEFF",P004117   ,Out,OUT,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,43,00:02,30,421,"SUAREZ, CARLOS",PJJS      ,In,IN,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,16,00:02,30,422,"NEDOVIC, NEMANJA",P000848   ,Free Throw In (3/3 -  16 pt),FTM,62.0,50.0,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,16,00:02,30,423,"NEDOVIC, NEMANJA",P000848   ,Free Throw In (4/4 -  17 pt),FTM,63.0,50.0,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,7,00:01,30,424,"DAVIDOVAC, DEJAN",P007960   ,Turnover (1),TO,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,43,00:01,30,425,"SUAREZ, CARLOS",PJJS      ,Steal (1),ST,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,43,00:01,30,426,"SUAREZ, CARLOS",PJJS      ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+          ,,,,31,428,,          ,End Period,EP,,,,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+          ,,,,31,437,,          ,Begin Period,BP,,,,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,23,10:00,31,429,"BROOKS, JEFF",P004117   ,In,IN,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,43,10:00,31,430,"SUAREZ, CARLOS",PJJS      ,Out,OUT,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,6,10:00,31,431,"DANGUBIC, NEMANJA",P005942   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,13,10:00,31,432,"DOBRIC, OGNJEN",P004007   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,15,10:00,31,433,"APIC, DRAGAN",P003945   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,26,10:00,31,434,"LESSORT, MATHIAS",P003842   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,32,10:00,31,435,"JOVANOVIC, NIKOLA",P003264   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,51,10:00,31,436,"BJELICA, MILKO",PCHX      ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,7,09:52,31,438,"DAVIDOVAC, DEJAN",P007960   ,Foul (1),CM,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,12,09:52,31,439,"MILOSAVLJEVIC, DRAGAN",P002822   ,Foul Drawn (3),RV,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,12,09:44,31,440,"MILOSAVLJEVIC, DRAGAN",P002822   ,Turnover (2),TO,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,7,09:44,31,441,"DAVIDOVAC, DEJAN",P007960   ,Steal (1),ST,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,9,09:36,31,442,"DIAZ, ALBERTO",P004213   ,Foul (2),CM,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,32,09:36,31,443,"JOVANOVIC, NIKOLA",P003264   ,Foul Drawn (2),RV,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,16,09:30,31,444,"NEDOVIC, NEMANJA",P000848   ,Foul (2),CM,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,6,09:30,31,445,"DANGUBIC, NEMANJA",P005942   ,Foul Drawn (1),RV,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,6,09:30,31,446,"DANGUBIC, NEMANJA",P005942   ,Free Throw In (1/1 -  3 pt),FTM,63.0,51.0,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,6,09:30,31,447,"DANGUBIC, NEMANJA",P005942   ,Missed Free Throw (1/2 -  3 pt),FTA,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,32,09:30,31,448,"JOVANOVIC, NIKOLA",P003264   ,Off Rebound (1),O,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,6,09:13,31,449,"DANGUBIC, NEMANJA",P005942   ,Missed Three Pointer (0/3 -  3 pt),3FGA,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,23,09:11,31,450,"BROOKS, JEFF",P004117   ,Def Rebound (3),D,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,6,09:08,31,451,"DANGUBIC, NEMANJA",P005942   ,Foul (2),CM,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,16,09:08,31,452,"NEDOVIC, NEMANJA",P000848   ,Foul Drawn (4),RV,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,40,09:01,31,453,"AUGUSTINE, JAMES",P001438   ,Two Pointer (2/5 -  5 pt),2FGM,65.0,51.0,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,16,09:01,31,454,"NEDOVIC, NEMANJA",P000848   ,Assist (4),AS,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,5,09:01,31,455,"RADICEVIC, NIKOLA",P002561   ,Foul (3),CM,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,40,09:01,31,456,"AUGUSTINE, JAMES",P001438   ,Foul Drawn (2),RV,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,,09:01,31,457,,          ,Time Out (1),TOUT,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,32,09:01,31,458,"JOVANOVIC, NIKOLA",P003264   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,51,09:01,31,459,"BJELICA, MILKO",PCHX      ,In,IN,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,40,09:01,31,460,"AUGUSTINE, JAMES",P001438   ,Free Throw In (2/3 -  6 pt),FTM,66.0,51.0,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,26,08:48,32,462,"LESSORT, MATHIAS",P003842   ,Two Pointer (3/5 -  8 pt),2FGM,66.0,53.0,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,5,08:48,32,463,"RADICEVIC, NIKOLA",P002561   ,Assist (3),AS,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,23,08:22,32,464,"BROOKS, JEFF",P004117   ,Two Pointer (3/4 -  6 pt),2FGM,68.0,53.0,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,7,07:59,33,466,"DAVIDOVAC, DEJAN",P007960   ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,,07:59,33,467,,          ,Def Rebound (6),D,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,5,07:59,33,468,"RADICEVIC, NIKOLA",P002561   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,22,07:59,33,469,"ROCHESTIE, TAYLOR",P002972   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,40,07:40,33,470,"AUGUSTINE, JAMES",P001438   ,Two Pointer (3/6 -  8 pt),2FGM,70.0,53.0,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,22,07:15,33,471,"ROCHESTIE, TAYLOR",P002972   ,Missed Two Pointer (3/7 -  10 pt),2FGA,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,9,07:13,33,472,"DIAZ, ALBERTO",P004213   ,Def Rebound (3),D,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,16,07:07,33,473,"NEDOVIC, NEMANJA",P000848   ,Missed Three Pointer (3/6 -  17 pt),3FGA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,26,07:04,33,474,"LESSORT, MATHIAS",P003842   ,Def Rebound (2),D,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,6,07:00,33,475,"DANGUBIC, NEMANJA",P005942   ,Three Pointer (1/4 -  6 pt),3FGM,70.0,56.0,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,22,06:58,34,477,"ROCHESTIE, TAYLOR",P002972   ,Assist (6),AS,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,7,06:39,34,478,"DAVIDOVAC, DEJAN",P007960   ,Foul (2),CM,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,40,06:39,34,479,"AUGUSTINE, JAMES",P001438   ,Foul Drawn (3),RV,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,7,06:39,34,480,"DAVIDOVAC, DEJAN",P007960   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,10,06:39,34,481,"LAZIC, BRANKO",PLUO      ,In,IN,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,40,06:24,34,482,"AUGUSTINE, JAMES",P001438   ,Missed Two Pointer (3/7 -  8 pt),2FGA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,40,06:20,34,483,"AUGUSTINE, JAMES",P001438   ,Off Rebound (2),O,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,40,06:20,34,484,"AUGUSTINE, JAMES",P001438   ,Two Pointer (4/8 -  10 pt),2FGM,72.0,56.0,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,51,06:05,34,485,"BJELICA, MILKO",PCHX      ,Missed Three Pointer (0/4 -  2 pt),3FGA,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,9,06:02,34,486,"DIAZ, ALBERTO",P004213   ,Def Rebound (4),D,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,40,06:02,34,487,"AUGUSTINE, JAMES",P001438   ,Turnover (1),TO,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,32,06:02,34,488,"JOVANOVIC, NIKOLA",P003264   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,51,06:02,34,489,"BJELICA, MILKO",PCHX      ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,32,05:49,35,491,"JOVANOVIC, NIKOLA",P003264   ,Two Pointer (1/1 -  5 pt),2FGM,72.0,58.0,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,10,05:46,35,492,"LAZIC, BRANKO",PLUO      ,Assist (1),AS,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,23,05:31,35,493,"BROOKS, JEFF",P004117   ,Two Pointer (4/5 -  8 pt),2FGM,74.0,58.0,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,12,05:28,35,494,"MILOSAVLJEVIC, DRAGAN",P002822   ,Assist (3),AS,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,32,05:08,35,495,"JOVANOVIC, NIKOLA",P003264   ,Missed Three Pointer (1/2 -  5 pt),3FGA,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,6,05:06,35,496,"DANGUBIC, NEMANJA",P005942   ,Off Rebound (1),O,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,6,05:04,35,497,"DANGUBIC, NEMANJA",P005942   ,Two Pointer (2/2 -  8 pt),2FGM,74.0,60.0,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,23,04:42,36,499,"BROOKS, JEFF",P004117   ,Missed Three Pointer (0/2 -  8 pt),3FGA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,32,04:38,36,500,"JOVANOVIC, NIKOLA",P003264   ,Def Rebound (3),D,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,22,04:33,36,501,"ROCHESTIE, TAYLOR",P002972   ,Missed Three Pointer (1/3 -  10 pt),3FGA,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,32,04:31,36,502,"JOVANOVIC, NIKOLA",P003264   ,Off Rebound (2),O,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,32,04:31,36,503,"JOVANOVIC, NIKOLA",P003264   ,Missed Two Pointer (1/2 -  5 pt),2FGA,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,32,04:31,36,504,"JOVANOVIC, NIKOLA",P003264   ,Off Rebound (3),O,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,9,04:31,36,505,"DIAZ, ALBERTO",P004213   ,Foul (3),CM,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,32,04:31,36,506,"JOVANOVIC, NIKOLA",P003264   ,Foul Drawn (3),RV,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,40,04:31,36,507,"AUGUSTINE, JAMES",P001438   ,Out,OUT,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,44,04:31,36,508,"MUSLI, DEJAN",PLUR      ,In,IN,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,6,04:31,36,509,"DANGUBIC, NEMANJA",P005942   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,13,04:31,36,510,"DOBRIC, OGNJEN",P004007   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,32,04:31,36,511,"JOVANOVIC, NIKOLA",P003264   ,Missed Free Throw (0/3 -  5 pt),FTA,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,32,04:31,36,512,"JOVANOVIC, NIKOLA",P003264   ,Missed Free Throw (0/4 -  5 pt),FTA,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,44,04:31,36,513,"MUSLI, DEJAN",PLUR      ,Def Rebound (1),D,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,16,04:09,36,514,"NEDOVIC, NEMANJA",P000848   ,Missed Three Pointer (3/7 -  17 pt),3FGA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,23,04:07,36,515,"BROOKS, JEFF",P004117   ,Off Rebound (2),O,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,,03:55,37,517,,          ,Turnover (2),TO,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,13,03:35,37,518,"DOBRIC, OGNJEN",P004007   ,Missed Three Pointer (1/4 -  5 pt),3FGA,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,32,03:30,37,519,"JOVANOVIC, NIKOLA",P003264   ,Off Rebound (4),O,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,32,03:22,37,520,"JOVANOVIC, NIKOLA",P003264   ,Missed Two Pointer (1/3 -  5 pt),2FGA,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,26,03:19,37,521,"LESSORT, MATHIAS",P003842   ,Off Rebound (4),O,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,26,03:18,37,522,"LESSORT, MATHIAS",P003842   ,Missed Two Pointer (3/6 -  8 pt),2FGA,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,26,03:16,37,523,"LESSORT, MATHIAS",P003842   ,Off Rebound (5),O,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,26,03:16,37,524,"LESSORT, MATHIAS",P003842   ,Two Pointer (4/7 -  10 pt),2FGM,74.0,62.0,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,22,03:02,37,525,"ROCHESTIE, TAYLOR",P002972   ,Foul (1),CM,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,44,03:02,37,526,"MUSLI, DEJAN",PLUR      ,Foul Drawn (2),RV,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,10,03:02,37,527,"SALIN, SASU",P002820   ,In,IN,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,16,03:02,37,528,"NEDOVIC, NEMANJA",P000848   ,Out,OUT,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,15,03:02,37,529,"APIC, DRAGAN",P003945   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,26,03:02,37,530,"LESSORT, MATHIAS",P003842   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,44,03:02,37,531,"MUSLI, DEJAN",PLUR      ,Missed Free Throw (0/3 -  2 pt),FTA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,44,03:02,37,532,"MUSLI, DEJAN",PLUR      ,Free Throw In (1/4 -  3 pt),FTM,75.0,62.0,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,9,02:48,38,534,"DIAZ, ALBERTO",P004213   ,Foul (4),CM,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,10,02:48,38,535,"LAZIC, BRANKO",PLUO      ,Foul Drawn (1),RV,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,3,02:48,38,536,"MCCALLUM, RAY",P008002   ,In,IN,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,9,02:48,38,537,"DIAZ, ALBERTO",P004213   ,Out,OUT,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,13,02:36,38,538,"DOBRIC, OGNJEN",P004007   ,Turnover (3),TO,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,10,02:34,38,539,"SALIN, SASU",P002820   ,Steal (2),ST,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,15,02:26,38,540,"APIC, DRAGAN",P003945   ,Foul (3),CM,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,44,02:26,38,541,"MUSLI, DEJAN",PLUR      ,Foul Drawn (3),RV,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,6,02:26,38,542,"SOLUADE, MO",P004479   ,In,IN,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,12,02:26,38,543,"MILOSAVLJEVIC, DRAGAN",P002822   ,Out,OUT,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,5,02:26,38,544,"RADICEVIC, NIKOLA",P002561   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,7,02:26,38,545,"DAVIDOVAC, DEJAN",P007960   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,10,02:26,38,546,"LAZIC, BRANKO",PLUO      ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,22,02:26,38,547,"ROCHESTIE, TAYLOR",P002972   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,44,02:26,38,548,"MUSLI, DEJAN",PLUR      ,Missed Free Throw (1/5 -  3 pt),FTA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,44,02:26,38,549,"MUSLI, DEJAN",PLUR      ,Missed Free Throw (1/6 -  3 pt),FTA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,32,02:26,38,550,"JOVANOVIC, NIKOLA",P003264   ,Def Rebound (4),D,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,7,02:11,38,551,"DAVIDOVAC, DEJAN",P007960   ,Turnover (2),TO,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,44,01:59,39,553,"MUSLI, DEJAN",PLUR      ,Two Pointer (2/2 -  5 pt),2FGM,77.0,62.0,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,23,01:59,39,554,"BROOKS, JEFF",P004117   ,Assist (2),AS,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,5,01:49,39,555,"RADICEVIC, NIKOLA",P002561   ,Two Pointer (2/4 -  4 pt),2FGM,77.0,64.0,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,44,01:36,39,556,"MUSLI, DEJAN",PLUR      ,Two Pointer (3/3 -  7 pt),2FGM,79.0,64.0,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,3,01:24,39,557,"MCCALLUM, RAY",P008002   ,Foul (2),CM,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,5,01:24,39,558,"RADICEVIC, NIKOLA",P002561   ,Foul Drawn (1),RV,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,5,01:24,39,559,"RADICEVIC, NIKOLA",P002561   ,Free Throw In (1/1 -  5 pt),FTM,79.0,65.0,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,5,01:24,39,560,"RADICEVIC, NIKOLA",P002561   ,Missed Free Throw (1/2 -  5 pt),FTA,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,5,01:24,39,561,"RADICEVIC, NIKOLA",P002561   ,Off Rebound (1),O,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,7,01:09,39,562,"DAVIDOVAC, DEJAN",P007960   ,Turnover (3),TO,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,6,00:48,40,564,"SOLUADE, MO",P004479   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,23,00:46,40,565,"BROOKS, JEFF",P004117   ,Off Rebound (3),O,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,23,00:43,40,566,"BROOKS, JEFF",P004117   ,Missed Two Pointer (4/6 -  8 pt),2FGA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,44,00:39,40,567,"MUSLI, DEJAN",PLUR      ,Off Rebound (1),O,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,44,00:39,40,568,"MUSLI, DEJAN",PLUR      ,Missed Two Pointer (3/4 -  7 pt),2FGA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,5,00:35,40,569,"RADICEVIC, NIKOLA",P002561   ,Def Rebound (1),D,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,32,00:20,40,570,"JOVANOVIC, NIKOLA",P003264   ,Missed Three Pointer (1/3 -  5 pt),3FGA,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,13,00:18,40,571,"DOBRIC, OGNJEN",P004007   ,Off Rebound (2),O,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,13,00:16,40,572,"DOBRIC, OGNJEN",P004007   ,Missed Two Pointer (1/3 -  5 pt),2FGA,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,23,00:14,40,573,"BROOKS, JEFF",P004117   ,Def Rebound (4),D,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+MAL       ,,23,00:03,40,574,"BROOKS, JEFF",P004117   ,Missed Two Pointer (4/7 -  8 pt),2FGA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+RED       ,,13,00:02,40,575,"DOBRIC, OGNJEN",P004007   ,Def Rebound (3),D,,,Crvena Zvezda mts Belgrade,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED
+          ,,,,41,578,,          ,End Game,EG,,,,0,Unicaja Malaga,MAL,Crvena Zvezda mts Belgrade,RED

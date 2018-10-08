@@ -1,494 +1,494 @@
-CODETEAM,COMMENT,DORSAL,MARKERTIME,MINUTE,NUMBEROFPLAY,PLAYER,PLAYER_ID,PLAYINFO,PLAYTYPE,POINTS_A,POINTS_B,TEAM,TYPE
-          ,,,,1,2,,          ,Begin Period,BP,,,,0
-ULK       ,,21,09:42,1,3,"NUNNALLY, JAMES",P007400   ,Two Pointer (1/1 -  2 pt),2FGM,2.0,,Fenerbahce Dogus Istanbul,0
-ULK       ,,11,09:41,1,4,"WANAMAKER, BRAD",P005838   ,Assist (1),AS,,,Fenerbahce Dogus Istanbul,0
-CSK       ,,41,09:18,1,5,"KURBANOV, NIKITA",PJLX      ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,CSKA Moscow,0
-CSK       ,,42,09:15,1,6,"HINES, KYLE",P002812   ,Off Rebound (1),O,,,CSKA Moscow,0
-CSK       ,,42,09:15,1,7,"HINES, KYLE",P002812   ,Two Pointer (1/1 -  2 pt),2FGM,2.0,2.0,CSKA Moscow,0
-ULK       ,,11,09:03,1,8,"WANAMAKER, BRAD",P005838   ,Three Pointer (1/1 -  3 pt),3FGM,5.0,2.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,24,09:01,1,9,"VESELY, JAN",P000925   ,Assist (1),AS,,,Fenerbahce Dogus Istanbul,0
-CSK       ,,42,08:40,2,11,"HINES, KYLE",P002812   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,CSKA Moscow,0
-ULK       ,,1,08:38,2,12,"THOMPSON, JASON",P007998   ,Def Rebound (1),D,,,Fenerbahce Dogus Istanbul,0
-CSK       ,,21,08:24,2,13,"CLYBURN, WILL",P004888   ,Foul (1),CM,,,CSKA Moscow,0
-ULK       ,,24,08:24,2,14,"VESELY, JAN",P000925   ,Foul Drawn (1),RV,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,24,08:24,2,15,"VESELY, JAN",P000925   ,Missed Free Throw (0/1 -  0 pt),FTA,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,24,08:24,2,16,"VESELY, JAN",P000925   ,Missed Free Throw (0/2 -  0 pt),FTA,,,Fenerbahce Dogus Istanbul,0
-CSK       ,,21,08:24,2,17,"CLYBURN, WILL",P004888   ,Def Rebound (1),D,,,CSKA Moscow,0
-ULK       ,,21,08:17,2,18,"NUNNALLY, JAMES",P007400   ,Foul (1),CM,,,Fenerbahce Dogus Istanbul,0
-CSK       ,,21,08:17,2,19,"CLYBURN, WILL",P004888   ,Foul Drawn (1),RV,,,CSKA Moscow,0
-CSK       ,,21,08:12,2,20,"CLYBURN, WILL",P004888   ,Turnover (1),TO,,,CSKA Moscow,0
-ULK       ,,21,08:10,2,21,"NUNNALLY, JAMES",P007400   ,Steal (1),ST,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,33,07:56,3,23,"KALINIC, NIKOLA",P004866   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Fenerbahce Dogus Istanbul,0
-CSK       ,,21,07:54,3,24,"CLYBURN, WILL",P004888   ,Def Rebound (2),D,,,CSKA Moscow,0
-CSK       ,,21,07:37,3,25,"CLYBURN, WILL",P004888   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,CSKA Moscow,0
-ULK       ,,1,07:35,3,26,"THOMPSON, JASON",P007998   ,Def Rebound (2),D,,,Fenerbahce Dogus Istanbul,0
-CSK       ,,41,07:31,3,27,"KURBANOV, NIKITA",PJLX      ,Foul (1),CM,,,CSKA Moscow,0
-ULK       ,,21,07:31,3,28,"NUNNALLY, JAMES",P007400   ,Foul Drawn (1),RV,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,21,07:31,3,29,"NUNNALLY, JAMES",P007400   ,Free Throw In (1/1 -  3 pt),FTM,6.0,2.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,1,07:31,3,30,"THOMPSON, JASON",P007998   ,Assist (1),AS,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,21,07:31,3,31,"NUNNALLY, JAMES",P007400   ,Free Throw In (2/2 -  4 pt),FTM,7.0,2.0,Fenerbahce Dogus Istanbul,0
-CSK       ,,21,07:21,3,32,"CLYBURN, WILL",P004888   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,CSKA Moscow,0
-ULK       ,,24,07:19,3,33,"VESELY, JAN",P000925   ,Def Rebound (1),D,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,33,07:10,3,34,"KALINIC, NIKOLA",P004866   ,Two Pointer (1/1 -  2 pt),2FGM,9.0,2.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,24,07:10,3,35,"VESELY, JAN",P000925   ,Assist (2),AS,,,Fenerbahce Dogus Istanbul,0
-CSK       ,,,07:10,3,36,,          ,Time Out (1),TOUT,,,CSKA Moscow,0
-          ,,,07:10,3,37,,          ,TV Time Out (1),TOUT_TV,,,,0
-CSK       ,,1,07:10,3,38,"DE COLO, NANDO",P002100   ,In,IN,,,CSKA Moscow,0
-CSK       ,,13,07:10,3,39,"RODRIGUEZ, SERGIO",PCVM      ,Out,OUT,,,CSKA Moscow,0
-CSK       ,,21,07:10,3,40,"CLYBURN, WILL",P004888   ,Out,OUT,,,CSKA Moscow,0
-CSK       ,,22,07:10,3,41,"HIGGINS, CORY",P006450   ,In,IN,,,CSKA Moscow,0
-CSK       ,,20,06:49,4,43,"VORONTSEVICH, ANDREY",PLHI      ,Three Pointer (1/1 -  3 pt),3FGM,9.0,5.0,CSKA Moscow,0
-CSK       ,,42,06:47,4,44,"HINES, KYLE",P002812   ,Assist (1),AS,,,CSKA Moscow,0
-ULK       ,,33,06:27,4,45,"KALINIC, NIKOLA",P004866   ,Missed Three Pointer (0/2 -  2 pt),3FGA,,,Fenerbahce Dogus Istanbul,0
-CSK       ,,1,06:25,4,46,"DE COLO, NANDO",P002100   ,Def Rebound (1),D,,,CSKA Moscow,0
-CSK       ,,42,06:10,4,47,"HINES, KYLE",P002812   ,Two Pointer (2/3 -  4 pt),2FGM,9.0,7.0,CSKA Moscow,0
-CSK       ,,22,06:08,4,48,"HIGGINS, CORY",P006450   ,Assist (1),AS,,,CSKA Moscow,0
-ULK       ,,11,05:47,5,50,"WANAMAKER, BRAD",P005838   ,Turnover (1),TO,,,Fenerbahce Dogus Istanbul,0
-CSK       ,,1,05:46,5,51,"DE COLO, NANDO",P002100   ,Steal (1),ST,,,CSKA Moscow,0
-ULK       ,,11,05:32,5,52,"WANAMAKER, BRAD",P005838   ,Foul (1),CM,,,Fenerbahce Dogus Istanbul,0
-CSK       ,,42,05:32,5,53,"HINES, KYLE",P002812   ,Foul Drawn (1),RV,,,CSKA Moscow,0
-CSK       ,,1,05:28,5,54,"DE COLO, NANDO",P002100   ,Turnover (1),TO,,,CSKA Moscow,0
-ULK       ,,,05:28,5,55,,          ,Time Out (1),TOUT,,,Fenerbahce Dogus Istanbul,0
-CSK       ,,42,05:13,5,56,"HINES, KYLE",P002812   ,Foul (1),CM,,,CSKA Moscow,0
-ULK       ,,24,05:13,5,57,"VESELY, JAN",P000925   ,Foul Drawn (2),RV,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,11,04:57,6,59,"WANAMAKER, BRAD",P005838   ,Missed Three Pointer (1/2 -  3 pt),3FGA,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,24,04:56,6,60,"VESELY, JAN",P000925   ,Off Rebound (1),O,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,21,04:53,6,61,"NUNNALLY, JAMES",P007400   ,Two Pointer (2/2 -  6 pt),2FGM,11.0,7.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,21,04:53,6,62,"NUNNALLY, JAMES",P007400   ,Foul Drawn (2),RV,,,Fenerbahce Dogus Istanbul,0
-CSK       ,,20,04:53,6,63,"VORONTSEVICH, ANDREY",PLHI      ,Foul (1),CM,,,CSKA Moscow,0
-ULK       ,,21,04:53,6,64,"NUNNALLY, JAMES",P007400   ,Free Throw In (3/3 -  7 pt),FTM,12.0,7.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,1,04:39,6,65,"THOMPSON, JASON",P007998   ,Foul (1),CM,,,Fenerbahce Dogus Istanbul,0
-CSK       ,,1,04:39,6,66,"DE COLO, NANDO",P002100   ,Foul Drawn (1),RV,,,CSKA Moscow,0
-CSK       ,,42,04:33,6,67,"HINES, KYLE",P002812   ,Two Pointer (3/4 -  6 pt),2FGM,12.0,9.0,CSKA Moscow,0
-CSK       ,,1,04:31,6,68,"DE COLO, NANDO",P002100   ,Assist (1),AS,,,CSKA Moscow,0
-ULK       ,,11,04:21,6,69,"WANAMAKER, BRAD",P005838   ,Two Pointer (1/1 -  5 pt),2FGM,14.0,9.0,Fenerbahce Dogus Istanbul,0
-CSK       ,,1,04:07,6,70,"DE COLO, NANDO",P002100   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,CSKA Moscow,0
-ULK       ,,11,04:05,6,71,"WANAMAKER, BRAD",P005838   ,Def Rebound (1),D,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,21,03:54,7,73,"NUNNALLY, JAMES",P007400   ,Three Pointer (1/1 -  10 pt),3FGM,17.0,9.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,33,03:52,7,74,"KALINIC, NIKOLA",P004866   ,Assist (1),AS,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,21,03:44,7,75,"NUNNALLY, JAMES",P007400   ,Foul (2),CM,,,Fenerbahce Dogus Istanbul,0
-CSK       ,,41,03:44,7,76,"KURBANOV, NIKITA",PJLX      ,Foul Drawn (1),RV,,,CSKA Moscow,0
-ULK       ,,4,03:44,7,77,"MELLI, NICOLO",P002849   ,In,IN,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,24,03:44,7,78,"VESELY, JAN",P000925   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
-CSK       ,,41,03:44,7,79,"KURBANOV, NIKITA",PJLX      ,Free Throw In (1/1 -  1 pt),FTM,17.0,10.0,CSKA Moscow,0
-CSK       ,,41,03:44,7,80,"KURBANOV, NIKITA",PJLX      ,Free Throw In (2/2 -  2 pt),FTM,17.0,11.0,CSKA Moscow,0
-CSK       ,,1,03:44,7,81,"DE COLO, NANDO",P002100   ,Assist (2),AS,,,CSKA Moscow,0
-ULK       ,,21,03:44,7,82,"NUNNALLY, JAMES",P007400   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,70,03:44,7,83,"DATOME, LUIGI",PCCD      ,In,IN,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,70,03:27,7,84,"DATOME, LUIGI",PCCD      ,Turnover (1),TO,,,Fenerbahce Dogus Istanbul,0
-CSK       ,,41,03:26,7,85,"KURBANOV, NIKITA",PJLX      ,Steal (1),ST,,,CSKA Moscow,0
-CSK       ,,42,03:23,7,86,"HINES, KYLE",P002812   ,Two Pointer (4/5 -  8 pt),2FGM,17.0,13.0,CSKA Moscow,0
-ULK       ,,11,03:07,7,87,"WANAMAKER, BRAD",P005838   ,Missed Two Pointer (1/2 -  5 pt),2FGA,,,Fenerbahce Dogus Istanbul,0
-CSK       ,,20,03:05,7,88,"VORONTSEVICH, ANDREY",PLHI      ,Def Rebound (1),D,,,CSKA Moscow,0
-ULK       ,,70,02:45,8,90,"DATOME, LUIGI",PCCD      ,Block (1),FV,,,Fenerbahce Dogus Istanbul,0
-CSK       ,,1,02:43,8,91,"DE COLO, NANDO",P002100   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,CSKA Moscow,0
-CSK       ,,1,02:43,8,92,"DE COLO, NANDO",P002100   ,Shot Rejected (1),AG,,,CSKA Moscow,0
-ULK       ,,70,02:41,8,93,"DATOME, LUIGI",PCCD      ,Def Rebound (1),D,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,11,02:39,8,94,"WANAMAKER, BRAD",P005838   ,Missed Three Pointer (1/3 -  5 pt),3FGA,,,Fenerbahce Dogus Istanbul,0
-CSK       ,,20,02:38,8,95,"VORONTSEVICH, ANDREY",PLHI      ,Def Rebound (2),D,,,CSKA Moscow,0
-CSK       ,,20,02:19,8,96,"VORONTSEVICH, ANDREY",PLHI      ,Three Pointer (2/2 -  6 pt),3FGM,17.0,16.0,CSKA Moscow,0
-CSK       ,,1,02:17,8,97,"DE COLO, NANDO",P002100   ,Assist (3),AS,,,CSKA Moscow,0
-ULK       ,,70,02:03,8,98,"DATOME, LUIGI",PCCD      ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Fenerbahce Dogus Istanbul,0
-CSK       ,,22,02:01,8,99,"HIGGINS, CORY",P006450   ,Def Rebound (1),D,,,CSKA Moscow,0
-CSK       ,,22,01:51,9,101,"HIGGINS, CORY",P006450   ,Two Pointer (1/1 -  2 pt),2FGM,17.0,18.0,CSKA Moscow,0
-ULK       ,,11,01:28,9,102,"WANAMAKER, BRAD",P005838   ,Turnover (2),TO,,,Fenerbahce Dogus Istanbul,0
-CSK       ,,22,01:27,9,103,"HIGGINS, CORY",P006450   ,Steal (1),ST,,,CSKA Moscow,0
-CSK       ,,41,01:24,9,104,"KURBANOV, NIKITA",PJLX      ,Two Pointer (1/2 -  4 pt),2FGM,17.0,20.0,CSKA Moscow,0
-ULK       ,,4,01:06,9,105,"MELLI, NICOLO",P002849   ,Two Pointer (1/1 -  2 pt),2FGM,19.0,20.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,11,01:04,9,106,"WANAMAKER, BRAD",P005838   ,Assist (2),AS,,,Fenerbahce Dogus Istanbul,0
-CSK       ,,1,00:48,10,108,"DE COLO, NANDO",P002100   ,Two Pointer (1/3 -  2 pt),2FGM,19.0,22.0,CSKA Moscow,0
-CSK       ,,42,00:27,10,109,"HINES, KYLE",P002812   ,Foul (2),CM,,,CSKA Moscow,0
-ULK       ,,1,00:27,10,110,"THOMPSON, JASON",P007998   ,Foul Drawn (1),RV,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,11,00:27,10,111,"WANAMAKER, BRAD",P005838   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,16,00:27,10,112,"SLOUKAS, KOSTAS",P001926   ,In,IN,,,Fenerbahce Dogus Istanbul,0
-CSK       ,,3,00:27,10,113,"RUDD, VICTOR",P006536   ,In,IN,,,CSKA Moscow,0
-CSK       ,,13,00:27,10,114,"RODRIGUEZ, SERGIO",PCVM      ,In,IN,,,CSKA Moscow,0
-CSK       ,,20,00:27,10,115,"VORONTSEVICH, ANDREY",PLHI      ,Out,OUT,,,CSKA Moscow,0
-CSK       ,,41,00:27,10,116,"KURBANOV, NIKITA",PJLX      ,Out,OUT,,,CSKA Moscow,0
-CSK       ,,42,00:27,10,117,"HINES, KYLE",P002812   ,Out,OUT,,,CSKA Moscow,0
-CSK       ,,44,00:27,10,118,"HUNTER, OTHELLO",P005160   ,In,IN,,,CSKA Moscow,0
-ULK       ,,1,00:27,10,119,"THOMPSON, JASON",P007998   ,Missed Free Throw (0/1 -  0 pt),FTA,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,1,00:27,10,120,"THOMPSON, JASON",P007998   ,Free Throw In (1/2 -  1 pt),FTM,20.0,22.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,1,00:27,10,121,"THOMPSON, JASON",P007998   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,24,00:27,10,122,"VESELY, JAN",P000925   ,In,IN,,,Fenerbahce Dogus Istanbul,0
-CSK       ,,1,00:04,10,123,"DE COLO, NANDO",P002100   ,Three Pointer (1/1 -  5 pt),3FGM,20.0,25.0,CSKA Moscow,0
-CSK       ,,13,00:03,10,124,"RODRIGUEZ, SERGIO",PCVM      ,Assist (1),AS,,,CSKA Moscow,0
-ULK       ,,4,00:01,10,125,"MELLI, NICOLO",P002849   ,Three Pointer (1/1 -  5 pt),3FGM,23.0,25.0,Fenerbahce Dogus Istanbul,0
-          ,,,,11,127,,          ,End Period,EP,,,,0
-          ,,,,11,130,,          ,Begin Period,BP,,,,0
-ULK       ,,23,10:00,11,128,"GUDURIC, MARKO",P004004   ,In,IN,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,33,10:00,11,129,"KALINIC, NIKOLA",P004866   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
-CSK       ,,13,09:42,11,131,"RODRIGUEZ, SERGIO",PCVM      ,Two Pointer (1/1 -  2 pt),2FGM,23.0,27.0,CSKA Moscow,0
-CSK       ,,44,09:29,11,132,"HUNTER, OTHELLO",P005160   ,Foul (1),CM,,,CSKA Moscow,0
-ULK       ,,24,09:29,11,133,"VESELY, JAN",P000925   ,Foul Drawn (3),RV,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,16,09:24,11,134,"SLOUKAS, KOSTAS",P001926   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Fenerbahce Dogus Istanbul,0
-CSK       ,,13,09:22,11,135,"RODRIGUEZ, SERGIO",PCVM      ,Def Rebound (1),D,,,CSKA Moscow,0
-CSK       ,,13,09:12,11,136,"RODRIGUEZ, SERGIO",PCVM      ,Turnover (1),TO,,,CSKA Moscow,0
-ULK       ,,23,09:10,11,137,"GUDURIC, MARKO",P004004   ,Steal (1),ST,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,24,09:07,11,138,"VESELY, JAN",P000925   ,Two Pointer (1/1 -  2 pt),2FGM,25.0,27.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,23,09:05,11,139,"GUDURIC, MARKO",P004004   ,Assist (1),AS,,,Fenerbahce Dogus Istanbul,0
-CSK       ,,13,08:48,12,141,"RODRIGUEZ, SERGIO",PCVM      ,Turnover (2),TO,,,CSKA Moscow,0
-CSK       ,,44,08:37,12,142,"HUNTER, OTHELLO",P005160   ,Foul (2),CM,,,CSKA Moscow,0
-ULK       ,,16,08:37,12,143,"SLOUKAS, KOSTAS",P001926   ,Foul Drawn (1),RV,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,23,08:32,12,144,"GUDURIC, MARKO",P004004   ,Turnover (1),TO,,,Fenerbahce Dogus Istanbul,0
-CSK       ,,22,08:31,12,145,"HIGGINS, CORY",P006450   ,Steal (2),ST,,,CSKA Moscow,0
-ULK       ,,23,08:31,12,146,"GUDURIC, MARKO",P004004   ,Foul (1),CM,,,Fenerbahce Dogus Istanbul,0
-CSK       ,,22,08:31,12,147,"HIGGINS, CORY",P006450   ,Foul Drawn (1),RV,,,CSKA Moscow,0
-CSK       ,,13,08:14,12,148,"RODRIGUEZ, SERGIO",PCVM      ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,CSKA Moscow,0
-ULK       ,,16,08:10,12,149,"SLOUKAS, KOSTAS",P001926   ,Def Rebound (1),D,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,16,08:03,12,150,"SLOUKAS, KOSTAS",P001926   ,Turnover (1),TO,,,Fenerbahce Dogus Istanbul,0
-CSK       ,,44,08:01,12,151,"HUNTER, OTHELLO",P005160   ,Steal (1),ST,,,CSKA Moscow,0
-CSK       ,,1,07:48,13,153,"DE COLO, NANDO",P002100   ,Two Pointer (2/4 -  7 pt),2FGM,25.0,29.0,CSKA Moscow,0
-CSK       ,,13,07:47,13,154,"RODRIGUEZ, SERGIO",PCVM      ,Assist (2),AS,,,CSKA Moscow,0
-CSK       ,,3,07:30,13,155,"RUDD, VICTOR",P006536   ,Foul (1),CM,,,CSKA Moscow,0
-ULK       ,,4,07:30,13,156,"MELLI, NICOLO",P002849   ,Foul Drawn (1),RV,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,70,07:25,13,157,"DATOME, LUIGI",PCCD      ,Offensive Foul (1),OF,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,70,07:25,13,158,"DATOME, LUIGI",PCCD      ,Turnover (2),TO,,,Fenerbahce Dogus Istanbul,0
-CSK       ,,1,07:25,13,159,"DE COLO, NANDO",P002100   ,Foul Drawn (2),RV,,,CSKA Moscow,0
-ULK       ,,21,07:25,13,160,"NUNNALLY, JAMES",P007400   ,In,IN,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,23,07:25,13,161,"GUDURIC, MARKO",P004004   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
-CSK       ,,22,07:07,13,162,"HIGGINS, CORY",P006450   ,Two Pointer (2/2 -  4 pt),2FGM,25.0,31.0,CSKA Moscow,0
-CSK       ,,44,06:50,14,164,"HUNTER, OTHELLO",P005160   ,Foul (3),CM,,,CSKA Moscow,0
-ULK       ,,16,06:50,14,165,"SLOUKAS, KOSTAS",P001926   ,Foul Drawn (2),RV,,,Fenerbahce Dogus Istanbul,0
-CSK       ,,44,06:50,14,166,"HUNTER, OTHELLO",P005160   ,Technical Foul (4),CMT,,,CSKA Moscow,0
-CSK       ,,42,06:50,14,167,"HINES, KYLE",P002812   ,In,IN,,,CSKA Moscow,0
-CSK       ,,44,06:50,14,168,"HUNTER, OTHELLO",P005160   ,Out,OUT,,,CSKA Moscow,0
-ULK       ,,70,06:50,14,169,"DATOME, LUIGI",PCCD      ,Free Throw In (1/1 -  1 pt),FTM,26.0,31.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,21,06:39,14,170,"NUNNALLY, JAMES",P007400   ,Turnover (1),TO,,,Fenerbahce Dogus Istanbul,0
-CSK       ,,22,06:38,14,171,"HIGGINS, CORY",P006450   ,Steal (3),ST,,,CSKA Moscow,0
-CSK       ,,13,06:19,14,172,"RODRIGUEZ, SERGIO",PCVM      ,Three Pointer (1/2 -  5 pt),3FGM,26.0,34.0,CSKA Moscow,0
-ULK       ,,,06:19,14,173,,          ,Time Out (1),TOUT,,,Fenerbahce Dogus Istanbul,0
-          ,,,06:19,14,174,,          ,TV Time Out (2),TOUT_TV,,,,0
-ULK       ,,11,06:19,14,175,"WANAMAKER, BRAD",P005838   ,In,IN,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,21,06:19,14,176,"NUNNALLY, JAMES",P007400   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
-CSK       ,,42,06:09,14,177,"HINES, KYLE",P002812   ,Block (1),FV,,,CSKA Moscow,0
-ULK       ,,11,06:06,14,178,"WANAMAKER, BRAD",P005838   ,Missed Two Pointer (1/3 -  5 pt),2FGA,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,11,06:06,14,179,"WANAMAKER, BRAD",P005838   ,Shot Rejected (1),AG,,,Fenerbahce Dogus Istanbul,0
-CSK       ,,3,06:04,14,180,"RUDD, VICTOR",P006536   ,Def Rebound (1),D,,,CSKA Moscow,0
-CSK       ,,13,06:01,14,181,"RODRIGUEZ, SERGIO",PCVM      ,Missed Three Pointer (1/3 -  5 pt),3FGA,,,CSKA Moscow,0
-ULK       ,,70,06:00,14,182,"DATOME, LUIGI",PCCD      ,Def Rebound (2),D,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,70,05:48,15,184,"DATOME, LUIGI",PCCD      ,Missed Three Pointer (0/1 -  1 pt),3FGA,,,Fenerbahce Dogus Istanbul,0
-CSK       ,,3,05:47,15,185,"RUDD, VICTOR",P006536   ,Foul (2),CM,,,CSKA Moscow,0
-ULK       ,,4,05:47,15,186,"MELLI, NICOLO",P002849   ,Foul Drawn (2),RV,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,,05:47,15,187,,          ,Off Rebound (1),O,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,4,05:47,15,188,"MELLI, NICOLO",P002849   ,Missed Free Throw (0/1 -  5 pt),FTA,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,4,05:47,15,189,"MELLI, NICOLO",P002849   ,Free Throw In (1/2 -  6 pt),FTM,27.0,34.0,Fenerbahce Dogus Istanbul,0
-CSK       ,,3,05:47,15,190,"RUDD, VICTOR",P006536   ,Out,OUT,,,CSKA Moscow,0
-CSK       ,,20,05:47,15,191,"VORONTSEVICH, ANDREY",PLHI      ,In,IN,,,CSKA Moscow,0
-CSK       ,,1,05:36,15,192,"DE COLO, NANDO",P002100   ,Turnover (2),TO,,,CSKA Moscow,0
-ULK       ,,16,05:14,15,193,"SLOUKAS, KOSTAS",P001926   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,24,05:12,15,194,"VESELY, JAN",P000925   ,Off Rebound (2),O,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,11,05:00,16,196,"WANAMAKER, BRAD",P005838   ,Two Pointer (2/4 -  7 pt),2FGM,29.0,34.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,24,04:43,16,197,"VESELY, JAN",P000925   ,Foul (1),CM,,,Fenerbahce Dogus Istanbul,0
-CSK       ,,22,04:43,16,198,"HIGGINS, CORY",P006450   ,Foul Drawn (2),RV,,,CSKA Moscow,0
-CSK       ,,42,04:32,16,199,"HINES, KYLE",P002812   ,Two Pointer (5/6 -  10 pt),2FGM,29.0,36.0,CSKA Moscow,0
-CSK       ,,22,04:29,16,200,"HIGGINS, CORY",P006450   ,Assist (2),AS,,,CSKA Moscow,0
-ULK       ,,4,04:09,16,201,"MELLI, NICOLO",P002849   ,Two Pointer (2/2 -  8 pt),2FGM,31.0,36.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,16,03:47,17,203,"SLOUKAS, KOSTAS",P001926   ,Foul (1),CM,,,Fenerbahce Dogus Istanbul,0
-CSK       ,,42,03:47,17,204,"HINES, KYLE",P002812   ,Foul Drawn (2),RV,,,CSKA Moscow,0
-ULK       ,,16,03:47,17,205,"SLOUKAS, KOSTAS",P001926   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,21,03:47,17,206,"NUNNALLY, JAMES",P007400   ,In,IN,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,33,03:47,17,207,"KALINIC, NIKOLA",P004866   ,In,IN,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,70,03:47,17,208,"DATOME, LUIGI",PCCD      ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
-CSK       ,,22,03:36,17,209,"HIGGINS, CORY",P006450   ,Two Pointer (3/3 -  6 pt),2FGM,31.0,38.0,CSKA Moscow,0
-ULK       ,,33,03:21,17,210,"KALINIC, NIKOLA",P004866   ,Turnover (1),TO,,,Fenerbahce Dogus Istanbul,0
-CSK       ,,13,03:19,17,211,"RODRIGUEZ, SERGIO",PCVM      ,Steal (1),ST,,,CSKA Moscow,0
-ULK       ,,24,03:02,17,212,"VESELY, JAN",P000925   ,Block (1),FV,,,Fenerbahce Dogus Istanbul,0
-CSK       ,,22,03:01,17,253,"HIGGINS, CORY",P006450   ,Shot Rejected (1),AG,,,CSKA Moscow,0
-CSK       ,,22,03:01,17,252,"HIGGINS, CORY",P006450   ,Missed Two Pointer (3/4 -  6 pt),2FGA,,,CSKA Moscow,0
-CSK       ,,,03:00,17,214,,          ,Off Rebound (2),O,,,CSKA Moscow,0
-CSK       ,,21,03:00,17,215,"CLYBURN, WILL",P004888   ,In,IN,,,CSKA Moscow,0
-CSK       ,,22,03:00,17,216,"HIGGINS, CORY",P006450   ,Out,OUT,,,CSKA Moscow,0
-CSK       ,,1,02:57,18,218,"DE COLO, NANDO",P002100   ,Missed Three Pointer (1/2 -  7 pt),3FGA,,,CSKA Moscow,0
-ULK       ,,11,02:56,18,219,"WANAMAKER, BRAD",P005838   ,Def Rebound (2),D,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,33,02:37,18,220,"KALINIC, NIKOLA",P004866   ,Two Pointer (2/2 -  4 pt),2FGM,33.0,38.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,4,02:36,18,221,"MELLI, NICOLO",P002849   ,Assist (1),AS,,,Fenerbahce Dogus Istanbul,0
-CSK       ,,,02:36,18,222,,          ,Time Out (1),TOUT,,,CSKA Moscow,0
-CSK       ,,11,02:36,18,223,"ANTONOV, SEMEN",P004941   ,In,IN,,,CSKA Moscow,0
-CSK       ,,42,02:36,18,224,"HINES, KYLE",P002812   ,Out,OUT,,,CSKA Moscow,0
-CSK       ,,13,02:14,18,225,"RODRIGUEZ, SERGIO",PCVM      ,Missed Three Pointer (1/4 -  5 pt),3FGA,,,CSKA Moscow,0
-CSK       ,,21,02:09,18,226,"CLYBURN, WILL",P004888   ,Off Rebound (1),O,,,CSKA Moscow,0
-CSK       ,,20,02:06,18,227,"VORONTSEVICH, ANDREY",PLHI      ,Three Pointer (3/3 -  9 pt),3FGM,33.0,41.0,CSKA Moscow,0
-CSK       ,,21,02:04,18,228,"CLYBURN, WILL",P004888   ,Assist (1),AS,,,CSKA Moscow,0
-ULK       ,,33,01:50,19,230,"KALINIC, NIKOLA",P004866   ,Two Pointer (3/3 -  6 pt),2FGM,35.0,41.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,33,01:50,19,231,"KALINIC, NIKOLA",P004866   ,Foul Drawn (1),RV,,,Fenerbahce Dogus Istanbul,0
-CSK       ,,1,01:50,19,232,"DE COLO, NANDO",P002100   ,Foul (1),CM,,,CSKA Moscow,0
-ULK       ,,24,01:50,19,233,"VESELY, JAN",P000925   ,Assist (3),AS,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,33,01:50,19,234,"KALINIC, NIKOLA",P004866   ,Free Throw In (1/1 -  7 pt),FTM,36.0,41.0,Fenerbahce Dogus Istanbul,0
-CSK       ,,11,01:34,19,235,"ANTONOV, SEMEN",P004941   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,CSKA Moscow,0
-ULK       ,,24,01:32,19,236,"VESELY, JAN",P000925   ,Def Rebound (2),D,,,Fenerbahce Dogus Istanbul,0
-CSK       ,,1,01:13,19,237,"DE COLO, NANDO",P002100   ,Foul (2),CM,,,CSKA Moscow,0
-ULK       ,,24,01:13,19,238,"VESELY, JAN",P000925   ,Foul Drawn (4),RV,,,Fenerbahce Dogus Istanbul,0
-CSK       ,,1,01:13,19,239,"DE COLO, NANDO",P002100   ,Out,OUT,,,CSKA Moscow,0
-CSK       ,,22,01:13,19,240,"HIGGINS, CORY",P006450   ,In,IN,,,CSKA Moscow,0
-ULK       ,,24,01:13,19,241,"VESELY, JAN",P000925   ,Free Throw In (1/3 -  3 pt),FTM,37.0,41.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,24,01:13,19,242,"VESELY, JAN",P000925   ,Free Throw In (2/4 -  4 pt),FTM,38.0,41.0,Fenerbahce Dogus Istanbul,0
-CSK       ,,22,00:50,20,245,"HIGGINS, CORY",P006450   ,Missed Two Pointer (3/5 -  6 pt),2FGA,,,CSKA Moscow,0
-ULK       ,,,00:47,20,246,,          ,Def Rebound (1),D,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,4,00:30,20,247,"MELLI, NICOLO",P002849   ,Two Pointer (3/3 -  10 pt),2FGM,40.0,41.0,Fenerbahce Dogus Istanbul,0
-CSK       ,,13,00:07,20,248,"RODRIGUEZ, SERGIO",PCVM      ,Three Pointer (2/5 -  8 pt),3FGM,40.0,44.0,CSKA Moscow,0
-ULK       ,,11,00:01,20,249,"WANAMAKER, BRAD",P005838   ,Missed Two Pointer (2/5 -  7 pt),2FGA,,,Fenerbahce Dogus Istanbul,0
-          ,,,,21,251,,          ,End Period,EP,,,,0
-          ,,,,21,264,,          ,Begin Period,BP,,,,0
-ULK       ,,16,10:00,21,254,"SLOUKAS, KOSTAS",P001926   ,In,IN,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,21,10:00,21,255,"NUNNALLY, JAMES",P007400   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,33,10:00,21,256,"KALINIC, NIKOLA",P004866   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,70,10:00,21,257,"DATOME, LUIGI",PCCD      ,In,IN,,,Fenerbahce Dogus Istanbul,0
-CSK       ,,1,10:00,21,258,"DE COLO, NANDO",P002100   ,In,IN,,,CSKA Moscow,0
-CSK       ,,11,10:00,21,259,"ANTONOV, SEMEN",P004941   ,Out,OUT,,,CSKA Moscow,0
-CSK       ,,13,10:00,21,260,"RODRIGUEZ, SERGIO",PCVM      ,Out,OUT,,,CSKA Moscow,0
-CSK       ,,20,10:00,21,261,"VORONTSEVICH, ANDREY",PLHI      ,Out,OUT,,,CSKA Moscow,0
-CSK       ,,41,10:00,21,262,"KURBANOV, NIKITA",PJLX      ,In,IN,,,CSKA Moscow,0
-CSK       ,,42,10:00,21,263,"HINES, KYLE",P002812   ,In,IN,,,CSKA Moscow,0
-ULK       ,,70,09:58,21,265,"DATOME, LUIGI",PCCD      ,Two Pointer (1/2 -  3 pt),2FGM,42.0,44.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,11,09:58,21,266,"WANAMAKER, BRAD",P005838   ,Assist (3),AS,,,Fenerbahce Dogus Istanbul,0
-CSK       ,,21,09:32,21,267,"CLYBURN, WILL",P004888   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,CSKA Moscow,0
-ULK       ,,24,09:29,21,268,"VESELY, JAN",P000925   ,Def Rebound (3),D,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,24,09:15,21,269,"VESELY, JAN",P000925   ,Two Pointer (2/2 -  6 pt),2FGM,44.0,44.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,11,09:13,21,270,"WANAMAKER, BRAD",P005838   ,Assist (4),AS,,,Fenerbahce Dogus Istanbul,0
-CSK       ,,1,09:02,21,271,"DE COLO, NANDO",P002100   ,Missed Two Pointer (2/5 -  7 pt),2FGA,,,CSKA Moscow,0
-ULK       ,,4,09:00,21,272,"MELLI, NICOLO",P002849   ,Def Rebound (1),D,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,24,08:48,22,274,"VESELY, JAN",P000925   ,Two Pointer (3/3 -  8 pt),2FGM,46.0,44.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,70,08:46,22,275,"DATOME, LUIGI",PCCD      ,Assist (1),AS,,,Fenerbahce Dogus Istanbul,0
-CSK       ,,42,08:26,22,276,"HINES, KYLE",P002812   ,Two Pointer (6/7 -  12 pt),2FGM,46.0,46.0,CSKA Moscow,0
-CSK       ,,42,08:26,22,277,"HINES, KYLE",P002812   ,Foul Drawn (3),RV,,,CSKA Moscow,0
-ULK       ,,11,08:26,22,278,"WANAMAKER, BRAD",P005838   ,Foul (2),CM,,,Fenerbahce Dogus Istanbul,0
-CSK       ,,1,08:26,22,279,"DE COLO, NANDO",P002100   ,Assist (4),AS,,,CSKA Moscow,0
-CSK       ,,42,08:26,22,280,"HINES, KYLE",P002812   ,Free Throw In (1/1 -  13 pt),FTM,46.0,47.0,CSKA Moscow,0
-ULK       ,,16,08:11,22,281,"SLOUKAS, KOSTAS",P001926   ,Turnover (2),TO,,,Fenerbahce Dogus Istanbul,0
-CSK       ,,41,07:57,23,283,"KURBANOV, NIKITA",PJLX      ,Turnover (1),TO,,,CSKA Moscow,0
-ULK       ,,70,07:45,23,284,"DATOME, LUIGI",PCCD      ,Offensive Foul (2),OF,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,70,07:45,23,285,"DATOME, LUIGI",PCCD      ,Turnover (3),TO,,,Fenerbahce Dogus Istanbul,0
-CSK       ,,22,07:45,23,286,"HIGGINS, CORY",P006450   ,Foul Drawn (3),RV,,,CSKA Moscow,0
-CSK       ,,21,07:23,23,287,"CLYBURN, WILL",P004888   ,Missed Two Pointer (0/3 -  0 pt),2FGA,,,CSKA Moscow,0
-ULK       ,,24,07:21,23,288,"VESELY, JAN",P000925   ,Def Rebound (4),D,,,Fenerbahce Dogus Istanbul,0
-CSK       ,,22,07:05,23,289,"HIGGINS, CORY",P006450   ,Foul (1),CM,,,CSKA Moscow,0
-ULK       ,,24,07:05,23,290,"VESELY, JAN",P000925   ,Foul Drawn (5),RV,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,24,06:55,24,292,"VESELY, JAN",P000925   ,Two Pointer (4/4 -  10 pt),2FGM,48.0,47.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,16,06:54,24,293,"SLOUKAS, KOSTAS",P001926   ,Assist (1),AS,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,11,06:45,24,294,"WANAMAKER, BRAD",P005838   ,Foul (3),CM,,,Fenerbahce Dogus Istanbul,0
-CSK       ,,22,06:45,24,295,"HIGGINS, CORY",P006450   ,Foul Drawn (4),RV,,,CSKA Moscow,0
-CSK       ,,22,06:34,24,296,"HIGGINS, CORY",P006450   ,Two Pointer (4/6 -  8 pt),2FGM,48.0,49.0,CSKA Moscow,0
-ULK       ,,11,06:18,24,297,"WANAMAKER, BRAD",P005838   ,Turnover (3),TO,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,11,06:18,24,298,"WANAMAKER, BRAD",P005838   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,23,06:18,24,299,"GUDURIC, MARKO",P004004   ,In,IN,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,24,06:12,24,300,"VESELY, JAN",P000925   ,Foul (2),CM,,,Fenerbahce Dogus Istanbul,0
-CSK       ,,42,06:12,24,301,"HINES, KYLE",P002812   ,Foul Drawn (4),RV,,,CSKA Moscow,0
-CSK       ,,22,06:10,24,302,"HIGGINS, CORY",P006450   ,Turnover (1),TO,,,CSKA Moscow,0
-ULK       ,,23,05:52,25,304,"GUDURIC, MARKO",P004004   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Fenerbahce Dogus Istanbul,0
-CSK       ,,41,05:51,25,305,"KURBANOV, NIKITA",PJLX      ,Def Rebound (1),D,,,CSKA Moscow,0
-CSK       ,,1,05:43,25,306,"DE COLO, NANDO",P002100   ,Missed Two Pointer (2/6 -  7 pt),2FGA,,,CSKA Moscow,0
-ULK       ,,70,05:41,25,307,"DATOME, LUIGI",PCCD      ,Def Rebound (3),D,,,Fenerbahce Dogus Istanbul,0
-CSK       ,,41,05:35,25,308,"KURBANOV, NIKITA",PJLX      ,Foul (2),CM,,,CSKA Moscow,0
-ULK       ,,23,05:35,25,309,"GUDURIC, MARKO",P004004   ,Foul Drawn (1),RV,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,70,05:24,25,310,"DATOME, LUIGI",PCCD      ,Two Pointer (2/3 -  5 pt),2FGM,50.0,49.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,16,05:22,25,311,"SLOUKAS, KOSTAS",P001926   ,Assist (2),AS,,,Fenerbahce Dogus Istanbul,0
-CSK       ,,1,05:00,25,312,"DE COLO, NANDO",P002100   ,Two Pointer (3/7 -  9 pt),2FGM,50.0,51.0,CSKA Moscow,0
-ULK       ,,23,04:38,26,314,"GUDURIC, MARKO",P004004   ,Two Pointer (1/1 -  2 pt),2FGM,52.0,51.0,Fenerbahce Dogus Istanbul,0
-CSK       ,,22,04:24,26,315,"HIGGINS, CORY",P006450   ,Missed Three Pointer (0/1 -  8 pt),3FGA,,,CSKA Moscow,0
-ULK       ,,70,04:21,26,316,"DATOME, LUIGI",PCCD      ,Def Rebound (4),D,,,Fenerbahce Dogus Istanbul,0
-CSK       ,,42,04:06,26,317,"HINES, KYLE",P002812   ,Foul (3),CM,,,CSKA Moscow,0
-ULK       ,,24,04:06,26,318,"VESELY, JAN",P000925   ,Foul Drawn (6),RV,,,Fenerbahce Dogus Istanbul,0
-          ,,,04:06,26,319,,          ,TV Time Out (3),TOUT_TV,,,,0
-ULK       ,,33,04:06,26,320,"KALINIC, NIKOLA",P004866   ,In,IN,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,70,04:06,26,321,"DATOME, LUIGI",PCCD      ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
-CSK       ,,13,04:06,26,322,"RODRIGUEZ, SERGIO",PCVM      ,In,IN,,,CSKA Moscow,0
-CSK       ,,41,04:06,26,323,"KURBANOV, NIKITA",PJLX      ,Out,OUT,,,CSKA Moscow,0
-CSK       ,,42,04:06,26,324,"HINES, KYLE",P002812   ,Out,OUT,,,CSKA Moscow,0
-CSK       ,,44,04:06,26,325,"HUNTER, OTHELLO",P005160   ,In,IN,,,CSKA Moscow,0
-ULK       ,,24,04:06,26,326,"VESELY, JAN",P000925   ,Free Throw In (3/5 -  11 pt),FTM,53.0,51.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,23,04:06,26,327,"GUDURIC, MARKO",P004004   ,Assist (2),AS,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,24,04:06,26,328,"VESELY, JAN",P000925   ,Missed Free Throw (3/6 -  11 pt),FTA,,,Fenerbahce Dogus Istanbul,0
-CSK       ,,21,04:06,26,329,"CLYBURN, WILL",P004888   ,Def Rebound (3),D,,,CSKA Moscow,0
-CSK       ,,21,03:48,27,331,"CLYBURN, WILL",P004888   ,Missed Two Pointer (0/4 -  0 pt),2FGA,,,CSKA Moscow,0
-ULK       ,,,03:46,27,332,,          ,Def Rebound (2),D,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,1,03:46,27,333,"THOMPSON, JASON",P007998   ,In,IN,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,24,03:46,27,334,"VESELY, JAN",P000925   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
-CSK       ,,20,03:46,27,335,"VORONTSEVICH, ANDREY",PLHI      ,In,IN,,,CSKA Moscow,0
-CSK       ,,21,03:46,27,336,"CLYBURN, WILL",P004888   ,Out,OUT,,,CSKA Moscow,0
-CSK       ,,22,03:29,27,337,"HIGGINS, CORY",P006450   ,Foul (2),CM,,,CSKA Moscow,0
-ULK       ,,33,03:29,27,338,"KALINIC, NIKOLA",P004866   ,Foul Drawn (2),RV,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,4,03:19,27,339,"MELLI, NICOLO",P002849   ,Missed Three Pointer (1/2 -  10 pt),3FGA,,,Fenerbahce Dogus Istanbul,0
-CSK       ,,20,03:13,27,340,"VORONTSEVICH, ANDREY",PLHI      ,Def Rebound (3),D,,,CSKA Moscow,0
-CSK       ,,22,03:02,27,341,"HIGGINS, CORY",P006450   ,Missed Two Pointer (4/7 -  8 pt),2FGA,,,CSKA Moscow,0
-ULK       ,,4,02:59,28,343,"MELLI, NICOLO",P002849   ,Def Rebound (2),D,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,4,02:50,28,344,"MELLI, NICOLO",P002849   ,Offensive Foul (1),OF,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,4,02:50,28,345,"MELLI, NICOLO",P002849   ,Turnover (1),TO,,,Fenerbahce Dogus Istanbul,0
-CSK       ,,22,02:50,28,346,"HIGGINS, CORY",P006450   ,Foul Drawn (5),RV,,,CSKA Moscow,0
-ULK       ,,16,02:33,28,347,"SLOUKAS, KOSTAS",P001926   ,Foul (2),CM,,,Fenerbahce Dogus Istanbul,0
-CSK       ,,44,02:33,28,348,"HUNTER, OTHELLO",P005160   ,Foul Drawn (1),RV,,,CSKA Moscow,0
-CSK       ,,44,02:33,28,349,"HUNTER, OTHELLO",P005160   ,Missed Free Throw (0/1 -  0 pt),FTA,,,CSKA Moscow,0
-CSK       ,,44,02:33,28,350,"HUNTER, OTHELLO",P005160   ,Free Throw In (1/2 -  1 pt),FTM,53.0,52.0,CSKA Moscow,0
-CSK       ,,13,02:33,28,351,"RODRIGUEZ, SERGIO",PCVM      ,Assist (3),AS,,,CSKA Moscow,0
-CSK       ,,1,02:33,28,352,"DE COLO, NANDO",P002100   ,Out,OUT,,,CSKA Moscow,0
-CSK       ,,9,02:33,28,353,"WESTERMANN, LEO",P002543   ,In,IN,,,CSKA Moscow,0
-ULK       ,,1,02:16,28,354,"THOMPSON, JASON",P007998   ,Two Pointer (1/1 -  3 pt),2FGM,55.0,52.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,1,02:16,28,355,"THOMPSON, JASON",P007998   ,Foul Drawn (2),RV,,,Fenerbahce Dogus Istanbul,0
-CSK       ,,9,02:16,28,356,"WESTERMANN, LEO",P002543   ,Foul (1),CM,,,CSKA Moscow,0
-ULK       ,,33,02:16,28,357,"KALINIC, NIKOLA",P004866   ,Assist (2),AS,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,1,02:16,28,358,"THOMPSON, JASON",P007998   ,Free Throw In (2/3 -  4 pt),FTM,56.0,52.0,Fenerbahce Dogus Istanbul,0
-CSK       ,,13,02:05,28,359,"RODRIGUEZ, SERGIO",PCVM      ,Missed Three Pointer (2/6 -  8 pt),3FGA,,,CSKA Moscow,0
-ULK       ,,16,02:02,28,360,"SLOUKAS, KOSTAS",P001926   ,Def Rebound (2),D,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,23,01:45,29,362,"GUDURIC, MARKO",P004004   ,Missed Three Pointer (0/2 -  2 pt),3FGA,,,Fenerbahce Dogus Istanbul,0
-CSK       ,,13,01:43,29,363,"RODRIGUEZ, SERGIO",PCVM      ,Def Rebound (2),D,,,CSKA Moscow,0
-CSK       ,,44,01:25,29,364,"HUNTER, OTHELLO",P005160   ,Missed Two Pointer (0/1 -  1 pt),2FGA,,,CSKA Moscow,0
-CSK       ,,44,01:24,29,365,"HUNTER, OTHELLO",P005160   ,Off Rebound (1),O,,,CSKA Moscow,0
-CSK       ,,44,01:22,29,366,"HUNTER, OTHELLO",P005160   ,Two Pointer (1/2 -  3 pt),2FGM,56.0,54.0,CSKA Moscow,0
-ULK       ,,23,01:00,29,367,"GUDURIC, MARKO",P004004   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,Fenerbahce Dogus Istanbul,0
-CSK       ,,44,00:58,30,369,"HUNTER, OTHELLO",P005160   ,Def Rebound (1),D,,,CSKA Moscow,0
-CSK       ,,13,00:36,30,370,"RODRIGUEZ, SERGIO",PCVM      ,Missed Two Pointer (1/2 -  8 pt),2FGA,,,CSKA Moscow,0
-ULK       ,,16,00:34,30,371,"SLOUKAS, KOSTAS",P001926   ,Def Rebound (3),D,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,16,00:33,30,372,"SLOUKAS, KOSTAS",P001926   ,Turnover (3),TO,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,21,00:33,30,373,"NUNNALLY, JAMES",P007400   ,In,IN,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,23,00:33,30,374,"GUDURIC, MARKO",P004004   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
-CSK       ,,22,00:33,30,375,"HIGGINS, CORY",P006450   ,Out,OUT,,,CSKA Moscow,0
-CSK       ,,41,00:33,30,376,"KURBANOV, NIKITA",PJLX      ,In,IN,,,CSKA Moscow,0
-CSK       ,,9,00:25,30,377,"WESTERMANN, LEO",P002543   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,CSKA Moscow,0
-ULK       ,,1,00:22,30,378,"THOMPSON, JASON",P007998   ,Def Rebound (3),D,,,Fenerbahce Dogus Istanbul,0
-CSK       ,,13,00:13,30,379,"RODRIGUEZ, SERGIO",PCVM      ,Foul (1),CM,,,CSKA Moscow,0
-ULK       ,,16,00:13,30,380,"SLOUKAS, KOSTAS",P001926   ,Foul Drawn (3),RV,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,16,00:13,30,381,"SLOUKAS, KOSTAS",P001926   ,Free Throw In (1/1 -  1 pt),FTM,57.0,54.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,16,00:13,30,382,"SLOUKAS, KOSTAS",P001926   ,Free Throw In (2/2 -  2 pt),FTM,58.0,54.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,16,00:13,30,383,"SLOUKAS, KOSTAS",P001926   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,23,00:13,30,384,"GUDURIC, MARKO",P004004   ,In,IN,,,Fenerbahce Dogus Istanbul,0
-CSK       ,,13,00:02,30,385,"RODRIGUEZ, SERGIO",PCVM      ,Missed Three Pointer (2/7 -  8 pt),3FGA,,,CSKA Moscow,0
-ULK       ,,23,00:01,30,386,"GUDURIC, MARKO",P004004   ,Def Rebound (1),D,,,Fenerbahce Dogus Istanbul,0
-          ,,,,31,388,,          ,End Period,EP,,,,0
-          ,,,,31,391,,          ,Begin Period,BP,,,,0
-CSK       ,,1,10:00,31,389,"DE COLO, NANDO",P002100   ,In,IN,,,CSKA Moscow,0
-CSK       ,,9,10:00,31,390,"WESTERMANN, LEO",P002543   ,Out,OUT,,,CSKA Moscow,0
-CSK       ,,1,09:44,31,392,"DE COLO, NANDO",P002100   ,Missed Three Pointer (1/3 -  9 pt),3FGA,,,CSKA Moscow,0
-CSK       ,,20,09:42,31,393,"VORONTSEVICH, ANDREY",PLHI      ,Off Rebound (1),O,,,CSKA Moscow,0
-ULK       ,,4,09:42,31,394,"MELLI, NICOLO",P002849   ,Foul (2),CM,,,Fenerbahce Dogus Istanbul,0
-CSK       ,,20,09:42,31,395,"VORONTSEVICH, ANDREY",PLHI      ,Foul Drawn (1),RV,,,CSKA Moscow,0
-CSK       ,,20,09:32,31,396,"VORONTSEVICH, ANDREY",PLHI      ,Two Pointer (1/1 -  11 pt),2FGM,58.0,56.0,CSKA Moscow,0
-CSK       ,,41,09:31,31,397,"KURBANOV, NIKITA",PJLX      ,Assist (1),AS,,,CSKA Moscow,0
-ULK       ,,23,09:13,31,398,"GUDURIC, MARKO",P004004   ,Turnover (2),TO,,,Fenerbahce Dogus Istanbul,0
-CSK       ,,13,08:58,32,400,"RODRIGUEZ, SERGIO",PCVM      ,Two Pointer (2/3 -  10 pt),2FGM,58.0,58.0,CSKA Moscow,0
-CSK       ,,41,08:56,32,401,"KURBANOV, NIKITA",PJLX      ,Assist (2),AS,,,CSKA Moscow,0
-ULK       ,,33,08:28,32,402,"KALINIC, NIKOLA",P004866   ,Turnover (2),TO,,,Fenerbahce Dogus Istanbul,0
-CSK       ,,44,08:27,32,403,"HUNTER, OTHELLO",P005160   ,Steal (2),ST,,,CSKA Moscow,0
-CSK       ,,20,08:15,32,404,"VORONTSEVICH, ANDREY",PLHI      ,Three Pointer (4/4 -  14 pt),3FGM,58.0,61.0,CSKA Moscow,0
-CSK       ,,1,08:15,32,405,"DE COLO, NANDO",P002100   ,Assist (5),AS,,,CSKA Moscow,0
-ULK       ,,,08:15,32,406,,          ,Time Out (1),TOUT,,,Fenerbahce Dogus Istanbul,0
-          ,,,08:15,32,407,,          ,TV Time Out (4),TOUT_TV,,,,0
-ULK       ,,16,08:15,32,408,"SLOUKAS, KOSTAS",P001926   ,In,IN,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,23,08:15,32,409,"GUDURIC, MARKO",P004004   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,33,08:15,32,410,"KALINIC, NIKOLA",P004866   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,70,08:15,32,411,"DATOME, LUIGI",PCCD      ,In,IN,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,16,07:56,33,413,"SLOUKAS, KOSTAS",P001926   ,Two Pointer (1/2 -  4 pt),2FGM,60.0,61.0,Fenerbahce Dogus Istanbul,0
-CSK       ,,44,07:43,33,414,"HUNTER, OTHELLO",P005160   ,Two Pointer (2/3 -  5 pt),2FGM,60.0,63.0,CSKA Moscow,0
-CSK       ,,1,07:42,33,415,"DE COLO, NANDO",P002100   ,Assist (6),AS,,,CSKA Moscow,0
-ULK       ,,21,07:19,33,416,"NUNNALLY, JAMES",P007400   ,Missed Three Pointer (1/2 -  10 pt),3FGA,,,Fenerbahce Dogus Istanbul,0
-CSK       ,,41,07:17,33,417,"KURBANOV, NIKITA",PJLX      ,Def Rebound (2),D,,,CSKA Moscow,0
-CSK       ,,44,07:01,33,418,"HUNTER, OTHELLO",P005160   ,Two Pointer (3/4 -  7 pt),2FGM,60.0,65.0,CSKA Moscow,0
-CSK       ,,1,07:00,34,420,"DE COLO, NANDO",P002100   ,Assist (7),AS,,,CSKA Moscow,0
-CSK       ,,44,06:46,34,421,"HUNTER, OTHELLO",P005160   ,Foul (5),CM,,,CSKA Moscow,0
-ULK       ,,16,06:46,34,422,"SLOUKAS, KOSTAS",P001926   ,Foul Drawn (4),RV,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,1,06:46,34,423,"THOMPSON, JASON",P007998   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,24,06:46,34,424,"VESELY, JAN",P000925   ,In,IN,,,Fenerbahce Dogus Istanbul,0
-CSK       ,,42,06:46,34,425,"HINES, KYLE",P002812   ,In,IN,,,CSKA Moscow,0
-CSK       ,,44,06:46,34,426,"HUNTER, OTHELLO",P005160   ,Out,OUT,,,CSKA Moscow,0
-ULK       ,,21,06:33,34,427,"NUNNALLY, JAMES",P007400   ,Missed Three Pointer (1/3 -  10 pt),3FGA,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,24,06:31,34,428,"VESELY, JAN",P000925   ,Off Rebound (3),O,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,24,06:29,34,429,"VESELY, JAN",P000925   ,Two Pointer (5/5 -  13 pt),2FGM,62.0,65.0,Fenerbahce Dogus Istanbul,0
-CSK       ,,,06:29,34,430,,          ,Time Out (1),TOUT,,,CSKA Moscow,0
-CSK       ,,42,06:23,34,468,"HINES, KYLE",P002812   ,Shot Rejected (1),AG,,,CSKA Moscow,0
-CSK       ,,42,06:23,34,467,"HINES, KYLE",P002812   ,Missed Two Pointer (6/8 -  13 pt),2FGA,,,CSKA Moscow,0
-ULK       ,,24,06:22,34,466,"VESELY, JAN",P000925   ,Block (2),FV,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,4,06:19,34,432,"MELLI, NICOLO",P002849   ,Def Rebound (3),D,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,70,06:09,34,433,"DATOME, LUIGI",PCCD      ,Three Pointer (1/2 -  8 pt),3FGM,65.0,65.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,16,06:07,34,434,"SLOUKAS, KOSTAS",P001926   ,Assist (3),AS,,,Fenerbahce Dogus Istanbul,0
-CSK       ,,42,05:51,35,436,"HINES, KYLE",P002812   ,Two Pointer (7/9 -  15 pt),2FGM,65.0,67.0,CSKA Moscow,0
-CSK       ,,1,05:49,35,437,"DE COLO, NANDO",P002100   ,Assist (8),AS,,,CSKA Moscow,0
-ULK       ,,24,05:33,35,438,"VESELY, JAN",P000925   ,Offensive Foul (3),OF,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,24,05:33,35,439,"VESELY, JAN",P000925   ,Turnover (1),TO,,,Fenerbahce Dogus Istanbul,0
-CSK       ,,20,05:33,35,440,"VORONTSEVICH, ANDREY",PLHI      ,Foul Drawn (2),RV,,,CSKA Moscow,0
-ULK       ,,24,05:20,35,441,"VESELY, JAN",P000925   ,Foul (4),CM,,,Fenerbahce Dogus Istanbul,0
-CSK       ,,1,05:20,35,442,"DE COLO, NANDO",P002100   ,Foul Drawn (3),RV,,,CSKA Moscow,0
-ULK       ,,16,05:05,35,443,"SLOUKAS, KOSTAS",P001926   ,Block (1),FV,,,Fenerbahce Dogus Istanbul,0
-CSK       ,,13,05:03,35,444,"RODRIGUEZ, SERGIO",PCVM      ,Missed Three Pointer (2/8 -  10 pt),3FGA,,,CSKA Moscow,0
-CSK       ,,13,05:03,35,445,"RODRIGUEZ, SERGIO",PCVM      ,Shot Rejected (1),AG,,,CSKA Moscow,0
-ULK       ,,4,05:01,35,446,"MELLI, NICOLO",P002849   ,Def Rebound (4),D,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,4,04:55,36,448,"MELLI, NICOLO",P002849   ,Three Pointer (2/3 -  13 pt),3FGM,68.0,67.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,24,04:55,36,449,"VESELY, JAN",P000925   ,Assist (4),AS,,,Fenerbahce Dogus Istanbul,0
-CSK       ,,22,04:55,36,450,"HIGGINS, CORY",P006450   ,In,IN,,,CSKA Moscow,0
-CSK       ,,41,04:55,36,451,"KURBANOV, NIKITA",PJLX      ,Out,OUT,,,CSKA Moscow,0
-CSK       ,,1,04:40,36,452,"DE COLO, NANDO",P002100   ,Two Pointer (4/8 -  11 pt),2FGM,68.0,69.0,CSKA Moscow,0
-CSK       ,,1,04:40,36,453,"DE COLO, NANDO",P002100   ,Foul Drawn (4),RV,,,CSKA Moscow,0
-ULK       ,,4,04:40,36,454,"MELLI, NICOLO",P002849   ,Foul (3),CM,,,Fenerbahce Dogus Istanbul,0
-CSK       ,,1,04:40,36,455,"DE COLO, NANDO",P002100   ,Missed Free Throw (0/1 -  11 pt),FTA,,,CSKA Moscow,0
-ULK       ,,16,04:40,36,456,"SLOUKAS, KOSTAS",P001926   ,Def Rebound (4),D,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,70,04:24,36,457,"DATOME, LUIGI",PCCD      ,Missed Three Pointer (1/3 -  8 pt),3FGA,,,Fenerbahce Dogus Istanbul,0
-CSK       ,,,04:21,36,458,,          ,Def Rebound (3),D,,,CSKA Moscow,0
-ULK       ,,70,04:12,36,459,"DATOME, LUIGI",PCCD      ,Foul (3),CM,,,Fenerbahce Dogus Istanbul,0
-CSK       ,,22,04:12,36,460,"HIGGINS, CORY",P006450   ,Foul Drawn (6),RV,,,CSKA Moscow,0
-CSK       ,,22,04:12,36,461,"HIGGINS, CORY",P006450   ,Free Throw In (1/1 -  9 pt),FTM,68.0,70.0,CSKA Moscow,0
-CSK       ,,22,04:12,36,462,"HIGGINS, CORY",P006450   ,Free Throw In (2/2 -  10 pt),FTM,68.0,71.0,CSKA Moscow,0
-CSK       ,,13,03:56,37,464,"RODRIGUEZ, SERGIO",PCVM      ,Foul (2),CM,,,CSKA Moscow,0
-ULK       ,,16,03:56,37,465,"SLOUKAS, KOSTAS",P001926   ,Foul Drawn (5),RV,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,16,03:51,37,469,"SLOUKAS, KOSTAS",P001926   ,Missed Three Pointer (0/2 -  4 pt),3FGA,,,Fenerbahce Dogus Istanbul,0
-CSK       ,,13,03:49,37,470,"RODRIGUEZ, SERGIO",PCVM      ,Def Rebound (3),D,,,CSKA Moscow,0
-ULK       ,,11,03:46,37,471,"WANAMAKER, BRAD",P005838   ,In,IN,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,21,03:46,37,472,"NUNNALLY, JAMES",P007400   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
-CSK       ,,20,03:30,37,473,"VORONTSEVICH, ANDREY",PLHI      ,Three Pointer (5/5 -  17 pt),3FGM,68.0,74.0,CSKA Moscow,0
-CSK       ,,13,03:30,37,474,"RODRIGUEZ, SERGIO",PCVM      ,Assist (4),AS,,,CSKA Moscow,0
-ULK       ,,,03:30,37,475,,          ,Time Out (2),TOUT,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,4,03:17,37,476,"MELLI, NICOLO",P002849   ,Two Pointer (4/4 -  15 pt),2FGM,70.0,74.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,16,03:15,37,477,"SLOUKAS, KOSTAS",P001926   ,Assist (4),AS,,,Fenerbahce Dogus Istanbul,0
-CSK       ,,42,02:50,38,479,"HINES, KYLE",P002812   ,Missed Two Pointer (7/10 -  15 pt),2FGA,,,CSKA Moscow,0
-ULK       ,,16,02:47,38,480,"SLOUKAS, KOSTAS",P001926   ,Def Rebound (5),D,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,16,02:44,38,481,"SLOUKAS, KOSTAS",P001926   ,Turnover (4),TO,,,Fenerbahce Dogus Istanbul,0
-CSK       ,,22,02:26,38,482,"HIGGINS, CORY",P006450   ,Turnover (2),TO,,,CSKA Moscow,0
-ULK       ,,16,02:25,38,483,"SLOUKAS, KOSTAS",P001926   ,Steal (1),ST,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,11,02:08,38,484,"WANAMAKER, BRAD",P005838   ,Missed Two Pointer (2/6 -  7 pt),2FGA,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,11,02:06,38,485,"WANAMAKER, BRAD",P005838   ,Off Rebound (1),O,,,Fenerbahce Dogus Istanbul,0
-CSK       ,,22,01:58,39,487,"HIGGINS, CORY",P006450   ,Foul (3),CM,,,CSKA Moscow,0
-ULK       ,,24,01:58,39,488,"VESELY, JAN",P000925   ,Foul Drawn (7),RV,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,11,01:52,39,489,"WANAMAKER, BRAD",P005838   ,Two Pointer (3/7 -  9 pt),2FGM,72.0,74.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,70,01:52,39,490,"DATOME, LUIGI",PCCD      ,Assist (2),AS,,,Fenerbahce Dogus Istanbul,0
-CSK       ,,,01:52,39,491,,          ,Time Out (2),TOUT,,,CSKA Moscow,0
-ULK       ,,16,01:52,39,492,"SLOUKAS, KOSTAS",P001926   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,33,01:52,39,493,"KALINIC, NIKOLA",P004866   ,In,IN,,,Fenerbahce Dogus Istanbul,0
-CSK       ,,22,01:36,39,494,"HIGGINS, CORY",P006450   ,Two Pointer (5/8 -  12 pt),2FGM,72.0,76.0,CSKA Moscow,0
-ULK       ,,24,01:29,39,495,"VESELY, JAN",P000925   ,Offensive Foul (5),OF,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,24,01:29,39,496,"VESELY, JAN",P000925   ,Turnover (2),TO,,,Fenerbahce Dogus Istanbul,0
-CSK       ,,13,01:29,39,497,"RODRIGUEZ, SERGIO",PCVM      ,Foul Drawn (1),RV,,,CSKA Moscow,0
-ULK       ,,16,01:29,39,498,"SLOUKAS, KOSTAS",P001926   ,In,IN,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,24,01:29,39,499,"VESELY, JAN",P000925   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
-CSK       ,,22,01:14,39,500,"HIGGINS, CORY",P006450   ,Two Pointer (6/9 -  14 pt),2FGM,72.0,78.0,CSKA Moscow,0
-ULK       ,,,01:14,39,501,,          ,Time Out (3),TOUT,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,1,01:14,39,502,"THOMPSON, JASON",P007998   ,In,IN,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,33,01:14,39,503,"KALINIC, NIKOLA",P004866   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
-CSK       ,,1,01:10,39,504,"DE COLO, NANDO",P002100   ,Foul (3),CM,,,CSKA Moscow,0
-ULK       ,,1,01:10,39,505,"THOMPSON, JASON",P007998   ,Foul Drawn (3),RV,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,4,01:04,39,506,"MELLI, NICOLO",P002849   ,Three Pointer (3/4 -  18 pt),3FGM,75.0,78.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,16,01:04,39,507,"SLOUKAS, KOSTAS",P001926   ,Assist (5),AS,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,1,00:45,40,509,"THOMPSON, JASON",P007998   ,Foul (2),CM,,,Fenerbahce Dogus Istanbul,0
-CSK       ,,22,00:45,40,510,"HIGGINS, CORY",P006450   ,Foul Drawn (7),RV,,,CSKA Moscow,0
-ULK       ,,21,00:45,40,511,"NUNNALLY, JAMES",P007400   ,In,IN,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,70,00:45,40,512,"DATOME, LUIGI",PCCD      ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
-CSK       ,,13,00:45,40,513,"RODRIGUEZ, SERGIO",PCVM      ,Out,OUT,,,CSKA Moscow,0
-CSK       ,,41,00:45,40,514,"KURBANOV, NIKITA",PJLX      ,In,IN,,,CSKA Moscow,0
-CSK       ,,22,00:45,40,515,"HIGGINS, CORY",P006450   ,Free Throw In (3/3 -  15 pt),FTM,75.0,79.0,CSKA Moscow,0
-CSK       ,,22,00:45,40,516,"HIGGINS, CORY",P006450   ,Missed Free Throw (3/4 -  15 pt),FTA,,,CSKA Moscow,0
-ULK       ,,11,00:45,40,517,"WANAMAKER, BRAD",P005838   ,Def Rebound (3),D,,,Fenerbahce Dogus Istanbul,0
-CSK       ,,22,00:37,40,518,"HIGGINS, CORY",P006450   ,Foul (4),CM,,,CSKA Moscow,0
-ULK       ,,11,00:37,40,519,"WANAMAKER, BRAD",P005838   ,Foul Drawn (1),RV,,,Fenerbahce Dogus Istanbul,0
-CSK       ,,13,00:37,40,520,"RODRIGUEZ, SERGIO",PCVM      ,In,IN,,,CSKA Moscow,0
-CSK       ,,41,00:37,40,521,"KURBANOV, NIKITA",PJLX      ,Out,OUT,,,CSKA Moscow,0
-ULK       ,,11,00:37,40,522,"WANAMAKER, BRAD",P005838   ,Free Throw In (1/1 -  10 pt),FTM,76.0,79.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,11,00:37,40,523,"WANAMAKER, BRAD",P005838   ,Free Throw In (2/2 -  11 pt),FTM,77.0,79.0,Fenerbahce Dogus Istanbul,0
-CSK       ,,22,00:16,40,524,"HIGGINS, CORY",P006450   ,Missed Two Pointer (6/10 -  15 pt),2FGA,,,CSKA Moscow,0
-ULK       ,,16,00:14,40,525,"SLOUKAS, KOSTAS",P001926   ,Def Rebound (6),D,,,Fenerbahce Dogus Istanbul,0
-CSK       ,,22,00:11,40,526,"HIGGINS, CORY",P006450   ,Foul (5),CM,,,CSKA Moscow,0
-ULK       ,,16,00:11,40,527,"SLOUKAS, KOSTAS",P001926   ,Foul Drawn (6),RV,,,Fenerbahce Dogus Istanbul,0
-CSK       ,,22,00:11,40,528,"HIGGINS, CORY",P006450   ,Out,OUT,,,CSKA Moscow,0
-CSK       ,,41,00:11,40,529,"KURBANOV, NIKITA",PJLX      ,In,IN,,,CSKA Moscow,0
-ULK       ,,16,00:11,40,530,"SLOUKAS, KOSTAS",P001926   ,Free Throw In (3/3 -  5 pt),FTM,78.0,79.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,16,00:11,40,531,"SLOUKAS, KOSTAS",P001926   ,Free Throw In (4/4 -  6 pt),FTM,79.0,79.0,Fenerbahce Dogus Istanbul,0
-CSK       ,,,00:11,40,532,,          ,Time Out (3),TOUT,,,CSKA Moscow,0
-ULK       ,,1,00:11,40,533,"THOMPSON, JASON",P007998   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,33,00:11,40,534,"KALINIC, NIKOLA",P004866   ,In,IN,,,Fenerbahce Dogus Istanbul,0
-CSK       ,,1,00:01,40,535,"DE COLO, NANDO",P002100   ,Two Pointer (5/9 -  13 pt),2FGM,79.0,81.0,CSKA Moscow,0
-          ,,,,41,538,,          ,End Game,EG,,,,0
+CODETEAM,COMMENT,DORSAL,MARKERTIME,MINUTE,NUMBEROFPLAY,PLAYER,PLAYER_ID,PLAYINFO,PLAYTYPE,POINTS_A,POINTS_B,TEAM,TYPE,home_team,home_team_code,away_team,away_team_code
+          ,,,,1,2,,          ,Begin Period,BP,,,,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,21,09:42,1,3,"NUNNALLY, JAMES",P007400   ,Two Pointer (1/1 -  2 pt),2FGM,2.0,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,11,09:41,1,4,"WANAMAKER, BRAD",P005838   ,Assist (1),AS,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,41,09:18,1,5,"KURBANOV, NIKITA",PJLX      ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,42,09:15,1,6,"HINES, KYLE",P002812   ,Off Rebound (1),O,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,42,09:15,1,7,"HINES, KYLE",P002812   ,Two Pointer (1/1 -  2 pt),2FGM,2.0,2.0,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,11,09:03,1,8,"WANAMAKER, BRAD",P005838   ,Three Pointer (1/1 -  3 pt),3FGM,5.0,2.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,24,09:01,1,9,"VESELY, JAN",P000925   ,Assist (1),AS,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,42,08:40,2,11,"HINES, KYLE",P002812   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,1,08:38,2,12,"THOMPSON, JASON",P007998   ,Def Rebound (1),D,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,21,08:24,2,13,"CLYBURN, WILL",P004888   ,Foul (1),CM,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,24,08:24,2,14,"VESELY, JAN",P000925   ,Foul Drawn (1),RV,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,24,08:24,2,15,"VESELY, JAN",P000925   ,Missed Free Throw (0/1 -  0 pt),FTA,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,24,08:24,2,16,"VESELY, JAN",P000925   ,Missed Free Throw (0/2 -  0 pt),FTA,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,21,08:24,2,17,"CLYBURN, WILL",P004888   ,Def Rebound (1),D,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,21,08:17,2,18,"NUNNALLY, JAMES",P007400   ,Foul (1),CM,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,21,08:17,2,19,"CLYBURN, WILL",P004888   ,Foul Drawn (1),RV,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,21,08:12,2,20,"CLYBURN, WILL",P004888   ,Turnover (1),TO,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,21,08:10,2,21,"NUNNALLY, JAMES",P007400   ,Steal (1),ST,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,33,07:56,3,23,"KALINIC, NIKOLA",P004866   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,21,07:54,3,24,"CLYBURN, WILL",P004888   ,Def Rebound (2),D,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,21,07:37,3,25,"CLYBURN, WILL",P004888   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,1,07:35,3,26,"THOMPSON, JASON",P007998   ,Def Rebound (2),D,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,41,07:31,3,27,"KURBANOV, NIKITA",PJLX      ,Foul (1),CM,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,21,07:31,3,28,"NUNNALLY, JAMES",P007400   ,Foul Drawn (1),RV,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,21,07:31,3,29,"NUNNALLY, JAMES",P007400   ,Free Throw In (1/1 -  3 pt),FTM,6.0,2.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,1,07:31,3,30,"THOMPSON, JASON",P007998   ,Assist (1),AS,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,21,07:31,3,31,"NUNNALLY, JAMES",P007400   ,Free Throw In (2/2 -  4 pt),FTM,7.0,2.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,21,07:21,3,32,"CLYBURN, WILL",P004888   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,24,07:19,3,33,"VESELY, JAN",P000925   ,Def Rebound (1),D,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,33,07:10,3,34,"KALINIC, NIKOLA",P004866   ,Two Pointer (1/1 -  2 pt),2FGM,9.0,2.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,24,07:10,3,35,"VESELY, JAN",P000925   ,Assist (2),AS,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,,07:10,3,36,,          ,Time Out (1),TOUT,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+          ,,,07:10,3,37,,          ,TV Time Out (1),TOUT_TV,,,,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,1,07:10,3,38,"DE COLO, NANDO",P002100   ,In,IN,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,13,07:10,3,39,"RODRIGUEZ, SERGIO",PCVM      ,Out,OUT,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,21,07:10,3,40,"CLYBURN, WILL",P004888   ,Out,OUT,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,22,07:10,3,41,"HIGGINS, CORY",P006450   ,In,IN,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,20,06:49,4,43,"VORONTSEVICH, ANDREY",PLHI      ,Three Pointer (1/1 -  3 pt),3FGM,9.0,5.0,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,42,06:47,4,44,"HINES, KYLE",P002812   ,Assist (1),AS,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,33,06:27,4,45,"KALINIC, NIKOLA",P004866   ,Missed Three Pointer (0/2 -  2 pt),3FGA,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,1,06:25,4,46,"DE COLO, NANDO",P002100   ,Def Rebound (1),D,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,42,06:10,4,47,"HINES, KYLE",P002812   ,Two Pointer (2/3 -  4 pt),2FGM,9.0,7.0,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,22,06:08,4,48,"HIGGINS, CORY",P006450   ,Assist (1),AS,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,11,05:47,5,50,"WANAMAKER, BRAD",P005838   ,Turnover (1),TO,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,1,05:46,5,51,"DE COLO, NANDO",P002100   ,Steal (1),ST,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,11,05:32,5,52,"WANAMAKER, BRAD",P005838   ,Foul (1),CM,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,42,05:32,5,53,"HINES, KYLE",P002812   ,Foul Drawn (1),RV,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,1,05:28,5,54,"DE COLO, NANDO",P002100   ,Turnover (1),TO,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,,05:28,5,55,,          ,Time Out (1),TOUT,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,42,05:13,5,56,"HINES, KYLE",P002812   ,Foul (1),CM,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,24,05:13,5,57,"VESELY, JAN",P000925   ,Foul Drawn (2),RV,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,11,04:57,6,59,"WANAMAKER, BRAD",P005838   ,Missed Three Pointer (1/2 -  3 pt),3FGA,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,24,04:56,6,60,"VESELY, JAN",P000925   ,Off Rebound (1),O,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,21,04:53,6,61,"NUNNALLY, JAMES",P007400   ,Two Pointer (2/2 -  6 pt),2FGM,11.0,7.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,21,04:53,6,62,"NUNNALLY, JAMES",P007400   ,Foul Drawn (2),RV,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,20,04:53,6,63,"VORONTSEVICH, ANDREY",PLHI      ,Foul (1),CM,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,21,04:53,6,64,"NUNNALLY, JAMES",P007400   ,Free Throw In (3/3 -  7 pt),FTM,12.0,7.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,1,04:39,6,65,"THOMPSON, JASON",P007998   ,Foul (1),CM,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,1,04:39,6,66,"DE COLO, NANDO",P002100   ,Foul Drawn (1),RV,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,42,04:33,6,67,"HINES, KYLE",P002812   ,Two Pointer (3/4 -  6 pt),2FGM,12.0,9.0,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,1,04:31,6,68,"DE COLO, NANDO",P002100   ,Assist (1),AS,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,11,04:21,6,69,"WANAMAKER, BRAD",P005838   ,Two Pointer (1/1 -  5 pt),2FGM,14.0,9.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,1,04:07,6,70,"DE COLO, NANDO",P002100   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,11,04:05,6,71,"WANAMAKER, BRAD",P005838   ,Def Rebound (1),D,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,21,03:54,7,73,"NUNNALLY, JAMES",P007400   ,Three Pointer (1/1 -  10 pt),3FGM,17.0,9.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,33,03:52,7,74,"KALINIC, NIKOLA",P004866   ,Assist (1),AS,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,21,03:44,7,75,"NUNNALLY, JAMES",P007400   ,Foul (2),CM,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,41,03:44,7,76,"KURBANOV, NIKITA",PJLX      ,Foul Drawn (1),RV,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,4,03:44,7,77,"MELLI, NICOLO",P002849   ,In,IN,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,24,03:44,7,78,"VESELY, JAN",P000925   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,41,03:44,7,79,"KURBANOV, NIKITA",PJLX      ,Free Throw In (1/1 -  1 pt),FTM,17.0,10.0,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,41,03:44,7,80,"KURBANOV, NIKITA",PJLX      ,Free Throw In (2/2 -  2 pt),FTM,17.0,11.0,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,1,03:44,7,81,"DE COLO, NANDO",P002100   ,Assist (2),AS,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,21,03:44,7,82,"NUNNALLY, JAMES",P007400   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,70,03:44,7,83,"DATOME, LUIGI",PCCD      ,In,IN,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,70,03:27,7,84,"DATOME, LUIGI",PCCD      ,Turnover (1),TO,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,41,03:26,7,85,"KURBANOV, NIKITA",PJLX      ,Steal (1),ST,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,42,03:23,7,86,"HINES, KYLE",P002812   ,Two Pointer (4/5 -  8 pt),2FGM,17.0,13.0,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,11,03:07,7,87,"WANAMAKER, BRAD",P005838   ,Missed Two Pointer (1/2 -  5 pt),2FGA,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,20,03:05,7,88,"VORONTSEVICH, ANDREY",PLHI      ,Def Rebound (1),D,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,70,02:45,8,90,"DATOME, LUIGI",PCCD      ,Block (1),FV,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,1,02:43,8,91,"DE COLO, NANDO",P002100   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,1,02:43,8,92,"DE COLO, NANDO",P002100   ,Shot Rejected (1),AG,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,70,02:41,8,93,"DATOME, LUIGI",PCCD      ,Def Rebound (1),D,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,11,02:39,8,94,"WANAMAKER, BRAD",P005838   ,Missed Three Pointer (1/3 -  5 pt),3FGA,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,20,02:38,8,95,"VORONTSEVICH, ANDREY",PLHI      ,Def Rebound (2),D,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,20,02:19,8,96,"VORONTSEVICH, ANDREY",PLHI      ,Three Pointer (2/2 -  6 pt),3FGM,17.0,16.0,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,1,02:17,8,97,"DE COLO, NANDO",P002100   ,Assist (3),AS,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,70,02:03,8,98,"DATOME, LUIGI",PCCD      ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,22,02:01,8,99,"HIGGINS, CORY",P006450   ,Def Rebound (1),D,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,22,01:51,9,101,"HIGGINS, CORY",P006450   ,Two Pointer (1/1 -  2 pt),2FGM,17.0,18.0,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,11,01:28,9,102,"WANAMAKER, BRAD",P005838   ,Turnover (2),TO,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,22,01:27,9,103,"HIGGINS, CORY",P006450   ,Steal (1),ST,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,41,01:24,9,104,"KURBANOV, NIKITA",PJLX      ,Two Pointer (1/2 -  4 pt),2FGM,17.0,20.0,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,4,01:06,9,105,"MELLI, NICOLO",P002849   ,Two Pointer (1/1 -  2 pt),2FGM,19.0,20.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,11,01:04,9,106,"WANAMAKER, BRAD",P005838   ,Assist (2),AS,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,1,00:48,10,108,"DE COLO, NANDO",P002100   ,Two Pointer (1/3 -  2 pt),2FGM,19.0,22.0,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,42,00:27,10,109,"HINES, KYLE",P002812   ,Foul (2),CM,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,1,00:27,10,110,"THOMPSON, JASON",P007998   ,Foul Drawn (1),RV,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,11,00:27,10,111,"WANAMAKER, BRAD",P005838   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,16,00:27,10,112,"SLOUKAS, KOSTAS",P001926   ,In,IN,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,3,00:27,10,113,"RUDD, VICTOR",P006536   ,In,IN,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,13,00:27,10,114,"RODRIGUEZ, SERGIO",PCVM      ,In,IN,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,20,00:27,10,115,"VORONTSEVICH, ANDREY",PLHI      ,Out,OUT,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,41,00:27,10,116,"KURBANOV, NIKITA",PJLX      ,Out,OUT,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,42,00:27,10,117,"HINES, KYLE",P002812   ,Out,OUT,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,44,00:27,10,118,"HUNTER, OTHELLO",P005160   ,In,IN,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,1,00:27,10,119,"THOMPSON, JASON",P007998   ,Missed Free Throw (0/1 -  0 pt),FTA,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,1,00:27,10,120,"THOMPSON, JASON",P007998   ,Free Throw In (1/2 -  1 pt),FTM,20.0,22.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,1,00:27,10,121,"THOMPSON, JASON",P007998   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,24,00:27,10,122,"VESELY, JAN",P000925   ,In,IN,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,1,00:04,10,123,"DE COLO, NANDO",P002100   ,Three Pointer (1/1 -  5 pt),3FGM,20.0,25.0,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,13,00:03,10,124,"RODRIGUEZ, SERGIO",PCVM      ,Assist (1),AS,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,4,00:01,10,125,"MELLI, NICOLO",P002849   ,Three Pointer (1/1 -  5 pt),3FGM,23.0,25.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+          ,,,,11,127,,          ,End Period,EP,,,,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+          ,,,,11,130,,          ,Begin Period,BP,,,,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,23,10:00,11,128,"GUDURIC, MARKO",P004004   ,In,IN,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,33,10:00,11,129,"KALINIC, NIKOLA",P004866   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,13,09:42,11,131,"RODRIGUEZ, SERGIO",PCVM      ,Two Pointer (1/1 -  2 pt),2FGM,23.0,27.0,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,44,09:29,11,132,"HUNTER, OTHELLO",P005160   ,Foul (1),CM,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,24,09:29,11,133,"VESELY, JAN",P000925   ,Foul Drawn (3),RV,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,16,09:24,11,134,"SLOUKAS, KOSTAS",P001926   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,13,09:22,11,135,"RODRIGUEZ, SERGIO",PCVM      ,Def Rebound (1),D,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,13,09:12,11,136,"RODRIGUEZ, SERGIO",PCVM      ,Turnover (1),TO,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,23,09:10,11,137,"GUDURIC, MARKO",P004004   ,Steal (1),ST,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,24,09:07,11,138,"VESELY, JAN",P000925   ,Two Pointer (1/1 -  2 pt),2FGM,25.0,27.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,23,09:05,11,139,"GUDURIC, MARKO",P004004   ,Assist (1),AS,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,13,08:48,12,141,"RODRIGUEZ, SERGIO",PCVM      ,Turnover (2),TO,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,44,08:37,12,142,"HUNTER, OTHELLO",P005160   ,Foul (2),CM,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,16,08:37,12,143,"SLOUKAS, KOSTAS",P001926   ,Foul Drawn (1),RV,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,23,08:32,12,144,"GUDURIC, MARKO",P004004   ,Turnover (1),TO,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,22,08:31,12,145,"HIGGINS, CORY",P006450   ,Steal (2),ST,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,23,08:31,12,146,"GUDURIC, MARKO",P004004   ,Foul (1),CM,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,22,08:31,12,147,"HIGGINS, CORY",P006450   ,Foul Drawn (1),RV,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,13,08:14,12,148,"RODRIGUEZ, SERGIO",PCVM      ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,16,08:10,12,149,"SLOUKAS, KOSTAS",P001926   ,Def Rebound (1),D,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,16,08:03,12,150,"SLOUKAS, KOSTAS",P001926   ,Turnover (1),TO,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,44,08:01,12,151,"HUNTER, OTHELLO",P005160   ,Steal (1),ST,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,1,07:48,13,153,"DE COLO, NANDO",P002100   ,Two Pointer (2/4 -  7 pt),2FGM,25.0,29.0,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,13,07:47,13,154,"RODRIGUEZ, SERGIO",PCVM      ,Assist (2),AS,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,3,07:30,13,155,"RUDD, VICTOR",P006536   ,Foul (1),CM,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,4,07:30,13,156,"MELLI, NICOLO",P002849   ,Foul Drawn (1),RV,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,70,07:25,13,157,"DATOME, LUIGI",PCCD      ,Offensive Foul (1),OF,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,70,07:25,13,158,"DATOME, LUIGI",PCCD      ,Turnover (2),TO,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,1,07:25,13,159,"DE COLO, NANDO",P002100   ,Foul Drawn (2),RV,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,21,07:25,13,160,"NUNNALLY, JAMES",P007400   ,In,IN,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,23,07:25,13,161,"GUDURIC, MARKO",P004004   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,22,07:07,13,162,"HIGGINS, CORY",P006450   ,Two Pointer (2/2 -  4 pt),2FGM,25.0,31.0,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,44,06:50,14,164,"HUNTER, OTHELLO",P005160   ,Foul (3),CM,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,16,06:50,14,165,"SLOUKAS, KOSTAS",P001926   ,Foul Drawn (2),RV,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,44,06:50,14,166,"HUNTER, OTHELLO",P005160   ,Technical Foul (4),CMT,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,42,06:50,14,167,"HINES, KYLE",P002812   ,In,IN,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,44,06:50,14,168,"HUNTER, OTHELLO",P005160   ,Out,OUT,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,70,06:50,14,169,"DATOME, LUIGI",PCCD      ,Free Throw In (1/1 -  1 pt),FTM,26.0,31.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,21,06:39,14,170,"NUNNALLY, JAMES",P007400   ,Turnover (1),TO,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,22,06:38,14,171,"HIGGINS, CORY",P006450   ,Steal (3),ST,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,13,06:19,14,172,"RODRIGUEZ, SERGIO",PCVM      ,Three Pointer (1/2 -  5 pt),3FGM,26.0,34.0,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,,06:19,14,173,,          ,Time Out (1),TOUT,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+          ,,,06:19,14,174,,          ,TV Time Out (2),TOUT_TV,,,,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,11,06:19,14,175,"WANAMAKER, BRAD",P005838   ,In,IN,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,21,06:19,14,176,"NUNNALLY, JAMES",P007400   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,42,06:09,14,177,"HINES, KYLE",P002812   ,Block (1),FV,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,11,06:06,14,178,"WANAMAKER, BRAD",P005838   ,Missed Two Pointer (1/3 -  5 pt),2FGA,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,11,06:06,14,179,"WANAMAKER, BRAD",P005838   ,Shot Rejected (1),AG,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,3,06:04,14,180,"RUDD, VICTOR",P006536   ,Def Rebound (1),D,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,13,06:01,14,181,"RODRIGUEZ, SERGIO",PCVM      ,Missed Three Pointer (1/3 -  5 pt),3FGA,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,70,06:00,14,182,"DATOME, LUIGI",PCCD      ,Def Rebound (2),D,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,70,05:48,15,184,"DATOME, LUIGI",PCCD      ,Missed Three Pointer (0/1 -  1 pt),3FGA,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,3,05:47,15,185,"RUDD, VICTOR",P006536   ,Foul (2),CM,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,4,05:47,15,186,"MELLI, NICOLO",P002849   ,Foul Drawn (2),RV,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,,05:47,15,187,,          ,Off Rebound (1),O,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,4,05:47,15,188,"MELLI, NICOLO",P002849   ,Missed Free Throw (0/1 -  5 pt),FTA,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,4,05:47,15,189,"MELLI, NICOLO",P002849   ,Free Throw In (1/2 -  6 pt),FTM,27.0,34.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,3,05:47,15,190,"RUDD, VICTOR",P006536   ,Out,OUT,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,20,05:47,15,191,"VORONTSEVICH, ANDREY",PLHI      ,In,IN,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,1,05:36,15,192,"DE COLO, NANDO",P002100   ,Turnover (2),TO,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,16,05:14,15,193,"SLOUKAS, KOSTAS",P001926   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,24,05:12,15,194,"VESELY, JAN",P000925   ,Off Rebound (2),O,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,11,05:00,16,196,"WANAMAKER, BRAD",P005838   ,Two Pointer (2/4 -  7 pt),2FGM,29.0,34.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,24,04:43,16,197,"VESELY, JAN",P000925   ,Foul (1),CM,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,22,04:43,16,198,"HIGGINS, CORY",P006450   ,Foul Drawn (2),RV,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,42,04:32,16,199,"HINES, KYLE",P002812   ,Two Pointer (5/6 -  10 pt),2FGM,29.0,36.0,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,22,04:29,16,200,"HIGGINS, CORY",P006450   ,Assist (2),AS,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,4,04:09,16,201,"MELLI, NICOLO",P002849   ,Two Pointer (2/2 -  8 pt),2FGM,31.0,36.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,16,03:47,17,203,"SLOUKAS, KOSTAS",P001926   ,Foul (1),CM,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,42,03:47,17,204,"HINES, KYLE",P002812   ,Foul Drawn (2),RV,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,16,03:47,17,205,"SLOUKAS, KOSTAS",P001926   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,21,03:47,17,206,"NUNNALLY, JAMES",P007400   ,In,IN,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,33,03:47,17,207,"KALINIC, NIKOLA",P004866   ,In,IN,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,70,03:47,17,208,"DATOME, LUIGI",PCCD      ,Out,OUT,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,22,03:36,17,209,"HIGGINS, CORY",P006450   ,Two Pointer (3/3 -  6 pt),2FGM,31.0,38.0,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,33,03:21,17,210,"KALINIC, NIKOLA",P004866   ,Turnover (1),TO,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,13,03:19,17,211,"RODRIGUEZ, SERGIO",PCVM      ,Steal (1),ST,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,24,03:02,17,212,"VESELY, JAN",P000925   ,Block (1),FV,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,22,03:01,17,253,"HIGGINS, CORY",P006450   ,Shot Rejected (1),AG,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,22,03:01,17,252,"HIGGINS, CORY",P006450   ,Missed Two Pointer (3/4 -  6 pt),2FGA,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,,03:00,17,214,,          ,Off Rebound (2),O,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,21,03:00,17,215,"CLYBURN, WILL",P004888   ,In,IN,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,22,03:00,17,216,"HIGGINS, CORY",P006450   ,Out,OUT,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,1,02:57,18,218,"DE COLO, NANDO",P002100   ,Missed Three Pointer (1/2 -  7 pt),3FGA,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,11,02:56,18,219,"WANAMAKER, BRAD",P005838   ,Def Rebound (2),D,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,33,02:37,18,220,"KALINIC, NIKOLA",P004866   ,Two Pointer (2/2 -  4 pt),2FGM,33.0,38.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,4,02:36,18,221,"MELLI, NICOLO",P002849   ,Assist (1),AS,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,,02:36,18,222,,          ,Time Out (1),TOUT,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,11,02:36,18,223,"ANTONOV, SEMEN",P004941   ,In,IN,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,42,02:36,18,224,"HINES, KYLE",P002812   ,Out,OUT,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,13,02:14,18,225,"RODRIGUEZ, SERGIO",PCVM      ,Missed Three Pointer (1/4 -  5 pt),3FGA,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,21,02:09,18,226,"CLYBURN, WILL",P004888   ,Off Rebound (1),O,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,20,02:06,18,227,"VORONTSEVICH, ANDREY",PLHI      ,Three Pointer (3/3 -  9 pt),3FGM,33.0,41.0,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,21,02:04,18,228,"CLYBURN, WILL",P004888   ,Assist (1),AS,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,33,01:50,19,230,"KALINIC, NIKOLA",P004866   ,Two Pointer (3/3 -  6 pt),2FGM,35.0,41.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,33,01:50,19,231,"KALINIC, NIKOLA",P004866   ,Foul Drawn (1),RV,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,1,01:50,19,232,"DE COLO, NANDO",P002100   ,Foul (1),CM,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,24,01:50,19,233,"VESELY, JAN",P000925   ,Assist (3),AS,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,33,01:50,19,234,"KALINIC, NIKOLA",P004866   ,Free Throw In (1/1 -  7 pt),FTM,36.0,41.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,11,01:34,19,235,"ANTONOV, SEMEN",P004941   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,24,01:32,19,236,"VESELY, JAN",P000925   ,Def Rebound (2),D,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,1,01:13,19,237,"DE COLO, NANDO",P002100   ,Foul (2),CM,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,24,01:13,19,238,"VESELY, JAN",P000925   ,Foul Drawn (4),RV,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,1,01:13,19,239,"DE COLO, NANDO",P002100   ,Out,OUT,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,22,01:13,19,240,"HIGGINS, CORY",P006450   ,In,IN,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,24,01:13,19,241,"VESELY, JAN",P000925   ,Free Throw In (1/3 -  3 pt),FTM,37.0,41.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,24,01:13,19,242,"VESELY, JAN",P000925   ,Free Throw In (2/4 -  4 pt),FTM,38.0,41.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,22,00:50,20,245,"HIGGINS, CORY",P006450   ,Missed Two Pointer (3/5 -  6 pt),2FGA,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,,00:47,20,246,,          ,Def Rebound (1),D,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,4,00:30,20,247,"MELLI, NICOLO",P002849   ,Two Pointer (3/3 -  10 pt),2FGM,40.0,41.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,13,00:07,20,248,"RODRIGUEZ, SERGIO",PCVM      ,Three Pointer (2/5 -  8 pt),3FGM,40.0,44.0,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,11,00:01,20,249,"WANAMAKER, BRAD",P005838   ,Missed Two Pointer (2/5 -  7 pt),2FGA,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+          ,,,,21,251,,          ,End Period,EP,,,,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+          ,,,,21,264,,          ,Begin Period,BP,,,,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,16,10:00,21,254,"SLOUKAS, KOSTAS",P001926   ,In,IN,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,21,10:00,21,255,"NUNNALLY, JAMES",P007400   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,33,10:00,21,256,"KALINIC, NIKOLA",P004866   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,70,10:00,21,257,"DATOME, LUIGI",PCCD      ,In,IN,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,1,10:00,21,258,"DE COLO, NANDO",P002100   ,In,IN,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,11,10:00,21,259,"ANTONOV, SEMEN",P004941   ,Out,OUT,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,13,10:00,21,260,"RODRIGUEZ, SERGIO",PCVM      ,Out,OUT,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,20,10:00,21,261,"VORONTSEVICH, ANDREY",PLHI      ,Out,OUT,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,41,10:00,21,262,"KURBANOV, NIKITA",PJLX      ,In,IN,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,42,10:00,21,263,"HINES, KYLE",P002812   ,In,IN,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,70,09:58,21,265,"DATOME, LUIGI",PCCD      ,Two Pointer (1/2 -  3 pt),2FGM,42.0,44.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,11,09:58,21,266,"WANAMAKER, BRAD",P005838   ,Assist (3),AS,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,21,09:32,21,267,"CLYBURN, WILL",P004888   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,24,09:29,21,268,"VESELY, JAN",P000925   ,Def Rebound (3),D,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,24,09:15,21,269,"VESELY, JAN",P000925   ,Two Pointer (2/2 -  6 pt),2FGM,44.0,44.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,11,09:13,21,270,"WANAMAKER, BRAD",P005838   ,Assist (4),AS,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,1,09:02,21,271,"DE COLO, NANDO",P002100   ,Missed Two Pointer (2/5 -  7 pt),2FGA,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,4,09:00,21,272,"MELLI, NICOLO",P002849   ,Def Rebound (1),D,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,24,08:48,22,274,"VESELY, JAN",P000925   ,Two Pointer (3/3 -  8 pt),2FGM,46.0,44.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,70,08:46,22,275,"DATOME, LUIGI",PCCD      ,Assist (1),AS,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,42,08:26,22,276,"HINES, KYLE",P002812   ,Two Pointer (6/7 -  12 pt),2FGM,46.0,46.0,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,42,08:26,22,277,"HINES, KYLE",P002812   ,Foul Drawn (3),RV,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,11,08:26,22,278,"WANAMAKER, BRAD",P005838   ,Foul (2),CM,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,1,08:26,22,279,"DE COLO, NANDO",P002100   ,Assist (4),AS,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,42,08:26,22,280,"HINES, KYLE",P002812   ,Free Throw In (1/1 -  13 pt),FTM,46.0,47.0,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,16,08:11,22,281,"SLOUKAS, KOSTAS",P001926   ,Turnover (2),TO,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,41,07:57,23,283,"KURBANOV, NIKITA",PJLX      ,Turnover (1),TO,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,70,07:45,23,284,"DATOME, LUIGI",PCCD      ,Offensive Foul (2),OF,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,70,07:45,23,285,"DATOME, LUIGI",PCCD      ,Turnover (3),TO,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,22,07:45,23,286,"HIGGINS, CORY",P006450   ,Foul Drawn (3),RV,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,21,07:23,23,287,"CLYBURN, WILL",P004888   ,Missed Two Pointer (0/3 -  0 pt),2FGA,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,24,07:21,23,288,"VESELY, JAN",P000925   ,Def Rebound (4),D,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,22,07:05,23,289,"HIGGINS, CORY",P006450   ,Foul (1),CM,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,24,07:05,23,290,"VESELY, JAN",P000925   ,Foul Drawn (5),RV,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,24,06:55,24,292,"VESELY, JAN",P000925   ,Two Pointer (4/4 -  10 pt),2FGM,48.0,47.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,16,06:54,24,293,"SLOUKAS, KOSTAS",P001926   ,Assist (1),AS,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,11,06:45,24,294,"WANAMAKER, BRAD",P005838   ,Foul (3),CM,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,22,06:45,24,295,"HIGGINS, CORY",P006450   ,Foul Drawn (4),RV,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,22,06:34,24,296,"HIGGINS, CORY",P006450   ,Two Pointer (4/6 -  8 pt),2FGM,48.0,49.0,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,11,06:18,24,297,"WANAMAKER, BRAD",P005838   ,Turnover (3),TO,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,11,06:18,24,298,"WANAMAKER, BRAD",P005838   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,23,06:18,24,299,"GUDURIC, MARKO",P004004   ,In,IN,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,24,06:12,24,300,"VESELY, JAN",P000925   ,Foul (2),CM,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,42,06:12,24,301,"HINES, KYLE",P002812   ,Foul Drawn (4),RV,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,22,06:10,24,302,"HIGGINS, CORY",P006450   ,Turnover (1),TO,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,23,05:52,25,304,"GUDURIC, MARKO",P004004   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,41,05:51,25,305,"KURBANOV, NIKITA",PJLX      ,Def Rebound (1),D,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,1,05:43,25,306,"DE COLO, NANDO",P002100   ,Missed Two Pointer (2/6 -  7 pt),2FGA,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,70,05:41,25,307,"DATOME, LUIGI",PCCD      ,Def Rebound (3),D,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,41,05:35,25,308,"KURBANOV, NIKITA",PJLX      ,Foul (2),CM,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,23,05:35,25,309,"GUDURIC, MARKO",P004004   ,Foul Drawn (1),RV,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,70,05:24,25,310,"DATOME, LUIGI",PCCD      ,Two Pointer (2/3 -  5 pt),2FGM,50.0,49.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,16,05:22,25,311,"SLOUKAS, KOSTAS",P001926   ,Assist (2),AS,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,1,05:00,25,312,"DE COLO, NANDO",P002100   ,Two Pointer (3/7 -  9 pt),2FGM,50.0,51.0,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,23,04:38,26,314,"GUDURIC, MARKO",P004004   ,Two Pointer (1/1 -  2 pt),2FGM,52.0,51.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,22,04:24,26,315,"HIGGINS, CORY",P006450   ,Missed Three Pointer (0/1 -  8 pt),3FGA,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,70,04:21,26,316,"DATOME, LUIGI",PCCD      ,Def Rebound (4),D,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,42,04:06,26,317,"HINES, KYLE",P002812   ,Foul (3),CM,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,24,04:06,26,318,"VESELY, JAN",P000925   ,Foul Drawn (6),RV,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+          ,,,04:06,26,319,,          ,TV Time Out (3),TOUT_TV,,,,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,33,04:06,26,320,"KALINIC, NIKOLA",P004866   ,In,IN,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,70,04:06,26,321,"DATOME, LUIGI",PCCD      ,Out,OUT,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,13,04:06,26,322,"RODRIGUEZ, SERGIO",PCVM      ,In,IN,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,41,04:06,26,323,"KURBANOV, NIKITA",PJLX      ,Out,OUT,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,42,04:06,26,324,"HINES, KYLE",P002812   ,Out,OUT,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,44,04:06,26,325,"HUNTER, OTHELLO",P005160   ,In,IN,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,24,04:06,26,326,"VESELY, JAN",P000925   ,Free Throw In (3/5 -  11 pt),FTM,53.0,51.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,23,04:06,26,327,"GUDURIC, MARKO",P004004   ,Assist (2),AS,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,24,04:06,26,328,"VESELY, JAN",P000925   ,Missed Free Throw (3/6 -  11 pt),FTA,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,21,04:06,26,329,"CLYBURN, WILL",P004888   ,Def Rebound (3),D,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,21,03:48,27,331,"CLYBURN, WILL",P004888   ,Missed Two Pointer (0/4 -  0 pt),2FGA,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,,03:46,27,332,,          ,Def Rebound (2),D,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,1,03:46,27,333,"THOMPSON, JASON",P007998   ,In,IN,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,24,03:46,27,334,"VESELY, JAN",P000925   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,20,03:46,27,335,"VORONTSEVICH, ANDREY",PLHI      ,In,IN,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,21,03:46,27,336,"CLYBURN, WILL",P004888   ,Out,OUT,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,22,03:29,27,337,"HIGGINS, CORY",P006450   ,Foul (2),CM,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,33,03:29,27,338,"KALINIC, NIKOLA",P004866   ,Foul Drawn (2),RV,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,4,03:19,27,339,"MELLI, NICOLO",P002849   ,Missed Three Pointer (1/2 -  10 pt),3FGA,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,20,03:13,27,340,"VORONTSEVICH, ANDREY",PLHI      ,Def Rebound (3),D,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,22,03:02,27,341,"HIGGINS, CORY",P006450   ,Missed Two Pointer (4/7 -  8 pt),2FGA,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,4,02:59,28,343,"MELLI, NICOLO",P002849   ,Def Rebound (2),D,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,4,02:50,28,344,"MELLI, NICOLO",P002849   ,Offensive Foul (1),OF,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,4,02:50,28,345,"MELLI, NICOLO",P002849   ,Turnover (1),TO,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,22,02:50,28,346,"HIGGINS, CORY",P006450   ,Foul Drawn (5),RV,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,16,02:33,28,347,"SLOUKAS, KOSTAS",P001926   ,Foul (2),CM,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,44,02:33,28,348,"HUNTER, OTHELLO",P005160   ,Foul Drawn (1),RV,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,44,02:33,28,349,"HUNTER, OTHELLO",P005160   ,Missed Free Throw (0/1 -  0 pt),FTA,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,44,02:33,28,350,"HUNTER, OTHELLO",P005160   ,Free Throw In (1/2 -  1 pt),FTM,53.0,52.0,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,13,02:33,28,351,"RODRIGUEZ, SERGIO",PCVM      ,Assist (3),AS,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,1,02:33,28,352,"DE COLO, NANDO",P002100   ,Out,OUT,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,9,02:33,28,353,"WESTERMANN, LEO",P002543   ,In,IN,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,1,02:16,28,354,"THOMPSON, JASON",P007998   ,Two Pointer (1/1 -  3 pt),2FGM,55.0,52.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,1,02:16,28,355,"THOMPSON, JASON",P007998   ,Foul Drawn (2),RV,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,9,02:16,28,356,"WESTERMANN, LEO",P002543   ,Foul (1),CM,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,33,02:16,28,357,"KALINIC, NIKOLA",P004866   ,Assist (2),AS,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,1,02:16,28,358,"THOMPSON, JASON",P007998   ,Free Throw In (2/3 -  4 pt),FTM,56.0,52.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,13,02:05,28,359,"RODRIGUEZ, SERGIO",PCVM      ,Missed Three Pointer (2/6 -  8 pt),3FGA,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,16,02:02,28,360,"SLOUKAS, KOSTAS",P001926   ,Def Rebound (2),D,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,23,01:45,29,362,"GUDURIC, MARKO",P004004   ,Missed Three Pointer (0/2 -  2 pt),3FGA,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,13,01:43,29,363,"RODRIGUEZ, SERGIO",PCVM      ,Def Rebound (2),D,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,44,01:25,29,364,"HUNTER, OTHELLO",P005160   ,Missed Two Pointer (0/1 -  1 pt),2FGA,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,44,01:24,29,365,"HUNTER, OTHELLO",P005160   ,Off Rebound (1),O,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,44,01:22,29,366,"HUNTER, OTHELLO",P005160   ,Two Pointer (1/2 -  3 pt),2FGM,56.0,54.0,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,23,01:00,29,367,"GUDURIC, MARKO",P004004   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,44,00:58,30,369,"HUNTER, OTHELLO",P005160   ,Def Rebound (1),D,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,13,00:36,30,370,"RODRIGUEZ, SERGIO",PCVM      ,Missed Two Pointer (1/2 -  8 pt),2FGA,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,16,00:34,30,371,"SLOUKAS, KOSTAS",P001926   ,Def Rebound (3),D,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,16,00:33,30,372,"SLOUKAS, KOSTAS",P001926   ,Turnover (3),TO,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,21,00:33,30,373,"NUNNALLY, JAMES",P007400   ,In,IN,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,23,00:33,30,374,"GUDURIC, MARKO",P004004   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,22,00:33,30,375,"HIGGINS, CORY",P006450   ,Out,OUT,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,41,00:33,30,376,"KURBANOV, NIKITA",PJLX      ,In,IN,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,9,00:25,30,377,"WESTERMANN, LEO",P002543   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,1,00:22,30,378,"THOMPSON, JASON",P007998   ,Def Rebound (3),D,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,13,00:13,30,379,"RODRIGUEZ, SERGIO",PCVM      ,Foul (1),CM,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,16,00:13,30,380,"SLOUKAS, KOSTAS",P001926   ,Foul Drawn (3),RV,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,16,00:13,30,381,"SLOUKAS, KOSTAS",P001926   ,Free Throw In (1/1 -  1 pt),FTM,57.0,54.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,16,00:13,30,382,"SLOUKAS, KOSTAS",P001926   ,Free Throw In (2/2 -  2 pt),FTM,58.0,54.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,16,00:13,30,383,"SLOUKAS, KOSTAS",P001926   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,23,00:13,30,384,"GUDURIC, MARKO",P004004   ,In,IN,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,13,00:02,30,385,"RODRIGUEZ, SERGIO",PCVM      ,Missed Three Pointer (2/7 -  8 pt),3FGA,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,23,00:01,30,386,"GUDURIC, MARKO",P004004   ,Def Rebound (1),D,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+          ,,,,31,388,,          ,End Period,EP,,,,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+          ,,,,31,391,,          ,Begin Period,BP,,,,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,1,10:00,31,389,"DE COLO, NANDO",P002100   ,In,IN,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,9,10:00,31,390,"WESTERMANN, LEO",P002543   ,Out,OUT,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,1,09:44,31,392,"DE COLO, NANDO",P002100   ,Missed Three Pointer (1/3 -  9 pt),3FGA,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,20,09:42,31,393,"VORONTSEVICH, ANDREY",PLHI      ,Off Rebound (1),O,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,4,09:42,31,394,"MELLI, NICOLO",P002849   ,Foul (2),CM,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,20,09:42,31,395,"VORONTSEVICH, ANDREY",PLHI      ,Foul Drawn (1),RV,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,20,09:32,31,396,"VORONTSEVICH, ANDREY",PLHI      ,Two Pointer (1/1 -  11 pt),2FGM,58.0,56.0,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,41,09:31,31,397,"KURBANOV, NIKITA",PJLX      ,Assist (1),AS,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,23,09:13,31,398,"GUDURIC, MARKO",P004004   ,Turnover (2),TO,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,13,08:58,32,400,"RODRIGUEZ, SERGIO",PCVM      ,Two Pointer (2/3 -  10 pt),2FGM,58.0,58.0,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,41,08:56,32,401,"KURBANOV, NIKITA",PJLX      ,Assist (2),AS,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,33,08:28,32,402,"KALINIC, NIKOLA",P004866   ,Turnover (2),TO,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,44,08:27,32,403,"HUNTER, OTHELLO",P005160   ,Steal (2),ST,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,20,08:15,32,404,"VORONTSEVICH, ANDREY",PLHI      ,Three Pointer (4/4 -  14 pt),3FGM,58.0,61.0,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,1,08:15,32,405,"DE COLO, NANDO",P002100   ,Assist (5),AS,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,,08:15,32,406,,          ,Time Out (1),TOUT,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+          ,,,08:15,32,407,,          ,TV Time Out (4),TOUT_TV,,,,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,16,08:15,32,408,"SLOUKAS, KOSTAS",P001926   ,In,IN,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,23,08:15,32,409,"GUDURIC, MARKO",P004004   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,33,08:15,32,410,"KALINIC, NIKOLA",P004866   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,70,08:15,32,411,"DATOME, LUIGI",PCCD      ,In,IN,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,16,07:56,33,413,"SLOUKAS, KOSTAS",P001926   ,Two Pointer (1/2 -  4 pt),2FGM,60.0,61.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,44,07:43,33,414,"HUNTER, OTHELLO",P005160   ,Two Pointer (2/3 -  5 pt),2FGM,60.0,63.0,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,1,07:42,33,415,"DE COLO, NANDO",P002100   ,Assist (6),AS,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,21,07:19,33,416,"NUNNALLY, JAMES",P007400   ,Missed Three Pointer (1/2 -  10 pt),3FGA,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,41,07:17,33,417,"KURBANOV, NIKITA",PJLX      ,Def Rebound (2),D,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,44,07:01,33,418,"HUNTER, OTHELLO",P005160   ,Two Pointer (3/4 -  7 pt),2FGM,60.0,65.0,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,1,07:00,34,420,"DE COLO, NANDO",P002100   ,Assist (7),AS,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,44,06:46,34,421,"HUNTER, OTHELLO",P005160   ,Foul (5),CM,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,16,06:46,34,422,"SLOUKAS, KOSTAS",P001926   ,Foul Drawn (4),RV,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,1,06:46,34,423,"THOMPSON, JASON",P007998   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,24,06:46,34,424,"VESELY, JAN",P000925   ,In,IN,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,42,06:46,34,425,"HINES, KYLE",P002812   ,In,IN,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,44,06:46,34,426,"HUNTER, OTHELLO",P005160   ,Out,OUT,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,21,06:33,34,427,"NUNNALLY, JAMES",P007400   ,Missed Three Pointer (1/3 -  10 pt),3FGA,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,24,06:31,34,428,"VESELY, JAN",P000925   ,Off Rebound (3),O,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,24,06:29,34,429,"VESELY, JAN",P000925   ,Two Pointer (5/5 -  13 pt),2FGM,62.0,65.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,,06:29,34,430,,          ,Time Out (1),TOUT,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,42,06:23,34,468,"HINES, KYLE",P002812   ,Shot Rejected (1),AG,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,42,06:23,34,467,"HINES, KYLE",P002812   ,Missed Two Pointer (6/8 -  13 pt),2FGA,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,24,06:22,34,466,"VESELY, JAN",P000925   ,Block (2),FV,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,4,06:19,34,432,"MELLI, NICOLO",P002849   ,Def Rebound (3),D,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,70,06:09,34,433,"DATOME, LUIGI",PCCD      ,Three Pointer (1/2 -  8 pt),3FGM,65.0,65.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,16,06:07,34,434,"SLOUKAS, KOSTAS",P001926   ,Assist (3),AS,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,42,05:51,35,436,"HINES, KYLE",P002812   ,Two Pointer (7/9 -  15 pt),2FGM,65.0,67.0,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,1,05:49,35,437,"DE COLO, NANDO",P002100   ,Assist (8),AS,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,24,05:33,35,438,"VESELY, JAN",P000925   ,Offensive Foul (3),OF,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,24,05:33,35,439,"VESELY, JAN",P000925   ,Turnover (1),TO,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,20,05:33,35,440,"VORONTSEVICH, ANDREY",PLHI      ,Foul Drawn (2),RV,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,24,05:20,35,441,"VESELY, JAN",P000925   ,Foul (4),CM,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,1,05:20,35,442,"DE COLO, NANDO",P002100   ,Foul Drawn (3),RV,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,16,05:05,35,443,"SLOUKAS, KOSTAS",P001926   ,Block (1),FV,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,13,05:03,35,444,"RODRIGUEZ, SERGIO",PCVM      ,Missed Three Pointer (2/8 -  10 pt),3FGA,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,13,05:03,35,445,"RODRIGUEZ, SERGIO",PCVM      ,Shot Rejected (1),AG,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,4,05:01,35,446,"MELLI, NICOLO",P002849   ,Def Rebound (4),D,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,4,04:55,36,448,"MELLI, NICOLO",P002849   ,Three Pointer (2/3 -  13 pt),3FGM,68.0,67.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,24,04:55,36,449,"VESELY, JAN",P000925   ,Assist (4),AS,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,22,04:55,36,450,"HIGGINS, CORY",P006450   ,In,IN,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,41,04:55,36,451,"KURBANOV, NIKITA",PJLX      ,Out,OUT,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,1,04:40,36,452,"DE COLO, NANDO",P002100   ,Two Pointer (4/8 -  11 pt),2FGM,68.0,69.0,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,1,04:40,36,453,"DE COLO, NANDO",P002100   ,Foul Drawn (4),RV,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,4,04:40,36,454,"MELLI, NICOLO",P002849   ,Foul (3),CM,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,1,04:40,36,455,"DE COLO, NANDO",P002100   ,Missed Free Throw (0/1 -  11 pt),FTA,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,16,04:40,36,456,"SLOUKAS, KOSTAS",P001926   ,Def Rebound (4),D,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,70,04:24,36,457,"DATOME, LUIGI",PCCD      ,Missed Three Pointer (1/3 -  8 pt),3FGA,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,,04:21,36,458,,          ,Def Rebound (3),D,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,70,04:12,36,459,"DATOME, LUIGI",PCCD      ,Foul (3),CM,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,22,04:12,36,460,"HIGGINS, CORY",P006450   ,Foul Drawn (6),RV,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,22,04:12,36,461,"HIGGINS, CORY",P006450   ,Free Throw In (1/1 -  9 pt),FTM,68.0,70.0,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,22,04:12,36,462,"HIGGINS, CORY",P006450   ,Free Throw In (2/2 -  10 pt),FTM,68.0,71.0,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,13,03:56,37,464,"RODRIGUEZ, SERGIO",PCVM      ,Foul (2),CM,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,16,03:56,37,465,"SLOUKAS, KOSTAS",P001926   ,Foul Drawn (5),RV,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,16,03:51,37,469,"SLOUKAS, KOSTAS",P001926   ,Missed Three Pointer (0/2 -  4 pt),3FGA,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,13,03:49,37,470,"RODRIGUEZ, SERGIO",PCVM      ,Def Rebound (3),D,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,11,03:46,37,471,"WANAMAKER, BRAD",P005838   ,In,IN,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,21,03:46,37,472,"NUNNALLY, JAMES",P007400   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,20,03:30,37,473,"VORONTSEVICH, ANDREY",PLHI      ,Three Pointer (5/5 -  17 pt),3FGM,68.0,74.0,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,13,03:30,37,474,"RODRIGUEZ, SERGIO",PCVM      ,Assist (4),AS,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,,03:30,37,475,,          ,Time Out (2),TOUT,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,4,03:17,37,476,"MELLI, NICOLO",P002849   ,Two Pointer (4/4 -  15 pt),2FGM,70.0,74.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,16,03:15,37,477,"SLOUKAS, KOSTAS",P001926   ,Assist (4),AS,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,42,02:50,38,479,"HINES, KYLE",P002812   ,Missed Two Pointer (7/10 -  15 pt),2FGA,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,16,02:47,38,480,"SLOUKAS, KOSTAS",P001926   ,Def Rebound (5),D,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,16,02:44,38,481,"SLOUKAS, KOSTAS",P001926   ,Turnover (4),TO,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,22,02:26,38,482,"HIGGINS, CORY",P006450   ,Turnover (2),TO,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,16,02:25,38,483,"SLOUKAS, KOSTAS",P001926   ,Steal (1),ST,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,11,02:08,38,484,"WANAMAKER, BRAD",P005838   ,Missed Two Pointer (2/6 -  7 pt),2FGA,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,11,02:06,38,485,"WANAMAKER, BRAD",P005838   ,Off Rebound (1),O,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,22,01:58,39,487,"HIGGINS, CORY",P006450   ,Foul (3),CM,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,24,01:58,39,488,"VESELY, JAN",P000925   ,Foul Drawn (7),RV,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,11,01:52,39,489,"WANAMAKER, BRAD",P005838   ,Two Pointer (3/7 -  9 pt),2FGM,72.0,74.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,70,01:52,39,490,"DATOME, LUIGI",PCCD      ,Assist (2),AS,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,,01:52,39,491,,          ,Time Out (2),TOUT,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,16,01:52,39,492,"SLOUKAS, KOSTAS",P001926   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,33,01:52,39,493,"KALINIC, NIKOLA",P004866   ,In,IN,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,22,01:36,39,494,"HIGGINS, CORY",P006450   ,Two Pointer (5/8 -  12 pt),2FGM,72.0,76.0,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,24,01:29,39,495,"VESELY, JAN",P000925   ,Offensive Foul (5),OF,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,24,01:29,39,496,"VESELY, JAN",P000925   ,Turnover (2),TO,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,13,01:29,39,497,"RODRIGUEZ, SERGIO",PCVM      ,Foul Drawn (1),RV,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,16,01:29,39,498,"SLOUKAS, KOSTAS",P001926   ,In,IN,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,24,01:29,39,499,"VESELY, JAN",P000925   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,22,01:14,39,500,"HIGGINS, CORY",P006450   ,Two Pointer (6/9 -  14 pt),2FGM,72.0,78.0,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,,01:14,39,501,,          ,Time Out (3),TOUT,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,1,01:14,39,502,"THOMPSON, JASON",P007998   ,In,IN,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,33,01:14,39,503,"KALINIC, NIKOLA",P004866   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,1,01:10,39,504,"DE COLO, NANDO",P002100   ,Foul (3),CM,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,1,01:10,39,505,"THOMPSON, JASON",P007998   ,Foul Drawn (3),RV,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,4,01:04,39,506,"MELLI, NICOLO",P002849   ,Three Pointer (3/4 -  18 pt),3FGM,75.0,78.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,16,01:04,39,507,"SLOUKAS, KOSTAS",P001926   ,Assist (5),AS,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,1,00:45,40,509,"THOMPSON, JASON",P007998   ,Foul (2),CM,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,22,00:45,40,510,"HIGGINS, CORY",P006450   ,Foul Drawn (7),RV,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,21,00:45,40,511,"NUNNALLY, JAMES",P007400   ,In,IN,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,70,00:45,40,512,"DATOME, LUIGI",PCCD      ,Out,OUT,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,13,00:45,40,513,"RODRIGUEZ, SERGIO",PCVM      ,Out,OUT,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,41,00:45,40,514,"KURBANOV, NIKITA",PJLX      ,In,IN,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,22,00:45,40,515,"HIGGINS, CORY",P006450   ,Free Throw In (3/3 -  15 pt),FTM,75.0,79.0,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,22,00:45,40,516,"HIGGINS, CORY",P006450   ,Missed Free Throw (3/4 -  15 pt),FTA,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,11,00:45,40,517,"WANAMAKER, BRAD",P005838   ,Def Rebound (3),D,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,22,00:37,40,518,"HIGGINS, CORY",P006450   ,Foul (4),CM,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,11,00:37,40,519,"WANAMAKER, BRAD",P005838   ,Foul Drawn (1),RV,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,13,00:37,40,520,"RODRIGUEZ, SERGIO",PCVM      ,In,IN,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,41,00:37,40,521,"KURBANOV, NIKITA",PJLX      ,Out,OUT,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,11,00:37,40,522,"WANAMAKER, BRAD",P005838   ,Free Throw In (1/1 -  10 pt),FTM,76.0,79.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,11,00:37,40,523,"WANAMAKER, BRAD",P005838   ,Free Throw In (2/2 -  11 pt),FTM,77.0,79.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,22,00:16,40,524,"HIGGINS, CORY",P006450   ,Missed Two Pointer (6/10 -  15 pt),2FGA,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,16,00:14,40,525,"SLOUKAS, KOSTAS",P001926   ,Def Rebound (6),D,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,22,00:11,40,526,"HIGGINS, CORY",P006450   ,Foul (5),CM,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,16,00:11,40,527,"SLOUKAS, KOSTAS",P001926   ,Foul Drawn (6),RV,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,22,00:11,40,528,"HIGGINS, CORY",P006450   ,Out,OUT,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,41,00:11,40,529,"KURBANOV, NIKITA",PJLX      ,In,IN,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,16,00:11,40,530,"SLOUKAS, KOSTAS",P001926   ,Free Throw In (3/3 -  5 pt),FTM,78.0,79.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,16,00:11,40,531,"SLOUKAS, KOSTAS",P001926   ,Free Throw In (4/4 -  6 pt),FTM,79.0,79.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,,00:11,40,532,,          ,Time Out (3),TOUT,,,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,1,00:11,40,533,"THOMPSON, JASON",P007998   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+ULK       ,,33,00:11,40,534,"KALINIC, NIKOLA",P004866   ,In,IN,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+CSK       ,,1,00:01,40,535,"DE COLO, NANDO",P002100   ,Two Pointer (5/9 -  13 pt),2FGM,79.0,81.0,CSKA Moscow,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK
+          ,,,,41,538,,          ,End Game,EG,,,,0,Fenerbahce Dogus Istanbul,ULK,CSKA Moscow,CSK

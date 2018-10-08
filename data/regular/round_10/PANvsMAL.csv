@@ -1,472 +1,472 @@
-CODETEAM,COMMENT,DORSAL,MARKERTIME,MINUTE,NUMBEROFPLAY,PLAYER,PLAYER_ID,PLAYINFO,PLAYTYPE,POINTS_A,POINTS_B,TEAM,TYPE
-          ,,,,1,15,,          ,Begin Period,BP,,,,0
-PAN       ,,24,09:43,1,16,"LOJESKI, MATT",P003608   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Panathinaikos Superfoods Athens,0
-MAL       ,,,09:43,1,17,,          ,Def Rebound (1),D,,,Unicaja Malaga,0
-MAL       ,,23,09:20,1,18,"BROOKS, JEFF",P004117   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Unicaja Malaga,0
-MAL       ,,40,09:17,1,19,"AUGUSTINE, JAMES",P001438   ,Off Rebound (1),O,,,Unicaja Malaga,0
-MAL       ,,40,09:17,1,20,"AUGUSTINE, JAMES",P001438   ,Two Pointer (1/1 -  2 pt),2FGM,,2.0,Unicaja Malaga,0
-PAN       ,,0,09:00,2,22,"SINGLETON, CHRIS",P006614   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Panathinaikos Superfoods Athens,0
-MAL       ,,11,08:57,2,23,"DIEZ, DANIEL",P003198   ,Def Rebound (1),D,,,Unicaja Malaga,0
-MAL       ,,3,08:52,2,24,"MCCALLUM, RAY",P008002   ,Two Pointer (1/1 -  2 pt),2FGM,,4.0,Unicaja Malaga,0
-PAN       ,,0,08:28,2,25,"SINGLETON, CHRIS",P006614   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Panathinaikos Superfoods Athens,0
-MAL       ,,3,08:26,2,26,"MCCALLUM, RAY",P008002   ,Def Rebound (1),D,,,Unicaja Malaga,0
-MAL       ,,16,08:07,2,27,"NEDOVIC, NEMANJA",P000848   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Unicaja Malaga,0
-PAN       ,,33,08:05,2,28,"CALATHES, NICK",P001932   ,Def Rebound (1),D,,,Panathinaikos Superfoods Athens,0
-PAN       ,,14,08:01,2,29,"GIST, JAMES",P002980   ,Two Pointer (1/1 -  2 pt),2FGM,2.0,4.0,Panathinaikos Superfoods Athens,0
-PAN       ,,33,07:59,3,31,"CALATHES, NICK",P001932   ,Assist (1),AS,,,Panathinaikos Superfoods Athens,0
-PAN       ,,0,07:41,3,32,"SINGLETON, CHRIS",P006614   ,Foul (1),CM,,,Panathinaikos Superfoods Athens,0
-MAL       ,,16,07:41,3,33,"NEDOVIC, NEMANJA",P000848   ,Foul Drawn (1),RV,,,Unicaja Malaga,0
-PAN       ,,33,07:29,3,34,"CALATHES, NICK",P001932   ,Foul (1),CM,,,Panathinaikos Superfoods Athens,0
-MAL       ,,16,07:29,3,35,"NEDOVIC, NEMANJA",P000848   ,Foul Drawn (2),RV,,,Unicaja Malaga,0
-MAL       ,,23,07:20,3,36,"BROOKS, JEFF",P004117   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Unicaja Malaga,0
-MAL       ,,,07:20,3,37,,          ,Off Rebound (1),O,,,Unicaja Malaga,0
-MAL       ,,16,07:11,3,38,"NEDOVIC, NEMANJA",P000848   ,Turnover (1),TO,,,Unicaja Malaga,0
-PAN       ,,24,07:08,3,39,"LOJESKI, MATT",P003608   ,Three Pointer (1/1 -  3 pt),3FGM,5.0,4.0,Panathinaikos Superfoods Athens,0
-PAN       ,,14,07:08,3,40,"GIST, JAMES",P002980   ,Assist (1),AS,,,Panathinaikos Superfoods Athens,0
-MAL       ,,16,07:01,3,42,"NEDOVIC, NEMANJA",P000848   ,Three Pointer (1/1 -  3 pt),3FGM,5.0,7.0,Unicaja Malaga,0
-MAL       ,,23,07:01,3,43,"BROOKS, JEFF",P004117   ,Assist (1),AS,,,Unicaja Malaga,0
-PAN       ,,14,06:17,4,45,"GIST, JAMES",P002980   ,Two Pointer (2/2 -  4 pt),2FGM,7.0,7.0,Panathinaikos Superfoods Athens,0
-PAN       ,,24,06:17,4,46,"LOJESKI, MATT",P003608   ,Assist (1),AS,,,Panathinaikos Superfoods Athens,0
-          ,,,06:17,4,47,,          ,TV Time Out (1),TOUT_TV,,,,0
-MAL       ,,40,06:02,4,48,"AUGUSTINE, JAMES",P001438   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,Unicaja Malaga,0
-MAL       ,,40,06:00,4,49,"AUGUSTINE, JAMES",P001438   ,Off Rebound (2),O,,,Unicaja Malaga,0
-MAL       ,,40,05:58,5,51,"AUGUSTINE, JAMES",P001438   ,Missed Two Pointer (1/3 -  2 pt),2FGA,,,Unicaja Malaga,0
-PAN       ,,12,05:57,5,52,"DENMON, MARCUS",P004195   ,Def Rebound (1),D,,,Panathinaikos Superfoods Athens,0
-PAN       ,,14,05:46,5,53,"GIST, JAMES",P002980   ,Two Pointer (3/3 -  6 pt),2FGM,9.0,7.0,Panathinaikos Superfoods Athens,0
-MAL       ,,11,05:29,5,54,"DIEZ, DANIEL",P003198   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Unicaja Malaga,0
-PAN       ,,14,05:25,5,55,"GIST, JAMES",P002980   ,Def Rebound (1),D,,,Panathinaikos Superfoods Athens,0
-PAN       ,,12,05:15,5,56,"DENMON, MARCUS",P004195   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Panathinaikos Superfoods Athens,0
-MAL       ,,23,05:14,5,57,"BROOKS, JEFF",P004117   ,Def Rebound (1),D,,,Unicaja Malaga,0
-MAL       ,,3,05:09,5,58,"MCCALLUM, RAY",P008002   ,Two Pointer (2/2 -  4 pt),2FGM,9.0,9.0,Unicaja Malaga,0
-PAN       ,,0,04:49,6,60,"SINGLETON, CHRIS",P006614   ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,Panathinaikos Superfoods Athens,0
-MAL       ,,40,04:47,6,61,"AUGUSTINE, JAMES",P001438   ,Def Rebound (1),D,,,Unicaja Malaga,0
-MAL       ,,23,04:36,6,62,"BROOKS, JEFF",P004117   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Unicaja Malaga,0
-PAN       ,,24,04:34,6,63,"LOJESKI, MATT",P003608   ,Def Rebound (1),D,,,Panathinaikos Superfoods Athens,0
-PAN       ,,12,04:13,6,64,"DENMON, MARCUS",P004195   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Panathinaikos Superfoods Athens,0
-PAN       ,,0,04:12,6,65,"SINGLETON, CHRIS",P006614   ,Off Rebound (1),O,,,Panathinaikos Superfoods Athens,0
-PAN       ,,0,04:09,6,66,"SINGLETON, CHRIS",P006614   ,Turnover (1),TO,,,Panathinaikos Superfoods Athens,0
-MAL       ,,3,04:06,6,67,"MCCALLUM, RAY",P008002   ,Steal (1),ST,,,Unicaja Malaga,0
-PAN       ,,11,04:00,6,68,"PAPPAS, NIKOS",P000464   ,In,IN,,,Panathinaikos Superfoods Athens,0
-PAN       ,,12,04:00,6,69,"DENMON, MARCUS",P004195   ,Out,OUT,,,Panathinaikos Superfoods Athens,0
-MAL       ,,16,03:49,7,71,"NEDOVIC, NEMANJA",P000848   ,Missed Three Pointer (1/2 -  3 pt),3FGA,,,Unicaja Malaga,0
-PAN       ,,,03:49,7,72,,          ,Def Rebound (2),D,,,Panathinaikos Superfoods Athens,0
-MAL       ,,23,03:37,7,73,"BROOKS, JEFF",P004117   ,Foul (1),CM,,,Unicaja Malaga,0
-PAN       ,,0,03:37,7,74,"SINGLETON, CHRIS",P006614   ,Foul Drawn (1),RV,,,Panathinaikos Superfoods Athens,0
-MAL       ,,11,03:30,7,75,"DIEZ, DANIEL",P003198   ,Foul (1),CM,,,Unicaja Malaga,0
-PAN       ,,14,03:30,7,76,"GIST, JAMES",P002980   ,Foul Drawn (1),RV,,,Panathinaikos Superfoods Athens,0
-PAN       ,,33,03:14,7,77,"CALATHES, NICK",P001932   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Panathinaikos Superfoods Athens,0
-MAL       ,,23,03:13,7,78,"BROOKS, JEFF",P004117   ,Def Rebound (2),D,,,Unicaja Malaga,0
-MAL       ,,3,03:08,7,79,"MCCALLUM, RAY",P008002   ,Missed Two Pointer (2/3 -  4 pt),2FGA,,,Unicaja Malaga,0
-PAN       ,,0,03:06,7,80,"SINGLETON, CHRIS",P006614   ,Def Rebound (1),D,,,Panathinaikos Superfoods Athens,0
-PAN       ,,33,03:01,7,81,"CALATHES, NICK",P001932   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Panathinaikos Superfoods Athens,0
-PAN       ,,0,02:58,8,83,"SINGLETON, CHRIS",P006614   ,Off Rebound (2),O,,,Panathinaikos Superfoods Athens,0
-PAN       ,,0,02:58,8,84,"SINGLETON, CHRIS",P006614   ,Two Pointer (1/2 -  2 pt),2FGM,11.0,9.0,Panathinaikos Superfoods Athens,0
-PAN       ,,3,02:43,8,85,"RIVERS, K.C.",P002429   ,In,IN,,,Panathinaikos Superfoods Athens,0
-PAN       ,,24,02:43,8,86,"LOJESKI, MATT",P003608   ,Out,OUT,,,Panathinaikos Superfoods Athens,0
-MAL       ,,40,02:43,8,87,"AUGUSTINE, JAMES",P001438   ,Out,OUT,,,Unicaja Malaga,0
-MAL       ,,44,02:43,8,88,"MUSLI, DEJAN",PLUR      ,In,IN,,,Unicaja Malaga,0
-MAL       ,,16,02:33,8,89,"NEDOVIC, NEMANJA",P000848   ,Missed Three Pointer (1/3 -  3 pt),3FGA,,,Unicaja Malaga,0
-PAN       ,,14,02:31,8,90,"GIST, JAMES",P002980   ,Def Rebound (2),D,,,Panathinaikos Superfoods Athens,0
-MAL       ,,11,02:27,8,91,"DIEZ, DANIEL",P003198   ,Foul (2),CM,,,Unicaja Malaga,0
-PAN       ,,33,02:27,8,92,"CALATHES, NICK",P001932   ,Foul Drawn (1),RV,,,Panathinaikos Superfoods Athens,0
-MAL       ,,11,02:27,8,93,"DIEZ, DANIEL",P003198   ,Out,OUT,,,Unicaja Malaga,0
-MAL       ,,12,02:27,8,94,"MILOSAVLJEVIC, DRAGAN",P002822   ,In,IN,,,Unicaja Malaga,0
-PAN       ,,33,02:15,8,95,"CALATHES, NICK",P001932   ,Two Pointer (1/3 -  2 pt),2FGM,13.0,9.0,Panathinaikos Superfoods Athens,0
-MAL       ,,23,01:58,9,97,"BROOKS, JEFF",P004117   ,Missed Two Pointer (0/3 -  0 pt),2FGA,,,Unicaja Malaga,0
-PAN       ,,14,01:56,9,98,"GIST, JAMES",P002980   ,Def Rebound (3),D,,,Panathinaikos Superfoods Athens,0
-PAN       ,,14,01:45,9,99,"GIST, JAMES",P002980   ,Two Pointer (4/4 -  8 pt),2FGM,15.0,9.0,Panathinaikos Superfoods Athens,0
-PAN       ,,33,01:42,9,100,"CALATHES, NICK",P001932   ,Assist (2),AS,,,Panathinaikos Superfoods Athens,0
-MAL       ,,,01:39,9,101,,          ,Time Out (1),TOUT,,,Unicaja Malaga,0
-MAL       ,,23,01:39,9,102,"BROOKS, JEFF",P004117   ,Out,OUT,,,Unicaja Malaga,0
-MAL       ,,43,01:39,9,103,"SUAREZ, CARLOS",PJJS      ,In,IN,,,Unicaja Malaga,0
-MAL       ,,16,01:24,9,104,"NEDOVIC, NEMANJA",P000848   ,Turnover (2),TO,,,Unicaja Malaga,0
-PAN       ,,0,01:24,9,105,"SINGLETON, CHRIS",P006614   ,Out,OUT,,,Panathinaikos Superfoods Athens,0
-PAN       ,,15,01:24,9,106,"VOUGIOUKAS, IAN",PTFX      ,In,IN,,,Panathinaikos Superfoods Athens,0
-PAN       ,,33,01:12,9,107,"CALATHES, NICK",P001932   ,Turnover (1),TO,,,Panathinaikos Superfoods Athens,0
-MAL       ,,12,01:11,9,108,"MILOSAVLJEVIC, DRAGAN",P002822   ,Steal (1),ST,,,Unicaja Malaga,0
-MAL       ,,44,01:07,9,109,"MUSLI, DEJAN",PLUR      ,Two Pointer (1/1 -  2 pt),2FGM,15.0,11.0,Unicaja Malaga,0
-MAL       ,,16,01:05,9,110,"NEDOVIC, NEMANJA",P000848   ,Assist (1),AS,,,Unicaja Malaga,0
-MAL       ,,44,00:53,10,112,"MUSLI, DEJAN",PLUR      ,Foul (1),CM,,,Unicaja Malaga,0
-PAN       ,,11,00:53,10,113,"PAPPAS, NIKOS",P000464   ,Foul Drawn (1),RV,,,Panathinaikos Superfoods Athens,0
-PAN       ,,11,00:53,10,114,"PAPPAS, NIKOS",P000464   ,Missed Free Throw (0/1 -  0 pt),FTA,,,Panathinaikos Superfoods Athens,0
-PAN       ,,11,00:53,10,115,"PAPPAS, NIKOS",P000464   ,Free Throw In (1/2 -  1 pt),FTM,16.0,11.0,Panathinaikos Superfoods Athens,0
-MAL       ,,16,00:41,10,116,"NEDOVIC, NEMANJA",P000848   ,Two Pointer (1/2 -  5 pt),2FGM,16.0,13.0,Unicaja Malaga,0
-PAN       ,,15,00:25,10,117,"VOUGIOUKAS, IAN",PTFX      ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Panathinaikos Superfoods Athens,0
-MAL       ,,44,00:23,10,118,"MUSLI, DEJAN",PLUR      ,Def Rebound (1),D,,,Unicaja Malaga,0
-MAL       ,,44,00:03,10,119,"MUSLI, DEJAN",PLUR      ,Two Pointer (2/2 -  4 pt),2FGM,16.0,15.0,Unicaja Malaga,0
-MAL       ,,16,00:03,10,120,"NEDOVIC, NEMANJA",P000848   ,Assist (2),AS,,,Unicaja Malaga,0
-          ,,,,11,122,,          ,End Period,EP,,,,0
-          ,,,,11,127,,          ,Begin Period,BP,,,,0
-PAN       ,,19,10:00,11,123,"LEKAVICIUS, LUKAS",P003210   ,In,IN,,,Panathinaikos Superfoods Athens,0
-PAN       ,,33,10:00,11,124,"CALATHES, NICK",P001932   ,Out,OUT,,,Panathinaikos Superfoods Athens,0
-MAL       ,,3,10:00,11,125,"MCCALLUM, RAY",P008002   ,Out,OUT,,,Unicaja Malaga,0
-MAL       ,,9,10:00,11,126,"DIAZ, ALBERTO",P004213   ,In,IN,,,Unicaja Malaga,0
-PAN       ,,15,09:44,11,128,"VOUGIOUKAS, IAN",PTFX      ,Offensive Foul (1),OF,,,Panathinaikos Superfoods Athens,0
-PAN       ,,15,09:44,11,129,"VOUGIOUKAS, IAN",PTFX      ,Turnover (1),TO,,,Panathinaikos Superfoods Athens,0
-MAL       ,,12,09:44,11,130,"MILOSAVLJEVIC, DRAGAN",P002822   ,Foul Drawn (1),RV,,,Unicaja Malaga,0
-MAL       ,,44,09:22,11,131,"MUSLI, DEJAN",PLUR      ,Turnover (1),TO,,,Unicaja Malaga,0
-PAN       ,,3,09:20,11,132,"RIVERS, K.C.",P002429   ,Steal (1),ST,,,Panathinaikos Superfoods Athens,0
-PAN       ,,11,09:08,11,133,"PAPPAS, NIKOS",P000464   ,Missed Three Pointer (0/1 -  1 pt),3FGA,,,Panathinaikos Superfoods Athens,0
-PAN       ,,14,09:06,11,134,"GIST, JAMES",P002980   ,Off Rebound (1),O,,,Panathinaikos Superfoods Athens,0
-PAN       ,,14,08:56,12,136,"GIST, JAMES",P002980   ,Two Pointer (5/5 -  10 pt),2FGM,18.0,15.0,Panathinaikos Superfoods Athens,0
-MAL       ,,16,08:39,12,137,"NEDOVIC, NEMANJA",P000848   ,Turnover (3),TO,,,Unicaja Malaga,0
-PAN       ,,14,08:37,12,138,"GIST, JAMES",P002980   ,Steal (1),ST,,,Panathinaikos Superfoods Athens,0
-PAN       ,,3,08:30,12,139,"RIVERS, K.C.",P002429   ,Three Pointer (1/1 -  3 pt),3FGM,21.0,15.0,Panathinaikos Superfoods Athens,0
-PAN       ,,19,08:28,12,140,"LEKAVICIUS, LUKAS",P003210   ,Assist (1),AS,,,Panathinaikos Superfoods Athens,0
-PAN       ,,11,08:22,12,141,"PAPPAS, NIKOS",P000464   ,Foul (1),CM,,,Panathinaikos Superfoods Athens,0
-MAL       ,,9,08:22,12,142,"DIAZ, ALBERTO",P004213   ,Foul Drawn (1),RV,,,Unicaja Malaga,0
-MAL       ,,10,08:22,12,143,"SALIN, SASU",P002820   ,In,IN,,,Unicaja Malaga,0
-MAL       ,,16,08:22,12,144,"NEDOVIC, NEMANJA",P000848   ,Out,OUT,,,Unicaja Malaga,0
-MAL       ,,10,08:02,12,145,"SALIN, SASU",P002820   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Unicaja Malaga,0
-PAN       ,,14,08:00,12,146,"GIST, JAMES",P002980   ,Def Rebound (4),D,,,Panathinaikos Superfoods Athens,0
-PAN       ,,3,07:55,13,148,"RIVERS, K.C.",P002429   ,Missed Three Pointer (1/2 -  3 pt),3FGA,,,Panathinaikos Superfoods Athens,0
-MAL       ,,9,07:53,13,149,"DIAZ, ALBERTO",P004213   ,Def Rebound (1),D,,,Unicaja Malaga,0
-MAL       ,,43,07:41,13,150,"SUAREZ, CARLOS",PJJS      ,Three Pointer (1/1 -  3 pt),3FGM,21.0,18.0,Unicaja Malaga,0
-MAL       ,,12,07:38,13,151,"MILOSAVLJEVIC, DRAGAN",P002822   ,Assist (1),AS,,,Unicaja Malaga,0
-MAL       ,,10,07:26,13,152,"SALIN, SASU",P002820   ,Foul (1),CM,,,Unicaja Malaga,0
-PAN       ,,11,07:26,13,153,"PAPPAS, NIKOS",P000464   ,Foul Drawn (2),RV,,,Panathinaikos Superfoods Athens,0
-PAN       ,,14,07:26,13,154,"GIST, JAMES",P002980   ,Out,OUT,,,Panathinaikos Superfoods Athens,0
-PAN       ,,22,07:26,13,155,"GABRIEL, KENNY",P005881   ,In,IN,,,Panathinaikos Superfoods Athens,0
-PAN       ,,11,07:19,13,156,"PAPPAS, NIKOS",P000464   ,Missed Two Pointer (0/1 -  1 pt),2FGA,,,Panathinaikos Superfoods Athens,0
-PAN       ,,22,07:16,13,157,"GABRIEL, KENNY",P005881   ,Off Rebound (1),O,,,Panathinaikos Superfoods Athens,0
-PAN       ,,22,07:16,13,158,"GABRIEL, KENNY",P005881   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Panathinaikos Superfoods Athens,0
-MAL       ,,,07:16,13,159,,          ,Def Rebound (3),D,,,Unicaja Malaga,0
-MAL       ,,44,07:04,13,160,"MUSLI, DEJAN",PLUR      ,Offensive Foul (2),OF,,,Unicaja Malaga,0
-MAL       ,,44,07:04,13,161,"MUSLI, DEJAN",PLUR      ,Turnover (2),TO,,,Unicaja Malaga,0
-PAN       ,,15,07:04,13,162,"VOUGIOUKAS, IAN",PTFX      ,Foul Drawn (1),RV,,,Panathinaikos Superfoods Athens,0
-PAN       ,,19,06:53,14,164,"LEKAVICIUS, LUKAS",P003210   ,Three Pointer (1/1 -  3 pt),3FGM,24.0,18.0,Panathinaikos Superfoods Athens,0
-PAN       ,,11,06:51,14,165,"PAPPAS, NIKOS",P000464   ,Assist (1),AS,,,Panathinaikos Superfoods Athens,0
-MAL       ,,9,06:31,14,166,"DIAZ, ALBERTO",P004213   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Unicaja Malaga,0
-MAL       ,,,06:31,14,167,,          ,Off Rebound (2),O,,,Unicaja Malaga,0
-PAN       ,,15,06:31,14,168,"VOUGIOUKAS, IAN",PTFX      ,Foul (2),CM,,,Panathinaikos Superfoods Athens,0
-MAL       ,,44,06:31,14,169,"MUSLI, DEJAN",PLUR      ,Foul Drawn (1),RV,,,Unicaja Malaga,0
-PAN       ,,15,06:31,14,170,"VOUGIOUKAS, IAN",PTFX      ,Out,OUT,,,Panathinaikos Superfoods Athens,0
-PAN       ,,23,06:31,14,171,"AUGUSTE, ZACH",P007948   ,In,IN,,,Panathinaikos Superfoods Athens,0
-MAL       ,,40,06:31,14,172,"AUGUSTINE, JAMES",P001438   ,In,IN,,,Unicaja Malaga,0
-MAL       ,,44,06:31,14,173,"MUSLI, DEJAN",PLUR      ,Out,OUT,,,Unicaja Malaga,0
-PAN       ,,22,06:29,14,174,"GABRIEL, KENNY",P005881   ,Foul (1),CM,,,Panathinaikos Superfoods Athens,0
-MAL       ,,43,06:29,14,175,"SUAREZ, CARLOS",PJJS      ,Foul Drawn (1),RV,,,Unicaja Malaga,0
-MAL       ,,10,06:22,14,176,"SALIN, SASU",P002820   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Unicaja Malaga,0
-MAL       ,,40,06:20,14,177,"AUGUSTINE, JAMES",P001438   ,Off Rebound (3),O,,,Unicaja Malaga,0
-PAN       ,,11,06:19,14,178,"PAPPAS, NIKOS",P000464   ,Foul (2),CM,,,Panathinaikos Superfoods Athens,0
-MAL       ,,9,06:19,14,179,"DIAZ, ALBERTO",P004213   ,Foul Drawn (2),RV,,,Unicaja Malaga,0
-MAL       ,,9,06:19,14,180,"DIAZ, ALBERTO",P004213   ,Free Throw In (1/1 -  1 pt),FTM,24.0,19.0,Unicaja Malaga,0
-MAL       ,,9,06:19,14,181,"DIAZ, ALBERTO",P004213   ,Free Throw In (2/2 -  2 pt),FTM,24.0,20.0,Unicaja Malaga,0
-MAL       ,,9,06:18,14,182,"DIAZ, ALBERTO",P004213   ,Foul (1),CM,,,Unicaja Malaga,0
-PAN       ,,19,06:18,14,183,"LEKAVICIUS, LUKAS",P003210   ,Foul Drawn (1),RV,,,Panathinaikos Superfoods Athens,0
-PAN       ,,19,06:05,14,184,"LEKAVICIUS, LUKAS",P003210   ,Turnover (1),TO,,,Panathinaikos Superfoods Athens,0
-MAL       ,,9,06:03,14,185,"DIAZ, ALBERTO",P004213   ,Steal (1),ST,,,Unicaja Malaga,0
-MAL       ,,10,06:00,15,187,"SALIN, SASU",P002820   ,Turnover (1),TO,,,Unicaja Malaga,0
-PAN       ,,3,05:58,15,188,"RIVERS, K.C.",P002429   ,Steal (2),ST,,,Panathinaikos Superfoods Athens,0
-PAN       ,,3,05:56,15,189,"RIVERS, K.C.",P002429   ,Turnover (1),TO,,,Panathinaikos Superfoods Athens,0
-MAL       ,,9,05:54,15,190,"DIAZ, ALBERTO",P004213   ,Steal (2),ST,,,Unicaja Malaga,0
-MAL       ,,12,05:50,15,191,"MILOSAVLJEVIC, DRAGAN",P002822   ,Three Pointer (1/1 -  3 pt),3FGM,24.0,23.0,Unicaja Malaga,0
-MAL       ,,9,05:48,15,192,"DIAZ, ALBERTO",P004213   ,Assist (1),AS,,,Unicaja Malaga,0
-MAL       ,,10,05:33,15,193,"SALIN, SASU",P002820   ,Foul (2),CM,,,Unicaja Malaga,0
-PAN       ,,3,05:33,15,194,"RIVERS, K.C.",P002429   ,Foul Drawn (1),RV,,,Panathinaikos Superfoods Athens,0
-PAN       ,,3,05:33,15,195,"RIVERS, K.C.",P002429   ,Free Throw In (1/1 -  4 pt),FTM,25.0,23.0,Panathinaikos Superfoods Athens,0
-PAN       ,,3,05:33,15,196,"RIVERS, K.C.",P002429   ,Free Throw In (2/2 -  5 pt),FTM,26.0,23.0,Panathinaikos Superfoods Athens,0
-MAL       ,,12,05:17,15,197,"MILOSAVLJEVIC, DRAGAN",P002822   ,Two Pointer (1/1 -  5 pt),2FGM,26.0,25.0,Unicaja Malaga,0
-PAN       ,,23,04:57,16,199,"AUGUSTE, ZACH",P007948   ,Two Pointer (1/1 -  2 pt),2FGM,28.0,25.0,Panathinaikos Superfoods Athens,0
-PAN       ,,11,04:55,16,200,"PAPPAS, NIKOS",P000464   ,Assist (2),AS,,,Panathinaikos Superfoods Athens,0
-MAL       ,,43,04:41,16,201,"SUAREZ, CARLOS",PJJS      ,Two Pointer (1/1 -  5 pt),2FGM,28.0,27.0,Unicaja Malaga,0
-MAL       ,,10,04:37,16,202,"SALIN, SASU",P002820   ,Assist (1),AS,,,Unicaja Malaga,0
-PAN       ,,3,04:16,16,203,"RIVERS, K.C.",P002429   ,Missed Two Pointer (0/1 -  5 pt),2FGA,,,Panathinaikos Superfoods Athens,0
-MAL       ,,10,04:14,16,204,"SALIN, SASU",P002820   ,Def Rebound (1),D,,,Unicaja Malaga,0
-PAN       ,,23,04:01,16,205,"AUGUSTE, ZACH",P007948   ,Foul (1),CM,,,Panathinaikos Superfoods Athens,0
-MAL       ,,12,04:01,16,206,"MILOSAVLJEVIC, DRAGAN",P002822   ,Foul Drawn (2),RV,,,Unicaja Malaga,0
-          ,,,04:01,16,207,,          ,TV Time Out (2),TOUT_TV,,,,0
-PAN       ,,11,04:01,16,208,"PAPPAS, NIKOS",P000464   ,Out,OUT,,,Panathinaikos Superfoods Athens,0
-PAN       ,,12,04:01,16,209,"DENMON, MARCUS",P004195   ,In,IN,,,Panathinaikos Superfoods Athens,0
-MAL       ,,12,04:01,16,210,"MILOSAVLJEVIC, DRAGAN",P002822   ,Free Throw In (1/1 -  6 pt),FTM,28.0,28.0,Unicaja Malaga,0
-MAL       ,,12,04:01,16,211,"MILOSAVLJEVIC, DRAGAN",P002822   ,Free Throw In (2/2 -  7 pt),FTM,28.0,29.0,Unicaja Malaga,0
-PAN       ,,22,03:42,17,213,"GABRIEL, KENNY",P005881   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Panathinaikos Superfoods Athens,0
-MAL       ,,10,03:40,17,214,"SALIN, SASU",P002820   ,Def Rebound (2),D,,,Unicaja Malaga,0
-MAL       ,,40,03:29,17,215,"AUGUSTINE, JAMES",P001438   ,Two Pointer (2/4 -  4 pt),2FGM,28.0,31.0,Unicaja Malaga,0
-MAL       ,,10,03:26,17,216,"SALIN, SASU",P002820   ,Assist (2),AS,,,Unicaja Malaga,0
-PAN       ,,12,03:11,17,217,"DENMON, MARCUS",P004195   ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,Panathinaikos Superfoods Athens,0
-MAL       ,,43,03:09,17,218,"SUAREZ, CARLOS",PJJS      ,Def Rebound (1),D,,,Unicaja Malaga,0
-MAL       ,,9,02:56,18,220,"DIAZ, ALBERTO",P004213   ,Turnover (1),TO,,,Unicaja Malaga,0
-PAN       ,,12,02:55,18,221,"DENMON, MARCUS",P004195   ,Steal (1),ST,,,Panathinaikos Superfoods Athens,0
-PAN       ,,3,02:51,18,222,"RIVERS, K.C.",P002429   ,Two Pointer (1/2 -  7 pt),2FGM,30.0,31.0,Panathinaikos Superfoods Athens,0
-PAN       ,,19,02:49,18,223,"LEKAVICIUS, LUKAS",P003210   ,Assist (2),AS,,,Panathinaikos Superfoods Athens,0
-MAL       ,,12,02:35,18,224,"MILOSAVLJEVIC, DRAGAN",P002822   ,Missed Two Pointer (1/2 -  7 pt),2FGA,,,Unicaja Malaga,0
-MAL       ,,40,02:32,18,225,"AUGUSTINE, JAMES",P001438   ,Off Rebound (4),O,,,Unicaja Malaga,0
-MAL       ,,40,02:32,18,226,"AUGUSTINE, JAMES",P001438   ,Missed Two Pointer (2/5 -  4 pt),2FGA,,,Unicaja Malaga,0
-PAN       ,,19,02:30,18,227,"LEKAVICIUS, LUKAS",P003210   ,Def Rebound (1),D,,,Panathinaikos Superfoods Athens,0
-PAN       ,,0,02:30,18,228,"SINGLETON, CHRIS",P006614   ,In,IN,,,Panathinaikos Superfoods Athens,0
-PAN       ,,3,02:30,18,229,"RIVERS, K.C.",P002429   ,Out,OUT,,,Panathinaikos Superfoods Athens,0
-PAN       ,,14,02:30,18,230,"GIST, JAMES",P002980   ,In,IN,,,Panathinaikos Superfoods Athens,0
-PAN       ,,19,02:30,18,231,"LEKAVICIUS, LUKAS",P003210   ,Out,OUT,,,Panathinaikos Superfoods Athens,0
-PAN       ,,22,02:30,18,232,"GABRIEL, KENNY",P005881   ,Out,OUT,,,Panathinaikos Superfoods Athens,0
-PAN       ,,23,02:30,18,233,"AUGUSTE, ZACH",P007948   ,Out,OUT,,,Panathinaikos Superfoods Athens,0
-PAN       ,,33,02:30,18,234,"CALATHES, NICK",P001932   ,In,IN,,,Panathinaikos Superfoods Athens,0
-PAN       ,,43,02:30,18,235,"ANTETOKOUNMPO, THANASIS",P007865   ,In,IN,,,Panathinaikos Superfoods Athens,0
-MAL       ,,10,02:30,18,236,"SALIN, SASU",P002820   ,Out,OUT,,,Unicaja Malaga,0
-MAL       ,,16,02:30,18,237,"NEDOVIC, NEMANJA",P000848   ,In,IN,,,Unicaja Malaga,0
-PAN       ,,0,02:15,18,238,"SINGLETON, CHRIS",P006614   ,Turnover (2),TO,,,Panathinaikos Superfoods Athens,0
-MAL       ,,40,02:14,18,239,"AUGUSTINE, JAMES",P001438   ,Steal (1),ST,,,Unicaja Malaga,0
-MAL       ,,40,01:57,19,241,"AUGUSTINE, JAMES",P001438   ,Two Pointer (3/6 -  6 pt),2FGM,30.0,33.0,Unicaja Malaga,0
-MAL       ,,43,01:54,19,242,"SUAREZ, CARLOS",PJJS      ,Assist (1),AS,,,Unicaja Malaga,0
-PAN       ,,33,01:41,19,243,"CALATHES, NICK",P001932   ,Missed Two Pointer (1/4 -  2 pt),2FGA,,,Panathinaikos Superfoods Athens,0
-PAN       ,,14,01:39,19,244,"GIST, JAMES",P002980   ,Off Rebound (2),O,,,Panathinaikos Superfoods Athens,0
-PAN       ,,14,01:37,19,245,"GIST, JAMES",P002980   ,Missed Two Pointer (5/6 -  10 pt),2FGA,,,Panathinaikos Superfoods Athens,0
-MAL       ,,40,01:36,19,246,"AUGUSTINE, JAMES",P001438   ,Def Rebound (2),D,,,Unicaja Malaga,0
-MAL       ,,16,01:17,19,247,"NEDOVIC, NEMANJA",P000848   ,Missed Two Pointer (1/3 -  5 pt),2FGA,,,Unicaja Malaga,0
-PAN       ,,12,01:16,19,248,"DENMON, MARCUS",P004195   ,Def Rebound (2),D,,,Panathinaikos Superfoods Athens,0
-PAN       ,,14,01:11,19,249,"GIST, JAMES",P002980   ,Two Pointer (6/7 -  12 pt),2FGM,32.0,33.0,Panathinaikos Superfoods Athens,0
-PAN       ,,33,01:09,19,250,"CALATHES, NICK",P001932   ,Assist (3),AS,,,Panathinaikos Superfoods Athens,0
-MAL       ,,16,00:58,20,252,"NEDOVIC, NEMANJA",P000848   ,Turnover (4),TO,,,Unicaja Malaga,0
-PAN       ,,0,00:57,20,253,"SINGLETON, CHRIS",P006614   ,Steal (1),ST,,,Panathinaikos Superfoods Athens,0
-PAN       ,,0,00:39,20,254,"SINGLETON, CHRIS",P006614   ,Missed Two Pointer (1/3 -  2 pt),2FGA,,,Panathinaikos Superfoods Athens,0
-PAN       ,,14,00:37,20,255,"GIST, JAMES",P002980   ,Off Rebound (4),O,,,Panathinaikos Superfoods Athens,0
-PAN       ,,14,00:59,20,273,"GIST, JAMES",P002980   ,Missed Two Pointer (6/8 -  12 pt),2FGA,,,Panathinaikos Superfoods Athens,0
-PAN       ,,14,00:37,20,272,"GIST, JAMES",P002980   ,Off Rebound (4),O,,,Panathinaikos Superfoods Athens,0
-PAN       ,,33,00:33,20,256,"CALATHES, NICK",P001932   ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,Panathinaikos Superfoods Athens,0
-MAL       ,,,00:31,20,257,,          ,Def Rebound (4),D,,,Unicaja Malaga,0
-PAN       ,,0,00:31,20,258,"SINGLETON, CHRIS",P006614   ,Foul (2),CM,,,Panathinaikos Superfoods Athens,0
-MAL       ,,43,00:31,20,259,"SUAREZ, CARLOS",PJJS      ,Foul Drawn (2),RV,,,Unicaja Malaga,0
-MAL       ,,23,00:31,20,260,"BROOKS, JEFF",P004117   ,In,IN,,,Unicaja Malaga,0
-MAL       ,,40,00:31,20,261,"AUGUSTINE, JAMES",P001438   ,Out,OUT,,,Unicaja Malaga,0
-MAL       ,,43,00:31,20,262,"SUAREZ, CARLOS",PJJS      ,Free Throw In (1/1 -  6 pt),FTM,32.0,34.0,Unicaja Malaga,0
-MAL       ,,43,00:31,20,263,"SUAREZ, CARLOS",PJJS      ,Free Throw In (2/2 -  7 pt),FTM,32.0,35.0,Unicaja Malaga,0
-PAN       ,,33,00:08,20,264,"CALATHES, NICK",P001932   ,Missed Two Pointer (1/5 -  2 pt),2FGA,,,Panathinaikos Superfoods Athens,0
-MAL       ,,12,00:07,20,265,"MILOSAVLJEVIC, DRAGAN",P002822   ,Def Rebound (1),D,,,Unicaja Malaga,0
-MAL       ,,23,00:03,20,266,"BROOKS, JEFF",P004117   ,Missed Two Pointer (0/4 -  0 pt),2FGA,,,Unicaja Malaga,0
-MAL       ,,23,00:03,20,267,"BROOKS, JEFF",P004117   ,Shot Rejected (1),AG,,,Unicaja Malaga,0
-PAN       ,,12,00:03,20,268,"DENMON, MARCUS",P004195   ,Block (1),FV,,,Panathinaikos Superfoods Athens,0
-MAL       ,,43,00:03,20,269,"SUAREZ, CARLOS",PJJS      ,Off Rebound (1),O,,,Unicaja Malaga,0
-          ,,,,21,271,,          ,End Period,EP,,,,0
-          ,,,,21,282,,          ,Begin Period,BP,,,,0
-PAN       ,,12,10:00,21,274,"DENMON, MARCUS",P004195   ,Out,OUT,,,Panathinaikos Superfoods Athens,0
-PAN       ,,24,10:00,21,275,"LOJESKI, MATT",P003608   ,In,IN,,,Panathinaikos Superfoods Athens,0
-MAL       ,,3,10:00,21,276,"MCCALLUM, RAY",P008002   ,In,IN,,,Unicaja Malaga,0
-MAL       ,,9,10:00,21,277,"DIAZ, ALBERTO",P004213   ,Out,OUT,,,Unicaja Malaga,0
-MAL       ,,11,10:00,21,278,"DIEZ, DANIEL",P003198   ,In,IN,,,Unicaja Malaga,0
-MAL       ,,12,10:00,21,279,"MILOSAVLJEVIC, DRAGAN",P002822   ,Out,OUT,,,Unicaja Malaga,0
-MAL       ,,40,10:00,21,280,"AUGUSTINE, JAMES",P001438   ,In,IN,,,Unicaja Malaga,0
-MAL       ,,43,10:00,21,281,"SUAREZ, CARLOS",PJJS      ,Out,OUT,,,Unicaja Malaga,0
-MAL       ,,3,09:41,21,283,"MCCALLUM, RAY",P008002   ,Missed Two Pointer (2/4 -  4 pt),2FGA,,,Unicaja Malaga,0
-PAN       ,,0,09:40,21,284,"SINGLETON, CHRIS",P006614   ,Def Rebound (2),D,,,Panathinaikos Superfoods Athens,0
-PAN       ,,33,09:35,21,285,"CALATHES, NICK",P001932   ,Two Pointer (2/6 -  4 pt),2FGM,34.0,35.0,Panathinaikos Superfoods Athens,0
-MAL       ,,23,09:16,21,286,"BROOKS, JEFF",P004117   ,Missed Two Pointer (0/5 -  0 pt),2FGA,,,Unicaja Malaga,0
-MAL       ,,11,09:14,21,287,"DIEZ, DANIEL",P003198   ,Off Rebound (1),O,,,Unicaja Malaga,0
-MAL       ,,16,09:12,21,288,"NEDOVIC, NEMANJA",P000848   ,Three Pointer (2/4 -  8 pt),3FGM,34.0,38.0,Unicaja Malaga,0
-MAL       ,,11,09:09,21,289,"DIEZ, DANIEL",P003198   ,Assist (1),AS,,,Unicaja Malaga,0
-PAN       ,,24,08:53,22,291,"LOJESKI, MATT",P003608   ,Missed Three Pointer (1/2 -  3 pt),3FGA,,,Panathinaikos Superfoods Athens,0
-MAL       ,,16,08:52,22,292,"NEDOVIC, NEMANJA",P000848   ,Def Rebound (1),D,,,Unicaja Malaga,0
-MAL       ,,11,08:41,22,293,"DIEZ, DANIEL",P003198   ,Three Pointer (1/2 -  3 pt),3FGM,34.0,41.0,Unicaja Malaga,0
-MAL       ,,16,08:38,22,294,"NEDOVIC, NEMANJA",P000848   ,Assist (3),AS,,,Unicaja Malaga,0
-PAN       ,,33,08:20,22,295,"CALATHES, NICK",P001932   ,Two Pointer (3/7 -  6 pt),2FGM,36.0,41.0,Panathinaikos Superfoods Athens,0
-PAN       ,,43,08:04,22,296,"ANTETOKOUNMPO, THANASIS",P007865   ,Foul (1),CM,,,Panathinaikos Superfoods Athens,0
-MAL       ,,3,08:04,22,297,"MCCALLUM, RAY",P008002   ,Foul Drawn (1),RV,,,Unicaja Malaga,0
-MAL       ,,40,07:54,23,299,"AUGUSTINE, JAMES",P001438   ,Turnover (1),TO,,,Unicaja Malaga,0
-PAN       ,,33,07:38,23,300,"CALATHES, NICK",P001932   ,Missed Three Pointer (0/2 -  6 pt),3FGA,,,Panathinaikos Superfoods Athens,0
-PAN       ,,43,07:37,23,301,"ANTETOKOUNMPO, THANASIS",P007865   ,Off Rebound (1),O,,,Panathinaikos Superfoods Athens,0
-PAN       ,,33,07:27,23,302,"CALATHES, NICK",P001932   ,Two Pointer (4/8 -  8 pt),2FGM,38.0,41.0,Panathinaikos Superfoods Athens,0
-MAL       ,,16,07:13,23,303,"NEDOVIC, NEMANJA",P000848   ,Missed Two Pointer (1/4 -  8 pt),2FGA,,,Unicaja Malaga,0
-PAN       ,,0,07:11,23,304,"SINGLETON, CHRIS",P006614   ,Def Rebound (3),D,,,Panathinaikos Superfoods Athens,0
-PAN       ,,14,06:56,24,306,"GIST, JAMES",P002980   ,Two Pointer (7/9 -  14 pt),2FGM,40.0,41.0,Panathinaikos Superfoods Athens,0
-PAN       ,,33,06:54,24,307,"CALATHES, NICK",P001932   ,Assist (4),AS,,,Panathinaikos Superfoods Athens,0
-MAL       ,,16,06:27,24,308,"NEDOVIC, NEMANJA",P000848   ,Missed Two Pointer (1/5 -  8 pt),2FGA,,,Unicaja Malaga,0
-MAL       ,,16,06:27,24,309,"NEDOVIC, NEMANJA",P000848   ,Shot Rejected (1),AG,,,Unicaja Malaga,0
-PAN       ,,43,06:27,24,310,"ANTETOKOUNMPO, THANASIS",P007865   ,Block (1),FV,,,Panathinaikos Superfoods Athens,0
-MAL       ,,,06:27,24,311,,          ,Off Rebound (3),O,,,Unicaja Malaga,0
-MAL       ,,3,06:27,24,312,"MCCALLUM, RAY",P008002   ,Out,OUT,,,Unicaja Malaga,0
-MAL       ,,9,06:27,24,313,"DIAZ, ALBERTO",P004213   ,In,IN,,,Unicaja Malaga,0
-MAL       ,,23,06:22,24,314,"BROOKS, JEFF",P004117   ,Missed Two Pointer (0/6 -  0 pt),2FGA,,,Unicaja Malaga,0
-PAN       ,,43,06:20,24,315,"ANTETOKOUNMPO, THANASIS",P007865   ,Def Rebound (1),D,,,Panathinaikos Superfoods Athens,0
-MAL       ,,9,06:12,24,316,"DIAZ, ALBERTO",P004213   ,Foul (2),CM,,,Unicaja Malaga,0
-PAN       ,,14,06:12,24,317,"GIST, JAMES",P002980   ,Foul Drawn (2),RV,,,Panathinaikos Superfoods Athens,0
-PAN       ,,33,06:11,24,318,"CALATHES, NICK",P001932   ,Two Pointer (5/9 -  10 pt),2FGM,42.0,41.0,Panathinaikos Superfoods Athens,0
-MAL       ,,11,05:41,25,320,"DIEZ, DANIEL",P003198   ,Missed Two Pointer (0/1 -  3 pt),2FGA,,,Unicaja Malaga,0
-PAN       ,,0,05:39,25,321,"SINGLETON, CHRIS",P006614   ,Def Rebound (4),D,,,Panathinaikos Superfoods Athens,0
-MAL       ,,23,05:31,25,322,"BROOKS, JEFF",P004117   ,Foul (2),CM,,,Unicaja Malaga,0
-PAN       ,,0,05:31,25,323,"SINGLETON, CHRIS",P006614   ,Foul Drawn (2),RV,,,Panathinaikos Superfoods Athens,0
-MAL       ,,11,05:31,25,324,"DIEZ, DANIEL",P003198   ,Out,OUT,,,Unicaja Malaga,0
-MAL       ,,12,05:31,25,325,"MILOSAVLJEVIC, DRAGAN",P002822   ,In,IN,,,Unicaja Malaga,0
-PAN       ,,0,05:31,25,326,"SINGLETON, CHRIS",P006614   ,Free Throw In (1/1 -  3 pt),FTM,43.0,41.0,Panathinaikos Superfoods Athens,0
-PAN       ,,0,05:31,25,327,"SINGLETON, CHRIS",P006614   ,Free Throw In (2/2 -  4 pt),FTM,44.0,41.0,Panathinaikos Superfoods Athens,0
-MAL       ,,23,05:12,25,328,"BROOKS, JEFF",P004117   ,Turnover (1),TO,,,Unicaja Malaga,0
-PAN       ,,33,05:11,25,329,"CALATHES, NICK",P001932   ,Steal (1),ST,,,Panathinaikos Superfoods Athens,0
-PAN       ,,43,05:07,25,330,"ANTETOKOUNMPO, THANASIS",P007865   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Panathinaikos Superfoods Athens,0
-PAN       ,,43,05:07,25,331,"ANTETOKOUNMPO, THANASIS",P007865   ,Shot Rejected (1),AG,,,Panathinaikos Superfoods Athens,0
-MAL       ,,23,05:06,25,332,"BROOKS, JEFF",P004117   ,Block (1),FV,,,Unicaja Malaga,0
-MAL       ,,12,05:05,25,333,"MILOSAVLJEVIC, DRAGAN",P002822   ,Def Rebound (2),D,,,Unicaja Malaga,0
-MAL       ,,23,05:05,25,334,"BROOKS, JEFF",P004117   ,Out,OUT,,,Unicaja Malaga,0
-MAL       ,,43,05:05,25,335,"SUAREZ, CARLOS",PJJS      ,In,IN,,,Unicaja Malaga,0
-PAN       ,,24,04:45,26,337,"LOJESKI, MATT",P003608   ,Foul (1),CM,,,Panathinaikos Superfoods Athens,0
-MAL       ,,12,04:45,26,338,"MILOSAVLJEVIC, DRAGAN",P002822   ,Foul Drawn (3),RV,,,Unicaja Malaga,0
-          ,,,04:45,26,339,,          ,TV Time Out (3),TOUT_TV,,,,0
-MAL       ,,16,04:32,26,340,"NEDOVIC, NEMANJA",P000848   ,Two Pointer (2/6 -  10 pt),2FGM,44.0,43.0,Unicaja Malaga,0
-PAN       ,,43,04:06,26,341,"ANTETOKOUNMPO, THANASIS",P007865   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Panathinaikos Superfoods Athens,0
-MAL       ,,16,04:04,26,342,"NEDOVIC, NEMANJA",P000848   ,Def Rebound (2),D,,,Unicaja Malaga,0
-PAN       ,,33,04:01,26,343,"CALATHES, NICK",P001932   ,Foul (2),CM,,,Panathinaikos Superfoods Athens,0
-MAL       ,,16,04:01,26,344,"NEDOVIC, NEMANJA",P000848   ,Foul Drawn (3),RV,,,Unicaja Malaga,0
-PAN       ,,43,03:52,27,346,"ANTETOKOUNMPO, THANASIS",P007865   ,Foul (2),CM,,,Panathinaikos Superfoods Athens,0
-MAL       ,,40,03:52,27,347,"AUGUSTINE, JAMES",P001438   ,Foul Drawn (1),RV,,,Unicaja Malaga,0
-MAL       ,,40,03:52,27,348,"AUGUSTINE, JAMES",P001438   ,Missed Free Throw (0/1 -  6 pt),FTA,,,Unicaja Malaga,0
-MAL       ,,40,03:52,27,349,"AUGUSTINE, JAMES",P001438   ,Free Throw In (1/2 -  7 pt),FTM,44.0,44.0,Unicaja Malaga,0
-MAL       ,,9,03:52,27,350,"DIAZ, ALBERTO",P004213   ,Assist (2),AS,,,Unicaja Malaga,0
-PAN       ,,24,03:44,27,351,"LOJESKI, MATT",P003608   ,Three Pointer (2/3 -  6 pt),3FGM,47.0,44.0,Panathinaikos Superfoods Athens,0
-PAN       ,,33,03:42,27,352,"CALATHES, NICK",P001932   ,Assist (5),AS,,,Panathinaikos Superfoods Athens,0
-PAN       ,,43,03:33,27,353,"ANTETOKOUNMPO, THANASIS",P007865   ,Foul (3),CM,,,Panathinaikos Superfoods Athens,0
-MAL       ,,16,03:33,27,354,"NEDOVIC, NEMANJA",P000848   ,Foul Drawn (4),RV,,,Unicaja Malaga,0
-MAL       ,,16,03:33,27,355,"NEDOVIC, NEMANJA",P000848   ,Free Throw In (1/1 -  11 pt),FTM,47.0,45.0,Unicaja Malaga,0
-MAL       ,,16,03:33,27,356,"NEDOVIC, NEMANJA",P000848   ,Missed Free Throw (1/2 -  11 pt),FTA,,,Unicaja Malaga,0
-PAN       ,,43,03:33,27,357,"ANTETOKOUNMPO, THANASIS",P007865   ,Def Rebound (2),D,,,Panathinaikos Superfoods Athens,0
-PAN       ,,0,03:10,27,358,"SINGLETON, CHRIS",P006614   ,Three Pointer (1/3 -  7 pt),3FGM,50.0,45.0,Panathinaikos Superfoods Athens,0
-PAN       ,,33,03:08,27,359,"CALATHES, NICK",P001932   ,Assist (6),AS,,,Panathinaikos Superfoods Athens,0
-MAL       ,,12,03:00,28,361,"MILOSAVLJEVIC, DRAGAN",P002822   ,Three Pointer (2/2 -  10 pt),3FGM,50.0,48.0,Unicaja Malaga,0
-MAL       ,,9,02:57,28,362,"DIAZ, ALBERTO",P004213   ,Assist (3),AS,,,Unicaja Malaga,0
-PAN       ,,43,02:42,28,363,"ANTETOKOUNMPO, THANASIS",P007865   ,Turnover (1),TO,,,Panathinaikos Superfoods Athens,0
-PAN       ,,3,02:42,28,364,"RIVERS, K.C.",P002429   ,In,IN,,,Panathinaikos Superfoods Athens,0
-PAN       ,,43,02:42,28,365,"ANTETOKOUNMPO, THANASIS",P007865   ,Out,OUT,,,Panathinaikos Superfoods Athens,0
-MAL       ,,40,02:42,28,366,"AUGUSTINE, JAMES",P001438   ,Out,OUT,,,Unicaja Malaga,0
-MAL       ,,44,02:42,28,367,"MUSLI, DEJAN",PLUR      ,In,IN,,,Unicaja Malaga,0
-MAL       ,,43,02:19,28,368,"SUAREZ, CARLOS",PJJS      ,Three Pointer (2/2 -  10 pt),3FGM,50.0,51.0,Unicaja Malaga,0
-MAL       ,,16,02:17,28,369,"NEDOVIC, NEMANJA",P000848   ,Assist (4),AS,,,Unicaja Malaga,0
-MAL       ,,12,02:03,28,370,"MILOSAVLJEVIC, DRAGAN",P002822   ,Foul (1),CM,,,Unicaja Malaga,0
-PAN       ,,33,02:03,28,371,"CALATHES, NICK",P001932   ,Foul Drawn (2),RV,,,Panathinaikos Superfoods Athens,0
-MAL       ,,12,02:03,28,372,"MILOSAVLJEVIC, DRAGAN",P002822   ,Technical Foul (2),CMT,,,Unicaja Malaga,0
-MAL       ,,10,02:03,28,373,"SALIN, SASU",P002820   ,In,IN,,,Unicaja Malaga,0
-MAL       ,,16,02:03,28,374,"NEDOVIC, NEMANJA",P000848   ,Out,OUT,,,Unicaja Malaga,0
-PAN       ,,24,02:03,28,375,"LOJESKI, MATT",P003608   ,Free Throw In (1/1 -  7 pt),FTM,51.0,51.0,Panathinaikos Superfoods Athens,0
-PAN       ,,3,01:53,29,377,"RIVERS, K.C.",P002429   ,Missed Three Pointer (1/3 -  7 pt),3FGA,,,Panathinaikos Superfoods Athens,0
-MAL       ,,43,01:51,29,378,"SUAREZ, CARLOS",PJJS      ,Def Rebound (2),D,,,Unicaja Malaga,0
-MAL       ,,12,01:31,29,379,"MILOSAVLJEVIC, DRAGAN",P002822   ,Missed Three Pointer (2/3 -  10 pt),3FGA,,,Unicaja Malaga,0
-MAL       ,,44,01:26,29,380,"MUSLI, DEJAN",PLUR      ,Off Rebound (1),O,,,Unicaja Malaga,0
-MAL       ,,44,01:26,29,381,"MUSLI, DEJAN",PLUR      ,Two Pointer (3/3 -  6 pt),2FGM,51.0,53.0,Unicaja Malaga,0
-PAN       ,,24,01:16,29,382,"LOJESKI, MATT",P003608   ,Missed Two Pointer (0/2 -  7 pt),2FGA,,,Panathinaikos Superfoods Athens,0
-MAL       ,,,01:16,29,383,,          ,Def Rebound (5),D,,,Unicaja Malaga,0
-PAN       ,,3,01:16,29,384,"RIVERS, K.C.",P002429   ,Foul (1),CM,,,Panathinaikos Superfoods Athens,0
-MAL       ,,9,01:16,29,385,"DIAZ, ALBERTO",P004213   ,Foul Drawn (3),RV,,,Unicaja Malaga,0
-MAL       ,,9,01:16,29,386,"DIAZ, ALBERTO",P004213   ,Missed Free Throw (2/3 -  2 pt),FTA,,,Unicaja Malaga,0
-MAL       ,,9,01:16,29,387,"DIAZ, ALBERTO",P004213   ,Free Throw In (3/4 -  3 pt),FTM,51.0,54.0,Unicaja Malaga,0
-PAN       ,,0,01:13,29,388,"SINGLETON, CHRIS",P006614   ,Turnover (3),TO,,,Panathinaikos Superfoods Athens,0
-MAL       ,,12,01:12,29,389,"MILOSAVLJEVIC, DRAGAN",P002822   ,Steal (2),ST,,,Unicaja Malaga,0
-MAL       ,,12,00:59,30,391,"MILOSAVLJEVIC, DRAGAN",P002822   ,Turnover (1),TO,,,Unicaja Malaga,0
-PAN       ,,33,00:35,30,392,"CALATHES, NICK",P001932   ,Three Pointer (1/3 -  13 pt),3FGM,54.0,54.0,Panathinaikos Superfoods Athens,0
-MAL       ,,10,00:12,30,393,"SALIN, SASU",P002820   ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,Unicaja Malaga,0
-PAN       ,,14,00:10,30,394,"GIST, JAMES",P002980   ,Def Rebound (5),D,,,Panathinaikos Superfoods Athens,0
-PAN       ,,33,00:02,30,395,"CALATHES, NICK",P001932   ,Turnover (2),TO,,,Panathinaikos Superfoods Athens,0
-MAL       ,,9,00:02,30,396,"DIAZ, ALBERTO",P004213   ,Steal (3),ST,,,Unicaja Malaga,0
-          ,,,,31,398,,          ,End Period,EP,,,,0
-          ,,,,31,401,,          ,Begin Period,BP,,,,0
-PAN       ,,11,10:00,31,399,"PAPPAS, NIKOS",P000464   ,In,IN,,,Panathinaikos Superfoods Athens,0
-PAN       ,,24,10:00,31,400,"LOJESKI, MATT",P003608   ,Out,OUT,,,Panathinaikos Superfoods Athens,0
-PAN       ,,11,09:39,31,402,"PAPPAS, NIKOS",P000464   ,Missed Three Pointer (0/2 -  1 pt),3FGA,,,Panathinaikos Superfoods Athens,0
-PAN       ,,,09:38,31,403,,          ,Off Rebound (4),O,,,Panathinaikos Superfoods Athens,0
-PAN       ,,3,09:34,31,404,"RIVERS, K.C.",P002429   ,Missed Two Pointer (1/3 -  7 pt),2FGA,,,Panathinaikos Superfoods Athens,0
-PAN       ,,14,09:33,31,405,"GIST, JAMES",P002980   ,Off Rebound (5),O,,,Panathinaikos Superfoods Athens,0
-PAN       ,,3,09:29,31,406,"RIVERS, K.C.",P002429   ,Missed Three Pointer (1/4 -  7 pt),3FGA,,,Panathinaikos Superfoods Athens,0
-PAN       ,,14,09:27,31,407,"GIST, JAMES",P002980   ,Off Rebound (6),O,,,Panathinaikos Superfoods Athens,0
-PAN       ,,33,09:24,31,408,"CALATHES, NICK",P001932   ,Three Pointer (2/4 -  16 pt),3FGM,57.0,54.0,Panathinaikos Superfoods Athens,0
-PAN       ,,14,09:22,31,409,"GIST, JAMES",P002980   ,Assist (2),AS,,,Panathinaikos Superfoods Athens,0
-PAN       ,,0,09:06,31,410,"SINGLETON, CHRIS",P006614   ,Foul (3),CM,,,Panathinaikos Superfoods Athens,0
-MAL       ,,43,09:06,31,411,"SUAREZ, CARLOS",PJJS      ,Foul Drawn (3),RV,,,Unicaja Malaga,0
-MAL       ,,10,09:06,31,412,"SALIN, SASU",P002820   ,Out,OUT,,,Unicaja Malaga,0
-MAL       ,,16,09:06,31,413,"NEDOVIC, NEMANJA",P000848   ,In,IN,,,Unicaja Malaga,0
-MAL       ,,43,08:56,32,415,"SUAREZ, CARLOS",PJJS      ,Three Pointer (3/3 -  13 pt),3FGM,57.0,57.0,Unicaja Malaga,0
-MAL       ,,9,08:56,32,416,"DIAZ, ALBERTO",P004213   ,Assist (4),AS,,,Unicaja Malaga,0
-PAN       ,,0,08:56,32,417,"SINGLETON, CHRIS",P006614   ,Foul (4),CM,,,Panathinaikos Superfoods Athens,0
-MAL       ,,43,08:56,32,418,"SUAREZ, CARLOS",PJJS      ,Foul Drawn (4),RV,,,Unicaja Malaga,0
-PAN       ,,0,08:56,32,419,"SINGLETON, CHRIS",P006614   ,Out,OUT,,,Panathinaikos Superfoods Athens,0
-PAN       ,,22,08:56,32,420,"GABRIEL, KENNY",P005881   ,In,IN,,,Panathinaikos Superfoods Athens,0
-MAL       ,,43,08:56,32,421,"SUAREZ, CARLOS",PJJS      ,Free Throw In (3/3 -  14 pt),FTM,57.0,58.0,Unicaja Malaga,0
-PAN       ,,22,08:33,32,422,"GABRIEL, KENNY",P005881   ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,Panathinaikos Superfoods Athens,0
-MAL       ,,44,08:31,32,423,"MUSLI, DEJAN",PLUR      ,Def Rebound (2),D,,,Unicaja Malaga,0
-PAN       ,,22,08:19,32,424,"GABRIEL, KENNY",P005881   ,Foul (2),CM,,,Panathinaikos Superfoods Athens,0
-MAL       ,,43,08:19,32,425,"SUAREZ, CARLOS",PJJS      ,Foul Drawn (5),RV,,,Unicaja Malaga,0
-MAL       ,,12,08:19,32,426,"MILOSAVLJEVIC, DRAGAN",P002822   ,Turnover (2),TO,,,Unicaja Malaga,0
-PAN       ,,3,08:02,32,427,"RIVERS, K.C.",P002429   ,Missed Three Pointer (1/5 -  7 pt),3FGA,,,Panathinaikos Superfoods Athens,0
-MAL       ,,9,08:00,32,428,"DIAZ, ALBERTO",P004213   ,Def Rebound (2),D,,,Unicaja Malaga,0
-MAL       ,,9,07:55,33,430,"DIAZ, ALBERTO",P004213   ,Turnover (2),TO,,,Unicaja Malaga,0
-PAN       ,,3,07:53,33,431,"RIVERS, K.C.",P002429   ,Steal (3),ST,,,Panathinaikos Superfoods Athens,0
-MAL       ,,43,07:52,33,432,"SUAREZ, CARLOS",PJJS      ,Foul (1),CM,,,Unicaja Malaga,0
-PAN       ,,33,07:52,33,433,"CALATHES, NICK",P001932   ,Foul Drawn (3),RV,,,Panathinaikos Superfoods Athens,0
-MAL       ,,43,07:52,33,434,"SUAREZ, CARLOS",PJJS      ,Technical Foul (2),CMT,,,Unicaja Malaga,0
-PAN       ,,22,07:52,33,435,"GABRIEL, KENNY",P005881   ,Technical Foul (3),CMT,,,Panathinaikos Superfoods Athens,0
-PAN       ,,14,07:39,33,436,"GIST, JAMES",P002980   ,Missed Three Pointer (0/1 -  14 pt),3FGA,,,Panathinaikos Superfoods Athens,0
-PAN       ,,33,07:37,33,437,"CALATHES, NICK",P001932   ,Off Rebound (1),O,,,Panathinaikos Superfoods Athens,0
-PAN       ,,11,07:34,33,438,"PAPPAS, NIKOS",P000464   ,Three Pointer (1/3 -  4 pt),3FGM,60.0,58.0,Panathinaikos Superfoods Athens,0
-PAN       ,,33,07:27,33,439,"CALATHES, NICK",P001932   ,Assist (7),AS,,,Panathinaikos Superfoods Athens,0
-MAL       ,,40,07:16,33,440,"AUGUSTINE, JAMES",P001438   ,In,IN,,,Unicaja Malaga,0
-MAL       ,,44,07:16,33,441,"MUSLI, DEJAN",PLUR      ,Out,OUT,,,Unicaja Malaga,0
-MAL       ,,43,07:09,33,442,"SUAREZ, CARLOS",PJJS      ,Turnover (1),TO,,,Unicaja Malaga,0
-PAN       ,,22,07:09,33,443,"GABRIEL, KENNY",P005881   ,Steal (1),ST,,,Panathinaikos Superfoods Athens,0
-MAL       ,,43,07:09,33,444,"SUAREZ, CARLOS",PJJS      ,Unsportsmanlike Foul  (3),CMU,,,Unicaja Malaga,0
-PAN       ,,22,07:09,33,445,"GABRIEL, KENNY",P005881   ,Foul Drawn (1),RV,,,Panathinaikos Superfoods Athens,0
-MAL       ,,23,07:09,33,446,"BROOKS, JEFF",P004117   ,In,IN,,,Unicaja Malaga,0
-MAL       ,,43,07:09,33,447,"SUAREZ, CARLOS",PJJS      ,Out,OUT,,,Unicaja Malaga,0
-PAN       ,,22,07:09,33,448,"GABRIEL, KENNY",P005881   ,Missed Free Throw (0/1 -  0 pt),FTA,,,Panathinaikos Superfoods Athens,0
-PAN       ,,22,07:09,33,449,"GABRIEL, KENNY",P005881   ,Free Throw In (1/2 -  1 pt),FTM,61.0,58.0,Panathinaikos Superfoods Athens,0
-PAN       ,,11,06:58,34,451,"PAPPAS, NIKOS",P000464   ,Two Pointer (1/2 -  6 pt),2FGM,63.0,58.0,Panathinaikos Superfoods Athens,0
-MAL       ,,12,06:44,34,452,"MILOSAVLJEVIC, DRAGAN",P002822   ,Turnover (3),TO,,,Unicaja Malaga,0
-PAN       ,,33,06:42,34,453,"CALATHES, NICK",P001932   ,Steal (2),ST,,,Panathinaikos Superfoods Athens,0
-PAN       ,,11,06:42,34,454,"PAPPAS, NIKOS",P000464   ,Two Pointer (2/3 -  8 pt),2FGM,65.0,58.0,Panathinaikos Superfoods Athens,0
-PAN       ,,33,06:42,34,455,"CALATHES, NICK",P001932   ,Assist (8),AS,,,Panathinaikos Superfoods Athens,0
-MAL       ,,,06:42,34,456,,          ,Time Out (1),TOUT,,,Unicaja Malaga,0
-MAL       ,,3,06:42,34,457,"MCCALLUM, RAY",P008002   ,In,IN,,,Unicaja Malaga,0
-MAL       ,,9,06:42,34,458,"DIAZ, ALBERTO",P004213   ,Out,OUT,,,Unicaja Malaga,0
-MAL       ,,40,06:23,34,459,"AUGUSTINE, JAMES",P001438   ,Turnover (2),TO,,,Unicaja Malaga,0
-PAN       ,,3,06:01,34,460,"RIVERS, K.C.",P002429   ,Three Pointer (2/6 -  10 pt),3FGM,68.0,58.0,Panathinaikos Superfoods Athens,0
-PAN       ,,33,06:00,35,462,"CALATHES, NICK",P001932   ,Assist (9),AS,,,Panathinaikos Superfoods Athens,0
-MAL       ,,12,05:42,35,463,"MILOSAVLJEVIC, DRAGAN",P002822   ,Missed Two Pointer (1/3 -  10 pt),2FGA,,,Unicaja Malaga,0
-MAL       ,,12,05:40,35,464,"MILOSAVLJEVIC, DRAGAN",P002822   ,Off Rebound (1),O,,,Unicaja Malaga,0
-MAL       ,,3,05:35,35,465,"MCCALLUM, RAY",P008002   ,Two Pointer (3/5 -  6 pt),2FGM,68.0,60.0,Unicaja Malaga,0
-MAL       ,,12,05:33,35,466,"MILOSAVLJEVIC, DRAGAN",P002822   ,Assist (2),AS,,,Unicaja Malaga,0
-PAN       ,,33,05:13,35,467,"CALATHES, NICK",P001932   ,Missed Two Pointer (5/10 -  16 pt),2FGA,,,Panathinaikos Superfoods Athens,0
-MAL       ,,23,05:11,35,468,"BROOKS, JEFF",P004117   ,Def Rebound (3),D,,,Unicaja Malaga,0
-MAL       ,,3,05:05,35,469,"MCCALLUM, RAY",P008002   ,Two Pointer (4/6 -  8 pt),2FGM,68.0,62.0,Unicaja Malaga,0
-PAN       ,,,05:05,35,470,,          ,Time Out (1),TOUT,,,Panathinaikos Superfoods Athens,0
-PAN       ,,11,04:40,36,472,"PAPPAS, NIKOS",P000464   ,Three Pointer (2/4 -  11 pt),3FGM,71.0,62.0,Panathinaikos Superfoods Athens,0
-MAL       ,,12,04:12,36,473,"MILOSAVLJEVIC, DRAGAN",P002822   ,Two Pointer (2/4 -  12 pt),2FGM,71.0,64.0,Unicaja Malaga,0
-PAN       ,,22,03:52,37,475,"GABRIEL, KENNY",P005881   ,Missed Two Pointer (0/2 -  1 pt),2FGA,,,Panathinaikos Superfoods Athens,0
-PAN       ,,33,03:50,37,476,"CALATHES, NICK",P001932   ,Off Rebound (2),O,,,Panathinaikos Superfoods Athens,0
-PAN       ,,22,03:40,37,477,"GABRIEL, KENNY",P005881   ,Three Pointer (1/3 -  4 pt),3FGM,74.0,64.0,Panathinaikos Superfoods Athens,0
-PAN       ,,33,03:38,37,478,"CALATHES, NICK",P001932   ,Assist (10),AS,,,Panathinaikos Superfoods Athens,0
-MAL       ,,3,03:10,37,479,"MCCALLUM, RAY",P008002   ,Missed Two Pointer (4/7 -  8 pt),2FGA,,,Unicaja Malaga,0
-MAL       ,,3,03:07,37,480,"MCCALLUM, RAY",P008002   ,Off Rebound (1),O,,,Unicaja Malaga,0
-MAL       ,,16,03:04,37,481,"NEDOVIC, NEMANJA",P000848   ,Three Pointer (3/5 -  14 pt),3FGM,74.0,67.0,Unicaja Malaga,0
-MAL       ,,3,02:52,38,483,"MCCALLUM, RAY",P008002   ,Assist (1),AS,,,Unicaja Malaga,0
-PAN       ,,11,02:47,38,484,"PAPPAS, NIKOS",P000464   ,Missed Three Pointer (2/5 -  11 pt),3FGA,,,Panathinaikos Superfoods Athens,0
-MAL       ,,12,02:46,38,485,"MILOSAVLJEVIC, DRAGAN",P002822   ,Def Rebound (3),D,,,Unicaja Malaga,0
-MAL       ,,40,02:33,38,486,"AUGUSTINE, JAMES",P001438   ,Two Pointer (4/7 -  9 pt),2FGM,74.0,69.0,Unicaja Malaga,0
-MAL       ,,12,02:31,38,487,"MILOSAVLJEVIC, DRAGAN",P002822   ,Assist (3),AS,,,Unicaja Malaga,0
-PAN       ,,3,02:11,38,488,"RIVERS, K.C.",P002429   ,Three Pointer (3/7 -  13 pt),3FGM,77.0,69.0,Panathinaikos Superfoods Athens,0
-PAN       ,,33,02:10,38,489,"CALATHES, NICK",P001932   ,Assist (11),AS,,,Panathinaikos Superfoods Athens,0
-MAL       ,,16,01:57,39,491,"NEDOVIC, NEMANJA",P000848   ,Missed Three Pointer (3/6 -  14 pt),3FGA,,,Unicaja Malaga,0
-PAN       ,,3,01:55,39,492,"RIVERS, K.C.",P002429   ,Def Rebound (1),D,,,Panathinaikos Superfoods Athens,0
-PAN       ,,0,01:38,39,493,"SINGLETON, CHRIS",P006614   ,In,IN,,,Panathinaikos Superfoods Athens,0
-PAN       ,,14,01:38,39,494,"GIST, JAMES",P002980   ,Out,OUT,,,Panathinaikos Superfoods Athens,0
-PAN       ,,0,01:38,39,495,"SINGLETON, CHRIS",P006614   ,Offensive Foul (5),OF,,,Panathinaikos Superfoods Athens,0
-PAN       ,,0,01:38,39,496,"SINGLETON, CHRIS",P006614   ,Turnover (4),TO,,,Panathinaikos Superfoods Athens,0
-MAL       ,,12,01:38,39,497,"MILOSAVLJEVIC, DRAGAN",P002822   ,Foul Drawn (4),RV,,,Unicaja Malaga,0
-MAL       ,,,01:38,39,498,,          ,Time Out (2),TOUT,,,Unicaja Malaga,0
-PAN       ,,0,01:38,39,499,"SINGLETON, CHRIS",P006614   ,Out,OUT,,,Panathinaikos Superfoods Athens,0
-PAN       ,,14,01:38,39,500,"GIST, JAMES",P002980   ,In,IN,,,Panathinaikos Superfoods Athens,0
-MAL       ,,12,01:26,39,501,"MILOSAVLJEVIC, DRAGAN",P002822   ,Missed Two Pointer (2/5 -  12 pt),2FGA,,,Unicaja Malaga,0
-PAN       ,,3,01:24,39,502,"RIVERS, K.C.",P002429   ,Def Rebound (2),D,,,Panathinaikos Superfoods Athens,0
-PAN       ,,3,01:04,39,503,"RIVERS, K.C.",P002429   ,Two Pointer (2/4 -  15 pt),2FGM,79.0,69.0,Panathinaikos Superfoods Athens,0
-PAN       ,,11,01:04,39,504,"PAPPAS, NIKOS",P000464   ,Foul (3),CM,,,Panathinaikos Superfoods Athens,0
-MAL       ,,16,01:04,39,505,"NEDOVIC, NEMANJA",P000848   ,Foul Drawn (5),RV,,,Unicaja Malaga,0
-MAL       ,,16,00:55,40,507,"NEDOVIC, NEMANJA",P000848   ,Free Throw In (2/3 -  15 pt),FTM,79.0,70.0,Unicaja Malaga,0
-MAL       ,,16,00:55,40,508,"NEDOVIC, NEMANJA",P000848   ,Free Throw In (3/4 -  16 pt),FTM,79.0,71.0,Unicaja Malaga,0
-MAL       ,,9,00:55,40,509,"DIAZ, ALBERTO",P004213   ,In,IN,,,Unicaja Malaga,0
-MAL       ,,16,00:55,40,510,"NEDOVIC, NEMANJA",P000848   ,Out,OUT,,,Unicaja Malaga,0
-MAL       ,,12,00:52,40,511,"MILOSAVLJEVIC, DRAGAN",P002822   ,Foul (3),CM,,,Unicaja Malaga,0
-PAN       ,,11,00:52,40,512,"PAPPAS, NIKOS",P000464   ,Foul Drawn (3),RV,,,Panathinaikos Superfoods Athens,0
-PAN       ,,11,00:30,40,513,"PAPPAS, NIKOS",P000464   ,Missed Two Pointer (2/4 -  11 pt),2FGA,,,Panathinaikos Superfoods Athens,0
-PAN       ,,,00:29,40,514,,          ,Turnover (1),TO,,,Panathinaikos Superfoods Athens,0
-MAL       ,,9,00:29,40,515,"DIAZ, ALBERTO",P004213   ,Out,OUT,,,Unicaja Malaga,0
-MAL       ,,10,00:29,40,516,"SALIN, SASU",P002820   ,In,IN,,,Unicaja Malaga,0
-MAL       ,,12,00:29,40,517,"MILOSAVLJEVIC, DRAGAN",P002822   ,Out,OUT,,,Unicaja Malaga,0
-MAL       ,,16,00:29,40,518,"NEDOVIC, NEMANJA",P000848   ,In,IN,,,Unicaja Malaga,0
-PAN       ,,11,00:29,40,519,"PAPPAS, NIKOS",P000464   ,Out,OUT,,,Panathinaikos Superfoods Athens,0
-PAN       ,,43,00:29,40,520,"ANTETOKOUNMPO, THANASIS",P007865   ,In,IN,,,Panathinaikos Superfoods Athens,0
-MAL       ,,3,00:20,40,521,"MCCALLUM, RAY",P008002   ,Missed Three Pointer (0/1 -  8 pt),3FGA,,,Unicaja Malaga,0
-PAN       ,,22,00:18,40,522,"GABRIEL, KENNY",P005881   ,Def Rebound (1),D,,,Panathinaikos Superfoods Athens,0
-PAN       ,,14,00:02,40,523,"GIST, JAMES",P002980   ,Three Pointer (1/2 -  17 pt),3FGM,82.0,71.0,Panathinaikos Superfoods Athens,0
-PAN       ,,33,00:02,40,524,"CALATHES, NICK",P001932   ,Assist (12),AS,,,Panathinaikos Superfoods Athens,0
-          ,,,,41,527,,          ,End Game,EG,,,,0
+CODETEAM,COMMENT,DORSAL,MARKERTIME,MINUTE,NUMBEROFPLAY,PLAYER,PLAYER_ID,PLAYINFO,PLAYTYPE,POINTS_A,POINTS_B,TEAM,TYPE,home_team,home_team_code,away_team,away_team_code
+          ,,,,1,15,,          ,Begin Period,BP,,,,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,24,09:43,1,16,"LOJESKI, MATT",P003608   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,,09:43,1,17,,          ,Def Rebound (1),D,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,23,09:20,1,18,"BROOKS, JEFF",P004117   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,40,09:17,1,19,"AUGUSTINE, JAMES",P001438   ,Off Rebound (1),O,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,40,09:17,1,20,"AUGUSTINE, JAMES",P001438   ,Two Pointer (1/1 -  2 pt),2FGM,,2.0,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,0,09:00,2,22,"SINGLETON, CHRIS",P006614   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,11,08:57,2,23,"DIEZ, DANIEL",P003198   ,Def Rebound (1),D,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,3,08:52,2,24,"MCCALLUM, RAY",P008002   ,Two Pointer (1/1 -  2 pt),2FGM,,4.0,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,0,08:28,2,25,"SINGLETON, CHRIS",P006614   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,3,08:26,2,26,"MCCALLUM, RAY",P008002   ,Def Rebound (1),D,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,16,08:07,2,27,"NEDOVIC, NEMANJA",P000848   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,33,08:05,2,28,"CALATHES, NICK",P001932   ,Def Rebound (1),D,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,14,08:01,2,29,"GIST, JAMES",P002980   ,Two Pointer (1/1 -  2 pt),2FGM,2.0,4.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,33,07:59,3,31,"CALATHES, NICK",P001932   ,Assist (1),AS,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,0,07:41,3,32,"SINGLETON, CHRIS",P006614   ,Foul (1),CM,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,16,07:41,3,33,"NEDOVIC, NEMANJA",P000848   ,Foul Drawn (1),RV,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,33,07:29,3,34,"CALATHES, NICK",P001932   ,Foul (1),CM,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,16,07:29,3,35,"NEDOVIC, NEMANJA",P000848   ,Foul Drawn (2),RV,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,23,07:20,3,36,"BROOKS, JEFF",P004117   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,,07:20,3,37,,          ,Off Rebound (1),O,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,16,07:11,3,38,"NEDOVIC, NEMANJA",P000848   ,Turnover (1),TO,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,24,07:08,3,39,"LOJESKI, MATT",P003608   ,Three Pointer (1/1 -  3 pt),3FGM,5.0,4.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,14,07:08,3,40,"GIST, JAMES",P002980   ,Assist (1),AS,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,16,07:01,3,42,"NEDOVIC, NEMANJA",P000848   ,Three Pointer (1/1 -  3 pt),3FGM,5.0,7.0,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,23,07:01,3,43,"BROOKS, JEFF",P004117   ,Assist (1),AS,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,14,06:17,4,45,"GIST, JAMES",P002980   ,Two Pointer (2/2 -  4 pt),2FGM,7.0,7.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,24,06:17,4,46,"LOJESKI, MATT",P003608   ,Assist (1),AS,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+          ,,,06:17,4,47,,          ,TV Time Out (1),TOUT_TV,,,,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,40,06:02,4,48,"AUGUSTINE, JAMES",P001438   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,40,06:00,4,49,"AUGUSTINE, JAMES",P001438   ,Off Rebound (2),O,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,40,05:58,5,51,"AUGUSTINE, JAMES",P001438   ,Missed Two Pointer (1/3 -  2 pt),2FGA,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,12,05:57,5,52,"DENMON, MARCUS",P004195   ,Def Rebound (1),D,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,14,05:46,5,53,"GIST, JAMES",P002980   ,Two Pointer (3/3 -  6 pt),2FGM,9.0,7.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,11,05:29,5,54,"DIEZ, DANIEL",P003198   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,14,05:25,5,55,"GIST, JAMES",P002980   ,Def Rebound (1),D,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,12,05:15,5,56,"DENMON, MARCUS",P004195   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,23,05:14,5,57,"BROOKS, JEFF",P004117   ,Def Rebound (1),D,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,3,05:09,5,58,"MCCALLUM, RAY",P008002   ,Two Pointer (2/2 -  4 pt),2FGM,9.0,9.0,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,0,04:49,6,60,"SINGLETON, CHRIS",P006614   ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,40,04:47,6,61,"AUGUSTINE, JAMES",P001438   ,Def Rebound (1),D,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,23,04:36,6,62,"BROOKS, JEFF",P004117   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,24,04:34,6,63,"LOJESKI, MATT",P003608   ,Def Rebound (1),D,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,12,04:13,6,64,"DENMON, MARCUS",P004195   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,0,04:12,6,65,"SINGLETON, CHRIS",P006614   ,Off Rebound (1),O,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,0,04:09,6,66,"SINGLETON, CHRIS",P006614   ,Turnover (1),TO,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,3,04:06,6,67,"MCCALLUM, RAY",P008002   ,Steal (1),ST,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,11,04:00,6,68,"PAPPAS, NIKOS",P000464   ,In,IN,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,12,04:00,6,69,"DENMON, MARCUS",P004195   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,16,03:49,7,71,"NEDOVIC, NEMANJA",P000848   ,Missed Three Pointer (1/2 -  3 pt),3FGA,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,,03:49,7,72,,          ,Def Rebound (2),D,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,23,03:37,7,73,"BROOKS, JEFF",P004117   ,Foul (1),CM,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,0,03:37,7,74,"SINGLETON, CHRIS",P006614   ,Foul Drawn (1),RV,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,11,03:30,7,75,"DIEZ, DANIEL",P003198   ,Foul (1),CM,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,14,03:30,7,76,"GIST, JAMES",P002980   ,Foul Drawn (1),RV,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,33,03:14,7,77,"CALATHES, NICK",P001932   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,23,03:13,7,78,"BROOKS, JEFF",P004117   ,Def Rebound (2),D,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,3,03:08,7,79,"MCCALLUM, RAY",P008002   ,Missed Two Pointer (2/3 -  4 pt),2FGA,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,0,03:06,7,80,"SINGLETON, CHRIS",P006614   ,Def Rebound (1),D,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,33,03:01,7,81,"CALATHES, NICK",P001932   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,0,02:58,8,83,"SINGLETON, CHRIS",P006614   ,Off Rebound (2),O,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,0,02:58,8,84,"SINGLETON, CHRIS",P006614   ,Two Pointer (1/2 -  2 pt),2FGM,11.0,9.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,3,02:43,8,85,"RIVERS, K.C.",P002429   ,In,IN,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,24,02:43,8,86,"LOJESKI, MATT",P003608   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,40,02:43,8,87,"AUGUSTINE, JAMES",P001438   ,Out,OUT,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,44,02:43,8,88,"MUSLI, DEJAN",PLUR      ,In,IN,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,16,02:33,8,89,"NEDOVIC, NEMANJA",P000848   ,Missed Three Pointer (1/3 -  3 pt),3FGA,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,14,02:31,8,90,"GIST, JAMES",P002980   ,Def Rebound (2),D,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,11,02:27,8,91,"DIEZ, DANIEL",P003198   ,Foul (2),CM,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,33,02:27,8,92,"CALATHES, NICK",P001932   ,Foul Drawn (1),RV,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,11,02:27,8,93,"DIEZ, DANIEL",P003198   ,Out,OUT,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,12,02:27,8,94,"MILOSAVLJEVIC, DRAGAN",P002822   ,In,IN,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,33,02:15,8,95,"CALATHES, NICK",P001932   ,Two Pointer (1/3 -  2 pt),2FGM,13.0,9.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,23,01:58,9,97,"BROOKS, JEFF",P004117   ,Missed Two Pointer (0/3 -  0 pt),2FGA,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,14,01:56,9,98,"GIST, JAMES",P002980   ,Def Rebound (3),D,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,14,01:45,9,99,"GIST, JAMES",P002980   ,Two Pointer (4/4 -  8 pt),2FGM,15.0,9.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,33,01:42,9,100,"CALATHES, NICK",P001932   ,Assist (2),AS,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,,01:39,9,101,,          ,Time Out (1),TOUT,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,23,01:39,9,102,"BROOKS, JEFF",P004117   ,Out,OUT,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,43,01:39,9,103,"SUAREZ, CARLOS",PJJS      ,In,IN,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,16,01:24,9,104,"NEDOVIC, NEMANJA",P000848   ,Turnover (2),TO,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,0,01:24,9,105,"SINGLETON, CHRIS",P006614   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,15,01:24,9,106,"VOUGIOUKAS, IAN",PTFX      ,In,IN,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,33,01:12,9,107,"CALATHES, NICK",P001932   ,Turnover (1),TO,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,12,01:11,9,108,"MILOSAVLJEVIC, DRAGAN",P002822   ,Steal (1),ST,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,44,01:07,9,109,"MUSLI, DEJAN",PLUR      ,Two Pointer (1/1 -  2 pt),2FGM,15.0,11.0,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,16,01:05,9,110,"NEDOVIC, NEMANJA",P000848   ,Assist (1),AS,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,44,00:53,10,112,"MUSLI, DEJAN",PLUR      ,Foul (1),CM,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,11,00:53,10,113,"PAPPAS, NIKOS",P000464   ,Foul Drawn (1),RV,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,11,00:53,10,114,"PAPPAS, NIKOS",P000464   ,Missed Free Throw (0/1 -  0 pt),FTA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,11,00:53,10,115,"PAPPAS, NIKOS",P000464   ,Free Throw In (1/2 -  1 pt),FTM,16.0,11.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,16,00:41,10,116,"NEDOVIC, NEMANJA",P000848   ,Two Pointer (1/2 -  5 pt),2FGM,16.0,13.0,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,15,00:25,10,117,"VOUGIOUKAS, IAN",PTFX      ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,44,00:23,10,118,"MUSLI, DEJAN",PLUR      ,Def Rebound (1),D,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,44,00:03,10,119,"MUSLI, DEJAN",PLUR      ,Two Pointer (2/2 -  4 pt),2FGM,16.0,15.0,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,16,00:03,10,120,"NEDOVIC, NEMANJA",P000848   ,Assist (2),AS,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+          ,,,,11,122,,          ,End Period,EP,,,,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+          ,,,,11,127,,          ,Begin Period,BP,,,,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,19,10:00,11,123,"LEKAVICIUS, LUKAS",P003210   ,In,IN,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,33,10:00,11,124,"CALATHES, NICK",P001932   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,3,10:00,11,125,"MCCALLUM, RAY",P008002   ,Out,OUT,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,9,10:00,11,126,"DIAZ, ALBERTO",P004213   ,In,IN,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,15,09:44,11,128,"VOUGIOUKAS, IAN",PTFX      ,Offensive Foul (1),OF,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,15,09:44,11,129,"VOUGIOUKAS, IAN",PTFX      ,Turnover (1),TO,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,12,09:44,11,130,"MILOSAVLJEVIC, DRAGAN",P002822   ,Foul Drawn (1),RV,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,44,09:22,11,131,"MUSLI, DEJAN",PLUR      ,Turnover (1),TO,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,3,09:20,11,132,"RIVERS, K.C.",P002429   ,Steal (1),ST,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,11,09:08,11,133,"PAPPAS, NIKOS",P000464   ,Missed Three Pointer (0/1 -  1 pt),3FGA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,14,09:06,11,134,"GIST, JAMES",P002980   ,Off Rebound (1),O,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,14,08:56,12,136,"GIST, JAMES",P002980   ,Two Pointer (5/5 -  10 pt),2FGM,18.0,15.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,16,08:39,12,137,"NEDOVIC, NEMANJA",P000848   ,Turnover (3),TO,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,14,08:37,12,138,"GIST, JAMES",P002980   ,Steal (1),ST,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,3,08:30,12,139,"RIVERS, K.C.",P002429   ,Three Pointer (1/1 -  3 pt),3FGM,21.0,15.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,19,08:28,12,140,"LEKAVICIUS, LUKAS",P003210   ,Assist (1),AS,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,11,08:22,12,141,"PAPPAS, NIKOS",P000464   ,Foul (1),CM,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,9,08:22,12,142,"DIAZ, ALBERTO",P004213   ,Foul Drawn (1),RV,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,10,08:22,12,143,"SALIN, SASU",P002820   ,In,IN,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,16,08:22,12,144,"NEDOVIC, NEMANJA",P000848   ,Out,OUT,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,10,08:02,12,145,"SALIN, SASU",P002820   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,14,08:00,12,146,"GIST, JAMES",P002980   ,Def Rebound (4),D,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,3,07:55,13,148,"RIVERS, K.C.",P002429   ,Missed Three Pointer (1/2 -  3 pt),3FGA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,9,07:53,13,149,"DIAZ, ALBERTO",P004213   ,Def Rebound (1),D,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,43,07:41,13,150,"SUAREZ, CARLOS",PJJS      ,Three Pointer (1/1 -  3 pt),3FGM,21.0,18.0,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,12,07:38,13,151,"MILOSAVLJEVIC, DRAGAN",P002822   ,Assist (1),AS,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,10,07:26,13,152,"SALIN, SASU",P002820   ,Foul (1),CM,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,11,07:26,13,153,"PAPPAS, NIKOS",P000464   ,Foul Drawn (2),RV,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,14,07:26,13,154,"GIST, JAMES",P002980   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,22,07:26,13,155,"GABRIEL, KENNY",P005881   ,In,IN,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,11,07:19,13,156,"PAPPAS, NIKOS",P000464   ,Missed Two Pointer (0/1 -  1 pt),2FGA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,22,07:16,13,157,"GABRIEL, KENNY",P005881   ,Off Rebound (1),O,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,22,07:16,13,158,"GABRIEL, KENNY",P005881   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,,07:16,13,159,,          ,Def Rebound (3),D,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,44,07:04,13,160,"MUSLI, DEJAN",PLUR      ,Offensive Foul (2),OF,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,44,07:04,13,161,"MUSLI, DEJAN",PLUR      ,Turnover (2),TO,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,15,07:04,13,162,"VOUGIOUKAS, IAN",PTFX      ,Foul Drawn (1),RV,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,19,06:53,14,164,"LEKAVICIUS, LUKAS",P003210   ,Three Pointer (1/1 -  3 pt),3FGM,24.0,18.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,11,06:51,14,165,"PAPPAS, NIKOS",P000464   ,Assist (1),AS,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,9,06:31,14,166,"DIAZ, ALBERTO",P004213   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,,06:31,14,167,,          ,Off Rebound (2),O,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,15,06:31,14,168,"VOUGIOUKAS, IAN",PTFX      ,Foul (2),CM,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,44,06:31,14,169,"MUSLI, DEJAN",PLUR      ,Foul Drawn (1),RV,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,15,06:31,14,170,"VOUGIOUKAS, IAN",PTFX      ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,23,06:31,14,171,"AUGUSTE, ZACH",P007948   ,In,IN,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,40,06:31,14,172,"AUGUSTINE, JAMES",P001438   ,In,IN,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,44,06:31,14,173,"MUSLI, DEJAN",PLUR      ,Out,OUT,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,22,06:29,14,174,"GABRIEL, KENNY",P005881   ,Foul (1),CM,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,43,06:29,14,175,"SUAREZ, CARLOS",PJJS      ,Foul Drawn (1),RV,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,10,06:22,14,176,"SALIN, SASU",P002820   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,40,06:20,14,177,"AUGUSTINE, JAMES",P001438   ,Off Rebound (3),O,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,11,06:19,14,178,"PAPPAS, NIKOS",P000464   ,Foul (2),CM,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,9,06:19,14,179,"DIAZ, ALBERTO",P004213   ,Foul Drawn (2),RV,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,9,06:19,14,180,"DIAZ, ALBERTO",P004213   ,Free Throw In (1/1 -  1 pt),FTM,24.0,19.0,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,9,06:19,14,181,"DIAZ, ALBERTO",P004213   ,Free Throw In (2/2 -  2 pt),FTM,24.0,20.0,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,9,06:18,14,182,"DIAZ, ALBERTO",P004213   ,Foul (1),CM,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,19,06:18,14,183,"LEKAVICIUS, LUKAS",P003210   ,Foul Drawn (1),RV,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,19,06:05,14,184,"LEKAVICIUS, LUKAS",P003210   ,Turnover (1),TO,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,9,06:03,14,185,"DIAZ, ALBERTO",P004213   ,Steal (1),ST,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,10,06:00,15,187,"SALIN, SASU",P002820   ,Turnover (1),TO,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,3,05:58,15,188,"RIVERS, K.C.",P002429   ,Steal (2),ST,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,3,05:56,15,189,"RIVERS, K.C.",P002429   ,Turnover (1),TO,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,9,05:54,15,190,"DIAZ, ALBERTO",P004213   ,Steal (2),ST,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,12,05:50,15,191,"MILOSAVLJEVIC, DRAGAN",P002822   ,Three Pointer (1/1 -  3 pt),3FGM,24.0,23.0,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,9,05:48,15,192,"DIAZ, ALBERTO",P004213   ,Assist (1),AS,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,10,05:33,15,193,"SALIN, SASU",P002820   ,Foul (2),CM,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,3,05:33,15,194,"RIVERS, K.C.",P002429   ,Foul Drawn (1),RV,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,3,05:33,15,195,"RIVERS, K.C.",P002429   ,Free Throw In (1/1 -  4 pt),FTM,25.0,23.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,3,05:33,15,196,"RIVERS, K.C.",P002429   ,Free Throw In (2/2 -  5 pt),FTM,26.0,23.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,12,05:17,15,197,"MILOSAVLJEVIC, DRAGAN",P002822   ,Two Pointer (1/1 -  5 pt),2FGM,26.0,25.0,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,23,04:57,16,199,"AUGUSTE, ZACH",P007948   ,Two Pointer (1/1 -  2 pt),2FGM,28.0,25.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,11,04:55,16,200,"PAPPAS, NIKOS",P000464   ,Assist (2),AS,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,43,04:41,16,201,"SUAREZ, CARLOS",PJJS      ,Two Pointer (1/1 -  5 pt),2FGM,28.0,27.0,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,10,04:37,16,202,"SALIN, SASU",P002820   ,Assist (1),AS,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,3,04:16,16,203,"RIVERS, K.C.",P002429   ,Missed Two Pointer (0/1 -  5 pt),2FGA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,10,04:14,16,204,"SALIN, SASU",P002820   ,Def Rebound (1),D,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,23,04:01,16,205,"AUGUSTE, ZACH",P007948   ,Foul (1),CM,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,12,04:01,16,206,"MILOSAVLJEVIC, DRAGAN",P002822   ,Foul Drawn (2),RV,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+          ,,,04:01,16,207,,          ,TV Time Out (2),TOUT_TV,,,,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,11,04:01,16,208,"PAPPAS, NIKOS",P000464   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,12,04:01,16,209,"DENMON, MARCUS",P004195   ,In,IN,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,12,04:01,16,210,"MILOSAVLJEVIC, DRAGAN",P002822   ,Free Throw In (1/1 -  6 pt),FTM,28.0,28.0,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,12,04:01,16,211,"MILOSAVLJEVIC, DRAGAN",P002822   ,Free Throw In (2/2 -  7 pt),FTM,28.0,29.0,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,22,03:42,17,213,"GABRIEL, KENNY",P005881   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,10,03:40,17,214,"SALIN, SASU",P002820   ,Def Rebound (2),D,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,40,03:29,17,215,"AUGUSTINE, JAMES",P001438   ,Two Pointer (2/4 -  4 pt),2FGM,28.0,31.0,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,10,03:26,17,216,"SALIN, SASU",P002820   ,Assist (2),AS,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,12,03:11,17,217,"DENMON, MARCUS",P004195   ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,43,03:09,17,218,"SUAREZ, CARLOS",PJJS      ,Def Rebound (1),D,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,9,02:56,18,220,"DIAZ, ALBERTO",P004213   ,Turnover (1),TO,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,12,02:55,18,221,"DENMON, MARCUS",P004195   ,Steal (1),ST,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,3,02:51,18,222,"RIVERS, K.C.",P002429   ,Two Pointer (1/2 -  7 pt),2FGM,30.0,31.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,19,02:49,18,223,"LEKAVICIUS, LUKAS",P003210   ,Assist (2),AS,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,12,02:35,18,224,"MILOSAVLJEVIC, DRAGAN",P002822   ,Missed Two Pointer (1/2 -  7 pt),2FGA,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,40,02:32,18,225,"AUGUSTINE, JAMES",P001438   ,Off Rebound (4),O,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,40,02:32,18,226,"AUGUSTINE, JAMES",P001438   ,Missed Two Pointer (2/5 -  4 pt),2FGA,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,19,02:30,18,227,"LEKAVICIUS, LUKAS",P003210   ,Def Rebound (1),D,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,0,02:30,18,228,"SINGLETON, CHRIS",P006614   ,In,IN,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,3,02:30,18,229,"RIVERS, K.C.",P002429   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,14,02:30,18,230,"GIST, JAMES",P002980   ,In,IN,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,19,02:30,18,231,"LEKAVICIUS, LUKAS",P003210   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,22,02:30,18,232,"GABRIEL, KENNY",P005881   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,23,02:30,18,233,"AUGUSTE, ZACH",P007948   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,33,02:30,18,234,"CALATHES, NICK",P001932   ,In,IN,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,43,02:30,18,235,"ANTETOKOUNMPO, THANASIS",P007865   ,In,IN,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,10,02:30,18,236,"SALIN, SASU",P002820   ,Out,OUT,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,16,02:30,18,237,"NEDOVIC, NEMANJA",P000848   ,In,IN,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,0,02:15,18,238,"SINGLETON, CHRIS",P006614   ,Turnover (2),TO,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,40,02:14,18,239,"AUGUSTINE, JAMES",P001438   ,Steal (1),ST,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,40,01:57,19,241,"AUGUSTINE, JAMES",P001438   ,Two Pointer (3/6 -  6 pt),2FGM,30.0,33.0,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,43,01:54,19,242,"SUAREZ, CARLOS",PJJS      ,Assist (1),AS,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,33,01:41,19,243,"CALATHES, NICK",P001932   ,Missed Two Pointer (1/4 -  2 pt),2FGA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,14,01:39,19,244,"GIST, JAMES",P002980   ,Off Rebound (2),O,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,14,01:37,19,245,"GIST, JAMES",P002980   ,Missed Two Pointer (5/6 -  10 pt),2FGA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,40,01:36,19,246,"AUGUSTINE, JAMES",P001438   ,Def Rebound (2),D,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,16,01:17,19,247,"NEDOVIC, NEMANJA",P000848   ,Missed Two Pointer (1/3 -  5 pt),2FGA,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,12,01:16,19,248,"DENMON, MARCUS",P004195   ,Def Rebound (2),D,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,14,01:11,19,249,"GIST, JAMES",P002980   ,Two Pointer (6/7 -  12 pt),2FGM,32.0,33.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,33,01:09,19,250,"CALATHES, NICK",P001932   ,Assist (3),AS,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,16,00:58,20,252,"NEDOVIC, NEMANJA",P000848   ,Turnover (4),TO,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,0,00:57,20,253,"SINGLETON, CHRIS",P006614   ,Steal (1),ST,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,0,00:39,20,254,"SINGLETON, CHRIS",P006614   ,Missed Two Pointer (1/3 -  2 pt),2FGA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,14,00:37,20,255,"GIST, JAMES",P002980   ,Off Rebound (4),O,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,14,00:59,20,273,"GIST, JAMES",P002980   ,Missed Two Pointer (6/8 -  12 pt),2FGA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,14,00:37,20,272,"GIST, JAMES",P002980   ,Off Rebound (4),O,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,33,00:33,20,256,"CALATHES, NICK",P001932   ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,,00:31,20,257,,          ,Def Rebound (4),D,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,0,00:31,20,258,"SINGLETON, CHRIS",P006614   ,Foul (2),CM,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,43,00:31,20,259,"SUAREZ, CARLOS",PJJS      ,Foul Drawn (2),RV,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,23,00:31,20,260,"BROOKS, JEFF",P004117   ,In,IN,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,40,00:31,20,261,"AUGUSTINE, JAMES",P001438   ,Out,OUT,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,43,00:31,20,262,"SUAREZ, CARLOS",PJJS      ,Free Throw In (1/1 -  6 pt),FTM,32.0,34.0,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,43,00:31,20,263,"SUAREZ, CARLOS",PJJS      ,Free Throw In (2/2 -  7 pt),FTM,32.0,35.0,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,33,00:08,20,264,"CALATHES, NICK",P001932   ,Missed Two Pointer (1/5 -  2 pt),2FGA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,12,00:07,20,265,"MILOSAVLJEVIC, DRAGAN",P002822   ,Def Rebound (1),D,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,23,00:03,20,266,"BROOKS, JEFF",P004117   ,Missed Two Pointer (0/4 -  0 pt),2FGA,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,23,00:03,20,267,"BROOKS, JEFF",P004117   ,Shot Rejected (1),AG,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,12,00:03,20,268,"DENMON, MARCUS",P004195   ,Block (1),FV,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,43,00:03,20,269,"SUAREZ, CARLOS",PJJS      ,Off Rebound (1),O,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+          ,,,,21,271,,          ,End Period,EP,,,,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+          ,,,,21,282,,          ,Begin Period,BP,,,,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,12,10:00,21,274,"DENMON, MARCUS",P004195   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,24,10:00,21,275,"LOJESKI, MATT",P003608   ,In,IN,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,3,10:00,21,276,"MCCALLUM, RAY",P008002   ,In,IN,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,9,10:00,21,277,"DIAZ, ALBERTO",P004213   ,Out,OUT,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,11,10:00,21,278,"DIEZ, DANIEL",P003198   ,In,IN,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,12,10:00,21,279,"MILOSAVLJEVIC, DRAGAN",P002822   ,Out,OUT,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,40,10:00,21,280,"AUGUSTINE, JAMES",P001438   ,In,IN,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,43,10:00,21,281,"SUAREZ, CARLOS",PJJS      ,Out,OUT,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,3,09:41,21,283,"MCCALLUM, RAY",P008002   ,Missed Two Pointer (2/4 -  4 pt),2FGA,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,0,09:40,21,284,"SINGLETON, CHRIS",P006614   ,Def Rebound (2),D,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,33,09:35,21,285,"CALATHES, NICK",P001932   ,Two Pointer (2/6 -  4 pt),2FGM,34.0,35.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,23,09:16,21,286,"BROOKS, JEFF",P004117   ,Missed Two Pointer (0/5 -  0 pt),2FGA,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,11,09:14,21,287,"DIEZ, DANIEL",P003198   ,Off Rebound (1),O,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,16,09:12,21,288,"NEDOVIC, NEMANJA",P000848   ,Three Pointer (2/4 -  8 pt),3FGM,34.0,38.0,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,11,09:09,21,289,"DIEZ, DANIEL",P003198   ,Assist (1),AS,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,24,08:53,22,291,"LOJESKI, MATT",P003608   ,Missed Three Pointer (1/2 -  3 pt),3FGA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,16,08:52,22,292,"NEDOVIC, NEMANJA",P000848   ,Def Rebound (1),D,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,11,08:41,22,293,"DIEZ, DANIEL",P003198   ,Three Pointer (1/2 -  3 pt),3FGM,34.0,41.0,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,16,08:38,22,294,"NEDOVIC, NEMANJA",P000848   ,Assist (3),AS,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,33,08:20,22,295,"CALATHES, NICK",P001932   ,Two Pointer (3/7 -  6 pt),2FGM,36.0,41.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,43,08:04,22,296,"ANTETOKOUNMPO, THANASIS",P007865   ,Foul (1),CM,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,3,08:04,22,297,"MCCALLUM, RAY",P008002   ,Foul Drawn (1),RV,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,40,07:54,23,299,"AUGUSTINE, JAMES",P001438   ,Turnover (1),TO,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,33,07:38,23,300,"CALATHES, NICK",P001932   ,Missed Three Pointer (0/2 -  6 pt),3FGA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,43,07:37,23,301,"ANTETOKOUNMPO, THANASIS",P007865   ,Off Rebound (1),O,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,33,07:27,23,302,"CALATHES, NICK",P001932   ,Two Pointer (4/8 -  8 pt),2FGM,38.0,41.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,16,07:13,23,303,"NEDOVIC, NEMANJA",P000848   ,Missed Two Pointer (1/4 -  8 pt),2FGA,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,0,07:11,23,304,"SINGLETON, CHRIS",P006614   ,Def Rebound (3),D,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,14,06:56,24,306,"GIST, JAMES",P002980   ,Two Pointer (7/9 -  14 pt),2FGM,40.0,41.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,33,06:54,24,307,"CALATHES, NICK",P001932   ,Assist (4),AS,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,16,06:27,24,308,"NEDOVIC, NEMANJA",P000848   ,Missed Two Pointer (1/5 -  8 pt),2FGA,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,16,06:27,24,309,"NEDOVIC, NEMANJA",P000848   ,Shot Rejected (1),AG,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,43,06:27,24,310,"ANTETOKOUNMPO, THANASIS",P007865   ,Block (1),FV,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,,06:27,24,311,,          ,Off Rebound (3),O,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,3,06:27,24,312,"MCCALLUM, RAY",P008002   ,Out,OUT,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,9,06:27,24,313,"DIAZ, ALBERTO",P004213   ,In,IN,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,23,06:22,24,314,"BROOKS, JEFF",P004117   ,Missed Two Pointer (0/6 -  0 pt),2FGA,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,43,06:20,24,315,"ANTETOKOUNMPO, THANASIS",P007865   ,Def Rebound (1),D,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,9,06:12,24,316,"DIAZ, ALBERTO",P004213   ,Foul (2),CM,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,14,06:12,24,317,"GIST, JAMES",P002980   ,Foul Drawn (2),RV,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,33,06:11,24,318,"CALATHES, NICK",P001932   ,Two Pointer (5/9 -  10 pt),2FGM,42.0,41.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,11,05:41,25,320,"DIEZ, DANIEL",P003198   ,Missed Two Pointer (0/1 -  3 pt),2FGA,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,0,05:39,25,321,"SINGLETON, CHRIS",P006614   ,Def Rebound (4),D,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,23,05:31,25,322,"BROOKS, JEFF",P004117   ,Foul (2),CM,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,0,05:31,25,323,"SINGLETON, CHRIS",P006614   ,Foul Drawn (2),RV,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,11,05:31,25,324,"DIEZ, DANIEL",P003198   ,Out,OUT,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,12,05:31,25,325,"MILOSAVLJEVIC, DRAGAN",P002822   ,In,IN,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,0,05:31,25,326,"SINGLETON, CHRIS",P006614   ,Free Throw In (1/1 -  3 pt),FTM,43.0,41.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,0,05:31,25,327,"SINGLETON, CHRIS",P006614   ,Free Throw In (2/2 -  4 pt),FTM,44.0,41.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,23,05:12,25,328,"BROOKS, JEFF",P004117   ,Turnover (1),TO,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,33,05:11,25,329,"CALATHES, NICK",P001932   ,Steal (1),ST,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,43,05:07,25,330,"ANTETOKOUNMPO, THANASIS",P007865   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,43,05:07,25,331,"ANTETOKOUNMPO, THANASIS",P007865   ,Shot Rejected (1),AG,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,23,05:06,25,332,"BROOKS, JEFF",P004117   ,Block (1),FV,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,12,05:05,25,333,"MILOSAVLJEVIC, DRAGAN",P002822   ,Def Rebound (2),D,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,23,05:05,25,334,"BROOKS, JEFF",P004117   ,Out,OUT,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,43,05:05,25,335,"SUAREZ, CARLOS",PJJS      ,In,IN,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,24,04:45,26,337,"LOJESKI, MATT",P003608   ,Foul (1),CM,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,12,04:45,26,338,"MILOSAVLJEVIC, DRAGAN",P002822   ,Foul Drawn (3),RV,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+          ,,,04:45,26,339,,          ,TV Time Out (3),TOUT_TV,,,,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,16,04:32,26,340,"NEDOVIC, NEMANJA",P000848   ,Two Pointer (2/6 -  10 pt),2FGM,44.0,43.0,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,43,04:06,26,341,"ANTETOKOUNMPO, THANASIS",P007865   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,16,04:04,26,342,"NEDOVIC, NEMANJA",P000848   ,Def Rebound (2),D,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,33,04:01,26,343,"CALATHES, NICK",P001932   ,Foul (2),CM,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,16,04:01,26,344,"NEDOVIC, NEMANJA",P000848   ,Foul Drawn (3),RV,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,43,03:52,27,346,"ANTETOKOUNMPO, THANASIS",P007865   ,Foul (2),CM,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,40,03:52,27,347,"AUGUSTINE, JAMES",P001438   ,Foul Drawn (1),RV,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,40,03:52,27,348,"AUGUSTINE, JAMES",P001438   ,Missed Free Throw (0/1 -  6 pt),FTA,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,40,03:52,27,349,"AUGUSTINE, JAMES",P001438   ,Free Throw In (1/2 -  7 pt),FTM,44.0,44.0,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,9,03:52,27,350,"DIAZ, ALBERTO",P004213   ,Assist (2),AS,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,24,03:44,27,351,"LOJESKI, MATT",P003608   ,Three Pointer (2/3 -  6 pt),3FGM,47.0,44.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,33,03:42,27,352,"CALATHES, NICK",P001932   ,Assist (5),AS,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,43,03:33,27,353,"ANTETOKOUNMPO, THANASIS",P007865   ,Foul (3),CM,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,16,03:33,27,354,"NEDOVIC, NEMANJA",P000848   ,Foul Drawn (4),RV,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,16,03:33,27,355,"NEDOVIC, NEMANJA",P000848   ,Free Throw In (1/1 -  11 pt),FTM,47.0,45.0,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,16,03:33,27,356,"NEDOVIC, NEMANJA",P000848   ,Missed Free Throw (1/2 -  11 pt),FTA,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,43,03:33,27,357,"ANTETOKOUNMPO, THANASIS",P007865   ,Def Rebound (2),D,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,0,03:10,27,358,"SINGLETON, CHRIS",P006614   ,Three Pointer (1/3 -  7 pt),3FGM,50.0,45.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,33,03:08,27,359,"CALATHES, NICK",P001932   ,Assist (6),AS,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,12,03:00,28,361,"MILOSAVLJEVIC, DRAGAN",P002822   ,Three Pointer (2/2 -  10 pt),3FGM,50.0,48.0,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,9,02:57,28,362,"DIAZ, ALBERTO",P004213   ,Assist (3),AS,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,43,02:42,28,363,"ANTETOKOUNMPO, THANASIS",P007865   ,Turnover (1),TO,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,3,02:42,28,364,"RIVERS, K.C.",P002429   ,In,IN,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,43,02:42,28,365,"ANTETOKOUNMPO, THANASIS",P007865   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,40,02:42,28,366,"AUGUSTINE, JAMES",P001438   ,Out,OUT,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,44,02:42,28,367,"MUSLI, DEJAN",PLUR      ,In,IN,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,43,02:19,28,368,"SUAREZ, CARLOS",PJJS      ,Three Pointer (2/2 -  10 pt),3FGM,50.0,51.0,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,16,02:17,28,369,"NEDOVIC, NEMANJA",P000848   ,Assist (4),AS,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,12,02:03,28,370,"MILOSAVLJEVIC, DRAGAN",P002822   ,Foul (1),CM,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,33,02:03,28,371,"CALATHES, NICK",P001932   ,Foul Drawn (2),RV,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,12,02:03,28,372,"MILOSAVLJEVIC, DRAGAN",P002822   ,Technical Foul (2),CMT,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,10,02:03,28,373,"SALIN, SASU",P002820   ,In,IN,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,16,02:03,28,374,"NEDOVIC, NEMANJA",P000848   ,Out,OUT,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,24,02:03,28,375,"LOJESKI, MATT",P003608   ,Free Throw In (1/1 -  7 pt),FTM,51.0,51.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,3,01:53,29,377,"RIVERS, K.C.",P002429   ,Missed Three Pointer (1/3 -  7 pt),3FGA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,43,01:51,29,378,"SUAREZ, CARLOS",PJJS      ,Def Rebound (2),D,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,12,01:31,29,379,"MILOSAVLJEVIC, DRAGAN",P002822   ,Missed Three Pointer (2/3 -  10 pt),3FGA,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,44,01:26,29,380,"MUSLI, DEJAN",PLUR      ,Off Rebound (1),O,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,44,01:26,29,381,"MUSLI, DEJAN",PLUR      ,Two Pointer (3/3 -  6 pt),2FGM,51.0,53.0,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,24,01:16,29,382,"LOJESKI, MATT",P003608   ,Missed Two Pointer (0/2 -  7 pt),2FGA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,,01:16,29,383,,          ,Def Rebound (5),D,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,3,01:16,29,384,"RIVERS, K.C.",P002429   ,Foul (1),CM,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,9,01:16,29,385,"DIAZ, ALBERTO",P004213   ,Foul Drawn (3),RV,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,9,01:16,29,386,"DIAZ, ALBERTO",P004213   ,Missed Free Throw (2/3 -  2 pt),FTA,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,9,01:16,29,387,"DIAZ, ALBERTO",P004213   ,Free Throw In (3/4 -  3 pt),FTM,51.0,54.0,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,0,01:13,29,388,"SINGLETON, CHRIS",P006614   ,Turnover (3),TO,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,12,01:12,29,389,"MILOSAVLJEVIC, DRAGAN",P002822   ,Steal (2),ST,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,12,00:59,30,391,"MILOSAVLJEVIC, DRAGAN",P002822   ,Turnover (1),TO,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,33,00:35,30,392,"CALATHES, NICK",P001932   ,Three Pointer (1/3 -  13 pt),3FGM,54.0,54.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,10,00:12,30,393,"SALIN, SASU",P002820   ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,14,00:10,30,394,"GIST, JAMES",P002980   ,Def Rebound (5),D,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,33,00:02,30,395,"CALATHES, NICK",P001932   ,Turnover (2),TO,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,9,00:02,30,396,"DIAZ, ALBERTO",P004213   ,Steal (3),ST,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+          ,,,,31,398,,          ,End Period,EP,,,,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+          ,,,,31,401,,          ,Begin Period,BP,,,,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,11,10:00,31,399,"PAPPAS, NIKOS",P000464   ,In,IN,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,24,10:00,31,400,"LOJESKI, MATT",P003608   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,11,09:39,31,402,"PAPPAS, NIKOS",P000464   ,Missed Three Pointer (0/2 -  1 pt),3FGA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,,09:38,31,403,,          ,Off Rebound (4),O,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,3,09:34,31,404,"RIVERS, K.C.",P002429   ,Missed Two Pointer (1/3 -  7 pt),2FGA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,14,09:33,31,405,"GIST, JAMES",P002980   ,Off Rebound (5),O,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,3,09:29,31,406,"RIVERS, K.C.",P002429   ,Missed Three Pointer (1/4 -  7 pt),3FGA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,14,09:27,31,407,"GIST, JAMES",P002980   ,Off Rebound (6),O,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,33,09:24,31,408,"CALATHES, NICK",P001932   ,Three Pointer (2/4 -  16 pt),3FGM,57.0,54.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,14,09:22,31,409,"GIST, JAMES",P002980   ,Assist (2),AS,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,0,09:06,31,410,"SINGLETON, CHRIS",P006614   ,Foul (3),CM,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,43,09:06,31,411,"SUAREZ, CARLOS",PJJS      ,Foul Drawn (3),RV,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,10,09:06,31,412,"SALIN, SASU",P002820   ,Out,OUT,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,16,09:06,31,413,"NEDOVIC, NEMANJA",P000848   ,In,IN,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,43,08:56,32,415,"SUAREZ, CARLOS",PJJS      ,Three Pointer (3/3 -  13 pt),3FGM,57.0,57.0,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,9,08:56,32,416,"DIAZ, ALBERTO",P004213   ,Assist (4),AS,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,0,08:56,32,417,"SINGLETON, CHRIS",P006614   ,Foul (4),CM,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,43,08:56,32,418,"SUAREZ, CARLOS",PJJS      ,Foul Drawn (4),RV,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,0,08:56,32,419,"SINGLETON, CHRIS",P006614   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,22,08:56,32,420,"GABRIEL, KENNY",P005881   ,In,IN,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,43,08:56,32,421,"SUAREZ, CARLOS",PJJS      ,Free Throw In (3/3 -  14 pt),FTM,57.0,58.0,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,22,08:33,32,422,"GABRIEL, KENNY",P005881   ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,44,08:31,32,423,"MUSLI, DEJAN",PLUR      ,Def Rebound (2),D,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,22,08:19,32,424,"GABRIEL, KENNY",P005881   ,Foul (2),CM,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,43,08:19,32,425,"SUAREZ, CARLOS",PJJS      ,Foul Drawn (5),RV,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,12,08:19,32,426,"MILOSAVLJEVIC, DRAGAN",P002822   ,Turnover (2),TO,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,3,08:02,32,427,"RIVERS, K.C.",P002429   ,Missed Three Pointer (1/5 -  7 pt),3FGA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,9,08:00,32,428,"DIAZ, ALBERTO",P004213   ,Def Rebound (2),D,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,9,07:55,33,430,"DIAZ, ALBERTO",P004213   ,Turnover (2),TO,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,3,07:53,33,431,"RIVERS, K.C.",P002429   ,Steal (3),ST,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,43,07:52,33,432,"SUAREZ, CARLOS",PJJS      ,Foul (1),CM,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,33,07:52,33,433,"CALATHES, NICK",P001932   ,Foul Drawn (3),RV,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,43,07:52,33,434,"SUAREZ, CARLOS",PJJS      ,Technical Foul (2),CMT,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,22,07:52,33,435,"GABRIEL, KENNY",P005881   ,Technical Foul (3),CMT,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,14,07:39,33,436,"GIST, JAMES",P002980   ,Missed Three Pointer (0/1 -  14 pt),3FGA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,33,07:37,33,437,"CALATHES, NICK",P001932   ,Off Rebound (1),O,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,11,07:34,33,438,"PAPPAS, NIKOS",P000464   ,Three Pointer (1/3 -  4 pt),3FGM,60.0,58.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,33,07:27,33,439,"CALATHES, NICK",P001932   ,Assist (7),AS,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,40,07:16,33,440,"AUGUSTINE, JAMES",P001438   ,In,IN,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,44,07:16,33,441,"MUSLI, DEJAN",PLUR      ,Out,OUT,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,43,07:09,33,442,"SUAREZ, CARLOS",PJJS      ,Turnover (1),TO,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,22,07:09,33,443,"GABRIEL, KENNY",P005881   ,Steal (1),ST,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,43,07:09,33,444,"SUAREZ, CARLOS",PJJS      ,Unsportsmanlike Foul  (3),CMU,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,22,07:09,33,445,"GABRIEL, KENNY",P005881   ,Foul Drawn (1),RV,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,23,07:09,33,446,"BROOKS, JEFF",P004117   ,In,IN,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,43,07:09,33,447,"SUAREZ, CARLOS",PJJS      ,Out,OUT,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,22,07:09,33,448,"GABRIEL, KENNY",P005881   ,Missed Free Throw (0/1 -  0 pt),FTA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,22,07:09,33,449,"GABRIEL, KENNY",P005881   ,Free Throw In (1/2 -  1 pt),FTM,61.0,58.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,11,06:58,34,451,"PAPPAS, NIKOS",P000464   ,Two Pointer (1/2 -  6 pt),2FGM,63.0,58.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,12,06:44,34,452,"MILOSAVLJEVIC, DRAGAN",P002822   ,Turnover (3),TO,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,33,06:42,34,453,"CALATHES, NICK",P001932   ,Steal (2),ST,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,11,06:42,34,454,"PAPPAS, NIKOS",P000464   ,Two Pointer (2/3 -  8 pt),2FGM,65.0,58.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,33,06:42,34,455,"CALATHES, NICK",P001932   ,Assist (8),AS,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,,06:42,34,456,,          ,Time Out (1),TOUT,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,3,06:42,34,457,"MCCALLUM, RAY",P008002   ,In,IN,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,9,06:42,34,458,"DIAZ, ALBERTO",P004213   ,Out,OUT,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,40,06:23,34,459,"AUGUSTINE, JAMES",P001438   ,Turnover (2),TO,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,3,06:01,34,460,"RIVERS, K.C.",P002429   ,Three Pointer (2/6 -  10 pt),3FGM,68.0,58.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,33,06:00,35,462,"CALATHES, NICK",P001932   ,Assist (9),AS,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,12,05:42,35,463,"MILOSAVLJEVIC, DRAGAN",P002822   ,Missed Two Pointer (1/3 -  10 pt),2FGA,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,12,05:40,35,464,"MILOSAVLJEVIC, DRAGAN",P002822   ,Off Rebound (1),O,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,3,05:35,35,465,"MCCALLUM, RAY",P008002   ,Two Pointer (3/5 -  6 pt),2FGM,68.0,60.0,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,12,05:33,35,466,"MILOSAVLJEVIC, DRAGAN",P002822   ,Assist (2),AS,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,33,05:13,35,467,"CALATHES, NICK",P001932   ,Missed Two Pointer (5/10 -  16 pt),2FGA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,23,05:11,35,468,"BROOKS, JEFF",P004117   ,Def Rebound (3),D,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,3,05:05,35,469,"MCCALLUM, RAY",P008002   ,Two Pointer (4/6 -  8 pt),2FGM,68.0,62.0,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,,05:05,35,470,,          ,Time Out (1),TOUT,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,11,04:40,36,472,"PAPPAS, NIKOS",P000464   ,Three Pointer (2/4 -  11 pt),3FGM,71.0,62.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,12,04:12,36,473,"MILOSAVLJEVIC, DRAGAN",P002822   ,Two Pointer (2/4 -  12 pt),2FGM,71.0,64.0,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,22,03:52,37,475,"GABRIEL, KENNY",P005881   ,Missed Two Pointer (0/2 -  1 pt),2FGA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,33,03:50,37,476,"CALATHES, NICK",P001932   ,Off Rebound (2),O,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,22,03:40,37,477,"GABRIEL, KENNY",P005881   ,Three Pointer (1/3 -  4 pt),3FGM,74.0,64.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,33,03:38,37,478,"CALATHES, NICK",P001932   ,Assist (10),AS,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,3,03:10,37,479,"MCCALLUM, RAY",P008002   ,Missed Two Pointer (4/7 -  8 pt),2FGA,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,3,03:07,37,480,"MCCALLUM, RAY",P008002   ,Off Rebound (1),O,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,16,03:04,37,481,"NEDOVIC, NEMANJA",P000848   ,Three Pointer (3/5 -  14 pt),3FGM,74.0,67.0,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,3,02:52,38,483,"MCCALLUM, RAY",P008002   ,Assist (1),AS,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,11,02:47,38,484,"PAPPAS, NIKOS",P000464   ,Missed Three Pointer (2/5 -  11 pt),3FGA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,12,02:46,38,485,"MILOSAVLJEVIC, DRAGAN",P002822   ,Def Rebound (3),D,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,40,02:33,38,486,"AUGUSTINE, JAMES",P001438   ,Two Pointer (4/7 -  9 pt),2FGM,74.0,69.0,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,12,02:31,38,487,"MILOSAVLJEVIC, DRAGAN",P002822   ,Assist (3),AS,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,3,02:11,38,488,"RIVERS, K.C.",P002429   ,Three Pointer (3/7 -  13 pt),3FGM,77.0,69.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,33,02:10,38,489,"CALATHES, NICK",P001932   ,Assist (11),AS,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,16,01:57,39,491,"NEDOVIC, NEMANJA",P000848   ,Missed Three Pointer (3/6 -  14 pt),3FGA,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,3,01:55,39,492,"RIVERS, K.C.",P002429   ,Def Rebound (1),D,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,0,01:38,39,493,"SINGLETON, CHRIS",P006614   ,In,IN,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,14,01:38,39,494,"GIST, JAMES",P002980   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,0,01:38,39,495,"SINGLETON, CHRIS",P006614   ,Offensive Foul (5),OF,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,0,01:38,39,496,"SINGLETON, CHRIS",P006614   ,Turnover (4),TO,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,12,01:38,39,497,"MILOSAVLJEVIC, DRAGAN",P002822   ,Foul Drawn (4),RV,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,,01:38,39,498,,          ,Time Out (2),TOUT,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,0,01:38,39,499,"SINGLETON, CHRIS",P006614   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,14,01:38,39,500,"GIST, JAMES",P002980   ,In,IN,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,12,01:26,39,501,"MILOSAVLJEVIC, DRAGAN",P002822   ,Missed Two Pointer (2/5 -  12 pt),2FGA,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,3,01:24,39,502,"RIVERS, K.C.",P002429   ,Def Rebound (2),D,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,3,01:04,39,503,"RIVERS, K.C.",P002429   ,Two Pointer (2/4 -  15 pt),2FGM,79.0,69.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,11,01:04,39,504,"PAPPAS, NIKOS",P000464   ,Foul (3),CM,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,16,01:04,39,505,"NEDOVIC, NEMANJA",P000848   ,Foul Drawn (5),RV,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,16,00:55,40,507,"NEDOVIC, NEMANJA",P000848   ,Free Throw In (2/3 -  15 pt),FTM,79.0,70.0,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,16,00:55,40,508,"NEDOVIC, NEMANJA",P000848   ,Free Throw In (3/4 -  16 pt),FTM,79.0,71.0,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,9,00:55,40,509,"DIAZ, ALBERTO",P004213   ,In,IN,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,16,00:55,40,510,"NEDOVIC, NEMANJA",P000848   ,Out,OUT,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,12,00:52,40,511,"MILOSAVLJEVIC, DRAGAN",P002822   ,Foul (3),CM,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,11,00:52,40,512,"PAPPAS, NIKOS",P000464   ,Foul Drawn (3),RV,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,11,00:30,40,513,"PAPPAS, NIKOS",P000464   ,Missed Two Pointer (2/4 -  11 pt),2FGA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,,00:29,40,514,,          ,Turnover (1),TO,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,9,00:29,40,515,"DIAZ, ALBERTO",P004213   ,Out,OUT,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,10,00:29,40,516,"SALIN, SASU",P002820   ,In,IN,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,12,00:29,40,517,"MILOSAVLJEVIC, DRAGAN",P002822   ,Out,OUT,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,16,00:29,40,518,"NEDOVIC, NEMANJA",P000848   ,In,IN,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,11,00:29,40,519,"PAPPAS, NIKOS",P000464   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,43,00:29,40,520,"ANTETOKOUNMPO, THANASIS",P007865   ,In,IN,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+MAL       ,,3,00:20,40,521,"MCCALLUM, RAY",P008002   ,Missed Three Pointer (0/1 -  8 pt),3FGA,,,Unicaja Malaga,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,22,00:18,40,522,"GABRIEL, KENNY",P005881   ,Def Rebound (1),D,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,14,00:02,40,523,"GIST, JAMES",P002980   ,Three Pointer (1/2 -  17 pt),3FGM,82.0,71.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+PAN       ,,33,00:02,40,524,"CALATHES, NICK",P001932   ,Assist (12),AS,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL
+          ,,,,41,527,,          ,End Game,EG,,,,0,Panathinaikos Superfoods Athens,PAN,Unicaja Malaga,MAL

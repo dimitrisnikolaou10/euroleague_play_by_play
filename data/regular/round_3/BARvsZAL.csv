@@ -1,518 +1,518 @@
-CODETEAM,COMMENT,DORSAL,MARKERTIME,MINUTE,NUMBEROFPLAY,PLAYER,PLAYER_ID,PLAYINFO,PLAYTYPE,POINTS_A,POINTS_B,TEAM,TYPE
-          ,,,,1,2,,          ,Begin Period,BP,,,,0
-ZAL       ,,0,09:59,1,3,"DAVIES, BRANDON",P007870   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Zalgiris Kaunas,0
-ZAL       ,,0,09:59,1,4,"DAVIES, BRANDON",P007870   ,Shot Rejected (1),AG,,,Zalgiris Kaunas,0
-BAR       ,,9,09:59,1,5,"HANGA, ADAM",P005099   ,Block (1),FV,,,FC Barcelona Lassa,0
-BAR       ,,1,09:59,1,6,"SERAPHIN, KEVIN",P001948   ,Def Rebound (1),D,,,FC Barcelona Lassa,0
-BAR       ,,9,09:59,1,7,"HANGA, ADAM",P005099   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,FC Barcelona Lassa,0
-ZAL       ,,21,09:59,1,8,"MILAKNIS, ARTURAS",PKPD      ,Def Rebound (1),D,,,Zalgiris Kaunas,0
-ZAL       ,,0,09:13,1,9,"DAVIES, BRANDON",P007870   ,Two Pointer (1/2 -  2 pt),2FGM,,2.0,Zalgiris Kaunas,0
-BAR       ,,25,08:56,2,11,"KOPONEN, PETTERI",P004178   ,Two Pointer (1/1 -  2 pt),2FGM,2.0,2.0,FC Barcelona Lassa,0
-BAR       ,,25,08:56,2,12,"KOPONEN, PETTERI",P004178   ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0
-ZAL       ,,0,08:56,2,13,"DAVIES, BRANDON",P007870   ,Foul (1),CM,,,Zalgiris Kaunas,0
-BAR       ,,25,08:56,2,14,"KOPONEN, PETTERI",P004178   ,Free Throw In (1/1 -  3 pt),FTM,3.0,2.0,FC Barcelona Lassa,0
-ZAL       ,,21,08:42,2,15,"MILAKNIS, ARTURAS",PKPD      ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Zalgiris Kaunas,0
-BAR       ,,9,08:39,2,16,"HANGA, ADAM",P005099   ,Def Rebound (1),D,,,FC Barcelona Lassa,0
-BAR       ,,1,08:33,2,17,"SERAPHIN, KEVIN",P001948   ,Two Pointer (1/1 -  2 pt),2FGM,5.0,2.0,FC Barcelona Lassa,0
-BAR       ,,13,08:30,2,18,"HEURTEL, THOMAS",PKLT      ,Assist (1),AS,,,FC Barcelona Lassa,0
-BAR       ,,13,08:24,2,19,"HEURTEL, THOMAS",PKLT      ,Foul (1),CM,,,FC Barcelona Lassa,0
-ZAL       ,,3,08:24,2,20,"PANGOS, KEVIN",P006433   ,Foul Drawn (1),RV,,,Zalgiris Kaunas,0
-ZAL       ,,0,08:14,2,21,"DAVIES, BRANDON",P007870   ,Missed Two Pointer (1/3 -  2 pt),2FGA,,,Zalgiris Kaunas,0
-BAR       ,,13,08:12,2,22,"HEURTEL, THOMAS",PKLT      ,Def Rebound (1),D,,,FC Barcelona Lassa,0
-BAR       ,,1,08:02,2,23,"SERAPHIN, KEVIN",P001948   ,Turnover (1),TO,,,FC Barcelona Lassa,0
-ZAL       ,,0,08:00,2,24,"DAVIES, BRANDON",P007870   ,Steal (1),ST,,,Zalgiris Kaunas,0
-ZAL       ,,3,07:50,3,26,"PANGOS, KEVIN",P006433   ,Three Pointer (1/1 -  3 pt),3FGM,5.0,5.0,Zalgiris Kaunas,0
-ZAL       ,,22,07:47,3,27,"MICIC, VASILIJE",P002580   ,Assist (1),AS,,,Zalgiris Kaunas,0
-BAR       ,,9,07:29,3,28,"HANGA, ADAM",P005099   ,Turnover (1),TO,,,FC Barcelona Lassa,0
-ZAL       ,,13,07:27,3,29,"JANKUNAS, PAULIUS",PBWI      ,Steal (1),ST,,,Zalgiris Kaunas,0
-ZAL       ,,13,07:20,3,30,"JANKUNAS, PAULIUS",PBWI      ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Zalgiris Kaunas,0
-BAR       ,,45,07:18,3,31,"MOERMAN, ADRIEN",P001833   ,Def Rebound (1),D,,,FC Barcelona Lassa,0
-BAR       ,,1,07:10,3,32,"SERAPHIN, KEVIN",P001948   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,FC Barcelona Lassa,0
-ZAL       ,,13,07:07,3,33,"JANKUNAS, PAULIUS",PBWI      ,Def Rebound (1),D,,,Zalgiris Kaunas,0
-ZAL       ,,0,06:58,4,35,"DAVIES, BRANDON",P007870   ,Missed Two Pointer (1/4 -  2 pt),2FGA,,,Zalgiris Kaunas,0
-ZAL       ,,,06:58,4,36,,          ,Off Rebound (1),O,,,Zalgiris Kaunas,0
-ZAL       ,,3,06:52,4,37,"PANGOS, KEVIN",P006433   ,Missed Three Pointer (1/2 -  3 pt),3FGA,,,Zalgiris Kaunas,0
-BAR       ,,25,06:50,4,38,"KOPONEN, PETTERI",P004178   ,Def Rebound (1),D,,,FC Barcelona Lassa,0
-BAR       ,,1,06:46,4,39,"SERAPHIN, KEVIN",P001948   ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0
-ZAL       ,,21,06:46,4,40,"MILAKNIS, ARTURAS",PKPD      ,Foul (1),CM,,,Zalgiris Kaunas,0
-BAR       ,,1,06:46,4,41,"SERAPHIN, KEVIN",P001948   ,Free Throw In (1/1 -  3 pt),FTM,6.0,5.0,FC Barcelona Lassa,0
-BAR       ,,25,06:46,4,257,"KOPONEN, PETTERI",P004178   ,Assist (1),AS,,,FC Barcelona Lassa,0
-BAR       ,,1,06:46,4,42,"SERAPHIN, KEVIN",P001948   ,Free Throw In (2/2 -  4 pt),FTM,7.0,5.0,FC Barcelona Lassa,0
-ZAL       ,,22,06:28,4,43,"MICIC, VASILIJE",P002580   ,Two Pointer (1/1 -  2 pt),2FGM,7.0,7.0,Zalgiris Kaunas,0
-BAR       ,,13,06:13,4,44,"HEURTEL, THOMAS",PKLT      ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,FC Barcelona Lassa,0
-BAR       ,,13,06:11,4,45,"HEURTEL, THOMAS",PKLT      ,Off Rebound (1),O,,,FC Barcelona Lassa,0
-BAR       ,,1,06:09,4,46,"SERAPHIN, KEVIN",P001948   ,Two Pointer (2/3 -  6 pt),2FGM,9.0,7.0,FC Barcelona Lassa,0
-BAR       ,,25,06:06,4,47,"KOPONEN, PETTERI",P004178   ,Assist (2),AS,,,FC Barcelona Lassa,0
-BAR       ,,45,05:49,5,49,"MOERMAN, ADRIEN",P001833   ,Foul (1),CM,,,FC Barcelona Lassa,0
-ZAL       ,,13,05:49,5,50,"JANKUNAS, PAULIUS",PBWI      ,Foul Drawn (1),RV,,,Zalgiris Kaunas,0
-BAR       ,,5,05:49,5,51,"RIBAS, PAU",PJUG      ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,9,05:49,5,52,"HANGA, ADAM",P005099   ,Out,OUT,,,FC Barcelona Lassa,0
-ZAL       ,,0,05:49,5,53,"DAVIES, BRANDON",P007870   ,Out,OUT,,,Zalgiris Kaunas,0
-ZAL       ,,3,05:49,5,54,"PANGOS, KEVIN",P006433   ,Out,OUT,,,Zalgiris Kaunas,0
-ZAL       ,,6,05:49,5,55,"TOUPANE, AXEL",P002582   ,In,IN,,,Zalgiris Kaunas,0
-ZAL       ,,44,05:49,5,56,"KAVALIAUSKAS, ANTANAS",P000399   ,In,IN,,,Zalgiris Kaunas,0
-ZAL       ,,6,05:32,5,57,"TOUPANE, AXEL",P002582   ,Two Pointer (1/1 -  2 pt),2FGM,9.0,9.0,Zalgiris Kaunas,0
-ZAL       ,,13,05:29,5,58,"JANKUNAS, PAULIUS",PBWI      ,Assist (1),AS,,,Zalgiris Kaunas,0
-BAR       ,,25,05:06,5,59,"KOPONEN, PETTERI",P004178   ,Three Pointer (1/1 -  6 pt),3FGM,12.0,9.0,FC Barcelona Lassa,0
-BAR       ,,13,05:04,5,60,"HEURTEL, THOMAS",PKLT      ,Assist (2),AS,,,FC Barcelona Lassa,0
-ZAL       ,,6,04:45,6,62,"TOUPANE, AXEL",P002582   ,Two Pointer (2/2 -  4 pt),2FGM,12.0,11.0,Zalgiris Kaunas,0
-ZAL       ,,44,04:45,6,63,"KAVALIAUSKAS, ANTANAS",P000399   ,Assist (1),AS,,,Zalgiris Kaunas,0
-ZAL       ,,6,04:45,6,64,"TOUPANE, AXEL",P002582   ,Foul Drawn (1),RV,,,Zalgiris Kaunas,0
-BAR       ,,5,04:45,6,65,"RIBAS, PAU",PJUG      ,Foul (1),CM,,,FC Barcelona Lassa,0
-          ,,,04:45,6,66,,          ,TV Time Out (1),TOUT_TV,,,,0
-BAR       ,,9,04:45,6,67,"HANGA, ADAM",P005099   ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,25,04:45,6,68,"KOPONEN, PETTERI",P004178   ,Out,OUT,,,FC Barcelona Lassa,0
-ZAL       ,,6,04:45,6,69,"TOUPANE, AXEL",P002582   ,Missed Free Throw (0/1 -  4 pt),FTA,,,Zalgiris Kaunas,0
-ZAL       ,,6,04:42,6,70,"TOUPANE, AXEL",P002582   ,Off Rebound (1),O,,,Zalgiris Kaunas,0
-ZAL       ,,21,04:34,6,71,"MILAKNIS, ARTURAS",PKPD      ,Three Pointer (1/2 -  3 pt),3FGM,12.0,14.0,Zalgiris Kaunas,0
-ZAL       ,,44,04:31,6,72,"KAVALIAUSKAS, ANTANAS",P000399   ,Assist (2),AS,,,Zalgiris Kaunas,0
-BAR       ,,5,04:09,6,73,"RIBAS, PAU",PJUG      ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,FC Barcelona Lassa,0
-ZAL       ,,6,04:07,6,74,"TOUPANE, AXEL",P002582   ,Def Rebound (1),D,,,Zalgiris Kaunas,0
-ZAL       ,,21,03:46,7,76,"MILAKNIS, ARTURAS",PKPD      ,Missed Two Pointer (0/1 -  3 pt),2FGA,,,Zalgiris Kaunas,0
-ZAL       ,,44,03:44,7,77,"KAVALIAUSKAS, ANTANAS",P000399   ,Foul (1),CM,,,Zalgiris Kaunas,0
-BAR       ,,45,03:44,7,78,"MOERMAN, ADRIEN",P001833   ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0
-BAR       ,,1,03:44,7,79,"SERAPHIN, KEVIN",P001948   ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,18,03:44,7,80,"ORIOLA, PIERRE",P005917   ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,44,03:44,7,81,"TOMIC, ANTE",P002507   ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,45,03:44,7,82,"MOERMAN, ADRIEN",P001833   ,Out,OUT,,,FC Barcelona Lassa,0
-ZAL       ,,13,03:44,7,83,"JANKUNAS, PAULIUS",PBWI      ,Out,OUT,,,Zalgiris Kaunas,0
-ZAL       ,,30,03:44,7,84,"WHITE, AARON",P006505   ,In,IN,,,Zalgiris Kaunas,0
-BAR       ,,9,03:29,7,85,"HANGA, ADAM",P005099   ,Two Pointer (1/2 -  2 pt),2FGM,14.0,14.0,FC Barcelona Lassa,0
-BAR       ,,44,03:26,7,86,"TOMIC, ANTE",P002507   ,Assist (1),AS,,,FC Barcelona Lassa,0
-ZAL       ,,22,03:15,7,87,"MICIC, VASILIJE",P002580   ,Two Pointer (2/2 -  4 pt),2FGM,14.0,16.0,Zalgiris Kaunas,0
-ZAL       ,,22,03:15,7,88,"MICIC, VASILIJE",P002580   ,Foul Drawn (1),RV,,,Zalgiris Kaunas,0
-BAR       ,,13,03:15,7,89,"HEURTEL, THOMAS",PKLT      ,Foul (2),CM,,,FC Barcelona Lassa,0
-BAR       ,,8,03:15,7,90,"PRESSEY, PHIL",P007997   ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,13,03:15,7,91,"HEURTEL, THOMAS",PKLT      ,Out,OUT,,,FC Barcelona Lassa,0
-ZAL       ,,3,03:15,7,92,"PANGOS, KEVIN",P006433   ,In,IN,,,Zalgiris Kaunas,0
-ZAL       ,,21,03:15,7,93,"MILAKNIS, ARTURAS",PKPD      ,Out,OUT,,,Zalgiris Kaunas,0
-ZAL       ,,22,03:15,7,94,"MICIC, VASILIJE",P002580   ,Free Throw In (1/1 -  5 pt),FTM,14.0,17.0,Zalgiris Kaunas,0
-BAR       ,,5,03:00,7,95,"RIBAS, PAU",PJUG      ,Turnover (1),TO,,,FC Barcelona Lassa,0
-ZAL       ,,22,02:57,8,97,"MICIC, VASILIJE",P002580   ,Steal (1),ST,,,Zalgiris Kaunas,0
-ZAL       ,,30,02:54,8,98,"WHITE, AARON",P006505   ,Two Pointer (1/1 -  2 pt),2FGM,14.0,19.0,Zalgiris Kaunas,0
-ZAL       ,,22,02:51,8,99,"MICIC, VASILIJE",P002580   ,Assist (2),AS,,,Zalgiris Kaunas,0
-BAR       ,,9,02:30,8,100,"HANGA, ADAM",P005099   ,Three Pointer (1/1 -  5 pt),3FGM,17.0,19.0,FC Barcelona Lassa,0
-BAR       ,,44,02:28,8,101,"TOMIC, ANTE",P002507   ,Assist (2),AS,,,FC Barcelona Lassa,0
-ZAL       ,,30,02:17,8,102,"WHITE, AARON",P006505   ,Turnover (1),TO,,,Zalgiris Kaunas,0
-BAR       ,,9,02:17,8,103,"HANGA, ADAM",P005099   ,Steal (1),ST,,,FC Barcelona Lassa,0
-BAR       ,,9,02:17,8,104,"HANGA, ADAM",P005099   ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0
-ZAL       ,,44,02:17,8,105,"KAVALIAUSKAS, ANTANAS",P000399   ,Foul (2),CM,,,Zalgiris Kaunas,0
-ZAL       ,,13,02:17,8,106,"JANKUNAS, PAULIUS",PBWI      ,In,IN,,,Zalgiris Kaunas,0
-ZAL       ,,44,02:17,8,107,"KAVALIAUSKAS, ANTANAS",P000399   ,Out,OUT,,,Zalgiris Kaunas,0
-BAR       ,,9,02:16,8,108,"HANGA, ADAM",P005099   ,Free Throw In (1/1 -  6 pt),FTM,18.0,19.0,FC Barcelona Lassa,0
-BAR       ,,9,02:16,8,109,"HANGA, ADAM",P005099   ,Free Throw In (2/2 -  7 pt),FTM,19.0,19.0,FC Barcelona Lassa,0
-ZAL       ,,22,02:16,8,110,"MICIC, VASILIJE",P002580   ,Turnover (1),TO,,,Zalgiris Kaunas,0
-BAR       ,,8,02:07,8,111,"PRESSEY, PHIL",P007997   ,Turnover (1),TO,,,FC Barcelona Lassa,0
-ZAL       ,,22,02:05,8,112,"MICIC, VASILIJE",P002580   ,Steal (2),ST,,,Zalgiris Kaunas,0
-ZAL       ,,6,02:00,8,114,"TOUPANE, AXEL",P002582   ,Foul Drawn (2),RV,,,Zalgiris Kaunas,0
-BAR       ,,18,02:00,8,115,"ORIOLA, PIERRE",P005917   ,Foul (1),CM,,,FC Barcelona Lassa,0
-ZAL       ,,22,02:00,8,116,"MICIC, VASILIJE",P002580   ,Assist (3),AS,,,Zalgiris Kaunas,0
-ZAL       ,,6,02:00,8,117,"TOUPANE, AXEL",P002582   ,Free Throw In (1/2 -  5 pt),FTM,19.0,20.0,Zalgiris Kaunas,0
-ZAL       ,,6,02:00,8,118,"TOUPANE, AXEL",P002582   ,Missed Free Throw (1/3 -  5 pt),FTA,,,Zalgiris Kaunas,0
-BAR       ,,,02:00,8,119,,          ,Def Rebound (1),D,,,FC Barcelona Lassa,0
-BAR       ,,5,01:46,9,121,"RIBAS, PAU",PJUG      ,Turnover (2),TO,,,FC Barcelona Lassa,0
-ZAL       ,,22,01:25,9,122,"MICIC, VASILIJE",P002580   ,Two Pointer (3/3 -  7 pt),2FGM,19.0,22.0,Zalgiris Kaunas,0
-BAR       ,,9,00:58,10,124,"HANGA, ADAM",P005099   ,Two Pointer (2/3 -  9 pt),2FGM,21.0,22.0,FC Barcelona Lassa,0
-BAR       ,,44,00:56,10,125,"TOMIC, ANTE",P002507   ,Assist (3),AS,,,FC Barcelona Lassa,0
-ZAL       ,,22,00:48,10,126,"MICIC, VASILIJE",P002580   ,Two Pointer (4/4 -  9 pt),2FGM,21.0,24.0,Zalgiris Kaunas,0
-BAR       ,,9,00:26,10,127,"HANGA, ADAM",P005099   ,Missed Three Pointer (1/2 -  9 pt),3FGA,,,FC Barcelona Lassa,0
-ZAL       ,,6,00:23,10,128,"TOUPANE, AXEL",P002582   ,Def Rebound (2),D,,,Zalgiris Kaunas,0
-ZAL       ,,30,00:00,10,129,"WHITE, AARON",P006505   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,Zalgiris Kaunas,0
-ZAL       ,,13,00:00,10,130,"JANKUNAS, PAULIUS",PBWI      ,Off Rebound (1),O,,,Zalgiris Kaunas,0
-          ,,,,11,132,,          ,End Period,EP,,,,0
-          ,,,,11,137,,          ,Begin Period,BP,,,,0
-BAR       ,,5,10:00,11,133,"RIBAS, PAU",PJUG      ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,25,10:00,11,134,"KOPONEN, PETTERI",P004178   ,In,IN,,,FC Barcelona Lassa,0
-ZAL       ,,22,10:00,11,135,"MICIC, VASILIJE",P002580   ,Out,OUT,,,Zalgiris Kaunas,0
-ZAL       ,,92,10:00,11,136,"ULANOVAS, EDGARAS",P002329   ,In,IN,,,Zalgiris Kaunas,0
-BAR       ,,25,09:47,11,138,"KOPONEN, PETTERI",P004178   ,Missed Two Pointer (1/2 -  6 pt),2FGA,,,FC Barcelona Lassa,0
-ZAL       ,,13,09:44,11,139,"JANKUNAS, PAULIUS",PBWI      ,Def Rebound (2),D,,,Zalgiris Kaunas,0
-ZAL       ,,3,09:35,11,140,"PANGOS, KEVIN",P006433   ,Turnover (1),TO,,,Zalgiris Kaunas,0
-ZAL       ,,6,09:35,11,141,"TOUPANE, AXEL",P002582   ,Out,OUT,,,Zalgiris Kaunas,0
-ZAL       ,,66,09:35,11,142,"VALINSKAS, PAULIUS",P004664   ,In,IN,,,Zalgiris Kaunas,0
-BAR       ,,8,09:13,11,143,"PRESSEY, PHIL",P007997   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,FC Barcelona Lassa,0
-BAR       ,,44,09:10,11,144,"TOMIC, ANTE",P002507   ,Off Rebound (1),O,,,FC Barcelona Lassa,0
-BAR       ,,8,09:00,11,145,"PRESSEY, PHIL",P007997   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,FC Barcelona Lassa,0
-ZAL       ,,92,08:57,12,147,"ULANOVAS, EDGARAS",P002329   ,Def Rebound (1),D,,,Zalgiris Kaunas,0
-ZAL       ,,3,08:35,12,148,"PANGOS, KEVIN",P006433   ,Three Pointer (2/3 -  6 pt),3FGM,21.0,27.0,Zalgiris Kaunas,0
-ZAL       ,,,08:35,12,244,,          ,Time Out (1),TOUT,,,Zalgiris Kaunas,0
-BAR       ,,44,08:22,12,149,"TOMIC, ANTE",P002507   ,Two Pointer (1/1 -  2 pt),2FGM,23.0,27.0,FC Barcelona Lassa,0
-BAR       ,,25,08:22,12,150,"KOPONEN, PETTERI",P004178   ,Assist (3),AS,,,FC Barcelona Lassa,0
-BAR       ,,44,08:22,12,151,"TOMIC, ANTE",P002507   ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0
-ZAL       ,,13,08:22,12,152,"JANKUNAS, PAULIUS",PBWI      ,Foul (1),CM,,,Zalgiris Kaunas,0
-ZAL       ,,0,08:22,12,153,"DAVIES, BRANDON",P007870   ,In,IN,,,Zalgiris Kaunas,0
-ZAL       ,,13,08:22,12,154,"JANKUNAS, PAULIUS",PBWI      ,Out,OUT,,,Zalgiris Kaunas,0
-BAR       ,,44,08:22,12,155,"TOMIC, ANTE",P002507   ,Free Throw In (1/1 -  3 pt),FTM,24.0,27.0,FC Barcelona Lassa,0
-BAR       ,,44,08:22,12,156,"TOMIC, ANTE",P002507   ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,45,08:22,12,157,"MOERMAN, ADRIEN",P001833   ,In,IN,,,FC Barcelona Lassa,0
-ZAL       ,,30,08:10,12,158,"WHITE, AARON",P006505   ,Foul Drawn (1),RV,,,Zalgiris Kaunas,0
-BAR       ,,25,08:10,12,159,"KOPONEN, PETTERI",P004178   ,Foul (1),CM,,,FC Barcelona Lassa,0
-ZAL       ,,0,08:10,12,160,"DAVIES, BRANDON",P007870   ,Assist (1),AS,,,Zalgiris Kaunas,0
-ZAL       ,,30,08:10,12,161,"WHITE, AARON",P006505   ,Free Throw In (1/1 -  3 pt),FTM,24.0,28.0,Zalgiris Kaunas,0
-ZAL       ,,30,08:10,12,162,"WHITE, AARON",P006505   ,Missed Free Throw (1/2 -  3 pt),FTA,,,Zalgiris Kaunas,0
-BAR       ,,9,08:08,12,163,"HANGA, ADAM",P005099   ,Def Rebound (2),D,,,FC Barcelona Lassa,0
-BAR       ,,8,07:55,13,165,"PRESSEY, PHIL",P007997   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,FC Barcelona Lassa,0
-ZAL       ,,30,07:53,13,166,"WHITE, AARON",P006505   ,Def Rebound (1),D,,,Zalgiris Kaunas,0
-ZAL       ,,3,07:42,13,167,"PANGOS, KEVIN",P006433   ,Three Pointer (3/4 -  9 pt),3FGM,24.0,31.0,Zalgiris Kaunas,0
-ZAL       ,,0,07:39,13,168,"DAVIES, BRANDON",P007870   ,Assist (2),AS,,,Zalgiris Kaunas,0
-BAR       ,,18,07:24,13,169,"ORIOLA, PIERRE",P005917   ,Two Pointer (1/1 -  2 pt),2FGM,26.0,31.0,FC Barcelona Lassa,0
-BAR       ,,8,07:22,13,170,"PRESSEY, PHIL",P007997   ,Assist (1),AS,,,FC Barcelona Lassa,0
-ZAL       ,,3,07:00,13,171,"PANGOS, KEVIN",P006433   ,Missed Two Pointer (0/1 -  9 pt),2FGA,,,Zalgiris Kaunas,0
-BAR       ,,9,06:58,14,173,"HANGA, ADAM",P005099   ,Def Rebound (3),D,,,FC Barcelona Lassa,0
-BAR       ,,9,06:55,14,174,"HANGA, ADAM",P005099   ,Foul Drawn (2),RV,,,FC Barcelona Lassa,0
-ZAL       ,,30,06:55,14,175,"WHITE, AARON",P006505   ,Foul (1),CM,,,Zalgiris Kaunas,0
-BAR       ,,8,06:55,14,176,"PRESSEY, PHIL",P007997   ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,13,06:55,14,177,"HEURTEL, THOMAS",PKLT      ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,45,06:40,14,178,"MOERMAN, ADRIEN",P001833   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,FC Barcelona Lassa,0
-BAR       ,,45,06:36,14,179,"MOERMAN, ADRIEN",P001833   ,Off Rebound (1),O,,,FC Barcelona Lassa,0
-BAR       ,,45,06:36,14,180,"MOERMAN, ADRIEN",P001833   ,Two Pointer (1/2 -  2 pt),2FGM,28.0,31.0,FC Barcelona Lassa,0
-ZAL       ,,66,06:19,14,181,"VALINSKAS, PAULIUS",P004664   ,Two Pointer (1/1 -  2 pt),2FGM,28.0,33.0,Zalgiris Kaunas,0
-BAR       ,,13,06:04,14,182,"HEURTEL, THOMAS",PKLT      ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,FC Barcelona Lassa,0
-ZAL       ,,3,06:01,14,183,"PANGOS, KEVIN",P006433   ,Def Rebound (1),D,,,Zalgiris Kaunas,0
-ZAL       ,,0,05:44,15,185,"DAVIES, BRANDON",P007870   ,Missed Two Pointer (1/5 -  2 pt),2FGA,,,Zalgiris Kaunas,0
-BAR       ,,45,05:42,15,186,"MOERMAN, ADRIEN",P001833   ,Def Rebound (2),D,,,FC Barcelona Lassa,0
-BAR       ,,25,05:33,15,187,"KOPONEN, PETTERI",P004178   ,Three Pointer (2/2 -  9 pt),3FGM,31.0,33.0,FC Barcelona Lassa,0
-BAR       ,,18,05:31,15,188,"ORIOLA, PIERRE",P005917   ,Assist (1),AS,,,FC Barcelona Lassa,0
-ZAL       ,,66,05:12,15,189,"VALINSKAS, PAULIUS",P004664   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,Zalgiris Kaunas,0
-BAR       ,,13,05:10,15,190,"HEURTEL, THOMAS",PKLT      ,Def Rebound (2),D,,,FC Barcelona Lassa,0
-BAR       ,,18,04:58,16,192,"ORIOLA, PIERRE",P005917   ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0
-ZAL       ,,0,04:58,16,193,"DAVIES, BRANDON",P007870   ,Foul (2),CM,,,Zalgiris Kaunas,0
-ZAL       ,,0,04:58,16,194,"DAVIES, BRANDON",P007870   ,Out,OUT,,,Zalgiris Kaunas,0
-ZAL       ,,44,04:58,16,195,"KAVALIAUSKAS, ANTANAS",P000399   ,In,IN,,,Zalgiris Kaunas,0
-BAR       ,,18,04:58,16,196,"ORIOLA, PIERRE",P005917   ,Missed Free Throw (0/1 -  2 pt),FTA,,,FC Barcelona Lassa,0
-BAR       ,,45,04:58,16,258,"MOERMAN, ADRIEN",P001833   ,Assist (1),AS,,,FC Barcelona Lassa,0
-BAR       ,,18,04:58,16,197,"ORIOLA, PIERRE",P005917   ,Free Throw In (1/2 -  3 pt),FTM,32.0,33.0,FC Barcelona Lassa,0
-ZAL       ,,3,04:35,16,198,"PANGOS, KEVIN",P006433   ,Two Pointer (1/2 -  11 pt),2FGM,32.0,35.0,Zalgiris Kaunas,0
-BAR       ,,18,04:14,16,199,"ORIOLA, PIERRE",P005917   ,Missed Three Pointer (0/1 -  3 pt),3FGA,,,FC Barcelona Lassa,0
-ZAL       ,,44,04:12,16,200,"KAVALIAUSKAS, ANTANAS",P000399   ,Def Rebound (1),D,,,Zalgiris Kaunas,0
-ZAL       ,,30,03:59,17,202,"WHITE, AARON",P006505   ,Two Pointer (2/3 -  5 pt),2FGM,32.0,37.0,Zalgiris Kaunas,0
-BAR       ,,,03:59,17,218,,          ,Time Out (1),TOUT,,,FC Barcelona Lassa,0
-BAR       ,,1,03:59,17,203,"SERAPHIN, KEVIN",P001948   ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,9,03:59,17,204,"HANGA, ADAM",P005099   ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,14,03:59,17,205,"VEZENKOV, SASHA",P003469   ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,18,03:59,17,206,"ORIOLA, PIERRE",P005917   ,Out,OUT,,,FC Barcelona Lassa,0
-ZAL       ,,3,03:59,17,207,"PANGOS, KEVIN",P006433   ,Out,OUT,,,Zalgiris Kaunas,0
-ZAL       ,,22,03:59,17,208,"MICIC, VASILIJE",P002580   ,In,IN,,,Zalgiris Kaunas,0
-BAR       ,,1,03:44,17,209,"SERAPHIN, KEVIN",P001948   ,Two Pointer (3/4 -  8 pt),2FGM,34.0,37.0,FC Barcelona Lassa,0
-BAR       ,,25,03:42,17,210,"KOPONEN, PETTERI",P004178   ,Assist (4),AS,,,FC Barcelona Lassa,0
-ZAL       ,,30,03:26,17,211,"WHITE, AARON",P006505   ,Missed Three Pointer (0/1 -  5 pt),3FGA,,,Zalgiris Kaunas,0
-ZAL       ,,44,03:26,17,212,"KAVALIAUSKAS, ANTANAS",P000399   ,Foul Drawn (1),RV,,,Zalgiris Kaunas,0
-BAR       ,,1,03:26,17,213,"SERAPHIN, KEVIN",P001948   ,Foul (1),CM,,,FC Barcelona Lassa,0
-ZAL       ,,44,03:15,17,214,"KAVALIAUSKAS, ANTANAS",P000399   ,Two Pointer (1/1 -  2 pt),2FGM,34.0,39.0,Zalgiris Kaunas,0
-ZAL       ,,22,03:13,17,215,"MICIC, VASILIJE",P002580   ,Assist (4),AS,,,Zalgiris Kaunas,0
-BAR       ,,1,02:56,18,217,"SERAPHIN, KEVIN",P001948   ,Turnover (2),TO,,,FC Barcelona Lassa,0
-BAR       ,,5,02:56,18,219,"RIBAS, PAU",PJUG      ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,25,02:56,18,220,"KOPONEN, PETTERI",P004178   ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,14,02:48,18,221,"VEZENKOV, SASHA",P003469   ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0
-ZAL       ,,44,02:48,18,222,"KAVALIAUSKAS, ANTANAS",P000399   ,Offensive Foul (3),OF,,,Zalgiris Kaunas,0
-ZAL       ,,44,02:48,18,223,"KAVALIAUSKAS, ANTANAS",P000399   ,Turnover (1),TO,,,Zalgiris Kaunas,0
-ZAL       ,,13,02:48,18,224,"JANKUNAS, PAULIUS",PBWI      ,In,IN,,,Zalgiris Kaunas,0
-ZAL       ,,44,02:48,18,225,"KAVALIAUSKAS, ANTANAS",P000399   ,Out,OUT,,,Zalgiris Kaunas,0
-BAR       ,,1,02:32,18,226,"SERAPHIN, KEVIN",P001948   ,Two Pointer (4/5 -  10 pt),2FGM,36.0,39.0,FC Barcelona Lassa,0
-ZAL       ,,92,02:15,18,227,"ULANOVAS, EDGARAS",P002329   ,Two Pointer (1/1 -  2 pt),2FGM,36.0,41.0,Zalgiris Kaunas,0
-BAR       ,,45,01:50,19,229,"MOERMAN, ADRIEN",P001833   ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,FC Barcelona Lassa,0
-ZAL       ,,66,01:48,19,230,"VALINSKAS, PAULIUS",P004664   ,Def Rebound (1),D,,,Zalgiris Kaunas,0
-ZAL       ,,22,01:37,19,231,"MICIC, VASILIJE",P002580   ,Missed Two Pointer (4/5 -  9 pt),2FGA,,,Zalgiris Kaunas,0
-BAR       ,,13,01:35,19,232,"HEURTEL, THOMAS",PKLT      ,Def Rebound (3),D,,,FC Barcelona Lassa,0
-BAR       ,,1,01:26,19,233,"SERAPHIN, KEVIN",P001948   ,Foul Drawn (2),RV,,,FC Barcelona Lassa,0
-ZAL       ,,92,01:26,19,234,"ULANOVAS, EDGARAS",P002329   ,Foul (1),CM,,,Zalgiris Kaunas,0
-BAR       ,,9,01:26,19,235,"HANGA, ADAM",P005099   ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,13,01:26,19,236,"HEURTEL, THOMAS",PKLT      ,Out,OUT,,,FC Barcelona Lassa,0
-ZAL       ,,3,01:26,19,237,"PANGOS, KEVIN",P006433   ,In,IN,,,Zalgiris Kaunas,0
-ZAL       ,,66,01:26,19,238,"VALINSKAS, PAULIUS",P004664   ,Out,OUT,,,Zalgiris Kaunas,0
-BAR       ,,1,01:26,19,239,"SERAPHIN, KEVIN",P001948   ,Free Throw In (3/3 -  11 pt),FTM,37.0,41.0,FC Barcelona Lassa,0
-BAR       ,,5,01:26,19,259,"RIBAS, PAU",PJUG      ,Assist (1),AS,,,FC Barcelona Lassa,0
-BAR       ,,1,01:26,19,240,"SERAPHIN, KEVIN",P001948   ,Missed Free Throw (3/4 -  11 pt),FTA,,,FC Barcelona Lassa,0
-ZAL       ,,13,01:21,19,241,"JANKUNAS, PAULIUS",PBWI      ,Def Rebound (3),D,,,Zalgiris Kaunas,0
-ZAL       ,,22,01:02,19,242,"MICIC, VASILIJE",P002580   ,Two Pointer (5/6 -  11 pt),2FGM,37.0,43.0,Zalgiris Kaunas,0
-BAR       ,,9,00:31,20,245,"HANGA, ADAM",P005099   ,Two Pointer (3/4 -  11 pt),2FGM,39.0,43.0,FC Barcelona Lassa,0
-ZAL       ,,13,00:20,20,246,"JANKUNAS, PAULIUS",PBWI      ,Two Pointer (1/2 -  2 pt),2FGM,39.0,45.0,Zalgiris Kaunas,0
-ZAL       ,,3,00:20,20,247,"PANGOS, KEVIN",P006433   ,Assist (1),AS,,,Zalgiris Kaunas,0
-BAR       ,,,00:20,20,248,,          ,Time Out (2),TOUT,,,FC Barcelona Lassa,0
-ZAL       ,,3,00:20,20,249,"PANGOS, KEVIN",P006433   ,Out,OUT,,,Zalgiris Kaunas,0
-ZAL       ,,6,00:20,20,250,"TOUPANE, AXEL",P002582   ,In,IN,,,Zalgiris Kaunas,0
-ZAL       ,,13,00:20,20,251,"JANKUNAS, PAULIUS",PBWI      ,Out,OUT,,,Zalgiris Kaunas,0
-ZAL       ,,66,00:20,20,252,"VALINSKAS, PAULIUS",P004664   ,In,IN,,,Zalgiris Kaunas,0
-BAR       ,,5,00:00,20,253,"RIBAS, PAU",PJUG      ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,FC Barcelona Lassa,0
-BAR       ,,1,00:00,20,254,"SERAPHIN, KEVIN",P001948   ,Off Rebound (1),O,,,FC Barcelona Lassa,0
-          ,,,,21,256,,          ,End Period,EP,,,,0
-          ,,,,21,270,,          ,Begin Period,BP,,,,0
-BAR       ,,5,10:00,21,260,"RIBAS, PAU",PJUG      ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,13,10:00,21,261,"HEURTEL, THOMAS",PKLT      ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,14,10:00,21,262,"VEZENKOV, SASHA",P003469   ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,25,10:00,21,263,"KOPONEN, PETTERI",P004178   ,In,IN,,,FC Barcelona Lassa,0
-ZAL       ,,3,10:00,21,264,"PANGOS, KEVIN",P006433   ,In,IN,,,Zalgiris Kaunas,0
-ZAL       ,,6,10:00,21,265,"TOUPANE, AXEL",P002582   ,Out,OUT,,,Zalgiris Kaunas,0
-ZAL       ,,13,10:00,21,266,"JANKUNAS, PAULIUS",PBWI      ,In,IN,,,Zalgiris Kaunas,0
-ZAL       ,,21,10:00,21,267,"MILAKNIS, ARTURAS",PKPD      ,In,IN,,,Zalgiris Kaunas,0
-ZAL       ,,66,10:00,21,268,"VALINSKAS, PAULIUS",P004664   ,Out,OUT,,,Zalgiris Kaunas,0
-ZAL       ,,92,10:00,21,269,"ULANOVAS, EDGARAS",P002329   ,Out,OUT,,,Zalgiris Kaunas,0
-ZAL       ,,3,09:46,21,271,"PANGOS, KEVIN",P006433   ,Foul Drawn (2),RV,,,Zalgiris Kaunas,0
-BAR       ,,45,09:46,21,272,"MOERMAN, ADRIEN",P001833   ,Foul (2),CM,,,FC Barcelona Lassa,0
-ZAL       ,,3,09:46,21,273,"PANGOS, KEVIN",P006433   ,Missed Free Throw (0/1 -  11 pt),FTA,,,Zalgiris Kaunas,0
-ZAL       ,,3,09:46,21,274,"PANGOS, KEVIN",P006433   ,Free Throw In (1/2 -  12 pt),FTM,39.0,46.0,Zalgiris Kaunas,0
-BAR       ,,9,09:23,21,275,"HANGA, ADAM",P005099   ,Three Pointer (2/3 -  14 pt),3FGM,42.0,46.0,FC Barcelona Lassa,0
-BAR       ,,45,09:21,21,276,"MOERMAN, ADRIEN",P001833   ,Assist (2),AS,,,FC Barcelona Lassa,0
-ZAL       ,,22,09:14,21,277,"MICIC, VASILIJE",P002580   ,Foul Drawn (2),RV,,,Zalgiris Kaunas,0
-BAR       ,,9,09:14,21,278,"HANGA, ADAM",P005099   ,Foul (1),CM,,,FC Barcelona Lassa,0
-ZAL       ,,13,09:02,21,279,"JANKUNAS, PAULIUS",PBWI      ,Missed Two Pointer (1/3 -  2 pt),2FGA,,,Zalgiris Kaunas,0
-BAR       ,,45,09:00,21,280,"MOERMAN, ADRIEN",P001833   ,Def Rebound (3),D,,,FC Barcelona Lassa,0
-BAR       ,,1,08:49,22,282,"SERAPHIN, KEVIN",P001948   ,Two Pointer (5/6 -  13 pt),2FGM,44.0,46.0,FC Barcelona Lassa,0
-ZAL       ,,3,08:38,22,283,"PANGOS, KEVIN",P006433   ,Two Pointer (2/3 -  14 pt),2FGM,44.0,48.0,Zalgiris Kaunas,0
-BAR       ,,13,08:17,22,284,"HEURTEL, THOMAS",PKLT      ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0
-ZAL       ,,22,08:17,22,285,"MICIC, VASILIJE",P002580   ,Foul (1),CM,,,Zalgiris Kaunas,0
-BAR       ,,13,08:14,22,286,"HEURTEL, THOMAS",PKLT      ,Two Pointer (1/2 -  2 pt),2FGM,46.0,48.0,FC Barcelona Lassa,0
-BAR       ,,9,08:12,22,287,"HANGA, ADAM",P005099   ,Assist (1),AS,,,FC Barcelona Lassa,0
-ZAL       ,,21,07:56,23,289,"MILAKNIS, ARTURAS",PKPD      ,Two Pointer (1/2 -  5 pt),2FGM,46.0,50.0,Zalgiris Kaunas,0
-BAR       ,,45,07:43,23,290,"MOERMAN, ADRIEN",P001833   ,Missed Three Pointer (0/2 -  2 pt),3FGA,,,FC Barcelona Lassa,0
-ZAL       ,,,07:44,23,291,,          ,Def Rebound (2),D,,,Zalgiris Kaunas,0
-ZAL       ,,21,07:33,23,292,"MILAKNIS, ARTURAS",PKPD      ,Foul Drawn (1),RV,,,Zalgiris Kaunas,0
-BAR       ,,9,07:33,23,293,"HANGA, ADAM",P005099   ,Foul (2),CM,,,FC Barcelona Lassa,0
-ZAL       ,,13,07:33,23,294,"JANKUNAS, PAULIUS",PBWI      ,Missed Two Pointer (1/4 -  2 pt),2FGA,,,Zalgiris Kaunas,0
-ZAL       ,,30,07:33,23,295,"WHITE, AARON",P006505   ,Off Rebound (1),O,,,Zalgiris Kaunas,0
-BAR       ,,45,07:14,23,296,"MOERMAN, ADRIEN",P001833   ,Foul Drawn (2),RV,,,FC Barcelona Lassa,0
-ZAL       ,,3,07:14,23,297,"PANGOS, KEVIN",P006433   ,Offensive Foul (1),OF,,,Zalgiris Kaunas,0
-ZAL       ,,3,07:14,23,298,"PANGOS, KEVIN",P006433   ,Turnover (2),TO,,,Zalgiris Kaunas,0
-BAR       ,,13,06:57,24,300,"HEURTEL, THOMAS",PKLT      ,Two Pointer (2/3 -  4 pt),2FGM,48.0,50.0,FC Barcelona Lassa,0
-BAR       ,,25,06:55,24,301,"KOPONEN, PETTERI",P004178   ,Assist (5),AS,,,FC Barcelona Lassa,0
-ZAL       ,,22,06:38,24,302,"MICIC, VASILIJE",P002580   ,Two Pointer (6/7 -  13 pt),2FGM,48.0,52.0,Zalgiris Kaunas,0
-ZAL       ,,3,06:20,24,303,"PANGOS, KEVIN",P006433   ,Foul Drawn (3),RV,,,Zalgiris Kaunas,0
-BAR       ,,13,06:20,24,304,"HEURTEL, THOMAS",PKLT      ,Offensive Foul (3),OF,,,FC Barcelona Lassa,0
-BAR       ,,13,06:20,24,305,"HEURTEL, THOMAS",PKLT      ,Turnover (1),TO,,,FC Barcelona Lassa,0
-ZAL       ,,0,06:20,24,306,"DAVIES, BRANDON",P007870   ,In,IN,,,Zalgiris Kaunas,0
-ZAL       ,,13,06:20,24,307,"JANKUNAS, PAULIUS",PBWI      ,Out,OUT,,,Zalgiris Kaunas,0
-ZAL       ,,22,06:07,24,308,"MICIC, VASILIJE",P002580   ,Turnover (2),TO,,,Zalgiris Kaunas,0
-BAR       ,,25,06:05,24,309,"KOPONEN, PETTERI",P004178   ,Steal (1),ST,,,FC Barcelona Lassa,0
-BAR       ,,9,05:54,25,311,"HANGA, ADAM",P005099   ,Missed Two Pointer (3/5 -  14 pt),2FGA,,,FC Barcelona Lassa,0
-ZAL       ,,21,05:52,25,312,"MILAKNIS, ARTURAS",PKPD      ,Def Rebound (2),D,,,Zalgiris Kaunas,0
-ZAL       ,,21,05:47,25,313,"MILAKNIS, ARTURAS",PKPD      ,Missed Three Pointer (1/3 -  5 pt),3FGA,,,Zalgiris Kaunas,0
-BAR       ,,45,05:40,25,314,"MOERMAN, ADRIEN",P001833   ,Def Rebound (4),D,,,FC Barcelona Lassa,0
-BAR       ,,25,05:22,25,315,"KOPONEN, PETTERI",P004178   ,Missed Three Pointer (2/3 -  9 pt),3FGA,,,FC Barcelona Lassa,0
-BAR       ,,45,05:20,25,316,"MOERMAN, ADRIEN",P001833   ,Off Rebound (2),O,,,FC Barcelona Lassa,0
-BAR       ,,9,05:08,25,317,"HANGA, ADAM",P005099   ,Missed Three Pointer (2/4 -  14 pt),3FGA,,,FC Barcelona Lassa,0
-ZAL       ,,30,05:07,25,318,"WHITE, AARON",P006505   ,Def Rebound (2),D,,,Zalgiris Kaunas,0
-ZAL       ,,30,04:57,26,320,"WHITE, AARON",P006505   ,Two Pointer (3/4 -  7 pt),2FGM,48.0,54.0,Zalgiris Kaunas,0
-ZAL       ,,22,04:54,26,321,"MICIC, VASILIJE",P002580   ,Assist (5),AS,,,Zalgiris Kaunas,0
-BAR       ,,45,04:41,26,322,"MOERMAN, ADRIEN",P001833   ,Missed Three Pointer (0/3 -  2 pt),3FGA,,,FC Barcelona Lassa,0
-BAR       ,,9,04:36,26,323,"HANGA, ADAM",P005099   ,Off Rebound (1),O,,,FC Barcelona Lassa,0
-BAR       ,,9,04:36,26,324,"HANGA, ADAM",P005099   ,Turnover (2),TO,,,FC Barcelona Lassa,0
-          ,,,04:36,26,325,,          ,TV Time Out (2),TOUT_TV,,,,0
-BAR       ,,1,04:36,26,326,"SERAPHIN, KEVIN",P001948   ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,8,04:36,26,327,"PRESSEY, PHIL",P007997   ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,13,04:36,26,328,"HEURTEL, THOMAS",PKLT      ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,18,04:36,26,329,"ORIOLA, PIERRE",P005917   ,In,IN,,,FC Barcelona Lassa,0
-ZAL       ,,3,04:26,26,330,"PANGOS, KEVIN",P006433   ,Two Pointer (3/4 -  16 pt),2FGM,48.0,56.0,Zalgiris Kaunas,0
-ZAL       ,,22,04:13,26,331,"MICIC, VASILIJE",P002580   ,Out,OUT,,,Zalgiris Kaunas,0
-ZAL       ,,92,04:13,26,332,"ULANOVAS, EDGARAS",P002329   ,In,IN,,,Zalgiris Kaunas,0
-BAR       ,,45,03:59,27,334,"MOERMAN, ADRIEN",P001833   ,Two Pointer (2/3 -  4 pt),2FGM,50.0,56.0,FC Barcelona Lassa,0
-BAR       ,,25,03:57,27,335,"KOPONEN, PETTERI",P004178   ,Assist (6),AS,,,FC Barcelona Lassa,0
-ZAL       ,,92,03:38,27,336,"ULANOVAS, EDGARAS",P002329   ,Foul Drawn (1),RV,,,Zalgiris Kaunas,0
-BAR       ,,18,03:38,27,337,"ORIOLA, PIERRE",P005917   ,Foul (2),CM,,,FC Barcelona Lassa,0
-ZAL       ,,13,03:38,27,338,"JANKUNAS, PAULIUS",PBWI      ,In,IN,,,Zalgiris Kaunas,0
-ZAL       ,,30,03:38,27,339,"WHITE, AARON",P006505   ,Out,OUT,,,Zalgiris Kaunas,0
-ZAL       ,,92,03:38,27,340,"ULANOVAS, EDGARAS",P002329   ,Free Throw In (1/1 -  3 pt),FTM,50.0,57.0,Zalgiris Kaunas,0
-ZAL       ,,92,03:38,27,341,"ULANOVAS, EDGARAS",P002329   ,Missed Free Throw (1/2 -  3 pt),FTA,,,Zalgiris Kaunas,0
-BAR       ,,9,03:36,27,342,"HANGA, ADAM",P005099   ,Def Rebound (4),D,,,FC Barcelona Lassa,0
-BAR       ,,8,03:17,27,343,"PRESSEY, PHIL",P007997   ,Missed Two Pointer (0/3 -  0 pt),2FGA,,,FC Barcelona Lassa,0
-BAR       ,,18,03:17,27,344,"ORIOLA, PIERRE",P005917   ,Foul Drawn (2),RV,,,FC Barcelona Lassa,0
-ZAL       ,,3,03:17,27,345,"PANGOS, KEVIN",P006433   ,Foul (2),CM,,,Zalgiris Kaunas,0
-ZAL       ,,6,03:17,27,346,"TOUPANE, AXEL",P002582   ,In,IN,,,Zalgiris Kaunas,0
-ZAL       ,,21,03:17,27,347,"MILAKNIS, ARTURAS",PKPD      ,Out,OUT,,,Zalgiris Kaunas,0
-BAR       ,,25,03:06,27,348,"KOPONEN, PETTERI",P004178   ,Two Pointer (2/3 -  11 pt),2FGM,52.0,57.0,FC Barcelona Lassa,0
-ZAL       ,,6,02:52,28,350,"TOUPANE, AXEL",P002582   ,Foul Drawn (3),RV,,,Zalgiris Kaunas,0
-BAR       ,,45,02:52,28,351,"MOERMAN, ADRIEN",P001833   ,Foul (3),CM,,,FC Barcelona Lassa,0
-ZAL       ,,6,02:52,28,352,"TOUPANE, AXEL",P002582   ,Missed Free Throw (1/4 -  5 pt),FTA,,,Zalgiris Kaunas,0
-ZAL       ,,6,02:52,28,353,"TOUPANE, AXEL",P002582   ,Missed Free Throw (1/5 -  5 pt),FTA,,,Zalgiris Kaunas,0
-BAR       ,,9,02:52,28,354,"HANGA, ADAM",P005099   ,Def Rebound (5),D,,,FC Barcelona Lassa,0
-BAR       ,,9,02:52,28,355,"HANGA, ADAM",P005099   ,Turnover (3),TO,,,FC Barcelona Lassa,0
-ZAL       ,,92,02:36,28,356,"ULANOVAS, EDGARAS",P002329   ,Missed Three Pointer (0/1 -  3 pt),3FGA,,,Zalgiris Kaunas,0
-BAR       ,,45,02:34,28,357,"MOERMAN, ADRIEN",P001833   ,Foul Drawn (3),RV,,,FC Barcelona Lassa,0
-ZAL       ,,13,02:34,28,358,"JANKUNAS, PAULIUS",PBWI      ,Foul (2),CM,,,Zalgiris Kaunas,0
-ZAL       ,,13,02:34,28,359,"JANKUNAS, PAULIUS",PBWI      ,Out,OUT,,,Zalgiris Kaunas,0
-ZAL       ,,21,02:34,28,360,"MILAKNIS, ARTURAS",PKPD      ,In,IN,,,Zalgiris Kaunas,0
-BAR       ,,25,02:21,28,361,"KOPONEN, PETTERI",P004178   ,Foul Drawn (2),RV,,,FC Barcelona Lassa,0
-ZAL       ,,6,02:21,28,362,"TOUPANE, AXEL",P002582   ,Foul (1),CM,,,Zalgiris Kaunas,0
-ZAL       ,,6,02:21,28,363,"TOUPANE, AXEL",P002582   ,Out,OUT,,,Zalgiris Kaunas,0
-ZAL       ,,22,02:21,28,364,"MICIC, VASILIJE",P002580   ,In,IN,,,Zalgiris Kaunas,0
-BAR       ,,25,02:21,28,365,"KOPONEN, PETTERI",P004178   ,Free Throw In (2/2 -  12 pt),FTM,53.0,57.0,FC Barcelona Lassa,0
-BAR       ,,25,02:21,28,366,"KOPONEN, PETTERI",P004178   ,Free Throw In (3/3 -  13 pt),FTM,54.0,57.0,FC Barcelona Lassa,0
-ZAL       ,,22,01:55,29,368,"MICIC, VASILIJE",P002580   ,Missed Two Pointer (6/8 -  13 pt),2FGA,,,Zalgiris Kaunas,0
-ZAL       ,,22,01:55,29,369,"MICIC, VASILIJE",P002580   ,Shot Rejected (1),AG,,,Zalgiris Kaunas,0
-BAR       ,,18,01:52,29,370,"ORIOLA, PIERRE",P005917   ,Block (1),FV,,,FC Barcelona Lassa,0
-BAR       ,,18,01:51,29,371,"ORIOLA, PIERRE",P005917   ,Def Rebound (1),D,,,FC Barcelona Lassa,0
-BAR       ,,45,01:42,29,372,"MOERMAN, ADRIEN",P001833   ,Missed Three Pointer (0/4 -  4 pt),3FGA,,,FC Barcelona Lassa,0
-ZAL       ,,92,01:40,29,373,"ULANOVAS, EDGARAS",P002329   ,Def Rebound (2),D,,,Zalgiris Kaunas,0
-ZAL       ,,22,01:24,29,374,"MICIC, VASILIJE",P002580   ,Three Pointer (1/1 -  16 pt),3FGM,54.0,60.0,Zalgiris Kaunas,0
-BAR       ,,8,01:03,29,375,"PRESSEY, PHIL",P007997   ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,FC Barcelona Lassa,0
-ZAL       ,,21,01:01,29,376,"MILAKNIS, ARTURAS",PKPD      ,Def Rebound (3),D,,,Zalgiris Kaunas,0
-ZAL       ,,92,00:44,30,378,"ULANOVAS, EDGARAS",P002329   ,Turnover (1),TO,,,Zalgiris Kaunas,0
-BAR       ,,25,00:43,30,379,"KOPONEN, PETTERI",P004178   ,Steal (2),ST,,,FC Barcelona Lassa,0
-BAR       ,,8,00:40,30,380,"PRESSEY, PHIL",P007997   ,Missed Two Pointer (0/4 -  0 pt),2FGA,,,FC Barcelona Lassa,0
-ZAL       ,,21,00:39,30,381,"MILAKNIS, ARTURAS",PKPD      ,Def Rebound (4),D,,,Zalgiris Kaunas,0
-ZAL       ,,0,00:29,30,382,"DAVIES, BRANDON",P007870   ,Foul Drawn (1),RV,,,Zalgiris Kaunas,0
-BAR       ,,18,00:29,30,383,"ORIOLA, PIERRE",P005917   ,Foul (3),CM,,,FC Barcelona Lassa,0
-ZAL       ,,3,00:29,30,384,"PANGOS, KEVIN",P006433   ,Out,OUT,,,Zalgiris Kaunas,0
-ZAL       ,,66,00:29,30,385,"VALINSKAS, PAULIUS",P004664   ,In,IN,,,Zalgiris Kaunas,0
-ZAL       ,,0,00:29,30,386,"DAVIES, BRANDON",P007870   ,Free Throw In (1/1 -  3 pt),FTM,54.0,61.0,Zalgiris Kaunas,0
-ZAL       ,,0,00:29,30,387,"DAVIES, BRANDON",P007870   ,Free Throw In (2/2 -  4 pt),FTM,54.0,62.0,Zalgiris Kaunas,0
-BAR       ,,5,00:29,30,388,"RIBAS, PAU",PJUG      ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,9,00:29,30,389,"HANGA, ADAM",P005099   ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,8,00:12,30,390,"PRESSEY, PHIL",P007997   ,Turnover (2),TO,,,FC Barcelona Lassa,0
-ZAL       ,,0,00:11,30,391,"DAVIES, BRANDON",P007870   ,Steal (2),ST,,,Zalgiris Kaunas,0
-ZAL       ,,66,00:00,30,392,"VALINSKAS, PAULIUS",P004664   ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,Zalgiris Kaunas,0
-          ,,,,31,394,,          ,End Period,EP,,,,0
-          ,,,,31,405,,          ,Begin Period,BP,,,,0
-BAR       ,,1,10:00,31,395,"SERAPHIN, KEVIN",P001948   ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,8,10:00,31,396,"PRESSEY, PHIL",P007997   ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,13,10:00,31,397,"HEURTEL, THOMAS",PKLT      ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,45,10:00,31,398,"MOERMAN, ADRIEN",P001833   ,Out,OUT,,,FC Barcelona Lassa,0
-ZAL       ,,0,10:00,31,399,"DAVIES, BRANDON",P007870   ,Out,OUT,,,Zalgiris Kaunas,0
-ZAL       ,,3,10:00,31,400,"PANGOS, KEVIN",P006433   ,In,IN,,,Zalgiris Kaunas,0
-ZAL       ,,13,10:00,31,401,"JANKUNAS, PAULIUS",PBWI      ,In,IN,,,Zalgiris Kaunas,0
-ZAL       ,,22,10:00,31,402,"MICIC, VASILIJE",P002580   ,Out,OUT,,,Zalgiris Kaunas,0
-ZAL       ,,30,10:00,31,403,"WHITE, AARON",P006505   ,In,IN,,,Zalgiris Kaunas,0
-ZAL       ,,92,10:00,31,404,"ULANOVAS, EDGARAS",P002329   ,Out,OUT,,,Zalgiris Kaunas,0
-ZAL       ,,3,09:36,31,406,"PANGOS, KEVIN",P006433   ,Missed Two Pointer (3/5 -  16 pt),2FGA,,,Zalgiris Kaunas,0
-BAR       ,,13,09:34,31,407,"HEURTEL, THOMAS",PKLT      ,Def Rebound (4),D,,,FC Barcelona Lassa,0
-BAR       ,,5,09:13,31,408,"RIBAS, PAU",PJUG      ,Three Pointer (1/2 -  3 pt),3FGM,57.0,62.0,FC Barcelona Lassa,0
-ZAL       ,,21,08:58,32,410,"MILAKNIS, ARTURAS",PKPD      ,Missed Three Pointer (1/4 -  5 pt),3FGA,,,Zalgiris Kaunas,0
-BAR       ,,18,08:56,32,411,"ORIOLA, PIERRE",P005917   ,Def Rebound (2),D,,,FC Barcelona Lassa,0
-BAR       ,,5,08:46,32,412,"RIBAS, PAU",PJUG      ,Missed Three Pointer (1/3 -  3 pt),3FGA,,,FC Barcelona Lassa,0
-ZAL       ,,13,08:43,32,413,"JANKUNAS, PAULIUS",PBWI      ,Def Rebound (4),D,,,Zalgiris Kaunas,0
-ZAL       ,,30,08:27,32,414,"WHITE, AARON",P006505   ,Two Pointer (4/5 -  9 pt),2FGM,57.0,64.0,Zalgiris Kaunas,0
-ZAL       ,,13,08:25,32,415,"JANKUNAS, PAULIUS",PBWI      ,Assist (2),AS,,,Zalgiris Kaunas,0
-BAR       ,,1,08:03,32,416,"SERAPHIN, KEVIN",P001948   ,Foul Drawn (3),RV,,,FC Barcelona Lassa,0
-ZAL       ,,30,08:03,32,417,"WHITE, AARON",P006505   ,Foul (2),CM,,,Zalgiris Kaunas,0
-ZAL       ,,21,08:03,32,418,"MILAKNIS, ARTURAS",PKPD      ,Out,OUT,,,Zalgiris Kaunas,0
-ZAL       ,,92,08:03,32,419,"ULANOVAS, EDGARAS",P002329   ,In,IN,,,Zalgiris Kaunas,0
-BAR       ,,13,07:48,33,421,"HEURTEL, THOMAS",PKLT      ,Shot Rejected (1),AG,,,FC Barcelona Lassa,0
-ZAL       ,,30,07:48,33,422,"WHITE, AARON",P006505   ,Def Rebound (3),D,,,Zalgiris Kaunas,0
-ZAL       ,,66,07:48,33,444,"VALINSKAS, PAULIUS",P004664   ,Block (1),FV,,,Zalgiris Kaunas,0
-ZAL       ,,30,07:48,33,423,"WHITE, AARON",P006505   ,Foul Drawn (2),RV,,,Zalgiris Kaunas,0
-BAR       ,,1,07:48,33,424,"SERAPHIN, KEVIN",P001948   ,Foul (2),CM,,,FC Barcelona Lassa,0
-ZAL       ,,92,07:23,33,425,"ULANOVAS, EDGARAS",P002329   ,Two Pointer (2/2 -  5 pt),2FGM,57.0,66.0,Zalgiris Kaunas,0
-BAR       ,,18,07:04,33,426,"ORIOLA, PIERRE",P005917   ,Three Pointer (1/2 -  6 pt),3FGM,60.0,66.0,FC Barcelona Lassa,0
-BAR       ,,13,07:02,33,427,"HEURTEL, THOMAS",PKLT      ,Assist (3),AS,,,FC Barcelona Lassa,0
-ZAL       ,,92,06:49,34,429,"ULANOVAS, EDGARAS",P002329   ,Foul Drawn (2),RV,,,Zalgiris Kaunas,0
-BAR       ,,25,06:49,34,430,"KOPONEN, PETTERI",P004178   ,Foul (2),CM,,,FC Barcelona Lassa,0
-BAR       ,,9,06:49,34,431,"HANGA, ADAM",P005099   ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,25,06:49,34,432,"KOPONEN, PETTERI",P004178   ,Out,OUT,,,FC Barcelona Lassa,0
-ZAL       ,,3,06:49,34,433,"PANGOS, KEVIN",P006433   ,Out,OUT,,,Zalgiris Kaunas,0
-ZAL       ,,22,06:49,34,434,"MICIC, VASILIJE",P002580   ,In,IN,,,Zalgiris Kaunas,0
-BAR       ,,5,06:41,34,435,"RIBAS, PAU",PJUG      ,Foul (2),CM,,,FC Barcelona Lassa,0
-ZAL       ,,22,06:41,34,436,"MICIC, VASILIJE",P002580   ,Foul Drawn (3),RV,,,Zalgiris Kaunas,0
-ZAL       ,,22,06:32,34,437,"MICIC, VASILIJE",P002580   ,Two Pointer (7/9 -  18 pt),2FGM,60.0,68.0,Zalgiris Kaunas,0
-BAR       ,,13,06:15,34,438,"HEURTEL, THOMAS",PKLT      ,Turnover (2),TO,,,FC Barcelona Lassa,0
-ZAL       ,,30,06:13,34,439,"WHITE, AARON",P006505   ,Steal (1),ST,,,Zalgiris Kaunas,0
-ZAL       ,,22,06:11,34,440,"MICIC, VASILIJE",P002580   ,Missed Two Pointer (7/10 -  18 pt),2FGA,,,Zalgiris Kaunas,0
-ZAL       ,,30,06:11,34,441,"WHITE, AARON",P006505   ,Off Rebound (2),O,,,Zalgiris Kaunas,0
-ZAL       ,,30,06:11,34,442,"WHITE, AARON",P006505   ,Two Pointer (5/6 -  11 pt),2FGM,60.0,70.0,Zalgiris Kaunas,0
-BAR       ,,,06:11,34,443,,          ,Time Out (1),TOUT,,,FC Barcelona Lassa,0
-BAR       ,,18,06:11,34,445,"ORIOLA, PIERRE",P005917   ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,45,06:11,34,446,"MOERMAN, ADRIEN",P001833   ,In,IN,,,FC Barcelona Lassa,0
-ZAL       ,,21,06:11,34,447,"MILAKNIS, ARTURAS",PKPD      ,In,IN,,,Zalgiris Kaunas,0
-ZAL       ,,30,06:11,34,448,"WHITE, AARON",P006505   ,Out,OUT,,,Zalgiris Kaunas,0
-BAR       ,,9,05:52,35,450,"HANGA, ADAM",P005099   ,Two Pointer (4/6 -  16 pt),2FGM,62.0,70.0,FC Barcelona Lassa,0
-BAR       ,,5,05:42,35,451,"RIBAS, PAU",PJUG      ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0
-ZAL       ,,22,05:42,35,452,"MICIC, VASILIJE",P002580   ,Offensive Foul (2),OF,,,Zalgiris Kaunas,0
-ZAL       ,,22,05:42,35,453,"MICIC, VASILIJE",P002580   ,Turnover (3),TO,,,Zalgiris Kaunas,0
-BAR       ,,45,05:26,35,454,"MOERMAN, ADRIEN",P001833   ,Missed Three Pointer (0/5 -  4 pt),3FGA,,,FC Barcelona Lassa,0
-ZAL       ,,66,05:24,35,455,"VALINSKAS, PAULIUS",P004664   ,Def Rebound (2),D,,,Zalgiris Kaunas,0
-ZAL       ,,92,05:09,35,456,"ULANOVAS, EDGARAS",P002329   ,Missed Two Pointer (2/3 -  5 pt),2FGA,,,Zalgiris Kaunas,0
-BAR       ,,45,05:07,35,457,"MOERMAN, ADRIEN",P001833   ,Def Rebound (5),D,,,FC Barcelona Lassa,0
-BAR       ,,1,04:45,36,459,"SERAPHIN, KEVIN",P001948   ,Missed Two Pointer (5/7 -  13 pt),2FGA,,,FC Barcelona Lassa,0
-BAR       ,,9,04:43,36,460,"HANGA, ADAM",P005099   ,Off Rebound (2),O,,,FC Barcelona Lassa,0
-BAR       ,,9,04:43,36,461,"HANGA, ADAM",P005099   ,Foul Drawn (3),RV,,,FC Barcelona Lassa,0
-ZAL       ,,92,04:43,36,462,"ULANOVAS, EDGARAS",P002329   ,Foul (2),CM,,,Zalgiris Kaunas,0
-ZAL       ,,,04:43,36,463,,          ,Time Out (1),TOUT,,,Zalgiris Kaunas,0
-ZAL       ,,3,04:43,36,464,"PANGOS, KEVIN",P006433   ,In,IN,,,Zalgiris Kaunas,0
-ZAL       ,,30,04:43,36,465,"WHITE, AARON",P006505   ,In,IN,,,Zalgiris Kaunas,0
-ZAL       ,,66,04:43,36,466,"VALINSKAS, PAULIUS",P004664   ,Out,OUT,,,Zalgiris Kaunas,0
-ZAL       ,,92,04:43,36,467,"ULANOVAS, EDGARAS",P002329   ,Out,OUT,,,Zalgiris Kaunas,0
-BAR       ,,9,04:43,36,468,"HANGA, ADAM",P005099   ,Missed Free Throw (2/3 -  16 pt),FTA,,,FC Barcelona Lassa,0
-BAR       ,,9,04:43,36,469,"HANGA, ADAM",P005099   ,Free Throw In (3/4 -  17 pt),FTM,63.0,70.0,FC Barcelona Lassa,0
-ZAL       ,,22,04:30,36,470,"MICIC, VASILIJE",P002580   ,Foul Drawn (4),RV,,,Zalgiris Kaunas,0
-BAR       ,,9,04:30,36,471,"HANGA, ADAM",P005099   ,Foul (3),CM,,,FC Barcelona Lassa,0
-ZAL       ,,3,04:20,36,472,"PANGOS, KEVIN",P006433   ,Missed Three Pointer (3/5 -  16 pt),3FGA,,,Zalgiris Kaunas,0
-ZAL       ,,13,04:18,36,473,"JANKUNAS, PAULIUS",PBWI      ,Off Rebound (2),O,,,Zalgiris Kaunas,0
-ZAL       ,,13,04:08,36,474,"JANKUNAS, PAULIUS",PBWI      ,Two Pointer (2/5 -  4 pt),2FGM,63.0,72.0,Zalgiris Kaunas,0
-ZAL       ,,22,04:05,36,475,"MICIC, VASILIJE",P002580   ,Assist (6),AS,,,Zalgiris Kaunas,0
-BAR       ,,1,03:46,37,477,"SERAPHIN, KEVIN",P001948   ,Foul Drawn (4),RV,,,FC Barcelona Lassa,0
-ZAL       ,,21,03:46,37,478,"MILAKNIS, ARTURAS",PKPD      ,Foul (2),CM,,,Zalgiris Kaunas,0
-BAR       ,,1,03:46,37,479,"SERAPHIN, KEVIN",P001948   ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,18,03:46,37,480,"ORIOLA, PIERRE",P005917   ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,45,03:35,37,481,"MOERMAN, ADRIEN",P001833   ,Two Pointer (3/4 -  6 pt),2FGM,65.0,72.0,FC Barcelona Lassa,0
-BAR       ,,9,03:33,37,482,"HANGA, ADAM",P005099   ,Assist (2),AS,,,FC Barcelona Lassa,0
-ZAL       ,,30,03:11,37,483,"WHITE, AARON",P006505   ,Two Pointer (6/7 -  13 pt),2FGM,65.0,74.0,Zalgiris Kaunas,0
-ZAL       ,,22,03:08,37,484,"MICIC, VASILIJE",P002580   ,Assist (7),AS,,,Zalgiris Kaunas,0
-BAR       ,,9,02:51,38,486,"HANGA, ADAM",P005099   ,Missed Three Pointer (2/5 -  17 pt),3FGA,,,FC Barcelona Lassa,0
-BAR       ,,,02:49,38,487,,          ,Off Rebound (2),O,,,FC Barcelona Lassa,0
-ZAL       ,,0,02:49,38,488,"DAVIES, BRANDON",P007870   ,In,IN,,,Zalgiris Kaunas,0
-ZAL       ,,13,02:49,38,489,"JANKUNAS, PAULIUS",PBWI      ,Out,OUT,,,Zalgiris Kaunas,0
-BAR       ,,13,02:46,38,490,"HEURTEL, THOMAS",PKLT      ,Two Pointer (3/4 -  6 pt),2FGM,67.0,74.0,FC Barcelona Lassa,0
-ZAL       ,,0,02:23,38,491,"DAVIES, BRANDON",P007870   ,Foul Drawn (2),RV,,,Zalgiris Kaunas,0
-BAR       ,,18,02:23,38,492,"ORIOLA, PIERRE",P005917   ,Foul (4),CM,,,FC Barcelona Lassa,0
-ZAL       ,,22,02:23,38,493,"MICIC, VASILIJE",P002580   ,Assist (8),AS,,,Zalgiris Kaunas,0
-ZAL       ,,0,02:23,38,494,"DAVIES, BRANDON",P007870   ,Free Throw In (3/3 -  5 pt),FTM,67.0,75.0,Zalgiris Kaunas,0
-ZAL       ,,0,02:23,38,495,"DAVIES, BRANDON",P007870   ,Free Throw In (4/4 -  6 pt),FTM,67.0,76.0,Zalgiris Kaunas,0
-ZAL       ,,21,02:23,38,496,"MILAKNIS, ARTURAS",PKPD      ,Out,OUT,,,Zalgiris Kaunas,0
-ZAL       ,,92,02:23,38,497,"ULANOVAS, EDGARAS",P002329   ,In,IN,,,Zalgiris Kaunas,0
-BAR       ,,45,02:11,38,498,"MOERMAN, ADRIEN",P001833   ,Turnover (1),TO,,,FC Barcelona Lassa,0
-BAR       ,,,02:11,38,499,,          ,Time Out (2),TOUT,,,FC Barcelona Lassa,0
-BAR       ,,5,02:11,38,500,"RIBAS, PAU",PJUG      ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,25,02:11,38,501,"KOPONEN, PETTERI",P004178   ,In,IN,,,FC Barcelona Lassa,0
-ZAL       ,,0,02:11,38,502,"DAVIES, BRANDON",P007870   ,Out,OUT,,,Zalgiris Kaunas,0
-ZAL       ,,13,02:11,38,503,"JANKUNAS, PAULIUS",PBWI      ,In,IN,,,Zalgiris Kaunas,0
-ZAL       ,,92,01:45,39,505,"ULANOVAS, EDGARAS",P002329   ,Missed Two Pointer (2/4 -  5 pt),2FGA,,,Zalgiris Kaunas,0
-BAR       ,,9,01:42,39,506,"HANGA, ADAM",P005099   ,Def Rebound (6),D,,,FC Barcelona Lassa,0
-BAR       ,,18,01:36,39,507,"ORIOLA, PIERRE",P005917   ,Two Pointer (2/2 -  8 pt),2FGM,69.0,76.0,FC Barcelona Lassa,0
-BAR       ,,13,01:36,39,508,"HEURTEL, THOMAS",PKLT      ,Assist (4),AS,,,FC Barcelona Lassa,0
-ZAL       ,,,01:36,39,509,,          ,Time Out (2),TOUT,,,Zalgiris Kaunas,0
-ZAL       ,,22,01:21,39,510,"MICIC, VASILIJE",P002580   ,Two Pointer (8/11 -  20 pt),2FGM,69.0,78.0,Zalgiris Kaunas,0
-BAR       ,,13,01:14,39,511,"HEURTEL, THOMAS",PKLT      ,Missed Two Pointer (3/5 -  6 pt),2FGA,,,FC Barcelona Lassa,0
-ZAL       ,,92,01:12,39,512,"ULANOVAS, EDGARAS",P002329   ,Def Rebound (3),D,,,Zalgiris Kaunas,0
-ZAL       ,,22,00:53,40,514,"MICIC, VASILIJE",P002580   ,Missed Three Pointer (1/2 -  20 pt),3FGA,,,Zalgiris Kaunas,0
-ZAL       ,,13,00:51,40,515,"JANKUNAS, PAULIUS",PBWI      ,Off Rebound (3),O,,,Zalgiris Kaunas,0
-ZAL       ,,30,00:39,40,516,"WHITE, AARON",P006505   ,Turnover (2),TO,,,Zalgiris Kaunas,0
-BAR       ,,,00:39,40,517,,          ,Time Out (3),TOUT,,,FC Barcelona Lassa,0
-ZAL       ,,0,00:39,40,518,"DAVIES, BRANDON",P007870   ,In,IN,,,Zalgiris Kaunas,0
-ZAL       ,,3,00:39,40,519,"PANGOS, KEVIN",P006433   ,Out,OUT,,,Zalgiris Kaunas,0
-ZAL       ,,6,00:39,40,520,"TOUPANE, AXEL",P002582   ,In,IN,,,Zalgiris Kaunas,0
-ZAL       ,,13,00:39,40,521,"JANKUNAS, PAULIUS",PBWI      ,Out,OUT,,,Zalgiris Kaunas,0
-BAR       ,,13,00:28,40,522,"HEURTEL, THOMAS",PKLT      ,Missed Two Pointer (3/6 -  6 pt),2FGA,,,FC Barcelona Lassa,0
-BAR       ,,13,00:28,40,523,"HEURTEL, THOMAS",PKLT      ,Shot Rejected (2),AG,,,FC Barcelona Lassa,0
-ZAL       ,,92,00:28,40,524,"ULANOVAS, EDGARAS",P002329   ,Block (1),FV,,,Zalgiris Kaunas,0
-BAR       ,,18,00:28,40,525,"ORIOLA, PIERRE",P005917   ,Off Rebound (1),O,,,FC Barcelona Lassa,0
-BAR       ,,18,00:28,40,526,"ORIOLA, PIERRE",P005917   ,Two Pointer (3/3 -  10 pt),2FGM,71.0,78.0,FC Barcelona Lassa,0
-ZAL       ,,,00:28,40,527,,          ,Time Out (3),TOUT,,,Zalgiris Kaunas,0
-BAR       ,,5,00:28,40,528,"RIBAS, PAU",PJUG      ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,13,00:28,40,529,"HEURTEL, THOMAS",PKLT      ,Out,OUT,,,FC Barcelona Lassa,0
-ZAL       ,,0,00:28,40,530,"DAVIES, BRANDON",P007870   ,Out,OUT,,,Zalgiris Kaunas,0
-ZAL       ,,3,00:28,40,531,"PANGOS, KEVIN",P006433   ,In,IN,,,Zalgiris Kaunas,0
-ZAL       ,,6,00:28,40,532,"TOUPANE, AXEL",P002582   ,Out,OUT,,,Zalgiris Kaunas,0
-ZAL       ,,13,00:28,40,533,"JANKUNAS, PAULIUS",PBWI      ,In,IN,,,Zalgiris Kaunas,0
-ZAL       ,,92,00:27,40,534,"ULANOVAS, EDGARAS",P002329   ,Foul Drawn (3),RV,,,Zalgiris Kaunas,0
-BAR       ,,45,00:27,40,535,"MOERMAN, ADRIEN",P001833   ,Foul (4),CM,,,FC Barcelona Lassa,0
-ZAL       ,,0,00:27,40,536,"DAVIES, BRANDON",P007870   ,In,IN,,,Zalgiris Kaunas,0
-ZAL       ,,3,00:27,40,537,"PANGOS, KEVIN",P006433   ,Out,OUT,,,Zalgiris Kaunas,0
-ZAL       ,,6,00:27,40,538,"TOUPANE, AXEL",P002582   ,In,IN,,,Zalgiris Kaunas,0
-ZAL       ,,13,00:27,40,539,"JANKUNAS, PAULIUS",PBWI      ,Out,OUT,,,Zalgiris Kaunas,0
-ZAL       ,,92,00:27,40,540,"ULANOVAS, EDGARAS",P002329   ,Free Throw In (2/3 -  6 pt),FTM,71.0,79.0,Zalgiris Kaunas,0
-ZAL       ,,92,00:27,40,541,"ULANOVAS, EDGARAS",P002329   ,Missed Free Throw (2/4 -  6 pt),FTA,,,Zalgiris Kaunas,0
-BAR       ,,,00:26,40,542,,          ,Def Rebound (3),D,,,FC Barcelona Lassa,0
-BAR       ,,45,00:17,40,543,"MOERMAN, ADRIEN",P001833   ,Missed Two Pointer (3/5 -  6 pt),2FGA,,,FC Barcelona Lassa,0
-BAR       ,,45,00:17,40,544,"MOERMAN, ADRIEN",P001833   ,Shot Rejected (1),AG,,,FC Barcelona Lassa,0
-ZAL       ,,30,00:16,40,545,"WHITE, AARON",P006505   ,Block (1),FV,,,Zalgiris Kaunas,0
-BAR       ,,9,00:16,40,546,"HANGA, ADAM",P005099   ,Off Rebound (3),O,,,FC Barcelona Lassa,0
-BAR       ,,45,00:16,40,547,"MOERMAN, ADRIEN",P001833   ,Missed Three Pointer (0/6 -  6 pt),3FGA,,,FC Barcelona Lassa,0
-BAR       ,,9,00:16,40,548,"HANGA, ADAM",P005099   ,Off Rebound (4),O,,,FC Barcelona Lassa,0
-BAR       ,,9,00:16,40,549,"HANGA, ADAM",P005099   ,Two Pointer (5/7 -  19 pt),2FGM,73.0,79.0,FC Barcelona Lassa,0
-ZAL       ,,0,00:10,40,550,"DAVIES, BRANDON",P007870   ,Foul Drawn (3),RV,,,Zalgiris Kaunas,0
-BAR       ,,45,00:10,40,551,"MOERMAN, ADRIEN",P001833   ,Foul (5),CM,,,FC Barcelona Lassa,0
-BAR       ,,13,00:10,40,552,"HEURTEL, THOMAS",PKLT      ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,45,00:10,40,553,"MOERMAN, ADRIEN",P001833   ,Out,OUT,,,FC Barcelona Lassa,0
-ZAL       ,,0,00:10,40,554,"DAVIES, BRANDON",P007870   ,Free Throw In (5/5 -  7 pt),FTM,73.0,80.0,Zalgiris Kaunas,0
-ZAL       ,,0,00:10,40,555,"DAVIES, BRANDON",P007870   ,Free Throw In (6/6 -  8 pt),FTM,73.0,81.0,Zalgiris Kaunas,0
-ZAL       ,,30,00:10,40,556,"WHITE, AARON",P006505   ,Assist (1),AS,,,Zalgiris Kaunas,0
-BAR       ,,13,00:00,40,557,"HEURTEL, THOMAS",PKLT      ,Two Pointer (4/7 -  8 pt),2FGM,75.0,81.0,FC Barcelona Lassa,0
-          ,,,,41,560,,          ,End Game,EG,,,,0
+CODETEAM,COMMENT,DORSAL,MARKERTIME,MINUTE,NUMBEROFPLAY,PLAYER,PLAYER_ID,PLAYINFO,PLAYTYPE,POINTS_A,POINTS_B,TEAM,TYPE,home_team,home_team_code,away_team,away_team_code
+          ,,,,1,2,,          ,Begin Period,BP,,,,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,0,09:59,1,3,"DAVIES, BRANDON",P007870   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,0,09:59,1,4,"DAVIES, BRANDON",P007870   ,Shot Rejected (1),AG,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,9,09:59,1,5,"HANGA, ADAM",P005099   ,Block (1),FV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,1,09:59,1,6,"SERAPHIN, KEVIN",P001948   ,Def Rebound (1),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,9,09:59,1,7,"HANGA, ADAM",P005099   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,21,09:59,1,8,"MILAKNIS, ARTURAS",PKPD      ,Def Rebound (1),D,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,0,09:13,1,9,"DAVIES, BRANDON",P007870   ,Two Pointer (1/2 -  2 pt),2FGM,,2.0,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,25,08:56,2,11,"KOPONEN, PETTERI",P004178   ,Two Pointer (1/1 -  2 pt),2FGM,2.0,2.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,25,08:56,2,12,"KOPONEN, PETTERI",P004178   ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,0,08:56,2,13,"DAVIES, BRANDON",P007870   ,Foul (1),CM,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,25,08:56,2,14,"KOPONEN, PETTERI",P004178   ,Free Throw In (1/1 -  3 pt),FTM,3.0,2.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,21,08:42,2,15,"MILAKNIS, ARTURAS",PKPD      ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,9,08:39,2,16,"HANGA, ADAM",P005099   ,Def Rebound (1),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,1,08:33,2,17,"SERAPHIN, KEVIN",P001948   ,Two Pointer (1/1 -  2 pt),2FGM,5.0,2.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,13,08:30,2,18,"HEURTEL, THOMAS",PKLT      ,Assist (1),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,13,08:24,2,19,"HEURTEL, THOMAS",PKLT      ,Foul (1),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,3,08:24,2,20,"PANGOS, KEVIN",P006433   ,Foul Drawn (1),RV,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,0,08:14,2,21,"DAVIES, BRANDON",P007870   ,Missed Two Pointer (1/3 -  2 pt),2FGA,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,13,08:12,2,22,"HEURTEL, THOMAS",PKLT      ,Def Rebound (1),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,1,08:02,2,23,"SERAPHIN, KEVIN",P001948   ,Turnover (1),TO,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,0,08:00,2,24,"DAVIES, BRANDON",P007870   ,Steal (1),ST,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,3,07:50,3,26,"PANGOS, KEVIN",P006433   ,Three Pointer (1/1 -  3 pt),3FGM,5.0,5.0,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,22,07:47,3,27,"MICIC, VASILIJE",P002580   ,Assist (1),AS,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,9,07:29,3,28,"HANGA, ADAM",P005099   ,Turnover (1),TO,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,13,07:27,3,29,"JANKUNAS, PAULIUS",PBWI      ,Steal (1),ST,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,13,07:20,3,30,"JANKUNAS, PAULIUS",PBWI      ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,45,07:18,3,31,"MOERMAN, ADRIEN",P001833   ,Def Rebound (1),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,1,07:10,3,32,"SERAPHIN, KEVIN",P001948   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,13,07:07,3,33,"JANKUNAS, PAULIUS",PBWI      ,Def Rebound (1),D,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,0,06:58,4,35,"DAVIES, BRANDON",P007870   ,Missed Two Pointer (1/4 -  2 pt),2FGA,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,,06:58,4,36,,          ,Off Rebound (1),O,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,3,06:52,4,37,"PANGOS, KEVIN",P006433   ,Missed Three Pointer (1/2 -  3 pt),3FGA,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,25,06:50,4,38,"KOPONEN, PETTERI",P004178   ,Def Rebound (1),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,1,06:46,4,39,"SERAPHIN, KEVIN",P001948   ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,21,06:46,4,40,"MILAKNIS, ARTURAS",PKPD      ,Foul (1),CM,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,1,06:46,4,41,"SERAPHIN, KEVIN",P001948   ,Free Throw In (1/1 -  3 pt),FTM,6.0,5.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,25,06:46,4,257,"KOPONEN, PETTERI",P004178   ,Assist (1),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,1,06:46,4,42,"SERAPHIN, KEVIN",P001948   ,Free Throw In (2/2 -  4 pt),FTM,7.0,5.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,22,06:28,4,43,"MICIC, VASILIJE",P002580   ,Two Pointer (1/1 -  2 pt),2FGM,7.0,7.0,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,13,06:13,4,44,"HEURTEL, THOMAS",PKLT      ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,13,06:11,4,45,"HEURTEL, THOMAS",PKLT      ,Off Rebound (1),O,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,1,06:09,4,46,"SERAPHIN, KEVIN",P001948   ,Two Pointer (2/3 -  6 pt),2FGM,9.0,7.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,25,06:06,4,47,"KOPONEN, PETTERI",P004178   ,Assist (2),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,45,05:49,5,49,"MOERMAN, ADRIEN",P001833   ,Foul (1),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,13,05:49,5,50,"JANKUNAS, PAULIUS",PBWI      ,Foul Drawn (1),RV,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,5,05:49,5,51,"RIBAS, PAU",PJUG      ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,9,05:49,5,52,"HANGA, ADAM",P005099   ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,0,05:49,5,53,"DAVIES, BRANDON",P007870   ,Out,OUT,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,3,05:49,5,54,"PANGOS, KEVIN",P006433   ,Out,OUT,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,6,05:49,5,55,"TOUPANE, AXEL",P002582   ,In,IN,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,44,05:49,5,56,"KAVALIAUSKAS, ANTANAS",P000399   ,In,IN,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,6,05:32,5,57,"TOUPANE, AXEL",P002582   ,Two Pointer (1/1 -  2 pt),2FGM,9.0,9.0,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,13,05:29,5,58,"JANKUNAS, PAULIUS",PBWI      ,Assist (1),AS,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,25,05:06,5,59,"KOPONEN, PETTERI",P004178   ,Three Pointer (1/1 -  6 pt),3FGM,12.0,9.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,13,05:04,5,60,"HEURTEL, THOMAS",PKLT      ,Assist (2),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,6,04:45,6,62,"TOUPANE, AXEL",P002582   ,Two Pointer (2/2 -  4 pt),2FGM,12.0,11.0,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,44,04:45,6,63,"KAVALIAUSKAS, ANTANAS",P000399   ,Assist (1),AS,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,6,04:45,6,64,"TOUPANE, AXEL",P002582   ,Foul Drawn (1),RV,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,5,04:45,6,65,"RIBAS, PAU",PJUG      ,Foul (1),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+          ,,,04:45,6,66,,          ,TV Time Out (1),TOUT_TV,,,,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,9,04:45,6,67,"HANGA, ADAM",P005099   ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,25,04:45,6,68,"KOPONEN, PETTERI",P004178   ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,6,04:45,6,69,"TOUPANE, AXEL",P002582   ,Missed Free Throw (0/1 -  4 pt),FTA,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,6,04:42,6,70,"TOUPANE, AXEL",P002582   ,Off Rebound (1),O,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,21,04:34,6,71,"MILAKNIS, ARTURAS",PKPD      ,Three Pointer (1/2 -  3 pt),3FGM,12.0,14.0,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,44,04:31,6,72,"KAVALIAUSKAS, ANTANAS",P000399   ,Assist (2),AS,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,5,04:09,6,73,"RIBAS, PAU",PJUG      ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,6,04:07,6,74,"TOUPANE, AXEL",P002582   ,Def Rebound (1),D,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,21,03:46,7,76,"MILAKNIS, ARTURAS",PKPD      ,Missed Two Pointer (0/1 -  3 pt),2FGA,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,44,03:44,7,77,"KAVALIAUSKAS, ANTANAS",P000399   ,Foul (1),CM,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,45,03:44,7,78,"MOERMAN, ADRIEN",P001833   ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,1,03:44,7,79,"SERAPHIN, KEVIN",P001948   ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,18,03:44,7,80,"ORIOLA, PIERRE",P005917   ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,44,03:44,7,81,"TOMIC, ANTE",P002507   ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,45,03:44,7,82,"MOERMAN, ADRIEN",P001833   ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,13,03:44,7,83,"JANKUNAS, PAULIUS",PBWI      ,Out,OUT,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,30,03:44,7,84,"WHITE, AARON",P006505   ,In,IN,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,9,03:29,7,85,"HANGA, ADAM",P005099   ,Two Pointer (1/2 -  2 pt),2FGM,14.0,14.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,44,03:26,7,86,"TOMIC, ANTE",P002507   ,Assist (1),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,22,03:15,7,87,"MICIC, VASILIJE",P002580   ,Two Pointer (2/2 -  4 pt),2FGM,14.0,16.0,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,22,03:15,7,88,"MICIC, VASILIJE",P002580   ,Foul Drawn (1),RV,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,13,03:15,7,89,"HEURTEL, THOMAS",PKLT      ,Foul (2),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,8,03:15,7,90,"PRESSEY, PHIL",P007997   ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,13,03:15,7,91,"HEURTEL, THOMAS",PKLT      ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,3,03:15,7,92,"PANGOS, KEVIN",P006433   ,In,IN,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,21,03:15,7,93,"MILAKNIS, ARTURAS",PKPD      ,Out,OUT,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,22,03:15,7,94,"MICIC, VASILIJE",P002580   ,Free Throw In (1/1 -  5 pt),FTM,14.0,17.0,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,5,03:00,7,95,"RIBAS, PAU",PJUG      ,Turnover (1),TO,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,22,02:57,8,97,"MICIC, VASILIJE",P002580   ,Steal (1),ST,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,30,02:54,8,98,"WHITE, AARON",P006505   ,Two Pointer (1/1 -  2 pt),2FGM,14.0,19.0,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,22,02:51,8,99,"MICIC, VASILIJE",P002580   ,Assist (2),AS,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,9,02:30,8,100,"HANGA, ADAM",P005099   ,Three Pointer (1/1 -  5 pt),3FGM,17.0,19.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,44,02:28,8,101,"TOMIC, ANTE",P002507   ,Assist (2),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,30,02:17,8,102,"WHITE, AARON",P006505   ,Turnover (1),TO,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,9,02:17,8,103,"HANGA, ADAM",P005099   ,Steal (1),ST,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,9,02:17,8,104,"HANGA, ADAM",P005099   ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,44,02:17,8,105,"KAVALIAUSKAS, ANTANAS",P000399   ,Foul (2),CM,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,13,02:17,8,106,"JANKUNAS, PAULIUS",PBWI      ,In,IN,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,44,02:17,8,107,"KAVALIAUSKAS, ANTANAS",P000399   ,Out,OUT,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,9,02:16,8,108,"HANGA, ADAM",P005099   ,Free Throw In (1/1 -  6 pt),FTM,18.0,19.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,9,02:16,8,109,"HANGA, ADAM",P005099   ,Free Throw In (2/2 -  7 pt),FTM,19.0,19.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,22,02:16,8,110,"MICIC, VASILIJE",P002580   ,Turnover (1),TO,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,8,02:07,8,111,"PRESSEY, PHIL",P007997   ,Turnover (1),TO,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,22,02:05,8,112,"MICIC, VASILIJE",P002580   ,Steal (2),ST,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,6,02:00,8,114,"TOUPANE, AXEL",P002582   ,Foul Drawn (2),RV,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,18,02:00,8,115,"ORIOLA, PIERRE",P005917   ,Foul (1),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,22,02:00,8,116,"MICIC, VASILIJE",P002580   ,Assist (3),AS,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,6,02:00,8,117,"TOUPANE, AXEL",P002582   ,Free Throw In (1/2 -  5 pt),FTM,19.0,20.0,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,6,02:00,8,118,"TOUPANE, AXEL",P002582   ,Missed Free Throw (1/3 -  5 pt),FTA,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,,02:00,8,119,,          ,Def Rebound (1),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,5,01:46,9,121,"RIBAS, PAU",PJUG      ,Turnover (2),TO,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,22,01:25,9,122,"MICIC, VASILIJE",P002580   ,Two Pointer (3/3 -  7 pt),2FGM,19.0,22.0,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,9,00:58,10,124,"HANGA, ADAM",P005099   ,Two Pointer (2/3 -  9 pt),2FGM,21.0,22.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,44,00:56,10,125,"TOMIC, ANTE",P002507   ,Assist (3),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,22,00:48,10,126,"MICIC, VASILIJE",P002580   ,Two Pointer (4/4 -  9 pt),2FGM,21.0,24.0,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,9,00:26,10,127,"HANGA, ADAM",P005099   ,Missed Three Pointer (1/2 -  9 pt),3FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,6,00:23,10,128,"TOUPANE, AXEL",P002582   ,Def Rebound (2),D,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,30,00:00,10,129,"WHITE, AARON",P006505   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,13,00:00,10,130,"JANKUNAS, PAULIUS",PBWI      ,Off Rebound (1),O,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+          ,,,,11,132,,          ,End Period,EP,,,,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+          ,,,,11,137,,          ,Begin Period,BP,,,,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,5,10:00,11,133,"RIBAS, PAU",PJUG      ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,25,10:00,11,134,"KOPONEN, PETTERI",P004178   ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,22,10:00,11,135,"MICIC, VASILIJE",P002580   ,Out,OUT,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,92,10:00,11,136,"ULANOVAS, EDGARAS",P002329   ,In,IN,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,25,09:47,11,138,"KOPONEN, PETTERI",P004178   ,Missed Two Pointer (1/2 -  6 pt),2FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,13,09:44,11,139,"JANKUNAS, PAULIUS",PBWI      ,Def Rebound (2),D,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,3,09:35,11,140,"PANGOS, KEVIN",P006433   ,Turnover (1),TO,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,6,09:35,11,141,"TOUPANE, AXEL",P002582   ,Out,OUT,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,66,09:35,11,142,"VALINSKAS, PAULIUS",P004664   ,In,IN,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,8,09:13,11,143,"PRESSEY, PHIL",P007997   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,44,09:10,11,144,"TOMIC, ANTE",P002507   ,Off Rebound (1),O,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,8,09:00,11,145,"PRESSEY, PHIL",P007997   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,92,08:57,12,147,"ULANOVAS, EDGARAS",P002329   ,Def Rebound (1),D,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,3,08:35,12,148,"PANGOS, KEVIN",P006433   ,Three Pointer (2/3 -  6 pt),3FGM,21.0,27.0,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,,08:35,12,244,,          ,Time Out (1),TOUT,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,44,08:22,12,149,"TOMIC, ANTE",P002507   ,Two Pointer (1/1 -  2 pt),2FGM,23.0,27.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,25,08:22,12,150,"KOPONEN, PETTERI",P004178   ,Assist (3),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,44,08:22,12,151,"TOMIC, ANTE",P002507   ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,13,08:22,12,152,"JANKUNAS, PAULIUS",PBWI      ,Foul (1),CM,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,0,08:22,12,153,"DAVIES, BRANDON",P007870   ,In,IN,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,13,08:22,12,154,"JANKUNAS, PAULIUS",PBWI      ,Out,OUT,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,44,08:22,12,155,"TOMIC, ANTE",P002507   ,Free Throw In (1/1 -  3 pt),FTM,24.0,27.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,44,08:22,12,156,"TOMIC, ANTE",P002507   ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,45,08:22,12,157,"MOERMAN, ADRIEN",P001833   ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,30,08:10,12,158,"WHITE, AARON",P006505   ,Foul Drawn (1),RV,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,25,08:10,12,159,"KOPONEN, PETTERI",P004178   ,Foul (1),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,0,08:10,12,160,"DAVIES, BRANDON",P007870   ,Assist (1),AS,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,30,08:10,12,161,"WHITE, AARON",P006505   ,Free Throw In (1/1 -  3 pt),FTM,24.0,28.0,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,30,08:10,12,162,"WHITE, AARON",P006505   ,Missed Free Throw (1/2 -  3 pt),FTA,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,9,08:08,12,163,"HANGA, ADAM",P005099   ,Def Rebound (2),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,8,07:55,13,165,"PRESSEY, PHIL",P007997   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,30,07:53,13,166,"WHITE, AARON",P006505   ,Def Rebound (1),D,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,3,07:42,13,167,"PANGOS, KEVIN",P006433   ,Three Pointer (3/4 -  9 pt),3FGM,24.0,31.0,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,0,07:39,13,168,"DAVIES, BRANDON",P007870   ,Assist (2),AS,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,18,07:24,13,169,"ORIOLA, PIERRE",P005917   ,Two Pointer (1/1 -  2 pt),2FGM,26.0,31.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,8,07:22,13,170,"PRESSEY, PHIL",P007997   ,Assist (1),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,3,07:00,13,171,"PANGOS, KEVIN",P006433   ,Missed Two Pointer (0/1 -  9 pt),2FGA,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,9,06:58,14,173,"HANGA, ADAM",P005099   ,Def Rebound (3),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,9,06:55,14,174,"HANGA, ADAM",P005099   ,Foul Drawn (2),RV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,30,06:55,14,175,"WHITE, AARON",P006505   ,Foul (1),CM,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,8,06:55,14,176,"PRESSEY, PHIL",P007997   ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,13,06:55,14,177,"HEURTEL, THOMAS",PKLT      ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,45,06:40,14,178,"MOERMAN, ADRIEN",P001833   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,45,06:36,14,179,"MOERMAN, ADRIEN",P001833   ,Off Rebound (1),O,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,45,06:36,14,180,"MOERMAN, ADRIEN",P001833   ,Two Pointer (1/2 -  2 pt),2FGM,28.0,31.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,66,06:19,14,181,"VALINSKAS, PAULIUS",P004664   ,Two Pointer (1/1 -  2 pt),2FGM,28.0,33.0,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,13,06:04,14,182,"HEURTEL, THOMAS",PKLT      ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,3,06:01,14,183,"PANGOS, KEVIN",P006433   ,Def Rebound (1),D,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,0,05:44,15,185,"DAVIES, BRANDON",P007870   ,Missed Two Pointer (1/5 -  2 pt),2FGA,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,45,05:42,15,186,"MOERMAN, ADRIEN",P001833   ,Def Rebound (2),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,25,05:33,15,187,"KOPONEN, PETTERI",P004178   ,Three Pointer (2/2 -  9 pt),3FGM,31.0,33.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,18,05:31,15,188,"ORIOLA, PIERRE",P005917   ,Assist (1),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,66,05:12,15,189,"VALINSKAS, PAULIUS",P004664   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,13,05:10,15,190,"HEURTEL, THOMAS",PKLT      ,Def Rebound (2),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,18,04:58,16,192,"ORIOLA, PIERRE",P005917   ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,0,04:58,16,193,"DAVIES, BRANDON",P007870   ,Foul (2),CM,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,0,04:58,16,194,"DAVIES, BRANDON",P007870   ,Out,OUT,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,44,04:58,16,195,"KAVALIAUSKAS, ANTANAS",P000399   ,In,IN,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,18,04:58,16,196,"ORIOLA, PIERRE",P005917   ,Missed Free Throw (0/1 -  2 pt),FTA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,45,04:58,16,258,"MOERMAN, ADRIEN",P001833   ,Assist (1),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,18,04:58,16,197,"ORIOLA, PIERRE",P005917   ,Free Throw In (1/2 -  3 pt),FTM,32.0,33.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,3,04:35,16,198,"PANGOS, KEVIN",P006433   ,Two Pointer (1/2 -  11 pt),2FGM,32.0,35.0,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,18,04:14,16,199,"ORIOLA, PIERRE",P005917   ,Missed Three Pointer (0/1 -  3 pt),3FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,44,04:12,16,200,"KAVALIAUSKAS, ANTANAS",P000399   ,Def Rebound (1),D,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,30,03:59,17,202,"WHITE, AARON",P006505   ,Two Pointer (2/3 -  5 pt),2FGM,32.0,37.0,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,,03:59,17,218,,          ,Time Out (1),TOUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,1,03:59,17,203,"SERAPHIN, KEVIN",P001948   ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,9,03:59,17,204,"HANGA, ADAM",P005099   ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,14,03:59,17,205,"VEZENKOV, SASHA",P003469   ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,18,03:59,17,206,"ORIOLA, PIERRE",P005917   ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,3,03:59,17,207,"PANGOS, KEVIN",P006433   ,Out,OUT,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,22,03:59,17,208,"MICIC, VASILIJE",P002580   ,In,IN,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,1,03:44,17,209,"SERAPHIN, KEVIN",P001948   ,Two Pointer (3/4 -  8 pt),2FGM,34.0,37.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,25,03:42,17,210,"KOPONEN, PETTERI",P004178   ,Assist (4),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,30,03:26,17,211,"WHITE, AARON",P006505   ,Missed Three Pointer (0/1 -  5 pt),3FGA,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,44,03:26,17,212,"KAVALIAUSKAS, ANTANAS",P000399   ,Foul Drawn (1),RV,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,1,03:26,17,213,"SERAPHIN, KEVIN",P001948   ,Foul (1),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,44,03:15,17,214,"KAVALIAUSKAS, ANTANAS",P000399   ,Two Pointer (1/1 -  2 pt),2FGM,34.0,39.0,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,22,03:13,17,215,"MICIC, VASILIJE",P002580   ,Assist (4),AS,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,1,02:56,18,217,"SERAPHIN, KEVIN",P001948   ,Turnover (2),TO,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,5,02:56,18,219,"RIBAS, PAU",PJUG      ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,25,02:56,18,220,"KOPONEN, PETTERI",P004178   ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,14,02:48,18,221,"VEZENKOV, SASHA",P003469   ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,44,02:48,18,222,"KAVALIAUSKAS, ANTANAS",P000399   ,Offensive Foul (3),OF,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,44,02:48,18,223,"KAVALIAUSKAS, ANTANAS",P000399   ,Turnover (1),TO,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,13,02:48,18,224,"JANKUNAS, PAULIUS",PBWI      ,In,IN,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,44,02:48,18,225,"KAVALIAUSKAS, ANTANAS",P000399   ,Out,OUT,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,1,02:32,18,226,"SERAPHIN, KEVIN",P001948   ,Two Pointer (4/5 -  10 pt),2FGM,36.0,39.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,92,02:15,18,227,"ULANOVAS, EDGARAS",P002329   ,Two Pointer (1/1 -  2 pt),2FGM,36.0,41.0,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,45,01:50,19,229,"MOERMAN, ADRIEN",P001833   ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,66,01:48,19,230,"VALINSKAS, PAULIUS",P004664   ,Def Rebound (1),D,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,22,01:37,19,231,"MICIC, VASILIJE",P002580   ,Missed Two Pointer (4/5 -  9 pt),2FGA,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,13,01:35,19,232,"HEURTEL, THOMAS",PKLT      ,Def Rebound (3),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,1,01:26,19,233,"SERAPHIN, KEVIN",P001948   ,Foul Drawn (2),RV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,92,01:26,19,234,"ULANOVAS, EDGARAS",P002329   ,Foul (1),CM,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,9,01:26,19,235,"HANGA, ADAM",P005099   ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,13,01:26,19,236,"HEURTEL, THOMAS",PKLT      ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,3,01:26,19,237,"PANGOS, KEVIN",P006433   ,In,IN,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,66,01:26,19,238,"VALINSKAS, PAULIUS",P004664   ,Out,OUT,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,1,01:26,19,239,"SERAPHIN, KEVIN",P001948   ,Free Throw In (3/3 -  11 pt),FTM,37.0,41.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,5,01:26,19,259,"RIBAS, PAU",PJUG      ,Assist (1),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,1,01:26,19,240,"SERAPHIN, KEVIN",P001948   ,Missed Free Throw (3/4 -  11 pt),FTA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,13,01:21,19,241,"JANKUNAS, PAULIUS",PBWI      ,Def Rebound (3),D,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,22,01:02,19,242,"MICIC, VASILIJE",P002580   ,Two Pointer (5/6 -  11 pt),2FGM,37.0,43.0,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,9,00:31,20,245,"HANGA, ADAM",P005099   ,Two Pointer (3/4 -  11 pt),2FGM,39.0,43.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,13,00:20,20,246,"JANKUNAS, PAULIUS",PBWI      ,Two Pointer (1/2 -  2 pt),2FGM,39.0,45.0,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,3,00:20,20,247,"PANGOS, KEVIN",P006433   ,Assist (1),AS,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,,00:20,20,248,,          ,Time Out (2),TOUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,3,00:20,20,249,"PANGOS, KEVIN",P006433   ,Out,OUT,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,6,00:20,20,250,"TOUPANE, AXEL",P002582   ,In,IN,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,13,00:20,20,251,"JANKUNAS, PAULIUS",PBWI      ,Out,OUT,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,66,00:20,20,252,"VALINSKAS, PAULIUS",P004664   ,In,IN,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,5,00:00,20,253,"RIBAS, PAU",PJUG      ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,1,00:00,20,254,"SERAPHIN, KEVIN",P001948   ,Off Rebound (1),O,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+          ,,,,21,256,,          ,End Period,EP,,,,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+          ,,,,21,270,,          ,Begin Period,BP,,,,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,5,10:00,21,260,"RIBAS, PAU",PJUG      ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,13,10:00,21,261,"HEURTEL, THOMAS",PKLT      ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,14,10:00,21,262,"VEZENKOV, SASHA",P003469   ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,25,10:00,21,263,"KOPONEN, PETTERI",P004178   ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,3,10:00,21,264,"PANGOS, KEVIN",P006433   ,In,IN,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,6,10:00,21,265,"TOUPANE, AXEL",P002582   ,Out,OUT,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,13,10:00,21,266,"JANKUNAS, PAULIUS",PBWI      ,In,IN,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,21,10:00,21,267,"MILAKNIS, ARTURAS",PKPD      ,In,IN,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,66,10:00,21,268,"VALINSKAS, PAULIUS",P004664   ,Out,OUT,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,92,10:00,21,269,"ULANOVAS, EDGARAS",P002329   ,Out,OUT,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,3,09:46,21,271,"PANGOS, KEVIN",P006433   ,Foul Drawn (2),RV,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,45,09:46,21,272,"MOERMAN, ADRIEN",P001833   ,Foul (2),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,3,09:46,21,273,"PANGOS, KEVIN",P006433   ,Missed Free Throw (0/1 -  11 pt),FTA,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,3,09:46,21,274,"PANGOS, KEVIN",P006433   ,Free Throw In (1/2 -  12 pt),FTM,39.0,46.0,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,9,09:23,21,275,"HANGA, ADAM",P005099   ,Three Pointer (2/3 -  14 pt),3FGM,42.0,46.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,45,09:21,21,276,"MOERMAN, ADRIEN",P001833   ,Assist (2),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,22,09:14,21,277,"MICIC, VASILIJE",P002580   ,Foul Drawn (2),RV,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,9,09:14,21,278,"HANGA, ADAM",P005099   ,Foul (1),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,13,09:02,21,279,"JANKUNAS, PAULIUS",PBWI      ,Missed Two Pointer (1/3 -  2 pt),2FGA,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,45,09:00,21,280,"MOERMAN, ADRIEN",P001833   ,Def Rebound (3),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,1,08:49,22,282,"SERAPHIN, KEVIN",P001948   ,Two Pointer (5/6 -  13 pt),2FGM,44.0,46.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,3,08:38,22,283,"PANGOS, KEVIN",P006433   ,Two Pointer (2/3 -  14 pt),2FGM,44.0,48.0,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,13,08:17,22,284,"HEURTEL, THOMAS",PKLT      ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,22,08:17,22,285,"MICIC, VASILIJE",P002580   ,Foul (1),CM,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,13,08:14,22,286,"HEURTEL, THOMAS",PKLT      ,Two Pointer (1/2 -  2 pt),2FGM,46.0,48.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,9,08:12,22,287,"HANGA, ADAM",P005099   ,Assist (1),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,21,07:56,23,289,"MILAKNIS, ARTURAS",PKPD      ,Two Pointer (1/2 -  5 pt),2FGM,46.0,50.0,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,45,07:43,23,290,"MOERMAN, ADRIEN",P001833   ,Missed Three Pointer (0/2 -  2 pt),3FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,,07:44,23,291,,          ,Def Rebound (2),D,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,21,07:33,23,292,"MILAKNIS, ARTURAS",PKPD      ,Foul Drawn (1),RV,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,9,07:33,23,293,"HANGA, ADAM",P005099   ,Foul (2),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,13,07:33,23,294,"JANKUNAS, PAULIUS",PBWI      ,Missed Two Pointer (1/4 -  2 pt),2FGA,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,30,07:33,23,295,"WHITE, AARON",P006505   ,Off Rebound (1),O,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,45,07:14,23,296,"MOERMAN, ADRIEN",P001833   ,Foul Drawn (2),RV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,3,07:14,23,297,"PANGOS, KEVIN",P006433   ,Offensive Foul (1),OF,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,3,07:14,23,298,"PANGOS, KEVIN",P006433   ,Turnover (2),TO,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,13,06:57,24,300,"HEURTEL, THOMAS",PKLT      ,Two Pointer (2/3 -  4 pt),2FGM,48.0,50.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,25,06:55,24,301,"KOPONEN, PETTERI",P004178   ,Assist (5),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,22,06:38,24,302,"MICIC, VASILIJE",P002580   ,Two Pointer (6/7 -  13 pt),2FGM,48.0,52.0,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,3,06:20,24,303,"PANGOS, KEVIN",P006433   ,Foul Drawn (3),RV,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,13,06:20,24,304,"HEURTEL, THOMAS",PKLT      ,Offensive Foul (3),OF,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,13,06:20,24,305,"HEURTEL, THOMAS",PKLT      ,Turnover (1),TO,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,0,06:20,24,306,"DAVIES, BRANDON",P007870   ,In,IN,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,13,06:20,24,307,"JANKUNAS, PAULIUS",PBWI      ,Out,OUT,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,22,06:07,24,308,"MICIC, VASILIJE",P002580   ,Turnover (2),TO,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,25,06:05,24,309,"KOPONEN, PETTERI",P004178   ,Steal (1),ST,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,9,05:54,25,311,"HANGA, ADAM",P005099   ,Missed Two Pointer (3/5 -  14 pt),2FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,21,05:52,25,312,"MILAKNIS, ARTURAS",PKPD      ,Def Rebound (2),D,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,21,05:47,25,313,"MILAKNIS, ARTURAS",PKPD      ,Missed Three Pointer (1/3 -  5 pt),3FGA,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,45,05:40,25,314,"MOERMAN, ADRIEN",P001833   ,Def Rebound (4),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,25,05:22,25,315,"KOPONEN, PETTERI",P004178   ,Missed Three Pointer (2/3 -  9 pt),3FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,45,05:20,25,316,"MOERMAN, ADRIEN",P001833   ,Off Rebound (2),O,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,9,05:08,25,317,"HANGA, ADAM",P005099   ,Missed Three Pointer (2/4 -  14 pt),3FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,30,05:07,25,318,"WHITE, AARON",P006505   ,Def Rebound (2),D,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,30,04:57,26,320,"WHITE, AARON",P006505   ,Two Pointer (3/4 -  7 pt),2FGM,48.0,54.0,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,22,04:54,26,321,"MICIC, VASILIJE",P002580   ,Assist (5),AS,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,45,04:41,26,322,"MOERMAN, ADRIEN",P001833   ,Missed Three Pointer (0/3 -  2 pt),3FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,9,04:36,26,323,"HANGA, ADAM",P005099   ,Off Rebound (1),O,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,9,04:36,26,324,"HANGA, ADAM",P005099   ,Turnover (2),TO,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+          ,,,04:36,26,325,,          ,TV Time Out (2),TOUT_TV,,,,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,1,04:36,26,326,"SERAPHIN, KEVIN",P001948   ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,8,04:36,26,327,"PRESSEY, PHIL",P007997   ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,13,04:36,26,328,"HEURTEL, THOMAS",PKLT      ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,18,04:36,26,329,"ORIOLA, PIERRE",P005917   ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,3,04:26,26,330,"PANGOS, KEVIN",P006433   ,Two Pointer (3/4 -  16 pt),2FGM,48.0,56.0,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,22,04:13,26,331,"MICIC, VASILIJE",P002580   ,Out,OUT,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,92,04:13,26,332,"ULANOVAS, EDGARAS",P002329   ,In,IN,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,45,03:59,27,334,"MOERMAN, ADRIEN",P001833   ,Two Pointer (2/3 -  4 pt),2FGM,50.0,56.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,25,03:57,27,335,"KOPONEN, PETTERI",P004178   ,Assist (6),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,92,03:38,27,336,"ULANOVAS, EDGARAS",P002329   ,Foul Drawn (1),RV,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,18,03:38,27,337,"ORIOLA, PIERRE",P005917   ,Foul (2),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,13,03:38,27,338,"JANKUNAS, PAULIUS",PBWI      ,In,IN,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,30,03:38,27,339,"WHITE, AARON",P006505   ,Out,OUT,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,92,03:38,27,340,"ULANOVAS, EDGARAS",P002329   ,Free Throw In (1/1 -  3 pt),FTM,50.0,57.0,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,92,03:38,27,341,"ULANOVAS, EDGARAS",P002329   ,Missed Free Throw (1/2 -  3 pt),FTA,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,9,03:36,27,342,"HANGA, ADAM",P005099   ,Def Rebound (4),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,8,03:17,27,343,"PRESSEY, PHIL",P007997   ,Missed Two Pointer (0/3 -  0 pt),2FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,18,03:17,27,344,"ORIOLA, PIERRE",P005917   ,Foul Drawn (2),RV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,3,03:17,27,345,"PANGOS, KEVIN",P006433   ,Foul (2),CM,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,6,03:17,27,346,"TOUPANE, AXEL",P002582   ,In,IN,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,21,03:17,27,347,"MILAKNIS, ARTURAS",PKPD      ,Out,OUT,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,25,03:06,27,348,"KOPONEN, PETTERI",P004178   ,Two Pointer (2/3 -  11 pt),2FGM,52.0,57.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,6,02:52,28,350,"TOUPANE, AXEL",P002582   ,Foul Drawn (3),RV,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,45,02:52,28,351,"MOERMAN, ADRIEN",P001833   ,Foul (3),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,6,02:52,28,352,"TOUPANE, AXEL",P002582   ,Missed Free Throw (1/4 -  5 pt),FTA,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,6,02:52,28,353,"TOUPANE, AXEL",P002582   ,Missed Free Throw (1/5 -  5 pt),FTA,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,9,02:52,28,354,"HANGA, ADAM",P005099   ,Def Rebound (5),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,9,02:52,28,355,"HANGA, ADAM",P005099   ,Turnover (3),TO,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,92,02:36,28,356,"ULANOVAS, EDGARAS",P002329   ,Missed Three Pointer (0/1 -  3 pt),3FGA,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,45,02:34,28,357,"MOERMAN, ADRIEN",P001833   ,Foul Drawn (3),RV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,13,02:34,28,358,"JANKUNAS, PAULIUS",PBWI      ,Foul (2),CM,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,13,02:34,28,359,"JANKUNAS, PAULIUS",PBWI      ,Out,OUT,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,21,02:34,28,360,"MILAKNIS, ARTURAS",PKPD      ,In,IN,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,25,02:21,28,361,"KOPONEN, PETTERI",P004178   ,Foul Drawn (2),RV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,6,02:21,28,362,"TOUPANE, AXEL",P002582   ,Foul (1),CM,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,6,02:21,28,363,"TOUPANE, AXEL",P002582   ,Out,OUT,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,22,02:21,28,364,"MICIC, VASILIJE",P002580   ,In,IN,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,25,02:21,28,365,"KOPONEN, PETTERI",P004178   ,Free Throw In (2/2 -  12 pt),FTM,53.0,57.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,25,02:21,28,366,"KOPONEN, PETTERI",P004178   ,Free Throw In (3/3 -  13 pt),FTM,54.0,57.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,22,01:55,29,368,"MICIC, VASILIJE",P002580   ,Missed Two Pointer (6/8 -  13 pt),2FGA,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,22,01:55,29,369,"MICIC, VASILIJE",P002580   ,Shot Rejected (1),AG,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,18,01:52,29,370,"ORIOLA, PIERRE",P005917   ,Block (1),FV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,18,01:51,29,371,"ORIOLA, PIERRE",P005917   ,Def Rebound (1),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,45,01:42,29,372,"MOERMAN, ADRIEN",P001833   ,Missed Three Pointer (0/4 -  4 pt),3FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,92,01:40,29,373,"ULANOVAS, EDGARAS",P002329   ,Def Rebound (2),D,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,22,01:24,29,374,"MICIC, VASILIJE",P002580   ,Three Pointer (1/1 -  16 pt),3FGM,54.0,60.0,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,8,01:03,29,375,"PRESSEY, PHIL",P007997   ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,21,01:01,29,376,"MILAKNIS, ARTURAS",PKPD      ,Def Rebound (3),D,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,92,00:44,30,378,"ULANOVAS, EDGARAS",P002329   ,Turnover (1),TO,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,25,00:43,30,379,"KOPONEN, PETTERI",P004178   ,Steal (2),ST,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,8,00:40,30,380,"PRESSEY, PHIL",P007997   ,Missed Two Pointer (0/4 -  0 pt),2FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,21,00:39,30,381,"MILAKNIS, ARTURAS",PKPD      ,Def Rebound (4),D,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,0,00:29,30,382,"DAVIES, BRANDON",P007870   ,Foul Drawn (1),RV,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,18,00:29,30,383,"ORIOLA, PIERRE",P005917   ,Foul (3),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,3,00:29,30,384,"PANGOS, KEVIN",P006433   ,Out,OUT,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,66,00:29,30,385,"VALINSKAS, PAULIUS",P004664   ,In,IN,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,0,00:29,30,386,"DAVIES, BRANDON",P007870   ,Free Throw In (1/1 -  3 pt),FTM,54.0,61.0,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,0,00:29,30,387,"DAVIES, BRANDON",P007870   ,Free Throw In (2/2 -  4 pt),FTM,54.0,62.0,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,5,00:29,30,388,"RIBAS, PAU",PJUG      ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,9,00:29,30,389,"HANGA, ADAM",P005099   ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,8,00:12,30,390,"PRESSEY, PHIL",P007997   ,Turnover (2),TO,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,0,00:11,30,391,"DAVIES, BRANDON",P007870   ,Steal (2),ST,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,66,00:00,30,392,"VALINSKAS, PAULIUS",P004664   ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+          ,,,,31,394,,          ,End Period,EP,,,,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+          ,,,,31,405,,          ,Begin Period,BP,,,,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,1,10:00,31,395,"SERAPHIN, KEVIN",P001948   ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,8,10:00,31,396,"PRESSEY, PHIL",P007997   ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,13,10:00,31,397,"HEURTEL, THOMAS",PKLT      ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,45,10:00,31,398,"MOERMAN, ADRIEN",P001833   ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,0,10:00,31,399,"DAVIES, BRANDON",P007870   ,Out,OUT,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,3,10:00,31,400,"PANGOS, KEVIN",P006433   ,In,IN,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,13,10:00,31,401,"JANKUNAS, PAULIUS",PBWI      ,In,IN,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,22,10:00,31,402,"MICIC, VASILIJE",P002580   ,Out,OUT,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,30,10:00,31,403,"WHITE, AARON",P006505   ,In,IN,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,92,10:00,31,404,"ULANOVAS, EDGARAS",P002329   ,Out,OUT,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,3,09:36,31,406,"PANGOS, KEVIN",P006433   ,Missed Two Pointer (3/5 -  16 pt),2FGA,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,13,09:34,31,407,"HEURTEL, THOMAS",PKLT      ,Def Rebound (4),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,5,09:13,31,408,"RIBAS, PAU",PJUG      ,Three Pointer (1/2 -  3 pt),3FGM,57.0,62.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,21,08:58,32,410,"MILAKNIS, ARTURAS",PKPD      ,Missed Three Pointer (1/4 -  5 pt),3FGA,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,18,08:56,32,411,"ORIOLA, PIERRE",P005917   ,Def Rebound (2),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,5,08:46,32,412,"RIBAS, PAU",PJUG      ,Missed Three Pointer (1/3 -  3 pt),3FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,13,08:43,32,413,"JANKUNAS, PAULIUS",PBWI      ,Def Rebound (4),D,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,30,08:27,32,414,"WHITE, AARON",P006505   ,Two Pointer (4/5 -  9 pt),2FGM,57.0,64.0,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,13,08:25,32,415,"JANKUNAS, PAULIUS",PBWI      ,Assist (2),AS,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,1,08:03,32,416,"SERAPHIN, KEVIN",P001948   ,Foul Drawn (3),RV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,30,08:03,32,417,"WHITE, AARON",P006505   ,Foul (2),CM,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,21,08:03,32,418,"MILAKNIS, ARTURAS",PKPD      ,Out,OUT,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,92,08:03,32,419,"ULANOVAS, EDGARAS",P002329   ,In,IN,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,13,07:48,33,421,"HEURTEL, THOMAS",PKLT      ,Shot Rejected (1),AG,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,30,07:48,33,422,"WHITE, AARON",P006505   ,Def Rebound (3),D,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,66,07:48,33,444,"VALINSKAS, PAULIUS",P004664   ,Block (1),FV,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,30,07:48,33,423,"WHITE, AARON",P006505   ,Foul Drawn (2),RV,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,1,07:48,33,424,"SERAPHIN, KEVIN",P001948   ,Foul (2),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,92,07:23,33,425,"ULANOVAS, EDGARAS",P002329   ,Two Pointer (2/2 -  5 pt),2FGM,57.0,66.0,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,18,07:04,33,426,"ORIOLA, PIERRE",P005917   ,Three Pointer (1/2 -  6 pt),3FGM,60.0,66.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,13,07:02,33,427,"HEURTEL, THOMAS",PKLT      ,Assist (3),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,92,06:49,34,429,"ULANOVAS, EDGARAS",P002329   ,Foul Drawn (2),RV,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,25,06:49,34,430,"KOPONEN, PETTERI",P004178   ,Foul (2),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,9,06:49,34,431,"HANGA, ADAM",P005099   ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,25,06:49,34,432,"KOPONEN, PETTERI",P004178   ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,3,06:49,34,433,"PANGOS, KEVIN",P006433   ,Out,OUT,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,22,06:49,34,434,"MICIC, VASILIJE",P002580   ,In,IN,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,5,06:41,34,435,"RIBAS, PAU",PJUG      ,Foul (2),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,22,06:41,34,436,"MICIC, VASILIJE",P002580   ,Foul Drawn (3),RV,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,22,06:32,34,437,"MICIC, VASILIJE",P002580   ,Two Pointer (7/9 -  18 pt),2FGM,60.0,68.0,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,13,06:15,34,438,"HEURTEL, THOMAS",PKLT      ,Turnover (2),TO,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,30,06:13,34,439,"WHITE, AARON",P006505   ,Steal (1),ST,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,22,06:11,34,440,"MICIC, VASILIJE",P002580   ,Missed Two Pointer (7/10 -  18 pt),2FGA,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,30,06:11,34,441,"WHITE, AARON",P006505   ,Off Rebound (2),O,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,30,06:11,34,442,"WHITE, AARON",P006505   ,Two Pointer (5/6 -  11 pt),2FGM,60.0,70.0,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,,06:11,34,443,,          ,Time Out (1),TOUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,18,06:11,34,445,"ORIOLA, PIERRE",P005917   ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,45,06:11,34,446,"MOERMAN, ADRIEN",P001833   ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,21,06:11,34,447,"MILAKNIS, ARTURAS",PKPD      ,In,IN,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,30,06:11,34,448,"WHITE, AARON",P006505   ,Out,OUT,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,9,05:52,35,450,"HANGA, ADAM",P005099   ,Two Pointer (4/6 -  16 pt),2FGM,62.0,70.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,5,05:42,35,451,"RIBAS, PAU",PJUG      ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,22,05:42,35,452,"MICIC, VASILIJE",P002580   ,Offensive Foul (2),OF,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,22,05:42,35,453,"MICIC, VASILIJE",P002580   ,Turnover (3),TO,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,45,05:26,35,454,"MOERMAN, ADRIEN",P001833   ,Missed Three Pointer (0/5 -  4 pt),3FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,66,05:24,35,455,"VALINSKAS, PAULIUS",P004664   ,Def Rebound (2),D,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,92,05:09,35,456,"ULANOVAS, EDGARAS",P002329   ,Missed Two Pointer (2/3 -  5 pt),2FGA,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,45,05:07,35,457,"MOERMAN, ADRIEN",P001833   ,Def Rebound (5),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,1,04:45,36,459,"SERAPHIN, KEVIN",P001948   ,Missed Two Pointer (5/7 -  13 pt),2FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,9,04:43,36,460,"HANGA, ADAM",P005099   ,Off Rebound (2),O,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,9,04:43,36,461,"HANGA, ADAM",P005099   ,Foul Drawn (3),RV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,92,04:43,36,462,"ULANOVAS, EDGARAS",P002329   ,Foul (2),CM,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,,04:43,36,463,,          ,Time Out (1),TOUT,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,3,04:43,36,464,"PANGOS, KEVIN",P006433   ,In,IN,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,30,04:43,36,465,"WHITE, AARON",P006505   ,In,IN,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,66,04:43,36,466,"VALINSKAS, PAULIUS",P004664   ,Out,OUT,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,92,04:43,36,467,"ULANOVAS, EDGARAS",P002329   ,Out,OUT,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,9,04:43,36,468,"HANGA, ADAM",P005099   ,Missed Free Throw (2/3 -  16 pt),FTA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,9,04:43,36,469,"HANGA, ADAM",P005099   ,Free Throw In (3/4 -  17 pt),FTM,63.0,70.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,22,04:30,36,470,"MICIC, VASILIJE",P002580   ,Foul Drawn (4),RV,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,9,04:30,36,471,"HANGA, ADAM",P005099   ,Foul (3),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,3,04:20,36,472,"PANGOS, KEVIN",P006433   ,Missed Three Pointer (3/5 -  16 pt),3FGA,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,13,04:18,36,473,"JANKUNAS, PAULIUS",PBWI      ,Off Rebound (2),O,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,13,04:08,36,474,"JANKUNAS, PAULIUS",PBWI      ,Two Pointer (2/5 -  4 pt),2FGM,63.0,72.0,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,22,04:05,36,475,"MICIC, VASILIJE",P002580   ,Assist (6),AS,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,1,03:46,37,477,"SERAPHIN, KEVIN",P001948   ,Foul Drawn (4),RV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,21,03:46,37,478,"MILAKNIS, ARTURAS",PKPD      ,Foul (2),CM,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,1,03:46,37,479,"SERAPHIN, KEVIN",P001948   ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,18,03:46,37,480,"ORIOLA, PIERRE",P005917   ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,45,03:35,37,481,"MOERMAN, ADRIEN",P001833   ,Two Pointer (3/4 -  6 pt),2FGM,65.0,72.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,9,03:33,37,482,"HANGA, ADAM",P005099   ,Assist (2),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,30,03:11,37,483,"WHITE, AARON",P006505   ,Two Pointer (6/7 -  13 pt),2FGM,65.0,74.0,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,22,03:08,37,484,"MICIC, VASILIJE",P002580   ,Assist (7),AS,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,9,02:51,38,486,"HANGA, ADAM",P005099   ,Missed Three Pointer (2/5 -  17 pt),3FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,,02:49,38,487,,          ,Off Rebound (2),O,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,0,02:49,38,488,"DAVIES, BRANDON",P007870   ,In,IN,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,13,02:49,38,489,"JANKUNAS, PAULIUS",PBWI      ,Out,OUT,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,13,02:46,38,490,"HEURTEL, THOMAS",PKLT      ,Two Pointer (3/4 -  6 pt),2FGM,67.0,74.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,0,02:23,38,491,"DAVIES, BRANDON",P007870   ,Foul Drawn (2),RV,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,18,02:23,38,492,"ORIOLA, PIERRE",P005917   ,Foul (4),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,22,02:23,38,493,"MICIC, VASILIJE",P002580   ,Assist (8),AS,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,0,02:23,38,494,"DAVIES, BRANDON",P007870   ,Free Throw In (3/3 -  5 pt),FTM,67.0,75.0,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,0,02:23,38,495,"DAVIES, BRANDON",P007870   ,Free Throw In (4/4 -  6 pt),FTM,67.0,76.0,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,21,02:23,38,496,"MILAKNIS, ARTURAS",PKPD      ,Out,OUT,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,92,02:23,38,497,"ULANOVAS, EDGARAS",P002329   ,In,IN,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,45,02:11,38,498,"MOERMAN, ADRIEN",P001833   ,Turnover (1),TO,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,,02:11,38,499,,          ,Time Out (2),TOUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,5,02:11,38,500,"RIBAS, PAU",PJUG      ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,25,02:11,38,501,"KOPONEN, PETTERI",P004178   ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,0,02:11,38,502,"DAVIES, BRANDON",P007870   ,Out,OUT,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,13,02:11,38,503,"JANKUNAS, PAULIUS",PBWI      ,In,IN,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,92,01:45,39,505,"ULANOVAS, EDGARAS",P002329   ,Missed Two Pointer (2/4 -  5 pt),2FGA,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,9,01:42,39,506,"HANGA, ADAM",P005099   ,Def Rebound (6),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,18,01:36,39,507,"ORIOLA, PIERRE",P005917   ,Two Pointer (2/2 -  8 pt),2FGM,69.0,76.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,13,01:36,39,508,"HEURTEL, THOMAS",PKLT      ,Assist (4),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,,01:36,39,509,,          ,Time Out (2),TOUT,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,22,01:21,39,510,"MICIC, VASILIJE",P002580   ,Two Pointer (8/11 -  20 pt),2FGM,69.0,78.0,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,13,01:14,39,511,"HEURTEL, THOMAS",PKLT      ,Missed Two Pointer (3/5 -  6 pt),2FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,92,01:12,39,512,"ULANOVAS, EDGARAS",P002329   ,Def Rebound (3),D,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,22,00:53,40,514,"MICIC, VASILIJE",P002580   ,Missed Three Pointer (1/2 -  20 pt),3FGA,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,13,00:51,40,515,"JANKUNAS, PAULIUS",PBWI      ,Off Rebound (3),O,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,30,00:39,40,516,"WHITE, AARON",P006505   ,Turnover (2),TO,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,,00:39,40,517,,          ,Time Out (3),TOUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,0,00:39,40,518,"DAVIES, BRANDON",P007870   ,In,IN,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,3,00:39,40,519,"PANGOS, KEVIN",P006433   ,Out,OUT,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,6,00:39,40,520,"TOUPANE, AXEL",P002582   ,In,IN,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,13,00:39,40,521,"JANKUNAS, PAULIUS",PBWI      ,Out,OUT,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,13,00:28,40,522,"HEURTEL, THOMAS",PKLT      ,Missed Two Pointer (3/6 -  6 pt),2FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,13,00:28,40,523,"HEURTEL, THOMAS",PKLT      ,Shot Rejected (2),AG,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,92,00:28,40,524,"ULANOVAS, EDGARAS",P002329   ,Block (1),FV,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,18,00:28,40,525,"ORIOLA, PIERRE",P005917   ,Off Rebound (1),O,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,18,00:28,40,526,"ORIOLA, PIERRE",P005917   ,Two Pointer (3/3 -  10 pt),2FGM,71.0,78.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,,00:28,40,527,,          ,Time Out (3),TOUT,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,5,00:28,40,528,"RIBAS, PAU",PJUG      ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,13,00:28,40,529,"HEURTEL, THOMAS",PKLT      ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,0,00:28,40,530,"DAVIES, BRANDON",P007870   ,Out,OUT,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,3,00:28,40,531,"PANGOS, KEVIN",P006433   ,In,IN,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,6,00:28,40,532,"TOUPANE, AXEL",P002582   ,Out,OUT,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,13,00:28,40,533,"JANKUNAS, PAULIUS",PBWI      ,In,IN,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,92,00:27,40,534,"ULANOVAS, EDGARAS",P002329   ,Foul Drawn (3),RV,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,45,00:27,40,535,"MOERMAN, ADRIEN",P001833   ,Foul (4),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,0,00:27,40,536,"DAVIES, BRANDON",P007870   ,In,IN,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,3,00:27,40,537,"PANGOS, KEVIN",P006433   ,Out,OUT,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,6,00:27,40,538,"TOUPANE, AXEL",P002582   ,In,IN,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,13,00:27,40,539,"JANKUNAS, PAULIUS",PBWI      ,Out,OUT,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,92,00:27,40,540,"ULANOVAS, EDGARAS",P002329   ,Free Throw In (2/3 -  6 pt),FTM,71.0,79.0,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,92,00:27,40,541,"ULANOVAS, EDGARAS",P002329   ,Missed Free Throw (2/4 -  6 pt),FTA,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,,00:26,40,542,,          ,Def Rebound (3),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,45,00:17,40,543,"MOERMAN, ADRIEN",P001833   ,Missed Two Pointer (3/5 -  6 pt),2FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,45,00:17,40,544,"MOERMAN, ADRIEN",P001833   ,Shot Rejected (1),AG,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,30,00:16,40,545,"WHITE, AARON",P006505   ,Block (1),FV,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,9,00:16,40,546,"HANGA, ADAM",P005099   ,Off Rebound (3),O,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,45,00:16,40,547,"MOERMAN, ADRIEN",P001833   ,Missed Three Pointer (0/6 -  6 pt),3FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,9,00:16,40,548,"HANGA, ADAM",P005099   ,Off Rebound (4),O,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,9,00:16,40,549,"HANGA, ADAM",P005099   ,Two Pointer (5/7 -  19 pt),2FGM,73.0,79.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,0,00:10,40,550,"DAVIES, BRANDON",P007870   ,Foul Drawn (3),RV,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,45,00:10,40,551,"MOERMAN, ADRIEN",P001833   ,Foul (5),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,13,00:10,40,552,"HEURTEL, THOMAS",PKLT      ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,45,00:10,40,553,"MOERMAN, ADRIEN",P001833   ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,0,00:10,40,554,"DAVIES, BRANDON",P007870   ,Free Throw In (5/5 -  7 pt),FTM,73.0,80.0,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,0,00:10,40,555,"DAVIES, BRANDON",P007870   ,Free Throw In (6/6 -  8 pt),FTM,73.0,81.0,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+ZAL       ,,30,00:10,40,556,"WHITE, AARON",P006505   ,Assist (1),AS,,,Zalgiris Kaunas,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+BAR       ,,13,00:00,40,557,"HEURTEL, THOMAS",PKLT      ,Two Pointer (4/7 -  8 pt),2FGM,75.0,81.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL
+          ,,,,41,560,,          ,End Game,EG,,,,0,FC Barcelona Lassa,BAR,Zalgiris Kaunas,ZAL

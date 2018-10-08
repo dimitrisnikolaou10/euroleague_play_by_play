@@ -1,462 +1,462 @@
-CODETEAM,COMMENT,DORSAL,MARKERTIME,MINUTE,NUMBEROFPLAY,PLAYER,PLAYER_ID,PLAYINFO,PLAYTYPE,POINTS_A,POINTS_B,TEAM,TYPE
-          ,,,,1,2,,          ,Begin Period,BP,,,,0
-MAD       ,,11,09:59,1,3,"CAMPAZZO, FACUNDO",P005928   ,Two Pointer (1/1 -  2 pt),2FGM,,2.0,Real Madrid,0
-BAM       ,,3,09:17,1,4,"WRIGHT, DORELL",P008049   ,Three Pointer (1/1 -  3 pt),3FGM,3.0,2.0,Brose Bamberg,0
-BAM       ,,12,09:15,1,5,"LO, MAODO",P007032   ,Assist (1),AS,,,Brose Bamberg,0
-MAD       ,,11,08:49,2,7,"CAMPAZZO, FACUNDO",P005928   ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,Real Madrid,0
-MAD       ,,22,08:46,2,8,"TAVARES, WALTER",P005791   ,Off Rebound (1),O,,,Real Madrid,0
-MAD       ,,22,08:43,2,9,"TAVARES, WALTER",P005791   ,Two Pointer (1/1 -  2 pt),2FGM,3.0,4.0,Real Madrid,0
-MAD       ,,11,08:28,2,10,"CAMPAZZO, FACUNDO",P005928   ,Foul (1),CM,,,Real Madrid,0
-BAM       ,,43,08:28,2,11,"RADOSEVIC, LEON",PLEM      ,Foul Drawn (1),RV,,,Brose Bamberg,0
-BAM       ,,43,08:23,2,12,"RADOSEVIC, LEON",PLEM      ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Brose Bamberg,0
-MAD       ,,1,08:21,2,13,"CAUSEUR, FABIEN",P001392   ,Def Rebound (1),D,,,Real Madrid,0
-MAD       ,,22,08:14,2,14,"TAVARES, WALTER",P005791   ,Turnover (1),TO,,,Real Madrid,0
-BAM       ,,3,08:14,2,15,"WRIGHT, DORELL",P008049   ,Missed Three Pointer (1/2 -  3 pt),3FGA,,,Brose Bamberg,0
-MAD       ,,11,08:14,2,16,"CAMPAZZO, FACUNDO",P005928   ,Def Rebound (1),D,,,Real Madrid,0
-MAD       ,,33,07:46,3,18,"THOMPKINS, TREY",P005836   ,Three Pointer (1/1 -  3 pt),3FGM,3.0,7.0,Real Madrid,0
-MAD       ,,11,07:46,3,19,"CAMPAZZO, FACUNDO",P005928   ,Assist (1),AS,,,Real Madrid,0
-BAM       ,,3,07:24,3,20,"WRIGHT, DORELL",P008049   ,Missed Two Pointer (0/1 -  3 pt),2FGA,,,Brose Bamberg,0
-MAD       ,,22,07:22,3,21,"TAVARES, WALTER",P005791   ,Def Rebound (1),D,,,Real Madrid,0
-MAD       ,,33,07:19,3,22,"THOMPKINS, TREY",P005836   ,Two Pointer (1/1 -  5 pt),2FGM,3.0,9.0,Real Madrid,0
-MAD       ,,11,07:19,3,54,"CAMPAZZO, FACUNDO",P005928   ,Assist (2),AS,,,Real Madrid,0
-BAM       ,,6,06:48,4,24,"ZISIS, NIKOS",PABN      ,Turnover (1),TO,,,Brose Bamberg,0
-MAD       ,,1,06:22,4,25,"CAUSEUR, FABIEN",P001392   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Real Madrid,0
-BAM       ,,33,06:20,4,26,"HECKMANN, PATRICK",P006420   ,Def Rebound (1),D,,,Brose Bamberg,0
-BAM       ,,12,06:07,4,27,"LO, MAODO",P007032   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Brose Bamberg,0
-MAD       ,,33,06:04,4,28,"THOMPKINS, TREY",P005836   ,Def Rebound (1),D,,,Real Madrid,0
-MAD       ,,33,05:55,5,30,"THOMPKINS, TREY",P005836   ,Three Pointer (2/2 -  8 pt),3FGM,3.0,12.0,Real Madrid,0
-MAD       ,,11,05:48,5,31,"CAMPAZZO, FACUNDO",P005928   ,Assist (3),AS,,,Real Madrid,0
-BAM       ,,43,05:35,5,32,"RADOSEVIC, LEON",PLEM      ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Brose Bamberg,0
-MAD       ,,11,05:32,5,33,"CAMPAZZO, FACUNDO",P005928   ,Def Rebound (2),D,,,Real Madrid,0
-BAM       ,,12,05:29,5,34,"LO, MAODO",P007032   ,Foul (1),CM,,,Brose Bamberg,0
-MAD       ,,11,05:29,5,35,"CAMPAZZO, FACUNDO",P005928   ,Foul Drawn (1),RV,,,Real Madrid,0
-BAM       ,,12,05:29,5,36,"LO, MAODO",P007032   ,Foul (2),CM,,,Brose Bamberg,0
-MAD       ,,33,05:29,5,37,"THOMPKINS, TREY",P005836   ,Foul Drawn (1),RV,,,Real Madrid,0
-BAM       ,,2,05:23,5,38,"HICKMAN, RICKY",P004159   ,In,IN,,,Brose Bamberg,0
-BAM       ,,12,05:23,5,39,"LO, MAODO",P007032   ,Out,OUT,,,Brose Bamberg,0
-BAM       ,,21,05:23,5,40,"RUBIT, AUGUSTINE",P006477   ,In,IN,,,Brose Bamberg,0
-BAM       ,,43,05:23,5,41,"RADOSEVIC, LEON",PLEM      ,Out,OUT,,,Brose Bamberg,0
-MAD       ,,33,05:23,5,42,"THOMPKINS, TREY",P005836   ,Free Throw In (1/1 -  9 pt),FTM,3.0,13.0,Real Madrid,0
-MAD       ,,33,05:23,5,43,"THOMPKINS, TREY",P005836   ,Free Throw In (2/2 -  10 pt),FTM,3.0,14.0,Real Madrid,0
-BAM       ,,33,05:08,5,44,"HECKMANN, PATRICK",P006420   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Brose Bamberg,0
-MAD       ,,22,05:06,5,45,"TAVARES, WALTER",P005791   ,Def Rebound (2),D,,,Real Madrid,0
-MAD       ,,11,05:00,5,46,"CAMPAZZO, FACUNDO",P005928   ,Missed Three Pointer (0/2 -  2 pt),3FGA,,,Real Madrid,0
-BAM       ,,3,04:57,6,48,"WRIGHT, DORELL",P008049   ,Def Rebound (1),D,,,Brose Bamberg,0
-BAM       ,,6,04:42,6,49,"ZISIS, NIKOS",PABN      ,Two Pointer (1/1 -  2 pt),2FGM,5.0,14.0,Brose Bamberg,0
-MAD       ,,1,04:25,6,51,"CAUSEUR, FABIEN",P001392   ,Three Pointer (1/2 -  3 pt),3FGM,5.0,17.0,Real Madrid,0
-MAD       ,,16,04:25,6,52,"YUSTA, SANTI",P005368   ,Assist (1),AS,,,Real Madrid,0
-BAM       ,,,04:25,6,53,,          ,Time Out (1),TOUT,,,Brose Bamberg,0
-MAD       ,,11,04:13,6,55,"CAMPAZZO, FACUNDO",P005928   ,Foul (2),CM,,,Real Madrid,0
-BAM       ,,6,04:13,6,56,"ZISIS, NIKOS",PABN      ,Foul Drawn (1),RV,,,Brose Bamberg,0
-BAM       ,,0,04:13,6,57,"HACKETT, DANIEL",P001844   ,In,IN,,,Brose Bamberg,0
-BAM       ,,6,04:13,6,58,"ZISIS, NIKOS",PABN      ,Out,OUT,,,Brose Bamberg,0
-BAM       ,,8,04:13,6,59,"STAIGER, LUCCA",P002506   ,In,IN,,,Brose Bamberg,0
-BAM       ,,33,04:13,6,60,"HECKMANN, PATRICK",P006420   ,Out,OUT,,,Brose Bamberg,0
-MAD       ,,7,04:13,6,61,"DONCIC, LUKA",P005929   ,In,IN,,,Real Madrid,0
-MAD       ,,11,04:13,6,62,"CAMPAZZO, FACUNDO",P005928   ,Out,OUT,,,Real Madrid,0
-BAM       ,,2,04:02,6,63,"HICKMAN, RICKY",P004159   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Brose Bamberg,0
-MAD       ,,7,04:00,6,64,"DONCIC, LUKA",P005929   ,Def Rebound (1),D,,,Real Madrid,0
-MAD       ,,33,03:49,7,66,"THOMPKINS, TREY",P005836   ,Missed Two Pointer (1/2 -  10 pt),2FGA,,,Real Madrid,0
-BAM       ,,,03:49,7,67,,          ,Def Rebound (1),D,,,Brose Bamberg,0
-MAD       ,,22,03:49,7,68,"TAVARES, WALTER",P005791   ,Foul (1),CM,,,Real Madrid,0
-BAM       ,,21,03:49,7,69,"RUBIT, AUGUSTINE",P006477   ,Foul Drawn (1),RV,,,Brose Bamberg,0
-BAM       ,,2,03:26,7,70,"HICKMAN, RICKY",P004159   ,Two Pointer (1/1 -  2 pt),2FGM,7.0,17.0,Brose Bamberg,0
-MAD       ,,7,03:14,7,71,"DONCIC, LUKA",P005929   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Real Madrid,0
-BAM       ,,3,03:14,7,72,"WRIGHT, DORELL",P008049   ,Def Rebound (2),D,,,Brose Bamberg,0
-BAM       ,,3,02:54,8,74,"WRIGHT, DORELL",P008049   ,Turnover (1),TO,,,Brose Bamberg,0
-MAD       ,,7,02:53,8,75,"DONCIC, LUKA",P005929   ,Steal (1),ST,,,Real Madrid,0
-BAM       ,,21,02:48,8,76,"RUBIT, AUGUSTINE",P006477   ,Foul (1),CM,,,Brose Bamberg,0
-MAD       ,,16,02:48,8,77,"YUSTA, SANTI",P005368   ,Foul Drawn (1),RV,,,Real Madrid,0
-MAD       ,,16,02:48,8,78,"YUSTA, SANTI",P005368   ,Free Throw In (1/1 -  1 pt),FTM,7.0,18.0,Real Madrid,0
-MAD       ,,7,02:48,8,112,"DONCIC, LUKA",P005929   ,Assist (1),AS,,,Real Madrid,0
-MAD       ,,16,02:48,8,79,"YUSTA, SANTI",P005368   ,Free Throw In (2/2 -  2 pt),FTM,7.0,19.0,Real Madrid,0
-BAM       ,,0,02:30,8,80,"HACKETT, DANIEL",P001844   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Brose Bamberg,0
-MAD       ,,1,02:28,8,81,"CAUSEUR, FABIEN",P001392   ,Def Rebound (2),D,,,Real Madrid,0
-MAD       ,,1,02:21,8,82,"CAUSEUR, FABIEN",P001392   ,Three Pointer (2/3 -  6 pt),3FGM,7.0,22.0,Real Madrid,0
-MAD       ,,7,02:19,8,83,"DONCIC, LUKA",P005929   ,Assist (2),AS,,,Real Madrid,0
-BAM       ,,8,01:57,9,85,"STAIGER, LUCCA",P002506   ,Three Pointer (1/1 -  3 pt),3FGM,10.0,22.0,Brose Bamberg,0
-BAM       ,,3,01:55,9,86,"WRIGHT, DORELL",P008049   ,Assist (1),AS,,,Brose Bamberg,0
-BAM       ,,8,01:45,9,87,"STAIGER, LUCCA",P002506   ,Foul (1),CM,,,Brose Bamberg,0
-MAD       ,,16,01:45,9,88,"YUSTA, SANTI",P005368   ,Foul Drawn (2),RV,,,Real Madrid,0
-BAM       ,,0,01:33,9,89,"HACKETT, DANIEL",P001844   ,Foul (1),CM,,,Brose Bamberg,0
-MAD       ,,7,01:33,9,90,"DONCIC, LUKA",P005929   ,Foul Drawn (1),RV,,,Real Madrid,0
-MAD       ,,7,01:33,9,91,"DONCIC, LUKA",P005929   ,Free Throw In (1/1 -  1 pt),FTM,10.0,23.0,Real Madrid,0
-MAD       ,,7,01:33,9,92,"DONCIC, LUKA",P005929   ,Free Throw In (2/2 -  2 pt),FTM,10.0,24.0,Real Madrid,0
-BAM       ,,3,01:33,9,93,"WRIGHT, DORELL",P008049   ,Out,OUT,,,Brose Bamberg,0
-BAM       ,,43,01:33,9,94,"RADOSEVIC, LEON",PLEM      ,In,IN,,,Brose Bamberg,0
-BAM       ,,8,01:18,9,95,"STAIGER, LUCCA",P002506   ,Three Pointer (2/2 -  6 pt),3FGM,13.0,24.0,Brose Bamberg,0
-BAM       ,,2,01:15,9,96,"HICKMAN, RICKY",P004159   ,Assist (1),AS,,,Brose Bamberg,0
-MAD       ,,7,01:05,9,97,"DONCIC, LUKA",P005929   ,Three Pointer (1/2 -  5 pt),3FGM,13.0,27.0,Real Madrid,0
-BAM       ,,21,00:46,10,99,"RUBIT, AUGUSTINE",P006477   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Brose Bamberg,0
-MAD       ,,33,00:44,10,100,"THOMPKINS, TREY",P005836   ,Def Rebound (2),D,,,Real Madrid,0
-MAD       ,,7,00:39,10,101,"DONCIC, LUKA",P005929   ,Missed Three Pointer (1/3 -  5 pt),3FGA,,,Real Madrid,0
-MAD       ,,16,00:37,10,102,"YUSTA, SANTI",P005368   ,Off Rebound (1),O,,,Real Madrid,0
-MAD       ,,1,00:26,10,103,"CAUSEUR, FABIEN",P001392   ,Two Pointer (1/1 -  8 pt),2FGM,13.0,29.0,Real Madrid,0
-MAD       ,,1,00:09,10,104,"CAUSEUR, FABIEN",P001392   ,Foul (1),CM,,,Real Madrid,0
-BAM       ,,2,00:09,10,105,"HICKMAN, RICKY",P004159   ,Foul Drawn (1),RV,,,Brose Bamberg,0
-MAD       ,,1,00:09,10,106,"CAUSEUR, FABIEN",P001392   ,Out,OUT,,,Real Madrid,0
-MAD       ,,2,00:09,10,107,"RANDLE, CHASSON",P008038   ,In,IN,,,Real Madrid,0
-MAD       ,,16,00:09,10,108,"YUSTA, SANTI",P005368   ,Out,OUT,,,Real Madrid,0
-MAD       ,,44,00:09,10,109,"TAYLOR, JEFFERY",P006546   ,In,IN,,,Real Madrid,0
-          ,,,,11,111,,          ,End Period,EP,,,,0
-          ,,,,11,115,,          ,Begin Period,BP,,,,0
-BAM       ,,3,10:00,11,113,"WRIGHT, DORELL",P008049   ,In,IN,,,Brose Bamberg,0
-BAM       ,,43,10:00,11,114,"RADOSEVIC, LEON",PLEM      ,Out,OUT,,,Brose Bamberg,0
-BAM       ,,0,09:48,11,116,"HACKETT, DANIEL",P001844   ,Three Pointer (1/1 -  3 pt),3FGM,16.0,29.0,Brose Bamberg,0
-BAM       ,,21,09:38,11,117,"RUBIT, AUGUSTINE",P006477   ,Assist (1),AS,,,Brose Bamberg,0
-MAD       ,,7,09:34,11,118,"DONCIC, LUKA",P005929   ,Turnover (1),TO,,,Real Madrid,0
-BAM       ,,21,09:33,11,119,"RUBIT, AUGUSTINE",P006477   ,Steal (1),ST,,,Brose Bamberg,0
-BAM       ,,21,09:30,11,120,"RUBIT, AUGUSTINE",P006477   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Brose Bamberg,0
-MAD       ,,22,09:28,11,121,"TAVARES, WALTER",P005791   ,Def Rebound (3),D,,,Real Madrid,0
-MAD       ,,22,09:11,11,122,"TAVARES, WALTER",P005791   ,Two Pointer (2/2 -  4 pt),2FGM,16.0,31.0,Real Madrid,0
-MAD       ,,7,09:11,11,123,"DONCIC, LUKA",P005929   ,Assist (3),AS,,,Real Madrid,0
-BAM       ,,8,09:11,11,124,"STAIGER, LUCCA",P002506   ,Foul (2),CM,,,Brose Bamberg,0
-MAD       ,,22,09:11,11,125,"TAVARES, WALTER",P005791   ,Foul Drawn (1),RV,,,Real Madrid,0
-MAD       ,,22,09:11,11,126,"TAVARES, WALTER",P005791   ,Free Throw In (1/1 -  5 pt),FTM,16.0,32.0,Real Madrid,0
-BAM       ,,0,08:59,12,128,"HACKETT, DANIEL",P001844   ,Three Pointer (2/2 -  6 pt),3FGM,19.0,32.0,Brose Bamberg,0
-MAD       ,,7,08:46,12,129,"DONCIC, LUKA",P005929   ,Turnover (2),TO,,,Real Madrid,0
-BAM       ,,6,08:46,12,130,"ZISIS, NIKOS",PABN      ,In,IN,,,Brose Bamberg,0
-BAM       ,,8,08:46,12,131,"STAIGER, LUCCA",P002506   ,Out,OUT,,,Brose Bamberg,0
-MAD       ,,22,08:35,12,132,"TAVARES, WALTER",P005791   ,Foul (2),CM,,,Real Madrid,0
-BAM       ,,21,08:35,12,133,"RUBIT, AUGUSTINE",P006477   ,Foul Drawn (2),RV,,,Brose Bamberg,0
-MAD       ,,9,08:35,12,134,"REYES, FELIPE",PAAX      ,In,IN,,,Real Madrid,0
-MAD       ,,22,08:35,12,135,"TAVARES, WALTER",P005791   ,Out,OUT,,,Real Madrid,0
-BAM       ,,21,08:35,12,136,"RUBIT, AUGUSTINE",P006477   ,Missed Free Throw (0/1 -  0 pt),FTA,,,Brose Bamberg,0
-BAM       ,,21,08:35,12,137,"RUBIT, AUGUSTINE",P006477   ,Missed Free Throw (0/2 -  0 pt),FTA,,,Brose Bamberg,0
-MAD       ,,33,08:35,12,138,"THOMPKINS, TREY",P005836   ,Def Rebound (3),D,,,Real Madrid,0
-BAM       ,,6,08:21,12,139,"ZISIS, NIKOS",PABN      ,Foul (1),CM,,,Brose Bamberg,0
-MAD       ,,44,08:21,12,140,"TAYLOR, JEFFERY",P006546   ,Foul Drawn (1),RV,,,Real Madrid,0
-MAD       ,,44,08:21,12,141,"TAYLOR, JEFFERY",P006546   ,Free Throw In (1/1 -  1 pt),FTM,19.0,33.0,Real Madrid,0
-MAD       ,,7,08:21,12,142,"DONCIC, LUKA",P005929   ,Assist (4),AS,,,Real Madrid,0
-MAD       ,,44,08:21,12,143,"TAYLOR, JEFFERY",P006546   ,Free Throw In (2/2 -  2 pt),FTM,19.0,34.0,Real Madrid,0
-BAM       ,,0,08:05,12,144,"HACKETT, DANIEL",P001844   ,Three Pointer (3/3 -  9 pt),3FGM,22.0,34.0,Brose Bamberg,0
-BAM       ,,2,07:56,13,146,"HICKMAN, RICKY",P004159   ,Assist (2),AS,,,Brose Bamberg,0
-MAD       ,,9,07:39,13,147,"REYES, FELIPE",PAAX      ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Real Madrid,0
-MAD       ,,,07:39,13,148,,          ,Off Rebound (1),O,,,Real Madrid,0
-BAM       ,,21,07:39,13,149,"RUBIT, AUGUSTINE",P006477   ,Foul (2),CM,,,Brose Bamberg,0
-MAD       ,,7,07:39,13,150,"DONCIC, LUKA",P005929   ,Foul Drawn (2),RV,,,Real Madrid,0
-MAD       ,,8,07:39,13,151,"MACIULIS, JONAS",PJCC      ,In,IN,,,Real Madrid,0
-MAD       ,,33,07:39,13,152,"THOMPKINS, TREY",P005836   ,Out,OUT,,,Real Madrid,0
-MAD       ,,9,07:31,13,153,"REYES, FELIPE",PAAX      ,Two Pointer (1/2 -  2 pt),2FGM,22.0,36.0,Real Madrid,0
-MAD       ,,44,07:29,13,154,"TAYLOR, JEFFERY",P006546   ,Assist (1),AS,,,Real Madrid,0
-MAD       ,,44,07:14,13,155,"TAYLOR, JEFFERY",P006546   ,Foul (1),CM,,,Real Madrid,0
-BAM       ,,6,07:14,13,156,"ZISIS, NIKOS",PABN      ,Foul Drawn (2),RV,,,Brose Bamberg,0
-BAM       ,,21,07:14,13,157,"RUBIT, AUGUSTINE",P006477   ,Out,OUT,,,Brose Bamberg,0
-BAM       ,,43,07:14,13,158,"RADOSEVIC, LEON",PLEM      ,In,IN,,,Brose Bamberg,0
-MAD       ,,9,07:08,13,159,"REYES, FELIPE",PAAX      ,Foul (1),CM,,,Real Madrid,0
-BAM       ,,2,07:08,13,160,"HICKMAN, RICKY",P004159   ,Foul Drawn (2),RV,,,Brose Bamberg,0
-BAM       ,,2,07:01,13,161,"HICKMAN, RICKY",P004159   ,Two Pointer (2/2 -  4 pt),2FGM,24.0,36.0,Brose Bamberg,0
-MAD       ,,44,06:44,14,163,"TAYLOR, JEFFERY",P006546   ,Turnover (1),TO,,,Real Madrid,0
-BAM       ,,2,06:42,14,164,"HICKMAN, RICKY",P004159   ,Steal (1),ST,,,Brose Bamberg,0
-BAM       ,,0,06:38,14,165,"HACKETT, DANIEL",P001844   ,Turnover (1),TO,,,Brose Bamberg,0
-MAD       ,,44,06:37,14,166,"TAYLOR, JEFFERY",P006546   ,Steal (1),ST,,,Real Madrid,0
-BAM       ,,3,06:36,14,167,"WRIGHT, DORELL",P008049   ,Unsportsmanlike Foul  (1),CMU,,,Brose Bamberg,0
-MAD       ,,44,06:36,14,168,"TAYLOR, JEFFERY",P006546   ,Foul Drawn (2),RV,,,Real Madrid,0
-MAD       ,,2,06:36,14,169,"RANDLE, CHASSON",P008038   ,Out,OUT,,,Real Madrid,0
-MAD       ,,20,06:36,14,170,"CARROLL, JAYCEE",P001960   ,In,IN,,,Real Madrid,0
-BAM       ,,0,06:36,14,171,"HACKETT, DANIEL",P001844   ,Out,OUT,,,Brose Bamberg,0
-BAM       ,,7,06:36,14,172,"NIKOLIC, ALEKSEJ",P003703   ,In,IN,,,Brose Bamberg,0
-MAD       ,,44,06:36,14,173,"TAYLOR, JEFFERY",P006546   ,Free Throw In (3/3 -  3 pt),FTM,24.0,37.0,Real Madrid,0
-MAD       ,,44,06:36,14,174,"TAYLOR, JEFFERY",P006546   ,Free Throw In (4/4 -  4 pt),FTM,24.0,38.0,Real Madrid,0
-MAD       ,,7,06:22,14,175,"DONCIC, LUKA",P005929   ,Missed Three Pointer (1/4 -  5 pt),3FGA,,,Real Madrid,0
-BAM       ,,6,06:22,14,176,"ZISIS, NIKOS",PABN      ,Def Rebound (1),D,,,Brose Bamberg,0
-BAM       ,,2,06:02,14,177,"HICKMAN, RICKY",P004159   ,Two Pointer (3/3 -  6 pt),2FGM,26.0,38.0,Brose Bamberg,0
-MAD       ,,20,05:43,15,179,"CARROLL, JAYCEE",P001960   ,Two Pointer (1/1 -  2 pt),2FGM,26.0,40.0,Real Madrid,0
-MAD       ,,9,05:41,15,180,"REYES, FELIPE",PAAX      ,Assist (1),AS,,,Real Madrid,0
-BAM       ,,3,05:20,15,181,"WRIGHT, DORELL",P008049   ,Missed Three Pointer (1/3 -  3 pt),3FGA,,,Brose Bamberg,0
-BAM       ,,7,05:20,15,182,"NIKOLIC, ALEKSEJ",P003703   ,Off Rebound (1),O,,,Brose Bamberg,0
-BAM       ,,6,05:20,15,183,"ZISIS, NIKOS",PABN      ,Two Pointer (2/2 -  4 pt),2FGM,28.0,40.0,Brose Bamberg,0
-BAM       ,,2,05:20,15,184,"HICKMAN, RICKY",P004159   ,Assist (3),AS,,,Brose Bamberg,0
-MAD       ,,20,04:43,16,187,"CARROLL, JAYCEE",P001960   ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,Real Madrid,0
-BAM       ,,2,04:43,16,188,"HICKMAN, RICKY",P004159   ,Def Rebound (1),D,,,Brose Bamberg,0
-          ,,,04:43,16,189,,          ,TV Time Out (1),TOUT_TV,,,,0
-BAM       ,,3,04:29,16,190,"WRIGHT, DORELL",P008049   ,Missed Two Pointer (0/2 -  3 pt),2FGA,,,Brose Bamberg,0
-BAM       ,,3,04:29,16,191,"WRIGHT, DORELL",P008049   ,Shot Rejected (1),AG,,,Brose Bamberg,0
-MAD       ,,9,04:26,16,192,"REYES, FELIPE",PAAX      ,Block (1),FV,,,Real Madrid,0
-MAD       ,,9,04:23,16,193,"REYES, FELIPE",PAAX      ,Def Rebound (1),D,,,Real Madrid,0
-BAM       ,,7,04:19,16,194,"NIKOLIC, ALEKSEJ",P003703   ,Foul (1),CM,,,Brose Bamberg,0
-MAD       ,,20,04:19,16,195,"CARROLL, JAYCEE",P001960   ,Foul Drawn (1),RV,,,Real Madrid,0
-MAD       ,,20,04:19,16,196,"CARROLL, JAYCEE",P001960   ,Free Throw In (1/1 -  3 pt),FTM,28.0,41.0,Real Madrid,0
-MAD       ,,20,04:19,16,197,"CARROLL, JAYCEE",P001960   ,Free Throw In (2/2 -  4 pt),FTM,28.0,42.0,Real Madrid,0
-MAD       ,,20,04:03,16,198,"CARROLL, JAYCEE",P001960   ,Foul (1),CM,,,Real Madrid,0
-BAM       ,,43,04:03,16,199,"RADOSEVIC, LEON",PLEM      ,Foul Drawn (2),RV,,,Brose Bamberg,0
-MAD       ,,44,03:57,17,201,"TAYLOR, JEFFERY",P006546   ,Foul (2),CM,,,Real Madrid,0
-BAM       ,,6,03:57,17,202,"ZISIS, NIKOS",PABN      ,Foul Drawn (3),RV,,,Brose Bamberg,0
-MAD       ,,1,03:57,17,203,"CAUSEUR, FABIEN",P001392   ,In,IN,,,Real Madrid,0
-MAD       ,,44,03:57,17,204,"TAYLOR, JEFFERY",P006546   ,Out,OUT,,,Real Madrid,0
-BAM       ,,6,03:57,17,205,"ZISIS, NIKOS",PABN      ,Missed Free Throw (0/1 -  4 pt),FTA,,,Brose Bamberg,0
-BAM       ,,6,03:57,17,206,"ZISIS, NIKOS",PABN      ,Free Throw In (1/2 -  5 pt),FTM,29.0,42.0,Brose Bamberg,0
-MAD       ,,7,03:33,17,207,"DONCIC, LUKA",P005929   ,Two Pointer (1/1 -  7 pt),2FGM,29.0,44.0,Real Madrid,0
-BAM       ,,,03:33,17,208,,          ,Time Out (1),TOUT,,,Brose Bamberg,0
-BAM       ,,0,03:33,17,209,"HACKETT, DANIEL",P001844   ,In,IN,,,Brose Bamberg,0
-BAM       ,,3,03:33,17,210,"WRIGHT, DORELL",P008049   ,Out,OUT,,,Brose Bamberg,0
-BAM       ,,6,03:16,17,211,"ZISIS, NIKOS",PABN      ,Missed Two Pointer (2/3 -  5 pt),2FGA,,,Brose Bamberg,0
-MAD       ,,20,03:14,17,212,"CARROLL, JAYCEE",P001960   ,Def Rebound (1),D,,,Real Madrid,0
-MAD       ,,20,02:59,18,214,"CARROLL, JAYCEE",P001960   ,Two Pointer (2/2 -  6 pt),2FGM,29.0,46.0,Real Madrid,0
-MAD       ,,20,02:46,18,216,"CARROLL, JAYCEE",P001960   ,Foul (2),CM,,,Real Madrid,0
-BAM       ,,43,02:46,18,217,"RADOSEVIC, LEON",PLEM      ,Foul Drawn (3),RV,,,Brose Bamberg,0
-BAM       ,,43,02:46,18,218,"RADOSEVIC, LEON",PLEM      ,Free Throw In (1/1 -  1 pt),FTM,30.0,46.0,Brose Bamberg,0
-BAM       ,,43,02:46,18,219,"RADOSEVIC, LEON",PLEM      ,Free Throw In (2/2 -  2 pt),FTM,31.0,46.0,Brose Bamberg,0
-MAD       ,,8,02:26,18,220,"MACIULIS, JONAS",PJCC      ,Two Pointer (1/1 -  2 pt),2FGM,31.0,48.0,Real Madrid,0
-MAD       ,,7,02:24,18,221,"DONCIC, LUKA",P005929   ,Assist (5),AS,,,Real Madrid,0
-BAM       ,,2,02:10,18,222,"HICKMAN, RICKY",P004159   ,Missed Three Pointer (0/2 -  6 pt),3FGA,,,Brose Bamberg,0
-MAD       ,,7,02:09,18,223,"DONCIC, LUKA",P005929   ,Def Rebound (2),D,,,Real Madrid,0
-MAD       ,,9,01:59,19,225,"REYES, FELIPE",PAAX      ,Turnover (1),TO,,,Real Madrid,0
-BAM       ,,2,01:59,19,226,"HICKMAN, RICKY",P004159   ,Out,OUT,,,Brose Bamberg,0
-BAM       ,,16,01:59,19,227,"OLINDE, LOUIS",P006919   ,In,IN,,,Brose Bamberg,0
-BAM       ,,16,01:44,19,228,"OLINDE, LOUIS",P006919   ,Turnover (1),TO,,,Brose Bamberg,0
-MAD       ,,8,01:23,19,229,"MACIULIS, JONAS",PJCC      ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,Real Madrid,0
-BAM       ,,0,01:20,19,230,"HACKETT, DANIEL",P001844   ,Def Rebound (1),D,,,Brose Bamberg,0
-BAM       ,,0,01:15,19,231,"HACKETT, DANIEL",P001844   ,Two Pointer (1/2 -  11 pt),2FGM,33.0,48.0,Brose Bamberg,0
-BAM       ,,0,01:02,19,232,"HACKETT, DANIEL",P001844   ,Foul (2),CM,,,Brose Bamberg,0
-MAD       ,,9,01:02,19,233,"REYES, FELIPE",PAAX      ,Foul Drawn (1),RV,,,Real Madrid,0
-BAM       ,,6,01:02,19,234,"ZISIS, NIKOS",PABN      ,Out,OUT,,,Brose Bamberg,0
-BAM       ,,12,01:02,19,235,"LO, MAODO",P007032   ,In,IN,,,Brose Bamberg,0
-MAD       ,,9,01:02,19,236,"REYES, FELIPE",PAAX      ,Free Throw In (1/1 -  3 pt),FTM,33.0,49.0,Real Madrid,0
-MAD       ,,7,01:02,19,237,"DONCIC, LUKA",P005929   ,Assist (6),AS,,,Real Madrid,0
-MAD       ,,9,01:02,19,238,"REYES, FELIPE",PAAX      ,Free Throw In (2/2 -  4 pt),FTM,33.0,50.0,Real Madrid,0
-MAD       ,,9,01:02,19,239,"REYES, FELIPE",PAAX      ,Out,OUT,,,Real Madrid,0
-MAD       ,,33,01:02,19,240,"THOMPKINS, TREY",P005836   ,In,IN,,,Real Madrid,0
-BAM       ,,0,00:42,20,242,"HACKETT, DANIEL",P001844   ,Missed Three Pointer (3/4 -  11 pt),3FGA,,,Brose Bamberg,0
-MAD       ,,7,00:40,20,243,"DONCIC, LUKA",P005929   ,Def Rebound (3),D,,,Real Madrid,0
-MAD       ,,33,00:28,20,244,"THOMPKINS, TREY",P005836   ,Missed Three Pointer (2/3 -  10 pt),3FGA,,,Real Madrid,0
-BAM       ,,16,00:26,20,245,"OLINDE, LOUIS",P006919   ,Def Rebound (1),D,,,Brose Bamberg,0
-MAD       ,,33,00:06,20,246,"THOMPKINS, TREY",P005836   ,Foul (1),CM,,,Real Madrid,0
-BAM       ,,16,00:06,20,247,"OLINDE, LOUIS",P006919   ,Foul Drawn (1),RV,,,Brose Bamberg,0
-BAM       ,,0,00:06,20,248,"HACKETT, DANIEL",P001844   ,Out,OUT,,,Brose Bamberg,0
-BAM       ,,2,00:06,20,249,"HICKMAN, RICKY",P004159   ,In,IN,,,Brose Bamberg,0
-BAM       ,,16,00:06,20,250,"OLINDE, LOUIS",P006919   ,Free Throw In (1/1 -  1 pt),FTM,34.0,50.0,Brose Bamberg,0
-BAM       ,,12,00:06,20,251,"LO, MAODO",P007032   ,Assist (2),AS,,,Brose Bamberg,0
-BAM       ,,16,00:06,20,252,"OLINDE, LOUIS",P006919   ,Free Throw In (2/2 -  2 pt),FTM,35.0,50.0,Brose Bamberg,0
-MAD       ,,,00:06,20,253,,          ,Time Out (1),TOUT,,,Real Madrid,0
-BAM       ,,33,00:06,20,254,"HECKMANN, PATRICK",P006420   ,In,IN,,,Brose Bamberg,0
-BAM       ,,43,00:06,20,255,"RADOSEVIC, LEON",PLEM      ,Out,OUT,,,Brose Bamberg,0
-MAD       ,,8,00:06,20,256,"MACIULIS, JONAS",PJCC      ,Out,OUT,,,Real Madrid,0
-MAD       ,,11,00:06,20,257,"CAMPAZZO, FACUNDO",P005928   ,In,IN,,,Real Madrid,0
-MAD       ,,1,00:00,20,258,"CAUSEUR, FABIEN",P001392   ,Missed Three Pointer (2/4 -  8 pt),3FGA,,,Real Madrid,0
-          ,,,,21,260,,          ,End Period,EP,,,,0
-          ,,,,21,271,,          ,Begin Period,BP,,,,0
-BAM       ,,0,10:00,21,261,"HACKETT, DANIEL",P001844   ,In,IN,,,Brose Bamberg,0
-BAM       ,,3,10:00,21,262,"WRIGHT, DORELL",P008049   ,In,IN,,,Brose Bamberg,0
-BAM       ,,7,10:00,21,263,"NIKOLIC, ALEKSEJ",P003703   ,Out,OUT,,,Brose Bamberg,0
-BAM       ,,16,10:00,21,264,"OLINDE, LOUIS",P006919   ,Out,OUT,,,Brose Bamberg,0
-BAM       ,,21,10:00,21,265,"RUBIT, AUGUSTINE",P006477   ,In,IN,,,Brose Bamberg,0
-BAM       ,,33,10:00,21,266,"HECKMANN, PATRICK",P006420   ,Out,OUT,,,Brose Bamberg,0
-MAD       ,,7,10:00,21,267,"DONCIC, LUKA",P005929   ,Out,OUT,,,Real Madrid,0
-MAD       ,,16,10:00,21,268,"YUSTA, SANTI",P005368   ,In,IN,,,Real Madrid,0
-MAD       ,,20,10:00,21,269,"CARROLL, JAYCEE",P001960   ,Out,OUT,,,Real Madrid,0
-MAD       ,,22,10:00,21,270,"TAVARES, WALTER",P005791   ,In,IN,,,Real Madrid,0
-MAD       ,,1,09:35,21,272,"CAUSEUR, FABIEN",P001392   ,Missed Two Pointer (1/2 -  8 pt),2FGA,,,Real Madrid,0
-MAD       ,,1,09:35,21,273,"CAUSEUR, FABIEN",P001392   ,Shot Rejected (1),AG,,,Real Madrid,0
-BAM       ,,3,09:32,21,274,"WRIGHT, DORELL",P008049   ,Block (1),FV,,,Brose Bamberg,0
-BAM       ,,0,09:30,21,275,"HACKETT, DANIEL",P001844   ,Def Rebound (2),D,,,Brose Bamberg,0
-BAM       ,,21,09:25,21,276,"RUBIT, AUGUSTINE",P006477   ,Missed Two Pointer (0/3 -  0 pt),2FGA,,,Brose Bamberg,0
-BAM       ,,21,09:23,21,277,"RUBIT, AUGUSTINE",P006477   ,Off Rebound (1),O,,,Brose Bamberg,0
-BAM       ,,2,09:12,21,278,"HICKMAN, RICKY",P004159   ,Missed Two Pointer (3/4 -  6 pt),2FGA,,,Brose Bamberg,0
-MAD       ,,1,09:12,21,279,"CAUSEUR, FABIEN",P001392   ,Def Rebound (3),D,,,Real Madrid,0
-BAM       ,,21,09:12,21,280,"RUBIT, AUGUSTINE",P006477   ,Foul (3),CM,,,Brose Bamberg,0
-MAD       ,,1,09:12,21,281,"CAUSEUR, FABIEN",P001392   ,Foul Drawn (1),RV,,,Real Madrid,0
-MAD       ,,11,08:47,22,283,"CAMPAZZO, FACUNDO",P005928   ,Missed Three Pointer (0/3 -  2 pt),3FGA,,,Real Madrid,0
-BAM       ,,21,08:45,22,284,"RUBIT, AUGUSTINE",P006477   ,Def Rebound (1),D,,,Brose Bamberg,0
-BAM       ,,12,08:41,22,285,"LO, MAODO",P007032   ,Three Pointer (1/1 -  3 pt),3FGM,38.0,50.0,Brose Bamberg,0
-MAD       ,,33,08:19,22,286,"THOMPKINS, TREY",P005836   ,Three Pointer (3/4 -  13 pt),3FGM,38.0,53.0,Real Madrid,0
-MAD       ,,1,08:18,22,287,"CAUSEUR, FABIEN",P001392   ,Assist (1),AS,,,Real Madrid,0
-BAM       ,,12,07:47,23,289,"LO, MAODO",P007032   ,Two Pointer (1/2 -  5 pt),2FGM,40.0,53.0,Brose Bamberg,0
-BAM       ,,0,07:32,23,290,"HACKETT, DANIEL",P001844   ,Foul (3),CM,,,Brose Bamberg,0
-MAD       ,,16,07:32,23,291,"YUSTA, SANTI",P005368   ,Foul Drawn (3),RV,,,Real Madrid,0
-BAM       ,,0,07:32,23,292,"HACKETT, DANIEL",P001844   ,Out,OUT,,,Brose Bamberg,0
-BAM       ,,6,07:32,23,293,"ZISIS, NIKOS",PABN      ,In,IN,,,Brose Bamberg,0
-MAD       ,,16,07:32,23,294,"YUSTA, SANTI",P005368   ,Free Throw In (3/3 -  3 pt),FTM,40.0,54.0,Real Madrid,0
-MAD       ,,16,07:32,23,295,"YUSTA, SANTI",P005368   ,Free Throw In (4/4 -  4 pt),FTM,40.0,55.0,Real Madrid,0
-BAM       ,,2,07:19,23,296,"HICKMAN, RICKY",P004159   ,Turnover (1),TO,,,Brose Bamberg,0
-MAD       ,,1,07:18,23,297,"CAUSEUR, FABIEN",P001392   ,Steal (1),ST,,,Real Madrid,0
-MAD       ,,1,07:13,23,298,"CAUSEUR, FABIEN",P001392   ,Missed Two Pointer (1/3 -  8 pt),2FGA,,,Real Madrid,0
-BAM       ,,3,07:11,23,299,"WRIGHT, DORELL",P008049   ,Def Rebound (3),D,,,Brose Bamberg,0
-BAM       ,,3,07:01,23,300,"WRIGHT, DORELL",P008049   ,Missed Three Pointer (1/4 -  3 pt),3FGA,,,Brose Bamberg,0
-MAD       ,,22,06:59,24,302,"TAVARES, WALTER",P005791   ,Def Rebound (4),D,,,Real Madrid,0
-MAD       ,,16,06:49,24,303,"YUSTA, SANTI",P005368   ,Turnover (1),TO,,,Real Madrid,0
-BAM       ,,2,06:47,24,304,"HICKMAN, RICKY",P004159   ,Steal (2),ST,,,Brose Bamberg,0
-BAM       ,,2,06:42,24,305,"HICKMAN, RICKY",P004159   ,Missed Two Pointer (3/5 -  6 pt),2FGA,,,Brose Bamberg,0
-MAD       ,,11,06:41,24,306,"CAMPAZZO, FACUNDO",P005928   ,Def Rebound (3),D,,,Real Madrid,0
-MAD       ,,16,06:38,24,307,"YUSTA, SANTI",P005368   ,Two Pointer (1/1 -  6 pt),2FGM,40.0,57.0,Real Madrid,0
-MAD       ,,11,06:38,24,308,"CAMPAZZO, FACUNDO",P005928   ,Assist (4),AS,,,Real Madrid,0
-BAM       ,,,06:38,24,309,,          ,Time Out (1),TOUT,,,Brose Bamberg,0
-BAM       ,,2,06:19,24,310,"HICKMAN, RICKY",P004159   ,Missed Three Pointer (0/3 -  6 pt),3FGA,,,Brose Bamberg,0
-MAD       ,,22,06:16,24,311,"TAVARES, WALTER",P005791   ,Def Rebound (5),D,,,Real Madrid,0
-MAD       ,,11,05:58,25,313,"CAMPAZZO, FACUNDO",P005928   ,Missed Three Pointer (0/4 -  2 pt),3FGA,,,Real Madrid,0
-MAD       ,,16,05:56,25,314,"YUSTA, SANTI",P005368   ,Off Rebound (2),O,,,Real Madrid,0
-MAD       ,,,05:41,25,315,,          ,Turnover (1),TO,,,Real Madrid,0
-BAM       ,,6,05:30,25,316,"ZISIS, NIKOS",PABN      ,Missed Two Pointer (2/4 -  5 pt),2FGA,,,Brose Bamberg,0
-BAM       ,,6,05:59,25,360,"ZISIS, NIKOS",PABN      ,Shot Rejected (1),AG,,,Brose Bamberg,0
-MAD       ,,22,05:59,25,361,"TAVARES, WALTER",P005791   ,Block (1),FV,,,Real Madrid,0
-BAM       ,,21,05:26,25,317,"RUBIT, AUGUSTINE",P006477   ,Off Rebound (2),O,,,Brose Bamberg,0
-BAM       ,,21,05:19,25,318,"RUBIT, AUGUSTINE",P006477   ,Two Pointer (1/4 -  2 pt),2FGM,42.0,57.0,Brose Bamberg,0
-MAD       ,,33,05:03,25,319,"THOMPKINS, TREY",P005836   ,Missed Two Pointer (1/3 -  13 pt),2FGA,,,Real Madrid,0
-MAD       ,,33,05:01,25,320,"THOMPKINS, TREY",P005836   ,Off Rebound (1),O,,,Real Madrid,0
-BAM       ,,2,05:01,25,321,"HICKMAN, RICKY",P004159   ,Foul (1),CM,,,Brose Bamberg,0
-MAD       ,,33,05:01,25,322,"THOMPKINS, TREY",P005836   ,Foul Drawn (2),RV,,,Real Madrid,0
-MAD       ,,1,04:55,26,324,"CAUSEUR, FABIEN",P001392   ,Three Pointer (3/5 -  11 pt),3FGM,42.0,60.0,Real Madrid,0
-MAD       ,,11,04:53,26,325,"CAMPAZZO, FACUNDO",P005928   ,Assist (5),AS,,,Real Madrid,0
-BAM       ,,21,04:36,26,326,"RUBIT, AUGUSTINE",P006477   ,Two Pointer (2/5 -  4 pt),2FGM,44.0,60.0,Brose Bamberg,0
-BAM       ,,12,04:34,26,327,"LO, MAODO",P007032   ,Assist (3),AS,,,Brose Bamberg,0
-MAD       ,,22,04:16,26,328,"TAVARES, WALTER",P005791   ,Two Pointer (3/3 -  7 pt),2FGM,44.0,62.0,Real Madrid,0
-MAD       ,,1,04:14,26,329,"CAUSEUR, FABIEN",P001392   ,Assist (2),AS,,,Real Madrid,0
-BAM       ,,3,03:55,27,331,"WRIGHT, DORELL",P008049   ,Missed Three Pointer (1/5 -  3 pt),3FGA,,,Brose Bamberg,0
-MAD       ,,22,03:53,27,332,"TAVARES, WALTER",P005791   ,Def Rebound (6),D,,,Real Madrid,0
-MAD       ,,1,03:38,27,333,"CAUSEUR, FABIEN",P001392   ,Missed Three Pointer (3/6 -  11 pt),3FGA,,,Real Madrid,0
-BAM       ,,3,03:35,27,334,"WRIGHT, DORELL",P008049   ,Def Rebound (4),D,,,Brose Bamberg,0
-BAM       ,,12,03:19,27,335,"LO, MAODO",P007032   ,Two Pointer (2/3 -  7 pt),2FGM,46.0,62.0,Brose Bamberg,0
-MAD       ,,22,02:58,28,337,"TAVARES, WALTER",P005791   ,Two Pointer (4/4 -  9 pt),2FGM,46.0,64.0,Real Madrid,0
-MAD       ,,1,02:56,28,338,"CAUSEUR, FABIEN",P001392   ,Assist (3),AS,,,Real Madrid,0
-MAD       ,,1,02:44,28,339,"CAUSEUR, FABIEN",P001392   ,Foul (2),CM,,,Real Madrid,0
-BAM       ,,21,02:44,28,340,"RUBIT, AUGUSTINE",P006477   ,Foul Drawn (3),RV,,,Brose Bamberg,0
-BAM       ,,0,02:44,28,341,"HACKETT, DANIEL",P001844   ,In,IN,,,Brose Bamberg,0
-BAM       ,,3,02:44,28,342,"WRIGHT, DORELL",P008049   ,Out,OUT,,,Brose Bamberg,0
-BAM       ,,21,02:39,28,343,"RUBIT, AUGUSTINE",P006477   ,Offensive Foul (4),OF,,,Brose Bamberg,0
-BAM       ,,21,02:39,28,344,"RUBIT, AUGUSTINE",P006477   ,Turnover (1),TO,,,Brose Bamberg,0
-MAD       ,,16,02:39,28,345,"YUSTA, SANTI",P005368   ,Foul Drawn (4),RV,,,Real Madrid,0
-BAM       ,,2,02:39,28,346,"HICKMAN, RICKY",P004159   ,Out,OUT,,,Brose Bamberg,0
-BAM       ,,7,02:39,28,347,"NIKOLIC, ALEKSEJ",P003703   ,In,IN,,,Brose Bamberg,0
-BAM       ,,21,02:39,28,348,"RUBIT, AUGUSTINE",P006477   ,Out,OUT,,,Brose Bamberg,0
-BAM       ,,43,02:39,28,349,"RADOSEVIC, LEON",PLEM      ,In,IN,,,Brose Bamberg,0
-MAD       ,,33,02:18,28,350,"THOMPKINS, TREY",P005836   ,Two Pointer (2/4 -  15 pt),2FGM,46.0,66.0,Real Madrid,0
-BAM       ,,8,01:51,29,352,"STAIGER, LUCCA",P002506   ,In,IN,,,Brose Bamberg,0
-BAM       ,,12,01:51,29,353,"LO, MAODO",P007032   ,Out,OUT,,,Brose Bamberg,0
-BAM       ,,0,01:45,29,354,"HACKETT, DANIEL",P001844   ,Turnover (2),TO,,,Brose Bamberg,0
-MAD       ,,11,01:44,29,355,"CAMPAZZO, FACUNDO",P005928   ,Steal (1),ST,,,Real Madrid,0
-MAD       ,,1,01:41,29,356,"CAUSEUR, FABIEN",P001392   ,Two Pointer (2/4 -  13 pt),2FGM,46.0,68.0,Real Madrid,0
-MAD       ,,11,01:41,29,357,"CAMPAZZO, FACUNDO",P005928   ,Assist (6),AS,,,Real Madrid,0
-BAM       ,,,01:41,29,358,,          ,Time Out (2),TOUT,,,Brose Bamberg,0
-BAM       ,,8,01:25,29,362,"STAIGER, LUCCA",P002506   ,Three Pointer (3/3 -  9 pt),3FGM,49.0,68.0,Brose Bamberg,0
-BAM       ,,7,01:23,29,363,"NIKOLIC, ALEKSEJ",P003703   ,Assist (1),AS,,,Brose Bamberg,0
-MAD       ,,33,01:01,29,364,"THOMPKINS, TREY",P005836   ,Missed Two Pointer (2/5 -  15 pt),2FGA,,,Real Madrid,0
-MAD       ,,22,01:00,30,366,"TAVARES, WALTER",P005791   ,Off Rebound (2),O,,,Real Madrid,0
-MAD       ,,1,00:56,30,367,"CAUSEUR, FABIEN",P001392   ,Missed Three Pointer (3/7 -  13 pt),3FGA,,,Real Madrid,0
-BAM       ,,8,00:53,30,368,"STAIGER, LUCCA",P002506   ,Def Rebound (1),D,,,Brose Bamberg,0
-BAM       ,,43,00:49,30,369,"RADOSEVIC, LEON",PLEM      ,Two Pointer (1/3 -  4 pt),2FGM,51.0,68.0,Brose Bamberg,0
-BAM       ,,7,00:47,30,370,"NIKOLIC, ALEKSEJ",P003703   ,Assist (2),AS,,,Brose Bamberg,0
-MAD       ,,33,00:26,30,371,"THOMPKINS, TREY",P005836   ,Missed Two Pointer (2/6 -  15 pt),2FGA,,,Real Madrid,0
-BAM       ,,6,00:23,30,372,"ZISIS, NIKOS",PABN      ,Def Rebound (2),D,,,Brose Bamberg,0
-BAM       ,,8,00:03,30,373,"STAIGER, LUCCA",P002506   ,Missed Three Pointer (3/4 -  9 pt),3FGA,,,Brose Bamberg,0
-MAD       ,,11,00:02,30,374,"CAMPAZZO, FACUNDO",P005928   ,Def Rebound (4),D,,,Real Madrid,0
-MAD       ,,11,00:02,30,375,"CAMPAZZO, FACUNDO",P005928   ,Missed Three Pointer (0/5 -  2 pt),3FGA,,,Real Madrid,0
-          ,,,,31,377,,          ,End Period,EP,,,,0
-          ,,,,31,384,,          ,Begin Period,BP,,,,0
-BAM       ,,6,10:00,31,378,"ZISIS, NIKOS",PABN      ,Out,OUT,,,Brose Bamberg,0
-BAM       ,,12,10:00,31,379,"LO, MAODO",P007032   ,In,IN,,,Brose Bamberg,0
-MAD       ,,1,10:00,31,380,"CAUSEUR, FABIEN",P001392   ,Out,OUT,,,Real Madrid,0
-MAD       ,,7,10:00,31,381,"DONCIC, LUKA",P005929   ,In,IN,,,Real Madrid,0
-MAD       ,,16,10:00,31,382,"YUSTA, SANTI",P005368   ,Out,OUT,,,Real Madrid,0
-MAD       ,,44,10:00,31,383,"TAYLOR, JEFFERY",P006546   ,In,IN,,,Real Madrid,0
-BAM       ,,8,09:40,31,385,"STAIGER, LUCCA",P002506   ,Missed Three Pointer (3/5 -  9 pt),3FGA,,,Brose Bamberg,0
-MAD       ,,33,09:38,31,386,"THOMPKINS, TREY",P005836   ,Def Rebound (4),D,,,Real Madrid,0
-MAD       ,,33,09:24,31,387,"THOMPKINS, TREY",P005836   ,Two Pointer (3/7 -  17 pt),2FGM,51.0,70.0,Real Madrid,0
-BAM       ,,12,09:09,31,388,"LO, MAODO",P007032   ,Two Pointer (3/4 -  9 pt),2FGM,53.0,70.0,Brose Bamberg,0
-MAD       ,,11,08:47,32,390,"CAMPAZZO, FACUNDO",P005928   ,Missed Three Pointer (0/6 -  2 pt),3FGA,,,Real Madrid,0
-BAM       ,,0,08:45,32,391,"HACKETT, DANIEL",P001844   ,Def Rebound (3),D,,,Brose Bamberg,0
-BAM       ,,8,08:40,32,392,"STAIGER, LUCCA",P002506   ,Three Pointer (4/6 -  12 pt),3FGM,56.0,70.0,Brose Bamberg,0
-BAM       ,,0,08:33,32,393,"HACKETT, DANIEL",P001844   ,Assist (1),AS,,,Brose Bamberg,0
-MAD       ,,7,08:14,32,394,"DONCIC, LUKA",P005929   ,Missed Three Pointer (1/5 -  7 pt),3FGA,,,Real Madrid,0
-MAD       ,,22,08:13,32,395,"TAVARES, WALTER",P005791   ,Off Rebound (3),O,,,Real Madrid,0
-BAM       ,,43,08:13,32,396,"RADOSEVIC, LEON",PLEM      ,Foul (1),CM,,,Brose Bamberg,0
-MAD       ,,22,08:13,32,397,"TAVARES, WALTER",P005791   ,Foul Drawn (2),RV,,,Real Madrid,0
-BAM       ,,3,08:13,32,398,"WRIGHT, DORELL",P008049   ,In,IN,,,Brose Bamberg,0
-BAM       ,,7,08:13,32,399,"NIKOLIC, ALEKSEJ",P003703   ,Out,OUT,,,Brose Bamberg,0
-MAD       ,,9,08:13,32,400,"REYES, FELIPE",PAAX      ,In,IN,,,Real Madrid,0
-MAD       ,,11,08:13,32,401,"CAMPAZZO, FACUNDO",P005928   ,Out,OUT,,,Real Madrid,0
-MAD       ,,20,08:13,32,402,"CARROLL, JAYCEE",P001960   ,In,IN,,,Real Madrid,0
-MAD       ,,22,08:13,32,403,"TAVARES, WALTER",P005791   ,Out,OUT,,,Real Madrid,0
-MAD       ,,20,08:05,32,404,"CARROLL, JAYCEE",P001960   ,Missed Two Pointer (2/3 -  6 pt),2FGA,,,Real Madrid,0
-BAM       ,,12,08:03,32,405,"LO, MAODO",P007032   ,Def Rebound (1),D,,,Brose Bamberg,0
-BAM       ,,3,07:50,33,407,"WRIGHT, DORELL",P008049   ,Missed Two Pointer (0/3 -  3 pt),2FGA,,,Brose Bamberg,0
-MAD       ,,9,07:46,33,408,"REYES, FELIPE",PAAX      ,Def Rebound (2),D,,,Real Madrid,0
-MAD       ,,33,07:35,33,409,"THOMPKINS, TREY",P005836   ,Two Pointer (4/8 -  19 pt),2FGM,56.0,72.0,Real Madrid,0
-MAD       ,,7,07:35,33,410,"DONCIC, LUKA",P005929   ,Assist (7),AS,,,Real Madrid,0
-BAM       ,,3,07:35,33,411,"WRIGHT, DORELL",P008049   ,Foul (2),CM,,,Brose Bamberg,0
-MAD       ,,33,07:35,33,412,"THOMPKINS, TREY",P005836   ,Foul Drawn (3),RV,,,Real Madrid,0
-MAD       ,,33,07:35,33,413,"THOMPKINS, TREY",P005836   ,Free Throw In (3/3 -  20 pt),FTM,56.0,73.0,Real Madrid,0
-BAM       ,,21,07:35,33,414,"RUBIT, AUGUSTINE",P006477   ,In,IN,,,Brose Bamberg,0
-BAM       ,,43,07:35,33,415,"RADOSEVIC, LEON",PLEM      ,Out,OUT,,,Brose Bamberg,0
-BAM       ,,21,07:20,33,416,"RUBIT, AUGUSTINE",P006477   ,Three Pointer (1/1 -  7 pt),3FGM,59.0,73.0,Brose Bamberg,0
-BAM       ,,12,07:18,33,417,"LO, MAODO",P007032   ,Assist (4),AS,,,Brose Bamberg,0
-MAD       ,,9,06:55,34,419,"REYES, FELIPE",PAAX      ,Two Pointer (2/3 -  6 pt),2FGM,59.0,75.0,Real Madrid,0
-MAD       ,,44,06:53,34,420,"TAYLOR, JEFFERY",P006546   ,Assist (2),AS,,,Real Madrid,0
-BAM       ,,12,06:39,34,421,"LO, MAODO",P007032   ,Missed Two Pointer (3/5 -  9 pt),2FGA,,,Brose Bamberg,0
-MAD       ,,9,06:37,34,422,"REYES, FELIPE",PAAX      ,Def Rebound (3),D,,,Real Madrid,0
-MAD       ,,9,06:15,34,423,"REYES, FELIPE",PAAX      ,Missed Two Pointer (2/4 -  6 pt),2FGA,,,Real Madrid,0
-MAD       ,,9,06:15,34,424,"REYES, FELIPE",PAAX      ,Shot Rejected (1),AG,,,Real Madrid,0
-BAM       ,,12,06:14,34,425,"LO, MAODO",P007032   ,Block (1),FV,,,Brose Bamberg,0
-BAM       ,,3,06:14,34,426,"WRIGHT, DORELL",P008049   ,Def Rebound (5),D,,,Brose Bamberg,0
-BAM       ,,6,06:14,34,427,"ZISIS, NIKOS",PABN      ,In,IN,,,Brose Bamberg,0
-BAM       ,,8,06:14,34,428,"STAIGER, LUCCA",P002506   ,Out,OUT,,,Brose Bamberg,0
-BAM       ,,0,05:59,35,430,"HACKETT, DANIEL",P001844   ,Two Pointer (2/3 -  13 pt),2FGM,61.0,75.0,Brose Bamberg,0
-MAD       ,,44,05:39,35,431,"TAYLOR, JEFFERY",P006546   ,Missed Three Pointer (0/1 -  4 pt),3FGA,,,Real Madrid,0
-BAM       ,,3,05:36,35,432,"WRIGHT, DORELL",P008049   ,Def Rebound (6),D,,,Brose Bamberg,0
-BAM       ,,12,05:28,35,433,"LO, MAODO",P007032   ,Missed Three Pointer (1/2 -  9 pt),3FGA,,,Brose Bamberg,0
-MAD       ,,9,05:26,35,434,"REYES, FELIPE",PAAX      ,Def Rebound (4),D,,,Real Madrid,0
-MAD       ,,7,05:17,35,435,"DONCIC, LUKA",P005929   ,Missed Three Pointer (1/6 -  7 pt),3FGA,,,Real Madrid,0
-BAM       ,,3,05:17,35,436,"WRIGHT, DORELL",P008049   ,Def Rebound (7),D,,,Brose Bamberg,0
-BAM       ,,0,04:49,36,438,"HACKETT, DANIEL",P001844   ,Missed Three Pointer (3/5 -  13 pt),3FGA,,,Brose Bamberg,0
-MAD       ,,44,04:47,36,439,"TAYLOR, JEFFERY",P006546   ,Def Rebound (1),D,,,Real Madrid,0
-MAD       ,,7,04:38,36,440,"DONCIC, LUKA",P005929   ,Offensive Foul (1),OF,,,Real Madrid,0
-MAD       ,,7,04:38,36,441,"DONCIC, LUKA",P005929   ,Turnover (3),TO,,,Real Madrid,0
-BAM       ,,0,04:38,36,442,"HACKETT, DANIEL",P001844   ,Foul Drawn (1),RV,,,Brose Bamberg,0
-          ,,,04:38,36,443,,          ,TV Time Out (2),TOUT_TV,,,,0
-BAM       ,,2,04:38,36,444,"HICKMAN, RICKY",P004159   ,In,IN,,,Brose Bamberg,0
-BAM       ,,12,04:38,36,445,"LO, MAODO",P007032   ,Out,OUT,,,Brose Bamberg,0
-MAD       ,,11,04:38,36,446,"CAMPAZZO, FACUNDO",P005928   ,In,IN,,,Real Madrid,0
-MAD       ,,33,04:38,36,447,"THOMPKINS, TREY",P005836   ,Out,OUT,,,Real Madrid,0
-BAM       ,,21,04:28,36,448,"RUBIT, AUGUSTINE",P006477   ,Missed Three Pointer (1/2 -  7 pt),3FGA,,,Brose Bamberg,0
-MAD       ,,20,04:25,36,449,"CARROLL, JAYCEE",P001960   ,Def Rebound (2),D,,,Real Madrid,0
-MAD       ,,9,04:08,36,450,"REYES, FELIPE",PAAX      ,Two Pointer (3/5 -  8 pt),2FGM,61.0,77.0,Real Madrid,0
-BAM       ,,0,03:41,37,453,"HACKETT, DANIEL",P001844   ,Missed Three Pointer (3/6 -  13 pt),3FGA,,,Brose Bamberg,0
-MAD       ,,11,03:38,37,454,"CAMPAZZO, FACUNDO",P005928   ,Def Rebound (5),D,,,Real Madrid,0
-BAM       ,,3,03:27,37,455,"WRIGHT, DORELL",P008049   ,Foul (3),CM,,,Brose Bamberg,0
-MAD       ,,44,03:27,37,456,"TAYLOR, JEFFERY",P006546   ,Foul Drawn (3),RV,,,Real Madrid,0
-BAM       ,,21,03:27,37,457,"RUBIT, AUGUSTINE",P006477   ,Out,OUT,,,Brose Bamberg,0
-BAM       ,,43,03:27,37,458,"RADOSEVIC, LEON",PLEM      ,In,IN,,,Brose Bamberg,0
-MAD       ,,7,03:14,37,459,"DONCIC, LUKA",P005929   ,Missed Two Pointer (1/2 -  7 pt),2FGA,,,Real Madrid,0
-BAM       ,,6,03:11,37,460,"ZISIS, NIKOS",PABN      ,Def Rebound (3),D,,,Brose Bamberg,0
-BAM       ,,2,03:07,37,461,"HICKMAN, RICKY",P004159   ,Two Pointer (4/6 -  8 pt),2FGM,63.0,77.0,Brose Bamberg,0
-BAM       ,,0,03:05,37,462,"HACKETT, DANIEL",P001844   ,Assist (2),AS,,,Brose Bamberg,0
-MAD       ,,20,02:48,38,464,"CARROLL, JAYCEE",P001960   ,Missed Three Pointer (0/2 -  6 pt),3FGA,,,Real Madrid,0
-BAM       ,,2,02:44,38,465,"HICKMAN, RICKY",P004159   ,Def Rebound (2),D,,,Brose Bamberg,0
-BAM       ,,2,02:40,38,466,"HICKMAN, RICKY",P004159   ,Missed Three Pointer (0/4 -  8 pt),3FGA,,,Brose Bamberg,0
-MAD       ,,7,02:38,38,467,"DONCIC, LUKA",P005929   ,Def Rebound (4),D,,,Real Madrid,0
-MAD       ,,9,02:23,38,468,"REYES, FELIPE",PAAX      ,Missed Two Pointer (3/6 -  8 pt),2FGA,,,Real Madrid,0
-BAM       ,,3,02:17,38,469,"WRIGHT, DORELL",P008049   ,Def Rebound (8),D,,,Brose Bamberg,0
-BAM       ,,0,02:14,38,470,"HACKETT, DANIEL",P001844   ,Missed Two Pointer (2/4 -  13 pt),2FGA,,,Brose Bamberg,0
-MAD       ,,7,02:14,38,471,"DONCIC, LUKA",P005929   ,Def Rebound (5),D,,,Real Madrid,0
-BAM       ,,0,02:14,38,472,"HACKETT, DANIEL",P001844   ,Technical Foul (4),CMT,,,Brose Bamberg,0
-BAM       ,,,02:14,38,473,,CO_A      ,Coach Foul (1),C,,,Brose Bamberg,0
-BAM       ,,0,02:14,38,474,"HACKETT, DANIEL",P001844   ,Out,OUT,,,Brose Bamberg,0
-BAM       ,,12,02:14,38,475,"LO, MAODO",P007032   ,In,IN,,,Brose Bamberg,0
-MAD       ,,20,02:14,38,476,"CARROLL, JAYCEE",P001960   ,Free Throw In (3/3 -  7 pt),FTM,63.0,78.0,Real Madrid,0
-MAD       ,,20,02:14,38,477,"CARROLL, JAYCEE",P001960   ,Free Throw In (4/4 -  8 pt),FTM,63.0,79.0,Real Madrid,0
-MAD       ,,1,02:14,38,478,"CAUSEUR, FABIEN",P001392   ,In,IN,,,Real Madrid,0
-MAD       ,,20,02:14,38,479,"CARROLL, JAYCEE",P001960   ,Out,OUT,,,Real Madrid,0
-MAD       ,,11,01:56,39,481,"CAMPAZZO, FACUNDO",P005928   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,Real Madrid,0
-BAM       ,,12,01:54,39,482,"LO, MAODO",P007032   ,Def Rebound (2),D,,,Brose Bamberg,0
-BAM       ,,12,01:35,39,483,"LO, MAODO",P007032   ,Three Pointer (2/3 -  12 pt),3FGM,66.0,79.0,Brose Bamberg,0
-BAM       ,,3,01:35,39,484,"WRIGHT, DORELL",P008049   ,Assist (2),AS,,,Brose Bamberg,0
-MAD       ,,9,01:16,39,485,"REYES, FELIPE",PAAX      ,Two Pointer (4/7 -  10 pt),2FGM,66.0,81.0,Real Madrid,0
-MAD       ,,7,01:16,39,509,"DONCIC, LUKA",P005929   ,Assist (8),AS,,,Real Madrid,0
-BAM       ,,3,01:16,39,487,"WRIGHT, DORELL",P008049   ,Out,OUT,,,Brose Bamberg,0
-BAM       ,,16,01:16,39,488,"OLINDE, LOUIS",P006919   ,In,IN,,,Brose Bamberg,0
-MAD       ,,9,01:16,39,489,"REYES, FELIPE",PAAX      ,Out,OUT,,,Real Madrid,0
-MAD       ,,22,01:16,39,490,"TAVARES, WALTER",P005791   ,In,IN,,,Real Madrid,0
-MAD       ,,44,01:09,39,491,"TAYLOR, JEFFERY",P006546   ,Foul (3),CM,,,Real Madrid,0
-BAM       ,,2,01:09,39,492,"HICKMAN, RICKY",P004159   ,Foul Drawn (3),RV,,,Brose Bamberg,0
-BAM       ,,2,01:04,39,493,"HICKMAN, RICKY",P004159   ,Turnover (2),TO,,,Brose Bamberg,0
-MAD       ,,7,01:02,39,494,"DONCIC, LUKA",P005929   ,Steal (2),ST,,,Real Madrid,0
-MAD       ,,11,00:39,40,496,"CAMPAZZO, FACUNDO",P005928   ,Missed Three Pointer (0/7 -  2 pt),3FGA,,,Real Madrid,0
-BAM       ,,2,00:36,40,497,"HICKMAN, RICKY",P004159   ,Def Rebound (3),D,,,Brose Bamberg,0
-MAD       ,,44,00:32,40,498,"TAYLOR, JEFFERY",P006546   ,Foul (4),CM,,,Real Madrid,0
-BAM       ,,2,00:32,40,499,"HICKMAN, RICKY",P004159   ,Foul Drawn (4),RV,,,Brose Bamberg,0
-MAD       ,,11,00:20,40,500,"CAMPAZZO, FACUNDO",P005928   ,Foul (3),CM,,,Real Madrid,0
-BAM       ,,6,00:20,40,501,"ZISIS, NIKOS",PABN      ,Out,OUT,,,Brose Bamberg,0
-BAM       ,,7,00:20,40,502,"NIKOLIC, ALEKSEJ",P003703   ,In,IN,,,Brose Bamberg,0
-BAM       ,,7,00:20,40,503,"NIKOLIC, ALEKSEJ",P003703   ,Foul Drawn (1),RV,,,Brose Bamberg,0
-BAM       ,,2,00:20,40,505,"HICKMAN, RICKY",P004159   ,Missed Three Pointer (0/5 -  8 pt),3FGA,,,Brose Bamberg,0
-MAD       ,,22,00:20,40,506,"TAVARES, WALTER",P005791   ,Def Rebound (7),D,,,Real Madrid,0
-          ,,,,41,510,,          ,End Game,EG,,,,0
+CODETEAM,COMMENT,DORSAL,MARKERTIME,MINUTE,NUMBEROFPLAY,PLAYER,PLAYER_ID,PLAYINFO,PLAYTYPE,POINTS_A,POINTS_B,TEAM,TYPE,home_team,home_team_code,away_team,away_team_code
+          ,,,,1,2,,          ,Begin Period,BP,,,,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,11,09:59,1,3,"CAMPAZZO, FACUNDO",P005928   ,Two Pointer (1/1 -  2 pt),2FGM,,2.0,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,3,09:17,1,4,"WRIGHT, DORELL",P008049   ,Three Pointer (1/1 -  3 pt),3FGM,3.0,2.0,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,12,09:15,1,5,"LO, MAODO",P007032   ,Assist (1),AS,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,11,08:49,2,7,"CAMPAZZO, FACUNDO",P005928   ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,22,08:46,2,8,"TAVARES, WALTER",P005791   ,Off Rebound (1),O,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,22,08:43,2,9,"TAVARES, WALTER",P005791   ,Two Pointer (1/1 -  2 pt),2FGM,3.0,4.0,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,11,08:28,2,10,"CAMPAZZO, FACUNDO",P005928   ,Foul (1),CM,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,43,08:28,2,11,"RADOSEVIC, LEON",PLEM      ,Foul Drawn (1),RV,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,43,08:23,2,12,"RADOSEVIC, LEON",PLEM      ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,1,08:21,2,13,"CAUSEUR, FABIEN",P001392   ,Def Rebound (1),D,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,22,08:14,2,14,"TAVARES, WALTER",P005791   ,Turnover (1),TO,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,3,08:14,2,15,"WRIGHT, DORELL",P008049   ,Missed Three Pointer (1/2 -  3 pt),3FGA,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,11,08:14,2,16,"CAMPAZZO, FACUNDO",P005928   ,Def Rebound (1),D,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,33,07:46,3,18,"THOMPKINS, TREY",P005836   ,Three Pointer (1/1 -  3 pt),3FGM,3.0,7.0,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,11,07:46,3,19,"CAMPAZZO, FACUNDO",P005928   ,Assist (1),AS,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,3,07:24,3,20,"WRIGHT, DORELL",P008049   ,Missed Two Pointer (0/1 -  3 pt),2FGA,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,22,07:22,3,21,"TAVARES, WALTER",P005791   ,Def Rebound (1),D,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,33,07:19,3,22,"THOMPKINS, TREY",P005836   ,Two Pointer (1/1 -  5 pt),2FGM,3.0,9.0,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,11,07:19,3,54,"CAMPAZZO, FACUNDO",P005928   ,Assist (2),AS,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,6,06:48,4,24,"ZISIS, NIKOS",PABN      ,Turnover (1),TO,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,1,06:22,4,25,"CAUSEUR, FABIEN",P001392   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,33,06:20,4,26,"HECKMANN, PATRICK",P006420   ,Def Rebound (1),D,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,12,06:07,4,27,"LO, MAODO",P007032   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,33,06:04,4,28,"THOMPKINS, TREY",P005836   ,Def Rebound (1),D,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,33,05:55,5,30,"THOMPKINS, TREY",P005836   ,Three Pointer (2/2 -  8 pt),3FGM,3.0,12.0,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,11,05:48,5,31,"CAMPAZZO, FACUNDO",P005928   ,Assist (3),AS,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,43,05:35,5,32,"RADOSEVIC, LEON",PLEM      ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,11,05:32,5,33,"CAMPAZZO, FACUNDO",P005928   ,Def Rebound (2),D,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,12,05:29,5,34,"LO, MAODO",P007032   ,Foul (1),CM,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,11,05:29,5,35,"CAMPAZZO, FACUNDO",P005928   ,Foul Drawn (1),RV,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,12,05:29,5,36,"LO, MAODO",P007032   ,Foul (2),CM,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,33,05:29,5,37,"THOMPKINS, TREY",P005836   ,Foul Drawn (1),RV,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,2,05:23,5,38,"HICKMAN, RICKY",P004159   ,In,IN,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,12,05:23,5,39,"LO, MAODO",P007032   ,Out,OUT,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,21,05:23,5,40,"RUBIT, AUGUSTINE",P006477   ,In,IN,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,43,05:23,5,41,"RADOSEVIC, LEON",PLEM      ,Out,OUT,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,33,05:23,5,42,"THOMPKINS, TREY",P005836   ,Free Throw In (1/1 -  9 pt),FTM,3.0,13.0,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,33,05:23,5,43,"THOMPKINS, TREY",P005836   ,Free Throw In (2/2 -  10 pt),FTM,3.0,14.0,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,33,05:08,5,44,"HECKMANN, PATRICK",P006420   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,22,05:06,5,45,"TAVARES, WALTER",P005791   ,Def Rebound (2),D,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,11,05:00,5,46,"CAMPAZZO, FACUNDO",P005928   ,Missed Three Pointer (0/2 -  2 pt),3FGA,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,3,04:57,6,48,"WRIGHT, DORELL",P008049   ,Def Rebound (1),D,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,6,04:42,6,49,"ZISIS, NIKOS",PABN      ,Two Pointer (1/1 -  2 pt),2FGM,5.0,14.0,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,1,04:25,6,51,"CAUSEUR, FABIEN",P001392   ,Three Pointer (1/2 -  3 pt),3FGM,5.0,17.0,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,16,04:25,6,52,"YUSTA, SANTI",P005368   ,Assist (1),AS,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,,04:25,6,53,,          ,Time Out (1),TOUT,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,11,04:13,6,55,"CAMPAZZO, FACUNDO",P005928   ,Foul (2),CM,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,6,04:13,6,56,"ZISIS, NIKOS",PABN      ,Foul Drawn (1),RV,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,0,04:13,6,57,"HACKETT, DANIEL",P001844   ,In,IN,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,6,04:13,6,58,"ZISIS, NIKOS",PABN      ,Out,OUT,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,8,04:13,6,59,"STAIGER, LUCCA",P002506   ,In,IN,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,33,04:13,6,60,"HECKMANN, PATRICK",P006420   ,Out,OUT,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,7,04:13,6,61,"DONCIC, LUKA",P005929   ,In,IN,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,11,04:13,6,62,"CAMPAZZO, FACUNDO",P005928   ,Out,OUT,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,2,04:02,6,63,"HICKMAN, RICKY",P004159   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,7,04:00,6,64,"DONCIC, LUKA",P005929   ,Def Rebound (1),D,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,33,03:49,7,66,"THOMPKINS, TREY",P005836   ,Missed Two Pointer (1/2 -  10 pt),2FGA,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,,03:49,7,67,,          ,Def Rebound (1),D,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,22,03:49,7,68,"TAVARES, WALTER",P005791   ,Foul (1),CM,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,21,03:49,7,69,"RUBIT, AUGUSTINE",P006477   ,Foul Drawn (1),RV,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,2,03:26,7,70,"HICKMAN, RICKY",P004159   ,Two Pointer (1/1 -  2 pt),2FGM,7.0,17.0,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,7,03:14,7,71,"DONCIC, LUKA",P005929   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,3,03:14,7,72,"WRIGHT, DORELL",P008049   ,Def Rebound (2),D,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,3,02:54,8,74,"WRIGHT, DORELL",P008049   ,Turnover (1),TO,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,7,02:53,8,75,"DONCIC, LUKA",P005929   ,Steal (1),ST,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,21,02:48,8,76,"RUBIT, AUGUSTINE",P006477   ,Foul (1),CM,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,16,02:48,8,77,"YUSTA, SANTI",P005368   ,Foul Drawn (1),RV,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,16,02:48,8,78,"YUSTA, SANTI",P005368   ,Free Throw In (1/1 -  1 pt),FTM,7.0,18.0,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,7,02:48,8,112,"DONCIC, LUKA",P005929   ,Assist (1),AS,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,16,02:48,8,79,"YUSTA, SANTI",P005368   ,Free Throw In (2/2 -  2 pt),FTM,7.0,19.0,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,0,02:30,8,80,"HACKETT, DANIEL",P001844   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,1,02:28,8,81,"CAUSEUR, FABIEN",P001392   ,Def Rebound (2),D,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,1,02:21,8,82,"CAUSEUR, FABIEN",P001392   ,Three Pointer (2/3 -  6 pt),3FGM,7.0,22.0,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,7,02:19,8,83,"DONCIC, LUKA",P005929   ,Assist (2),AS,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,8,01:57,9,85,"STAIGER, LUCCA",P002506   ,Three Pointer (1/1 -  3 pt),3FGM,10.0,22.0,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,3,01:55,9,86,"WRIGHT, DORELL",P008049   ,Assist (1),AS,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,8,01:45,9,87,"STAIGER, LUCCA",P002506   ,Foul (1),CM,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,16,01:45,9,88,"YUSTA, SANTI",P005368   ,Foul Drawn (2),RV,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,0,01:33,9,89,"HACKETT, DANIEL",P001844   ,Foul (1),CM,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,7,01:33,9,90,"DONCIC, LUKA",P005929   ,Foul Drawn (1),RV,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,7,01:33,9,91,"DONCIC, LUKA",P005929   ,Free Throw In (1/1 -  1 pt),FTM,10.0,23.0,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,7,01:33,9,92,"DONCIC, LUKA",P005929   ,Free Throw In (2/2 -  2 pt),FTM,10.0,24.0,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,3,01:33,9,93,"WRIGHT, DORELL",P008049   ,Out,OUT,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,43,01:33,9,94,"RADOSEVIC, LEON",PLEM      ,In,IN,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,8,01:18,9,95,"STAIGER, LUCCA",P002506   ,Three Pointer (2/2 -  6 pt),3FGM,13.0,24.0,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,2,01:15,9,96,"HICKMAN, RICKY",P004159   ,Assist (1),AS,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,7,01:05,9,97,"DONCIC, LUKA",P005929   ,Three Pointer (1/2 -  5 pt),3FGM,13.0,27.0,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,21,00:46,10,99,"RUBIT, AUGUSTINE",P006477   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,33,00:44,10,100,"THOMPKINS, TREY",P005836   ,Def Rebound (2),D,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,7,00:39,10,101,"DONCIC, LUKA",P005929   ,Missed Three Pointer (1/3 -  5 pt),3FGA,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,16,00:37,10,102,"YUSTA, SANTI",P005368   ,Off Rebound (1),O,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,1,00:26,10,103,"CAUSEUR, FABIEN",P001392   ,Two Pointer (1/1 -  8 pt),2FGM,13.0,29.0,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,1,00:09,10,104,"CAUSEUR, FABIEN",P001392   ,Foul (1),CM,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,2,00:09,10,105,"HICKMAN, RICKY",P004159   ,Foul Drawn (1),RV,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,1,00:09,10,106,"CAUSEUR, FABIEN",P001392   ,Out,OUT,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,2,00:09,10,107,"RANDLE, CHASSON",P008038   ,In,IN,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,16,00:09,10,108,"YUSTA, SANTI",P005368   ,Out,OUT,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,44,00:09,10,109,"TAYLOR, JEFFERY",P006546   ,In,IN,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+          ,,,,11,111,,          ,End Period,EP,,,,0,Brose Bamberg,BAM,Real Madrid,MAD
+          ,,,,11,115,,          ,Begin Period,BP,,,,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,3,10:00,11,113,"WRIGHT, DORELL",P008049   ,In,IN,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,43,10:00,11,114,"RADOSEVIC, LEON",PLEM      ,Out,OUT,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,0,09:48,11,116,"HACKETT, DANIEL",P001844   ,Three Pointer (1/1 -  3 pt),3FGM,16.0,29.0,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,21,09:38,11,117,"RUBIT, AUGUSTINE",P006477   ,Assist (1),AS,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,7,09:34,11,118,"DONCIC, LUKA",P005929   ,Turnover (1),TO,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,21,09:33,11,119,"RUBIT, AUGUSTINE",P006477   ,Steal (1),ST,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,21,09:30,11,120,"RUBIT, AUGUSTINE",P006477   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,22,09:28,11,121,"TAVARES, WALTER",P005791   ,Def Rebound (3),D,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,22,09:11,11,122,"TAVARES, WALTER",P005791   ,Two Pointer (2/2 -  4 pt),2FGM,16.0,31.0,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,7,09:11,11,123,"DONCIC, LUKA",P005929   ,Assist (3),AS,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,8,09:11,11,124,"STAIGER, LUCCA",P002506   ,Foul (2),CM,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,22,09:11,11,125,"TAVARES, WALTER",P005791   ,Foul Drawn (1),RV,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,22,09:11,11,126,"TAVARES, WALTER",P005791   ,Free Throw In (1/1 -  5 pt),FTM,16.0,32.0,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,0,08:59,12,128,"HACKETT, DANIEL",P001844   ,Three Pointer (2/2 -  6 pt),3FGM,19.0,32.0,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,7,08:46,12,129,"DONCIC, LUKA",P005929   ,Turnover (2),TO,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,6,08:46,12,130,"ZISIS, NIKOS",PABN      ,In,IN,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,8,08:46,12,131,"STAIGER, LUCCA",P002506   ,Out,OUT,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,22,08:35,12,132,"TAVARES, WALTER",P005791   ,Foul (2),CM,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,21,08:35,12,133,"RUBIT, AUGUSTINE",P006477   ,Foul Drawn (2),RV,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,9,08:35,12,134,"REYES, FELIPE",PAAX      ,In,IN,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,22,08:35,12,135,"TAVARES, WALTER",P005791   ,Out,OUT,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,21,08:35,12,136,"RUBIT, AUGUSTINE",P006477   ,Missed Free Throw (0/1 -  0 pt),FTA,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,21,08:35,12,137,"RUBIT, AUGUSTINE",P006477   ,Missed Free Throw (0/2 -  0 pt),FTA,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,33,08:35,12,138,"THOMPKINS, TREY",P005836   ,Def Rebound (3),D,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,6,08:21,12,139,"ZISIS, NIKOS",PABN      ,Foul (1),CM,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,44,08:21,12,140,"TAYLOR, JEFFERY",P006546   ,Foul Drawn (1),RV,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,44,08:21,12,141,"TAYLOR, JEFFERY",P006546   ,Free Throw In (1/1 -  1 pt),FTM,19.0,33.0,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,7,08:21,12,142,"DONCIC, LUKA",P005929   ,Assist (4),AS,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,44,08:21,12,143,"TAYLOR, JEFFERY",P006546   ,Free Throw In (2/2 -  2 pt),FTM,19.0,34.0,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,0,08:05,12,144,"HACKETT, DANIEL",P001844   ,Three Pointer (3/3 -  9 pt),3FGM,22.0,34.0,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,2,07:56,13,146,"HICKMAN, RICKY",P004159   ,Assist (2),AS,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,9,07:39,13,147,"REYES, FELIPE",PAAX      ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,,07:39,13,148,,          ,Off Rebound (1),O,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,21,07:39,13,149,"RUBIT, AUGUSTINE",P006477   ,Foul (2),CM,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,7,07:39,13,150,"DONCIC, LUKA",P005929   ,Foul Drawn (2),RV,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,8,07:39,13,151,"MACIULIS, JONAS",PJCC      ,In,IN,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,33,07:39,13,152,"THOMPKINS, TREY",P005836   ,Out,OUT,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,9,07:31,13,153,"REYES, FELIPE",PAAX      ,Two Pointer (1/2 -  2 pt),2FGM,22.0,36.0,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,44,07:29,13,154,"TAYLOR, JEFFERY",P006546   ,Assist (1),AS,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,44,07:14,13,155,"TAYLOR, JEFFERY",P006546   ,Foul (1),CM,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,6,07:14,13,156,"ZISIS, NIKOS",PABN      ,Foul Drawn (2),RV,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,21,07:14,13,157,"RUBIT, AUGUSTINE",P006477   ,Out,OUT,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,43,07:14,13,158,"RADOSEVIC, LEON",PLEM      ,In,IN,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,9,07:08,13,159,"REYES, FELIPE",PAAX      ,Foul (1),CM,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,2,07:08,13,160,"HICKMAN, RICKY",P004159   ,Foul Drawn (2),RV,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,2,07:01,13,161,"HICKMAN, RICKY",P004159   ,Two Pointer (2/2 -  4 pt),2FGM,24.0,36.0,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,44,06:44,14,163,"TAYLOR, JEFFERY",P006546   ,Turnover (1),TO,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,2,06:42,14,164,"HICKMAN, RICKY",P004159   ,Steal (1),ST,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,0,06:38,14,165,"HACKETT, DANIEL",P001844   ,Turnover (1),TO,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,44,06:37,14,166,"TAYLOR, JEFFERY",P006546   ,Steal (1),ST,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,3,06:36,14,167,"WRIGHT, DORELL",P008049   ,Unsportsmanlike Foul  (1),CMU,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,44,06:36,14,168,"TAYLOR, JEFFERY",P006546   ,Foul Drawn (2),RV,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,2,06:36,14,169,"RANDLE, CHASSON",P008038   ,Out,OUT,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,20,06:36,14,170,"CARROLL, JAYCEE",P001960   ,In,IN,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,0,06:36,14,171,"HACKETT, DANIEL",P001844   ,Out,OUT,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,7,06:36,14,172,"NIKOLIC, ALEKSEJ",P003703   ,In,IN,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,44,06:36,14,173,"TAYLOR, JEFFERY",P006546   ,Free Throw In (3/3 -  3 pt),FTM,24.0,37.0,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,44,06:36,14,174,"TAYLOR, JEFFERY",P006546   ,Free Throw In (4/4 -  4 pt),FTM,24.0,38.0,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,7,06:22,14,175,"DONCIC, LUKA",P005929   ,Missed Three Pointer (1/4 -  5 pt),3FGA,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,6,06:22,14,176,"ZISIS, NIKOS",PABN      ,Def Rebound (1),D,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,2,06:02,14,177,"HICKMAN, RICKY",P004159   ,Two Pointer (3/3 -  6 pt),2FGM,26.0,38.0,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,20,05:43,15,179,"CARROLL, JAYCEE",P001960   ,Two Pointer (1/1 -  2 pt),2FGM,26.0,40.0,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,9,05:41,15,180,"REYES, FELIPE",PAAX      ,Assist (1),AS,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,3,05:20,15,181,"WRIGHT, DORELL",P008049   ,Missed Three Pointer (1/3 -  3 pt),3FGA,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,7,05:20,15,182,"NIKOLIC, ALEKSEJ",P003703   ,Off Rebound (1),O,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,6,05:20,15,183,"ZISIS, NIKOS",PABN      ,Two Pointer (2/2 -  4 pt),2FGM,28.0,40.0,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,2,05:20,15,184,"HICKMAN, RICKY",P004159   ,Assist (3),AS,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,20,04:43,16,187,"CARROLL, JAYCEE",P001960   ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,2,04:43,16,188,"HICKMAN, RICKY",P004159   ,Def Rebound (1),D,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+          ,,,04:43,16,189,,          ,TV Time Out (1),TOUT_TV,,,,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,3,04:29,16,190,"WRIGHT, DORELL",P008049   ,Missed Two Pointer (0/2 -  3 pt),2FGA,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,3,04:29,16,191,"WRIGHT, DORELL",P008049   ,Shot Rejected (1),AG,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,9,04:26,16,192,"REYES, FELIPE",PAAX      ,Block (1),FV,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,9,04:23,16,193,"REYES, FELIPE",PAAX      ,Def Rebound (1),D,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,7,04:19,16,194,"NIKOLIC, ALEKSEJ",P003703   ,Foul (1),CM,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,20,04:19,16,195,"CARROLL, JAYCEE",P001960   ,Foul Drawn (1),RV,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,20,04:19,16,196,"CARROLL, JAYCEE",P001960   ,Free Throw In (1/1 -  3 pt),FTM,28.0,41.0,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,20,04:19,16,197,"CARROLL, JAYCEE",P001960   ,Free Throw In (2/2 -  4 pt),FTM,28.0,42.0,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,20,04:03,16,198,"CARROLL, JAYCEE",P001960   ,Foul (1),CM,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,43,04:03,16,199,"RADOSEVIC, LEON",PLEM      ,Foul Drawn (2),RV,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,44,03:57,17,201,"TAYLOR, JEFFERY",P006546   ,Foul (2),CM,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,6,03:57,17,202,"ZISIS, NIKOS",PABN      ,Foul Drawn (3),RV,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,1,03:57,17,203,"CAUSEUR, FABIEN",P001392   ,In,IN,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,44,03:57,17,204,"TAYLOR, JEFFERY",P006546   ,Out,OUT,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,6,03:57,17,205,"ZISIS, NIKOS",PABN      ,Missed Free Throw (0/1 -  4 pt),FTA,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,6,03:57,17,206,"ZISIS, NIKOS",PABN      ,Free Throw In (1/2 -  5 pt),FTM,29.0,42.0,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,7,03:33,17,207,"DONCIC, LUKA",P005929   ,Two Pointer (1/1 -  7 pt),2FGM,29.0,44.0,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,,03:33,17,208,,          ,Time Out (1),TOUT,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,0,03:33,17,209,"HACKETT, DANIEL",P001844   ,In,IN,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,3,03:33,17,210,"WRIGHT, DORELL",P008049   ,Out,OUT,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,6,03:16,17,211,"ZISIS, NIKOS",PABN      ,Missed Two Pointer (2/3 -  5 pt),2FGA,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,20,03:14,17,212,"CARROLL, JAYCEE",P001960   ,Def Rebound (1),D,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,20,02:59,18,214,"CARROLL, JAYCEE",P001960   ,Two Pointer (2/2 -  6 pt),2FGM,29.0,46.0,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,20,02:46,18,216,"CARROLL, JAYCEE",P001960   ,Foul (2),CM,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,43,02:46,18,217,"RADOSEVIC, LEON",PLEM      ,Foul Drawn (3),RV,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,43,02:46,18,218,"RADOSEVIC, LEON",PLEM      ,Free Throw In (1/1 -  1 pt),FTM,30.0,46.0,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,43,02:46,18,219,"RADOSEVIC, LEON",PLEM      ,Free Throw In (2/2 -  2 pt),FTM,31.0,46.0,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,8,02:26,18,220,"MACIULIS, JONAS",PJCC      ,Two Pointer (1/1 -  2 pt),2FGM,31.0,48.0,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,7,02:24,18,221,"DONCIC, LUKA",P005929   ,Assist (5),AS,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,2,02:10,18,222,"HICKMAN, RICKY",P004159   ,Missed Three Pointer (0/2 -  6 pt),3FGA,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,7,02:09,18,223,"DONCIC, LUKA",P005929   ,Def Rebound (2),D,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,9,01:59,19,225,"REYES, FELIPE",PAAX      ,Turnover (1),TO,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,2,01:59,19,226,"HICKMAN, RICKY",P004159   ,Out,OUT,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,16,01:59,19,227,"OLINDE, LOUIS",P006919   ,In,IN,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,16,01:44,19,228,"OLINDE, LOUIS",P006919   ,Turnover (1),TO,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,8,01:23,19,229,"MACIULIS, JONAS",PJCC      ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,0,01:20,19,230,"HACKETT, DANIEL",P001844   ,Def Rebound (1),D,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,0,01:15,19,231,"HACKETT, DANIEL",P001844   ,Two Pointer (1/2 -  11 pt),2FGM,33.0,48.0,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,0,01:02,19,232,"HACKETT, DANIEL",P001844   ,Foul (2),CM,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,9,01:02,19,233,"REYES, FELIPE",PAAX      ,Foul Drawn (1),RV,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,6,01:02,19,234,"ZISIS, NIKOS",PABN      ,Out,OUT,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,12,01:02,19,235,"LO, MAODO",P007032   ,In,IN,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,9,01:02,19,236,"REYES, FELIPE",PAAX      ,Free Throw In (1/1 -  3 pt),FTM,33.0,49.0,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,7,01:02,19,237,"DONCIC, LUKA",P005929   ,Assist (6),AS,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,9,01:02,19,238,"REYES, FELIPE",PAAX      ,Free Throw In (2/2 -  4 pt),FTM,33.0,50.0,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,9,01:02,19,239,"REYES, FELIPE",PAAX      ,Out,OUT,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,33,01:02,19,240,"THOMPKINS, TREY",P005836   ,In,IN,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,0,00:42,20,242,"HACKETT, DANIEL",P001844   ,Missed Three Pointer (3/4 -  11 pt),3FGA,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,7,00:40,20,243,"DONCIC, LUKA",P005929   ,Def Rebound (3),D,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,33,00:28,20,244,"THOMPKINS, TREY",P005836   ,Missed Three Pointer (2/3 -  10 pt),3FGA,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,16,00:26,20,245,"OLINDE, LOUIS",P006919   ,Def Rebound (1),D,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,33,00:06,20,246,"THOMPKINS, TREY",P005836   ,Foul (1),CM,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,16,00:06,20,247,"OLINDE, LOUIS",P006919   ,Foul Drawn (1),RV,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,0,00:06,20,248,"HACKETT, DANIEL",P001844   ,Out,OUT,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,2,00:06,20,249,"HICKMAN, RICKY",P004159   ,In,IN,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,16,00:06,20,250,"OLINDE, LOUIS",P006919   ,Free Throw In (1/1 -  1 pt),FTM,34.0,50.0,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,12,00:06,20,251,"LO, MAODO",P007032   ,Assist (2),AS,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,16,00:06,20,252,"OLINDE, LOUIS",P006919   ,Free Throw In (2/2 -  2 pt),FTM,35.0,50.0,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,,00:06,20,253,,          ,Time Out (1),TOUT,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,33,00:06,20,254,"HECKMANN, PATRICK",P006420   ,In,IN,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,43,00:06,20,255,"RADOSEVIC, LEON",PLEM      ,Out,OUT,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,8,00:06,20,256,"MACIULIS, JONAS",PJCC      ,Out,OUT,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,11,00:06,20,257,"CAMPAZZO, FACUNDO",P005928   ,In,IN,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,1,00:00,20,258,"CAUSEUR, FABIEN",P001392   ,Missed Three Pointer (2/4 -  8 pt),3FGA,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+          ,,,,21,260,,          ,End Period,EP,,,,0,Brose Bamberg,BAM,Real Madrid,MAD
+          ,,,,21,271,,          ,Begin Period,BP,,,,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,0,10:00,21,261,"HACKETT, DANIEL",P001844   ,In,IN,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,3,10:00,21,262,"WRIGHT, DORELL",P008049   ,In,IN,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,7,10:00,21,263,"NIKOLIC, ALEKSEJ",P003703   ,Out,OUT,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,16,10:00,21,264,"OLINDE, LOUIS",P006919   ,Out,OUT,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,21,10:00,21,265,"RUBIT, AUGUSTINE",P006477   ,In,IN,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,33,10:00,21,266,"HECKMANN, PATRICK",P006420   ,Out,OUT,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,7,10:00,21,267,"DONCIC, LUKA",P005929   ,Out,OUT,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,16,10:00,21,268,"YUSTA, SANTI",P005368   ,In,IN,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,20,10:00,21,269,"CARROLL, JAYCEE",P001960   ,Out,OUT,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,22,10:00,21,270,"TAVARES, WALTER",P005791   ,In,IN,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,1,09:35,21,272,"CAUSEUR, FABIEN",P001392   ,Missed Two Pointer (1/2 -  8 pt),2FGA,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,1,09:35,21,273,"CAUSEUR, FABIEN",P001392   ,Shot Rejected (1),AG,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,3,09:32,21,274,"WRIGHT, DORELL",P008049   ,Block (1),FV,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,0,09:30,21,275,"HACKETT, DANIEL",P001844   ,Def Rebound (2),D,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,21,09:25,21,276,"RUBIT, AUGUSTINE",P006477   ,Missed Two Pointer (0/3 -  0 pt),2FGA,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,21,09:23,21,277,"RUBIT, AUGUSTINE",P006477   ,Off Rebound (1),O,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,2,09:12,21,278,"HICKMAN, RICKY",P004159   ,Missed Two Pointer (3/4 -  6 pt),2FGA,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,1,09:12,21,279,"CAUSEUR, FABIEN",P001392   ,Def Rebound (3),D,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,21,09:12,21,280,"RUBIT, AUGUSTINE",P006477   ,Foul (3),CM,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,1,09:12,21,281,"CAUSEUR, FABIEN",P001392   ,Foul Drawn (1),RV,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,11,08:47,22,283,"CAMPAZZO, FACUNDO",P005928   ,Missed Three Pointer (0/3 -  2 pt),3FGA,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,21,08:45,22,284,"RUBIT, AUGUSTINE",P006477   ,Def Rebound (1),D,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,12,08:41,22,285,"LO, MAODO",P007032   ,Three Pointer (1/1 -  3 pt),3FGM,38.0,50.0,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,33,08:19,22,286,"THOMPKINS, TREY",P005836   ,Three Pointer (3/4 -  13 pt),3FGM,38.0,53.0,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,1,08:18,22,287,"CAUSEUR, FABIEN",P001392   ,Assist (1),AS,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,12,07:47,23,289,"LO, MAODO",P007032   ,Two Pointer (1/2 -  5 pt),2FGM,40.0,53.0,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,0,07:32,23,290,"HACKETT, DANIEL",P001844   ,Foul (3),CM,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,16,07:32,23,291,"YUSTA, SANTI",P005368   ,Foul Drawn (3),RV,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,0,07:32,23,292,"HACKETT, DANIEL",P001844   ,Out,OUT,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,6,07:32,23,293,"ZISIS, NIKOS",PABN      ,In,IN,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,16,07:32,23,294,"YUSTA, SANTI",P005368   ,Free Throw In (3/3 -  3 pt),FTM,40.0,54.0,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,16,07:32,23,295,"YUSTA, SANTI",P005368   ,Free Throw In (4/4 -  4 pt),FTM,40.0,55.0,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,2,07:19,23,296,"HICKMAN, RICKY",P004159   ,Turnover (1),TO,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,1,07:18,23,297,"CAUSEUR, FABIEN",P001392   ,Steal (1),ST,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,1,07:13,23,298,"CAUSEUR, FABIEN",P001392   ,Missed Two Pointer (1/3 -  8 pt),2FGA,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,3,07:11,23,299,"WRIGHT, DORELL",P008049   ,Def Rebound (3),D,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,3,07:01,23,300,"WRIGHT, DORELL",P008049   ,Missed Three Pointer (1/4 -  3 pt),3FGA,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,22,06:59,24,302,"TAVARES, WALTER",P005791   ,Def Rebound (4),D,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,16,06:49,24,303,"YUSTA, SANTI",P005368   ,Turnover (1),TO,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,2,06:47,24,304,"HICKMAN, RICKY",P004159   ,Steal (2),ST,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,2,06:42,24,305,"HICKMAN, RICKY",P004159   ,Missed Two Pointer (3/5 -  6 pt),2FGA,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,11,06:41,24,306,"CAMPAZZO, FACUNDO",P005928   ,Def Rebound (3),D,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,16,06:38,24,307,"YUSTA, SANTI",P005368   ,Two Pointer (1/1 -  6 pt),2FGM,40.0,57.0,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,11,06:38,24,308,"CAMPAZZO, FACUNDO",P005928   ,Assist (4),AS,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,,06:38,24,309,,          ,Time Out (1),TOUT,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,2,06:19,24,310,"HICKMAN, RICKY",P004159   ,Missed Three Pointer (0/3 -  6 pt),3FGA,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,22,06:16,24,311,"TAVARES, WALTER",P005791   ,Def Rebound (5),D,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,11,05:58,25,313,"CAMPAZZO, FACUNDO",P005928   ,Missed Three Pointer (0/4 -  2 pt),3FGA,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,16,05:56,25,314,"YUSTA, SANTI",P005368   ,Off Rebound (2),O,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,,05:41,25,315,,          ,Turnover (1),TO,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,6,05:30,25,316,"ZISIS, NIKOS",PABN      ,Missed Two Pointer (2/4 -  5 pt),2FGA,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,6,05:59,25,360,"ZISIS, NIKOS",PABN      ,Shot Rejected (1),AG,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,22,05:59,25,361,"TAVARES, WALTER",P005791   ,Block (1),FV,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,21,05:26,25,317,"RUBIT, AUGUSTINE",P006477   ,Off Rebound (2),O,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,21,05:19,25,318,"RUBIT, AUGUSTINE",P006477   ,Two Pointer (1/4 -  2 pt),2FGM,42.0,57.0,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,33,05:03,25,319,"THOMPKINS, TREY",P005836   ,Missed Two Pointer (1/3 -  13 pt),2FGA,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,33,05:01,25,320,"THOMPKINS, TREY",P005836   ,Off Rebound (1),O,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,2,05:01,25,321,"HICKMAN, RICKY",P004159   ,Foul (1),CM,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,33,05:01,25,322,"THOMPKINS, TREY",P005836   ,Foul Drawn (2),RV,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,1,04:55,26,324,"CAUSEUR, FABIEN",P001392   ,Three Pointer (3/5 -  11 pt),3FGM,42.0,60.0,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,11,04:53,26,325,"CAMPAZZO, FACUNDO",P005928   ,Assist (5),AS,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,21,04:36,26,326,"RUBIT, AUGUSTINE",P006477   ,Two Pointer (2/5 -  4 pt),2FGM,44.0,60.0,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,12,04:34,26,327,"LO, MAODO",P007032   ,Assist (3),AS,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,22,04:16,26,328,"TAVARES, WALTER",P005791   ,Two Pointer (3/3 -  7 pt),2FGM,44.0,62.0,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,1,04:14,26,329,"CAUSEUR, FABIEN",P001392   ,Assist (2),AS,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,3,03:55,27,331,"WRIGHT, DORELL",P008049   ,Missed Three Pointer (1/5 -  3 pt),3FGA,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,22,03:53,27,332,"TAVARES, WALTER",P005791   ,Def Rebound (6),D,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,1,03:38,27,333,"CAUSEUR, FABIEN",P001392   ,Missed Three Pointer (3/6 -  11 pt),3FGA,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,3,03:35,27,334,"WRIGHT, DORELL",P008049   ,Def Rebound (4),D,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,12,03:19,27,335,"LO, MAODO",P007032   ,Two Pointer (2/3 -  7 pt),2FGM,46.0,62.0,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,22,02:58,28,337,"TAVARES, WALTER",P005791   ,Two Pointer (4/4 -  9 pt),2FGM,46.0,64.0,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,1,02:56,28,338,"CAUSEUR, FABIEN",P001392   ,Assist (3),AS,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,1,02:44,28,339,"CAUSEUR, FABIEN",P001392   ,Foul (2),CM,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,21,02:44,28,340,"RUBIT, AUGUSTINE",P006477   ,Foul Drawn (3),RV,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,0,02:44,28,341,"HACKETT, DANIEL",P001844   ,In,IN,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,3,02:44,28,342,"WRIGHT, DORELL",P008049   ,Out,OUT,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,21,02:39,28,343,"RUBIT, AUGUSTINE",P006477   ,Offensive Foul (4),OF,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,21,02:39,28,344,"RUBIT, AUGUSTINE",P006477   ,Turnover (1),TO,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,16,02:39,28,345,"YUSTA, SANTI",P005368   ,Foul Drawn (4),RV,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,2,02:39,28,346,"HICKMAN, RICKY",P004159   ,Out,OUT,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,7,02:39,28,347,"NIKOLIC, ALEKSEJ",P003703   ,In,IN,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,21,02:39,28,348,"RUBIT, AUGUSTINE",P006477   ,Out,OUT,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,43,02:39,28,349,"RADOSEVIC, LEON",PLEM      ,In,IN,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,33,02:18,28,350,"THOMPKINS, TREY",P005836   ,Two Pointer (2/4 -  15 pt),2FGM,46.0,66.0,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,8,01:51,29,352,"STAIGER, LUCCA",P002506   ,In,IN,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,12,01:51,29,353,"LO, MAODO",P007032   ,Out,OUT,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,0,01:45,29,354,"HACKETT, DANIEL",P001844   ,Turnover (2),TO,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,11,01:44,29,355,"CAMPAZZO, FACUNDO",P005928   ,Steal (1),ST,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,1,01:41,29,356,"CAUSEUR, FABIEN",P001392   ,Two Pointer (2/4 -  13 pt),2FGM,46.0,68.0,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,11,01:41,29,357,"CAMPAZZO, FACUNDO",P005928   ,Assist (6),AS,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,,01:41,29,358,,          ,Time Out (2),TOUT,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,8,01:25,29,362,"STAIGER, LUCCA",P002506   ,Three Pointer (3/3 -  9 pt),3FGM,49.0,68.0,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,7,01:23,29,363,"NIKOLIC, ALEKSEJ",P003703   ,Assist (1),AS,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,33,01:01,29,364,"THOMPKINS, TREY",P005836   ,Missed Two Pointer (2/5 -  15 pt),2FGA,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,22,01:00,30,366,"TAVARES, WALTER",P005791   ,Off Rebound (2),O,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,1,00:56,30,367,"CAUSEUR, FABIEN",P001392   ,Missed Three Pointer (3/7 -  13 pt),3FGA,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,8,00:53,30,368,"STAIGER, LUCCA",P002506   ,Def Rebound (1),D,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,43,00:49,30,369,"RADOSEVIC, LEON",PLEM      ,Two Pointer (1/3 -  4 pt),2FGM,51.0,68.0,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,7,00:47,30,370,"NIKOLIC, ALEKSEJ",P003703   ,Assist (2),AS,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,33,00:26,30,371,"THOMPKINS, TREY",P005836   ,Missed Two Pointer (2/6 -  15 pt),2FGA,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,6,00:23,30,372,"ZISIS, NIKOS",PABN      ,Def Rebound (2),D,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,8,00:03,30,373,"STAIGER, LUCCA",P002506   ,Missed Three Pointer (3/4 -  9 pt),3FGA,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,11,00:02,30,374,"CAMPAZZO, FACUNDO",P005928   ,Def Rebound (4),D,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,11,00:02,30,375,"CAMPAZZO, FACUNDO",P005928   ,Missed Three Pointer (0/5 -  2 pt),3FGA,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+          ,,,,31,377,,          ,End Period,EP,,,,0,Brose Bamberg,BAM,Real Madrid,MAD
+          ,,,,31,384,,          ,Begin Period,BP,,,,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,6,10:00,31,378,"ZISIS, NIKOS",PABN      ,Out,OUT,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,12,10:00,31,379,"LO, MAODO",P007032   ,In,IN,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,1,10:00,31,380,"CAUSEUR, FABIEN",P001392   ,Out,OUT,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,7,10:00,31,381,"DONCIC, LUKA",P005929   ,In,IN,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,16,10:00,31,382,"YUSTA, SANTI",P005368   ,Out,OUT,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,44,10:00,31,383,"TAYLOR, JEFFERY",P006546   ,In,IN,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,8,09:40,31,385,"STAIGER, LUCCA",P002506   ,Missed Three Pointer (3/5 -  9 pt),3FGA,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,33,09:38,31,386,"THOMPKINS, TREY",P005836   ,Def Rebound (4),D,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,33,09:24,31,387,"THOMPKINS, TREY",P005836   ,Two Pointer (3/7 -  17 pt),2FGM,51.0,70.0,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,12,09:09,31,388,"LO, MAODO",P007032   ,Two Pointer (3/4 -  9 pt),2FGM,53.0,70.0,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,11,08:47,32,390,"CAMPAZZO, FACUNDO",P005928   ,Missed Three Pointer (0/6 -  2 pt),3FGA,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,0,08:45,32,391,"HACKETT, DANIEL",P001844   ,Def Rebound (3),D,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,8,08:40,32,392,"STAIGER, LUCCA",P002506   ,Three Pointer (4/6 -  12 pt),3FGM,56.0,70.0,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,0,08:33,32,393,"HACKETT, DANIEL",P001844   ,Assist (1),AS,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,7,08:14,32,394,"DONCIC, LUKA",P005929   ,Missed Three Pointer (1/5 -  7 pt),3FGA,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,22,08:13,32,395,"TAVARES, WALTER",P005791   ,Off Rebound (3),O,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,43,08:13,32,396,"RADOSEVIC, LEON",PLEM      ,Foul (1),CM,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,22,08:13,32,397,"TAVARES, WALTER",P005791   ,Foul Drawn (2),RV,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,3,08:13,32,398,"WRIGHT, DORELL",P008049   ,In,IN,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,7,08:13,32,399,"NIKOLIC, ALEKSEJ",P003703   ,Out,OUT,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,9,08:13,32,400,"REYES, FELIPE",PAAX      ,In,IN,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,11,08:13,32,401,"CAMPAZZO, FACUNDO",P005928   ,Out,OUT,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,20,08:13,32,402,"CARROLL, JAYCEE",P001960   ,In,IN,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,22,08:13,32,403,"TAVARES, WALTER",P005791   ,Out,OUT,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,20,08:05,32,404,"CARROLL, JAYCEE",P001960   ,Missed Two Pointer (2/3 -  6 pt),2FGA,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,12,08:03,32,405,"LO, MAODO",P007032   ,Def Rebound (1),D,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,3,07:50,33,407,"WRIGHT, DORELL",P008049   ,Missed Two Pointer (0/3 -  3 pt),2FGA,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,9,07:46,33,408,"REYES, FELIPE",PAAX      ,Def Rebound (2),D,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,33,07:35,33,409,"THOMPKINS, TREY",P005836   ,Two Pointer (4/8 -  19 pt),2FGM,56.0,72.0,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,7,07:35,33,410,"DONCIC, LUKA",P005929   ,Assist (7),AS,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,3,07:35,33,411,"WRIGHT, DORELL",P008049   ,Foul (2),CM,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,33,07:35,33,412,"THOMPKINS, TREY",P005836   ,Foul Drawn (3),RV,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,33,07:35,33,413,"THOMPKINS, TREY",P005836   ,Free Throw In (3/3 -  20 pt),FTM,56.0,73.0,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,21,07:35,33,414,"RUBIT, AUGUSTINE",P006477   ,In,IN,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,43,07:35,33,415,"RADOSEVIC, LEON",PLEM      ,Out,OUT,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,21,07:20,33,416,"RUBIT, AUGUSTINE",P006477   ,Three Pointer (1/1 -  7 pt),3FGM,59.0,73.0,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,12,07:18,33,417,"LO, MAODO",P007032   ,Assist (4),AS,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,9,06:55,34,419,"REYES, FELIPE",PAAX      ,Two Pointer (2/3 -  6 pt),2FGM,59.0,75.0,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,44,06:53,34,420,"TAYLOR, JEFFERY",P006546   ,Assist (2),AS,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,12,06:39,34,421,"LO, MAODO",P007032   ,Missed Two Pointer (3/5 -  9 pt),2FGA,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,9,06:37,34,422,"REYES, FELIPE",PAAX      ,Def Rebound (3),D,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,9,06:15,34,423,"REYES, FELIPE",PAAX      ,Missed Two Pointer (2/4 -  6 pt),2FGA,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,9,06:15,34,424,"REYES, FELIPE",PAAX      ,Shot Rejected (1),AG,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,12,06:14,34,425,"LO, MAODO",P007032   ,Block (1),FV,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,3,06:14,34,426,"WRIGHT, DORELL",P008049   ,Def Rebound (5),D,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,6,06:14,34,427,"ZISIS, NIKOS",PABN      ,In,IN,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,8,06:14,34,428,"STAIGER, LUCCA",P002506   ,Out,OUT,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,0,05:59,35,430,"HACKETT, DANIEL",P001844   ,Two Pointer (2/3 -  13 pt),2FGM,61.0,75.0,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,44,05:39,35,431,"TAYLOR, JEFFERY",P006546   ,Missed Three Pointer (0/1 -  4 pt),3FGA,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,3,05:36,35,432,"WRIGHT, DORELL",P008049   ,Def Rebound (6),D,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,12,05:28,35,433,"LO, MAODO",P007032   ,Missed Three Pointer (1/2 -  9 pt),3FGA,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,9,05:26,35,434,"REYES, FELIPE",PAAX      ,Def Rebound (4),D,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,7,05:17,35,435,"DONCIC, LUKA",P005929   ,Missed Three Pointer (1/6 -  7 pt),3FGA,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,3,05:17,35,436,"WRIGHT, DORELL",P008049   ,Def Rebound (7),D,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,0,04:49,36,438,"HACKETT, DANIEL",P001844   ,Missed Three Pointer (3/5 -  13 pt),3FGA,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,44,04:47,36,439,"TAYLOR, JEFFERY",P006546   ,Def Rebound (1),D,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,7,04:38,36,440,"DONCIC, LUKA",P005929   ,Offensive Foul (1),OF,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,7,04:38,36,441,"DONCIC, LUKA",P005929   ,Turnover (3),TO,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,0,04:38,36,442,"HACKETT, DANIEL",P001844   ,Foul Drawn (1),RV,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+          ,,,04:38,36,443,,          ,TV Time Out (2),TOUT_TV,,,,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,2,04:38,36,444,"HICKMAN, RICKY",P004159   ,In,IN,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,12,04:38,36,445,"LO, MAODO",P007032   ,Out,OUT,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,11,04:38,36,446,"CAMPAZZO, FACUNDO",P005928   ,In,IN,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,33,04:38,36,447,"THOMPKINS, TREY",P005836   ,Out,OUT,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,21,04:28,36,448,"RUBIT, AUGUSTINE",P006477   ,Missed Three Pointer (1/2 -  7 pt),3FGA,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,20,04:25,36,449,"CARROLL, JAYCEE",P001960   ,Def Rebound (2),D,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,9,04:08,36,450,"REYES, FELIPE",PAAX      ,Two Pointer (3/5 -  8 pt),2FGM,61.0,77.0,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,0,03:41,37,453,"HACKETT, DANIEL",P001844   ,Missed Three Pointer (3/6 -  13 pt),3FGA,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,11,03:38,37,454,"CAMPAZZO, FACUNDO",P005928   ,Def Rebound (5),D,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,3,03:27,37,455,"WRIGHT, DORELL",P008049   ,Foul (3),CM,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,44,03:27,37,456,"TAYLOR, JEFFERY",P006546   ,Foul Drawn (3),RV,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,21,03:27,37,457,"RUBIT, AUGUSTINE",P006477   ,Out,OUT,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,43,03:27,37,458,"RADOSEVIC, LEON",PLEM      ,In,IN,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,7,03:14,37,459,"DONCIC, LUKA",P005929   ,Missed Two Pointer (1/2 -  7 pt),2FGA,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,6,03:11,37,460,"ZISIS, NIKOS",PABN      ,Def Rebound (3),D,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,2,03:07,37,461,"HICKMAN, RICKY",P004159   ,Two Pointer (4/6 -  8 pt),2FGM,63.0,77.0,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,0,03:05,37,462,"HACKETT, DANIEL",P001844   ,Assist (2),AS,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,20,02:48,38,464,"CARROLL, JAYCEE",P001960   ,Missed Three Pointer (0/2 -  6 pt),3FGA,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,2,02:44,38,465,"HICKMAN, RICKY",P004159   ,Def Rebound (2),D,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,2,02:40,38,466,"HICKMAN, RICKY",P004159   ,Missed Three Pointer (0/4 -  8 pt),3FGA,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,7,02:38,38,467,"DONCIC, LUKA",P005929   ,Def Rebound (4),D,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,9,02:23,38,468,"REYES, FELIPE",PAAX      ,Missed Two Pointer (3/6 -  8 pt),2FGA,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,3,02:17,38,469,"WRIGHT, DORELL",P008049   ,Def Rebound (8),D,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,0,02:14,38,470,"HACKETT, DANIEL",P001844   ,Missed Two Pointer (2/4 -  13 pt),2FGA,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,7,02:14,38,471,"DONCIC, LUKA",P005929   ,Def Rebound (5),D,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,0,02:14,38,472,"HACKETT, DANIEL",P001844   ,Technical Foul (4),CMT,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,,02:14,38,473,,CO_A      ,Coach Foul (1),C,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,0,02:14,38,474,"HACKETT, DANIEL",P001844   ,Out,OUT,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,12,02:14,38,475,"LO, MAODO",P007032   ,In,IN,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,20,02:14,38,476,"CARROLL, JAYCEE",P001960   ,Free Throw In (3/3 -  7 pt),FTM,63.0,78.0,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,20,02:14,38,477,"CARROLL, JAYCEE",P001960   ,Free Throw In (4/4 -  8 pt),FTM,63.0,79.0,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,1,02:14,38,478,"CAUSEUR, FABIEN",P001392   ,In,IN,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,20,02:14,38,479,"CARROLL, JAYCEE",P001960   ,Out,OUT,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,11,01:56,39,481,"CAMPAZZO, FACUNDO",P005928   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,12,01:54,39,482,"LO, MAODO",P007032   ,Def Rebound (2),D,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,12,01:35,39,483,"LO, MAODO",P007032   ,Three Pointer (2/3 -  12 pt),3FGM,66.0,79.0,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,3,01:35,39,484,"WRIGHT, DORELL",P008049   ,Assist (2),AS,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,9,01:16,39,485,"REYES, FELIPE",PAAX      ,Two Pointer (4/7 -  10 pt),2FGM,66.0,81.0,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,7,01:16,39,509,"DONCIC, LUKA",P005929   ,Assist (8),AS,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,3,01:16,39,487,"WRIGHT, DORELL",P008049   ,Out,OUT,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,16,01:16,39,488,"OLINDE, LOUIS",P006919   ,In,IN,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,9,01:16,39,489,"REYES, FELIPE",PAAX      ,Out,OUT,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,22,01:16,39,490,"TAVARES, WALTER",P005791   ,In,IN,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,44,01:09,39,491,"TAYLOR, JEFFERY",P006546   ,Foul (3),CM,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,2,01:09,39,492,"HICKMAN, RICKY",P004159   ,Foul Drawn (3),RV,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,2,01:04,39,493,"HICKMAN, RICKY",P004159   ,Turnover (2),TO,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,7,01:02,39,494,"DONCIC, LUKA",P005929   ,Steal (2),ST,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,11,00:39,40,496,"CAMPAZZO, FACUNDO",P005928   ,Missed Three Pointer (0/7 -  2 pt),3FGA,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,2,00:36,40,497,"HICKMAN, RICKY",P004159   ,Def Rebound (3),D,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,44,00:32,40,498,"TAYLOR, JEFFERY",P006546   ,Foul (4),CM,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,2,00:32,40,499,"HICKMAN, RICKY",P004159   ,Foul Drawn (4),RV,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,11,00:20,40,500,"CAMPAZZO, FACUNDO",P005928   ,Foul (3),CM,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,6,00:20,40,501,"ZISIS, NIKOS",PABN      ,Out,OUT,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,7,00:20,40,502,"NIKOLIC, ALEKSEJ",P003703   ,In,IN,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,7,00:20,40,503,"NIKOLIC, ALEKSEJ",P003703   ,Foul Drawn (1),RV,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+BAM       ,,2,00:20,40,505,"HICKMAN, RICKY",P004159   ,Missed Three Pointer (0/5 -  8 pt),3FGA,,,Brose Bamberg,0,Brose Bamberg,BAM,Real Madrid,MAD
+MAD       ,,22,00:20,40,506,"TAVARES, WALTER",P005791   ,Def Rebound (7),D,,,Real Madrid,0,Brose Bamberg,BAM,Real Madrid,MAD
+          ,,,,41,510,,          ,End Game,EG,,,,0,Brose Bamberg,BAM,Real Madrid,MAD

@@ -1,507 +1,507 @@
-CODETEAM,COMMENT,DORSAL,MARKERTIME,MINUTE,NUMBEROFPLAY,PLAYER,PLAYER_ID,PLAYINFO,PLAYTYPE,POINTS_A,POINTS_B,TEAM,TYPE
-          ,,,,1,2,,          ,Begin Period,BP,,,,0
-BAR       ,,45,09:41,1,3,"MOERMAN, ADRIEN",P001833   ,Three Pointer (1/1 -  3 pt),3FGM,3.0,,FC Barcelona Lassa,0
-BAR       ,,13,09:39,1,4,"HEURTEL, THOMAS",PKLT      ,Assist (1),AS,,,FC Barcelona Lassa,0
-MAL       ,,23,09:19,1,5,"BROOKS, JEFF",P004117   ,Two Pointer (1/1 -  2 pt),2FGM,3.0,2.0,Unicaja Malaga,0
-MAL       ,,40,09:19,1,6,"AUGUSTINE, JAMES",P001438   ,Assist (1),AS,,,Unicaja Malaga,0
-BAR       ,,1,09:19,1,7,"SERAPHIN, KEVIN",P001948   ,Foul (1),CM,,,FC Barcelona Lassa,0
-MAL       ,,23,09:19,1,8,"BROOKS, JEFF",P004117   ,Foul Drawn (1),RV,,,Unicaja Malaga,0
-MAL       ,,23,09:19,1,9,"BROOKS, JEFF",P004117   ,Missed Free Throw (0/1 -  2 pt),FTA,,,Unicaja Malaga,0
-BAR       ,,1,09:15,1,10,"SERAPHIN, KEVIN",P001948   ,Def Rebound (1),D,,,FC Barcelona Lassa,0
-BAR       ,,21,09:04,1,11,"SANDERS, RAKIM",P005001   ,Turnover (1),TO,,,FC Barcelona Lassa,0
-MAL       ,,3,08:44,2,13,"MCCALLUM, RAY",P008002   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Unicaja Malaga,0
-BAR       ,,1,08:42,2,14,"SERAPHIN, KEVIN",P001948   ,Def Rebound (2),D,,,FC Barcelona Lassa,0
-BAR       ,,21,08:34,2,15,"SANDERS, RAKIM",P005001   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,FC Barcelona Lassa,0
-BAR       ,,21,08:34,2,16,"SANDERS, RAKIM",P005001   ,Shot Rejected (1),AG,,,FC Barcelona Lassa,0
-MAL       ,,11,08:31,2,17,"DIEZ, DANIEL",P003198   ,Block (1),FV,,,Unicaja Malaga,0
-MAL       ,,11,08:30,2,18,"DIEZ, DANIEL",P003198   ,Def Rebound (1),D,,,Unicaja Malaga,0
-MAL       ,,16,08:24,2,19,"NEDOVIC, NEMANJA",P000848   ,Three Pointer (1/1 -  3 pt),3FGM,3.0,5.0,Unicaja Malaga,0
-MAL       ,,40,08:22,2,20,"AUGUSTINE, JAMES",P001438   ,Assist (2),AS,,,Unicaja Malaga,0
-BAR       ,,9,08:03,2,21,"HANGA, ADAM",P005099   ,Three Pointer (1/1 -  3 pt),3FGM,6.0,5.0,FC Barcelona Lassa,0
-BAR       ,,45,08:01,2,22,"MOERMAN, ADRIEN",P001833   ,Assist (1),AS,,,FC Barcelona Lassa,0
-MAL       ,,40,07:55,3,24,"AUGUSTINE, JAMES",P001438   ,Two Pointer (1/1 -  2 pt),2FGM,6.0,7.0,Unicaja Malaga,0
-MAL       ,,16,07:53,3,25,"NEDOVIC, NEMANJA",P000848   ,Assist (1),AS,,,Unicaja Malaga,0
-BAR       ,,45,07:35,3,26,"MOERMAN, ADRIEN",P001833   ,Missed Two Pointer (0/1 -  3 pt),2FGA,,,FC Barcelona Lassa,0
-MAL       ,,40,07:33,3,27,"AUGUSTINE, JAMES",P001438   ,Def Rebound (1),D,,,Unicaja Malaga,0
-MAL       ,,40,07:26,3,28,"AUGUSTINE, JAMES",P001438   ,Two Pointer (2/2 -  4 pt),2FGM,6.0,9.0,Unicaja Malaga,0
-MAL       ,,3,07:24,3,29,"MCCALLUM, RAY",P008002   ,Assist (1),AS,,,Unicaja Malaga,0
-BAR       ,,45,07:04,3,30,"MOERMAN, ADRIEN",P001833   ,Missed Three Pointer (1/2 -  3 pt),3FGA,,,FC Barcelona Lassa,0
-BAR       ,,1,07:01,3,31,"SERAPHIN, KEVIN",P001948   ,Off Rebound (1),O,,,FC Barcelona Lassa,0
-BAR       ,,1,07:01,3,32,"SERAPHIN, KEVIN",P001948   ,Two Pointer (1/1 -  2 pt),2FGM,8.0,9.0,FC Barcelona Lassa,0
-MAL       ,,23,06:42,4,34,"BROOKS, JEFF",P004117   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,Unicaja Malaga,0
-MAL       ,,23,06:42,4,35,"BROOKS, JEFF",P004117   ,Shot Rejected (1),AG,,,Unicaja Malaga,0
-BAR       ,,1,06:39,4,36,"SERAPHIN, KEVIN",P001948   ,Block (1),FV,,,FC Barcelona Lassa,0
-BAR       ,,21,06:37,4,37,"SANDERS, RAKIM",P005001   ,Def Rebound (1),D,,,FC Barcelona Lassa,0
-BAR       ,,21,06:27,4,38,"SANDERS, RAKIM",P005001   ,Two Pointer (1/2 -  2 pt),2FGM,10.0,9.0,FC Barcelona Lassa,0
-BAR       ,,13,06:25,4,39,"HEURTEL, THOMAS",PKLT      ,Assist (2),AS,,,FC Barcelona Lassa,0
-MAL       ,,23,06:09,4,40,"BROOKS, JEFF",P004117   ,Three Pointer (1/1 -  5 pt),3FGM,10.0,12.0,Unicaja Malaga,0
-MAL       ,,11,06:07,4,41,"DIEZ, DANIEL",P003198   ,Assist (1),AS,,,Unicaja Malaga,0
-BAR       ,,21,05:54,5,43,"SANDERS, RAKIM",P005001   ,Three Pointer (1/1 -  5 pt),3FGM,13.0,12.0,FC Barcelona Lassa,0
-BAR       ,,9,05:52,5,44,"HANGA, ADAM",P005099   ,Assist (1),AS,,,FC Barcelona Lassa,0
-MAL       ,,11,05:37,5,45,"DIEZ, DANIEL",P003198   ,Two Pointer (1/1 -  2 pt),2FGM,13.0,14.0,Unicaja Malaga,0
-MAL       ,,16,05:35,5,46,"NEDOVIC, NEMANJA",P000848   ,Assist (2),AS,,,Unicaja Malaga,0
-BAR       ,,,05:12,5,47,,          ,Turnover (1),TO,,,FC Barcelona Lassa,0
-MAL       ,,11,05:04,5,48,"DIEZ, DANIEL",P003198   ,Two Pointer (2/2 -  4 pt),2FGM,13.0,16.0,Unicaja Malaga,0
-BAR       ,,13,04:48,6,50,"HEURTEL, THOMAS",PKLT      ,Three Pointer (1/1 -  3 pt),3FGM,16.0,16.0,FC Barcelona Lassa,0
-MAL       ,,16,04:28,6,51,"NEDOVIC, NEMANJA",P000848   ,Three Pointer (2/2 -  6 pt),3FGM,16.0,19.0,Unicaja Malaga,0
-MAL       ,,3,04:26,6,52,"MCCALLUM, RAY",P008002   ,Assist (2),AS,,,Unicaja Malaga,0
-BAR       ,,1,04:18,6,53,"SERAPHIN, KEVIN",P001948   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,FC Barcelona Lassa,0
-MAL       ,,11,04:15,6,54,"DIEZ, DANIEL",P003198   ,Def Rebound (2),D,,,Unicaja Malaga,0
-MAL       ,,16,04:08,6,55,"NEDOVIC, NEMANJA",P000848   ,Missed Two Pointer (0/1 -  6 pt),2FGA,,,Unicaja Malaga,0
-MAL       ,,16,04:08,6,56,"NEDOVIC, NEMANJA",P000848   ,Shot Rejected (1),AG,,,Unicaja Malaga,0
-BAR       ,,9,04:07,6,57,"HANGA, ADAM",P005099   ,Block (1),FV,,,FC Barcelona Lassa,0
-MAL       ,,,04:07,6,58,,          ,Off Rebound (1),O,,,Unicaja Malaga,0
-          ,,,04:07,6,59,,          ,TV Time Out (1),TOUT_TV,,,,0
-BAR       ,,21,04:07,6,60,"SANDERS, RAKIM",P005001   ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,25,04:07,6,61,"KOPONEN, PETTERI",P004178   ,In,IN,,,FC Barcelona Lassa,0
-MAL       ,,23,04:01,6,62,"BROOKS, JEFF",P004117   ,Two Pointer (2/3 -  7 pt),2FGM,16.0,21.0,Unicaja Malaga,0
-MAL       ,,40,03:41,7,64,"AUGUSTINE, JAMES",P001438   ,Foul (1),CM,,,Unicaja Malaga,0
-BAR       ,,1,03:41,7,65,"SERAPHIN, KEVIN",P001948   ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0
-BAR       ,,25,03:38,7,66,"KOPONEN, PETTERI",P004178   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,FC Barcelona Lassa,0
-MAL       ,,40,03:35,7,67,"AUGUSTINE, JAMES",P001438   ,Def Rebound (2),D,,,Unicaja Malaga,0
-MAL       ,,16,03:27,7,68,"NEDOVIC, NEMANJA",P000848   ,Missed Three Pointer (2/3 -  6 pt),3FGA,,,Unicaja Malaga,0
-MAL       ,,40,03:23,7,69,"AUGUSTINE, JAMES",P001438   ,Off Rebound (1),O,,,Unicaja Malaga,0
-MAL       ,,3,03:20,7,70,"MCCALLUM, RAY",P008002   ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,Unicaja Malaga,0
-BAR       ,,9,03:18,7,71,"HANGA, ADAM",P005099   ,Def Rebound (1),D,,,FC Barcelona Lassa,0
-BAR       ,,13,03:11,7,72,"HEURTEL, THOMAS",PKLT      ,Turnover (1),TO,,,FC Barcelona Lassa,0
-MAL       ,,16,03:09,7,73,"NEDOVIC, NEMANJA",P000848   ,Steal (1),ST,,,Unicaja Malaga,0
-MAL       ,,11,02:53,8,75,"DIEZ, DANIEL",P003198   ,Missed Three Pointer (0/1 -  4 pt),3FGA,,,Unicaja Malaga,0
-MAL       ,,40,02:52,8,76,"AUGUSTINE, JAMES",P001438   ,Off Rebound (2),O,,,Unicaja Malaga,0
-MAL       ,,40,02:52,8,77,"AUGUSTINE, JAMES",P001438   ,Missed Two Pointer (2/3 -  4 pt),2FGA,,,Unicaja Malaga,0
-MAL       ,,,02:52,8,78,,          ,Off Rebound (2),O,,,Unicaja Malaga,0
-BAR       ,,1,02:52,8,79,"SERAPHIN, KEVIN",P001948   ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,5,02:52,8,80,"RIBAS, PAU",PJUG      ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,13,02:52,8,81,"HEURTEL, THOMAS",PKLT      ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,18,02:52,8,82,"ORIOLA, PIERRE",P005917   ,In,IN,,,FC Barcelona Lassa,0
-MAL       ,,11,02:52,8,83,"DIEZ, DANIEL",P003198   ,Out,OUT,,,Unicaja Malaga,0
-MAL       ,,21,02:52,8,84,"WACZYNSKI, ADAM",PLDX      ,In,IN,,,Unicaja Malaga,0
-MAL       ,,16,02:39,8,85,"NEDOVIC, NEMANJA",P000848   ,Missed Three Pointer (2/4 -  6 pt),3FGA,,,Unicaja Malaga,0
-BAR       ,,18,02:37,8,86,"ORIOLA, PIERRE",P005917   ,Def Rebound (1),D,,,FC Barcelona Lassa,0
-BAR       ,,9,02:33,8,87,"HANGA, ADAM",P005099   ,Two Pointer (1/1 -  5 pt),2FGM,18.0,21.0,FC Barcelona Lassa,0
-BAR       ,,5,02:31,8,88,"RIBAS, PAU",PJUG      ,Assist (1),AS,,,FC Barcelona Lassa,0
-MAL       ,,23,02:18,8,89,"BROOKS, JEFF",P004117   ,Missed Two Pointer (2/4 -  7 pt),2FGA,,,Unicaja Malaga,0
-BAR       ,,18,02:14,8,90,"ORIOLA, PIERRE",P005917   ,Def Rebound (2),D,,,FC Barcelona Lassa,0
-BAR       ,,18,02:12,8,91,"ORIOLA, PIERRE",P005917   ,Turnover (1),TO,,,FC Barcelona Lassa,0
-MAL       ,,40,02:11,8,92,"AUGUSTINE, JAMES",P001438   ,Steal (1),ST,,,Unicaja Malaga,0
-MAL       ,,40,02:09,8,93,"AUGUSTINE, JAMES",P001438   ,Two Pointer (3/4 -  6 pt),2FGM,18.0,23.0,Unicaja Malaga,0
-MAL       ,,40,02:04,8,94,"AUGUSTINE, JAMES",P001438   ,Foul (2),CM,,,Unicaja Malaga,0
-BAR       ,,18,02:04,8,95,"ORIOLA, PIERRE",P005917   ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0
-BAR       ,,30,02:04,8,96,"CLAVER, VICTOR",P000556   ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,45,02:04,8,97,"MOERMAN, ADRIEN",P001833   ,Out,OUT,,,FC Barcelona Lassa,0
-MAL       ,,3,02:04,8,98,"MCCALLUM, RAY",P008002   ,Out,OUT,,,Unicaja Malaga,0
-MAL       ,,9,02:04,8,99,"DIAZ, ALBERTO",P004213   ,In,IN,,,Unicaja Malaga,0
-MAL       ,,17,02:04,8,100,"SHERMADINI, GIORGI",P001386   ,In,IN,,,Unicaja Malaga,0
-MAL       ,,40,02:04,8,101,"AUGUSTINE, JAMES",P001438   ,Out,OUT,,,Unicaja Malaga,0
-BAR       ,,18,02:04,8,102,"ORIOLA, PIERRE",P005917   ,Missed Free Throw (0/1 -  0 pt),FTA,,,FC Barcelona Lassa,0
-BAR       ,,18,02:04,8,103,"ORIOLA, PIERRE",P005917   ,Free Throw In (1/2 -  1 pt),FTM,19.0,23.0,FC Barcelona Lassa,0
-BAR       ,,9,02:04,8,104,"HANGA, ADAM",P005099   ,Assist (2),AS,,,FC Barcelona Lassa,0
-MAL       ,,9,01:43,9,106,"DIAZ, ALBERTO",P004213   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Unicaja Malaga,0
-MAL       ,,17,01:41,9,107,"SHERMADINI, GIORGI",P001386   ,Off Rebound (1),O,,,Unicaja Malaga,0
-BAR       ,,18,01:41,9,108,"ORIOLA, PIERRE",P005917   ,Foul (1),CM,,,FC Barcelona Lassa,0
-MAL       ,,17,01:41,9,109,"SHERMADINI, GIORGI",P001386   ,Foul Drawn (1),RV,,,Unicaja Malaga,0
-BAR       ,,9,01:41,9,110,"HANGA, ADAM",P005099   ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,21,01:41,9,111,"SANDERS, RAKIM",P005001   ,In,IN,,,FC Barcelona Lassa,0
-MAL       ,,16,01:33,9,112,"NEDOVIC, NEMANJA",P000848   ,Turnover (1),TO,,,Unicaja Malaga,0
-BAR       ,,5,01:32,9,113,"RIBAS, PAU",PJUG      ,Steal (1),ST,,,FC Barcelona Lassa,0
-BAR       ,,5,01:30,9,114,"RIBAS, PAU",PJUG      ,Two Pointer (1/1 -  2 pt),2FGM,21.0,23.0,FC Barcelona Lassa,0
-MAL       ,,21,01:08,9,115,"WACZYNSKI, ADAM",PLDX      ,Three Pointer (1/1 -  3 pt),3FGM,21.0,26.0,Unicaja Malaga,0
-MAL       ,,16,01:06,9,116,"NEDOVIC, NEMANJA",P000848   ,Assist (3),AS,,,Unicaja Malaga,0
-BAR       ,,30,00:49,10,118,"CLAVER, VICTOR",P000556   ,Three Pointer (1/1 -  3 pt),3FGM,24.0,26.0,FC Barcelona Lassa,0
-BAR       ,,25,00:47,10,119,"KOPONEN, PETTERI",P004178   ,Assist (1),AS,,,FC Barcelona Lassa,0
-BAR       ,,21,00:34,10,120,"SANDERS, RAKIM",P005001   ,Foul (1),CM,,,FC Barcelona Lassa,0
-MAL       ,,21,00:34,10,121,"WACZYNSKI, ADAM",PLDX      ,Foul Drawn (1),RV,,,Unicaja Malaga,0
-MAL       ,,10,00:34,10,122,"SALIN, SASU",P002820   ,In,IN,,,Unicaja Malaga,0
-MAL       ,,16,00:34,10,123,"NEDOVIC, NEMANJA",P000848   ,Out,OUT,,,Unicaja Malaga,0
-MAL       ,,23,00:34,10,124,"BROOKS, JEFF",P004117   ,Out,OUT,,,Unicaja Malaga,0
-MAL       ,,43,00:34,10,125,"SUAREZ, CARLOS",PJJS      ,In,IN,,,Unicaja Malaga,0
-MAL       ,,21,00:18,10,126,"WACZYNSKI, ADAM",PLDX      ,Missed Two Pointer (0/1 -  3 pt),2FGA,,,Unicaja Malaga,0
-BAR       ,,30,00:14,10,127,"CLAVER, VICTOR",P000556   ,Def Rebound (1),D,,,FC Barcelona Lassa,0
-MAL       ,,9,00:05,10,128,"DIAZ, ALBERTO",P004213   ,Foul (1),CM,,,Unicaja Malaga,0
-BAR       ,,5,00:05,10,129,"RIBAS, PAU",PJUG      ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0
-BAR       ,,18,00:00,10,130,"ORIOLA, PIERRE",P005917   ,Missed Two Pointer (0/1 -  1 pt),2FGA,,,FC Barcelona Lassa,0
-MAL       ,,43,00:00,10,131,"SUAREZ, CARLOS",PJJS      ,Def Rebound (1),D,,,Unicaja Malaga,0
-          ,,,,11,133,,          ,End Period,EP,,,,0
-          ,,,,11,134,,          ,Begin Period,BP,,,,0
-BAR       ,,18,09:43,11,135,"ORIOLA, PIERRE",P005917   ,Foul (2),CM,,,FC Barcelona Lassa,0
-MAL       ,,17,09:43,11,136,"SHERMADINI, GIORGI",P001386   ,Foul Drawn (2),RV,,,Unicaja Malaga,0
-MAL       ,,17,09:31,11,137,"SHERMADINI, GIORGI",P001386   ,Two Pointer (1/1 -  2 pt),2FGM,24.0,28.0,Unicaja Malaga,0
-MAL       ,,43,09:30,11,138,"SUAREZ, CARLOS",PJJS      ,Assist (1),AS,,,Unicaja Malaga,0
-BAR       ,,18,09:12,11,139,"ORIOLA, PIERRE",P005917   ,Two Pointer (1/2 -  3 pt),2FGM,26.0,28.0,FC Barcelona Lassa,0
-BAR       ,,21,09:10,11,140,"SANDERS, RAKIM",P005001   ,Assist (1),AS,,,FC Barcelona Lassa,0
-MAL       ,,9,09:01,11,141,"DIAZ, ALBERTO",P004213   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Unicaja Malaga,0
-BAR       ,,25,08:57,12,143,"KOPONEN, PETTERI",P004178   ,Def Rebound (1),D,,,FC Barcelona Lassa,0
-MAL       ,,21,08:47,12,144,"WACZYNSKI, ADAM",PLDX      ,Foul (1),CM,,,Unicaja Malaga,0
-BAR       ,,21,08:47,12,145,"SANDERS, RAKIM",P005001   ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0
-BAR       ,,21,08:38,12,146,"SANDERS, RAKIM",P005001   ,Missed Two Pointer (1/3 -  5 pt),2FGA,,,FC Barcelona Lassa,0
-MAL       ,,17,08:35,12,147,"SHERMADINI, GIORGI",P001386   ,Def Rebound (1),D,,,Unicaja Malaga,0
-MAL       ,,10,08:25,12,148,"SALIN, SASU",P002820   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Unicaja Malaga,0
-BAR       ,,18,08:24,12,149,"ORIOLA, PIERRE",P005917   ,Def Rebound (3),D,,,FC Barcelona Lassa,0
-BAR       ,,18,08:16,12,150,"ORIOLA, PIERRE",P005917   ,Turnover (2),TO,,,FC Barcelona Lassa,0
-BAR       ,,30,07:59,13,152,"CLAVER, VICTOR",P000556   ,Foul (1),CM,,,FC Barcelona Lassa,0
-MAL       ,,17,07:59,13,153,"SHERMADINI, GIORGI",P001386   ,Foul Drawn (3),RV,,,Unicaja Malaga,0
-MAL       ,,17,07:59,13,154,"SHERMADINI, GIORGI",P001386   ,Free Throw In (1/1 -  3 pt),FTM,26.0,29.0,Unicaja Malaga,0
-MAL       ,,17,07:59,13,155,"SHERMADINI, GIORGI",P001386   ,Free Throw In (2/2 -  4 pt),FTM,26.0,30.0,Unicaja Malaga,0
-BAR       ,,21,07:41,13,156,"SANDERS, RAKIM",P005001   ,Missed Three Pointer (1/2 -  5 pt),3FGA,,,FC Barcelona Lassa,0
-MAL       ,,10,07:39,13,157,"SALIN, SASU",P002820   ,Def Rebound (1),D,,,Unicaja Malaga,0
-MAL       ,,21,07:24,13,158,"WACZYNSKI, ADAM",PLDX      ,Turnover (1),TO,,,Unicaja Malaga,0
-BAR       ,,25,07:11,13,159,"KOPONEN, PETTERI",P004178   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,FC Barcelona Lassa,0
-MAL       ,,21,07:11,13,160,"WACZYNSKI, ADAM",PLDX      ,Foul (2),CM,,,Unicaja Malaga,0
-BAR       ,,21,07:11,13,161,"SANDERS, RAKIM",P005001   ,Foul Drawn (2),RV,,,FC Barcelona Lassa,0
-BAR       ,,5,06:59,14,163,"RIBAS, PAU",PJUG      ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,FC Barcelona Lassa,0
-MAL       ,,43,06:56,14,164,"SUAREZ, CARLOS",PJJS      ,Def Rebound (2),D,,,Unicaja Malaga,0
-MAL       ,,17,06:40,14,165,"SHERMADINI, GIORGI",P001386   ,Turnover (1),TO,,,Unicaja Malaga,0
-BAR       ,,1,06:40,14,166,"SERAPHIN, KEVIN",P001948   ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,18,06:40,14,167,"ORIOLA, PIERRE",P005917   ,Out,OUT,,,FC Barcelona Lassa,0
-MAL       ,,12,06:40,14,168,"MILOSAVLJEVIC, DRAGAN",P002822   ,In,IN,,,Unicaja Malaga,0
-MAL       ,,21,06:40,14,169,"WACZYNSKI, ADAM",PLDX      ,Out,OUT,,,Unicaja Malaga,0
-BAR       ,,5,06:26,14,170,"RIBAS, PAU",PJUG      ,Three Pointer (1/2 -  5 pt),3FGM,29.0,30.0,FC Barcelona Lassa,0
-BAR       ,,1,06:13,14,171,"SERAPHIN, KEVIN",P001948   ,Foul (2),CM,,,FC Barcelona Lassa,0
-MAL       ,,17,06:13,14,172,"SHERMADINI, GIORGI",P001386   ,Foul Drawn (4),RV,,,Unicaja Malaga,0
-BAR       ,,30,06:10,14,173,"CLAVER, VICTOR",P000556   ,Foul (2),CM,,,FC Barcelona Lassa,0
-MAL       ,,10,06:10,14,174,"SALIN, SASU",P002820   ,Foul Drawn (1),RV,,,Unicaja Malaga,0
-MAL       ,,43,05:58,15,176,"SUAREZ, CARLOS",PJJS      ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Unicaja Malaga,0
-BAR       ,,30,05:56,15,177,"CLAVER, VICTOR",P000556   ,Def Rebound (2),D,,,FC Barcelona Lassa,0
-BAR       ,,21,05:47,15,178,"SANDERS, RAKIM",P005001   ,Two Pointer (2/4 -  7 pt),2FGM,31.0,30.0,FC Barcelona Lassa,0
-BAR       ,,5,05:46,15,179,"RIBAS, PAU",PJUG      ,Assist (2),AS,,,FC Barcelona Lassa,0
-MAL       ,,17,05:24,15,180,"SHERMADINI, GIORGI",P001386   ,Missed Two Pointer (1/2 -  4 pt),2FGA,,,Unicaja Malaga,0
-MAL       ,,17,05:22,15,181,"SHERMADINI, GIORGI",P001386   ,Off Rebound (2),O,,,Unicaja Malaga,0
-MAL       ,,17,05:13,15,182,"SHERMADINI, GIORGI",P001386   ,Turnover (2),TO,,,Unicaja Malaga,0
-BAR       ,,1,05:11,15,183,"SERAPHIN, KEVIN",P001948   ,Steal (1),ST,,,FC Barcelona Lassa,0
-          ,,,04:56,16,185,,          ,TV Time Out (2),TOUT_TV,,,,0
-BAR       ,,5,04:56,16,186,"RIBAS, PAU",PJUG      ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,9,04:56,16,187,"HANGA, ADAM",P005099   ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,13,04:56,16,188,"HEURTEL, THOMAS",PKLT      ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,25,04:56,16,189,"KOPONEN, PETTERI",P004178   ,Out,OUT,,,FC Barcelona Lassa,0
-MAL       ,,17,04:56,16,190,"SHERMADINI, GIORGI",P001386   ,Out,OUT,,,Unicaja Malaga,0
-MAL       ,,40,04:56,16,191,"AUGUSTINE, JAMES",P001438   ,In,IN,,,Unicaja Malaga,0
-BAR       ,,1,04:56,16,192,"SERAPHIN, KEVIN",P001948   ,Missed Two Pointer (1/3 -  2 pt),2FGA,,,FC Barcelona Lassa,0
-BAR       ,,1,04:56,16,193,"SERAPHIN, KEVIN",P001948   ,Shot Rejected (1),AG,,,FC Barcelona Lassa,0
-MAL       ,,40,04:56,16,194,"AUGUSTINE, JAMES",P001438   ,Block (1),FV,,,Unicaja Malaga,0
-MAL       ,,40,04:56,16,195,"AUGUSTINE, JAMES",P001438   ,Def Rebound (3),D,,,Unicaja Malaga,0
-MAL       ,,12,04:56,16,196,"MILOSAVLJEVIC, DRAGAN",P002822   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Unicaja Malaga,0
-MAL       ,,43,04:56,16,197,"SUAREZ, CARLOS",PJJS      ,Off Rebound (1),O,,,Unicaja Malaga,0
-MAL       ,,43,04:56,16,198,"SUAREZ, CARLOS",PJJS      ,Two Pointer (1/1 -  2 pt),2FGM,31.0,32.0,Unicaja Malaga,0
-BAR       ,,30,04:19,16,199,"CLAVER, VICTOR",P000556   ,Missed Three Pointer (1/2 -  3 pt),3FGA,,,FC Barcelona Lassa,0
-BAR       ,,1,04:17,16,200,"SERAPHIN, KEVIN",P001948   ,Off Rebound (2),O,,,FC Barcelona Lassa,0
-BAR       ,,1,04:11,16,201,"SERAPHIN, KEVIN",P001948   ,Two Pointer (2/4 -  4 pt),2FGM,33.0,32.0,FC Barcelona Lassa,0
-MAL       ,,40,03:53,17,203,"AUGUSTINE, JAMES",P001438   ,Two Pointer (4/5 -  8 pt),2FGM,33.0,34.0,Unicaja Malaga,0
-MAL       ,,10,03:53,17,204,"SALIN, SASU",P002820   ,Assist (1),AS,,,Unicaja Malaga,0
-BAR       ,,30,03:53,17,205,"CLAVER, VICTOR",P000556   ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,45,03:53,17,206,"MOERMAN, ADRIEN",P001833   ,In,IN,,,FC Barcelona Lassa,0
-MAL       ,,2,03:53,17,207,"OKOUO, VINY",P005363   ,In,IN,,,Unicaja Malaga,0
-MAL       ,,40,03:53,17,208,"AUGUSTINE, JAMES",P001438   ,Out,OUT,,,Unicaja Malaga,0
-BAR       ,,13,03:36,17,209,"HEURTEL, THOMAS",PKLT      ,Three Pointer (2/2 -  6 pt),3FGM,36.0,34.0,FC Barcelona Lassa,0
-BAR       ,,45,03:25,17,210,"MOERMAN, ADRIEN",P001833   ,Foul (1),CM,,,FC Barcelona Lassa,0
-MAL       ,,43,03:25,17,211,"SUAREZ, CARLOS",PJJS      ,Foul Drawn (1),RV,,,Unicaja Malaga,0
-MAL       ,,3,03:25,17,212,"MCCALLUM, RAY",P008002   ,In,IN,,,Unicaja Malaga,0
-MAL       ,,9,03:25,17,213,"DIAZ, ALBERTO",P004213   ,Out,OUT,,,Unicaja Malaga,0
-MAL       ,,43,03:25,17,214,"SUAREZ, CARLOS",PJJS      ,Free Throw In (1/1 -  3 pt),FTM,36.0,35.0,Unicaja Malaga,0
-MAL       ,,43,03:25,17,215,"SUAREZ, CARLOS",PJJS      ,Missed Free Throw (1/2 -  3 pt),FTA,,,Unicaja Malaga,0
-BAR       ,,,03:23,17,216,,          ,Def Rebound (1),D,,,FC Barcelona Lassa,0
-BAR       ,,13,03:14,17,217,"HEURTEL, THOMAS",PKLT      ,Missed Three Pointer (2/3 -  6 pt),3FGA,,,FC Barcelona Lassa,0
-BAR       ,,1,03:11,17,218,"SERAPHIN, KEVIN",P001948   ,Off Rebound (3),O,,,FC Barcelona Lassa,0
-MAL       ,,2,03:10,17,219,"OKOUO, VINY",P005363   ,Foul (1),CM,,,Unicaja Malaga,0
-BAR       ,,1,03:10,17,220,"SERAPHIN, KEVIN",P001948   ,Foul Drawn (2),RV,,,FC Barcelona Lassa,0
-BAR       ,,13,03:04,17,221,"HEURTEL, THOMAS",PKLT      ,Two Pointer (1/1 -  8 pt),2FGM,38.0,35.0,FC Barcelona Lassa,0
-MAL       ,,2,03:04,17,222,"OKOUO, VINY",P005363   ,Foul (2),CM,,,Unicaja Malaga,0
-BAR       ,,13,03:04,17,223,"HEURTEL, THOMAS",PKLT      ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0
-MAL       ,,10,03:04,17,224,"SALIN, SASU",P002820   ,Out,OUT,,,Unicaja Malaga,0
-MAL       ,,16,03:04,17,225,"NEDOVIC, NEMANJA",P000848   ,In,IN,,,Unicaja Malaga,0
-BAR       ,,13,03:04,17,226,"HEURTEL, THOMAS",PKLT      ,Free Throw In (1/1 -  9 pt),FTM,39.0,35.0,FC Barcelona Lassa,0
-MAL       ,,3,02:46,18,228,"MCCALLUM, RAY",P008002   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Unicaja Malaga,0
-BAR       ,,1,02:44,18,229,"SERAPHIN, KEVIN",P001948   ,Def Rebound (3),D,,,FC Barcelona Lassa,0
-BAR       ,,13,02:35,18,230,"HEURTEL, THOMAS",PKLT      ,Two Pointer (2/2 -  11 pt),2FGM,41.0,35.0,FC Barcelona Lassa,0
-MAL       ,,,02:35,18,231,,          ,Time Out (1),TOUT,,,Unicaja Malaga,0
-MAL       ,,2,02:35,18,232,"OKOUO, VINY",P005363   ,Out,OUT,,,Unicaja Malaga,0
-MAL       ,,23,02:35,18,233,"BROOKS, JEFF",P004117   ,In,IN,,,Unicaja Malaga,0
-BAR       ,,13,02:30,18,234,"HEURTEL, THOMAS",PKLT      ,Foul (1),CM,,,FC Barcelona Lassa,0
-MAL       ,,43,02:30,18,235,"SUAREZ, CARLOS",PJJS      ,Foul Drawn (2),RV,,,Unicaja Malaga,0
-MAL       ,,12,02:30,18,236,"MILOSAVLJEVIC, DRAGAN",P002822   ,Assist (1),AS,,,Unicaja Malaga,0
-MAL       ,,43,02:30,18,237,"SUAREZ, CARLOS",PJJS      ,Free Throw In (2/3 -  4 pt),FTM,41.0,36.0,Unicaja Malaga,0
-MAL       ,,43,02:30,18,238,"SUAREZ, CARLOS",PJJS      ,Free Throw In (3/4 -  5 pt),FTM,41.0,37.0,Unicaja Malaga,0
-BAR       ,,21,02:15,18,239,"SANDERS, RAKIM",P005001   ,Two Pointer (3/5 -  9 pt),2FGM,43.0,37.0,FC Barcelona Lassa,0
-MAL       ,,23,02:01,18,240,"BROOKS, JEFF",P004117   ,Three Pointer (2/2 -  10 pt),3FGM,43.0,40.0,Unicaja Malaga,0
-MAL       ,,3,01:58,19,242,"MCCALLUM, RAY",P008002   ,Assist (3),AS,,,Unicaja Malaga,0
-BAR       ,,21,01:42,19,243,"SANDERS, RAKIM",P005001   ,Missed Two Pointer (3/6 -  9 pt),2FGA,,,FC Barcelona Lassa,0
-BAR       ,,1,01:39,19,244,"SERAPHIN, KEVIN",P001948   ,Off Rebound (4),O,,,FC Barcelona Lassa,0
-BAR       ,,1,01:38,19,245,"SERAPHIN, KEVIN",P001948   ,Two Pointer (3/5 -  6 pt),2FGM,45.0,40.0,FC Barcelona Lassa,0
-MAL       ,,12,01:21,19,246,"MILOSAVLJEVIC, DRAGAN",P002822   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Unicaja Malaga,0
-BAR       ,,1,01:21,19,247,"SERAPHIN, KEVIN",P001948   ,Foul (3),CM,,,FC Barcelona Lassa,0
-MAL       ,,43,01:21,19,248,"SUAREZ, CARLOS",PJJS      ,Foul Drawn (3),RV,,,Unicaja Malaga,0
-BAR       ,,1,01:21,19,249,"SERAPHIN, KEVIN",P001948   ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,18,01:21,19,250,"ORIOLA, PIERRE",P005917   ,In,IN,,,FC Barcelona Lassa,0
-MAL       ,,11,01:21,19,251,"DIEZ, DANIEL",P003198   ,In,IN,,,Unicaja Malaga,0
-MAL       ,,12,01:21,19,252,"MILOSAVLJEVIC, DRAGAN",P002822   ,Out,OUT,,,Unicaja Malaga,0
-MAL       ,,43,01:21,19,253,"SUAREZ, CARLOS",PJJS      ,Free Throw In (4/5 -  6 pt),FTM,45.0,41.0,Unicaja Malaga,0
-MAL       ,,43,01:21,19,254,"SUAREZ, CARLOS",PJJS      ,Free Throw In (5/6 -  7 pt),FTM,45.0,42.0,Unicaja Malaga,0
-BAR       ,,9,01:01,19,255,"HANGA, ADAM",P005099   ,Missed Two Pointer (1/2 -  5 pt),2FGA,,,FC Barcelona Lassa,0
-MAL       ,,43,00:59,20,257,"SUAREZ, CARLOS",PJJS      ,Def Rebound (3),D,,,Unicaja Malaga,0
-MAL       ,,3,00:40,20,258,"MCCALLUM, RAY",P008002   ,Two Pointer (1/2 -  2 pt),2FGM,45.0,44.0,Unicaja Malaga,0
-BAR       ,,,00:40,20,259,,          ,Time Out (1),TOUT,,,FC Barcelona Lassa,0
-MAL       ,,17,00:40,20,260,"SHERMADINI, GIORGI",P001386   ,In,IN,,,Unicaja Malaga,0
-MAL       ,,43,00:40,20,261,"SUAREZ, CARLOS",PJJS      ,Out,OUT,,,Unicaja Malaga,0
-BAR       ,,21,00:18,20,262,"SANDERS, RAKIM",P005001   ,Missed Two Pointer (3/7 -  9 pt),2FGA,,,FC Barcelona Lassa,0
-MAL       ,,17,00:16,20,263,"SHERMADINI, GIORGI",P001386   ,Def Rebound (2),D,,,Unicaja Malaga,0
-MAL       ,,3,00:02,20,264,"MCCALLUM, RAY",P008002   ,Missed Three Pointer (0/3 -  2 pt),3FGA,,,Unicaja Malaga,0
-MAL       ,,17,00:00,20,265,"SHERMADINI, GIORGI",P001386   ,Off Rebound (3),O,,,Unicaja Malaga,0
-MAL       ,,17,00:00,20,266,"SHERMADINI, GIORGI",P001386   ,Missed Two Pointer (1/3 -  4 pt),2FGA,,,Unicaja Malaga,0
-BAR       ,,21,00:00,20,267,"SANDERS, RAKIM",P005001   ,Def Rebound (2),D,,,FC Barcelona Lassa,0
-          ,,,,21,269,,          ,End Period,EP,,,,0
-          ,,,,21,272,,          ,Begin Period,BP,,,,0
-MAL       ,,17,10:00,21,270,"SHERMADINI, GIORGI",P001386   ,Out,OUT,,,Unicaja Malaga,0
-MAL       ,,40,10:00,21,271,"AUGUSTINE, JAMES",P001438   ,In,IN,,,Unicaja Malaga,0
-BAR       ,,18,09:48,21,273,"ORIOLA, PIERRE",P005917   ,Missed Two Pointer (1/3 -  3 pt),2FGA,,,FC Barcelona Lassa,0
-MAL       ,,16,09:45,21,274,"NEDOVIC, NEMANJA",P000848   ,Def Rebound (1),D,,,Unicaja Malaga,0
-BAR       ,,45,09:30,21,275,"MOERMAN, ADRIEN",P001833   ,Foul (2),CM,,,FC Barcelona Lassa,0
-MAL       ,,16,09:30,21,276,"NEDOVIC, NEMANJA",P000848   ,Foul Drawn (1),RV,,,Unicaja Malaga,0
-MAL       ,,17,09:30,21,277,"SHERMADINI, GIORGI",P001386   ,In,IN,,,Unicaja Malaga,0
-MAL       ,,40,09:30,21,278,"AUGUSTINE, JAMES",P001438   ,Out,OUT,,,Unicaja Malaga,0
-MAL       ,,16,09:30,21,279,"NEDOVIC, NEMANJA",P000848   ,Free Throw In (1/1 -  7 pt),FTM,45.0,45.0,Unicaja Malaga,0
-MAL       ,,16,09:30,21,280,"NEDOVIC, NEMANJA",P000848   ,Missed Free Throw (1/2 -  7 pt),FTA,,,Unicaja Malaga,0
-BAR       ,,21,09:26,21,281,"SANDERS, RAKIM",P005001   ,Def Rebound (3),D,,,FC Barcelona Lassa,0
-BAR       ,,21,09:19,21,282,"SANDERS, RAKIM",P005001   ,Three Pointer (2/3 -  12 pt),3FGM,48.0,45.0,FC Barcelona Lassa,0
-BAR       ,,9,09:16,21,283,"HANGA, ADAM",P005099   ,Assist (3),AS,,,FC Barcelona Lassa,0
-MAL       ,,16,09:02,21,284,"NEDOVIC, NEMANJA",P000848   ,Three Pointer (3/5 -  10 pt),3FGM,48.0,48.0,Unicaja Malaga,0
-BAR       ,,21,08:41,22,286,"SANDERS, RAKIM",P005001   ,Missed Two Pointer (3/8 -  12 pt),2FGA,,,FC Barcelona Lassa,0
-BAR       ,,18,08:41,22,287,"ORIOLA, PIERRE",P005917   ,Off Rebound (1),O,,,FC Barcelona Lassa,0
-MAL       ,,23,08:41,22,288,"BROOKS, JEFF",P004117   ,Foul (1),CM,,,Unicaja Malaga,0
-BAR       ,,18,08:41,22,289,"ORIOLA, PIERRE",P005917   ,Foul Drawn (2),RV,,,FC Barcelona Lassa,0
-BAR       ,,18,08:41,22,290,"ORIOLA, PIERRE",P005917   ,Free Throw In (2/3 -  4 pt),FTM,49.0,48.0,FC Barcelona Lassa,0
-BAR       ,,18,08:41,22,291,"ORIOLA, PIERRE",P005917   ,Missed Free Throw (2/4 -  4 pt),FTA,,,FC Barcelona Lassa,0
-MAL       ,,17,08:38,22,292,"SHERMADINI, GIORGI",P001386   ,Def Rebound (3),D,,,Unicaja Malaga,0
-MAL       ,,3,08:17,22,293,"MCCALLUM, RAY",P008002   ,Two Pointer (2/3 -  4 pt),2FGM,49.0,50.0,Unicaja Malaga,0
-BAR       ,,13,08:01,22,294,"HEURTEL, THOMAS",PKLT      ,Two Pointer (3/3 -  13 pt),2FGM,51.0,50.0,FC Barcelona Lassa,0
-MAL       ,,23,07:38,23,296,"BROOKS, JEFF",P004117   ,Missed Two Pointer (2/5 -  10 pt),2FGA,,,Unicaja Malaga,0
-MAL       ,,17,07:36,23,297,"SHERMADINI, GIORGI",P001386   ,Off Rebound (4),O,,,Unicaja Malaga,0
-MAL       ,,16,07:27,23,298,"NEDOVIC, NEMANJA",P000848   ,Two Pointer (1/2 -  12 pt),2FGM,51.0,52.0,Unicaja Malaga,0
-MAL       ,,3,07:07,23,299,"MCCALLUM, RAY",P008002   ,Foul (1),CM,,,Unicaja Malaga,0
-BAR       ,,13,07:07,23,300,"HEURTEL, THOMAS",PKLT      ,Foul Drawn (2),RV,,,FC Barcelona Lassa,0
-BAR       ,,13,07:07,23,301,"HEURTEL, THOMAS",PKLT      ,Missed Free Throw (1/2 -  13 pt),FTA,,,FC Barcelona Lassa,0
-BAR       ,,13,07:07,23,302,"HEURTEL, THOMAS",PKLT      ,Free Throw In (2/3 -  14 pt),FTM,52.0,52.0,FC Barcelona Lassa,0
-MAL       ,,3,06:52,24,304,"MCCALLUM, RAY",P008002   ,Two Pointer (3/4 -  6 pt),2FGM,52.0,54.0,Unicaja Malaga,0
-BAR       ,,18,06:47,24,305,"ORIOLA, PIERRE",P005917   ,Two Pointer (2/4 -  6 pt),2FGM,54.0,54.0,FC Barcelona Lassa,0
-BAR       ,,13,06:43,24,306,"HEURTEL, THOMAS",PKLT      ,Assist (3),AS,,,FC Barcelona Lassa,0
-MAL       ,,23,06:41,24,307,"BROOKS, JEFF",P004117   ,Offensive Foul (2),OF,,,Unicaja Malaga,0
-MAL       ,,23,06:41,24,308,"BROOKS, JEFF",P004117   ,Turnover (1),TO,,,Unicaja Malaga,0
-BAR       ,,9,06:41,24,309,"HANGA, ADAM",P005099   ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0
-BAR       ,,45,06:20,24,310,"MOERMAN, ADRIEN",P001833   ,Three Pointer (2/3 -  6 pt),3FGM,57.0,54.0,FC Barcelona Lassa,0
-BAR       ,,13,06:18,24,311,"HEURTEL, THOMAS",PKLT      ,Assist (4),AS,,,FC Barcelona Lassa,0
-MAL       ,,16,06:07,24,312,"NEDOVIC, NEMANJA",P000848   ,Two Pointer (2/3 -  14 pt),2FGM,57.0,56.0,Unicaja Malaga,0
-BAR       ,,18,05:48,25,314,"ORIOLA, PIERRE",P005917   ,Two Pointer (3/5 -  8 pt),2FGM,59.0,56.0,FC Barcelona Lassa,0
-BAR       ,,13,05:47,25,315,"HEURTEL, THOMAS",PKLT      ,Assist (5),AS,,,FC Barcelona Lassa,0
-MAL       ,,3,05:36,25,316,"MCCALLUM, RAY",P008002   ,Turnover (1),TO,,,Unicaja Malaga,0
-BAR       ,,13,05:35,25,317,"HEURTEL, THOMAS",PKLT      ,Steal (1),ST,,,FC Barcelona Lassa,0
-BAR       ,,21,05:29,25,318,"SANDERS, RAKIM",P005001   ,Two Pointer (4/9 -  14 pt),2FGM,61.0,56.0,FC Barcelona Lassa,0
-BAR       ,,13,05:27,25,319,"HEURTEL, THOMAS",PKLT      ,Assist (6),AS,,,FC Barcelona Lassa,0
-BAR       ,,21,05:17,25,320,"SANDERS, RAKIM",P005001   ,Foul (2),CM,,,FC Barcelona Lassa,0
-MAL       ,,17,05:17,25,321,"SHERMADINI, GIORGI",P001386   ,Foul Drawn (5),RV,,,Unicaja Malaga,0
-BAR       ,,21,05:17,25,322,"SANDERS, RAKIM",P005001   ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,25,05:17,25,323,"KOPONEN, PETTERI",P004178   ,In,IN,,,FC Barcelona Lassa,0
-MAL       ,,17,05:17,25,324,"SHERMADINI, GIORGI",P001386   ,Out,OUT,,,Unicaja Malaga,0
-MAL       ,,40,05:17,25,325,"AUGUSTINE, JAMES",P001438   ,In,IN,,,Unicaja Malaga,0
-MAL       ,,11,05:04,25,326,"DIEZ, DANIEL",P003198   ,Missed Three Pointer (0/2 -  4 pt),3FGA,,,Unicaja Malaga,0
-BAR       ,,13,05:02,25,327,"HEURTEL, THOMAS",PKLT      ,Def Rebound (1),D,,,FC Barcelona Lassa,0
-BAR       ,,18,04:58,26,329,"ORIOLA, PIERRE",P005917   ,Missed Two Pointer (3/6 -  8 pt),2FGA,,,FC Barcelona Lassa,0
-MAL       ,,40,04:56,26,330,"AUGUSTINE, JAMES",P001438   ,Def Rebound (4),D,,,Unicaja Malaga,0
-MAL       ,,23,04:49,26,331,"BROOKS, JEFF",P004117   ,Three Pointer (3/3 -  13 pt),3FGM,61.0,59.0,Unicaja Malaga,0
-MAL       ,,3,04:46,26,332,"MCCALLUM, RAY",P008002   ,Assist (4),AS,,,Unicaja Malaga,0
-          ,,,04:31,26,333,,          ,TV Time Out (3),TOUT_TV,,,,0
-BAR       ,,5,04:31,26,334,"RIBAS, PAU",PJUG      ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,13,04:31,26,335,"HEURTEL, THOMAS",PKLT      ,Out,OUT,,,FC Barcelona Lassa,0
-MAL       ,,11,04:31,26,336,"DIEZ, DANIEL",P003198   ,Out,OUT,,,Unicaja Malaga,0
-MAL       ,,21,04:31,26,337,"WACZYNSKI, ADAM",PLDX      ,In,IN,,,Unicaja Malaga,0
-BAR       ,,45,04:27,26,338,"MOERMAN, ADRIEN",P001833   ,Missed Three Pointer (2/4 -  6 pt),3FGA,,,FC Barcelona Lassa,0
-BAR       ,,18,04:25,26,339,"ORIOLA, PIERRE",P005917   ,Off Rebound (2),O,,,FC Barcelona Lassa,0
-BAR       ,,25,04:21,26,340,"KOPONEN, PETTERI",P004178   ,Missed Two Pointer (0/3 -  0 pt),2FGA,,,FC Barcelona Lassa,0
-MAL       ,,3,04:18,26,341,"MCCALLUM, RAY",P008002   ,Def Rebound (1),D,,,Unicaja Malaga,0
-MAL       ,,21,04:15,26,342,"WACZYNSKI, ADAM",PLDX      ,Two Pointer (1/2 -  5 pt),2FGM,61.0,61.0,Unicaja Malaga,0
-BAR       ,,45,04:15,26,343,"MOERMAN, ADRIEN",P001833   ,Foul (3),CM,,,FC Barcelona Lassa,0
-MAL       ,,21,04:15,26,344,"WACZYNSKI, ADAM",PLDX      ,Foul Drawn (2),RV,,,Unicaja Malaga,0
-BAR       ,,1,04:15,26,345,"SERAPHIN, KEVIN",P001948   ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,18,04:15,26,346,"ORIOLA, PIERRE",P005917   ,Out,OUT,,,FC Barcelona Lassa,0
-MAL       ,,21,04:15,26,347,"WACZYNSKI, ADAM",PLDX      ,Missed Free Throw (0/1 -  5 pt),FTA,,,Unicaja Malaga,0
-BAR       ,,1,04:13,26,348,"SERAPHIN, KEVIN",P001948   ,Def Rebound (4),D,,,FC Barcelona Lassa,0
-BAR       ,,1,03:49,27,350,"SERAPHIN, KEVIN",P001948   ,Missed Three Pointer (0/1 -  6 pt),3FGA,,,FC Barcelona Lassa,0
-MAL       ,,16,03:47,27,351,"NEDOVIC, NEMANJA",P000848   ,Def Rebound (2),D,,,Unicaja Malaga,0
-MAL       ,,16,03:40,27,352,"NEDOVIC, NEMANJA",P000848   ,Two Pointer (3/4 -  16 pt),2FGM,61.0,63.0,Unicaja Malaga,0
-BAR       ,,25,03:20,27,353,"KOPONEN, PETTERI",P004178   ,Turnover (1),TO,,,FC Barcelona Lassa,0
-MAL       ,,21,03:19,27,354,"WACZYNSKI, ADAM",PLDX      ,Steal (1),ST,,,Unicaja Malaga,0
-MAL       ,,16,03:14,27,355,"NEDOVIC, NEMANJA",P000848   ,Missed Three Pointer (3/6 -  16 pt),3FGA,,,Unicaja Malaga,0
-BAR       ,,9,03:12,27,356,"HANGA, ADAM",P005099   ,Def Rebound (2),D,,,FC Barcelona Lassa,0
-MAL       ,,16,02:56,28,358,"NEDOVIC, NEMANJA",P000848   ,Foul (1),CM,,,Unicaja Malaga,0
-BAR       ,,25,02:56,28,359,"KOPONEN, PETTERI",P004178   ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0
-BAR       ,,30,02:56,28,360,"CLAVER, VICTOR",P000556   ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,45,02:56,28,361,"MOERMAN, ADRIEN",P001833   ,Out,OUT,,,FC Barcelona Lassa,0
-MAL       ,,12,02:56,28,362,"MILOSAVLJEVIC, DRAGAN",P002822   ,In,IN,,,Unicaja Malaga,0
-MAL       ,,16,02:56,28,363,"NEDOVIC, NEMANJA",P000848   ,Out,OUT,,,Unicaja Malaga,0
-BAR       ,,30,02:42,28,364,"CLAVER, VICTOR",P000556   ,Missed Two Pointer (0/1 -  3 pt),2FGA,,,FC Barcelona Lassa,0
-MAL       ,,23,02:40,28,365,"BROOKS, JEFF",P004117   ,Def Rebound (1),D,,,Unicaja Malaga,0
-MAL       ,,23,02:31,28,366,"BROOKS, JEFF",P004117   ,Missed Two Pointer (2/6 -  13 pt),2FGA,,,Unicaja Malaga,0
-BAR       ,,9,02:28,28,367,"HANGA, ADAM",P005099   ,Def Rebound (3),D,,,FC Barcelona Lassa,0
-BAR       ,,5,02:16,28,368,"RIBAS, PAU",PJUG      ,Turnover (1),TO,,,FC Barcelona Lassa,0
-MAL       ,,21,02:14,28,369,"WACZYNSKI, ADAM",PLDX      ,Steal (2),ST,,,Unicaja Malaga,0
-BAR       ,,5,02:12,28,370,"RIBAS, PAU",PJUG      ,Foul (1),CM,,,FC Barcelona Lassa,0
-MAL       ,,23,02:12,28,371,"BROOKS, JEFF",P004117   ,Foul Drawn (2),RV,,,Unicaja Malaga,0
-MAL       ,,3,02:01,28,372,"MCCALLUM, RAY",P008002   ,Missed Two Pointer (3/5 -  6 pt),2FGA,,,Unicaja Malaga,0
-MAL       ,,40,02:01,28,373,"AUGUSTINE, JAMES",P001438   ,Off Rebound (3),O,,,Unicaja Malaga,0
-MAL       ,,40,02:01,28,374,"AUGUSTINE, JAMES",P001438   ,Missed Two Pointer (4/6 -  8 pt),2FGA,,,Unicaja Malaga,0
-MAL       ,,40,02:01,28,375,"AUGUSTINE, JAMES",P001438   ,Off Rebound (4),O,,,Unicaja Malaga,0
-MAL       ,,40,02:01,28,376,"AUGUSTINE, JAMES",P001438   ,Two Pointer (5/7 -  10 pt),2FGM,61.0,65.0,Unicaja Malaga,0
-BAR       ,,,02:01,28,377,,          ,Time Out (1),TOUT,,,FC Barcelona Lassa,0
-BAR       ,,13,02:01,28,378,"HEURTEL, THOMAS",PKLT      ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,25,02:01,28,379,"KOPONEN, PETTERI",P004178   ,Out,OUT,,,FC Barcelona Lassa,0
-MAL       ,,3,02:01,28,380,"MCCALLUM, RAY",P008002   ,Out,OUT,,,Unicaja Malaga,0
-MAL       ,,9,02:01,28,381,"DIAZ, ALBERTO",P004213   ,In,IN,,,Unicaja Malaga,0
-BAR       ,,1,01:44,29,383,"SERAPHIN, KEVIN",P001948   ,Missed Two Pointer (3/6 -  6 pt),2FGA,,,FC Barcelona Lassa,0
-BAR       ,,1,01:44,29,384,"SERAPHIN, KEVIN",P001948   ,Shot Rejected (2),AG,,,FC Barcelona Lassa,0
-MAL       ,,40,01:40,29,385,"AUGUSTINE, JAMES",P001438   ,Block (2),FV,,,Unicaja Malaga,0
-MAL       ,,40,01:39,29,386,"AUGUSTINE, JAMES",P001438   ,Def Rebound (5),D,,,Unicaja Malaga,0
-MAL       ,,40,01:21,29,387,"AUGUSTINE, JAMES",P001438   ,Missed Three Pointer (0/1 -  10 pt),3FGA,,,Unicaja Malaga,0
-BAR       ,,13,01:19,29,388,"HEURTEL, THOMAS",PKLT      ,Def Rebound (2),D,,,FC Barcelona Lassa,0
-MAL       ,,40,01:16,29,389,"AUGUSTINE, JAMES",P001438   ,Foul (3),CM,,,Unicaja Malaga,0
-BAR       ,,1,01:16,29,390,"SERAPHIN, KEVIN",P001948   ,Foul Drawn (3),RV,,,FC Barcelona Lassa,0
-BAR       ,,9,01:16,29,391,"HANGA, ADAM",P005099   ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,14,01:16,29,392,"VEZENKOV, SASHA",P003469   ,In,IN,,,FC Barcelona Lassa,0
-MAL       ,,40,01:16,29,393,"AUGUSTINE, JAMES",P001438   ,Out,OUT,,,Unicaja Malaga,0
-MAL       ,,43,01:16,29,394,"SUAREZ, CARLOS",PJJS      ,In,IN,,,Unicaja Malaga,0
-BAR       ,,1,01:16,29,395,"SERAPHIN, KEVIN",P001948   ,Missed Free Throw (0/1 -  6 pt),FTA,,,FC Barcelona Lassa,0
-BAR       ,,1,01:16,29,396,"SERAPHIN, KEVIN",P001948   ,Missed Free Throw (0/2 -  6 pt),FTA,,,FC Barcelona Lassa,0
-MAL       ,,43,01:12,29,397,"SUAREZ, CARLOS",PJJS      ,Def Rebound (4),D,,,Unicaja Malaga,0
-MAL       ,,43,00:57,30,399,"SUAREZ, CARLOS",PJJS      ,Missed Three Pointer (0/2 -  7 pt),3FGA,,,Unicaja Malaga,0
-BAR       ,,,00:57,30,400,,          ,Def Rebound (2),D,,,FC Barcelona Lassa,0
-BAR       ,,5,00:39,30,401,"RIBAS, PAU",PJUG      ,Three Pointer (2/3 -  8 pt),3FGM,64.0,65.0,FC Barcelona Lassa,0
-BAR       ,,13,00:38,30,402,"HEURTEL, THOMAS",PKLT      ,Assist (7),AS,,,FC Barcelona Lassa,0
-BAR       ,,14,00:27,30,403,"VEZENKOV, SASHA",P003469   ,Foul (1),CM,,,FC Barcelona Lassa,0
-MAL       ,,12,00:27,30,404,"MILOSAVLJEVIC, DRAGAN",P002822   ,Foul Drawn (1),RV,,,Unicaja Malaga,0
-MAL       ,,12,00:27,30,405,"MILOSAVLJEVIC, DRAGAN",P002822   ,Missed Free Throw (0/1 -  0 pt),FTA,,,Unicaja Malaga,0
-MAL       ,,12,00:27,30,406,"MILOSAVLJEVIC, DRAGAN",P002822   ,Free Throw In (1/2 -  1 pt),FTM,64.0,66.0,Unicaja Malaga,0
-BAR       ,,13,00:04,30,407,"HEURTEL, THOMAS",PKLT      ,Missed Three Pointer (2/4 -  14 pt),3FGA,,,FC Barcelona Lassa,0
-MAL       ,,12,00:00,30,408,"MILOSAVLJEVIC, DRAGAN",P002822   ,Def Rebound (1),D,,,Unicaja Malaga,0
-          ,,,,31,410,,          ,End Period,EP,,,,0
-          ,,,,31,411,,          ,Begin Period,BP,,,,0
-MAL       ,,23,09:42,31,412,"BROOKS, JEFF",P004117   ,Missed Two Pointer (2/7 -  13 pt),2FGA,,,Unicaja Malaga,0
-BAR       ,,1,09:39,31,413,"SERAPHIN, KEVIN",P001948   ,Def Rebound (5),D,,,FC Barcelona Lassa,0
-MAL       ,,12,09:24,31,414,"MILOSAVLJEVIC, DRAGAN",P002822   ,Foul (1),CM,,,Unicaja Malaga,0
-BAR       ,,13,09:24,31,415,"HEURTEL, THOMAS",PKLT      ,Foul Drawn (3),RV,,,FC Barcelona Lassa,0
-BAR       ,,14,09:14,31,416,"VEZENKOV, SASHA",P003469   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,FC Barcelona Lassa,0
-BAR       ,,1,09:13,31,417,"SERAPHIN, KEVIN",P001948   ,Off Rebound (5),O,,,FC Barcelona Lassa,0
-MAL       ,,9,09:13,31,418,"DIAZ, ALBERTO",P004213   ,Foul (2),CM,,,Unicaja Malaga,0
-BAR       ,,1,09:13,31,419,"SERAPHIN, KEVIN",P001948   ,Foul Drawn (4),RV,,,FC Barcelona Lassa,0
-BAR       ,,1,09:13,31,420,"SERAPHIN, KEVIN",P001948   ,Free Throw In (1/3 -  7 pt),FTM,65.0,66.0,FC Barcelona Lassa,0
-BAR       ,,1,09:13,31,421,"SERAPHIN, KEVIN",P001948   ,Free Throw In (2/4 -  8 pt),FTM,66.0,66.0,FC Barcelona Lassa,0
-MAL       ,,21,08:50,32,423,"WACZYNSKI, ADAM",PLDX      ,Three Pointer (2/2 -  8 pt),3FGM,66.0,69.0,Unicaja Malaga,0
-BAR       ,,1,08:37,32,424,"SERAPHIN, KEVIN",P001948   ,Turnover (1),TO,,,FC Barcelona Lassa,0
-MAL       ,,12,08:17,32,425,"MILOSAVLJEVIC, DRAGAN",P002822   ,Turnover (1),TO,,,Unicaja Malaga,0
-BAR       ,,30,08:14,32,426,"CLAVER, VICTOR",P000556   ,Steal (1),ST,,,FC Barcelona Lassa,0
-MAL       ,,43,08:06,32,427,"SUAREZ, CARLOS",PJJS      ,Foul (1),CM,,,Unicaja Malaga,0
-BAR       ,,1,08:06,32,428,"SERAPHIN, KEVIN",P001948   ,Foul Drawn (5),RV,,,FC Barcelona Lassa,0
-BAR       ,,21,08:06,32,429,"SANDERS, RAKIM",P005001   ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,30,08:06,32,430,"CLAVER, VICTOR",P000556   ,Out,OUT,,,FC Barcelona Lassa,0
-MAL       ,,12,08:06,32,431,"MILOSAVLJEVIC, DRAGAN",P002822   ,Out,OUT,,,Unicaja Malaga,0
-MAL       ,,16,08:06,32,432,"NEDOVIC, NEMANJA",P000848   ,In,IN,,,Unicaja Malaga,0
-BAR       ,,13,07:56,33,434,"HEURTEL, THOMAS",PKLT      ,Missed Two Pointer (3/4 -  14 pt),2FGA,,,FC Barcelona Lassa,0
-MAL       ,,43,07:53,33,435,"SUAREZ, CARLOS",PJJS      ,Def Rebound (5),D,,,Unicaja Malaga,0
-MAL       ,,9,07:45,33,436,"DIAZ, ALBERTO",P004213   ,Three Pointer (1/2 -  3 pt),3FGM,66.0,72.0,Unicaja Malaga,0
-BAR       ,,,07:45,33,437,,          ,Time Out (1),TOUT,,,FC Barcelona Lassa,0
-BAR       ,,21,07:21,33,438,"SANDERS, RAKIM",P005001   ,Missed Three Pointer (2/4 -  14 pt),3FGA,,,FC Barcelona Lassa,0
-BAR       ,,13,07:19,33,439,"HEURTEL, THOMAS",PKLT      ,Off Rebound (1),O,,,FC Barcelona Lassa,0
-BAR       ,,13,07:10,33,440,"HEURTEL, THOMAS",PKLT      ,Missed Two Pointer (3/5 -  14 pt),2FGA,,,FC Barcelona Lassa,0
-BAR       ,,14,07:06,33,441,"VEZENKOV, SASHA",P003469   ,Off Rebound (1),O,,,FC Barcelona Lassa,0
-BAR       ,,14,07:06,33,442,"VEZENKOV, SASHA",P003469   ,Two Pointer (1/1 -  2 pt),2FGM,68.0,72.0,FC Barcelona Lassa,0
-BAR       ,,21,06:59,34,444,"SANDERS, RAKIM",P005001   ,Foul (3),CM,,,FC Barcelona Lassa,0
-MAL       ,,21,06:59,34,445,"WACZYNSKI, ADAM",PLDX      ,Foul Drawn (3),RV,,,Unicaja Malaga,0
-MAL       ,,23,06:59,34,446,"BROOKS, JEFF",P004117   ,Out,OUT,,,Unicaja Malaga,0
-MAL       ,,40,06:59,34,447,"AUGUSTINE, JAMES",P001438   ,In,IN,,,Unicaja Malaga,0
-BAR       ,,9,06:59,34,448,"HANGA, ADAM",P005099   ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,21,06:59,34,449,"SANDERS, RAKIM",P005001   ,Out,OUT,,,FC Barcelona Lassa,0
-MAL       ,,16,06:49,34,450,"NEDOVIC, NEMANJA",P000848   ,Two Pointer (4/5 -  18 pt),2FGM,68.0,74.0,Unicaja Malaga,0
-MAL       ,,9,06:44,34,451,"DIAZ, ALBERTO",P004213   ,Foul (3),CM,,,Unicaja Malaga,0
-BAR       ,,9,06:44,34,452,"HANGA, ADAM",P005099   ,Foul Drawn (2),RV,,,FC Barcelona Lassa,0
-BAR       ,,13,06:44,34,453,"HEURTEL, THOMAS",PKLT      ,Assist (8),AS,,,FC Barcelona Lassa,0
-BAR       ,,9,06:44,34,454,"HANGA, ADAM",P005099   ,Free Throw In (1/1 -  6 pt),FTM,69.0,74.0,FC Barcelona Lassa,0
-BAR       ,,9,06:44,34,455,"HANGA, ADAM",P005099   ,Missed Free Throw (1/2 -  6 pt),FTA,,,FC Barcelona Lassa,0
-MAL       ,,40,06:41,34,456,"AUGUSTINE, JAMES",P001438   ,Def Rebound (6),D,,,Unicaja Malaga,0
-MAL       ,,16,06:29,34,457,"NEDOVIC, NEMANJA",P000848   ,Two Pointer (5/6 -  20 pt),2FGM,69.0,76.0,Unicaja Malaga,0
-BAR       ,,13,06:15,34,458,"HEURTEL, THOMAS",PKLT      ,Two Pointer (4/6 -  16 pt),2FGM,71.0,76.0,FC Barcelona Lassa,0
-BAR       ,,1,05:51,35,460,"SERAPHIN, KEVIN",P001948   ,Foul (4),CM,,,FC Barcelona Lassa,0
-MAL       ,,21,05:51,35,461,"WACZYNSKI, ADAM",PLDX      ,Foul Drawn (4),RV,,,Unicaja Malaga,0
-MAL       ,,21,05:51,35,462,"WACZYNSKI, ADAM",PLDX      ,Missed Free Throw (0/2 -  8 pt),FTA,,,Unicaja Malaga,0
-MAL       ,,21,05:51,35,463,"WACZYNSKI, ADAM",PLDX      ,Missed Free Throw (0/3 -  8 pt),FTA,,,Unicaja Malaga,0
-BAR       ,,,05:51,35,464,,          ,Def Rebound (3),D,,,FC Barcelona Lassa,0
-BAR       ,,1,05:51,35,465,"SERAPHIN, KEVIN",P001948   ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,18,05:51,35,466,"ORIOLA, PIERRE",P005917   ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,13,05:33,35,467,"HEURTEL, THOMAS",PKLT      ,Missed Two Pointer (4/7 -  16 pt),2FGA,,,FC Barcelona Lassa,0
-MAL       ,,40,05:31,35,468,"AUGUSTINE, JAMES",P001438   ,Def Rebound (7),D,,,Unicaja Malaga,0
-MAL       ,,16,05:25,35,469,"NEDOVIC, NEMANJA",P000848   ,Missed Two Pointer (5/7 -  20 pt),2FGA,,,Unicaja Malaga,0
-MAL       ,,21,05:22,35,470,"WACZYNSKI, ADAM",PLDX      ,Off Rebound (1),O,,,Unicaja Malaga,0
-MAL       ,,21,05:22,35,471,"WACZYNSKI, ADAM",PLDX      ,Two Pointer (2/3 -  10 pt),2FGM,71.0,78.0,Unicaja Malaga,0
-MAL       ,,9,05:03,35,472,"DIAZ, ALBERTO",P004213   ,Foul (4),CM,,,Unicaja Malaga,0
-BAR       ,,5,05:03,35,473,"RIBAS, PAU",PJUG      ,Foul Drawn (2),RV,,,FC Barcelona Lassa,0
-BAR       ,,14,05:03,35,474,"VEZENKOV, SASHA",P003469   ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,45,05:03,35,475,"MOERMAN, ADRIEN",P001833   ,In,IN,,,FC Barcelona Lassa,0
-MAL       ,,3,05:03,35,476,"MCCALLUM, RAY",P008002   ,In,IN,,,Unicaja Malaga,0
-MAL       ,,9,05:03,35,477,"DIAZ, ALBERTO",P004213   ,Out,OUT,,,Unicaja Malaga,0
-BAR       ,,5,05:03,35,478,"RIBAS, PAU",PJUG      ,Free Throw In (1/1 -  9 pt),FTM,72.0,78.0,FC Barcelona Lassa,0
-BAR       ,,5,05:03,35,479,"RIBAS, PAU",PJUG      ,Free Throw In (2/2 -  10 pt),FTM,73.0,78.0,FC Barcelona Lassa,0
-MAL       ,,3,04:41,36,481,"MCCALLUM, RAY",P008002   ,Missed Three Pointer (0/4 -  6 pt),3FGA,,,Unicaja Malaga,0
-BAR       ,,,04:39,36,545,,          ,Def Rebound (4),D,,,FC Barcelona Lassa,0
-MAL       ,,21,04:39,36,482,"WACZYNSKI, ADAM",PLDX      ,Foul (3),CM,,,Unicaja Malaga,0
-BAR       ,,9,04:39,36,483,"HANGA, ADAM",P005099   ,Foul Drawn (3),RV,,,FC Barcelona Lassa,0
-BAR       ,,9,04:39,36,484,"HANGA, ADAM",P005099   ,Missed Free Throw (1/3 -  6 pt),FTA,,,FC Barcelona Lassa,0
-BAR       ,,9,04:39,36,485,"HANGA, ADAM",P005099   ,Missed Free Throw (1/4 -  6 pt),FTA,,,FC Barcelona Lassa,0
-MAL       ,,40,04:36,36,486,"AUGUSTINE, JAMES",P001438   ,Def Rebound (8),D,,,Unicaja Malaga,0
-MAL       ,,16,04:25,36,487,"NEDOVIC, NEMANJA",P000848   ,Two Pointer (6/8 -  22 pt),2FGM,73.0,80.0,Unicaja Malaga,0
-MAL       ,,43,04:25,36,488,"SUAREZ, CARLOS",PJJS      ,Assist (2),AS,,,Unicaja Malaga,0
-BAR       ,,,04:25,36,489,,          ,Time Out (2),TOUT,,,FC Barcelona Lassa,0
-BAR       ,,13,04:02,36,490,"HEURTEL, THOMAS",PKLT      ,Missed Two Pointer (4/8 -  16 pt),2FGA,,,FC Barcelona Lassa,0
-BAR       ,,13,04:02,36,491,"HEURTEL, THOMAS",PKLT      ,Shot Rejected (1),AG,,,FC Barcelona Lassa,0
-MAL       ,,3,04:02,36,492,"MCCALLUM, RAY",P008002   ,Block (1),FV,,,Unicaja Malaga,0
-MAL       ,,3,04:02,36,493,"MCCALLUM, RAY",P008002   ,Def Rebound (2),D,,,Unicaja Malaga,0
-BAR       ,,18,04:02,36,494,"ORIOLA, PIERRE",P005917   ,Foul (3),CM,,,FC Barcelona Lassa,0
-MAL       ,,43,04:02,36,495,"SUAREZ, CARLOS",PJJS      ,Foul Drawn (4),RV,,,Unicaja Malaga,0
-MAL       ,,43,03:36,37,497,"SUAREZ, CARLOS",PJJS      ,Missed Two Pointer (1/2 -  7 pt),2FGA,,,Unicaja Malaga,0
-BAR       ,,9,03:34,37,498,"HANGA, ADAM",P005099   ,Def Rebound (4),D,,,FC Barcelona Lassa,0
-BAR       ,,5,03:30,37,499,"RIBAS, PAU",PJUG      ,Missed Two Pointer (1/2 -  10 pt),2FGA,,,FC Barcelona Lassa,0
-BAR       ,,9,03:28,37,500,"HANGA, ADAM",P005099   ,Off Rebound (1),O,,,FC Barcelona Lassa,0
-BAR       ,,9,03:28,37,501,"HANGA, ADAM",P005099   ,Two Pointer (2/3 -  8 pt),2FGM,75.0,80.0,FC Barcelona Lassa,0
-BAR       ,,9,03:17,37,502,"HANGA, ADAM",P005099   ,Foul (1),CM,,,FC Barcelona Lassa,0
-MAL       ,,16,03:17,37,503,"NEDOVIC, NEMANJA",P000848   ,Foul Drawn (2),RV,,,Unicaja Malaga,0
-MAL       ,,21,03:06,37,504,"WACZYNSKI, ADAM",PLDX      ,Missed Three Pointer (2/3 -  10 pt),3FGA,,,Unicaja Malaga,0
-BAR       ,,45,03:03,37,505,"MOERMAN, ADRIEN",P001833   ,Def Rebound (1),D,,,FC Barcelona Lassa,0
-BAR       ,,45,02:51,38,507,"MOERMAN, ADRIEN",P001833   ,Missed Three Pointer (2/5 -  6 pt),3FGA,,,FC Barcelona Lassa,0
-MAL       ,,16,02:48,38,508,"NEDOVIC, NEMANJA",P000848   ,Def Rebound (3),D,,,Unicaja Malaga,0
-MAL       ,,40,02:33,38,509,"AUGUSTINE, JAMES",P001438   ,Two Pointer (6/8 -  12 pt),2FGM,75.0,82.0,Unicaja Malaga,0
-MAL       ,,16,02:30,38,510,"NEDOVIC, NEMANJA",P000848   ,Assist (4),AS,,,Unicaja Malaga,0
-MAL       ,,23,02:20,38,511,"BROOKS, JEFF",P004117   ,In,IN,,,Unicaja Malaga,0
-MAL       ,,43,02:20,38,512,"SUAREZ, CARLOS",PJJS      ,Out,OUT,,,Unicaja Malaga,0
-BAR       ,,5,02:16,38,513,"RIBAS, PAU",PJUG      ,Missed Three Pointer (2/4 -  10 pt),3FGA,,,FC Barcelona Lassa,0
-MAL       ,,23,02:13,38,514,"BROOKS, JEFF",P004117   ,Def Rebound (2),D,,,Unicaja Malaga,0
-MAL       ,,3,01:53,39,516,"MCCALLUM, RAY",P008002   ,Missed Two Pointer (3/6 -  6 pt),2FGA,,,Unicaja Malaga,0
-BAR       ,,9,01:51,39,517,"HANGA, ADAM",P005099   ,Def Rebound (5),D,,,FC Barcelona Lassa,0
-BAR       ,,18,01:47,39,518,"ORIOLA, PIERRE",P005917   ,Missed Two Pointer (3/7 -  8 pt),2FGA,,,FC Barcelona Lassa,0
-MAL       ,,40,01:45,39,519,"AUGUSTINE, JAMES",P001438   ,Def Rebound (9),D,,,Unicaja Malaga,0
-MAL       ,,3,01:44,39,520,"MCCALLUM, RAY",P008002   ,Two Pointer (4/7 -  8 pt),2FGM,75.0,84.0,Unicaja Malaga,0
-MAL       ,,40,01:44,39,521,"AUGUSTINE, JAMES",P001438   ,Assist (3),AS,,,Unicaja Malaga,0
-BAR       ,,9,01:26,39,522,"HANGA, ADAM",P005099   ,Missed Three Pointer (1/2 -  8 pt),3FGA,,,FC Barcelona Lassa,0
-MAL       ,,40,01:24,39,523,"AUGUSTINE, JAMES",P001438   ,Def Rebound (10),D,,,Unicaja Malaga,0
-MAL       ,,16,01:01,39,524,"NEDOVIC, NEMANJA",P000848   ,Three Pointer (4/7 -  25 pt),3FGM,75.0,87.0,Unicaja Malaga,0
-BAR       ,,45,01:01,39,525,"MOERMAN, ADRIEN",P001833   ,Three Pointer (3/6 -  9 pt),3FGM,78.0,87.0,FC Barcelona Lassa,0
-BAR       ,,13,01:01,39,526,"HEURTEL, THOMAS",PKLT      ,Assist (9),AS,,,FC Barcelona Lassa,0
-BAR       ,,9,00:49,40,528,"HANGA, ADAM",P005099   ,Foul (2),CM,,,FC Barcelona Lassa,0
-MAL       ,,16,00:49,40,529,"NEDOVIC, NEMANJA",P000848   ,Foul Drawn (3),RV,,,Unicaja Malaga,0
-MAL       ,,16,00:49,40,530,"NEDOVIC, NEMANJA",P000848   ,Free Throw In (2/3 -  26 pt),FTM,78.0,88.0,Unicaja Malaga,0
-MAL       ,,16,00:49,40,531,"NEDOVIC, NEMANJA",P000848   ,Missed Free Throw (2/4 -  26 pt),FTA,,,Unicaja Malaga,0
-BAR       ,,45,00:47,40,532,"MOERMAN, ADRIEN",P001833   ,Def Rebound (2),D,,,FC Barcelona Lassa,0
-BAR       ,,45,00:38,40,533,"MOERMAN, ADRIEN",P001833   ,Missed Three Pointer (3/7 -  9 pt),3FGA,,,FC Barcelona Lassa,0
-MAL       ,,21,00:35,40,534,"WACZYNSKI, ADAM",PLDX      ,Def Rebound (1),D,,,Unicaja Malaga,0
-BAR       ,,5,00:32,40,535,"RIBAS, PAU",PJUG      ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,14,00:32,40,536,"VEZENKOV, SASHA",P003469   ,In,IN,,,FC Barcelona Lassa,0
-MAL       ,,16,00:15,40,537,"NEDOVIC, NEMANJA",P000848   ,Missed Three Pointer (4/8 -  26 pt),3FGA,,,Unicaja Malaga,0
-BAR       ,,45,00:12,40,538,"MOERMAN, ADRIEN",P001833   ,Def Rebound (3),D,,,FC Barcelona Lassa,0
-BAR       ,,13,00:06,40,539,"HEURTEL, THOMAS",PKLT      ,Missed Two Pointer (4/9 -  16 pt),2FGA,,,FC Barcelona Lassa,0
-BAR       ,,45,00:06,40,540,"MOERMAN, ADRIEN",P001833   ,Off Rebound (1),O,,,FC Barcelona Lassa,0
-BAR       ,,45,00:06,40,541,"MOERMAN, ADRIEN",P001833   ,Two Pointer (1/2 -  11 pt),2FGM,80.0,88.0,FC Barcelona Lassa,0
-MAL       ,,3,00:00,40,542,"MCCALLUM, RAY",P008002   ,Two Pointer (5/8 -  10 pt),2FGM,80.0,90.0,Unicaja Malaga,0
-MAL       ,,40,00:00,40,543,"AUGUSTINE, JAMES",P001438   ,Assist (4),AS,,,Unicaja Malaga,0
-BAR       ,,13,00:00,40,544,"HEURTEL, THOMAS",PKLT      ,Three Pointer (3/5 -  19 pt),3FGM,83.0,90.0,FC Barcelona Lassa,0
-          ,,,,41,548,,          ,End Game,EG,,,,0
+CODETEAM,COMMENT,DORSAL,MARKERTIME,MINUTE,NUMBEROFPLAY,PLAYER,PLAYER_ID,PLAYINFO,PLAYTYPE,POINTS_A,POINTS_B,TEAM,TYPE,home_team,home_team_code,away_team,away_team_code
+          ,,,,1,2,,          ,Begin Period,BP,,,,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,45,09:41,1,3,"MOERMAN, ADRIEN",P001833   ,Three Pointer (1/1 -  3 pt),3FGM,3.0,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,13,09:39,1,4,"HEURTEL, THOMAS",PKLT      ,Assist (1),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,23,09:19,1,5,"BROOKS, JEFF",P004117   ,Two Pointer (1/1 -  2 pt),2FGM,3.0,2.0,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,40,09:19,1,6,"AUGUSTINE, JAMES",P001438   ,Assist (1),AS,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,1,09:19,1,7,"SERAPHIN, KEVIN",P001948   ,Foul (1),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,23,09:19,1,8,"BROOKS, JEFF",P004117   ,Foul Drawn (1),RV,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,23,09:19,1,9,"BROOKS, JEFF",P004117   ,Missed Free Throw (0/1 -  2 pt),FTA,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,1,09:15,1,10,"SERAPHIN, KEVIN",P001948   ,Def Rebound (1),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,21,09:04,1,11,"SANDERS, RAKIM",P005001   ,Turnover (1),TO,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,3,08:44,2,13,"MCCALLUM, RAY",P008002   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,1,08:42,2,14,"SERAPHIN, KEVIN",P001948   ,Def Rebound (2),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,21,08:34,2,15,"SANDERS, RAKIM",P005001   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,21,08:34,2,16,"SANDERS, RAKIM",P005001   ,Shot Rejected (1),AG,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,11,08:31,2,17,"DIEZ, DANIEL",P003198   ,Block (1),FV,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,11,08:30,2,18,"DIEZ, DANIEL",P003198   ,Def Rebound (1),D,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,16,08:24,2,19,"NEDOVIC, NEMANJA",P000848   ,Three Pointer (1/1 -  3 pt),3FGM,3.0,5.0,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,40,08:22,2,20,"AUGUSTINE, JAMES",P001438   ,Assist (2),AS,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,9,08:03,2,21,"HANGA, ADAM",P005099   ,Three Pointer (1/1 -  3 pt),3FGM,6.0,5.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,45,08:01,2,22,"MOERMAN, ADRIEN",P001833   ,Assist (1),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,40,07:55,3,24,"AUGUSTINE, JAMES",P001438   ,Two Pointer (1/1 -  2 pt),2FGM,6.0,7.0,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,16,07:53,3,25,"NEDOVIC, NEMANJA",P000848   ,Assist (1),AS,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,45,07:35,3,26,"MOERMAN, ADRIEN",P001833   ,Missed Two Pointer (0/1 -  3 pt),2FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,40,07:33,3,27,"AUGUSTINE, JAMES",P001438   ,Def Rebound (1),D,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,40,07:26,3,28,"AUGUSTINE, JAMES",P001438   ,Two Pointer (2/2 -  4 pt),2FGM,6.0,9.0,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,3,07:24,3,29,"MCCALLUM, RAY",P008002   ,Assist (1),AS,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,45,07:04,3,30,"MOERMAN, ADRIEN",P001833   ,Missed Three Pointer (1/2 -  3 pt),3FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,1,07:01,3,31,"SERAPHIN, KEVIN",P001948   ,Off Rebound (1),O,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,1,07:01,3,32,"SERAPHIN, KEVIN",P001948   ,Two Pointer (1/1 -  2 pt),2FGM,8.0,9.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,23,06:42,4,34,"BROOKS, JEFF",P004117   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,23,06:42,4,35,"BROOKS, JEFF",P004117   ,Shot Rejected (1),AG,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,1,06:39,4,36,"SERAPHIN, KEVIN",P001948   ,Block (1),FV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,21,06:37,4,37,"SANDERS, RAKIM",P005001   ,Def Rebound (1),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,21,06:27,4,38,"SANDERS, RAKIM",P005001   ,Two Pointer (1/2 -  2 pt),2FGM,10.0,9.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,13,06:25,4,39,"HEURTEL, THOMAS",PKLT      ,Assist (2),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,23,06:09,4,40,"BROOKS, JEFF",P004117   ,Three Pointer (1/1 -  5 pt),3FGM,10.0,12.0,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,11,06:07,4,41,"DIEZ, DANIEL",P003198   ,Assist (1),AS,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,21,05:54,5,43,"SANDERS, RAKIM",P005001   ,Three Pointer (1/1 -  5 pt),3FGM,13.0,12.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,9,05:52,5,44,"HANGA, ADAM",P005099   ,Assist (1),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,11,05:37,5,45,"DIEZ, DANIEL",P003198   ,Two Pointer (1/1 -  2 pt),2FGM,13.0,14.0,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,16,05:35,5,46,"NEDOVIC, NEMANJA",P000848   ,Assist (2),AS,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,,05:12,5,47,,          ,Turnover (1),TO,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,11,05:04,5,48,"DIEZ, DANIEL",P003198   ,Two Pointer (2/2 -  4 pt),2FGM,13.0,16.0,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,13,04:48,6,50,"HEURTEL, THOMAS",PKLT      ,Three Pointer (1/1 -  3 pt),3FGM,16.0,16.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,16,04:28,6,51,"NEDOVIC, NEMANJA",P000848   ,Three Pointer (2/2 -  6 pt),3FGM,16.0,19.0,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,3,04:26,6,52,"MCCALLUM, RAY",P008002   ,Assist (2),AS,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,1,04:18,6,53,"SERAPHIN, KEVIN",P001948   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,11,04:15,6,54,"DIEZ, DANIEL",P003198   ,Def Rebound (2),D,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,16,04:08,6,55,"NEDOVIC, NEMANJA",P000848   ,Missed Two Pointer (0/1 -  6 pt),2FGA,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,16,04:08,6,56,"NEDOVIC, NEMANJA",P000848   ,Shot Rejected (1),AG,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,9,04:07,6,57,"HANGA, ADAM",P005099   ,Block (1),FV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,,04:07,6,58,,          ,Off Rebound (1),O,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+          ,,,04:07,6,59,,          ,TV Time Out (1),TOUT_TV,,,,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,21,04:07,6,60,"SANDERS, RAKIM",P005001   ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,25,04:07,6,61,"KOPONEN, PETTERI",P004178   ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,23,04:01,6,62,"BROOKS, JEFF",P004117   ,Two Pointer (2/3 -  7 pt),2FGM,16.0,21.0,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,40,03:41,7,64,"AUGUSTINE, JAMES",P001438   ,Foul (1),CM,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,1,03:41,7,65,"SERAPHIN, KEVIN",P001948   ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,25,03:38,7,66,"KOPONEN, PETTERI",P004178   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,40,03:35,7,67,"AUGUSTINE, JAMES",P001438   ,Def Rebound (2),D,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,16,03:27,7,68,"NEDOVIC, NEMANJA",P000848   ,Missed Three Pointer (2/3 -  6 pt),3FGA,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,40,03:23,7,69,"AUGUSTINE, JAMES",P001438   ,Off Rebound (1),O,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,3,03:20,7,70,"MCCALLUM, RAY",P008002   ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,9,03:18,7,71,"HANGA, ADAM",P005099   ,Def Rebound (1),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,13,03:11,7,72,"HEURTEL, THOMAS",PKLT      ,Turnover (1),TO,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,16,03:09,7,73,"NEDOVIC, NEMANJA",P000848   ,Steal (1),ST,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,11,02:53,8,75,"DIEZ, DANIEL",P003198   ,Missed Three Pointer (0/1 -  4 pt),3FGA,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,40,02:52,8,76,"AUGUSTINE, JAMES",P001438   ,Off Rebound (2),O,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,40,02:52,8,77,"AUGUSTINE, JAMES",P001438   ,Missed Two Pointer (2/3 -  4 pt),2FGA,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,,02:52,8,78,,          ,Off Rebound (2),O,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,1,02:52,8,79,"SERAPHIN, KEVIN",P001948   ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,5,02:52,8,80,"RIBAS, PAU",PJUG      ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,13,02:52,8,81,"HEURTEL, THOMAS",PKLT      ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,18,02:52,8,82,"ORIOLA, PIERRE",P005917   ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,11,02:52,8,83,"DIEZ, DANIEL",P003198   ,Out,OUT,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,21,02:52,8,84,"WACZYNSKI, ADAM",PLDX      ,In,IN,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,16,02:39,8,85,"NEDOVIC, NEMANJA",P000848   ,Missed Three Pointer (2/4 -  6 pt),3FGA,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,18,02:37,8,86,"ORIOLA, PIERRE",P005917   ,Def Rebound (1),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,9,02:33,8,87,"HANGA, ADAM",P005099   ,Two Pointer (1/1 -  5 pt),2FGM,18.0,21.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,5,02:31,8,88,"RIBAS, PAU",PJUG      ,Assist (1),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,23,02:18,8,89,"BROOKS, JEFF",P004117   ,Missed Two Pointer (2/4 -  7 pt),2FGA,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,18,02:14,8,90,"ORIOLA, PIERRE",P005917   ,Def Rebound (2),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,18,02:12,8,91,"ORIOLA, PIERRE",P005917   ,Turnover (1),TO,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,40,02:11,8,92,"AUGUSTINE, JAMES",P001438   ,Steal (1),ST,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,40,02:09,8,93,"AUGUSTINE, JAMES",P001438   ,Two Pointer (3/4 -  6 pt),2FGM,18.0,23.0,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,40,02:04,8,94,"AUGUSTINE, JAMES",P001438   ,Foul (2),CM,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,18,02:04,8,95,"ORIOLA, PIERRE",P005917   ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,30,02:04,8,96,"CLAVER, VICTOR",P000556   ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,45,02:04,8,97,"MOERMAN, ADRIEN",P001833   ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,3,02:04,8,98,"MCCALLUM, RAY",P008002   ,Out,OUT,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,9,02:04,8,99,"DIAZ, ALBERTO",P004213   ,In,IN,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,17,02:04,8,100,"SHERMADINI, GIORGI",P001386   ,In,IN,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,40,02:04,8,101,"AUGUSTINE, JAMES",P001438   ,Out,OUT,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,18,02:04,8,102,"ORIOLA, PIERRE",P005917   ,Missed Free Throw (0/1 -  0 pt),FTA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,18,02:04,8,103,"ORIOLA, PIERRE",P005917   ,Free Throw In (1/2 -  1 pt),FTM,19.0,23.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,9,02:04,8,104,"HANGA, ADAM",P005099   ,Assist (2),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,9,01:43,9,106,"DIAZ, ALBERTO",P004213   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,17,01:41,9,107,"SHERMADINI, GIORGI",P001386   ,Off Rebound (1),O,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,18,01:41,9,108,"ORIOLA, PIERRE",P005917   ,Foul (1),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,17,01:41,9,109,"SHERMADINI, GIORGI",P001386   ,Foul Drawn (1),RV,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,9,01:41,9,110,"HANGA, ADAM",P005099   ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,21,01:41,9,111,"SANDERS, RAKIM",P005001   ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,16,01:33,9,112,"NEDOVIC, NEMANJA",P000848   ,Turnover (1),TO,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,5,01:32,9,113,"RIBAS, PAU",PJUG      ,Steal (1),ST,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,5,01:30,9,114,"RIBAS, PAU",PJUG      ,Two Pointer (1/1 -  2 pt),2FGM,21.0,23.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,21,01:08,9,115,"WACZYNSKI, ADAM",PLDX      ,Three Pointer (1/1 -  3 pt),3FGM,21.0,26.0,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,16,01:06,9,116,"NEDOVIC, NEMANJA",P000848   ,Assist (3),AS,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,30,00:49,10,118,"CLAVER, VICTOR",P000556   ,Three Pointer (1/1 -  3 pt),3FGM,24.0,26.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,25,00:47,10,119,"KOPONEN, PETTERI",P004178   ,Assist (1),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,21,00:34,10,120,"SANDERS, RAKIM",P005001   ,Foul (1),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,21,00:34,10,121,"WACZYNSKI, ADAM",PLDX      ,Foul Drawn (1),RV,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,10,00:34,10,122,"SALIN, SASU",P002820   ,In,IN,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,16,00:34,10,123,"NEDOVIC, NEMANJA",P000848   ,Out,OUT,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,23,00:34,10,124,"BROOKS, JEFF",P004117   ,Out,OUT,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,43,00:34,10,125,"SUAREZ, CARLOS",PJJS      ,In,IN,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,21,00:18,10,126,"WACZYNSKI, ADAM",PLDX      ,Missed Two Pointer (0/1 -  3 pt),2FGA,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,30,00:14,10,127,"CLAVER, VICTOR",P000556   ,Def Rebound (1),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,9,00:05,10,128,"DIAZ, ALBERTO",P004213   ,Foul (1),CM,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,5,00:05,10,129,"RIBAS, PAU",PJUG      ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,18,00:00,10,130,"ORIOLA, PIERRE",P005917   ,Missed Two Pointer (0/1 -  1 pt),2FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,43,00:00,10,131,"SUAREZ, CARLOS",PJJS      ,Def Rebound (1),D,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+          ,,,,11,133,,          ,End Period,EP,,,,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+          ,,,,11,134,,          ,Begin Period,BP,,,,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,18,09:43,11,135,"ORIOLA, PIERRE",P005917   ,Foul (2),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,17,09:43,11,136,"SHERMADINI, GIORGI",P001386   ,Foul Drawn (2),RV,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,17,09:31,11,137,"SHERMADINI, GIORGI",P001386   ,Two Pointer (1/1 -  2 pt),2FGM,24.0,28.0,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,43,09:30,11,138,"SUAREZ, CARLOS",PJJS      ,Assist (1),AS,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,18,09:12,11,139,"ORIOLA, PIERRE",P005917   ,Two Pointer (1/2 -  3 pt),2FGM,26.0,28.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,21,09:10,11,140,"SANDERS, RAKIM",P005001   ,Assist (1),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,9,09:01,11,141,"DIAZ, ALBERTO",P004213   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,25,08:57,12,143,"KOPONEN, PETTERI",P004178   ,Def Rebound (1),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,21,08:47,12,144,"WACZYNSKI, ADAM",PLDX      ,Foul (1),CM,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,21,08:47,12,145,"SANDERS, RAKIM",P005001   ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,21,08:38,12,146,"SANDERS, RAKIM",P005001   ,Missed Two Pointer (1/3 -  5 pt),2FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,17,08:35,12,147,"SHERMADINI, GIORGI",P001386   ,Def Rebound (1),D,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,10,08:25,12,148,"SALIN, SASU",P002820   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,18,08:24,12,149,"ORIOLA, PIERRE",P005917   ,Def Rebound (3),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,18,08:16,12,150,"ORIOLA, PIERRE",P005917   ,Turnover (2),TO,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,30,07:59,13,152,"CLAVER, VICTOR",P000556   ,Foul (1),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,17,07:59,13,153,"SHERMADINI, GIORGI",P001386   ,Foul Drawn (3),RV,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,17,07:59,13,154,"SHERMADINI, GIORGI",P001386   ,Free Throw In (1/1 -  3 pt),FTM,26.0,29.0,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,17,07:59,13,155,"SHERMADINI, GIORGI",P001386   ,Free Throw In (2/2 -  4 pt),FTM,26.0,30.0,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,21,07:41,13,156,"SANDERS, RAKIM",P005001   ,Missed Three Pointer (1/2 -  5 pt),3FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,10,07:39,13,157,"SALIN, SASU",P002820   ,Def Rebound (1),D,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,21,07:24,13,158,"WACZYNSKI, ADAM",PLDX      ,Turnover (1),TO,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,25,07:11,13,159,"KOPONEN, PETTERI",P004178   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,21,07:11,13,160,"WACZYNSKI, ADAM",PLDX      ,Foul (2),CM,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,21,07:11,13,161,"SANDERS, RAKIM",P005001   ,Foul Drawn (2),RV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,5,06:59,14,163,"RIBAS, PAU",PJUG      ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,43,06:56,14,164,"SUAREZ, CARLOS",PJJS      ,Def Rebound (2),D,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,17,06:40,14,165,"SHERMADINI, GIORGI",P001386   ,Turnover (1),TO,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,1,06:40,14,166,"SERAPHIN, KEVIN",P001948   ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,18,06:40,14,167,"ORIOLA, PIERRE",P005917   ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,12,06:40,14,168,"MILOSAVLJEVIC, DRAGAN",P002822   ,In,IN,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,21,06:40,14,169,"WACZYNSKI, ADAM",PLDX      ,Out,OUT,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,5,06:26,14,170,"RIBAS, PAU",PJUG      ,Three Pointer (1/2 -  5 pt),3FGM,29.0,30.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,1,06:13,14,171,"SERAPHIN, KEVIN",P001948   ,Foul (2),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,17,06:13,14,172,"SHERMADINI, GIORGI",P001386   ,Foul Drawn (4),RV,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,30,06:10,14,173,"CLAVER, VICTOR",P000556   ,Foul (2),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,10,06:10,14,174,"SALIN, SASU",P002820   ,Foul Drawn (1),RV,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,43,05:58,15,176,"SUAREZ, CARLOS",PJJS      ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,30,05:56,15,177,"CLAVER, VICTOR",P000556   ,Def Rebound (2),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,21,05:47,15,178,"SANDERS, RAKIM",P005001   ,Two Pointer (2/4 -  7 pt),2FGM,31.0,30.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,5,05:46,15,179,"RIBAS, PAU",PJUG      ,Assist (2),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,17,05:24,15,180,"SHERMADINI, GIORGI",P001386   ,Missed Two Pointer (1/2 -  4 pt),2FGA,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,17,05:22,15,181,"SHERMADINI, GIORGI",P001386   ,Off Rebound (2),O,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,17,05:13,15,182,"SHERMADINI, GIORGI",P001386   ,Turnover (2),TO,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,1,05:11,15,183,"SERAPHIN, KEVIN",P001948   ,Steal (1),ST,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+          ,,,04:56,16,185,,          ,TV Time Out (2),TOUT_TV,,,,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,5,04:56,16,186,"RIBAS, PAU",PJUG      ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,9,04:56,16,187,"HANGA, ADAM",P005099   ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,13,04:56,16,188,"HEURTEL, THOMAS",PKLT      ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,25,04:56,16,189,"KOPONEN, PETTERI",P004178   ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,17,04:56,16,190,"SHERMADINI, GIORGI",P001386   ,Out,OUT,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,40,04:56,16,191,"AUGUSTINE, JAMES",P001438   ,In,IN,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,1,04:56,16,192,"SERAPHIN, KEVIN",P001948   ,Missed Two Pointer (1/3 -  2 pt),2FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,1,04:56,16,193,"SERAPHIN, KEVIN",P001948   ,Shot Rejected (1),AG,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,40,04:56,16,194,"AUGUSTINE, JAMES",P001438   ,Block (1),FV,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,40,04:56,16,195,"AUGUSTINE, JAMES",P001438   ,Def Rebound (3),D,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,12,04:56,16,196,"MILOSAVLJEVIC, DRAGAN",P002822   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,43,04:56,16,197,"SUAREZ, CARLOS",PJJS      ,Off Rebound (1),O,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,43,04:56,16,198,"SUAREZ, CARLOS",PJJS      ,Two Pointer (1/1 -  2 pt),2FGM,31.0,32.0,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,30,04:19,16,199,"CLAVER, VICTOR",P000556   ,Missed Three Pointer (1/2 -  3 pt),3FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,1,04:17,16,200,"SERAPHIN, KEVIN",P001948   ,Off Rebound (2),O,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,1,04:11,16,201,"SERAPHIN, KEVIN",P001948   ,Two Pointer (2/4 -  4 pt),2FGM,33.0,32.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,40,03:53,17,203,"AUGUSTINE, JAMES",P001438   ,Two Pointer (4/5 -  8 pt),2FGM,33.0,34.0,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,10,03:53,17,204,"SALIN, SASU",P002820   ,Assist (1),AS,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,30,03:53,17,205,"CLAVER, VICTOR",P000556   ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,45,03:53,17,206,"MOERMAN, ADRIEN",P001833   ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,2,03:53,17,207,"OKOUO, VINY",P005363   ,In,IN,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,40,03:53,17,208,"AUGUSTINE, JAMES",P001438   ,Out,OUT,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,13,03:36,17,209,"HEURTEL, THOMAS",PKLT      ,Three Pointer (2/2 -  6 pt),3FGM,36.0,34.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,45,03:25,17,210,"MOERMAN, ADRIEN",P001833   ,Foul (1),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,43,03:25,17,211,"SUAREZ, CARLOS",PJJS      ,Foul Drawn (1),RV,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,3,03:25,17,212,"MCCALLUM, RAY",P008002   ,In,IN,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,9,03:25,17,213,"DIAZ, ALBERTO",P004213   ,Out,OUT,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,43,03:25,17,214,"SUAREZ, CARLOS",PJJS      ,Free Throw In (1/1 -  3 pt),FTM,36.0,35.0,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,43,03:25,17,215,"SUAREZ, CARLOS",PJJS      ,Missed Free Throw (1/2 -  3 pt),FTA,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,,03:23,17,216,,          ,Def Rebound (1),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,13,03:14,17,217,"HEURTEL, THOMAS",PKLT      ,Missed Three Pointer (2/3 -  6 pt),3FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,1,03:11,17,218,"SERAPHIN, KEVIN",P001948   ,Off Rebound (3),O,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,2,03:10,17,219,"OKOUO, VINY",P005363   ,Foul (1),CM,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,1,03:10,17,220,"SERAPHIN, KEVIN",P001948   ,Foul Drawn (2),RV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,13,03:04,17,221,"HEURTEL, THOMAS",PKLT      ,Two Pointer (1/1 -  8 pt),2FGM,38.0,35.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,2,03:04,17,222,"OKOUO, VINY",P005363   ,Foul (2),CM,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,13,03:04,17,223,"HEURTEL, THOMAS",PKLT      ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,10,03:04,17,224,"SALIN, SASU",P002820   ,Out,OUT,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,16,03:04,17,225,"NEDOVIC, NEMANJA",P000848   ,In,IN,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,13,03:04,17,226,"HEURTEL, THOMAS",PKLT      ,Free Throw In (1/1 -  9 pt),FTM,39.0,35.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,3,02:46,18,228,"MCCALLUM, RAY",P008002   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,1,02:44,18,229,"SERAPHIN, KEVIN",P001948   ,Def Rebound (3),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,13,02:35,18,230,"HEURTEL, THOMAS",PKLT      ,Two Pointer (2/2 -  11 pt),2FGM,41.0,35.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,,02:35,18,231,,          ,Time Out (1),TOUT,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,2,02:35,18,232,"OKOUO, VINY",P005363   ,Out,OUT,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,23,02:35,18,233,"BROOKS, JEFF",P004117   ,In,IN,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,13,02:30,18,234,"HEURTEL, THOMAS",PKLT      ,Foul (1),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,43,02:30,18,235,"SUAREZ, CARLOS",PJJS      ,Foul Drawn (2),RV,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,12,02:30,18,236,"MILOSAVLJEVIC, DRAGAN",P002822   ,Assist (1),AS,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,43,02:30,18,237,"SUAREZ, CARLOS",PJJS      ,Free Throw In (2/3 -  4 pt),FTM,41.0,36.0,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,43,02:30,18,238,"SUAREZ, CARLOS",PJJS      ,Free Throw In (3/4 -  5 pt),FTM,41.0,37.0,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,21,02:15,18,239,"SANDERS, RAKIM",P005001   ,Two Pointer (3/5 -  9 pt),2FGM,43.0,37.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,23,02:01,18,240,"BROOKS, JEFF",P004117   ,Three Pointer (2/2 -  10 pt),3FGM,43.0,40.0,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,3,01:58,19,242,"MCCALLUM, RAY",P008002   ,Assist (3),AS,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,21,01:42,19,243,"SANDERS, RAKIM",P005001   ,Missed Two Pointer (3/6 -  9 pt),2FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,1,01:39,19,244,"SERAPHIN, KEVIN",P001948   ,Off Rebound (4),O,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,1,01:38,19,245,"SERAPHIN, KEVIN",P001948   ,Two Pointer (3/5 -  6 pt),2FGM,45.0,40.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,12,01:21,19,246,"MILOSAVLJEVIC, DRAGAN",P002822   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,1,01:21,19,247,"SERAPHIN, KEVIN",P001948   ,Foul (3),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,43,01:21,19,248,"SUAREZ, CARLOS",PJJS      ,Foul Drawn (3),RV,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,1,01:21,19,249,"SERAPHIN, KEVIN",P001948   ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,18,01:21,19,250,"ORIOLA, PIERRE",P005917   ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,11,01:21,19,251,"DIEZ, DANIEL",P003198   ,In,IN,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,12,01:21,19,252,"MILOSAVLJEVIC, DRAGAN",P002822   ,Out,OUT,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,43,01:21,19,253,"SUAREZ, CARLOS",PJJS      ,Free Throw In (4/5 -  6 pt),FTM,45.0,41.0,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,43,01:21,19,254,"SUAREZ, CARLOS",PJJS      ,Free Throw In (5/6 -  7 pt),FTM,45.0,42.0,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,9,01:01,19,255,"HANGA, ADAM",P005099   ,Missed Two Pointer (1/2 -  5 pt),2FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,43,00:59,20,257,"SUAREZ, CARLOS",PJJS      ,Def Rebound (3),D,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,3,00:40,20,258,"MCCALLUM, RAY",P008002   ,Two Pointer (1/2 -  2 pt),2FGM,45.0,44.0,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,,00:40,20,259,,          ,Time Out (1),TOUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,17,00:40,20,260,"SHERMADINI, GIORGI",P001386   ,In,IN,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,43,00:40,20,261,"SUAREZ, CARLOS",PJJS      ,Out,OUT,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,21,00:18,20,262,"SANDERS, RAKIM",P005001   ,Missed Two Pointer (3/7 -  9 pt),2FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,17,00:16,20,263,"SHERMADINI, GIORGI",P001386   ,Def Rebound (2),D,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,3,00:02,20,264,"MCCALLUM, RAY",P008002   ,Missed Three Pointer (0/3 -  2 pt),3FGA,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,17,00:00,20,265,"SHERMADINI, GIORGI",P001386   ,Off Rebound (3),O,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,17,00:00,20,266,"SHERMADINI, GIORGI",P001386   ,Missed Two Pointer (1/3 -  4 pt),2FGA,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,21,00:00,20,267,"SANDERS, RAKIM",P005001   ,Def Rebound (2),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+          ,,,,21,269,,          ,End Period,EP,,,,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+          ,,,,21,272,,          ,Begin Period,BP,,,,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,17,10:00,21,270,"SHERMADINI, GIORGI",P001386   ,Out,OUT,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,40,10:00,21,271,"AUGUSTINE, JAMES",P001438   ,In,IN,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,18,09:48,21,273,"ORIOLA, PIERRE",P005917   ,Missed Two Pointer (1/3 -  3 pt),2FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,16,09:45,21,274,"NEDOVIC, NEMANJA",P000848   ,Def Rebound (1),D,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,45,09:30,21,275,"MOERMAN, ADRIEN",P001833   ,Foul (2),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,16,09:30,21,276,"NEDOVIC, NEMANJA",P000848   ,Foul Drawn (1),RV,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,17,09:30,21,277,"SHERMADINI, GIORGI",P001386   ,In,IN,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,40,09:30,21,278,"AUGUSTINE, JAMES",P001438   ,Out,OUT,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,16,09:30,21,279,"NEDOVIC, NEMANJA",P000848   ,Free Throw In (1/1 -  7 pt),FTM,45.0,45.0,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,16,09:30,21,280,"NEDOVIC, NEMANJA",P000848   ,Missed Free Throw (1/2 -  7 pt),FTA,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,21,09:26,21,281,"SANDERS, RAKIM",P005001   ,Def Rebound (3),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,21,09:19,21,282,"SANDERS, RAKIM",P005001   ,Three Pointer (2/3 -  12 pt),3FGM,48.0,45.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,9,09:16,21,283,"HANGA, ADAM",P005099   ,Assist (3),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,16,09:02,21,284,"NEDOVIC, NEMANJA",P000848   ,Three Pointer (3/5 -  10 pt),3FGM,48.0,48.0,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,21,08:41,22,286,"SANDERS, RAKIM",P005001   ,Missed Two Pointer (3/8 -  12 pt),2FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,18,08:41,22,287,"ORIOLA, PIERRE",P005917   ,Off Rebound (1),O,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,23,08:41,22,288,"BROOKS, JEFF",P004117   ,Foul (1),CM,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,18,08:41,22,289,"ORIOLA, PIERRE",P005917   ,Foul Drawn (2),RV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,18,08:41,22,290,"ORIOLA, PIERRE",P005917   ,Free Throw In (2/3 -  4 pt),FTM,49.0,48.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,18,08:41,22,291,"ORIOLA, PIERRE",P005917   ,Missed Free Throw (2/4 -  4 pt),FTA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,17,08:38,22,292,"SHERMADINI, GIORGI",P001386   ,Def Rebound (3),D,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,3,08:17,22,293,"MCCALLUM, RAY",P008002   ,Two Pointer (2/3 -  4 pt),2FGM,49.0,50.0,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,13,08:01,22,294,"HEURTEL, THOMAS",PKLT      ,Two Pointer (3/3 -  13 pt),2FGM,51.0,50.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,23,07:38,23,296,"BROOKS, JEFF",P004117   ,Missed Two Pointer (2/5 -  10 pt),2FGA,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,17,07:36,23,297,"SHERMADINI, GIORGI",P001386   ,Off Rebound (4),O,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,16,07:27,23,298,"NEDOVIC, NEMANJA",P000848   ,Two Pointer (1/2 -  12 pt),2FGM,51.0,52.0,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,3,07:07,23,299,"MCCALLUM, RAY",P008002   ,Foul (1),CM,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,13,07:07,23,300,"HEURTEL, THOMAS",PKLT      ,Foul Drawn (2),RV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,13,07:07,23,301,"HEURTEL, THOMAS",PKLT      ,Missed Free Throw (1/2 -  13 pt),FTA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,13,07:07,23,302,"HEURTEL, THOMAS",PKLT      ,Free Throw In (2/3 -  14 pt),FTM,52.0,52.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,3,06:52,24,304,"MCCALLUM, RAY",P008002   ,Two Pointer (3/4 -  6 pt),2FGM,52.0,54.0,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,18,06:47,24,305,"ORIOLA, PIERRE",P005917   ,Two Pointer (2/4 -  6 pt),2FGM,54.0,54.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,13,06:43,24,306,"HEURTEL, THOMAS",PKLT      ,Assist (3),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,23,06:41,24,307,"BROOKS, JEFF",P004117   ,Offensive Foul (2),OF,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,23,06:41,24,308,"BROOKS, JEFF",P004117   ,Turnover (1),TO,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,9,06:41,24,309,"HANGA, ADAM",P005099   ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,45,06:20,24,310,"MOERMAN, ADRIEN",P001833   ,Three Pointer (2/3 -  6 pt),3FGM,57.0,54.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,13,06:18,24,311,"HEURTEL, THOMAS",PKLT      ,Assist (4),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,16,06:07,24,312,"NEDOVIC, NEMANJA",P000848   ,Two Pointer (2/3 -  14 pt),2FGM,57.0,56.0,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,18,05:48,25,314,"ORIOLA, PIERRE",P005917   ,Two Pointer (3/5 -  8 pt),2FGM,59.0,56.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,13,05:47,25,315,"HEURTEL, THOMAS",PKLT      ,Assist (5),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,3,05:36,25,316,"MCCALLUM, RAY",P008002   ,Turnover (1),TO,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,13,05:35,25,317,"HEURTEL, THOMAS",PKLT      ,Steal (1),ST,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,21,05:29,25,318,"SANDERS, RAKIM",P005001   ,Two Pointer (4/9 -  14 pt),2FGM,61.0,56.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,13,05:27,25,319,"HEURTEL, THOMAS",PKLT      ,Assist (6),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,21,05:17,25,320,"SANDERS, RAKIM",P005001   ,Foul (2),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,17,05:17,25,321,"SHERMADINI, GIORGI",P001386   ,Foul Drawn (5),RV,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,21,05:17,25,322,"SANDERS, RAKIM",P005001   ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,25,05:17,25,323,"KOPONEN, PETTERI",P004178   ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,17,05:17,25,324,"SHERMADINI, GIORGI",P001386   ,Out,OUT,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,40,05:17,25,325,"AUGUSTINE, JAMES",P001438   ,In,IN,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,11,05:04,25,326,"DIEZ, DANIEL",P003198   ,Missed Three Pointer (0/2 -  4 pt),3FGA,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,13,05:02,25,327,"HEURTEL, THOMAS",PKLT      ,Def Rebound (1),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,18,04:58,26,329,"ORIOLA, PIERRE",P005917   ,Missed Two Pointer (3/6 -  8 pt),2FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,40,04:56,26,330,"AUGUSTINE, JAMES",P001438   ,Def Rebound (4),D,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,23,04:49,26,331,"BROOKS, JEFF",P004117   ,Three Pointer (3/3 -  13 pt),3FGM,61.0,59.0,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,3,04:46,26,332,"MCCALLUM, RAY",P008002   ,Assist (4),AS,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+          ,,,04:31,26,333,,          ,TV Time Out (3),TOUT_TV,,,,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,5,04:31,26,334,"RIBAS, PAU",PJUG      ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,13,04:31,26,335,"HEURTEL, THOMAS",PKLT      ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,11,04:31,26,336,"DIEZ, DANIEL",P003198   ,Out,OUT,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,21,04:31,26,337,"WACZYNSKI, ADAM",PLDX      ,In,IN,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,45,04:27,26,338,"MOERMAN, ADRIEN",P001833   ,Missed Three Pointer (2/4 -  6 pt),3FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,18,04:25,26,339,"ORIOLA, PIERRE",P005917   ,Off Rebound (2),O,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,25,04:21,26,340,"KOPONEN, PETTERI",P004178   ,Missed Two Pointer (0/3 -  0 pt),2FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,3,04:18,26,341,"MCCALLUM, RAY",P008002   ,Def Rebound (1),D,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,21,04:15,26,342,"WACZYNSKI, ADAM",PLDX      ,Two Pointer (1/2 -  5 pt),2FGM,61.0,61.0,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,45,04:15,26,343,"MOERMAN, ADRIEN",P001833   ,Foul (3),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,21,04:15,26,344,"WACZYNSKI, ADAM",PLDX      ,Foul Drawn (2),RV,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,1,04:15,26,345,"SERAPHIN, KEVIN",P001948   ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,18,04:15,26,346,"ORIOLA, PIERRE",P005917   ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,21,04:15,26,347,"WACZYNSKI, ADAM",PLDX      ,Missed Free Throw (0/1 -  5 pt),FTA,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,1,04:13,26,348,"SERAPHIN, KEVIN",P001948   ,Def Rebound (4),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,1,03:49,27,350,"SERAPHIN, KEVIN",P001948   ,Missed Three Pointer (0/1 -  6 pt),3FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,16,03:47,27,351,"NEDOVIC, NEMANJA",P000848   ,Def Rebound (2),D,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,16,03:40,27,352,"NEDOVIC, NEMANJA",P000848   ,Two Pointer (3/4 -  16 pt),2FGM,61.0,63.0,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,25,03:20,27,353,"KOPONEN, PETTERI",P004178   ,Turnover (1),TO,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,21,03:19,27,354,"WACZYNSKI, ADAM",PLDX      ,Steal (1),ST,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,16,03:14,27,355,"NEDOVIC, NEMANJA",P000848   ,Missed Three Pointer (3/6 -  16 pt),3FGA,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,9,03:12,27,356,"HANGA, ADAM",P005099   ,Def Rebound (2),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,16,02:56,28,358,"NEDOVIC, NEMANJA",P000848   ,Foul (1),CM,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,25,02:56,28,359,"KOPONEN, PETTERI",P004178   ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,30,02:56,28,360,"CLAVER, VICTOR",P000556   ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,45,02:56,28,361,"MOERMAN, ADRIEN",P001833   ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,12,02:56,28,362,"MILOSAVLJEVIC, DRAGAN",P002822   ,In,IN,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,16,02:56,28,363,"NEDOVIC, NEMANJA",P000848   ,Out,OUT,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,30,02:42,28,364,"CLAVER, VICTOR",P000556   ,Missed Two Pointer (0/1 -  3 pt),2FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,23,02:40,28,365,"BROOKS, JEFF",P004117   ,Def Rebound (1),D,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,23,02:31,28,366,"BROOKS, JEFF",P004117   ,Missed Two Pointer (2/6 -  13 pt),2FGA,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,9,02:28,28,367,"HANGA, ADAM",P005099   ,Def Rebound (3),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,5,02:16,28,368,"RIBAS, PAU",PJUG      ,Turnover (1),TO,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,21,02:14,28,369,"WACZYNSKI, ADAM",PLDX      ,Steal (2),ST,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,5,02:12,28,370,"RIBAS, PAU",PJUG      ,Foul (1),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,23,02:12,28,371,"BROOKS, JEFF",P004117   ,Foul Drawn (2),RV,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,3,02:01,28,372,"MCCALLUM, RAY",P008002   ,Missed Two Pointer (3/5 -  6 pt),2FGA,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,40,02:01,28,373,"AUGUSTINE, JAMES",P001438   ,Off Rebound (3),O,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,40,02:01,28,374,"AUGUSTINE, JAMES",P001438   ,Missed Two Pointer (4/6 -  8 pt),2FGA,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,40,02:01,28,375,"AUGUSTINE, JAMES",P001438   ,Off Rebound (4),O,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,40,02:01,28,376,"AUGUSTINE, JAMES",P001438   ,Two Pointer (5/7 -  10 pt),2FGM,61.0,65.0,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,,02:01,28,377,,          ,Time Out (1),TOUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,13,02:01,28,378,"HEURTEL, THOMAS",PKLT      ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,25,02:01,28,379,"KOPONEN, PETTERI",P004178   ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,3,02:01,28,380,"MCCALLUM, RAY",P008002   ,Out,OUT,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,9,02:01,28,381,"DIAZ, ALBERTO",P004213   ,In,IN,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,1,01:44,29,383,"SERAPHIN, KEVIN",P001948   ,Missed Two Pointer (3/6 -  6 pt),2FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,1,01:44,29,384,"SERAPHIN, KEVIN",P001948   ,Shot Rejected (2),AG,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,40,01:40,29,385,"AUGUSTINE, JAMES",P001438   ,Block (2),FV,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,40,01:39,29,386,"AUGUSTINE, JAMES",P001438   ,Def Rebound (5),D,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,40,01:21,29,387,"AUGUSTINE, JAMES",P001438   ,Missed Three Pointer (0/1 -  10 pt),3FGA,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,13,01:19,29,388,"HEURTEL, THOMAS",PKLT      ,Def Rebound (2),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,40,01:16,29,389,"AUGUSTINE, JAMES",P001438   ,Foul (3),CM,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,1,01:16,29,390,"SERAPHIN, KEVIN",P001948   ,Foul Drawn (3),RV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,9,01:16,29,391,"HANGA, ADAM",P005099   ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,14,01:16,29,392,"VEZENKOV, SASHA",P003469   ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,40,01:16,29,393,"AUGUSTINE, JAMES",P001438   ,Out,OUT,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,43,01:16,29,394,"SUAREZ, CARLOS",PJJS      ,In,IN,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,1,01:16,29,395,"SERAPHIN, KEVIN",P001948   ,Missed Free Throw (0/1 -  6 pt),FTA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,1,01:16,29,396,"SERAPHIN, KEVIN",P001948   ,Missed Free Throw (0/2 -  6 pt),FTA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,43,01:12,29,397,"SUAREZ, CARLOS",PJJS      ,Def Rebound (4),D,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,43,00:57,30,399,"SUAREZ, CARLOS",PJJS      ,Missed Three Pointer (0/2 -  7 pt),3FGA,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,,00:57,30,400,,          ,Def Rebound (2),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,5,00:39,30,401,"RIBAS, PAU",PJUG      ,Three Pointer (2/3 -  8 pt),3FGM,64.0,65.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,13,00:38,30,402,"HEURTEL, THOMAS",PKLT      ,Assist (7),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,14,00:27,30,403,"VEZENKOV, SASHA",P003469   ,Foul (1),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,12,00:27,30,404,"MILOSAVLJEVIC, DRAGAN",P002822   ,Foul Drawn (1),RV,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,12,00:27,30,405,"MILOSAVLJEVIC, DRAGAN",P002822   ,Missed Free Throw (0/1 -  0 pt),FTA,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,12,00:27,30,406,"MILOSAVLJEVIC, DRAGAN",P002822   ,Free Throw In (1/2 -  1 pt),FTM,64.0,66.0,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,13,00:04,30,407,"HEURTEL, THOMAS",PKLT      ,Missed Three Pointer (2/4 -  14 pt),3FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,12,00:00,30,408,"MILOSAVLJEVIC, DRAGAN",P002822   ,Def Rebound (1),D,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+          ,,,,31,410,,          ,End Period,EP,,,,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+          ,,,,31,411,,          ,Begin Period,BP,,,,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,23,09:42,31,412,"BROOKS, JEFF",P004117   ,Missed Two Pointer (2/7 -  13 pt),2FGA,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,1,09:39,31,413,"SERAPHIN, KEVIN",P001948   ,Def Rebound (5),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,12,09:24,31,414,"MILOSAVLJEVIC, DRAGAN",P002822   ,Foul (1),CM,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,13,09:24,31,415,"HEURTEL, THOMAS",PKLT      ,Foul Drawn (3),RV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,14,09:14,31,416,"VEZENKOV, SASHA",P003469   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,1,09:13,31,417,"SERAPHIN, KEVIN",P001948   ,Off Rebound (5),O,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,9,09:13,31,418,"DIAZ, ALBERTO",P004213   ,Foul (2),CM,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,1,09:13,31,419,"SERAPHIN, KEVIN",P001948   ,Foul Drawn (4),RV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,1,09:13,31,420,"SERAPHIN, KEVIN",P001948   ,Free Throw In (1/3 -  7 pt),FTM,65.0,66.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,1,09:13,31,421,"SERAPHIN, KEVIN",P001948   ,Free Throw In (2/4 -  8 pt),FTM,66.0,66.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,21,08:50,32,423,"WACZYNSKI, ADAM",PLDX      ,Three Pointer (2/2 -  8 pt),3FGM,66.0,69.0,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,1,08:37,32,424,"SERAPHIN, KEVIN",P001948   ,Turnover (1),TO,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,12,08:17,32,425,"MILOSAVLJEVIC, DRAGAN",P002822   ,Turnover (1),TO,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,30,08:14,32,426,"CLAVER, VICTOR",P000556   ,Steal (1),ST,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,43,08:06,32,427,"SUAREZ, CARLOS",PJJS      ,Foul (1),CM,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,1,08:06,32,428,"SERAPHIN, KEVIN",P001948   ,Foul Drawn (5),RV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,21,08:06,32,429,"SANDERS, RAKIM",P005001   ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,30,08:06,32,430,"CLAVER, VICTOR",P000556   ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,12,08:06,32,431,"MILOSAVLJEVIC, DRAGAN",P002822   ,Out,OUT,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,16,08:06,32,432,"NEDOVIC, NEMANJA",P000848   ,In,IN,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,13,07:56,33,434,"HEURTEL, THOMAS",PKLT      ,Missed Two Pointer (3/4 -  14 pt),2FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,43,07:53,33,435,"SUAREZ, CARLOS",PJJS      ,Def Rebound (5),D,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,9,07:45,33,436,"DIAZ, ALBERTO",P004213   ,Three Pointer (1/2 -  3 pt),3FGM,66.0,72.0,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,,07:45,33,437,,          ,Time Out (1),TOUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,21,07:21,33,438,"SANDERS, RAKIM",P005001   ,Missed Three Pointer (2/4 -  14 pt),3FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,13,07:19,33,439,"HEURTEL, THOMAS",PKLT      ,Off Rebound (1),O,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,13,07:10,33,440,"HEURTEL, THOMAS",PKLT      ,Missed Two Pointer (3/5 -  14 pt),2FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,14,07:06,33,441,"VEZENKOV, SASHA",P003469   ,Off Rebound (1),O,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,14,07:06,33,442,"VEZENKOV, SASHA",P003469   ,Two Pointer (1/1 -  2 pt),2FGM,68.0,72.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,21,06:59,34,444,"SANDERS, RAKIM",P005001   ,Foul (3),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,21,06:59,34,445,"WACZYNSKI, ADAM",PLDX      ,Foul Drawn (3),RV,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,23,06:59,34,446,"BROOKS, JEFF",P004117   ,Out,OUT,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,40,06:59,34,447,"AUGUSTINE, JAMES",P001438   ,In,IN,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,9,06:59,34,448,"HANGA, ADAM",P005099   ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,21,06:59,34,449,"SANDERS, RAKIM",P005001   ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,16,06:49,34,450,"NEDOVIC, NEMANJA",P000848   ,Two Pointer (4/5 -  18 pt),2FGM,68.0,74.0,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,9,06:44,34,451,"DIAZ, ALBERTO",P004213   ,Foul (3),CM,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,9,06:44,34,452,"HANGA, ADAM",P005099   ,Foul Drawn (2),RV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,13,06:44,34,453,"HEURTEL, THOMAS",PKLT      ,Assist (8),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,9,06:44,34,454,"HANGA, ADAM",P005099   ,Free Throw In (1/1 -  6 pt),FTM,69.0,74.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,9,06:44,34,455,"HANGA, ADAM",P005099   ,Missed Free Throw (1/2 -  6 pt),FTA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,40,06:41,34,456,"AUGUSTINE, JAMES",P001438   ,Def Rebound (6),D,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,16,06:29,34,457,"NEDOVIC, NEMANJA",P000848   ,Two Pointer (5/6 -  20 pt),2FGM,69.0,76.0,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,13,06:15,34,458,"HEURTEL, THOMAS",PKLT      ,Two Pointer (4/6 -  16 pt),2FGM,71.0,76.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,1,05:51,35,460,"SERAPHIN, KEVIN",P001948   ,Foul (4),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,21,05:51,35,461,"WACZYNSKI, ADAM",PLDX      ,Foul Drawn (4),RV,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,21,05:51,35,462,"WACZYNSKI, ADAM",PLDX      ,Missed Free Throw (0/2 -  8 pt),FTA,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,21,05:51,35,463,"WACZYNSKI, ADAM",PLDX      ,Missed Free Throw (0/3 -  8 pt),FTA,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,,05:51,35,464,,          ,Def Rebound (3),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,1,05:51,35,465,"SERAPHIN, KEVIN",P001948   ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,18,05:51,35,466,"ORIOLA, PIERRE",P005917   ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,13,05:33,35,467,"HEURTEL, THOMAS",PKLT      ,Missed Two Pointer (4/7 -  16 pt),2FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,40,05:31,35,468,"AUGUSTINE, JAMES",P001438   ,Def Rebound (7),D,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,16,05:25,35,469,"NEDOVIC, NEMANJA",P000848   ,Missed Two Pointer (5/7 -  20 pt),2FGA,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,21,05:22,35,470,"WACZYNSKI, ADAM",PLDX      ,Off Rebound (1),O,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,21,05:22,35,471,"WACZYNSKI, ADAM",PLDX      ,Two Pointer (2/3 -  10 pt),2FGM,71.0,78.0,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,9,05:03,35,472,"DIAZ, ALBERTO",P004213   ,Foul (4),CM,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,5,05:03,35,473,"RIBAS, PAU",PJUG      ,Foul Drawn (2),RV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,14,05:03,35,474,"VEZENKOV, SASHA",P003469   ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,45,05:03,35,475,"MOERMAN, ADRIEN",P001833   ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,3,05:03,35,476,"MCCALLUM, RAY",P008002   ,In,IN,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,9,05:03,35,477,"DIAZ, ALBERTO",P004213   ,Out,OUT,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,5,05:03,35,478,"RIBAS, PAU",PJUG      ,Free Throw In (1/1 -  9 pt),FTM,72.0,78.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,5,05:03,35,479,"RIBAS, PAU",PJUG      ,Free Throw In (2/2 -  10 pt),FTM,73.0,78.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,3,04:41,36,481,"MCCALLUM, RAY",P008002   ,Missed Three Pointer (0/4 -  6 pt),3FGA,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,,04:39,36,545,,          ,Def Rebound (4),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,21,04:39,36,482,"WACZYNSKI, ADAM",PLDX      ,Foul (3),CM,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,9,04:39,36,483,"HANGA, ADAM",P005099   ,Foul Drawn (3),RV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,9,04:39,36,484,"HANGA, ADAM",P005099   ,Missed Free Throw (1/3 -  6 pt),FTA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,9,04:39,36,485,"HANGA, ADAM",P005099   ,Missed Free Throw (1/4 -  6 pt),FTA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,40,04:36,36,486,"AUGUSTINE, JAMES",P001438   ,Def Rebound (8),D,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,16,04:25,36,487,"NEDOVIC, NEMANJA",P000848   ,Two Pointer (6/8 -  22 pt),2FGM,73.0,80.0,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,43,04:25,36,488,"SUAREZ, CARLOS",PJJS      ,Assist (2),AS,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,,04:25,36,489,,          ,Time Out (2),TOUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,13,04:02,36,490,"HEURTEL, THOMAS",PKLT      ,Missed Two Pointer (4/8 -  16 pt),2FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,13,04:02,36,491,"HEURTEL, THOMAS",PKLT      ,Shot Rejected (1),AG,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,3,04:02,36,492,"MCCALLUM, RAY",P008002   ,Block (1),FV,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,3,04:02,36,493,"MCCALLUM, RAY",P008002   ,Def Rebound (2),D,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,18,04:02,36,494,"ORIOLA, PIERRE",P005917   ,Foul (3),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,43,04:02,36,495,"SUAREZ, CARLOS",PJJS      ,Foul Drawn (4),RV,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,43,03:36,37,497,"SUAREZ, CARLOS",PJJS      ,Missed Two Pointer (1/2 -  7 pt),2FGA,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,9,03:34,37,498,"HANGA, ADAM",P005099   ,Def Rebound (4),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,5,03:30,37,499,"RIBAS, PAU",PJUG      ,Missed Two Pointer (1/2 -  10 pt),2FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,9,03:28,37,500,"HANGA, ADAM",P005099   ,Off Rebound (1),O,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,9,03:28,37,501,"HANGA, ADAM",P005099   ,Two Pointer (2/3 -  8 pt),2FGM,75.0,80.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,9,03:17,37,502,"HANGA, ADAM",P005099   ,Foul (1),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,16,03:17,37,503,"NEDOVIC, NEMANJA",P000848   ,Foul Drawn (2),RV,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,21,03:06,37,504,"WACZYNSKI, ADAM",PLDX      ,Missed Three Pointer (2/3 -  10 pt),3FGA,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,45,03:03,37,505,"MOERMAN, ADRIEN",P001833   ,Def Rebound (1),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,45,02:51,38,507,"MOERMAN, ADRIEN",P001833   ,Missed Three Pointer (2/5 -  6 pt),3FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,16,02:48,38,508,"NEDOVIC, NEMANJA",P000848   ,Def Rebound (3),D,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,40,02:33,38,509,"AUGUSTINE, JAMES",P001438   ,Two Pointer (6/8 -  12 pt),2FGM,75.0,82.0,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,16,02:30,38,510,"NEDOVIC, NEMANJA",P000848   ,Assist (4),AS,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,23,02:20,38,511,"BROOKS, JEFF",P004117   ,In,IN,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,43,02:20,38,512,"SUAREZ, CARLOS",PJJS      ,Out,OUT,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,5,02:16,38,513,"RIBAS, PAU",PJUG      ,Missed Three Pointer (2/4 -  10 pt),3FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,23,02:13,38,514,"BROOKS, JEFF",P004117   ,Def Rebound (2),D,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,3,01:53,39,516,"MCCALLUM, RAY",P008002   ,Missed Two Pointer (3/6 -  6 pt),2FGA,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,9,01:51,39,517,"HANGA, ADAM",P005099   ,Def Rebound (5),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,18,01:47,39,518,"ORIOLA, PIERRE",P005917   ,Missed Two Pointer (3/7 -  8 pt),2FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,40,01:45,39,519,"AUGUSTINE, JAMES",P001438   ,Def Rebound (9),D,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,3,01:44,39,520,"MCCALLUM, RAY",P008002   ,Two Pointer (4/7 -  8 pt),2FGM,75.0,84.0,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,40,01:44,39,521,"AUGUSTINE, JAMES",P001438   ,Assist (3),AS,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,9,01:26,39,522,"HANGA, ADAM",P005099   ,Missed Three Pointer (1/2 -  8 pt),3FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,40,01:24,39,523,"AUGUSTINE, JAMES",P001438   ,Def Rebound (10),D,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,16,01:01,39,524,"NEDOVIC, NEMANJA",P000848   ,Three Pointer (4/7 -  25 pt),3FGM,75.0,87.0,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,45,01:01,39,525,"MOERMAN, ADRIEN",P001833   ,Three Pointer (3/6 -  9 pt),3FGM,78.0,87.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,13,01:01,39,526,"HEURTEL, THOMAS",PKLT      ,Assist (9),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,9,00:49,40,528,"HANGA, ADAM",P005099   ,Foul (2),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,16,00:49,40,529,"NEDOVIC, NEMANJA",P000848   ,Foul Drawn (3),RV,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,16,00:49,40,530,"NEDOVIC, NEMANJA",P000848   ,Free Throw In (2/3 -  26 pt),FTM,78.0,88.0,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,16,00:49,40,531,"NEDOVIC, NEMANJA",P000848   ,Missed Free Throw (2/4 -  26 pt),FTA,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,45,00:47,40,532,"MOERMAN, ADRIEN",P001833   ,Def Rebound (2),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,45,00:38,40,533,"MOERMAN, ADRIEN",P001833   ,Missed Three Pointer (3/7 -  9 pt),3FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,21,00:35,40,534,"WACZYNSKI, ADAM",PLDX      ,Def Rebound (1),D,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,5,00:32,40,535,"RIBAS, PAU",PJUG      ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,14,00:32,40,536,"VEZENKOV, SASHA",P003469   ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,16,00:15,40,537,"NEDOVIC, NEMANJA",P000848   ,Missed Three Pointer (4/8 -  26 pt),3FGA,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,45,00:12,40,538,"MOERMAN, ADRIEN",P001833   ,Def Rebound (3),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,13,00:06,40,539,"HEURTEL, THOMAS",PKLT      ,Missed Two Pointer (4/9 -  16 pt),2FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,45,00:06,40,540,"MOERMAN, ADRIEN",P001833   ,Off Rebound (1),O,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,45,00:06,40,541,"MOERMAN, ADRIEN",P001833   ,Two Pointer (1/2 -  11 pt),2FGM,80.0,88.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,3,00:00,40,542,"MCCALLUM, RAY",P008002   ,Two Pointer (5/8 -  10 pt),2FGM,80.0,90.0,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+MAL       ,,40,00:00,40,543,"AUGUSTINE, JAMES",P001438   ,Assist (4),AS,,,Unicaja Malaga,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+BAR       ,,13,00:00,40,544,"HEURTEL, THOMAS",PKLT      ,Three Pointer (3/5 -  19 pt),3FGM,83.0,90.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL
+          ,,,,41,548,,          ,End Game,EG,,,,0,FC Barcelona Lassa,BAR,Unicaja Malaga,MAL

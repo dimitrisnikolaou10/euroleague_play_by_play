@@ -1,526 +1,526 @@
-CODETEAM,COMMENT,DORSAL,MARKERTIME,MINUTE,NUMBEROFPLAY,PLAYER,PLAYER_ID,PLAYINFO,PLAYTYPE,POINTS_A,POINTS_B,TEAM,TYPE
-          ,,,,1,36,,          ,Begin Period,BP,,,,0
-BAR       ,,45,09:38,1,37,"MOERMAN, ADRIEN",P001833   ,Three Pointer (1/1 -  3 pt),3FGM,3.0,,FC Barcelona Lassa,0
-BAR       ,,13,09:35,1,38,"HEURTEL, THOMAS",PKLT      ,Assist (1),AS,,,FC Barcelona Lassa,0
-IST       ,,1,09:16,1,39,"LEDO, RICKY",P007969   ,Turnover (1),TO,,,Anadolu Efes Istanbul,0
-BAR       ,,1,09:14,1,40,"SERAPHIN, KEVIN",P001948   ,Steal (1),ST,,,FC Barcelona Lassa,0
-BAR       ,,1,09:11,1,41,"SERAPHIN, KEVIN",P001948   ,Turnover (1),TO,,,FC Barcelona Lassa,0
-IST       ,,42,09:08,1,42,"DUNSTON, BRYANT",P003048   ,Steal (1),ST,,,Anadolu Efes Istanbul,0
-IST       ,,44,09:02,1,43,"SIMON, KRUNOSLAV",PCPR      ,Three Pointer (1/1 -  3 pt),3FGM,3.0,3.0,Anadolu Efes Istanbul,0
-BAR       ,,1,08:47,2,45,"SERAPHIN, KEVIN",P001948   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,FC Barcelona Lassa,0
-IST       ,,42,08:43,2,46,"DUNSTON, BRYANT",P003048   ,Def Rebound (1),D,,,Anadolu Efes Istanbul,0
-IST       ,,42,08:36,2,47,"DUNSTON, BRYANT",P003048   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Anadolu Efes Istanbul,0
-BAR       ,,1,08:32,2,48,"SERAPHIN, KEVIN",P001948   ,Def Rebound (1),D,,,FC Barcelona Lassa,0
-BAR       ,,1,08:26,2,49,"SERAPHIN, KEVIN",P001948   ,Two Pointer (1/2 -  2 pt),2FGM,5.0,3.0,FC Barcelona Lassa,0
-BAR       ,,5,08:20,2,50,"RIBAS, PAU",PJUG      ,Foul (1),CM,,,FC Barcelona Lassa,0
-IST       ,,1,08:20,2,51,"LEDO, RICKY",P007969   ,Foul Drawn (1),RV,,,Anadolu Efes Istanbul,0
-IST       ,,42,08:04,2,52,"DUNSTON, BRYANT",P003048   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Anadolu Efes Istanbul,0
-BAR       ,,5,08:04,2,53,"RIBAS, PAU",PJUG      ,Def Rebound (1),D,,,FC Barcelona Lassa,0
-IST       ,,42,08:04,2,54,"DUNSTON, BRYANT",P003048   ,Foul (1),CM,,,Anadolu Efes Istanbul,0
-BAR       ,,5,08:04,2,55,"RIBAS, PAU",PJUG      ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0
-BAR       ,,45,08:03,2,56,"MOERMAN, ADRIEN",P001833   ,Missed Three Pointer (1/2 -  3 pt),3FGA,,,FC Barcelona Lassa,0
-IST       ,,14,08:03,2,57,"ADAMS, JOSH",P007872   ,Def Rebound (1),D,,,Anadolu Efes Istanbul,0
-BAR       ,,13,07:39,3,59,"HEURTEL, THOMAS",PKLT      ,Foul (1),CM,,,FC Barcelona Lassa,0
-IST       ,,14,07:39,3,60,"ADAMS, JOSH",P007872   ,Foul Drawn (1),RV,,,Anadolu Efes Istanbul,0
-IST       ,,14,07:39,3,61,"ADAMS, JOSH",P007872   ,Free Throw In (1/1 -  1 pt),FTM,5.0,4.0,Anadolu Efes Istanbul,0
-IST       ,,14,07:39,3,62,"ADAMS, JOSH",P007872   ,Free Throw In (2/2 -  2 pt),FTM,5.0,5.0,Anadolu Efes Istanbul,0
-BAR       ,,13,07:20,3,63,"HEURTEL, THOMAS",PKLT      ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,FC Barcelona Lassa,0
-BAR       ,,13,07:20,3,64,"HEURTEL, THOMAS",PKLT      ,Shot Rejected (1),AG,,,FC Barcelona Lassa,0
-IST       ,,14,07:17,3,65,"ADAMS, JOSH",P007872   ,Block (1),FV,,,Anadolu Efes Istanbul,0
-IST       ,,42,07:13,3,66,"DUNSTON, BRYANT",P003048   ,Def Rebound (2),D,,,Anadolu Efes Istanbul,0
-IST       ,,42,07:08,3,67,"DUNSTON, BRYANT",P003048   ,Turnover (1),TO,,,Anadolu Efes Istanbul,0
-BAR       ,,5,07:05,3,68,"RIBAS, PAU",PJUG      ,Steal (1),ST,,,FC Barcelona Lassa,0
-BAR       ,,13,07:03,3,69,"HEURTEL, THOMAS",PKLT      ,Two Pointer (1/2 -  2 pt),2FGM,7.0,5.0,FC Barcelona Lassa,0
-BAR       ,,5,07:03,3,70,"RIBAS, PAU",PJUG      ,Assist (1),AS,,,FC Barcelona Lassa,0
-BAR       ,,9,07:03,3,71,"HANGA, ADAM",P005099   ,Foul (1),CM,,,FC Barcelona Lassa,0
-IST       ,,44,07:03,3,72,"SIMON, KRUNOSLAV",PCPR      ,Foul Drawn (1),RV,,,Anadolu Efes Istanbul,0
-IST       ,,44,07:03,3,73,"SIMON, KRUNOSLAV",PCPR      ,Two Pointer (1/1 -  5 pt),2FGM,7.0,7.0,Anadolu Efes Istanbul,0
-BAR       ,,1,06:33,4,75,"SERAPHIN, KEVIN",P001948   ,Two Pointer (2/3 -  4 pt),2FGM,9.0,7.0,FC Barcelona Lassa,0
-BAR       ,,13,06:31,4,76,"HEURTEL, THOMAS",PKLT      ,Assist (2),AS,,,FC Barcelona Lassa,0
-IST       ,,1,06:20,4,77,"LEDO, RICKY",P007969   ,Two Pointer (1/1 -  2 pt),2FGM,9.0,9.0,Anadolu Efes Istanbul,0
-IST       ,,42,06:18,4,78,"DUNSTON, BRYANT",P003048   ,Assist (1),AS,,,Anadolu Efes Istanbul,0
-BAR       ,,13,06:07,4,79,"HEURTEL, THOMAS",PKLT      ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,FC Barcelona Lassa,0
-IST       ,,15,06:04,4,80,"STIMAC, VLADIMIR",PLBJ      ,Def Rebound (1),D,,,Anadolu Efes Istanbul,0
-IST       ,,1,05:50,5,82,"LEDO, RICKY",P007969   ,Three Pointer (1/1 -  5 pt),3FGM,9.0,12.0,Anadolu Efes Istanbul,0
-BAR       ,,45,05:25,5,83,"MOERMAN, ADRIEN",P001833   ,Two Pointer (1/1 -  5 pt),2FGM,11.0,12.0,FC Barcelona Lassa,0
-BAR       ,,9,05:23,5,84,"HANGA, ADAM",P005099   ,Assist (1),AS,,,FC Barcelona Lassa,0
-IST       ,,44,05:09,5,85,"SIMON, KRUNOSLAV",PCPR      ,Missed Two Pointer (1/2 -  5 pt),2FGA,,,Anadolu Efes Istanbul,0
-IST       ,,15,05:03,5,86,"STIMAC, VLADIMIR",PLBJ      ,Off Rebound (1),O,,,Anadolu Efes Istanbul,0
-IST       ,,15,05:03,5,87,"STIMAC, VLADIMIR",PLBJ      ,Two Pointer (1/1 -  2 pt),2FGM,11.0,14.0,Anadolu Efes Istanbul,0
-BAR       ,,5,04:53,6,89,"RIBAS, PAU",PJUG      ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,FC Barcelona Lassa,0
-IST       ,,14,04:50,6,90,"ADAMS, JOSH",P007872   ,Def Rebound (2),D,,,Anadolu Efes Istanbul,0
-IST       ,,44,04:37,6,91,"SIMON, KRUNOSLAV",PCPR      ,Missed Three Pointer (1/2 -  5 pt),3FGA,,,Anadolu Efes Istanbul,0
-IST       ,,42,04:34,6,92,"DUNSTON, BRYANT",P003048   ,Off Rebound (1),O,,,Anadolu Efes Istanbul,0
-IST       ,,15,04:30,6,93,"STIMAC, VLADIMIR",PLBJ      ,Two Pointer (2/2 -  4 pt),2FGM,11.0,16.0,Anadolu Efes Istanbul,0
-IST       ,,42,04:27,6,94,"DUNSTON, BRYANT",P003048   ,Assist (2),AS,,,Anadolu Efes Istanbul,0
-BAR       ,,1,04:07,6,95,"SERAPHIN, KEVIN",P001948   ,Missed Two Pointer (2/4 -  4 pt),2FGA,,,FC Barcelona Lassa,0
-IST       ,,1,04:05,6,96,"LEDO, RICKY",P007969   ,Def Rebound (1),D,,,Anadolu Efes Istanbul,0
-IST       ,,1,03:57,7,98,"LEDO, RICKY",P007969   ,Three Pointer (2/2 -  8 pt),3FGM,11.0,19.0,Anadolu Efes Istanbul,0
-BAR       ,,,03:56,7,99,,          ,Time Out (1),TOUT,,,FC Barcelona Lassa,0
-BAR       ,,5,03:56,7,100,"RIBAS, PAU",PJUG      ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,9,03:56,7,101,"HANGA, ADAM",P005099   ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,21,03:56,7,102,"SANDERS, RAKIM",P005001   ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,25,03:56,7,103,"KOPONEN, PETTERI",P004178   ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,30,03:56,7,104,"CLAVER, VICTOR",P000556   ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,45,03:56,7,105,"MOERMAN, ADRIEN",P001833   ,Out,OUT,,,FC Barcelona Lassa,0
-IST       ,,15,03:43,7,106,"STIMAC, VLADIMIR",PLBJ      ,Foul (1),CM,,,Anadolu Efes Istanbul,0
-BAR       ,,1,03:43,7,107,"SERAPHIN, KEVIN",P001948   ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0
-BAR       ,,1,03:34,7,108,"SERAPHIN, KEVIN",P001948   ,Two Pointer (3/5 -  6 pt),2FGM,13.0,19.0,FC Barcelona Lassa,0
-BAR       ,,13,03:31,7,109,"HEURTEL, THOMAS",PKLT      ,Assist (3),AS,,,FC Barcelona Lassa,0
-IST       ,,1,03:09,7,110,"LEDO, RICKY",P007969   ,Missed Two Pointer (1/2 -  8 pt),2FGA,,,Anadolu Efes Istanbul,0
-IST       ,,15,03:06,7,111,"STIMAC, VLADIMIR",PLBJ      ,Off Rebound (2),O,,,Anadolu Efes Istanbul,0
-BAR       ,,21,03:02,7,112,"SANDERS, RAKIM",P005001   ,Foul (1),CM,,,FC Barcelona Lassa,0
-IST       ,,42,03:02,7,113,"DUNSTON, BRYANT",P003048   ,Foul Drawn (1),RV,,,Anadolu Efes Istanbul,0
-BAR       ,,8,03:02,7,114,"PRESSEY, PHIL",P007997   ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,13,03:02,7,115,"HEURTEL, THOMAS",PKLT      ,Out,OUT,,,FC Barcelona Lassa,0
-IST       ,,3,03:02,7,116,"MCCOLLUM, ERRICK",P005216   ,In,IN,,,Anadolu Efes Istanbul,0
-IST       ,,14,03:02,7,117,"ADAMS, JOSH",P007872   ,Out,OUT,,,Anadolu Efes Istanbul,0
-IST       ,,24,03:02,7,118,"MURIC, EDO",P003515   ,In,IN,,,Anadolu Efes Istanbul,0
-IST       ,,44,03:02,7,119,"SIMON, KRUNOSLAV",PCPR      ,Out,OUT,,,Anadolu Efes Istanbul,0
-BAR       ,,1,02:55,8,121,"SERAPHIN, KEVIN",P001948   ,Foul (1),CM,,,FC Barcelona Lassa,0
-IST       ,,15,02:55,8,122,"STIMAC, VLADIMIR",PLBJ      ,Foul Drawn (1),RV,,,Anadolu Efes Istanbul,0
-IST       ,,15,02:55,8,123,"STIMAC, VLADIMIR",PLBJ      ,Free Throw In (1/1 -  5 pt),FTM,13.0,20.0,Anadolu Efes Istanbul,0
-IST       ,,15,02:55,8,124,"STIMAC, VLADIMIR",PLBJ      ,Free Throw In (2/2 -  6 pt),FTM,13.0,21.0,Anadolu Efes Istanbul,0
-BAR       ,,1,02:39,8,125,"SERAPHIN, KEVIN",P001948   ,Two Pointer (4/6 -  8 pt),2FGM,15.0,21.0,FC Barcelona Lassa,0
-IST       ,,42,02:23,8,126,"DUNSTON, BRYANT",P003048   ,Two Pointer (1/3 -  2 pt),2FGM,15.0,23.0,Anadolu Efes Istanbul,0
-IST       ,,1,02:20,8,127,"LEDO, RICKY",P007969   ,Assist (1),AS,,,Anadolu Efes Istanbul,0
-BAR       ,,30,02:01,8,128,"CLAVER, VICTOR",P000556   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,FC Barcelona Lassa,0
-IST       ,,15,01:56,9,130,"STIMAC, VLADIMIR",PLBJ      ,Def Rebound (2),D,,,Anadolu Efes Istanbul,0
-IST       ,,1,01:51,9,131,"LEDO, RICKY",P007969   ,Missed Two Pointer (1/3 -  8 pt),2FGA,,,Anadolu Efes Istanbul,0
-IST       ,,42,01:47,9,132,"DUNSTON, BRYANT",P003048   ,Off Rebound (2),O,,,Anadolu Efes Istanbul,0
-IST       ,,3,01:37,9,133,"MCCOLLUM, ERRICK",P005216   ,Three Pointer (1/1 -  3 pt),3FGM,15.0,26.0,Anadolu Efes Istanbul,0
-BAR       ,,21,01:19,9,134,"SANDERS, RAKIM",P005001   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,FC Barcelona Lassa,0
-IST       ,,,01:17,9,135,,          ,Def Rebound (1),D,,,Anadolu Efes Istanbul,0
-IST       ,,1,01:17,9,136,"LEDO, RICKY",P007969   ,Out,OUT,,,Anadolu Efes Istanbul,0
-IST       ,,8,01:17,9,137,"BATUK, BIRKAN",P004170   ,In,IN,,,Anadolu Efes Istanbul,0
-IST       ,,12,01:17,9,138,"MOTUM, BROCK",P006599   ,In,IN,,,Anadolu Efes Istanbul,0
-IST       ,,15,01:17,9,139,"STIMAC, VLADIMIR",PLBJ      ,Out,OUT,,,Anadolu Efes Istanbul,0
-BAR       ,,1,01:06,9,140,"SERAPHIN, KEVIN",P001948   ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,18,01:06,9,141,"ORIOLA, PIERRE",P005917   ,In,IN,,,FC Barcelona Lassa,0
-IST       ,,12,01:06,9,142,"MOTUM, BROCK",P006599   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Anadolu Efes Istanbul,0
-BAR       ,,21,01:06,9,143,"SANDERS, RAKIM",P005001   ,Def Rebound (1),D,,,FC Barcelona Lassa,0
-BAR       ,,21,01:06,9,144,"SANDERS, RAKIM",P005001   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,FC Barcelona Lassa,0
-IST       ,,12,01:06,9,145,"MOTUM, BROCK",P006599   ,Def Rebound (1),D,,,Anadolu Efes Istanbul,0
-IST       ,,3,01:06,9,146,"MCCOLLUM, ERRICK",P005216   ,Missed Two Pointer (0/1 -  3 pt),2FGA,,,Anadolu Efes Istanbul,0
-BAR       ,,21,01:06,9,147,"SANDERS, RAKIM",P005001   ,Def Rebound (2),D,,,FC Barcelona Lassa,0
-IST       ,,3,00:16,10,149,"MCCOLLUM, ERRICK",P005216   ,Foul (1),CM,,,Anadolu Efes Istanbul,0
-BAR       ,,8,00:16,10,150,"PRESSEY, PHIL",P007997   ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0
-BAR       ,,25,00:02,10,151,"KOPONEN, PETTERI",P004178   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,FC Barcelona Lassa,0
-IST       ,,3,00:00,10,152,"MCCOLLUM, ERRICK",P005216   ,Def Rebound (1),D,,,Anadolu Efes Istanbul,0
-          ,,,,11,154,,          ,End Period,EP,,,,0
-          ,,,,11,155,,          ,Begin Period,BP,,,,0
-IST       ,,24,09:54,11,156,"MURIC, EDO",P003515   ,Turnover (1),TO,,,Anadolu Efes Istanbul,0
-BAR       ,,8,09:51,11,157,"PRESSEY, PHIL",P007997   ,Steal (1),ST,,,FC Barcelona Lassa,0
-BAR       ,,8,09:51,11,289,"PRESSEY, PHIL",P007997   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,FC Barcelona Lassa,0
-BAR       ,,21,09:51,11,290,"SANDERS, RAKIM",P005001   ,Off Rebound (1),O,,,FC Barcelona Lassa,0
-BAR       ,,21,09:46,11,158,"SANDERS, RAKIM",P005001   ,Two Pointer (1/3 -  2 pt),2FGM,17.0,26.0,FC Barcelona Lassa,0
-IST       ,,3,09:31,11,160,"MCCOLLUM, ERRICK",P005216   ,Missed Two Pointer (0/2 -  3 pt),2FGA,,,Anadolu Efes Istanbul,0
-BAR       ,,,09:31,11,161,,          ,Def Rebound (2),D,,,FC Barcelona Lassa,0
-BAR       ,,21,09:10,11,162,"SANDERS, RAKIM",P005001   ,Missed Two Pointer (1/4 -  2 pt),2FGA,,,FC Barcelona Lassa,0
-IST       ,,42,09:07,11,163,"DUNSTON, BRYANT",P003048   ,Def Rebound (3),D,,,Anadolu Efes Istanbul,0
-IST       ,,42,08:52,12,165,"DUNSTON, BRYANT",P003048   ,Two Pointer (2/4 -  4 pt),2FGM,17.0,28.0,Anadolu Efes Istanbul,0
-IST       ,,12,08:49,12,166,"MOTUM, BROCK",P006599   ,Assist (1),AS,,,Anadolu Efes Istanbul,0
-BAR       ,,8,08:35,12,167,"PRESSEY, PHIL",P007997   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,FC Barcelona Lassa,0
-IST       ,,42,08:32,12,168,"DUNSTON, BRYANT",P003048   ,Def Rebound (4),D,,,Anadolu Efes Istanbul,0
-IST       ,,3,08:16,12,169,"MCCOLLUM, ERRICK",P005216   ,Missed Two Pointer (0/3 -  3 pt),2FGA,,,Anadolu Efes Istanbul,0
-IST       ,,,08:09,12,170,,          ,Off Rebound (1),O,,,Anadolu Efes Istanbul,0
-BAR       ,,9,08:09,12,171,"HANGA, ADAM",P005099   ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,21,08:09,12,172,"SANDERS, RAKIM",P005001   ,Out,OUT,,,FC Barcelona Lassa,0
-IST       ,,24,08:09,12,173,"MURIC, EDO",P003515   ,Out,OUT,,,Anadolu Efes Istanbul,0
-IST       ,,44,08:09,12,174,"SIMON, KRUNOSLAV",PCPR      ,In,IN,,,Anadolu Efes Istanbul,0
-IST       ,,3,07:57,13,176,"MCCOLLUM, ERRICK",P005216   ,Turnover (1),TO,,,Anadolu Efes Istanbul,0
-BAR       ,,18,07:33,13,177,"ORIOLA, PIERRE",P005917   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,FC Barcelona Lassa,0
-IST       ,,8,07:29,13,178,"BATUK, BIRKAN",P004170   ,Def Rebound (1),D,,,Anadolu Efes Istanbul,0
-IST       ,,3,07:17,13,179,"MCCOLLUM, ERRICK",P005216   ,Turnover (2),TO,,,Anadolu Efes Istanbul,0
-IST       ,,15,07:17,13,180,"STIMAC, VLADIMIR",PLBJ      ,In,IN,,,Anadolu Efes Istanbul,0
-IST       ,,42,07:17,13,181,"DUNSTON, BRYANT",P003048   ,Out,OUT,,,Anadolu Efes Istanbul,0
-IST       ,,12,07:17,13,182,"MOTUM, BROCK",P006599   ,Out,OUT,,,Anadolu Efes Istanbul,0
-IST       ,,14,07:17,13,183,"ADAMS, JOSH",P007872   ,In,IN,,,Anadolu Efes Istanbul,0
-IST       ,,3,07:17,13,184,"MCCOLLUM, ERRICK",P005216   ,Out,OUT,,,Anadolu Efes Istanbul,0
-IST       ,,12,07:17,13,185,"MOTUM, BROCK",P006599   ,In,IN,,,Anadolu Efes Istanbul,0
-IST       ,,8,07:04,13,186,"BATUK, BIRKAN",P004170   ,Foul (1),CM,,,Anadolu Efes Istanbul,0
-BAR       ,,25,07:04,13,187,"KOPONEN, PETTERI",P004178   ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0
-BAR       ,,8,06:55,14,189,"PRESSEY, PHIL",P007997   ,Turnover (1),TO,,,FC Barcelona Lassa,0
-IST       ,,12,06:45,14,190,"MOTUM, BROCK",P006599   ,Turnover (1),TO,,,Anadolu Efes Istanbul,0
-BAR       ,,30,06:41,14,191,"CLAVER, VICTOR",P000556   ,Steal (1),ST,,,FC Barcelona Lassa,0
-BAR       ,,30,06:38,14,192,"CLAVER, VICTOR",P000556   ,Two Pointer (1/1 -  2 pt),2FGM,19.0,28.0,FC Barcelona Lassa,0
-IST       ,,15,06:19,14,193,"STIMAC, VLADIMIR",PLBJ      ,Two Pointer (3/3 -  8 pt),2FGM,19.0,30.0,Anadolu Efes Istanbul,0
-IST       ,,14,06:19,14,208,"ADAMS, JOSH",P007872   ,Assist (1),AS,,,Anadolu Efes Istanbul,0
-BAR       ,,9,06:07,14,194,"HANGA, ADAM",P005099   ,Two Pointer (1/1 -  2 pt),2FGM,21.0,30.0,FC Barcelona Lassa,0
-BAR       ,,8,06:04,14,195,"PRESSEY, PHIL",P007997   ,Assist (1),AS,,,FC Barcelona Lassa,0
-BAR       ,,30,05:50,15,197,"CLAVER, VICTOR",P000556   ,Foul (1),CM,,,FC Barcelona Lassa,0
-IST       ,,14,05:50,15,198,"ADAMS, JOSH",P007872   ,Foul Drawn (2),RV,,,Anadolu Efes Istanbul,0
-BAR       ,,30,05:50,15,199,"CLAVER, VICTOR",P000556   ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,44,05:50,15,200,"TOMIC, ANTE",P002507   ,In,IN,,,FC Barcelona Lassa,0
-IST       ,,1,05:50,15,201,"LEDO, RICKY",P007969   ,In,IN,,,Anadolu Efes Istanbul,0
-IST       ,,8,05:50,15,202,"BATUK, BIRKAN",P004170   ,Out,OUT,,,Anadolu Efes Istanbul,0
-IST       ,,14,05:49,15,203,"ADAMS, JOSH",P007872   ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,Anadolu Efes Istanbul,0
-BAR       ,,9,05:49,15,204,"HANGA, ADAM",P005099   ,Def Rebound (1),D,,,FC Barcelona Lassa,0
-BAR       ,,18,05:49,15,205,"ORIOLA, PIERRE",P005917   ,Two Pointer (1/2 -  2 pt),2FGM,23.0,30.0,FC Barcelona Lassa,0
-BAR       ,,9,05:49,15,206,"HANGA, ADAM",P005099   ,Assist (2),AS,,,FC Barcelona Lassa,0
-IST       ,,,05:35,15,207,,          ,Time Out (1),TOUT,,,Anadolu Efes Istanbul,0
-IST       ,,15,05:17,15,209,"STIMAC, VLADIMIR",PLBJ      ,Two Pointer (4/4 -  10 pt),2FGM,23.0,32.0,Anadolu Efes Istanbul,0
-IST       ,,44,05:15,15,210,"SIMON, KRUNOSLAV",PCPR      ,Assist (1),AS,,,Anadolu Efes Istanbul,0
-BAR       ,,8,05:02,15,211,"PRESSEY, PHIL",P007997   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,FC Barcelona Lassa,0
-IST       ,,1,05:00,15,212,"LEDO, RICKY",P007969   ,Def Rebound (2),D,,,Anadolu Efes Istanbul,0
-IST       ,,1,04:53,16,214,"LEDO, RICKY",P007969   ,Missed Two Pointer (1/4 -  8 pt),2FGA,,,Anadolu Efes Istanbul,0
-BAR       ,,25,04:51,16,215,"KOPONEN, PETTERI",P004178   ,Def Rebound (1),D,,,FC Barcelona Lassa,0
-BAR       ,,8,04:44,16,216,"PRESSEY, PHIL",P007997   ,Turnover (2),TO,,,FC Barcelona Lassa,0
-BAR       ,,8,04:44,16,217,"PRESSEY, PHIL",P007997   ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,13,04:44,16,218,"HEURTEL, THOMAS",PKLT      ,In,IN,,,FC Barcelona Lassa,0
-IST       ,,12,04:44,16,219,"MOTUM, BROCK",P006599   ,Out,OUT,,,Anadolu Efes Istanbul,0
-IST       ,,42,04:44,16,220,"DUNSTON, BRYANT",P003048   ,In,IN,,,Anadolu Efes Istanbul,0
-IST       ,,1,04:44,16,221,"LEDO, RICKY",P007969   ,Two Pointer (2/5 -  10 pt),2FGM,23.0,34.0,Anadolu Efes Istanbul,0
-BAR       ,,9,04:44,16,222,"HANGA, ADAM",P005099   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,FC Barcelona Lassa,0
-IST       ,,1,04:44,16,223,"LEDO, RICKY",P007969   ,Def Rebound (3),D,,,Anadolu Efes Istanbul,0
-IST       ,,44,04:44,16,224,"SIMON, KRUNOSLAV",PCPR      ,Missed Three Pointer (1/3 -  5 pt),3FGA,,,Anadolu Efes Istanbul,0
-BAR       ,,44,04:44,16,225,"TOMIC, ANTE",P002507   ,Def Rebound (1),D,,,FC Barcelona Lassa,0
-BAR       ,,25,04:44,16,226,"KOPONEN, PETTERI",P004178   ,Three Pointer (1/2 -  3 pt),3FGM,26.0,34.0,FC Barcelona Lassa,0
-BAR       ,,9,04:44,16,227,"HANGA, ADAM",P005099   ,Assist (3),AS,,,FC Barcelona Lassa,0
-IST       ,,14,04:44,16,228,"ADAMS, JOSH",P007872   ,Missed Two Pointer (0/1 -  2 pt),2FGA,,,Anadolu Efes Istanbul,0
-IST       ,,14,04:44,16,229,"ADAMS, JOSH",P007872   ,Shot Rejected (1),AG,,,Anadolu Efes Istanbul,0
-BAR       ,,44,04:44,16,230,"TOMIC, ANTE",P002507   ,Block (1),FV,,,FC Barcelona Lassa,0
-IST       ,,,04:44,16,231,,          ,Off Rebound (2),O,,,Anadolu Efes Istanbul,0
-IST       ,,3,03:36,17,233,"MCCOLLUM, ERRICK",P005216   ,In,IN,,,Anadolu Efes Istanbul,0
-IST       ,,14,03:36,17,234,"ADAMS, JOSH",P007872   ,Out,OUT,,,Anadolu Efes Istanbul,0
-BAR       ,,44,03:34,17,235,"TOMIC, ANTE",P002507   ,Foul (1),CM,,,FC Barcelona Lassa,0
-IST       ,,15,03:34,17,236,"STIMAC, VLADIMIR",PLBJ      ,Foul Drawn (2),RV,,,Anadolu Efes Istanbul,0
-IST       ,,15,03:34,17,237,"STIMAC, VLADIMIR",PLBJ      ,Missed Free Throw (2/3 -  10 pt),FTA,,,Anadolu Efes Istanbul,0
-IST       ,,15,03:34,17,238,"STIMAC, VLADIMIR",PLBJ      ,Free Throw In (3/4 -  11 pt),FTM,26.0,35.0,Anadolu Efes Istanbul,0
-BAR       ,,25,03:18,17,239,"KOPONEN, PETTERI",P004178   ,Three Pointer (2/3 -  6 pt),3FGM,29.0,35.0,FC Barcelona Lassa,0
-BAR       ,,9,03:15,17,240,"HANGA, ADAM",P005099   ,Assist (4),AS,,,FC Barcelona Lassa,0
-IST       ,,3,03:01,17,241,"MCCOLLUM, ERRICK",P005216   ,Two Pointer (1/4 -  5 pt),2FGM,29.0,37.0,Anadolu Efes Istanbul,0
-BAR       ,,13,02:46,18,243,"HEURTEL, THOMAS",PKLT      ,Two Pointer (2/3 -  4 pt),2FGM,31.0,37.0,FC Barcelona Lassa,0
-IST       ,,1,02:31,18,244,"LEDO, RICKY",P007969   ,Three Pointer (3/3 -  13 pt),3FGM,31.0,40.0,Anadolu Efes Istanbul,0
-BAR       ,,13,02:14,18,245,"HEURTEL, THOMAS",PKLT      ,Two Pointer (3/4 -  6 pt),2FGM,33.0,40.0,FC Barcelona Lassa,0
-IST       ,,3,02:04,18,246,"MCCOLLUM, ERRICK",P005216   ,Missed Two Pointer (1/5 -  5 pt),2FGA,,,Anadolu Efes Istanbul,0
-BAR       ,,44,02:01,18,247,"TOMIC, ANTE",P002507   ,Def Rebound (2),D,,,FC Barcelona Lassa,0
-BAR       ,,44,01:49,19,249,"TOMIC, ANTE",P002507   ,Turnover (1),TO,,,FC Barcelona Lassa,0
-IST       ,,15,01:47,19,250,"STIMAC, VLADIMIR",PLBJ      ,Steal (1),ST,,,Anadolu Efes Istanbul,0
-IST       ,,1,01:34,19,251,"LEDO, RICKY",P007969   ,Turnover (2),TO,,,Anadolu Efes Istanbul,0
-BAR       ,,13,01:33,19,252,"HEURTEL, THOMAS",PKLT      ,Steal (1),ST,,,FC Barcelona Lassa,0
-BAR       ,,25,01:28,19,253,"KOPONEN, PETTERI",P004178   ,Missed Three Pointer (2/4 -  6 pt),3FGA,,,FC Barcelona Lassa,0
-BAR       ,,18,01:28,19,254,"ORIOLA, PIERRE",P005917   ,Off Rebound (1),O,,,FC Barcelona Lassa,0
-IST       ,,3,01:28,19,255,"MCCOLLUM, ERRICK",P005216   ,Foul (2),CM,,,Anadolu Efes Istanbul,0
-BAR       ,,18,01:28,19,256,"ORIOLA, PIERRE",P005917   ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0
-BAR       ,,18,01:28,19,257,"ORIOLA, PIERRE",P005917   ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,45,01:28,19,258,"MOERMAN, ADRIEN",P001833   ,In,IN,,,FC Barcelona Lassa,0
-IST       ,,3,01:28,19,259,"MCCOLLUM, ERRICK",P005216   ,Out,OUT,,,Anadolu Efes Istanbul,0
-IST       ,,8,01:28,19,260,"BATUK, BIRKAN",P004170   ,In,IN,,,Anadolu Efes Istanbul,0
-IST       ,,14,01:28,19,261,"ADAMS, JOSH",P007872   ,In,IN,,,Anadolu Efes Istanbul,0
-IST       ,,44,01:28,19,262,"SIMON, KRUNOSLAV",PCPR      ,Out,OUT,,,Anadolu Efes Istanbul,0
-BAR       ,,25,01:21,19,263,"KOPONEN, PETTERI",P004178   ,Two Pointer (1/1 -  8 pt),2FGM,35.0,40.0,FC Barcelona Lassa,0
-BAR       ,,13,01:18,19,264,"HEURTEL, THOMAS",PKLT      ,Assist (4),AS,,,FC Barcelona Lassa,0
-IST       ,,1,00:58,20,266,"LEDO, RICKY",P007969   ,Two Pointer (3/6 -  15 pt),2FGM,35.0,42.0,Anadolu Efes Istanbul,0
-BAR       ,,25,00:37,20,267,"KOPONEN, PETTERI",P004178   ,Missed Three Pointer (2/5 -  8 pt),3FGA,,,FC Barcelona Lassa,0
-IST       ,,42,00:34,20,268,"DUNSTON, BRYANT",P003048   ,Def Rebound (5),D,,,Anadolu Efes Istanbul,0
-BAR       ,,25,00:24,20,269,"KOPONEN, PETTERI",P004178   ,Foul (1),CM,,,FC Barcelona Lassa,0
-IST       ,,1,00:24,20,270,"LEDO, RICKY",P007969   ,Foul Drawn (2),RV,,,Anadolu Efes Istanbul,0
-BAR       ,,5,00:24,20,271,"RIBAS, PAU",PJUG      ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,25,00:24,20,272,"KOPONEN, PETTERI",P004178   ,Out,OUT,,,FC Barcelona Lassa,0
-IST       ,,14,00:13,20,274,"ADAMS, JOSH",P007872   ,Missed Two Pointer (0/2 -  2 pt),2FGA,,,Anadolu Efes Istanbul,0
-BAR       ,,,00:13,20,288,,          ,Def Rebound (3),D,,,FC Barcelona Lassa,0
-IST       ,,14,00:13,20,275,"ADAMS, JOSH",P007872   ,Foul (1),CM,,,Anadolu Efes Istanbul,0
-BAR       ,,44,00:13,20,276,"TOMIC, ANTE",P002507   ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0
-BAR       ,,,00:13,20,277,,          ,Time Out (1),TOUT,,,FC Barcelona Lassa,0
-IST       ,,12,00:13,20,279,"MOTUM, BROCK",P006599   ,In,IN,,,Anadolu Efes Istanbul,0
-IST       ,,15,00:13,20,280,"STIMAC, VLADIMIR",PLBJ      ,Out,OUT,,,Anadolu Efes Istanbul,0
-IST       ,,14,00:06,20,281,"ADAMS, JOSH",P007872   ,Foul (2),CM,,,Anadolu Efes Istanbul,0
-BAR       ,,13,00:06,20,282,"HEURTEL, THOMAS",PKLT      ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0
-IST       ,,4,00:06,20,283,"BALBAY, DOGUS",P003521   ,In,IN,,,Anadolu Efes Istanbul,0
-IST       ,,14,00:06,20,284,"ADAMS, JOSH",P007872   ,Out,OUT,,,Anadolu Efes Istanbul,0
-BAR       ,,13,00:00,20,285,"HEURTEL, THOMAS",PKLT      ,Missed Three Pointer (0/2 -  6 pt),3FGA,,,FC Barcelona Lassa,0
-          ,,,,21,287,,          ,End Period,EP,,,,0
-          ,,,,21,305,,          ,Begin Period,BP,,,,0
-BAR       ,,1,10:00,21,291,"SERAPHIN, KEVIN",P001948   ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,5,10:00,21,292,"RIBAS, PAU",PJUG      ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,8,10:00,21,293,"PRESSEY, PHIL",P007997   ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,13,10:00,21,294,"HEURTEL, THOMAS",PKLT      ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,18,10:00,21,295,"ORIOLA, PIERRE",P005917   ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,25,10:00,21,296,"KOPONEN, PETTERI",P004178   ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,44,10:00,21,297,"TOMIC, ANTE",P002507   ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,45,10:00,21,298,"MOERMAN, ADRIEN",P001833   ,Out,OUT,,,FC Barcelona Lassa,0
-IST       ,,4,10:00,21,299,"BALBAY, DOGUS",P003521   ,Out,OUT,,,Anadolu Efes Istanbul,0
-IST       ,,8,10:00,21,300,"BATUK, BIRKAN",P004170   ,Out,OUT,,,Anadolu Efes Istanbul,0
-IST       ,,12,10:00,21,301,"MOTUM, BROCK",P006599   ,Out,OUT,,,Anadolu Efes Istanbul,0
-IST       ,,14,10:00,21,302,"ADAMS, JOSH",P007872   ,In,IN,,,Anadolu Efes Istanbul,0
-IST       ,,15,10:00,21,303,"STIMAC, VLADIMIR",PLBJ      ,In,IN,,,Anadolu Efes Istanbul,0
-IST       ,,44,10:00,21,304,"SIMON, KRUNOSLAV",PCPR      ,In,IN,,,Anadolu Efes Istanbul,0
-IST       ,,15,09:48,21,306,"STIMAC, VLADIMIR",PLBJ      ,Foul (2),CM,,,Anadolu Efes Istanbul,0
-BAR       ,,1,09:48,21,307,"SERAPHIN, KEVIN",P001948   ,Foul Drawn (2),RV,,,FC Barcelona Lassa,0
-BAR       ,,1,09:32,21,308,"SERAPHIN, KEVIN",P001948   ,Two Pointer (5/7 -  10 pt),2FGM,37.0,42.0,FC Barcelona Lassa,0
-IST       ,,1,09:16,21,309,"LEDO, RICKY",P007969   ,Missed Two Pointer (3/7 -  15 pt),2FGA,,,Anadolu Efes Istanbul,0
-BAR       ,,,09:16,21,310,,          ,Def Rebound (4),D,,,FC Barcelona Lassa,0
-BAR       ,,1,09:16,21,311,"SERAPHIN, KEVIN",P001948   ,Two Pointer (6/8 -  12 pt),2FGM,39.0,42.0,FC Barcelona Lassa,0
-IST       ,,15,08:38,22,313,"STIMAC, VLADIMIR",PLBJ      ,Missed Two Pointer (4/5 -  11 pt),2FGA,,,Anadolu Efes Istanbul,0
-IST       ,,44,08:36,22,314,"SIMON, KRUNOSLAV",PCPR      ,Off Rebound (1),O,,,Anadolu Efes Istanbul,0
-IST       ,,14,08:33,22,315,"ADAMS, JOSH",P007872   ,Three Pointer (1/2 -  5 pt),3FGM,39.0,45.0,Anadolu Efes Istanbul,0
-IST       ,,44,08:31,22,316,"SIMON, KRUNOSLAV",PCPR      ,Assist (2),AS,,,Anadolu Efes Istanbul,0
-BAR       ,,25,08:17,22,317,"KOPONEN, PETTERI",P004178   ,Two Pointer (2/2 -  10 pt),2FGM,41.0,45.0,FC Barcelona Lassa,0
-BAR       ,,1,08:06,22,318,"SERAPHIN, KEVIN",P001948   ,Unsportsmanlike Foul  (2),CMU,,,FC Barcelona Lassa,0
-IST       ,,14,08:06,22,319,"ADAMS, JOSH",P007872   ,Foul Drawn (3),RV,,,Anadolu Efes Istanbul,0
-IST       ,,14,08:06,22,320,"ADAMS, JOSH",P007872   ,Free Throw In (3/3 -  6 pt),FTM,41.0,46.0,Anadolu Efes Istanbul,0
-IST       ,,14,08:06,22,321,"ADAMS, JOSH",P007872   ,Free Throw In (4/4 -  7 pt),FTM,41.0,47.0,Anadolu Efes Istanbul,0
-IST       ,,1,07:54,23,323,"LEDO, RICKY",P007969   ,Missed Two Pointer (3/8 -  15 pt),2FGA,,,Anadolu Efes Istanbul,0
-IST       ,,15,07:52,23,324,"STIMAC, VLADIMIR",PLBJ      ,Off Rebound (3),O,,,Anadolu Efes Istanbul,0
-IST       ,,15,07:48,23,325,"STIMAC, VLADIMIR",PLBJ      ,Two Pointer (5/6 -  13 pt),2FGM,41.0,49.0,Anadolu Efes Istanbul,0
-BAR       ,,25,07:33,23,326,"KOPONEN, PETTERI",P004178   ,Missed Three Pointer (2/6 -  10 pt),3FGA,,,FC Barcelona Lassa,0
-IST       ,,15,07:30,23,327,"STIMAC, VLADIMIR",PLBJ      ,Def Rebound (3),D,,,Anadolu Efes Istanbul,0
-IST       ,,44,07:21,23,328,"SIMON, KRUNOSLAV",PCPR      ,Missed Three Pointer (1/4 -  5 pt),3FGA,,,Anadolu Efes Istanbul,0
-BAR       ,,9,07:19,23,329,"HANGA, ADAM",P005099   ,Def Rebound (2),D,,,FC Barcelona Lassa,0
-BAR       ,,1,07:06,23,330,"SERAPHIN, KEVIN",P001948   ,Missed Two Pointer (6/9 -  12 pt),2FGA,,,FC Barcelona Lassa,0
-IST       ,,1,07:02,23,331,"LEDO, RICKY",P007969   ,Def Rebound (4),D,,,Anadolu Efes Istanbul,0
-IST       ,,1,06:47,24,333,"LEDO, RICKY",P007969   ,Missed Three Pointer (3/4 -  15 pt),3FGA,,,Anadolu Efes Istanbul,0
-BAR       ,,25,06:45,24,334,"KOPONEN, PETTERI",P004178   ,Def Rebound (2),D,,,FC Barcelona Lassa,0
-BAR       ,,1,06:31,24,335,"SERAPHIN, KEVIN",P001948   ,Missed Two Pointer (6/10 -  12 pt),2FGA,,,FC Barcelona Lassa,0
-BAR       ,,1,06:31,24,336,"SERAPHIN, KEVIN",P001948   ,Shot Rejected (1),AG,,,FC Barcelona Lassa,0
-IST       ,,42,06:29,24,337,"DUNSTON, BRYANT",P003048   ,Block (1),FV,,,Anadolu Efes Istanbul,0
-IST       ,,42,06:26,24,338,"DUNSTON, BRYANT",P003048   ,Def Rebound (6),D,,,Anadolu Efes Istanbul,0
-IST       ,,44,06:18,24,339,"SIMON, KRUNOSLAV",PCPR      ,Two Pointer (2/3 -  7 pt),2FGM,41.0,51.0,Anadolu Efes Istanbul,0
-IST       ,,14,06:18,24,340,"ADAMS, JOSH",P007872   ,Assist (2),AS,,,Anadolu Efes Istanbul,0
-BAR       ,,8,06:18,24,341,"PRESSEY, PHIL",P007997   ,Two Pointer (1/3 -  2 pt),2FGM,43.0,51.0,FC Barcelona Lassa,0
-IST       ,,44,05:39,25,343,"SIMON, KRUNOSLAV",PCPR      ,Turnover (1),TO,,,Anadolu Efes Istanbul,0
-BAR       ,,8,05:37,25,344,"PRESSEY, PHIL",P007997   ,Steal (2),ST,,,FC Barcelona Lassa,0
-BAR       ,,8,05:21,25,345,"PRESSEY, PHIL",P007997   ,Missed Two Pointer (1/4 -  2 pt),2FGA,,,FC Barcelona Lassa,0
-BAR       ,,18,05:22,25,346,"ORIOLA, PIERRE",P005917   ,Off Rebound (2),O,,,FC Barcelona Lassa,0
-BAR       ,,18,05:22,25,347,"ORIOLA, PIERRE",P005917   ,Two Pointer (2/3 -  4 pt),2FGM,45.0,51.0,FC Barcelona Lassa,0
-IST       ,,44,05:22,25,348,"SIMON, KRUNOSLAV",PCPR      ,Foul (1),CM,,,Anadolu Efes Istanbul,0
-BAR       ,,18,05:22,25,349,"ORIOLA, PIERRE",P005917   ,Foul Drawn (2),RV,,,FC Barcelona Lassa,0
-IST       ,,8,05:22,25,350,"BATUK, BIRKAN",P004170   ,In,IN,,,Anadolu Efes Istanbul,0
-IST       ,,44,05:22,25,351,"SIMON, KRUNOSLAV",PCPR      ,Out,OUT,,,Anadolu Efes Istanbul,0
-BAR       ,,18,05:22,25,352,"ORIOLA, PIERRE",P005917   ,Free Throw In (1/1 -  5 pt),FTM,46.0,51.0,FC Barcelona Lassa,0
-BAR       ,,9,05:10,25,353,"HANGA, ADAM",P005099   ,Foul (2),CM,,,FC Barcelona Lassa,0
-IST       ,,1,05:10,25,354,"LEDO, RICKY",P007969   ,Foul Drawn (3),RV,,,Anadolu Efes Istanbul,0
-IST       ,,3,05:10,25,355,"MCCOLLUM, ERRICK",P005216   ,In,IN,,,Anadolu Efes Istanbul,0
-IST       ,,14,05:10,25,356,"ADAMS, JOSH",P007872   ,Out,OUT,,,Anadolu Efes Istanbul,0
-IST       ,,1,05:10,25,357,"LEDO, RICKY",P007969   ,Free Throw In (1/1 -  16 pt),FTM,46.0,52.0,Anadolu Efes Istanbul,0
-IST       ,,1,05:10,25,358,"LEDO, RICKY",P007969   ,Missed Free Throw (1/2 -  16 pt),FTA,,,Anadolu Efes Istanbul,0
-BAR       ,,18,05:10,25,360,"ORIOLA, PIERRE",P005917   ,Def Rebound (1),D,,,FC Barcelona Lassa,0
-BAR       ,,8,04:56,26,362,"PRESSEY, PHIL",P007997   ,Two Pointer (2/5 -  4 pt),2FGM,48.0,52.0,FC Barcelona Lassa,0
-          ,,,04:56,26,363,,          ,TV Time Out (1),TOUT_TV,,,,0
-IST       ,,12,04:56,26,364,"MOTUM, BROCK",P006599   ,In,IN,,,Anadolu Efes Istanbul,0
-IST       ,,15,04:56,26,365,"STIMAC, VLADIMIR",PLBJ      ,Out,OUT,,,Anadolu Efes Istanbul,0
-IST       ,,3,04:37,26,366,"MCCOLLUM, ERRICK",P005216   ,Two Pointer (2/6 -  7 pt),2FGM,48.0,54.0,Anadolu Efes Istanbul,0
-BAR       ,,25,04:21,26,367,"KOPONEN, PETTERI",P004178   ,Turnover (1),TO,,,FC Barcelona Lassa,0
-IST       ,,42,04:19,26,368,"DUNSTON, BRYANT",P003048   ,Steal (2),ST,,,Anadolu Efes Istanbul,0
-BAR       ,,8,04:20,26,369,"PRESSEY, PHIL",P007997   ,Foul (1),CM,,,FC Barcelona Lassa,0
-IST       ,,1,04:20,26,370,"LEDO, RICKY",P007969   ,Foul Drawn (4),RV,,,Anadolu Efes Istanbul,0
-BAR       ,,8,04:20,26,371,"PRESSEY, PHIL",P007997   ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,13,04:20,26,372,"HEURTEL, THOMAS",PKLT      ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,18,04:18,26,373,"ORIOLA, PIERRE",P005917   ,Foul (1),CM,,,FC Barcelona Lassa,0
-IST       ,,12,04:18,26,374,"MOTUM, BROCK",P006599   ,Foul Drawn (1),RV,,,Anadolu Efes Istanbul,0
-IST       ,,12,04:18,26,375,"MOTUM, BROCK",P006599   ,Free Throw In (1/1 -  1 pt),FTM,48.0,55.0,Anadolu Efes Istanbul,0
-IST       ,,12,04:18,26,376,"MOTUM, BROCK",P006599   ,Free Throw In (2/2 -  2 pt),FTM,48.0,56.0,Anadolu Efes Istanbul,0
-BAR       ,,18,04:03,26,377,"ORIOLA, PIERRE",P005917   ,Foul Drawn (3),RV,,,FC Barcelona Lassa,0
-IST       ,,42,04:03,26,378,"DUNSTON, BRYANT",P003048   ,Foul (2),CM,,,Anadolu Efes Istanbul,0
-BAR       ,,18,04:03,26,379,"ORIOLA, PIERRE",P005917   ,Free Throw In (2/2 -  6 pt),FTM,49.0,56.0,FC Barcelona Lassa,0
-BAR       ,,13,04:03,26,380,"HEURTEL, THOMAS",PKLT      ,Assist (5),AS,,,FC Barcelona Lassa,0
-BAR       ,,18,04:03,26,381,"ORIOLA, PIERRE",P005917   ,Free Throw In (3/3 -  7 pt),FTM,50.0,56.0,FC Barcelona Lassa,0
-BAR       ,,9,04:03,26,382,"HANGA, ADAM",P005099   ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,21,04:03,26,383,"SANDERS, RAKIM",P005001   ,In,IN,,,FC Barcelona Lassa,0
-IST       ,,1,04:03,26,384,"LEDO, RICKY",P007969   ,Out,OUT,,,Anadolu Efes Istanbul,0
-IST       ,,24,04:03,26,385,"MURIC, EDO",P003515   ,In,IN,,,Anadolu Efes Istanbul,0
-IST       ,,12,03:47,27,387,"MOTUM, BROCK",P006599   ,Missed Three Pointer (0/2 -  2 pt),3FGA,,,Anadolu Efes Istanbul,0
-BAR       ,,21,03:45,27,388,"SANDERS, RAKIM",P005001   ,Def Rebound (3),D,,,FC Barcelona Lassa,0
-IST       ,,12,03:34,27,389,"MOTUM, BROCK",P006599   ,Foul (1),CM,,,Anadolu Efes Istanbul,0
-BAR       ,,18,03:34,27,390,"ORIOLA, PIERRE",P005917   ,Foul Drawn (4),RV,,,FC Barcelona Lassa,0
-BAR       ,,1,03:25,27,391,"SERAPHIN, KEVIN",P001948   ,Foul Drawn (3),RV,,,FC Barcelona Lassa,0
-IST       ,,24,03:25,27,392,"MURIC, EDO",P003515   ,Foul (1),CM,,,Anadolu Efes Istanbul,0
-BAR       ,,1,03:25,27,393,"SERAPHIN, KEVIN",P001948   ,Missed Free Throw (0/1 -  12 pt),FTA,,,FC Barcelona Lassa,0
-BAR       ,,1,03:25,27,394,"SERAPHIN, KEVIN",P001948   ,Free Throw In (1/2 -  13 pt),FTM,51.0,56.0,FC Barcelona Lassa,0
-BAR       ,,13,03:25,27,395,"HEURTEL, THOMAS",PKLT      ,Assist (6),AS,,,FC Barcelona Lassa,0
-BAR       ,,13,03:09,27,396,"HEURTEL, THOMAS",PKLT      ,Foul (2),CM,,,FC Barcelona Lassa,0
-IST       ,,42,03:09,27,397,"DUNSTON, BRYANT",P003048   ,Foul Drawn (2),RV,,,Anadolu Efes Istanbul,0
-BAR       ,,5,03:09,27,398,"RIBAS, PAU",PJUG      ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,25,03:09,27,399,"KOPONEN, PETTERI",P004178   ,Out,OUT,,,FC Barcelona Lassa,0
-IST       ,,42,03:09,27,400,"DUNSTON, BRYANT",P003048   ,Missed Free Throw (0/1 -  4 pt),FTA,,,Anadolu Efes Istanbul,0
-IST       ,,42,03:09,27,401,"DUNSTON, BRYANT",P003048   ,Free Throw In (1/2 -  5 pt),FTM,51.0,57.0,Anadolu Efes Istanbul,0
-BAR       ,,13,02:58,28,403,"HEURTEL, THOMAS",PKLT      ,Two Pointer (4/5 -  8 pt),2FGM,53.0,57.0,FC Barcelona Lassa,0
-IST       ,,8,02:41,28,404,"BATUK, BIRKAN",P004170   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Anadolu Efes Istanbul,0
-BAR       ,,5,02:38,28,405,"RIBAS, PAU",PJUG      ,Def Rebound (2),D,,,FC Barcelona Lassa,0
-BAR       ,,5,02:37,28,406,"RIBAS, PAU",PJUG      ,Turnover (1),TO,,,FC Barcelona Lassa,0
-IST       ,,1,02:37,28,407,"LEDO, RICKY",P007969   ,In,IN,,,Anadolu Efes Istanbul,0
-IST       ,,8,02:37,28,408,"BATUK, BIRKAN",P004170   ,Out,OUT,,,Anadolu Efes Istanbul,0
-BAR       ,,1,02:18,28,409,"SERAPHIN, KEVIN",P001948   ,Foul (3),CM,,,FC Barcelona Lassa,0
-IST       ,,42,02:18,28,410,"DUNSTON, BRYANT",P003048   ,Foul Drawn (3),RV,,,Anadolu Efes Istanbul,0
-IST       ,,42,02:18,28,411,"DUNSTON, BRYANT",P003048   ,Free Throw In (2/3 -  6 pt),FTM,53.0,58.0,Anadolu Efes Istanbul,0
-IST       ,,42,02:18,28,412,"DUNSTON, BRYANT",P003048   ,Free Throw In (3/4 -  7 pt),FTM,53.0,59.0,Anadolu Efes Istanbul,0
-BAR       ,,18,02:07,28,413,"ORIOLA, PIERRE",P005917   ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,45,02:07,28,414,"MOERMAN, ADRIEN",P001833   ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,1,02:07,28,415,"SERAPHIN, KEVIN",P001948   ,Two Pointer (7/11 -  15 pt),2FGM,55.0,59.0,FC Barcelona Lassa,0
-BAR       ,,13,01:50,29,417,"HEURTEL, THOMAS",PKLT      ,Foul (3),CM,,,FC Barcelona Lassa,0
-IST       ,,3,01:50,29,418,"MCCOLLUM, ERRICK",P005216   ,Foul Drawn (1),RV,,,Anadolu Efes Istanbul,0
-IST       ,,15,01:50,29,419,"STIMAC, VLADIMIR",PLBJ      ,In,IN,,,Anadolu Efes Istanbul,0
-IST       ,,42,01:50,29,420,"DUNSTON, BRYANT",P003048   ,Out,OUT,,,Anadolu Efes Istanbul,0
-IST       ,,3,01:50,29,421,"MCCOLLUM, ERRICK",P005216   ,Missed Free Throw (0/1 -  7 pt),FTA,,,Anadolu Efes Istanbul,0
-IST       ,,3,01:50,29,422,"MCCOLLUM, ERRICK",P005216   ,Free Throw In (1/2 -  8 pt),FTM,55.0,60.0,Anadolu Efes Istanbul,0
-BAR       ,,21,01:38,29,423,"SANDERS, RAKIM",P005001   ,Offensive Foul (2),OF,,,FC Barcelona Lassa,0
-BAR       ,,21,01:38,29,424,"SANDERS, RAKIM",P005001   ,Turnover (1),TO,,,FC Barcelona Lassa,0
-IST       ,,24,01:38,29,425,"MURIC, EDO",P003515   ,Foul Drawn (1),RV,,,Anadolu Efes Istanbul,0
-IST       ,,12,01:18,29,426,"MOTUM, BROCK",P006599   ,Two Pointer (1/1 -  4 pt),2FGM,55.0,62.0,Anadolu Efes Istanbul,0
-BAR       ,,13,01:10,29,427,"HEURTEL, THOMAS",PKLT      ,Missed Three Pointer (0/3 -  8 pt),3FGA,,,FC Barcelona Lassa,0
-IST       ,,24,01:07,29,428,"MURIC, EDO",P003515   ,Def Rebound (1),D,,,Anadolu Efes Istanbul,0
-IST       ,,3,00:54,30,430,"MCCOLLUM, ERRICK",P005216   ,Three Pointer (2/2 -  11 pt),3FGM,55.0,65.0,Anadolu Efes Istanbul,0
-BAR       ,,,00:54,30,431,,          ,Time Out (1),TOUT,,,FC Barcelona Lassa,0
-BAR       ,,45,00:33,30,432,"MOERMAN, ADRIEN",P001833   ,Missed Three Pointer (1/3 -  5 pt),3FGA,,,FC Barcelona Lassa,0
-IST       ,,12,00:29,30,433,"MOTUM, BROCK",P006599   ,Def Rebound (2),D,,,Anadolu Efes Istanbul,0
-IST       ,,1,00:22,30,434,"LEDO, RICKY",P007969   ,Two Pointer (4/9 -  18 pt),2FGM,55.0,67.0,Anadolu Efes Istanbul,0
-IST       ,,3,00:05,30,435,"MCCOLLUM, ERRICK",P005216   ,Foul (3),CM,,,Anadolu Efes Istanbul,0
-BAR       ,,13,00:05,30,436,"HEURTEL, THOMAS",PKLT      ,Foul Drawn (2),RV,,,FC Barcelona Lassa,0
-IST       ,,3,00:04,30,437,"MCCOLLUM, ERRICK",P005216   ,Out,OUT,,,Anadolu Efes Istanbul,0
-IST       ,,14,00:04,30,438,"ADAMS, JOSH",P007872   ,In,IN,,,Anadolu Efes Istanbul,0
-BAR       ,,13,00:04,30,439,"HEURTEL, THOMAS",PKLT      ,Free Throw In (1/1 -  9 pt),FTM,56.0,67.0,FC Barcelona Lassa,0
-BAR       ,,13,00:04,30,440,"HEURTEL, THOMAS",PKLT      ,Free Throw In (2/2 -  10 pt),FTM,57.0,67.0,FC Barcelona Lassa,0
-BAR       ,,8,00:04,30,441,"PRESSEY, PHIL",P007997   ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,13,00:04,30,442,"HEURTEL, THOMAS",PKLT      ,Out,OUT,,,FC Barcelona Lassa,0
-IST       ,,1,00:00,30,443,"LEDO, RICKY",P007969   ,Missed Three Pointer (3/5 -  18 pt),3FGA,,,Anadolu Efes Istanbul,0
-          ,,,,31,445,,          ,End Period,EP,,,,0
-          ,,,,31,452,,          ,Begin Period,BP,,,,0
-BAR       ,,1,10:00,31,446,"SERAPHIN, KEVIN",P001948   ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,8,10:00,31,447,"PRESSEY, PHIL",P007997   ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,13,10:00,31,448,"HEURTEL, THOMAS",PKLT      ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,44,10:00,31,449,"TOMIC, ANTE",P002507   ,In,IN,,,FC Barcelona Lassa,0
-IST       ,,3,10:00,31,450,"MCCOLLUM, ERRICK",P005216   ,In,IN,,,Anadolu Efes Istanbul,0
-IST       ,,14,10:00,31,451,"ADAMS, JOSH",P007872   ,Out,OUT,,,Anadolu Efes Istanbul,0
-IST       ,,12,09:47,31,453,"MOTUM, BROCK",P006599   ,Turnover (2),TO,,,Anadolu Efes Istanbul,0
-BAR       ,,13,09:45,31,454,"HEURTEL, THOMAS",PKLT      ,Steal (2),ST,,,FC Barcelona Lassa,0
-BAR       ,,45,09:41,31,455,"MOERMAN, ADRIEN",P001833   ,Turnover (1),TO,,,FC Barcelona Lassa,0
-IST       ,,1,09:27,31,456,"LEDO, RICKY",P007969   ,Missed Three Pointer (3/6 -  18 pt),3FGA,,,Anadolu Efes Istanbul,0
-IST       ,,12,09:24,31,457,"MOTUM, BROCK",P006599   ,Off Rebound (1),O,,,Anadolu Efes Istanbul,0
-IST       ,,12,09:21,31,458,"MOTUM, BROCK",P006599   ,Missed Two Pointer (1/2 -  4 pt),2FGA,,,Anadolu Efes Istanbul,0
-BAR       ,,45,09:19,31,459,"MOERMAN, ADRIEN",P001833   ,Def Rebound (1),D,,,FC Barcelona Lassa,0
-IST       ,,12,09:16,31,460,"MOTUM, BROCK",P006599   ,Foul (2),CM,,,Anadolu Efes Istanbul,0
-BAR       ,,13,09:16,31,461,"HEURTEL, THOMAS",PKLT      ,Foul Drawn (3),RV,,,FC Barcelona Lassa,0
-BAR       ,,13,09:06,31,462,"HEURTEL, THOMAS",PKLT      ,Missed Two Pointer (4/6 -  10 pt),2FGA,,,FC Barcelona Lassa,0
-BAR       ,,13,09:06,31,463,"HEURTEL, THOMAS",PKLT      ,Shot Rejected (2),AG,,,FC Barcelona Lassa,0
-IST       ,,15,09:02,31,464,"STIMAC, VLADIMIR",PLBJ      ,Block (1),FV,,,Anadolu Efes Istanbul,0
-IST       ,,1,08:59,32,466,"LEDO, RICKY",P007969   ,Def Rebound (5),D,,,Anadolu Efes Istanbul,0
-IST       ,,15,08:54,32,467,"STIMAC, VLADIMIR",PLBJ      ,Two Pointer (6/7 -  15 pt),2FGM,57.0,69.0,Anadolu Efes Istanbul,0
-BAR       ,,44,08:32,32,468,"TOMIC, ANTE",P002507   ,Two Pointer (1/1 -  2 pt),2FGM,59.0,69.0,FC Barcelona Lassa,0
-BAR       ,,5,08:30,32,469,"RIBAS, PAU",PJUG      ,Assist (2),AS,,,FC Barcelona Lassa,0
-IST       ,,3,08:20,32,470,"MCCOLLUM, ERRICK",P005216   ,Missed Two Pointer (2/7 -  11 pt),2FGA,,,Anadolu Efes Istanbul,0
-BAR       ,,44,08:16,32,471,"TOMIC, ANTE",P002507   ,Def Rebound (3),D,,,FC Barcelona Lassa,0
-BAR       ,,5,08:14,32,472,"RIBAS, PAU",PJUG      ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,9,08:14,32,473,"HANGA, ADAM",P005099   ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,21,08:14,32,474,"SANDERS, RAKIM",P005001   ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,25,08:14,32,475,"KOPONEN, PETTERI",P004178   ,In,IN,,,FC Barcelona Lassa,0
-IST       ,,24,08:14,32,476,"MURIC, EDO",P003515   ,Out,OUT,,,Anadolu Efes Istanbul,0
-IST       ,,44,08:14,32,477,"SIMON, KRUNOSLAV",PCPR      ,In,IN,,,Anadolu Efes Istanbul,0
-BAR       ,,44,08:14,32,478,"TOMIC, ANTE",P002507   ,Turnover (2),TO,,,FC Barcelona Lassa,0
-IST       ,,3,08:14,32,479,"MCCOLLUM, ERRICK",P005216   ,Steal (1),ST,,,Anadolu Efes Istanbul,0
-IST       ,,15,08:14,32,480,"STIMAC, VLADIMIR",PLBJ      ,Two Pointer (7/8 -  17 pt),2FGM,59.0,71.0,Anadolu Efes Istanbul,0
-IST       ,,3,08:14,32,481,"MCCOLLUM, ERRICK",P005216   ,Assist (1),AS,,,Anadolu Efes Istanbul,0
-BAR       ,,25,07:36,33,483,"KOPONEN, PETTERI",P004178   ,Missed Two Pointer (2/3 -  10 pt),2FGA,,,FC Barcelona Lassa,0
-BAR       ,,45,07:33,33,484,"MOERMAN, ADRIEN",P001833   ,Off Rebound (1),O,,,FC Barcelona Lassa,0
-BAR       ,,44,07:25,33,485,"TOMIC, ANTE",P002507   ,Two Pointer (2/2 -  4 pt),2FGM,61.0,71.0,FC Barcelona Lassa,0
-BAR       ,,13,07:22,33,486,"HEURTEL, THOMAS",PKLT      ,Assist (7),AS,,,FC Barcelona Lassa,0
-IST       ,,15,07:07,33,487,"STIMAC, VLADIMIR",PLBJ      ,Two Pointer (8/9 -  19 pt),2FGM,61.0,73.0,Anadolu Efes Istanbul,0
-IST       ,,1,07:07,33,488,"LEDO, RICKY",P007969   ,Assist (2),AS,,,Anadolu Efes Istanbul,0
-BAR       ,,8,07:07,33,489,"PRESSEY, PHIL",P007997   ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,13,07:07,33,490,"HEURTEL, THOMAS",PKLT      ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,30,07:07,33,491,"CLAVER, VICTOR",P000556   ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,45,07:07,33,492,"MOERMAN, ADRIEN",P001833   ,Out,OUT,,,FC Barcelona Lassa,0
-IST       ,,15,07:07,33,493,"STIMAC, VLADIMIR",PLBJ      ,Out,OUT,,,Anadolu Efes Istanbul,0
-IST       ,,42,07:07,33,494,"DUNSTON, BRYANT",P003048   ,In,IN,,,Anadolu Efes Istanbul,0
-BAR       ,,9,06:46,34,496,"HANGA, ADAM",P005099   ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,FC Barcelona Lassa,0
-IST       ,,,06:44,34,497,,          ,Def Rebound (5),D,,,Anadolu Efes Istanbul,0
-BAR       ,,8,06:40,34,498,"PRESSEY, PHIL",P007997   ,Foul (2),CM,,,FC Barcelona Lassa,0
-IST       ,,3,06:40,34,499,"MCCOLLUM, ERRICK",P005216   ,Foul Drawn (2),RV,,,Anadolu Efes Istanbul,0
-BAR       ,,25,06:27,34,500,"KOPONEN, PETTERI",P004178   ,Foul (2),CM,,,FC Barcelona Lassa,0
-IST       ,,44,06:27,34,501,"SIMON, KRUNOSLAV",PCPR      ,Foul Drawn (2),RV,,,Anadolu Efes Istanbul,0
-BAR       ,,1,06:27,34,502,"SERAPHIN, KEVIN",P001948   ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,44,06:27,34,503,"TOMIC, ANTE",P002507   ,Out,OUT,,,FC Barcelona Lassa,0
-IST       ,,44,06:19,34,504,"SIMON, KRUNOSLAV",PCPR      ,Missed Two Pointer (2/4 -  7 pt),2FGA,,,Anadolu Efes Istanbul,0
-BAR       ,,9,06:17,34,505,"HANGA, ADAM",P005099   ,Def Rebound (3),D,,,FC Barcelona Lassa,0
-BAR       ,,9,06:14,34,506,"HANGA, ADAM",P005099   ,Turnover (1),TO,,,FC Barcelona Lassa,0
-BAR       ,,,06:14,34,507,,          ,Time Out (1),TOUT,,,FC Barcelona Lassa,0
-IST       ,,3,05:54,35,509,"MCCOLLUM, ERRICK",P005216   ,Three Pointer (3/3 -  14 pt),3FGM,61.0,76.0,Anadolu Efes Istanbul,0
-BAR       ,,1,05:34,35,510,"SERAPHIN, KEVIN",P001948   ,Missed Two Pointer (7/12 -  15 pt),2FGA,,,FC Barcelona Lassa,0
-IST       ,,42,05:30,35,511,"DUNSTON, BRYANT",P003048   ,Def Rebound (7),D,,,Anadolu Efes Istanbul,0
-IST       ,,42,05:17,35,512,"DUNSTON, BRYANT",P003048   ,Missed Three Pointer (0/1 -  7 pt),3FGA,,,Anadolu Efes Istanbul,0
-BAR       ,,9,05:17,35,513,"HANGA, ADAM",P005099   ,Def Rebound (4),D,,,FC Barcelona Lassa,0
-IST       ,,12,05:17,35,514,"MOTUM, BROCK",P006599   ,Foul (3),CM,,,Anadolu Efes Istanbul,0
-BAR       ,,9,05:17,35,515,"HANGA, ADAM",P005099   ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0
-BAR       ,,1,05:08,35,516,"SERAPHIN, KEVIN",P001948   ,Two Pointer (8/13 -  17 pt),2FGM,63.0,76.0,FC Barcelona Lassa,0
-BAR       ,,25,05:08,35,517,"KOPONEN, PETTERI",P004178   ,Assist (1),AS,,,FC Barcelona Lassa,0
-IST       ,,1,04:29,36,519,"LEDO, RICKY",P007969   ,Missed Three Pointer (3/7 -  18 pt),3FGA,,,Anadolu Efes Istanbul,0
-BAR       ,,8,04:26,36,520,"PRESSEY, PHIL",P007997   ,Def Rebound (1),D,,,FC Barcelona Lassa,0
-BAR       ,,1,04:26,36,521,"SERAPHIN, KEVIN",P001948   ,Two Pointer (9/14 -  19 pt),2FGM,65.0,76.0,FC Barcelona Lassa,0
-BAR       ,,8,04:26,36,522,"PRESSEY, PHIL",P007997   ,Assist (2),AS,,,FC Barcelona Lassa,0
-IST       ,,,04:26,36,523,,          ,Time Out (1),TOUT,,,Anadolu Efes Istanbul,0
-BAR       ,,13,04:26,36,524,"HEURTEL, THOMAS",PKLT      ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,25,04:26,36,525,"KOPONEN, PETTERI",P004178   ,Out,OUT,,,FC Barcelona Lassa,0
-IST       ,,44,04:20,36,526,"SIMON, KRUNOSLAV",PCPR      ,Turnover (2),TO,,,Anadolu Efes Istanbul,0
-BAR       ,,30,04:18,36,527,"CLAVER, VICTOR",P000556   ,Steal (2),ST,,,FC Barcelona Lassa,0
-BAR       ,,9,04:15,36,528,"HANGA, ADAM",P005099   ,Missed Two Pointer (1/3 -  2 pt),2FGA,,,FC Barcelona Lassa,0
-BAR       ,,30,04:12,36,529,"CLAVER, VICTOR",P000556   ,Off Rebound (1),O,,,FC Barcelona Lassa,0
-BAR       ,,30,04:12,36,530,"CLAVER, VICTOR",P000556   ,Two Pointer (2/2 -  4 pt),2FGM,67.0,76.0,FC Barcelona Lassa,0
-BAR       ,,1,03:58,37,532,"SERAPHIN, KEVIN",P001948   ,Foul (4),CM,,,FC Barcelona Lassa,0
-IST       ,,1,03:58,37,533,"LEDO, RICKY",P007969   ,Foul Drawn (5),RV,,,Anadolu Efes Istanbul,0
-IST       ,,12,03:58,37,534,"MOTUM, BROCK",P006599   ,Out,OUT,,,Anadolu Efes Istanbul,0
-IST       ,,15,03:58,37,535,"STIMAC, VLADIMIR",PLBJ      ,In,IN,,,Anadolu Efes Istanbul,0
-IST       ,,3,03:48,37,536,"MCCOLLUM, ERRICK",P005216   ,Three Pointer (4/4 -  17 pt),3FGM,67.0,79.0,Anadolu Efes Istanbul,0
-BAR       ,,8,03:38,37,537,"PRESSEY, PHIL",P007997   ,Missed Three Pointer (0/2 -  4 pt),3FGA,,,FC Barcelona Lassa,0
-IST       ,,15,03:36,37,538,"STIMAC, VLADIMIR",PLBJ      ,Def Rebound (4),D,,,Anadolu Efes Istanbul,0
-IST       ,,3,03:15,37,539,"MCCOLLUM, ERRICK",P005216   ,Turnover (3),TO,,,Anadolu Efes Istanbul,0
-BAR       ,,1,03:15,37,540,"SERAPHIN, KEVIN",P001948   ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,18,03:15,37,541,"ORIOLA, PIERRE",P005917   ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,13,03:02,37,542,"HEURTEL, THOMAS",PKLT      ,Two Pointer (5/7 -  12 pt),2FGM,69.0,79.0,FC Barcelona Lassa,0
-IST       ,,15,02:45,38,544,"STIMAC, VLADIMIR",PLBJ      ,Two Pointer (9/10 -  21 pt),2FGM,69.0,81.0,Anadolu Efes Istanbul,0
-BAR       ,,18,02:45,38,545,"ORIOLA, PIERRE",P005917   ,Foul (2),CM,,,FC Barcelona Lassa,0
-IST       ,,15,02:45,38,546,"STIMAC, VLADIMIR",PLBJ      ,Foul Drawn (3),RV,,,Anadolu Efes Istanbul,0
-IST       ,,15,02:45,38,547,"STIMAC, VLADIMIR",PLBJ      ,Missed Free Throw (3/5 -  21 pt),FTA,,,Anadolu Efes Istanbul,0
-IST       ,,3,02:45,38,548,"MCCOLLUM, ERRICK",P005216   ,Off Rebound (1),O,,,Anadolu Efes Istanbul,0
-BAR       ,,13,02:37,38,549,"HEURTEL, THOMAS",PKLT      ,Foul (4),CM,,,FC Barcelona Lassa,0
-IST       ,,3,02:37,38,550,"MCCOLLUM, ERRICK",P005216   ,Foul Drawn (3),RV,,,Anadolu Efes Istanbul,0
-IST       ,,3,02:37,38,551,"MCCOLLUM, ERRICK",P005216   ,Free Throw In (2/3 -  18 pt),FTM,69.0,82.0,Anadolu Efes Istanbul,0
-IST       ,,3,02:37,38,552,"MCCOLLUM, ERRICK",P005216   ,Free Throw In (3/4 -  19 pt),FTM,69.0,83.0,Anadolu Efes Istanbul,0
-BAR       ,,13,02:24,38,553,"HEURTEL, THOMAS",PKLT      ,Missed Three Pointer (0/4 -  12 pt),3FGA,,,FC Barcelona Lassa,0
-BAR       ,,30,02:21,38,554,"CLAVER, VICTOR",P000556   ,Off Rebound (2),O,,,FC Barcelona Lassa,0
-BAR       ,,9,02:15,38,555,"HANGA, ADAM",P005099   ,Three Pointer (1/2 -  5 pt),3FGM,72.0,83.0,FC Barcelona Lassa,0
-BAR       ,,13,02:15,38,556,"HEURTEL, THOMAS",PKLT      ,Assist (8),AS,,,FC Barcelona Lassa,0
-IST       ,,,02:15,38,557,,          ,Time Out (2),TOUT,,,Anadolu Efes Istanbul,0
-BAR       ,,5,02:15,38,558,"RIBAS, PAU",PJUG      ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,8,02:15,38,559,"PRESSEY, PHIL",P007997   ,Out,OUT,,,FC Barcelona Lassa,0
-IST       ,,44,01:54,39,561,"SIMON, KRUNOSLAV",PCPR      ,Turnover (3),TO,,,Anadolu Efes Istanbul,0
-BAR       ,,30,01:52,39,562,"CLAVER, VICTOR",P000556   ,Steal (3),ST,,,FC Barcelona Lassa,0
-BAR       ,,13,01:48,39,563,"HEURTEL, THOMAS",PKLT      ,Turnover (1),TO,,,FC Barcelona Lassa,0
-IST       ,,15,01:46,39,564,"STIMAC, VLADIMIR",PLBJ      ,Steal (2),ST,,,Anadolu Efes Istanbul,0
-BAR       ,,9,01:45,39,565,"HANGA, ADAM",P005099   ,Foul (3),CM,,,FC Barcelona Lassa,0
-IST       ,,15,01:45,39,566,"STIMAC, VLADIMIR",PLBJ      ,Foul Drawn (4),RV,,,Anadolu Efes Istanbul,0
-IST       ,,15,01:45,39,567,"STIMAC, VLADIMIR",PLBJ      ,Missed Free Throw (3/6 -  21 pt),FTA,,,Anadolu Efes Istanbul,0
-IST       ,,15,01:45,39,568,"STIMAC, VLADIMIR",PLBJ      ,Free Throw In (4/7 -  22 pt),FTM,72.0,84.0,Anadolu Efes Istanbul,0
-BAR       ,,,01:45,39,569,,          ,Time Out (2),TOUT,,,FC Barcelona Lassa,0
-BAR       ,,30,01:37,39,570,"CLAVER, VICTOR",P000556   ,Three Pointer (1/2 -  7 pt),3FGM,75.0,84.0,FC Barcelona Lassa,0
-BAR       ,,18,01:37,39,571,"ORIOLA, PIERRE",P005917   ,Assist (1),AS,,,FC Barcelona Lassa,0
-IST       ,,1,01:19,39,572,"LEDO, RICKY",P007969   ,Three Pointer (4/8 -  21 pt),3FGM,75.0,87.0,Anadolu Efes Istanbul,0
-IST       ,,3,01:19,39,573,"MCCOLLUM, ERRICK",P005216   ,Assist (2),AS,,,Anadolu Efes Istanbul,0
-IST       ,,15,01:10,39,574,"STIMAC, VLADIMIR",PLBJ      ,Foul (3),CM,,,Anadolu Efes Istanbul,0
-BAR       ,,13,01:10,39,575,"HEURTEL, THOMAS",PKLT      ,Foul Drawn (4),RV,,,FC Barcelona Lassa,0
-BAR       ,,30,01:02,39,576,"CLAVER, VICTOR",P000556   ,Missed Two Pointer (2/3 -  7 pt),2FGA,,,FC Barcelona Lassa,0
-BAR       ,,18,00:59,40,578,"ORIOLA, PIERRE",P005917   ,Off Rebound (3),O,,,FC Barcelona Lassa,0
-BAR       ,,13,00:55,40,579,"HEURTEL, THOMAS",PKLT      ,Missed Two Pointer (5/8 -  12 pt),2FGA,,,FC Barcelona Lassa,0
-IST       ,,15,00:52,40,580,"STIMAC, VLADIMIR",PLBJ      ,Def Rebound (5),D,,,Anadolu Efes Istanbul,0
-IST       ,,3,00:44,40,581,"MCCOLLUM, ERRICK",P005216   ,Two Pointer (3/8 -  21 pt),2FGM,75.0,89.0,Anadolu Efes Istanbul,0
-BAR       ,,18,00:44,40,582,"ORIOLA, PIERRE",P005917   ,Foul (3),CM,,,FC Barcelona Lassa,0
-IST       ,,3,00:44,40,583,"MCCOLLUM, ERRICK",P005216   ,Foul Drawn (4),RV,,,Anadolu Efes Istanbul,0
-IST       ,,3,00:44,40,584,"MCCOLLUM, ERRICK",P005216   ,Missed Free Throw (3/5 -  21 pt),FTA,,,Anadolu Efes Istanbul,0
-BAR       ,,5,00:44,40,585,"RIBAS, PAU",PJUG      ,Three Pointer (1/2 -  3 pt),3FGM,78.0,89.0,FC Barcelona Lassa,0
-BAR       ,,13,00:44,40,586,"HEURTEL, THOMAS",PKLT      ,Assist (9),AS,,,FC Barcelona Lassa,0
-IST       ,,3,00:18,40,587,"MCCOLLUM, ERRICK",P005216   ,Turnover (4),TO,,,Anadolu Efes Istanbul,0
-BAR       ,,30,00:17,40,588,"CLAVER, VICTOR",P000556   ,Two Pointer (3/4 -  9 pt),2FGM,80.0,89.0,FC Barcelona Lassa,0
-BAR       ,,5,00:17,40,589,"RIBAS, PAU",PJUG      ,Assist (3),AS,,,FC Barcelona Lassa,0
-IST       ,,15,00:17,40,590,"STIMAC, VLADIMIR",PLBJ      ,Turnover (1),TO,,,Anadolu Efes Istanbul,0
-BAR       ,,5,00:17,40,591,"RIBAS, PAU",PJUG      ,Steal (2),ST,,,FC Barcelona Lassa,0
-BAR       ,,30,00:17,40,592,"CLAVER, VICTOR",P000556   ,Three Pointer (2/3 -  12 pt),3FGM,83.0,89.0,FC Barcelona Lassa,0
-BAR       ,,5,00:17,40,593,"RIBAS, PAU",PJUG      ,Assist (4),AS,,,FC Barcelona Lassa,0
-IST       ,,,00:10,40,594,,          ,Time Out (3),TOUT,,,Anadolu Efes Istanbul,0
-IST       ,,12,00:10,40,595,"MOTUM, BROCK",P006599   ,In,IN,,,Anadolu Efes Istanbul,0
-IST       ,,15,00:10,40,596,"STIMAC, VLADIMIR",PLBJ      ,Out,OUT,,,Anadolu Efes Istanbul,0
-IST       ,,3,00:10,40,597,"MCCOLLUM, ERRICK",P005216   ,Turnover (5),TO,,,Anadolu Efes Istanbul,0
-BAR       ,,9,00:10,40,598,"HANGA, ADAM",P005099   ,Steal (1),ST,,,FC Barcelona Lassa,0
-BAR       ,,9,00:10,40,599,"HANGA, ADAM",P005099   ,Two Pointer (2/4 -  7 pt),2FGM,85.0,89.0,FC Barcelona Lassa,0
-BAR       ,,30,00:10,40,600,"CLAVER, VICTOR",P000556   ,Assist (1),AS,,,FC Barcelona Lassa,0
-IST       ,,1,00:10,40,601,"LEDO, RICKY",P007969   ,Turnover (3),TO,,,Anadolu Efes Istanbul,0
-BAR       ,,18,00:10,40,602,"ORIOLA, PIERRE",P005917   ,Steal (1),ST,,,FC Barcelona Lassa,0
-          ,,,,41,605,,          ,End Game,EG,,,,0
+CODETEAM,COMMENT,DORSAL,MARKERTIME,MINUTE,NUMBEROFPLAY,PLAYER,PLAYER_ID,PLAYINFO,PLAYTYPE,POINTS_A,POINTS_B,TEAM,TYPE,home_team,home_team_code,away_team,away_team_code
+          ,,,,1,36,,          ,Begin Period,BP,,,,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,45,09:38,1,37,"MOERMAN, ADRIEN",P001833   ,Three Pointer (1/1 -  3 pt),3FGM,3.0,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,13,09:35,1,38,"HEURTEL, THOMAS",PKLT      ,Assist (1),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,1,09:16,1,39,"LEDO, RICKY",P007969   ,Turnover (1),TO,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,1,09:14,1,40,"SERAPHIN, KEVIN",P001948   ,Steal (1),ST,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,1,09:11,1,41,"SERAPHIN, KEVIN",P001948   ,Turnover (1),TO,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,42,09:08,1,42,"DUNSTON, BRYANT",P003048   ,Steal (1),ST,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,44,09:02,1,43,"SIMON, KRUNOSLAV",PCPR      ,Three Pointer (1/1 -  3 pt),3FGM,3.0,3.0,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,1,08:47,2,45,"SERAPHIN, KEVIN",P001948   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,42,08:43,2,46,"DUNSTON, BRYANT",P003048   ,Def Rebound (1),D,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,42,08:36,2,47,"DUNSTON, BRYANT",P003048   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,1,08:32,2,48,"SERAPHIN, KEVIN",P001948   ,Def Rebound (1),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,1,08:26,2,49,"SERAPHIN, KEVIN",P001948   ,Two Pointer (1/2 -  2 pt),2FGM,5.0,3.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,5,08:20,2,50,"RIBAS, PAU",PJUG      ,Foul (1),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,1,08:20,2,51,"LEDO, RICKY",P007969   ,Foul Drawn (1),RV,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,42,08:04,2,52,"DUNSTON, BRYANT",P003048   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,5,08:04,2,53,"RIBAS, PAU",PJUG      ,Def Rebound (1),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,42,08:04,2,54,"DUNSTON, BRYANT",P003048   ,Foul (1),CM,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,5,08:04,2,55,"RIBAS, PAU",PJUG      ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,45,08:03,2,56,"MOERMAN, ADRIEN",P001833   ,Missed Three Pointer (1/2 -  3 pt),3FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,14,08:03,2,57,"ADAMS, JOSH",P007872   ,Def Rebound (1),D,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,13,07:39,3,59,"HEURTEL, THOMAS",PKLT      ,Foul (1),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,14,07:39,3,60,"ADAMS, JOSH",P007872   ,Foul Drawn (1),RV,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,14,07:39,3,61,"ADAMS, JOSH",P007872   ,Free Throw In (1/1 -  1 pt),FTM,5.0,4.0,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,14,07:39,3,62,"ADAMS, JOSH",P007872   ,Free Throw In (2/2 -  2 pt),FTM,5.0,5.0,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,13,07:20,3,63,"HEURTEL, THOMAS",PKLT      ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,13,07:20,3,64,"HEURTEL, THOMAS",PKLT      ,Shot Rejected (1),AG,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,14,07:17,3,65,"ADAMS, JOSH",P007872   ,Block (1),FV,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,42,07:13,3,66,"DUNSTON, BRYANT",P003048   ,Def Rebound (2),D,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,42,07:08,3,67,"DUNSTON, BRYANT",P003048   ,Turnover (1),TO,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,5,07:05,3,68,"RIBAS, PAU",PJUG      ,Steal (1),ST,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,13,07:03,3,69,"HEURTEL, THOMAS",PKLT      ,Two Pointer (1/2 -  2 pt),2FGM,7.0,5.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,5,07:03,3,70,"RIBAS, PAU",PJUG      ,Assist (1),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,9,07:03,3,71,"HANGA, ADAM",P005099   ,Foul (1),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,44,07:03,3,72,"SIMON, KRUNOSLAV",PCPR      ,Foul Drawn (1),RV,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,44,07:03,3,73,"SIMON, KRUNOSLAV",PCPR      ,Two Pointer (1/1 -  5 pt),2FGM,7.0,7.0,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,1,06:33,4,75,"SERAPHIN, KEVIN",P001948   ,Two Pointer (2/3 -  4 pt),2FGM,9.0,7.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,13,06:31,4,76,"HEURTEL, THOMAS",PKLT      ,Assist (2),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,1,06:20,4,77,"LEDO, RICKY",P007969   ,Two Pointer (1/1 -  2 pt),2FGM,9.0,9.0,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,42,06:18,4,78,"DUNSTON, BRYANT",P003048   ,Assist (1),AS,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,13,06:07,4,79,"HEURTEL, THOMAS",PKLT      ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,15,06:04,4,80,"STIMAC, VLADIMIR",PLBJ      ,Def Rebound (1),D,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,1,05:50,5,82,"LEDO, RICKY",P007969   ,Three Pointer (1/1 -  5 pt),3FGM,9.0,12.0,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,45,05:25,5,83,"MOERMAN, ADRIEN",P001833   ,Two Pointer (1/1 -  5 pt),2FGM,11.0,12.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,9,05:23,5,84,"HANGA, ADAM",P005099   ,Assist (1),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,44,05:09,5,85,"SIMON, KRUNOSLAV",PCPR      ,Missed Two Pointer (1/2 -  5 pt),2FGA,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,15,05:03,5,86,"STIMAC, VLADIMIR",PLBJ      ,Off Rebound (1),O,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,15,05:03,5,87,"STIMAC, VLADIMIR",PLBJ      ,Two Pointer (1/1 -  2 pt),2FGM,11.0,14.0,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,5,04:53,6,89,"RIBAS, PAU",PJUG      ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,14,04:50,6,90,"ADAMS, JOSH",P007872   ,Def Rebound (2),D,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,44,04:37,6,91,"SIMON, KRUNOSLAV",PCPR      ,Missed Three Pointer (1/2 -  5 pt),3FGA,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,42,04:34,6,92,"DUNSTON, BRYANT",P003048   ,Off Rebound (1),O,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,15,04:30,6,93,"STIMAC, VLADIMIR",PLBJ      ,Two Pointer (2/2 -  4 pt),2FGM,11.0,16.0,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,42,04:27,6,94,"DUNSTON, BRYANT",P003048   ,Assist (2),AS,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,1,04:07,6,95,"SERAPHIN, KEVIN",P001948   ,Missed Two Pointer (2/4 -  4 pt),2FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,1,04:05,6,96,"LEDO, RICKY",P007969   ,Def Rebound (1),D,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,1,03:57,7,98,"LEDO, RICKY",P007969   ,Three Pointer (2/2 -  8 pt),3FGM,11.0,19.0,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,,03:56,7,99,,          ,Time Out (1),TOUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,5,03:56,7,100,"RIBAS, PAU",PJUG      ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,9,03:56,7,101,"HANGA, ADAM",P005099   ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,21,03:56,7,102,"SANDERS, RAKIM",P005001   ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,25,03:56,7,103,"KOPONEN, PETTERI",P004178   ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,30,03:56,7,104,"CLAVER, VICTOR",P000556   ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,45,03:56,7,105,"MOERMAN, ADRIEN",P001833   ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,15,03:43,7,106,"STIMAC, VLADIMIR",PLBJ      ,Foul (1),CM,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,1,03:43,7,107,"SERAPHIN, KEVIN",P001948   ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,1,03:34,7,108,"SERAPHIN, KEVIN",P001948   ,Two Pointer (3/5 -  6 pt),2FGM,13.0,19.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,13,03:31,7,109,"HEURTEL, THOMAS",PKLT      ,Assist (3),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,1,03:09,7,110,"LEDO, RICKY",P007969   ,Missed Two Pointer (1/2 -  8 pt),2FGA,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,15,03:06,7,111,"STIMAC, VLADIMIR",PLBJ      ,Off Rebound (2),O,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,21,03:02,7,112,"SANDERS, RAKIM",P005001   ,Foul (1),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,42,03:02,7,113,"DUNSTON, BRYANT",P003048   ,Foul Drawn (1),RV,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,8,03:02,7,114,"PRESSEY, PHIL",P007997   ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,13,03:02,7,115,"HEURTEL, THOMAS",PKLT      ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,3,03:02,7,116,"MCCOLLUM, ERRICK",P005216   ,In,IN,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,14,03:02,7,117,"ADAMS, JOSH",P007872   ,Out,OUT,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,24,03:02,7,118,"MURIC, EDO",P003515   ,In,IN,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,44,03:02,7,119,"SIMON, KRUNOSLAV",PCPR      ,Out,OUT,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,1,02:55,8,121,"SERAPHIN, KEVIN",P001948   ,Foul (1),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,15,02:55,8,122,"STIMAC, VLADIMIR",PLBJ      ,Foul Drawn (1),RV,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,15,02:55,8,123,"STIMAC, VLADIMIR",PLBJ      ,Free Throw In (1/1 -  5 pt),FTM,13.0,20.0,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,15,02:55,8,124,"STIMAC, VLADIMIR",PLBJ      ,Free Throw In (2/2 -  6 pt),FTM,13.0,21.0,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,1,02:39,8,125,"SERAPHIN, KEVIN",P001948   ,Two Pointer (4/6 -  8 pt),2FGM,15.0,21.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,42,02:23,8,126,"DUNSTON, BRYANT",P003048   ,Two Pointer (1/3 -  2 pt),2FGM,15.0,23.0,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,1,02:20,8,127,"LEDO, RICKY",P007969   ,Assist (1),AS,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,30,02:01,8,128,"CLAVER, VICTOR",P000556   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,15,01:56,9,130,"STIMAC, VLADIMIR",PLBJ      ,Def Rebound (2),D,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,1,01:51,9,131,"LEDO, RICKY",P007969   ,Missed Two Pointer (1/3 -  8 pt),2FGA,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,42,01:47,9,132,"DUNSTON, BRYANT",P003048   ,Off Rebound (2),O,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,3,01:37,9,133,"MCCOLLUM, ERRICK",P005216   ,Three Pointer (1/1 -  3 pt),3FGM,15.0,26.0,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,21,01:19,9,134,"SANDERS, RAKIM",P005001   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,,01:17,9,135,,          ,Def Rebound (1),D,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,1,01:17,9,136,"LEDO, RICKY",P007969   ,Out,OUT,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,8,01:17,9,137,"BATUK, BIRKAN",P004170   ,In,IN,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,12,01:17,9,138,"MOTUM, BROCK",P006599   ,In,IN,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,15,01:17,9,139,"STIMAC, VLADIMIR",PLBJ      ,Out,OUT,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,1,01:06,9,140,"SERAPHIN, KEVIN",P001948   ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,18,01:06,9,141,"ORIOLA, PIERRE",P005917   ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,12,01:06,9,142,"MOTUM, BROCK",P006599   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,21,01:06,9,143,"SANDERS, RAKIM",P005001   ,Def Rebound (1),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,21,01:06,9,144,"SANDERS, RAKIM",P005001   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,12,01:06,9,145,"MOTUM, BROCK",P006599   ,Def Rebound (1),D,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,3,01:06,9,146,"MCCOLLUM, ERRICK",P005216   ,Missed Two Pointer (0/1 -  3 pt),2FGA,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,21,01:06,9,147,"SANDERS, RAKIM",P005001   ,Def Rebound (2),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,3,00:16,10,149,"MCCOLLUM, ERRICK",P005216   ,Foul (1),CM,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,8,00:16,10,150,"PRESSEY, PHIL",P007997   ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,25,00:02,10,151,"KOPONEN, PETTERI",P004178   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,3,00:00,10,152,"MCCOLLUM, ERRICK",P005216   ,Def Rebound (1),D,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+          ,,,,11,154,,          ,End Period,EP,,,,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+          ,,,,11,155,,          ,Begin Period,BP,,,,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,24,09:54,11,156,"MURIC, EDO",P003515   ,Turnover (1),TO,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,8,09:51,11,157,"PRESSEY, PHIL",P007997   ,Steal (1),ST,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,8,09:51,11,289,"PRESSEY, PHIL",P007997   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,21,09:51,11,290,"SANDERS, RAKIM",P005001   ,Off Rebound (1),O,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,21,09:46,11,158,"SANDERS, RAKIM",P005001   ,Two Pointer (1/3 -  2 pt),2FGM,17.0,26.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,3,09:31,11,160,"MCCOLLUM, ERRICK",P005216   ,Missed Two Pointer (0/2 -  3 pt),2FGA,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,,09:31,11,161,,          ,Def Rebound (2),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,21,09:10,11,162,"SANDERS, RAKIM",P005001   ,Missed Two Pointer (1/4 -  2 pt),2FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,42,09:07,11,163,"DUNSTON, BRYANT",P003048   ,Def Rebound (3),D,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,42,08:52,12,165,"DUNSTON, BRYANT",P003048   ,Two Pointer (2/4 -  4 pt),2FGM,17.0,28.0,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,12,08:49,12,166,"MOTUM, BROCK",P006599   ,Assist (1),AS,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,8,08:35,12,167,"PRESSEY, PHIL",P007997   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,42,08:32,12,168,"DUNSTON, BRYANT",P003048   ,Def Rebound (4),D,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,3,08:16,12,169,"MCCOLLUM, ERRICK",P005216   ,Missed Two Pointer (0/3 -  3 pt),2FGA,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,,08:09,12,170,,          ,Off Rebound (1),O,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,9,08:09,12,171,"HANGA, ADAM",P005099   ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,21,08:09,12,172,"SANDERS, RAKIM",P005001   ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,24,08:09,12,173,"MURIC, EDO",P003515   ,Out,OUT,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,44,08:09,12,174,"SIMON, KRUNOSLAV",PCPR      ,In,IN,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,3,07:57,13,176,"MCCOLLUM, ERRICK",P005216   ,Turnover (1),TO,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,18,07:33,13,177,"ORIOLA, PIERRE",P005917   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,8,07:29,13,178,"BATUK, BIRKAN",P004170   ,Def Rebound (1),D,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,3,07:17,13,179,"MCCOLLUM, ERRICK",P005216   ,Turnover (2),TO,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,15,07:17,13,180,"STIMAC, VLADIMIR",PLBJ      ,In,IN,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,42,07:17,13,181,"DUNSTON, BRYANT",P003048   ,Out,OUT,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,12,07:17,13,182,"MOTUM, BROCK",P006599   ,Out,OUT,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,14,07:17,13,183,"ADAMS, JOSH",P007872   ,In,IN,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,3,07:17,13,184,"MCCOLLUM, ERRICK",P005216   ,Out,OUT,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,12,07:17,13,185,"MOTUM, BROCK",P006599   ,In,IN,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,8,07:04,13,186,"BATUK, BIRKAN",P004170   ,Foul (1),CM,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,25,07:04,13,187,"KOPONEN, PETTERI",P004178   ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,8,06:55,14,189,"PRESSEY, PHIL",P007997   ,Turnover (1),TO,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,12,06:45,14,190,"MOTUM, BROCK",P006599   ,Turnover (1),TO,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,30,06:41,14,191,"CLAVER, VICTOR",P000556   ,Steal (1),ST,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,30,06:38,14,192,"CLAVER, VICTOR",P000556   ,Two Pointer (1/1 -  2 pt),2FGM,19.0,28.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,15,06:19,14,193,"STIMAC, VLADIMIR",PLBJ      ,Two Pointer (3/3 -  8 pt),2FGM,19.0,30.0,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,14,06:19,14,208,"ADAMS, JOSH",P007872   ,Assist (1),AS,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,9,06:07,14,194,"HANGA, ADAM",P005099   ,Two Pointer (1/1 -  2 pt),2FGM,21.0,30.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,8,06:04,14,195,"PRESSEY, PHIL",P007997   ,Assist (1),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,30,05:50,15,197,"CLAVER, VICTOR",P000556   ,Foul (1),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,14,05:50,15,198,"ADAMS, JOSH",P007872   ,Foul Drawn (2),RV,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,30,05:50,15,199,"CLAVER, VICTOR",P000556   ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,44,05:50,15,200,"TOMIC, ANTE",P002507   ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,1,05:50,15,201,"LEDO, RICKY",P007969   ,In,IN,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,8,05:50,15,202,"BATUK, BIRKAN",P004170   ,Out,OUT,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,14,05:49,15,203,"ADAMS, JOSH",P007872   ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,9,05:49,15,204,"HANGA, ADAM",P005099   ,Def Rebound (1),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,18,05:49,15,205,"ORIOLA, PIERRE",P005917   ,Two Pointer (1/2 -  2 pt),2FGM,23.0,30.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,9,05:49,15,206,"HANGA, ADAM",P005099   ,Assist (2),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,,05:35,15,207,,          ,Time Out (1),TOUT,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,15,05:17,15,209,"STIMAC, VLADIMIR",PLBJ      ,Two Pointer (4/4 -  10 pt),2FGM,23.0,32.0,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,44,05:15,15,210,"SIMON, KRUNOSLAV",PCPR      ,Assist (1),AS,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,8,05:02,15,211,"PRESSEY, PHIL",P007997   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,1,05:00,15,212,"LEDO, RICKY",P007969   ,Def Rebound (2),D,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,1,04:53,16,214,"LEDO, RICKY",P007969   ,Missed Two Pointer (1/4 -  8 pt),2FGA,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,25,04:51,16,215,"KOPONEN, PETTERI",P004178   ,Def Rebound (1),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,8,04:44,16,216,"PRESSEY, PHIL",P007997   ,Turnover (2),TO,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,8,04:44,16,217,"PRESSEY, PHIL",P007997   ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,13,04:44,16,218,"HEURTEL, THOMAS",PKLT      ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,12,04:44,16,219,"MOTUM, BROCK",P006599   ,Out,OUT,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,42,04:44,16,220,"DUNSTON, BRYANT",P003048   ,In,IN,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,1,04:44,16,221,"LEDO, RICKY",P007969   ,Two Pointer (2/5 -  10 pt),2FGM,23.0,34.0,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,9,04:44,16,222,"HANGA, ADAM",P005099   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,1,04:44,16,223,"LEDO, RICKY",P007969   ,Def Rebound (3),D,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,44,04:44,16,224,"SIMON, KRUNOSLAV",PCPR      ,Missed Three Pointer (1/3 -  5 pt),3FGA,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,44,04:44,16,225,"TOMIC, ANTE",P002507   ,Def Rebound (1),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,25,04:44,16,226,"KOPONEN, PETTERI",P004178   ,Three Pointer (1/2 -  3 pt),3FGM,26.0,34.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,9,04:44,16,227,"HANGA, ADAM",P005099   ,Assist (3),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,14,04:44,16,228,"ADAMS, JOSH",P007872   ,Missed Two Pointer (0/1 -  2 pt),2FGA,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,14,04:44,16,229,"ADAMS, JOSH",P007872   ,Shot Rejected (1),AG,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,44,04:44,16,230,"TOMIC, ANTE",P002507   ,Block (1),FV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,,04:44,16,231,,          ,Off Rebound (2),O,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,3,03:36,17,233,"MCCOLLUM, ERRICK",P005216   ,In,IN,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,14,03:36,17,234,"ADAMS, JOSH",P007872   ,Out,OUT,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,44,03:34,17,235,"TOMIC, ANTE",P002507   ,Foul (1),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,15,03:34,17,236,"STIMAC, VLADIMIR",PLBJ      ,Foul Drawn (2),RV,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,15,03:34,17,237,"STIMAC, VLADIMIR",PLBJ      ,Missed Free Throw (2/3 -  10 pt),FTA,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,15,03:34,17,238,"STIMAC, VLADIMIR",PLBJ      ,Free Throw In (3/4 -  11 pt),FTM,26.0,35.0,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,25,03:18,17,239,"KOPONEN, PETTERI",P004178   ,Three Pointer (2/3 -  6 pt),3FGM,29.0,35.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,9,03:15,17,240,"HANGA, ADAM",P005099   ,Assist (4),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,3,03:01,17,241,"MCCOLLUM, ERRICK",P005216   ,Two Pointer (1/4 -  5 pt),2FGM,29.0,37.0,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,13,02:46,18,243,"HEURTEL, THOMAS",PKLT      ,Two Pointer (2/3 -  4 pt),2FGM,31.0,37.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,1,02:31,18,244,"LEDO, RICKY",P007969   ,Three Pointer (3/3 -  13 pt),3FGM,31.0,40.0,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,13,02:14,18,245,"HEURTEL, THOMAS",PKLT      ,Two Pointer (3/4 -  6 pt),2FGM,33.0,40.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,3,02:04,18,246,"MCCOLLUM, ERRICK",P005216   ,Missed Two Pointer (1/5 -  5 pt),2FGA,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,44,02:01,18,247,"TOMIC, ANTE",P002507   ,Def Rebound (2),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,44,01:49,19,249,"TOMIC, ANTE",P002507   ,Turnover (1),TO,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,15,01:47,19,250,"STIMAC, VLADIMIR",PLBJ      ,Steal (1),ST,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,1,01:34,19,251,"LEDO, RICKY",P007969   ,Turnover (2),TO,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,13,01:33,19,252,"HEURTEL, THOMAS",PKLT      ,Steal (1),ST,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,25,01:28,19,253,"KOPONEN, PETTERI",P004178   ,Missed Three Pointer (2/4 -  6 pt),3FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,18,01:28,19,254,"ORIOLA, PIERRE",P005917   ,Off Rebound (1),O,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,3,01:28,19,255,"MCCOLLUM, ERRICK",P005216   ,Foul (2),CM,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,18,01:28,19,256,"ORIOLA, PIERRE",P005917   ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,18,01:28,19,257,"ORIOLA, PIERRE",P005917   ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,45,01:28,19,258,"MOERMAN, ADRIEN",P001833   ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,3,01:28,19,259,"MCCOLLUM, ERRICK",P005216   ,Out,OUT,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,8,01:28,19,260,"BATUK, BIRKAN",P004170   ,In,IN,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,14,01:28,19,261,"ADAMS, JOSH",P007872   ,In,IN,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,44,01:28,19,262,"SIMON, KRUNOSLAV",PCPR      ,Out,OUT,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,25,01:21,19,263,"KOPONEN, PETTERI",P004178   ,Two Pointer (1/1 -  8 pt),2FGM,35.0,40.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,13,01:18,19,264,"HEURTEL, THOMAS",PKLT      ,Assist (4),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,1,00:58,20,266,"LEDO, RICKY",P007969   ,Two Pointer (3/6 -  15 pt),2FGM,35.0,42.0,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,25,00:37,20,267,"KOPONEN, PETTERI",P004178   ,Missed Three Pointer (2/5 -  8 pt),3FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,42,00:34,20,268,"DUNSTON, BRYANT",P003048   ,Def Rebound (5),D,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,25,00:24,20,269,"KOPONEN, PETTERI",P004178   ,Foul (1),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,1,00:24,20,270,"LEDO, RICKY",P007969   ,Foul Drawn (2),RV,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,5,00:24,20,271,"RIBAS, PAU",PJUG      ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,25,00:24,20,272,"KOPONEN, PETTERI",P004178   ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,14,00:13,20,274,"ADAMS, JOSH",P007872   ,Missed Two Pointer (0/2 -  2 pt),2FGA,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,,00:13,20,288,,          ,Def Rebound (3),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,14,00:13,20,275,"ADAMS, JOSH",P007872   ,Foul (1),CM,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,44,00:13,20,276,"TOMIC, ANTE",P002507   ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,,00:13,20,277,,          ,Time Out (1),TOUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,12,00:13,20,279,"MOTUM, BROCK",P006599   ,In,IN,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,15,00:13,20,280,"STIMAC, VLADIMIR",PLBJ      ,Out,OUT,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,14,00:06,20,281,"ADAMS, JOSH",P007872   ,Foul (2),CM,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,13,00:06,20,282,"HEURTEL, THOMAS",PKLT      ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,4,00:06,20,283,"BALBAY, DOGUS",P003521   ,In,IN,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,14,00:06,20,284,"ADAMS, JOSH",P007872   ,Out,OUT,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,13,00:00,20,285,"HEURTEL, THOMAS",PKLT      ,Missed Three Pointer (0/2 -  6 pt),3FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+          ,,,,21,287,,          ,End Period,EP,,,,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+          ,,,,21,305,,          ,Begin Period,BP,,,,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,1,10:00,21,291,"SERAPHIN, KEVIN",P001948   ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,5,10:00,21,292,"RIBAS, PAU",PJUG      ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,8,10:00,21,293,"PRESSEY, PHIL",P007997   ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,13,10:00,21,294,"HEURTEL, THOMAS",PKLT      ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,18,10:00,21,295,"ORIOLA, PIERRE",P005917   ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,25,10:00,21,296,"KOPONEN, PETTERI",P004178   ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,44,10:00,21,297,"TOMIC, ANTE",P002507   ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,45,10:00,21,298,"MOERMAN, ADRIEN",P001833   ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,4,10:00,21,299,"BALBAY, DOGUS",P003521   ,Out,OUT,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,8,10:00,21,300,"BATUK, BIRKAN",P004170   ,Out,OUT,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,12,10:00,21,301,"MOTUM, BROCK",P006599   ,Out,OUT,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,14,10:00,21,302,"ADAMS, JOSH",P007872   ,In,IN,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,15,10:00,21,303,"STIMAC, VLADIMIR",PLBJ      ,In,IN,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,44,10:00,21,304,"SIMON, KRUNOSLAV",PCPR      ,In,IN,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,15,09:48,21,306,"STIMAC, VLADIMIR",PLBJ      ,Foul (2),CM,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,1,09:48,21,307,"SERAPHIN, KEVIN",P001948   ,Foul Drawn (2),RV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,1,09:32,21,308,"SERAPHIN, KEVIN",P001948   ,Two Pointer (5/7 -  10 pt),2FGM,37.0,42.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,1,09:16,21,309,"LEDO, RICKY",P007969   ,Missed Two Pointer (3/7 -  15 pt),2FGA,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,,09:16,21,310,,          ,Def Rebound (4),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,1,09:16,21,311,"SERAPHIN, KEVIN",P001948   ,Two Pointer (6/8 -  12 pt),2FGM,39.0,42.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,15,08:38,22,313,"STIMAC, VLADIMIR",PLBJ      ,Missed Two Pointer (4/5 -  11 pt),2FGA,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,44,08:36,22,314,"SIMON, KRUNOSLAV",PCPR      ,Off Rebound (1),O,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,14,08:33,22,315,"ADAMS, JOSH",P007872   ,Three Pointer (1/2 -  5 pt),3FGM,39.0,45.0,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,44,08:31,22,316,"SIMON, KRUNOSLAV",PCPR      ,Assist (2),AS,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,25,08:17,22,317,"KOPONEN, PETTERI",P004178   ,Two Pointer (2/2 -  10 pt),2FGM,41.0,45.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,1,08:06,22,318,"SERAPHIN, KEVIN",P001948   ,Unsportsmanlike Foul  (2),CMU,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,14,08:06,22,319,"ADAMS, JOSH",P007872   ,Foul Drawn (3),RV,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,14,08:06,22,320,"ADAMS, JOSH",P007872   ,Free Throw In (3/3 -  6 pt),FTM,41.0,46.0,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,14,08:06,22,321,"ADAMS, JOSH",P007872   ,Free Throw In (4/4 -  7 pt),FTM,41.0,47.0,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,1,07:54,23,323,"LEDO, RICKY",P007969   ,Missed Two Pointer (3/8 -  15 pt),2FGA,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,15,07:52,23,324,"STIMAC, VLADIMIR",PLBJ      ,Off Rebound (3),O,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,15,07:48,23,325,"STIMAC, VLADIMIR",PLBJ      ,Two Pointer (5/6 -  13 pt),2FGM,41.0,49.0,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,25,07:33,23,326,"KOPONEN, PETTERI",P004178   ,Missed Three Pointer (2/6 -  10 pt),3FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,15,07:30,23,327,"STIMAC, VLADIMIR",PLBJ      ,Def Rebound (3),D,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,44,07:21,23,328,"SIMON, KRUNOSLAV",PCPR      ,Missed Three Pointer (1/4 -  5 pt),3FGA,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,9,07:19,23,329,"HANGA, ADAM",P005099   ,Def Rebound (2),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,1,07:06,23,330,"SERAPHIN, KEVIN",P001948   ,Missed Two Pointer (6/9 -  12 pt),2FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,1,07:02,23,331,"LEDO, RICKY",P007969   ,Def Rebound (4),D,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,1,06:47,24,333,"LEDO, RICKY",P007969   ,Missed Three Pointer (3/4 -  15 pt),3FGA,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,25,06:45,24,334,"KOPONEN, PETTERI",P004178   ,Def Rebound (2),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,1,06:31,24,335,"SERAPHIN, KEVIN",P001948   ,Missed Two Pointer (6/10 -  12 pt),2FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,1,06:31,24,336,"SERAPHIN, KEVIN",P001948   ,Shot Rejected (1),AG,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,42,06:29,24,337,"DUNSTON, BRYANT",P003048   ,Block (1),FV,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,42,06:26,24,338,"DUNSTON, BRYANT",P003048   ,Def Rebound (6),D,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,44,06:18,24,339,"SIMON, KRUNOSLAV",PCPR      ,Two Pointer (2/3 -  7 pt),2FGM,41.0,51.0,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,14,06:18,24,340,"ADAMS, JOSH",P007872   ,Assist (2),AS,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,8,06:18,24,341,"PRESSEY, PHIL",P007997   ,Two Pointer (1/3 -  2 pt),2FGM,43.0,51.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,44,05:39,25,343,"SIMON, KRUNOSLAV",PCPR      ,Turnover (1),TO,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,8,05:37,25,344,"PRESSEY, PHIL",P007997   ,Steal (2),ST,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,8,05:21,25,345,"PRESSEY, PHIL",P007997   ,Missed Two Pointer (1/4 -  2 pt),2FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,18,05:22,25,346,"ORIOLA, PIERRE",P005917   ,Off Rebound (2),O,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,18,05:22,25,347,"ORIOLA, PIERRE",P005917   ,Two Pointer (2/3 -  4 pt),2FGM,45.0,51.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,44,05:22,25,348,"SIMON, KRUNOSLAV",PCPR      ,Foul (1),CM,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,18,05:22,25,349,"ORIOLA, PIERRE",P005917   ,Foul Drawn (2),RV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,8,05:22,25,350,"BATUK, BIRKAN",P004170   ,In,IN,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,44,05:22,25,351,"SIMON, KRUNOSLAV",PCPR      ,Out,OUT,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,18,05:22,25,352,"ORIOLA, PIERRE",P005917   ,Free Throw In (1/1 -  5 pt),FTM,46.0,51.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,9,05:10,25,353,"HANGA, ADAM",P005099   ,Foul (2),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,1,05:10,25,354,"LEDO, RICKY",P007969   ,Foul Drawn (3),RV,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,3,05:10,25,355,"MCCOLLUM, ERRICK",P005216   ,In,IN,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,14,05:10,25,356,"ADAMS, JOSH",P007872   ,Out,OUT,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,1,05:10,25,357,"LEDO, RICKY",P007969   ,Free Throw In (1/1 -  16 pt),FTM,46.0,52.0,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,1,05:10,25,358,"LEDO, RICKY",P007969   ,Missed Free Throw (1/2 -  16 pt),FTA,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,18,05:10,25,360,"ORIOLA, PIERRE",P005917   ,Def Rebound (1),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,8,04:56,26,362,"PRESSEY, PHIL",P007997   ,Two Pointer (2/5 -  4 pt),2FGM,48.0,52.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+          ,,,04:56,26,363,,          ,TV Time Out (1),TOUT_TV,,,,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,12,04:56,26,364,"MOTUM, BROCK",P006599   ,In,IN,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,15,04:56,26,365,"STIMAC, VLADIMIR",PLBJ      ,Out,OUT,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,3,04:37,26,366,"MCCOLLUM, ERRICK",P005216   ,Two Pointer (2/6 -  7 pt),2FGM,48.0,54.0,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,25,04:21,26,367,"KOPONEN, PETTERI",P004178   ,Turnover (1),TO,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,42,04:19,26,368,"DUNSTON, BRYANT",P003048   ,Steal (2),ST,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,8,04:20,26,369,"PRESSEY, PHIL",P007997   ,Foul (1),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,1,04:20,26,370,"LEDO, RICKY",P007969   ,Foul Drawn (4),RV,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,8,04:20,26,371,"PRESSEY, PHIL",P007997   ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,13,04:20,26,372,"HEURTEL, THOMAS",PKLT      ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,18,04:18,26,373,"ORIOLA, PIERRE",P005917   ,Foul (1),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,12,04:18,26,374,"MOTUM, BROCK",P006599   ,Foul Drawn (1),RV,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,12,04:18,26,375,"MOTUM, BROCK",P006599   ,Free Throw In (1/1 -  1 pt),FTM,48.0,55.0,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,12,04:18,26,376,"MOTUM, BROCK",P006599   ,Free Throw In (2/2 -  2 pt),FTM,48.0,56.0,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,18,04:03,26,377,"ORIOLA, PIERRE",P005917   ,Foul Drawn (3),RV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,42,04:03,26,378,"DUNSTON, BRYANT",P003048   ,Foul (2),CM,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,18,04:03,26,379,"ORIOLA, PIERRE",P005917   ,Free Throw In (2/2 -  6 pt),FTM,49.0,56.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,13,04:03,26,380,"HEURTEL, THOMAS",PKLT      ,Assist (5),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,18,04:03,26,381,"ORIOLA, PIERRE",P005917   ,Free Throw In (3/3 -  7 pt),FTM,50.0,56.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,9,04:03,26,382,"HANGA, ADAM",P005099   ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,21,04:03,26,383,"SANDERS, RAKIM",P005001   ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,1,04:03,26,384,"LEDO, RICKY",P007969   ,Out,OUT,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,24,04:03,26,385,"MURIC, EDO",P003515   ,In,IN,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,12,03:47,27,387,"MOTUM, BROCK",P006599   ,Missed Three Pointer (0/2 -  2 pt),3FGA,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,21,03:45,27,388,"SANDERS, RAKIM",P005001   ,Def Rebound (3),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,12,03:34,27,389,"MOTUM, BROCK",P006599   ,Foul (1),CM,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,18,03:34,27,390,"ORIOLA, PIERRE",P005917   ,Foul Drawn (4),RV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,1,03:25,27,391,"SERAPHIN, KEVIN",P001948   ,Foul Drawn (3),RV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,24,03:25,27,392,"MURIC, EDO",P003515   ,Foul (1),CM,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,1,03:25,27,393,"SERAPHIN, KEVIN",P001948   ,Missed Free Throw (0/1 -  12 pt),FTA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,1,03:25,27,394,"SERAPHIN, KEVIN",P001948   ,Free Throw In (1/2 -  13 pt),FTM,51.0,56.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,13,03:25,27,395,"HEURTEL, THOMAS",PKLT      ,Assist (6),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,13,03:09,27,396,"HEURTEL, THOMAS",PKLT      ,Foul (2),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,42,03:09,27,397,"DUNSTON, BRYANT",P003048   ,Foul Drawn (2),RV,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,5,03:09,27,398,"RIBAS, PAU",PJUG      ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,25,03:09,27,399,"KOPONEN, PETTERI",P004178   ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,42,03:09,27,400,"DUNSTON, BRYANT",P003048   ,Missed Free Throw (0/1 -  4 pt),FTA,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,42,03:09,27,401,"DUNSTON, BRYANT",P003048   ,Free Throw In (1/2 -  5 pt),FTM,51.0,57.0,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,13,02:58,28,403,"HEURTEL, THOMAS",PKLT      ,Two Pointer (4/5 -  8 pt),2FGM,53.0,57.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,8,02:41,28,404,"BATUK, BIRKAN",P004170   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,5,02:38,28,405,"RIBAS, PAU",PJUG      ,Def Rebound (2),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,5,02:37,28,406,"RIBAS, PAU",PJUG      ,Turnover (1),TO,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,1,02:37,28,407,"LEDO, RICKY",P007969   ,In,IN,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,8,02:37,28,408,"BATUK, BIRKAN",P004170   ,Out,OUT,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,1,02:18,28,409,"SERAPHIN, KEVIN",P001948   ,Foul (3),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,42,02:18,28,410,"DUNSTON, BRYANT",P003048   ,Foul Drawn (3),RV,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,42,02:18,28,411,"DUNSTON, BRYANT",P003048   ,Free Throw In (2/3 -  6 pt),FTM,53.0,58.0,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,42,02:18,28,412,"DUNSTON, BRYANT",P003048   ,Free Throw In (3/4 -  7 pt),FTM,53.0,59.0,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,18,02:07,28,413,"ORIOLA, PIERRE",P005917   ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,45,02:07,28,414,"MOERMAN, ADRIEN",P001833   ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,1,02:07,28,415,"SERAPHIN, KEVIN",P001948   ,Two Pointer (7/11 -  15 pt),2FGM,55.0,59.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,13,01:50,29,417,"HEURTEL, THOMAS",PKLT      ,Foul (3),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,3,01:50,29,418,"MCCOLLUM, ERRICK",P005216   ,Foul Drawn (1),RV,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,15,01:50,29,419,"STIMAC, VLADIMIR",PLBJ      ,In,IN,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,42,01:50,29,420,"DUNSTON, BRYANT",P003048   ,Out,OUT,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,3,01:50,29,421,"MCCOLLUM, ERRICK",P005216   ,Missed Free Throw (0/1 -  7 pt),FTA,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,3,01:50,29,422,"MCCOLLUM, ERRICK",P005216   ,Free Throw In (1/2 -  8 pt),FTM,55.0,60.0,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,21,01:38,29,423,"SANDERS, RAKIM",P005001   ,Offensive Foul (2),OF,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,21,01:38,29,424,"SANDERS, RAKIM",P005001   ,Turnover (1),TO,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,24,01:38,29,425,"MURIC, EDO",P003515   ,Foul Drawn (1),RV,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,12,01:18,29,426,"MOTUM, BROCK",P006599   ,Two Pointer (1/1 -  4 pt),2FGM,55.0,62.0,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,13,01:10,29,427,"HEURTEL, THOMAS",PKLT      ,Missed Three Pointer (0/3 -  8 pt),3FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,24,01:07,29,428,"MURIC, EDO",P003515   ,Def Rebound (1),D,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,3,00:54,30,430,"MCCOLLUM, ERRICK",P005216   ,Three Pointer (2/2 -  11 pt),3FGM,55.0,65.0,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,,00:54,30,431,,          ,Time Out (1),TOUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,45,00:33,30,432,"MOERMAN, ADRIEN",P001833   ,Missed Three Pointer (1/3 -  5 pt),3FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,12,00:29,30,433,"MOTUM, BROCK",P006599   ,Def Rebound (2),D,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,1,00:22,30,434,"LEDO, RICKY",P007969   ,Two Pointer (4/9 -  18 pt),2FGM,55.0,67.0,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,3,00:05,30,435,"MCCOLLUM, ERRICK",P005216   ,Foul (3),CM,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,13,00:05,30,436,"HEURTEL, THOMAS",PKLT      ,Foul Drawn (2),RV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,3,00:04,30,437,"MCCOLLUM, ERRICK",P005216   ,Out,OUT,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,14,00:04,30,438,"ADAMS, JOSH",P007872   ,In,IN,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,13,00:04,30,439,"HEURTEL, THOMAS",PKLT      ,Free Throw In (1/1 -  9 pt),FTM,56.0,67.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,13,00:04,30,440,"HEURTEL, THOMAS",PKLT      ,Free Throw In (2/2 -  10 pt),FTM,57.0,67.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,8,00:04,30,441,"PRESSEY, PHIL",P007997   ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,13,00:04,30,442,"HEURTEL, THOMAS",PKLT      ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,1,00:00,30,443,"LEDO, RICKY",P007969   ,Missed Three Pointer (3/5 -  18 pt),3FGA,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+          ,,,,31,445,,          ,End Period,EP,,,,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+          ,,,,31,452,,          ,Begin Period,BP,,,,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,1,10:00,31,446,"SERAPHIN, KEVIN",P001948   ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,8,10:00,31,447,"PRESSEY, PHIL",P007997   ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,13,10:00,31,448,"HEURTEL, THOMAS",PKLT      ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,44,10:00,31,449,"TOMIC, ANTE",P002507   ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,3,10:00,31,450,"MCCOLLUM, ERRICK",P005216   ,In,IN,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,14,10:00,31,451,"ADAMS, JOSH",P007872   ,Out,OUT,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,12,09:47,31,453,"MOTUM, BROCK",P006599   ,Turnover (2),TO,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,13,09:45,31,454,"HEURTEL, THOMAS",PKLT      ,Steal (2),ST,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,45,09:41,31,455,"MOERMAN, ADRIEN",P001833   ,Turnover (1),TO,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,1,09:27,31,456,"LEDO, RICKY",P007969   ,Missed Three Pointer (3/6 -  18 pt),3FGA,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,12,09:24,31,457,"MOTUM, BROCK",P006599   ,Off Rebound (1),O,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,12,09:21,31,458,"MOTUM, BROCK",P006599   ,Missed Two Pointer (1/2 -  4 pt),2FGA,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,45,09:19,31,459,"MOERMAN, ADRIEN",P001833   ,Def Rebound (1),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,12,09:16,31,460,"MOTUM, BROCK",P006599   ,Foul (2),CM,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,13,09:16,31,461,"HEURTEL, THOMAS",PKLT      ,Foul Drawn (3),RV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,13,09:06,31,462,"HEURTEL, THOMAS",PKLT      ,Missed Two Pointer (4/6 -  10 pt),2FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,13,09:06,31,463,"HEURTEL, THOMAS",PKLT      ,Shot Rejected (2),AG,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,15,09:02,31,464,"STIMAC, VLADIMIR",PLBJ      ,Block (1),FV,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,1,08:59,32,466,"LEDO, RICKY",P007969   ,Def Rebound (5),D,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,15,08:54,32,467,"STIMAC, VLADIMIR",PLBJ      ,Two Pointer (6/7 -  15 pt),2FGM,57.0,69.0,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,44,08:32,32,468,"TOMIC, ANTE",P002507   ,Two Pointer (1/1 -  2 pt),2FGM,59.0,69.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,5,08:30,32,469,"RIBAS, PAU",PJUG      ,Assist (2),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,3,08:20,32,470,"MCCOLLUM, ERRICK",P005216   ,Missed Two Pointer (2/7 -  11 pt),2FGA,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,44,08:16,32,471,"TOMIC, ANTE",P002507   ,Def Rebound (3),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,5,08:14,32,472,"RIBAS, PAU",PJUG      ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,9,08:14,32,473,"HANGA, ADAM",P005099   ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,21,08:14,32,474,"SANDERS, RAKIM",P005001   ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,25,08:14,32,475,"KOPONEN, PETTERI",P004178   ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,24,08:14,32,476,"MURIC, EDO",P003515   ,Out,OUT,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,44,08:14,32,477,"SIMON, KRUNOSLAV",PCPR      ,In,IN,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,44,08:14,32,478,"TOMIC, ANTE",P002507   ,Turnover (2),TO,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,3,08:14,32,479,"MCCOLLUM, ERRICK",P005216   ,Steal (1),ST,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,15,08:14,32,480,"STIMAC, VLADIMIR",PLBJ      ,Two Pointer (7/8 -  17 pt),2FGM,59.0,71.0,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,3,08:14,32,481,"MCCOLLUM, ERRICK",P005216   ,Assist (1),AS,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,25,07:36,33,483,"KOPONEN, PETTERI",P004178   ,Missed Two Pointer (2/3 -  10 pt),2FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,45,07:33,33,484,"MOERMAN, ADRIEN",P001833   ,Off Rebound (1),O,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,44,07:25,33,485,"TOMIC, ANTE",P002507   ,Two Pointer (2/2 -  4 pt),2FGM,61.0,71.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,13,07:22,33,486,"HEURTEL, THOMAS",PKLT      ,Assist (7),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,15,07:07,33,487,"STIMAC, VLADIMIR",PLBJ      ,Two Pointer (8/9 -  19 pt),2FGM,61.0,73.0,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,1,07:07,33,488,"LEDO, RICKY",P007969   ,Assist (2),AS,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,8,07:07,33,489,"PRESSEY, PHIL",P007997   ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,13,07:07,33,490,"HEURTEL, THOMAS",PKLT      ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,30,07:07,33,491,"CLAVER, VICTOR",P000556   ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,45,07:07,33,492,"MOERMAN, ADRIEN",P001833   ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,15,07:07,33,493,"STIMAC, VLADIMIR",PLBJ      ,Out,OUT,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,42,07:07,33,494,"DUNSTON, BRYANT",P003048   ,In,IN,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,9,06:46,34,496,"HANGA, ADAM",P005099   ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,,06:44,34,497,,          ,Def Rebound (5),D,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,8,06:40,34,498,"PRESSEY, PHIL",P007997   ,Foul (2),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,3,06:40,34,499,"MCCOLLUM, ERRICK",P005216   ,Foul Drawn (2),RV,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,25,06:27,34,500,"KOPONEN, PETTERI",P004178   ,Foul (2),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,44,06:27,34,501,"SIMON, KRUNOSLAV",PCPR      ,Foul Drawn (2),RV,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,1,06:27,34,502,"SERAPHIN, KEVIN",P001948   ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,44,06:27,34,503,"TOMIC, ANTE",P002507   ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,44,06:19,34,504,"SIMON, KRUNOSLAV",PCPR      ,Missed Two Pointer (2/4 -  7 pt),2FGA,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,9,06:17,34,505,"HANGA, ADAM",P005099   ,Def Rebound (3),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,9,06:14,34,506,"HANGA, ADAM",P005099   ,Turnover (1),TO,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,,06:14,34,507,,          ,Time Out (1),TOUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,3,05:54,35,509,"MCCOLLUM, ERRICK",P005216   ,Three Pointer (3/3 -  14 pt),3FGM,61.0,76.0,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,1,05:34,35,510,"SERAPHIN, KEVIN",P001948   ,Missed Two Pointer (7/12 -  15 pt),2FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,42,05:30,35,511,"DUNSTON, BRYANT",P003048   ,Def Rebound (7),D,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,42,05:17,35,512,"DUNSTON, BRYANT",P003048   ,Missed Three Pointer (0/1 -  7 pt),3FGA,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,9,05:17,35,513,"HANGA, ADAM",P005099   ,Def Rebound (4),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,12,05:17,35,514,"MOTUM, BROCK",P006599   ,Foul (3),CM,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,9,05:17,35,515,"HANGA, ADAM",P005099   ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,1,05:08,35,516,"SERAPHIN, KEVIN",P001948   ,Two Pointer (8/13 -  17 pt),2FGM,63.0,76.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,25,05:08,35,517,"KOPONEN, PETTERI",P004178   ,Assist (1),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,1,04:29,36,519,"LEDO, RICKY",P007969   ,Missed Three Pointer (3/7 -  18 pt),3FGA,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,8,04:26,36,520,"PRESSEY, PHIL",P007997   ,Def Rebound (1),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,1,04:26,36,521,"SERAPHIN, KEVIN",P001948   ,Two Pointer (9/14 -  19 pt),2FGM,65.0,76.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,8,04:26,36,522,"PRESSEY, PHIL",P007997   ,Assist (2),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,,04:26,36,523,,          ,Time Out (1),TOUT,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,13,04:26,36,524,"HEURTEL, THOMAS",PKLT      ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,25,04:26,36,525,"KOPONEN, PETTERI",P004178   ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,44,04:20,36,526,"SIMON, KRUNOSLAV",PCPR      ,Turnover (2),TO,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,30,04:18,36,527,"CLAVER, VICTOR",P000556   ,Steal (2),ST,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,9,04:15,36,528,"HANGA, ADAM",P005099   ,Missed Two Pointer (1/3 -  2 pt),2FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,30,04:12,36,529,"CLAVER, VICTOR",P000556   ,Off Rebound (1),O,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,30,04:12,36,530,"CLAVER, VICTOR",P000556   ,Two Pointer (2/2 -  4 pt),2FGM,67.0,76.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,1,03:58,37,532,"SERAPHIN, KEVIN",P001948   ,Foul (4),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,1,03:58,37,533,"LEDO, RICKY",P007969   ,Foul Drawn (5),RV,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,12,03:58,37,534,"MOTUM, BROCK",P006599   ,Out,OUT,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,15,03:58,37,535,"STIMAC, VLADIMIR",PLBJ      ,In,IN,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,3,03:48,37,536,"MCCOLLUM, ERRICK",P005216   ,Three Pointer (4/4 -  17 pt),3FGM,67.0,79.0,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,8,03:38,37,537,"PRESSEY, PHIL",P007997   ,Missed Three Pointer (0/2 -  4 pt),3FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,15,03:36,37,538,"STIMAC, VLADIMIR",PLBJ      ,Def Rebound (4),D,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,3,03:15,37,539,"MCCOLLUM, ERRICK",P005216   ,Turnover (3),TO,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,1,03:15,37,540,"SERAPHIN, KEVIN",P001948   ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,18,03:15,37,541,"ORIOLA, PIERRE",P005917   ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,13,03:02,37,542,"HEURTEL, THOMAS",PKLT      ,Two Pointer (5/7 -  12 pt),2FGM,69.0,79.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,15,02:45,38,544,"STIMAC, VLADIMIR",PLBJ      ,Two Pointer (9/10 -  21 pt),2FGM,69.0,81.0,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,18,02:45,38,545,"ORIOLA, PIERRE",P005917   ,Foul (2),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,15,02:45,38,546,"STIMAC, VLADIMIR",PLBJ      ,Foul Drawn (3),RV,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,15,02:45,38,547,"STIMAC, VLADIMIR",PLBJ      ,Missed Free Throw (3/5 -  21 pt),FTA,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,3,02:45,38,548,"MCCOLLUM, ERRICK",P005216   ,Off Rebound (1),O,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,13,02:37,38,549,"HEURTEL, THOMAS",PKLT      ,Foul (4),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,3,02:37,38,550,"MCCOLLUM, ERRICK",P005216   ,Foul Drawn (3),RV,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,3,02:37,38,551,"MCCOLLUM, ERRICK",P005216   ,Free Throw In (2/3 -  18 pt),FTM,69.0,82.0,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,3,02:37,38,552,"MCCOLLUM, ERRICK",P005216   ,Free Throw In (3/4 -  19 pt),FTM,69.0,83.0,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,13,02:24,38,553,"HEURTEL, THOMAS",PKLT      ,Missed Three Pointer (0/4 -  12 pt),3FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,30,02:21,38,554,"CLAVER, VICTOR",P000556   ,Off Rebound (2),O,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,9,02:15,38,555,"HANGA, ADAM",P005099   ,Three Pointer (1/2 -  5 pt),3FGM,72.0,83.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,13,02:15,38,556,"HEURTEL, THOMAS",PKLT      ,Assist (8),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,,02:15,38,557,,          ,Time Out (2),TOUT,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,5,02:15,38,558,"RIBAS, PAU",PJUG      ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,8,02:15,38,559,"PRESSEY, PHIL",P007997   ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,44,01:54,39,561,"SIMON, KRUNOSLAV",PCPR      ,Turnover (3),TO,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,30,01:52,39,562,"CLAVER, VICTOR",P000556   ,Steal (3),ST,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,13,01:48,39,563,"HEURTEL, THOMAS",PKLT      ,Turnover (1),TO,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,15,01:46,39,564,"STIMAC, VLADIMIR",PLBJ      ,Steal (2),ST,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,9,01:45,39,565,"HANGA, ADAM",P005099   ,Foul (3),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,15,01:45,39,566,"STIMAC, VLADIMIR",PLBJ      ,Foul Drawn (4),RV,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,15,01:45,39,567,"STIMAC, VLADIMIR",PLBJ      ,Missed Free Throw (3/6 -  21 pt),FTA,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,15,01:45,39,568,"STIMAC, VLADIMIR",PLBJ      ,Free Throw In (4/7 -  22 pt),FTM,72.0,84.0,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,,01:45,39,569,,          ,Time Out (2),TOUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,30,01:37,39,570,"CLAVER, VICTOR",P000556   ,Three Pointer (1/2 -  7 pt),3FGM,75.0,84.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,18,01:37,39,571,"ORIOLA, PIERRE",P005917   ,Assist (1),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,1,01:19,39,572,"LEDO, RICKY",P007969   ,Three Pointer (4/8 -  21 pt),3FGM,75.0,87.0,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,3,01:19,39,573,"MCCOLLUM, ERRICK",P005216   ,Assist (2),AS,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,15,01:10,39,574,"STIMAC, VLADIMIR",PLBJ      ,Foul (3),CM,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,13,01:10,39,575,"HEURTEL, THOMAS",PKLT      ,Foul Drawn (4),RV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,30,01:02,39,576,"CLAVER, VICTOR",P000556   ,Missed Two Pointer (2/3 -  7 pt),2FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,18,00:59,40,578,"ORIOLA, PIERRE",P005917   ,Off Rebound (3),O,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,13,00:55,40,579,"HEURTEL, THOMAS",PKLT      ,Missed Two Pointer (5/8 -  12 pt),2FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,15,00:52,40,580,"STIMAC, VLADIMIR",PLBJ      ,Def Rebound (5),D,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,3,00:44,40,581,"MCCOLLUM, ERRICK",P005216   ,Two Pointer (3/8 -  21 pt),2FGM,75.0,89.0,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,18,00:44,40,582,"ORIOLA, PIERRE",P005917   ,Foul (3),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,3,00:44,40,583,"MCCOLLUM, ERRICK",P005216   ,Foul Drawn (4),RV,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,3,00:44,40,584,"MCCOLLUM, ERRICK",P005216   ,Missed Free Throw (3/5 -  21 pt),FTA,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,5,00:44,40,585,"RIBAS, PAU",PJUG      ,Three Pointer (1/2 -  3 pt),3FGM,78.0,89.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,13,00:44,40,586,"HEURTEL, THOMAS",PKLT      ,Assist (9),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,3,00:18,40,587,"MCCOLLUM, ERRICK",P005216   ,Turnover (4),TO,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,30,00:17,40,588,"CLAVER, VICTOR",P000556   ,Two Pointer (3/4 -  9 pt),2FGM,80.0,89.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,5,00:17,40,589,"RIBAS, PAU",PJUG      ,Assist (3),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,15,00:17,40,590,"STIMAC, VLADIMIR",PLBJ      ,Turnover (1),TO,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,5,00:17,40,591,"RIBAS, PAU",PJUG      ,Steal (2),ST,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,30,00:17,40,592,"CLAVER, VICTOR",P000556   ,Three Pointer (2/3 -  12 pt),3FGM,83.0,89.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,5,00:17,40,593,"RIBAS, PAU",PJUG      ,Assist (4),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,,00:10,40,594,,          ,Time Out (3),TOUT,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,12,00:10,40,595,"MOTUM, BROCK",P006599   ,In,IN,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,15,00:10,40,596,"STIMAC, VLADIMIR",PLBJ      ,Out,OUT,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,3,00:10,40,597,"MCCOLLUM, ERRICK",P005216   ,Turnover (5),TO,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,9,00:10,40,598,"HANGA, ADAM",P005099   ,Steal (1),ST,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,9,00:10,40,599,"HANGA, ADAM",P005099   ,Two Pointer (2/4 -  7 pt),2FGM,85.0,89.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,30,00:10,40,600,"CLAVER, VICTOR",P000556   ,Assist (1),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+IST       ,,1,00:10,40,601,"LEDO, RICKY",P007969   ,Turnover (3),TO,,,Anadolu Efes Istanbul,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+BAR       ,,18,00:10,40,602,"ORIOLA, PIERRE",P005917   ,Steal (1),ST,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST
+          ,,,,41,605,,          ,End Game,EG,,,,0,FC Barcelona Lassa,BAR,Anadolu Efes Istanbul,IST

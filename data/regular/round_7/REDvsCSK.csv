@@ -1,556 +1,556 @@
-CODETEAM,COMMENT,DORSAL,MARKERTIME,MINUTE,NUMBEROFPLAY,PLAYER,PLAYER_ID,PLAYINFO,PLAYTYPE,POINTS_A,POINTS_B,TEAM,TYPE
-          ,,,,1,2,,          ,Begin Period,BP,,,,0
-CSK       ,,41,09:48,1,3,"KURBANOV, NIKITA",PJLX      ,Two Pointer (1/1 -  2 pt),2FGM,,2.0,CSKA Moscow,0
-RED       ,,14,09:26,1,4,"FELDEINE, JAMES",P005918   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Crvena Zvezda mts Belgrade,0
-RED       ,,22,09:24,1,5,"ROCHESTIE, TAYLOR",P002972   ,Off Rebound (1),O,,,Crvena Zvezda mts Belgrade,0
-RED       ,,22,09:21,1,6,"ROCHESTIE, TAYLOR",P002972   ,Two Pointer (1/1 -  2 pt),2FGM,2.0,2.0,Crvena Zvezda mts Belgrade,0
-CSK       ,,1,09:04,1,7,"DE COLO, NANDO",P002100   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,CSKA Moscow,0
-RED       ,,51,09:03,1,8,"BJELICA, MILKO",PCHX      ,Def Rebound (1),D,,,Crvena Zvezda mts Belgrade,0
-RED       ,,12,08:55,2,10,"ANTIC, PERO",PBAE      ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Crvena Zvezda mts Belgrade,0
-CSK       ,,41,08:54,2,11,"KURBANOV, NIKITA",PJLX      ,Def Rebound (1),D,,,CSKA Moscow,0
-CSK       ,,41,08:42,2,12,"KURBANOV, NIKITA",PJLX      ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,CSKA Moscow,0
-RED       ,,22,08:41,2,13,"ROCHESTIE, TAYLOR",P002972   ,Def Rebound (1),D,,,Crvena Zvezda mts Belgrade,0
-CSK       ,,1,08:21,2,14,"DE COLO, NANDO",P002100   ,Foul (1),CM,,,CSKA Moscow,0
-RED       ,,12,08:21,2,15,"ANTIC, PERO",PBAE      ,Foul Drawn (1),RV,,,Crvena Zvezda mts Belgrade,0
-RED       ,,12,08:10,2,16,"ANTIC, PERO",PBAE      ,Turnover (1),TO,,,Crvena Zvezda mts Belgrade,0
-CSK       ,,1,08:10,2,17,"DE COLO, NANDO",P002100   ,Steal (1),ST,,,CSKA Moscow,0
-CSK       ,,1,08:05,2,18,"DE COLO, NANDO",P002100   ,Two Pointer (1/2 -  2 pt),2FGM,2.0,4.0,CSKA Moscow,0
-RED       ,,,07:40,3,20,,          ,Turnover (1),TO,,,Crvena Zvezda mts Belgrade,0
-RED       ,,12,07:29,3,21,"ANTIC, PERO",PBAE      ,Foul (1),CM,,,Crvena Zvezda mts Belgrade,0
-CSK       ,,1,07:29,3,22,"DE COLO, NANDO",P002100   ,Foul Drawn (1),RV,,,CSKA Moscow,0
-RED       ,,10,07:26,3,23,"LAZIC, BRANKO",PLUO      ,Foul (1),CM,,,Crvena Zvezda mts Belgrade,0
-CSK       ,,1,07:26,3,24,"DE COLO, NANDO",P002100   ,Foul Drawn (2),RV,,,CSKA Moscow,0
-CSK       ,,21,07:17,3,25,"CLYBURN, WILL",P004888   ,Two Pointer (1/1 -  2 pt),2FGM,2.0,6.0,CSKA Moscow,0
-RED       ,,22,07:03,3,26,"ROCHESTIE, TAYLOR",P002972   ,Two Pointer (2/2 -  4 pt),2FGM,4.0,6.0,Crvena Zvezda mts Belgrade,0
-CSK       ,,1,06:51,4,28,"DE COLO, NANDO",P002100   ,Two Pointer (2/3 -  4 pt),2FGM,4.0,8.0,CSKA Moscow,0
-RED       ,,22,06:34,4,29,"ROCHESTIE, TAYLOR",P002972   ,Three Pointer (1/1 -  7 pt),3FGM,7.0,8.0,Crvena Zvezda mts Belgrade,0
-CSK       ,,42,06:16,4,30,"HINES, KYLE",P002812   ,Two Pointer (1/1 -  2 pt),2FGM,7.0,10.0,CSKA Moscow,0
-CSK       ,,31,06:16,4,31,"KHRYAPA, VICTOR",PBCQ      ,Assist (1),AS,,,CSKA Moscow,0
-RED       ,,12,05:50,5,33,"ANTIC, PERO",PBAE      ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,Crvena Zvezda mts Belgrade,0
-CSK       ,,42,05:49,5,34,"HINES, KYLE",P002812   ,Def Rebound (1),D,,,CSKA Moscow,0
-CSK       ,,42,05:40,5,35,"HINES, KYLE",P002812   ,Two Pointer (2/2 -  4 pt),2FGM,7.0,12.0,CSKA Moscow,0
-RED       ,,14,05:26,5,36,"FELDEINE, JAMES",P005918   ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,Crvena Zvezda mts Belgrade,0
-RED       ,,51,05:24,5,37,"BJELICA, MILKO",PCHX      ,Off Rebound (1),O,,,Crvena Zvezda mts Belgrade,0
-CSK       ,,42,05:18,5,38,"HINES, KYLE",P002812   ,Block (1),FV,,,CSKA Moscow,0
-RED       ,,10,05:18,5,39,"LAZIC, BRANKO",PLUO      ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Crvena Zvezda mts Belgrade,0
-RED       ,,10,05:18,5,40,"LAZIC, BRANKO",PLUO      ,Shot Rejected (1),AG,,,Crvena Zvezda mts Belgrade,0
-RED       ,,,05:18,5,41,,          ,Off Rebound (1),O,,,Crvena Zvezda mts Belgrade,0
-CSK       ,,31,05:09,5,42,"KHRYAPA, VICTOR",PBCQ      ,Foul (1),CM,,,CSKA Moscow,0
-RED       ,,22,05:09,5,43,"ROCHESTIE, TAYLOR",P002972   ,Foul Drawn (1),RV,,,Crvena Zvezda mts Belgrade,0
-RED       ,,51,04:54,6,45,"BJELICA, MILKO",PCHX      ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Crvena Zvezda mts Belgrade,0
-CSK       ,,31,04:53,6,46,"KHRYAPA, VICTOR",PBCQ      ,Foul (2),CM,,,CSKA Moscow,0
-RED       ,,12,04:53,6,47,"ANTIC, PERO",PBAE      ,Foul Drawn (2),RV,,,Crvena Zvezda mts Belgrade,0
-RED       ,,12,04:53,6,48,"ANTIC, PERO",PBAE      ,Off Rebound (1),O,,,Crvena Zvezda mts Belgrade,0
-          ,,,04:53,6,49,,          ,TV Time Out (1),TOUT_TV,,,,0
-RED       ,,12,04:53,6,50,"ANTIC, PERO",PBAE      ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,26,04:53,6,51,"LESSORT, MATHIAS",P003842   ,In,IN,,,Crvena Zvezda mts Belgrade,0
-CSK       ,,20,04:53,6,52,"VORONTSEVICH, ANDREY",PLHI      ,In,IN,,,CSKA Moscow,0
-CSK       ,,31,04:53,6,53,"KHRYAPA, VICTOR",PBCQ      ,Out,OUT,,,CSKA Moscow,0
-RED       ,,26,04:52,6,54,"LESSORT, MATHIAS",P003842   ,Turnover (1),TO,,,Crvena Zvezda mts Belgrade,0
-CSK       ,,42,04:52,6,55,"HINES, KYLE",P002812   ,Steal (1),ST,,,CSKA Moscow,0
-CSK       ,,1,04:48,6,56,"DE COLO, NANDO",P002100   ,Turnover (1),TO,,,CSKA Moscow,0
-RED       ,,51,04:32,6,57,"BJELICA, MILKO",PCHX      ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Crvena Zvezda mts Belgrade,0
-CSK       ,,42,04:27,6,58,"HINES, KYLE",P002812   ,Def Rebound (2),D,,,CSKA Moscow,0
-RED       ,,22,04:22,6,59,"ROCHESTIE, TAYLOR",P002972   ,Foul (1),CM,,,Crvena Zvezda mts Belgrade,0
-CSK       ,,21,04:22,6,60,"CLYBURN, WILL",P004888   ,Foul Drawn (1),RV,,,CSKA Moscow,0
-RED       ,,22,04:11,6,61,"ROCHESTIE, TAYLOR",P002972   ,Foul (2),CM,,,Crvena Zvezda mts Belgrade,0
-CSK       ,,1,04:11,6,62,"DE COLO, NANDO",P002100   ,Foul Drawn (3),RV,,,CSKA Moscow,0
-RED       ,,5,04:11,6,63,"RADICEVIC, NIKOLA",P002561   ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,22,04:11,6,64,"ROCHESTIE, TAYLOR",P002972   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-CSK       ,,1,04:11,6,65,"DE COLO, NANDO",P002100   ,Free Throw In (1/1 -  5 pt),FTM,7.0,13.0,CSKA Moscow,0
-CSK       ,,1,04:11,6,66,"DE COLO, NANDO",P002100   ,Free Throw In (2/2 -  6 pt),FTM,7.0,14.0,CSKA Moscow,0
-CSK       ,,13,04:11,6,67,"RODRIGUEZ, SERGIO",PCVM      ,In,IN,,,CSKA Moscow,0
-CSK       ,,41,04:11,6,68,"KURBANOV, NIKITA",PJLX      ,Out,OUT,,,CSKA Moscow,0
-RED       ,,14,03:58,7,70,"FELDEINE, JAMES",P005918   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Crvena Zvezda mts Belgrade,0
-CSK       ,,20,03:56,7,71,"VORONTSEVICH, ANDREY",PLHI      ,Def Rebound (1),D,,,CSKA Moscow,0
-CSK       ,,13,03:46,7,72,"RODRIGUEZ, SERGIO",PCVM      ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,CSKA Moscow,0
-RED       ,,14,03:45,7,73,"FELDEINE, JAMES",P005918   ,Def Rebound (1),D,,,Crvena Zvezda mts Belgrade,0
-CSK       ,,20,03:35,7,74,"VORONTSEVICH, ANDREY",PLHI      ,Foul (1),CM,,,CSKA Moscow,0
-RED       ,,26,03:35,7,75,"LESSORT, MATHIAS",P003842   ,Foul Drawn (1),RV,,,Crvena Zvezda mts Belgrade,0
-RED       ,,6,03:35,7,76,"DANGUBIC, NEMANJA",P005942   ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,10,03:35,7,77,"LAZIC, BRANKO",PLUO      ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-CSK       ,,1,03:35,7,78,"DE COLO, NANDO",P002100   ,Out,OUT,,,CSKA Moscow,0
-CSK       ,,22,03:35,7,79,"HIGGINS, CORY",P006450   ,In,IN,,,CSKA Moscow,0
-CSK       ,,42,03:35,7,80,"HINES, KYLE",P002812   ,Out,OUT,,,CSKA Moscow,0
-CSK       ,,44,03:35,7,81,"HUNTER, OTHELLO",P005160   ,In,IN,,,CSKA Moscow,0
-RED       ,,26,03:35,7,82,"LESSORT, MATHIAS",P003842   ,Free Throw In (1/1 -  1 pt),FTM,8.0,14.0,Crvena Zvezda mts Belgrade,0
-RED       ,,51,03:35,7,83,"BJELICA, MILKO",PCHX      ,Assist (1),AS,,,Crvena Zvezda mts Belgrade,0
-RED       ,,26,03:35,7,84,"LESSORT, MATHIAS",P003842   ,Missed Free Throw (1/2 -  1 pt),FTA,,,Crvena Zvezda mts Belgrade,0
-CSK       ,,20,03:31,7,85,"VORONTSEVICH, ANDREY",PLHI      ,Def Rebound (2),D,,,CSKA Moscow,0
-CSK       ,,22,03:13,7,86,"HIGGINS, CORY",P006450   ,Two Pointer (1/1 -  2 pt),2FGM,8.0,16.0,CSKA Moscow,0
-RED       ,,14,02:55,8,88,"FELDEINE, JAMES",P005918   ,Missed Three Pointer (0/3 -  0 pt),3FGA,,,Crvena Zvezda mts Belgrade,0
-CSK       ,,21,02:53,8,89,"CLYBURN, WILL",P004888   ,Def Rebound (1),D,,,CSKA Moscow,0
-CSK       ,,22,02:35,8,90,"HIGGINS, CORY",P006450   ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,CSKA Moscow,0
-RED       ,,6,02:34,8,91,"DANGUBIC, NEMANJA",P005942   ,Def Rebound (1),D,,,Crvena Zvezda mts Belgrade,0
-RED       ,,14,02:26,8,92,"FELDEINE, JAMES",P005918   ,Two Pointer (1/2 -  2 pt),2FGM,10.0,16.0,Crvena Zvezda mts Belgrade,0
-RED       ,,6,02:26,8,93,"DANGUBIC, NEMANJA",P005942   ,Assist (1),AS,,,Crvena Zvezda mts Belgrade,0
-RED       ,,26,02:04,8,94,"LESSORT, MATHIAS",P003842   ,Block (1),FV,,,Crvena Zvezda mts Belgrade,0
-CSK       ,,21,02:04,8,95,"CLYBURN, WILL",P004888   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,CSKA Moscow,0
-CSK       ,,21,02:04,8,96,"CLYBURN, WILL",P004888   ,Shot Rejected (1),AG,,,CSKA Moscow,0
-CSK       ,,22,02:04,8,97,"HIGGINS, CORY",P006450   ,Def Rebound (1),D,,,CSKA Moscow,0
-CSK       ,,20,01:52,9,99,"VORONTSEVICH, ANDREY",PLHI      ,Block (1),FV,,,CSKA Moscow,0
-RED       ,,5,01:52,9,100,"RADICEVIC, NIKOLA",P002561   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Crvena Zvezda mts Belgrade,0
-RED       ,,5,01:52,9,101,"RADICEVIC, NIKOLA",P002561   ,Shot Rejected (1),AG,,,Crvena Zvezda mts Belgrade,0
-CSK       ,,21,01:52,9,102,"CLYBURN, WILL",P004888   ,Def Rebound (2),D,,,CSKA Moscow,0
-RED       ,,14,01:40,9,103,"FELDEINE, JAMES",P005918   ,Foul (1),CM,,,Crvena Zvezda mts Belgrade,0
-CSK       ,,20,01:40,9,104,"VORONTSEVICH, ANDREY",PLHI      ,Foul Drawn (1),RV,,,CSKA Moscow,0
-CSK       ,,20,01:40,9,105,"VORONTSEVICH, ANDREY",PLHI      ,Free Throw In (1/1 -  1 pt),FTM,10.0,17.0,CSKA Moscow,0
-CSK       ,,20,01:40,9,106,"VORONTSEVICH, ANDREY",PLHI      ,Missed Free Throw (1/2 -  1 pt),FTA,,,CSKA Moscow,0
-RED       ,,51,01:40,9,107,"BJELICA, MILKO",PCHX      ,Def Rebound (2),D,,,Crvena Zvezda mts Belgrade,0
-RED       ,,51,01:24,9,108,"BJELICA, MILKO",PCHX      ,Turnover (1),TO,,,Crvena Zvezda mts Belgrade,0
-RED       ,,13,01:24,9,109,"DOBRIC, OGNJEN",P004007   ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,14,01:24,9,110,"FELDEINE, JAMES",P005918   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-CSK       ,,,01:03,9,111,,          ,Time Out (1),TOUT,,,CSKA Moscow,0
-RED       ,,32,01:03,9,112,"JOVANOVIC, NIKOLA",P003264   ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,51,01:03,9,113,"BJELICA, MILKO",PCHX      ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-CSK       ,,20,01:03,9,114,"VORONTSEVICH, ANDREY",PLHI      ,Two Pointer (1/1 -  3 pt),2FGM,10.0,19.0,CSKA Moscow,0
-CSK       ,,22,00:56,10,116,"HIGGINS, CORY",P006450   ,Assist (1),AS,,,CSKA Moscow,0
-RED       ,,13,00:38,10,117,"DOBRIC, OGNJEN",P004007   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Crvena Zvezda mts Belgrade,0
-CSK       ,,44,00:37,10,118,"HUNTER, OTHELLO",P005160   ,Def Rebound (1),D,,,CSKA Moscow,0
-CSK       ,,20,00:28,10,119,"VORONTSEVICH, ANDREY",PLHI      ,Three Pointer (1/1 -  6 pt),3FGM,10.0,22.0,CSKA Moscow,0
-CSK       ,,13,00:26,10,120,"RODRIGUEZ, SERGIO",PCVM      ,Assist (1),AS,,,CSKA Moscow,0
-RED       ,,13,00:02,10,121,"DOBRIC, OGNJEN",P004007   ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,Crvena Zvezda mts Belgrade,0
-CSK       ,,21,00:00,10,122,"CLYBURN, WILL",P004888   ,Def Rebound (3),D,,,CSKA Moscow,0
-          ,,,,11,124,,          ,End Period,EP,,,,0
-          ,,,,11,131,,          ,Begin Period,BP,,,,0
-RED       ,,5,10:00,11,125,"RADICEVIC, NIKOLA",P002561   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,12,10:00,11,126,"ANTIC, PERO",PBAE      ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,13,10:00,11,127,"DOBRIC, OGNJEN",P004007   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,14,10:00,11,128,"FELDEINE, JAMES",P005918   ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,22,10:00,11,129,"ROCHESTIE, TAYLOR",P002972   ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,26,10:00,11,130,"LESSORT, MATHIAS",P003842   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,12,09:47,11,132,"ANTIC, PERO",PBAE      ,Missed Three Pointer (0/3 -  0 pt),3FGA,,,Crvena Zvezda mts Belgrade,0
-RED       ,,14,09:46,11,133,"FELDEINE, JAMES",P005918   ,Off Rebound (1),O,,,Crvena Zvezda mts Belgrade,0
-RED       ,,12,09:34,11,134,"ANTIC, PERO",PBAE      ,Three Pointer (1/4 -  3 pt),3FGM,13.0,22.0,Crvena Zvezda mts Belgrade,0
-RED       ,,22,09:34,11,135,"ROCHESTIE, TAYLOR",P002972   ,Assist (1),AS,,,Crvena Zvezda mts Belgrade,0
-CSK       ,,13,09:05,11,136,"RODRIGUEZ, SERGIO",PCVM      ,Three Pointer (1/2 -  3 pt),3FGM,13.0,25.0,CSKA Moscow,0
-RED       ,,6,08:42,12,138,"DANGUBIC, NEMANJA",P005942   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Crvena Zvezda mts Belgrade,0
-CSK       ,,44,08:40,12,139,"HUNTER, OTHELLO",P005160   ,Def Rebound (2),D,,,CSKA Moscow,0
-CSK       ,,21,08:30,12,140,"CLYBURN, WILL",P004888   ,Missed Two Pointer (1/3 -  2 pt),2FGA,,,CSKA Moscow,0
-RED       ,,32,08:28,12,141,"JOVANOVIC, NIKOLA",P003264   ,Def Rebound (1),D,,,Crvena Zvezda mts Belgrade,0
-CSK       ,,22,08:22,12,142,"HIGGINS, CORY",P006450   ,Foul (1),CM,,,CSKA Moscow,0
-RED       ,,22,08:22,12,143,"ROCHESTIE, TAYLOR",P002972   ,Foul Drawn (2),RV,,,Crvena Zvezda mts Belgrade,0
-CSK       ,,21,08:22,12,144,"CLYBURN, WILL",P004888   ,Out,OUT,,,CSKA Moscow,0
-CSK       ,,41,08:22,12,145,"KURBANOV, NIKITA",PJLX      ,In,IN,,,CSKA Moscow,0
-CSK       ,,44,08:09,12,146,"HUNTER, OTHELLO",P005160   ,Block (1),FV,,,CSKA Moscow,0
-RED       ,,14,08:09,12,147,"FELDEINE, JAMES",P005918   ,Missed Two Pointer (1/3 -  2 pt),2FGA,,,Crvena Zvezda mts Belgrade,0
-RED       ,,14,08:09,12,148,"FELDEINE, JAMES",P005918   ,Shot Rejected (1),AG,,,Crvena Zvezda mts Belgrade,0
-RED       ,,,08:07,12,149,,          ,Off Rebound (2),O,,,Crvena Zvezda mts Belgrade,0
-RED       ,,14,08:05,12,150,"FELDEINE, JAMES",P005918   ,Missed Two Pointer (1/4 -  2 pt),2FGA,,,Crvena Zvezda mts Belgrade,0
-CSK       ,,13,08:04,12,151,"RODRIGUEZ, SERGIO",PCVM      ,Def Rebound (1),D,,,CSKA Moscow,0
-RED       ,,6,08:00,12,152,"DANGUBIC, NEMANJA",P005942   ,Foul (1),CM,,,Crvena Zvezda mts Belgrade,0
-CSK       ,,44,08:00,12,153,"HUNTER, OTHELLO",P005160   ,Foul Drawn (1),RV,,,CSKA Moscow,0
-RED       ,,32,08:00,12,154,"JOVANOVIC, NIKOLA",P003264   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,51,08:00,12,155,"BJELICA, MILKO",PCHX      ,In,IN,,,Crvena Zvezda mts Belgrade,0
-CSK       ,,44,08:00,12,156,"HUNTER, OTHELLO",P005160   ,Missed Free Throw (0/1 -  0 pt),FTA,,,CSKA Moscow,0
-CSK       ,,44,08:00,12,157,"HUNTER, OTHELLO",P005160   ,Free Throw In (1/2 -  1 pt),FTM,13.0,26.0,CSKA Moscow,0
-CSK       ,,13,08:00,12,159,"RODRIGUEZ, SERGIO",PCVM      ,Assist (2),AS,,,CSKA Moscow,0
-RED       ,,51,07:45,13,161,"BJELICA, MILKO",PCHX      ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,Crvena Zvezda mts Belgrade,0
-CSK       ,,13,07:44,13,162,"RODRIGUEZ, SERGIO",PCVM      ,Def Rebound (2),D,,,CSKA Moscow,0
-CSK       ,,22,07:31,13,163,"HIGGINS, CORY",P006450   ,Two Pointer (2/2 -  4 pt),2FGM,13.0,28.0,CSKA Moscow,0
-CSK       ,,13,07:31,13,164,"RODRIGUEZ, SERGIO",PCVM      ,Assist (3),AS,,,CSKA Moscow,0
-RED       ,,,07:31,13,165,,          ,Time Out (1),TOUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,6,07:31,13,166,"DANGUBIC, NEMANJA",P005942   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,10,07:31,13,167,"LAZIC, BRANKO",PLUO      ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,22,07:10,13,168,"ROCHESTIE, TAYLOR",P002972   ,Two Pointer (3/3 -  9 pt),2FGM,15.0,28.0,Crvena Zvezda mts Belgrade,0
-CSK       ,,44,06:48,14,170,"HUNTER, OTHELLO",P005160   ,Missed Two Pointer (0/1 -  1 pt),2FGA,,,CSKA Moscow,0
-RED       ,,10,06:48,14,171,"LAZIC, BRANKO",PLUO      ,Def Rebound (1),D,,,Crvena Zvezda mts Belgrade,0
-CSK       ,,20,06:42,14,172,"VORONTSEVICH, ANDREY",PLHI      ,Foul (2),CM,,,CSKA Moscow,0
-RED       ,,51,06:42,14,173,"BJELICA, MILKO",PCHX      ,Foul Drawn (1),RV,,,Crvena Zvezda mts Belgrade,0
-CSK       ,,41,06:40,14,174,"KURBANOV, NIKITA",PJLX      ,Foul (1),CM,,,CSKA Moscow,0
-RED       ,,22,06:40,14,175,"ROCHESTIE, TAYLOR",P002972   ,Foul Drawn (3),RV,,,Crvena Zvezda mts Belgrade,0
-RED       ,,10,06:34,14,176,"LAZIC, BRANKO",PLUO      ,Offensive Foul (2),OF,,,Crvena Zvezda mts Belgrade,0
-RED       ,,10,06:34,14,177,"LAZIC, BRANKO",PLUO      ,Turnover (1),TO,,,Crvena Zvezda mts Belgrade,0
-CSK       ,,13,06:34,14,178,"RODRIGUEZ, SERGIO",PCVM      ,Foul Drawn (1),RV,,,CSKA Moscow,0
-CSK       ,,11,06:34,14,179,"ANTONOV, SEMEN",P004941   ,In,IN,,,CSKA Moscow,0
-CSK       ,,20,06:34,14,180,"VORONTSEVICH, ANDREY",PLHI      ,Out,OUT,,,CSKA Moscow,0
-CSK       ,,41,06:22,14,181,"KURBANOV, NIKITA",PJLX      ,Two Pointer (2/2 -  4 pt),2FGM,15.0,30.0,CSKA Moscow,0
-CSK       ,,13,06:22,14,182,"RODRIGUEZ, SERGIO",PCVM      ,Assist (4),AS,,,CSKA Moscow,0
-CSK       ,,11,06:00,14,183,"ANTONOV, SEMEN",P004941   ,Foul (1),CM,,,CSKA Moscow,0
-RED       ,,12,06:00,14,184,"ANTIC, PERO",PBAE      ,Foul Drawn (3),RV,,,Crvena Zvezda mts Belgrade,0
-RED       ,,12,06:00,14,185,"ANTIC, PERO",PBAE      ,Free Throw In (1/1 -  4 pt),FTM,16.0,30.0,Crvena Zvezda mts Belgrade,0
-RED       ,,14,06:00,14,186,"FELDEINE, JAMES",P005918   ,Assist (1),AS,,,Crvena Zvezda mts Belgrade,0
-RED       ,,12,06:00,14,187,"ANTIC, PERO",PBAE      ,Missed Free Throw (1/2 -  4 pt),FTA,,,Crvena Zvezda mts Belgrade,0
-RED       ,,12,06:00,14,188,"ANTIC, PERO",PBAE      ,Free Throw In (2/3 -  5 pt),FTM,17.0,30.0,Crvena Zvezda mts Belgrade,0
-CSK       ,,1,06:00,14,189,"DE COLO, NANDO",P002100   ,In,IN,,,CSKA Moscow,0
-CSK       ,,22,06:00,14,190,"HIGGINS, CORY",P006450   ,Out,OUT,,,CSKA Moscow,0
-CSK       ,,13,05:50,15,192,"RODRIGUEZ, SERGIO",PCVM      ,Three Pointer (2/3 -  6 pt),3FGM,17.0,33.0,CSKA Moscow,0
-RED       ,,10,05:34,15,193,"LAZIC, BRANKO",PLUO      ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Crvena Zvezda mts Belgrade,0
-RED       ,,51,05:34,15,194,"BJELICA, MILKO",PCHX      ,Off Rebound (2),O,,,Crvena Zvezda mts Belgrade,0
-RED       ,,51,05:34,15,195,"BJELICA, MILKO",PCHX      ,Two Pointer (1/2 -  2 pt),2FGM,19.0,33.0,Crvena Zvezda mts Belgrade,0
-RED       ,,5,05:20,15,196,"RADICEVIC, NIKOLA",P002561   ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,22,05:20,15,197,"ROCHESTIE, TAYLOR",P002972   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-CSK       ,,41,05:13,15,198,"KURBANOV, NIKITA",PJLX      ,Missed Two Pointer (2/3 -  4 pt),2FGA,,,CSKA Moscow,0
-RED       ,,12,05:09,15,199,"ANTIC, PERO",PBAE      ,Def Rebound (1),D,,,Crvena Zvezda mts Belgrade,0
-RED       ,,14,04:53,16,201,"FELDEINE, JAMES",P005918   ,Missed Three Pointer (0/4 -  2 pt),3FGA,,,Crvena Zvezda mts Belgrade,0
-CSK       ,,41,04:51,16,202,"KURBANOV, NIKITA",PJLX      ,Def Rebound (2),D,,,CSKA Moscow,0
-RED       ,,4,04:45,16,203,"KESELJ, MARKO",P000577   ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,14,04:45,16,204,"FELDEINE, JAMES",P005918   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,12,04:45,16,205,"ANTIC, PERO",PBAE      ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,26,04:45,16,206,"LESSORT, MATHIAS",P003842   ,In,IN,,,Crvena Zvezda mts Belgrade,0
-CSK       ,,13,04:33,16,207,"RODRIGUEZ, SERGIO",PCVM      ,Missed Two Pointer (0/1 -  6 pt),2FGA,,,CSKA Moscow,0
-RED       ,,4,04:32,16,208,"KESELJ, MARKO",P000577   ,Def Rebound (1),D,,,Crvena Zvezda mts Belgrade,0
-RED       ,,5,04:25,16,209,"RADICEVIC, NIKOLA",P002561   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Crvena Zvezda mts Belgrade,0
-CSK       ,,11,04:23,16,210,"ANTONOV, SEMEN",P004941   ,Def Rebound (1),D,,,CSKA Moscow,0
-CSK       ,,1,04:21,16,211,"DE COLO, NANDO",P002100   ,Missed Three Pointer (0/1 -  6 pt),3FGA,,,CSKA Moscow,0
-CSK       ,,44,04:16,16,212,"HUNTER, OTHELLO",P005160   ,Off Rebound (1),O,,,CSKA Moscow,0
-CSK       ,,44,04:16,16,213,"HUNTER, OTHELLO",P005160   ,Two Pointer (1/2 -  3 pt),2FGM,19.0,35.0,CSKA Moscow,0
-RED       ,,,04:16,16,214,,          ,Time Out (2),TOUT,,,Crvena Zvezda mts Belgrade,0
-CSK       ,,41,03:59,17,216,"KURBANOV, NIKITA",PJLX      ,Foul (2),CM,,,CSKA Moscow,0
-RED       ,,26,03:59,17,217,"LESSORT, MATHIAS",P003842   ,Foul Drawn (2),RV,,,Crvena Zvezda mts Belgrade,0
-RED       ,,26,03:59,17,218,"LESSORT, MATHIAS",P003842   ,Free Throw In (2/3 -  2 pt),FTM,20.0,35.0,Crvena Zvezda mts Belgrade,0
-RED       ,,26,03:59,17,219,"LESSORT, MATHIAS",P003842   ,Free Throw In (3/4 -  3 pt),FTM,21.0,35.0,Crvena Zvezda mts Belgrade,0
-CSK       ,,22,03:59,17,220,"HIGGINS, CORY",P006450   ,In,IN,,,CSKA Moscow,0
-CSK       ,,41,03:59,17,221,"KURBANOV, NIKITA",PJLX      ,Out,OUT,,,CSKA Moscow,0
-CSK       ,,11,03:41,17,222,"ANTONOV, SEMEN",P004941   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,CSKA Moscow,0
-RED       ,,26,03:40,17,223,"LESSORT, MATHIAS",P003842   ,Def Rebound (1),D,,,Crvena Zvezda mts Belgrade,0
-RED       ,,26,03:21,17,224,"LESSORT, MATHIAS",P003842   ,Two Pointer (1/1 -  5 pt),2FGM,23.0,35.0,Crvena Zvezda mts Belgrade,0
-RED       ,,5,03:20,17,225,"RADICEVIC, NIKOLA",P002561   ,Assist (1),AS,,,Crvena Zvezda mts Belgrade,0
-CSK       ,,,03:20,17,226,,          ,Time Out (1),TOUT,,,CSKA Moscow,0
-CSK       ,,11,03:20,17,227,"ANTONOV, SEMEN",P004941   ,Out,OUT,,,CSKA Moscow,0
-CSK       ,,21,03:20,17,228,"CLYBURN, WILL",P004888   ,In,IN,,,CSKA Moscow,0
-RED       ,,5,03:07,17,229,"RADICEVIC, NIKOLA",P002561   ,Foul (1),CM,,,Crvena Zvezda mts Belgrade,0
-CSK       ,,21,03:07,17,230,"CLYBURN, WILL",P004888   ,Foul Drawn (2),RV,,,CSKA Moscow,0
-CSK       ,,21,03:07,17,231,"CLYBURN, WILL",P004888   ,Missed Free Throw (0/1 -  2 pt),FTA,,,CSKA Moscow,0
-CSK       ,,21,03:07,17,232,"CLYBURN, WILL",P004888   ,Missed Free Throw (0/2 -  2 pt),FTA,,,CSKA Moscow,0
-CSK       ,,44,03:06,17,233,"HUNTER, OTHELLO",P005160   ,Off Rebound (2),O,,,CSKA Moscow,0
-CSK       ,,21,03:01,17,234,"CLYBURN, WILL",P004888   ,Turnover (1),TO,,,CSKA Moscow,0
-RED       ,,5,03:01,17,287,"RADICEVIC, NIKOLA",P002561   ,Steal (1),ST,,,Crvena Zvezda mts Belgrade,0
-RED       ,,5,03:01,17,235,"RADICEVIC, NIKOLA",P002561   ,Foul Drawn (1),RV,,,Crvena Zvezda mts Belgrade,0
-RED       ,,5,03:01,17,236,"RADICEVIC, NIKOLA",P002561   ,Free Throw In (1/1 -  1 pt),FTM,24.0,35.0,Crvena Zvezda mts Belgrade,0
-RED       ,,5,03:01,17,237,"RADICEVIC, NIKOLA",P002561   ,Free Throw In (2/2 -  2 pt),FTM,25.0,35.0,Crvena Zvezda mts Belgrade,0
-CSK       ,,1,02:48,18,239,"DE COLO, NANDO",P002100   ,Turnover (2),TO,,,CSKA Moscow,0
-CSK       ,,42,02:48,18,240,"HINES, KYLE",P002812   ,In,IN,,,CSKA Moscow,0
-CSK       ,,44,02:48,18,241,"HUNTER, OTHELLO",P005160   ,Out,OUT,,,CSKA Moscow,0
-CSK       ,,21,02:48,18,242,"CLYBURN, WILL",P004888   ,Foul (1),CM,,,CSKA Moscow,0
-RED       ,,26,02:35,18,243,"LESSORT, MATHIAS",P003842   ,Missed Two Pointer (1/2 -  5 pt),2FGA,,,Crvena Zvezda mts Belgrade,0
-CSK       ,,42,02:34,18,244,"HINES, KYLE",P002812   ,Def Rebound (3),D,,,CSKA Moscow,0
-RED       ,,5,02:10,18,245,"RADICEVIC, NIKOLA",P002561   ,Foul (2),CM,,,Crvena Zvezda mts Belgrade,0
-CSK       ,,42,02:10,18,246,"HINES, KYLE",P002812   ,Foul Drawn (1),RV,,,CSKA Moscow,0
-RED       ,,5,02:10,18,247,"RADICEVIC, NIKOLA",P002561   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,6,02:10,18,248,"DANGUBIC, NEMANJA",P005942   ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,10,02:10,18,249,"LAZIC, BRANKO",PLUO      ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,22,02:10,18,250,"ROCHESTIE, TAYLOR",P002972   ,In,IN,,,Crvena Zvezda mts Belgrade,0
-CSK       ,,42,02:10,18,251,"HINES, KYLE",P002812   ,Free Throw In (1/1 -  5 pt),FTM,25.0,36.0,CSKA Moscow,0
-CSK       ,,13,02:10,18,252,"RODRIGUEZ, SERGIO",PCVM      ,Assist (5),AS,,,CSKA Moscow,0
-CSK       ,,42,02:10,18,253,"HINES, KYLE",P002812   ,Missed Free Throw (1/2 -  5 pt),FTA,,,CSKA Moscow,0
-RED       ,,4,02:10,18,254,"KESELJ, MARKO",P000577   ,Def Rebound (2),D,,,Crvena Zvezda mts Belgrade,0
-RED       ,,51,01:54,19,256,"BJELICA, MILKO",PCHX      ,Missed Two Pointer (1/3 -  2 pt),2FGA,,,Crvena Zvezda mts Belgrade,0
-RED       ,,26,01:54,19,257,"LESSORT, MATHIAS",P003842   ,Off Rebound (1),O,,,Crvena Zvezda mts Belgrade,0
-RED       ,,26,01:54,19,258,"LESSORT, MATHIAS",P003842   ,Missed Two Pointer (1/3 -  5 pt),2FGA,,,Crvena Zvezda mts Belgrade,0
-CSK       ,,42,01:51,19,259,"HINES, KYLE",P002812   ,Def Rebound (4),D,,,CSKA Moscow,0
-RED       ,,4,01:51,19,260,"KESELJ, MARKO",P000577   ,Foul (1),CM,,,Crvena Zvezda mts Belgrade,0
-CSK       ,,42,01:51,19,261,"HINES, KYLE",P002812   ,Foul Drawn (2),RV,,,CSKA Moscow,0
-RED       ,,32,01:51,19,262,"JOVANOVIC, NIKOLA",P003264   ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,51,01:51,19,263,"BJELICA, MILKO",PCHX      ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-CSK       ,,42,01:51,19,264,"HINES, KYLE",P002812   ,Free Throw In (2/3 -  6 pt),FTM,25.0,37.0,CSKA Moscow,0
-CSK       ,,42,01:51,19,265,"HINES, KYLE",P002812   ,Free Throw In (3/4 -  7 pt),FTM,25.0,38.0,CSKA Moscow,0
-RED       ,,6,01:35,19,266,"DANGUBIC, NEMANJA",P005942   ,Turnover (1),TO,,,Crvena Zvezda mts Belgrade,0
-CSK       ,,42,01:34,19,267,"HINES, KYLE",P002812   ,Steal (2),ST,,,CSKA Moscow,0
-CSK       ,,22,01:27,19,268,"HIGGINS, CORY",P006450   ,Two Pointer (3/3 -  6 pt),2FGM,25.0,40.0,CSKA Moscow,0
-CSK       ,,42,01:21,19,269,"HINES, KYLE",P002812   ,Assist (1),AS,,,CSKA Moscow,0
-RED       ,,32,01:09,19,270,"JOVANOVIC, NIKOLA",P003264   ,Two Pointer (1/1 -  2 pt),2FGM,27.0,40.0,Crvena Zvezda mts Belgrade,0
-RED       ,,4,01:07,19,271,"KESELJ, MARKO",P000577   ,Assist (1),AS,,,Crvena Zvezda mts Belgrade,0
-RED       ,,4,00:50,20,273,"KESELJ, MARKO",P000577   ,Foul (2),CM,,,Crvena Zvezda mts Belgrade,0
-CSK       ,,42,00:50,20,274,"HINES, KYLE",P002812   ,Foul Drawn (3),RV,,,CSKA Moscow,0
-CSK       ,,11,00:50,20,275,"ANTONOV, SEMEN",P004941   ,In,IN,,,CSKA Moscow,0
-CSK       ,,21,00:50,20,276,"CLYBURN, WILL",P004888   ,Out,OUT,,,CSKA Moscow,0
-CSK       ,,42,00:50,20,277,"HINES, KYLE",P002812   ,Free Throw In (4/5 -  8 pt),FTM,27.0,41.0,CSKA Moscow,0
-CSK       ,,13,00:50,20,278,"RODRIGUEZ, SERGIO",PCVM      ,Assist (6),AS,,,CSKA Moscow,0
-CSK       ,,42,00:50,20,279,"HINES, KYLE",P002812   ,Free Throw In (5/6 -  9 pt),FTM,27.0,42.0,CSKA Moscow,0
-RED       ,,22,00:33,20,280,"ROCHESTIE, TAYLOR",P002972   ,Missed Three Pointer (1/2 -  9 pt),3FGA,,,Crvena Zvezda mts Belgrade,0
-CSK       ,,42,00:31,20,281,"HINES, KYLE",P002812   ,Def Rebound (5),D,,,CSKA Moscow,0
-CSK       ,,42,00:13,20,282,"HINES, KYLE",P002812   ,Two Pointer (3/3 -  11 pt),2FGM,27.0,44.0,CSKA Moscow,0
-CSK       ,,13,00:13,20,283,"RODRIGUEZ, SERGIO",PCVM      ,Assist (7),AS,,,CSKA Moscow,0
-RED       ,,4,00:00,20,284,"KESELJ, MARKO",P000577   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Crvena Zvezda mts Belgrade,0
-          ,,,,21,286,,          ,End Period,EP,,,,0
-          ,,,,21,300,,          ,Begin Period,BP,,,,0
-RED       ,,4,10:00,21,288,"KESELJ, MARKO",P000577   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,6,10:00,21,289,"DANGUBIC, NEMANJA",P005942   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,10,10:00,21,290,"LAZIC, BRANKO",PLUO      ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,14,10:00,21,291,"FELDEINE, JAMES",P005918   ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,32,10:00,21,292,"JOVANOVIC, NIKOLA",P003264   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,51,10:00,21,293,"BJELICA, MILKO",PCHX      ,In,IN,,,Crvena Zvezda mts Belgrade,0
-CSK       ,,11,10:00,21,294,"ANTONOV, SEMEN",P004941   ,Out,OUT,,,CSKA Moscow,0
-CSK       ,,13,10:00,21,295,"RODRIGUEZ, SERGIO",PCVM      ,Out,OUT,,,CSKA Moscow,0
-CSK       ,,21,10:00,21,296,"CLYBURN, WILL",P004888   ,In,IN,,,CSKA Moscow,0
-CSK       ,,22,10:00,21,297,"HIGGINS, CORY",P006450   ,Out,OUT,,,CSKA Moscow,0
-CSK       ,,31,10:00,21,298,"KHRYAPA, VICTOR",PBCQ      ,In,IN,,,CSKA Moscow,0
-CSK       ,,41,10:00,21,299,"KURBANOV, NIKITA",PJLX      ,In,IN,,,CSKA Moscow,0
-CSK       ,,31,09:47,21,301,"KHRYAPA, VICTOR",PBCQ      ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,CSKA Moscow,0
-CSK       ,,42,09:46,21,302,"HINES, KYLE",P002812   ,Off Rebound (1),O,,,CSKA Moscow,0
-CSK       ,,42,09:46,21,303,"HINES, KYLE",P002812   ,Two Pointer (4/4 -  13 pt),2FGM,27.0,46.0,CSKA Moscow,0
-RED       ,,14,09:23,21,304,"FELDEINE, JAMES",P005918   ,Turnover (1),TO,,,Crvena Zvezda mts Belgrade,0
-CSK       ,,1,09:14,21,305,"DE COLO, NANDO",P002100   ,Two Pointer (3/4 -  8 pt),2FGM,27.0,48.0,CSKA Moscow,0
-CSK       ,,31,09:12,21,306,"KHRYAPA, VICTOR",PBCQ      ,Assist (2),AS,,,CSKA Moscow,0
-RED       ,,51,08:53,22,308,"BJELICA, MILKO",PCHX      ,Missed Two Pointer (1/4 -  2 pt),2FGA,,,Crvena Zvezda mts Belgrade,0
-CSK       ,,31,08:52,22,309,"KHRYAPA, VICTOR",PBCQ      ,Def Rebound (1),D,,,CSKA Moscow,0
-CSK       ,,1,08:38,22,310,"DE COLO, NANDO",P002100   ,Two Pointer (4/5 -  10 pt),2FGM,27.0,50.0,CSKA Moscow,0
-CSK       ,,41,08:38,22,311,"KURBANOV, NIKITA",PJLX      ,Assist (1),AS,,,CSKA Moscow,0
-RED       ,,14,08:14,22,312,"FELDEINE, JAMES",P005918   ,Turnover (2),TO,,,Crvena Zvezda mts Belgrade,0
-CSK       ,,42,08:12,22,313,"HINES, KYLE",P002812   ,Steal (3),ST,,,CSKA Moscow,0
-CSK       ,,21,08:08,22,314,"CLYBURN, WILL",P004888   ,Missed Two Pointer (1/4 -  2 pt),2FGA,,,CSKA Moscow,0
-RED       ,,51,08:06,22,315,"BJELICA, MILKO",PCHX      ,Def Rebound (3),D,,,Crvena Zvezda mts Belgrade,0
-RED       ,,22,07:51,23,317,"ROCHESTIE, TAYLOR",P002972   ,Turnover (1),TO,,,Crvena Zvezda mts Belgrade,0
-RED       ,,5,07:51,23,318,"RADICEVIC, NIKOLA",P002561   ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,22,07:51,23,319,"ROCHESTIE, TAYLOR",P002972   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,51,07:35,23,320,"BJELICA, MILKO",PCHX      ,Foul (1),CM,,,Crvena Zvezda mts Belgrade,0
-CSK       ,,42,07:35,23,321,"HINES, KYLE",P002812   ,Foul Drawn (4),RV,,,CSKA Moscow,0
-CSK       ,,41,07:32,23,322,"KURBANOV, NIKITA",PJLX      ,Turnover (1),TO,,,CSKA Moscow,0
-CSK       ,,31,07:19,23,323,"KHRYAPA, VICTOR",PBCQ      ,Foul (3),CM,,,CSKA Moscow,0
-RED       ,,51,07:19,23,324,"BJELICA, MILKO",PCHX      ,Foul Drawn (2),RV,,,Crvena Zvezda mts Belgrade,0
-RED       ,,5,07:13,23,325,"RADICEVIC, NIKOLA",P002561   ,Missed Two Pointer (0/3 -  2 pt),2FGA,,,Crvena Zvezda mts Belgrade,0
-CSK       ,,31,07:10,23,326,"KHRYAPA, VICTOR",PBCQ      ,Def Rebound (2),D,,,CSKA Moscow,0
-RED       ,,5,07:02,23,327,"RADICEVIC, NIKOLA",P002561   ,Foul (3),CM,,,Crvena Zvezda mts Belgrade,0
-CSK       ,,41,07:02,23,328,"KURBANOV, NIKITA",PJLX      ,Foul Drawn (1),RV,,,CSKA Moscow,0
-CSK       ,,41,06:57,24,330,"KURBANOV, NIKITA",PJLX      ,Three Pointer (1/2 -  7 pt),3FGM,27.0,53.0,CSKA Moscow,0
-CSK       ,,42,06:57,24,331,"HINES, KYLE",P002812   ,Assist (2),AS,,,CSKA Moscow,0
-RED       ,,,06:56,24,332,,          ,Time Out (1),TOUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,12,06:56,24,333,"ANTIC, PERO",PBAE      ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,26,06:56,24,334,"LESSORT, MATHIAS",P003842   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,14,06:36,24,335,"FELDEINE, JAMES",P005918   ,Missed Three Pointer (0/5 -  2 pt),3FGA,,,Crvena Zvezda mts Belgrade,0
-CSK       ,,31,06:35,24,336,"KHRYAPA, VICTOR",PBCQ      ,Def Rebound (3),D,,,CSKA Moscow,0
-RED       ,,14,06:19,24,337,"FELDEINE, JAMES",P005918   ,Foul (2),CM,,,Crvena Zvezda mts Belgrade,0
-CSK       ,,21,06:19,24,338,"CLYBURN, WILL",P004888   ,Foul Drawn (3),RV,,,CSKA Moscow,0
-CSK       ,,42,06:10,24,339,"HINES, KYLE",P002812   ,Turnover (1),TO,,,CSKA Moscow,0
-CSK       ,,7,06:10,24,340,"FRIDZON, VITALY",PLLH      ,In,IN,,,CSKA Moscow,0
-CSK       ,,41,06:10,24,341,"KURBANOV, NIKITA",PJLX      ,Out,OUT,,,CSKA Moscow,0
-RED       ,,14,05:56,25,343,"FELDEINE, JAMES",P005918   ,Missed Two Pointer (1/5 -  2 pt),2FGA,,,Crvena Zvezda mts Belgrade,0
-CSK       ,,21,05:55,25,344,"CLYBURN, WILL",P004888   ,Def Rebound (4),D,,,CSKA Moscow,0
-CSK       ,,1,05:40,25,345,"DE COLO, NANDO",P002100   ,Turnover (3),TO,,,CSKA Moscow,0
-RED       ,,10,05:40,25,346,"LAZIC, BRANKO",PLUO      ,Steal (1),ST,,,Crvena Zvezda mts Belgrade,0
-RED       ,,14,05:34,25,347,"FELDEINE, JAMES",P005918   ,Two Pointer (2/6 -  4 pt),2FGM,29.0,53.0,Crvena Zvezda mts Belgrade,0
-RED       ,,5,05:34,25,348,"RADICEVIC, NIKOLA",P002561   ,Assist (2),AS,,,Crvena Zvezda mts Belgrade,0
-CSK       ,,21,05:11,25,349,"CLYBURN, WILL",P004888   ,Two Pointer (2/5 -  4 pt),2FGM,29.0,55.0,CSKA Moscow,0
-RED       ,,51,04:56,26,351,"BJELICA, MILKO",PCHX      ,Missed Three Pointer (0/3 -  2 pt),3FGA,,,Crvena Zvezda mts Belgrade,0
-RED       ,,10,04:56,26,352,"LAZIC, BRANKO",PLUO      ,Off Rebound (1),O,,,Crvena Zvezda mts Belgrade,0
-RED       ,,12,04:42,26,353,"ANTIC, PERO",PBAE      ,Turnover (2),TO,,,Crvena Zvezda mts Belgrade,0
-CSK       ,,1,04:42,26,354,"DE COLO, NANDO",P002100   ,Out,OUT,,,CSKA Moscow,0
-CSK       ,,13,04:42,26,355,"RODRIGUEZ, SERGIO",PCVM      ,In,IN,,,CSKA Moscow,0
-CSK       ,,42,04:34,26,356,"HINES, KYLE",P002812   ,Offensive Foul (1),OF,,,CSKA Moscow,0
-CSK       ,,42,04:34,26,357,"HINES, KYLE",P002812   ,Turnover (2),TO,,,CSKA Moscow,0
-RED       ,,12,04:34,26,358,"ANTIC, PERO",PBAE      ,Foul Drawn (4),RV,,,Crvena Zvezda mts Belgrade,0
-RED       ,,5,04:34,26,359,"RADICEVIC, NIKOLA",P002561   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,22,04:34,26,360,"ROCHESTIE, TAYLOR",P002972   ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,51,04:22,26,361,"BJELICA, MILKO",PCHX      ,Missed Three Pointer (0/4 -  2 pt),3FGA,,,Crvena Zvezda mts Belgrade,0
-CSK       ,,42,04:21,26,362,"HINES, KYLE",P002812   ,Def Rebound (6),D,,,CSKA Moscow,0
-CSK       ,,21,04:08,26,363,"CLYBURN, WILL",P004888   ,Two Pointer (3/6 -  6 pt),2FGM,29.0,57.0,CSKA Moscow,0
-RED       ,,10,04:08,26,364,"LAZIC, BRANKO",PLUO      ,Foul (3),CM,,,Crvena Zvezda mts Belgrade,0
-CSK       ,,21,04:08,26,365,"CLYBURN, WILL",P004888   ,Foul Drawn (4),RV,,,CSKA Moscow,0
-RED       ,,4,04:08,26,366,"KESELJ, MARKO",P000577   ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,14,04:08,26,367,"FELDEINE, JAMES",P005918   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,32,04:08,26,368,"JOVANOVIC, NIKOLA",P003264   ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,51,04:08,26,369,"BJELICA, MILKO",PCHX      ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-CSK       ,,21,04:08,26,370,"CLYBURN, WILL",P004888   ,Missed Free Throw (0/3 -  6 pt),FTA,,,CSKA Moscow,0
-CSK       ,,31,04:07,26,371,"KHRYAPA, VICTOR",PBCQ      ,Off Rebound (1),O,,,CSKA Moscow,0
-CSK       ,,21,03:58,27,373,"CLYBURN, WILL",P004888   ,Out,OUT,,,CSKA Moscow,0
-CSK       ,,22,03:58,27,374,"HIGGINS, CORY",P006450   ,In,IN,,,CSKA Moscow,0
-CSK       ,,7,03:58,27,375,"FRIDZON, VITALY",PLLH      ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,CSKA Moscow,0
-RED       ,,32,03:56,27,376,"JOVANOVIC, NIKOLA",P003264   ,Def Rebound (2),D,,,Crvena Zvezda mts Belgrade,0
-CSK       ,,42,03:36,27,377,"HINES, KYLE",P002812   ,Block (2),FV,,,CSKA Moscow,0
-RED       ,,32,03:36,27,378,"JOVANOVIC, NIKOLA",P003264   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,Crvena Zvezda mts Belgrade,0
-RED       ,,32,03:36,27,379,"JOVANOVIC, NIKOLA",P003264   ,Shot Rejected (1),AG,,,Crvena Zvezda mts Belgrade,0
-RED       ,,12,03:35,27,380,"ANTIC, PERO",PBAE      ,Off Rebound (2),O,,,Crvena Zvezda mts Belgrade,0
-RED       ,,4,03:33,27,381,"KESELJ, MARKO",P000577   ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,Crvena Zvezda mts Belgrade,0
-CSK       ,,22,03:33,27,382,"HIGGINS, CORY",P006450   ,Foul (2),CM,,,CSKA Moscow,0
-RED       ,,32,03:29,27,383,"JOVANOVIC, NIKOLA",P003264   ,Foul Drawn (1),RV,,,Crvena Zvezda mts Belgrade,0
-RED       ,,32,03:29,27,384,"JOVANOVIC, NIKOLA",P003264   ,Off Rebound (1),O,,,Crvena Zvezda mts Belgrade,0
-CSK       ,,20,03:29,27,385,"VORONTSEVICH, ANDREY",PLHI      ,In,IN,,,CSKA Moscow,0
-CSK       ,,31,03:29,27,386,"KHRYAPA, VICTOR",PBCQ      ,Out,OUT,,,CSKA Moscow,0
-RED       ,,22,03:27,27,387,"ROCHESTIE, TAYLOR",P002972   ,Two Pointer (4/4 -  11 pt),2FGM,31.0,57.0,Crvena Zvezda mts Belgrade,0
-RED       ,,10,03:13,27,388,"LAZIC, BRANKO",PLUO      ,Foul (4),CM,,,Crvena Zvezda mts Belgrade,0
-CSK       ,,22,03:13,27,389,"HIGGINS, CORY",P006450   ,Foul Drawn (1),RV,,,CSKA Moscow,0
-RED       ,,6,03:13,27,390,"DANGUBIC, NEMANJA",P005942   ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,10,03:13,27,391,"LAZIC, BRANKO",PLUO      ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-CSK       ,,22,03:13,27,392,"HIGGINS, CORY",P006450   ,Free Throw In (1/1 -  7 pt),FTM,31.0,58.0,CSKA Moscow,0
-CSK       ,,22,03:13,27,393,"HIGGINS, CORY",P006450   ,Free Throw In (2/2 -  8 pt),FTM,31.0,59.0,CSKA Moscow,0
-CSK       ,,42,03:07,27,394,"HINES, KYLE",P002812   ,Foul (2),CM,,,CSKA Moscow,0
-RED       ,,6,03:07,27,395,"DANGUBIC, NEMANJA",P005942   ,Foul Drawn (1),RV,,,Crvena Zvezda mts Belgrade,0
-RED       ,,6,03:07,27,396,"DANGUBIC, NEMANJA",P005942   ,Missed Free Throw (0/1 -  0 pt),FTA,,,Crvena Zvezda mts Belgrade,0
-RED       ,,6,03:07,27,397,"DANGUBIC, NEMANJA",P005942   ,Free Throw In (1/2 -  1 pt),FTM,32.0,59.0,Crvena Zvezda mts Belgrade,0
-RED       ,,22,03:07,27,398,"ROCHESTIE, TAYLOR",P002972   ,Assist (2),AS,,,Crvena Zvezda mts Belgrade,0
-CSK       ,,42,03:07,27,399,"HINES, KYLE",P002812   ,Out,OUT,,,CSKA Moscow,0
-CSK       ,,44,03:07,27,400,"HUNTER, OTHELLO",P005160   ,In,IN,,,CSKA Moscow,0
-CSK       ,,20,02:53,28,402,"VORONTSEVICH, ANDREY",PLHI      ,Missed Three Pointer (1/2 -  6 pt),3FGA,,,CSKA Moscow,0
-CSK       ,,44,02:52,28,403,"HUNTER, OTHELLO",P005160   ,Off Rebound (3),O,,,CSKA Moscow,0
-CSK       ,,13,02:37,28,404,"RODRIGUEZ, SERGIO",PCVM      ,Two Pointer (1/2 -  8 pt),2FGM,32.0,61.0,CSKA Moscow,0
-RED       ,,5,02:26,28,405,"RADICEVIC, NIKOLA",P002561   ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,22,02:26,28,406,"ROCHESTIE, TAYLOR",P002972   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-CSK       ,,44,02:22,28,407,"HUNTER, OTHELLO",P005160   ,Foul (1),CM,,,CSKA Moscow,0
-RED       ,,5,02:22,28,408,"RADICEVIC, NIKOLA",P002561   ,Foul Drawn (2),RV,,,Crvena Zvezda mts Belgrade,0
-RED       ,,5,02:22,28,409,"RADICEVIC, NIKOLA",P002561   ,Missed Free Throw (2/3 -  2 pt),FTA,,,Crvena Zvezda mts Belgrade,0
-RED       ,,5,02:22,28,410,"RADICEVIC, NIKOLA",P002561   ,Missed Free Throw (2/4 -  2 pt),FTA,,,Crvena Zvezda mts Belgrade,0
-CSK       ,,22,02:21,28,411,"HIGGINS, CORY",P006450   ,Def Rebound (2),D,,,CSKA Moscow,0
-CSK       ,,7,02:09,28,412,"FRIDZON, VITALY",PLLH      ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,CSKA Moscow,0
-RED       ,,32,02:08,28,413,"JOVANOVIC, NIKOLA",P003264   ,Def Rebound (3),D,,,Crvena Zvezda mts Belgrade,0
-RED       ,,32,01:59,29,415,"JOVANOVIC, NIKOLA",P003264   ,Offensive Foul (1),OF,,,Crvena Zvezda mts Belgrade,0
-RED       ,,32,01:59,29,416,"JOVANOVIC, NIKOLA",P003264   ,Turnover (1),TO,,,Crvena Zvezda mts Belgrade,0
-CSK       ,,20,01:59,29,417,"VORONTSEVICH, ANDREY",PLHI      ,Foul Drawn (2),RV,,,CSKA Moscow,0
-CSK       ,,13,01:59,29,418,"RODRIGUEZ, SERGIO",PCVM      ,Out,OUT,,,CSKA Moscow,0
-CSK       ,,30,01:59,29,419,"KULAGIN, MIKHAIL",P002276   ,In,IN,,,CSKA Moscow,0
-CSK       ,,7,01:40,29,420,"FRIDZON, VITALY",PLLH      ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,CSKA Moscow,0
-RED       ,,12,01:34,29,421,"ANTIC, PERO",PBAE      ,Def Rebound (2),D,,,Crvena Zvezda mts Belgrade,0
-RED       ,,12,01:23,29,422,"ANTIC, PERO",PBAE      ,Missed Two Pointer (0/1 -  5 pt),2FGA,,,Crvena Zvezda mts Belgrade,0
-RED       ,,32,01:18,29,423,"JOVANOVIC, NIKOLA",P003264   ,Off Rebound (2),O,,,Crvena Zvezda mts Belgrade,0
-CSK       ,,44,01:10,29,424,"HUNTER, OTHELLO",P005160   ,Block (2),FV,,,CSKA Moscow,0
-RED       ,,32,01:08,29,425,"JOVANOVIC, NIKOLA",P003264   ,Missed Two Pointer (1/3 -  2 pt),2FGA,,,Crvena Zvezda mts Belgrade,0
-RED       ,,32,01:08,29,426,"JOVANOVIC, NIKOLA",P003264   ,Shot Rejected (2),AG,,,Crvena Zvezda mts Belgrade,0
-CSK       ,,22,00:59,30,428,"HIGGINS, CORY",P006450   ,Def Rebound (3),D,,,CSKA Moscow,0
-CSK       ,,22,00:59,30,429,"HIGGINS, CORY",P006450   ,Two Pointer (4/4 -  10 pt),2FGM,32.0,63.0,CSKA Moscow,0
-RED       ,,,00:58,30,430,,          ,Time Out (2),TOUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,12,00:58,30,431,"ANTIC, PERO",PBAE      ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,26,00:58,30,432,"LESSORT, MATHIAS",P003842   ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,32,00:58,30,433,"JOVANOVIC, NIKOLA",P003264   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,51,00:58,30,434,"BJELICA, MILKO",PCHX      ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,6,00:42,30,435,"DANGUBIC, NEMANJA",P005942   ,Turnover (2),TO,,,Crvena Zvezda mts Belgrade,0
-CSK       ,,22,00:42,30,436,"HIGGINS, CORY",P006450   ,Steal (1),ST,,,CSKA Moscow,0
-RED       ,,51,00:29,30,437,"BJELICA, MILKO",PCHX      ,Foul (2),CM,,,Crvena Zvezda mts Belgrade,0
-CSK       ,,22,00:29,30,438,"HIGGINS, CORY",P006450   ,Foul Drawn (2),RV,,,CSKA Moscow,0
-CSK       ,,22,00:29,30,439,"HIGGINS, CORY",P006450   ,Free Throw In (3/3 -  11 pt),FTM,32.0,64.0,CSKA Moscow,0
-CSK       ,,22,00:29,30,440,"HIGGINS, CORY",P006450   ,Free Throw In (4/4 -  12 pt),FTM,32.0,65.0,CSKA Moscow,0
-CSK       ,,22,00:13,30,441,"HIGGINS, CORY",P006450   ,Foul (3),CM,,,CSKA Moscow,0
-RED       ,,26,00:13,30,442,"LESSORT, MATHIAS",P003842   ,Foul Drawn (3),RV,,,Crvena Zvezda mts Belgrade,0
-RED       ,,26,00:13,30,443,"LESSORT, MATHIAS",P003842   ,Free Throw In (4/5 -  6 pt),FTM,33.0,65.0,Crvena Zvezda mts Belgrade,0
-RED       ,,26,00:13,30,444,"LESSORT, MATHIAS",P003842   ,Free Throw In (5/6 -  7 pt),FTM,34.0,65.0,Crvena Zvezda mts Belgrade,0
-CSK       ,,30,00:00,30,445,"KULAGIN, MIKHAIL",P002276   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,CSKA Moscow,0
-CSK       ,,44,00:00,30,446,"HUNTER, OTHELLO",P005160   ,Off Rebound (4),O,,,CSKA Moscow,0
-          ,,,,31,448,,          ,End Period,EP,,,,0
-          ,,,,31,453,,          ,Begin Period,BP,,,,0
-RED       ,,4,10:00,31,449,"KESELJ, MARKO",P000577   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,5,10:00,31,450,"RADICEVIC, NIKOLA",P002561   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,14,10:00,31,451,"FELDEINE, JAMES",P005918   ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,22,10:00,31,452,"ROCHESTIE, TAYLOR",P002972   ,In,IN,,,Crvena Zvezda mts Belgrade,0
-CSK       ,,30,09:46,31,454,"KULAGIN, MIKHAIL",P002276   ,Foul (1),CM,,,CSKA Moscow,0
-RED       ,,14,09:46,31,455,"FELDEINE, JAMES",P005918   ,Foul Drawn (1),RV,,,Crvena Zvezda mts Belgrade,0
-RED       ,,14,09:46,31,456,"FELDEINE, JAMES",P005918   ,Missed Free Throw (0/1 -  4 pt),FTA,,,Crvena Zvezda mts Belgrade,0
-RED       ,,14,09:46,31,457,"FELDEINE, JAMES",P005918   ,Free Throw In (1/2 -  5 pt),FTM,35.0,65.0,Crvena Zvezda mts Belgrade,0
-RED       ,,22,09:46,31,458,"ROCHESTIE, TAYLOR",P002972   ,Assist (3),AS,,,Crvena Zvezda mts Belgrade,0
-CSK       ,,7,09:29,31,459,"FRIDZON, VITALY",PLLH      ,Turnover (1),TO,,,CSKA Moscow,0
-RED       ,,14,09:29,31,460,"FELDEINE, JAMES",P005918   ,Steal (1),ST,,,Crvena Zvezda mts Belgrade,0
-CSK       ,,22,09:25,31,461,"HIGGINS, CORY",P006450   ,Foul (4),CM,,,CSKA Moscow,0
-RED       ,,6,09:25,31,462,"DANGUBIC, NEMANJA",P005942   ,Foul Drawn (2),RV,,,Crvena Zvezda mts Belgrade,0
-RED       ,,6,09:25,31,463,"DANGUBIC, NEMANJA",P005942   ,Free Throw In (2/3 -  2 pt),FTM,36.0,65.0,Crvena Zvezda mts Belgrade,0
-RED       ,,14,09:25,31,464,"FELDEINE, JAMES",P005918   ,Assist (2),AS,,,Crvena Zvezda mts Belgrade,0
-RED       ,,6,09:25,31,465,"DANGUBIC, NEMANJA",P005942   ,Missed Free Throw (2/4 -  2 pt),FTA,,,Crvena Zvezda mts Belgrade,0
-CSK       ,,44,09:24,31,466,"HUNTER, OTHELLO",P005160   ,Def Rebound (3),D,,,CSKA Moscow,0
-CSK       ,,7,09:07,31,467,"FRIDZON, VITALY",PLLH      ,Turnover (2),TO,,,CSKA Moscow,0
-RED       ,,22,09:07,31,468,"ROCHESTIE, TAYLOR",P002972   ,Steal (1),ST,,,Crvena Zvezda mts Belgrade,0
-RED       ,,22,08:57,32,470,"ROCHESTIE, TAYLOR",P002972   ,Two Pointer (5/5 -  13 pt),2FGM,38.0,65.0,Crvena Zvezda mts Belgrade,0
-RED       ,,14,08:57,32,471,"FELDEINE, JAMES",P005918   ,Assist (3),AS,,,Crvena Zvezda mts Belgrade,0
-RED       ,,6,08:46,32,472,"DANGUBIC, NEMANJA",P005942   ,Foul (2),CM,,,Crvena Zvezda mts Belgrade,0
-CSK       ,,30,08:46,32,473,"KULAGIN, MIKHAIL",P002276   ,Foul Drawn (1),RV,,,CSKA Moscow,0
-CSK       ,,1,08:46,32,474,"DE COLO, NANDO",P002100   ,In,IN,,,CSKA Moscow,0
-CSK       ,,22,08:46,32,475,"HIGGINS, CORY",P006450   ,Out,OUT,,,CSKA Moscow,0
-CSK       ,,30,08:37,32,476,"KULAGIN, MIKHAIL",P002276   ,Turnover (1),TO,,,CSKA Moscow,0
-RED       ,,22,08:37,32,477,"ROCHESTIE, TAYLOR",P002972   ,Steal (2),ST,,,Crvena Zvezda mts Belgrade,0
-RED       ,,14,08:33,32,478,"FELDEINE, JAMES",P005918   ,Two Pointer (3/7 -  7 pt),2FGM,40.0,65.0,Crvena Zvezda mts Belgrade,0
-RED       ,,22,08:33,32,479,"ROCHESTIE, TAYLOR",P002972   ,Assist (4),AS,,,Crvena Zvezda mts Belgrade,0
-CSK       ,,20,08:31,32,480,"VORONTSEVICH, ANDREY",PLHI      ,Foul (3),CM,,,CSKA Moscow,0
-RED       ,,14,08:31,32,481,"FELDEINE, JAMES",P005918   ,Foul Drawn (2),RV,,,Crvena Zvezda mts Belgrade,0
-RED       ,,14,08:31,32,482,"FELDEINE, JAMES",P005918   ,Missed Free Throw (1/3 -  7 pt),FTA,,,Crvena Zvezda mts Belgrade,0
-CSK       ,,44,08:30,32,483,"HUNTER, OTHELLO",P005160   ,Def Rebound (4),D,,,CSKA Moscow,0
-CSK       ,,1,08:16,32,484,"DE COLO, NANDO",P002100   ,Two Pointer (5/6 -  12 pt),2FGM,40.0,67.0,CSKA Moscow,0
-RED       ,,22,08:02,32,485,"ROCHESTIE, TAYLOR",P002972   ,Missed Three Pointer (1/3 -  13 pt),3FGA,,,Crvena Zvezda mts Belgrade,0
-RED       ,,6,08:01,32,486,"DANGUBIC, NEMANJA",P005942   ,Off Rebound (1),O,,,Crvena Zvezda mts Belgrade,0
-RED       ,,6,08:00,32,487,"DANGUBIC, NEMANJA",P005942   ,Missed Two Pointer (0/2 -  2 pt),2FGA,,,Crvena Zvezda mts Belgrade,0
-CSK       ,,44,07:55,33,489,"HUNTER, OTHELLO",P005160   ,Def Rebound (5),D,,,CSKA Moscow,0
-RED       ,,6,07:55,33,490,"DANGUBIC, NEMANJA",P005942   ,Foul (3),CM,,,Crvena Zvezda mts Belgrade,0
-CSK       ,,1,07:55,33,491,"DE COLO, NANDO",P002100   ,Foul Drawn (4),RV,,,CSKA Moscow,0
-CSK       ,,1,07:39,33,492,"DE COLO, NANDO",P002100   ,Missed Two Pointer (5/7 -  12 pt),2FGA,,,CSKA Moscow,0
-RED       ,,26,07:38,33,493,"LESSORT, MATHIAS",P003842   ,Def Rebound (2),D,,,Crvena Zvezda mts Belgrade,0
-CSK       ,,44,07:28,33,494,"HUNTER, OTHELLO",P005160   ,Foul (2),CM,,,CSKA Moscow,0
-RED       ,,51,07:28,33,495,"BJELICA, MILKO",PCHX      ,Foul Drawn (3),RV,,,Crvena Zvezda mts Belgrade,0
-RED       ,,51,07:28,33,496,"BJELICA, MILKO",PCHX      ,Free Throw In (1/1 -  3 pt),FTM,41.0,67.0,Crvena Zvezda mts Belgrade,0
-RED       ,,22,07:28,33,497,"ROCHESTIE, TAYLOR",P002972   ,Assist (5),AS,,,Crvena Zvezda mts Belgrade,0
-RED       ,,51,07:28,33,498,"BJELICA, MILKO",PCHX      ,Missed Free Throw (1/2 -  3 pt),FTA,,,Crvena Zvezda mts Belgrade,0
-CSK       ,,44,07:28,33,499,"HUNTER, OTHELLO",P005160   ,Def Rebound (6),D,,,CSKA Moscow,0
-CSK       ,,44,07:08,33,500,"HUNTER, OTHELLO",P005160   ,Two Pointer (2/3 -  5 pt),2FGM,41.0,69.0,CSKA Moscow,0
-CSK       ,,30,07:08,33,501,"KULAGIN, MIKHAIL",P002276   ,Assist (1),AS,,,CSKA Moscow,0
-CSK       ,,7,07:02,33,502,"FRIDZON, VITALY",PLLH      ,Foul (1),CM,,,CSKA Moscow,0
-RED       ,,22,07:02,33,503,"ROCHESTIE, TAYLOR",P002972   ,Foul Drawn (4),RV,,,Crvena Zvezda mts Belgrade,0
-RED       ,,6,07:02,33,504,"DANGUBIC, NEMANJA",P005942   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,10,07:02,33,505,"LAZIC, BRANKO",PLUO      ,In,IN,,,Crvena Zvezda mts Belgrade,0
-CSK       ,,7,07:02,33,506,"FRIDZON, VITALY",PLLH      ,Out,OUT,,,CSKA Moscow,0
-CSK       ,,11,07:02,33,507,"ANTONOV, SEMEN",P004941   ,In,IN,,,CSKA Moscow,0
-CSK       ,,13,07:02,33,508,"RODRIGUEZ, SERGIO",PCVM      ,In,IN,,,CSKA Moscow,0
-CSK       ,,20,07:02,33,509,"VORONTSEVICH, ANDREY",PLHI      ,Out,OUT,,,CSKA Moscow,0
-RED       ,,22,07:02,33,510,"ROCHESTIE, TAYLOR",P002972   ,Free Throw In (1/1 -  14 pt),FTM,42.0,69.0,Crvena Zvezda mts Belgrade,0
-RED       ,,22,07:02,33,511,"ROCHESTIE, TAYLOR",P002972   ,Free Throw In (2/2 -  15 pt),FTM,43.0,69.0,Crvena Zvezda mts Belgrade,0
-CSK       ,,1,06:44,34,513,"DE COLO, NANDO",P002100   ,Turnover (4),TO,,,CSKA Moscow,0
-CSK       ,,11,06:25,34,514,"ANTONOV, SEMEN",P004941   ,Block (1),FV,,,CSKA Moscow,0
-RED       ,,14,06:25,34,515,"FELDEINE, JAMES",P005918   ,Missed Two Pointer (3/8 -  7 pt),2FGA,,,Crvena Zvezda mts Belgrade,0
-RED       ,,14,06:25,34,516,"FELDEINE, JAMES",P005918   ,Shot Rejected (2),AG,,,Crvena Zvezda mts Belgrade,0
-CSK       ,,1,06:18,34,517,"DE COLO, NANDO",P002100   ,Def Rebound (1),D,,,CSKA Moscow,0
-CSK       ,,13,06:14,34,518,"RODRIGUEZ, SERGIO",PCVM      ,Missed Three Pointer (2/4 -  8 pt),3FGA,,,CSKA Moscow,0
-RED       ,,14,06:12,34,519,"FELDEINE, JAMES",P005918   ,Def Rebound (2),D,,,Crvena Zvezda mts Belgrade,0
-RED       ,,14,06:08,34,520,"FELDEINE, JAMES",P005918   ,Two Pointer (4/9 -  9 pt),2FGM,45.0,69.0,Crvena Zvezda mts Belgrade,0
-RED       ,,26,05:46,35,522,"LESSORT, MATHIAS",P003842   ,Foul (1),CM,,,Crvena Zvezda mts Belgrade,0
-CSK       ,,44,05:46,35,523,"HUNTER, OTHELLO",P005160   ,Foul Drawn (2),RV,,,CSKA Moscow,0
-CSK       ,,13,05:33,35,524,"RODRIGUEZ, SERGIO",PCVM      ,Three Pointer (3/5 -  11 pt),3FGM,45.0,72.0,CSKA Moscow,0
-RED       ,,14,05:12,35,525,"FELDEINE, JAMES",P005918   ,Three Pointer (1/6 -  12 pt),3FGM,48.0,72.0,Crvena Zvezda mts Belgrade,0
-RED       ,,14,04:56,36,527,"FELDEINE, JAMES",P005918   ,Foul (3),CM,,,Crvena Zvezda mts Belgrade,0
-CSK       ,,1,04:56,36,528,"DE COLO, NANDO",P002100   ,Foul Drawn (5),RV,,,CSKA Moscow,0
-          ,,,04:56,36,529,,          ,TV Time Out (2),TOUT_TV,,,,0
-RED       ,,12,04:56,36,530,"ANTIC, PERO",PBAE      ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,26,04:56,36,531,"LESSORT, MATHIAS",P003842   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-CSK       ,,7,04:56,36,532,"FRIDZON, VITALY",PLLH      ,In,IN,,,CSKA Moscow,0
-CSK       ,,30,04:56,36,533,"KULAGIN, MIKHAIL",P002276   ,Out,OUT,,,CSKA Moscow,0
-CSK       ,,1,04:51,36,534,"DE COLO, NANDO",P002100   ,Two Pointer (6/8 -  14 pt),2FGM,48.0,74.0,CSKA Moscow,0
-CSK       ,,13,04:51,36,535,"RODRIGUEZ, SERGIO",PCVM      ,Assist (8),AS,,,CSKA Moscow,0
-RED       ,,22,04:39,36,536,"ROCHESTIE, TAYLOR",P002972   ,Turnover (2),TO,,,Crvena Zvezda mts Belgrade,0
-CSK       ,,44,04:39,36,537,"HUNTER, OTHELLO",P005160   ,Steal (1),ST,,,CSKA Moscow,0
-CSK       ,,1,04:31,36,538,"DE COLO, NANDO",P002100   ,Two Pointer (7/9 -  16 pt),2FGM,48.0,76.0,CSKA Moscow,0
-CSK       ,,13,04:29,36,539,"RODRIGUEZ, SERGIO",PCVM      ,Assist (9),AS,,,CSKA Moscow,0
-CSK       ,,11,04:19,36,540,"ANTONOV, SEMEN",P004941   ,Foul (2),CM,,,CSKA Moscow,0
-RED       ,,12,04:19,36,541,"ANTIC, PERO",PBAE      ,Foul Drawn (5),RV,,,Crvena Zvezda mts Belgrade,0
-CSK       ,,1,04:19,36,542,"DE COLO, NANDO",P002100   ,Out,OUT,,,CSKA Moscow,0
-CSK       ,,20,04:19,36,543,"VORONTSEVICH, ANDREY",PLHI      ,In,IN,,,CSKA Moscow,0
-CSK       ,,30,04:19,36,544,"KULAGIN, MIKHAIL",P002276   ,In,IN,,,CSKA Moscow,0
-CSK       ,,44,04:19,36,545,"HUNTER, OTHELLO",P005160   ,Out,OUT,,,CSKA Moscow,0
-RED       ,,12,04:19,36,546,"ANTIC, PERO",PBAE      ,Free Throw In (3/4 -  6 pt),FTM,49.0,76.0,Crvena Zvezda mts Belgrade,0
-RED       ,,12,04:19,36,547,"ANTIC, PERO",PBAE      ,Free Throw In (4/5 -  7 pt),FTM,50.0,76.0,Crvena Zvezda mts Belgrade,0
-CSK       ,,13,03:57,37,549,"RODRIGUEZ, SERGIO",PCVM      ,Missed Three Pointer (3/6 -  11 pt),3FGA,,,CSKA Moscow,0
-CSK       ,,20,03:50,37,550,"VORONTSEVICH, ANDREY",PLHI      ,Off Rebound (1),O,,,CSKA Moscow,0
-CSK       ,,7,03:44,37,551,"FRIDZON, VITALY",PLLH      ,Missed Three Pointer (0/3 -  0 pt),3FGA,,,CSKA Moscow,0
-RED       ,,10,03:43,37,552,"LAZIC, BRANKO",PLUO      ,Def Rebound (2),D,,,Crvena Zvezda mts Belgrade,0
-RED       ,,51,03:23,37,553,"BJELICA, MILKO",PCHX      ,Missed Two Pointer (1/5 -  3 pt),2FGA,,,Crvena Zvezda mts Belgrade,0
-RED       ,,51,03:23,37,554,"BJELICA, MILKO",PCHX      ,Off Rebound (3),O,,,Crvena Zvezda mts Belgrade,0
-RED       ,,51,03:23,37,555,"BJELICA, MILKO",PCHX      ,Two Pointer (2/6 -  5 pt),2FGM,52.0,76.0,Crvena Zvezda mts Belgrade,0
-CSK       ,,20,03:03,37,556,"VORONTSEVICH, ANDREY",PLHI      ,Missed Three Pointer (1/3 -  6 pt),3FGA,,,CSKA Moscow,0
-RED       ,,10,03:03,37,557,"LAZIC, BRANKO",PLUO      ,Def Rebound (3),D,,,Crvena Zvezda mts Belgrade,0
-RED       ,,51,02:54,38,559,"BJELICA, MILKO",PCHX      ,Two Pointer (3/7 -  7 pt),2FGM,54.0,76.0,Crvena Zvezda mts Belgrade,0
-RED       ,,10,02:54,38,560,"LAZIC, BRANKO",PLUO      ,Assist (1),AS,,,Crvena Zvezda mts Belgrade,0
-RED       ,,51,02:40,38,561,"BJELICA, MILKO",PCHX      ,Foul (3),CM,,,Crvena Zvezda mts Belgrade,0
-CSK       ,,7,02:40,38,562,"FRIDZON, VITALY",PLLH      ,Foul Drawn (1),RV,,,CSKA Moscow,0
-RED       ,,4,02:40,38,563,"KESELJ, MARKO",P000577   ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,5,02:40,38,564,"RADICEVIC, NIKOLA",P002561   ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,14,02:40,38,565,"FELDEINE, JAMES",P005918   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,22,02:40,38,566,"ROCHESTIE, TAYLOR",P002972   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-CSK       ,,7,02:40,38,567,"FRIDZON, VITALY",PLLH      ,Missed Free Throw (0/1 -  0 pt),FTA,,,CSKA Moscow,0
-CSK       ,,7,02:40,38,568,"FRIDZON, VITALY",PLLH      ,Free Throw In (1/2 -  1 pt),FTM,54.0,77.0,CSKA Moscow,0
-CSK       ,,30,02:40,38,569,"KULAGIN, MIKHAIL",P002276   ,Assist (2),AS,,,CSKA Moscow,0
-CSK       ,,7,02:21,38,570,"FRIDZON, VITALY",PLLH      ,Foul (2),CM,,,CSKA Moscow,0
-RED       ,,51,02:21,38,571,"BJELICA, MILKO",PCHX      ,Foul Drawn (4),RV,,,Crvena Zvezda mts Belgrade,0
-RED       ,,51,02:21,38,572,"BJELICA, MILKO",PCHX      ,Missed Free Throw (1/3 -  7 pt),FTA,,,Crvena Zvezda mts Belgrade,0
-RED       ,,51,02:21,38,573,"BJELICA, MILKO",PCHX      ,Free Throw In (2/4 -  8 pt),FTM,55.0,77.0,Crvena Zvezda mts Belgrade,0
-RED       ,,32,02:21,38,574,"JOVANOVIC, NIKOLA",P003264   ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,51,02:21,38,575,"BJELICA, MILKO",PCHX      ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-CSK       ,,30,02:04,38,576,"KULAGIN, MIKHAIL",P002276   ,Two Pointer (1/1 -  2 pt),2FGM,55.0,79.0,CSKA Moscow,0
-CSK       ,,,01:58,39,578,,          ,Time Out (1),TOUT,,,CSKA Moscow,0
-RED       ,,4,01:44,39,579,"KESELJ, MARKO",P000577   ,Turnover (1),TO,,,Crvena Zvezda mts Belgrade,0
-CSK       ,,30,01:42,39,580,"KULAGIN, MIKHAIL",P002276   ,Steal (1),ST,,,CSKA Moscow,0
-CSK       ,,,01:19,39,581,,          ,Turnover (2),TO,,,CSKA Moscow,0
-RED       ,,32,01:02,39,582,"JOVANOVIC, NIKOLA",P003264   ,Missed Two Pointer (1/4 -  2 pt),2FGA,,,Crvena Zvezda mts Belgrade,0
-RED       ,,12,01:01,39,583,"ANTIC, PERO",PBAE      ,Off Rebound (3),O,,,Crvena Zvezda mts Belgrade,0
-RED       ,,12,01:01,39,584,"ANTIC, PERO",PBAE      ,Two Pointer (1/2 -  9 pt),2FGM,57.0,79.0,Crvena Zvezda mts Belgrade,0
-CSK       ,,30,00:47,40,586,"KULAGIN, MIKHAIL",P002276   ,Three Pointer (1/2 -  5 pt),3FGM,57.0,82.0,CSKA Moscow,0
-RED       ,,5,00:36,40,587,"RADICEVIC, NIKOLA",P002561   ,Missed Two Pointer (0/4 -  2 pt),2FGA,,,Crvena Zvezda mts Belgrade,0
-RED       ,,32,00:34,40,588,"JOVANOVIC, NIKOLA",P003264   ,Off Rebound (3),O,,,Crvena Zvezda mts Belgrade,0
-RED       ,,32,00:34,40,589,"JOVANOVIC, NIKOLA",P003264   ,Two Pointer (2/5 -  4 pt),2FGM,59.0,82.0,Crvena Zvezda mts Belgrade,0
-CSK       ,,20,00:21,40,590,"VORONTSEVICH, ANDREY",PLHI      ,Three Pointer (2/4 -  9 pt),3FGM,59.0,85.0,CSKA Moscow,0
-CSK       ,,30,00:21,40,591,"KULAGIN, MIKHAIL",P002276   ,Assist (3),AS,,,CSKA Moscow,0
-RED       ,,12,00:09,40,592,"ANTIC, PERO",PBAE      ,Missed Three Pointer (1/5 -  9 pt),3FGA,,,Crvena Zvezda mts Belgrade,0
-RED       ,,4,00:09,40,593,"KESELJ, MARKO",P000577   ,Off Rebound (1),O,,,Crvena Zvezda mts Belgrade,0
-RED       ,,10,00:02,40,594,"LAZIC, BRANKO",PLUO      ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Crvena Zvezda mts Belgrade,0
-CSK       ,,11,00:02,40,595,"ANTONOV, SEMEN",P004941   ,Def Rebound (2),D,,,CSKA Moscow,0
-          ,,,,41,598,,          ,End Game,EG,,,,0
+CODETEAM,COMMENT,DORSAL,MARKERTIME,MINUTE,NUMBEROFPLAY,PLAYER,PLAYER_ID,PLAYINFO,PLAYTYPE,POINTS_A,POINTS_B,TEAM,TYPE,home_team,home_team_code,away_team,away_team_code
+          ,,,,1,2,,          ,Begin Period,BP,,,,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,41,09:48,1,3,"KURBANOV, NIKITA",PJLX      ,Two Pointer (1/1 -  2 pt),2FGM,,2.0,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,14,09:26,1,4,"FELDEINE, JAMES",P005918   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,22,09:24,1,5,"ROCHESTIE, TAYLOR",P002972   ,Off Rebound (1),O,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,22,09:21,1,6,"ROCHESTIE, TAYLOR",P002972   ,Two Pointer (1/1 -  2 pt),2FGM,2.0,2.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,1,09:04,1,7,"DE COLO, NANDO",P002100   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,51,09:03,1,8,"BJELICA, MILKO",PCHX      ,Def Rebound (1),D,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,12,08:55,2,10,"ANTIC, PERO",PBAE      ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,41,08:54,2,11,"KURBANOV, NIKITA",PJLX      ,Def Rebound (1),D,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,41,08:42,2,12,"KURBANOV, NIKITA",PJLX      ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,22,08:41,2,13,"ROCHESTIE, TAYLOR",P002972   ,Def Rebound (1),D,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,1,08:21,2,14,"DE COLO, NANDO",P002100   ,Foul (1),CM,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,12,08:21,2,15,"ANTIC, PERO",PBAE      ,Foul Drawn (1),RV,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,12,08:10,2,16,"ANTIC, PERO",PBAE      ,Turnover (1),TO,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,1,08:10,2,17,"DE COLO, NANDO",P002100   ,Steal (1),ST,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,1,08:05,2,18,"DE COLO, NANDO",P002100   ,Two Pointer (1/2 -  2 pt),2FGM,2.0,4.0,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,,07:40,3,20,,          ,Turnover (1),TO,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,12,07:29,3,21,"ANTIC, PERO",PBAE      ,Foul (1),CM,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,1,07:29,3,22,"DE COLO, NANDO",P002100   ,Foul Drawn (1),RV,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,10,07:26,3,23,"LAZIC, BRANKO",PLUO      ,Foul (1),CM,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,1,07:26,3,24,"DE COLO, NANDO",P002100   ,Foul Drawn (2),RV,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,21,07:17,3,25,"CLYBURN, WILL",P004888   ,Two Pointer (1/1 -  2 pt),2FGM,2.0,6.0,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,22,07:03,3,26,"ROCHESTIE, TAYLOR",P002972   ,Two Pointer (2/2 -  4 pt),2FGM,4.0,6.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,1,06:51,4,28,"DE COLO, NANDO",P002100   ,Two Pointer (2/3 -  4 pt),2FGM,4.0,8.0,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,22,06:34,4,29,"ROCHESTIE, TAYLOR",P002972   ,Three Pointer (1/1 -  7 pt),3FGM,7.0,8.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,42,06:16,4,30,"HINES, KYLE",P002812   ,Two Pointer (1/1 -  2 pt),2FGM,7.0,10.0,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,31,06:16,4,31,"KHRYAPA, VICTOR",PBCQ      ,Assist (1),AS,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,12,05:50,5,33,"ANTIC, PERO",PBAE      ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,42,05:49,5,34,"HINES, KYLE",P002812   ,Def Rebound (1),D,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,42,05:40,5,35,"HINES, KYLE",P002812   ,Two Pointer (2/2 -  4 pt),2FGM,7.0,12.0,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,14,05:26,5,36,"FELDEINE, JAMES",P005918   ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,51,05:24,5,37,"BJELICA, MILKO",PCHX      ,Off Rebound (1),O,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,42,05:18,5,38,"HINES, KYLE",P002812   ,Block (1),FV,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,10,05:18,5,39,"LAZIC, BRANKO",PLUO      ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,10,05:18,5,40,"LAZIC, BRANKO",PLUO      ,Shot Rejected (1),AG,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,,05:18,5,41,,          ,Off Rebound (1),O,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,31,05:09,5,42,"KHRYAPA, VICTOR",PBCQ      ,Foul (1),CM,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,22,05:09,5,43,"ROCHESTIE, TAYLOR",P002972   ,Foul Drawn (1),RV,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,51,04:54,6,45,"BJELICA, MILKO",PCHX      ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,31,04:53,6,46,"KHRYAPA, VICTOR",PBCQ      ,Foul (2),CM,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,12,04:53,6,47,"ANTIC, PERO",PBAE      ,Foul Drawn (2),RV,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,12,04:53,6,48,"ANTIC, PERO",PBAE      ,Off Rebound (1),O,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+          ,,,04:53,6,49,,          ,TV Time Out (1),TOUT_TV,,,,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,12,04:53,6,50,"ANTIC, PERO",PBAE      ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,26,04:53,6,51,"LESSORT, MATHIAS",P003842   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,20,04:53,6,52,"VORONTSEVICH, ANDREY",PLHI      ,In,IN,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,31,04:53,6,53,"KHRYAPA, VICTOR",PBCQ      ,Out,OUT,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,26,04:52,6,54,"LESSORT, MATHIAS",P003842   ,Turnover (1),TO,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,42,04:52,6,55,"HINES, KYLE",P002812   ,Steal (1),ST,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,1,04:48,6,56,"DE COLO, NANDO",P002100   ,Turnover (1),TO,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,51,04:32,6,57,"BJELICA, MILKO",PCHX      ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,42,04:27,6,58,"HINES, KYLE",P002812   ,Def Rebound (2),D,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,22,04:22,6,59,"ROCHESTIE, TAYLOR",P002972   ,Foul (1),CM,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,21,04:22,6,60,"CLYBURN, WILL",P004888   ,Foul Drawn (1),RV,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,22,04:11,6,61,"ROCHESTIE, TAYLOR",P002972   ,Foul (2),CM,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,1,04:11,6,62,"DE COLO, NANDO",P002100   ,Foul Drawn (3),RV,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,5,04:11,6,63,"RADICEVIC, NIKOLA",P002561   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,22,04:11,6,64,"ROCHESTIE, TAYLOR",P002972   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,1,04:11,6,65,"DE COLO, NANDO",P002100   ,Free Throw In (1/1 -  5 pt),FTM,7.0,13.0,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,1,04:11,6,66,"DE COLO, NANDO",P002100   ,Free Throw In (2/2 -  6 pt),FTM,7.0,14.0,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,13,04:11,6,67,"RODRIGUEZ, SERGIO",PCVM      ,In,IN,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,41,04:11,6,68,"KURBANOV, NIKITA",PJLX      ,Out,OUT,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,14,03:58,7,70,"FELDEINE, JAMES",P005918   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,20,03:56,7,71,"VORONTSEVICH, ANDREY",PLHI      ,Def Rebound (1),D,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,13,03:46,7,72,"RODRIGUEZ, SERGIO",PCVM      ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,14,03:45,7,73,"FELDEINE, JAMES",P005918   ,Def Rebound (1),D,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,20,03:35,7,74,"VORONTSEVICH, ANDREY",PLHI      ,Foul (1),CM,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,26,03:35,7,75,"LESSORT, MATHIAS",P003842   ,Foul Drawn (1),RV,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,6,03:35,7,76,"DANGUBIC, NEMANJA",P005942   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,10,03:35,7,77,"LAZIC, BRANKO",PLUO      ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,1,03:35,7,78,"DE COLO, NANDO",P002100   ,Out,OUT,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,22,03:35,7,79,"HIGGINS, CORY",P006450   ,In,IN,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,42,03:35,7,80,"HINES, KYLE",P002812   ,Out,OUT,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,44,03:35,7,81,"HUNTER, OTHELLO",P005160   ,In,IN,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,26,03:35,7,82,"LESSORT, MATHIAS",P003842   ,Free Throw In (1/1 -  1 pt),FTM,8.0,14.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,51,03:35,7,83,"BJELICA, MILKO",PCHX      ,Assist (1),AS,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,26,03:35,7,84,"LESSORT, MATHIAS",P003842   ,Missed Free Throw (1/2 -  1 pt),FTA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,20,03:31,7,85,"VORONTSEVICH, ANDREY",PLHI      ,Def Rebound (2),D,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,22,03:13,7,86,"HIGGINS, CORY",P006450   ,Two Pointer (1/1 -  2 pt),2FGM,8.0,16.0,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,14,02:55,8,88,"FELDEINE, JAMES",P005918   ,Missed Three Pointer (0/3 -  0 pt),3FGA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,21,02:53,8,89,"CLYBURN, WILL",P004888   ,Def Rebound (1),D,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,22,02:35,8,90,"HIGGINS, CORY",P006450   ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,6,02:34,8,91,"DANGUBIC, NEMANJA",P005942   ,Def Rebound (1),D,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,14,02:26,8,92,"FELDEINE, JAMES",P005918   ,Two Pointer (1/2 -  2 pt),2FGM,10.0,16.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,6,02:26,8,93,"DANGUBIC, NEMANJA",P005942   ,Assist (1),AS,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,26,02:04,8,94,"LESSORT, MATHIAS",P003842   ,Block (1),FV,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,21,02:04,8,95,"CLYBURN, WILL",P004888   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,21,02:04,8,96,"CLYBURN, WILL",P004888   ,Shot Rejected (1),AG,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,22,02:04,8,97,"HIGGINS, CORY",P006450   ,Def Rebound (1),D,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,20,01:52,9,99,"VORONTSEVICH, ANDREY",PLHI      ,Block (1),FV,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,5,01:52,9,100,"RADICEVIC, NIKOLA",P002561   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,5,01:52,9,101,"RADICEVIC, NIKOLA",P002561   ,Shot Rejected (1),AG,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,21,01:52,9,102,"CLYBURN, WILL",P004888   ,Def Rebound (2),D,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,14,01:40,9,103,"FELDEINE, JAMES",P005918   ,Foul (1),CM,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,20,01:40,9,104,"VORONTSEVICH, ANDREY",PLHI      ,Foul Drawn (1),RV,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,20,01:40,9,105,"VORONTSEVICH, ANDREY",PLHI      ,Free Throw In (1/1 -  1 pt),FTM,10.0,17.0,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,20,01:40,9,106,"VORONTSEVICH, ANDREY",PLHI      ,Missed Free Throw (1/2 -  1 pt),FTA,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,51,01:40,9,107,"BJELICA, MILKO",PCHX      ,Def Rebound (2),D,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,51,01:24,9,108,"BJELICA, MILKO",PCHX      ,Turnover (1),TO,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,13,01:24,9,109,"DOBRIC, OGNJEN",P004007   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,14,01:24,9,110,"FELDEINE, JAMES",P005918   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,,01:03,9,111,,          ,Time Out (1),TOUT,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,32,01:03,9,112,"JOVANOVIC, NIKOLA",P003264   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,51,01:03,9,113,"BJELICA, MILKO",PCHX      ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,20,01:03,9,114,"VORONTSEVICH, ANDREY",PLHI      ,Two Pointer (1/1 -  3 pt),2FGM,10.0,19.0,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,22,00:56,10,116,"HIGGINS, CORY",P006450   ,Assist (1),AS,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,13,00:38,10,117,"DOBRIC, OGNJEN",P004007   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,44,00:37,10,118,"HUNTER, OTHELLO",P005160   ,Def Rebound (1),D,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,20,00:28,10,119,"VORONTSEVICH, ANDREY",PLHI      ,Three Pointer (1/1 -  6 pt),3FGM,10.0,22.0,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,13,00:26,10,120,"RODRIGUEZ, SERGIO",PCVM      ,Assist (1),AS,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,13,00:02,10,121,"DOBRIC, OGNJEN",P004007   ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,21,00:00,10,122,"CLYBURN, WILL",P004888   ,Def Rebound (3),D,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+          ,,,,11,124,,          ,End Period,EP,,,,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+          ,,,,11,131,,          ,Begin Period,BP,,,,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,5,10:00,11,125,"RADICEVIC, NIKOLA",P002561   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,12,10:00,11,126,"ANTIC, PERO",PBAE      ,In,IN,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,13,10:00,11,127,"DOBRIC, OGNJEN",P004007   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,14,10:00,11,128,"FELDEINE, JAMES",P005918   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,22,10:00,11,129,"ROCHESTIE, TAYLOR",P002972   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,26,10:00,11,130,"LESSORT, MATHIAS",P003842   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,12,09:47,11,132,"ANTIC, PERO",PBAE      ,Missed Three Pointer (0/3 -  0 pt),3FGA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,14,09:46,11,133,"FELDEINE, JAMES",P005918   ,Off Rebound (1),O,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,12,09:34,11,134,"ANTIC, PERO",PBAE      ,Three Pointer (1/4 -  3 pt),3FGM,13.0,22.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,22,09:34,11,135,"ROCHESTIE, TAYLOR",P002972   ,Assist (1),AS,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,13,09:05,11,136,"RODRIGUEZ, SERGIO",PCVM      ,Three Pointer (1/2 -  3 pt),3FGM,13.0,25.0,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,6,08:42,12,138,"DANGUBIC, NEMANJA",P005942   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,44,08:40,12,139,"HUNTER, OTHELLO",P005160   ,Def Rebound (2),D,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,21,08:30,12,140,"CLYBURN, WILL",P004888   ,Missed Two Pointer (1/3 -  2 pt),2FGA,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,32,08:28,12,141,"JOVANOVIC, NIKOLA",P003264   ,Def Rebound (1),D,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,22,08:22,12,142,"HIGGINS, CORY",P006450   ,Foul (1),CM,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,22,08:22,12,143,"ROCHESTIE, TAYLOR",P002972   ,Foul Drawn (2),RV,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,21,08:22,12,144,"CLYBURN, WILL",P004888   ,Out,OUT,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,41,08:22,12,145,"KURBANOV, NIKITA",PJLX      ,In,IN,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,44,08:09,12,146,"HUNTER, OTHELLO",P005160   ,Block (1),FV,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,14,08:09,12,147,"FELDEINE, JAMES",P005918   ,Missed Two Pointer (1/3 -  2 pt),2FGA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,14,08:09,12,148,"FELDEINE, JAMES",P005918   ,Shot Rejected (1),AG,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,,08:07,12,149,,          ,Off Rebound (2),O,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,14,08:05,12,150,"FELDEINE, JAMES",P005918   ,Missed Two Pointer (1/4 -  2 pt),2FGA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,13,08:04,12,151,"RODRIGUEZ, SERGIO",PCVM      ,Def Rebound (1),D,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,6,08:00,12,152,"DANGUBIC, NEMANJA",P005942   ,Foul (1),CM,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,44,08:00,12,153,"HUNTER, OTHELLO",P005160   ,Foul Drawn (1),RV,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,32,08:00,12,154,"JOVANOVIC, NIKOLA",P003264   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,51,08:00,12,155,"BJELICA, MILKO",PCHX      ,In,IN,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,44,08:00,12,156,"HUNTER, OTHELLO",P005160   ,Missed Free Throw (0/1 -  0 pt),FTA,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,44,08:00,12,157,"HUNTER, OTHELLO",P005160   ,Free Throw In (1/2 -  1 pt),FTM,13.0,26.0,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,13,08:00,12,159,"RODRIGUEZ, SERGIO",PCVM      ,Assist (2),AS,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,51,07:45,13,161,"BJELICA, MILKO",PCHX      ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,13,07:44,13,162,"RODRIGUEZ, SERGIO",PCVM      ,Def Rebound (2),D,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,22,07:31,13,163,"HIGGINS, CORY",P006450   ,Two Pointer (2/2 -  4 pt),2FGM,13.0,28.0,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,13,07:31,13,164,"RODRIGUEZ, SERGIO",PCVM      ,Assist (3),AS,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,,07:31,13,165,,          ,Time Out (1),TOUT,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,6,07:31,13,166,"DANGUBIC, NEMANJA",P005942   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,10,07:31,13,167,"LAZIC, BRANKO",PLUO      ,In,IN,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,22,07:10,13,168,"ROCHESTIE, TAYLOR",P002972   ,Two Pointer (3/3 -  9 pt),2FGM,15.0,28.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,44,06:48,14,170,"HUNTER, OTHELLO",P005160   ,Missed Two Pointer (0/1 -  1 pt),2FGA,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,10,06:48,14,171,"LAZIC, BRANKO",PLUO      ,Def Rebound (1),D,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,20,06:42,14,172,"VORONTSEVICH, ANDREY",PLHI      ,Foul (2),CM,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,51,06:42,14,173,"BJELICA, MILKO",PCHX      ,Foul Drawn (1),RV,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,41,06:40,14,174,"KURBANOV, NIKITA",PJLX      ,Foul (1),CM,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,22,06:40,14,175,"ROCHESTIE, TAYLOR",P002972   ,Foul Drawn (3),RV,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,10,06:34,14,176,"LAZIC, BRANKO",PLUO      ,Offensive Foul (2),OF,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,10,06:34,14,177,"LAZIC, BRANKO",PLUO      ,Turnover (1),TO,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,13,06:34,14,178,"RODRIGUEZ, SERGIO",PCVM      ,Foul Drawn (1),RV,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,11,06:34,14,179,"ANTONOV, SEMEN",P004941   ,In,IN,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,20,06:34,14,180,"VORONTSEVICH, ANDREY",PLHI      ,Out,OUT,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,41,06:22,14,181,"KURBANOV, NIKITA",PJLX      ,Two Pointer (2/2 -  4 pt),2FGM,15.0,30.0,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,13,06:22,14,182,"RODRIGUEZ, SERGIO",PCVM      ,Assist (4),AS,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,11,06:00,14,183,"ANTONOV, SEMEN",P004941   ,Foul (1),CM,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,12,06:00,14,184,"ANTIC, PERO",PBAE      ,Foul Drawn (3),RV,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,12,06:00,14,185,"ANTIC, PERO",PBAE      ,Free Throw In (1/1 -  4 pt),FTM,16.0,30.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,14,06:00,14,186,"FELDEINE, JAMES",P005918   ,Assist (1),AS,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,12,06:00,14,187,"ANTIC, PERO",PBAE      ,Missed Free Throw (1/2 -  4 pt),FTA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,12,06:00,14,188,"ANTIC, PERO",PBAE      ,Free Throw In (2/3 -  5 pt),FTM,17.0,30.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,1,06:00,14,189,"DE COLO, NANDO",P002100   ,In,IN,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,22,06:00,14,190,"HIGGINS, CORY",P006450   ,Out,OUT,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,13,05:50,15,192,"RODRIGUEZ, SERGIO",PCVM      ,Three Pointer (2/3 -  6 pt),3FGM,17.0,33.0,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,10,05:34,15,193,"LAZIC, BRANKO",PLUO      ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,51,05:34,15,194,"BJELICA, MILKO",PCHX      ,Off Rebound (2),O,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,51,05:34,15,195,"BJELICA, MILKO",PCHX      ,Two Pointer (1/2 -  2 pt),2FGM,19.0,33.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,5,05:20,15,196,"RADICEVIC, NIKOLA",P002561   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,22,05:20,15,197,"ROCHESTIE, TAYLOR",P002972   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,41,05:13,15,198,"KURBANOV, NIKITA",PJLX      ,Missed Two Pointer (2/3 -  4 pt),2FGA,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,12,05:09,15,199,"ANTIC, PERO",PBAE      ,Def Rebound (1),D,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,14,04:53,16,201,"FELDEINE, JAMES",P005918   ,Missed Three Pointer (0/4 -  2 pt),3FGA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,41,04:51,16,202,"KURBANOV, NIKITA",PJLX      ,Def Rebound (2),D,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,4,04:45,16,203,"KESELJ, MARKO",P000577   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,14,04:45,16,204,"FELDEINE, JAMES",P005918   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,12,04:45,16,205,"ANTIC, PERO",PBAE      ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,26,04:45,16,206,"LESSORT, MATHIAS",P003842   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,13,04:33,16,207,"RODRIGUEZ, SERGIO",PCVM      ,Missed Two Pointer (0/1 -  6 pt),2FGA,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,4,04:32,16,208,"KESELJ, MARKO",P000577   ,Def Rebound (1),D,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,5,04:25,16,209,"RADICEVIC, NIKOLA",P002561   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,11,04:23,16,210,"ANTONOV, SEMEN",P004941   ,Def Rebound (1),D,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,1,04:21,16,211,"DE COLO, NANDO",P002100   ,Missed Three Pointer (0/1 -  6 pt),3FGA,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,44,04:16,16,212,"HUNTER, OTHELLO",P005160   ,Off Rebound (1),O,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,44,04:16,16,213,"HUNTER, OTHELLO",P005160   ,Two Pointer (1/2 -  3 pt),2FGM,19.0,35.0,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,,04:16,16,214,,          ,Time Out (2),TOUT,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,41,03:59,17,216,"KURBANOV, NIKITA",PJLX      ,Foul (2),CM,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,26,03:59,17,217,"LESSORT, MATHIAS",P003842   ,Foul Drawn (2),RV,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,26,03:59,17,218,"LESSORT, MATHIAS",P003842   ,Free Throw In (2/3 -  2 pt),FTM,20.0,35.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,26,03:59,17,219,"LESSORT, MATHIAS",P003842   ,Free Throw In (3/4 -  3 pt),FTM,21.0,35.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,22,03:59,17,220,"HIGGINS, CORY",P006450   ,In,IN,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,41,03:59,17,221,"KURBANOV, NIKITA",PJLX      ,Out,OUT,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,11,03:41,17,222,"ANTONOV, SEMEN",P004941   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,26,03:40,17,223,"LESSORT, MATHIAS",P003842   ,Def Rebound (1),D,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,26,03:21,17,224,"LESSORT, MATHIAS",P003842   ,Two Pointer (1/1 -  5 pt),2FGM,23.0,35.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,5,03:20,17,225,"RADICEVIC, NIKOLA",P002561   ,Assist (1),AS,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,,03:20,17,226,,          ,Time Out (1),TOUT,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,11,03:20,17,227,"ANTONOV, SEMEN",P004941   ,Out,OUT,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,21,03:20,17,228,"CLYBURN, WILL",P004888   ,In,IN,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,5,03:07,17,229,"RADICEVIC, NIKOLA",P002561   ,Foul (1),CM,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,21,03:07,17,230,"CLYBURN, WILL",P004888   ,Foul Drawn (2),RV,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,21,03:07,17,231,"CLYBURN, WILL",P004888   ,Missed Free Throw (0/1 -  2 pt),FTA,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,21,03:07,17,232,"CLYBURN, WILL",P004888   ,Missed Free Throw (0/2 -  2 pt),FTA,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,44,03:06,17,233,"HUNTER, OTHELLO",P005160   ,Off Rebound (2),O,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,21,03:01,17,234,"CLYBURN, WILL",P004888   ,Turnover (1),TO,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,5,03:01,17,287,"RADICEVIC, NIKOLA",P002561   ,Steal (1),ST,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,5,03:01,17,235,"RADICEVIC, NIKOLA",P002561   ,Foul Drawn (1),RV,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,5,03:01,17,236,"RADICEVIC, NIKOLA",P002561   ,Free Throw In (1/1 -  1 pt),FTM,24.0,35.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,5,03:01,17,237,"RADICEVIC, NIKOLA",P002561   ,Free Throw In (2/2 -  2 pt),FTM,25.0,35.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,1,02:48,18,239,"DE COLO, NANDO",P002100   ,Turnover (2),TO,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,42,02:48,18,240,"HINES, KYLE",P002812   ,In,IN,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,44,02:48,18,241,"HUNTER, OTHELLO",P005160   ,Out,OUT,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,21,02:48,18,242,"CLYBURN, WILL",P004888   ,Foul (1),CM,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,26,02:35,18,243,"LESSORT, MATHIAS",P003842   ,Missed Two Pointer (1/2 -  5 pt),2FGA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,42,02:34,18,244,"HINES, KYLE",P002812   ,Def Rebound (3),D,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,5,02:10,18,245,"RADICEVIC, NIKOLA",P002561   ,Foul (2),CM,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,42,02:10,18,246,"HINES, KYLE",P002812   ,Foul Drawn (1),RV,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,5,02:10,18,247,"RADICEVIC, NIKOLA",P002561   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,6,02:10,18,248,"DANGUBIC, NEMANJA",P005942   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,10,02:10,18,249,"LAZIC, BRANKO",PLUO      ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,22,02:10,18,250,"ROCHESTIE, TAYLOR",P002972   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,42,02:10,18,251,"HINES, KYLE",P002812   ,Free Throw In (1/1 -  5 pt),FTM,25.0,36.0,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,13,02:10,18,252,"RODRIGUEZ, SERGIO",PCVM      ,Assist (5),AS,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,42,02:10,18,253,"HINES, KYLE",P002812   ,Missed Free Throw (1/2 -  5 pt),FTA,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,4,02:10,18,254,"KESELJ, MARKO",P000577   ,Def Rebound (2),D,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,51,01:54,19,256,"BJELICA, MILKO",PCHX      ,Missed Two Pointer (1/3 -  2 pt),2FGA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,26,01:54,19,257,"LESSORT, MATHIAS",P003842   ,Off Rebound (1),O,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,26,01:54,19,258,"LESSORT, MATHIAS",P003842   ,Missed Two Pointer (1/3 -  5 pt),2FGA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,42,01:51,19,259,"HINES, KYLE",P002812   ,Def Rebound (4),D,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,4,01:51,19,260,"KESELJ, MARKO",P000577   ,Foul (1),CM,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,42,01:51,19,261,"HINES, KYLE",P002812   ,Foul Drawn (2),RV,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,32,01:51,19,262,"JOVANOVIC, NIKOLA",P003264   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,51,01:51,19,263,"BJELICA, MILKO",PCHX      ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,42,01:51,19,264,"HINES, KYLE",P002812   ,Free Throw In (2/3 -  6 pt),FTM,25.0,37.0,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,42,01:51,19,265,"HINES, KYLE",P002812   ,Free Throw In (3/4 -  7 pt),FTM,25.0,38.0,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,6,01:35,19,266,"DANGUBIC, NEMANJA",P005942   ,Turnover (1),TO,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,42,01:34,19,267,"HINES, KYLE",P002812   ,Steal (2),ST,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,22,01:27,19,268,"HIGGINS, CORY",P006450   ,Two Pointer (3/3 -  6 pt),2FGM,25.0,40.0,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,42,01:21,19,269,"HINES, KYLE",P002812   ,Assist (1),AS,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,32,01:09,19,270,"JOVANOVIC, NIKOLA",P003264   ,Two Pointer (1/1 -  2 pt),2FGM,27.0,40.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,4,01:07,19,271,"KESELJ, MARKO",P000577   ,Assist (1),AS,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,4,00:50,20,273,"KESELJ, MARKO",P000577   ,Foul (2),CM,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,42,00:50,20,274,"HINES, KYLE",P002812   ,Foul Drawn (3),RV,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,11,00:50,20,275,"ANTONOV, SEMEN",P004941   ,In,IN,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,21,00:50,20,276,"CLYBURN, WILL",P004888   ,Out,OUT,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,42,00:50,20,277,"HINES, KYLE",P002812   ,Free Throw In (4/5 -  8 pt),FTM,27.0,41.0,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,13,00:50,20,278,"RODRIGUEZ, SERGIO",PCVM      ,Assist (6),AS,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,42,00:50,20,279,"HINES, KYLE",P002812   ,Free Throw In (5/6 -  9 pt),FTM,27.0,42.0,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,22,00:33,20,280,"ROCHESTIE, TAYLOR",P002972   ,Missed Three Pointer (1/2 -  9 pt),3FGA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,42,00:31,20,281,"HINES, KYLE",P002812   ,Def Rebound (5),D,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,42,00:13,20,282,"HINES, KYLE",P002812   ,Two Pointer (3/3 -  11 pt),2FGM,27.0,44.0,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,13,00:13,20,283,"RODRIGUEZ, SERGIO",PCVM      ,Assist (7),AS,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,4,00:00,20,284,"KESELJ, MARKO",P000577   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+          ,,,,21,286,,          ,End Period,EP,,,,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+          ,,,,21,300,,          ,Begin Period,BP,,,,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,4,10:00,21,288,"KESELJ, MARKO",P000577   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,6,10:00,21,289,"DANGUBIC, NEMANJA",P005942   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,10,10:00,21,290,"LAZIC, BRANKO",PLUO      ,In,IN,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,14,10:00,21,291,"FELDEINE, JAMES",P005918   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,32,10:00,21,292,"JOVANOVIC, NIKOLA",P003264   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,51,10:00,21,293,"BJELICA, MILKO",PCHX      ,In,IN,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,11,10:00,21,294,"ANTONOV, SEMEN",P004941   ,Out,OUT,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,13,10:00,21,295,"RODRIGUEZ, SERGIO",PCVM      ,Out,OUT,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,21,10:00,21,296,"CLYBURN, WILL",P004888   ,In,IN,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,22,10:00,21,297,"HIGGINS, CORY",P006450   ,Out,OUT,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,31,10:00,21,298,"KHRYAPA, VICTOR",PBCQ      ,In,IN,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,41,10:00,21,299,"KURBANOV, NIKITA",PJLX      ,In,IN,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,31,09:47,21,301,"KHRYAPA, VICTOR",PBCQ      ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,42,09:46,21,302,"HINES, KYLE",P002812   ,Off Rebound (1),O,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,42,09:46,21,303,"HINES, KYLE",P002812   ,Two Pointer (4/4 -  13 pt),2FGM,27.0,46.0,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,14,09:23,21,304,"FELDEINE, JAMES",P005918   ,Turnover (1),TO,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,1,09:14,21,305,"DE COLO, NANDO",P002100   ,Two Pointer (3/4 -  8 pt),2FGM,27.0,48.0,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,31,09:12,21,306,"KHRYAPA, VICTOR",PBCQ      ,Assist (2),AS,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,51,08:53,22,308,"BJELICA, MILKO",PCHX      ,Missed Two Pointer (1/4 -  2 pt),2FGA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,31,08:52,22,309,"KHRYAPA, VICTOR",PBCQ      ,Def Rebound (1),D,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,1,08:38,22,310,"DE COLO, NANDO",P002100   ,Two Pointer (4/5 -  10 pt),2FGM,27.0,50.0,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,41,08:38,22,311,"KURBANOV, NIKITA",PJLX      ,Assist (1),AS,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,14,08:14,22,312,"FELDEINE, JAMES",P005918   ,Turnover (2),TO,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,42,08:12,22,313,"HINES, KYLE",P002812   ,Steal (3),ST,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,21,08:08,22,314,"CLYBURN, WILL",P004888   ,Missed Two Pointer (1/4 -  2 pt),2FGA,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,51,08:06,22,315,"BJELICA, MILKO",PCHX      ,Def Rebound (3),D,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,22,07:51,23,317,"ROCHESTIE, TAYLOR",P002972   ,Turnover (1),TO,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,5,07:51,23,318,"RADICEVIC, NIKOLA",P002561   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,22,07:51,23,319,"ROCHESTIE, TAYLOR",P002972   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,51,07:35,23,320,"BJELICA, MILKO",PCHX      ,Foul (1),CM,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,42,07:35,23,321,"HINES, KYLE",P002812   ,Foul Drawn (4),RV,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,41,07:32,23,322,"KURBANOV, NIKITA",PJLX      ,Turnover (1),TO,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,31,07:19,23,323,"KHRYAPA, VICTOR",PBCQ      ,Foul (3),CM,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,51,07:19,23,324,"BJELICA, MILKO",PCHX      ,Foul Drawn (2),RV,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,5,07:13,23,325,"RADICEVIC, NIKOLA",P002561   ,Missed Two Pointer (0/3 -  2 pt),2FGA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,31,07:10,23,326,"KHRYAPA, VICTOR",PBCQ      ,Def Rebound (2),D,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,5,07:02,23,327,"RADICEVIC, NIKOLA",P002561   ,Foul (3),CM,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,41,07:02,23,328,"KURBANOV, NIKITA",PJLX      ,Foul Drawn (1),RV,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,41,06:57,24,330,"KURBANOV, NIKITA",PJLX      ,Three Pointer (1/2 -  7 pt),3FGM,27.0,53.0,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,42,06:57,24,331,"HINES, KYLE",P002812   ,Assist (2),AS,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,,06:56,24,332,,          ,Time Out (1),TOUT,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,12,06:56,24,333,"ANTIC, PERO",PBAE      ,In,IN,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,26,06:56,24,334,"LESSORT, MATHIAS",P003842   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,14,06:36,24,335,"FELDEINE, JAMES",P005918   ,Missed Three Pointer (0/5 -  2 pt),3FGA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,31,06:35,24,336,"KHRYAPA, VICTOR",PBCQ      ,Def Rebound (3),D,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,14,06:19,24,337,"FELDEINE, JAMES",P005918   ,Foul (2),CM,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,21,06:19,24,338,"CLYBURN, WILL",P004888   ,Foul Drawn (3),RV,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,42,06:10,24,339,"HINES, KYLE",P002812   ,Turnover (1),TO,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,7,06:10,24,340,"FRIDZON, VITALY",PLLH      ,In,IN,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,41,06:10,24,341,"KURBANOV, NIKITA",PJLX      ,Out,OUT,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,14,05:56,25,343,"FELDEINE, JAMES",P005918   ,Missed Two Pointer (1/5 -  2 pt),2FGA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,21,05:55,25,344,"CLYBURN, WILL",P004888   ,Def Rebound (4),D,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,1,05:40,25,345,"DE COLO, NANDO",P002100   ,Turnover (3),TO,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,10,05:40,25,346,"LAZIC, BRANKO",PLUO      ,Steal (1),ST,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,14,05:34,25,347,"FELDEINE, JAMES",P005918   ,Two Pointer (2/6 -  4 pt),2FGM,29.0,53.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,5,05:34,25,348,"RADICEVIC, NIKOLA",P002561   ,Assist (2),AS,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,21,05:11,25,349,"CLYBURN, WILL",P004888   ,Two Pointer (2/5 -  4 pt),2FGM,29.0,55.0,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,51,04:56,26,351,"BJELICA, MILKO",PCHX      ,Missed Three Pointer (0/3 -  2 pt),3FGA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,10,04:56,26,352,"LAZIC, BRANKO",PLUO      ,Off Rebound (1),O,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,12,04:42,26,353,"ANTIC, PERO",PBAE      ,Turnover (2),TO,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,1,04:42,26,354,"DE COLO, NANDO",P002100   ,Out,OUT,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,13,04:42,26,355,"RODRIGUEZ, SERGIO",PCVM      ,In,IN,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,42,04:34,26,356,"HINES, KYLE",P002812   ,Offensive Foul (1),OF,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,42,04:34,26,357,"HINES, KYLE",P002812   ,Turnover (2),TO,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,12,04:34,26,358,"ANTIC, PERO",PBAE      ,Foul Drawn (4),RV,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,5,04:34,26,359,"RADICEVIC, NIKOLA",P002561   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,22,04:34,26,360,"ROCHESTIE, TAYLOR",P002972   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,51,04:22,26,361,"BJELICA, MILKO",PCHX      ,Missed Three Pointer (0/4 -  2 pt),3FGA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,42,04:21,26,362,"HINES, KYLE",P002812   ,Def Rebound (6),D,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,21,04:08,26,363,"CLYBURN, WILL",P004888   ,Two Pointer (3/6 -  6 pt),2FGM,29.0,57.0,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,10,04:08,26,364,"LAZIC, BRANKO",PLUO      ,Foul (3),CM,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,21,04:08,26,365,"CLYBURN, WILL",P004888   ,Foul Drawn (4),RV,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,4,04:08,26,366,"KESELJ, MARKO",P000577   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,14,04:08,26,367,"FELDEINE, JAMES",P005918   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,32,04:08,26,368,"JOVANOVIC, NIKOLA",P003264   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,51,04:08,26,369,"BJELICA, MILKO",PCHX      ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,21,04:08,26,370,"CLYBURN, WILL",P004888   ,Missed Free Throw (0/3 -  6 pt),FTA,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,31,04:07,26,371,"KHRYAPA, VICTOR",PBCQ      ,Off Rebound (1),O,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,21,03:58,27,373,"CLYBURN, WILL",P004888   ,Out,OUT,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,22,03:58,27,374,"HIGGINS, CORY",P006450   ,In,IN,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,7,03:58,27,375,"FRIDZON, VITALY",PLLH      ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,32,03:56,27,376,"JOVANOVIC, NIKOLA",P003264   ,Def Rebound (2),D,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,42,03:36,27,377,"HINES, KYLE",P002812   ,Block (2),FV,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,32,03:36,27,378,"JOVANOVIC, NIKOLA",P003264   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,32,03:36,27,379,"JOVANOVIC, NIKOLA",P003264   ,Shot Rejected (1),AG,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,12,03:35,27,380,"ANTIC, PERO",PBAE      ,Off Rebound (2),O,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,4,03:33,27,381,"KESELJ, MARKO",P000577   ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,22,03:33,27,382,"HIGGINS, CORY",P006450   ,Foul (2),CM,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,32,03:29,27,383,"JOVANOVIC, NIKOLA",P003264   ,Foul Drawn (1),RV,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,32,03:29,27,384,"JOVANOVIC, NIKOLA",P003264   ,Off Rebound (1),O,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,20,03:29,27,385,"VORONTSEVICH, ANDREY",PLHI      ,In,IN,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,31,03:29,27,386,"KHRYAPA, VICTOR",PBCQ      ,Out,OUT,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,22,03:27,27,387,"ROCHESTIE, TAYLOR",P002972   ,Two Pointer (4/4 -  11 pt),2FGM,31.0,57.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,10,03:13,27,388,"LAZIC, BRANKO",PLUO      ,Foul (4),CM,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,22,03:13,27,389,"HIGGINS, CORY",P006450   ,Foul Drawn (1),RV,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,6,03:13,27,390,"DANGUBIC, NEMANJA",P005942   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,10,03:13,27,391,"LAZIC, BRANKO",PLUO      ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,22,03:13,27,392,"HIGGINS, CORY",P006450   ,Free Throw In (1/1 -  7 pt),FTM,31.0,58.0,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,22,03:13,27,393,"HIGGINS, CORY",P006450   ,Free Throw In (2/2 -  8 pt),FTM,31.0,59.0,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,42,03:07,27,394,"HINES, KYLE",P002812   ,Foul (2),CM,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,6,03:07,27,395,"DANGUBIC, NEMANJA",P005942   ,Foul Drawn (1),RV,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,6,03:07,27,396,"DANGUBIC, NEMANJA",P005942   ,Missed Free Throw (0/1 -  0 pt),FTA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,6,03:07,27,397,"DANGUBIC, NEMANJA",P005942   ,Free Throw In (1/2 -  1 pt),FTM,32.0,59.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,22,03:07,27,398,"ROCHESTIE, TAYLOR",P002972   ,Assist (2),AS,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,42,03:07,27,399,"HINES, KYLE",P002812   ,Out,OUT,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,44,03:07,27,400,"HUNTER, OTHELLO",P005160   ,In,IN,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,20,02:53,28,402,"VORONTSEVICH, ANDREY",PLHI      ,Missed Three Pointer (1/2 -  6 pt),3FGA,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,44,02:52,28,403,"HUNTER, OTHELLO",P005160   ,Off Rebound (3),O,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,13,02:37,28,404,"RODRIGUEZ, SERGIO",PCVM      ,Two Pointer (1/2 -  8 pt),2FGM,32.0,61.0,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,5,02:26,28,405,"RADICEVIC, NIKOLA",P002561   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,22,02:26,28,406,"ROCHESTIE, TAYLOR",P002972   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,44,02:22,28,407,"HUNTER, OTHELLO",P005160   ,Foul (1),CM,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,5,02:22,28,408,"RADICEVIC, NIKOLA",P002561   ,Foul Drawn (2),RV,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,5,02:22,28,409,"RADICEVIC, NIKOLA",P002561   ,Missed Free Throw (2/3 -  2 pt),FTA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,5,02:22,28,410,"RADICEVIC, NIKOLA",P002561   ,Missed Free Throw (2/4 -  2 pt),FTA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,22,02:21,28,411,"HIGGINS, CORY",P006450   ,Def Rebound (2),D,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,7,02:09,28,412,"FRIDZON, VITALY",PLLH      ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,32,02:08,28,413,"JOVANOVIC, NIKOLA",P003264   ,Def Rebound (3),D,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,32,01:59,29,415,"JOVANOVIC, NIKOLA",P003264   ,Offensive Foul (1),OF,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,32,01:59,29,416,"JOVANOVIC, NIKOLA",P003264   ,Turnover (1),TO,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,20,01:59,29,417,"VORONTSEVICH, ANDREY",PLHI      ,Foul Drawn (2),RV,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,13,01:59,29,418,"RODRIGUEZ, SERGIO",PCVM      ,Out,OUT,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,30,01:59,29,419,"KULAGIN, MIKHAIL",P002276   ,In,IN,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,7,01:40,29,420,"FRIDZON, VITALY",PLLH      ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,12,01:34,29,421,"ANTIC, PERO",PBAE      ,Def Rebound (2),D,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,12,01:23,29,422,"ANTIC, PERO",PBAE      ,Missed Two Pointer (0/1 -  5 pt),2FGA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,32,01:18,29,423,"JOVANOVIC, NIKOLA",P003264   ,Off Rebound (2),O,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,44,01:10,29,424,"HUNTER, OTHELLO",P005160   ,Block (2),FV,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,32,01:08,29,425,"JOVANOVIC, NIKOLA",P003264   ,Missed Two Pointer (1/3 -  2 pt),2FGA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,32,01:08,29,426,"JOVANOVIC, NIKOLA",P003264   ,Shot Rejected (2),AG,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,22,00:59,30,428,"HIGGINS, CORY",P006450   ,Def Rebound (3),D,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,22,00:59,30,429,"HIGGINS, CORY",P006450   ,Two Pointer (4/4 -  10 pt),2FGM,32.0,63.0,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,,00:58,30,430,,          ,Time Out (2),TOUT,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,12,00:58,30,431,"ANTIC, PERO",PBAE      ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,26,00:58,30,432,"LESSORT, MATHIAS",P003842   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,32,00:58,30,433,"JOVANOVIC, NIKOLA",P003264   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,51,00:58,30,434,"BJELICA, MILKO",PCHX      ,In,IN,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,6,00:42,30,435,"DANGUBIC, NEMANJA",P005942   ,Turnover (2),TO,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,22,00:42,30,436,"HIGGINS, CORY",P006450   ,Steal (1),ST,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,51,00:29,30,437,"BJELICA, MILKO",PCHX      ,Foul (2),CM,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,22,00:29,30,438,"HIGGINS, CORY",P006450   ,Foul Drawn (2),RV,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,22,00:29,30,439,"HIGGINS, CORY",P006450   ,Free Throw In (3/3 -  11 pt),FTM,32.0,64.0,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,22,00:29,30,440,"HIGGINS, CORY",P006450   ,Free Throw In (4/4 -  12 pt),FTM,32.0,65.0,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,22,00:13,30,441,"HIGGINS, CORY",P006450   ,Foul (3),CM,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,26,00:13,30,442,"LESSORT, MATHIAS",P003842   ,Foul Drawn (3),RV,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,26,00:13,30,443,"LESSORT, MATHIAS",P003842   ,Free Throw In (4/5 -  6 pt),FTM,33.0,65.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,26,00:13,30,444,"LESSORT, MATHIAS",P003842   ,Free Throw In (5/6 -  7 pt),FTM,34.0,65.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,30,00:00,30,445,"KULAGIN, MIKHAIL",P002276   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,44,00:00,30,446,"HUNTER, OTHELLO",P005160   ,Off Rebound (4),O,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+          ,,,,31,448,,          ,End Period,EP,,,,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+          ,,,,31,453,,          ,Begin Period,BP,,,,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,4,10:00,31,449,"KESELJ, MARKO",P000577   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,5,10:00,31,450,"RADICEVIC, NIKOLA",P002561   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,14,10:00,31,451,"FELDEINE, JAMES",P005918   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,22,10:00,31,452,"ROCHESTIE, TAYLOR",P002972   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,30,09:46,31,454,"KULAGIN, MIKHAIL",P002276   ,Foul (1),CM,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,14,09:46,31,455,"FELDEINE, JAMES",P005918   ,Foul Drawn (1),RV,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,14,09:46,31,456,"FELDEINE, JAMES",P005918   ,Missed Free Throw (0/1 -  4 pt),FTA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,14,09:46,31,457,"FELDEINE, JAMES",P005918   ,Free Throw In (1/2 -  5 pt),FTM,35.0,65.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,22,09:46,31,458,"ROCHESTIE, TAYLOR",P002972   ,Assist (3),AS,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,7,09:29,31,459,"FRIDZON, VITALY",PLLH      ,Turnover (1),TO,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,14,09:29,31,460,"FELDEINE, JAMES",P005918   ,Steal (1),ST,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,22,09:25,31,461,"HIGGINS, CORY",P006450   ,Foul (4),CM,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,6,09:25,31,462,"DANGUBIC, NEMANJA",P005942   ,Foul Drawn (2),RV,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,6,09:25,31,463,"DANGUBIC, NEMANJA",P005942   ,Free Throw In (2/3 -  2 pt),FTM,36.0,65.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,14,09:25,31,464,"FELDEINE, JAMES",P005918   ,Assist (2),AS,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,6,09:25,31,465,"DANGUBIC, NEMANJA",P005942   ,Missed Free Throw (2/4 -  2 pt),FTA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,44,09:24,31,466,"HUNTER, OTHELLO",P005160   ,Def Rebound (3),D,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,7,09:07,31,467,"FRIDZON, VITALY",PLLH      ,Turnover (2),TO,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,22,09:07,31,468,"ROCHESTIE, TAYLOR",P002972   ,Steal (1),ST,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,22,08:57,32,470,"ROCHESTIE, TAYLOR",P002972   ,Two Pointer (5/5 -  13 pt),2FGM,38.0,65.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,14,08:57,32,471,"FELDEINE, JAMES",P005918   ,Assist (3),AS,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,6,08:46,32,472,"DANGUBIC, NEMANJA",P005942   ,Foul (2),CM,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,30,08:46,32,473,"KULAGIN, MIKHAIL",P002276   ,Foul Drawn (1),RV,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,1,08:46,32,474,"DE COLO, NANDO",P002100   ,In,IN,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,22,08:46,32,475,"HIGGINS, CORY",P006450   ,Out,OUT,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,30,08:37,32,476,"KULAGIN, MIKHAIL",P002276   ,Turnover (1),TO,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,22,08:37,32,477,"ROCHESTIE, TAYLOR",P002972   ,Steal (2),ST,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,14,08:33,32,478,"FELDEINE, JAMES",P005918   ,Two Pointer (3/7 -  7 pt),2FGM,40.0,65.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,22,08:33,32,479,"ROCHESTIE, TAYLOR",P002972   ,Assist (4),AS,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,20,08:31,32,480,"VORONTSEVICH, ANDREY",PLHI      ,Foul (3),CM,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,14,08:31,32,481,"FELDEINE, JAMES",P005918   ,Foul Drawn (2),RV,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,14,08:31,32,482,"FELDEINE, JAMES",P005918   ,Missed Free Throw (1/3 -  7 pt),FTA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,44,08:30,32,483,"HUNTER, OTHELLO",P005160   ,Def Rebound (4),D,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,1,08:16,32,484,"DE COLO, NANDO",P002100   ,Two Pointer (5/6 -  12 pt),2FGM,40.0,67.0,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,22,08:02,32,485,"ROCHESTIE, TAYLOR",P002972   ,Missed Three Pointer (1/3 -  13 pt),3FGA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,6,08:01,32,486,"DANGUBIC, NEMANJA",P005942   ,Off Rebound (1),O,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,6,08:00,32,487,"DANGUBIC, NEMANJA",P005942   ,Missed Two Pointer (0/2 -  2 pt),2FGA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,44,07:55,33,489,"HUNTER, OTHELLO",P005160   ,Def Rebound (5),D,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,6,07:55,33,490,"DANGUBIC, NEMANJA",P005942   ,Foul (3),CM,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,1,07:55,33,491,"DE COLO, NANDO",P002100   ,Foul Drawn (4),RV,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,1,07:39,33,492,"DE COLO, NANDO",P002100   ,Missed Two Pointer (5/7 -  12 pt),2FGA,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,26,07:38,33,493,"LESSORT, MATHIAS",P003842   ,Def Rebound (2),D,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,44,07:28,33,494,"HUNTER, OTHELLO",P005160   ,Foul (2),CM,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,51,07:28,33,495,"BJELICA, MILKO",PCHX      ,Foul Drawn (3),RV,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,51,07:28,33,496,"BJELICA, MILKO",PCHX      ,Free Throw In (1/1 -  3 pt),FTM,41.0,67.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,22,07:28,33,497,"ROCHESTIE, TAYLOR",P002972   ,Assist (5),AS,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,51,07:28,33,498,"BJELICA, MILKO",PCHX      ,Missed Free Throw (1/2 -  3 pt),FTA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,44,07:28,33,499,"HUNTER, OTHELLO",P005160   ,Def Rebound (6),D,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,44,07:08,33,500,"HUNTER, OTHELLO",P005160   ,Two Pointer (2/3 -  5 pt),2FGM,41.0,69.0,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,30,07:08,33,501,"KULAGIN, MIKHAIL",P002276   ,Assist (1),AS,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,7,07:02,33,502,"FRIDZON, VITALY",PLLH      ,Foul (1),CM,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,22,07:02,33,503,"ROCHESTIE, TAYLOR",P002972   ,Foul Drawn (4),RV,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,6,07:02,33,504,"DANGUBIC, NEMANJA",P005942   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,10,07:02,33,505,"LAZIC, BRANKO",PLUO      ,In,IN,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,7,07:02,33,506,"FRIDZON, VITALY",PLLH      ,Out,OUT,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,11,07:02,33,507,"ANTONOV, SEMEN",P004941   ,In,IN,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,13,07:02,33,508,"RODRIGUEZ, SERGIO",PCVM      ,In,IN,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,20,07:02,33,509,"VORONTSEVICH, ANDREY",PLHI      ,Out,OUT,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,22,07:02,33,510,"ROCHESTIE, TAYLOR",P002972   ,Free Throw In (1/1 -  14 pt),FTM,42.0,69.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,22,07:02,33,511,"ROCHESTIE, TAYLOR",P002972   ,Free Throw In (2/2 -  15 pt),FTM,43.0,69.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,1,06:44,34,513,"DE COLO, NANDO",P002100   ,Turnover (4),TO,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,11,06:25,34,514,"ANTONOV, SEMEN",P004941   ,Block (1),FV,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,14,06:25,34,515,"FELDEINE, JAMES",P005918   ,Missed Two Pointer (3/8 -  7 pt),2FGA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,14,06:25,34,516,"FELDEINE, JAMES",P005918   ,Shot Rejected (2),AG,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,1,06:18,34,517,"DE COLO, NANDO",P002100   ,Def Rebound (1),D,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,13,06:14,34,518,"RODRIGUEZ, SERGIO",PCVM      ,Missed Three Pointer (2/4 -  8 pt),3FGA,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,14,06:12,34,519,"FELDEINE, JAMES",P005918   ,Def Rebound (2),D,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,14,06:08,34,520,"FELDEINE, JAMES",P005918   ,Two Pointer (4/9 -  9 pt),2FGM,45.0,69.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,26,05:46,35,522,"LESSORT, MATHIAS",P003842   ,Foul (1),CM,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,44,05:46,35,523,"HUNTER, OTHELLO",P005160   ,Foul Drawn (2),RV,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,13,05:33,35,524,"RODRIGUEZ, SERGIO",PCVM      ,Three Pointer (3/5 -  11 pt),3FGM,45.0,72.0,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,14,05:12,35,525,"FELDEINE, JAMES",P005918   ,Three Pointer (1/6 -  12 pt),3FGM,48.0,72.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,14,04:56,36,527,"FELDEINE, JAMES",P005918   ,Foul (3),CM,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,1,04:56,36,528,"DE COLO, NANDO",P002100   ,Foul Drawn (5),RV,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+          ,,,04:56,36,529,,          ,TV Time Out (2),TOUT_TV,,,,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,12,04:56,36,530,"ANTIC, PERO",PBAE      ,In,IN,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,26,04:56,36,531,"LESSORT, MATHIAS",P003842   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,7,04:56,36,532,"FRIDZON, VITALY",PLLH      ,In,IN,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,30,04:56,36,533,"KULAGIN, MIKHAIL",P002276   ,Out,OUT,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,1,04:51,36,534,"DE COLO, NANDO",P002100   ,Two Pointer (6/8 -  14 pt),2FGM,48.0,74.0,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,13,04:51,36,535,"RODRIGUEZ, SERGIO",PCVM      ,Assist (8),AS,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,22,04:39,36,536,"ROCHESTIE, TAYLOR",P002972   ,Turnover (2),TO,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,44,04:39,36,537,"HUNTER, OTHELLO",P005160   ,Steal (1),ST,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,1,04:31,36,538,"DE COLO, NANDO",P002100   ,Two Pointer (7/9 -  16 pt),2FGM,48.0,76.0,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,13,04:29,36,539,"RODRIGUEZ, SERGIO",PCVM      ,Assist (9),AS,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,11,04:19,36,540,"ANTONOV, SEMEN",P004941   ,Foul (2),CM,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,12,04:19,36,541,"ANTIC, PERO",PBAE      ,Foul Drawn (5),RV,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,1,04:19,36,542,"DE COLO, NANDO",P002100   ,Out,OUT,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,20,04:19,36,543,"VORONTSEVICH, ANDREY",PLHI      ,In,IN,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,30,04:19,36,544,"KULAGIN, MIKHAIL",P002276   ,In,IN,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,44,04:19,36,545,"HUNTER, OTHELLO",P005160   ,Out,OUT,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,12,04:19,36,546,"ANTIC, PERO",PBAE      ,Free Throw In (3/4 -  6 pt),FTM,49.0,76.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,12,04:19,36,547,"ANTIC, PERO",PBAE      ,Free Throw In (4/5 -  7 pt),FTM,50.0,76.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,13,03:57,37,549,"RODRIGUEZ, SERGIO",PCVM      ,Missed Three Pointer (3/6 -  11 pt),3FGA,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,20,03:50,37,550,"VORONTSEVICH, ANDREY",PLHI      ,Off Rebound (1),O,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,7,03:44,37,551,"FRIDZON, VITALY",PLLH      ,Missed Three Pointer (0/3 -  0 pt),3FGA,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,10,03:43,37,552,"LAZIC, BRANKO",PLUO      ,Def Rebound (2),D,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,51,03:23,37,553,"BJELICA, MILKO",PCHX      ,Missed Two Pointer (1/5 -  3 pt),2FGA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,51,03:23,37,554,"BJELICA, MILKO",PCHX      ,Off Rebound (3),O,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,51,03:23,37,555,"BJELICA, MILKO",PCHX      ,Two Pointer (2/6 -  5 pt),2FGM,52.0,76.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,20,03:03,37,556,"VORONTSEVICH, ANDREY",PLHI      ,Missed Three Pointer (1/3 -  6 pt),3FGA,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,10,03:03,37,557,"LAZIC, BRANKO",PLUO      ,Def Rebound (3),D,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,51,02:54,38,559,"BJELICA, MILKO",PCHX      ,Two Pointer (3/7 -  7 pt),2FGM,54.0,76.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,10,02:54,38,560,"LAZIC, BRANKO",PLUO      ,Assist (1),AS,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,51,02:40,38,561,"BJELICA, MILKO",PCHX      ,Foul (3),CM,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,7,02:40,38,562,"FRIDZON, VITALY",PLLH      ,Foul Drawn (1),RV,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,4,02:40,38,563,"KESELJ, MARKO",P000577   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,5,02:40,38,564,"RADICEVIC, NIKOLA",P002561   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,14,02:40,38,565,"FELDEINE, JAMES",P005918   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,22,02:40,38,566,"ROCHESTIE, TAYLOR",P002972   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,7,02:40,38,567,"FRIDZON, VITALY",PLLH      ,Missed Free Throw (0/1 -  0 pt),FTA,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,7,02:40,38,568,"FRIDZON, VITALY",PLLH      ,Free Throw In (1/2 -  1 pt),FTM,54.0,77.0,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,30,02:40,38,569,"KULAGIN, MIKHAIL",P002276   ,Assist (2),AS,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,7,02:21,38,570,"FRIDZON, VITALY",PLLH      ,Foul (2),CM,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,51,02:21,38,571,"BJELICA, MILKO",PCHX      ,Foul Drawn (4),RV,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,51,02:21,38,572,"BJELICA, MILKO",PCHX      ,Missed Free Throw (1/3 -  7 pt),FTA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,51,02:21,38,573,"BJELICA, MILKO",PCHX      ,Free Throw In (2/4 -  8 pt),FTM,55.0,77.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,32,02:21,38,574,"JOVANOVIC, NIKOLA",P003264   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,51,02:21,38,575,"BJELICA, MILKO",PCHX      ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,30,02:04,38,576,"KULAGIN, MIKHAIL",P002276   ,Two Pointer (1/1 -  2 pt),2FGM,55.0,79.0,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,,01:58,39,578,,          ,Time Out (1),TOUT,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,4,01:44,39,579,"KESELJ, MARKO",P000577   ,Turnover (1),TO,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,30,01:42,39,580,"KULAGIN, MIKHAIL",P002276   ,Steal (1),ST,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,,01:19,39,581,,          ,Turnover (2),TO,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,32,01:02,39,582,"JOVANOVIC, NIKOLA",P003264   ,Missed Two Pointer (1/4 -  2 pt),2FGA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,12,01:01,39,583,"ANTIC, PERO",PBAE      ,Off Rebound (3),O,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,12,01:01,39,584,"ANTIC, PERO",PBAE      ,Two Pointer (1/2 -  9 pt),2FGM,57.0,79.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,30,00:47,40,586,"KULAGIN, MIKHAIL",P002276   ,Three Pointer (1/2 -  5 pt),3FGM,57.0,82.0,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,5,00:36,40,587,"RADICEVIC, NIKOLA",P002561   ,Missed Two Pointer (0/4 -  2 pt),2FGA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,32,00:34,40,588,"JOVANOVIC, NIKOLA",P003264   ,Off Rebound (3),O,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,32,00:34,40,589,"JOVANOVIC, NIKOLA",P003264   ,Two Pointer (2/5 -  4 pt),2FGM,59.0,82.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,20,00:21,40,590,"VORONTSEVICH, ANDREY",PLHI      ,Three Pointer (2/4 -  9 pt),3FGM,59.0,85.0,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,30,00:21,40,591,"KULAGIN, MIKHAIL",P002276   ,Assist (3),AS,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,12,00:09,40,592,"ANTIC, PERO",PBAE      ,Missed Three Pointer (1/5 -  9 pt),3FGA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,4,00:09,40,593,"KESELJ, MARKO",P000577   ,Off Rebound (1),O,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+RED       ,,10,00:02,40,594,"LAZIC, BRANKO",PLUO      ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+CSK       ,,11,00:02,40,595,"ANTONOV, SEMEN",P004941   ,Def Rebound (2),D,,,CSKA Moscow,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK
+          ,,,,41,598,,          ,End Game,EG,,,,0,Crvena Zvezda mts Belgrade,RED,CSKA Moscow,CSK

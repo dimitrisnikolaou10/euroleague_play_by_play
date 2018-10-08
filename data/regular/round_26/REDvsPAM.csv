@@ -1,526 +1,526 @@
-CODETEAM,COMMENT,DORSAL,MARKERTIME,MINUTE,NUMBEROFPLAY,PLAYER,PLAYER_ID,PLAYINFO,PLAYTYPE,POINTS_A,POINTS_B,TEAM,TYPE
-          ,,,,1,2,,          ,Begin Period,BP,,,,0
-RED       ,,26,09:42,1,3,"LESSORT, MATHIAS",P003842   ,Foul (1),CM,,,Crvena Zvezda mts Belgrade,0
-PAM       ,,6,09:42,1,4,"ABALDE, ALBERTO",P003733   ,Foul Drawn (1),RV,,,Valencia Basket,0
-PAM       ,,6,09:33,1,5,"ABALDE, ALBERTO",P003733   ,Turnover (1),TO,,,Valencia Basket,0
-RED       ,,10,09:31,1,6,"LAZIC, BRANKO",PLUO      ,Steal (1),ST,,,Crvena Zvezda mts Belgrade,0
-PAM       ,,6,09:32,1,7,"ABALDE, ALBERTO",P003733   ,Foul (1),CM,,,Valencia Basket,0
-RED       ,,10,09:32,1,8,"LAZIC, BRANKO",PLUO      ,Foul Drawn (1),RV,,,Crvena Zvezda mts Belgrade,0
-PAM       ,,30,09:21,1,9,"SASTRE, JOAN",P002936   ,Foul (1),CM,,,Valencia Basket,0
-RED       ,,10,09:21,1,11,"LAZIC, BRANKO",PLUO      ,Foul Drawn (2),RV,,,Crvena Zvezda mts Belgrade,0
-RED       ,,10,09:21,1,12,"LAZIC, BRANKO",PLUO      ,Free Throw In (1/1 -  1 pt),FTM,1.0,,Crvena Zvezda mts Belgrade,0
-RED       ,,26,09:21,1,13,"LESSORT, MATHIAS",P003842   ,Assist (1),AS,,,Crvena Zvezda mts Belgrade,0
-RED       ,,10,09:21,1,14,"LAZIC, BRANKO",PLUO      ,Free Throw In (2/2 -  2 pt),FTM,2.0,,Crvena Zvezda mts Belgrade,0
-RED       ,,51,09:04,1,15,"BJELICA, MILKO",PCHX      ,Foul (1),CM,,,Crvena Zvezda mts Belgrade,0
-PAM       ,,0,09:04,1,16,"THOMAS, WILL",P005856   ,Foul Drawn (1),RV,,,Valencia Basket,0
-PAM       ,,30,08:56,2,18,"SASTRE, JOAN",P002936   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Valencia Basket,0
-RED       ,,26,08:55,2,19,"LESSORT, MATHIAS",P003842   ,Def Rebound (1),D,,,Crvena Zvezda mts Belgrade,0
-RED       ,,22,08:48,2,20,"ROCHESTIE, TAYLOR",P002972   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Crvena Zvezda mts Belgrade,0
-PAM       ,,,08:46,2,21,,          ,Def Rebound (1),D,,,Valencia Basket,0
-PAM       ,,17,08:34,2,22,"MARTINEZ, RAFA",P001351   ,Three Pointer (1/1 -  3 pt),3FGM,2.0,3.0,Valencia Basket,0
-RED       ,,7,08:07,2,23,"DAVIDOVAC, DEJAN",P007960   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Crvena Zvezda mts Belgrade,0
-PAM       ,,17,08:05,2,24,"MARTINEZ, RAFA",P001351   ,Def Rebound (1),D,,,Valencia Basket,0
-RED       ,,7,08:02,2,25,"DAVIDOVAC, DEJAN",P007960   ,Foul (1),CM,,,Crvena Zvezda mts Belgrade,0
-PAM       ,,6,08:02,2,26,"ABALDE, ALBERTO",P003733   ,Foul Drawn (2),RV,,,Valencia Basket,0
-PAM       ,,21,07:48,3,28,"PLEISS, TIBOR",PLHK      ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Valencia Basket,0
-RED       ,,26,07:47,3,29,"LESSORT, MATHIAS",P003842   ,Def Rebound (2),D,,,Crvena Zvezda mts Belgrade,0
-RED       ,,7,07:33,3,30,"DAVIDOVAC, DEJAN",P007960   ,Two Pointer (1/1 -  2 pt),2FGM,4.0,3.0,Crvena Zvezda mts Belgrade,0
-PAM       ,,0,07:15,3,31,"THOMAS, WILL",P005856   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Valencia Basket,0
-RED       ,,7,07:15,3,32,"DAVIDOVAC, DEJAN",P007960   ,Def Rebound (1),D,,,Crvena Zvezda mts Belgrade,0
-PAM       ,,21,07:05,3,33,"PLEISS, TIBOR",PLHK      ,Block (1),FV,,,Valencia Basket,0
-RED       ,,51,07:05,3,34,"BJELICA, MILKO",PCHX      ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Crvena Zvezda mts Belgrade,0
-RED       ,,51,07:05,3,35,"BJELICA, MILKO",PCHX      ,Shot Rejected (1),AG,,,Crvena Zvezda mts Belgrade,0
-PAM       ,,0,07:05,3,36,"THOMAS, WILL",P005856   ,Def Rebound (1),D,,,Valencia Basket,0
-PAM       ,,30,06:56,4,38,"SASTRE, JOAN",P002936   ,Three Pointer (1/1 -  3 pt),3FGM,4.0,6.0,Valencia Basket,0
-PAM       ,,0,06:56,4,39,"THOMAS, WILL",P005856   ,Assist (1),AS,,,Valencia Basket,0
-RED       ,,16,06:56,4,40,"JANKOVIC, STEFAN",P007961   ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,51,06:56,4,41,"BJELICA, MILKO",PCHX      ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,22,06:48,4,42,"ROCHESTIE, TAYLOR",P002972   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Crvena Zvezda mts Belgrade,0
-RED       ,,26,06:44,4,43,"LESSORT, MATHIAS",P003842   ,Off Rebound (1),O,,,Crvena Zvezda mts Belgrade,0
-RED       ,,26,06:44,4,44,"LESSORT, MATHIAS",P003842   ,Two Pointer (1/1 -  2 pt),2FGM,6.0,6.0,Crvena Zvezda mts Belgrade,0
-PAM       ,,21,06:44,4,45,"PLEISS, TIBOR",PLHK      ,Foul (1),CM,,,Valencia Basket,0
-RED       ,,26,06:44,4,46,"LESSORT, MATHIAS",P003842   ,Foul Drawn (1),RV,,,Crvena Zvezda mts Belgrade,0
-RED       ,,26,06:44,4,47,"LESSORT, MATHIAS",P003842   ,Free Throw In (1/1 -  3 pt),FTM,7.0,6.0,Crvena Zvezda mts Belgrade,0
-RED       ,,7,06:32,4,48,"DAVIDOVAC, DEJAN",P007960   ,Foul (2),CM,,,Crvena Zvezda mts Belgrade,0
-PAM       ,,21,06:32,4,49,"PLEISS, TIBOR",PLHK      ,Foul Drawn (1),RV,,,Valencia Basket,0
-RED       ,,7,06:32,4,50,"DAVIDOVAC, DEJAN",P007960   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,14,06:32,4,51,"FELDEINE, JAMES",P005918   ,In,IN,,,Crvena Zvezda mts Belgrade,0
-PAM       ,,17,06:23,4,52,"MARTINEZ, RAFA",P001351   ,Three Pointer (2/2 -  6 pt),3FGM,7.0,9.0,Valencia Basket,0
-RED       ,,16,06:09,4,53,"JANKOVIC, STEFAN",P007961   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Crvena Zvezda mts Belgrade,0
-PAM       ,,21,06:08,4,54,"PLEISS, TIBOR",PLHK      ,Def Rebound (1),D,,,Valencia Basket,0
-PAM       ,,17,05:55,5,56,"MARTINEZ, RAFA",P001351   ,Two Pointer (1/1 -  8 pt),2FGM,7.0,11.0,Valencia Basket,0
-PAM       ,,30,05:54,5,57,"SASTRE, JOAN",P002936   ,Assist (1),AS,,,Valencia Basket,0
-RED       ,,22,05:40,5,58,"ROCHESTIE, TAYLOR",P002972   ,Missed Two Pointer (0/3 -  0 pt),2FGA,,,Crvena Zvezda mts Belgrade,0
-PAM       ,,17,05:38,5,59,"MARTINEZ, RAFA",P001351   ,Def Rebound (2),D,,,Valencia Basket,0
-PAM       ,,30,05:33,5,60,"SASTRE, JOAN",P002936   ,Three Pointer (2/2 -  6 pt),3FGM,7.0,14.0,Valencia Basket,0
-PAM       ,,6,05:33,5,61,"ABALDE, ALBERTO",P003733   ,Assist (1),AS,,,Valencia Basket,0
-RED       ,,,05:31,5,62,,          ,Time Out (1),TOUT,,,Crvena Zvezda mts Belgrade,0
-PAM       ,,6,05:31,5,63,"ABALDE, ALBERTO",P003733   ,Out,OUT,,,Valencia Basket,0
-PAM       ,,16,05:31,5,64,"VIVES, GUILLEM",P002361   ,In,IN,,,Valencia Basket,0
-PAM       ,,17,05:31,5,65,"MARTINEZ, RAFA",P001351   ,Out,OUT,,,Valencia Basket,0
-PAM       ,,32,05:31,5,66,"GREEN, ERICK",P005159   ,In,IN,,,Valencia Basket,0
-RED       ,,14,05:12,5,67,"FELDEINE, JAMES",P005918   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Crvena Zvezda mts Belgrade,0
-RED       ,,16,05:10,5,68,"JANKOVIC, STEFAN",P007961   ,Off Rebound (1),O,,,Crvena Zvezda mts Belgrade,0
-RED       ,,16,05:10,5,69,"JANKOVIC, STEFAN",P007961   ,Two Pointer (1/1 -  2 pt),2FGM,9.0,14.0,Crvena Zvezda mts Belgrade,0
-PAM       ,,30,04:42,6,71,"SASTRE, JOAN",P002936   ,Missed Two Pointer (0/2 -  6 pt),2FGA,,,Valencia Basket,0
-RED       ,,,04:40,6,72,,          ,Def Rebound (2),D,,,Crvena Zvezda mts Belgrade,0
-RED       ,,16,04:28,6,73,"JANKOVIC, STEFAN",P007961   ,Turnover (1),TO,,,Crvena Zvezda mts Belgrade,0
-PAM       ,,16,04:28,6,74,"VIVES, GUILLEM",P002361   ,Steal (1),ST,,,Valencia Basket,0
-PAM       ,,21,04:16,6,75,"PLEISS, TIBOR",PLHK      ,Two Pointer (1/2 -  2 pt),2FGM,9.0,16.0,Valencia Basket,0
-PAM       ,,16,04:16,6,76,"VIVES, GUILLEM",P002361   ,Assist (1),AS,,,Valencia Basket,0
-RED       ,,16,04:16,6,77,"JANKOVIC, STEFAN",P007961   ,Foul (1),CM,,,Crvena Zvezda mts Belgrade,0
-PAM       ,,21,04:16,6,78,"PLEISS, TIBOR",PLHK      ,Foul Drawn (2),RV,,,Valencia Basket,0
-RED       ,,16,04:16,6,79,"JANKOVIC, STEFAN",P007961   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,51,04:16,6,80,"BJELICA, MILKO",PCHX      ,In,IN,,,Crvena Zvezda mts Belgrade,0
-PAM       ,,21,04:16,6,81,"PLEISS, TIBOR",PLHK      ,Free Throw In (1/1 -  3 pt),FTM,9.0,17.0,Valencia Basket,0
-PAM       ,,14,04:16,6,82,"DUBLJEVIC, BOJAN",P002742   ,In,IN,,,Valencia Basket,0
-PAM       ,,21,04:16,6,83,"PLEISS, TIBOR",PLHK      ,Out,OUT,,,Valencia Basket,0
-RED       ,,22,04:01,6,84,"ROCHESTIE, TAYLOR",P002972   ,Three Pointer (1/1 -  3 pt),3FGM,12.0,17.0,Crvena Zvezda mts Belgrade,0
-PAM       ,,16,03:42,7,86,"VIVES, GUILLEM",P002361   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Valencia Basket,0
-RED       ,,51,03:41,7,87,"BJELICA, MILKO",PCHX      ,Def Rebound (1),D,,,Crvena Zvezda mts Belgrade,0
-RED       ,,51,03:25,7,88,"BJELICA, MILKO",PCHX      ,Two Pointer (1/2 -  2 pt),2FGM,14.0,17.0,Crvena Zvezda mts Belgrade,0
-PAM       ,,16,03:25,7,89,"VIVES, GUILLEM",P002361   ,Foul (1),CM,,,Valencia Basket,0
-RED       ,,51,03:25,7,90,"BJELICA, MILKO",PCHX      ,Foul Drawn (1),RV,,,Crvena Zvezda mts Belgrade,0
-RED       ,,22,03:25,7,91,"ROCHESTIE, TAYLOR",P002972   ,Assist (1),AS,,,Crvena Zvezda mts Belgrade,0
-RED       ,,51,03:25,7,92,"BJELICA, MILKO",PCHX      ,Free Throw In (1/1 -  3 pt),FTM,15.0,17.0,Crvena Zvezda mts Belgrade,0
-PAM       ,,14,03:11,7,93,"DUBLJEVIC, BOJAN",P002742   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Valencia Basket,0
-RED       ,,26,03:10,7,94,"LESSORT, MATHIAS",P003842   ,Def Rebound (3),D,,,Crvena Zvezda mts Belgrade,0
-RED       ,,26,02:59,8,96,"LESSORT, MATHIAS",P003842   ,Turnover (1),TO,,,Crvena Zvezda mts Belgrade,0
-PAM       ,,30,02:59,8,97,"SASTRE, JOAN",P002936   ,Steal (1),ST,,,Valencia Basket,0
-PAM       ,,16,02:36,8,98,"VIVES, GUILLEM",P002361   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Valencia Basket,0
-RED       ,,14,02:35,8,99,"FELDEINE, JAMES",P005918   ,Def Rebound (1),D,,,Crvena Zvezda mts Belgrade,0
-RED       ,,14,02:31,8,100,"FELDEINE, JAMES",P005918   ,Two Pointer (1/2 -  2 pt),2FGM,17.0,17.0,Crvena Zvezda mts Belgrade,0
-RED       ,,10,02:09,8,101,"LAZIC, BRANKO",PLUO      ,Foul (1),CM,,,Crvena Zvezda mts Belgrade,0
-PAM       ,,32,02:09,8,102,"GREEN, ERICK",P005159   ,Foul Drawn (1),RV,,,Valencia Basket,0
-RED       ,,10,02:09,8,103,"LAZIC, BRANKO",PLUO      ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,13,02:09,8,104,"DOBRIC, OGNJEN",P004007   ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,23,02:09,8,105,"OMIC, ALEN",P004222   ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,26,02:09,8,106,"LESSORT, MATHIAS",P003842   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-PAM       ,,30,02:09,8,107,"SASTRE, JOAN",P002936   ,Out,OUT,,,Valencia Basket,0
-PAM       ,,42,02:09,8,108,"DOORNEKAMP, AARON",P002763   ,In,IN,,,Valencia Basket,0
-PAM       ,,32,02:09,8,109,"GREEN, ERICK",P005159   ,Free Throw In (1/1 -  1 pt),FTM,17.0,18.0,Valencia Basket,0
-PAM       ,,32,02:09,8,110,"GREEN, ERICK",P005159   ,Free Throw In (2/2 -  2 pt),FTM,17.0,19.0,Valencia Basket,0
-RED       ,,13,01:50,9,112,"DOBRIC, OGNJEN",P004007   ,Two Pointer (1/1 -  2 pt),2FGM,19.0,19.0,Crvena Zvezda mts Belgrade,0
-PAM       ,,16,01:29,9,113,"VIVES, GUILLEM",P002361   ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,Valencia Basket,0
-PAM       ,,14,01:24,9,114,"DUBLJEVIC, BOJAN",P002742   ,Off Rebound (1),O,,,Valencia Basket,0
-PAM       ,,14,01:24,9,115,"DUBLJEVIC, BOJAN",P002742   ,Two Pointer (1/2 -  2 pt),2FGM,19.0,21.0,Valencia Basket,0
-PAM       ,,42,01:15,9,116,"DOORNEKAMP, AARON",P002763   ,Foul (1),CM,,,Valencia Basket,0
-RED       ,,14,01:15,9,117,"FELDEINE, JAMES",P005918   ,Foul Drawn (1),RV,,,Crvena Zvezda mts Belgrade,0
-RED       ,,22,01:15,9,118,"ROCHESTIE, TAYLOR",P002972   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,31,01:15,9,119,"ENNIS, DYLAN",P008066   ,In,IN,,,Crvena Zvezda mts Belgrade,0
-PAM       ,,0,01:15,9,120,"THOMAS, WILL",P005856   ,Out,OUT,,,Valencia Basket,0
-PAM       ,,22,01:15,9,121,"WILLIAMS, LATAVIOUS",P004259   ,In,IN,,,Valencia Basket,0
-RED       ,,14,01:15,9,122,"FELDEINE, JAMES",P005918   ,Free Throw In (1/1 -  3 pt),FTM,20.0,21.0,Crvena Zvezda mts Belgrade,0
-RED       ,,14,01:15,9,123,"FELDEINE, JAMES",P005918   ,Free Throw In (2/2 -  4 pt),FTM,21.0,21.0,Crvena Zvezda mts Belgrade,0
-PAM       ,,32,00:57,10,125,"GREEN, ERICK",P005159   ,Two Pointer (1/1 -  4 pt),2FGM,21.0,23.0,Valencia Basket,0
-PAM       ,,32,00:41,10,126,"GREEN, ERICK",P005159   ,Foul (1),CM,,,Valencia Basket,0
-RED       ,,14,00:41,10,127,"FELDEINE, JAMES",P005918   ,Foul Drawn (2),RV,,,Crvena Zvezda mts Belgrade,0
-RED       ,,14,00:41,10,128,"FELDEINE, JAMES",P005918   ,Free Throw In (3/3 -  5 pt),FTM,22.0,23.0,Crvena Zvezda mts Belgrade,0
-RED       ,,14,00:41,10,129,"FELDEINE, JAMES",P005918   ,Free Throw In (4/4 -  6 pt),FTM,23.0,23.0,Crvena Zvezda mts Belgrade,0
-PAM       ,,22,00:17,10,130,"WILLIAMS, LATAVIOUS",P004259   ,Turnover (1),TO,,,Valencia Basket,0
-RED       ,,31,00:16,10,131,"ENNIS, DYLAN",P008066   ,Steal (1),ST,,,Crvena Zvezda mts Belgrade,0
-RED       ,,31,00:13,10,132,"ENNIS, DYLAN",P008066   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Crvena Zvezda mts Belgrade,0
-RED       ,,13,00:09,10,133,"DOBRIC, OGNJEN",P004007   ,Off Rebound (1),O,,,Crvena Zvezda mts Belgrade,0
-RED       ,,13,00:09,10,134,"DOBRIC, OGNJEN",P004007   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,Crvena Zvezda mts Belgrade,0
-PAM       ,,16,00:07,10,135,"VIVES, GUILLEM",P002361   ,Def Rebound (1),D,,,Valencia Basket,0
-PAM       ,,16,00:01,10,136,"VIVES, GUILLEM",P002361   ,Missed Three Pointer (0/3 -  0 pt),3FGA,,,Valencia Basket,0
-PAM       ,,14,00:00,10,137,"DUBLJEVIC, BOJAN",P002742   ,Off Rebound (2),O,,,Valencia Basket,0
-PAM       ,,14,00:00,10,138,"DUBLJEVIC, BOJAN",P002742   ,Missed Two Pointer (1/3 -  2 pt),2FGA,,,Valencia Basket,0
-          ,,,,11,140,,          ,End Period,EP,,,,0
-          ,,,,11,143,,          ,Begin Period,BP,,,,0
-PAM       ,,6,10:00,11,141,"ABALDE, ALBERTO",P003733   ,In,IN,,,Valencia Basket,0
-PAM       ,,32,10:00,11,142,"GREEN, ERICK",P005159   ,Out,OUT,,,Valencia Basket,0
-RED       ,,31,09:50,11,144,"ENNIS, DYLAN",P008066   ,Three Pointer (1/1 -  3 pt),3FGM,26.0,23.0,Crvena Zvezda mts Belgrade,0
-RED       ,,51,09:20,11,145,"BJELICA, MILKO",PCHX      ,Foul (2),CM,,,Crvena Zvezda mts Belgrade,0
-PAM       ,,14,09:20,11,146,"DUBLJEVIC, BOJAN",P002742   ,Foul Drawn (1),RV,,,Valencia Basket,0
-PAM       ,,16,09:09,11,147,"VIVES, GUILLEM",P002361   ,Out,OUT,,,Valencia Basket,0
-PAM       ,,17,09:09,11,148,"MARTINEZ, RAFA",P001351   ,In,IN,,,Valencia Basket,0
-PAM       ,,22,08:55,12,150,"WILLIAMS, LATAVIOUS",P004259   ,Turnover (2),TO,,,Valencia Basket,0
-RED       ,,14,08:43,12,151,"FELDEINE, JAMES",P005918   ,Missed Three Pointer (0/1 -  6 pt),3FGA,,,Crvena Zvezda mts Belgrade,0
-PAM       ,,22,08:42,12,152,"WILLIAMS, LATAVIOUS",P004259   ,Def Rebound (1),D,,,Valencia Basket,0
-RED       ,,14,08:36,12,153,"FELDEINE, JAMES",P005918   ,Foul (1),CM,,,Crvena Zvezda mts Belgrade,0
-PAM       ,,42,08:36,12,154,"DOORNEKAMP, AARON",P002763   ,Foul Drawn (1),RV,,,Valencia Basket,0
-RED       ,,12,08:36,12,155,"ANTIC, PERO",PBAE      ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,51,08:36,12,156,"BJELICA, MILKO",PCHX      ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-PAM       ,,14,08:19,12,157,"DUBLJEVIC, BOJAN",P002742   ,Missed Two Pointer (1/4 -  2 pt),2FGA,,,Valencia Basket,0
-RED       ,,12,08:18,12,158,"ANTIC, PERO",PBAE      ,Def Rebound (1),D,,,Crvena Zvezda mts Belgrade,0
-PAM       ,,22,07:58,13,160,"WILLIAMS, LATAVIOUS",P004259   ,Foul (1),CM,,,Valencia Basket,0
-RED       ,,12,07:58,13,161,"ANTIC, PERO",PBAE      ,Foul Drawn (1),RV,,,Crvena Zvezda mts Belgrade,0
-RED       ,,14,07:53,13,162,"FELDEINE, JAMES",P005918   ,Two Pointer (2/3 -  8 pt),2FGM,28.0,23.0,Crvena Zvezda mts Belgrade,0
-PAM       ,,42,07:53,13,163,"DOORNEKAMP, AARON",P002763   ,Foul (2),CM,,,Valencia Basket,0
-RED       ,,13,07:53,13,164,"DOBRIC, OGNJEN",P004007   ,Foul Drawn (1),RV,,,Crvena Zvezda mts Belgrade,0
-PAM       ,,21,07:53,13,165,"PLEISS, TIBOR",PLHK      ,In,IN,,,Valencia Basket,0
-PAM       ,,22,07:53,13,166,"WILLIAMS, LATAVIOUS",P004259   ,Out,OUT,,,Valencia Basket,0
-RED       ,,13,07:42,13,167,"DOBRIC, OGNJEN",P004007   ,Two Pointer (2/3 -  4 pt),2FGM,30.0,23.0,Crvena Zvezda mts Belgrade,0
-RED       ,,23,07:42,13,168,"OMIC, ALEN",P004222   ,Assist (1),AS,,,Crvena Zvezda mts Belgrade,0
-PAM       ,,,07:40,13,169,,          ,Time Out (1),TOUT,,,Valencia Basket,0
-PAM       ,,30,07:40,13,170,"SASTRE, JOAN",P002936   ,In,IN,,,Valencia Basket,0
-PAM       ,,42,07:40,13,171,"DOORNEKAMP, AARON",P002763   ,Out,OUT,,,Valencia Basket,0
-PAM       ,,17,07:18,13,172,"MARTINEZ, RAFA",P001351   ,Three Pointer (3/3 -  11 pt),3FGM,30.0,26.0,Valencia Basket,0
-PAM       ,,6,07:17,13,173,"ABALDE, ALBERTO",P003733   ,Assist (2),AS,,,Valencia Basket,0
-RED       ,,12,07:01,13,174,"ANTIC, PERO",PBAE      ,Offensive Foul (1),OF,,,Crvena Zvezda mts Belgrade,0
-RED       ,,12,07:01,13,175,"ANTIC, PERO",PBAE      ,Turnover (1),TO,,,Crvena Zvezda mts Belgrade,0
-PAM       ,,6,07:01,13,176,"ABALDE, ALBERTO",P003733   ,Foul Drawn (3),RV,,,Valencia Basket,0
-PAM       ,,6,06:49,14,178,"ABALDE, ALBERTO",P003733   ,Three Pointer (1/1 -  3 pt),3FGM,30.0,29.0,Valencia Basket,0
-PAM       ,,21,06:49,14,179,"PLEISS, TIBOR",PLHK      ,Assist (1),AS,,,Valencia Basket,0
-RED       ,,12,06:30,14,180,"ANTIC, PERO",PBAE      ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Crvena Zvezda mts Belgrade,0
-PAM       ,,,06:25,14,181,,          ,Def Rebound (3),D,,,Valencia Basket,0
-RED       ,,10,06:25,14,182,"LAZIC, BRANKO",PLUO      ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,13,06:25,14,183,"DOBRIC, OGNJEN",P004007   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,23,06:25,14,184,"OMIC, ALEN",P004222   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,26,06:25,14,185,"LESSORT, MATHIAS",P003842   ,In,IN,,,Crvena Zvezda mts Belgrade,0
-PAM       ,,0,06:25,14,186,"THOMAS, WILL",P005856   ,In,IN,,,Valencia Basket,0
-PAM       ,,14,06:25,14,187,"DUBLJEVIC, BOJAN",P002742   ,Out,OUT,,,Valencia Basket,0
-RED       ,,31,06:19,14,188,"ENNIS, DYLAN",P008066   ,Foul (1),CM,,,Crvena Zvezda mts Belgrade,0
-PAM       ,,0,06:16,14,189,"THOMAS, WILL",P005856   ,Foul Drawn (2),RV,,,Valencia Basket,0
-PAM       ,,6,06:13,14,190,"ABALDE, ALBERTO",P003733   ,Three Pointer (2/2 -  6 pt),3FGM,30.0,32.0,Valencia Basket,0
-PAM       ,,17,06:11,14,191,"MARTINEZ, RAFA",P001351   ,Assist (1),AS,,,Valencia Basket,0
-RED       ,,14,06:00,14,192,"FELDEINE, JAMES",P005918   ,Missed Two Pointer (2/4 -  8 pt),2FGA,,,Crvena Zvezda mts Belgrade,0
-RED       ,,26,06:00,14,193,"LESSORT, MATHIAS",P003842   ,Off Rebound (2),O,,,Crvena Zvezda mts Belgrade,0
-RED       ,,26,06:00,14,194,"LESSORT, MATHIAS",P003842   ,Two Pointer (2/2 -  5 pt),2FGM,32.0,32.0,Crvena Zvezda mts Belgrade,0
-RED       ,,31,05:38,15,196,"ENNIS, DYLAN",P008066   ,Foul (2),CM,,,Crvena Zvezda mts Belgrade,0
-PAM       ,,17,05:38,15,197,"MARTINEZ, RAFA",P001351   ,Foul Drawn (1),RV,,,Valencia Basket,0
-RED       ,,22,05:38,15,198,"ROCHESTIE, TAYLOR",P002972   ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,31,05:38,15,199,"ENNIS, DYLAN",P008066   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-PAM       ,,17,05:38,15,200,"MARTINEZ, RAFA",P001351   ,Free Throw In (1/1 -  12 pt),FTM,32.0,33.0,Valencia Basket,0
-PAM       ,,17,05:38,15,201,"MARTINEZ, RAFA",P001351   ,Free Throw In (2/2 -  13 pt),FTM,32.0,34.0,Valencia Basket,0
-RED       ,,22,05:21,15,202,"ROCHESTIE, TAYLOR",P002972   ,Missed Two Pointer (0/4 -  3 pt),2FGA,,,Crvena Zvezda mts Belgrade,0
-PAM       ,,21,05:20,15,203,"PLEISS, TIBOR",PLHK      ,Def Rebound (2),D,,,Valencia Basket,0
-PAM       ,,17,05:10,15,204,"MARTINEZ, RAFA",P001351   ,Two Pointer (2/2 -  15 pt),2FGM,32.0,36.0,Valencia Basket,0
-RED       ,,,05:09,15,205,,          ,Time Out (1),TOUT,,,Crvena Zvezda mts Belgrade,0
-PAM       ,,21,04:55,16,208,"PLEISS, TIBOR",PLHK      ,Foul (2),CM,,,Valencia Basket,0
-RED       ,,26,04:55,16,209,"LESSORT, MATHIAS",P003842   ,Foul Drawn (2),RV,,,Crvena Zvezda mts Belgrade,0
-PAM       ,,21,04:55,16,210,"PLEISS, TIBOR",PLHK      ,Out,OUT,,,Valencia Basket,0
-PAM       ,,22,04:55,16,211,"WILLIAMS, LATAVIOUS",P004259   ,In,IN,,,Valencia Basket,0
-RED       ,,14,04:50,16,212,"FELDEINE, JAMES",P005918   ,Missed Two Pointer (2/5 -  8 pt),2FGA,,,Crvena Zvezda mts Belgrade,0
-RED       ,,26,04:48,16,213,"LESSORT, MATHIAS",P003842   ,Off Rebound (3),O,,,Crvena Zvezda mts Belgrade,0
-RED       ,,22,04:44,16,214,"ROCHESTIE, TAYLOR",P002972   ,Three Pointer (2/2 -  6 pt),3FGM,35.0,36.0,Crvena Zvezda mts Belgrade,0
-RED       ,,26,04:44,16,215,"LESSORT, MATHIAS",P003842   ,Assist (2),AS,,,Crvena Zvezda mts Belgrade,0
-RED       ,,22,04:22,16,216,"ROCHESTIE, TAYLOR",P002972   ,Foul (1),CM,,,Crvena Zvezda mts Belgrade,0
-PAM       ,,17,04:22,16,217,"MARTINEZ, RAFA",P001351   ,Foul Drawn (2),RV,,,Valencia Basket,0
-PAM       ,,17,04:22,16,218,"MARTINEZ, RAFA",P001351   ,Free Throw In (3/3 -  16 pt),FTM,35.0,37.0,Valencia Basket,0
-PAM       ,,17,04:22,16,219,"MARTINEZ, RAFA",P001351   ,Free Throw In (4/4 -  17 pt),FTM,35.0,38.0,Valencia Basket,0
-RED       ,,26,04:07,16,220,"LESSORT, MATHIAS",P003842   ,Two Pointer (3/3 -  7 pt),2FGM,37.0,38.0,Crvena Zvezda mts Belgrade,0
-RED       ,,12,04:07,16,222,"ANTIC, PERO",PBAE      ,Assist (1),AS,,,Crvena Zvezda mts Belgrade,0
-PAM       ,,22,03:44,17,224,"WILLIAMS, LATAVIOUS",P004259   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Valencia Basket,0
-RED       ,,12,03:40,17,225,"ANTIC, PERO",PBAE      ,Def Rebound (2),D,,,Crvena Zvezda mts Belgrade,0
-RED       ,,14,03:29,17,226,"FELDEINE, JAMES",P005918   ,Two Pointer (3/6 -  10 pt),2FGM,39.0,38.0,Crvena Zvezda mts Belgrade,0
-PAM       ,,30,03:29,17,227,"SASTRE, JOAN",P002936   ,Foul (2),CM,,,Valencia Basket,0
-RED       ,,14,03:29,17,228,"FELDEINE, JAMES",P005918   ,Foul Drawn (3),RV,,,Crvena Zvezda mts Belgrade,0
-RED       ,,12,03:29,17,229,"ANTIC, PERO",PBAE      ,Assist (2),AS,,,Crvena Zvezda mts Belgrade,0
-PAM       ,,6,03:29,17,230,"ABALDE, ALBERTO",P003733   ,Out,OUT,,,Valencia Basket,0
-PAM       ,,16,03:29,17,231,"VIVES, GUILLEM",P002361   ,In,IN,,,Valencia Basket,0
-PAM       ,,17,03:29,17,232,"MARTINEZ, RAFA",P001351   ,Out,OUT,,,Valencia Basket,0
-PAM       ,,32,03:29,17,233,"GREEN, ERICK",P005159   ,In,IN,,,Valencia Basket,0
-RED       ,,14,03:29,17,234,"FELDEINE, JAMES",P005918   ,Free Throw In (5/5 -  11 pt),FTM,40.0,38.0,Crvena Zvezda mts Belgrade,0
-PAM       ,,32,03:15,17,235,"GREEN, ERICK",P005159   ,Three Pointer (1/1 -  7 pt),3FGM,40.0,41.0,Valencia Basket,0
-PAM       ,,16,03:15,17,236,"VIVES, GUILLEM",P002361   ,Assist (2),AS,,,Valencia Basket,0
-RED       ,,14,02:57,18,238,"FELDEINE, JAMES",P005918   ,Missed Two Pointer (3/7 -  11 pt),2FGA,,,Crvena Zvezda mts Belgrade,0
-RED       ,,26,02:57,18,239,"LESSORT, MATHIAS",P003842   ,Off Rebound (4),O,,,Crvena Zvezda mts Belgrade,0
-RED       ,,26,02:57,18,240,"LESSORT, MATHIAS",P003842   ,Two Pointer (4/4 -  9 pt),2FGM,42.0,41.0,Crvena Zvezda mts Belgrade,0
-PAM       ,,0,02:40,18,241,"THOMAS, WILL",P005856   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Valencia Basket,0
-RED       ,,22,02:34,18,242,"ROCHESTIE, TAYLOR",P002972   ,Def Rebound (1),D,,,Crvena Zvezda mts Belgrade,0
-PAM       ,,22,02:20,18,243,"WILLIAMS, LATAVIOUS",P004259   ,Foul (2),CM,,,Valencia Basket,0
-RED       ,,26,02:20,18,244,"LESSORT, MATHIAS",P003842   ,Foul Drawn (3),RV,,,Crvena Zvezda mts Belgrade,0
-RED       ,,26,02:20,18,245,"LESSORT, MATHIAS",P003842   ,Free Throw In (2/2 -  10 pt),FTM,43.0,41.0,Crvena Zvezda mts Belgrade,0
-RED       ,,26,02:20,18,246,"LESSORT, MATHIAS",P003842   ,Free Throw In (3/3 -  11 pt),FTM,44.0,41.0,Crvena Zvezda mts Belgrade,0
-RED       ,,10,02:00,18,247,"LAZIC, BRANKO",PLUO      ,Foul (2),CM,,,Crvena Zvezda mts Belgrade,0
-PAM       ,,32,02:00,18,248,"GREEN, ERICK",P005159   ,Foul Drawn (2),RV,,,Valencia Basket,0
-PAM       ,,14,02:00,18,249,"DUBLJEVIC, BOJAN",P002742   ,In,IN,,,Valencia Basket,0
-PAM       ,,22,02:00,18,250,"WILLIAMS, LATAVIOUS",P004259   ,Out,OUT,,,Valencia Basket,0
-PAM       ,,32,02:00,18,251,"GREEN, ERICK",P005159   ,Free Throw In (3/3 -  8 pt),FTM,44.0,42.0,Valencia Basket,0
-PAM       ,,32,02:00,18,252,"GREEN, ERICK",P005159   ,Free Throw In (4/4 -  9 pt),FTM,44.0,43.0,Valencia Basket,0
-PAM       ,,32,02:00,18,253,"GREEN, ERICK",P005159   ,Free Throw In (5/5 -  10 pt),FTM,44.0,44.0,Valencia Basket,0
-PAM       ,,6,02:00,18,254,"ABALDE, ALBERTO",P003733   ,In,IN,,,Valencia Basket,0
-PAM       ,,30,02:00,18,255,"SASTRE, JOAN",P002936   ,Out,OUT,,,Valencia Basket,0
-RED       ,,26,01:41,19,257,"LESSORT, MATHIAS",P003842   ,Turnover (2),TO,,,Crvena Zvezda mts Belgrade,0
-PAM       ,,16,01:38,19,258,"VIVES, GUILLEM",P002361   ,Steal (2),ST,,,Valencia Basket,0
-PAM       ,,32,01:36,19,259,"GREEN, ERICK",P005159   ,Two Pointer (2/2 -  12 pt),2FGM,44.0,46.0,Valencia Basket,0
-PAM       ,,6,01:36,19,260,"ABALDE, ALBERTO",P003733   ,Assist (3),AS,,,Valencia Basket,0
-RED       ,,22,01:23,19,261,"ROCHESTIE, TAYLOR",P002972   ,Two Pointer (1/5 -  8 pt),2FGM,46.0,46.0,Crvena Zvezda mts Belgrade,0
-PAM       ,,6,01:08,19,262,"ABALDE, ALBERTO",P003733   ,Turnover (2),TO,,,Valencia Basket,0
-RED       ,,14,01:07,19,263,"FELDEINE, JAMES",P005918   ,Steal (1),ST,,,Crvena Zvezda mts Belgrade,0
-PAM       ,,6,01:06,19,264,"ABALDE, ALBERTO",P003733   ,Foul (2),CM,,,Valencia Basket,0
-RED       ,,14,01:06,19,265,"FELDEINE, JAMES",P005918   ,Foul Drawn (4),RV,,,Crvena Zvezda mts Belgrade,0
-RED       ,,23,01:06,19,266,"OMIC, ALEN",P004222   ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,26,01:06,19,267,"LESSORT, MATHIAS",P003842   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,22,01:06,19,268,"ROCHESTIE, TAYLOR",P002972   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,31,01:06,19,269,"ENNIS, DYLAN",P008066   ,In,IN,,,Crvena Zvezda mts Belgrade,0
-PAM       ,,6,01:06,19,270,"ABALDE, ALBERTO",P003733   ,Out,OUT,,,Valencia Basket,0
-PAM       ,,17,01:06,19,271,"MARTINEZ, RAFA",P001351   ,In,IN,,,Valencia Basket,0
-RED       ,,14,01:06,19,272,"FELDEINE, JAMES",P005918   ,Free Throw In (6/6 -  12 pt),FTM,47.0,46.0,Crvena Zvezda mts Belgrade,0
-RED       ,,14,01:06,19,273,"FELDEINE, JAMES",P005918   ,Free Throw In (7/7 -  13 pt),FTM,48.0,46.0,Crvena Zvezda mts Belgrade,0
-RED       ,,13,01:06,19,274,"DOBRIC, OGNJEN",P004007   ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,14,01:06,19,275,"FELDEINE, JAMES",P005918   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-PAM       ,,0,00:40,20,277,"THOMAS, WILL",P005856   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Valencia Basket,0
-PAM       ,,14,00:38,20,278,"DUBLJEVIC, BOJAN",P002742   ,Off Rebound (3),O,,,Valencia Basket,0
-PAM       ,,14,00:38,20,279,"DUBLJEVIC, BOJAN",P002742   ,Two Pointer (2/5 -  4 pt),2FGM,48.0,48.0,Valencia Basket,0
-RED       ,,31,00:18,20,280,"ENNIS, DYLAN",P008066   ,Two Pointer (1/2 -  5 pt),2FGM,50.0,48.0,Crvena Zvezda mts Belgrade,0
-PAM       ,,,00:19,20,281,,          ,Time Out (2),TOUT,,,Valencia Basket,0
-PAM       ,,32,00:02,20,282,"GREEN, ERICK",P005159   ,Missed Two Pointer (2/3 -  12 pt),2FGA,,,Valencia Basket,0
-RED       ,,12,00:00,20,283,"ANTIC, PERO",PBAE      ,Def Rebound (3),D,,,Crvena Zvezda mts Belgrade,0
-RED       ,,12,00:00,20,284,"ANTIC, PERO",PBAE      ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,Crvena Zvezda mts Belgrade,0
-          ,,,,21,286,,          ,End Period,EP,,,,0
-          ,,,,21,301,,          ,Begin Period,BP,,,,0
-RED       ,,7,10:00,21,287,"DAVIDOVAC, DEJAN",P007960   ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,12,10:00,21,288,"ANTIC, PERO",PBAE      ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,13,10:00,21,289,"DOBRIC, OGNJEN",P004007   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,22,10:00,21,290,"ROCHESTIE, TAYLOR",P002972   ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,23,10:00,21,291,"OMIC, ALEN",P004222   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,26,10:00,21,292,"LESSORT, MATHIAS",P003842   ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,31,10:00,21,293,"ENNIS, DYLAN",P008066   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,51,10:00,21,294,"BJELICA, MILKO",PCHX      ,In,IN,,,Crvena Zvezda mts Belgrade,0
-PAM       ,,6,10:00,21,295,"ABALDE, ALBERTO",P003733   ,In,IN,,,Valencia Basket,0
-PAM       ,,14,10:00,21,296,"DUBLJEVIC, BOJAN",P002742   ,Out,OUT,,,Valencia Basket,0
-PAM       ,,16,10:00,21,297,"VIVES, GUILLEM",P002361   ,Out,OUT,,,Valencia Basket,0
-PAM       ,,21,10:00,21,298,"PLEISS, TIBOR",PLHK      ,In,IN,,,Valencia Basket,0
-PAM       ,,30,10:00,21,299,"SASTRE, JOAN",P002936   ,In,IN,,,Valencia Basket,0
-PAM       ,,32,10:00,21,300,"GREEN, ERICK",P005159   ,Out,OUT,,,Valencia Basket,0
-PAM       ,,17,09:37,21,302,"MARTINEZ, RAFA",P001351   ,Missed Three Pointer (3/4 -  17 pt),3FGA,,,Valencia Basket,0
-PAM       ,,,09:35,21,303,,          ,Off Rebound (1),O,,,Valencia Basket,0
-PAM       ,,30,09:26,21,304,"SASTRE, JOAN",P002936   ,Three Pointer (3/3 -  9 pt),3FGM,50.0,51.0,Valencia Basket,0
-PAM       ,,21,09:25,21,305,"PLEISS, TIBOR",PLHK      ,Assist (2),AS,,,Valencia Basket,0
-RED       ,,26,08:55,22,307,"LESSORT, MATHIAS",P003842   ,Two Pointer (5/5 -  13 pt),2FGM,52.0,51.0,Crvena Zvezda mts Belgrade,0
-RED       ,,10,08:55,22,308,"LAZIC, BRANKO",PLUO      ,Assist (1),AS,,,Crvena Zvezda mts Belgrade,0
-PAM       ,,0,08:55,22,309,"THOMAS, WILL",P005856   ,Foul (1),CM,,,Valencia Basket,0
-RED       ,,26,08:55,22,310,"LESSORT, MATHIAS",P003842   ,Foul Drawn (4),RV,,,Crvena Zvezda mts Belgrade,0
-RED       ,,26,08:55,22,311,"LESSORT, MATHIAS",P003842   ,Free Throw In (4/4 -  14 pt),FTM,53.0,51.0,Crvena Zvezda mts Belgrade,0
-RED       ,,7,08:50,22,312,"DAVIDOVAC, DEJAN",P007960   ,Foul (3),CM,,,Crvena Zvezda mts Belgrade,0
-PAM       ,,30,08:50,22,313,"SASTRE, JOAN",P002936   ,Foul Drawn (1),RV,,,Valencia Basket,0
-RED       ,,26,08:45,22,314,"LESSORT, MATHIAS",P003842   ,Foul (2),CM,,,Crvena Zvezda mts Belgrade,0
-PAM       ,,17,08:45,22,315,"MARTINEZ, RAFA",P001351   ,Foul Drawn (3),RV,,,Valencia Basket,0
-PAM       ,,21,08:35,22,316,"PLEISS, TIBOR",PLHK      ,Two Pointer (2/3 -  5 pt),2FGM,53.0,53.0,Valencia Basket,0
-PAM       ,,0,08:35,22,317,"THOMAS, WILL",P005856   ,Assist (2),AS,,,Valencia Basket,0
-RED       ,,7,08:11,22,318,"DAVIDOVAC, DEJAN",P007960   ,Missed Three Pointer (0/2 -  2 pt),3FGA,,,Crvena Zvezda mts Belgrade,0
-PAM       ,,21,08:10,22,319,"PLEISS, TIBOR",PLHK      ,Def Rebound (3),D,,,Valencia Basket,0
-PAM       ,,0,07:58,23,321,"THOMAS, WILL",P005856   ,Three Pointer (1/2 -  3 pt),3FGM,53.0,56.0,Valencia Basket,0
-PAM       ,,6,07:58,23,322,"ABALDE, ALBERTO",P003733   ,Assist (4),AS,,,Valencia Basket,0
-PAM       ,,17,07:36,23,323,"MARTINEZ, RAFA",P001351   ,Foul (1),CM,,,Valencia Basket,0
-RED       ,,22,07:36,23,324,"ROCHESTIE, TAYLOR",P002972   ,Foul Drawn (1),RV,,,Crvena Zvezda mts Belgrade,0
-PAM       ,,6,07:36,23,325,"ABALDE, ALBERTO",P003733   ,Foul (3),CM,,,Valencia Basket,0
-RED       ,,7,07:36,23,326,"DAVIDOVAC, DEJAN",P007960   ,Foul Drawn (1),RV,,,Crvena Zvezda mts Belgrade,0
-PAM       ,,5,07:36,23,327,"GARCIA, SERGI",P005458   ,In,IN,,,Valencia Basket,0
-PAM       ,,6,07:36,23,328,"ABALDE, ALBERTO",P003733   ,Out,OUT,,,Valencia Basket,0
-RED       ,,22,07:23,23,329,"ROCHESTIE, TAYLOR",P002972   ,Two Pointer (2/6 -  10 pt),2FGM,55.0,56.0,Crvena Zvezda mts Belgrade,0
-PAM       ,,17,07:07,23,330,"MARTINEZ, RAFA",P001351   ,Two Pointer (3/3 -  19 pt),2FGM,55.0,58.0,Valencia Basket,0
-RED       ,,22,06:42,24,332,"ROCHESTIE, TAYLOR",P002972   ,Three Pointer (3/3 -  13 pt),3FGM,58.0,58.0,Crvena Zvezda mts Belgrade,0
-PAM       ,,17,06:18,24,333,"MARTINEZ, RAFA",P001351   ,Three Pointer (4/5 -  22 pt),3FGM,58.0,61.0,Valencia Basket,0
-PAM       ,,30,06:18,24,334,"SASTRE, JOAN",P002936   ,Assist (2),AS,,,Valencia Basket,0
-PAM       ,,0,06:01,24,335,"THOMAS, WILL",P005856   ,Foul (2),CM,,,Valencia Basket,0
-RED       ,,51,06:01,24,336,"BJELICA, MILKO",PCHX      ,Foul Drawn (2),RV,,,Crvena Zvezda mts Belgrade,0
-RED       ,,51,06:01,24,337,"BJELICA, MILKO",PCHX      ,Free Throw In (2/2 -  4 pt),FTM,59.0,61.0,Crvena Zvezda mts Belgrade,0
-RED       ,,22,06:01,24,338,"ROCHESTIE, TAYLOR",P002972   ,Assist (2),AS,,,Crvena Zvezda mts Belgrade,0
-RED       ,,51,06:01,24,339,"BJELICA, MILKO",PCHX      ,Free Throw In (3/3 -  5 pt),FTM,60.0,61.0,Crvena Zvezda mts Belgrade,0
-RED       ,,10,05:58,25,341,"LAZIC, BRANKO",PLUO      ,Foul (3),CM,,,Crvena Zvezda mts Belgrade,0
-PAM       ,,5,05:58,25,342,"GARCIA, SERGI",P005458   ,Foul Drawn (1),RV,,,Valencia Basket,0
-RED       ,,10,05:58,25,343,"LAZIC, BRANKO",PLUO      ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,14,05:58,25,344,"FELDEINE, JAMES",P005918   ,In,IN,,,Crvena Zvezda mts Belgrade,0
-PAM       ,,17,05:58,25,345,"MARTINEZ, RAFA",P001351   ,Turnover (1),TO,,,Valencia Basket,0
-RED       ,,26,05:58,25,346,"LESSORT, MATHIAS",P003842   ,Steal (1),ST,,,Crvena Zvezda mts Belgrade,0
-RED       ,,51,05:46,25,347,"BJELICA, MILKO",PCHX      ,Two Pointer (2/3 -  7 pt),2FGM,62.0,61.0,Crvena Zvezda mts Belgrade,0
-RED       ,,22,05:45,25,348,"ROCHESTIE, TAYLOR",P002972   ,Assist (3),AS,,,Crvena Zvezda mts Belgrade,0
-RED       ,,26,05:31,25,349,"LESSORT, MATHIAS",P003842   ,Block (1),FV,,,Crvena Zvezda mts Belgrade,0
-PAM       ,,21,05:31,25,350,"PLEISS, TIBOR",PLHK      ,Missed Two Pointer (2/4 -  5 pt),2FGA,,,Valencia Basket,0
-PAM       ,,21,05:31,25,351,"PLEISS, TIBOR",PLHK      ,Shot Rejected (1),AG,,,Valencia Basket,0
-RED       ,,7,05:31,25,352,"DAVIDOVAC, DEJAN",P007960   ,Def Rebound (2),D,,,Crvena Zvezda mts Belgrade,0
-RED       ,,22,05:20,25,353,"ROCHESTIE, TAYLOR",P002972   ,Two Pointer (3/7 -  15 pt),2FGM,64.0,61.0,Crvena Zvezda mts Belgrade,0
-PAM       ,,30,05:03,25,354,"SASTRE, JOAN",P002936   ,Two Pointer (1/3 -  11 pt),2FGM,64.0,63.0,Valencia Basket,0
-PAM       ,,17,04:42,26,356,"MARTINEZ, RAFA",P001351   ,Foul (2),CM,,,Valencia Basket,0
-RED       ,,14,04:42,26,357,"FELDEINE, JAMES",P005918   ,Foul Drawn (5),RV,,,Crvena Zvezda mts Belgrade,0
-PAM       ,,14,04:42,26,358,"DUBLJEVIC, BOJAN",P002742   ,In,IN,,,Valencia Basket,0
-PAM       ,,21,04:42,26,359,"PLEISS, TIBOR",PLHK      ,Out,OUT,,,Valencia Basket,0
-          ,,,04:42,26,360,,          ,TV Time Out (1),TOUT_TV,,,,0
-PAM       ,,17,04:42,26,361,"MARTINEZ, RAFA",P001351   ,Out,OUT,,,Valencia Basket,0
-PAM       ,,32,04:42,26,362,"GREEN, ERICK",P005159   ,In,IN,,,Valencia Basket,0
-RED       ,,14,04:42,26,363,"FELDEINE, JAMES",P005918   ,Free Throw In (8/8 -  14 pt),FTM,65.0,63.0,Crvena Zvezda mts Belgrade,0
-RED       ,,14,04:42,26,364,"FELDEINE, JAMES",P005918   ,Free Throw In (9/9 -  15 pt),FTM,66.0,63.0,Crvena Zvezda mts Belgrade,0
-RED       ,,7,04:42,26,365,"DAVIDOVAC, DEJAN",P007960   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,13,04:42,26,366,"DOBRIC, OGNJEN",P004007   ,In,IN,,,Crvena Zvezda mts Belgrade,0
-PAM       ,,32,04:21,26,367,"GREEN, ERICK",P005159   ,Two Pointer (3/4 -  14 pt),2FGM,66.0,65.0,Valencia Basket,0
-RED       ,,22,04:00,26,368,"ROCHESTIE, TAYLOR",P002972   ,Two Pointer (4/8 -  17 pt),2FGM,68.0,65.0,Crvena Zvezda mts Belgrade,0
-RED       ,,26,03:46,27,370,"LESSORT, MATHIAS",P003842   ,Foul (3),CM,,,Crvena Zvezda mts Belgrade,0
-PAM       ,,30,03:46,27,371,"SASTRE, JOAN",P002936   ,Foul Drawn (2),RV,,,Valencia Basket,0
-RED       ,,12,03:46,27,372,"ANTIC, PERO",PBAE      ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,26,03:46,27,373,"LESSORT, MATHIAS",P003842   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-PAM       ,,32,03:37,27,374,"GREEN, ERICK",P005159   ,Missed Three Pointer (1/2 -  14 pt),3FGA,,,Valencia Basket,0
-RED       ,,14,03:34,27,375,"FELDEINE, JAMES",P005918   ,Def Rebound (2),D,,,Crvena Zvezda mts Belgrade,0
-RED       ,,14,03:15,27,376,"FELDEINE, JAMES",P005918   ,Turnover (1),TO,,,Crvena Zvezda mts Belgrade,0
-PAM       ,,30,03:13,27,377,"SASTRE, JOAN",P002936   ,Steal (2),ST,,,Valencia Basket,0
-RED       ,,13,03:09,27,378,"DOBRIC, OGNJEN",P004007   ,Block (1),FV,,,Crvena Zvezda mts Belgrade,0
-PAM       ,,5,03:08,27,379,"GARCIA, SERGI",P005458   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Valencia Basket,0
-PAM       ,,5,03:08,27,380,"GARCIA, SERGI",P005458   ,Shot Rejected (1),AG,,,Valencia Basket,0
-RED       ,,12,03:08,27,381,"ANTIC, PERO",PBAE      ,Def Rebound (4),D,,,Crvena Zvezda mts Belgrade,0
-RED       ,,22,02:55,28,383,"ROCHESTIE, TAYLOR",P002972   ,Missed Three Pointer (3/4 -  17 pt),3FGA,,,Crvena Zvezda mts Belgrade,0
-PAM       ,,14,02:55,28,384,"DUBLJEVIC, BOJAN",P002742   ,Def Rebound (1),D,,,Valencia Basket,0
-PAM       ,,5,02:43,28,385,"GARCIA, SERGI",P005458   ,Two Pointer (1/2 -  2 pt),2FGM,68.0,67.0,Valencia Basket,0
-PAM       ,,0,02:21,28,386,"THOMAS, WILL",P005856   ,Block (1),FV,,,Valencia Basket,0
-RED       ,,51,02:21,28,387,"BJELICA, MILKO",PCHX      ,Missed Two Pointer (2/4 -  7 pt),2FGA,,,Crvena Zvezda mts Belgrade,0
-RED       ,,51,02:21,28,388,"BJELICA, MILKO",PCHX      ,Shot Rejected (2),AG,,,Crvena Zvezda mts Belgrade,0
-PAM       ,,30,02:21,28,389,"SASTRE, JOAN",P002936   ,Def Rebound (1),D,,,Valencia Basket,0
-PAM       ,,30,02:11,28,390,"SASTRE, JOAN",P002936   ,Turnover (1),TO,,,Valencia Basket,0
-RED       ,,14,02:11,28,391,"FELDEINE, JAMES",P005918   ,Steal (2),ST,,,Crvena Zvezda mts Belgrade,0
-RED       ,,14,02:04,28,392,"FELDEINE, JAMES",P005918   ,Two Pointer (4/8 -  17 pt),2FGM,70.0,67.0,Crvena Zvezda mts Belgrade,0
-PAM       ,,5,01:39,29,394,"GARCIA, SERGI",P005458   ,Missed Two Pointer (1/3 -  2 pt),2FGA,,,Valencia Basket,0
-RED       ,,51,01:38,29,395,"BJELICA, MILKO",PCHX      ,Def Rebound (2),D,,,Crvena Zvezda mts Belgrade,0
-PAM       ,,32,01:35,29,396,"GREEN, ERICK",P005159   ,Foul (2),CM,,,Valencia Basket,0
-RED       ,,13,01:35,29,397,"DOBRIC, OGNJEN",P004007   ,Foul Drawn (2),RV,,,Crvena Zvezda mts Belgrade,0
-RED       ,,22,01:35,29,398,"ROCHESTIE, TAYLOR",P002972   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,31,01:35,29,399,"ENNIS, DYLAN",P008066   ,In,IN,,,Crvena Zvezda mts Belgrade,0
-PAM       ,,30,01:35,29,400,"SASTRE, JOAN",P002936   ,Out,OUT,,,Valencia Basket,0
-PAM       ,,42,01:35,29,401,"DOORNEKAMP, AARON",P002763   ,In,IN,,,Valencia Basket,0
-RED       ,,13,01:35,29,402,"DOBRIC, OGNJEN",P004007   ,Free Throw In (1/1 -  5 pt),FTM,71.0,67.0,Crvena Zvezda mts Belgrade,0
-RED       ,,13,01:35,29,403,"DOBRIC, OGNJEN",P004007   ,Free Throw In (2/2 -  6 pt),FTM,72.0,67.0,Crvena Zvezda mts Belgrade,0
-PAM       ,,,01:35,29,404,,          ,Time Out (1),TOUT,,,Valencia Basket,0
-RED       ,,23,01:35,29,405,"OMIC, ALEN",P004222   ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,51,01:35,29,406,"BJELICA, MILKO",PCHX      ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-PAM       ,,5,01:35,29,407,"GARCIA, SERGI",P005458   ,Out,OUT,,,Valencia Basket,0
-PAM       ,,16,01:35,29,408,"VIVES, GUILLEM",P002361   ,In,IN,,,Valencia Basket,0
-PAM       ,,42,01:10,29,409,"DOORNEKAMP, AARON",P002763   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Valencia Basket,0
-RED       ,,14,01:05,29,410,"FELDEINE, JAMES",P005918   ,Def Rebound (3),D,,,Crvena Zvezda mts Belgrade,0
-PAM       ,,16,01:04,29,411,"VIVES, GUILLEM",P002361   ,Foul (2),CM,,,Valencia Basket,0
-RED       ,,14,01:04,29,412,"FELDEINE, JAMES",P005918   ,Foul Drawn (6),RV,,,Crvena Zvezda mts Belgrade,0
-RED       ,,14,01:04,29,413,"FELDEINE, JAMES",P005918   ,Free Throw In (10/10 -  18 pt),FTM,73.0,67.0,Crvena Zvezda mts Belgrade,0
-RED       ,,14,01:04,29,414,"FELDEINE, JAMES",P005918   ,Missed Free Throw (10/11 -  18 pt),FTA,,,Crvena Zvezda mts Belgrade,0
-PAM       ,,42,01:03,29,415,"DOORNEKAMP, AARON",P002763   ,Def Rebound (1),D,,,Valencia Basket,0
-PAM       ,,42,00:52,30,417,"DOORNEKAMP, AARON",P002763   ,Turnover (1),TO,,,Valencia Basket,0
-RED       ,,,00:52,30,418,,          ,Time Out (1),TOUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,14,00:41,30,419,"FELDEINE, JAMES",P005918   ,Three Pointer (1/2 -  21 pt),3FGM,76.0,67.0,Crvena Zvezda mts Belgrade,0
-RED       ,,31,00:40,30,420,"ENNIS, DYLAN",P008066   ,Assist (1),AS,,,Crvena Zvezda mts Belgrade,0
-PAM       ,,32,00:21,30,421,"GREEN, ERICK",P005159   ,Missed Two Pointer (3/5 -  14 pt),2FGA,,,Valencia Basket,0
-RED       ,,,00:20,30,422,,          ,Def Rebound (4),D,,,Crvena Zvezda mts Belgrade,0
-RED       ,,22,00:20,30,423,"ROCHESTIE, TAYLOR",P002972   ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,23,00:20,30,424,"OMIC, ALEN",P004222   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,12,00:08,30,425,"ANTIC, PERO",PBAE      ,Three Pointer (1/3 -  3 pt),3FGM,79.0,67.0,Crvena Zvezda mts Belgrade,0
-RED       ,,22,00:07,30,426,"ROCHESTIE, TAYLOR",P002972   ,Assist (4),AS,,,Crvena Zvezda mts Belgrade,0
-PAM       ,,14,00:00,30,427,"DUBLJEVIC, BOJAN",P002742   ,Missed Three Pointer (0/1 -  4 pt),3FGA,,,Valencia Basket,0
-          ,,,,31,429,,          ,End Period,EP,,,,0
-          ,,,,31,436,,          ,Begin Period,BP,,,,0
-PAM       ,,0,10:00,31,430,"THOMAS, WILL",P005856   ,Out,OUT,,,Valencia Basket,0
-PAM       ,,6,10:00,31,431,"ABALDE, ALBERTO",P003733   ,In,IN,,,Valencia Basket,0
-PAM       ,,14,10:00,31,432,"DUBLJEVIC, BOJAN",P002742   ,Out,OUT,,,Valencia Basket,0
-PAM       ,,16,10:00,31,433,"VIVES, GUILLEM",P002361   ,Out,OUT,,,Valencia Basket,0
-PAM       ,,17,10:00,31,434,"MARTINEZ, RAFA",P001351   ,In,IN,,,Valencia Basket,0
-PAM       ,,21,10:00,31,435,"PLEISS, TIBOR",PLHK      ,In,IN,,,Valencia Basket,0
-RED       ,,14,09:43,31,437,"FELDEINE, JAMES",P005918   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,23,09:43,31,438,"OMIC, ALEN",P004222   ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,12,09:39,31,439,"ANTIC, PERO",PBAE      ,Missed Three Pointer (1/4 -  3 pt),3FGA,,,Crvena Zvezda mts Belgrade,0
-PAM       ,,42,09:37,31,440,"DOORNEKAMP, AARON",P002763   ,Def Rebound (2),D,,,Valencia Basket,0
-PAM       ,,32,09:35,31,441,"GREEN, ERICK",P005159   ,Two Pointer (4/6 -  16 pt),2FGM,79.0,69.0,Valencia Basket,0
-PAM       ,,42,09:35,31,462,"DOORNEKAMP, AARON",P002763   ,Assist (1),AS,,,Valencia Basket,0
-RED       ,,14,09:18,31,442,"FELDEINE, JAMES",P005918   ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,22,09:18,31,443,"ROCHESTIE, TAYLOR",P002972   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-PAM       ,,21,09:18,31,444,"PLEISS, TIBOR",PLHK      ,Foul (3),CM,,,Valencia Basket,0
-RED       ,,23,09:18,31,445,"OMIC, ALEN",P004222   ,Foul Drawn (1),RV,,,Crvena Zvezda mts Belgrade,0
-RED       ,,31,09:08,31,446,"ENNIS, DYLAN",P008066   ,Missed Three Pointer (1/2 -  5 pt),3FGA,,,Crvena Zvezda mts Belgrade,0
-RED       ,,13,09:07,31,447,"DOBRIC, OGNJEN",P004007   ,Off Rebound (2),O,,,Crvena Zvezda mts Belgrade,0
-RED       ,,14,09:02,31,448,"FELDEINE, JAMES",P005918   ,Three Pointer (2/3 -  24 pt),3FGM,82.0,69.0,Crvena Zvezda mts Belgrade,0
-RED       ,,13,09:02,31,449,"DOBRIC, OGNJEN",P004007   ,Assist (1),AS,,,Crvena Zvezda mts Belgrade,0
-RED       ,,13,08:48,32,451,"DOBRIC, OGNJEN",P004007   ,Foul (1),CM,,,Crvena Zvezda mts Belgrade,0
-PAM       ,,32,08:48,32,452,"GREEN, ERICK",P005159   ,Foul Drawn (3),RV,,,Valencia Basket,0
-RED       ,,12,08:40,32,453,"ANTIC, PERO",PBAE      ,Foul (2),CM,,,Crvena Zvezda mts Belgrade,0
-PAM       ,,21,08:40,32,454,"PLEISS, TIBOR",PLHK      ,Foul Drawn (3),RV,,,Valencia Basket,0
-PAM       ,,17,08:34,32,455,"MARTINEZ, RAFA",P001351   ,Missed Three Pointer (4/6 -  22 pt),3FGA,,,Valencia Basket,0
-RED       ,,12,08:33,32,457,"ANTIC, PERO",PBAE      ,Def Rebound (5),D,,,Crvena Zvezda mts Belgrade,0
-PAM       ,,17,08:18,32,458,"MARTINEZ, RAFA",P001351   ,Foul (3),CM,,,Valencia Basket,0
-RED       ,,23,08:18,32,459,"OMIC, ALEN",P004222   ,Foul Drawn (2),RV,,,Crvena Zvezda mts Belgrade,0
-RED       ,,12,08:18,32,460,"ANTIC, PERO",PBAE      ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,51,08:18,32,461,"BJELICA, MILKO",PCHX      ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,23,08:15,32,463,"OMIC, ALEN",P004222   ,Offensive Foul (1),OF,,,Crvena Zvezda mts Belgrade,0
-RED       ,,23,08:15,32,464,"OMIC, ALEN",P004222   ,Turnover (1),TO,,,Crvena Zvezda mts Belgrade,0
-PAM       ,,17,08:15,32,465,"MARTINEZ, RAFA",P001351   ,Foul Drawn (4),RV,,,Valencia Basket,0
-PAM       ,,6,08:02,32,466,"ABALDE, ALBERTO",P003733   ,Turnover (3),TO,,,Valencia Basket,0
-RED       ,,31,08:02,32,467,"ENNIS, DYLAN",P008066   ,Steal (2),ST,,,Crvena Zvezda mts Belgrade,0
-RED       ,,14,07:49,33,469,"FELDEINE, JAMES",P005918   ,Three Pointer (3/4 -  27 pt),3FGM,85.0,69.0,Crvena Zvezda mts Belgrade,0
-PAM       ,,21,07:23,33,470,"PLEISS, TIBOR",PLHK      ,Missed Two Pointer (2/5 -  5 pt),2FGA,,,Valencia Basket,0
-PAM       ,,21,07:22,33,471,"PLEISS, TIBOR",PLHK      ,Off Rebound (1),O,,,Valencia Basket,0
-PAM       ,,21,07:22,33,472,"PLEISS, TIBOR",PLHK      ,Two Pointer (3/6 -  7 pt),2FGM,85.0,71.0,Valencia Basket,0
-RED       ,,51,07:00,33,473,"BJELICA, MILKO",PCHX      ,Three Pointer (1/1 -  10 pt),3FGM,88.0,71.0,Crvena Zvezda mts Belgrade,0
-RED       ,,23,06:59,34,475,"OMIC, ALEN",P004222   ,Assist (2),AS,,,Crvena Zvezda mts Belgrade,0
-RED       ,,10,06:45,34,476,"LAZIC, BRANKO",PLUO      ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,13,06:45,34,477,"DOBRIC, OGNJEN",P004007   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,51,06:40,34,478,"BJELICA, MILKO",PCHX      ,Foul (3),CM,,,Crvena Zvezda mts Belgrade,0
-PAM       ,,21,06:40,34,479,"PLEISS, TIBOR",PLHK      ,Foul Drawn (4),RV,,,Valencia Basket,0
-PAM       ,,21,06:40,34,480,"PLEISS, TIBOR",PLHK      ,Free Throw In (2/2 -  8 pt),FTM,88.0,72.0,Valencia Basket,0
-PAM       ,,6,06:40,34,481,"ABALDE, ALBERTO",P003733   ,Assist (5),AS,,,Valencia Basket,0
-PAM       ,,21,06:40,34,482,"PLEISS, TIBOR",PLHK      ,Missed Free Throw (2/3 -  8 pt),FTA,,,Valencia Basket,0
-RED       ,,23,06:39,34,483,"OMIC, ALEN",P004222   ,Def Rebound (1),D,,,Crvena Zvezda mts Belgrade,0
-RED       ,,14,06:26,34,484,"FELDEINE, JAMES",P005918   ,Three Pointer (4/5 -  30 pt),3FGM,91.0,72.0,Crvena Zvezda mts Belgrade,0
-RED       ,,51,06:25,34,485,"BJELICA, MILKO",PCHX      ,Assist (1),AS,,,Crvena Zvezda mts Belgrade,0
-PAM       ,,6,06:13,34,486,"ABALDE, ALBERTO",P003733   ,Two Pointer (1/1 -  8 pt),2FGM,91.0,74.0,Valencia Basket,0
-RED       ,,31,05:49,35,488,"ENNIS, DYLAN",P008066   ,Three Pointer (2/3 -  8 pt),3FGM,94.0,74.0,Crvena Zvezda mts Belgrade,0
-PAM       ,,21,05:32,35,489,"PLEISS, TIBOR",PLHK      ,Two Pointer (4/7 -  10 pt),2FGM,94.0,76.0,Valencia Basket,0
-PAM       ,,6,05:32,35,490,"ABALDE, ALBERTO",P003733   ,Assist (6),AS,,,Valencia Basket,0
-RED       ,,14,05:06,35,491,"FELDEINE, JAMES",P005918   ,Missed Three Pointer (4/6 -  30 pt),3FGA,,,Crvena Zvezda mts Belgrade,0
-PAM       ,,,05:04,35,492,,          ,Def Rebound (5),D,,,Valencia Basket,0
-PAM       ,,0,05:04,35,493,"THOMAS, WILL",P005856   ,In,IN,,,Valencia Basket,0
-PAM       ,,17,05:04,35,494,"MARTINEZ, RAFA",P001351   ,Out,OUT,,,Valencia Basket,0
-PAM       ,,30,05:04,35,495,"SASTRE, JOAN",P002936   ,In,IN,,,Valencia Basket,0
-PAM       ,,32,05:04,35,496,"GREEN, ERICK",P005159   ,Out,OUT,,,Valencia Basket,0
-RED       ,,23,04:50,36,498,"OMIC, ALEN",P004222   ,Foul (2),CM,,,Crvena Zvezda mts Belgrade,0
-PAM       ,,30,04:50,36,499,"SASTRE, JOAN",P002936   ,Foul Drawn (3),RV,,,Valencia Basket,0
-          ,,,04:50,36,500,,          ,TV Time Out (2),TOUT_TV,,,,0
-PAM       ,,5,04:50,36,501,"GARCIA, SERGI",P005458   ,In,IN,,,Valencia Basket,0
-PAM       ,,6,04:50,36,502,"ABALDE, ALBERTO",P003733   ,Out,OUT,,,Valencia Basket,0
-PAM       ,,21,04:50,36,503,"PLEISS, TIBOR",PLHK      ,Out,OUT,,,Valencia Basket,0
-PAM       ,,22,04:50,36,504,"WILLIAMS, LATAVIOUS",P004259   ,In,IN,,,Valencia Basket,0
-PAM       ,,30,04:50,36,505,"SASTRE, JOAN",P002936   ,Free Throw In (1/1 -  12 pt),FTM,94.0,77.0,Valencia Basket,0
-PAM       ,,30,04:50,36,506,"SASTRE, JOAN",P002936   ,Free Throw In (2/2 -  13 pt),FTM,94.0,78.0,Valencia Basket,0
-RED       ,,31,04:30,36,507,"ENNIS, DYLAN",P008066   ,Three Pointer (3/4 -  11 pt),3FGM,97.0,78.0,Crvena Zvezda mts Belgrade,0
-RED       ,,51,04:30,36,508,"BJELICA, MILKO",PCHX      ,Assist (2),AS,,,Crvena Zvezda mts Belgrade,0
-PAM       ,,5,04:15,36,509,"GARCIA, SERGI",P005458   ,Turnover (1),TO,,,Valencia Basket,0
-RED       ,,10,04:14,36,510,"LAZIC, BRANKO",PLUO      ,Steal (2),ST,,,Crvena Zvezda mts Belgrade,0
-RED       ,,10,04:11,36,511,"LAZIC, BRANKO",PLUO      ,Two Pointer (1/1 -  4 pt),2FGM,99.0,78.0,Crvena Zvezda mts Belgrade,0
-PAM       ,,22,03:57,37,513,"WILLIAMS, LATAVIOUS",P004259   ,Two Pointer (1/2 -  2 pt),2FGM,99.0,80.0,Valencia Basket,0
-PAM       ,,30,03:56,37,514,"SASTRE, JOAN",P002936   ,Assist (3),AS,,,Valencia Basket,0
-RED       ,,10,03:34,37,515,"LAZIC, BRANKO",PLUO      ,Three Pointer (1/1 -  7 pt),3FGM,102.0,80.0,Crvena Zvezda mts Belgrade,0
-RED       ,,23,03:33,37,516,"OMIC, ALEN",P004222   ,Assist (3),AS,,,Crvena Zvezda mts Belgrade,0
-PAM       ,,30,03:11,37,517,"SASTRE, JOAN",P002936   ,Three Pointer (4/4 -  16 pt),3FGM,102.0,83.0,Valencia Basket,0
-RED       ,,10,02:51,38,519,"LAZIC, BRANKO",PLUO      ,Missed Three Pointer (1/2 -  7 pt),3FGA,,,Crvena Zvezda mts Belgrade,0
-PAM       ,,0,02:50,38,520,"THOMAS, WILL",P005856   ,Def Rebound (2),D,,,Valencia Basket,0
-RED       ,,31,02:50,38,521,"ENNIS, DYLAN",P008066   ,Foul (3),CM,,,Crvena Zvezda mts Belgrade,0
-PAM       ,,0,02:50,38,522,"THOMAS, WILL",P005856   ,Foul Drawn (3),RV,,,Valencia Basket,0
-RED       ,,7,02:50,38,523,"DAVIDOVAC, DEJAN",P007960   ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,10,02:50,38,524,"LAZIC, BRANKO",PLUO      ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,13,02:50,38,525,"DOBRIC, OGNJEN",P004007   ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,14,02:50,38,526,"FELDEINE, JAMES",P005918   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,22,02:50,38,527,"ROCHESTIE, TAYLOR",P002972   ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,23,02:50,38,528,"OMIC, ALEN",P004222   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-RED       ,,26,02:50,38,529,"LESSORT, MATHIAS",P003842   ,In,IN,,,Crvena Zvezda mts Belgrade,0
-RED       ,,31,02:50,38,530,"ENNIS, DYLAN",P008066   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0
-PAM       ,,0,02:50,38,531,"THOMAS, WILL",P005856   ,Free Throw In (1/1 -  4 pt),FTM,102.0,84.0,Valencia Basket,0
-PAM       ,,0,02:50,38,532,"THOMAS, WILL",P005856   ,Free Throw In (2/2 -  5 pt),FTM,102.0,85.0,Valencia Basket,0
-PAM       ,,22,02:34,38,533,"WILLIAMS, LATAVIOUS",P004259   ,Foul (3),CM,,,Valencia Basket,0
-RED       ,,51,02:34,38,534,"BJELICA, MILKO",PCHX      ,Foul Drawn (3),RV,,,Crvena Zvezda mts Belgrade,0
-RED       ,,13,02:27,38,535,"DOBRIC, OGNJEN",P004007   ,Missed Two Pointer (2/4 -  6 pt),2FGA,,,Crvena Zvezda mts Belgrade,0
-RED       ,,51,02:24,38,536,"BJELICA, MILKO",PCHX      ,Off Rebound (1),O,,,Crvena Zvezda mts Belgrade,0
-RED       ,,51,02:24,38,537,"BJELICA, MILKO",PCHX      ,Missed Two Pointer (2/5 -  10 pt),2FGA,,,Crvena Zvezda mts Belgrade,0
-RED       ,,51,02:22,38,538,"BJELICA, MILKO",PCHX      ,Off Rebound (2),O,,,Crvena Zvezda mts Belgrade,0
-RED       ,,51,02:22,38,539,"BJELICA, MILKO",PCHX      ,Two Pointer (3/6 -  12 pt),2FGM,104.0,85.0,Crvena Zvezda mts Belgrade,0
-PAM       ,,42,02:06,38,540,"DOORNEKAMP, AARON",P002763   ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,Valencia Basket,0
-PAM       ,,,02:02,38,541,,          ,Off Rebound (2),O,,,Valencia Basket,0
-RED       ,,51,02:02,38,542,"BJELICA, MILKO",PCHX      ,Foul (4),CM,,,Crvena Zvezda mts Belgrade,0
-PAM       ,,0,02:02,38,543,"THOMAS, WILL",P005856   ,Foul Drawn (4),RV,,,Valencia Basket,0
-PAM       ,,0,02:02,38,544,"THOMAS, WILL",P005856   ,Free Throw In (3/3 -  6 pt),FTM,104.0,86.0,Valencia Basket,0
-PAM       ,,0,02:02,38,545,"THOMAS, WILL",P005856   ,Free Throw In (4/4 -  7 pt),FTM,104.0,87.0,Valencia Basket,0
-PAM       ,,0,02:02,38,546,"THOMAS, WILL",P005856   ,Out,OUT,,,Valencia Basket,0
-PAM       ,,3,02:02,38,547,"PUERTO, JOSEP",P006643   ,In,IN,,,Valencia Basket,0
-RED       ,,7,01:40,39,549,"DAVIDOVAC, DEJAN",P007960   ,Turnover (1),TO,,,Crvena Zvezda mts Belgrade,0
-PAM       ,,42,01:40,39,550,"DOORNEKAMP, AARON",P002763   ,Steal (1),ST,,,Valencia Basket,0
-RED       ,,51,01:33,39,551,"BJELICA, MILKO",PCHX      ,Block (1),FV,,,Crvena Zvezda mts Belgrade,0
-PAM       ,,3,01:33,39,552,"PUERTO, JOSEP",P006643   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Valencia Basket,0
-PAM       ,,3,01:33,39,553,"PUERTO, JOSEP",P006643   ,Shot Rejected (1),AG,,,Valencia Basket,0
-RED       ,,13,01:29,39,554,"DOBRIC, OGNJEN",P004007   ,Def Rebound (1),D,,,Crvena Zvezda mts Belgrade,0
-RED       ,,26,01:28,39,555,"LESSORT, MATHIAS",P003842   ,Two Pointer (6/6 -  16 pt),2FGM,106.0,87.0,Crvena Zvezda mts Belgrade,0
-RED       ,,22,01:27,39,556,"ROCHESTIE, TAYLOR",P002972   ,Assist (5),AS,,,Crvena Zvezda mts Belgrade,0
-PAM       ,,42,01:05,39,557,"DOORNEKAMP, AARON",P002763   ,Turnover (2),TO,,,Valencia Basket,0
-RED       ,,26,01:05,39,558,"LESSORT, MATHIAS",P003842   ,Steal (2),ST,,,Crvena Zvezda mts Belgrade,0
-RED       ,,26,00:57,40,560,"LESSORT, MATHIAS",P003842   ,Missed Two Pointer (6/7 -  16 pt),2FGA,,,Crvena Zvezda mts Belgrade,0
-PAM       ,,42,00:56,40,561,"DOORNEKAMP, AARON",P002763   ,Def Rebound (3),D,,,Valencia Basket,0
-RED       ,,26,00:38,40,562,"LESSORT, MATHIAS",P003842   ,Foul (4),CM,,,Crvena Zvezda mts Belgrade,0
-PAM       ,,3,00:38,40,563,"PUERTO, JOSEP",P006643   ,Foul Drawn (1),RV,,,Valencia Basket,0
-PAM       ,,3,00:38,40,564,"PUERTO, JOSEP",P006643   ,Missed Free Throw (0/1 -  0 pt),FTA,,,Valencia Basket,0
-PAM       ,,3,00:38,40,565,"PUERTO, JOSEP",P006643   ,Free Throw In (1/2 -  1 pt),FTM,106.0,88.0,Valencia Basket,0
-RED       ,,22,00:30,40,566,"ROCHESTIE, TAYLOR",P002972   ,Turnover (1),TO,,,Crvena Zvezda mts Belgrade,0
-PAM       ,,22,00:13,40,567,"WILLIAMS, LATAVIOUS",P004259   ,Two Pointer (2/3 -  4 pt),2FGM,106.0,90.0,Valencia Basket,0
-PAM       ,,42,00:13,40,568,"DOORNEKAMP, AARON",P002763   ,Assist (2),AS,,,Valencia Basket,0
-          ,,,,41,571,,          ,End Game,EG,,,,0
+CODETEAM,COMMENT,DORSAL,MARKERTIME,MINUTE,NUMBEROFPLAY,PLAYER,PLAYER_ID,PLAYINFO,PLAYTYPE,POINTS_A,POINTS_B,TEAM,TYPE,home_team,home_team_code,away_team,away_team_code
+          ,,,,1,2,,          ,Begin Period,BP,,,,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,26,09:42,1,3,"LESSORT, MATHIAS",P003842   ,Foul (1),CM,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,6,09:42,1,4,"ABALDE, ALBERTO",P003733   ,Foul Drawn (1),RV,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,6,09:33,1,5,"ABALDE, ALBERTO",P003733   ,Turnover (1),TO,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,10,09:31,1,6,"LAZIC, BRANKO",PLUO      ,Steal (1),ST,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,6,09:32,1,7,"ABALDE, ALBERTO",P003733   ,Foul (1),CM,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,10,09:32,1,8,"LAZIC, BRANKO",PLUO      ,Foul Drawn (1),RV,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,30,09:21,1,9,"SASTRE, JOAN",P002936   ,Foul (1),CM,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,10,09:21,1,11,"LAZIC, BRANKO",PLUO      ,Foul Drawn (2),RV,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,10,09:21,1,12,"LAZIC, BRANKO",PLUO      ,Free Throw In (1/1 -  1 pt),FTM,1.0,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,26,09:21,1,13,"LESSORT, MATHIAS",P003842   ,Assist (1),AS,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,10,09:21,1,14,"LAZIC, BRANKO",PLUO      ,Free Throw In (2/2 -  2 pt),FTM,2.0,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,51,09:04,1,15,"BJELICA, MILKO",PCHX      ,Foul (1),CM,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,0,09:04,1,16,"THOMAS, WILL",P005856   ,Foul Drawn (1),RV,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,30,08:56,2,18,"SASTRE, JOAN",P002936   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,26,08:55,2,19,"LESSORT, MATHIAS",P003842   ,Def Rebound (1),D,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,22,08:48,2,20,"ROCHESTIE, TAYLOR",P002972   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,,08:46,2,21,,          ,Def Rebound (1),D,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,17,08:34,2,22,"MARTINEZ, RAFA",P001351   ,Three Pointer (1/1 -  3 pt),3FGM,2.0,3.0,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,7,08:07,2,23,"DAVIDOVAC, DEJAN",P007960   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,17,08:05,2,24,"MARTINEZ, RAFA",P001351   ,Def Rebound (1),D,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,7,08:02,2,25,"DAVIDOVAC, DEJAN",P007960   ,Foul (1),CM,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,6,08:02,2,26,"ABALDE, ALBERTO",P003733   ,Foul Drawn (2),RV,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,21,07:48,3,28,"PLEISS, TIBOR",PLHK      ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,26,07:47,3,29,"LESSORT, MATHIAS",P003842   ,Def Rebound (2),D,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,7,07:33,3,30,"DAVIDOVAC, DEJAN",P007960   ,Two Pointer (1/1 -  2 pt),2FGM,4.0,3.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,0,07:15,3,31,"THOMAS, WILL",P005856   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,7,07:15,3,32,"DAVIDOVAC, DEJAN",P007960   ,Def Rebound (1),D,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,21,07:05,3,33,"PLEISS, TIBOR",PLHK      ,Block (1),FV,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,51,07:05,3,34,"BJELICA, MILKO",PCHX      ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,51,07:05,3,35,"BJELICA, MILKO",PCHX      ,Shot Rejected (1),AG,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,0,07:05,3,36,"THOMAS, WILL",P005856   ,Def Rebound (1),D,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,30,06:56,4,38,"SASTRE, JOAN",P002936   ,Three Pointer (1/1 -  3 pt),3FGM,4.0,6.0,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,0,06:56,4,39,"THOMAS, WILL",P005856   ,Assist (1),AS,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,16,06:56,4,40,"JANKOVIC, STEFAN",P007961   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,51,06:56,4,41,"BJELICA, MILKO",PCHX      ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,22,06:48,4,42,"ROCHESTIE, TAYLOR",P002972   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,26,06:44,4,43,"LESSORT, MATHIAS",P003842   ,Off Rebound (1),O,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,26,06:44,4,44,"LESSORT, MATHIAS",P003842   ,Two Pointer (1/1 -  2 pt),2FGM,6.0,6.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,21,06:44,4,45,"PLEISS, TIBOR",PLHK      ,Foul (1),CM,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,26,06:44,4,46,"LESSORT, MATHIAS",P003842   ,Foul Drawn (1),RV,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,26,06:44,4,47,"LESSORT, MATHIAS",P003842   ,Free Throw In (1/1 -  3 pt),FTM,7.0,6.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,7,06:32,4,48,"DAVIDOVAC, DEJAN",P007960   ,Foul (2),CM,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,21,06:32,4,49,"PLEISS, TIBOR",PLHK      ,Foul Drawn (1),RV,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,7,06:32,4,50,"DAVIDOVAC, DEJAN",P007960   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,14,06:32,4,51,"FELDEINE, JAMES",P005918   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,17,06:23,4,52,"MARTINEZ, RAFA",P001351   ,Three Pointer (2/2 -  6 pt),3FGM,7.0,9.0,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,16,06:09,4,53,"JANKOVIC, STEFAN",P007961   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,21,06:08,4,54,"PLEISS, TIBOR",PLHK      ,Def Rebound (1),D,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,17,05:55,5,56,"MARTINEZ, RAFA",P001351   ,Two Pointer (1/1 -  8 pt),2FGM,7.0,11.0,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,30,05:54,5,57,"SASTRE, JOAN",P002936   ,Assist (1),AS,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,22,05:40,5,58,"ROCHESTIE, TAYLOR",P002972   ,Missed Two Pointer (0/3 -  0 pt),2FGA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,17,05:38,5,59,"MARTINEZ, RAFA",P001351   ,Def Rebound (2),D,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,30,05:33,5,60,"SASTRE, JOAN",P002936   ,Three Pointer (2/2 -  6 pt),3FGM,7.0,14.0,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,6,05:33,5,61,"ABALDE, ALBERTO",P003733   ,Assist (1),AS,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,,05:31,5,62,,          ,Time Out (1),TOUT,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,6,05:31,5,63,"ABALDE, ALBERTO",P003733   ,Out,OUT,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,16,05:31,5,64,"VIVES, GUILLEM",P002361   ,In,IN,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,17,05:31,5,65,"MARTINEZ, RAFA",P001351   ,Out,OUT,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,32,05:31,5,66,"GREEN, ERICK",P005159   ,In,IN,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,14,05:12,5,67,"FELDEINE, JAMES",P005918   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,16,05:10,5,68,"JANKOVIC, STEFAN",P007961   ,Off Rebound (1),O,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,16,05:10,5,69,"JANKOVIC, STEFAN",P007961   ,Two Pointer (1/1 -  2 pt),2FGM,9.0,14.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,30,04:42,6,71,"SASTRE, JOAN",P002936   ,Missed Two Pointer (0/2 -  6 pt),2FGA,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,,04:40,6,72,,          ,Def Rebound (2),D,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,16,04:28,6,73,"JANKOVIC, STEFAN",P007961   ,Turnover (1),TO,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,16,04:28,6,74,"VIVES, GUILLEM",P002361   ,Steal (1),ST,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,21,04:16,6,75,"PLEISS, TIBOR",PLHK      ,Two Pointer (1/2 -  2 pt),2FGM,9.0,16.0,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,16,04:16,6,76,"VIVES, GUILLEM",P002361   ,Assist (1),AS,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,16,04:16,6,77,"JANKOVIC, STEFAN",P007961   ,Foul (1),CM,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,21,04:16,6,78,"PLEISS, TIBOR",PLHK      ,Foul Drawn (2),RV,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,16,04:16,6,79,"JANKOVIC, STEFAN",P007961   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,51,04:16,6,80,"BJELICA, MILKO",PCHX      ,In,IN,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,21,04:16,6,81,"PLEISS, TIBOR",PLHK      ,Free Throw In (1/1 -  3 pt),FTM,9.0,17.0,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,14,04:16,6,82,"DUBLJEVIC, BOJAN",P002742   ,In,IN,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,21,04:16,6,83,"PLEISS, TIBOR",PLHK      ,Out,OUT,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,22,04:01,6,84,"ROCHESTIE, TAYLOR",P002972   ,Three Pointer (1/1 -  3 pt),3FGM,12.0,17.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,16,03:42,7,86,"VIVES, GUILLEM",P002361   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,51,03:41,7,87,"BJELICA, MILKO",PCHX      ,Def Rebound (1),D,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,51,03:25,7,88,"BJELICA, MILKO",PCHX      ,Two Pointer (1/2 -  2 pt),2FGM,14.0,17.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,16,03:25,7,89,"VIVES, GUILLEM",P002361   ,Foul (1),CM,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,51,03:25,7,90,"BJELICA, MILKO",PCHX      ,Foul Drawn (1),RV,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,22,03:25,7,91,"ROCHESTIE, TAYLOR",P002972   ,Assist (1),AS,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,51,03:25,7,92,"BJELICA, MILKO",PCHX      ,Free Throw In (1/1 -  3 pt),FTM,15.0,17.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,14,03:11,7,93,"DUBLJEVIC, BOJAN",P002742   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,26,03:10,7,94,"LESSORT, MATHIAS",P003842   ,Def Rebound (3),D,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,26,02:59,8,96,"LESSORT, MATHIAS",P003842   ,Turnover (1),TO,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,30,02:59,8,97,"SASTRE, JOAN",P002936   ,Steal (1),ST,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,16,02:36,8,98,"VIVES, GUILLEM",P002361   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,14,02:35,8,99,"FELDEINE, JAMES",P005918   ,Def Rebound (1),D,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,14,02:31,8,100,"FELDEINE, JAMES",P005918   ,Two Pointer (1/2 -  2 pt),2FGM,17.0,17.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,10,02:09,8,101,"LAZIC, BRANKO",PLUO      ,Foul (1),CM,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,32,02:09,8,102,"GREEN, ERICK",P005159   ,Foul Drawn (1),RV,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,10,02:09,8,103,"LAZIC, BRANKO",PLUO      ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,13,02:09,8,104,"DOBRIC, OGNJEN",P004007   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,23,02:09,8,105,"OMIC, ALEN",P004222   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,26,02:09,8,106,"LESSORT, MATHIAS",P003842   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,30,02:09,8,107,"SASTRE, JOAN",P002936   ,Out,OUT,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,42,02:09,8,108,"DOORNEKAMP, AARON",P002763   ,In,IN,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,32,02:09,8,109,"GREEN, ERICK",P005159   ,Free Throw In (1/1 -  1 pt),FTM,17.0,18.0,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,32,02:09,8,110,"GREEN, ERICK",P005159   ,Free Throw In (2/2 -  2 pt),FTM,17.0,19.0,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,13,01:50,9,112,"DOBRIC, OGNJEN",P004007   ,Two Pointer (1/1 -  2 pt),2FGM,19.0,19.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,16,01:29,9,113,"VIVES, GUILLEM",P002361   ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,14,01:24,9,114,"DUBLJEVIC, BOJAN",P002742   ,Off Rebound (1),O,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,14,01:24,9,115,"DUBLJEVIC, BOJAN",P002742   ,Two Pointer (1/2 -  2 pt),2FGM,19.0,21.0,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,42,01:15,9,116,"DOORNEKAMP, AARON",P002763   ,Foul (1),CM,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,14,01:15,9,117,"FELDEINE, JAMES",P005918   ,Foul Drawn (1),RV,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,22,01:15,9,118,"ROCHESTIE, TAYLOR",P002972   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,31,01:15,9,119,"ENNIS, DYLAN",P008066   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,0,01:15,9,120,"THOMAS, WILL",P005856   ,Out,OUT,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,22,01:15,9,121,"WILLIAMS, LATAVIOUS",P004259   ,In,IN,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,14,01:15,9,122,"FELDEINE, JAMES",P005918   ,Free Throw In (1/1 -  3 pt),FTM,20.0,21.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,14,01:15,9,123,"FELDEINE, JAMES",P005918   ,Free Throw In (2/2 -  4 pt),FTM,21.0,21.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,32,00:57,10,125,"GREEN, ERICK",P005159   ,Two Pointer (1/1 -  4 pt),2FGM,21.0,23.0,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,32,00:41,10,126,"GREEN, ERICK",P005159   ,Foul (1),CM,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,14,00:41,10,127,"FELDEINE, JAMES",P005918   ,Foul Drawn (2),RV,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,14,00:41,10,128,"FELDEINE, JAMES",P005918   ,Free Throw In (3/3 -  5 pt),FTM,22.0,23.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,14,00:41,10,129,"FELDEINE, JAMES",P005918   ,Free Throw In (4/4 -  6 pt),FTM,23.0,23.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,22,00:17,10,130,"WILLIAMS, LATAVIOUS",P004259   ,Turnover (1),TO,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,31,00:16,10,131,"ENNIS, DYLAN",P008066   ,Steal (1),ST,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,31,00:13,10,132,"ENNIS, DYLAN",P008066   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,13,00:09,10,133,"DOBRIC, OGNJEN",P004007   ,Off Rebound (1),O,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,13,00:09,10,134,"DOBRIC, OGNJEN",P004007   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,16,00:07,10,135,"VIVES, GUILLEM",P002361   ,Def Rebound (1),D,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,16,00:01,10,136,"VIVES, GUILLEM",P002361   ,Missed Three Pointer (0/3 -  0 pt),3FGA,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,14,00:00,10,137,"DUBLJEVIC, BOJAN",P002742   ,Off Rebound (2),O,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,14,00:00,10,138,"DUBLJEVIC, BOJAN",P002742   ,Missed Two Pointer (1/3 -  2 pt),2FGA,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+          ,,,,11,140,,          ,End Period,EP,,,,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+          ,,,,11,143,,          ,Begin Period,BP,,,,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,6,10:00,11,141,"ABALDE, ALBERTO",P003733   ,In,IN,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,32,10:00,11,142,"GREEN, ERICK",P005159   ,Out,OUT,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,31,09:50,11,144,"ENNIS, DYLAN",P008066   ,Three Pointer (1/1 -  3 pt),3FGM,26.0,23.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,51,09:20,11,145,"BJELICA, MILKO",PCHX      ,Foul (2),CM,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,14,09:20,11,146,"DUBLJEVIC, BOJAN",P002742   ,Foul Drawn (1),RV,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,16,09:09,11,147,"VIVES, GUILLEM",P002361   ,Out,OUT,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,17,09:09,11,148,"MARTINEZ, RAFA",P001351   ,In,IN,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,22,08:55,12,150,"WILLIAMS, LATAVIOUS",P004259   ,Turnover (2),TO,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,14,08:43,12,151,"FELDEINE, JAMES",P005918   ,Missed Three Pointer (0/1 -  6 pt),3FGA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,22,08:42,12,152,"WILLIAMS, LATAVIOUS",P004259   ,Def Rebound (1),D,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,14,08:36,12,153,"FELDEINE, JAMES",P005918   ,Foul (1),CM,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,42,08:36,12,154,"DOORNEKAMP, AARON",P002763   ,Foul Drawn (1),RV,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,12,08:36,12,155,"ANTIC, PERO",PBAE      ,In,IN,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,51,08:36,12,156,"BJELICA, MILKO",PCHX      ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,14,08:19,12,157,"DUBLJEVIC, BOJAN",P002742   ,Missed Two Pointer (1/4 -  2 pt),2FGA,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,12,08:18,12,158,"ANTIC, PERO",PBAE      ,Def Rebound (1),D,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,22,07:58,13,160,"WILLIAMS, LATAVIOUS",P004259   ,Foul (1),CM,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,12,07:58,13,161,"ANTIC, PERO",PBAE      ,Foul Drawn (1),RV,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,14,07:53,13,162,"FELDEINE, JAMES",P005918   ,Two Pointer (2/3 -  8 pt),2FGM,28.0,23.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,42,07:53,13,163,"DOORNEKAMP, AARON",P002763   ,Foul (2),CM,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,13,07:53,13,164,"DOBRIC, OGNJEN",P004007   ,Foul Drawn (1),RV,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,21,07:53,13,165,"PLEISS, TIBOR",PLHK      ,In,IN,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,22,07:53,13,166,"WILLIAMS, LATAVIOUS",P004259   ,Out,OUT,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,13,07:42,13,167,"DOBRIC, OGNJEN",P004007   ,Two Pointer (2/3 -  4 pt),2FGM,30.0,23.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,23,07:42,13,168,"OMIC, ALEN",P004222   ,Assist (1),AS,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,,07:40,13,169,,          ,Time Out (1),TOUT,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,30,07:40,13,170,"SASTRE, JOAN",P002936   ,In,IN,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,42,07:40,13,171,"DOORNEKAMP, AARON",P002763   ,Out,OUT,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,17,07:18,13,172,"MARTINEZ, RAFA",P001351   ,Three Pointer (3/3 -  11 pt),3FGM,30.0,26.0,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,6,07:17,13,173,"ABALDE, ALBERTO",P003733   ,Assist (2),AS,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,12,07:01,13,174,"ANTIC, PERO",PBAE      ,Offensive Foul (1),OF,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,12,07:01,13,175,"ANTIC, PERO",PBAE      ,Turnover (1),TO,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,6,07:01,13,176,"ABALDE, ALBERTO",P003733   ,Foul Drawn (3),RV,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,6,06:49,14,178,"ABALDE, ALBERTO",P003733   ,Three Pointer (1/1 -  3 pt),3FGM,30.0,29.0,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,21,06:49,14,179,"PLEISS, TIBOR",PLHK      ,Assist (1),AS,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,12,06:30,14,180,"ANTIC, PERO",PBAE      ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,,06:25,14,181,,          ,Def Rebound (3),D,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,10,06:25,14,182,"LAZIC, BRANKO",PLUO      ,In,IN,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,13,06:25,14,183,"DOBRIC, OGNJEN",P004007   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,23,06:25,14,184,"OMIC, ALEN",P004222   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,26,06:25,14,185,"LESSORT, MATHIAS",P003842   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,0,06:25,14,186,"THOMAS, WILL",P005856   ,In,IN,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,14,06:25,14,187,"DUBLJEVIC, BOJAN",P002742   ,Out,OUT,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,31,06:19,14,188,"ENNIS, DYLAN",P008066   ,Foul (1),CM,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,0,06:16,14,189,"THOMAS, WILL",P005856   ,Foul Drawn (2),RV,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,6,06:13,14,190,"ABALDE, ALBERTO",P003733   ,Three Pointer (2/2 -  6 pt),3FGM,30.0,32.0,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,17,06:11,14,191,"MARTINEZ, RAFA",P001351   ,Assist (1),AS,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,14,06:00,14,192,"FELDEINE, JAMES",P005918   ,Missed Two Pointer (2/4 -  8 pt),2FGA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,26,06:00,14,193,"LESSORT, MATHIAS",P003842   ,Off Rebound (2),O,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,26,06:00,14,194,"LESSORT, MATHIAS",P003842   ,Two Pointer (2/2 -  5 pt),2FGM,32.0,32.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,31,05:38,15,196,"ENNIS, DYLAN",P008066   ,Foul (2),CM,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,17,05:38,15,197,"MARTINEZ, RAFA",P001351   ,Foul Drawn (1),RV,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,22,05:38,15,198,"ROCHESTIE, TAYLOR",P002972   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,31,05:38,15,199,"ENNIS, DYLAN",P008066   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,17,05:38,15,200,"MARTINEZ, RAFA",P001351   ,Free Throw In (1/1 -  12 pt),FTM,32.0,33.0,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,17,05:38,15,201,"MARTINEZ, RAFA",P001351   ,Free Throw In (2/2 -  13 pt),FTM,32.0,34.0,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,22,05:21,15,202,"ROCHESTIE, TAYLOR",P002972   ,Missed Two Pointer (0/4 -  3 pt),2FGA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,21,05:20,15,203,"PLEISS, TIBOR",PLHK      ,Def Rebound (2),D,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,17,05:10,15,204,"MARTINEZ, RAFA",P001351   ,Two Pointer (2/2 -  15 pt),2FGM,32.0,36.0,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,,05:09,15,205,,          ,Time Out (1),TOUT,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,21,04:55,16,208,"PLEISS, TIBOR",PLHK      ,Foul (2),CM,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,26,04:55,16,209,"LESSORT, MATHIAS",P003842   ,Foul Drawn (2),RV,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,21,04:55,16,210,"PLEISS, TIBOR",PLHK      ,Out,OUT,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,22,04:55,16,211,"WILLIAMS, LATAVIOUS",P004259   ,In,IN,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,14,04:50,16,212,"FELDEINE, JAMES",P005918   ,Missed Two Pointer (2/5 -  8 pt),2FGA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,26,04:48,16,213,"LESSORT, MATHIAS",P003842   ,Off Rebound (3),O,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,22,04:44,16,214,"ROCHESTIE, TAYLOR",P002972   ,Three Pointer (2/2 -  6 pt),3FGM,35.0,36.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,26,04:44,16,215,"LESSORT, MATHIAS",P003842   ,Assist (2),AS,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,22,04:22,16,216,"ROCHESTIE, TAYLOR",P002972   ,Foul (1),CM,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,17,04:22,16,217,"MARTINEZ, RAFA",P001351   ,Foul Drawn (2),RV,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,17,04:22,16,218,"MARTINEZ, RAFA",P001351   ,Free Throw In (3/3 -  16 pt),FTM,35.0,37.0,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,17,04:22,16,219,"MARTINEZ, RAFA",P001351   ,Free Throw In (4/4 -  17 pt),FTM,35.0,38.0,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,26,04:07,16,220,"LESSORT, MATHIAS",P003842   ,Two Pointer (3/3 -  7 pt),2FGM,37.0,38.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,12,04:07,16,222,"ANTIC, PERO",PBAE      ,Assist (1),AS,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,22,03:44,17,224,"WILLIAMS, LATAVIOUS",P004259   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,12,03:40,17,225,"ANTIC, PERO",PBAE      ,Def Rebound (2),D,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,14,03:29,17,226,"FELDEINE, JAMES",P005918   ,Two Pointer (3/6 -  10 pt),2FGM,39.0,38.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,30,03:29,17,227,"SASTRE, JOAN",P002936   ,Foul (2),CM,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,14,03:29,17,228,"FELDEINE, JAMES",P005918   ,Foul Drawn (3),RV,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,12,03:29,17,229,"ANTIC, PERO",PBAE      ,Assist (2),AS,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,6,03:29,17,230,"ABALDE, ALBERTO",P003733   ,Out,OUT,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,16,03:29,17,231,"VIVES, GUILLEM",P002361   ,In,IN,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,17,03:29,17,232,"MARTINEZ, RAFA",P001351   ,Out,OUT,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,32,03:29,17,233,"GREEN, ERICK",P005159   ,In,IN,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,14,03:29,17,234,"FELDEINE, JAMES",P005918   ,Free Throw In (5/5 -  11 pt),FTM,40.0,38.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,32,03:15,17,235,"GREEN, ERICK",P005159   ,Three Pointer (1/1 -  7 pt),3FGM,40.0,41.0,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,16,03:15,17,236,"VIVES, GUILLEM",P002361   ,Assist (2),AS,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,14,02:57,18,238,"FELDEINE, JAMES",P005918   ,Missed Two Pointer (3/7 -  11 pt),2FGA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,26,02:57,18,239,"LESSORT, MATHIAS",P003842   ,Off Rebound (4),O,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,26,02:57,18,240,"LESSORT, MATHIAS",P003842   ,Two Pointer (4/4 -  9 pt),2FGM,42.0,41.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,0,02:40,18,241,"THOMAS, WILL",P005856   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,22,02:34,18,242,"ROCHESTIE, TAYLOR",P002972   ,Def Rebound (1),D,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,22,02:20,18,243,"WILLIAMS, LATAVIOUS",P004259   ,Foul (2),CM,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,26,02:20,18,244,"LESSORT, MATHIAS",P003842   ,Foul Drawn (3),RV,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,26,02:20,18,245,"LESSORT, MATHIAS",P003842   ,Free Throw In (2/2 -  10 pt),FTM,43.0,41.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,26,02:20,18,246,"LESSORT, MATHIAS",P003842   ,Free Throw In (3/3 -  11 pt),FTM,44.0,41.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,10,02:00,18,247,"LAZIC, BRANKO",PLUO      ,Foul (2),CM,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,32,02:00,18,248,"GREEN, ERICK",P005159   ,Foul Drawn (2),RV,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,14,02:00,18,249,"DUBLJEVIC, BOJAN",P002742   ,In,IN,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,22,02:00,18,250,"WILLIAMS, LATAVIOUS",P004259   ,Out,OUT,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,32,02:00,18,251,"GREEN, ERICK",P005159   ,Free Throw In (3/3 -  8 pt),FTM,44.0,42.0,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,32,02:00,18,252,"GREEN, ERICK",P005159   ,Free Throw In (4/4 -  9 pt),FTM,44.0,43.0,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,32,02:00,18,253,"GREEN, ERICK",P005159   ,Free Throw In (5/5 -  10 pt),FTM,44.0,44.0,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,6,02:00,18,254,"ABALDE, ALBERTO",P003733   ,In,IN,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,30,02:00,18,255,"SASTRE, JOAN",P002936   ,Out,OUT,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,26,01:41,19,257,"LESSORT, MATHIAS",P003842   ,Turnover (2),TO,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,16,01:38,19,258,"VIVES, GUILLEM",P002361   ,Steal (2),ST,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,32,01:36,19,259,"GREEN, ERICK",P005159   ,Two Pointer (2/2 -  12 pt),2FGM,44.0,46.0,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,6,01:36,19,260,"ABALDE, ALBERTO",P003733   ,Assist (3),AS,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,22,01:23,19,261,"ROCHESTIE, TAYLOR",P002972   ,Two Pointer (1/5 -  8 pt),2FGM,46.0,46.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,6,01:08,19,262,"ABALDE, ALBERTO",P003733   ,Turnover (2),TO,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,14,01:07,19,263,"FELDEINE, JAMES",P005918   ,Steal (1),ST,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,6,01:06,19,264,"ABALDE, ALBERTO",P003733   ,Foul (2),CM,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,14,01:06,19,265,"FELDEINE, JAMES",P005918   ,Foul Drawn (4),RV,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,23,01:06,19,266,"OMIC, ALEN",P004222   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,26,01:06,19,267,"LESSORT, MATHIAS",P003842   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,22,01:06,19,268,"ROCHESTIE, TAYLOR",P002972   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,31,01:06,19,269,"ENNIS, DYLAN",P008066   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,6,01:06,19,270,"ABALDE, ALBERTO",P003733   ,Out,OUT,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,17,01:06,19,271,"MARTINEZ, RAFA",P001351   ,In,IN,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,14,01:06,19,272,"FELDEINE, JAMES",P005918   ,Free Throw In (6/6 -  12 pt),FTM,47.0,46.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,14,01:06,19,273,"FELDEINE, JAMES",P005918   ,Free Throw In (7/7 -  13 pt),FTM,48.0,46.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,13,01:06,19,274,"DOBRIC, OGNJEN",P004007   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,14,01:06,19,275,"FELDEINE, JAMES",P005918   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,0,00:40,20,277,"THOMAS, WILL",P005856   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,14,00:38,20,278,"DUBLJEVIC, BOJAN",P002742   ,Off Rebound (3),O,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,14,00:38,20,279,"DUBLJEVIC, BOJAN",P002742   ,Two Pointer (2/5 -  4 pt),2FGM,48.0,48.0,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,31,00:18,20,280,"ENNIS, DYLAN",P008066   ,Two Pointer (1/2 -  5 pt),2FGM,50.0,48.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,,00:19,20,281,,          ,Time Out (2),TOUT,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,32,00:02,20,282,"GREEN, ERICK",P005159   ,Missed Two Pointer (2/3 -  12 pt),2FGA,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,12,00:00,20,283,"ANTIC, PERO",PBAE      ,Def Rebound (3),D,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,12,00:00,20,284,"ANTIC, PERO",PBAE      ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+          ,,,,21,286,,          ,End Period,EP,,,,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+          ,,,,21,301,,          ,Begin Period,BP,,,,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,7,10:00,21,287,"DAVIDOVAC, DEJAN",P007960   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,12,10:00,21,288,"ANTIC, PERO",PBAE      ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,13,10:00,21,289,"DOBRIC, OGNJEN",P004007   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,22,10:00,21,290,"ROCHESTIE, TAYLOR",P002972   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,23,10:00,21,291,"OMIC, ALEN",P004222   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,26,10:00,21,292,"LESSORT, MATHIAS",P003842   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,31,10:00,21,293,"ENNIS, DYLAN",P008066   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,51,10:00,21,294,"BJELICA, MILKO",PCHX      ,In,IN,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,6,10:00,21,295,"ABALDE, ALBERTO",P003733   ,In,IN,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,14,10:00,21,296,"DUBLJEVIC, BOJAN",P002742   ,Out,OUT,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,16,10:00,21,297,"VIVES, GUILLEM",P002361   ,Out,OUT,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,21,10:00,21,298,"PLEISS, TIBOR",PLHK      ,In,IN,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,30,10:00,21,299,"SASTRE, JOAN",P002936   ,In,IN,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,32,10:00,21,300,"GREEN, ERICK",P005159   ,Out,OUT,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,17,09:37,21,302,"MARTINEZ, RAFA",P001351   ,Missed Three Pointer (3/4 -  17 pt),3FGA,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,,09:35,21,303,,          ,Off Rebound (1),O,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,30,09:26,21,304,"SASTRE, JOAN",P002936   ,Three Pointer (3/3 -  9 pt),3FGM,50.0,51.0,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,21,09:25,21,305,"PLEISS, TIBOR",PLHK      ,Assist (2),AS,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,26,08:55,22,307,"LESSORT, MATHIAS",P003842   ,Two Pointer (5/5 -  13 pt),2FGM,52.0,51.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,10,08:55,22,308,"LAZIC, BRANKO",PLUO      ,Assist (1),AS,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,0,08:55,22,309,"THOMAS, WILL",P005856   ,Foul (1),CM,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,26,08:55,22,310,"LESSORT, MATHIAS",P003842   ,Foul Drawn (4),RV,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,26,08:55,22,311,"LESSORT, MATHIAS",P003842   ,Free Throw In (4/4 -  14 pt),FTM,53.0,51.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,7,08:50,22,312,"DAVIDOVAC, DEJAN",P007960   ,Foul (3),CM,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,30,08:50,22,313,"SASTRE, JOAN",P002936   ,Foul Drawn (1),RV,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,26,08:45,22,314,"LESSORT, MATHIAS",P003842   ,Foul (2),CM,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,17,08:45,22,315,"MARTINEZ, RAFA",P001351   ,Foul Drawn (3),RV,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,21,08:35,22,316,"PLEISS, TIBOR",PLHK      ,Two Pointer (2/3 -  5 pt),2FGM,53.0,53.0,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,0,08:35,22,317,"THOMAS, WILL",P005856   ,Assist (2),AS,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,7,08:11,22,318,"DAVIDOVAC, DEJAN",P007960   ,Missed Three Pointer (0/2 -  2 pt),3FGA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,21,08:10,22,319,"PLEISS, TIBOR",PLHK      ,Def Rebound (3),D,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,0,07:58,23,321,"THOMAS, WILL",P005856   ,Three Pointer (1/2 -  3 pt),3FGM,53.0,56.0,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,6,07:58,23,322,"ABALDE, ALBERTO",P003733   ,Assist (4),AS,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,17,07:36,23,323,"MARTINEZ, RAFA",P001351   ,Foul (1),CM,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,22,07:36,23,324,"ROCHESTIE, TAYLOR",P002972   ,Foul Drawn (1),RV,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,6,07:36,23,325,"ABALDE, ALBERTO",P003733   ,Foul (3),CM,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,7,07:36,23,326,"DAVIDOVAC, DEJAN",P007960   ,Foul Drawn (1),RV,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,5,07:36,23,327,"GARCIA, SERGI",P005458   ,In,IN,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,6,07:36,23,328,"ABALDE, ALBERTO",P003733   ,Out,OUT,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,22,07:23,23,329,"ROCHESTIE, TAYLOR",P002972   ,Two Pointer (2/6 -  10 pt),2FGM,55.0,56.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,17,07:07,23,330,"MARTINEZ, RAFA",P001351   ,Two Pointer (3/3 -  19 pt),2FGM,55.0,58.0,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,22,06:42,24,332,"ROCHESTIE, TAYLOR",P002972   ,Three Pointer (3/3 -  13 pt),3FGM,58.0,58.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,17,06:18,24,333,"MARTINEZ, RAFA",P001351   ,Three Pointer (4/5 -  22 pt),3FGM,58.0,61.0,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,30,06:18,24,334,"SASTRE, JOAN",P002936   ,Assist (2),AS,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,0,06:01,24,335,"THOMAS, WILL",P005856   ,Foul (2),CM,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,51,06:01,24,336,"BJELICA, MILKO",PCHX      ,Foul Drawn (2),RV,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,51,06:01,24,337,"BJELICA, MILKO",PCHX      ,Free Throw In (2/2 -  4 pt),FTM,59.0,61.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,22,06:01,24,338,"ROCHESTIE, TAYLOR",P002972   ,Assist (2),AS,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,51,06:01,24,339,"BJELICA, MILKO",PCHX      ,Free Throw In (3/3 -  5 pt),FTM,60.0,61.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,10,05:58,25,341,"LAZIC, BRANKO",PLUO      ,Foul (3),CM,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,5,05:58,25,342,"GARCIA, SERGI",P005458   ,Foul Drawn (1),RV,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,10,05:58,25,343,"LAZIC, BRANKO",PLUO      ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,14,05:58,25,344,"FELDEINE, JAMES",P005918   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,17,05:58,25,345,"MARTINEZ, RAFA",P001351   ,Turnover (1),TO,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,26,05:58,25,346,"LESSORT, MATHIAS",P003842   ,Steal (1),ST,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,51,05:46,25,347,"BJELICA, MILKO",PCHX      ,Two Pointer (2/3 -  7 pt),2FGM,62.0,61.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,22,05:45,25,348,"ROCHESTIE, TAYLOR",P002972   ,Assist (3),AS,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,26,05:31,25,349,"LESSORT, MATHIAS",P003842   ,Block (1),FV,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,21,05:31,25,350,"PLEISS, TIBOR",PLHK      ,Missed Two Pointer (2/4 -  5 pt),2FGA,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,21,05:31,25,351,"PLEISS, TIBOR",PLHK      ,Shot Rejected (1),AG,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,7,05:31,25,352,"DAVIDOVAC, DEJAN",P007960   ,Def Rebound (2),D,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,22,05:20,25,353,"ROCHESTIE, TAYLOR",P002972   ,Two Pointer (3/7 -  15 pt),2FGM,64.0,61.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,30,05:03,25,354,"SASTRE, JOAN",P002936   ,Two Pointer (1/3 -  11 pt),2FGM,64.0,63.0,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,17,04:42,26,356,"MARTINEZ, RAFA",P001351   ,Foul (2),CM,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,14,04:42,26,357,"FELDEINE, JAMES",P005918   ,Foul Drawn (5),RV,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,14,04:42,26,358,"DUBLJEVIC, BOJAN",P002742   ,In,IN,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,21,04:42,26,359,"PLEISS, TIBOR",PLHK      ,Out,OUT,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+          ,,,04:42,26,360,,          ,TV Time Out (1),TOUT_TV,,,,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,17,04:42,26,361,"MARTINEZ, RAFA",P001351   ,Out,OUT,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,32,04:42,26,362,"GREEN, ERICK",P005159   ,In,IN,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,14,04:42,26,363,"FELDEINE, JAMES",P005918   ,Free Throw In (8/8 -  14 pt),FTM,65.0,63.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,14,04:42,26,364,"FELDEINE, JAMES",P005918   ,Free Throw In (9/9 -  15 pt),FTM,66.0,63.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,7,04:42,26,365,"DAVIDOVAC, DEJAN",P007960   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,13,04:42,26,366,"DOBRIC, OGNJEN",P004007   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,32,04:21,26,367,"GREEN, ERICK",P005159   ,Two Pointer (3/4 -  14 pt),2FGM,66.0,65.0,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,22,04:00,26,368,"ROCHESTIE, TAYLOR",P002972   ,Two Pointer (4/8 -  17 pt),2FGM,68.0,65.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,26,03:46,27,370,"LESSORT, MATHIAS",P003842   ,Foul (3),CM,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,30,03:46,27,371,"SASTRE, JOAN",P002936   ,Foul Drawn (2),RV,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,12,03:46,27,372,"ANTIC, PERO",PBAE      ,In,IN,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,26,03:46,27,373,"LESSORT, MATHIAS",P003842   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,32,03:37,27,374,"GREEN, ERICK",P005159   ,Missed Three Pointer (1/2 -  14 pt),3FGA,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,14,03:34,27,375,"FELDEINE, JAMES",P005918   ,Def Rebound (2),D,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,14,03:15,27,376,"FELDEINE, JAMES",P005918   ,Turnover (1),TO,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,30,03:13,27,377,"SASTRE, JOAN",P002936   ,Steal (2),ST,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,13,03:09,27,378,"DOBRIC, OGNJEN",P004007   ,Block (1),FV,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,5,03:08,27,379,"GARCIA, SERGI",P005458   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,5,03:08,27,380,"GARCIA, SERGI",P005458   ,Shot Rejected (1),AG,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,12,03:08,27,381,"ANTIC, PERO",PBAE      ,Def Rebound (4),D,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,22,02:55,28,383,"ROCHESTIE, TAYLOR",P002972   ,Missed Three Pointer (3/4 -  17 pt),3FGA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,14,02:55,28,384,"DUBLJEVIC, BOJAN",P002742   ,Def Rebound (1),D,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,5,02:43,28,385,"GARCIA, SERGI",P005458   ,Two Pointer (1/2 -  2 pt),2FGM,68.0,67.0,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,0,02:21,28,386,"THOMAS, WILL",P005856   ,Block (1),FV,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,51,02:21,28,387,"BJELICA, MILKO",PCHX      ,Missed Two Pointer (2/4 -  7 pt),2FGA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,51,02:21,28,388,"BJELICA, MILKO",PCHX      ,Shot Rejected (2),AG,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,30,02:21,28,389,"SASTRE, JOAN",P002936   ,Def Rebound (1),D,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,30,02:11,28,390,"SASTRE, JOAN",P002936   ,Turnover (1),TO,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,14,02:11,28,391,"FELDEINE, JAMES",P005918   ,Steal (2),ST,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,14,02:04,28,392,"FELDEINE, JAMES",P005918   ,Two Pointer (4/8 -  17 pt),2FGM,70.0,67.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,5,01:39,29,394,"GARCIA, SERGI",P005458   ,Missed Two Pointer (1/3 -  2 pt),2FGA,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,51,01:38,29,395,"BJELICA, MILKO",PCHX      ,Def Rebound (2),D,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,32,01:35,29,396,"GREEN, ERICK",P005159   ,Foul (2),CM,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,13,01:35,29,397,"DOBRIC, OGNJEN",P004007   ,Foul Drawn (2),RV,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,22,01:35,29,398,"ROCHESTIE, TAYLOR",P002972   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,31,01:35,29,399,"ENNIS, DYLAN",P008066   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,30,01:35,29,400,"SASTRE, JOAN",P002936   ,Out,OUT,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,42,01:35,29,401,"DOORNEKAMP, AARON",P002763   ,In,IN,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,13,01:35,29,402,"DOBRIC, OGNJEN",P004007   ,Free Throw In (1/1 -  5 pt),FTM,71.0,67.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,13,01:35,29,403,"DOBRIC, OGNJEN",P004007   ,Free Throw In (2/2 -  6 pt),FTM,72.0,67.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,,01:35,29,404,,          ,Time Out (1),TOUT,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,23,01:35,29,405,"OMIC, ALEN",P004222   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,51,01:35,29,406,"BJELICA, MILKO",PCHX      ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,5,01:35,29,407,"GARCIA, SERGI",P005458   ,Out,OUT,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,16,01:35,29,408,"VIVES, GUILLEM",P002361   ,In,IN,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,42,01:10,29,409,"DOORNEKAMP, AARON",P002763   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,14,01:05,29,410,"FELDEINE, JAMES",P005918   ,Def Rebound (3),D,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,16,01:04,29,411,"VIVES, GUILLEM",P002361   ,Foul (2),CM,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,14,01:04,29,412,"FELDEINE, JAMES",P005918   ,Foul Drawn (6),RV,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,14,01:04,29,413,"FELDEINE, JAMES",P005918   ,Free Throw In (10/10 -  18 pt),FTM,73.0,67.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,14,01:04,29,414,"FELDEINE, JAMES",P005918   ,Missed Free Throw (10/11 -  18 pt),FTA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,42,01:03,29,415,"DOORNEKAMP, AARON",P002763   ,Def Rebound (1),D,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,42,00:52,30,417,"DOORNEKAMP, AARON",P002763   ,Turnover (1),TO,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,,00:52,30,418,,          ,Time Out (1),TOUT,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,14,00:41,30,419,"FELDEINE, JAMES",P005918   ,Three Pointer (1/2 -  21 pt),3FGM,76.0,67.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,31,00:40,30,420,"ENNIS, DYLAN",P008066   ,Assist (1),AS,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,32,00:21,30,421,"GREEN, ERICK",P005159   ,Missed Two Pointer (3/5 -  14 pt),2FGA,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,,00:20,30,422,,          ,Def Rebound (4),D,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,22,00:20,30,423,"ROCHESTIE, TAYLOR",P002972   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,23,00:20,30,424,"OMIC, ALEN",P004222   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,12,00:08,30,425,"ANTIC, PERO",PBAE      ,Three Pointer (1/3 -  3 pt),3FGM,79.0,67.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,22,00:07,30,426,"ROCHESTIE, TAYLOR",P002972   ,Assist (4),AS,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,14,00:00,30,427,"DUBLJEVIC, BOJAN",P002742   ,Missed Three Pointer (0/1 -  4 pt),3FGA,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+          ,,,,31,429,,          ,End Period,EP,,,,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+          ,,,,31,436,,          ,Begin Period,BP,,,,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,0,10:00,31,430,"THOMAS, WILL",P005856   ,Out,OUT,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,6,10:00,31,431,"ABALDE, ALBERTO",P003733   ,In,IN,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,14,10:00,31,432,"DUBLJEVIC, BOJAN",P002742   ,Out,OUT,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,16,10:00,31,433,"VIVES, GUILLEM",P002361   ,Out,OUT,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,17,10:00,31,434,"MARTINEZ, RAFA",P001351   ,In,IN,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,21,10:00,31,435,"PLEISS, TIBOR",PLHK      ,In,IN,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,14,09:43,31,437,"FELDEINE, JAMES",P005918   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,23,09:43,31,438,"OMIC, ALEN",P004222   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,12,09:39,31,439,"ANTIC, PERO",PBAE      ,Missed Three Pointer (1/4 -  3 pt),3FGA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,42,09:37,31,440,"DOORNEKAMP, AARON",P002763   ,Def Rebound (2),D,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,32,09:35,31,441,"GREEN, ERICK",P005159   ,Two Pointer (4/6 -  16 pt),2FGM,79.0,69.0,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,42,09:35,31,462,"DOORNEKAMP, AARON",P002763   ,Assist (1),AS,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,14,09:18,31,442,"FELDEINE, JAMES",P005918   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,22,09:18,31,443,"ROCHESTIE, TAYLOR",P002972   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,21,09:18,31,444,"PLEISS, TIBOR",PLHK      ,Foul (3),CM,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,23,09:18,31,445,"OMIC, ALEN",P004222   ,Foul Drawn (1),RV,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,31,09:08,31,446,"ENNIS, DYLAN",P008066   ,Missed Three Pointer (1/2 -  5 pt),3FGA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,13,09:07,31,447,"DOBRIC, OGNJEN",P004007   ,Off Rebound (2),O,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,14,09:02,31,448,"FELDEINE, JAMES",P005918   ,Three Pointer (2/3 -  24 pt),3FGM,82.0,69.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,13,09:02,31,449,"DOBRIC, OGNJEN",P004007   ,Assist (1),AS,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,13,08:48,32,451,"DOBRIC, OGNJEN",P004007   ,Foul (1),CM,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,32,08:48,32,452,"GREEN, ERICK",P005159   ,Foul Drawn (3),RV,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,12,08:40,32,453,"ANTIC, PERO",PBAE      ,Foul (2),CM,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,21,08:40,32,454,"PLEISS, TIBOR",PLHK      ,Foul Drawn (3),RV,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,17,08:34,32,455,"MARTINEZ, RAFA",P001351   ,Missed Three Pointer (4/6 -  22 pt),3FGA,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,12,08:33,32,457,"ANTIC, PERO",PBAE      ,Def Rebound (5),D,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,17,08:18,32,458,"MARTINEZ, RAFA",P001351   ,Foul (3),CM,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,23,08:18,32,459,"OMIC, ALEN",P004222   ,Foul Drawn (2),RV,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,12,08:18,32,460,"ANTIC, PERO",PBAE      ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,51,08:18,32,461,"BJELICA, MILKO",PCHX      ,In,IN,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,23,08:15,32,463,"OMIC, ALEN",P004222   ,Offensive Foul (1),OF,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,23,08:15,32,464,"OMIC, ALEN",P004222   ,Turnover (1),TO,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,17,08:15,32,465,"MARTINEZ, RAFA",P001351   ,Foul Drawn (4),RV,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,6,08:02,32,466,"ABALDE, ALBERTO",P003733   ,Turnover (3),TO,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,31,08:02,32,467,"ENNIS, DYLAN",P008066   ,Steal (2),ST,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,14,07:49,33,469,"FELDEINE, JAMES",P005918   ,Three Pointer (3/4 -  27 pt),3FGM,85.0,69.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,21,07:23,33,470,"PLEISS, TIBOR",PLHK      ,Missed Two Pointer (2/5 -  5 pt),2FGA,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,21,07:22,33,471,"PLEISS, TIBOR",PLHK      ,Off Rebound (1),O,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,21,07:22,33,472,"PLEISS, TIBOR",PLHK      ,Two Pointer (3/6 -  7 pt),2FGM,85.0,71.0,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,51,07:00,33,473,"BJELICA, MILKO",PCHX      ,Three Pointer (1/1 -  10 pt),3FGM,88.0,71.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,23,06:59,34,475,"OMIC, ALEN",P004222   ,Assist (2),AS,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,10,06:45,34,476,"LAZIC, BRANKO",PLUO      ,In,IN,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,13,06:45,34,477,"DOBRIC, OGNJEN",P004007   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,51,06:40,34,478,"BJELICA, MILKO",PCHX      ,Foul (3),CM,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,21,06:40,34,479,"PLEISS, TIBOR",PLHK      ,Foul Drawn (4),RV,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,21,06:40,34,480,"PLEISS, TIBOR",PLHK      ,Free Throw In (2/2 -  8 pt),FTM,88.0,72.0,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,6,06:40,34,481,"ABALDE, ALBERTO",P003733   ,Assist (5),AS,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,21,06:40,34,482,"PLEISS, TIBOR",PLHK      ,Missed Free Throw (2/3 -  8 pt),FTA,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,23,06:39,34,483,"OMIC, ALEN",P004222   ,Def Rebound (1),D,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,14,06:26,34,484,"FELDEINE, JAMES",P005918   ,Three Pointer (4/5 -  30 pt),3FGM,91.0,72.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,51,06:25,34,485,"BJELICA, MILKO",PCHX      ,Assist (1),AS,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,6,06:13,34,486,"ABALDE, ALBERTO",P003733   ,Two Pointer (1/1 -  8 pt),2FGM,91.0,74.0,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,31,05:49,35,488,"ENNIS, DYLAN",P008066   ,Three Pointer (2/3 -  8 pt),3FGM,94.0,74.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,21,05:32,35,489,"PLEISS, TIBOR",PLHK      ,Two Pointer (4/7 -  10 pt),2FGM,94.0,76.0,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,6,05:32,35,490,"ABALDE, ALBERTO",P003733   ,Assist (6),AS,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,14,05:06,35,491,"FELDEINE, JAMES",P005918   ,Missed Three Pointer (4/6 -  30 pt),3FGA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,,05:04,35,492,,          ,Def Rebound (5),D,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,0,05:04,35,493,"THOMAS, WILL",P005856   ,In,IN,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,17,05:04,35,494,"MARTINEZ, RAFA",P001351   ,Out,OUT,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,30,05:04,35,495,"SASTRE, JOAN",P002936   ,In,IN,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,32,05:04,35,496,"GREEN, ERICK",P005159   ,Out,OUT,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,23,04:50,36,498,"OMIC, ALEN",P004222   ,Foul (2),CM,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,30,04:50,36,499,"SASTRE, JOAN",P002936   ,Foul Drawn (3),RV,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+          ,,,04:50,36,500,,          ,TV Time Out (2),TOUT_TV,,,,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,5,04:50,36,501,"GARCIA, SERGI",P005458   ,In,IN,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,6,04:50,36,502,"ABALDE, ALBERTO",P003733   ,Out,OUT,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,21,04:50,36,503,"PLEISS, TIBOR",PLHK      ,Out,OUT,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,22,04:50,36,504,"WILLIAMS, LATAVIOUS",P004259   ,In,IN,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,30,04:50,36,505,"SASTRE, JOAN",P002936   ,Free Throw In (1/1 -  12 pt),FTM,94.0,77.0,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,30,04:50,36,506,"SASTRE, JOAN",P002936   ,Free Throw In (2/2 -  13 pt),FTM,94.0,78.0,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,31,04:30,36,507,"ENNIS, DYLAN",P008066   ,Three Pointer (3/4 -  11 pt),3FGM,97.0,78.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,51,04:30,36,508,"BJELICA, MILKO",PCHX      ,Assist (2),AS,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,5,04:15,36,509,"GARCIA, SERGI",P005458   ,Turnover (1),TO,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,10,04:14,36,510,"LAZIC, BRANKO",PLUO      ,Steal (2),ST,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,10,04:11,36,511,"LAZIC, BRANKO",PLUO      ,Two Pointer (1/1 -  4 pt),2FGM,99.0,78.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,22,03:57,37,513,"WILLIAMS, LATAVIOUS",P004259   ,Two Pointer (1/2 -  2 pt),2FGM,99.0,80.0,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,30,03:56,37,514,"SASTRE, JOAN",P002936   ,Assist (3),AS,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,10,03:34,37,515,"LAZIC, BRANKO",PLUO      ,Three Pointer (1/1 -  7 pt),3FGM,102.0,80.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,23,03:33,37,516,"OMIC, ALEN",P004222   ,Assist (3),AS,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,30,03:11,37,517,"SASTRE, JOAN",P002936   ,Three Pointer (4/4 -  16 pt),3FGM,102.0,83.0,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,10,02:51,38,519,"LAZIC, BRANKO",PLUO      ,Missed Three Pointer (1/2 -  7 pt),3FGA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,0,02:50,38,520,"THOMAS, WILL",P005856   ,Def Rebound (2),D,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,31,02:50,38,521,"ENNIS, DYLAN",P008066   ,Foul (3),CM,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,0,02:50,38,522,"THOMAS, WILL",P005856   ,Foul Drawn (3),RV,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,7,02:50,38,523,"DAVIDOVAC, DEJAN",P007960   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,10,02:50,38,524,"LAZIC, BRANKO",PLUO      ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,13,02:50,38,525,"DOBRIC, OGNJEN",P004007   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,14,02:50,38,526,"FELDEINE, JAMES",P005918   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,22,02:50,38,527,"ROCHESTIE, TAYLOR",P002972   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,23,02:50,38,528,"OMIC, ALEN",P004222   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,26,02:50,38,529,"LESSORT, MATHIAS",P003842   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,31,02:50,38,530,"ENNIS, DYLAN",P008066   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,0,02:50,38,531,"THOMAS, WILL",P005856   ,Free Throw In (1/1 -  4 pt),FTM,102.0,84.0,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,0,02:50,38,532,"THOMAS, WILL",P005856   ,Free Throw In (2/2 -  5 pt),FTM,102.0,85.0,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,22,02:34,38,533,"WILLIAMS, LATAVIOUS",P004259   ,Foul (3),CM,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,51,02:34,38,534,"BJELICA, MILKO",PCHX      ,Foul Drawn (3),RV,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,13,02:27,38,535,"DOBRIC, OGNJEN",P004007   ,Missed Two Pointer (2/4 -  6 pt),2FGA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,51,02:24,38,536,"BJELICA, MILKO",PCHX      ,Off Rebound (1),O,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,51,02:24,38,537,"BJELICA, MILKO",PCHX      ,Missed Two Pointer (2/5 -  10 pt),2FGA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,51,02:22,38,538,"BJELICA, MILKO",PCHX      ,Off Rebound (2),O,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,51,02:22,38,539,"BJELICA, MILKO",PCHX      ,Two Pointer (3/6 -  12 pt),2FGM,104.0,85.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,42,02:06,38,540,"DOORNEKAMP, AARON",P002763   ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,,02:02,38,541,,          ,Off Rebound (2),O,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,51,02:02,38,542,"BJELICA, MILKO",PCHX      ,Foul (4),CM,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,0,02:02,38,543,"THOMAS, WILL",P005856   ,Foul Drawn (4),RV,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,0,02:02,38,544,"THOMAS, WILL",P005856   ,Free Throw In (3/3 -  6 pt),FTM,104.0,86.0,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,0,02:02,38,545,"THOMAS, WILL",P005856   ,Free Throw In (4/4 -  7 pt),FTM,104.0,87.0,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,0,02:02,38,546,"THOMAS, WILL",P005856   ,Out,OUT,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,3,02:02,38,547,"PUERTO, JOSEP",P006643   ,In,IN,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,7,01:40,39,549,"DAVIDOVAC, DEJAN",P007960   ,Turnover (1),TO,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,42,01:40,39,550,"DOORNEKAMP, AARON",P002763   ,Steal (1),ST,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,51,01:33,39,551,"BJELICA, MILKO",PCHX      ,Block (1),FV,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,3,01:33,39,552,"PUERTO, JOSEP",P006643   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,3,01:33,39,553,"PUERTO, JOSEP",P006643   ,Shot Rejected (1),AG,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,13,01:29,39,554,"DOBRIC, OGNJEN",P004007   ,Def Rebound (1),D,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,26,01:28,39,555,"LESSORT, MATHIAS",P003842   ,Two Pointer (6/6 -  16 pt),2FGM,106.0,87.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,22,01:27,39,556,"ROCHESTIE, TAYLOR",P002972   ,Assist (5),AS,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,42,01:05,39,557,"DOORNEKAMP, AARON",P002763   ,Turnover (2),TO,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,26,01:05,39,558,"LESSORT, MATHIAS",P003842   ,Steal (2),ST,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,26,00:57,40,560,"LESSORT, MATHIAS",P003842   ,Missed Two Pointer (6/7 -  16 pt),2FGA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,42,00:56,40,561,"DOORNEKAMP, AARON",P002763   ,Def Rebound (3),D,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,26,00:38,40,562,"LESSORT, MATHIAS",P003842   ,Foul (4),CM,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,3,00:38,40,563,"PUERTO, JOSEP",P006643   ,Foul Drawn (1),RV,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,3,00:38,40,564,"PUERTO, JOSEP",P006643   ,Missed Free Throw (0/1 -  0 pt),FTA,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,3,00:38,40,565,"PUERTO, JOSEP",P006643   ,Free Throw In (1/2 -  1 pt),FTM,106.0,88.0,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+RED       ,,22,00:30,40,566,"ROCHESTIE, TAYLOR",P002972   ,Turnover (1),TO,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,22,00:13,40,567,"WILLIAMS, LATAVIOUS",P004259   ,Two Pointer (2/3 -  4 pt),2FGM,106.0,90.0,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+PAM       ,,42,00:13,40,568,"DOORNEKAMP, AARON",P002763   ,Assist (2),AS,,,Valencia Basket,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM
+          ,,,,41,571,,          ,End Game,EG,,,,0,Crvena Zvezda mts Belgrade,RED,Valencia Basket,PAM

@@ -1,536 +1,536 @@
-CODETEAM,COMMENT,DORSAL,MARKERTIME,MINUTE,NUMBEROFPLAY,PLAYER,PLAYER_ID,PLAYINFO,PLAYTYPE,POINTS_A,POINTS_B,TEAM,TYPE
-          ,,,,1,2,,          ,Begin Period,BP,,,,0
-OLY       ,,1,09:59,1,3,"MCLEAN, JAMEL",P004418   ,,TPOFF,,,Olympiacos Piraeus,0
-ZAL       ,,0,09:59,1,4,"DAVIES, BRANDON",P007870   ,,TPOFF,,,Zalgiris Kaunas,0
-OLY       ,,1,09:38,1,5,"MCLEAN, JAMEL",P004418   ,Two Pointer (1/1 -  2 pt),2FGM,,2.0,Olympiacos Piraeus,0
-OLY       ,,7,09:25,1,6,"SPANOULIS, VASSILIS",PJUO      ,Foul (1),CM,,,Olympiacos Piraeus,0
-ZAL       ,,22,09:25,1,7,"MICIC, VASILIJE",P002580   ,Foul Drawn (1),RV,,,Zalgiris Kaunas,0
-ZAL       ,,22,09:18,1,8,"MICIC, VASILIJE",P002580   ,Two Pointer (1/1 -  2 pt),2FGM,2.0,2.0,Zalgiris Kaunas,0
-ZAL       ,,13,09:00,1,9,"JANKUNAS, PAULIUS",PBWI      ,Assist (1),AS,,,Zalgiris Kaunas,0
-ZAL       ,,13,08:59,2,11,"JANKUNAS, PAULIUS",PBWI      ,Foul (1),CM,,,Zalgiris Kaunas,0
-OLY       ,,7,08:59,2,12,"SPANOULIS, VASSILIS",PJUO      ,Foul Drawn (1),RV,,,Olympiacos Piraeus,0
-OLY       ,,7,08:59,2,13,"SPANOULIS, VASSILIS",PJUO      ,Free Throw In (1/1 -  1 pt),FTM,2.0,3.0,Olympiacos Piraeus,0
-OLY       ,,7,08:59,2,14,"SPANOULIS, VASSILIS",PJUO      ,Free Throw In (2/2 -  2 pt),FTM,2.0,4.0,Olympiacos Piraeus,0
-ZAL       ,,0,08:41,2,15,"DAVIES, BRANDON",P007870   ,Two Pointer (1/1 -  2 pt),2FGM,4.0,4.0,Zalgiris Kaunas,0
-ZAL       ,,13,08:40,2,16,"JANKUNAS, PAULIUS",PBWI      ,Assist (2),AS,,,Zalgiris Kaunas,0
-OLY       ,,7,08:20,2,17,"SPANOULIS, VASSILIS",PJUO      ,Missed Two Pointer (0/1 -  2 pt),2FGA,,,Olympiacos Piraeus,0
-OLY       ,,7,08:20,2,18,"SPANOULIS, VASSILIS",PJUO      ,Shot Rejected (1),AG,,,Olympiacos Piraeus,0
-ZAL       ,,0,08:17,2,19,"DAVIES, BRANDON",P007870   ,Block (1),FV,,,Zalgiris Kaunas,0
-ZAL       ,,92,08:15,2,20,"ULANOVAS, EDGARAS",P002329   ,Def Rebound (1),D,,,Zalgiris Kaunas,0
-ZAL       ,,22,08:08,2,21,"MICIC, VASILIJE",P002580   ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,Zalgiris Kaunas,0
-ZAL       ,,92,08:06,2,22,"ULANOVAS, EDGARAS",P002329   ,Off Rebound (1),O,,,Zalgiris Kaunas,0
-ZAL       ,,92,08:06,2,23,"ULANOVAS, EDGARAS",P002329   ,Turnover (1),TO,,,Zalgiris Kaunas,0
-OLY       ,,6,07:49,3,25,"PAPAPETROU, IOANNIS",P005161   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Olympiacos Piraeus,0
-OLY       ,,22,07:47,3,26,"ROBERTS, BRIAN",P002091   ,Off Rebound (1),O,,,Olympiacos Piraeus,0
-OLY       ,,7,07:33,3,27,"SPANOULIS, VASSILIS",PJUO      ,Missed Two Pointer (0/2 -  2 pt),2FGA,,,Olympiacos Piraeus,0
-ZAL       ,,13,07:31,3,28,"JANKUNAS, PAULIUS",PBWI      ,Def Rebound (1),D,,,Zalgiris Kaunas,0
-ZAL       ,,3,07:24,3,29,"PANGOS, KEVIN",P006433   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Zalgiris Kaunas,0
-OLY       ,,6,07:22,3,30,"PAPAPETROU, IOANNIS",P005161   ,Def Rebound (1),D,,,Olympiacos Piraeus,0
-OLY       ,,7,07:10,3,31,"SPANOULIS, VASSILIS",PJUO      ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,Olympiacos Piraeus,0
-OLY       ,,6,07:07,3,32,"PAPAPETROU, IOANNIS",P005161   ,Off Rebound (1),O,,,Olympiacos Piraeus,0
-ZAL       ,,92,07:07,3,33,"ULANOVAS, EDGARAS",P002329   ,Foul (1),CM,,,Zalgiris Kaunas,0
-OLY       ,,6,07:07,3,34,"PAPAPETROU, IOANNIS",P005161   ,Foul Drawn (1),RV,,,Olympiacos Piraeus,0
-OLY       ,,6,07:07,3,35,"PAPAPETROU, IOANNIS",P005161   ,Free Throw In (1/1 -  1 pt),FTM,4.0,5.0,Olympiacos Piraeus,0
-OLY       ,,6,07:07,3,36,"PAPAPETROU, IOANNIS",P005161   ,Free Throw In (2/2 -  2 pt),FTM,4.0,6.0,Olympiacos Piraeus,0
-ZAL       ,,0,06:54,4,38,"DAVIES, BRANDON",P007870   ,Turnover (1),TO,,,Zalgiris Kaunas,0
-OLY       ,,22,06:35,4,39,"ROBERTS, BRIAN",P002091   ,Two Pointer (1/1 -  2 pt),2FGM,4.0,8.0,Olympiacos Piraeus,0
-ZAL       ,,3,06:22,4,41,"PANGOS, KEVIN",P006433   ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,Zalgiris Kaunas,0
-OLY       ,,1,06:20,4,42,"MCLEAN, JAMEL",P004418   ,Def Rebound (1),D,,,Olympiacos Piraeus,0
-OLY       ,,22,06:14,4,43,"ROBERTS, BRIAN",P002091   ,Two Pointer (2/2 -  4 pt),2FGM,4.0,10.0,Olympiacos Piraeus,0
-OLY       ,,1,06:12,4,44,"MCLEAN, JAMEL",P004418   ,Assist (1),AS,,,Olympiacos Piraeus,0
-OLY       ,,6,06:03,4,45,"PAPAPETROU, IOANNIS",P005161   ,Foul (1),CM,,,Olympiacos Piraeus,0
-ZAL       ,,13,06:03,4,46,"JANKUNAS, PAULIUS",PBWI      ,Foul Drawn (1),RV,,,Zalgiris Kaunas,0
-ZAL       ,,0,06:03,4,47,"DAVIES, BRANDON",P007870   ,Out,OUT,,,Zalgiris Kaunas,0
-ZAL       ,,44,06:03,4,48,"KAVALIAUSKAS, ANTANAS",P000399   ,In,IN,,,Zalgiris Kaunas,0
-ZAL       ,,3,05:52,5,50,"PANGOS, KEVIN",P006433   ,Three Pointer (1/3 -  3 pt),3FGM,7.0,10.0,Zalgiris Kaunas,0
-ZAL       ,,22,05:49,5,51,"MICIC, VASILIJE",P002580   ,Assist (1),AS,,,Zalgiris Kaunas,0
-OLY       ,,22,05:29,5,52,"ROBERTS, BRIAN",P002091   ,Three Pointer (1/1 -  7 pt),3FGM,7.0,13.0,Olympiacos Piraeus,0
-OLY       ,,1,05:26,5,53,"MCLEAN, JAMEL",P004418   ,Assist (2),AS,,,Olympiacos Piraeus,0
-ZAL       ,,44,05:11,5,54,"KAVALIAUSKAS, ANTANAS",P000399   ,Two Pointer (1/1 -  2 pt),2FGM,9.0,13.0,Zalgiris Kaunas,0
-ZAL       ,,22,05:10,5,55,"MICIC, VASILIJE",P002580   ,Assist (2),AS,,,Zalgiris Kaunas,0
-OLY       ,,7,04:49,6,57,"SPANOULIS, VASSILIS",PJUO      ,Turnover (1),TO,,,Olympiacos Piraeus,0
-          ,,,04:49,6,58,,          ,TV Time Out (1),TOUT_TV,,,,0
-ZAL       ,,3,04:38,6,59,"PANGOS, KEVIN",P006433   ,Offensive Foul (1),OF,,,Zalgiris Kaunas,0
-ZAL       ,,3,04:38,6,60,"PANGOS, KEVIN",P006433   ,Turnover (1),TO,,,Zalgiris Kaunas,0
-OLY       ,,15,04:38,6,61,"PRINTEZIS, GEORGIOS",PAMM      ,Foul Drawn (1),RV,,,Olympiacos Piraeus,0
-OLY       ,,1,04:24,6,62,"MCLEAN, JAMEL",P004418   ,Offensive Foul (1),OF,,,Olympiacos Piraeus,0
-OLY       ,,1,04:24,6,63,"MCLEAN, JAMEL",P004418   ,Turnover (1),TO,,,Olympiacos Piraeus,0
-ZAL       ,,3,04:24,6,64,"PANGOS, KEVIN",P006433   ,Foul Drawn (1),RV,,,Zalgiris Kaunas,0
-ZAL       ,,6,04:24,6,65,"TOUPANE, AXEL",P002582   ,In,IN,,,Zalgiris Kaunas,0
-ZAL       ,,22,04:24,6,66,"MICIC, VASILIJE",P002580   ,Out,OUT,,,Zalgiris Kaunas,0
-OLY       ,,1,04:24,6,67,"MCLEAN, JAMEL",P004418   ,Out,OUT,,,Olympiacos Piraeus,0
-OLY       ,,11,04:24,6,68,"MILUTINOV, NIKOLA",P003941   ,In,IN,,,Olympiacos Piraeus,0
-ZAL       ,,13,04:09,6,69,"JANKUNAS, PAULIUS",PBWI      ,Two Pointer (1/1 -  2 pt),2FGM,11.0,13.0,Zalgiris Kaunas,0
-OLY       ,,7,03:43,7,71,"SPANOULIS, VASSILIS",PJUO      ,Missed Three Pointer (0/2 -  2 pt),3FGA,,,Olympiacos Piraeus,0
-OLY       ,,,03:41,7,72,,          ,Off Rebound (1),O,,,Olympiacos Piraeus,0
-ZAL       ,,44,03:31,7,73,"KAVALIAUSKAS, ANTANAS",P000399   ,Foul (1),CM,,,Zalgiris Kaunas,0
-OLY       ,,7,03:31,7,74,"SPANOULIS, VASSILIS",PJUO      ,Foul Drawn (2),RV,,,Olympiacos Piraeus,0
-OLY       ,,7,03:31,7,75,"SPANOULIS, VASSILIS",PJUO      ,Missed Free Throw (2/3 -  2 pt),FTA,,,Olympiacos Piraeus,0
-OLY       ,,7,03:31,7,76,"SPANOULIS, VASSILIS",PJUO      ,Free Throw In (3/4 -  3 pt),FTM,11.0,14.0,Olympiacos Piraeus,0
-ZAL       ,,3,03:11,7,77,"PANGOS, KEVIN",P006433   ,Missed Three Pointer (1/4 -  3 pt),3FGA,,,Zalgiris Kaunas,0
-ZAL       ,,44,03:11,7,78,"KAVALIAUSKAS, ANTANAS",P000399   ,Off Rebound (1),O,,,Zalgiris Kaunas,0
-ZAL       ,,3,03:11,7,79,"PANGOS, KEVIN",P006433   ,Out,OUT,,,Zalgiris Kaunas,0
-ZAL       ,,9,03:11,7,80,"UDRIH, BENO",PAGP      ,In,IN,,,Zalgiris Kaunas,0
-ZAL       ,,21,03:11,7,81,"MILAKNIS, ARTURAS",PKPD      ,In,IN,,,Zalgiris Kaunas,0
-ZAL       ,,92,03:11,7,82,"ULANOVAS, EDGARAS",P002329   ,Out,OUT,,,Zalgiris Kaunas,0
-ZAL       ,,44,03:05,7,83,"KAVALIAUSKAS, ANTANAS",P000399   ,Two Pointer (2/2 -  4 pt),2FGM,13.0,14.0,Zalgiris Kaunas,0
-ZAL       ,,9,03:03,7,84,"UDRIH, BENO",PAGP      ,Assist (1),AS,,,Zalgiris Kaunas,0
-OLY       ,,15,02:51,8,86,"PRINTEZIS, GEORGIOS",PAMM      ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Olympiacos Piraeus,0
-OLY       ,,15,02:49,8,87,"PRINTEZIS, GEORGIOS",PAMM      ,Off Rebound (1),O,,,Olympiacos Piraeus,0
-OLY       ,,15,02:47,8,88,"PRINTEZIS, GEORGIOS",PAMM      ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Olympiacos Piraeus,0
-ZAL       ,,6,02:45,8,89,"TOUPANE, AXEL",P002582   ,Def Rebound (1),D,,,Zalgiris Kaunas,0
-ZAL       ,,21,02:38,8,90,"MILAKNIS, ARTURAS",PKPD      ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Zalgiris Kaunas,0
-OLY       ,,6,02:36,8,91,"PAPAPETROU, IOANNIS",P005161   ,Def Rebound (2),D,,,Olympiacos Piraeus,0
-ZAL       ,,9,02:32,8,92,"UDRIH, BENO",PAGP      ,Foul (1),CM,,,Zalgiris Kaunas,0
-OLY       ,,22,02:32,8,93,"ROBERTS, BRIAN",P002091   ,Foul Drawn (1),RV,,,Olympiacos Piraeus,0
-ZAL       ,,13,02:32,8,94,"JANKUNAS, PAULIUS",PBWI      ,Out,OUT,,,Zalgiris Kaunas,0
-ZAL       ,,30,02:32,8,95,"WHITE, AARON",P006505   ,In,IN,,,Zalgiris Kaunas,0
-OLY       ,,14,02:32,8,96,"TILLIE, KIM",P002744   ,In,IN,,,Olympiacos Piraeus,0
-OLY       ,,15,02:32,8,97,"PRINTEZIS, GEORGIOS",PAMM      ,Out,OUT,,,Olympiacos Piraeus,0
-OLY       ,,22,02:32,8,98,"ROBERTS, BRIAN",P002091   ,Free Throw In (1/1 -  8 pt),FTM,13.0,15.0,Olympiacos Piraeus,0
-OLY       ,,22,02:32,8,99,"ROBERTS, BRIAN",P002091   ,Free Throw In (2/2 -  9 pt),FTM,13.0,16.0,Olympiacos Piraeus,0
-OLY       ,,17,02:32,8,100,"MANTZARIS, VANGELIS",P003537   ,In,IN,,,Olympiacos Piraeus,0
-OLY       ,,22,02:32,8,101,"ROBERTS, BRIAN",P002091   ,Out,OUT,,,Olympiacos Piraeus,0
-ZAL       ,,6,02:20,8,102,"TOUPANE, AXEL",P002582   ,Two Pointer (1/1 -  2 pt),2FGM,15.0,16.0,Zalgiris Kaunas,0
-ZAL       ,,9,02:17,8,103,"UDRIH, BENO",PAGP      ,Assist (2),AS,,,Zalgiris Kaunas,0
-OLY       ,,7,01:57,9,105,"SPANOULIS, VASSILIS",PJUO      ,Missed Three Pointer (0/3 -  3 pt),3FGA,,,Olympiacos Piraeus,0
-ZAL       ,,6,01:55,9,106,"TOUPANE, AXEL",P002582   ,Def Rebound (2),D,,,Zalgiris Kaunas,0
-ZAL       ,,6,01:51,9,107,"TOUPANE, AXEL",P002582   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,Zalgiris Kaunas,0
-ZAL       ,,6,01:51,9,108,"TOUPANE, AXEL",P002582   ,Shot Rejected (1),AG,,,Zalgiris Kaunas,0
-OLY       ,,6,01:51,9,109,"PAPAPETROU, IOANNIS",P005161   ,Block (1),FV,,,Olympiacos Piraeus,0
-ZAL       ,,,01:51,9,110,,          ,Off Rebound (2),O,,,Zalgiris Kaunas,0
-ZAL       ,,30,01:33,9,111,"WHITE, AARON",P006505   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Zalgiris Kaunas,0
-ZAL       ,,30,01:31,9,112,"WHITE, AARON",P006505   ,Off Rebound (1),O,,,Zalgiris Kaunas,0
-ZAL       ,,9,01:22,9,113,"UDRIH, BENO",PAGP      ,Two Pointer (1/1 -  2 pt),2FGM,17.0,16.0,Zalgiris Kaunas,0
-OLY       ,,11,01:11,9,114,"MILUTINOV, NIKOLA",P003941   ,Offensive Foul (1),OF,,,Olympiacos Piraeus,0
-OLY       ,,11,01:11,9,115,"MILUTINOV, NIKOLA",P003941   ,Turnover (1),TO,,,Olympiacos Piraeus,0
-ZAL       ,,21,01:11,9,116,"MILAKNIS, ARTURAS",PKPD      ,Foul Drawn (1),RV,,,Zalgiris Kaunas,0
-ZAL       ,,30,01:00,9,117,"WHITE, AARON",P006505   ,Two Pointer (1/1 -  2 pt),2FGM,19.0,16.0,Zalgiris Kaunas,0
-ZAL       ,,9,00:57,10,119,"UDRIH, BENO",PAGP      ,Assist (3),AS,,,Zalgiris Kaunas,0
-OLY       ,,14,00:41,10,120,"TILLIE, KIM",P002744   ,Three Pointer (1/1 -  3 pt),3FGM,19.0,19.0,Olympiacos Piraeus,0
-OLY       ,,7,00:38,10,121,"SPANOULIS, VASSILIS",PJUO      ,Assist (1),AS,,,Olympiacos Piraeus,0
-ZAL       ,,30,00:19,10,122,"WHITE, AARON",P006505   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,Zalgiris Kaunas,0
-ZAL       ,,44,00:17,10,123,"KAVALIAUSKAS, ANTANAS",P000399   ,Off Rebound (2),O,,,Zalgiris Kaunas,0
-ZAL       ,,9,00:06,10,124,"UDRIH, BENO",PAGP      ,Two Pointer (2/2 -  4 pt),2FGM,21.0,19.0,Zalgiris Kaunas,0
-OLY       ,,7,00:02,10,125,"SPANOULIS, VASSILIS",PJUO      ,Missed Three Pointer (0/4 -  3 pt),3FGA,,,Olympiacos Piraeus,0
-          ,,,,11,127,,          ,End Period,EP,,,,0
-          ,,,,11,134,,          ,Begin Period,BP,,,,0
-ZAL       ,,13,10:00,11,128,"JANKUNAS, PAULIUS",PBWI      ,In,IN,,,Zalgiris Kaunas,0
-ZAL       ,,44,10:00,11,129,"KAVALIAUSKAS, ANTANAS",P000399   ,Out,OUT,,,Zalgiris Kaunas,0
-OLY       ,,6,10:00,11,130,"PAPAPETROU, IOANNIS",P005161   ,Out,OUT,,,Olympiacos Piraeus,0
-OLY       ,,7,10:00,11,131,"SPANOULIS, VASSILIS",PJUO      ,Out,OUT,,,Olympiacos Piraeus,0
-OLY       ,,13,10:00,11,132,"STRELNIEKS, JANIS",P000046   ,In,IN,,,Olympiacos Piraeus,0
-OLY       ,,16,10:00,11,133,"PAPANIKOLAOU, KOSTAS",P001255   ,In,IN,,,Olympiacos Piraeus,0
-ZAL       ,,13,09:50,11,135,"JANKUNAS, PAULIUS",PBWI      ,Two Pointer (2/2 -  4 pt),2FGM,23.0,19.0,Zalgiris Kaunas,0
-ZAL       ,,9,09:46,11,136,"UDRIH, BENO",PAGP      ,Assist (4),AS,,,Zalgiris Kaunas,0
-ZAL       ,,21,09:30,11,137,"MILAKNIS, ARTURAS",PKPD      ,Foul (1),CM,,,Zalgiris Kaunas,0
-OLY       ,,16,09:30,11,138,"PAPANIKOLAOU, KOSTAS",P001255   ,Foul Drawn (1),RV,,,Olympiacos Piraeus,0
-OLY       ,,17,09:20,11,139,"MANTZARIS, VANGELIS",P003537   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Olympiacos Piraeus,0
-OLY       ,,,09:20,11,140,,          ,Off Rebound (3),O,,,Olympiacos Piraeus,0
-ZAL       ,,13,09:20,11,141,"JANKUNAS, PAULIUS",PBWI      ,Foul (2),CM,,,Zalgiris Kaunas,0
-OLY       ,,11,09:20,11,142,"MILUTINOV, NIKOLA",P003941   ,Foul Drawn (1),RV,,,Olympiacos Piraeus,0
-ZAL       ,,0,09:20,11,143,"DAVIES, BRANDON",P007870   ,In,IN,,,Zalgiris Kaunas,0
-ZAL       ,,13,09:20,11,144,"JANKUNAS, PAULIUS",PBWI      ,Out,OUT,,,Zalgiris Kaunas,0
-OLY       ,,1,09:20,11,145,"MCLEAN, JAMEL",P004418   ,In,IN,,,Olympiacos Piraeus,0
-OLY       ,,11,09:20,11,146,"MILUTINOV, NIKOLA",P003941   ,Out,OUT,,,Olympiacos Piraeus,0
-ZAL       ,,0,09:12,11,147,"DAVIES, BRANDON",P007870   ,Foul (1),CM,,,Zalgiris Kaunas,0
-OLY       ,,13,09:12,11,148,"STRELNIEKS, JANIS",P000046   ,Foul Drawn (1),RV,,,Olympiacos Piraeus,0
-OLY       ,,13,09:12,11,149,"STRELNIEKS, JANIS",P000046   ,Free Throw In (1/1 -  1 pt),FTM,23.0,20.0,Olympiacos Piraeus,0
-OLY       ,,17,09:12,11,150,"MANTZARIS, VANGELIS",P003537   ,Assist (1),AS,,,Olympiacos Piraeus,0
-OLY       ,,13,09:12,11,151,"STRELNIEKS, JANIS",P000046   ,Free Throw In (2/2 -  2 pt),FTM,23.0,21.0,Olympiacos Piraeus,0
-OLY       ,,13,09:12,11,152,"STRELNIEKS, JANIS",P000046   ,Free Throw In (3/3 -  3 pt),FTM,23.0,22.0,Olympiacos Piraeus,0
-ZAL       ,,6,09:04,11,153,"TOUPANE, AXEL",P002582   ,Two Pointer (2/3 -  4 pt),2FGM,25.0,22.0,Zalgiris Kaunas,0
-OLY       ,,1,08:35,12,155,"MCLEAN, JAMEL",P004418   ,Two Pointer (2/2 -  4 pt),2FGM,25.0,24.0,Olympiacos Piraeus,0
-OLY       ,,13,08:33,12,196,"STRELNIEKS, JANIS",P000046   ,Assist (1),AS,,,Olympiacos Piraeus,0
-OLY       ,,14,08:23,12,156,"TILLIE, KIM",P002744   ,Foul (1),CM,,,Olympiacos Piraeus,0
-ZAL       ,,0,08:23,12,157,"DAVIES, BRANDON",P007870   ,Foul Drawn (1),RV,,,Zalgiris Kaunas,0
-ZAL       ,,9,08:23,12,158,"UDRIH, BENO",PAGP      ,Out,OUT,,,Zalgiris Kaunas,0
-ZAL       ,,22,08:23,12,159,"MICIC, VASILIJE",P002580   ,In,IN,,,Zalgiris Kaunas,0
-ZAL       ,,0,08:23,12,160,"DAVIES, BRANDON",P007870   ,Free Throw In (1/1 -  3 pt),FTM,26.0,24.0,Zalgiris Kaunas,0
-ZAL       ,,6,08:23,12,161,"TOUPANE, AXEL",P002582   ,Assist (1),AS,,,Zalgiris Kaunas,0
-ZAL       ,,0,08:23,12,162,"DAVIES, BRANDON",P007870   ,Free Throw In (2/2 -  4 pt),FTM,27.0,24.0,Zalgiris Kaunas,0
-OLY       ,,13,08:01,12,163,"STRELNIEKS, JANIS",P000046   ,Missed Three Pointer (0/1 -  3 pt),3FGA,,,Olympiacos Piraeus,0
-ZAL       ,,,08:00,12,164,,          ,Def Rebound (1),D,,,Zalgiris Kaunas,0
-OLY       ,,14,07:42,13,167,"TILLIE, KIM",P002744   ,Out,OUT,,,Olympiacos Piraeus,0
-OLY       ,,15,07:42,13,168,"PRINTEZIS, GEORGIOS",PAMM      ,In,IN,,,Olympiacos Piraeus,0
-ZAL       ,,6,07:41,13,169,"TOUPANE, AXEL",P002582   ,Turnover (1),TO,,,Zalgiris Kaunas,0
-ZAL       ,,30,07:27,13,170,"WHITE, AARON",P006505   ,Foul (1),CM,,,Zalgiris Kaunas,0
-OLY       ,,1,07:27,13,171,"MCLEAN, JAMEL",P004418   ,Foul Drawn (1),RV,,,Olympiacos Piraeus,0
-OLY       ,,1,07:13,13,172,"MCLEAN, JAMEL",P004418   ,Turnover (2),TO,,,Olympiacos Piraeus,0
-ZAL       ,,3,07:13,13,173,"PANGOS, KEVIN",P006433   ,In,IN,,,Zalgiris Kaunas,0
-ZAL       ,,6,07:13,13,174,"TOUPANE, AXEL",P002582   ,Out,OUT,,,Zalgiris Kaunas,0
-ZAL       ,,21,06:52,14,176,"MILAKNIS, ARTURAS",PKPD      ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,Zalgiris Kaunas,0
-OLY       ,,13,06:50,14,177,"STRELNIEKS, JANIS",P000046   ,Def Rebound (1),D,,,Olympiacos Piraeus,0
-OLY       ,,1,06:41,14,178,"MCLEAN, JAMEL",P004418   ,Missed Two Pointer (2/3 -  4 pt),2FGA,,,Olympiacos Piraeus,0
-ZAL       ,,21,06:39,14,179,"MILAKNIS, ARTURAS",PKPD      ,Def Rebound (1),D,,,Zalgiris Kaunas,0
-ZAL       ,,0,06:27,14,180,"DAVIES, BRANDON",P007870   ,Two Pointer (2/2 -  6 pt),2FGM,29.0,24.0,Zalgiris Kaunas,0
-ZAL       ,,22,06:27,14,181,"MICIC, VASILIJE",P002580   ,Assist (3),AS,,,Zalgiris Kaunas,0
-OLY       ,,17,06:27,14,182,"MANTZARIS, VANGELIS",P003537   ,Foul (1),CM,,,Olympiacos Piraeus,0
-ZAL       ,,0,06:27,14,183,"DAVIES, BRANDON",P007870   ,Foul Drawn (2),RV,,,Zalgiris Kaunas,0
-ZAL       ,,21,06:27,14,184,"MILAKNIS, ARTURAS",PKPD      ,Out,OUT,,,Zalgiris Kaunas,0
-ZAL       ,,92,06:27,14,185,"ULANOVAS, EDGARAS",P002329   ,In,IN,,,Zalgiris Kaunas,0
-ZAL       ,,0,06:27,14,186,"DAVIES, BRANDON",P007870   ,Free Throw In (3/3 -  7 pt),FTM,30.0,24.0,Zalgiris Kaunas,0
-OLY       ,,15,06:09,14,187,"PRINTEZIS, GEORGIOS",PAMM      ,Turnover (1),TO,,,Olympiacos Piraeus,0
-ZAL       ,,22,06:07,14,188,"MICIC, VASILIJE",P002580   ,Steal (1),ST,,,Zalgiris Kaunas,0
-ZAL       ,,30,05:52,15,190,"WHITE, AARON",P006505   ,Two Pointer (2/3 -  4 pt),2FGM,32.0,24.0,Zalgiris Kaunas,0
-ZAL       ,,0,05:52,15,191,"DAVIES, BRANDON",P007870   ,Assist (1),AS,,,Zalgiris Kaunas,0
-OLY       ,,13,05:52,15,192,"STRELNIEKS, JANIS",P000046   ,Foul (1),CM,,,Olympiacos Piraeus,0
-ZAL       ,,30,05:52,15,193,"WHITE, AARON",P006505   ,Foul Drawn (1),RV,,,Zalgiris Kaunas,0
-OLY       ,,,05:52,15,194,,          ,Time Out (1),TOUT,,,Olympiacos Piraeus,0
-          ,,,05:52,15,195,,          ,TV Time Out (2),TOUT_TV,,,,0
-OLY       ,,7,05:52,15,197,"SPANOULIS, VASSILIS",PJUO      ,In,IN,,,Olympiacos Piraeus,0
-OLY       ,,13,05:52,15,198,"STRELNIEKS, JANIS",P000046   ,Out,OUT,,,Olympiacos Piraeus,0
-OLY       ,,17,05:52,15,199,"MANTZARIS, VANGELIS",P003537   ,Out,OUT,,,Olympiacos Piraeus,0
-OLY       ,,22,05:52,15,200,"ROBERTS, BRIAN",P002091   ,In,IN,,,Olympiacos Piraeus,0
-ZAL       ,,30,05:52,15,201,"WHITE, AARON",P006505   ,Free Throw In (1/1 -  5 pt),FTM,33.0,24.0,Zalgiris Kaunas,0
-OLY       ,,15,05:28,15,202,"PRINTEZIS, GEORGIOS",PAMM      ,Missed Two Pointer (0/3 -  0 pt),2FGA,,,Olympiacos Piraeus,0
-ZAL       ,,92,05:26,15,203,"ULANOVAS, EDGARAS",P002329   ,Def Rebound (2),D,,,Zalgiris Kaunas,0
-ZAL       ,,3,05:22,15,204,"PANGOS, KEVIN",P006433   ,Two Pointer (1/1 -  5 pt),2FGM,35.0,24.0,Zalgiris Kaunas,0
-ZAL       ,,30,05:22,15,205,"WHITE, AARON",P006505   ,Assist (1),AS,,,Zalgiris Kaunas,0
-OLY       ,,16,04:52,16,207,"PAPANIKOLAOU, KOSTAS",P001255   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Olympiacos Piraeus,0
-ZAL       ,,22,04:50,16,208,"MICIC, VASILIJE",P002580   ,Def Rebound (1),D,,,Zalgiris Kaunas,0
-OLY       ,,16,04:47,16,209,"PAPANIKOLAOU, KOSTAS",P001255   ,Foul (1),CM,,,Olympiacos Piraeus,0
-ZAL       ,,22,04:47,16,210,"MICIC, VASILIJE",P002580   ,Foul Drawn (2),RV,,,Zalgiris Kaunas,0
-ZAL       ,,22,04:47,16,211,"MICIC, VASILIJE",P002580   ,Free Throw In (1/1 -  3 pt),FTM,36.0,24.0,Zalgiris Kaunas,0
-ZAL       ,,22,04:47,16,212,"MICIC, VASILIJE",P002580   ,Free Throw In (2/2 -  4 pt),FTM,37.0,24.0,Zalgiris Kaunas,0
-ZAL       ,,30,04:34,16,213,"WHITE, AARON",P006505   ,Foul (2),CM,,,Zalgiris Kaunas,0
-OLY       ,,7,04:34,16,214,"SPANOULIS, VASSILIS",PJUO      ,Foul Drawn (3),RV,,,Olympiacos Piraeus,0
-ZAL       ,,13,04:34,16,215,"JANKUNAS, PAULIUS",PBWI      ,In,IN,,,Zalgiris Kaunas,0
-ZAL       ,,30,04:34,16,216,"WHITE, AARON",P006505   ,Out,OUT,,,Zalgiris Kaunas,0
-OLY       ,,7,04:34,16,217,"SPANOULIS, VASSILIS",PJUO      ,Free Throw In (4/5 -  4 pt),FTM,37.0,25.0,Olympiacos Piraeus,0
-OLY       ,,7,04:34,16,218,"SPANOULIS, VASSILIS",PJUO      ,Free Throw In (5/6 -  5 pt),FTM,37.0,26.0,Olympiacos Piraeus,0
-ZAL       ,,22,04:18,16,219,"MICIC, VASILIJE",P002580   ,Missed Two Pointer (1/2 -  4 pt),2FGA,,,Zalgiris Kaunas,0
-OLY       ,,1,04:16,16,220,"MCLEAN, JAMEL",P004418   ,Def Rebound (2),D,,,Olympiacos Piraeus,0
-OLY       ,,15,04:08,16,221,"PRINTEZIS, GEORGIOS",PAMM      ,Missed Two Pointer (0/4 -  0 pt),2FGA,,,Olympiacos Piraeus,0
-ZAL       ,,3,04:06,16,222,"PANGOS, KEVIN",P006433   ,Def Rebound (1),D,,,Zalgiris Kaunas,0
-ZAL       ,,0,03:51,17,224,"DAVIES, BRANDON",P007870   ,Two Pointer (3/3 -  9 pt),2FGM,39.0,26.0,Zalgiris Kaunas,0
-ZAL       ,,22,03:49,17,225,"MICIC, VASILIJE",P002580   ,Assist (4),AS,,,Zalgiris Kaunas,0
-OLY       ,,,03:49,17,226,,          ,Time Out (2),TOUT,,,Olympiacos Piraeus,0
-OLY       ,,1,03:49,17,227,"MCLEAN, JAMEL",P004418   ,Out,OUT,,,Olympiacos Piraeus,0
-OLY       ,,6,03:49,17,228,"PAPAPETROU, IOANNIS",P005161   ,In,IN,,,Olympiacos Piraeus,0
-OLY       ,,11,03:49,17,229,"MILUTINOV, NIKOLA",P003941   ,In,IN,,,Olympiacos Piraeus,0
-OLY       ,,15,03:49,17,230,"PRINTEZIS, GEORGIOS",PAMM      ,Out,OUT,,,Olympiacos Piraeus,0
-OLY       ,,16,03:34,17,231,"PAPANIKOLAOU, KOSTAS",P001255   ,Turnover (1),TO,,,Olympiacos Piraeus,0
-ZAL       ,,3,03:21,17,232,"PANGOS, KEVIN",P006433   ,Three Pointer (2/5 -  8 pt),3FGM,42.0,26.0,Zalgiris Kaunas,0
-ZAL       ,,13,03:21,17,233,"JANKUNAS, PAULIUS",PBWI      ,Assist (3),AS,,,Zalgiris Kaunas,0
-OLY       ,,7,02:54,18,235,"SPANOULIS, VASSILIS",PJUO      ,Two Pointer (1/3 -  7 pt),2FGM,42.0,28.0,Olympiacos Piraeus,0
-OLY       ,,22,02:33,18,236,"ROBERTS, BRIAN",P002091   ,Foul (1),CM,,,Olympiacos Piraeus,0
-ZAL       ,,22,02:33,18,237,"MICIC, VASILIJE",P002580   ,Foul Drawn (3),RV,,,Zalgiris Kaunas,0
-OLY       ,,14,02:33,18,238,"TILLIE, KIM",P002744   ,In,IN,,,Olympiacos Piraeus,0
-OLY       ,,16,02:33,18,239,"PAPANIKOLAOU, KOSTAS",P001255   ,Out,OUT,,,Olympiacos Piraeus,0
-ZAL       ,,22,02:33,18,240,"MICIC, VASILIJE",P002580   ,Free Throw In (3/3 -  5 pt),FTM,43.0,28.0,Zalgiris Kaunas,0
-ZAL       ,,22,02:33,18,241,"MICIC, VASILIJE",P002580   ,Free Throw In (4/4 -  6 pt),FTM,44.0,28.0,Zalgiris Kaunas,0
-ZAL       ,,13,02:33,18,242,"JANKUNAS, PAULIUS",PBWI      ,Out,OUT,,,Zalgiris Kaunas,0
-ZAL       ,,21,02:33,18,243,"MILAKNIS, ARTURAS",PKPD      ,In,IN,,,Zalgiris Kaunas,0
-OLY       ,,7,02:17,18,244,"SPANOULIS, VASSILIS",PJUO      ,Two Pointer (2/4 -  9 pt),2FGM,44.0,30.0,Olympiacos Piraeus,0
-OLY       ,,11,02:14,18,271,"MILUTINOV, NIKOLA",P003941   ,Assist (1),AS,,,Olympiacos Piraeus,0
-ZAL       ,,3,01:51,19,246,"PANGOS, KEVIN",P006433   ,Two Pointer (2/2 -  10 pt),2FGM,46.0,30.0,Zalgiris Kaunas,0
-OLY       ,,6,01:41,19,247,"PAPAPETROU, IOANNIS",P005161   ,Offensive Foul (2),OF,,,Olympiacos Piraeus,0
-OLY       ,,6,01:41,19,248,"PAPAPETROU, IOANNIS",P005161   ,Turnover (1),TO,,,Olympiacos Piraeus,0
-ZAL       ,,22,01:41,19,249,"MICIC, VASILIJE",P002580   ,Foul Drawn (4),RV,,,Zalgiris Kaunas,0
-OLY       ,,3,01:41,19,250,"BROWN, BOBBY",P000129   ,In,IN,,,Olympiacos Piraeus,0
-OLY       ,,6,01:41,19,251,"PAPAPETROU, IOANNIS",P005161   ,Out,OUT,,,Olympiacos Piraeus,0
-OLY       ,,17,01:41,19,252,"MANTZARIS, VANGELIS",P003537   ,In,IN,,,Olympiacos Piraeus,0
-OLY       ,,22,01:41,19,253,"ROBERTS, BRIAN",P002091   ,Out,OUT,,,Olympiacos Piraeus,0
-OLY       ,,17,01:31,19,254,"MANTZARIS, VANGELIS",P003537   ,Foul (2),CM,,,Olympiacos Piraeus,0
-ZAL       ,,21,01:31,19,255,"MILAKNIS, ARTURAS",PKPD      ,Foul Drawn (2),RV,,,Zalgiris Kaunas,0
-ZAL       ,,21,01:31,19,256,"MILAKNIS, ARTURAS",PKPD      ,Missed Free Throw (0/1 -  0 pt),FTA,,,Zalgiris Kaunas,0
-ZAL       ,,21,01:31,19,257,"MILAKNIS, ARTURAS",PKPD      ,Free Throw In (1/2 -  1 pt),FTM,47.0,30.0,Zalgiris Kaunas,0
-ZAL       ,,0,01:31,19,258,"DAVIES, BRANDON",P007870   ,Out,OUT,,,Zalgiris Kaunas,0
-ZAL       ,,44,01:31,19,259,"KAVALIAUSKAS, ANTANAS",P000399   ,In,IN,,,Zalgiris Kaunas,0
-OLY       ,,3,01:11,19,260,"BROWN, BOBBY",P000129   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Olympiacos Piraeus,0
-ZAL       ,,22,01:08,19,261,"MICIC, VASILIJE",P002580   ,Def Rebound (2),D,,,Zalgiris Kaunas,0
-ZAL       ,,22,00:57,20,263,"MICIC, VASILIJE",P002580   ,Turnover (1),TO,,,Zalgiris Kaunas,0
-OLY       ,,17,00:56,20,264,"MANTZARIS, VANGELIS",P003537   ,Steal (1),ST,,,Olympiacos Piraeus,0
-OLY       ,,7,00:54,20,265,"SPANOULIS, VASSILIS",PJUO      ,Missed Two Pointer (2/5 -  9 pt),2FGA,,,Olympiacos Piraeus,0
-OLY       ,,11,00:51,20,266,"MILUTINOV, NIKOLA",P003941   ,Off Rebound (1),O,,,Olympiacos Piraeus,0
-OLY       ,,11,00:51,20,267,"MILUTINOV, NIKOLA",P003941   ,Two Pointer (1/1 -  2 pt),2FGM,47.0,32.0,Olympiacos Piraeus,0
-ZAL       ,,44,00:51,20,268,"KAVALIAUSKAS, ANTANAS",P000399   ,Foul (2),CM,,,Zalgiris Kaunas,0
-OLY       ,,11,00:51,20,269,"MILUTINOV, NIKOLA",P003941   ,Foul Drawn (2),RV,,,Olympiacos Piraeus,0
-ZAL       ,,,00:51,20,270,,          ,Time Out (1),TOUT,,,Zalgiris Kaunas,0
-ZAL       ,,13,00:51,20,272,"JANKUNAS, PAULIUS",PBWI      ,In,IN,,,Zalgiris Kaunas,0
-ZAL       ,,92,00:51,20,273,"ULANOVAS, EDGARAS",P002329   ,Out,OUT,,,Zalgiris Kaunas,0
-OLY       ,,11,00:51,20,274,"MILUTINOV, NIKOLA",P003941   ,Free Throw In (1/1 -  3 pt),FTM,47.0,33.0,Olympiacos Piraeus,0
-ZAL       ,,13,00:39,20,275,"JANKUNAS, PAULIUS",PBWI      ,Turnover (1),TO,,,Zalgiris Kaunas,0
-ZAL       ,,0,00:39,20,276,"DAVIES, BRANDON",P007870   ,In,IN,,,Zalgiris Kaunas,0
-ZAL       ,,44,00:39,20,277,"KAVALIAUSKAS, ANTANAS",P000399   ,Out,OUT,,,Zalgiris Kaunas,0
-OLY       ,,17,00:19,20,278,"MANTZARIS, VANGELIS",P003537   ,Three Pointer (1/2 -  3 pt),3FGM,47.0,36.0,Olympiacos Piraeus,0
-ZAL       ,,,00:19,20,279,,          ,Time Out (2),TOUT,,,Zalgiris Kaunas,0
-ZAL       ,,13,00:19,20,280,"JANKUNAS, PAULIUS",PBWI      ,Out,OUT,,,Zalgiris Kaunas,0
-ZAL       ,,92,00:19,20,281,"ULANOVAS, EDGARAS",P002329   ,In,IN,,,Zalgiris Kaunas,0
-OLY       ,,3,00:19,20,282,"BROWN, BOBBY",P000129   ,Out,OUT,,,Olympiacos Piraeus,0
-OLY       ,,6,00:19,20,283,"PAPAPETROU, IOANNIS",P005161   ,In,IN,,,Olympiacos Piraeus,0
-OLY       ,,7,00:19,20,284,"SPANOULIS, VASSILIS",PJUO      ,Out,OUT,,,Olympiacos Piraeus,0
-OLY       ,,11,00:19,20,285,"MILUTINOV, NIKOLA",P003941   ,Out,OUT,,,Olympiacos Piraeus,0
-OLY       ,,15,00:19,20,286,"PRINTEZIS, GEORGIOS",PAMM      ,In,IN,,,Olympiacos Piraeus,0
-OLY       ,,16,00:19,20,287,"PAPANIKOLAOU, KOSTAS",P001255   ,In,IN,,,Olympiacos Piraeus,0
-ZAL       ,,22,00:01,20,288,"MICIC, VASILIJE",P002580   ,Turnover (2),TO,,,Zalgiris Kaunas,0
-OLY       ,,16,00:01,20,289,"PAPANIKOLAOU, KOSTAS",P001255   ,Steal (1),ST,,,Olympiacos Piraeus,0
-          ,,,,21,291,,          ,End Period,EP,,,,0
-          ,,,,21,300,,          ,Begin Period,BP,,,,0
-ZAL       ,,13,10:00,21,292,"JANKUNAS, PAULIUS",PBWI      ,In,IN,,,Zalgiris Kaunas,0
-ZAL       ,,92,10:00,21,293,"ULANOVAS, EDGARAS",P002329   ,Out,OUT,,,Zalgiris Kaunas,0
-OLY       ,,1,10:00,21,294,"MCLEAN, JAMEL",P004418   ,In,IN,,,Olympiacos Piraeus,0
-OLY       ,,3,10:00,21,295,"BROWN, BOBBY",P000129   ,In,IN,,,Olympiacos Piraeus,0
-OLY       ,,7,10:00,21,296,"SPANOULIS, VASSILIS",PJUO      ,In,IN,,,Olympiacos Piraeus,0
-OLY       ,,14,10:00,21,297,"TILLIE, KIM",P002744   ,Out,OUT,,,Olympiacos Piraeus,0
-OLY       ,,16,10:00,21,298,"PAPANIKOLAOU, KOSTAS",P001255   ,Out,OUT,,,Olympiacos Piraeus,0
-OLY       ,,17,10:00,21,299,"MANTZARIS, VANGELIS",P003537   ,Out,OUT,,,Olympiacos Piraeus,0
-OLY       ,,3,09:30,21,301,"BROWN, BOBBY",P000129   ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,Olympiacos Piraeus,0
-ZAL       ,,13,09:28,21,302,"JANKUNAS, PAULIUS",PBWI      ,Def Rebound (2),D,,,Zalgiris Kaunas,0
-ZAL       ,,21,09:10,21,303,"MILAKNIS, ARTURAS",PKPD      ,Missed Three Pointer (0/3 -  1 pt),3FGA,,,Zalgiris Kaunas,0
-OLY       ,,6,09:07,21,304,"PAPAPETROU, IOANNIS",P005161   ,Def Rebound (3),D,,,Olympiacos Piraeus,0
-OLY       ,,15,08:52,22,306,"PRINTEZIS, GEORGIOS",PAMM      ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Olympiacos Piraeus,0
-ZAL       ,,3,08:49,22,307,"PANGOS, KEVIN",P006433   ,Def Rebound (2),D,,,Zalgiris Kaunas,0
-ZAL       ,,0,08:34,22,308,"DAVIES, BRANDON",P007870   ,Two Pointer (4/4 -  11 pt),2FGM,49.0,36.0,Zalgiris Kaunas,0
-ZAL       ,,3,08:32,22,309,"PANGOS, KEVIN",P006433   ,Assist (1),AS,,,Zalgiris Kaunas,0
-OLY       ,,6,08:04,22,310,"PAPAPETROU, IOANNIS",P005161   ,Three Pointer (1/2 -  5 pt),3FGM,49.0,39.0,Olympiacos Piraeus,0
-OLY       ,,3,08:01,22,311,"BROWN, BOBBY",P000129   ,Assist (1),AS,,,Olympiacos Piraeus,0
-OLY       ,,1,07:54,23,313,"MCLEAN, JAMEL",P004418   ,Foul (2),CM,,,Olympiacos Piraeus,0
-ZAL       ,,0,07:54,23,314,"DAVIES, BRANDON",P007870   ,Foul Drawn (3),RV,,,Zalgiris Kaunas,0
-ZAL       ,,0,07:41,23,315,"DAVIES, BRANDON",P007870   ,Missed Two Pointer (4/5 -  11 pt),2FGA,,,Zalgiris Kaunas,0
-OLY       ,,3,07:39,23,316,"BROWN, BOBBY",P000129   ,Def Rebound (1),D,,,Olympiacos Piraeus,0
-OLY       ,,6,07:26,23,317,"PAPAPETROU, IOANNIS",P005161   ,Missed Two Pointer (0/1 -  5 pt),2FGA,,,Olympiacos Piraeus,0
-ZAL       ,,13,07:24,23,318,"JANKUNAS, PAULIUS",PBWI      ,Def Rebound (3),D,,,Zalgiris Kaunas,0
-ZAL       ,,0,07:06,23,319,"DAVIES, BRANDON",P007870   ,Two Pointer (5/6 -  13 pt),2FGM,51.0,39.0,Zalgiris Kaunas,0
-ZAL       ,,22,07:04,23,320,"MICIC, VASILIJE",P002580   ,Assist (5),AS,,,Zalgiris Kaunas,0
-OLY       ,,7,06:45,24,322,"SPANOULIS, VASSILIS",PJUO      ,Missed Three Pointer (0/5 -  9 pt),3FGA,,,Olympiacos Piraeus,0
-OLY       ,,6,06:43,24,323,"PAPAPETROU, IOANNIS",P005161   ,Off Rebound (2),O,,,Olympiacos Piraeus,0
-OLY       ,,6,06:41,24,324,"PAPAPETROU, IOANNIS",P005161   ,Missed Two Pointer (0/2 -  5 pt),2FGA,,,Olympiacos Piraeus,0
-ZAL       ,,13,06:40,24,325,"JANKUNAS, PAULIUS",PBWI      ,Def Rebound (4),D,,,Zalgiris Kaunas,0
-OLY       ,,3,06:40,24,326,"BROWN, BOBBY",P000129   ,Unsportsmanlike Foul  (1),CMU,,,Olympiacos Piraeus,0
-ZAL       ,,3,06:40,24,327,"PANGOS, KEVIN",P006433   ,Foul Drawn (2),RV,,,Zalgiris Kaunas,0
-ZAL       ,,21,06:40,24,328,"MILAKNIS, ARTURAS",PKPD      ,Out,OUT,,,Zalgiris Kaunas,0
-ZAL       ,,92,06:40,24,329,"ULANOVAS, EDGARAS",P002329   ,In,IN,,,Zalgiris Kaunas,0
-OLY       ,,3,06:40,24,330,"BROWN, BOBBY",P000129   ,Out,OUT,,,Olympiacos Piraeus,0
-OLY       ,,17,06:40,24,331,"MANTZARIS, VANGELIS",P003537   ,In,IN,,,Olympiacos Piraeus,0
-ZAL       ,,3,06:40,24,332,"PANGOS, KEVIN",P006433   ,Free Throw In (1/1 -  11 pt),FTM,52.0,39.0,Zalgiris Kaunas,0
-ZAL       ,,3,06:40,24,333,"PANGOS, KEVIN",P006433   ,Free Throw In (2/2 -  12 pt),FTM,53.0,39.0,Zalgiris Kaunas,0
-OLY       ,,15,06:28,24,334,"PRINTEZIS, GEORGIOS",PAMM      ,Foul (1),CM,,,Olympiacos Piraeus,0
-ZAL       ,,13,06:28,24,335,"JANKUNAS, PAULIUS",PBWI      ,Foul Drawn (2),RV,,,Zalgiris Kaunas,0
-ZAL       ,,3,06:21,24,336,"PANGOS, KEVIN",P006433   ,Turnover (2),TO,,,Zalgiris Kaunas,0
-ZAL       ,,0,06:21,24,337,"DAVIES, BRANDON",P007870   ,Out,OUT,,,Zalgiris Kaunas,0
-ZAL       ,,44,06:21,24,338,"KAVALIAUSKAS, ANTANAS",P000399   ,In,IN,,,Zalgiris Kaunas,0
-OLY       ,,1,05:56,25,340,"MCLEAN, JAMEL",P004418   ,Missed Two Pointer (2/4 -  4 pt),2FGA,,,Olympiacos Piraeus,0
-ZAL       ,,13,05:54,25,341,"JANKUNAS, PAULIUS",PBWI      ,Def Rebound (5),D,,,Zalgiris Kaunas,0
-OLY       ,,7,05:47,25,342,"SPANOULIS, VASSILIS",PJUO      ,Foul (2),CM,,,Olympiacos Piraeus,0
-ZAL       ,,3,05:47,25,343,"PANGOS, KEVIN",P006433   ,Foul Drawn (3),RV,,,Zalgiris Kaunas,0
-ZAL       ,,22,05:37,25,344,"MICIC, VASILIJE",P002580   ,Turnover (3),TO,,,Zalgiris Kaunas,0
-OLY       ,,15,05:35,25,345,"PRINTEZIS, GEORGIOS",PAMM      ,Steal (1),ST,,,Olympiacos Piraeus,0
-ZAL       ,,92,05:23,25,346,"ULANOVAS, EDGARAS",P002329   ,Foul (2),CM,,,Zalgiris Kaunas,0
-OLY       ,,1,05:23,25,347,"MCLEAN, JAMEL",P004418   ,Foul Drawn (2),RV,,,Olympiacos Piraeus,0
-OLY       ,,1,05:23,25,348,"MCLEAN, JAMEL",P004418   ,Missed Free Throw (0/1 -  4 pt),FTA,,,Olympiacos Piraeus,0
-OLY       ,,1,05:23,25,349,"MCLEAN, JAMEL",P004418   ,Free Throw In (1/2 -  5 pt),FTM,53.0,40.0,Olympiacos Piraeus,0
-OLY       ,,15,05:23,25,350,"PRINTEZIS, GEORGIOS",PAMM      ,Assist (1),AS,,,Olympiacos Piraeus,0
-ZAL       ,,44,05:12,25,351,"KAVALIAUSKAS, ANTANAS",P000399   ,Missed Two Pointer (2/3 -  4 pt),2FGA,,,Zalgiris Kaunas,0
-ZAL       ,,44,05:12,25,352,"KAVALIAUSKAS, ANTANAS",P000399   ,Shot Rejected (1),AG,,,Zalgiris Kaunas,0
-OLY       ,,6,05:12,25,353,"PAPAPETROU, IOANNIS",P005161   ,Block (2),FV,,,Olympiacos Piraeus,0
-ZAL       ,,44,05:10,25,354,"KAVALIAUSKAS, ANTANAS",P000399   ,Off Rebound (3),O,,,Zalgiris Kaunas,0
-ZAL       ,,44,05:08,25,355,"KAVALIAUSKAS, ANTANAS",P000399   ,Turnover (1),TO,,,Zalgiris Kaunas,0
-ZAL       ,,3,05:08,25,356,"PANGOS, KEVIN",P006433   ,Out,OUT,,,Zalgiris Kaunas,0
-ZAL       ,,9,05:08,25,357,"UDRIH, BENO",PAGP      ,In,IN,,,Zalgiris Kaunas,0
-ZAL       ,,13,04:51,26,359,"JANKUNAS, PAULIUS",PBWI      ,Foul (3),CM,,,Zalgiris Kaunas,0
-OLY       ,,15,04:51,26,360,"PRINTEZIS, GEORGIOS",PAMM      ,Foul Drawn (2),RV,,,Olympiacos Piraeus,0
-          ,,,04:51,26,361,,          ,TV Time Out (3),TOUT_TV,,,,0
-ZAL       ,,0,04:51,26,362,"DAVIES, BRANDON",P007870   ,In,IN,,,Zalgiris Kaunas,0
-ZAL       ,,13,04:51,26,363,"JANKUNAS, PAULIUS",PBWI      ,Out,OUT,,,Zalgiris Kaunas,0
-OLY       ,,15,04:51,26,364,"PRINTEZIS, GEORGIOS",PAMM      ,Free Throw In (1/1 -  1 pt),FTM,53.0,41.0,Olympiacos Piraeus,0
-OLY       ,,15,04:51,26,365,"PRINTEZIS, GEORGIOS",PAMM      ,Missed Free Throw (1/2 -  1 pt),FTA,,,Olympiacos Piraeus,0
-ZAL       ,,0,04:48,26,366,"DAVIES, BRANDON",P007870   ,Def Rebound (1),D,,,Zalgiris Kaunas,0
-ZAL       ,,0,04:36,26,367,"DAVIES, BRANDON",P007870   ,Missed Two Pointer (5/7 -  13 pt),2FGA,,,Zalgiris Kaunas,0
-OLY       ,,6,04:34,26,368,"PAPAPETROU, IOANNIS",P005161   ,Def Rebound (4),D,,,Olympiacos Piraeus,0
-OLY       ,,15,04:27,26,369,"PRINTEZIS, GEORGIOS",PAMM      ,Missed Two Pointer (0/5 -  1 pt),2FGA,,,Olympiacos Piraeus,0
-OLY       ,,1,04:27,26,370,"MCLEAN, JAMEL",P004418   ,Off Rebound (1),O,,,Olympiacos Piraeus,0
-ZAL       ,,9,04:25,26,371,"UDRIH, BENO",PAGP      ,Foul (2),CM,,,Zalgiris Kaunas,0
-OLY       ,,1,04:25,26,372,"MCLEAN, JAMEL",P004418   ,Foul Drawn (3),RV,,,Olympiacos Piraeus,0
-ZAL       ,,0,04:25,26,373,"DAVIES, BRANDON",P007870   ,Out,OUT,,,Zalgiris Kaunas,0
-ZAL       ,,30,04:25,26,374,"WHITE, AARON",P006505   ,In,IN,,,Zalgiris Kaunas,0
-OLY       ,,1,04:25,26,375,"MCLEAN, JAMEL",P004418   ,Out,OUT,,,Olympiacos Piraeus,0
-OLY       ,,11,04:25,26,376,"MILUTINOV, NIKOLA",P003941   ,In,IN,,,Olympiacos Piraeus,0
-ZAL       ,,44,04:17,26,377,"KAVALIAUSKAS, ANTANAS",P000399   ,Foul (3),CM,,,Zalgiris Kaunas,0
-OLY       ,,7,04:17,26,378,"SPANOULIS, VASSILIS",PJUO      ,Foul Drawn (4),RV,,,Olympiacos Piraeus,0
-ZAL       ,,44,04:17,26,379,"KAVALIAUSKAS, ANTANAS",P000399   ,Technical Foul (4),CMT,,,Zalgiris Kaunas,0
-ZAL       ,,13,04:17,26,380,"JANKUNAS, PAULIUS",PBWI      ,In,IN,,,Zalgiris Kaunas,0
-ZAL       ,,44,04:17,26,381,"KAVALIAUSKAS, ANTANAS",P000399   ,Out,OUT,,,Zalgiris Kaunas,0
-OLY       ,,7,04:17,26,382,"SPANOULIS, VASSILIS",PJUO      ,Free Throw In (6/7 -  10 pt),FTM,53.0,42.0,Olympiacos Piraeus,0
-OLY       ,,7,04:17,26,383,"SPANOULIS, VASSILIS",PJUO      ,Free Throw In (7/8 -  11 pt),FTM,53.0,43.0,Olympiacos Piraeus,0
-OLY       ,,7,04:17,26,384,"SPANOULIS, VASSILIS",PJUO      ,Free Throw In (8/9 -  12 pt),FTM,53.0,44.0,Olympiacos Piraeus,0
-OLY       ,,7,04:05,26,385,"SPANOULIS, VASSILIS",PJUO      ,Two Pointer (3/6 -  14 pt),2FGM,53.0,46.0,Olympiacos Piraeus,0
-ZAL       ,,,04:05,26,386,,          ,Time Out (1),TOUT,,,Zalgiris Kaunas,0
-ZAL       ,,3,04:05,26,387,"PANGOS, KEVIN",P006433   ,In,IN,,,Zalgiris Kaunas,0
-ZAL       ,,22,04:05,26,388,"MICIC, VASILIJE",P002580   ,Out,OUT,,,Zalgiris Kaunas,0
-OLY       ,,11,03:54,27,390,"MILUTINOV, NIKOLA",P003941   ,Foul (2),CM,,,Olympiacos Piraeus,0
-ZAL       ,,13,03:54,27,391,"JANKUNAS, PAULIUS",PBWI      ,Foul Drawn (3),RV,,,Zalgiris Kaunas,0
-ZAL       ,,13,03:54,27,392,"JANKUNAS, PAULIUS",PBWI      ,Free Throw In (1/1 -  5 pt),FTM,54.0,46.0,Zalgiris Kaunas,0
-ZAL       ,,13,03:54,27,393,"JANKUNAS, PAULIUS",PBWI      ,Missed Free Throw (1/2 -  5 pt),FTA,,,Zalgiris Kaunas,0
-OLY       ,,6,03:51,27,394,"PAPAPETROU, IOANNIS",P005161   ,Def Rebound (5),D,,,Olympiacos Piraeus,0
-OLY       ,,7,03:37,27,395,"SPANOULIS, VASSILIS",PJUO      ,Missed Three Pointer (0/6 -  14 pt),3FGA,,,Olympiacos Piraeus,0
-ZAL       ,,92,03:35,27,396,"ULANOVAS, EDGARAS",P002329   ,Def Rebound (3),D,,,Zalgiris Kaunas,0
-ZAL       ,,13,03:23,27,397,"JANKUNAS, PAULIUS",PBWI      ,Two Pointer (3/3 -  7 pt),2FGM,56.0,46.0,Zalgiris Kaunas,0
-ZAL       ,,3,03:21,27,398,"PANGOS, KEVIN",P006433   ,Assist (2),AS,,,Zalgiris Kaunas,0
-OLY       ,,17,02:59,28,400,"MANTZARIS, VANGELIS",P003537   ,Missed Three Pointer (1/3 -  3 pt),3FGA,,,Olympiacos Piraeus,0
-ZAL       ,,30,02:57,28,401,"WHITE, AARON",P006505   ,Def Rebound (1),D,,,Zalgiris Kaunas,0
-ZAL       ,,13,02:52,28,402,"JANKUNAS, PAULIUS",PBWI      ,Two Pointer (4/4 -  9 pt),2FGM,58.0,46.0,Zalgiris Kaunas,0
-ZAL       ,,9,02:52,28,403,"UDRIH, BENO",PAGP      ,Assist (5),AS,,,Zalgiris Kaunas,0
-OLY       ,,,02:52,28,404,,          ,Time Out (1),TOUT,,,Olympiacos Piraeus,0
-OLY       ,,1,02:52,28,405,"MCLEAN, JAMEL",P004418   ,In,IN,,,Olympiacos Piraeus,0
-OLY       ,,11,02:52,28,406,"MILUTINOV, NIKOLA",P003941   ,Out,OUT,,,Olympiacos Piraeus,0
-OLY       ,,14,02:52,28,407,"TILLIE, KIM",P002744   ,In,IN,,,Olympiacos Piraeus,0
-OLY       ,,15,02:52,28,408,"PRINTEZIS, GEORGIOS",PAMM      ,Out,OUT,,,Olympiacos Piraeus,0
-ZAL       ,,92,02:34,28,409,"ULANOVAS, EDGARAS",P002329   ,Foul (3),CM,,,Zalgiris Kaunas,0
-OLY       ,,14,02:34,28,410,"TILLIE, KIM",P002744   ,Foul Drawn (1),RV,,,Olympiacos Piraeus,0
-ZAL       ,,21,02:34,28,411,"MILAKNIS, ARTURAS",PKPD      ,In,IN,,,Zalgiris Kaunas,0
-ZAL       ,,92,02:34,28,412,"ULANOVAS, EDGARAS",P002329   ,Out,OUT,,,Zalgiris Kaunas,0
-OLY       ,,7,02:34,28,413,"SPANOULIS, VASSILIS",PJUO      ,Out,OUT,,,Olympiacos Piraeus,0
-OLY       ,,13,02:34,28,414,"STRELNIEKS, JANIS",P000046   ,In,IN,,,Olympiacos Piraeus,0
-OLY       ,,14,02:34,28,415,"TILLIE, KIM",P002744   ,Missed Free Throw (0/1 -  3 pt),FTA,,,Olympiacos Piraeus,0
-OLY       ,,14,02:34,28,416,"TILLIE, KIM",P002744   ,Free Throw In (1/2 -  4 pt),FTM,58.0,47.0,Olympiacos Piraeus,0
-OLY       ,,7,02:34,28,417,"SPANOULIS, VASSILIS",PJUO      ,Assist (2),AS,,,Olympiacos Piraeus,0
-OLY       ,,6,02:34,28,418,"PAPAPETROU, IOANNIS",P005161   ,Out,OUT,,,Olympiacos Piraeus,0
-OLY       ,,16,02:34,28,419,"PAPANIKOLAOU, KOSTAS",P001255   ,In,IN,,,Olympiacos Piraeus,0
-ZAL       ,,13,02:15,28,420,"JANKUNAS, PAULIUS",PBWI      ,Two Pointer (5/5 -  11 pt),2FGM,60.0,47.0,Zalgiris Kaunas,0
-ZAL       ,,3,02:13,28,421,"PANGOS, KEVIN",P006433   ,Assist (3),AS,,,Zalgiris Kaunas,0
-OLY       ,,13,01:55,29,423,"STRELNIEKS, JANIS",P000046   ,Missed Two Pointer (0/1 -  3 pt),2FGA,,,Olympiacos Piraeus,0
-ZAL       ,,13,01:53,29,424,"JANKUNAS, PAULIUS",PBWI      ,Def Rebound (6),D,,,Zalgiris Kaunas,0
-OLY       ,,1,01:43,29,425,"MCLEAN, JAMEL",P004418   ,Foul (3),CM,,,Olympiacos Piraeus,0
-ZAL       ,,13,01:43,29,426,"JANKUNAS, PAULIUS",PBWI      ,Foul Drawn (4),RV,,,Zalgiris Kaunas,0
-ZAL       ,,6,01:43,29,427,"TOUPANE, AXEL",P002582   ,In,IN,,,Zalgiris Kaunas,0
-ZAL       ,,9,01:43,29,428,"UDRIH, BENO",PAGP      ,Out,OUT,,,Zalgiris Kaunas,0
-ZAL       ,,13,01:43,29,429,"JANKUNAS, PAULIUS",PBWI      ,Free Throw In (2/3 -  12 pt),FTM,61.0,47.0,Zalgiris Kaunas,0
-ZAL       ,,13,01:43,29,431,"JANKUNAS, PAULIUS",PBWI      ,Free Throw In (3/4 -  13 pt),FTM,62.0,47.0,Zalgiris Kaunas,0
-ZAL       ,,0,01:43,29,432,"DAVIES, BRANDON",P007870   ,In,IN,,,Zalgiris Kaunas,0
-ZAL       ,,13,01:43,29,433,"JANKUNAS, PAULIUS",PBWI      ,Out,OUT,,,Zalgiris Kaunas,0
-ZAL       ,,3,01:29,29,434,"PANGOS, KEVIN",P006433   ,Foul (2),CM,,,Zalgiris Kaunas,0
-OLY       ,,1,01:29,29,435,"MCLEAN, JAMEL",P004418   ,Foul Drawn (4),RV,,,Olympiacos Piraeus,0
-ZAL       ,,3,01:29,29,436,"PANGOS, KEVIN",P006433   ,Out,OUT,,,Zalgiris Kaunas,0
-ZAL       ,,22,01:29,29,437,"MICIC, VASILIJE",P002580   ,In,IN,,,Zalgiris Kaunas,0
-OLY       ,,1,01:29,29,438,"MCLEAN, JAMEL",P004418   ,Free Throw In (2/3 -  6 pt),FTM,62.0,48.0,Olympiacos Piraeus,0
-OLY       ,,1,01:29,29,439,"MCLEAN, JAMEL",P004418   ,Missed Free Throw (2/4 -  6 pt),FTA,,,Olympiacos Piraeus,0
-ZAL       ,,30,01:25,29,440,"WHITE, AARON",P006505   ,Def Rebound (2),D,,,Zalgiris Kaunas,0
-ZAL       ,,22,01:06,29,441,"MICIC, VASILIJE",P002580   ,Missed Two Pointer (1/3 -  6 pt),2FGA,,,Zalgiris Kaunas,0
-OLY       ,,14,01:04,29,442,"TILLIE, KIM",P002744   ,Def Rebound (1),D,,,Olympiacos Piraeus,0
-OLY       ,,16,00:54,30,444,"PAPANIKOLAOU, KOSTAS",P001255   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Olympiacos Piraeus,0
-ZAL       ,,30,00:52,30,445,"WHITE, AARON",P006505   ,Def Rebound (3),D,,,Zalgiris Kaunas,0
-OLY       ,,17,00:39,30,446,"MANTZARIS, VANGELIS",P003537   ,Foul (3),CM,,,Olympiacos Piraeus,0
-ZAL       ,,0,00:39,30,447,"DAVIES, BRANDON",P007870   ,Foul Drawn (4),RV,,,Zalgiris Kaunas,0
-ZAL       ,,0,00:39,30,448,"DAVIES, BRANDON",P007870   ,Free Throw In (4/4 -  14 pt),FTM,63.0,48.0,Zalgiris Kaunas,0
-ZAL       ,,0,00:39,30,449,"DAVIES, BRANDON",P007870   ,Free Throw In (5/5 -  15 pt),FTM,64.0,48.0,Zalgiris Kaunas,0
-OLY       ,,16,00:20,30,450,"PAPANIKOLAOU, KOSTAS",P001255   ,Two Pointer (1/2 -  2 pt),2FGM,64.0,50.0,Olympiacos Piraeus,0
-OLY       ,,13,00:18,30,451,"STRELNIEKS, JANIS",P000046   ,Assist (2),AS,,,Olympiacos Piraeus,0
-ZAL       ,,6,00:03,30,452,"TOUPANE, AXEL",P002582   ,Three Pointer (1/1 -  7 pt),3FGM,67.0,50.0,Zalgiris Kaunas,0
-ZAL       ,,22,00:03,30,453,"MICIC, VASILIJE",P002580   ,Assist (6),AS,,,Zalgiris Kaunas,0
-          ,,,,31,455,,          ,End Period,EP,,,,0
-          ,,,,31,458,,          ,Begin Period,BP,,,,0
-OLY       ,,17,10:00,31,456,"MANTZARIS, VANGELIS",P003537   ,Out,OUT,,,Olympiacos Piraeus,0
-OLY       ,,22,10:00,31,457,"ROBERTS, BRIAN",P002091   ,In,IN,,,Olympiacos Piraeus,0
-ZAL       ,,0,09:35,31,459,"DAVIES, BRANDON",P007870   ,Turnover (2),TO,,,Zalgiris Kaunas,0
-OLY       ,,22,09:33,31,460,"ROBERTS, BRIAN",P002091   ,Steal (1),ST,,,Olympiacos Piraeus,0
-ZAL       ,,22,09:18,31,461,"MICIC, VASILIJE",P002580   ,Foul (1),CM,,,Zalgiris Kaunas,0
-OLY       ,,13,09:18,31,462,"STRELNIEKS, JANIS",P000046   ,Foul Drawn (2),RV,,,Olympiacos Piraeus,0
-OLY       ,,13,09:08,31,463,"STRELNIEKS, JANIS",P000046   ,Turnover (1),TO,,,Olympiacos Piraeus,0
-ZAL       ,,30,09:06,31,464,"WHITE, AARON",P006505   ,Steal (1),ST,,,Zalgiris Kaunas,0
-OLY       ,,16,09:02,31,465,"PAPANIKOLAOU, KOSTAS",P001255   ,Foul (2),CM,,,Olympiacos Piraeus,0
-ZAL       ,,22,09:02,31,466,"MICIC, VASILIJE",P002580   ,Foul Drawn (5),RV,,,Zalgiris Kaunas,0
-ZAL       ,,22,09:02,31,467,"MICIC, VASILIJE",P002580   ,Free Throw In (5/5 -  7 pt),FTM,68.0,50.0,Zalgiris Kaunas,0
-ZAL       ,,22,09:02,31,468,"MICIC, VASILIJE",P002580   ,Free Throw In (6/6 -  8 pt),FTM,69.0,50.0,Zalgiris Kaunas,0
-OLY       ,,22,08:44,32,470,"ROBERTS, BRIAN",P002091   ,Turnover (1),TO,,,Olympiacos Piraeus,0
-ZAL       ,,0,08:43,32,471,"DAVIES, BRANDON",P007870   ,Steal (1),ST,,,Zalgiris Kaunas,0
-ZAL       ,,0,08:42,32,472,"DAVIES, BRANDON",P007870   ,Turnover (3),TO,,,Zalgiris Kaunas,0
-OLY       ,,16,08:41,32,473,"PAPANIKOLAOU, KOSTAS",P001255   ,Steal (2),ST,,,Olympiacos Piraeus,0
-ZAL       ,,22,08:40,32,474,"MICIC, VASILIJE",P002580   ,Foul (2),CM,,,Zalgiris Kaunas,0
-OLY       ,,16,08:40,32,475,"PAPANIKOLAOU, KOSTAS",P001255   ,Foul Drawn (2),RV,,,Olympiacos Piraeus,0
-OLY       ,,13,08:32,32,476,"STRELNIEKS, JANIS",P000046   ,Missed Three Pointer (0/2 -  3 pt),3FGA,,,Olympiacos Piraeus,0
-OLY       ,,,08:31,32,477,,          ,Off Rebound (4),O,,,Olympiacos Piraeus,0
-ZAL       ,,6,08:31,32,478,"TOUPANE, AXEL",P002582   ,Foul (1),CM,,,Zalgiris Kaunas,0
-OLY       ,,1,08:31,32,479,"MCLEAN, JAMEL",P004418   ,Foul Drawn (5),RV,,,Olympiacos Piraeus,0
-OLY       ,,14,08:19,32,480,"TILLIE, KIM",P002744   ,Two Pointer (1/1 -  6 pt),2FGM,69.0,52.0,Olympiacos Piraeus,0
-OLY       ,,13,08:17,32,481,"STRELNIEKS, JANIS",P000046   ,Assist (3),AS,,,Olympiacos Piraeus,0
-ZAL       ,,30,07:53,33,483,"WHITE, AARON",P006505   ,Missed Two Pointer (2/4 -  5 pt),2FGA,,,Zalgiris Kaunas,0
-OLY       ,,22,07:51,33,484,"ROBERTS, BRIAN",P002091   ,Def Rebound (1),D,,,Olympiacos Piraeus,0
-ZAL       ,,22,07:45,33,485,"MICIC, VASILIJE",P002580   ,Foul (3),CM,,,Zalgiris Kaunas,0
-OLY       ,,1,07:45,33,486,"MCLEAN, JAMEL",P004418   ,Foul Drawn (6),RV,,,Olympiacos Piraeus,0
-OLY       ,,1,07:45,33,487,"MCLEAN, JAMEL",P004418   ,Out,OUT,,,Olympiacos Piraeus,0
-OLY       ,,15,07:45,33,488,"PRINTEZIS, GEORGIOS",PAMM      ,In,IN,,,Olympiacos Piraeus,0
-ZAL       ,,3,07:45,33,489,"PANGOS, KEVIN",P006433   ,In,IN,,,Zalgiris Kaunas,0
-ZAL       ,,22,07:45,33,490,"MICIC, VASILIJE",P002580   ,Out,OUT,,,Zalgiris Kaunas,0
-OLY       ,,,07:33,33,491,,          ,Time Out (1),TOUT,,,Olympiacos Piraeus,0
-          ,,,07:33,33,492,,          ,TV Time Out (4),TOUT_TV,,,,0
-OLY       ,,22,07:33,33,493,"ROBERTS, BRIAN",P002091   ,Turnover (2),TO,,,Olympiacos Piraeus,0
-ZAL       ,,30,07:08,33,494,"WHITE, AARON",P006505   ,Missed Two Pointer (2/5 -  5 pt),2FGA,,,Zalgiris Kaunas,0
-ZAL       ,,0,07:06,33,495,"DAVIES, BRANDON",P007870   ,Off Rebound (1),O,,,Zalgiris Kaunas,0
-ZAL       ,,0,07:04,33,496,"DAVIES, BRANDON",P007870   ,Two Pointer (6/8 -  17 pt),2FGM,71.0,52.0,Zalgiris Kaunas,0
-OLY       ,,15,06:42,34,498,"PRINTEZIS, GEORGIOS",PAMM      ,Missed Two Pointer (0/6 -  1 pt),2FGA,,,Olympiacos Piraeus,0
-OLY       ,,,06:41,34,499,,          ,Turnover (1),TO,,,Olympiacos Piraeus,0
-OLY       ,,6,06:41,34,500,"PAPAPETROU, IOANNIS",P005161   ,In,IN,,,Olympiacos Piraeus,0
-OLY       ,,14,06:41,34,501,"TILLIE, KIM",P002744   ,Out,OUT,,,Olympiacos Piraeus,0
-ZAL       ,,6,06:18,34,502,"TOUPANE, AXEL",P002582   ,Three Pointer (2/2 -  10 pt),3FGM,74.0,52.0,Zalgiris Kaunas,0
-ZAL       ,,21,06:18,34,503,"MILAKNIS, ARTURAS",PKPD      ,Assist (1),AS,,,Zalgiris Kaunas,0
-OLY       ,,16,06:18,34,504,"PAPANIKOLAOU, KOSTAS",P001255   ,Foul (3),CM,,,Olympiacos Piraeus,0
-ZAL       ,,6,06:18,34,505,"TOUPANE, AXEL",P002582   ,Foul Drawn (1),RV,,,Zalgiris Kaunas,0
-OLY       ,,,06:18,34,506,,          ,Time Out (2),TOUT,,,Olympiacos Piraeus,0
-ZAL       ,,6,06:18,34,507,"TOUPANE, AXEL",P002582   ,Missed Free Throw (0/1 -  10 pt),FTA,,,Zalgiris Kaunas,0
-OLY       ,,15,06:15,34,508,"PRINTEZIS, GEORGIOS",PAMM      ,Def Rebound (1),D,,,Olympiacos Piraeus,0
-OLY       ,,22,05:57,35,510,"ROBERTS, BRIAN",P002091   ,Missed Three Pointer (1/2 -  9 pt),3FGA,,,Olympiacos Piraeus,0
-ZAL       ,,0,05:55,35,511,"DAVIES, BRANDON",P007870   ,Def Rebound (2),D,,,Zalgiris Kaunas,0
-ZAL       ,,,05:34,35,512,,          ,Turnover (2),TO,,,Zalgiris Kaunas,0
-ZAL       ,,3,05:34,35,513,"PANGOS, KEVIN",P006433   ,Out,OUT,,,Zalgiris Kaunas,0
-ZAL       ,,9,05:34,35,514,"UDRIH, BENO",PAGP      ,In,IN,,,Zalgiris Kaunas,0
-OLY       ,,22,05:16,35,515,"ROBERTS, BRIAN",P002091   ,Two Pointer (3/3 -  11 pt),2FGM,74.0,54.0,Olympiacos Piraeus,0
-OLY       ,,13,04:59,36,517,"STRELNIEKS, JANIS",P000046   ,Foul (2),CM,,,Olympiacos Piraeus,0
-ZAL       ,,0,04:59,36,518,"DAVIES, BRANDON",P007870   ,Foul Drawn (5),RV,,,Zalgiris Kaunas,0
-ZAL       ,,30,04:59,36,519,"WHITE, AARON",P006505   ,Out,OUT,,,Zalgiris Kaunas,0
-ZAL       ,,92,04:59,36,520,"ULANOVAS, EDGARAS",P002329   ,In,IN,,,Zalgiris Kaunas,0
-OLY       ,,6,04:59,36,521,"PAPAPETROU, IOANNIS",P005161   ,Out,OUT,,,Olympiacos Piraeus,0
-OLY       ,,31,04:59,36,522,"BOGRIS, GEORGIOS",P001933   ,In,IN,,,Olympiacos Piraeus,0
-ZAL       ,,0,04:59,36,523,"DAVIES, BRANDON",P007870   ,Free Throw In (6/6 -  18 pt),FTM,75.0,54.0,Zalgiris Kaunas,0
-ZAL       ,,9,04:59,36,524,"UDRIH, BENO",PAGP      ,Assist (6),AS,,,Zalgiris Kaunas,0
-ZAL       ,,0,04:59,36,525,"DAVIES, BRANDON",P007870   ,Missed Free Throw (6/7 -  18 pt),FTA,,,Zalgiris Kaunas,0
-OLY       ,,16,04:54,36,526,"PAPANIKOLAOU, KOSTAS",P001255   ,Def Rebound (1),D,,,Olympiacos Piraeus,0
-OLY       ,,15,04:39,36,527,"PRINTEZIS, GEORGIOS",PAMM      ,Two Pointer (1/7 -  3 pt),2FGM,75.0,56.0,Olympiacos Piraeus,0
-ZAL       ,,21,04:15,36,528,"MILAKNIS, ARTURAS",PKPD      ,Missed Three Pointer (0/4 -  1 pt),3FGA,,,Zalgiris Kaunas,0
-OLY       ,,15,04:12,36,529,"PRINTEZIS, GEORGIOS",PAMM      ,Def Rebound (2),D,,,Olympiacos Piraeus,0
-ZAL       ,,0,04:05,36,530,"DAVIES, BRANDON",P007870   ,Out,OUT,,,Zalgiris Kaunas,0
-ZAL       ,,21,04:05,36,531,"MILAKNIS, ARTURAS",PKPD      ,Out,OUT,,,Zalgiris Kaunas,0
-ZAL       ,,44,04:05,36,532,"KAVALIAUSKAS, ANTANAS",P000399   ,In,IN,,,Zalgiris Kaunas,0
-ZAL       ,,66,04:05,36,533,"VALINSKAS, PAULIUS",P004664   ,In,IN,,,Zalgiris Kaunas,0
-OLY       ,,3,04:05,36,534,"BROWN, BOBBY",P000129   ,In,IN,,,Olympiacos Piraeus,0
-OLY       ,,22,04:05,36,535,"ROBERTS, BRIAN",P002091   ,Out,OUT,,,Olympiacos Piraeus,0
-OLY       ,,15,03:56,37,537,"PRINTEZIS, GEORGIOS",PAMM      ,Missed Three Pointer (0/2 -  3 pt),3FGA,,,Olympiacos Piraeus,0
-ZAL       ,,66,03:54,37,538,"VALINSKAS, PAULIUS",P004664   ,Def Rebound (1),D,,,Zalgiris Kaunas,0
-ZAL       ,,6,03:32,37,539,"TOUPANE, AXEL",P002582   ,Missed Three Pointer (2/3 -  10 pt),3FGA,,,Zalgiris Kaunas,0
-OLY       ,,31,03:30,37,540,"BOGRIS, GEORGIOS",P001933   ,Def Rebound (1),D,,,Olympiacos Piraeus,0
-OLY       ,,31,03:19,37,541,"BOGRIS, GEORGIOS",P001933   ,Offensive Foul (1),OF,,,Olympiacos Piraeus,0
-OLY       ,,31,03:19,37,542,"BOGRIS, GEORGIOS",P001933   ,Turnover (1),TO,,,Olympiacos Piraeus,0
-ZAL       ,,92,03:19,37,543,"ULANOVAS, EDGARAS",P002329   ,Foul Drawn (1),RV,,,Zalgiris Kaunas,0
-OLY       ,,13,03:19,37,544,"STRELNIEKS, JANIS",P000046   ,Out,OUT,,,Olympiacos Piraeus,0
-OLY       ,,17,03:19,37,545,"MANTZARIS, VANGELIS",P003537   ,In,IN,,,Olympiacos Piraeus,0
-ZAL       ,,44,03:05,37,546,"KAVALIAUSKAS, ANTANAS",P000399   ,Two Pointer (3/4 -  6 pt),2FGM,77.0,56.0,Zalgiris Kaunas,0
-ZAL       ,,92,03:03,37,547,"ULANOVAS, EDGARAS",P002329   ,Assist (1),AS,,,Zalgiris Kaunas,0
-OLY       ,,15,02:43,38,549,"PRINTEZIS, GEORGIOS",PAMM      ,Missed Two Pointer (1/8 -  3 pt),2FGA,,,Olympiacos Piraeus,0
-ZAL       ,,44,02:41,38,550,"KAVALIAUSKAS, ANTANAS",P000399   ,Def Rebound (1),D,,,Zalgiris Kaunas,0
-OLY       ,,16,02:31,38,551,"PAPANIKOLAOU, KOSTAS",P001255   ,Foul (4),CM,,,Olympiacos Piraeus,0
-ZAL       ,,44,02:31,38,552,"KAVALIAUSKAS, ANTANAS",P000399   ,Foul Drawn (1),RV,,,Zalgiris Kaunas,0
-OLY       ,,6,02:31,38,553,"PAPAPETROU, IOANNIS",P005161   ,In,IN,,,Olympiacos Piraeus,0
-OLY       ,,15,02:31,38,554,"PRINTEZIS, GEORGIOS",PAMM      ,Out,OUT,,,Olympiacos Piraeus,0
-ZAL       ,,44,02:31,38,555,"KAVALIAUSKAS, ANTANAS",P000399   ,Missed Free Throw (0/1 -  6 pt),FTA,,,Zalgiris Kaunas,0
-ZAL       ,,44,02:31,38,556,"KAVALIAUSKAS, ANTANAS",P000399   ,Free Throw In (1/2 -  7 pt),FTM,78.0,56.0,Zalgiris Kaunas,0
-ZAL       ,,19,02:31,38,557,"SAJUS, MARTYNAS",P005519   ,In,IN,,,Zalgiris Kaunas,0
-ZAL       ,,44,02:31,38,558,"KAVALIAUSKAS, ANTANAS",P000399   ,Out,OUT,,,Zalgiris Kaunas,0
-ZAL       ,,66,02:18,38,559,"VALINSKAS, PAULIUS",P004664   ,Foul (1),CM,,,Zalgiris Kaunas,0
-OLY       ,,3,02:18,38,560,"BROWN, BOBBY",P000129   ,Foul Drawn (1),RV,,,Olympiacos Piraeus,0
-OLY       ,,3,02:18,38,561,"BROWN, BOBBY",P000129   ,Missed Free Throw (0/1 -  0 pt),FTA,,,Olympiacos Piraeus,0
-OLY       ,,3,02:18,38,562,"BROWN, BOBBY",P000129   ,Missed Free Throw (0/2 -  0 pt),FTA,,,Olympiacos Piraeus,0
-ZAL       ,,66,02:12,38,563,"VALINSKAS, PAULIUS",P004664   ,Def Rebound (2),D,,,Zalgiris Kaunas,0
-ZAL       ,,9,01:55,39,565,"UDRIH, BENO",PAGP      ,Two Pointer (3/3 -  6 pt),2FGM,80.0,56.0,Zalgiris Kaunas,0
-OLY       ,,6,01:31,39,566,"PAPAPETROU, IOANNIS",P005161   ,Missed Three Pointer (1/3 -  5 pt),3FGA,,,Olympiacos Piraeus,0
-ZAL       ,,66,01:28,39,567,"VALINSKAS, PAULIUS",P004664   ,Def Rebound (3),D,,,Zalgiris Kaunas,0
-ZAL       ,,6,01:19,39,568,"TOUPANE, AXEL",P002582   ,Missed Three Pointer (2/4 -  10 pt),3FGA,,,Zalgiris Kaunas,0
-OLY       ,,31,01:17,39,569,"BOGRIS, GEORGIOS",P001933   ,Def Rebound (2),D,,,Olympiacos Piraeus,0
-OLY       ,,16,01:02,39,570,"PAPANIKOLAOU, KOSTAS",P001255   ,Two Pointer (2/3 -  4 pt),2FGM,80.0,58.0,Olympiacos Piraeus,0
-OLY       ,,17,01:02,39,571,"MANTZARIS, VANGELIS",P003537   ,Assist (2),AS,,,Olympiacos Piraeus,0
-ZAL       ,,9,00:34,40,573,"UDRIH, BENO",PAGP      ,Missed Three Pointer (0/1 -  6 pt),3FGA,,,Zalgiris Kaunas,0
-OLY       ,,6,00:32,40,574,"PAPAPETROU, IOANNIS",P005161   ,Def Rebound (6),D,,,Olympiacos Piraeus,0
-OLY       ,,3,00:25,40,575,"BROWN, BOBBY",P000129   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Olympiacos Piraeus,0
-OLY       ,,16,00:25,40,576,"PAPANIKOLAOU, KOSTAS",P001255   ,Off Rebound (1),O,,,Olympiacos Piraeus,0
-OLY       ,,16,00:25,40,577,"PAPANIKOLAOU, KOSTAS",P001255   ,Two Pointer (3/4 -  6 pt),2FGM,80.0,60.0,Olympiacos Piraeus,0
-          ,,,,41,580,,          ,End Game,EG,,,,0
+CODETEAM,COMMENT,DORSAL,MARKERTIME,MINUTE,NUMBEROFPLAY,PLAYER,PLAYER_ID,PLAYINFO,PLAYTYPE,POINTS_A,POINTS_B,TEAM,TYPE,home_team,home_team_code,away_team,away_team_code
+          ,,,,1,2,,          ,Begin Period,BP,,,,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,1,09:59,1,3,"MCLEAN, JAMEL",P004418   ,,TPOFF,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,0,09:59,1,4,"DAVIES, BRANDON",P007870   ,,TPOFF,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,1,09:38,1,5,"MCLEAN, JAMEL",P004418   ,Two Pointer (1/1 -  2 pt),2FGM,,2.0,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,7,09:25,1,6,"SPANOULIS, VASSILIS",PJUO      ,Foul (1),CM,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,22,09:25,1,7,"MICIC, VASILIJE",P002580   ,Foul Drawn (1),RV,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,22,09:18,1,8,"MICIC, VASILIJE",P002580   ,Two Pointer (1/1 -  2 pt),2FGM,2.0,2.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,13,09:00,1,9,"JANKUNAS, PAULIUS",PBWI      ,Assist (1),AS,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,13,08:59,2,11,"JANKUNAS, PAULIUS",PBWI      ,Foul (1),CM,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,7,08:59,2,12,"SPANOULIS, VASSILIS",PJUO      ,Foul Drawn (1),RV,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,7,08:59,2,13,"SPANOULIS, VASSILIS",PJUO      ,Free Throw In (1/1 -  1 pt),FTM,2.0,3.0,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,7,08:59,2,14,"SPANOULIS, VASSILIS",PJUO      ,Free Throw In (2/2 -  2 pt),FTM,2.0,4.0,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,0,08:41,2,15,"DAVIES, BRANDON",P007870   ,Two Pointer (1/1 -  2 pt),2FGM,4.0,4.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,13,08:40,2,16,"JANKUNAS, PAULIUS",PBWI      ,Assist (2),AS,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,7,08:20,2,17,"SPANOULIS, VASSILIS",PJUO      ,Missed Two Pointer (0/1 -  2 pt),2FGA,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,7,08:20,2,18,"SPANOULIS, VASSILIS",PJUO      ,Shot Rejected (1),AG,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,0,08:17,2,19,"DAVIES, BRANDON",P007870   ,Block (1),FV,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,92,08:15,2,20,"ULANOVAS, EDGARAS",P002329   ,Def Rebound (1),D,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,22,08:08,2,21,"MICIC, VASILIJE",P002580   ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,92,08:06,2,22,"ULANOVAS, EDGARAS",P002329   ,Off Rebound (1),O,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,92,08:06,2,23,"ULANOVAS, EDGARAS",P002329   ,Turnover (1),TO,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,6,07:49,3,25,"PAPAPETROU, IOANNIS",P005161   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,22,07:47,3,26,"ROBERTS, BRIAN",P002091   ,Off Rebound (1),O,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,7,07:33,3,27,"SPANOULIS, VASSILIS",PJUO      ,Missed Two Pointer (0/2 -  2 pt),2FGA,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,13,07:31,3,28,"JANKUNAS, PAULIUS",PBWI      ,Def Rebound (1),D,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,3,07:24,3,29,"PANGOS, KEVIN",P006433   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,6,07:22,3,30,"PAPAPETROU, IOANNIS",P005161   ,Def Rebound (1),D,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,7,07:10,3,31,"SPANOULIS, VASSILIS",PJUO      ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,6,07:07,3,32,"PAPAPETROU, IOANNIS",P005161   ,Off Rebound (1),O,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,92,07:07,3,33,"ULANOVAS, EDGARAS",P002329   ,Foul (1),CM,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,6,07:07,3,34,"PAPAPETROU, IOANNIS",P005161   ,Foul Drawn (1),RV,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,6,07:07,3,35,"PAPAPETROU, IOANNIS",P005161   ,Free Throw In (1/1 -  1 pt),FTM,4.0,5.0,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,6,07:07,3,36,"PAPAPETROU, IOANNIS",P005161   ,Free Throw In (2/2 -  2 pt),FTM,4.0,6.0,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,0,06:54,4,38,"DAVIES, BRANDON",P007870   ,Turnover (1),TO,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,22,06:35,4,39,"ROBERTS, BRIAN",P002091   ,Two Pointer (1/1 -  2 pt),2FGM,4.0,8.0,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,3,06:22,4,41,"PANGOS, KEVIN",P006433   ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,1,06:20,4,42,"MCLEAN, JAMEL",P004418   ,Def Rebound (1),D,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,22,06:14,4,43,"ROBERTS, BRIAN",P002091   ,Two Pointer (2/2 -  4 pt),2FGM,4.0,10.0,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,1,06:12,4,44,"MCLEAN, JAMEL",P004418   ,Assist (1),AS,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,6,06:03,4,45,"PAPAPETROU, IOANNIS",P005161   ,Foul (1),CM,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,13,06:03,4,46,"JANKUNAS, PAULIUS",PBWI      ,Foul Drawn (1),RV,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,0,06:03,4,47,"DAVIES, BRANDON",P007870   ,Out,OUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,44,06:03,4,48,"KAVALIAUSKAS, ANTANAS",P000399   ,In,IN,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,3,05:52,5,50,"PANGOS, KEVIN",P006433   ,Three Pointer (1/3 -  3 pt),3FGM,7.0,10.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,22,05:49,5,51,"MICIC, VASILIJE",P002580   ,Assist (1),AS,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,22,05:29,5,52,"ROBERTS, BRIAN",P002091   ,Three Pointer (1/1 -  7 pt),3FGM,7.0,13.0,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,1,05:26,5,53,"MCLEAN, JAMEL",P004418   ,Assist (2),AS,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,44,05:11,5,54,"KAVALIAUSKAS, ANTANAS",P000399   ,Two Pointer (1/1 -  2 pt),2FGM,9.0,13.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,22,05:10,5,55,"MICIC, VASILIJE",P002580   ,Assist (2),AS,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,7,04:49,6,57,"SPANOULIS, VASSILIS",PJUO      ,Turnover (1),TO,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+          ,,,04:49,6,58,,          ,TV Time Out (1),TOUT_TV,,,,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,3,04:38,6,59,"PANGOS, KEVIN",P006433   ,Offensive Foul (1),OF,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,3,04:38,6,60,"PANGOS, KEVIN",P006433   ,Turnover (1),TO,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,15,04:38,6,61,"PRINTEZIS, GEORGIOS",PAMM      ,Foul Drawn (1),RV,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,1,04:24,6,62,"MCLEAN, JAMEL",P004418   ,Offensive Foul (1),OF,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,1,04:24,6,63,"MCLEAN, JAMEL",P004418   ,Turnover (1),TO,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,3,04:24,6,64,"PANGOS, KEVIN",P006433   ,Foul Drawn (1),RV,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,6,04:24,6,65,"TOUPANE, AXEL",P002582   ,In,IN,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,22,04:24,6,66,"MICIC, VASILIJE",P002580   ,Out,OUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,1,04:24,6,67,"MCLEAN, JAMEL",P004418   ,Out,OUT,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,11,04:24,6,68,"MILUTINOV, NIKOLA",P003941   ,In,IN,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,13,04:09,6,69,"JANKUNAS, PAULIUS",PBWI      ,Two Pointer (1/1 -  2 pt),2FGM,11.0,13.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,7,03:43,7,71,"SPANOULIS, VASSILIS",PJUO      ,Missed Three Pointer (0/2 -  2 pt),3FGA,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,,03:41,7,72,,          ,Off Rebound (1),O,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,44,03:31,7,73,"KAVALIAUSKAS, ANTANAS",P000399   ,Foul (1),CM,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,7,03:31,7,74,"SPANOULIS, VASSILIS",PJUO      ,Foul Drawn (2),RV,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,7,03:31,7,75,"SPANOULIS, VASSILIS",PJUO      ,Missed Free Throw (2/3 -  2 pt),FTA,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,7,03:31,7,76,"SPANOULIS, VASSILIS",PJUO      ,Free Throw In (3/4 -  3 pt),FTM,11.0,14.0,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,3,03:11,7,77,"PANGOS, KEVIN",P006433   ,Missed Three Pointer (1/4 -  3 pt),3FGA,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,44,03:11,7,78,"KAVALIAUSKAS, ANTANAS",P000399   ,Off Rebound (1),O,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,3,03:11,7,79,"PANGOS, KEVIN",P006433   ,Out,OUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,9,03:11,7,80,"UDRIH, BENO",PAGP      ,In,IN,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,21,03:11,7,81,"MILAKNIS, ARTURAS",PKPD      ,In,IN,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,92,03:11,7,82,"ULANOVAS, EDGARAS",P002329   ,Out,OUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,44,03:05,7,83,"KAVALIAUSKAS, ANTANAS",P000399   ,Two Pointer (2/2 -  4 pt),2FGM,13.0,14.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,9,03:03,7,84,"UDRIH, BENO",PAGP      ,Assist (1),AS,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,15,02:51,8,86,"PRINTEZIS, GEORGIOS",PAMM      ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,15,02:49,8,87,"PRINTEZIS, GEORGIOS",PAMM      ,Off Rebound (1),O,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,15,02:47,8,88,"PRINTEZIS, GEORGIOS",PAMM      ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,6,02:45,8,89,"TOUPANE, AXEL",P002582   ,Def Rebound (1),D,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,21,02:38,8,90,"MILAKNIS, ARTURAS",PKPD      ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,6,02:36,8,91,"PAPAPETROU, IOANNIS",P005161   ,Def Rebound (2),D,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,9,02:32,8,92,"UDRIH, BENO",PAGP      ,Foul (1),CM,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,22,02:32,8,93,"ROBERTS, BRIAN",P002091   ,Foul Drawn (1),RV,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,13,02:32,8,94,"JANKUNAS, PAULIUS",PBWI      ,Out,OUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,30,02:32,8,95,"WHITE, AARON",P006505   ,In,IN,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,14,02:32,8,96,"TILLIE, KIM",P002744   ,In,IN,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,15,02:32,8,97,"PRINTEZIS, GEORGIOS",PAMM      ,Out,OUT,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,22,02:32,8,98,"ROBERTS, BRIAN",P002091   ,Free Throw In (1/1 -  8 pt),FTM,13.0,15.0,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,22,02:32,8,99,"ROBERTS, BRIAN",P002091   ,Free Throw In (2/2 -  9 pt),FTM,13.0,16.0,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,17,02:32,8,100,"MANTZARIS, VANGELIS",P003537   ,In,IN,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,22,02:32,8,101,"ROBERTS, BRIAN",P002091   ,Out,OUT,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,6,02:20,8,102,"TOUPANE, AXEL",P002582   ,Two Pointer (1/1 -  2 pt),2FGM,15.0,16.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,9,02:17,8,103,"UDRIH, BENO",PAGP      ,Assist (2),AS,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,7,01:57,9,105,"SPANOULIS, VASSILIS",PJUO      ,Missed Three Pointer (0/3 -  3 pt),3FGA,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,6,01:55,9,106,"TOUPANE, AXEL",P002582   ,Def Rebound (2),D,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,6,01:51,9,107,"TOUPANE, AXEL",P002582   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,6,01:51,9,108,"TOUPANE, AXEL",P002582   ,Shot Rejected (1),AG,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,6,01:51,9,109,"PAPAPETROU, IOANNIS",P005161   ,Block (1),FV,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,,01:51,9,110,,          ,Off Rebound (2),O,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,30,01:33,9,111,"WHITE, AARON",P006505   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,30,01:31,9,112,"WHITE, AARON",P006505   ,Off Rebound (1),O,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,9,01:22,9,113,"UDRIH, BENO",PAGP      ,Two Pointer (1/1 -  2 pt),2FGM,17.0,16.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,11,01:11,9,114,"MILUTINOV, NIKOLA",P003941   ,Offensive Foul (1),OF,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,11,01:11,9,115,"MILUTINOV, NIKOLA",P003941   ,Turnover (1),TO,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,21,01:11,9,116,"MILAKNIS, ARTURAS",PKPD      ,Foul Drawn (1),RV,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,30,01:00,9,117,"WHITE, AARON",P006505   ,Two Pointer (1/1 -  2 pt),2FGM,19.0,16.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,9,00:57,10,119,"UDRIH, BENO",PAGP      ,Assist (3),AS,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,14,00:41,10,120,"TILLIE, KIM",P002744   ,Three Pointer (1/1 -  3 pt),3FGM,19.0,19.0,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,7,00:38,10,121,"SPANOULIS, VASSILIS",PJUO      ,Assist (1),AS,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,30,00:19,10,122,"WHITE, AARON",P006505   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,44,00:17,10,123,"KAVALIAUSKAS, ANTANAS",P000399   ,Off Rebound (2),O,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,9,00:06,10,124,"UDRIH, BENO",PAGP      ,Two Pointer (2/2 -  4 pt),2FGM,21.0,19.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,7,00:02,10,125,"SPANOULIS, VASSILIS",PJUO      ,Missed Three Pointer (0/4 -  3 pt),3FGA,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+          ,,,,11,127,,          ,End Period,EP,,,,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+          ,,,,11,134,,          ,Begin Period,BP,,,,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,13,10:00,11,128,"JANKUNAS, PAULIUS",PBWI      ,In,IN,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,44,10:00,11,129,"KAVALIAUSKAS, ANTANAS",P000399   ,Out,OUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,6,10:00,11,130,"PAPAPETROU, IOANNIS",P005161   ,Out,OUT,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,7,10:00,11,131,"SPANOULIS, VASSILIS",PJUO      ,Out,OUT,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,13,10:00,11,132,"STRELNIEKS, JANIS",P000046   ,In,IN,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,16,10:00,11,133,"PAPANIKOLAOU, KOSTAS",P001255   ,In,IN,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,13,09:50,11,135,"JANKUNAS, PAULIUS",PBWI      ,Two Pointer (2/2 -  4 pt),2FGM,23.0,19.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,9,09:46,11,136,"UDRIH, BENO",PAGP      ,Assist (4),AS,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,21,09:30,11,137,"MILAKNIS, ARTURAS",PKPD      ,Foul (1),CM,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,16,09:30,11,138,"PAPANIKOLAOU, KOSTAS",P001255   ,Foul Drawn (1),RV,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,17,09:20,11,139,"MANTZARIS, VANGELIS",P003537   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,,09:20,11,140,,          ,Off Rebound (3),O,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,13,09:20,11,141,"JANKUNAS, PAULIUS",PBWI      ,Foul (2),CM,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,11,09:20,11,142,"MILUTINOV, NIKOLA",P003941   ,Foul Drawn (1),RV,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,0,09:20,11,143,"DAVIES, BRANDON",P007870   ,In,IN,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,13,09:20,11,144,"JANKUNAS, PAULIUS",PBWI      ,Out,OUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,1,09:20,11,145,"MCLEAN, JAMEL",P004418   ,In,IN,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,11,09:20,11,146,"MILUTINOV, NIKOLA",P003941   ,Out,OUT,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,0,09:12,11,147,"DAVIES, BRANDON",P007870   ,Foul (1),CM,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,13,09:12,11,148,"STRELNIEKS, JANIS",P000046   ,Foul Drawn (1),RV,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,13,09:12,11,149,"STRELNIEKS, JANIS",P000046   ,Free Throw In (1/1 -  1 pt),FTM,23.0,20.0,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,17,09:12,11,150,"MANTZARIS, VANGELIS",P003537   ,Assist (1),AS,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,13,09:12,11,151,"STRELNIEKS, JANIS",P000046   ,Free Throw In (2/2 -  2 pt),FTM,23.0,21.0,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,13,09:12,11,152,"STRELNIEKS, JANIS",P000046   ,Free Throw In (3/3 -  3 pt),FTM,23.0,22.0,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,6,09:04,11,153,"TOUPANE, AXEL",P002582   ,Two Pointer (2/3 -  4 pt),2FGM,25.0,22.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,1,08:35,12,155,"MCLEAN, JAMEL",P004418   ,Two Pointer (2/2 -  4 pt),2FGM,25.0,24.0,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,13,08:33,12,196,"STRELNIEKS, JANIS",P000046   ,Assist (1),AS,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,14,08:23,12,156,"TILLIE, KIM",P002744   ,Foul (1),CM,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,0,08:23,12,157,"DAVIES, BRANDON",P007870   ,Foul Drawn (1),RV,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,9,08:23,12,158,"UDRIH, BENO",PAGP      ,Out,OUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,22,08:23,12,159,"MICIC, VASILIJE",P002580   ,In,IN,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,0,08:23,12,160,"DAVIES, BRANDON",P007870   ,Free Throw In (1/1 -  3 pt),FTM,26.0,24.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,6,08:23,12,161,"TOUPANE, AXEL",P002582   ,Assist (1),AS,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,0,08:23,12,162,"DAVIES, BRANDON",P007870   ,Free Throw In (2/2 -  4 pt),FTM,27.0,24.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,13,08:01,12,163,"STRELNIEKS, JANIS",P000046   ,Missed Three Pointer (0/1 -  3 pt),3FGA,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,,08:00,12,164,,          ,Def Rebound (1),D,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,14,07:42,13,167,"TILLIE, KIM",P002744   ,Out,OUT,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,15,07:42,13,168,"PRINTEZIS, GEORGIOS",PAMM      ,In,IN,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,6,07:41,13,169,"TOUPANE, AXEL",P002582   ,Turnover (1),TO,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,30,07:27,13,170,"WHITE, AARON",P006505   ,Foul (1),CM,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,1,07:27,13,171,"MCLEAN, JAMEL",P004418   ,Foul Drawn (1),RV,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,1,07:13,13,172,"MCLEAN, JAMEL",P004418   ,Turnover (2),TO,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,3,07:13,13,173,"PANGOS, KEVIN",P006433   ,In,IN,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,6,07:13,13,174,"TOUPANE, AXEL",P002582   ,Out,OUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,21,06:52,14,176,"MILAKNIS, ARTURAS",PKPD      ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,13,06:50,14,177,"STRELNIEKS, JANIS",P000046   ,Def Rebound (1),D,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,1,06:41,14,178,"MCLEAN, JAMEL",P004418   ,Missed Two Pointer (2/3 -  4 pt),2FGA,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,21,06:39,14,179,"MILAKNIS, ARTURAS",PKPD      ,Def Rebound (1),D,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,0,06:27,14,180,"DAVIES, BRANDON",P007870   ,Two Pointer (2/2 -  6 pt),2FGM,29.0,24.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,22,06:27,14,181,"MICIC, VASILIJE",P002580   ,Assist (3),AS,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,17,06:27,14,182,"MANTZARIS, VANGELIS",P003537   ,Foul (1),CM,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,0,06:27,14,183,"DAVIES, BRANDON",P007870   ,Foul Drawn (2),RV,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,21,06:27,14,184,"MILAKNIS, ARTURAS",PKPD      ,Out,OUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,92,06:27,14,185,"ULANOVAS, EDGARAS",P002329   ,In,IN,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,0,06:27,14,186,"DAVIES, BRANDON",P007870   ,Free Throw In (3/3 -  7 pt),FTM,30.0,24.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,15,06:09,14,187,"PRINTEZIS, GEORGIOS",PAMM      ,Turnover (1),TO,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,22,06:07,14,188,"MICIC, VASILIJE",P002580   ,Steal (1),ST,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,30,05:52,15,190,"WHITE, AARON",P006505   ,Two Pointer (2/3 -  4 pt),2FGM,32.0,24.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,0,05:52,15,191,"DAVIES, BRANDON",P007870   ,Assist (1),AS,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,13,05:52,15,192,"STRELNIEKS, JANIS",P000046   ,Foul (1),CM,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,30,05:52,15,193,"WHITE, AARON",P006505   ,Foul Drawn (1),RV,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,,05:52,15,194,,          ,Time Out (1),TOUT,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+          ,,,05:52,15,195,,          ,TV Time Out (2),TOUT_TV,,,,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,7,05:52,15,197,"SPANOULIS, VASSILIS",PJUO      ,In,IN,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,13,05:52,15,198,"STRELNIEKS, JANIS",P000046   ,Out,OUT,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,17,05:52,15,199,"MANTZARIS, VANGELIS",P003537   ,Out,OUT,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,22,05:52,15,200,"ROBERTS, BRIAN",P002091   ,In,IN,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,30,05:52,15,201,"WHITE, AARON",P006505   ,Free Throw In (1/1 -  5 pt),FTM,33.0,24.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,15,05:28,15,202,"PRINTEZIS, GEORGIOS",PAMM      ,Missed Two Pointer (0/3 -  0 pt),2FGA,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,92,05:26,15,203,"ULANOVAS, EDGARAS",P002329   ,Def Rebound (2),D,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,3,05:22,15,204,"PANGOS, KEVIN",P006433   ,Two Pointer (1/1 -  5 pt),2FGM,35.0,24.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,30,05:22,15,205,"WHITE, AARON",P006505   ,Assist (1),AS,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,16,04:52,16,207,"PAPANIKOLAOU, KOSTAS",P001255   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,22,04:50,16,208,"MICIC, VASILIJE",P002580   ,Def Rebound (1),D,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,16,04:47,16,209,"PAPANIKOLAOU, KOSTAS",P001255   ,Foul (1),CM,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,22,04:47,16,210,"MICIC, VASILIJE",P002580   ,Foul Drawn (2),RV,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,22,04:47,16,211,"MICIC, VASILIJE",P002580   ,Free Throw In (1/1 -  3 pt),FTM,36.0,24.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,22,04:47,16,212,"MICIC, VASILIJE",P002580   ,Free Throw In (2/2 -  4 pt),FTM,37.0,24.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,30,04:34,16,213,"WHITE, AARON",P006505   ,Foul (2),CM,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,7,04:34,16,214,"SPANOULIS, VASSILIS",PJUO      ,Foul Drawn (3),RV,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,13,04:34,16,215,"JANKUNAS, PAULIUS",PBWI      ,In,IN,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,30,04:34,16,216,"WHITE, AARON",P006505   ,Out,OUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,7,04:34,16,217,"SPANOULIS, VASSILIS",PJUO      ,Free Throw In (4/5 -  4 pt),FTM,37.0,25.0,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,7,04:34,16,218,"SPANOULIS, VASSILIS",PJUO      ,Free Throw In (5/6 -  5 pt),FTM,37.0,26.0,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,22,04:18,16,219,"MICIC, VASILIJE",P002580   ,Missed Two Pointer (1/2 -  4 pt),2FGA,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,1,04:16,16,220,"MCLEAN, JAMEL",P004418   ,Def Rebound (2),D,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,15,04:08,16,221,"PRINTEZIS, GEORGIOS",PAMM      ,Missed Two Pointer (0/4 -  0 pt),2FGA,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,3,04:06,16,222,"PANGOS, KEVIN",P006433   ,Def Rebound (1),D,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,0,03:51,17,224,"DAVIES, BRANDON",P007870   ,Two Pointer (3/3 -  9 pt),2FGM,39.0,26.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,22,03:49,17,225,"MICIC, VASILIJE",P002580   ,Assist (4),AS,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,,03:49,17,226,,          ,Time Out (2),TOUT,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,1,03:49,17,227,"MCLEAN, JAMEL",P004418   ,Out,OUT,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,6,03:49,17,228,"PAPAPETROU, IOANNIS",P005161   ,In,IN,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,11,03:49,17,229,"MILUTINOV, NIKOLA",P003941   ,In,IN,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,15,03:49,17,230,"PRINTEZIS, GEORGIOS",PAMM      ,Out,OUT,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,16,03:34,17,231,"PAPANIKOLAOU, KOSTAS",P001255   ,Turnover (1),TO,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,3,03:21,17,232,"PANGOS, KEVIN",P006433   ,Three Pointer (2/5 -  8 pt),3FGM,42.0,26.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,13,03:21,17,233,"JANKUNAS, PAULIUS",PBWI      ,Assist (3),AS,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,7,02:54,18,235,"SPANOULIS, VASSILIS",PJUO      ,Two Pointer (1/3 -  7 pt),2FGM,42.0,28.0,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,22,02:33,18,236,"ROBERTS, BRIAN",P002091   ,Foul (1),CM,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,22,02:33,18,237,"MICIC, VASILIJE",P002580   ,Foul Drawn (3),RV,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,14,02:33,18,238,"TILLIE, KIM",P002744   ,In,IN,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,16,02:33,18,239,"PAPANIKOLAOU, KOSTAS",P001255   ,Out,OUT,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,22,02:33,18,240,"MICIC, VASILIJE",P002580   ,Free Throw In (3/3 -  5 pt),FTM,43.0,28.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,22,02:33,18,241,"MICIC, VASILIJE",P002580   ,Free Throw In (4/4 -  6 pt),FTM,44.0,28.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,13,02:33,18,242,"JANKUNAS, PAULIUS",PBWI      ,Out,OUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,21,02:33,18,243,"MILAKNIS, ARTURAS",PKPD      ,In,IN,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,7,02:17,18,244,"SPANOULIS, VASSILIS",PJUO      ,Two Pointer (2/4 -  9 pt),2FGM,44.0,30.0,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,11,02:14,18,271,"MILUTINOV, NIKOLA",P003941   ,Assist (1),AS,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,3,01:51,19,246,"PANGOS, KEVIN",P006433   ,Two Pointer (2/2 -  10 pt),2FGM,46.0,30.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,6,01:41,19,247,"PAPAPETROU, IOANNIS",P005161   ,Offensive Foul (2),OF,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,6,01:41,19,248,"PAPAPETROU, IOANNIS",P005161   ,Turnover (1),TO,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,22,01:41,19,249,"MICIC, VASILIJE",P002580   ,Foul Drawn (4),RV,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,3,01:41,19,250,"BROWN, BOBBY",P000129   ,In,IN,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,6,01:41,19,251,"PAPAPETROU, IOANNIS",P005161   ,Out,OUT,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,17,01:41,19,252,"MANTZARIS, VANGELIS",P003537   ,In,IN,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,22,01:41,19,253,"ROBERTS, BRIAN",P002091   ,Out,OUT,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,17,01:31,19,254,"MANTZARIS, VANGELIS",P003537   ,Foul (2),CM,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,21,01:31,19,255,"MILAKNIS, ARTURAS",PKPD      ,Foul Drawn (2),RV,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,21,01:31,19,256,"MILAKNIS, ARTURAS",PKPD      ,Missed Free Throw (0/1 -  0 pt),FTA,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,21,01:31,19,257,"MILAKNIS, ARTURAS",PKPD      ,Free Throw In (1/2 -  1 pt),FTM,47.0,30.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,0,01:31,19,258,"DAVIES, BRANDON",P007870   ,Out,OUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,44,01:31,19,259,"KAVALIAUSKAS, ANTANAS",P000399   ,In,IN,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,3,01:11,19,260,"BROWN, BOBBY",P000129   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,22,01:08,19,261,"MICIC, VASILIJE",P002580   ,Def Rebound (2),D,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,22,00:57,20,263,"MICIC, VASILIJE",P002580   ,Turnover (1),TO,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,17,00:56,20,264,"MANTZARIS, VANGELIS",P003537   ,Steal (1),ST,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,7,00:54,20,265,"SPANOULIS, VASSILIS",PJUO      ,Missed Two Pointer (2/5 -  9 pt),2FGA,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,11,00:51,20,266,"MILUTINOV, NIKOLA",P003941   ,Off Rebound (1),O,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,11,00:51,20,267,"MILUTINOV, NIKOLA",P003941   ,Two Pointer (1/1 -  2 pt),2FGM,47.0,32.0,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,44,00:51,20,268,"KAVALIAUSKAS, ANTANAS",P000399   ,Foul (2),CM,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,11,00:51,20,269,"MILUTINOV, NIKOLA",P003941   ,Foul Drawn (2),RV,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,,00:51,20,270,,          ,Time Out (1),TOUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,13,00:51,20,272,"JANKUNAS, PAULIUS",PBWI      ,In,IN,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,92,00:51,20,273,"ULANOVAS, EDGARAS",P002329   ,Out,OUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,11,00:51,20,274,"MILUTINOV, NIKOLA",P003941   ,Free Throw In (1/1 -  3 pt),FTM,47.0,33.0,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,13,00:39,20,275,"JANKUNAS, PAULIUS",PBWI      ,Turnover (1),TO,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,0,00:39,20,276,"DAVIES, BRANDON",P007870   ,In,IN,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,44,00:39,20,277,"KAVALIAUSKAS, ANTANAS",P000399   ,Out,OUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,17,00:19,20,278,"MANTZARIS, VANGELIS",P003537   ,Three Pointer (1/2 -  3 pt),3FGM,47.0,36.0,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,,00:19,20,279,,          ,Time Out (2),TOUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,13,00:19,20,280,"JANKUNAS, PAULIUS",PBWI      ,Out,OUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,92,00:19,20,281,"ULANOVAS, EDGARAS",P002329   ,In,IN,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,3,00:19,20,282,"BROWN, BOBBY",P000129   ,Out,OUT,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,6,00:19,20,283,"PAPAPETROU, IOANNIS",P005161   ,In,IN,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,7,00:19,20,284,"SPANOULIS, VASSILIS",PJUO      ,Out,OUT,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,11,00:19,20,285,"MILUTINOV, NIKOLA",P003941   ,Out,OUT,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,15,00:19,20,286,"PRINTEZIS, GEORGIOS",PAMM      ,In,IN,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,16,00:19,20,287,"PAPANIKOLAOU, KOSTAS",P001255   ,In,IN,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,22,00:01,20,288,"MICIC, VASILIJE",P002580   ,Turnover (2),TO,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,16,00:01,20,289,"PAPANIKOLAOU, KOSTAS",P001255   ,Steal (1),ST,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+          ,,,,21,291,,          ,End Period,EP,,,,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+          ,,,,21,300,,          ,Begin Period,BP,,,,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,13,10:00,21,292,"JANKUNAS, PAULIUS",PBWI      ,In,IN,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,92,10:00,21,293,"ULANOVAS, EDGARAS",P002329   ,Out,OUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,1,10:00,21,294,"MCLEAN, JAMEL",P004418   ,In,IN,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,3,10:00,21,295,"BROWN, BOBBY",P000129   ,In,IN,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,7,10:00,21,296,"SPANOULIS, VASSILIS",PJUO      ,In,IN,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,14,10:00,21,297,"TILLIE, KIM",P002744   ,Out,OUT,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,16,10:00,21,298,"PAPANIKOLAOU, KOSTAS",P001255   ,Out,OUT,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,17,10:00,21,299,"MANTZARIS, VANGELIS",P003537   ,Out,OUT,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,3,09:30,21,301,"BROWN, BOBBY",P000129   ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,13,09:28,21,302,"JANKUNAS, PAULIUS",PBWI      ,Def Rebound (2),D,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,21,09:10,21,303,"MILAKNIS, ARTURAS",PKPD      ,Missed Three Pointer (0/3 -  1 pt),3FGA,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,6,09:07,21,304,"PAPAPETROU, IOANNIS",P005161   ,Def Rebound (3),D,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,15,08:52,22,306,"PRINTEZIS, GEORGIOS",PAMM      ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,3,08:49,22,307,"PANGOS, KEVIN",P006433   ,Def Rebound (2),D,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,0,08:34,22,308,"DAVIES, BRANDON",P007870   ,Two Pointer (4/4 -  11 pt),2FGM,49.0,36.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,3,08:32,22,309,"PANGOS, KEVIN",P006433   ,Assist (1),AS,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,6,08:04,22,310,"PAPAPETROU, IOANNIS",P005161   ,Three Pointer (1/2 -  5 pt),3FGM,49.0,39.0,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,3,08:01,22,311,"BROWN, BOBBY",P000129   ,Assist (1),AS,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,1,07:54,23,313,"MCLEAN, JAMEL",P004418   ,Foul (2),CM,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,0,07:54,23,314,"DAVIES, BRANDON",P007870   ,Foul Drawn (3),RV,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,0,07:41,23,315,"DAVIES, BRANDON",P007870   ,Missed Two Pointer (4/5 -  11 pt),2FGA,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,3,07:39,23,316,"BROWN, BOBBY",P000129   ,Def Rebound (1),D,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,6,07:26,23,317,"PAPAPETROU, IOANNIS",P005161   ,Missed Two Pointer (0/1 -  5 pt),2FGA,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,13,07:24,23,318,"JANKUNAS, PAULIUS",PBWI      ,Def Rebound (3),D,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,0,07:06,23,319,"DAVIES, BRANDON",P007870   ,Two Pointer (5/6 -  13 pt),2FGM,51.0,39.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,22,07:04,23,320,"MICIC, VASILIJE",P002580   ,Assist (5),AS,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,7,06:45,24,322,"SPANOULIS, VASSILIS",PJUO      ,Missed Three Pointer (0/5 -  9 pt),3FGA,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,6,06:43,24,323,"PAPAPETROU, IOANNIS",P005161   ,Off Rebound (2),O,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,6,06:41,24,324,"PAPAPETROU, IOANNIS",P005161   ,Missed Two Pointer (0/2 -  5 pt),2FGA,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,13,06:40,24,325,"JANKUNAS, PAULIUS",PBWI      ,Def Rebound (4),D,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,3,06:40,24,326,"BROWN, BOBBY",P000129   ,Unsportsmanlike Foul  (1),CMU,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,3,06:40,24,327,"PANGOS, KEVIN",P006433   ,Foul Drawn (2),RV,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,21,06:40,24,328,"MILAKNIS, ARTURAS",PKPD      ,Out,OUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,92,06:40,24,329,"ULANOVAS, EDGARAS",P002329   ,In,IN,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,3,06:40,24,330,"BROWN, BOBBY",P000129   ,Out,OUT,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,17,06:40,24,331,"MANTZARIS, VANGELIS",P003537   ,In,IN,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,3,06:40,24,332,"PANGOS, KEVIN",P006433   ,Free Throw In (1/1 -  11 pt),FTM,52.0,39.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,3,06:40,24,333,"PANGOS, KEVIN",P006433   ,Free Throw In (2/2 -  12 pt),FTM,53.0,39.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,15,06:28,24,334,"PRINTEZIS, GEORGIOS",PAMM      ,Foul (1),CM,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,13,06:28,24,335,"JANKUNAS, PAULIUS",PBWI      ,Foul Drawn (2),RV,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,3,06:21,24,336,"PANGOS, KEVIN",P006433   ,Turnover (2),TO,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,0,06:21,24,337,"DAVIES, BRANDON",P007870   ,Out,OUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,44,06:21,24,338,"KAVALIAUSKAS, ANTANAS",P000399   ,In,IN,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,1,05:56,25,340,"MCLEAN, JAMEL",P004418   ,Missed Two Pointer (2/4 -  4 pt),2FGA,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,13,05:54,25,341,"JANKUNAS, PAULIUS",PBWI      ,Def Rebound (5),D,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,7,05:47,25,342,"SPANOULIS, VASSILIS",PJUO      ,Foul (2),CM,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,3,05:47,25,343,"PANGOS, KEVIN",P006433   ,Foul Drawn (3),RV,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,22,05:37,25,344,"MICIC, VASILIJE",P002580   ,Turnover (3),TO,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,15,05:35,25,345,"PRINTEZIS, GEORGIOS",PAMM      ,Steal (1),ST,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,92,05:23,25,346,"ULANOVAS, EDGARAS",P002329   ,Foul (2),CM,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,1,05:23,25,347,"MCLEAN, JAMEL",P004418   ,Foul Drawn (2),RV,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,1,05:23,25,348,"MCLEAN, JAMEL",P004418   ,Missed Free Throw (0/1 -  4 pt),FTA,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,1,05:23,25,349,"MCLEAN, JAMEL",P004418   ,Free Throw In (1/2 -  5 pt),FTM,53.0,40.0,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,15,05:23,25,350,"PRINTEZIS, GEORGIOS",PAMM      ,Assist (1),AS,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,44,05:12,25,351,"KAVALIAUSKAS, ANTANAS",P000399   ,Missed Two Pointer (2/3 -  4 pt),2FGA,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,44,05:12,25,352,"KAVALIAUSKAS, ANTANAS",P000399   ,Shot Rejected (1),AG,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,6,05:12,25,353,"PAPAPETROU, IOANNIS",P005161   ,Block (2),FV,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,44,05:10,25,354,"KAVALIAUSKAS, ANTANAS",P000399   ,Off Rebound (3),O,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,44,05:08,25,355,"KAVALIAUSKAS, ANTANAS",P000399   ,Turnover (1),TO,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,3,05:08,25,356,"PANGOS, KEVIN",P006433   ,Out,OUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,9,05:08,25,357,"UDRIH, BENO",PAGP      ,In,IN,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,13,04:51,26,359,"JANKUNAS, PAULIUS",PBWI      ,Foul (3),CM,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,15,04:51,26,360,"PRINTEZIS, GEORGIOS",PAMM      ,Foul Drawn (2),RV,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+          ,,,04:51,26,361,,          ,TV Time Out (3),TOUT_TV,,,,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,0,04:51,26,362,"DAVIES, BRANDON",P007870   ,In,IN,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,13,04:51,26,363,"JANKUNAS, PAULIUS",PBWI      ,Out,OUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,15,04:51,26,364,"PRINTEZIS, GEORGIOS",PAMM      ,Free Throw In (1/1 -  1 pt),FTM,53.0,41.0,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,15,04:51,26,365,"PRINTEZIS, GEORGIOS",PAMM      ,Missed Free Throw (1/2 -  1 pt),FTA,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,0,04:48,26,366,"DAVIES, BRANDON",P007870   ,Def Rebound (1),D,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,0,04:36,26,367,"DAVIES, BRANDON",P007870   ,Missed Two Pointer (5/7 -  13 pt),2FGA,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,6,04:34,26,368,"PAPAPETROU, IOANNIS",P005161   ,Def Rebound (4),D,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,15,04:27,26,369,"PRINTEZIS, GEORGIOS",PAMM      ,Missed Two Pointer (0/5 -  1 pt),2FGA,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,1,04:27,26,370,"MCLEAN, JAMEL",P004418   ,Off Rebound (1),O,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,9,04:25,26,371,"UDRIH, BENO",PAGP      ,Foul (2),CM,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,1,04:25,26,372,"MCLEAN, JAMEL",P004418   ,Foul Drawn (3),RV,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,0,04:25,26,373,"DAVIES, BRANDON",P007870   ,Out,OUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,30,04:25,26,374,"WHITE, AARON",P006505   ,In,IN,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,1,04:25,26,375,"MCLEAN, JAMEL",P004418   ,Out,OUT,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,11,04:25,26,376,"MILUTINOV, NIKOLA",P003941   ,In,IN,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,44,04:17,26,377,"KAVALIAUSKAS, ANTANAS",P000399   ,Foul (3),CM,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,7,04:17,26,378,"SPANOULIS, VASSILIS",PJUO      ,Foul Drawn (4),RV,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,44,04:17,26,379,"KAVALIAUSKAS, ANTANAS",P000399   ,Technical Foul (4),CMT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,13,04:17,26,380,"JANKUNAS, PAULIUS",PBWI      ,In,IN,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,44,04:17,26,381,"KAVALIAUSKAS, ANTANAS",P000399   ,Out,OUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,7,04:17,26,382,"SPANOULIS, VASSILIS",PJUO      ,Free Throw In (6/7 -  10 pt),FTM,53.0,42.0,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,7,04:17,26,383,"SPANOULIS, VASSILIS",PJUO      ,Free Throw In (7/8 -  11 pt),FTM,53.0,43.0,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,7,04:17,26,384,"SPANOULIS, VASSILIS",PJUO      ,Free Throw In (8/9 -  12 pt),FTM,53.0,44.0,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,7,04:05,26,385,"SPANOULIS, VASSILIS",PJUO      ,Two Pointer (3/6 -  14 pt),2FGM,53.0,46.0,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,,04:05,26,386,,          ,Time Out (1),TOUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,3,04:05,26,387,"PANGOS, KEVIN",P006433   ,In,IN,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,22,04:05,26,388,"MICIC, VASILIJE",P002580   ,Out,OUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,11,03:54,27,390,"MILUTINOV, NIKOLA",P003941   ,Foul (2),CM,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,13,03:54,27,391,"JANKUNAS, PAULIUS",PBWI      ,Foul Drawn (3),RV,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,13,03:54,27,392,"JANKUNAS, PAULIUS",PBWI      ,Free Throw In (1/1 -  5 pt),FTM,54.0,46.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,13,03:54,27,393,"JANKUNAS, PAULIUS",PBWI      ,Missed Free Throw (1/2 -  5 pt),FTA,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,6,03:51,27,394,"PAPAPETROU, IOANNIS",P005161   ,Def Rebound (5),D,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,7,03:37,27,395,"SPANOULIS, VASSILIS",PJUO      ,Missed Three Pointer (0/6 -  14 pt),3FGA,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,92,03:35,27,396,"ULANOVAS, EDGARAS",P002329   ,Def Rebound (3),D,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,13,03:23,27,397,"JANKUNAS, PAULIUS",PBWI      ,Two Pointer (3/3 -  7 pt),2FGM,56.0,46.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,3,03:21,27,398,"PANGOS, KEVIN",P006433   ,Assist (2),AS,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,17,02:59,28,400,"MANTZARIS, VANGELIS",P003537   ,Missed Three Pointer (1/3 -  3 pt),3FGA,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,30,02:57,28,401,"WHITE, AARON",P006505   ,Def Rebound (1),D,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,13,02:52,28,402,"JANKUNAS, PAULIUS",PBWI      ,Two Pointer (4/4 -  9 pt),2FGM,58.0,46.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,9,02:52,28,403,"UDRIH, BENO",PAGP      ,Assist (5),AS,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,,02:52,28,404,,          ,Time Out (1),TOUT,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,1,02:52,28,405,"MCLEAN, JAMEL",P004418   ,In,IN,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,11,02:52,28,406,"MILUTINOV, NIKOLA",P003941   ,Out,OUT,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,14,02:52,28,407,"TILLIE, KIM",P002744   ,In,IN,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,15,02:52,28,408,"PRINTEZIS, GEORGIOS",PAMM      ,Out,OUT,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,92,02:34,28,409,"ULANOVAS, EDGARAS",P002329   ,Foul (3),CM,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,14,02:34,28,410,"TILLIE, KIM",P002744   ,Foul Drawn (1),RV,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,21,02:34,28,411,"MILAKNIS, ARTURAS",PKPD      ,In,IN,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,92,02:34,28,412,"ULANOVAS, EDGARAS",P002329   ,Out,OUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,7,02:34,28,413,"SPANOULIS, VASSILIS",PJUO      ,Out,OUT,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,13,02:34,28,414,"STRELNIEKS, JANIS",P000046   ,In,IN,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,14,02:34,28,415,"TILLIE, KIM",P002744   ,Missed Free Throw (0/1 -  3 pt),FTA,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,14,02:34,28,416,"TILLIE, KIM",P002744   ,Free Throw In (1/2 -  4 pt),FTM,58.0,47.0,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,7,02:34,28,417,"SPANOULIS, VASSILIS",PJUO      ,Assist (2),AS,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,6,02:34,28,418,"PAPAPETROU, IOANNIS",P005161   ,Out,OUT,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,16,02:34,28,419,"PAPANIKOLAOU, KOSTAS",P001255   ,In,IN,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,13,02:15,28,420,"JANKUNAS, PAULIUS",PBWI      ,Two Pointer (5/5 -  11 pt),2FGM,60.0,47.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,3,02:13,28,421,"PANGOS, KEVIN",P006433   ,Assist (3),AS,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,13,01:55,29,423,"STRELNIEKS, JANIS",P000046   ,Missed Two Pointer (0/1 -  3 pt),2FGA,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,13,01:53,29,424,"JANKUNAS, PAULIUS",PBWI      ,Def Rebound (6),D,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,1,01:43,29,425,"MCLEAN, JAMEL",P004418   ,Foul (3),CM,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,13,01:43,29,426,"JANKUNAS, PAULIUS",PBWI      ,Foul Drawn (4),RV,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,6,01:43,29,427,"TOUPANE, AXEL",P002582   ,In,IN,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,9,01:43,29,428,"UDRIH, BENO",PAGP      ,Out,OUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,13,01:43,29,429,"JANKUNAS, PAULIUS",PBWI      ,Free Throw In (2/3 -  12 pt),FTM,61.0,47.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,13,01:43,29,431,"JANKUNAS, PAULIUS",PBWI      ,Free Throw In (3/4 -  13 pt),FTM,62.0,47.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,0,01:43,29,432,"DAVIES, BRANDON",P007870   ,In,IN,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,13,01:43,29,433,"JANKUNAS, PAULIUS",PBWI      ,Out,OUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,3,01:29,29,434,"PANGOS, KEVIN",P006433   ,Foul (2),CM,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,1,01:29,29,435,"MCLEAN, JAMEL",P004418   ,Foul Drawn (4),RV,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,3,01:29,29,436,"PANGOS, KEVIN",P006433   ,Out,OUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,22,01:29,29,437,"MICIC, VASILIJE",P002580   ,In,IN,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,1,01:29,29,438,"MCLEAN, JAMEL",P004418   ,Free Throw In (2/3 -  6 pt),FTM,62.0,48.0,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,1,01:29,29,439,"MCLEAN, JAMEL",P004418   ,Missed Free Throw (2/4 -  6 pt),FTA,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,30,01:25,29,440,"WHITE, AARON",P006505   ,Def Rebound (2),D,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,22,01:06,29,441,"MICIC, VASILIJE",P002580   ,Missed Two Pointer (1/3 -  6 pt),2FGA,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,14,01:04,29,442,"TILLIE, KIM",P002744   ,Def Rebound (1),D,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,16,00:54,30,444,"PAPANIKOLAOU, KOSTAS",P001255   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,30,00:52,30,445,"WHITE, AARON",P006505   ,Def Rebound (3),D,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,17,00:39,30,446,"MANTZARIS, VANGELIS",P003537   ,Foul (3),CM,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,0,00:39,30,447,"DAVIES, BRANDON",P007870   ,Foul Drawn (4),RV,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,0,00:39,30,448,"DAVIES, BRANDON",P007870   ,Free Throw In (4/4 -  14 pt),FTM,63.0,48.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,0,00:39,30,449,"DAVIES, BRANDON",P007870   ,Free Throw In (5/5 -  15 pt),FTM,64.0,48.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,16,00:20,30,450,"PAPANIKOLAOU, KOSTAS",P001255   ,Two Pointer (1/2 -  2 pt),2FGM,64.0,50.0,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,13,00:18,30,451,"STRELNIEKS, JANIS",P000046   ,Assist (2),AS,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,6,00:03,30,452,"TOUPANE, AXEL",P002582   ,Three Pointer (1/1 -  7 pt),3FGM,67.0,50.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,22,00:03,30,453,"MICIC, VASILIJE",P002580   ,Assist (6),AS,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+          ,,,,31,455,,          ,End Period,EP,,,,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+          ,,,,31,458,,          ,Begin Period,BP,,,,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,17,10:00,31,456,"MANTZARIS, VANGELIS",P003537   ,Out,OUT,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,22,10:00,31,457,"ROBERTS, BRIAN",P002091   ,In,IN,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,0,09:35,31,459,"DAVIES, BRANDON",P007870   ,Turnover (2),TO,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,22,09:33,31,460,"ROBERTS, BRIAN",P002091   ,Steal (1),ST,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,22,09:18,31,461,"MICIC, VASILIJE",P002580   ,Foul (1),CM,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,13,09:18,31,462,"STRELNIEKS, JANIS",P000046   ,Foul Drawn (2),RV,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,13,09:08,31,463,"STRELNIEKS, JANIS",P000046   ,Turnover (1),TO,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,30,09:06,31,464,"WHITE, AARON",P006505   ,Steal (1),ST,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,16,09:02,31,465,"PAPANIKOLAOU, KOSTAS",P001255   ,Foul (2),CM,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,22,09:02,31,466,"MICIC, VASILIJE",P002580   ,Foul Drawn (5),RV,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,22,09:02,31,467,"MICIC, VASILIJE",P002580   ,Free Throw In (5/5 -  7 pt),FTM,68.0,50.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,22,09:02,31,468,"MICIC, VASILIJE",P002580   ,Free Throw In (6/6 -  8 pt),FTM,69.0,50.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,22,08:44,32,470,"ROBERTS, BRIAN",P002091   ,Turnover (1),TO,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,0,08:43,32,471,"DAVIES, BRANDON",P007870   ,Steal (1),ST,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,0,08:42,32,472,"DAVIES, BRANDON",P007870   ,Turnover (3),TO,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,16,08:41,32,473,"PAPANIKOLAOU, KOSTAS",P001255   ,Steal (2),ST,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,22,08:40,32,474,"MICIC, VASILIJE",P002580   ,Foul (2),CM,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,16,08:40,32,475,"PAPANIKOLAOU, KOSTAS",P001255   ,Foul Drawn (2),RV,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,13,08:32,32,476,"STRELNIEKS, JANIS",P000046   ,Missed Three Pointer (0/2 -  3 pt),3FGA,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,,08:31,32,477,,          ,Off Rebound (4),O,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,6,08:31,32,478,"TOUPANE, AXEL",P002582   ,Foul (1),CM,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,1,08:31,32,479,"MCLEAN, JAMEL",P004418   ,Foul Drawn (5),RV,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,14,08:19,32,480,"TILLIE, KIM",P002744   ,Two Pointer (1/1 -  6 pt),2FGM,69.0,52.0,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,13,08:17,32,481,"STRELNIEKS, JANIS",P000046   ,Assist (3),AS,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,30,07:53,33,483,"WHITE, AARON",P006505   ,Missed Two Pointer (2/4 -  5 pt),2FGA,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,22,07:51,33,484,"ROBERTS, BRIAN",P002091   ,Def Rebound (1),D,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,22,07:45,33,485,"MICIC, VASILIJE",P002580   ,Foul (3),CM,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,1,07:45,33,486,"MCLEAN, JAMEL",P004418   ,Foul Drawn (6),RV,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,1,07:45,33,487,"MCLEAN, JAMEL",P004418   ,Out,OUT,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,15,07:45,33,488,"PRINTEZIS, GEORGIOS",PAMM      ,In,IN,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,3,07:45,33,489,"PANGOS, KEVIN",P006433   ,In,IN,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,22,07:45,33,490,"MICIC, VASILIJE",P002580   ,Out,OUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,,07:33,33,491,,          ,Time Out (1),TOUT,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+          ,,,07:33,33,492,,          ,TV Time Out (4),TOUT_TV,,,,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,22,07:33,33,493,"ROBERTS, BRIAN",P002091   ,Turnover (2),TO,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,30,07:08,33,494,"WHITE, AARON",P006505   ,Missed Two Pointer (2/5 -  5 pt),2FGA,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,0,07:06,33,495,"DAVIES, BRANDON",P007870   ,Off Rebound (1),O,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,0,07:04,33,496,"DAVIES, BRANDON",P007870   ,Two Pointer (6/8 -  17 pt),2FGM,71.0,52.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,15,06:42,34,498,"PRINTEZIS, GEORGIOS",PAMM      ,Missed Two Pointer (0/6 -  1 pt),2FGA,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,,06:41,34,499,,          ,Turnover (1),TO,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,6,06:41,34,500,"PAPAPETROU, IOANNIS",P005161   ,In,IN,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,14,06:41,34,501,"TILLIE, KIM",P002744   ,Out,OUT,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,6,06:18,34,502,"TOUPANE, AXEL",P002582   ,Three Pointer (2/2 -  10 pt),3FGM,74.0,52.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,21,06:18,34,503,"MILAKNIS, ARTURAS",PKPD      ,Assist (1),AS,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,16,06:18,34,504,"PAPANIKOLAOU, KOSTAS",P001255   ,Foul (3),CM,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,6,06:18,34,505,"TOUPANE, AXEL",P002582   ,Foul Drawn (1),RV,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,,06:18,34,506,,          ,Time Out (2),TOUT,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,6,06:18,34,507,"TOUPANE, AXEL",P002582   ,Missed Free Throw (0/1 -  10 pt),FTA,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,15,06:15,34,508,"PRINTEZIS, GEORGIOS",PAMM      ,Def Rebound (1),D,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,22,05:57,35,510,"ROBERTS, BRIAN",P002091   ,Missed Three Pointer (1/2 -  9 pt),3FGA,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,0,05:55,35,511,"DAVIES, BRANDON",P007870   ,Def Rebound (2),D,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,,05:34,35,512,,          ,Turnover (2),TO,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,3,05:34,35,513,"PANGOS, KEVIN",P006433   ,Out,OUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,9,05:34,35,514,"UDRIH, BENO",PAGP      ,In,IN,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,22,05:16,35,515,"ROBERTS, BRIAN",P002091   ,Two Pointer (3/3 -  11 pt),2FGM,74.0,54.0,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,13,04:59,36,517,"STRELNIEKS, JANIS",P000046   ,Foul (2),CM,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,0,04:59,36,518,"DAVIES, BRANDON",P007870   ,Foul Drawn (5),RV,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,30,04:59,36,519,"WHITE, AARON",P006505   ,Out,OUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,92,04:59,36,520,"ULANOVAS, EDGARAS",P002329   ,In,IN,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,6,04:59,36,521,"PAPAPETROU, IOANNIS",P005161   ,Out,OUT,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,31,04:59,36,522,"BOGRIS, GEORGIOS",P001933   ,In,IN,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,0,04:59,36,523,"DAVIES, BRANDON",P007870   ,Free Throw In (6/6 -  18 pt),FTM,75.0,54.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,9,04:59,36,524,"UDRIH, BENO",PAGP      ,Assist (6),AS,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,0,04:59,36,525,"DAVIES, BRANDON",P007870   ,Missed Free Throw (6/7 -  18 pt),FTA,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,16,04:54,36,526,"PAPANIKOLAOU, KOSTAS",P001255   ,Def Rebound (1),D,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,15,04:39,36,527,"PRINTEZIS, GEORGIOS",PAMM      ,Two Pointer (1/7 -  3 pt),2FGM,75.0,56.0,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,21,04:15,36,528,"MILAKNIS, ARTURAS",PKPD      ,Missed Three Pointer (0/4 -  1 pt),3FGA,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,15,04:12,36,529,"PRINTEZIS, GEORGIOS",PAMM      ,Def Rebound (2),D,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,0,04:05,36,530,"DAVIES, BRANDON",P007870   ,Out,OUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,21,04:05,36,531,"MILAKNIS, ARTURAS",PKPD      ,Out,OUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,44,04:05,36,532,"KAVALIAUSKAS, ANTANAS",P000399   ,In,IN,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,66,04:05,36,533,"VALINSKAS, PAULIUS",P004664   ,In,IN,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,3,04:05,36,534,"BROWN, BOBBY",P000129   ,In,IN,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,22,04:05,36,535,"ROBERTS, BRIAN",P002091   ,Out,OUT,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,15,03:56,37,537,"PRINTEZIS, GEORGIOS",PAMM      ,Missed Three Pointer (0/2 -  3 pt),3FGA,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,66,03:54,37,538,"VALINSKAS, PAULIUS",P004664   ,Def Rebound (1),D,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,6,03:32,37,539,"TOUPANE, AXEL",P002582   ,Missed Three Pointer (2/3 -  10 pt),3FGA,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,31,03:30,37,540,"BOGRIS, GEORGIOS",P001933   ,Def Rebound (1),D,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,31,03:19,37,541,"BOGRIS, GEORGIOS",P001933   ,Offensive Foul (1),OF,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,31,03:19,37,542,"BOGRIS, GEORGIOS",P001933   ,Turnover (1),TO,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,92,03:19,37,543,"ULANOVAS, EDGARAS",P002329   ,Foul Drawn (1),RV,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,13,03:19,37,544,"STRELNIEKS, JANIS",P000046   ,Out,OUT,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,17,03:19,37,545,"MANTZARIS, VANGELIS",P003537   ,In,IN,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,44,03:05,37,546,"KAVALIAUSKAS, ANTANAS",P000399   ,Two Pointer (3/4 -  6 pt),2FGM,77.0,56.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,92,03:03,37,547,"ULANOVAS, EDGARAS",P002329   ,Assist (1),AS,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,15,02:43,38,549,"PRINTEZIS, GEORGIOS",PAMM      ,Missed Two Pointer (1/8 -  3 pt),2FGA,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,44,02:41,38,550,"KAVALIAUSKAS, ANTANAS",P000399   ,Def Rebound (1),D,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,16,02:31,38,551,"PAPANIKOLAOU, KOSTAS",P001255   ,Foul (4),CM,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,44,02:31,38,552,"KAVALIAUSKAS, ANTANAS",P000399   ,Foul Drawn (1),RV,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,6,02:31,38,553,"PAPAPETROU, IOANNIS",P005161   ,In,IN,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,15,02:31,38,554,"PRINTEZIS, GEORGIOS",PAMM      ,Out,OUT,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,44,02:31,38,555,"KAVALIAUSKAS, ANTANAS",P000399   ,Missed Free Throw (0/1 -  6 pt),FTA,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,44,02:31,38,556,"KAVALIAUSKAS, ANTANAS",P000399   ,Free Throw In (1/2 -  7 pt),FTM,78.0,56.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,19,02:31,38,557,"SAJUS, MARTYNAS",P005519   ,In,IN,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,44,02:31,38,558,"KAVALIAUSKAS, ANTANAS",P000399   ,Out,OUT,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,66,02:18,38,559,"VALINSKAS, PAULIUS",P004664   ,Foul (1),CM,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,3,02:18,38,560,"BROWN, BOBBY",P000129   ,Foul Drawn (1),RV,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,3,02:18,38,561,"BROWN, BOBBY",P000129   ,Missed Free Throw (0/1 -  0 pt),FTA,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,3,02:18,38,562,"BROWN, BOBBY",P000129   ,Missed Free Throw (0/2 -  0 pt),FTA,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,66,02:12,38,563,"VALINSKAS, PAULIUS",P004664   ,Def Rebound (2),D,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,9,01:55,39,565,"UDRIH, BENO",PAGP      ,Two Pointer (3/3 -  6 pt),2FGM,80.0,56.0,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,6,01:31,39,566,"PAPAPETROU, IOANNIS",P005161   ,Missed Three Pointer (1/3 -  5 pt),3FGA,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,66,01:28,39,567,"VALINSKAS, PAULIUS",P004664   ,Def Rebound (3),D,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,6,01:19,39,568,"TOUPANE, AXEL",P002582   ,Missed Three Pointer (2/4 -  10 pt),3FGA,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,31,01:17,39,569,"BOGRIS, GEORGIOS",P001933   ,Def Rebound (2),D,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,16,01:02,39,570,"PAPANIKOLAOU, KOSTAS",P001255   ,Two Pointer (2/3 -  4 pt),2FGM,80.0,58.0,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,17,01:02,39,571,"MANTZARIS, VANGELIS",P003537   ,Assist (2),AS,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+ZAL       ,,9,00:34,40,573,"UDRIH, BENO",PAGP      ,Missed Three Pointer (0/1 -  6 pt),3FGA,,,Zalgiris Kaunas,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,6,00:32,40,574,"PAPAPETROU, IOANNIS",P005161   ,Def Rebound (6),D,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,3,00:25,40,575,"BROWN, BOBBY",P000129   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,16,00:25,40,576,"PAPANIKOLAOU, KOSTAS",P001255   ,Off Rebound (1),O,,,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+OLY       ,,16,00:25,40,577,"PAPANIKOLAOU, KOSTAS",P001255   ,Two Pointer (3/4 -  6 pt),2FGM,80.0,60.0,Olympiacos Piraeus,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY
+          ,,,,41,580,,          ,End Game,EG,,,,0,Zalgiris Kaunas,ZAL,Olympiacos Piraeus,OLY

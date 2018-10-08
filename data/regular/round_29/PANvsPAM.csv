@@ -1,512 +1,512 @@
-CODETEAM,COMMENT,DORSAL,MARKERTIME,MINUTE,NUMBEROFPLAY,PLAYER,PLAYER_ID,PLAYINFO,PLAYTYPE,POINTS_A,POINTS_B,TEAM,TYPE
-          ,,,,1,17,,          ,Begin Period,BP,,,,0
-PAM       ,,6,09:42,1,18,"ABALDE, ALBERTO",P003733   ,Turnover (1),TO,,,Valencia Basket,0
-PAN       ,,43,09:41,1,19,"ANTETOKOUNMPO, THANASIS",P007865   ,Steal (1),ST,,,Panathinaikos Superfoods Athens,0
-PAN       ,,0,09:26,1,20,"SINGLETON, CHRIS",P006614   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Panathinaikos Superfoods Athens,0
-PAM       ,,6,09:25,1,21,"ABALDE, ALBERTO",P003733   ,Def Rebound (1),D,,,Valencia Basket,0
-PAN       ,,5,09:05,1,22,"JAMES, MIKE",P005985   ,Foul (1),CM,,,Panathinaikos Superfoods Athens,0
-PAM       ,,21,09:05,1,23,"PLEISS, TIBOR",PLHK      ,Foul Drawn (1),RV,,,Valencia Basket,0
-PAM       ,,21,08:53,2,25,"PLEISS, TIBOR",PLHK      ,Turnover (1),TO,,,Valencia Basket,0
-PAN       ,,33,08:36,2,26,"CALATHES, NICK",P001932   ,Two Pointer (1/1 -  2 pt),2FGM,2.0,,Panathinaikos Superfoods Athens,0
-PAN       ,,5,08:35,2,27,"JAMES, MIKE",P005985   ,Assist (1),AS,,,Panathinaikos Superfoods Athens,0
-PAM       ,,6,08:16,2,28,"ABALDE, ALBERTO",P003733   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Valencia Basket,0
-PAN       ,,0,08:14,2,29,"SINGLETON, CHRIS",P006614   ,Def Rebound (1),D,,,Panathinaikos Superfoods Athens,0
-PAN       ,,33,08:01,2,30,"CALATHES, NICK",P001932   ,Turnover (1),TO,,,Panathinaikos Superfoods Athens,0
-PAM       ,,17,07:59,3,32,"MARTINEZ, RAFA",P001351   ,Steal (1),ST,,,Valencia Basket,0
-PAM       ,,6,07:56,3,33,"ABALDE, ALBERTO",P003733   ,Turnover (2),TO,,,Valencia Basket,0
-PAM       ,,30,07:35,3,34,"SASTRE, JOAN",P002936   ,Foul (1),CM,,,Valencia Basket,0
-PAN       ,,14,07:35,3,35,"GIST, JAMES",P002980   ,Foul Drawn (1),RV,,,Panathinaikos Superfoods Athens,0
-PAN       ,,5,07:28,3,36,"JAMES, MIKE",P005985   ,Two Pointer (1/1 -  2 pt),2FGM,4.0,,Panathinaikos Superfoods Athens,0
-PAM       ,,0,07:18,3,37,"THOMAS, WILL",P005856   ,Three Pointer (1/1 -  3 pt),3FGM,4.0,3.0,Valencia Basket,0
-PAM       ,,6,07:18,3,38,"ABALDE, ALBERTO",P003733   ,Assist (1),AS,,,Valencia Basket,0
-PAN       ,,33,07:03,3,39,"CALATHES, NICK",P001932   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,Panathinaikos Superfoods Athens,0
-PAM       ,,21,07:01,3,40,"PLEISS, TIBOR",PLHK      ,Def Rebound (1),D,,,Valencia Basket,0
-PAM       ,,30,06:56,4,42,"SASTRE, JOAN",P002936   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Valencia Basket,0
-PAM       ,,21,06:56,4,43,"PLEISS, TIBOR",PLHK      ,Off Rebound (1),O,,,Valencia Basket,0
-PAM       ,,21,06:56,4,44,"PLEISS, TIBOR",PLHK      ,Turnover (2),TO,,,Valencia Basket,0
-PAM       ,,6,06:41,4,45,"ABALDE, ALBERTO",P003733   ,Foul (1),CM,,,Valencia Basket,0
-PAN       ,,0,06:41,4,46,"SINGLETON, CHRIS",P006614   ,Foul Drawn (1),RV,,,Panathinaikos Superfoods Athens,0
-PAN       ,,14,06:33,4,47,"GIST, JAMES",P002980   ,Two Pointer (1/1 -  2 pt),2FGM,6.0,3.0,Panathinaikos Superfoods Athens,0
-PAN       ,,33,06:33,4,48,"CALATHES, NICK",P001932   ,Assist (1),AS,,,Panathinaikos Superfoods Athens,0
-PAM       ,,21,06:33,4,49,"PLEISS, TIBOR",PLHK      ,Foul (1),CM,,,Valencia Basket,0
-PAN       ,,14,06:33,4,50,"GIST, JAMES",P002980   ,Foul Drawn (2),RV,,,Panathinaikos Superfoods Athens,0
-PAN       ,,14,06:33,4,51,"GIST, JAMES",P002980   ,Free Throw In (1/1 -  3 pt),FTM,7.0,3.0,Panathinaikos Superfoods Athens,0
-PAM       ,,0,06:09,4,52,"THOMAS, WILL",P005856   ,Missed Three Pointer (1/2 -  3 pt),3FGA,,,Valencia Basket,0
-PAN       ,,,06:08,4,53,,          ,Def Rebound (1),D,,,Panathinaikos Superfoods Athens,0
-PAN       ,,43,05:55,5,55,"ANTETOKOUNMPO, THANASIS",P007865   ,Two Pointer (1/1 -  2 pt),2FGM,9.0,3.0,Panathinaikos Superfoods Athens,0
-PAN       ,,5,05:51,5,56,"JAMES, MIKE",P005985   ,Assist (2),AS,,,Panathinaikos Superfoods Athens,0
-PAN       ,,43,05:51,5,57,"ANTETOKOUNMPO, THANASIS",P007865   ,Foul (1),CM,,,Panathinaikos Superfoods Athens,0
-PAM       ,,6,05:51,5,58,"ABALDE, ALBERTO",P003733   ,Foul Drawn (1),RV,,,Valencia Basket,0
-PAM       ,,17,05:43,5,59,"MARTINEZ, RAFA",P001351   ,Turnover (1),TO,,,Valencia Basket,0
-PAN       ,,5,05:41,5,60,"JAMES, MIKE",P005985   ,Steal (1),ST,,,Panathinaikos Superfoods Athens,0
-PAN       ,,14,05:40,5,61,"GIST, JAMES",P002980   ,Two Pointer (2/2 -  5 pt),2FGM,11.0,3.0,Panathinaikos Superfoods Athens,0
-PAN       ,,33,05:40,5,62,"CALATHES, NICK",P001932   ,Assist (2),AS,,,Panathinaikos Superfoods Athens,0
-PAM       ,,,05:40,5,63,,          ,Time Out (1),TOUT,,,Valencia Basket,0
-PAM       ,,6,05:40,5,64,"ABALDE, ALBERTO",P003733   ,Out,OUT,,,Valencia Basket,0
-PAM       ,,9,05:40,5,65,"VAN ROSSOM, SAM",PLRQ      ,In,IN,,,Valencia Basket,0
-PAM       ,,21,05:21,5,66,"PLEISS, TIBOR",PLHK      ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Valencia Basket,0
-PAM       ,,0,05:19,5,67,"THOMAS, WILL",P005856   ,Off Rebound (1),O,,,Valencia Basket,0
-PAM       ,,17,05:17,5,68,"MARTINEZ, RAFA",P001351   ,Three Pointer (1/1 -  3 pt),3FGM,11.0,6.0,Valencia Basket,0
-PAM       ,,0,05:15,5,69,"THOMAS, WILL",P005856   ,Assist (1),AS,,,Valencia Basket,0
-PAM       ,,30,05:00,5,70,"SASTRE, JOAN",P002936   ,Foul (2),CM,,,Valencia Basket,0
-PAN       ,,5,05:00,5,71,"JAMES, MIKE",P005985   ,Foul Drawn (1),RV,,,Panathinaikos Superfoods Athens,0
-PAM       ,,19,05:00,5,72,"SAN EMETERIO, FERNANDO",P000518   ,In,IN,,,Valencia Basket,0
-PAM       ,,21,05:00,5,73,"PLEISS, TIBOR",PLHK      ,Out,OUT,,,Valencia Basket,0
-PAM       ,,30,05:00,5,74,"SASTRE, JOAN",P002936   ,Out,OUT,,,Valencia Basket,0
-PAM       ,,51,05:00,5,75,"HLINASON, TRYGGVI",P008041   ,In,IN,,,Valencia Basket,0
-PAN       ,,33,04:51,6,77,"CALATHES, NICK",P001932   ,Two Pointer (2/3 -  4 pt),2FGM,13.0,6.0,Panathinaikos Superfoods Athens,0
-PAM       ,,19,04:39,6,78,"SAN EMETERIO, FERNANDO",P000518   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Valencia Basket,0
-PAN       ,,33,04:39,6,79,"CALATHES, NICK",P001932   ,Def Rebound (1),D,,,Panathinaikos Superfoods Athens,0
-PAN       ,,43,04:39,6,80,"ANTETOKOUNMPO, THANASIS",P007865   ,Two Pointer (2/2 -  4 pt),2FGM,15.0,6.0,Panathinaikos Superfoods Athens,0
-PAN       ,,33,04:39,6,81,"CALATHES, NICK",P001932   ,Assist (3),AS,,,Panathinaikos Superfoods Athens,0
-PAM       ,,0,04:06,6,82,"THOMAS, WILL",P005856   ,Missed Two Pointer (0/1 -  3 pt),2FGA,,,Valencia Basket,0
-PAN       ,,43,04:04,6,83,"ANTETOKOUNMPO, THANASIS",P007865   ,Def Rebound (1),D,,,Panathinaikos Superfoods Athens,0
-PAN       ,,43,03:46,7,85,"ANTETOKOUNMPO, THANASIS",P007865   ,Two Pointer (3/3 -  6 pt),2FGM,17.0,6.0,Panathinaikos Superfoods Athens,0
-PAN       ,,33,03:44,7,86,"CALATHES, NICK",P001932   ,Assist (4),AS,,,Panathinaikos Superfoods Athens,0
-PAN       ,,33,03:36,7,87,"CALATHES, NICK",P001932   ,Foul (1),CM,,,Panathinaikos Superfoods Athens,0
-PAM       ,,17,03:36,7,88,"MARTINEZ, RAFA",P001351   ,Foul Drawn (1),RV,,,Valencia Basket,0
-PAN       ,,14,03:36,7,89,"GIST, JAMES",P002980   ,Out,OUT,,,Panathinaikos Superfoods Athens,0
-PAN       ,,15,03:36,7,90,"VOUGIOUKAS, IAN",PTFX      ,In,IN,,,Panathinaikos Superfoods Athens,0
-PAN       ,,24,03:36,7,91,"LOJESKI, MATT",P003608   ,In,IN,,,Panathinaikos Superfoods Athens,0
-PAN       ,,43,03:36,7,92,"ANTETOKOUNMPO, THANASIS",P007865   ,Out,OUT,,,Panathinaikos Superfoods Athens,0
-PAM       ,,0,03:36,7,93,"THOMAS, WILL",P005856   ,Out,OUT,,,Valencia Basket,0
-PAM       ,,17,03:36,7,94,"MARTINEZ, RAFA",P001351   ,Out,OUT,,,Valencia Basket,0
-PAM       ,,32,03:36,7,95,"GREEN, ERICK",P005159   ,In,IN,,,Valencia Basket,0
-PAM       ,,42,03:36,7,96,"DOORNEKAMP, AARON",P002763   ,In,IN,,,Valencia Basket,0
-PAM       ,,51,03:28,7,97,"HLINASON, TRYGGVI",P008041   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Valencia Basket,0
-PAN       ,,33,03:26,7,98,"CALATHES, NICK",P001932   ,Def Rebound (2),D,,,Panathinaikos Superfoods Athens,0
-PAN       ,,0,03:19,7,99,"SINGLETON, CHRIS",P006614   ,Three Pointer (1/2 -  3 pt),3FGM,20.0,6.0,Panathinaikos Superfoods Athens,0
-PAN       ,,33,03:18,7,100,"CALATHES, NICK",P001932   ,Assist (5),AS,,,Panathinaikos Superfoods Athens,0
-PAM       ,,42,02:55,8,102,"DOORNEKAMP, AARON",P002763   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Valencia Basket,0
-PAN       ,,5,02:53,8,103,"JAMES, MIKE",P005985   ,Def Rebound (1),D,,,Panathinaikos Superfoods Athens,0
-PAN       ,,24,02:46,8,104,"LOJESKI, MATT",P003608   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Panathinaikos Superfoods Athens,0
-PAM       ,,32,02:44,8,105,"GREEN, ERICK",P005159   ,Def Rebound (1),D,,,Valencia Basket,0
-PAN       ,,15,02:39,8,106,"VOUGIOUKAS, IAN",PTFX      ,Foul (1),CM,,,Panathinaikos Superfoods Athens,0
-PAM       ,,32,02:39,8,107,"GREEN, ERICK",P005159   ,Foul Drawn (1),RV,,,Valencia Basket,0
-PAN       ,,5,02:39,8,108,"JAMES, MIKE",P005985   ,Out,OUT,,,Panathinaikos Superfoods Athens,0
-PAN       ,,11,02:39,8,109,"PAPPAS, NIKOS",P000464   ,In,IN,,,Panathinaikos Superfoods Athens,0
-PAM       ,,42,02:38,8,110,"DOORNEKAMP, AARON",P002763   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Valencia Basket,0
-PAN       ,,,02:38,8,111,,          ,Def Rebound (2),D,,,Panathinaikos Superfoods Athens,0
-PAN       ,,15,02:12,8,112,"VOUGIOUKAS, IAN",PTFX      ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Panathinaikos Superfoods Athens,0
-PAM       ,,9,02:10,8,113,"VAN ROSSOM, SAM",PLRQ      ,Def Rebound (1),D,,,Valencia Basket,0
-PAM       ,,9,02:05,8,114,"VAN ROSSOM, SAM",PLRQ      ,Three Pointer (1/1 -  3 pt),3FGM,20.0,9.0,Valencia Basket,0
-PAN       ,,15,01:43,9,116,"VOUGIOUKAS, IAN",PTFX      ,Two Pointer (1/2 -  2 pt),2FGM,22.0,9.0,Panathinaikos Superfoods Athens,0
-PAN       ,,33,01:41,9,117,"CALATHES, NICK",P001932   ,Assist (6),AS,,,Panathinaikos Superfoods Athens,0
-PAM       ,,51,01:25,9,118,"HLINASON, TRYGGVI",P008041   ,Two Pointer (1/2 -  2 pt),2FGM,22.0,11.0,Valencia Basket,0
-PAM       ,,9,01:23,9,119,"VAN ROSSOM, SAM",PLRQ      ,Assist (1),AS,,,Valencia Basket,0
-PAM       ,,51,01:16,9,120,"HLINASON, TRYGGVI",P008041   ,Foul (1),CM,,,Valencia Basket,0
-PAN       ,,0,01:16,9,121,"SINGLETON, CHRIS",P006614   ,Foul Drawn (2),RV,,,Panathinaikos Superfoods Athens,0
-PAN       ,,0,01:16,9,122,"SINGLETON, CHRIS",P006614   ,Free Throw In (1/1 -  4 pt),FTM,23.0,11.0,Panathinaikos Superfoods Athens,0
-PAN       ,,33,01:16,9,123,"CALATHES, NICK",P001932   ,Assist (7),AS,,,Panathinaikos Superfoods Athens,0
-PAN       ,,0,01:16,9,124,"SINGLETON, CHRIS",P006614   ,Missed Free Throw (1/2 -  4 pt),FTA,,,Panathinaikos Superfoods Athens,0
-PAM       ,,42,01:16,9,125,"DOORNEKAMP, AARON",P002763   ,Def Rebound (1),D,,,Valencia Basket,0
-PAM       ,,19,01:01,9,126,"SAN EMETERIO, FERNANDO",P000518   ,Two Pointer (1/1 -  2 pt),2FGM,23.0,13.0,Valencia Basket,0
-PAN       ,,33,00:37,10,128,"CALATHES, NICK",P001932   ,Missed Three Pointer (0/1 -  4 pt),3FGA,,,Panathinaikos Superfoods Athens,0
-PAM       ,,32,00:35,10,129,"GREEN, ERICK",P005159   ,Def Rebound (2),D,,,Valencia Basket,0
-PAM       ,,42,00:11,10,130,"DOORNEKAMP, AARON",P002763   ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,Valencia Basket,0
-PAN       ,,24,00:09,10,131,"LOJESKI, MATT",P003608   ,Def Rebound (1),D,,,Panathinaikos Superfoods Athens,0
-PAN       ,,0,00:02,10,132,"SINGLETON, CHRIS",P006614   ,Missed Three Pointer (1/3 -  4 pt),3FGA,,,Panathinaikos Superfoods Athens,0
-          ,,,,11,134,,          ,End Period,EP,,,,0
-          ,,,,11,139,,          ,Begin Period,BP,,,,0
-PAN       ,,0,10:00,11,135,"SINGLETON, CHRIS",P006614   ,Out,OUT,,,Panathinaikos Superfoods Athens,0
-PAN       ,,19,10:00,11,136,"LEKAVICIUS, LUKAS",P003210   ,In,IN,,,Panathinaikos Superfoods Athens,0
-PAN       ,,22,10:00,11,137,"GABRIEL, KENNY",P005881   ,In,IN,,,Panathinaikos Superfoods Athens,0
-PAN       ,,33,10:00,11,138,"CALATHES, NICK",P001932   ,Out,OUT,,,Panathinaikos Superfoods Athens,0
-PAM       ,,9,09:57,11,140,"VAN ROSSOM, SAM",PLRQ      ,Foul (1),CM,,,Valencia Basket,0
-PAN       ,,19,09:57,11,141,"LEKAVICIUS, LUKAS",P003210   ,Foul Drawn (1),RV,,,Panathinaikos Superfoods Athens,0
-PAN       ,,15,09:49,11,142,"VOUGIOUKAS, IAN",PTFX      ,Missed Two Pointer (1/3 -  2 pt),2FGA,,,Panathinaikos Superfoods Athens,0
-PAM       ,,9,09:47,11,143,"VAN ROSSOM, SAM",PLRQ      ,Def Rebound (2),D,,,Valencia Basket,0
-PAM       ,,51,09:34,11,144,"HLINASON, TRYGGVI",P008041   ,Two Pointer (2/3 -  4 pt),2FGM,23.0,15.0,Valencia Basket,0
-PAM       ,,9,09:32,11,145,"VAN ROSSOM, SAM",PLRQ      ,Assist (2),AS,,,Valencia Basket,0
-PAN       ,,22,09:14,11,146,"GABRIEL, KENNY",P005881   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Panathinaikos Superfoods Athens,0
-PAM       ,,9,09:12,11,147,"VAN ROSSOM, SAM",PLRQ      ,Def Rebound (3),D,,,Valencia Basket,0
-PAM       ,,42,09:01,11,148,"DOORNEKAMP, AARON",P002763   ,Missed Three Pointer (0/3 -  0 pt),3FGA,,,Valencia Basket,0
-PAM       ,,51,08:59,12,150,"HLINASON, TRYGGVI",P008041   ,Off Rebound (1),O,,,Valencia Basket,0
-PAM       ,,42,08:56,12,151,"DOORNEKAMP, AARON",P002763   ,Two Pointer (1/2 -  2 pt),2FGM,23.0,17.0,Valencia Basket,0
-PAM       ,,51,08:55,12,152,"HLINASON, TRYGGVI",P008041   ,Assist (1),AS,,,Valencia Basket,0
-PAN       ,,,08:55,12,153,,          ,Time Out (1),TOUT,,,Panathinaikos Superfoods Athens,0
-PAN       ,,6,08:55,12,154,"PAYNE, ADREIAN",P008348   ,In,IN,,,Panathinaikos Superfoods Athens,0
-PAN       ,,15,08:55,12,155,"VOUGIOUKAS, IAN",PTFX      ,Out,OUT,,,Panathinaikos Superfoods Athens,0
-PAM       ,,5,08:55,12,156,"GARCIA, SERGI",P005458   ,In,IN,,,Valencia Basket,0
-PAM       ,,9,08:55,12,157,"VAN ROSSOM, SAM",PLRQ      ,Out,OUT,,,Valencia Basket,0
-PAN       ,,6,08:34,12,158,"PAYNE, ADREIAN",P008348   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Panathinaikos Superfoods Athens,0
-PAN       ,,,08:34,12,159,,          ,Off Rebound (1),O,,,Panathinaikos Superfoods Athens,0
-PAN       ,,24,08:33,12,160,"LOJESKI, MATT",P003608   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Panathinaikos Superfoods Athens,0
-PAN       ,,19,08:33,12,161,"LEKAVICIUS, LUKAS",P003210   ,Off Rebound (1),O,,,Panathinaikos Superfoods Athens,0
-PAN       ,,19,08:18,12,162,"LEKAVICIUS, LUKAS",P003210   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Panathinaikos Superfoods Athens,0
-PAN       ,,19,08:18,12,163,"LEKAVICIUS, LUKAS",P003210   ,Shot Rejected (1),AG,,,Panathinaikos Superfoods Athens,0
-PAM       ,,42,08:17,12,164,"DOORNEKAMP, AARON",P002763   ,Block (1),FV,,,Valencia Basket,0
-PAM       ,,42,08:15,12,165,"DOORNEKAMP, AARON",P002763   ,Def Rebound (2),D,,,Valencia Basket,0
-PAN       ,,22,08:15,12,166,"GABRIEL, KENNY",P005881   ,Foul (1),CM,,,Panathinaikos Superfoods Athens,0
-PAM       ,,19,08:15,12,167,"SAN EMETERIO, FERNANDO",P000518   ,Foul Drawn (1),RV,,,Valencia Basket,0
-PAM       ,,19,08:15,12,168,"SAN EMETERIO, FERNANDO",P000518   ,Free Throw In (1/1 -  3 pt),FTM,23.0,18.0,Valencia Basket,0
-PAM       ,,19,08:15,12,169,"SAN EMETERIO, FERNANDO",P000518   ,Missed Free Throw (1/2 -  3 pt),FTA,,,Valencia Basket,0
-PAN       ,,22,08:15,12,170,"GABRIEL, KENNY",P005881   ,Def Rebound (1),D,,,Panathinaikos Superfoods Athens,0
-PAN       ,,6,08:03,12,171,"PAYNE, ADREIAN",P008348   ,Two Pointer (1/2 -  2 pt),2FGM,25.0,18.0,Panathinaikos Superfoods Athens,0
-PAN       ,,11,08:02,12,172,"PAPPAS, NIKOS",P000464   ,Assist (1),AS,,,Panathinaikos Superfoods Athens,0
-PAM       ,,42,07:49,13,174,"DOORNEKAMP, AARON",P002763   ,Two Pointer (2/3 -  4 pt),2FGM,25.0,20.0,Valencia Basket,0
-PAN       ,,22,07:49,13,175,"GABRIEL, KENNY",P005881   ,Foul (2),CM,,,Panathinaikos Superfoods Athens,0
-PAM       ,,42,07:49,13,176,"DOORNEKAMP, AARON",P002763   ,Foul Drawn (1),RV,,,Valencia Basket,0
-PAM       ,,42,07:49,13,177,"DOORNEKAMP, AARON",P002763   ,Free Throw In (1/1 -  5 pt),FTM,25.0,21.0,Valencia Basket,0
-PAN       ,,6,07:37,13,178,"PAYNE, ADREIAN",P008348   ,Offensive Foul (1),OF,,,Panathinaikos Superfoods Athens,0
-PAN       ,,6,07:37,13,179,"PAYNE, ADREIAN",P008348   ,Turnover (1),TO,,,Panathinaikos Superfoods Athens,0
-PAM       ,,5,07:37,13,180,"GARCIA, SERGI",P005458   ,Foul Drawn (1),RV,,,Valencia Basket,0
-PAM       ,,32,07:18,13,181,"GREEN, ERICK",P005159   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Valencia Basket,0
-PAN       ,,6,07:16,13,182,"PAYNE, ADREIAN",P008348   ,Def Rebound (1),D,,,Panathinaikos Superfoods Athens,0
-PAN       ,,11,07:09,13,183,"PAPPAS, NIKOS",P000464   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Panathinaikos Superfoods Athens,0
-PAN       ,,24,07:08,13,184,"LOJESKI, MATT",P003608   ,Off Rebound (1),O,,,Panathinaikos Superfoods Athens,0
-PAN       ,,6,07:05,13,185,"PAYNE, ADREIAN",P008348   ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,Panathinaikos Superfoods Athens,0
-PAM       ,,51,07:03,13,186,"HLINASON, TRYGGVI",P008041   ,Def Rebound (1),D,,,Valencia Basket,0
-PAM       ,,32,06:53,14,188,"GREEN, ERICK",P005159   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Valencia Basket,0
-PAM       ,,51,06:50,14,189,"HLINASON, TRYGGVI",P008041   ,Off Rebound (2),O,,,Valencia Basket,0
-PAM       ,,51,06:50,14,190,"HLINASON, TRYGGVI",P008041   ,Two Pointer (3/4 -  6 pt),2FGM,25.0,23.0,Valencia Basket,0
-PAN       ,,11,06:34,14,191,"PAPPAS, NIKOS",P000464   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Panathinaikos Superfoods Athens,0
-PAN       ,,6,06:34,14,192,"PAYNE, ADREIAN",P008348   ,Off Rebound (1),O,,,Panathinaikos Superfoods Athens,0
-PAN       ,,6,06:34,14,193,"PAYNE, ADREIAN",P008348   ,Two Pointer (2/3 -  4 pt),2FGM,27.0,23.0,Panathinaikos Superfoods Athens,0
-PAM       ,,51,06:34,14,194,"HLINASON, TRYGGVI",P008041   ,Foul (2),CM,,,Valencia Basket,0
-PAN       ,,6,06:34,14,195,"PAYNE, ADREIAN",P008348   ,Foul Drawn (1),RV,,,Panathinaikos Superfoods Athens,0
-PAN       ,,0,06:34,14,196,"SINGLETON, CHRIS",P006614   ,In,IN,,,Panathinaikos Superfoods Athens,0
-PAN       ,,22,06:34,14,197,"GABRIEL, KENNY",P005881   ,Out,OUT,,,Panathinaikos Superfoods Athens,0
-PAM       ,,6,06:34,14,198,"ABALDE, ALBERTO",P003733   ,In,IN,,,Valencia Basket,0
-PAM       ,,19,06:34,14,199,"SAN EMETERIO, FERNANDO",P000518   ,Out,OUT,,,Valencia Basket,0
-PAM       ,,21,06:34,14,200,"PLEISS, TIBOR",PLHK      ,In,IN,,,Valencia Basket,0
-PAM       ,,51,06:34,14,201,"HLINASON, TRYGGVI",P008041   ,Out,OUT,,,Valencia Basket,0
-PAN       ,,6,06:34,14,202,"PAYNE, ADREIAN",P008348   ,Missed Free Throw (0/1 -  4 pt),FTA,,,Panathinaikos Superfoods Athens,0
-PAM       ,,,06:34,14,203,,          ,Def Rebound (3),D,,,Valencia Basket,0
-PAM       ,,21,06:16,14,204,"PLEISS, TIBOR",PLHK      ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Valencia Basket,0
-PAM       ,,21,06:14,14,205,"PLEISS, TIBOR",PLHK      ,Off Rebound (2),O,,,Valencia Basket,0
-PAM       ,,21,06:12,14,206,"PLEISS, TIBOR",PLHK      ,Missed Two Pointer (0/3 -  0 pt),2FGA,,,Valencia Basket,0
-PAM       ,,21,06:12,14,207,"PLEISS, TIBOR",PLHK      ,Shot Rejected (1),AG,,,Valencia Basket,0
-PAN       ,,6,06:10,14,208,"PAYNE, ADREIAN",P008348   ,Block (1),FV,,,Panathinaikos Superfoods Athens,0
-PAN       ,,6,06:09,14,209,"PAYNE, ADREIAN",P008348   ,Def Rebound (2),D,,,Panathinaikos Superfoods Athens,0
-PAN       ,,6,05:59,15,211,"PAYNE, ADREIAN",P008348   ,Two Pointer (3/4 -  6 pt),2FGM,29.0,23.0,Panathinaikos Superfoods Athens,0
-PAM       ,,6,05:31,15,212,"ABALDE, ALBERTO",P003733   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Valencia Basket,0
-PAN       ,,6,05:29,15,213,"PAYNE, ADREIAN",P008348   ,Def Rebound (3),D,,,Panathinaikos Superfoods Athens,0
-PAM       ,,42,05:23,15,214,"DOORNEKAMP, AARON",P002763   ,Foul (1),CM,,,Valencia Basket,0
-PAN       ,,11,05:23,15,215,"PAPPAS, NIKOS",P000464   ,Foul Drawn (1),RV,,,Panathinaikos Superfoods Athens,0
-PAN       ,,11,05:23,15,216,"PAPPAS, NIKOS",P000464   ,Free Throw In (1/1 -  1 pt),FTM,30.0,23.0,Panathinaikos Superfoods Athens,0
-PAN       ,,11,05:23,15,217,"PAPPAS, NIKOS",P000464   ,Free Throw In (2/2 -  2 pt),FTM,31.0,23.0,Panathinaikos Superfoods Athens,0
-PAM       ,,,05:23,15,218,,          ,Time Out (1),TOUT,,,Valencia Basket,0
-PAM       ,,0,05:23,15,219,"THOMAS, WILL",P005856   ,In,IN,,,Valencia Basket,0
-PAM       ,,42,05:23,15,220,"DOORNEKAMP, AARON",P002763   ,Out,OUT,,,Valencia Basket,0
-PAM       ,,32,05:05,15,221,"GREEN, ERICK",P005159   ,Missed Two Pointer (0/3 -  0 pt),2FGA,,,Valencia Basket,0
-PAN       ,,24,05:04,15,222,"LOJESKI, MATT",P003608   ,Def Rebound (2),D,,,Panathinaikos Superfoods Athens,0
-PAN       ,,11,04:45,16,224,"PAPPAS, NIKOS",P000464   ,Missed Two Pointer (0/2 -  2 pt),2FGA,,,Panathinaikos Superfoods Athens,0
-PAM       ,,0,04:43,16,225,"THOMAS, WILL",P005856   ,Def Rebound (1),D,,,Valencia Basket,0
-PAM       ,,21,04:37,16,226,"PLEISS, TIBOR",PLHK      ,Turnover (3),TO,,,Valencia Basket,0
-PAM       ,,5,04:37,16,227,"GARCIA, SERGI",P005458   ,Out,OUT,,,Valencia Basket,0
-PAM       ,,9,04:37,16,228,"VAN ROSSOM, SAM",PLRQ      ,In,IN,,,Valencia Basket,0
-PAN       ,,24,04:17,16,229,"LOJESKI, MATT",P003608   ,Three Pointer (1/2 -  3 pt),3FGM,34.0,23.0,Panathinaikos Superfoods Athens,0
-PAN       ,,0,04:15,16,230,"SINGLETON, CHRIS",P006614   ,Assist (1),AS,,,Panathinaikos Superfoods Athens,0
-PAM       ,,32,03:56,17,232,"GREEN, ERICK",P005159   ,Missed Two Pointer (0/4 -  0 pt),2FGA,,,Valencia Basket,0
-PAM       ,,32,03:56,17,233,"GREEN, ERICK",P005159   ,Shot Rejected (1),AG,,,Valencia Basket,0
-PAN       ,,6,03:54,17,234,"PAYNE, ADREIAN",P008348   ,Block (2),FV,,,Panathinaikos Superfoods Athens,0
-PAN       ,,6,03:52,17,235,"PAYNE, ADREIAN",P008348   ,Def Rebound (4),D,,,Panathinaikos Superfoods Athens,0
-PAN       ,,6,03:35,17,236,"PAYNE, ADREIAN",P008348   ,Missed Two Pointer (3/5 -  6 pt),2FGA,,,Panathinaikos Superfoods Athens,0
-PAN       ,,24,03:35,17,237,"LOJESKI, MATT",P003608   ,Off Rebound (2),O,,,Panathinaikos Superfoods Athens,0
-PAN       ,,11,03:35,17,238,"PAPPAS, NIKOS",P000464   ,Missed Two Pointer (0/3 -  2 pt),2FGA,,,Panathinaikos Superfoods Athens,0
-PAM       ,,9,03:35,17,239,"VAN ROSSOM, SAM",PLRQ      ,Def Rebound (4),D,,,Valencia Basket,0
-PAM       ,,6,03:12,17,240,"ABALDE, ALBERTO",P003733   ,Three Pointer (1/1 -  3 pt),3FGM,34.0,26.0,Valencia Basket,0
-PAN       ,,11,02:44,18,242,"PAPPAS, NIKOS",P000464   ,Missed Three Pointer (0/2 -  2 pt),3FGA,,,Panathinaikos Superfoods Athens,0
-PAM       ,,0,02:42,18,243,"THOMAS, WILL",P005856   ,Def Rebound (2),D,,,Valencia Basket,0
-PAM       ,,9,02:31,18,244,"VAN ROSSOM, SAM",PLRQ      ,Missed Three Pointer (1/2 -  3 pt),3FGA,,,Valencia Basket,0
-PAN       ,,24,02:27,18,245,"LOJESKI, MATT",P003608   ,Def Rebound (3),D,,,Panathinaikos Superfoods Athens,0
-PAN       ,,0,02:09,18,246,"SINGLETON, CHRIS",P006614   ,Three Pointer (2/4 -  7 pt),3FGM,37.0,26.0,Panathinaikos Superfoods Athens,0
-PAN       ,,19,02:04,18,247,"LEKAVICIUS, LUKAS",P003210   ,Assist (1),AS,,,Panathinaikos Superfoods Athens,0
-PAM       ,,32,01:53,19,249,"GREEN, ERICK",P005159   ,Turnover (1),TO,,,Valencia Basket,0
-PAN       ,,5,01:53,19,250,"JAMES, MIKE",P005985   ,In,IN,,,Panathinaikos Superfoods Athens,0
-PAN       ,,6,01:53,19,251,"PAYNE, ADREIAN",P008348   ,Out,OUT,,,Panathinaikos Superfoods Athens,0
-PAN       ,,11,01:53,19,252,"PAPPAS, NIKOS",P000464   ,Out,OUT,,,Panathinaikos Superfoods Athens,0
-PAN       ,,14,01:53,19,253,"GIST, JAMES",P002980   ,In,IN,,,Panathinaikos Superfoods Athens,0
-PAN       ,,19,01:53,19,254,"LEKAVICIUS, LUKAS",P003210   ,Out,OUT,,,Panathinaikos Superfoods Athens,0
-PAN       ,,33,01:53,19,255,"CALATHES, NICK",P001932   ,In,IN,,,Panathinaikos Superfoods Athens,0
-PAM       ,,17,01:53,19,256,"MARTINEZ, RAFA",P001351   ,In,IN,,,Valencia Basket,0
-PAM       ,,32,01:53,19,257,"GREEN, ERICK",P005159   ,Out,OUT,,,Valencia Basket,0
-PAN       ,,33,01:31,19,258,"CALATHES, NICK",P001932   ,Missed Three Pointer (0/2 -  4 pt),3FGA,,,Panathinaikos Superfoods Athens,0
-PAM       ,,21,01:29,19,259,"PLEISS, TIBOR",PLHK      ,Def Rebound (2),D,,,Valencia Basket,0
-PAM       ,,21,01:21,19,260,"PLEISS, TIBOR",PLHK      ,Three Pointer (1/1 -  3 pt),3FGM,37.0,29.0,Valencia Basket,0
-PAM       ,,6,01:19,19,261,"ABALDE, ALBERTO",P003733   ,Assist (2),AS,,,Valencia Basket,0
-PAN       ,,5,01:02,19,262,"JAMES, MIKE",P005985   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,Panathinaikos Superfoods Athens,0
-PAM       ,,6,01:00,19,263,"ABALDE, ALBERTO",P003733   ,Def Rebound (2),D,,,Valencia Basket,0
-PAM       ,,9,00:52,20,265,"VAN ROSSOM, SAM",PLRQ      ,Missed Three Pointer (1/3 -  3 pt),3FGA,,,Valencia Basket,0
-PAM       ,,17,00:50,20,266,"MARTINEZ, RAFA",P001351   ,Off Rebound (1),O,,,Valencia Basket,0
-PAM       ,,9,00:43,20,267,"VAN ROSSOM, SAM",PLRQ      ,Turnover (1),TO,,,Valencia Basket,0
-PAN       ,,33,00:41,20,268,"CALATHES, NICK",P001932   ,Steal (1),ST,,,Panathinaikos Superfoods Athens,0
-PAM       ,,9,00:34,20,269,"VAN ROSSOM, SAM",PLRQ      ,Foul (2),CM,,,Valencia Basket,0
-PAN       ,,5,00:34,20,270,"JAMES, MIKE",P005985   ,Foul Drawn (2),RV,,,Panathinaikos Superfoods Athens,0
-PAN       ,,12,00:34,20,271,"DENMON, MARCUS",P004195   ,In,IN,,,Panathinaikos Superfoods Athens,0
-PAN       ,,24,00:34,20,272,"LOJESKI, MATT",P003608   ,Out,OUT,,,Panathinaikos Superfoods Athens,0
-PAN       ,,5,00:34,20,273,"JAMES, MIKE",P005985   ,Free Throw In (1/1 -  3 pt),FTM,38.0,29.0,Panathinaikos Superfoods Athens,0
-PAN       ,,5,00:34,20,274,"JAMES, MIKE",P005985   ,Missed Free Throw (1/2 -  3 pt),FTA,,,Panathinaikos Superfoods Athens,0
-PAM       ,,6,00:34,20,275,"ABALDE, ALBERTO",P003733   ,Def Rebound (3),D,,,Valencia Basket,0
-PAM       ,,0,00:19,20,276,"THOMAS, WILL",P005856   ,Two Pointer (1/2 -  5 pt),2FGM,38.0,31.0,Valencia Basket,0
-PAM       ,,17,00:20,20,277,"MARTINEZ, RAFA",P001351   ,Assist (1),AS,,,Valencia Basket,0
-PAN       ,,,00:20,20,278,,          ,Time Out (2),TOUT,,,Panathinaikos Superfoods Athens,0
-PAM       ,,5,00:20,20,279,"GARCIA, SERGI",P005458   ,In,IN,,,Valencia Basket,0
-PAM       ,,9,00:20,20,280,"VAN ROSSOM, SAM",PLRQ      ,Out,OUT,,,Valencia Basket,0
-PAM       ,,21,00:20,20,281,"PLEISS, TIBOR",PLHK      ,Out,OUT,,,Valencia Basket,0
-PAM       ,,42,00:20,20,282,"DOORNEKAMP, AARON",P002763   ,In,IN,,,Valencia Basket,0
-PAN       ,,0,00:03,20,283,"SINGLETON, CHRIS",P006614   ,Missed Two Pointer (0/1 -  7 pt),2FGA,,,Panathinaikos Superfoods Athens,0
-PAN       ,,14,00:03,20,284,"GIST, JAMES",P002980   ,Off Rebound (1),O,,,Panathinaikos Superfoods Athens,0
-PAN       ,,14,00:03,20,285,"GIST, JAMES",P002980   ,Two Pointer (3/3 -  7 pt),2FGM,40.0,31.0,Panathinaikos Superfoods Athens,0
-          ,,,,21,287,,          ,End Period,EP,,,,0
-          ,,,,21,298,,          ,Begin Period,BP,,,,0
-PAN       ,,12,10:00,21,288,"DENMON, MARCUS",P004195   ,Out,OUT,,,Panathinaikos Superfoods Athens,0
-PAN       ,,43,10:00,21,289,"ANTETOKOUNMPO, THANASIS",P007865   ,In,IN,,,Panathinaikos Superfoods Athens,0
-PAM       ,,0,10:00,21,290,"THOMAS, WILL",P005856   ,Out,OUT,,,Valencia Basket,0
-PAM       ,,5,10:00,21,291,"GARCIA, SERGI",P005458   ,Out,OUT,,,Valencia Basket,0
-PAM       ,,6,10:00,21,292,"ABALDE, ALBERTO",P003733   ,Out,OUT,,,Valencia Basket,0
-PAM       ,,9,10:00,21,293,"VAN ROSSOM, SAM",PLRQ      ,In,IN,,,Valencia Basket,0
-PAM       ,,17,10:00,21,294,"MARTINEZ, RAFA",P001351   ,Out,OUT,,,Valencia Basket,0
-PAM       ,,19,10:00,21,295,"SAN EMETERIO, FERNANDO",P000518   ,In,IN,,,Valencia Basket,0
-PAM       ,,30,10:00,21,296,"SASTRE, JOAN",P002936   ,In,IN,,,Valencia Basket,0
-PAM       ,,51,10:00,21,297,"HLINASON, TRYGGVI",P008041   ,In,IN,,,Valencia Basket,0
-PAM       ,,51,09:37,21,299,"HLINASON, TRYGGVI",P008041   ,Missed Two Pointer (3/5 -  6 pt),2FGA,,,Valencia Basket,0
-PAM       ,,42,09:35,21,300,"DOORNEKAMP, AARON",P002763   ,Off Rebound (1),O,,,Valencia Basket,0
-PAM       ,,42,09:34,21,301,"DOORNEKAMP, AARON",P002763   ,Two Pointer (3/4 -  7 pt),2FGM,40.0,33.0,Valencia Basket,0
-PAM       ,,19,09:23,21,302,"SAN EMETERIO, FERNANDO",P000518   ,Foul (1),CM,,,Valencia Basket,0
-PAN       ,,14,09:23,21,303,"GIST, JAMES",P002980   ,Foul Drawn (3),RV,,,Panathinaikos Superfoods Athens,0
-PAN       ,,14,09:23,21,304,"GIST, JAMES",P002980   ,Free Throw In (2/2 -  8 pt),FTM,41.0,33.0,Panathinaikos Superfoods Athens,0
-PAN       ,,33,09:23,21,305,"CALATHES, NICK",P001932   ,Assist (8),AS,,,Panathinaikos Superfoods Athens,0
-PAN       ,,14,09:23,21,306,"GIST, JAMES",P002980   ,Missed Free Throw (2/3 -  8 pt),FTA,,,Panathinaikos Superfoods Athens,0
-PAM       ,,51,09:23,21,307,"HLINASON, TRYGGVI",P008041   ,Def Rebound (2),D,,,Valencia Basket,0
-PAM       ,,19,09:01,21,308,"SAN EMETERIO, FERNANDO",P000518   ,Three Pointer (1/2 -  6 pt),3FGM,41.0,36.0,Valencia Basket,0
-PAM       ,,30,09:00,22,310,"SASTRE, JOAN",P002936   ,Assist (1),AS,,,Valencia Basket,0
-PAN       ,,33,08:37,22,311,"CALATHES, NICK",P001932   ,Two Pointer (3/4 -  6 pt),2FGM,43.0,36.0,Panathinaikos Superfoods Athens,0
-PAM       ,,19,08:23,22,312,"SAN EMETERIO, FERNANDO",P000518   ,Missed Three Pointer (1/3 -  6 pt),3FGA,,,Valencia Basket,0
-PAN       ,,43,08:21,22,313,"ANTETOKOUNMPO, THANASIS",P007865   ,Def Rebound (2),D,,,Panathinaikos Superfoods Athens,0
-PAM       ,,9,08:17,22,314,"VAN ROSSOM, SAM",PLRQ      ,Foul (3),CM,,,Valencia Basket,0
-PAN       ,,33,08:17,22,315,"CALATHES, NICK",P001932   ,Foul Drawn (1),RV,,,Panathinaikos Superfoods Athens,0
-PAN       ,,33,08:17,22,316,"CALATHES, NICK",P001932   ,Missed Free Throw (0/1 -  6 pt),FTA,,,Panathinaikos Superfoods Athens,0
-PAN       ,,33,08:17,22,317,"CALATHES, NICK",P001932   ,Free Throw In (1/2 -  7 pt),FTM,44.0,36.0,Panathinaikos Superfoods Athens,0
-PAN       ,,0,08:03,22,318,"SINGLETON, CHRIS",P006614   ,Foul (1),CM,,,Panathinaikos Superfoods Athens,0
-PAM       ,,51,08:03,22,319,"HLINASON, TRYGGVI",P008041   ,Foul Drawn (1),RV,,,Valencia Basket,0
-PAM       ,,51,08:03,22,320,"HLINASON, TRYGGVI",P008041   ,Missed Free Throw (0/1 -  6 pt),FTA,,,Valencia Basket,0
-PAM       ,,51,08:03,22,321,"HLINASON, TRYGGVI",P008041   ,Missed Free Throw (0/2 -  6 pt),FTA,,,Valencia Basket,0
-PAN       ,,43,08:03,22,322,"ANTETOKOUNMPO, THANASIS",P007865   ,Def Rebound (3),D,,,Panathinaikos Superfoods Athens,0
-PAN       ,,5,07:46,23,324,"JAMES, MIKE",P005985   ,Two Pointer (2/3 -  5 pt),2FGM,46.0,36.0,Panathinaikos Superfoods Athens,0
-PAM       ,,42,07:24,23,325,"DOORNEKAMP, AARON",P002763   ,Missed Two Pointer (3/5 -  7 pt),2FGA,,,Valencia Basket,0
-PAN       ,,0,07:22,23,326,"SINGLETON, CHRIS",P006614   ,Def Rebound (2),D,,,Panathinaikos Superfoods Athens,0
-PAM       ,,51,07:10,23,327,"HLINASON, TRYGGVI",P008041   ,Foul (3),CM,,,Valencia Basket,0
-PAN       ,,14,07:10,23,567,"GIST, JAMES",P002980   ,Foul Drawn (4),RV,,,Panathinaikos Superfoods Athens,0
-PAM       ,,21,07:10,23,328,"PLEISS, TIBOR",PLHK      ,In,IN,,,Valencia Basket,0
-PAM       ,,51,07:10,23,329,"HLINASON, TRYGGVI",P008041   ,Out,OUT,,,Valencia Basket,0
-PAN       ,,14,07:10,23,330,"GIST, JAMES",P002980   ,Missed Free Throw (2/4 -  8 pt),FTA,,,Panathinaikos Superfoods Athens,0
-PAN       ,,14,07:10,23,331,"GIST, JAMES",P002980   ,Missed Free Throw (2/5 -  8 pt),FTA,,,Panathinaikos Superfoods Athens,0
-PAM       ,,42,07:10,23,332,"DOORNEKAMP, AARON",P002763   ,Def Rebound (3),D,,,Valencia Basket,0
-PAN       ,,5,06:50,24,334,"JAMES, MIKE",P005985   ,Foul (2),CM,,,Panathinaikos Superfoods Athens,0
-PAM       ,,30,06:50,24,335,"SASTRE, JOAN",P002936   ,Foul Drawn (1),RV,,,Valencia Basket,0
-PAM       ,,42,06:41,24,336,"DOORNEKAMP, AARON",P002763   ,Missed Three Pointer (0/4 -  7 pt),3FGA,,,Valencia Basket,0
-PAN       ,,14,06:40,24,337,"GIST, JAMES",P002980   ,Def Rebound (1),D,,,Panathinaikos Superfoods Athens,0
-PAM       ,,6,06:32,24,338,"ABALDE, ALBERTO",P003733   ,In,IN,,,Valencia Basket,0
-PAM       ,,9,06:32,24,339,"VAN ROSSOM, SAM",PLRQ      ,Out,OUT,,,Valencia Basket,0
-PAM       ,,30,06:32,24,340,"SASTRE, JOAN",P002936   ,Out,OUT,,,Valencia Basket,0
-PAM       ,,32,06:32,24,341,"GREEN, ERICK",P005159   ,In,IN,,,Valencia Basket,0
-PAN       ,,5,06:23,24,342,"JAMES, MIKE",P005985   ,Missed Three Pointer (0/1 -  5 pt),3FGA,,,Panathinaikos Superfoods Athens,0
-PAM       ,,21,06:21,24,343,"PLEISS, TIBOR",PLHK      ,Def Rebound (3),D,,,Valencia Basket,0
-PAM       ,,42,06:04,24,344,"DOORNEKAMP, AARON",P002763   ,Missed Two Pointer (3/6 -  7 pt),2FGA,,,Valencia Basket,0
-PAN       ,,5,06:04,24,345,"JAMES, MIKE",P005985   ,Def Rebound (2),D,,,Panathinaikos Superfoods Athens,0
-PAN       ,,43,05:45,25,347,"ANTETOKOUNMPO, THANASIS",P007865   ,Turnover (1),TO,,,Panathinaikos Superfoods Athens,0
-PAM       ,,6,05:42,25,348,"ABALDE, ALBERTO",P003733   ,Steal (1),ST,,,Valencia Basket,0
-PAM       ,,6,05:35,25,349,"ABALDE, ALBERTO",P003733   ,Turnover (3),TO,,,Valencia Basket,0
-PAN       ,,43,05:34,25,350,"ANTETOKOUNMPO, THANASIS",P007865   ,Steal (2),ST,,,Panathinaikos Superfoods Athens,0
-PAN       ,,0,05:32,25,351,"SINGLETON, CHRIS",P006614   ,Two Pointer (1/2 -  9 pt),2FGM,48.0,36.0,Panathinaikos Superfoods Athens,0
-PAN       ,,33,05:28,25,352,"CALATHES, NICK",P001932   ,Assist (9),AS,,,Panathinaikos Superfoods Athens,0
-PAM       ,,,05:28,25,353,,          ,Time Out (1),TOUT,,,Valencia Basket,0
-PAN       ,,0,05:18,25,354,"SINGLETON, CHRIS",P006614   ,Foul (2),CM,,,Panathinaikos Superfoods Athens,0
-PAM       ,,42,05:18,25,355,"DOORNEKAMP, AARON",P002763   ,Foul Drawn (2),RV,,,Valencia Basket,0
-PAN       ,,14,05:13,25,356,"GIST, JAMES",P002980   ,Foul (1),CM,,,Panathinaikos Superfoods Athens,0
-PAM       ,,6,05:13,25,357,"ABALDE, ALBERTO",P003733   ,Foul Drawn (2),RV,,,Valencia Basket,0
-PAM       ,,6,05:05,25,358,"ABALDE, ALBERTO",P003733   ,Turnover (4),TO,,,Valencia Basket,0
-PAM       ,,6,04:54,26,360,"ABALDE, ALBERTO",P003733   ,Foul (2),CM,,,Valencia Basket,0
-PAN       ,,33,04:54,26,361,"CALATHES, NICK",P001932   ,Foul Drawn (2),RV,,,Panathinaikos Superfoods Athens,0
-PAN       ,,33,04:54,26,362,"CALATHES, NICK",P001932   ,Free Throw In (2/3 -  8 pt),FTM,49.0,36.0,Panathinaikos Superfoods Athens,0
-PAN       ,,33,04:54,26,363,"CALATHES, NICK",P001932   ,Missed Free Throw (2/4 -  8 pt),FTA,,,Panathinaikos Superfoods Athens,0
-PAN       ,,33,04:54,26,364,"CALATHES, NICK",P001932   ,Off Rebound (1),O,,,Panathinaikos Superfoods Athens,0
-PAN       ,,33,04:44,26,365,"CALATHES, NICK",P001932   ,Three Pointer (1/3 -  11 pt),3FGM,52.0,36.0,Panathinaikos Superfoods Athens,0
-PAM       ,,6,04:21,26,366,"ABALDE, ALBERTO",P003733   ,Turnover (5),TO,,,Valencia Basket,0
-PAN       ,,0,04:21,26,367,"SINGLETON, CHRIS",P006614   ,Steal (1),ST,,,Panathinaikos Superfoods Athens,0
-PAM       ,,42,04:21,26,368,"DOORNEKAMP, AARON",P002763   ,Foul (2),CM,,,Valencia Basket,0
-PAN       ,,0,04:21,26,369,"SINGLETON, CHRIS",P006614   ,Foul Drawn (3),RV,,,Panathinaikos Superfoods Athens,0
-PAM       ,,0,04:21,26,370,"THOMAS, WILL",P005856   ,In,IN,,,Valencia Basket,0
-PAM       ,,5,04:21,26,371,"GARCIA, SERGI",P005458   ,In,IN,,,Valencia Basket,0
-PAM       ,,19,04:21,26,372,"SAN EMETERIO, FERNANDO",P000518   ,Out,OUT,,,Valencia Basket,0
-PAM       ,,42,04:21,26,373,"DOORNEKAMP, AARON",P002763   ,Out,OUT,,,Valencia Basket,0
-PAN       ,,0,04:21,26,374,"SINGLETON, CHRIS",P006614   ,Missed Free Throw (1/3 -  9 pt),FTA,,,Panathinaikos Superfoods Athens,0
-PAN       ,,0,04:21,26,375,"SINGLETON, CHRIS",P006614   ,Free Throw In (2/4 -  10 pt),FTM,53.0,36.0,Panathinaikos Superfoods Athens,0
-PAM       ,,32,04:13,26,376,"GREEN, ERICK",P005159   ,Three Pointer (1/1 -  3 pt),3FGM,53.0,39.0,Valencia Basket,0
-PAM       ,,5,04:12,26,377,"GARCIA, SERGI",P005458   ,Assist (1),AS,,,Valencia Basket,0
-PAN       ,,33,03:58,27,379,"CALATHES, NICK",P001932   ,Two Pointer (4/5 -  13 pt),2FGM,55.0,39.0,Panathinaikos Superfoods Athens,0
-PAN       ,,5,03:56,27,380,"JAMES, MIKE",P005985   ,Assist (3),AS,,,Panathinaikos Superfoods Athens,0
-PAM       ,,32,03:33,27,381,"GREEN, ERICK",P005159   ,Missed Two Pointer (0/5 -  3 pt),2FGA,,,Valencia Basket,0
-PAM       ,,21,03:31,27,382,"PLEISS, TIBOR",PLHK      ,Off Rebound (3),O,,,Valencia Basket,0
-PAM       ,,21,03:29,27,383,"PLEISS, TIBOR",PLHK      ,Two Pointer (1/4 -  5 pt),2FGM,55.0,41.0,Valencia Basket,0
-PAN       ,,33,03:16,27,384,"CALATHES, NICK",P001932   ,Turnover (2),TO,,,Panathinaikos Superfoods Athens,0
-PAM       ,,0,03:15,27,385,"THOMAS, WILL",P005856   ,Steal (1),ST,,,Valencia Basket,0
-PAM       ,,21,03:01,27,386,"PLEISS, TIBOR",PLHK      ,Missed Two Pointer (1/5 -  5 pt),2FGA,,,Valencia Basket,0
-PAM       ,,21,03:01,27,387,"PLEISS, TIBOR",PLHK      ,Shot Rejected (2),AG,,,Valencia Basket,0
-PAN       ,,43,03:00,28,389,"ANTETOKOUNMPO, THANASIS",P007865   ,Block (1),FV,,,Panathinaikos Superfoods Athens,0
-PAN       ,,43,02:58,28,390,"ANTETOKOUNMPO, THANASIS",P007865   ,Def Rebound (4),D,,,Panathinaikos Superfoods Athens,0
-PAN       ,,5,02:49,28,391,"JAMES, MIKE",P005985   ,Missed Three Pointer (0/2 -  5 pt),3FGA,,,Panathinaikos Superfoods Athens,0
-PAM       ,,0,02:47,28,392,"THOMAS, WILL",P005856   ,Def Rebound (3),D,,,Valencia Basket,0
-PAM       ,,,02:22,28,393,,          ,Turnover (1),TO,,,Valencia Basket,0
-PAM       ,,0,02:07,28,394,"THOMAS, WILL",P005856   ,Foul (1),CM,,,Valencia Basket,0
-PAN       ,,0,02:07,28,395,"SINGLETON, CHRIS",P006614   ,Foul Drawn (4),RV,,,Panathinaikos Superfoods Athens,0
-PAM       ,,21,02:07,28,396,"PLEISS, TIBOR",PLHK      ,Out,OUT,,,Valencia Basket,0
-PAM       ,,51,02:07,28,397,"HLINASON, TRYGGVI",P008041   ,In,IN,,,Valencia Basket,0
-PAN       ,,0,02:07,28,398,"SINGLETON, CHRIS",P006614   ,Missed Free Throw (2/5 -  10 pt),FTA,,,Panathinaikos Superfoods Athens,0
-PAN       ,,0,02:07,28,399,"SINGLETON, CHRIS",P006614   ,Free Throw In (3/6 -  11 pt),FTM,56.0,41.0,Panathinaikos Superfoods Athens,0
-PAM       ,,0,01:47,29,401,"THOMAS, WILL",P005856   ,Missed Three Pointer (1/3 -  5 pt),3FGA,,,Valencia Basket,0
-PAN       ,,5,01:45,29,402,"JAMES, MIKE",P005985   ,Def Rebound (3),D,,,Panathinaikos Superfoods Athens,0
-PAN       ,,33,01:39,29,403,"CALATHES, NICK",P001932   ,Turnover (3),TO,,,Panathinaikos Superfoods Athens,0
-PAM       ,,32,01:24,29,404,"GREEN, ERICK",P005159   ,Two Pointer (1/6 -  5 pt),2FGM,56.0,43.0,Valencia Basket,0
-PAN       ,,5,01:24,29,405,"JAMES, MIKE",P005985   ,Foul (3),CM,,,Panathinaikos Superfoods Athens,0
-PAM       ,,32,01:24,29,406,"GREEN, ERICK",P005159   ,Foul Drawn (2),RV,,,Valencia Basket,0
-PAN       ,,5,01:24,29,407,"JAMES, MIKE",P005985   ,Out,OUT,,,Panathinaikos Superfoods Athens,0
-PAN       ,,11,01:24,29,408,"PAPPAS, NIKOS",P000464   ,In,IN,,,Panathinaikos Superfoods Athens,0
-PAM       ,,32,01:24,29,409,"GREEN, ERICK",P005159   ,Free Throw In (1/1 -  6 pt),FTM,56.0,44.0,Valencia Basket,0
-PAN       ,,0,01:08,29,410,"SINGLETON, CHRIS",P006614   ,Turnover (1),TO,,,Panathinaikos Superfoods Athens,0
-PAM       ,,6,01:07,29,411,"ABALDE, ALBERTO",P003733   ,Steal (2),ST,,,Valencia Basket,0
-PAM       ,,6,00:48,30,413,"ABALDE, ALBERTO",P003733   ,Missed Two Pointer (0/3 -  3 pt),2FGA,,,Valencia Basket,0
-PAN       ,,14,00:46,30,414,"GIST, JAMES",P002980   ,Def Rebound (2),D,,,Panathinaikos Superfoods Athens,0
-PAN       ,,14,00:41,30,415,"GIST, JAMES",P002980   ,Missed Three Pointer (0/1 -  8 pt),3FGA,,,Panathinaikos Superfoods Athens,0
-PAM       ,,6,00:41,30,416,"ABALDE, ALBERTO",P003733   ,Def Rebound (4),D,,,Valencia Basket,0
-PAM       ,,5,00:18,30,417,"GARCIA, SERGI",P005458   ,Three Pointer (1/1 -  3 pt),3FGM,56.0,47.0,Valencia Basket,0
-PAM       ,,32,00:16,30,418,"GREEN, ERICK",P005159   ,Assist (1),AS,,,Valencia Basket,0
-PAM       ,,6,00:01,30,419,"ABALDE, ALBERTO",P003733   ,Foul (3),CM,,,Valencia Basket,0
-PAN       ,,14,00:01,30,420,"GIST, JAMES",P002980   ,Foul Drawn (5),RV,,,Panathinaikos Superfoods Athens,0
-PAN       ,,14,00:01,30,421,"GIST, JAMES",P002980   ,Missed Free Throw (2/6 -  8 pt),FTA,,,Panathinaikos Superfoods Athens,0
-PAN       ,,14,00:01,30,422,"GIST, JAMES",P002980   ,Free Throw In (3/7 -  9 pt),FTM,57.0,47.0,Panathinaikos Superfoods Athens,0
-PAN       ,,33,00:01,30,423,"CALATHES, NICK",P001932   ,Assist (10),AS,,,Panathinaikos Superfoods Athens,0
-PAM       ,,0,00:01,30,484,"THOMAS, WILL",P005856   ,Missed Three Pointer (1/4 -  5 pt),3FGA,,,Valencia Basket,0
-          ,,,,31,427,,          ,End Period,EP,,,,0
-          ,,,,31,434,,          ,Begin Period,BP,,,,0
-PAN       ,,6,10:00,31,428,"PAYNE, ADREIAN",P008348   ,In,IN,,,Panathinaikos Superfoods Athens,0
-PAN       ,,14,10:00,31,429,"GIST, JAMES",P002980   ,Out,OUT,,,Panathinaikos Superfoods Athens,0
-PAN       ,,24,10:00,31,430,"LOJESKI, MATT",P003608   ,In,IN,,,Panathinaikos Superfoods Athens,0
-PAN       ,,43,10:00,31,431,"ANTETOKOUNMPO, THANASIS",P007865   ,Out,OUT,,,Panathinaikos Superfoods Athens,0
-PAM       ,,6,10:00,31,432,"ABALDE, ALBERTO",P003733   ,Out,OUT,,,Valencia Basket,0
-PAM       ,,30,10:00,31,433,"SASTRE, JOAN",P002936   ,In,IN,,,Valencia Basket,0
-PAN       ,,33,09:45,31,435,"CALATHES, NICK",P001932   ,Two Pointer (5/6 -  15 pt),2FGM,59.0,47.0,Panathinaikos Superfoods Athens,0
-PAM       ,,32,09:21,31,436,"GREEN, ERICK",P005159   ,Two Pointer (2/7 -  8 pt),2FGM,59.0,49.0,Valencia Basket,0
-PAN       ,,6,08:55,32,438,"PAYNE, ADREIAN",P008348   ,Missed Two Pointer (3/6 -  6 pt),2FGA,,,Panathinaikos Superfoods Athens,0
-PAM       ,,51,08:54,32,439,"HLINASON, TRYGGVI",P008041   ,Def Rebound (3),D,,,Valencia Basket,0
-PAM       ,,0,08:46,32,440,"THOMAS, WILL",P005856   ,Missed Three Pointer (1/5 -  5 pt),3FGA,,,Valencia Basket,0
-PAN       ,,24,08:44,32,441,"LOJESKI, MATT",P003608   ,Def Rebound (4),D,,,Panathinaikos Superfoods Athens,0
-PAN       ,,6,08:30,32,442,"PAYNE, ADREIAN",P008348   ,Missed Two Pointer (3/7 -  6 pt),2FGA,,,Panathinaikos Superfoods Athens,0
-PAM       ,,51,08:29,32,443,"HLINASON, TRYGGVI",P008041   ,Def Rebound (4),D,,,Valencia Basket,0
-PAM       ,,5,08:07,32,444,"GARCIA, SERGI",P005458   ,Missed Three Pointer (1/2 -  3 pt),3FGA,,,Valencia Basket,0
-PAN       ,,6,08:06,32,445,"PAYNE, ADREIAN",P008348   ,Def Rebound (5),D,,,Panathinaikos Superfoods Athens,0
-PAN       ,,33,08:01,32,446,"CALATHES, NICK",P001932   ,Two Pointer (6/7 -  17 pt),2FGM,61.0,49.0,Panathinaikos Superfoods Athens,0
-PAM       ,,30,07:35,33,448,"SASTRE, JOAN",P002936   ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,Valencia Basket,0
-PAN       ,,0,07:31,33,449,"SINGLETON, CHRIS",P006614   ,Def Rebound (3),D,,,Panathinaikos Superfoods Athens,0
-PAN       ,,0,07:24,33,450,"SINGLETON, CHRIS",P006614   ,Missed Two Pointer (1/3 -  11 pt),2FGA,,,Panathinaikos Superfoods Athens,0
-PAM       ,,,07:22,33,451,,          ,Def Rebound (4),D,,,Valencia Basket,0
-PAM       ,,5,07:22,33,452,"GARCIA, SERGI",P005458   ,Out,OUT,,,Valencia Basket,0
-PAM       ,,9,07:22,33,453,"VAN ROSSOM, SAM",PLRQ      ,In,IN,,,Valencia Basket,0
-PAM       ,,0,07:01,33,454,"THOMAS, WILL",P005856   ,Missed Two Pointer (1/3 -  5 pt),2FGA,,,Valencia Basket,0
-PAN       ,,33,06:59,34,456,"CALATHES, NICK",P001932   ,Def Rebound (3),D,,,Panathinaikos Superfoods Athens,0
-PAN       ,,6,06:41,34,457,"PAYNE, ADREIAN",P008348   ,Missed Two Pointer (3/8 -  6 pt),2FGA,,,Panathinaikos Superfoods Athens,0
-PAN       ,,6,06:41,34,458,"PAYNE, ADREIAN",P008348   ,Shot Rejected (1),AG,,,Panathinaikos Superfoods Athens,0
-PAM       ,,51,06:39,34,459,"HLINASON, TRYGGVI",P008041   ,Block (1),FV,,,Valencia Basket,0
-PAN       ,,11,06:38,34,460,"PAPPAS, NIKOS",P000464   ,Off Rebound (1),O,,,Panathinaikos Superfoods Athens,0
-PAN       ,,11,06:38,34,461,"PAPPAS, NIKOS",P000464   ,Offensive Foul (1),OF,,,Panathinaikos Superfoods Athens,0
-PAN       ,,11,06:38,34,462,"PAPPAS, NIKOS",P000464   ,Turnover (1),TO,,,Panathinaikos Superfoods Athens,0
-PAM       ,,30,06:38,34,463,"SASTRE, JOAN",P002936   ,Foul Drawn (2),RV,,,Valencia Basket,0
-PAM       ,,32,06:24,34,464,"GREEN, ERICK",P005159   ,Missed Two Pointer (2/8 -  8 pt),2FGA,,,Valencia Basket,0
-PAN       ,,0,06:23,34,465,"SINGLETON, CHRIS",P006614   ,Def Rebound (4),D,,,Panathinaikos Superfoods Athens,0
-PAM       ,,51,06:23,34,466,"HLINASON, TRYGGVI",P008041   ,Foul (4),CM,,,Valencia Basket,0
-PAN       ,,0,06:23,34,467,"SINGLETON, CHRIS",P006614   ,Foul Drawn (5),RV,,,Panathinaikos Superfoods Athens,0
-PAN       ,,5,06:23,34,468,"JAMES, MIKE",P005985   ,In,IN,,,Panathinaikos Superfoods Athens,0
-PAN       ,,33,06:23,34,469,"CALATHES, NICK",P001932   ,Out,OUT,,,Panathinaikos Superfoods Athens,0
-PAM       ,,42,06:23,34,470,"DOORNEKAMP, AARON",P002763   ,In,IN,,,Valencia Basket,0
-PAM       ,,51,06:23,34,471,"HLINASON, TRYGGVI",P008041   ,Out,OUT,,,Valencia Basket,0
-PAN       ,,0,06:00,34,472,"SINGLETON, CHRIS",P006614   ,Missed Two Pointer (1/4 -  11 pt),2FGA,,,Panathinaikos Superfoods Athens,0
-PAM       ,,9,05:59,35,474,"VAN ROSSOM, SAM",PLRQ      ,Def Rebound (5),D,,,Valencia Basket,0
-PAM       ,,0,05:59,35,475,"THOMAS, WILL",P005856   ,Two Pointer (2/4 -  7 pt),2FGM,61.0,51.0,Valencia Basket,0
-PAM       ,,30,05:59,35,476,"SASTRE, JOAN",P002936   ,Assist (2),AS,,,Valencia Basket,0
-PAN       ,,5,05:41,35,477,"JAMES, MIKE",P005985   ,Three Pointer (1/3 -  8 pt),3FGM,64.0,51.0,Panathinaikos Superfoods Athens,0
-PAM       ,,32,05:13,35,478,"GREEN, ERICK",P005159   ,Two Pointer (3/9 -  10 pt),2FGM,64.0,53.0,Valencia Basket,0
-PAM       ,,42,05:13,35,479,"DOORNEKAMP, AARON",P002763   ,Assist (1),AS,,,Valencia Basket,0
-PAM       ,,42,04:57,36,481,"DOORNEKAMP, AARON",P002763   ,Foul (3),CM,,,Valencia Basket,0
-PAN       ,,0,04:57,36,482,"SINGLETON, CHRIS",P006614   ,Foul Drawn (6),RV,,,Panathinaikos Superfoods Athens,0
-          ,,,04:57,36,483,,          ,TV Time Out (1),TOUT_TV,,,,0
-PAN       ,,0,04:56,36,485,"SINGLETON, CHRIS",P006614   ,Out,OUT,,,Panathinaikos Superfoods Athens,0
-PAN       ,,22,04:56,36,486,"GABRIEL, KENNY",P005881   ,In,IN,,,Panathinaikos Superfoods Athens,0
-PAM       ,,19,04:56,36,487,"SAN EMETERIO, FERNANDO",P000518   ,In,IN,,,Valencia Basket,0
-PAM       ,,32,04:56,36,488,"GREEN, ERICK",P005159   ,Out,OUT,,,Valencia Basket,0
-PAN       ,,6,04:45,36,489,"PAYNE, ADREIAN",P008348   ,Two Pointer (4/9 -  8 pt),2FGM,66.0,53.0,Panathinaikos Superfoods Athens,0
-PAN       ,,5,04:45,36,490,"JAMES, MIKE",P005985   ,Assist (4),AS,,,Panathinaikos Superfoods Athens,0
-PAM       ,,19,04:45,36,491,"SAN EMETERIO, FERNANDO",P000518   ,Foul (2),CM,,,Valencia Basket,0
-PAN       ,,6,04:45,36,492,"PAYNE, ADREIAN",P008348   ,Foul Drawn (2),RV,,,Panathinaikos Superfoods Athens,0
-PAN       ,,6,04:45,36,493,"PAYNE, ADREIAN",P008348   ,Free Throw In (1/2 -  9 pt),FTM,67.0,53.0,Panathinaikos Superfoods Athens,0
-PAM       ,,0,04:25,36,494,"THOMAS, WILL",P005856   ,Missed Three Pointer (1/6 -  7 pt),3FGA,,,Valencia Basket,0
-PAN       ,,22,04:23,36,495,"GABRIEL, KENNY",P005881   ,Def Rebound (2),D,,,Panathinaikos Superfoods Athens,0
-PAN       ,,5,04:06,36,496,"JAMES, MIKE",P005985   ,Three Pointer (2/4 -  11 pt),3FGM,70.0,53.0,Panathinaikos Superfoods Athens,0
-PAM       ,,0,03:44,37,498,"THOMAS, WILL",P005856   ,Out,OUT,,,Valencia Basket,0
-PAM       ,,17,03:44,37,499,"MARTINEZ, RAFA",P001351   ,In,IN,,,Valencia Basket,0
-PAM       ,,19,03:44,37,500,"SAN EMETERIO, FERNANDO",P000518   ,Out,OUT,,,Valencia Basket,0
-PAM       ,,51,03:44,37,501,"HLINASON, TRYGGVI",P008041   ,In,IN,,,Valencia Basket,0
-PAM       ,,42,03:40,37,502,"DOORNEKAMP, AARON",P002763   ,Missed Three Pointer (0/5 -  7 pt),3FGA,,,Valencia Basket,0
-PAN       ,,5,03:38,37,503,"JAMES, MIKE",P005985   ,Def Rebound (4),D,,,Panathinaikos Superfoods Athens,0
-PAN       ,,5,03:32,37,504,"JAMES, MIKE",P005985   ,Missed Three Pointer (2/5 -  11 pt),3FGA,,,Panathinaikos Superfoods Athens,0
-PAN       ,,6,03:29,37,505,"PAYNE, ADREIAN",P008348   ,Off Rebound (2),O,,,Panathinaikos Superfoods Athens,0
-PAN       ,,6,03:29,37,506,"PAYNE, ADREIAN",P008348   ,Missed Two Pointer (4/10 -  9 pt),2FGA,,,Panathinaikos Superfoods Athens,0
-PAM       ,,42,03:27,37,507,"DOORNEKAMP, AARON",P002763   ,Def Rebound (4),D,,,Valencia Basket,0
-PAM       ,,42,03:23,37,508,"DOORNEKAMP, AARON",P002763   ,Missed Two Pointer (3/7 -  7 pt),2FGA,,,Valencia Basket,0
-PAM       ,,42,03:23,37,509,"DOORNEKAMP, AARON",P002763   ,Shot Rejected (1),AG,,,Valencia Basket,0
-PAN       ,,5,03:23,37,510,"JAMES, MIKE",P005985   ,Block (1),FV,,,Panathinaikos Superfoods Athens,0
-PAN       ,,,03:23,37,511,,          ,Def Rebound (5),D,,,Panathinaikos Superfoods Athens,0
-PAN       ,,6,03:04,37,512,"PAYNE, ADREIAN",P008348   ,Offensive Foul (2),OF,,,Panathinaikos Superfoods Athens,0
-PAN       ,,6,03:04,37,513,"PAYNE, ADREIAN",P008348   ,Turnover (2),TO,,,Panathinaikos Superfoods Athens,0
-PAM       ,,30,03:04,37,514,"SASTRE, JOAN",P002936   ,Foul Drawn (3),RV,,,Valencia Basket,0
-PAM       ,,5,03:04,37,515,"GARCIA, SERGI",P005458   ,In,IN,,,Valencia Basket,0
-PAM       ,,9,03:04,37,516,"VAN ROSSOM, SAM",PLRQ      ,Out,OUT,,,Valencia Basket,0
-PAM       ,,30,03:04,37,517,"SASTRE, JOAN",P002936   ,Out,OUT,,,Valencia Basket,0
-PAM       ,,32,03:04,37,518,"GREEN, ERICK",P005159   ,In,IN,,,Valencia Basket,0
-PAN       ,,11,02:43,38,520,"PAPPAS, NIKOS",P000464   ,Foul (2),CM,,,Panathinaikos Superfoods Athens,0
-PAM       ,,51,02:43,38,521,"HLINASON, TRYGGVI",P008041   ,Foul Drawn (2),RV,,,Valencia Basket,0
-PAM       ,,51,02:34,38,522,"HLINASON, TRYGGVI",P008041   ,Two Pointer (4/6 -  8 pt),2FGM,70.0,55.0,Valencia Basket,0
-PAM       ,,5,02:32,38,523,"GARCIA, SERGI",P005458   ,Assist (2),AS,,,Valencia Basket,0
-PAM       ,,51,02:09,38,524,"HLINASON, TRYGGVI",P008041   ,Foul (5),CM,,,Valencia Basket,0
-PAN       ,,6,02:09,38,525,"PAYNE, ADREIAN",P008348   ,Foul Drawn (3),RV,,,Panathinaikos Superfoods Athens,0
-PAM       ,,21,02:09,38,526,"PLEISS, TIBOR",PLHK      ,In,IN,,,Valencia Basket,0
-PAM       ,,51,02:09,38,527,"HLINASON, TRYGGVI",P008041   ,Out,OUT,,,Valencia Basket,0
-PAN       ,,6,02:09,38,528,"PAYNE, ADREIAN",P008348   ,Missed Free Throw (1/3 -  9 pt),FTA,,,Panathinaikos Superfoods Athens,0
-PAN       ,,6,02:09,38,529,"PAYNE, ADREIAN",P008348   ,Free Throw In (2/4 -  10 pt),FTM,71.0,55.0,Panathinaikos Superfoods Athens,0
-PAM       ,,,01:46,39,531,,          ,Time Out (1),TOUT,,,Valencia Basket,0
-PAM       ,,5,01:45,39,532,"GARCIA, SERGI",P005458   ,Turnover (1),TO,,,Valencia Basket,0
-PAN       ,,11,01:45,39,533,"PAPPAS, NIKOS",P000464   ,Steal (1),ST,,,Panathinaikos Superfoods Athens,0
-PAN       ,,11,01:45,39,534,"PAPPAS, NIKOS",P000464   ,Two Pointer (1/4 -  4 pt),2FGM,73.0,55.0,Panathinaikos Superfoods Athens,0
-PAM       ,,5,01:24,39,535,"GARCIA, SERGI",P005458   ,Turnover (2),TO,,,Valencia Basket,0
-PAN       ,,6,01:24,39,536,"PAYNE, ADREIAN",P008348   ,Steal (1),ST,,,Panathinaikos Superfoods Athens,0
-PAM       ,,5,01:24,39,537,"GARCIA, SERGI",P005458   ,Foul (1),CM,,,Valencia Basket,0
-PAN       ,,6,01:24,39,538,"PAYNE, ADREIAN",P008348   ,Foul Drawn (4),RV,,,Panathinaikos Superfoods Athens,0
-PAN       ,,6,01:24,39,539,"PAYNE, ADREIAN",P008348   ,Missed Free Throw (2/5 -  10 pt),FTA,,,Panathinaikos Superfoods Athens,0
-PAN       ,,6,01:24,39,540,"PAYNE, ADREIAN",P008348   ,Missed Free Throw (2/6 -  10 pt),FTA,,,Panathinaikos Superfoods Athens,0
-PAN       ,,22,01:24,39,541,"GABRIEL, KENNY",P005881   ,Off Rebound (1),O,,,Panathinaikos Superfoods Athens,0
-PAM       ,,21,01:12,39,542,"PLEISS, TIBOR",PLHK      ,Foul (2),CM,,,Valencia Basket,0
-PAN       ,,6,01:12,39,543,"PAYNE, ADREIAN",P008348   ,Foul Drawn (5),RV,,,Panathinaikos Superfoods Athens,0
-PAN       ,,6,01:12,39,544,"PAYNE, ADREIAN",P008348   ,Free Throw In (3/7 -  11 pt),FTM,74.0,55.0,Panathinaikos Superfoods Athens,0
-PAN       ,,5,01:12,39,545,"JAMES, MIKE",P005985   ,Assist (5),AS,,,Panathinaikos Superfoods Athens,0
-PAN       ,,6,01:12,39,546,"PAYNE, ADREIAN",P008348   ,Free Throw In (4/8 -  12 pt),FTM,75.0,55.0,Panathinaikos Superfoods Athens,0
-PAN       ,,22,01:12,39,547,"GABRIEL, KENNY",P005881   ,Unsportsmanlike Foul  (3),CMU,,,Panathinaikos Superfoods Athens,0
-PAM       ,,21,01:12,39,566,"PLEISS, TIBOR",PLHK      ,Foul Drawn (2),RV,,,Valencia Basket,0
-PAM       ,,21,01:12,39,548,"PLEISS, TIBOR",PLHK      ,Unsportsmanlike Foul  (3),CMU,,,Valencia Basket,0
-PAN       ,,22,01:12,39,557,"GABRIEL, KENNY",P005881   ,Foul Drawn (1),RV,,,Panathinaikos Superfoods Athens,0
-PAM       ,,32,00:56,40,550,"GREEN, ERICK",P005159   ,Missed Three Pointer (1/2 -  10 pt),3FGA,,,Valencia Basket,0
-PAN       ,,6,00:55,40,552,"PAYNE, ADREIAN",P008348   ,Unsportsmanlike Foul  (3),CMU,,,Panathinaikos Superfoods Athens,0
-PAM       ,,42,00:55,40,553,"DOORNEKAMP, AARON",P002763   ,Foul Drawn (3),RV,,,Valencia Basket,0
-PAM       ,,,00:55,40,571,,          ,Off Rebound (2),O,,,Valencia Basket,0
-PAM       ,,42,00:55,40,554,"DOORNEKAMP, AARON",P002763   ,Missed Free Throw (1/2 -  7 pt),FTA,,,Valencia Basket,0
-PAM       ,,42,00:55,40,555,"DOORNEKAMP, AARON",P002763   ,Free Throw In (2/3 -  8 pt),FTM,75.0,56.0,Valencia Basket,0
-PAM       ,,32,00:47,40,556,"GREEN, ERICK",P005159   ,Turnover (2),TO,,,Valencia Basket,0
-PAN       ,,11,00:47,40,558,"PAPPAS, NIKOS",P000464   ,Missed Two Pointer (1/5 -  4 pt),2FGA,,,Panathinaikos Superfoods Athens,0
-PAM       ,,5,00:47,40,559,"GARCIA, SERGI",P005458   ,Def Rebound (1),D,,,Valencia Basket,0
-PAM       ,,42,00:27,40,560,"DOORNEKAMP, AARON",P002763   ,Turnover (1),TO,,,Valencia Basket,0
-PAN       ,,24,00:25,40,561,"LOJESKI, MATT",P003608   ,Steal (1),ST,,,Panathinaikos Superfoods Athens,0
-PAN       ,,5,00:21,40,562,"JAMES, MIKE",P005985   ,Missed Two Pointer (2/4 -  11 pt),2FGA,,,Panathinaikos Superfoods Athens,0
-PAN       ,,6,00:20,40,563,"PAYNE, ADREIAN",P008348   ,Off Rebound (3),O,,,Panathinaikos Superfoods Athens,0
-PAN       ,,5,00:05,40,564,"JAMES, MIKE",P005985   ,Missed Three Pointer (2/6 -  11 pt),3FGA,,,Panathinaikos Superfoods Athens,0
-PAM       ,,,00:05,40,565,,          ,Def Rebound (6),D,,,Valencia Basket,0
-          ,,,,41,572,,          ,End Game,EG,,,,0
+CODETEAM,COMMENT,DORSAL,MARKERTIME,MINUTE,NUMBEROFPLAY,PLAYER,PLAYER_ID,PLAYINFO,PLAYTYPE,POINTS_A,POINTS_B,TEAM,TYPE,home_team,home_team_code,away_team,away_team_code
+          ,,,,1,17,,          ,Begin Period,BP,,,,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,6,09:42,1,18,"ABALDE, ALBERTO",P003733   ,Turnover (1),TO,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,43,09:41,1,19,"ANTETOKOUNMPO, THANASIS",P007865   ,Steal (1),ST,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,0,09:26,1,20,"SINGLETON, CHRIS",P006614   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,6,09:25,1,21,"ABALDE, ALBERTO",P003733   ,Def Rebound (1),D,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,5,09:05,1,22,"JAMES, MIKE",P005985   ,Foul (1),CM,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,21,09:05,1,23,"PLEISS, TIBOR",PLHK      ,Foul Drawn (1),RV,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,21,08:53,2,25,"PLEISS, TIBOR",PLHK      ,Turnover (1),TO,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,33,08:36,2,26,"CALATHES, NICK",P001932   ,Two Pointer (1/1 -  2 pt),2FGM,2.0,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,5,08:35,2,27,"JAMES, MIKE",P005985   ,Assist (1),AS,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,6,08:16,2,28,"ABALDE, ALBERTO",P003733   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,0,08:14,2,29,"SINGLETON, CHRIS",P006614   ,Def Rebound (1),D,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,33,08:01,2,30,"CALATHES, NICK",P001932   ,Turnover (1),TO,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,17,07:59,3,32,"MARTINEZ, RAFA",P001351   ,Steal (1),ST,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,6,07:56,3,33,"ABALDE, ALBERTO",P003733   ,Turnover (2),TO,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,30,07:35,3,34,"SASTRE, JOAN",P002936   ,Foul (1),CM,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,14,07:35,3,35,"GIST, JAMES",P002980   ,Foul Drawn (1),RV,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,5,07:28,3,36,"JAMES, MIKE",P005985   ,Two Pointer (1/1 -  2 pt),2FGM,4.0,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,0,07:18,3,37,"THOMAS, WILL",P005856   ,Three Pointer (1/1 -  3 pt),3FGM,4.0,3.0,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,6,07:18,3,38,"ABALDE, ALBERTO",P003733   ,Assist (1),AS,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,33,07:03,3,39,"CALATHES, NICK",P001932   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,21,07:01,3,40,"PLEISS, TIBOR",PLHK      ,Def Rebound (1),D,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,30,06:56,4,42,"SASTRE, JOAN",P002936   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,21,06:56,4,43,"PLEISS, TIBOR",PLHK      ,Off Rebound (1),O,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,21,06:56,4,44,"PLEISS, TIBOR",PLHK      ,Turnover (2),TO,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,6,06:41,4,45,"ABALDE, ALBERTO",P003733   ,Foul (1),CM,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,0,06:41,4,46,"SINGLETON, CHRIS",P006614   ,Foul Drawn (1),RV,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,14,06:33,4,47,"GIST, JAMES",P002980   ,Two Pointer (1/1 -  2 pt),2FGM,6.0,3.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,33,06:33,4,48,"CALATHES, NICK",P001932   ,Assist (1),AS,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,21,06:33,4,49,"PLEISS, TIBOR",PLHK      ,Foul (1),CM,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,14,06:33,4,50,"GIST, JAMES",P002980   ,Foul Drawn (2),RV,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,14,06:33,4,51,"GIST, JAMES",P002980   ,Free Throw In (1/1 -  3 pt),FTM,7.0,3.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,0,06:09,4,52,"THOMAS, WILL",P005856   ,Missed Three Pointer (1/2 -  3 pt),3FGA,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,,06:08,4,53,,          ,Def Rebound (1),D,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,43,05:55,5,55,"ANTETOKOUNMPO, THANASIS",P007865   ,Two Pointer (1/1 -  2 pt),2FGM,9.0,3.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,5,05:51,5,56,"JAMES, MIKE",P005985   ,Assist (2),AS,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,43,05:51,5,57,"ANTETOKOUNMPO, THANASIS",P007865   ,Foul (1),CM,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,6,05:51,5,58,"ABALDE, ALBERTO",P003733   ,Foul Drawn (1),RV,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,17,05:43,5,59,"MARTINEZ, RAFA",P001351   ,Turnover (1),TO,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,5,05:41,5,60,"JAMES, MIKE",P005985   ,Steal (1),ST,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,14,05:40,5,61,"GIST, JAMES",P002980   ,Two Pointer (2/2 -  5 pt),2FGM,11.0,3.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,33,05:40,5,62,"CALATHES, NICK",P001932   ,Assist (2),AS,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,,05:40,5,63,,          ,Time Out (1),TOUT,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,6,05:40,5,64,"ABALDE, ALBERTO",P003733   ,Out,OUT,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,9,05:40,5,65,"VAN ROSSOM, SAM",PLRQ      ,In,IN,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,21,05:21,5,66,"PLEISS, TIBOR",PLHK      ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,0,05:19,5,67,"THOMAS, WILL",P005856   ,Off Rebound (1),O,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,17,05:17,5,68,"MARTINEZ, RAFA",P001351   ,Three Pointer (1/1 -  3 pt),3FGM,11.0,6.0,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,0,05:15,5,69,"THOMAS, WILL",P005856   ,Assist (1),AS,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,30,05:00,5,70,"SASTRE, JOAN",P002936   ,Foul (2),CM,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,5,05:00,5,71,"JAMES, MIKE",P005985   ,Foul Drawn (1),RV,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,19,05:00,5,72,"SAN EMETERIO, FERNANDO",P000518   ,In,IN,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,21,05:00,5,73,"PLEISS, TIBOR",PLHK      ,Out,OUT,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,30,05:00,5,74,"SASTRE, JOAN",P002936   ,Out,OUT,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,51,05:00,5,75,"HLINASON, TRYGGVI",P008041   ,In,IN,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,33,04:51,6,77,"CALATHES, NICK",P001932   ,Two Pointer (2/3 -  4 pt),2FGM,13.0,6.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,19,04:39,6,78,"SAN EMETERIO, FERNANDO",P000518   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,33,04:39,6,79,"CALATHES, NICK",P001932   ,Def Rebound (1),D,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,43,04:39,6,80,"ANTETOKOUNMPO, THANASIS",P007865   ,Two Pointer (2/2 -  4 pt),2FGM,15.0,6.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,33,04:39,6,81,"CALATHES, NICK",P001932   ,Assist (3),AS,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,0,04:06,6,82,"THOMAS, WILL",P005856   ,Missed Two Pointer (0/1 -  3 pt),2FGA,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,43,04:04,6,83,"ANTETOKOUNMPO, THANASIS",P007865   ,Def Rebound (1),D,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,43,03:46,7,85,"ANTETOKOUNMPO, THANASIS",P007865   ,Two Pointer (3/3 -  6 pt),2FGM,17.0,6.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,33,03:44,7,86,"CALATHES, NICK",P001932   ,Assist (4),AS,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,33,03:36,7,87,"CALATHES, NICK",P001932   ,Foul (1),CM,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,17,03:36,7,88,"MARTINEZ, RAFA",P001351   ,Foul Drawn (1),RV,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,14,03:36,7,89,"GIST, JAMES",P002980   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,15,03:36,7,90,"VOUGIOUKAS, IAN",PTFX      ,In,IN,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,24,03:36,7,91,"LOJESKI, MATT",P003608   ,In,IN,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,43,03:36,7,92,"ANTETOKOUNMPO, THANASIS",P007865   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,0,03:36,7,93,"THOMAS, WILL",P005856   ,Out,OUT,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,17,03:36,7,94,"MARTINEZ, RAFA",P001351   ,Out,OUT,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,32,03:36,7,95,"GREEN, ERICK",P005159   ,In,IN,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,42,03:36,7,96,"DOORNEKAMP, AARON",P002763   ,In,IN,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,51,03:28,7,97,"HLINASON, TRYGGVI",P008041   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,33,03:26,7,98,"CALATHES, NICK",P001932   ,Def Rebound (2),D,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,0,03:19,7,99,"SINGLETON, CHRIS",P006614   ,Three Pointer (1/2 -  3 pt),3FGM,20.0,6.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,33,03:18,7,100,"CALATHES, NICK",P001932   ,Assist (5),AS,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,42,02:55,8,102,"DOORNEKAMP, AARON",P002763   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,5,02:53,8,103,"JAMES, MIKE",P005985   ,Def Rebound (1),D,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,24,02:46,8,104,"LOJESKI, MATT",P003608   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,32,02:44,8,105,"GREEN, ERICK",P005159   ,Def Rebound (1),D,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,15,02:39,8,106,"VOUGIOUKAS, IAN",PTFX      ,Foul (1),CM,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,32,02:39,8,107,"GREEN, ERICK",P005159   ,Foul Drawn (1),RV,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,5,02:39,8,108,"JAMES, MIKE",P005985   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,11,02:39,8,109,"PAPPAS, NIKOS",P000464   ,In,IN,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,42,02:38,8,110,"DOORNEKAMP, AARON",P002763   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,,02:38,8,111,,          ,Def Rebound (2),D,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,15,02:12,8,112,"VOUGIOUKAS, IAN",PTFX      ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,9,02:10,8,113,"VAN ROSSOM, SAM",PLRQ      ,Def Rebound (1),D,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,9,02:05,8,114,"VAN ROSSOM, SAM",PLRQ      ,Three Pointer (1/1 -  3 pt),3FGM,20.0,9.0,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,15,01:43,9,116,"VOUGIOUKAS, IAN",PTFX      ,Two Pointer (1/2 -  2 pt),2FGM,22.0,9.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,33,01:41,9,117,"CALATHES, NICK",P001932   ,Assist (6),AS,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,51,01:25,9,118,"HLINASON, TRYGGVI",P008041   ,Two Pointer (1/2 -  2 pt),2FGM,22.0,11.0,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,9,01:23,9,119,"VAN ROSSOM, SAM",PLRQ      ,Assist (1),AS,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,51,01:16,9,120,"HLINASON, TRYGGVI",P008041   ,Foul (1),CM,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,0,01:16,9,121,"SINGLETON, CHRIS",P006614   ,Foul Drawn (2),RV,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,0,01:16,9,122,"SINGLETON, CHRIS",P006614   ,Free Throw In (1/1 -  4 pt),FTM,23.0,11.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,33,01:16,9,123,"CALATHES, NICK",P001932   ,Assist (7),AS,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,0,01:16,9,124,"SINGLETON, CHRIS",P006614   ,Missed Free Throw (1/2 -  4 pt),FTA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,42,01:16,9,125,"DOORNEKAMP, AARON",P002763   ,Def Rebound (1),D,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,19,01:01,9,126,"SAN EMETERIO, FERNANDO",P000518   ,Two Pointer (1/1 -  2 pt),2FGM,23.0,13.0,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,33,00:37,10,128,"CALATHES, NICK",P001932   ,Missed Three Pointer (0/1 -  4 pt),3FGA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,32,00:35,10,129,"GREEN, ERICK",P005159   ,Def Rebound (2),D,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,42,00:11,10,130,"DOORNEKAMP, AARON",P002763   ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,24,00:09,10,131,"LOJESKI, MATT",P003608   ,Def Rebound (1),D,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,0,00:02,10,132,"SINGLETON, CHRIS",P006614   ,Missed Three Pointer (1/3 -  4 pt),3FGA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+          ,,,,11,134,,          ,End Period,EP,,,,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+          ,,,,11,139,,          ,Begin Period,BP,,,,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,0,10:00,11,135,"SINGLETON, CHRIS",P006614   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,19,10:00,11,136,"LEKAVICIUS, LUKAS",P003210   ,In,IN,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,22,10:00,11,137,"GABRIEL, KENNY",P005881   ,In,IN,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,33,10:00,11,138,"CALATHES, NICK",P001932   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,9,09:57,11,140,"VAN ROSSOM, SAM",PLRQ      ,Foul (1),CM,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,19,09:57,11,141,"LEKAVICIUS, LUKAS",P003210   ,Foul Drawn (1),RV,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,15,09:49,11,142,"VOUGIOUKAS, IAN",PTFX      ,Missed Two Pointer (1/3 -  2 pt),2FGA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,9,09:47,11,143,"VAN ROSSOM, SAM",PLRQ      ,Def Rebound (2),D,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,51,09:34,11,144,"HLINASON, TRYGGVI",P008041   ,Two Pointer (2/3 -  4 pt),2FGM,23.0,15.0,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,9,09:32,11,145,"VAN ROSSOM, SAM",PLRQ      ,Assist (2),AS,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,22,09:14,11,146,"GABRIEL, KENNY",P005881   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,9,09:12,11,147,"VAN ROSSOM, SAM",PLRQ      ,Def Rebound (3),D,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,42,09:01,11,148,"DOORNEKAMP, AARON",P002763   ,Missed Three Pointer (0/3 -  0 pt),3FGA,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,51,08:59,12,150,"HLINASON, TRYGGVI",P008041   ,Off Rebound (1),O,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,42,08:56,12,151,"DOORNEKAMP, AARON",P002763   ,Two Pointer (1/2 -  2 pt),2FGM,23.0,17.0,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,51,08:55,12,152,"HLINASON, TRYGGVI",P008041   ,Assist (1),AS,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,,08:55,12,153,,          ,Time Out (1),TOUT,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,6,08:55,12,154,"PAYNE, ADREIAN",P008348   ,In,IN,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,15,08:55,12,155,"VOUGIOUKAS, IAN",PTFX      ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,5,08:55,12,156,"GARCIA, SERGI",P005458   ,In,IN,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,9,08:55,12,157,"VAN ROSSOM, SAM",PLRQ      ,Out,OUT,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,6,08:34,12,158,"PAYNE, ADREIAN",P008348   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,,08:34,12,159,,          ,Off Rebound (1),O,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,24,08:33,12,160,"LOJESKI, MATT",P003608   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,19,08:33,12,161,"LEKAVICIUS, LUKAS",P003210   ,Off Rebound (1),O,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,19,08:18,12,162,"LEKAVICIUS, LUKAS",P003210   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,19,08:18,12,163,"LEKAVICIUS, LUKAS",P003210   ,Shot Rejected (1),AG,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,42,08:17,12,164,"DOORNEKAMP, AARON",P002763   ,Block (1),FV,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,42,08:15,12,165,"DOORNEKAMP, AARON",P002763   ,Def Rebound (2),D,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,22,08:15,12,166,"GABRIEL, KENNY",P005881   ,Foul (1),CM,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,19,08:15,12,167,"SAN EMETERIO, FERNANDO",P000518   ,Foul Drawn (1),RV,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,19,08:15,12,168,"SAN EMETERIO, FERNANDO",P000518   ,Free Throw In (1/1 -  3 pt),FTM,23.0,18.0,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,19,08:15,12,169,"SAN EMETERIO, FERNANDO",P000518   ,Missed Free Throw (1/2 -  3 pt),FTA,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,22,08:15,12,170,"GABRIEL, KENNY",P005881   ,Def Rebound (1),D,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,6,08:03,12,171,"PAYNE, ADREIAN",P008348   ,Two Pointer (1/2 -  2 pt),2FGM,25.0,18.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,11,08:02,12,172,"PAPPAS, NIKOS",P000464   ,Assist (1),AS,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,42,07:49,13,174,"DOORNEKAMP, AARON",P002763   ,Two Pointer (2/3 -  4 pt),2FGM,25.0,20.0,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,22,07:49,13,175,"GABRIEL, KENNY",P005881   ,Foul (2),CM,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,42,07:49,13,176,"DOORNEKAMP, AARON",P002763   ,Foul Drawn (1),RV,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,42,07:49,13,177,"DOORNEKAMP, AARON",P002763   ,Free Throw In (1/1 -  5 pt),FTM,25.0,21.0,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,6,07:37,13,178,"PAYNE, ADREIAN",P008348   ,Offensive Foul (1),OF,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,6,07:37,13,179,"PAYNE, ADREIAN",P008348   ,Turnover (1),TO,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,5,07:37,13,180,"GARCIA, SERGI",P005458   ,Foul Drawn (1),RV,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,32,07:18,13,181,"GREEN, ERICK",P005159   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,6,07:16,13,182,"PAYNE, ADREIAN",P008348   ,Def Rebound (1),D,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,11,07:09,13,183,"PAPPAS, NIKOS",P000464   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,24,07:08,13,184,"LOJESKI, MATT",P003608   ,Off Rebound (1),O,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,6,07:05,13,185,"PAYNE, ADREIAN",P008348   ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,51,07:03,13,186,"HLINASON, TRYGGVI",P008041   ,Def Rebound (1),D,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,32,06:53,14,188,"GREEN, ERICK",P005159   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,51,06:50,14,189,"HLINASON, TRYGGVI",P008041   ,Off Rebound (2),O,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,51,06:50,14,190,"HLINASON, TRYGGVI",P008041   ,Two Pointer (3/4 -  6 pt),2FGM,25.0,23.0,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,11,06:34,14,191,"PAPPAS, NIKOS",P000464   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,6,06:34,14,192,"PAYNE, ADREIAN",P008348   ,Off Rebound (1),O,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,6,06:34,14,193,"PAYNE, ADREIAN",P008348   ,Two Pointer (2/3 -  4 pt),2FGM,27.0,23.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,51,06:34,14,194,"HLINASON, TRYGGVI",P008041   ,Foul (2),CM,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,6,06:34,14,195,"PAYNE, ADREIAN",P008348   ,Foul Drawn (1),RV,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,0,06:34,14,196,"SINGLETON, CHRIS",P006614   ,In,IN,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,22,06:34,14,197,"GABRIEL, KENNY",P005881   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,6,06:34,14,198,"ABALDE, ALBERTO",P003733   ,In,IN,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,19,06:34,14,199,"SAN EMETERIO, FERNANDO",P000518   ,Out,OUT,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,21,06:34,14,200,"PLEISS, TIBOR",PLHK      ,In,IN,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,51,06:34,14,201,"HLINASON, TRYGGVI",P008041   ,Out,OUT,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,6,06:34,14,202,"PAYNE, ADREIAN",P008348   ,Missed Free Throw (0/1 -  4 pt),FTA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,,06:34,14,203,,          ,Def Rebound (3),D,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,21,06:16,14,204,"PLEISS, TIBOR",PLHK      ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,21,06:14,14,205,"PLEISS, TIBOR",PLHK      ,Off Rebound (2),O,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,21,06:12,14,206,"PLEISS, TIBOR",PLHK      ,Missed Two Pointer (0/3 -  0 pt),2FGA,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,21,06:12,14,207,"PLEISS, TIBOR",PLHK      ,Shot Rejected (1),AG,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,6,06:10,14,208,"PAYNE, ADREIAN",P008348   ,Block (1),FV,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,6,06:09,14,209,"PAYNE, ADREIAN",P008348   ,Def Rebound (2),D,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,6,05:59,15,211,"PAYNE, ADREIAN",P008348   ,Two Pointer (3/4 -  6 pt),2FGM,29.0,23.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,6,05:31,15,212,"ABALDE, ALBERTO",P003733   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,6,05:29,15,213,"PAYNE, ADREIAN",P008348   ,Def Rebound (3),D,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,42,05:23,15,214,"DOORNEKAMP, AARON",P002763   ,Foul (1),CM,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,11,05:23,15,215,"PAPPAS, NIKOS",P000464   ,Foul Drawn (1),RV,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,11,05:23,15,216,"PAPPAS, NIKOS",P000464   ,Free Throw In (1/1 -  1 pt),FTM,30.0,23.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,11,05:23,15,217,"PAPPAS, NIKOS",P000464   ,Free Throw In (2/2 -  2 pt),FTM,31.0,23.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,,05:23,15,218,,          ,Time Out (1),TOUT,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,0,05:23,15,219,"THOMAS, WILL",P005856   ,In,IN,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,42,05:23,15,220,"DOORNEKAMP, AARON",P002763   ,Out,OUT,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,32,05:05,15,221,"GREEN, ERICK",P005159   ,Missed Two Pointer (0/3 -  0 pt),2FGA,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,24,05:04,15,222,"LOJESKI, MATT",P003608   ,Def Rebound (2),D,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,11,04:45,16,224,"PAPPAS, NIKOS",P000464   ,Missed Two Pointer (0/2 -  2 pt),2FGA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,0,04:43,16,225,"THOMAS, WILL",P005856   ,Def Rebound (1),D,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,21,04:37,16,226,"PLEISS, TIBOR",PLHK      ,Turnover (3),TO,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,5,04:37,16,227,"GARCIA, SERGI",P005458   ,Out,OUT,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,9,04:37,16,228,"VAN ROSSOM, SAM",PLRQ      ,In,IN,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,24,04:17,16,229,"LOJESKI, MATT",P003608   ,Three Pointer (1/2 -  3 pt),3FGM,34.0,23.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,0,04:15,16,230,"SINGLETON, CHRIS",P006614   ,Assist (1),AS,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,32,03:56,17,232,"GREEN, ERICK",P005159   ,Missed Two Pointer (0/4 -  0 pt),2FGA,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,32,03:56,17,233,"GREEN, ERICK",P005159   ,Shot Rejected (1),AG,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,6,03:54,17,234,"PAYNE, ADREIAN",P008348   ,Block (2),FV,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,6,03:52,17,235,"PAYNE, ADREIAN",P008348   ,Def Rebound (4),D,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,6,03:35,17,236,"PAYNE, ADREIAN",P008348   ,Missed Two Pointer (3/5 -  6 pt),2FGA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,24,03:35,17,237,"LOJESKI, MATT",P003608   ,Off Rebound (2),O,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,11,03:35,17,238,"PAPPAS, NIKOS",P000464   ,Missed Two Pointer (0/3 -  2 pt),2FGA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,9,03:35,17,239,"VAN ROSSOM, SAM",PLRQ      ,Def Rebound (4),D,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,6,03:12,17,240,"ABALDE, ALBERTO",P003733   ,Three Pointer (1/1 -  3 pt),3FGM,34.0,26.0,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,11,02:44,18,242,"PAPPAS, NIKOS",P000464   ,Missed Three Pointer (0/2 -  2 pt),3FGA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,0,02:42,18,243,"THOMAS, WILL",P005856   ,Def Rebound (2),D,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,9,02:31,18,244,"VAN ROSSOM, SAM",PLRQ      ,Missed Three Pointer (1/2 -  3 pt),3FGA,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,24,02:27,18,245,"LOJESKI, MATT",P003608   ,Def Rebound (3),D,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,0,02:09,18,246,"SINGLETON, CHRIS",P006614   ,Three Pointer (2/4 -  7 pt),3FGM,37.0,26.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,19,02:04,18,247,"LEKAVICIUS, LUKAS",P003210   ,Assist (1),AS,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,32,01:53,19,249,"GREEN, ERICK",P005159   ,Turnover (1),TO,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,5,01:53,19,250,"JAMES, MIKE",P005985   ,In,IN,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,6,01:53,19,251,"PAYNE, ADREIAN",P008348   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,11,01:53,19,252,"PAPPAS, NIKOS",P000464   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,14,01:53,19,253,"GIST, JAMES",P002980   ,In,IN,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,19,01:53,19,254,"LEKAVICIUS, LUKAS",P003210   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,33,01:53,19,255,"CALATHES, NICK",P001932   ,In,IN,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,17,01:53,19,256,"MARTINEZ, RAFA",P001351   ,In,IN,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,32,01:53,19,257,"GREEN, ERICK",P005159   ,Out,OUT,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,33,01:31,19,258,"CALATHES, NICK",P001932   ,Missed Three Pointer (0/2 -  4 pt),3FGA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,21,01:29,19,259,"PLEISS, TIBOR",PLHK      ,Def Rebound (2),D,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,21,01:21,19,260,"PLEISS, TIBOR",PLHK      ,Three Pointer (1/1 -  3 pt),3FGM,37.0,29.0,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,6,01:19,19,261,"ABALDE, ALBERTO",P003733   ,Assist (2),AS,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,5,01:02,19,262,"JAMES, MIKE",P005985   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,6,01:00,19,263,"ABALDE, ALBERTO",P003733   ,Def Rebound (2),D,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,9,00:52,20,265,"VAN ROSSOM, SAM",PLRQ      ,Missed Three Pointer (1/3 -  3 pt),3FGA,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,17,00:50,20,266,"MARTINEZ, RAFA",P001351   ,Off Rebound (1),O,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,9,00:43,20,267,"VAN ROSSOM, SAM",PLRQ      ,Turnover (1),TO,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,33,00:41,20,268,"CALATHES, NICK",P001932   ,Steal (1),ST,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,9,00:34,20,269,"VAN ROSSOM, SAM",PLRQ      ,Foul (2),CM,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,5,00:34,20,270,"JAMES, MIKE",P005985   ,Foul Drawn (2),RV,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,12,00:34,20,271,"DENMON, MARCUS",P004195   ,In,IN,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,24,00:34,20,272,"LOJESKI, MATT",P003608   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,5,00:34,20,273,"JAMES, MIKE",P005985   ,Free Throw In (1/1 -  3 pt),FTM,38.0,29.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,5,00:34,20,274,"JAMES, MIKE",P005985   ,Missed Free Throw (1/2 -  3 pt),FTA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,6,00:34,20,275,"ABALDE, ALBERTO",P003733   ,Def Rebound (3),D,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,0,00:19,20,276,"THOMAS, WILL",P005856   ,Two Pointer (1/2 -  5 pt),2FGM,38.0,31.0,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,17,00:20,20,277,"MARTINEZ, RAFA",P001351   ,Assist (1),AS,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,,00:20,20,278,,          ,Time Out (2),TOUT,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,5,00:20,20,279,"GARCIA, SERGI",P005458   ,In,IN,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,9,00:20,20,280,"VAN ROSSOM, SAM",PLRQ      ,Out,OUT,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,21,00:20,20,281,"PLEISS, TIBOR",PLHK      ,Out,OUT,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,42,00:20,20,282,"DOORNEKAMP, AARON",P002763   ,In,IN,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,0,00:03,20,283,"SINGLETON, CHRIS",P006614   ,Missed Two Pointer (0/1 -  7 pt),2FGA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,14,00:03,20,284,"GIST, JAMES",P002980   ,Off Rebound (1),O,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,14,00:03,20,285,"GIST, JAMES",P002980   ,Two Pointer (3/3 -  7 pt),2FGM,40.0,31.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+          ,,,,21,287,,          ,End Period,EP,,,,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+          ,,,,21,298,,          ,Begin Period,BP,,,,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,12,10:00,21,288,"DENMON, MARCUS",P004195   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,43,10:00,21,289,"ANTETOKOUNMPO, THANASIS",P007865   ,In,IN,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,0,10:00,21,290,"THOMAS, WILL",P005856   ,Out,OUT,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,5,10:00,21,291,"GARCIA, SERGI",P005458   ,Out,OUT,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,6,10:00,21,292,"ABALDE, ALBERTO",P003733   ,Out,OUT,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,9,10:00,21,293,"VAN ROSSOM, SAM",PLRQ      ,In,IN,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,17,10:00,21,294,"MARTINEZ, RAFA",P001351   ,Out,OUT,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,19,10:00,21,295,"SAN EMETERIO, FERNANDO",P000518   ,In,IN,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,30,10:00,21,296,"SASTRE, JOAN",P002936   ,In,IN,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,51,10:00,21,297,"HLINASON, TRYGGVI",P008041   ,In,IN,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,51,09:37,21,299,"HLINASON, TRYGGVI",P008041   ,Missed Two Pointer (3/5 -  6 pt),2FGA,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,42,09:35,21,300,"DOORNEKAMP, AARON",P002763   ,Off Rebound (1),O,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,42,09:34,21,301,"DOORNEKAMP, AARON",P002763   ,Two Pointer (3/4 -  7 pt),2FGM,40.0,33.0,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,19,09:23,21,302,"SAN EMETERIO, FERNANDO",P000518   ,Foul (1),CM,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,14,09:23,21,303,"GIST, JAMES",P002980   ,Foul Drawn (3),RV,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,14,09:23,21,304,"GIST, JAMES",P002980   ,Free Throw In (2/2 -  8 pt),FTM,41.0,33.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,33,09:23,21,305,"CALATHES, NICK",P001932   ,Assist (8),AS,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,14,09:23,21,306,"GIST, JAMES",P002980   ,Missed Free Throw (2/3 -  8 pt),FTA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,51,09:23,21,307,"HLINASON, TRYGGVI",P008041   ,Def Rebound (2),D,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,19,09:01,21,308,"SAN EMETERIO, FERNANDO",P000518   ,Three Pointer (1/2 -  6 pt),3FGM,41.0,36.0,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,30,09:00,22,310,"SASTRE, JOAN",P002936   ,Assist (1),AS,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,33,08:37,22,311,"CALATHES, NICK",P001932   ,Two Pointer (3/4 -  6 pt),2FGM,43.0,36.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,19,08:23,22,312,"SAN EMETERIO, FERNANDO",P000518   ,Missed Three Pointer (1/3 -  6 pt),3FGA,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,43,08:21,22,313,"ANTETOKOUNMPO, THANASIS",P007865   ,Def Rebound (2),D,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,9,08:17,22,314,"VAN ROSSOM, SAM",PLRQ      ,Foul (3),CM,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,33,08:17,22,315,"CALATHES, NICK",P001932   ,Foul Drawn (1),RV,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,33,08:17,22,316,"CALATHES, NICK",P001932   ,Missed Free Throw (0/1 -  6 pt),FTA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,33,08:17,22,317,"CALATHES, NICK",P001932   ,Free Throw In (1/2 -  7 pt),FTM,44.0,36.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,0,08:03,22,318,"SINGLETON, CHRIS",P006614   ,Foul (1),CM,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,51,08:03,22,319,"HLINASON, TRYGGVI",P008041   ,Foul Drawn (1),RV,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,51,08:03,22,320,"HLINASON, TRYGGVI",P008041   ,Missed Free Throw (0/1 -  6 pt),FTA,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,51,08:03,22,321,"HLINASON, TRYGGVI",P008041   ,Missed Free Throw (0/2 -  6 pt),FTA,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,43,08:03,22,322,"ANTETOKOUNMPO, THANASIS",P007865   ,Def Rebound (3),D,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,5,07:46,23,324,"JAMES, MIKE",P005985   ,Two Pointer (2/3 -  5 pt),2FGM,46.0,36.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,42,07:24,23,325,"DOORNEKAMP, AARON",P002763   ,Missed Two Pointer (3/5 -  7 pt),2FGA,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,0,07:22,23,326,"SINGLETON, CHRIS",P006614   ,Def Rebound (2),D,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,51,07:10,23,327,"HLINASON, TRYGGVI",P008041   ,Foul (3),CM,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,14,07:10,23,567,"GIST, JAMES",P002980   ,Foul Drawn (4),RV,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,21,07:10,23,328,"PLEISS, TIBOR",PLHK      ,In,IN,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,51,07:10,23,329,"HLINASON, TRYGGVI",P008041   ,Out,OUT,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,14,07:10,23,330,"GIST, JAMES",P002980   ,Missed Free Throw (2/4 -  8 pt),FTA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,14,07:10,23,331,"GIST, JAMES",P002980   ,Missed Free Throw (2/5 -  8 pt),FTA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,42,07:10,23,332,"DOORNEKAMP, AARON",P002763   ,Def Rebound (3),D,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,5,06:50,24,334,"JAMES, MIKE",P005985   ,Foul (2),CM,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,30,06:50,24,335,"SASTRE, JOAN",P002936   ,Foul Drawn (1),RV,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,42,06:41,24,336,"DOORNEKAMP, AARON",P002763   ,Missed Three Pointer (0/4 -  7 pt),3FGA,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,14,06:40,24,337,"GIST, JAMES",P002980   ,Def Rebound (1),D,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,6,06:32,24,338,"ABALDE, ALBERTO",P003733   ,In,IN,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,9,06:32,24,339,"VAN ROSSOM, SAM",PLRQ      ,Out,OUT,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,30,06:32,24,340,"SASTRE, JOAN",P002936   ,Out,OUT,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,32,06:32,24,341,"GREEN, ERICK",P005159   ,In,IN,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,5,06:23,24,342,"JAMES, MIKE",P005985   ,Missed Three Pointer (0/1 -  5 pt),3FGA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,21,06:21,24,343,"PLEISS, TIBOR",PLHK      ,Def Rebound (3),D,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,42,06:04,24,344,"DOORNEKAMP, AARON",P002763   ,Missed Two Pointer (3/6 -  7 pt),2FGA,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,5,06:04,24,345,"JAMES, MIKE",P005985   ,Def Rebound (2),D,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,43,05:45,25,347,"ANTETOKOUNMPO, THANASIS",P007865   ,Turnover (1),TO,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,6,05:42,25,348,"ABALDE, ALBERTO",P003733   ,Steal (1),ST,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,6,05:35,25,349,"ABALDE, ALBERTO",P003733   ,Turnover (3),TO,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,43,05:34,25,350,"ANTETOKOUNMPO, THANASIS",P007865   ,Steal (2),ST,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,0,05:32,25,351,"SINGLETON, CHRIS",P006614   ,Two Pointer (1/2 -  9 pt),2FGM,48.0,36.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,33,05:28,25,352,"CALATHES, NICK",P001932   ,Assist (9),AS,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,,05:28,25,353,,          ,Time Out (1),TOUT,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,0,05:18,25,354,"SINGLETON, CHRIS",P006614   ,Foul (2),CM,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,42,05:18,25,355,"DOORNEKAMP, AARON",P002763   ,Foul Drawn (2),RV,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,14,05:13,25,356,"GIST, JAMES",P002980   ,Foul (1),CM,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,6,05:13,25,357,"ABALDE, ALBERTO",P003733   ,Foul Drawn (2),RV,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,6,05:05,25,358,"ABALDE, ALBERTO",P003733   ,Turnover (4),TO,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,6,04:54,26,360,"ABALDE, ALBERTO",P003733   ,Foul (2),CM,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,33,04:54,26,361,"CALATHES, NICK",P001932   ,Foul Drawn (2),RV,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,33,04:54,26,362,"CALATHES, NICK",P001932   ,Free Throw In (2/3 -  8 pt),FTM,49.0,36.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,33,04:54,26,363,"CALATHES, NICK",P001932   ,Missed Free Throw (2/4 -  8 pt),FTA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,33,04:54,26,364,"CALATHES, NICK",P001932   ,Off Rebound (1),O,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,33,04:44,26,365,"CALATHES, NICK",P001932   ,Three Pointer (1/3 -  11 pt),3FGM,52.0,36.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,6,04:21,26,366,"ABALDE, ALBERTO",P003733   ,Turnover (5),TO,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,0,04:21,26,367,"SINGLETON, CHRIS",P006614   ,Steal (1),ST,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,42,04:21,26,368,"DOORNEKAMP, AARON",P002763   ,Foul (2),CM,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,0,04:21,26,369,"SINGLETON, CHRIS",P006614   ,Foul Drawn (3),RV,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,0,04:21,26,370,"THOMAS, WILL",P005856   ,In,IN,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,5,04:21,26,371,"GARCIA, SERGI",P005458   ,In,IN,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,19,04:21,26,372,"SAN EMETERIO, FERNANDO",P000518   ,Out,OUT,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,42,04:21,26,373,"DOORNEKAMP, AARON",P002763   ,Out,OUT,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,0,04:21,26,374,"SINGLETON, CHRIS",P006614   ,Missed Free Throw (1/3 -  9 pt),FTA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,0,04:21,26,375,"SINGLETON, CHRIS",P006614   ,Free Throw In (2/4 -  10 pt),FTM,53.0,36.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,32,04:13,26,376,"GREEN, ERICK",P005159   ,Three Pointer (1/1 -  3 pt),3FGM,53.0,39.0,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,5,04:12,26,377,"GARCIA, SERGI",P005458   ,Assist (1),AS,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,33,03:58,27,379,"CALATHES, NICK",P001932   ,Two Pointer (4/5 -  13 pt),2FGM,55.0,39.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,5,03:56,27,380,"JAMES, MIKE",P005985   ,Assist (3),AS,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,32,03:33,27,381,"GREEN, ERICK",P005159   ,Missed Two Pointer (0/5 -  3 pt),2FGA,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,21,03:31,27,382,"PLEISS, TIBOR",PLHK      ,Off Rebound (3),O,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,21,03:29,27,383,"PLEISS, TIBOR",PLHK      ,Two Pointer (1/4 -  5 pt),2FGM,55.0,41.0,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,33,03:16,27,384,"CALATHES, NICK",P001932   ,Turnover (2),TO,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,0,03:15,27,385,"THOMAS, WILL",P005856   ,Steal (1),ST,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,21,03:01,27,386,"PLEISS, TIBOR",PLHK      ,Missed Two Pointer (1/5 -  5 pt),2FGA,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,21,03:01,27,387,"PLEISS, TIBOR",PLHK      ,Shot Rejected (2),AG,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,43,03:00,28,389,"ANTETOKOUNMPO, THANASIS",P007865   ,Block (1),FV,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,43,02:58,28,390,"ANTETOKOUNMPO, THANASIS",P007865   ,Def Rebound (4),D,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,5,02:49,28,391,"JAMES, MIKE",P005985   ,Missed Three Pointer (0/2 -  5 pt),3FGA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,0,02:47,28,392,"THOMAS, WILL",P005856   ,Def Rebound (3),D,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,,02:22,28,393,,          ,Turnover (1),TO,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,0,02:07,28,394,"THOMAS, WILL",P005856   ,Foul (1),CM,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,0,02:07,28,395,"SINGLETON, CHRIS",P006614   ,Foul Drawn (4),RV,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,21,02:07,28,396,"PLEISS, TIBOR",PLHK      ,Out,OUT,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,51,02:07,28,397,"HLINASON, TRYGGVI",P008041   ,In,IN,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,0,02:07,28,398,"SINGLETON, CHRIS",P006614   ,Missed Free Throw (2/5 -  10 pt),FTA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,0,02:07,28,399,"SINGLETON, CHRIS",P006614   ,Free Throw In (3/6 -  11 pt),FTM,56.0,41.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,0,01:47,29,401,"THOMAS, WILL",P005856   ,Missed Three Pointer (1/3 -  5 pt),3FGA,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,5,01:45,29,402,"JAMES, MIKE",P005985   ,Def Rebound (3),D,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,33,01:39,29,403,"CALATHES, NICK",P001932   ,Turnover (3),TO,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,32,01:24,29,404,"GREEN, ERICK",P005159   ,Two Pointer (1/6 -  5 pt),2FGM,56.0,43.0,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,5,01:24,29,405,"JAMES, MIKE",P005985   ,Foul (3),CM,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,32,01:24,29,406,"GREEN, ERICK",P005159   ,Foul Drawn (2),RV,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,5,01:24,29,407,"JAMES, MIKE",P005985   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,11,01:24,29,408,"PAPPAS, NIKOS",P000464   ,In,IN,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,32,01:24,29,409,"GREEN, ERICK",P005159   ,Free Throw In (1/1 -  6 pt),FTM,56.0,44.0,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,0,01:08,29,410,"SINGLETON, CHRIS",P006614   ,Turnover (1),TO,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,6,01:07,29,411,"ABALDE, ALBERTO",P003733   ,Steal (2),ST,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,6,00:48,30,413,"ABALDE, ALBERTO",P003733   ,Missed Two Pointer (0/3 -  3 pt),2FGA,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,14,00:46,30,414,"GIST, JAMES",P002980   ,Def Rebound (2),D,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,14,00:41,30,415,"GIST, JAMES",P002980   ,Missed Three Pointer (0/1 -  8 pt),3FGA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,6,00:41,30,416,"ABALDE, ALBERTO",P003733   ,Def Rebound (4),D,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,5,00:18,30,417,"GARCIA, SERGI",P005458   ,Three Pointer (1/1 -  3 pt),3FGM,56.0,47.0,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,32,00:16,30,418,"GREEN, ERICK",P005159   ,Assist (1),AS,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,6,00:01,30,419,"ABALDE, ALBERTO",P003733   ,Foul (3),CM,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,14,00:01,30,420,"GIST, JAMES",P002980   ,Foul Drawn (5),RV,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,14,00:01,30,421,"GIST, JAMES",P002980   ,Missed Free Throw (2/6 -  8 pt),FTA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,14,00:01,30,422,"GIST, JAMES",P002980   ,Free Throw In (3/7 -  9 pt),FTM,57.0,47.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,33,00:01,30,423,"CALATHES, NICK",P001932   ,Assist (10),AS,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,0,00:01,30,484,"THOMAS, WILL",P005856   ,Missed Three Pointer (1/4 -  5 pt),3FGA,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+          ,,,,31,427,,          ,End Period,EP,,,,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+          ,,,,31,434,,          ,Begin Period,BP,,,,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,6,10:00,31,428,"PAYNE, ADREIAN",P008348   ,In,IN,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,14,10:00,31,429,"GIST, JAMES",P002980   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,24,10:00,31,430,"LOJESKI, MATT",P003608   ,In,IN,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,43,10:00,31,431,"ANTETOKOUNMPO, THANASIS",P007865   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,6,10:00,31,432,"ABALDE, ALBERTO",P003733   ,Out,OUT,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,30,10:00,31,433,"SASTRE, JOAN",P002936   ,In,IN,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,33,09:45,31,435,"CALATHES, NICK",P001932   ,Two Pointer (5/6 -  15 pt),2FGM,59.0,47.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,32,09:21,31,436,"GREEN, ERICK",P005159   ,Two Pointer (2/7 -  8 pt),2FGM,59.0,49.0,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,6,08:55,32,438,"PAYNE, ADREIAN",P008348   ,Missed Two Pointer (3/6 -  6 pt),2FGA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,51,08:54,32,439,"HLINASON, TRYGGVI",P008041   ,Def Rebound (3),D,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,0,08:46,32,440,"THOMAS, WILL",P005856   ,Missed Three Pointer (1/5 -  5 pt),3FGA,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,24,08:44,32,441,"LOJESKI, MATT",P003608   ,Def Rebound (4),D,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,6,08:30,32,442,"PAYNE, ADREIAN",P008348   ,Missed Two Pointer (3/7 -  6 pt),2FGA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,51,08:29,32,443,"HLINASON, TRYGGVI",P008041   ,Def Rebound (4),D,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,5,08:07,32,444,"GARCIA, SERGI",P005458   ,Missed Three Pointer (1/2 -  3 pt),3FGA,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,6,08:06,32,445,"PAYNE, ADREIAN",P008348   ,Def Rebound (5),D,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,33,08:01,32,446,"CALATHES, NICK",P001932   ,Two Pointer (6/7 -  17 pt),2FGM,61.0,49.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,30,07:35,33,448,"SASTRE, JOAN",P002936   ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,0,07:31,33,449,"SINGLETON, CHRIS",P006614   ,Def Rebound (3),D,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,0,07:24,33,450,"SINGLETON, CHRIS",P006614   ,Missed Two Pointer (1/3 -  11 pt),2FGA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,,07:22,33,451,,          ,Def Rebound (4),D,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,5,07:22,33,452,"GARCIA, SERGI",P005458   ,Out,OUT,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,9,07:22,33,453,"VAN ROSSOM, SAM",PLRQ      ,In,IN,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,0,07:01,33,454,"THOMAS, WILL",P005856   ,Missed Two Pointer (1/3 -  5 pt),2FGA,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,33,06:59,34,456,"CALATHES, NICK",P001932   ,Def Rebound (3),D,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,6,06:41,34,457,"PAYNE, ADREIAN",P008348   ,Missed Two Pointer (3/8 -  6 pt),2FGA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,6,06:41,34,458,"PAYNE, ADREIAN",P008348   ,Shot Rejected (1),AG,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,51,06:39,34,459,"HLINASON, TRYGGVI",P008041   ,Block (1),FV,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,11,06:38,34,460,"PAPPAS, NIKOS",P000464   ,Off Rebound (1),O,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,11,06:38,34,461,"PAPPAS, NIKOS",P000464   ,Offensive Foul (1),OF,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,11,06:38,34,462,"PAPPAS, NIKOS",P000464   ,Turnover (1),TO,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,30,06:38,34,463,"SASTRE, JOAN",P002936   ,Foul Drawn (2),RV,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,32,06:24,34,464,"GREEN, ERICK",P005159   ,Missed Two Pointer (2/8 -  8 pt),2FGA,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,0,06:23,34,465,"SINGLETON, CHRIS",P006614   ,Def Rebound (4),D,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,51,06:23,34,466,"HLINASON, TRYGGVI",P008041   ,Foul (4),CM,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,0,06:23,34,467,"SINGLETON, CHRIS",P006614   ,Foul Drawn (5),RV,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,5,06:23,34,468,"JAMES, MIKE",P005985   ,In,IN,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,33,06:23,34,469,"CALATHES, NICK",P001932   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,42,06:23,34,470,"DOORNEKAMP, AARON",P002763   ,In,IN,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,51,06:23,34,471,"HLINASON, TRYGGVI",P008041   ,Out,OUT,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,0,06:00,34,472,"SINGLETON, CHRIS",P006614   ,Missed Two Pointer (1/4 -  11 pt),2FGA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,9,05:59,35,474,"VAN ROSSOM, SAM",PLRQ      ,Def Rebound (5),D,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,0,05:59,35,475,"THOMAS, WILL",P005856   ,Two Pointer (2/4 -  7 pt),2FGM,61.0,51.0,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,30,05:59,35,476,"SASTRE, JOAN",P002936   ,Assist (2),AS,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,5,05:41,35,477,"JAMES, MIKE",P005985   ,Three Pointer (1/3 -  8 pt),3FGM,64.0,51.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,32,05:13,35,478,"GREEN, ERICK",P005159   ,Two Pointer (3/9 -  10 pt),2FGM,64.0,53.0,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,42,05:13,35,479,"DOORNEKAMP, AARON",P002763   ,Assist (1),AS,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,42,04:57,36,481,"DOORNEKAMP, AARON",P002763   ,Foul (3),CM,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,0,04:57,36,482,"SINGLETON, CHRIS",P006614   ,Foul Drawn (6),RV,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+          ,,,04:57,36,483,,          ,TV Time Out (1),TOUT_TV,,,,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,0,04:56,36,485,"SINGLETON, CHRIS",P006614   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,22,04:56,36,486,"GABRIEL, KENNY",P005881   ,In,IN,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,19,04:56,36,487,"SAN EMETERIO, FERNANDO",P000518   ,In,IN,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,32,04:56,36,488,"GREEN, ERICK",P005159   ,Out,OUT,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,6,04:45,36,489,"PAYNE, ADREIAN",P008348   ,Two Pointer (4/9 -  8 pt),2FGM,66.0,53.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,5,04:45,36,490,"JAMES, MIKE",P005985   ,Assist (4),AS,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,19,04:45,36,491,"SAN EMETERIO, FERNANDO",P000518   ,Foul (2),CM,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,6,04:45,36,492,"PAYNE, ADREIAN",P008348   ,Foul Drawn (2),RV,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,6,04:45,36,493,"PAYNE, ADREIAN",P008348   ,Free Throw In (1/2 -  9 pt),FTM,67.0,53.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,0,04:25,36,494,"THOMAS, WILL",P005856   ,Missed Three Pointer (1/6 -  7 pt),3FGA,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,22,04:23,36,495,"GABRIEL, KENNY",P005881   ,Def Rebound (2),D,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,5,04:06,36,496,"JAMES, MIKE",P005985   ,Three Pointer (2/4 -  11 pt),3FGM,70.0,53.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,0,03:44,37,498,"THOMAS, WILL",P005856   ,Out,OUT,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,17,03:44,37,499,"MARTINEZ, RAFA",P001351   ,In,IN,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,19,03:44,37,500,"SAN EMETERIO, FERNANDO",P000518   ,Out,OUT,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,51,03:44,37,501,"HLINASON, TRYGGVI",P008041   ,In,IN,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,42,03:40,37,502,"DOORNEKAMP, AARON",P002763   ,Missed Three Pointer (0/5 -  7 pt),3FGA,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,5,03:38,37,503,"JAMES, MIKE",P005985   ,Def Rebound (4),D,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,5,03:32,37,504,"JAMES, MIKE",P005985   ,Missed Three Pointer (2/5 -  11 pt),3FGA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,6,03:29,37,505,"PAYNE, ADREIAN",P008348   ,Off Rebound (2),O,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,6,03:29,37,506,"PAYNE, ADREIAN",P008348   ,Missed Two Pointer (4/10 -  9 pt),2FGA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,42,03:27,37,507,"DOORNEKAMP, AARON",P002763   ,Def Rebound (4),D,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,42,03:23,37,508,"DOORNEKAMP, AARON",P002763   ,Missed Two Pointer (3/7 -  7 pt),2FGA,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,42,03:23,37,509,"DOORNEKAMP, AARON",P002763   ,Shot Rejected (1),AG,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,5,03:23,37,510,"JAMES, MIKE",P005985   ,Block (1),FV,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,,03:23,37,511,,          ,Def Rebound (5),D,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,6,03:04,37,512,"PAYNE, ADREIAN",P008348   ,Offensive Foul (2),OF,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,6,03:04,37,513,"PAYNE, ADREIAN",P008348   ,Turnover (2),TO,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,30,03:04,37,514,"SASTRE, JOAN",P002936   ,Foul Drawn (3),RV,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,5,03:04,37,515,"GARCIA, SERGI",P005458   ,In,IN,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,9,03:04,37,516,"VAN ROSSOM, SAM",PLRQ      ,Out,OUT,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,30,03:04,37,517,"SASTRE, JOAN",P002936   ,Out,OUT,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,32,03:04,37,518,"GREEN, ERICK",P005159   ,In,IN,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,11,02:43,38,520,"PAPPAS, NIKOS",P000464   ,Foul (2),CM,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,51,02:43,38,521,"HLINASON, TRYGGVI",P008041   ,Foul Drawn (2),RV,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,51,02:34,38,522,"HLINASON, TRYGGVI",P008041   ,Two Pointer (4/6 -  8 pt),2FGM,70.0,55.0,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,5,02:32,38,523,"GARCIA, SERGI",P005458   ,Assist (2),AS,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,51,02:09,38,524,"HLINASON, TRYGGVI",P008041   ,Foul (5),CM,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,6,02:09,38,525,"PAYNE, ADREIAN",P008348   ,Foul Drawn (3),RV,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,21,02:09,38,526,"PLEISS, TIBOR",PLHK      ,In,IN,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,51,02:09,38,527,"HLINASON, TRYGGVI",P008041   ,Out,OUT,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,6,02:09,38,528,"PAYNE, ADREIAN",P008348   ,Missed Free Throw (1/3 -  9 pt),FTA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,6,02:09,38,529,"PAYNE, ADREIAN",P008348   ,Free Throw In (2/4 -  10 pt),FTM,71.0,55.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,,01:46,39,531,,          ,Time Out (1),TOUT,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,5,01:45,39,532,"GARCIA, SERGI",P005458   ,Turnover (1),TO,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,11,01:45,39,533,"PAPPAS, NIKOS",P000464   ,Steal (1),ST,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,11,01:45,39,534,"PAPPAS, NIKOS",P000464   ,Two Pointer (1/4 -  4 pt),2FGM,73.0,55.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,5,01:24,39,535,"GARCIA, SERGI",P005458   ,Turnover (2),TO,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,6,01:24,39,536,"PAYNE, ADREIAN",P008348   ,Steal (1),ST,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,5,01:24,39,537,"GARCIA, SERGI",P005458   ,Foul (1),CM,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,6,01:24,39,538,"PAYNE, ADREIAN",P008348   ,Foul Drawn (4),RV,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,6,01:24,39,539,"PAYNE, ADREIAN",P008348   ,Missed Free Throw (2/5 -  10 pt),FTA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,6,01:24,39,540,"PAYNE, ADREIAN",P008348   ,Missed Free Throw (2/6 -  10 pt),FTA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,22,01:24,39,541,"GABRIEL, KENNY",P005881   ,Off Rebound (1),O,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,21,01:12,39,542,"PLEISS, TIBOR",PLHK      ,Foul (2),CM,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,6,01:12,39,543,"PAYNE, ADREIAN",P008348   ,Foul Drawn (5),RV,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,6,01:12,39,544,"PAYNE, ADREIAN",P008348   ,Free Throw In (3/7 -  11 pt),FTM,74.0,55.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,5,01:12,39,545,"JAMES, MIKE",P005985   ,Assist (5),AS,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,6,01:12,39,546,"PAYNE, ADREIAN",P008348   ,Free Throw In (4/8 -  12 pt),FTM,75.0,55.0,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,22,01:12,39,547,"GABRIEL, KENNY",P005881   ,Unsportsmanlike Foul  (3),CMU,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,21,01:12,39,566,"PLEISS, TIBOR",PLHK      ,Foul Drawn (2),RV,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,21,01:12,39,548,"PLEISS, TIBOR",PLHK      ,Unsportsmanlike Foul  (3),CMU,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,22,01:12,39,557,"GABRIEL, KENNY",P005881   ,Foul Drawn (1),RV,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,32,00:56,40,550,"GREEN, ERICK",P005159   ,Missed Three Pointer (1/2 -  10 pt),3FGA,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,6,00:55,40,552,"PAYNE, ADREIAN",P008348   ,Unsportsmanlike Foul  (3),CMU,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,42,00:55,40,553,"DOORNEKAMP, AARON",P002763   ,Foul Drawn (3),RV,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,,00:55,40,571,,          ,Off Rebound (2),O,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,42,00:55,40,554,"DOORNEKAMP, AARON",P002763   ,Missed Free Throw (1/2 -  7 pt),FTA,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,42,00:55,40,555,"DOORNEKAMP, AARON",P002763   ,Free Throw In (2/3 -  8 pt),FTM,75.0,56.0,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,32,00:47,40,556,"GREEN, ERICK",P005159   ,Turnover (2),TO,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,11,00:47,40,558,"PAPPAS, NIKOS",P000464   ,Missed Two Pointer (1/5 -  4 pt),2FGA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,5,00:47,40,559,"GARCIA, SERGI",P005458   ,Def Rebound (1),D,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,42,00:27,40,560,"DOORNEKAMP, AARON",P002763   ,Turnover (1),TO,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,24,00:25,40,561,"LOJESKI, MATT",P003608   ,Steal (1),ST,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,5,00:21,40,562,"JAMES, MIKE",P005985   ,Missed Two Pointer (2/4 -  11 pt),2FGA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,6,00:20,40,563,"PAYNE, ADREIAN",P008348   ,Off Rebound (3),O,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAN       ,,5,00:05,40,564,"JAMES, MIKE",P005985   ,Missed Three Pointer (2/6 -  11 pt),3FGA,,,Panathinaikos Superfoods Athens,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+PAM       ,,,00:05,40,565,,          ,Def Rebound (6),D,,,Valencia Basket,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM
+          ,,,,41,572,,          ,End Game,EG,,,,0,Panathinaikos Superfoods Athens,PAN,Valencia Basket,PAM

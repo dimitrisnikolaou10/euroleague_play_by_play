@@ -1,521 +1,521 @@
-CODETEAM,COMMENT,DORSAL,MARKERTIME,MINUTE,NUMBEROFPLAY,PLAYER,PLAYER_ID,PLAYINFO,PLAYTYPE,POINTS_A,POINTS_B,TEAM,TYPE
-          ,,,,1,2,,          ,Begin Period,BP,,,,0
-BAS       ,,23,09:51,1,3,"SHENGELIA, TORNIKE",P001133   ,Two Pointer (1/1 -  2 pt),2FGM,,2.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,11,09:49,1,4,"JANNING, MATT",P004165   ,Assist (1),AS,,,Baskonia Vitoria Gasteiz,0
-MIL       ,,0,09:32,1,5,"GOUDELOCK, ANDREW",P004903   ,Two Pointer (1/1 -  2 pt),2FGM,2.0,2.0,AX Armani Exchange Olimpia Milan,0
-BAS       ,,11,09:16,1,6,"JANNING, MATT",P004165   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Baskonia Vitoria Gasteiz,0
-MIL       ,,15,09:13,1,7,"TARCZEWSKI, KALEB",P008004   ,Def Rebound (1),D,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,0,08:58,2,9,"GOUDELOCK, ANDREW",P004903   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,AX Armani Exchange Olimpia Milan,0
-BAS       ,,7,08:56,2,10,"VOIGTMANN, JOHANNES",P007201   ,Def Rebound (1),D,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,23,08:46,2,11,"SHENGELIA, TORNIKE",P001133   ,Foul Drawn (1),RV,,,Baskonia Vitoria Gasteiz,0
-MIL       ,,15,08:46,2,12,"TARCZEWSKI, KALEB",P008004   ,Foul (1),CM,,,AX Armani Exchange Olimpia Milan,0
-BAS       ,,23,08:46,2,13,"SHENGELIA, TORNIKE",P001133   ,Free Throw In (1/1 -  3 pt),FTM,2.0,3.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,3,08:46,2,14,"VILDOZA, LUCA",P007947   ,Assist (1),AS,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,23,08:46,2,15,"SHENGELIA, TORNIKE",P001133   ,Free Throw In (2/2 -  4 pt),FTM,2.0,4.0,Baskonia Vitoria Gasteiz,0
-MIL       ,,34,08:31,2,16,"JEFFERSON, CORY",P007992   ,Two Pointer (1/1 -  2 pt),2FGM,4.0,4.0,AX Armani Exchange Olimpia Milan,0
-BAS       ,,7,08:15,2,17,"VOIGTMANN, JOHANNES",P007201   ,Turnover (1),TO,,,Baskonia Vitoria Gasteiz,0
-MIL       ,,25,07:59,3,19,"THEODORE, JORDAN",P007946   ,Turnover (1),TO,,,AX Armani Exchange Olimpia Milan,0
-BAS       ,,11,07:55,3,20,"JANNING, MATT",P004165   ,Steal (1),ST,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,23,07:51,3,21,"SHENGELIA, TORNIKE",P001133   ,Two Pointer (2/2 -  6 pt),2FGM,4.0,6.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,11,07:49,3,22,"JANNING, MATT",P004165   ,Assist (2),AS,,,Baskonia Vitoria Gasteiz,0
-MIL       ,,34,07:39,3,23,"JEFFERSON, CORY",P007992   ,Two Pointer (2/2 -  4 pt),2FGM,6.0,6.0,AX Armani Exchange Olimpia Milan,0
-BAS       ,,3,07:24,3,24,"VILDOZA, LUCA",P007947   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Baskonia Vitoria Gasteiz,0
-MIL       ,,0,07:21,3,25,"GOUDELOCK, ANDREW",P004903   ,Def Rebound (1),D,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,0,07:11,3,26,"GOUDELOCK, ANDREW",P004903   ,Three Pointer (1/1 -  5 pt),3FGM,9.0,6.0,AX Armani Exchange Olimpia Milan,0
-MIL       ,,25,07:09,3,27,"THEODORE, JORDAN",P007946   ,Assist (1),AS,,,AX Armani Exchange Olimpia Milan,0
-BAS       ,,3,06:49,4,29,"VILDOZA, LUCA",P007947   ,Turnover (1),TO,,,Baskonia Vitoria Gasteiz,0
-MIL       ,,25,06:49,4,30,"THEODORE, JORDAN",P007946   ,Two Pointer (1/1 -  2 pt),2FGM,11.0,6.0,AX Armani Exchange Olimpia Milan,0
-BAS       ,,3,06:49,4,31,"VILDOZA, LUCA",P007947   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,7,06:49,4,32,"VOIGTMANN, JOHANNES",P007201   ,Off Rebound (1),O,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,7,06:49,4,33,"VOIGTMANN, JOHANNES",P007201   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Baskonia Vitoria Gasteiz,0
-MIL       ,,15,06:49,4,34,"TARCZEWSKI, KALEB",P008004   ,Def Rebound (2),D,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,25,06:04,4,35,"THEODORE, JORDAN",P007946   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,AX Armani Exchange Olimpia Milan,0
-BAS       ,,,06:04,4,36,,          ,Def Rebound (1),D,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,7,05:48,5,38,"VOIGTMANN, JOHANNES",P007201   ,Two Pointer (1/2 -  2 pt),2FGM,11.0,8.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,7,05:48,5,39,"VOIGTMANN, JOHANNES",P007201   ,Foul Drawn (1),RV,,,Baskonia Vitoria Gasteiz,0
-MIL       ,,15,05:48,5,40,"TARCZEWSKI, KALEB",P008004   ,Foul (2),CM,,,AX Armani Exchange Olimpia Milan,0
-BAS       ,,7,05:48,5,41,"VOIGTMANN, JOHANNES",P007201   ,Free Throw In (1/1 -  3 pt),FTM,11.0,9.0,Baskonia Vitoria Gasteiz,0
-MIL       ,,15,05:23,5,42,"TARCZEWSKI, KALEB",P008004   ,Two Pointer (1/1 -  2 pt),2FGM,13.0,9.0,AX Armani Exchange Olimpia Milan,0
-MIL       ,,0,05:23,5,43,"GOUDELOCK, ANDREW",P004903   ,Assist (1),AS,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,15,05:23,5,44,"TARCZEWSKI, KALEB",P008004   ,Foul Drawn (1),RV,,,AX Armani Exchange Olimpia Milan,0
-BAS       ,,6,05:23,5,45,"TIMMA, JANIS",P005718   ,Foul (1),CM,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,3,05:22,5,46,"VILDOZA, LUCA",P007947   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,9,05:22,5,47,"HUERTAS, MARCELINHO",PJUJ      ,In,IN,,,Baskonia Vitoria Gasteiz,0
-MIL       ,,15,05:22,5,48,"TARCZEWSKI, KALEB",P008004   ,Free Throw In (1/1 -  3 pt),FTM,14.0,9.0,AX Armani Exchange Olimpia Milan,0
-BAS       ,,6,05:04,5,49,"TIMMA, JANIS",P005718   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Baskonia Vitoria Gasteiz,0
-MIL       ,,,05:03,5,50,,          ,Def Rebound (2),D,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,0,04:40,6,52,"GOUDELOCK, ANDREW",P004903   ,Missed Three Pointer (1/2 -  5 pt),3FGA,,,AX Armani Exchange Olimpia Milan,0
-BAS       ,,,04:40,6,54,,          ,Def Rebound (3),D,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,11,04:40,6,55,"JANNING, MATT",P004165   ,Foul Drawn (1),RV,,,Baskonia Vitoria Gasteiz,0
-MIL       ,,34,04:40,6,56,"JEFFERSON, CORY",P007992   ,Foul (1),CM,,,AX Armani Exchange Olimpia Milan,0
-          ,,,04:38,6,57,,          ,TV Time Out (1),TOUT_TV,,,,0
-MIL       ,,15,04:38,6,58,"TARCZEWSKI, KALEB",P008004   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,77,04:38,6,59,"GUDAITIS, ARTURAS",P003120   ,In,IN,,,AX Armani Exchange Olimpia Milan,0
-BAS       ,,7,04:38,6,60,"VOIGTMANN, JOHANNES",P007201   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,17,04:38,6,61,"POIRIER, VINCENT",P004887   ,In,IN,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,6,04:37,6,62,"TIMMA, JANIS",P005718   ,Foul Drawn (1),RV,,,Baskonia Vitoria Gasteiz,0
-MIL       ,,5,04:37,6,63,"MICOV, VLADIMIR",P000529   ,Foul (1),CM,,,AX Armani Exchange Olimpia Milan,0
-BAS       ,,6,04:37,6,64,"TIMMA, JANIS",P005718   ,Free Throw In (1/1 -  1 pt),FTM,14.0,10.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,17,04:37,6,65,"POIRIER, VINCENT",P004887   ,Assist (1),AS,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,6,04:37,6,66,"TIMMA, JANIS",P005718   ,Free Throw In (2/2 -  2 pt),FTM,14.0,11.0,Baskonia Vitoria Gasteiz,0
-MIL       ,,5,04:02,6,67,"MICOV, VLADIMIR",P000529   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,AX Armani Exchange Olimpia Milan,0
-BAS       ,,23,04:00,6,68,"SHENGELIA, TORNIKE",P001133   ,Def Rebound (1),D,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,9,03:47,7,70,"HUERTAS, MARCELINHO",PJUJ      ,Foul Drawn (1),RV,,,Baskonia Vitoria Gasteiz,0
-MIL       ,,34,03:47,7,71,"JEFFERSON, CORY",P007992   ,Foul (2),CM,,,AX Armani Exchange Olimpia Milan,0
-BAS       ,,10,03:45,7,72,"BEAUBOIS, RODRIGUE",P006590   ,In,IN,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,11,03:45,7,73,"JANNING, MATT",P004165   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0
-MIL       ,,34,03:45,7,75,"JEFFERSON, CORY",P007992   ,Missed Three Pointer (0/1 -  4 pt),3FGA,,,AX Armani Exchange Olimpia Milan,0
-BAS       ,,10,03:45,7,76,"BEAUBOIS, RODRIGUE",P006590   ,Def Rebound (1),D,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,17,03:19,7,77,"POIRIER, VINCENT",P004887   ,Two Pointer (1/1 -  2 pt),2FGM,14.0,13.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,10,03:18,7,78,"BEAUBOIS, RODRIGUE",P006590   ,Assist (1),AS,,,Baskonia Vitoria Gasteiz,0
-MIL       ,,34,03:06,7,79,"JEFFERSON, CORY",P007992   ,Three Pointer (1/2 -  7 pt),3FGM,17.0,13.0,AX Armani Exchange Olimpia Milan,0
-MIL       ,,25,03:03,7,80,"THEODORE, JORDAN",P007946   ,Assist (2),AS,,,AX Armani Exchange Olimpia Milan,0
-BAS       ,,9,02:47,8,82,"HUERTAS, MARCELINHO",PJUJ      ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,,02:46,8,83,,          ,Off Rebound (1),O,,,Baskonia Vitoria Gasteiz,0
-MIL       ,,0,02:47,8,84,"GOUDELOCK, ANDREW",P004903   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,5,02:47,8,85,"MICOV, VLADIMIR",P000529   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,9,02:47,8,86,"KALNIETIS, MANTAS",PJBX      ,In,IN,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,55,02:47,8,87,"JERRELLS, CURTIS",P003067   ,In,IN,,,AX Armani Exchange Olimpia Milan,0
-BAS       ,,21,02:47,8,88,"JONES, KEVIN",P007185   ,In,IN,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,23,02:47,8,89,"SHENGELIA, TORNIKE",P001133   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,6,02:44,8,90,"TIMMA, JANIS",P005718   ,Missed Three Pointer (0/2 -  2 pt),3FGA,,,Baskonia Vitoria Gasteiz,0
-MIL       ,,77,02:41,8,91,"GUDAITIS, ARTURAS",P003120   ,Def Rebound (1),D,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,25,02:34,8,92,"THEODORE, JORDAN",P007946   ,Foul (1),CM,,,AX Armani Exchange Olimpia Milan,0
-BAS       ,,9,02:34,8,93,"HUERTAS, MARCELINHO",PJUJ      ,Foul Drawn (2),RV,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,9,02:34,8,94,"HUERTAS, MARCELINHO",PJUJ      ,Foul (1),CM,,,Baskonia Vitoria Gasteiz,0
-MIL       ,,25,02:34,8,95,"THEODORE, JORDAN",P007946   ,Foul Drawn (1),RV,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,77,02:24,8,96,"GUDAITIS, ARTURAS",P003120   ,Foul Drawn (1),RV,,,AX Armani Exchange Olimpia Milan,0
-BAS       ,,17,02:24,8,97,"POIRIER, VINCENT",P004887   ,Foul (1),CM,,,Baskonia Vitoria Gasteiz,0
-MIL       ,,77,02:24,8,98,"GUDAITIS, ARTURAS",P003120   ,Free Throw In (1/1 -  1 pt),FTM,18.0,13.0,AX Armani Exchange Olimpia Milan,0
-MIL       ,,34,02:24,8,99,"JEFFERSON, CORY",P007992   ,Assist (1),AS,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,77,02:24,8,100,"GUDAITIS, ARTURAS",P003120   ,Free Throw In (2/2 -  2 pt),FTM,19.0,13.0,AX Armani Exchange Olimpia Milan,0
-BAS       ,,6,02:12,8,101,"TIMMA, JANIS",P005718   ,Foul Drawn (2),RV,,,Baskonia Vitoria Gasteiz,0
-MIL       ,,9,02:12,8,102,"KALNIETIS, MANTAS",PJBX      ,Foul (1),CM,,,AX Armani Exchange Olimpia Milan,0
-BAS       ,,6,02:10,8,103,"TIMMA, JANIS",P005718   ,Free Throw In (3/3 -  3 pt),FTM,19.0,14.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,6,02:10,8,104,"TIMMA, JANIS",P005718   ,Free Throw In (4/4 -  4 pt),FTM,19.0,15.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,6,02:10,8,105,"TIMMA, JANIS",P005718   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,11,02:10,8,106,"JANNING, MATT",P004165   ,In,IN,,,Baskonia Vitoria Gasteiz,0
-MIL       ,,25,01:47,9,108,"THEODORE, JORDAN",P007946   ,Missed Two Pointer (1/3 -  2 pt),2FGA,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,25,01:47,9,109,"THEODORE, JORDAN",P007946   ,Shot Rejected (1),AG,,,AX Armani Exchange Olimpia Milan,0
-BAS       ,,17,01:44,9,110,"POIRIER, VINCENT",P004887   ,Block (1),FV,,,Baskonia Vitoria Gasteiz,0
-MIL       ,,55,01:44,9,111,"JERRELLS, CURTIS",P003067   ,Off Rebound (1),O,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,55,01:44,9,112,"JERRELLS, CURTIS",P003067   ,Three Pointer (1/1 -  3 pt),3FGM,22.0,15.0,AX Armani Exchange Olimpia Milan,0
-BAS       ,,9,01:42,9,270,"HUERTAS, MARCELINHO",PJUJ      ,Shot Rejected (1),AG,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,9,01:59,9,269,"HUERTAS, MARCELINHO",PJUJ      ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Baskonia Vitoria Gasteiz,0
-MIL       ,,77,01:42,9,268,"GUDAITIS, ARTURAS",P003120   ,Block (1),FV,,,AX Armani Exchange Olimpia Milan,0
-BAS       ,,17,01:39,9,114,"POIRIER, VINCENT",P004887   ,Off Rebound (1),O,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,17,01:39,9,115,"POIRIER, VINCENT",P004887   ,Two Pointer (2/2 -  4 pt),2FGM,22.0,17.0,Baskonia Vitoria Gasteiz,0
-MIL       ,,55,01:17,9,116,"JERRELLS, CURTIS",P003067   ,Two Pointer (1/1 -  5 pt),2FGM,24.0,17.0,AX Armani Exchange Olimpia Milan,0
-MIL       ,,25,01:14,9,117,"THEODORE, JORDAN",P007946   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,45,01:14,9,118,"BERTANS, DAIRIS",P000436   ,In,IN,,,AX Armani Exchange Olimpia Milan,0
-BAS       ,,9,01:08,9,119,"HUERTAS, MARCELINHO",PJUJ      ,Foul Drawn (3),RV,,,Baskonia Vitoria Gasteiz,0
-MIL       ,,9,01:08,9,120,"KALNIETIS, MANTAS",PJBX      ,Foul (2),CM,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,24,01:05,9,121,"M'BAYE, AMATH",P007993   ,In,IN,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,34,01:05,9,122,"JEFFERSON, CORY",P007992   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0
-BAS       ,,9,01:05,9,123,"HUERTAS, MARCELINHO",PJUJ      ,Free Throw In (1/1 -  1 pt),FTM,24.0,18.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,9,01:05,9,124,"HUERTAS, MARCELINHO",PJUJ      ,Free Throw In (2/2 -  2 pt),FTM,24.0,19.0,Baskonia Vitoria Gasteiz,0
-MIL       ,,45,00:48,10,126,"BERTANS, DAIRIS",P000436   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,45,00:48,10,127,"BERTANS, DAIRIS",P000436   ,Shot Rejected (1),AG,,,AX Armani Exchange Olimpia Milan,0
-BAS       ,,11,00:48,10,128,"JANNING, MATT",P004165   ,Block (1),FV,,,Baskonia Vitoria Gasteiz,0
-MIL       ,,,00:48,10,129,,          ,Off Rebound (2),O,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,77,00:42,10,130,"GUDAITIS, ARTURAS",P003120   ,Foul Drawn (2),RV,,,AX Armani Exchange Olimpia Milan,0
-BAS       ,,21,00:42,10,131,"JONES, KEVIN",P007185   ,Foul (1),CM,,,Baskonia Vitoria Gasteiz,0
-MIL       ,,9,00:42,10,132,"KALNIETIS, MANTAS",PJBX      ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,20,00:42,10,133,"CINCIARINI, ANDREA",PKIW      ,In,IN,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,77,00:42,10,134,"GUDAITIS, ARTURAS",P003120   ,Free Throw In (3/3 -  3 pt),FTM,25.0,19.0,AX Armani Exchange Olimpia Milan,0
-MIL       ,,55,00:42,10,135,"JERRELLS, CURTIS",P003067   ,Assist (1),AS,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,77,00:42,10,136,"GUDAITIS, ARTURAS",P003120   ,Free Throw In (4/4 -  4 pt),FTM,26.0,19.0,AX Armani Exchange Olimpia Milan,0
-BAS       ,,9,00:33,10,137,"HUERTAS, MARCELINHO",PJUJ      ,Three Pointer (1/1 -  5 pt),3FGM,26.0,22.0,Baskonia Vitoria Gasteiz,0
-MIL       ,,77,00:13,10,138,"GUDAITIS, ARTURAS",P003120   ,Foul Drawn (3),RV,,,AX Armani Exchange Olimpia Milan,0
-BAS       ,,10,00:13,10,139,"BEAUBOIS, RODRIGUE",P006590   ,Foul (1),CM,,,Baskonia Vitoria Gasteiz,0
-MIL       ,,77,00:13,10,140,"GUDAITIS, ARTURAS",P003120   ,Missed Free Throw (4/5 -  4 pt),FTA,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,77,00:13,10,141,"GUDAITIS, ARTURAS",P003120   ,Free Throw In (5/6 -  5 pt),FTM,27.0,22.0,AX Armani Exchange Olimpia Milan,0
-MIL       ,,55,00:13,10,142,"JERRELLS, CURTIS",P003067   ,Assist (2),AS,,,AX Armani Exchange Olimpia Milan,0
-BAS       ,,10,00:02,10,143,"BEAUBOIS, RODRIGUE",P006590   ,Three Pointer (1/1 -  3 pt),3FGM,27.0,25.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,9,00:00,10,144,"HUERTAS, MARCELINHO",PJUJ      ,Assist (1),AS,,,Baskonia Vitoria Gasteiz,0
-          ,,,,11,146,,          ,End Period,EP,,,,0
-          ,,,,11,147,,          ,Begin Period,BP,,,,0
-MIL       ,,24,09:50,11,148,"M'BAYE, AMATH",P007993   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,AX Armani Exchange Olimpia Milan,0
-BAS       ,,21,09:48,11,149,"JONES, KEVIN",P007185   ,Def Rebound (1),D,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,17,09:40,11,150,"POIRIER, VINCENT",P004887   ,Foul Drawn (1),RV,,,Baskonia Vitoria Gasteiz,0
-MIL       ,,45,09:40,11,151,"BERTANS, DAIRIS",P000436   ,Foul (1),CM,,,AX Armani Exchange Olimpia Milan,0
-BAS       ,,10,09:32,11,152,"BEAUBOIS, RODRIGUE",P006590   ,Two Pointer (1/1 -  5 pt),2FGM,27.0,27.0,Baskonia Vitoria Gasteiz,0
-MIL       ,,45,09:12,11,153,"BERTANS, DAIRIS",P000436   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,24,09:09,11,154,"M'BAYE, AMATH",P007993   ,Off Rebound (1),O,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,24,09:04,11,155,"M'BAYE, AMATH",P007993   ,Two Pointer (1/1 -  2 pt),2FGM,29.0,27.0,AX Armani Exchange Olimpia Milan,0
-BAS       ,,10,08:47,12,157,"BEAUBOIS, RODRIGUE",P006590   ,Missed Two Pointer (1/2 -  5 pt),2FGA,,,Baskonia Vitoria Gasteiz,0
-MIL       ,,77,08:44,12,158,"GUDAITIS, ARTURAS",P003120   ,Def Rebound (2),D,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,20,08:32,12,159,"CINCIARINI, ANDREA",PKIW      ,Foul Drawn (1),RV,,,AX Armani Exchange Olimpia Milan,0
-BAS       ,,9,08:32,12,160,"HUERTAS, MARCELINHO",PJUJ      ,Foul (2),CM,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,3,08:31,12,161,"VILDOZA, LUCA",P007947   ,In,IN,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,9,08:31,12,162,"HUERTAS, MARCELINHO",PJUJ      ,Out,OUT,,,Baskonia Vitoria Gasteiz,0
-MIL       ,,55,08:28,12,163,"JERRELLS, CURTIS",P003067   ,Foul Drawn (1),RV,,,AX Armani Exchange Olimpia Milan,0
-BAS       ,,3,08:28,12,164,"VILDOZA, LUCA",P007947   ,Foul (1),CM,,,Baskonia Vitoria Gasteiz,0
-MIL       ,,55,08:28,12,165,"JERRELLS, CURTIS",P003067   ,Free Throw In (1/1 -  6 pt),FTM,30.0,27.0,AX Armani Exchange Olimpia Milan,0
-MIL       ,,55,08:28,12,166,"JERRELLS, CURTIS",P003067   ,Free Throw In (2/2 -  7 pt),FTM,31.0,27.0,AX Armani Exchange Olimpia Milan,0
-BAS       ,,3,08:22,12,167,"VILDOZA, LUCA",P007947   ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,17,08:22,12,168,"POIRIER, VINCENT",P004887   ,Off Rebound (2),O,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,17,08:22,12,169,"POIRIER, VINCENT",P004887   ,Missed Two Pointer (2/3 -  4 pt),2FGA,,,Baskonia Vitoria Gasteiz,0
-MIL       ,,20,08:22,12,170,"CINCIARINI, ANDREA",PKIW      ,Def Rebound (1),D,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,20,08:04,12,171,"CINCIARINI, ANDREA",PKIW      ,Turnover (1),TO,,,AX Armani Exchange Olimpia Milan,0
-BAS       ,,21,08:02,12,172,"JONES, KEVIN",P007185   ,Steal (1),ST,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,21,08:00,12,173,"JONES, KEVIN",P007185   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Baskonia Vitoria Gasteiz,0
-MIL       ,,55,07:58,13,175,"JERRELLS, CURTIS",P003067   ,Def Rebound (1),D,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,45,07:51,13,176,"BERTANS, DAIRIS",P000436   ,Three Pointer (1/2 -  3 pt),3FGM,34.0,27.0,AX Armani Exchange Olimpia Milan,0
-MIL       ,,55,07:49,13,177,"JERRELLS, CURTIS",P003067   ,Assist (3),AS,,,AX Armani Exchange Olimpia Milan,0
-BAS       ,,11,07:39,13,178,"JANNING, MATT",P004165   ,Foul Drawn (2),RV,,,Baskonia Vitoria Gasteiz,0
-MIL       ,,45,07:39,13,179,"BERTANS, DAIRIS",P000436   ,Foul (2),CM,,,AX Armani Exchange Olimpia Milan,0
-BAS       ,,21,07:30,13,180,"JONES, KEVIN",P007185   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,23,07:30,13,181,"SHENGELIA, TORNIKE",P001133   ,In,IN,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,10,07:25,13,182,"BEAUBOIS, RODRIGUE",P006590   ,Missed Three Pointer (1/2 -  5 pt),3FGA,,,Baskonia Vitoria Gasteiz,0
-MIL       ,,77,07:22,13,183,"GUDAITIS, ARTURAS",P003120   ,Def Rebound (3),D,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,20,07:13,13,184,"CINCIARINI, ANDREA",PKIW      ,Two Pointer (1/1 -  2 pt),2FGM,36.0,27.0,AX Armani Exchange Olimpia Milan,0
-BAS       ,,,07:02,13,185,,          ,Time Out (1),TOUT,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,6,07:02,13,186,"TIMMA, JANIS",P005718   ,In,IN,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,10,07:02,13,187,"BEAUBOIS, RODRIGUE",P006590   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,17,06:52,14,189,"POIRIER, VINCENT",P004887   ,Two Pointer (3/4 -  6 pt),2FGM,36.0,29.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,6,06:52,14,190,"TIMMA, JANIS",P005718   ,Assist (1),AS,,,Baskonia Vitoria Gasteiz,0
-MIL       ,,45,06:21,14,191,"BERTANS, DAIRIS",P000436   ,Missed Three Pointer (1/3 -  3 pt),3FGA,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,77,06:19,14,192,"GUDAITIS, ARTURAS",P003120   ,Off Rebound (1),O,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,24,06:10,14,193,"M'BAYE, AMATH",P007993   ,Missed Three Pointer (0/2 -  2 pt),3FGA,,,AX Armani Exchange Olimpia Milan,0
-BAS       ,,17,06:10,14,194,"POIRIER, VINCENT",P004887   ,Def Rebound (1),D,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,17,05:52,15,196,"POIRIER, VINCENT",P004887   ,Missed Two Pointer (3/5 -  6 pt),2FGA,,,Baskonia Vitoria Gasteiz,0
-MIL       ,,24,05:49,15,197,"M'BAYE, AMATH",P007993   ,Def Rebound (1),D,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,55,05:37,15,198,"JERRELLS, CURTIS",P003067   ,Foul Drawn (2),RV,,,AX Armani Exchange Olimpia Milan,0
-BAS       ,,17,05:35,15,199,"POIRIER, VINCENT",P004887   ,Foul (2),CM,,,Baskonia Vitoria Gasteiz,0
-MIL       ,,5,05:34,15,200,"MICOV, VLADIMIR",P000529   ,In,IN,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,45,05:34,15,201,"BERTANS, DAIRIS",P000436   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0
-BAS       ,,7,05:34,15,202,"VOIGTMANN, JOHANNES",P007201   ,In,IN,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,17,05:34,15,203,"POIRIER, VINCENT",P004887   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0
-MIL       ,,55,05:26,15,204,"JERRELLS, CURTIS",P003067   ,Two Pointer (2/2 -  9 pt),2FGM,38.0,29.0,AX Armani Exchange Olimpia Milan,0
-BAS       ,,23,05:09,15,205,"SHENGELIA, TORNIKE",P001133   ,Foul Drawn (2),RV,,,Baskonia Vitoria Gasteiz,0
-MIL       ,,24,05:09,15,206,"M'BAYE, AMATH",P007993   ,Foul (1),CM,,,AX Armani Exchange Olimpia Milan,0
-BAS       ,,11,05:06,15,207,"JANNING, MATT",P004165   ,Two Pointer (1/1 -  2 pt),2FGM,38.0,31.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,3,05:04,15,208,"VILDOZA, LUCA",P007947   ,Assist (2),AS,,,Baskonia Vitoria Gasteiz,0
-MIL       ,,5,04:45,16,210,"MICOV, VLADIMIR",P000529   ,Two Pointer (1/2 -  2 pt),2FGM,40.0,31.0,AX Armani Exchange Olimpia Milan,0
-BAS       ,,23,04:26,16,211,"SHENGELIA, TORNIKE",P001133   ,Foul Drawn (3),RV,,,Baskonia Vitoria Gasteiz,0
-MIL       ,,24,04:26,16,212,"M'BAYE, AMATH",P007993   ,Foul (2),CM,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,0,04:23,16,213,"GOUDELOCK, ANDREW",P004903   ,In,IN,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,20,04:23,16,214,"CINCIARINI, ANDREA",PKIW      ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,25,04:23,16,215,"THEODORE, JORDAN",P007946   ,In,IN,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,55,04:23,16,216,"JERRELLS, CURTIS",P003067   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0
-BAS       ,,23,04:23,16,217,"SHENGELIA, TORNIKE",P001133   ,Missed Free Throw (2/3 -  6 pt),FTA,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,23,04:23,16,218,"SHENGELIA, TORNIKE",P001133   ,Missed Free Throw (2/4 -  6 pt),FTA,,,Baskonia Vitoria Gasteiz,0
-MIL       ,,77,04:23,16,219,"GUDAITIS, ARTURAS",P003120   ,Def Rebound (4),D,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,0,04:00,16,220,"GOUDELOCK, ANDREW",P004903   ,Two Pointer (2/3 -  7 pt),2FGM,42.0,31.0,AX Armani Exchange Olimpia Milan,0
-BAS       ,,23,03:44,17,222,"SHENGELIA, TORNIKE",P001133   ,Foul Drawn (4),RV,,,Baskonia Vitoria Gasteiz,0
-MIL       ,,24,03:44,17,223,"M'BAYE, AMATH",P007993   ,Foul (3),CM,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,7,03:41,17,224,"PASCOLO, DAVIDE",P006385   ,In,IN,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,24,03:41,17,225,"M'BAYE, AMATH",P007993   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0
-BAS       ,,23,03:41,17,226,"SHENGELIA, TORNIKE",P001133   ,Missed Free Throw (2/5 -  6 pt),FTA,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,23,03:41,17,227,"SHENGELIA, TORNIKE",P001133   ,Free Throw In (3/6 -  7 pt),FTM,42.0,32.0,Baskonia Vitoria Gasteiz,0
-MIL       ,,25,03:20,17,228,"THEODORE, JORDAN",P007946   ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,AX Armani Exchange Olimpia Milan,0
-BAS       ,,23,03:18,17,229,"SHENGELIA, TORNIKE",P001133   ,Def Rebound (2),D,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,23,02:59,18,231,"SHENGELIA, TORNIKE",P001133   ,Two Pointer (3/3 -  9 pt),2FGM,42.0,34.0,Baskonia Vitoria Gasteiz,0
-MIL       ,,7,02:46,18,232,"PASCOLO, DAVIDE",P006385   ,Two Pointer (1/1 -  2 pt),2FGM,44.0,34.0,AX Armani Exchange Olimpia Milan,0
-BAS       ,,3,02:29,18,233,"VILDOZA, LUCA",P007947   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Baskonia Vitoria Gasteiz,0
-MIL       ,,77,02:25,18,234,"GUDAITIS, ARTURAS",P003120   ,Def Rebound (5),D,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,5,02:16,18,235,"MICOV, VLADIMIR",P000529   ,Three Pointer (1/1 -  5 pt),3FGM,47.0,34.0,AX Armani Exchange Olimpia Milan,0
-MIL       ,,0,02:15,18,236,"GOUDELOCK, ANDREW",P004903   ,Assist (2),AS,,,AX Armani Exchange Olimpia Milan,0
-BAS       ,,,02:12,18,237,,          ,Time Out (2),TOUT,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,3,02:12,18,238,"VILDOZA, LUCA",P007947   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,9,02:12,18,239,"HUERTAS, MARCELINHO",PJUJ      ,In,IN,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,7,01:54,19,241,"VOIGTMANN, JOHANNES",P007201   ,Missed Two Pointer (1/3 -  3 pt),2FGA,,,Baskonia Vitoria Gasteiz,0
-MIL       ,,5,01:52,19,242,"MICOV, VLADIMIR",P000529   ,Def Rebound (1),D,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,0,01:31,19,243,"GOUDELOCK, ANDREW",P004903   ,Missed Two Pointer (2/4 -  7 pt),2FGA,,,AX Armani Exchange Olimpia Milan,0
-BAS       ,,7,01:28,19,244,"VOIGTMANN, JOHANNES",P007201   ,Def Rebound (2),D,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,9,01:16,19,245,"HUERTAS, MARCELINHO",PJUJ      ,Missed Two Pointer (0/3 -  5 pt),2FGA,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,9,01:14,19,246,"HUERTAS, MARCELINHO",PJUJ      ,Off Rebound (1),O,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,7,01:07,19,247,"VOIGTMANN, JOHANNES",P007201   ,Foul Drawn (2),RV,,,Baskonia Vitoria Gasteiz,0
-MIL       ,,77,01:07,19,248,"GUDAITIS, ARTURAS",P003120   ,Foul (1),CM,,,AX Armani Exchange Olimpia Milan,0
-BAS       ,,10,01:05,19,249,"BEAUBOIS, RODRIGUE",P006590   ,In,IN,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,11,01:05,19,250,"JANNING, MATT",P004165   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,7,01:05,19,251,"VOIGTMANN, JOHANNES",P007201   ,Free Throw In (2/2 -  4 pt),FTM,47.0,35.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,7,01:05,19,252,"VOIGTMANN, JOHANNES",P007201   ,Missed Free Throw (2/3 -  4 pt),FTA,,,Baskonia Vitoria Gasteiz,0
-MIL       ,,77,01:05,19,253,"GUDAITIS, ARTURAS",P003120   ,Def Rebound (6),D,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,5,00:48,20,255,"MICOV, VLADIMIR",P000529   ,Turnover (1),TO,,,AX Armani Exchange Olimpia Milan,0
-BAS       ,,23,00:46,20,256,"SHENGELIA, TORNIKE",P001133   ,Steal (1),ST,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,10,00:43,20,257,"BEAUBOIS, RODRIGUE",P006590   ,Turnover (1),TO,,,Baskonia Vitoria Gasteiz,0
-MIL       ,,77,00:40,20,258,"GUDAITIS, ARTURAS",P003120   ,Steal (1),ST,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,25,00:27,20,259,"THEODORE, JORDAN",P007946   ,Foul Drawn (2),RV,,,AX Armani Exchange Olimpia Milan,0
-BAS       ,,23,00:27,20,260,"SHENGELIA, TORNIKE",P001133   ,Foul (1),CM,,,Baskonia Vitoria Gasteiz,0
-MIL       ,,25,00:27,20,261,"THEODORE, JORDAN",P007946   ,Free Throw In (1/1 -  3 pt),FTM,48.0,35.0,AX Armani Exchange Olimpia Milan,0
-MIL       ,,25,00:27,20,262,"THEODORE, JORDAN",P007946   ,Free Throw In (2/2 -  4 pt),FTM,49.0,35.0,AX Armani Exchange Olimpia Milan,0
-BAS       ,,10,00:02,20,263,"BEAUBOIS, RODRIGUE",P006590   ,Missed Two Pointer (1/3 -  5 pt),2FGA,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,6,00:00,20,264,"TIMMA, JANIS",P005718   ,Off Rebound (1),O,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,6,00:00,20,265,"TIMMA, JANIS",P005718   ,Two Pointer (1/1 -  6 pt),2FGM,49.0,37.0,Baskonia Vitoria Gasteiz,0
-          ,,,,21,267,,          ,End Period,EP,,,,0
-          ,,,,21,279,,          ,Begin Period,BP,,,,0
-MIL       ,,7,10:00,21,271,"PASCOLO, DAVIDE",P006385   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,15,10:00,21,272,"TARCZEWSKI, KALEB",P008004   ,In,IN,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,34,10:00,21,273,"JEFFERSON, CORY",P007992   ,In,IN,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,77,10:00,21,274,"GUDAITIS, ARTURAS",P003120   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0
-BAS       ,,7,10:00,21,275,"VOIGTMANN, JOHANNES",P007201   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,10,10:00,21,276,"BEAUBOIS, RODRIGUE",P006590   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,11,10:00,21,277,"JANNING, MATT",P004165   ,In,IN,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,17,10:00,21,278,"POIRIER, VINCENT",P004887   ,In,IN,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,23,09:52,21,280,"SHENGELIA, TORNIKE",P001133   ,Two Pointer (4/4 -  11 pt),2FGM,49.0,39.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,9,09:50,21,281,"HUERTAS, MARCELINHO",PJUJ      ,Assist (2),AS,,,Baskonia Vitoria Gasteiz,0
-MIL       ,,0,09:38,21,282,"GOUDELOCK, ANDREW",P004903   ,Foul Drawn (1),RV,,,AX Armani Exchange Olimpia Milan,0
-BAS       ,,11,09:38,21,283,"JANNING, MATT",P004165   ,Foul (1),CM,,,Baskonia Vitoria Gasteiz,0
-MIL       ,,,09:38,21,284,,          ,Turnover (1),TO,,,AX Armani Exchange Olimpia Milan,0
-BAS       ,,11,09:26,21,285,"JANNING, MATT",P004165   ,Two Pointer (2/2 -  4 pt),2FGM,49.0,41.0,Baskonia Vitoria Gasteiz,0
-MIL       ,,0,09:00,21,286,"GOUDELOCK, ANDREW",P004903   ,Two Pointer (3/5 -  9 pt),2FGM,51.0,41.0,AX Armani Exchange Olimpia Milan,0
-BAS       ,,23,08:38,22,288,"SHENGELIA, TORNIKE",P001133   ,Two Pointer (5/5 -  13 pt),2FGM,51.0,43.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,11,08:36,22,289,"JANNING, MATT",P004165   ,Assist (3),AS,,,Baskonia Vitoria Gasteiz,0
-MIL       ,,25,08:25,22,290,"THEODORE, JORDAN",P007946   ,Missed Three Pointer (0/2 -  4 pt),3FGA,,,AX Armani Exchange Olimpia Milan,0
-BAS       ,,,08:24,22,291,,          ,Def Rebound (4),D,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,9,08:09,22,292,"HUERTAS, MARCELINHO",PJUJ      ,Turnover (1),TO,,,Baskonia Vitoria Gasteiz,0
-MIL       ,,15,08:07,22,293,"TARCZEWSKI, KALEB",P008004   ,Steal (1),ST,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,25,08:06,22,294,"THEODORE, JORDAN",P007946   ,Two Pointer (2/4 -  6 pt),2FGM,53.0,43.0,AX Armani Exchange Olimpia Milan,0
-MIL       ,,25,08:06,22,295,"THEODORE, JORDAN",P007946   ,Foul Drawn (3),RV,,,AX Armani Exchange Olimpia Milan,0
-BAS       ,,11,08:06,22,296,"JANNING, MATT",P004165   ,Foul (2),CM,,,Baskonia Vitoria Gasteiz,0
-MIL       ,,25,08:06,22,297,"THEODORE, JORDAN",P007946   ,Free Throw In (3/3 -  7 pt),FTM,54.0,43.0,AX Armani Exchange Olimpia Milan,0
-BAS       ,,11,07:55,23,299,"JANNING, MATT",P004165   ,Missed Three Pointer (0/2 -  4 pt),3FGA,,,Baskonia Vitoria Gasteiz,0
-MIL       ,,0,07:52,23,300,"GOUDELOCK, ANDREW",P004903   ,Def Rebound (2),D,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,0,07:34,23,301,"GOUDELOCK, ANDREW",P004903   ,Three Pointer (2/3 -  12 pt),3FGM,57.0,43.0,AX Armani Exchange Olimpia Milan,0
-MIL       ,,5,07:32,23,302,"MICOV, VLADIMIR",P000529   ,Assist (1),AS,,,AX Armani Exchange Olimpia Milan,0
-BAS       ,,17,07:10,23,303,"POIRIER, VINCENT",P004887   ,Missed Two Pointer (3/6 -  6 pt),2FGA,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,17,07:10,23,304,"POIRIER, VINCENT",P004887   ,Shot Rejected (1),AG,,,Baskonia Vitoria Gasteiz,0
-MIL       ,,5,07:08,23,305,"MICOV, VLADIMIR",P000529   ,Block (1),FV,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,15,07:05,23,306,"TARCZEWSKI, KALEB",P008004   ,Def Rebound (3),D,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,34,07:02,23,307,"JEFFERSON, CORY",P007992   ,Offensive Foul (3),OF,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,34,07:02,23,308,"JEFFERSON, CORY",P007992   ,Turnover (1),TO,,,AX Armani Exchange Olimpia Milan,0
-BAS       ,,23,07:02,23,309,"SHENGELIA, TORNIKE",P001133   ,Foul Drawn (5),RV,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,17,07:02,23,310,"POIRIER, VINCENT",P004887   ,Two Pointer (4/7 -  8 pt),2FGM,57.0,45.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,9,07:02,23,311,"HUERTAS, MARCELINHO",PJUJ      ,Assist (3),AS,,,Baskonia Vitoria Gasteiz,0
-MIL       ,,5,06:33,24,313,"MICOV, VLADIMIR",P000529   ,Three Pointer (2/2 -  8 pt),3FGM,60.0,45.0,AX Armani Exchange Olimpia Milan,0
-MIL       ,,25,06:30,24,314,"THEODORE, JORDAN",P007946   ,Assist (3),AS,,,AX Armani Exchange Olimpia Milan,0
-BAS       ,,9,06:14,24,315,"HUERTAS, MARCELINHO",PJUJ      ,Missed Three Pointer (1/2 -  5 pt),3FGA,,,Baskonia Vitoria Gasteiz,0
-MIL       ,,15,06:11,24,316,"TARCZEWSKI, KALEB",P008004   ,Def Rebound (4),D,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,5,06:05,24,317,"MICOV, VLADIMIR",P000529   ,Foul Drawn (1),RV,,,AX Armani Exchange Olimpia Milan,0
-BAS       ,,6,06:05,24,318,"TIMMA, JANIS",P005718   ,Foul (2),CM,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,10,06:02,24,319,"BEAUBOIS, RODRIGUE",P006590   ,In,IN,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,11,06:02,24,320,"JANNING, MATT",P004165   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0
-MIL       ,,25,06:02,24,321,"THEODORE, JORDAN",P007946   ,Missed Two Pointer (2/5 -  7 pt),2FGA,,,AX Armani Exchange Olimpia Milan,0
-BAS       ,,,06:02,24,323,,          ,Def Rebound (5),D,,,Baskonia Vitoria Gasteiz,0
-MIL       ,,5,05:47,25,325,"MICOV, VLADIMIR",P000529   ,Foul Drawn (2),RV,,,AX Armani Exchange Olimpia Milan,0
-BAS       ,,6,05:47,25,326,"TIMMA, JANIS",P005718   ,Offensive Foul (3),OF,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,6,05:47,25,327,"TIMMA, JANIS",P005718   ,Turnover (1),TO,,,Baskonia Vitoria Gasteiz,0
-MIL       ,,25,05:45,25,328,"THEODORE, JORDAN",P007946   ,Missed Three Pointer (0/3 -  7 pt),3FGA,,,AX Armani Exchange Olimpia Milan,0
-BAS       ,,10,05:45,25,329,"BEAUBOIS, RODRIGUE",P006590   ,Def Rebound (2),D,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,10,05:45,25,330,"BEAUBOIS, RODRIGUE",P006590   ,Turnover (2),TO,,,Baskonia Vitoria Gasteiz,0
-MIL       ,,25,05:45,25,331,"THEODORE, JORDAN",P007946   ,Steal (1),ST,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,0,05:45,25,332,"GOUDELOCK, ANDREW",P004903   ,Two Pointer (4/6 -  14 pt),2FGM,62.0,45.0,AX Armani Exchange Olimpia Milan,0
-MIL       ,,25,05:45,25,333,"THEODORE, JORDAN",P007946   ,Assist (4),AS,,,AX Armani Exchange Olimpia Milan,0
-BAS       ,,9,05:24,25,334,"HUERTAS, MARCELINHO",PJUJ      ,Two Pointer (1/4 -  7 pt),2FGM,62.0,47.0,Baskonia Vitoria Gasteiz,0
-MIL       ,,5,04:31,26,336,"MICOV, VLADIMIR",P000529   ,Foul Drawn (3),RV,,,AX Armani Exchange Olimpia Milan,0
-BAS       ,,6,04:31,26,337,"TIMMA, JANIS",P005718   ,Foul (4),CM,,,Baskonia Vitoria Gasteiz,0
-          ,,,04:31,26,338,,          ,TV Time Out (2),TOUT_TV,,,,0
-BAS       ,,5,04:31,26,339,"GONZALEZ, MIGUEL",P008032   ,In,IN,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,6,04:31,26,340,"TIMMA, JANIS",P005718   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,7,04:31,26,341,"VOIGTMANN, JOHANNES",P007201   ,In,IN,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,17,04:31,26,342,"POIRIER, VINCENT",P004887   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,21,04:31,26,343,"JONES, KEVIN",P007185   ,In,IN,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,23,04:31,26,344,"SHENGELIA, TORNIKE",P001133   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0
-MIL       ,,5,04:31,26,345,"MICOV, VLADIMIR",P000529   ,Free Throw In (1/1 -  9 pt),FTM,63.0,47.0,AX Armani Exchange Olimpia Milan,0
-MIL       ,,5,04:31,26,346,"MICOV, VLADIMIR",P000529   ,Free Throw In (2/2 -  10 pt),FTM,64.0,47.0,AX Armani Exchange Olimpia Milan,0
-BAS       ,,5,04:13,26,347,"GONZALEZ, MIGUEL",P008032   ,Three Pointer (1/1 -  3 pt),3FGM,64.0,50.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,7,04:13,26,348,"VOIGTMANN, JOHANNES",P007201   ,Assist (1),AS,,,Baskonia Vitoria Gasteiz,0
-MIL       ,,25,03:59,27,350,"THEODORE, JORDAN",P007946   ,Foul Drawn (4),RV,,,AX Armani Exchange Olimpia Milan,0
-BAS       ,,9,03:59,27,351,"HUERTAS, MARCELINHO",PJUJ      ,Foul (3),CM,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,3,03:59,27,352,"VILDOZA, LUCA",P007947   ,In,IN,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,9,03:59,27,353,"HUERTAS, MARCELINHO",PJUJ      ,Out,OUT,,,Baskonia Vitoria Gasteiz,0
-MIL       ,,25,03:59,27,354,"THEODORE, JORDAN",P007946   ,Free Throw In (4/4 -  8 pt),FTM,65.0,50.0,AX Armani Exchange Olimpia Milan,0
-MIL       ,,25,03:59,27,355,"THEODORE, JORDAN",P007946   ,Free Throw In (5/5 -  9 pt),FTM,66.0,50.0,AX Armani Exchange Olimpia Milan,0
-BAS       ,,10,03:52,27,356,"BEAUBOIS, RODRIGUE",P006590   ,Two Pointer (2/4 -  7 pt),2FGM,66.0,52.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,3,03:18,27,357,"VILDOZA, LUCA",P007947   ,Foul Drawn (1),RV,,,Baskonia Vitoria Gasteiz,0
-MIL       ,,0,03:18,27,358,"GOUDELOCK, ANDREW",P004903   ,Offensive Foul (1),OF,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,0,03:18,27,359,"GOUDELOCK, ANDREW",P004903   ,Turnover (1),TO,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,5,03:14,27,360,"MICOV, VLADIMIR",P000529   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,9,03:14,27,361,"KALNIETIS, MANTAS",PJBX      ,In,IN,,,AX Armani Exchange Olimpia Milan,0
-BAS       ,,7,03:09,27,362,"VOIGTMANN, JOHANNES",P007201   ,Two Pointer (2/4 -  6 pt),2FGM,66.0,54.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,10,03:08,27,363,"BEAUBOIS, RODRIGUE",P006590   ,Assist (2),AS,,,Baskonia Vitoria Gasteiz,0
-MIL       ,,34,02:41,28,365,"JEFFERSON, CORY",P007992   ,Missed Three Pointer (1/3 -  7 pt),3FGA,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,15,02:39,28,366,"TARCZEWSKI, KALEB",P008004   ,Off Rebound (1),O,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,34,02:59,28,400,"JEFFERSON, CORY",P007992   ,Shot Rejected (1),AG,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,34,02:39,28,399,"JEFFERSON, CORY",P007992   ,Missed Two Pointer (2/3 -  7 pt),2FGA,,,AX Armani Exchange Olimpia Milan,0
-BAS       ,,21,02:39,28,401,"JONES, KEVIN",P007185   ,Block (1),FV,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,21,02:39,28,411,"JONES, KEVIN",P007185   ,Def Rebound (2),D,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,10,02:13,28,369,"BEAUBOIS, RODRIGUE",P006590   ,Two Pointer (3/5 -  9 pt),2FGM,66.0,56.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,7,02:13,28,370,"VOIGTMANN, JOHANNES",P007201   ,Assist (2),AS,,,Baskonia Vitoria Gasteiz,0
-MIL       ,,,02:10,28,371,,          ,Time Out (1),TOUT,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,0,02:10,28,372,"GOUDELOCK, ANDREW",P004903   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,24,02:10,28,373,"M'BAYE, AMATH",P007993   ,In,IN,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,34,02:10,28,374,"JEFFERSON, CORY",P007992   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,55,02:10,28,375,"JERRELLS, CURTIS",P003067   ,In,IN,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,25,01:54,29,377,"THEODORE, JORDAN",P007946   ,Three Pointer (1/4 -  12 pt),3FGM,69.0,56.0,AX Armani Exchange Olimpia Milan,0
-MIL       ,,55,01:52,29,378,"JERRELLS, CURTIS",P003067   ,Assist (4),AS,,,AX Armani Exchange Olimpia Milan,0
-BAS       ,,21,01:38,29,379,"JONES, KEVIN",P007185   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Baskonia Vitoria Gasteiz,0
-MIL       ,,15,01:38,29,380,"TARCZEWSKI, KALEB",P008004   ,Def Rebound (5),D,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,15,01:38,29,381,"TARCZEWSKI, KALEB",P008004   ,Two Pointer (2/2 -  5 pt),2FGM,71.0,56.0,AX Armani Exchange Olimpia Milan,0
-MIL       ,,24,01:38,29,382,"M'BAYE, AMATH",P007993   ,Assist (1),AS,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,15,01:13,29,383,"TARCZEWSKI, KALEB",P008004   ,Foul Drawn (2),RV,,,AX Armani Exchange Olimpia Milan,0
-BAS       ,,7,01:13,29,384,"VOIGTMANN, JOHANNES",P007201   ,Offensive Foul (1),OF,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,7,01:13,29,385,"VOIGTMANN, JOHANNES",P007201   ,Turnover (2),TO,,,Baskonia Vitoria Gasteiz,0
-MIL       ,,55,00:50,30,387,"JERRELLS, CURTIS",P003067   ,Three Pointer (2/2 -  12 pt),3FGM,74.0,56.0,AX Armani Exchange Olimpia Milan,0
-MIL       ,,9,00:48,30,388,"KALNIETIS, MANTAS",PJBX      ,Assist (1),AS,,,AX Armani Exchange Olimpia Milan,0
-BAS       ,,10,00:39,30,389,"BEAUBOIS, RODRIGUE",P006590   ,Two Pointer (4/6 -  11 pt),2FGM,74.0,58.0,Baskonia Vitoria Gasteiz,0
-MIL       ,,24,00:16,30,390,"M'BAYE, AMATH",P007993   ,Foul Drawn (1),RV,,,AX Armani Exchange Olimpia Milan,0
-BAS       ,,7,00:16,30,391,"VOIGTMANN, JOHANNES",P007201   ,Foul (2),CM,,,Baskonia Vitoria Gasteiz,0
-MIL       ,,24,00:16,30,392,"M'BAYE, AMATH",P007993   ,Free Throw In (1/1 -  3 pt),FTM,75.0,58.0,AX Armani Exchange Olimpia Milan,0
-MIL       ,,55,00:16,30,449,"JERRELLS, CURTIS",P003067   ,Assist (5),AS,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,24,00:16,30,393,"M'BAYE, AMATH",P007993   ,Free Throw In (2/2 -  4 pt),FTM,76.0,58.0,AX Armani Exchange Olimpia Milan,0
-MIL       ,,15,00:16,30,394,"TARCZEWSKI, KALEB",P008004   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,77,00:16,30,395,"GUDAITIS, ARTURAS",P003120   ,In,IN,,,AX Armani Exchange Olimpia Milan,0
-BAS       ,,10,00:02,30,396,"BEAUBOIS, RODRIGUE",P006590   ,Foul Drawn (1),RV,,,Baskonia Vitoria Gasteiz,0
-MIL       ,,25,00:02,30,397,"THEODORE, JORDAN",P007946   ,Foul (2),CM,,,AX Armani Exchange Olimpia Milan,0
-BAS       ,,,00:03,30,398,,          ,Time Out (1),TOUT,,,Baskonia Vitoria Gasteiz,0
-MIL       ,,5,00:03,30,402,"MICOV, VLADIMIR",P000529   ,In,IN,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,9,00:03,30,403,"KALNIETIS, MANTAS",PJBX      ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,20,00:03,30,404,"CINCIARINI, ANDREA",PKIW      ,In,IN,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,25,00:03,30,405,"THEODORE, JORDAN",P007946   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0
-BAS       ,,5,00:03,30,406,"GONZALEZ, MIGUEL",P008032   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,6,00:03,30,407,"TIMMA, JANIS",P005718   ,In,IN,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,10,00:03,30,408,"BEAUBOIS, RODRIGUE",P006590   ,Missed Three Pointer (1/3 -  11 pt),3FGA,,,Baskonia Vitoria Gasteiz,0
-          ,,,,31,410,,          ,End Period,EP,,,,0
-          ,,,,31,418,,          ,Begin Period,BP,,,,0
-MIL       ,,5,10:00,31,412,"MICOV, VLADIMIR",P000529   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,9,10:00,31,413,"KALNIETIS, MANTAS",PJBX      ,In,IN,,,AX Armani Exchange Olimpia Milan,0
-BAS       ,,6,10:00,31,414,"TIMMA, JANIS",P005718   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,7,10:00,31,415,"VOIGTMANN, JOHANNES",P007201   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,11,10:00,31,416,"JANNING, MATT",P004165   ,In,IN,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,17,10:00,31,417,"POIRIER, VINCENT",P004887   ,In,IN,,,Baskonia Vitoria Gasteiz,0
-MIL       ,,77,09:51,31,419,"GUDAITIS, ARTURAS",P003120   ,Two Pointer (1/1 -  7 pt),2FGM,78.0,58.0,AX Armani Exchange Olimpia Milan,0
-MIL       ,,55,09:51,31,420,"JERRELLS, CURTIS",P003067   ,Assist (6),AS,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,77,09:51,31,421,"GUDAITIS, ARTURAS",P003120   ,Foul Drawn (4),RV,,,AX Armani Exchange Olimpia Milan,0
-BAS       ,,17,09:51,31,422,"POIRIER, VINCENT",P004887   ,Foul (3),CM,,,Baskonia Vitoria Gasteiz,0
-MIL       ,,77,09:51,31,423,"GUDAITIS, ARTURAS",P003120   ,Free Throw In (6/7 -  8 pt),FTM,79.0,58.0,AX Armani Exchange Olimpia Milan,0
-BAS       ,,11,09:33,31,424,"JANNING, MATT",P004165   ,Turnover (1),TO,,,Baskonia Vitoria Gasteiz,0
-MIL       ,,55,09:32,31,425,"JERRELLS, CURTIS",P003067   ,Steal (1),ST,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,9,09:31,31,426,"KALNIETIS, MANTAS",PJBX      ,Two Pointer (1/1 -  2 pt),2FGM,81.0,58.0,AX Armani Exchange Olimpia Milan,0
-MIL       ,,55,09:31,31,427,"JERRELLS, CURTIS",P003067   ,Assist (7),AS,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,9,09:31,31,428,"KALNIETIS, MANTAS",PJBX      ,Foul Drawn (1),RV,,,AX Armani Exchange Olimpia Milan,0
-BAS       ,,11,09:31,31,429,"JANNING, MATT",P004165   ,Foul (3),CM,,,Baskonia Vitoria Gasteiz,0
-MIL       ,,9,09:31,31,430,"KALNIETIS, MANTAS",PJBX      ,Free Throw In (1/1 -  3 pt),FTM,82.0,58.0,AX Armani Exchange Olimpia Milan,0
-BAS       ,,11,09:12,31,431,"JANNING, MATT",P004165   ,Two Pointer (3/3 -  6 pt),2FGM,82.0,60.0,Baskonia Vitoria Gasteiz,0
-MIL       ,,55,08:46,32,433,"JERRELLS, CURTIS",P003067   ,Three Pointer (3/3 -  15 pt),3FGM,85.0,60.0,AX Armani Exchange Olimpia Milan,0
-BAS       ,,3,08:27,32,434,"VILDOZA, LUCA",P007947   ,Turnover (2),TO,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,21,08:26,32,435,"JONES, KEVIN",P007185   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,23,08:26,32,436,"SHENGELIA, TORNIKE",P001133   ,In,IN,,,Baskonia Vitoria Gasteiz,0
-MIL       ,,9,08:22,32,437,"KALNIETIS, MANTAS",PJBX      ,Foul Drawn (2),RV,,,AX Armani Exchange Olimpia Milan,0
-BAS       ,,10,08:22,32,438,"BEAUBOIS, RODRIGUE",P006590   ,Foul (2),CM,,,Baskonia Vitoria Gasteiz,0
-MIL       ,,20,08:20,32,439,"CINCIARINI, ANDREA",PKIW      ,Foul Drawn (2),RV,,,AX Armani Exchange Olimpia Milan,0
-BAS       ,,3,08:20,32,440,"VILDOZA, LUCA",P007947   ,Foul (2),CM,,,Baskonia Vitoria Gasteiz,0
-MIL       ,,9,08:15,32,441,"KALNIETIS, MANTAS",PJBX      ,Turnover (1),TO,,,AX Armani Exchange Olimpia Milan,0
-BAS       ,,23,07:57,33,443,"SHENGELIA, TORNIKE",P001133   ,Two Pointer (6/6 -  15 pt),2FGM,85.0,62.0,Baskonia Vitoria Gasteiz,0
-MIL       ,,9,07:43,33,444,"KALNIETIS, MANTAS",PJBX      ,Turnover (2),TO,,,AX Armani Exchange Olimpia Milan,0
-BAS       ,,3,07:41,33,445,"VILDOZA, LUCA",P007947   ,Steal (1),ST,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,10,07:41,33,446,"BEAUBOIS, RODRIGUE",P006590   ,Two Pointer (5/7 -  13 pt),2FGM,85.0,64.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,3,07:41,33,447,"VILDOZA, LUCA",P007947   ,Assist (3),AS,,,Baskonia Vitoria Gasteiz,0
-MIL       ,,,07:38,33,448,,          ,Time Out (1),TOUT,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,9,07:38,33,450,"KALNIETIS, MANTAS",PJBX      ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,20,07:38,33,451,"CINCIARINI, ANDREA",PKIW      ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,25,07:38,33,452,"THEODORE, JORDAN",P007946   ,In,IN,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,45,07:38,33,453,"BERTANS, DAIRIS",P000436   ,In,IN,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,77,07:18,33,454,"GUDAITIS, ARTURAS",P003120   ,Turnover (1),TO,,,AX Armani Exchange Olimpia Milan,0
-BAS       ,,11,07:16,33,455,"JANNING, MATT",P004165   ,Steal (2),ST,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,11,07:15,33,456,"JANNING, MATT",P004165   ,Foul Drawn (3),RV,,,Baskonia Vitoria Gasteiz,0
-MIL       ,,45,07:15,33,457,"BERTANS, DAIRIS",P000436   ,Foul (3),CM,,,AX Armani Exchange Olimpia Milan,0
-BAS       ,,23,07:05,33,458,"SHENGELIA, TORNIKE",P001133   ,Foul Drawn (6),RV,,,Baskonia Vitoria Gasteiz,0
-MIL       ,,24,07:05,33,459,"M'BAYE, AMATH",P007993   ,Foul (4),CM,,,AX Armani Exchange Olimpia Milan,0
-BAS       ,,11,06:57,34,461,"JANNING, MATT",P004165   ,Two Pointer (4/4 -  8 pt),2FGM,85.0,66.0,Baskonia Vitoria Gasteiz,0
-MIL       ,,55,06:45,34,462,"JERRELLS, CURTIS",P003067   ,Turnover (1),TO,,,AX Armani Exchange Olimpia Milan,0
-BAS       ,,3,06:40,34,463,"VILDOZA, LUCA",P007947   ,Three Pointer (1/3 -  3 pt),3FGM,85.0,69.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,3,06:40,34,464,"VILDOZA, LUCA",P007947   ,Foul Drawn (2),RV,,,Baskonia Vitoria Gasteiz,0
-MIL       ,,25,06:40,34,465,"THEODORE, JORDAN",P007946   ,Foul (3),CM,,,AX Armani Exchange Olimpia Milan,0
-BAS       ,,3,06:40,34,466,"VILDOZA, LUCA",P007947   ,Free Throw In (1/1 -  4 pt),FTM,85.0,70.0,Baskonia Vitoria Gasteiz,0
-MIL       ,,55,06:20,34,467,"JERRELLS, CURTIS",P003067   ,Missed Two Pointer (2/3 -  15 pt),2FGA,,,AX Armani Exchange Olimpia Milan,0
-BAS       ,,17,06:18,34,468,"POIRIER, VINCENT",P004887   ,Def Rebound (2),D,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,23,06:09,34,469,"SHENGELIA, TORNIKE",P001133   ,Foul Drawn (7),RV,,,Baskonia Vitoria Gasteiz,0
-MIL       ,,24,06:09,34,470,"M'BAYE, AMATH",P007993   ,Foul (5),CM,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,0,06:05,34,471,"GOUDELOCK, ANDREW",P004903   ,In,IN,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,7,06:05,34,472,"PASCOLO, DAVIDE",P006385   ,In,IN,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,24,06:05,34,473,"M'BAYE, AMATH",P007993   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,55,06:05,34,474,"JERRELLS, CURTIS",P003067   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0
-BAS       ,,10,06:05,34,475,"BEAUBOIS, RODRIGUE",P006590   ,Two Pointer (6/8 -  15 pt),2FGM,85.0,72.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,3,06:05,34,476,"VILDOZA, LUCA",P007947   ,Assist (4),AS,,,Baskonia Vitoria Gasteiz,0
-MIL       ,,0,05:47,35,478,"GOUDELOCK, ANDREW",P004903   ,Turnover (2),TO,,,AX Armani Exchange Olimpia Milan,0
-BAS       ,,17,05:45,35,479,"POIRIER, VINCENT",P004887   ,Steal (1),ST,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,23,05:41,35,480,"SHENGELIA, TORNIKE",P001133   ,Two Pointer (7/7 -  17 pt),2FGM,85.0,74.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,17,05:39,35,481,"POIRIER, VINCENT",P004887   ,Assist (2),AS,,,Baskonia Vitoria Gasteiz,0
-MIL       ,,7,05:17,35,482,"PASCOLO, DAVIDE",P006385   ,Two Pointer (2/2 -  4 pt),2FGM,87.0,74.0,AX Armani Exchange Olimpia Milan,0
-MIL       ,,45,05:15,35,483,"BERTANS, DAIRIS",P000436   ,Assist (1),AS,,,AX Armani Exchange Olimpia Milan,0
-BAS       ,,17,04:59,36,485,"POIRIER, VINCENT",P004887   ,Turnover (1),TO,,,Baskonia Vitoria Gasteiz,0
-MIL       ,,0,04:40,36,486,"GOUDELOCK, ANDREW",P004903   ,Missed Three Pointer (2/4 -  14 pt),3FGA,,,AX Armani Exchange Olimpia Milan,0
-BAS       ,,,04:39,36,487,,          ,Def Rebound (6),D,,,Baskonia Vitoria Gasteiz,0
-MIL       ,,5,04:37,36,488,"MICOV, VLADIMIR",P000529   ,In,IN,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,45,04:37,36,489,"BERTANS, DAIRIS",P000436   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0
-BAS       ,,3,04:21,36,490,"VILDOZA, LUCA",P007947   ,Turnover (3),TO,,,Baskonia Vitoria Gasteiz,0
-MIL       ,,77,04:19,36,491,"GUDAITIS, ARTURAS",P003120   ,Steal (2),ST,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,7,04:15,36,492,"PASCOLO, DAVIDE",P006385   ,Missed Two Pointer (2/3 -  4 pt),2FGA,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,7,04:15,36,493,"PASCOLO, DAVIDE",P006385   ,Shot Rejected (1),AG,,,AX Armani Exchange Olimpia Milan,0
-BAS       ,,23,04:13,36,494,"SHENGELIA, TORNIKE",P001133   ,Block (1),FV,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,3,04:12,36,495,"VILDOZA, LUCA",P007947   ,Def Rebound (1),D,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,23,04:09,36,496,"SHENGELIA, TORNIKE",P001133   ,Two Pointer (8/8 -  19 pt),2FGM,87.0,76.0,Baskonia Vitoria Gasteiz,0
-MIL       ,,0,03:43,37,498,"GOUDELOCK, ANDREW",P004903   ,Missed Three Pointer (2/5 -  14 pt),3FGA,,,AX Armani Exchange Olimpia Milan,0
-BAS       ,,23,03:38,37,499,"SHENGELIA, TORNIKE",P001133   ,Def Rebound (3),D,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,3,03:30,37,500,"VILDOZA, LUCA",P007947   ,Three Pointer (2/4 -  7 pt),3FGM,87.0,79.0,Baskonia Vitoria Gasteiz,0
-MIL       ,,5,03:13,37,501,"MICOV, VLADIMIR",P000529   ,Foul Drawn (4),RV,,,AX Armani Exchange Olimpia Milan,0
-BAS       ,,11,03:13,37,502,"JANNING, MATT",P004165   ,Foul (4),CM,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,6,03:12,37,503,"TIMMA, JANIS",P005718   ,In,IN,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,9,03:12,37,504,"HUERTAS, MARCELINHO",PJUJ      ,In,IN,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,10,03:12,37,505,"BEAUBOIS, RODRIGUE",P006590   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,11,03:12,37,506,"JANNING, MATT",P004165   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0
-MIL       ,,5,03:12,37,507,"MICOV, VLADIMIR",P000529   ,Missed Free Throw (2/3 -  10 pt),FTA,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,5,03:12,37,508,"MICOV, VLADIMIR",P000529   ,Free Throw In (3/4 -  11 pt),FTM,88.0,79.0,AX Armani Exchange Olimpia Milan,0
-BAS       ,,17,03:00,37,509,"POIRIER, VINCENT",P004887   ,Foul Drawn (2),RV,,,Baskonia Vitoria Gasteiz,0
-MIL       ,,7,03:00,37,510,"PASCOLO, DAVIDE",P006385   ,Foul (1),CM,,,AX Armani Exchange Olimpia Milan,0
-BAS       ,,17,03:00,37,511,"POIRIER, VINCENT",P004887   ,Free Throw In (1/1 -  9 pt),FTM,88.0,80.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,23,03:00,37,512,"SHENGELIA, TORNIKE",P001133   ,Assist (1),AS,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,17,03:00,37,513,"POIRIER, VINCENT",P004887   ,Free Throw In (2/2 -  10 pt),FTM,88.0,81.0,Baskonia Vitoria Gasteiz,0
-MIL       ,,25,02:43,38,515,"THEODORE, JORDAN",P007946   ,Missed Two Pointer (2/6 -  12 pt),2FGA,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,25,02:43,38,516,"THEODORE, JORDAN",P007946   ,Shot Rejected (2),AG,,,AX Armani Exchange Olimpia Milan,0
-BAS       ,,17,02:43,38,517,"POIRIER, VINCENT",P004887   ,Block (2),FV,,,Baskonia Vitoria Gasteiz,0
-MIL       ,,,02:43,38,518,,          ,Off Rebound (3),O,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,0,02:38,38,519,"GOUDELOCK, ANDREW",P004903   ,Missed Three Pointer (2/6 -  14 pt),3FGA,,,AX Armani Exchange Olimpia Milan,0
-BAS       ,,17,02:35,38,520,"POIRIER, VINCENT",P004887   ,Def Rebound (3),D,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,3,02:28,38,521,"VILDOZA, LUCA",P007947   ,Turnover (4),TO,,,Baskonia Vitoria Gasteiz,0
-MIL       ,,5,02:26,38,522,"MICOV, VLADIMIR",P000529   ,Steal (1),ST,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,5,02:16,38,523,"MICOV, VLADIMIR",P000529   ,Turnover (2),TO,,,AX Armani Exchange Olimpia Milan,0
-BAS       ,,9,02:16,38,524,"HUERTAS, MARCELINHO",PJUJ      ,Steal (1),ST,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,9,02:16,38,525,"HUERTAS, MARCELINHO",PJUJ      ,Foul Drawn (4),RV,,,Baskonia Vitoria Gasteiz,0
-MIL       ,,5,02:16,38,526,"MICOV, VLADIMIR",P000529   ,Unsportsmanlike Foul  (2),CMU,,,AX Armani Exchange Olimpia Milan,0
-BAS       ,,9,02:16,38,527,"HUERTAS, MARCELINHO",PJUJ      ,Free Throw In (3/3 -  8 pt),FTM,88.0,82.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,9,02:16,38,528,"HUERTAS, MARCELINHO",PJUJ      ,Free Throw In (4/4 -  9 pt),FTM,88.0,83.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,23,02:09,38,529,"SHENGELIA, TORNIKE",P001133   ,Missed Two Pointer (8/9 -  19 pt),2FGA,,,Baskonia Vitoria Gasteiz,0
-MIL       ,,77,02:09,38,530,"GUDAITIS, ARTURAS",P003120   ,Def Rebound (7),D,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,77,02:09,38,531,"GUDAITIS, ARTURAS",P003120   ,Foul Drawn (5),RV,,,AX Armani Exchange Olimpia Milan,0
-BAS       ,,23,02:09,38,532,"SHENGELIA, TORNIKE",P001133   ,Foul (2),CM,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,3,02:07,38,533,"VILDOZA, LUCA",P007947   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,10,02:07,38,534,"BEAUBOIS, RODRIGUE",P006590   ,In,IN,,,Baskonia Vitoria Gasteiz,0
-MIL       ,,77,02:07,38,535,"GUDAITIS, ARTURAS",P003120   ,Free Throw In (7/8 -  9 pt),FTM,89.0,83.0,AX Armani Exchange Olimpia Milan,0
-MIL       ,,77,02:07,38,536,"GUDAITIS, ARTURAS",P003120   ,Free Throw In (8/9 -  10 pt),FTM,90.0,83.0,AX Armani Exchange Olimpia Milan,0
-BAS       ,,10,01:54,39,538,"BEAUBOIS, RODRIGUE",P006590   ,Turnover (3),TO,,,Baskonia Vitoria Gasteiz,0
-MIL       ,,7,01:30,39,539,"PASCOLO, DAVIDE",P006385   ,Missed Three Pointer (0/1 -  4 pt),3FGA,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,0,01:28,39,540,"GOUDELOCK, ANDREW",P004903   ,Off Rebound (1),O,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,5,01:15,39,541,"MICOV, VLADIMIR",P000529   ,Missed Three Pointer (2/3 -  11 pt),3FGA,,,AX Armani Exchange Olimpia Milan,0
-BAS       ,,6,01:13,39,542,"TIMMA, JANIS",P005718   ,Def Rebound (1),D,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,6,01:11,39,543,"TIMMA, JANIS",P005718   ,Turnover (2),TO,,,Baskonia Vitoria Gasteiz,0
-MIL       ,,7,01:09,39,544,"PASCOLO, DAVIDE",P006385   ,Steal (1),ST,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,5,00:55,40,546,"MICOV, VLADIMIR",P000529   ,Foul Drawn (5),RV,,,AX Armani Exchange Olimpia Milan,0
-BAS       ,,6,00:55,40,547,"TIMMA, JANIS",P005718   ,Foul (5),CM,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,6,00:55,40,548,"TIMMA, JANIS",P005718   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,11,00:55,40,549,"JANNING, MATT",P004165   ,In,IN,,,Baskonia Vitoria Gasteiz,0
-MIL       ,,5,00:55,40,550,"MICOV, VLADIMIR",P000529   ,Free Throw In (4/5 -  12 pt),FTM,91.0,83.0,AX Armani Exchange Olimpia Milan,0
-MIL       ,,5,00:55,40,551,"MICOV, VLADIMIR",P000529   ,Missed Free Throw (4/6 -  12 pt),FTA,,,AX Armani Exchange Olimpia Milan,0
-BAS       ,,,00:55,40,553,,          ,Def Rebound (7),D,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,9,00:46,40,554,"HUERTAS, MARCELINHO",PJUJ      ,Foul Drawn (5),RV,,,Baskonia Vitoria Gasteiz,0
-MIL       ,,25,00:46,40,555,"THEODORE, JORDAN",P007946   ,Foul (4),CM,,,AX Armani Exchange Olimpia Milan,0
-BAS       ,,9,00:46,40,556,"HUERTAS, MARCELINHO",PJUJ      ,Free Throw In (5/5 -  10 pt),FTM,91.0,84.0,Baskonia Vitoria Gasteiz,0
-BAS       ,,9,00:46,40,557,"HUERTAS, MARCELINHO",PJUJ      ,Free Throw In (6/6 -  11 pt),FTM,91.0,85.0,Baskonia Vitoria Gasteiz,0
-MIL       ,,0,00:33,40,558,"GOUDELOCK, ANDREW",P004903   ,Foul Drawn (2),RV,,,AX Armani Exchange Olimpia Milan,0
-BAS       ,,10,00:33,40,559,"BEAUBOIS, RODRIGUE",P006590   ,Foul (3),CM,,,Baskonia Vitoria Gasteiz,0
-MIL       ,,0,00:33,40,560,"GOUDELOCK, ANDREW",P004903   ,Free Throw In (1/1 -  15 pt),FTM,92.0,85.0,AX Armani Exchange Olimpia Milan,0
-MIL       ,,0,00:33,40,561,"GOUDELOCK, ANDREW",P004903   ,Missed Free Throw (1/2 -  15 pt),FTA,,,AX Armani Exchange Olimpia Milan,0
-BAS       ,,23,00:33,40,562,"SHENGELIA, TORNIKE",P001133   ,Def Rebound (4),D,,,Baskonia Vitoria Gasteiz,0
-BAS       ,,23,00:25,40,563,"SHENGELIA, TORNIKE",P001133   ,Missed Two Pointer (8/10 -  19 pt),2FGA,,,Baskonia Vitoria Gasteiz,0
-MIL       ,,0,00:21,40,564,"GOUDELOCK, ANDREW",P004903   ,Def Rebound (3),D,,,AX Armani Exchange Olimpia Milan,0
-MIL       ,,0,00:01,40,565,"GOUDELOCK, ANDREW",P004903   ,Missed Three Pointer (2/7 -  15 pt),3FGA,,,AX Armani Exchange Olimpia Milan,0
-BAS       ,,17,00:00,40,566,"POIRIER, VINCENT",P004887   ,Def Rebound (4),D,,,Baskonia Vitoria Gasteiz,0
-          ,,,,41,569,,          ,End Game,EG,,,,0
+CODETEAM,COMMENT,DORSAL,MARKERTIME,MINUTE,NUMBEROFPLAY,PLAYER,PLAYER_ID,PLAYINFO,PLAYTYPE,POINTS_A,POINTS_B,TEAM,TYPE,home_team,home_team_code,away_team,away_team_code
+          ,,,,1,2,,          ,Begin Period,BP,,,,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,23,09:51,1,3,"SHENGELIA, TORNIKE",P001133   ,Two Pointer (1/1 -  2 pt),2FGM,,2.0,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,11,09:49,1,4,"JANNING, MATT",P004165   ,Assist (1),AS,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,0,09:32,1,5,"GOUDELOCK, ANDREW",P004903   ,Two Pointer (1/1 -  2 pt),2FGM,2.0,2.0,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,11,09:16,1,6,"JANNING, MATT",P004165   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,15,09:13,1,7,"TARCZEWSKI, KALEB",P008004   ,Def Rebound (1),D,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,0,08:58,2,9,"GOUDELOCK, ANDREW",P004903   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,7,08:56,2,10,"VOIGTMANN, JOHANNES",P007201   ,Def Rebound (1),D,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,23,08:46,2,11,"SHENGELIA, TORNIKE",P001133   ,Foul Drawn (1),RV,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,15,08:46,2,12,"TARCZEWSKI, KALEB",P008004   ,Foul (1),CM,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,23,08:46,2,13,"SHENGELIA, TORNIKE",P001133   ,Free Throw In (1/1 -  3 pt),FTM,2.0,3.0,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,3,08:46,2,14,"VILDOZA, LUCA",P007947   ,Assist (1),AS,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,23,08:46,2,15,"SHENGELIA, TORNIKE",P001133   ,Free Throw In (2/2 -  4 pt),FTM,2.0,4.0,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,34,08:31,2,16,"JEFFERSON, CORY",P007992   ,Two Pointer (1/1 -  2 pt),2FGM,4.0,4.0,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,7,08:15,2,17,"VOIGTMANN, JOHANNES",P007201   ,Turnover (1),TO,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,25,07:59,3,19,"THEODORE, JORDAN",P007946   ,Turnover (1),TO,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,11,07:55,3,20,"JANNING, MATT",P004165   ,Steal (1),ST,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,23,07:51,3,21,"SHENGELIA, TORNIKE",P001133   ,Two Pointer (2/2 -  6 pt),2FGM,4.0,6.0,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,11,07:49,3,22,"JANNING, MATT",P004165   ,Assist (2),AS,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,34,07:39,3,23,"JEFFERSON, CORY",P007992   ,Two Pointer (2/2 -  4 pt),2FGM,6.0,6.0,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,3,07:24,3,24,"VILDOZA, LUCA",P007947   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,0,07:21,3,25,"GOUDELOCK, ANDREW",P004903   ,Def Rebound (1),D,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,0,07:11,3,26,"GOUDELOCK, ANDREW",P004903   ,Three Pointer (1/1 -  5 pt),3FGM,9.0,6.0,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,25,07:09,3,27,"THEODORE, JORDAN",P007946   ,Assist (1),AS,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,3,06:49,4,29,"VILDOZA, LUCA",P007947   ,Turnover (1),TO,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,25,06:49,4,30,"THEODORE, JORDAN",P007946   ,Two Pointer (1/1 -  2 pt),2FGM,11.0,6.0,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,3,06:49,4,31,"VILDOZA, LUCA",P007947   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,7,06:49,4,32,"VOIGTMANN, JOHANNES",P007201   ,Off Rebound (1),O,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,7,06:49,4,33,"VOIGTMANN, JOHANNES",P007201   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,15,06:49,4,34,"TARCZEWSKI, KALEB",P008004   ,Def Rebound (2),D,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,25,06:04,4,35,"THEODORE, JORDAN",P007946   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,,06:04,4,36,,          ,Def Rebound (1),D,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,7,05:48,5,38,"VOIGTMANN, JOHANNES",P007201   ,Two Pointer (1/2 -  2 pt),2FGM,11.0,8.0,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,7,05:48,5,39,"VOIGTMANN, JOHANNES",P007201   ,Foul Drawn (1),RV,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,15,05:48,5,40,"TARCZEWSKI, KALEB",P008004   ,Foul (2),CM,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,7,05:48,5,41,"VOIGTMANN, JOHANNES",P007201   ,Free Throw In (1/1 -  3 pt),FTM,11.0,9.0,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,15,05:23,5,42,"TARCZEWSKI, KALEB",P008004   ,Two Pointer (1/1 -  2 pt),2FGM,13.0,9.0,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,0,05:23,5,43,"GOUDELOCK, ANDREW",P004903   ,Assist (1),AS,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,15,05:23,5,44,"TARCZEWSKI, KALEB",P008004   ,Foul Drawn (1),RV,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,6,05:23,5,45,"TIMMA, JANIS",P005718   ,Foul (1),CM,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,3,05:22,5,46,"VILDOZA, LUCA",P007947   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,9,05:22,5,47,"HUERTAS, MARCELINHO",PJUJ      ,In,IN,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,15,05:22,5,48,"TARCZEWSKI, KALEB",P008004   ,Free Throw In (1/1 -  3 pt),FTM,14.0,9.0,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,6,05:04,5,49,"TIMMA, JANIS",P005718   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,,05:03,5,50,,          ,Def Rebound (2),D,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,0,04:40,6,52,"GOUDELOCK, ANDREW",P004903   ,Missed Three Pointer (1/2 -  5 pt),3FGA,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,,04:40,6,54,,          ,Def Rebound (3),D,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,11,04:40,6,55,"JANNING, MATT",P004165   ,Foul Drawn (1),RV,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,34,04:40,6,56,"JEFFERSON, CORY",P007992   ,Foul (1),CM,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+          ,,,04:38,6,57,,          ,TV Time Out (1),TOUT_TV,,,,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,15,04:38,6,58,"TARCZEWSKI, KALEB",P008004   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,77,04:38,6,59,"GUDAITIS, ARTURAS",P003120   ,In,IN,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,7,04:38,6,60,"VOIGTMANN, JOHANNES",P007201   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,17,04:38,6,61,"POIRIER, VINCENT",P004887   ,In,IN,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,6,04:37,6,62,"TIMMA, JANIS",P005718   ,Foul Drawn (1),RV,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,5,04:37,6,63,"MICOV, VLADIMIR",P000529   ,Foul (1),CM,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,6,04:37,6,64,"TIMMA, JANIS",P005718   ,Free Throw In (1/1 -  1 pt),FTM,14.0,10.0,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,17,04:37,6,65,"POIRIER, VINCENT",P004887   ,Assist (1),AS,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,6,04:37,6,66,"TIMMA, JANIS",P005718   ,Free Throw In (2/2 -  2 pt),FTM,14.0,11.0,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,5,04:02,6,67,"MICOV, VLADIMIR",P000529   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,23,04:00,6,68,"SHENGELIA, TORNIKE",P001133   ,Def Rebound (1),D,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,9,03:47,7,70,"HUERTAS, MARCELINHO",PJUJ      ,Foul Drawn (1),RV,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,34,03:47,7,71,"JEFFERSON, CORY",P007992   ,Foul (2),CM,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,10,03:45,7,72,"BEAUBOIS, RODRIGUE",P006590   ,In,IN,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,11,03:45,7,73,"JANNING, MATT",P004165   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,34,03:45,7,75,"JEFFERSON, CORY",P007992   ,Missed Three Pointer (0/1 -  4 pt),3FGA,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,10,03:45,7,76,"BEAUBOIS, RODRIGUE",P006590   ,Def Rebound (1),D,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,17,03:19,7,77,"POIRIER, VINCENT",P004887   ,Two Pointer (1/1 -  2 pt),2FGM,14.0,13.0,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,10,03:18,7,78,"BEAUBOIS, RODRIGUE",P006590   ,Assist (1),AS,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,34,03:06,7,79,"JEFFERSON, CORY",P007992   ,Three Pointer (1/2 -  7 pt),3FGM,17.0,13.0,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,25,03:03,7,80,"THEODORE, JORDAN",P007946   ,Assist (2),AS,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,9,02:47,8,82,"HUERTAS, MARCELINHO",PJUJ      ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,,02:46,8,83,,          ,Off Rebound (1),O,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,0,02:47,8,84,"GOUDELOCK, ANDREW",P004903   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,5,02:47,8,85,"MICOV, VLADIMIR",P000529   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,9,02:47,8,86,"KALNIETIS, MANTAS",PJBX      ,In,IN,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,55,02:47,8,87,"JERRELLS, CURTIS",P003067   ,In,IN,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,21,02:47,8,88,"JONES, KEVIN",P007185   ,In,IN,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,23,02:47,8,89,"SHENGELIA, TORNIKE",P001133   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,6,02:44,8,90,"TIMMA, JANIS",P005718   ,Missed Three Pointer (0/2 -  2 pt),3FGA,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,77,02:41,8,91,"GUDAITIS, ARTURAS",P003120   ,Def Rebound (1),D,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,25,02:34,8,92,"THEODORE, JORDAN",P007946   ,Foul (1),CM,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,9,02:34,8,93,"HUERTAS, MARCELINHO",PJUJ      ,Foul Drawn (2),RV,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,9,02:34,8,94,"HUERTAS, MARCELINHO",PJUJ      ,Foul (1),CM,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,25,02:34,8,95,"THEODORE, JORDAN",P007946   ,Foul Drawn (1),RV,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,77,02:24,8,96,"GUDAITIS, ARTURAS",P003120   ,Foul Drawn (1),RV,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,17,02:24,8,97,"POIRIER, VINCENT",P004887   ,Foul (1),CM,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,77,02:24,8,98,"GUDAITIS, ARTURAS",P003120   ,Free Throw In (1/1 -  1 pt),FTM,18.0,13.0,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,34,02:24,8,99,"JEFFERSON, CORY",P007992   ,Assist (1),AS,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,77,02:24,8,100,"GUDAITIS, ARTURAS",P003120   ,Free Throw In (2/2 -  2 pt),FTM,19.0,13.0,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,6,02:12,8,101,"TIMMA, JANIS",P005718   ,Foul Drawn (2),RV,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,9,02:12,8,102,"KALNIETIS, MANTAS",PJBX      ,Foul (1),CM,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,6,02:10,8,103,"TIMMA, JANIS",P005718   ,Free Throw In (3/3 -  3 pt),FTM,19.0,14.0,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,6,02:10,8,104,"TIMMA, JANIS",P005718   ,Free Throw In (4/4 -  4 pt),FTM,19.0,15.0,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,6,02:10,8,105,"TIMMA, JANIS",P005718   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,11,02:10,8,106,"JANNING, MATT",P004165   ,In,IN,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,25,01:47,9,108,"THEODORE, JORDAN",P007946   ,Missed Two Pointer (1/3 -  2 pt),2FGA,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,25,01:47,9,109,"THEODORE, JORDAN",P007946   ,Shot Rejected (1),AG,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,17,01:44,9,110,"POIRIER, VINCENT",P004887   ,Block (1),FV,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,55,01:44,9,111,"JERRELLS, CURTIS",P003067   ,Off Rebound (1),O,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,55,01:44,9,112,"JERRELLS, CURTIS",P003067   ,Three Pointer (1/1 -  3 pt),3FGM,22.0,15.0,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,9,01:42,9,270,"HUERTAS, MARCELINHO",PJUJ      ,Shot Rejected (1),AG,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,9,01:59,9,269,"HUERTAS, MARCELINHO",PJUJ      ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,77,01:42,9,268,"GUDAITIS, ARTURAS",P003120   ,Block (1),FV,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,17,01:39,9,114,"POIRIER, VINCENT",P004887   ,Off Rebound (1),O,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,17,01:39,9,115,"POIRIER, VINCENT",P004887   ,Two Pointer (2/2 -  4 pt),2FGM,22.0,17.0,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,55,01:17,9,116,"JERRELLS, CURTIS",P003067   ,Two Pointer (1/1 -  5 pt),2FGM,24.0,17.0,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,25,01:14,9,117,"THEODORE, JORDAN",P007946   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,45,01:14,9,118,"BERTANS, DAIRIS",P000436   ,In,IN,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,9,01:08,9,119,"HUERTAS, MARCELINHO",PJUJ      ,Foul Drawn (3),RV,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,9,01:08,9,120,"KALNIETIS, MANTAS",PJBX      ,Foul (2),CM,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,24,01:05,9,121,"M'BAYE, AMATH",P007993   ,In,IN,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,34,01:05,9,122,"JEFFERSON, CORY",P007992   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,9,01:05,9,123,"HUERTAS, MARCELINHO",PJUJ      ,Free Throw In (1/1 -  1 pt),FTM,24.0,18.0,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,9,01:05,9,124,"HUERTAS, MARCELINHO",PJUJ      ,Free Throw In (2/2 -  2 pt),FTM,24.0,19.0,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,45,00:48,10,126,"BERTANS, DAIRIS",P000436   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,45,00:48,10,127,"BERTANS, DAIRIS",P000436   ,Shot Rejected (1),AG,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,11,00:48,10,128,"JANNING, MATT",P004165   ,Block (1),FV,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,,00:48,10,129,,          ,Off Rebound (2),O,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,77,00:42,10,130,"GUDAITIS, ARTURAS",P003120   ,Foul Drawn (2),RV,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,21,00:42,10,131,"JONES, KEVIN",P007185   ,Foul (1),CM,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,9,00:42,10,132,"KALNIETIS, MANTAS",PJBX      ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,20,00:42,10,133,"CINCIARINI, ANDREA",PKIW      ,In,IN,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,77,00:42,10,134,"GUDAITIS, ARTURAS",P003120   ,Free Throw In (3/3 -  3 pt),FTM,25.0,19.0,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,55,00:42,10,135,"JERRELLS, CURTIS",P003067   ,Assist (1),AS,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,77,00:42,10,136,"GUDAITIS, ARTURAS",P003120   ,Free Throw In (4/4 -  4 pt),FTM,26.0,19.0,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,9,00:33,10,137,"HUERTAS, MARCELINHO",PJUJ      ,Three Pointer (1/1 -  5 pt),3FGM,26.0,22.0,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,77,00:13,10,138,"GUDAITIS, ARTURAS",P003120   ,Foul Drawn (3),RV,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,10,00:13,10,139,"BEAUBOIS, RODRIGUE",P006590   ,Foul (1),CM,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,77,00:13,10,140,"GUDAITIS, ARTURAS",P003120   ,Missed Free Throw (4/5 -  4 pt),FTA,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,77,00:13,10,141,"GUDAITIS, ARTURAS",P003120   ,Free Throw In (5/6 -  5 pt),FTM,27.0,22.0,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,55,00:13,10,142,"JERRELLS, CURTIS",P003067   ,Assist (2),AS,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,10,00:02,10,143,"BEAUBOIS, RODRIGUE",P006590   ,Three Pointer (1/1 -  3 pt),3FGM,27.0,25.0,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,9,00:00,10,144,"HUERTAS, MARCELINHO",PJUJ      ,Assist (1),AS,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+          ,,,,11,146,,          ,End Period,EP,,,,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+          ,,,,11,147,,          ,Begin Period,BP,,,,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,24,09:50,11,148,"M'BAYE, AMATH",P007993   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,21,09:48,11,149,"JONES, KEVIN",P007185   ,Def Rebound (1),D,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,17,09:40,11,150,"POIRIER, VINCENT",P004887   ,Foul Drawn (1),RV,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,45,09:40,11,151,"BERTANS, DAIRIS",P000436   ,Foul (1),CM,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,10,09:32,11,152,"BEAUBOIS, RODRIGUE",P006590   ,Two Pointer (1/1 -  5 pt),2FGM,27.0,27.0,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,45,09:12,11,153,"BERTANS, DAIRIS",P000436   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,24,09:09,11,154,"M'BAYE, AMATH",P007993   ,Off Rebound (1),O,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,24,09:04,11,155,"M'BAYE, AMATH",P007993   ,Two Pointer (1/1 -  2 pt),2FGM,29.0,27.0,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,10,08:47,12,157,"BEAUBOIS, RODRIGUE",P006590   ,Missed Two Pointer (1/2 -  5 pt),2FGA,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,77,08:44,12,158,"GUDAITIS, ARTURAS",P003120   ,Def Rebound (2),D,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,20,08:32,12,159,"CINCIARINI, ANDREA",PKIW      ,Foul Drawn (1),RV,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,9,08:32,12,160,"HUERTAS, MARCELINHO",PJUJ      ,Foul (2),CM,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,3,08:31,12,161,"VILDOZA, LUCA",P007947   ,In,IN,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,9,08:31,12,162,"HUERTAS, MARCELINHO",PJUJ      ,Out,OUT,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,55,08:28,12,163,"JERRELLS, CURTIS",P003067   ,Foul Drawn (1),RV,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,3,08:28,12,164,"VILDOZA, LUCA",P007947   ,Foul (1),CM,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,55,08:28,12,165,"JERRELLS, CURTIS",P003067   ,Free Throw In (1/1 -  6 pt),FTM,30.0,27.0,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,55,08:28,12,166,"JERRELLS, CURTIS",P003067   ,Free Throw In (2/2 -  7 pt),FTM,31.0,27.0,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,3,08:22,12,167,"VILDOZA, LUCA",P007947   ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,17,08:22,12,168,"POIRIER, VINCENT",P004887   ,Off Rebound (2),O,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,17,08:22,12,169,"POIRIER, VINCENT",P004887   ,Missed Two Pointer (2/3 -  4 pt),2FGA,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,20,08:22,12,170,"CINCIARINI, ANDREA",PKIW      ,Def Rebound (1),D,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,20,08:04,12,171,"CINCIARINI, ANDREA",PKIW      ,Turnover (1),TO,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,21,08:02,12,172,"JONES, KEVIN",P007185   ,Steal (1),ST,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,21,08:00,12,173,"JONES, KEVIN",P007185   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,55,07:58,13,175,"JERRELLS, CURTIS",P003067   ,Def Rebound (1),D,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,45,07:51,13,176,"BERTANS, DAIRIS",P000436   ,Three Pointer (1/2 -  3 pt),3FGM,34.0,27.0,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,55,07:49,13,177,"JERRELLS, CURTIS",P003067   ,Assist (3),AS,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,11,07:39,13,178,"JANNING, MATT",P004165   ,Foul Drawn (2),RV,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,45,07:39,13,179,"BERTANS, DAIRIS",P000436   ,Foul (2),CM,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,21,07:30,13,180,"JONES, KEVIN",P007185   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,23,07:30,13,181,"SHENGELIA, TORNIKE",P001133   ,In,IN,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,10,07:25,13,182,"BEAUBOIS, RODRIGUE",P006590   ,Missed Three Pointer (1/2 -  5 pt),3FGA,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,77,07:22,13,183,"GUDAITIS, ARTURAS",P003120   ,Def Rebound (3),D,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,20,07:13,13,184,"CINCIARINI, ANDREA",PKIW      ,Two Pointer (1/1 -  2 pt),2FGM,36.0,27.0,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,,07:02,13,185,,          ,Time Out (1),TOUT,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,6,07:02,13,186,"TIMMA, JANIS",P005718   ,In,IN,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,10,07:02,13,187,"BEAUBOIS, RODRIGUE",P006590   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,17,06:52,14,189,"POIRIER, VINCENT",P004887   ,Two Pointer (3/4 -  6 pt),2FGM,36.0,29.0,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,6,06:52,14,190,"TIMMA, JANIS",P005718   ,Assist (1),AS,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,45,06:21,14,191,"BERTANS, DAIRIS",P000436   ,Missed Three Pointer (1/3 -  3 pt),3FGA,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,77,06:19,14,192,"GUDAITIS, ARTURAS",P003120   ,Off Rebound (1),O,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,24,06:10,14,193,"M'BAYE, AMATH",P007993   ,Missed Three Pointer (0/2 -  2 pt),3FGA,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,17,06:10,14,194,"POIRIER, VINCENT",P004887   ,Def Rebound (1),D,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,17,05:52,15,196,"POIRIER, VINCENT",P004887   ,Missed Two Pointer (3/5 -  6 pt),2FGA,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,24,05:49,15,197,"M'BAYE, AMATH",P007993   ,Def Rebound (1),D,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,55,05:37,15,198,"JERRELLS, CURTIS",P003067   ,Foul Drawn (2),RV,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,17,05:35,15,199,"POIRIER, VINCENT",P004887   ,Foul (2),CM,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,5,05:34,15,200,"MICOV, VLADIMIR",P000529   ,In,IN,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,45,05:34,15,201,"BERTANS, DAIRIS",P000436   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,7,05:34,15,202,"VOIGTMANN, JOHANNES",P007201   ,In,IN,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,17,05:34,15,203,"POIRIER, VINCENT",P004887   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,55,05:26,15,204,"JERRELLS, CURTIS",P003067   ,Two Pointer (2/2 -  9 pt),2FGM,38.0,29.0,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,23,05:09,15,205,"SHENGELIA, TORNIKE",P001133   ,Foul Drawn (2),RV,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,24,05:09,15,206,"M'BAYE, AMATH",P007993   ,Foul (1),CM,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,11,05:06,15,207,"JANNING, MATT",P004165   ,Two Pointer (1/1 -  2 pt),2FGM,38.0,31.0,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,3,05:04,15,208,"VILDOZA, LUCA",P007947   ,Assist (2),AS,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,5,04:45,16,210,"MICOV, VLADIMIR",P000529   ,Two Pointer (1/2 -  2 pt),2FGM,40.0,31.0,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,23,04:26,16,211,"SHENGELIA, TORNIKE",P001133   ,Foul Drawn (3),RV,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,24,04:26,16,212,"M'BAYE, AMATH",P007993   ,Foul (2),CM,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,0,04:23,16,213,"GOUDELOCK, ANDREW",P004903   ,In,IN,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,20,04:23,16,214,"CINCIARINI, ANDREA",PKIW      ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,25,04:23,16,215,"THEODORE, JORDAN",P007946   ,In,IN,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,55,04:23,16,216,"JERRELLS, CURTIS",P003067   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,23,04:23,16,217,"SHENGELIA, TORNIKE",P001133   ,Missed Free Throw (2/3 -  6 pt),FTA,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,23,04:23,16,218,"SHENGELIA, TORNIKE",P001133   ,Missed Free Throw (2/4 -  6 pt),FTA,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,77,04:23,16,219,"GUDAITIS, ARTURAS",P003120   ,Def Rebound (4),D,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,0,04:00,16,220,"GOUDELOCK, ANDREW",P004903   ,Two Pointer (2/3 -  7 pt),2FGM,42.0,31.0,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,23,03:44,17,222,"SHENGELIA, TORNIKE",P001133   ,Foul Drawn (4),RV,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,24,03:44,17,223,"M'BAYE, AMATH",P007993   ,Foul (3),CM,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,7,03:41,17,224,"PASCOLO, DAVIDE",P006385   ,In,IN,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,24,03:41,17,225,"M'BAYE, AMATH",P007993   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,23,03:41,17,226,"SHENGELIA, TORNIKE",P001133   ,Missed Free Throw (2/5 -  6 pt),FTA,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,23,03:41,17,227,"SHENGELIA, TORNIKE",P001133   ,Free Throw In (3/6 -  7 pt),FTM,42.0,32.0,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,25,03:20,17,228,"THEODORE, JORDAN",P007946   ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,23,03:18,17,229,"SHENGELIA, TORNIKE",P001133   ,Def Rebound (2),D,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,23,02:59,18,231,"SHENGELIA, TORNIKE",P001133   ,Two Pointer (3/3 -  9 pt),2FGM,42.0,34.0,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,7,02:46,18,232,"PASCOLO, DAVIDE",P006385   ,Two Pointer (1/1 -  2 pt),2FGM,44.0,34.0,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,3,02:29,18,233,"VILDOZA, LUCA",P007947   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,77,02:25,18,234,"GUDAITIS, ARTURAS",P003120   ,Def Rebound (5),D,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,5,02:16,18,235,"MICOV, VLADIMIR",P000529   ,Three Pointer (1/1 -  5 pt),3FGM,47.0,34.0,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,0,02:15,18,236,"GOUDELOCK, ANDREW",P004903   ,Assist (2),AS,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,,02:12,18,237,,          ,Time Out (2),TOUT,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,3,02:12,18,238,"VILDOZA, LUCA",P007947   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,9,02:12,18,239,"HUERTAS, MARCELINHO",PJUJ      ,In,IN,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,7,01:54,19,241,"VOIGTMANN, JOHANNES",P007201   ,Missed Two Pointer (1/3 -  3 pt),2FGA,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,5,01:52,19,242,"MICOV, VLADIMIR",P000529   ,Def Rebound (1),D,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,0,01:31,19,243,"GOUDELOCK, ANDREW",P004903   ,Missed Two Pointer (2/4 -  7 pt),2FGA,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,7,01:28,19,244,"VOIGTMANN, JOHANNES",P007201   ,Def Rebound (2),D,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,9,01:16,19,245,"HUERTAS, MARCELINHO",PJUJ      ,Missed Two Pointer (0/3 -  5 pt),2FGA,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,9,01:14,19,246,"HUERTAS, MARCELINHO",PJUJ      ,Off Rebound (1),O,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,7,01:07,19,247,"VOIGTMANN, JOHANNES",P007201   ,Foul Drawn (2),RV,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,77,01:07,19,248,"GUDAITIS, ARTURAS",P003120   ,Foul (1),CM,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,10,01:05,19,249,"BEAUBOIS, RODRIGUE",P006590   ,In,IN,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,11,01:05,19,250,"JANNING, MATT",P004165   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,7,01:05,19,251,"VOIGTMANN, JOHANNES",P007201   ,Free Throw In (2/2 -  4 pt),FTM,47.0,35.0,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,7,01:05,19,252,"VOIGTMANN, JOHANNES",P007201   ,Missed Free Throw (2/3 -  4 pt),FTA,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,77,01:05,19,253,"GUDAITIS, ARTURAS",P003120   ,Def Rebound (6),D,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,5,00:48,20,255,"MICOV, VLADIMIR",P000529   ,Turnover (1),TO,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,23,00:46,20,256,"SHENGELIA, TORNIKE",P001133   ,Steal (1),ST,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,10,00:43,20,257,"BEAUBOIS, RODRIGUE",P006590   ,Turnover (1),TO,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,77,00:40,20,258,"GUDAITIS, ARTURAS",P003120   ,Steal (1),ST,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,25,00:27,20,259,"THEODORE, JORDAN",P007946   ,Foul Drawn (2),RV,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,23,00:27,20,260,"SHENGELIA, TORNIKE",P001133   ,Foul (1),CM,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,25,00:27,20,261,"THEODORE, JORDAN",P007946   ,Free Throw In (1/1 -  3 pt),FTM,48.0,35.0,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,25,00:27,20,262,"THEODORE, JORDAN",P007946   ,Free Throw In (2/2 -  4 pt),FTM,49.0,35.0,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,10,00:02,20,263,"BEAUBOIS, RODRIGUE",P006590   ,Missed Two Pointer (1/3 -  5 pt),2FGA,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,6,00:00,20,264,"TIMMA, JANIS",P005718   ,Off Rebound (1),O,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,6,00:00,20,265,"TIMMA, JANIS",P005718   ,Two Pointer (1/1 -  6 pt),2FGM,49.0,37.0,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+          ,,,,21,267,,          ,End Period,EP,,,,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+          ,,,,21,279,,          ,Begin Period,BP,,,,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,7,10:00,21,271,"PASCOLO, DAVIDE",P006385   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,15,10:00,21,272,"TARCZEWSKI, KALEB",P008004   ,In,IN,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,34,10:00,21,273,"JEFFERSON, CORY",P007992   ,In,IN,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,77,10:00,21,274,"GUDAITIS, ARTURAS",P003120   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,7,10:00,21,275,"VOIGTMANN, JOHANNES",P007201   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,10,10:00,21,276,"BEAUBOIS, RODRIGUE",P006590   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,11,10:00,21,277,"JANNING, MATT",P004165   ,In,IN,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,17,10:00,21,278,"POIRIER, VINCENT",P004887   ,In,IN,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,23,09:52,21,280,"SHENGELIA, TORNIKE",P001133   ,Two Pointer (4/4 -  11 pt),2FGM,49.0,39.0,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,9,09:50,21,281,"HUERTAS, MARCELINHO",PJUJ      ,Assist (2),AS,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,0,09:38,21,282,"GOUDELOCK, ANDREW",P004903   ,Foul Drawn (1),RV,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,11,09:38,21,283,"JANNING, MATT",P004165   ,Foul (1),CM,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,,09:38,21,284,,          ,Turnover (1),TO,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,11,09:26,21,285,"JANNING, MATT",P004165   ,Two Pointer (2/2 -  4 pt),2FGM,49.0,41.0,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,0,09:00,21,286,"GOUDELOCK, ANDREW",P004903   ,Two Pointer (3/5 -  9 pt),2FGM,51.0,41.0,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,23,08:38,22,288,"SHENGELIA, TORNIKE",P001133   ,Two Pointer (5/5 -  13 pt),2FGM,51.0,43.0,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,11,08:36,22,289,"JANNING, MATT",P004165   ,Assist (3),AS,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,25,08:25,22,290,"THEODORE, JORDAN",P007946   ,Missed Three Pointer (0/2 -  4 pt),3FGA,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,,08:24,22,291,,          ,Def Rebound (4),D,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,9,08:09,22,292,"HUERTAS, MARCELINHO",PJUJ      ,Turnover (1),TO,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,15,08:07,22,293,"TARCZEWSKI, KALEB",P008004   ,Steal (1),ST,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,25,08:06,22,294,"THEODORE, JORDAN",P007946   ,Two Pointer (2/4 -  6 pt),2FGM,53.0,43.0,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,25,08:06,22,295,"THEODORE, JORDAN",P007946   ,Foul Drawn (3),RV,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,11,08:06,22,296,"JANNING, MATT",P004165   ,Foul (2),CM,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,25,08:06,22,297,"THEODORE, JORDAN",P007946   ,Free Throw In (3/3 -  7 pt),FTM,54.0,43.0,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,11,07:55,23,299,"JANNING, MATT",P004165   ,Missed Three Pointer (0/2 -  4 pt),3FGA,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,0,07:52,23,300,"GOUDELOCK, ANDREW",P004903   ,Def Rebound (2),D,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,0,07:34,23,301,"GOUDELOCK, ANDREW",P004903   ,Three Pointer (2/3 -  12 pt),3FGM,57.0,43.0,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,5,07:32,23,302,"MICOV, VLADIMIR",P000529   ,Assist (1),AS,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,17,07:10,23,303,"POIRIER, VINCENT",P004887   ,Missed Two Pointer (3/6 -  6 pt),2FGA,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,17,07:10,23,304,"POIRIER, VINCENT",P004887   ,Shot Rejected (1),AG,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,5,07:08,23,305,"MICOV, VLADIMIR",P000529   ,Block (1),FV,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,15,07:05,23,306,"TARCZEWSKI, KALEB",P008004   ,Def Rebound (3),D,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,34,07:02,23,307,"JEFFERSON, CORY",P007992   ,Offensive Foul (3),OF,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,34,07:02,23,308,"JEFFERSON, CORY",P007992   ,Turnover (1),TO,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,23,07:02,23,309,"SHENGELIA, TORNIKE",P001133   ,Foul Drawn (5),RV,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,17,07:02,23,310,"POIRIER, VINCENT",P004887   ,Two Pointer (4/7 -  8 pt),2FGM,57.0,45.0,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,9,07:02,23,311,"HUERTAS, MARCELINHO",PJUJ      ,Assist (3),AS,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,5,06:33,24,313,"MICOV, VLADIMIR",P000529   ,Three Pointer (2/2 -  8 pt),3FGM,60.0,45.0,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,25,06:30,24,314,"THEODORE, JORDAN",P007946   ,Assist (3),AS,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,9,06:14,24,315,"HUERTAS, MARCELINHO",PJUJ      ,Missed Three Pointer (1/2 -  5 pt),3FGA,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,15,06:11,24,316,"TARCZEWSKI, KALEB",P008004   ,Def Rebound (4),D,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,5,06:05,24,317,"MICOV, VLADIMIR",P000529   ,Foul Drawn (1),RV,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,6,06:05,24,318,"TIMMA, JANIS",P005718   ,Foul (2),CM,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,10,06:02,24,319,"BEAUBOIS, RODRIGUE",P006590   ,In,IN,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,11,06:02,24,320,"JANNING, MATT",P004165   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,25,06:02,24,321,"THEODORE, JORDAN",P007946   ,Missed Two Pointer (2/5 -  7 pt),2FGA,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,,06:02,24,323,,          ,Def Rebound (5),D,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,5,05:47,25,325,"MICOV, VLADIMIR",P000529   ,Foul Drawn (2),RV,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,6,05:47,25,326,"TIMMA, JANIS",P005718   ,Offensive Foul (3),OF,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,6,05:47,25,327,"TIMMA, JANIS",P005718   ,Turnover (1),TO,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,25,05:45,25,328,"THEODORE, JORDAN",P007946   ,Missed Three Pointer (0/3 -  7 pt),3FGA,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,10,05:45,25,329,"BEAUBOIS, RODRIGUE",P006590   ,Def Rebound (2),D,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,10,05:45,25,330,"BEAUBOIS, RODRIGUE",P006590   ,Turnover (2),TO,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,25,05:45,25,331,"THEODORE, JORDAN",P007946   ,Steal (1),ST,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,0,05:45,25,332,"GOUDELOCK, ANDREW",P004903   ,Two Pointer (4/6 -  14 pt),2FGM,62.0,45.0,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,25,05:45,25,333,"THEODORE, JORDAN",P007946   ,Assist (4),AS,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,9,05:24,25,334,"HUERTAS, MARCELINHO",PJUJ      ,Two Pointer (1/4 -  7 pt),2FGM,62.0,47.0,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,5,04:31,26,336,"MICOV, VLADIMIR",P000529   ,Foul Drawn (3),RV,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,6,04:31,26,337,"TIMMA, JANIS",P005718   ,Foul (4),CM,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+          ,,,04:31,26,338,,          ,TV Time Out (2),TOUT_TV,,,,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,5,04:31,26,339,"GONZALEZ, MIGUEL",P008032   ,In,IN,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,6,04:31,26,340,"TIMMA, JANIS",P005718   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,7,04:31,26,341,"VOIGTMANN, JOHANNES",P007201   ,In,IN,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,17,04:31,26,342,"POIRIER, VINCENT",P004887   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,21,04:31,26,343,"JONES, KEVIN",P007185   ,In,IN,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,23,04:31,26,344,"SHENGELIA, TORNIKE",P001133   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,5,04:31,26,345,"MICOV, VLADIMIR",P000529   ,Free Throw In (1/1 -  9 pt),FTM,63.0,47.0,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,5,04:31,26,346,"MICOV, VLADIMIR",P000529   ,Free Throw In (2/2 -  10 pt),FTM,64.0,47.0,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,5,04:13,26,347,"GONZALEZ, MIGUEL",P008032   ,Three Pointer (1/1 -  3 pt),3FGM,64.0,50.0,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,7,04:13,26,348,"VOIGTMANN, JOHANNES",P007201   ,Assist (1),AS,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,25,03:59,27,350,"THEODORE, JORDAN",P007946   ,Foul Drawn (4),RV,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,9,03:59,27,351,"HUERTAS, MARCELINHO",PJUJ      ,Foul (3),CM,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,3,03:59,27,352,"VILDOZA, LUCA",P007947   ,In,IN,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,9,03:59,27,353,"HUERTAS, MARCELINHO",PJUJ      ,Out,OUT,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,25,03:59,27,354,"THEODORE, JORDAN",P007946   ,Free Throw In (4/4 -  8 pt),FTM,65.0,50.0,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,25,03:59,27,355,"THEODORE, JORDAN",P007946   ,Free Throw In (5/5 -  9 pt),FTM,66.0,50.0,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,10,03:52,27,356,"BEAUBOIS, RODRIGUE",P006590   ,Two Pointer (2/4 -  7 pt),2FGM,66.0,52.0,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,3,03:18,27,357,"VILDOZA, LUCA",P007947   ,Foul Drawn (1),RV,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,0,03:18,27,358,"GOUDELOCK, ANDREW",P004903   ,Offensive Foul (1),OF,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,0,03:18,27,359,"GOUDELOCK, ANDREW",P004903   ,Turnover (1),TO,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,5,03:14,27,360,"MICOV, VLADIMIR",P000529   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,9,03:14,27,361,"KALNIETIS, MANTAS",PJBX      ,In,IN,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,7,03:09,27,362,"VOIGTMANN, JOHANNES",P007201   ,Two Pointer (2/4 -  6 pt),2FGM,66.0,54.0,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,10,03:08,27,363,"BEAUBOIS, RODRIGUE",P006590   ,Assist (2),AS,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,34,02:41,28,365,"JEFFERSON, CORY",P007992   ,Missed Three Pointer (1/3 -  7 pt),3FGA,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,15,02:39,28,366,"TARCZEWSKI, KALEB",P008004   ,Off Rebound (1),O,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,34,02:59,28,400,"JEFFERSON, CORY",P007992   ,Shot Rejected (1),AG,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,34,02:39,28,399,"JEFFERSON, CORY",P007992   ,Missed Two Pointer (2/3 -  7 pt),2FGA,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,21,02:39,28,401,"JONES, KEVIN",P007185   ,Block (1),FV,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,21,02:39,28,411,"JONES, KEVIN",P007185   ,Def Rebound (2),D,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,10,02:13,28,369,"BEAUBOIS, RODRIGUE",P006590   ,Two Pointer (3/5 -  9 pt),2FGM,66.0,56.0,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,7,02:13,28,370,"VOIGTMANN, JOHANNES",P007201   ,Assist (2),AS,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,,02:10,28,371,,          ,Time Out (1),TOUT,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,0,02:10,28,372,"GOUDELOCK, ANDREW",P004903   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,24,02:10,28,373,"M'BAYE, AMATH",P007993   ,In,IN,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,34,02:10,28,374,"JEFFERSON, CORY",P007992   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,55,02:10,28,375,"JERRELLS, CURTIS",P003067   ,In,IN,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,25,01:54,29,377,"THEODORE, JORDAN",P007946   ,Three Pointer (1/4 -  12 pt),3FGM,69.0,56.0,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,55,01:52,29,378,"JERRELLS, CURTIS",P003067   ,Assist (4),AS,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,21,01:38,29,379,"JONES, KEVIN",P007185   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,15,01:38,29,380,"TARCZEWSKI, KALEB",P008004   ,Def Rebound (5),D,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,15,01:38,29,381,"TARCZEWSKI, KALEB",P008004   ,Two Pointer (2/2 -  5 pt),2FGM,71.0,56.0,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,24,01:38,29,382,"M'BAYE, AMATH",P007993   ,Assist (1),AS,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,15,01:13,29,383,"TARCZEWSKI, KALEB",P008004   ,Foul Drawn (2),RV,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,7,01:13,29,384,"VOIGTMANN, JOHANNES",P007201   ,Offensive Foul (1),OF,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,7,01:13,29,385,"VOIGTMANN, JOHANNES",P007201   ,Turnover (2),TO,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,55,00:50,30,387,"JERRELLS, CURTIS",P003067   ,Three Pointer (2/2 -  12 pt),3FGM,74.0,56.0,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,9,00:48,30,388,"KALNIETIS, MANTAS",PJBX      ,Assist (1),AS,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,10,00:39,30,389,"BEAUBOIS, RODRIGUE",P006590   ,Two Pointer (4/6 -  11 pt),2FGM,74.0,58.0,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,24,00:16,30,390,"M'BAYE, AMATH",P007993   ,Foul Drawn (1),RV,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,7,00:16,30,391,"VOIGTMANN, JOHANNES",P007201   ,Foul (2),CM,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,24,00:16,30,392,"M'BAYE, AMATH",P007993   ,Free Throw In (1/1 -  3 pt),FTM,75.0,58.0,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,55,00:16,30,449,"JERRELLS, CURTIS",P003067   ,Assist (5),AS,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,24,00:16,30,393,"M'BAYE, AMATH",P007993   ,Free Throw In (2/2 -  4 pt),FTM,76.0,58.0,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,15,00:16,30,394,"TARCZEWSKI, KALEB",P008004   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,77,00:16,30,395,"GUDAITIS, ARTURAS",P003120   ,In,IN,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,10,00:02,30,396,"BEAUBOIS, RODRIGUE",P006590   ,Foul Drawn (1),RV,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,25,00:02,30,397,"THEODORE, JORDAN",P007946   ,Foul (2),CM,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,,00:03,30,398,,          ,Time Out (1),TOUT,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,5,00:03,30,402,"MICOV, VLADIMIR",P000529   ,In,IN,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,9,00:03,30,403,"KALNIETIS, MANTAS",PJBX      ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,20,00:03,30,404,"CINCIARINI, ANDREA",PKIW      ,In,IN,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,25,00:03,30,405,"THEODORE, JORDAN",P007946   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,5,00:03,30,406,"GONZALEZ, MIGUEL",P008032   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,6,00:03,30,407,"TIMMA, JANIS",P005718   ,In,IN,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,10,00:03,30,408,"BEAUBOIS, RODRIGUE",P006590   ,Missed Three Pointer (1/3 -  11 pt),3FGA,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+          ,,,,31,410,,          ,End Period,EP,,,,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+          ,,,,31,418,,          ,Begin Period,BP,,,,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,5,10:00,31,412,"MICOV, VLADIMIR",P000529   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,9,10:00,31,413,"KALNIETIS, MANTAS",PJBX      ,In,IN,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,6,10:00,31,414,"TIMMA, JANIS",P005718   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,7,10:00,31,415,"VOIGTMANN, JOHANNES",P007201   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,11,10:00,31,416,"JANNING, MATT",P004165   ,In,IN,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,17,10:00,31,417,"POIRIER, VINCENT",P004887   ,In,IN,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,77,09:51,31,419,"GUDAITIS, ARTURAS",P003120   ,Two Pointer (1/1 -  7 pt),2FGM,78.0,58.0,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,55,09:51,31,420,"JERRELLS, CURTIS",P003067   ,Assist (6),AS,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,77,09:51,31,421,"GUDAITIS, ARTURAS",P003120   ,Foul Drawn (4),RV,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,17,09:51,31,422,"POIRIER, VINCENT",P004887   ,Foul (3),CM,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,77,09:51,31,423,"GUDAITIS, ARTURAS",P003120   ,Free Throw In (6/7 -  8 pt),FTM,79.0,58.0,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,11,09:33,31,424,"JANNING, MATT",P004165   ,Turnover (1),TO,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,55,09:32,31,425,"JERRELLS, CURTIS",P003067   ,Steal (1),ST,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,9,09:31,31,426,"KALNIETIS, MANTAS",PJBX      ,Two Pointer (1/1 -  2 pt),2FGM,81.0,58.0,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,55,09:31,31,427,"JERRELLS, CURTIS",P003067   ,Assist (7),AS,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,9,09:31,31,428,"KALNIETIS, MANTAS",PJBX      ,Foul Drawn (1),RV,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,11,09:31,31,429,"JANNING, MATT",P004165   ,Foul (3),CM,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,9,09:31,31,430,"KALNIETIS, MANTAS",PJBX      ,Free Throw In (1/1 -  3 pt),FTM,82.0,58.0,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,11,09:12,31,431,"JANNING, MATT",P004165   ,Two Pointer (3/3 -  6 pt),2FGM,82.0,60.0,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,55,08:46,32,433,"JERRELLS, CURTIS",P003067   ,Three Pointer (3/3 -  15 pt),3FGM,85.0,60.0,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,3,08:27,32,434,"VILDOZA, LUCA",P007947   ,Turnover (2),TO,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,21,08:26,32,435,"JONES, KEVIN",P007185   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,23,08:26,32,436,"SHENGELIA, TORNIKE",P001133   ,In,IN,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,9,08:22,32,437,"KALNIETIS, MANTAS",PJBX      ,Foul Drawn (2),RV,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,10,08:22,32,438,"BEAUBOIS, RODRIGUE",P006590   ,Foul (2),CM,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,20,08:20,32,439,"CINCIARINI, ANDREA",PKIW      ,Foul Drawn (2),RV,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,3,08:20,32,440,"VILDOZA, LUCA",P007947   ,Foul (2),CM,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,9,08:15,32,441,"KALNIETIS, MANTAS",PJBX      ,Turnover (1),TO,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,23,07:57,33,443,"SHENGELIA, TORNIKE",P001133   ,Two Pointer (6/6 -  15 pt),2FGM,85.0,62.0,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,9,07:43,33,444,"KALNIETIS, MANTAS",PJBX      ,Turnover (2),TO,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,3,07:41,33,445,"VILDOZA, LUCA",P007947   ,Steal (1),ST,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,10,07:41,33,446,"BEAUBOIS, RODRIGUE",P006590   ,Two Pointer (5/7 -  13 pt),2FGM,85.0,64.0,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,3,07:41,33,447,"VILDOZA, LUCA",P007947   ,Assist (3),AS,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,,07:38,33,448,,          ,Time Out (1),TOUT,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,9,07:38,33,450,"KALNIETIS, MANTAS",PJBX      ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,20,07:38,33,451,"CINCIARINI, ANDREA",PKIW      ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,25,07:38,33,452,"THEODORE, JORDAN",P007946   ,In,IN,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,45,07:38,33,453,"BERTANS, DAIRIS",P000436   ,In,IN,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,77,07:18,33,454,"GUDAITIS, ARTURAS",P003120   ,Turnover (1),TO,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,11,07:16,33,455,"JANNING, MATT",P004165   ,Steal (2),ST,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,11,07:15,33,456,"JANNING, MATT",P004165   ,Foul Drawn (3),RV,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,45,07:15,33,457,"BERTANS, DAIRIS",P000436   ,Foul (3),CM,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,23,07:05,33,458,"SHENGELIA, TORNIKE",P001133   ,Foul Drawn (6),RV,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,24,07:05,33,459,"M'BAYE, AMATH",P007993   ,Foul (4),CM,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,11,06:57,34,461,"JANNING, MATT",P004165   ,Two Pointer (4/4 -  8 pt),2FGM,85.0,66.0,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,55,06:45,34,462,"JERRELLS, CURTIS",P003067   ,Turnover (1),TO,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,3,06:40,34,463,"VILDOZA, LUCA",P007947   ,Three Pointer (1/3 -  3 pt),3FGM,85.0,69.0,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,3,06:40,34,464,"VILDOZA, LUCA",P007947   ,Foul Drawn (2),RV,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,25,06:40,34,465,"THEODORE, JORDAN",P007946   ,Foul (3),CM,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,3,06:40,34,466,"VILDOZA, LUCA",P007947   ,Free Throw In (1/1 -  4 pt),FTM,85.0,70.0,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,55,06:20,34,467,"JERRELLS, CURTIS",P003067   ,Missed Two Pointer (2/3 -  15 pt),2FGA,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,17,06:18,34,468,"POIRIER, VINCENT",P004887   ,Def Rebound (2),D,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,23,06:09,34,469,"SHENGELIA, TORNIKE",P001133   ,Foul Drawn (7),RV,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,24,06:09,34,470,"M'BAYE, AMATH",P007993   ,Foul (5),CM,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,0,06:05,34,471,"GOUDELOCK, ANDREW",P004903   ,In,IN,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,7,06:05,34,472,"PASCOLO, DAVIDE",P006385   ,In,IN,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,24,06:05,34,473,"M'BAYE, AMATH",P007993   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,55,06:05,34,474,"JERRELLS, CURTIS",P003067   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,10,06:05,34,475,"BEAUBOIS, RODRIGUE",P006590   ,Two Pointer (6/8 -  15 pt),2FGM,85.0,72.0,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,3,06:05,34,476,"VILDOZA, LUCA",P007947   ,Assist (4),AS,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,0,05:47,35,478,"GOUDELOCK, ANDREW",P004903   ,Turnover (2),TO,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,17,05:45,35,479,"POIRIER, VINCENT",P004887   ,Steal (1),ST,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,23,05:41,35,480,"SHENGELIA, TORNIKE",P001133   ,Two Pointer (7/7 -  17 pt),2FGM,85.0,74.0,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,17,05:39,35,481,"POIRIER, VINCENT",P004887   ,Assist (2),AS,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,7,05:17,35,482,"PASCOLO, DAVIDE",P006385   ,Two Pointer (2/2 -  4 pt),2FGM,87.0,74.0,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,45,05:15,35,483,"BERTANS, DAIRIS",P000436   ,Assist (1),AS,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,17,04:59,36,485,"POIRIER, VINCENT",P004887   ,Turnover (1),TO,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,0,04:40,36,486,"GOUDELOCK, ANDREW",P004903   ,Missed Three Pointer (2/4 -  14 pt),3FGA,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,,04:39,36,487,,          ,Def Rebound (6),D,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,5,04:37,36,488,"MICOV, VLADIMIR",P000529   ,In,IN,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,45,04:37,36,489,"BERTANS, DAIRIS",P000436   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,3,04:21,36,490,"VILDOZA, LUCA",P007947   ,Turnover (3),TO,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,77,04:19,36,491,"GUDAITIS, ARTURAS",P003120   ,Steal (2),ST,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,7,04:15,36,492,"PASCOLO, DAVIDE",P006385   ,Missed Two Pointer (2/3 -  4 pt),2FGA,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,7,04:15,36,493,"PASCOLO, DAVIDE",P006385   ,Shot Rejected (1),AG,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,23,04:13,36,494,"SHENGELIA, TORNIKE",P001133   ,Block (1),FV,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,3,04:12,36,495,"VILDOZA, LUCA",P007947   ,Def Rebound (1),D,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,23,04:09,36,496,"SHENGELIA, TORNIKE",P001133   ,Two Pointer (8/8 -  19 pt),2FGM,87.0,76.0,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,0,03:43,37,498,"GOUDELOCK, ANDREW",P004903   ,Missed Three Pointer (2/5 -  14 pt),3FGA,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,23,03:38,37,499,"SHENGELIA, TORNIKE",P001133   ,Def Rebound (3),D,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,3,03:30,37,500,"VILDOZA, LUCA",P007947   ,Three Pointer (2/4 -  7 pt),3FGM,87.0,79.0,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,5,03:13,37,501,"MICOV, VLADIMIR",P000529   ,Foul Drawn (4),RV,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,11,03:13,37,502,"JANNING, MATT",P004165   ,Foul (4),CM,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,6,03:12,37,503,"TIMMA, JANIS",P005718   ,In,IN,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,9,03:12,37,504,"HUERTAS, MARCELINHO",PJUJ      ,In,IN,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,10,03:12,37,505,"BEAUBOIS, RODRIGUE",P006590   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,11,03:12,37,506,"JANNING, MATT",P004165   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,5,03:12,37,507,"MICOV, VLADIMIR",P000529   ,Missed Free Throw (2/3 -  10 pt),FTA,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,5,03:12,37,508,"MICOV, VLADIMIR",P000529   ,Free Throw In (3/4 -  11 pt),FTM,88.0,79.0,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,17,03:00,37,509,"POIRIER, VINCENT",P004887   ,Foul Drawn (2),RV,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,7,03:00,37,510,"PASCOLO, DAVIDE",P006385   ,Foul (1),CM,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,17,03:00,37,511,"POIRIER, VINCENT",P004887   ,Free Throw In (1/1 -  9 pt),FTM,88.0,80.0,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,23,03:00,37,512,"SHENGELIA, TORNIKE",P001133   ,Assist (1),AS,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,17,03:00,37,513,"POIRIER, VINCENT",P004887   ,Free Throw In (2/2 -  10 pt),FTM,88.0,81.0,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,25,02:43,38,515,"THEODORE, JORDAN",P007946   ,Missed Two Pointer (2/6 -  12 pt),2FGA,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,25,02:43,38,516,"THEODORE, JORDAN",P007946   ,Shot Rejected (2),AG,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,17,02:43,38,517,"POIRIER, VINCENT",P004887   ,Block (2),FV,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,,02:43,38,518,,          ,Off Rebound (3),O,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,0,02:38,38,519,"GOUDELOCK, ANDREW",P004903   ,Missed Three Pointer (2/6 -  14 pt),3FGA,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,17,02:35,38,520,"POIRIER, VINCENT",P004887   ,Def Rebound (3),D,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,3,02:28,38,521,"VILDOZA, LUCA",P007947   ,Turnover (4),TO,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,5,02:26,38,522,"MICOV, VLADIMIR",P000529   ,Steal (1),ST,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,5,02:16,38,523,"MICOV, VLADIMIR",P000529   ,Turnover (2),TO,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,9,02:16,38,524,"HUERTAS, MARCELINHO",PJUJ      ,Steal (1),ST,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,9,02:16,38,525,"HUERTAS, MARCELINHO",PJUJ      ,Foul Drawn (4),RV,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,5,02:16,38,526,"MICOV, VLADIMIR",P000529   ,Unsportsmanlike Foul  (2),CMU,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,9,02:16,38,527,"HUERTAS, MARCELINHO",PJUJ      ,Free Throw In (3/3 -  8 pt),FTM,88.0,82.0,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,9,02:16,38,528,"HUERTAS, MARCELINHO",PJUJ      ,Free Throw In (4/4 -  9 pt),FTM,88.0,83.0,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,23,02:09,38,529,"SHENGELIA, TORNIKE",P001133   ,Missed Two Pointer (8/9 -  19 pt),2FGA,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,77,02:09,38,530,"GUDAITIS, ARTURAS",P003120   ,Def Rebound (7),D,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,77,02:09,38,531,"GUDAITIS, ARTURAS",P003120   ,Foul Drawn (5),RV,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,23,02:09,38,532,"SHENGELIA, TORNIKE",P001133   ,Foul (2),CM,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,3,02:07,38,533,"VILDOZA, LUCA",P007947   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,10,02:07,38,534,"BEAUBOIS, RODRIGUE",P006590   ,In,IN,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,77,02:07,38,535,"GUDAITIS, ARTURAS",P003120   ,Free Throw In (7/8 -  9 pt),FTM,89.0,83.0,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,77,02:07,38,536,"GUDAITIS, ARTURAS",P003120   ,Free Throw In (8/9 -  10 pt),FTM,90.0,83.0,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,10,01:54,39,538,"BEAUBOIS, RODRIGUE",P006590   ,Turnover (3),TO,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,7,01:30,39,539,"PASCOLO, DAVIDE",P006385   ,Missed Three Pointer (0/1 -  4 pt),3FGA,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,0,01:28,39,540,"GOUDELOCK, ANDREW",P004903   ,Off Rebound (1),O,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,5,01:15,39,541,"MICOV, VLADIMIR",P000529   ,Missed Three Pointer (2/3 -  11 pt),3FGA,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,6,01:13,39,542,"TIMMA, JANIS",P005718   ,Def Rebound (1),D,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,6,01:11,39,543,"TIMMA, JANIS",P005718   ,Turnover (2),TO,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,7,01:09,39,544,"PASCOLO, DAVIDE",P006385   ,Steal (1),ST,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,5,00:55,40,546,"MICOV, VLADIMIR",P000529   ,Foul Drawn (5),RV,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,6,00:55,40,547,"TIMMA, JANIS",P005718   ,Foul (5),CM,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,6,00:55,40,548,"TIMMA, JANIS",P005718   ,Out,OUT,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,11,00:55,40,549,"JANNING, MATT",P004165   ,In,IN,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,5,00:55,40,550,"MICOV, VLADIMIR",P000529   ,Free Throw In (4/5 -  12 pt),FTM,91.0,83.0,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,5,00:55,40,551,"MICOV, VLADIMIR",P000529   ,Missed Free Throw (4/6 -  12 pt),FTA,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,,00:55,40,553,,          ,Def Rebound (7),D,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,9,00:46,40,554,"HUERTAS, MARCELINHO",PJUJ      ,Foul Drawn (5),RV,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,25,00:46,40,555,"THEODORE, JORDAN",P007946   ,Foul (4),CM,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,9,00:46,40,556,"HUERTAS, MARCELINHO",PJUJ      ,Free Throw In (5/5 -  10 pt),FTM,91.0,84.0,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,9,00:46,40,557,"HUERTAS, MARCELINHO",PJUJ      ,Free Throw In (6/6 -  11 pt),FTM,91.0,85.0,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,0,00:33,40,558,"GOUDELOCK, ANDREW",P004903   ,Foul Drawn (2),RV,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,10,00:33,40,559,"BEAUBOIS, RODRIGUE",P006590   ,Foul (3),CM,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,0,00:33,40,560,"GOUDELOCK, ANDREW",P004903   ,Free Throw In (1/1 -  15 pt),FTM,92.0,85.0,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,0,00:33,40,561,"GOUDELOCK, ANDREW",P004903   ,Missed Free Throw (1/2 -  15 pt),FTA,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,23,00:33,40,562,"SHENGELIA, TORNIKE",P001133   ,Def Rebound (4),D,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,23,00:25,40,563,"SHENGELIA, TORNIKE",P001133   ,Missed Two Pointer (8/10 -  19 pt),2FGA,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,0,00:21,40,564,"GOUDELOCK, ANDREW",P004903   ,Def Rebound (3),D,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+MIL       ,,0,00:01,40,565,"GOUDELOCK, ANDREW",P004903   ,Missed Three Pointer (2/7 -  15 pt),3FGA,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+BAS       ,,17,00:00,40,566,"POIRIER, VINCENT",P004887   ,Def Rebound (4),D,,,Baskonia Vitoria Gasteiz,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS
+          ,,,,41,569,,          ,End Game,EG,,,,0,AX Armani Exchange Olimpia Milan,MIL,Baskonia Vitoria Gasteiz,BAS

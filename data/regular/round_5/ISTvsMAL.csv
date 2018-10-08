@@ -1,550 +1,550 @@
-CODETEAM,COMMENT,DORSAL,MARKERTIME,MINUTE,NUMBEROFPLAY,PLAYER,PLAYER_ID,PLAYINFO,PLAYTYPE,POINTS_A,POINTS_B,TEAM,TYPE
-          ,,,,1,17,,          ,Begin Period,BP,,,,0
-MAL       ,,10,09:53,1,18,"SALIN, SASU",P002820   ,Turnover (1),TO,,,Unicaja Malaga,0
-IST       ,,1,09:53,1,19,"LEDO, RICKY",P007969   ,Steal (1),ST,,,Anadolu Efes Istanbul,0
-IST       ,,3,09:53,1,20,"MCCOLLUM, ERRICK",P005216   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Anadolu Efes Istanbul,0
-IST       ,,15,09:53,1,21,"STIMAC, VLADIMIR",PLBJ      ,Off Rebound (1),O,,,Anadolu Efes Istanbul,0
-IST       ,,15,09:53,1,22,"STIMAC, VLADIMIR",PLBJ      ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Anadolu Efes Istanbul,0
-IST       ,,15,09:53,1,23,"STIMAC, VLADIMIR",PLBJ      ,Off Rebound (2),O,,,Anadolu Efes Istanbul,0
-IST       ,,1,09:18,1,24,"LEDO, RICKY",P007969   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Anadolu Efes Istanbul,0
-IST       ,,15,09:18,1,25,"STIMAC, VLADIMIR",PLBJ      ,Off Rebound (3),O,,,Anadolu Efes Istanbul,0
-IST       ,,15,09:18,1,26,"STIMAC, VLADIMIR",PLBJ      ,Two Pointer (1/2 -  2 pt),2FGM,2.0,,Anadolu Efes Istanbul,0
-MAL       ,,10,08:56,2,28,"SALIN, SASU",P002820   ,Three Pointer (1/1 -  3 pt),3FGM,2.0,3.0,Unicaja Malaga,0
-MAL       ,,17,08:55,2,29,"SHERMADINI, GIORGI",P001386   ,Assist (1),AS,,,Unicaja Malaga,0
-IST       ,,42,08:33,2,30,"DUNSTON, BRYANT",P003048   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Anadolu Efes Istanbul,0
-MAL       ,,23,08:31,2,31,"BROOKS, JEFF",P004117   ,Def Rebound (1),D,,,Unicaja Malaga,0
-MAL       ,,10,08:20,2,32,"SALIN, SASU",P002820   ,Three Pointer (2/2 -  6 pt),3FGM,2.0,6.0,Unicaja Malaga,0
-MAL       ,,23,08:18,2,33,"BROOKS, JEFF",P004117   ,Assist (1),AS,,,Unicaja Malaga,0
-IST       ,,15,07:57,3,35,"STIMAC, VLADIMIR",PLBJ      ,Two Pointer (2/3 -  4 pt),2FGM,4.0,6.0,Anadolu Efes Istanbul,0
-IST       ,,42,07:56,3,36,"DUNSTON, BRYANT",P003048   ,Assist (1),AS,,,Anadolu Efes Istanbul,0
-MAL       ,,12,07:37,3,37,"MILOSAVLJEVIC, DRAGAN",P002822   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Unicaja Malaga,0
-IST       ,,42,07:35,3,38,"DUNSTON, BRYANT",P003048   ,Def Rebound (1),D,,,Anadolu Efes Istanbul,0
-IST       ,,15,07:24,3,39,"STIMAC, VLADIMIR",PLBJ      ,Missed Two Pointer (2/4 -  4 pt),2FGA,,,Anadolu Efes Istanbul,0
-MAL       ,,23,07:22,3,40,"BROOKS, JEFF",P004117   ,Def Rebound (2),D,,,Unicaja Malaga,0
-MAL       ,,17,07:08,3,41,"SHERMADINI, GIORGI",P001386   ,Two Pointer (1/1 -  2 pt),2FGM,4.0,8.0,Unicaja Malaga,0
-MAL       ,,3,07:06,3,42,"MCCALLUM, RAY",P008002   ,Assist (1),AS,,,Unicaja Malaga,0
-IST       ,,8,06:47,4,44,"BATUK, BIRKAN",P004170   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Anadolu Efes Istanbul,0
-MAL       ,,,06:46,4,45,,          ,Def Rebound (1),D,,,Unicaja Malaga,0
-IST       ,,3,06:31,4,46,"MCCOLLUM, ERRICK",P005216   ,Foul (1),CM,,,Anadolu Efes Istanbul,0
-MAL       ,,10,06:31,4,47,"SALIN, SASU",P002820   ,Foul Drawn (1),RV,,,Unicaja Malaga,0
-MAL       ,,12,06:24,4,48,"MILOSAVLJEVIC, DRAGAN",P002822   ,Turnover (1),TO,,,Unicaja Malaga,0
-IST       ,,1,06:23,4,49,"LEDO, RICKY",P007969   ,Steal (2),ST,,,Anadolu Efes Istanbul,0
-IST       ,,1,06:20,4,50,"LEDO, RICKY",P007969   ,Two Pointer (1/2 -  2 pt),2FGM,6.0,8.0,Anadolu Efes Istanbul,0
-MAL       ,,17,06:08,4,51,"SHERMADINI, GIORGI",P001386   ,Two Pointer (2/2 -  4 pt),2FGM,6.0,10.0,Unicaja Malaga,0
-MAL       ,,17,06:08,4,52,"SHERMADINI, GIORGI",P001386   ,Foul Drawn (1),RV,,,Unicaja Malaga,0
-IST       ,,15,06:08,4,53,"STIMAC, VLADIMIR",PLBJ      ,Foul (1),CM,,,Anadolu Efes Istanbul,0
-IST       ,,8,06:08,4,54,"BATUK, BIRKAN",P004170   ,Out,OUT,,,Anadolu Efes Istanbul,0
-IST       ,,44,06:08,4,55,"SIMON, KRUNOSLAV",PCPR      ,In,IN,,,Anadolu Efes Istanbul,0
-MAL       ,,17,06:08,4,56,"SHERMADINI, GIORGI",P001386   ,Free Throw In (1/1 -  5 pt),FTM,6.0,11.0,Unicaja Malaga,0
-MAL       ,,3,06:08,4,57,"MCCALLUM, RAY",P008002   ,Assist (2),AS,,,Unicaja Malaga,0
-MAL       ,,17,05:56,5,59,"SHERMADINI, GIORGI",P001386   ,Foul (1),CM,,,Unicaja Malaga,0
-IST       ,,42,05:56,5,60,"DUNSTON, BRYANT",P003048   ,Foul Drawn (1),RV,,,Anadolu Efes Istanbul,0
-IST       ,,42,05:56,5,61,"DUNSTON, BRYANT",P003048   ,Free Throw In (1/1 -  1 pt),FTM,7.0,11.0,Anadolu Efes Istanbul,0
-IST       ,,15,05:56,5,62,"STIMAC, VLADIMIR",PLBJ      ,Assist (1),AS,,,Anadolu Efes Istanbul,0
-IST       ,,42,05:56,5,63,"DUNSTON, BRYANT",P003048   ,Free Throw In (2/2 -  2 pt),FTM,8.0,11.0,Anadolu Efes Istanbul,0
-MAL       ,,17,05:39,5,64,"SHERMADINI, GIORGI",P001386   ,Two Pointer (3/3 -  7 pt),2FGM,8.0,13.0,Unicaja Malaga,0
-MAL       ,,3,05:37,5,65,"MCCALLUM, RAY",P008002   ,Assist (3),AS,,,Unicaja Malaga,0
-MAL       ,,3,05:23,5,66,"MCCALLUM, RAY",P008002   ,Foul (1),CM,,,Unicaja Malaga,0
-IST       ,,3,05:23,5,67,"MCCOLLUM, ERRICK",P005216   ,Foul Drawn (1),RV,,,Anadolu Efes Istanbul,0
-IST       ,,3,05:23,5,68,"MCCOLLUM, ERRICK",P005216   ,Missed Free Throw (0/1 -  0 pt),FTA,,,Anadolu Efes Istanbul,0
-IST       ,,3,05:23,5,69,"MCCOLLUM, ERRICK",P005216   ,Free Throw In (1/2 -  1 pt),FTM,9.0,13.0,Anadolu Efes Istanbul,0
-MAL       ,,17,05:06,5,70,"SHERMADINI, GIORGI",P001386   ,Missed Two Pointer (3/4 -  7 pt),2FGA,,,Unicaja Malaga,0
-MAL       ,,23,05:04,5,71,"BROOKS, JEFF",P004117   ,Off Rebound (1),O,,,Unicaja Malaga,0
-MAL       ,,23,05:01,5,72,"BROOKS, JEFF",P004117   ,Three Pointer (1/1 -  3 pt),3FGM,9.0,16.0,Unicaja Malaga,0
-MAL       ,,23,04:48,6,74,"BROOKS, JEFF",P004117   ,Foul (1),CM,,,Unicaja Malaga,0
-IST       ,,42,04:48,6,75,"DUNSTON, BRYANT",P003048   ,Foul Drawn (2),RV,,,Anadolu Efes Istanbul,0
-          ,,,04:48,6,76,,          ,TV Time Out (1),TOUT_TV,,,,0
-IST       ,,1,04:48,6,77,"LEDO, RICKY",P007969   ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,Anadolu Efes Istanbul,0
-IST       ,,1,04:41,6,78,"LEDO, RICKY",P007969   ,Off Rebound (1),O,,,Anadolu Efes Istanbul,0
-IST       ,,15,04:39,6,79,"STIMAC, VLADIMIR",PLBJ      ,Missed Two Pointer (2/5 -  4 pt),2FGA,,,Anadolu Efes Istanbul,0
-IST       ,,1,04:38,6,80,"LEDO, RICKY",P007969   ,Foul (1),CM,,,Anadolu Efes Istanbul,0
-MAL       ,,12,04:38,6,81,"MILOSAVLJEVIC, DRAGAN",P002822   ,Foul Drawn (1),RV,,,Unicaja Malaga,0
-MAL       ,,,04:38,6,82,,          ,Def Rebound (2),D,,,Unicaja Malaga,0
-MAL       ,,3,04:28,6,83,"MCCALLUM, RAY",P008002   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Unicaja Malaga,0
-IST       ,,44,04:25,6,84,"SIMON, KRUNOSLAV",PCPR      ,Def Rebound (1),D,,,Anadolu Efes Istanbul,0
-IST       ,,44,04:18,6,85,"SIMON, KRUNOSLAV",PCPR      ,Two Pointer (1/1 -  2 pt),2FGM,11.0,16.0,Anadolu Efes Istanbul,0
-MAL       ,,10,04:01,6,86,"SALIN, SASU",P002820   ,Missed Three Pointer (2/3 -  6 pt),3FGA,,,Unicaja Malaga,0
-IST       ,,,04:00,6,87,,          ,Def Rebound (3),D,,,Anadolu Efes Istanbul,0
-IST       ,,3,04:00,6,88,"MCCOLLUM, ERRICK",P005216   ,Out,OUT,,,Anadolu Efes Istanbul,0
-IST       ,,14,04:00,6,89,"ADAMS, JOSH",P007872   ,In,IN,,,Anadolu Efes Istanbul,0
-MAL       ,,12,03:44,7,91,"MILOSAVLJEVIC, DRAGAN",P002822   ,Foul (1),CM,,,Unicaja Malaga,0
-IST       ,,1,03:44,7,92,"LEDO, RICKY",P007969   ,Foul Drawn (1),RV,,,Anadolu Efes Istanbul,0
-MAL       ,,10,03:44,7,93,"SALIN, SASU",P002820   ,Out,OUT,,,Unicaja Malaga,0
-MAL       ,,16,03:44,7,94,"NEDOVIC, NEMANJA",P000848   ,In,IN,,,Unicaja Malaga,0
-IST       ,,1,03:44,7,95,"LEDO, RICKY",P007969   ,Missed Free Throw (0/1 -  2 pt),FTA,,,Anadolu Efes Istanbul,0
-IST       ,,1,03:44,7,96,"LEDO, RICKY",P007969   ,Missed Free Throw (0/2 -  2 pt),FTA,,,Anadolu Efes Istanbul,0
-MAL       ,,23,03:44,7,97,"BROOKS, JEFF",P004117   ,Def Rebound (3),D,,,Unicaja Malaga,0
-MAL       ,,3,03:27,7,98,"MCCALLUM, RAY",P008002   ,Two Pointer (1/2 -  2 pt),2FGM,11.0,18.0,Unicaja Malaga,0
-MAL       ,,3,03:27,7,99,"MCCALLUM, RAY",P008002   ,Foul Drawn (1),RV,,,Unicaja Malaga,0
-IST       ,,14,03:27,7,100,"ADAMS, JOSH",P007872   ,Foul (1),CM,,,Anadolu Efes Istanbul,0
-IST       ,,1,03:27,7,101,"LEDO, RICKY",P007969   ,Out,OUT,,,Anadolu Efes Istanbul,0
-IST       ,,24,03:27,7,102,"MURIC, EDO",P003515   ,In,IN,,,Anadolu Efes Istanbul,0
-MAL       ,,12,03:27,7,103,"MILOSAVLJEVIC, DRAGAN",P002822   ,Out,OUT,,,Unicaja Malaga,0
-MAL       ,,21,03:27,7,104,"WACZYNSKI, ADAM",PLDX      ,In,IN,,,Unicaja Malaga,0
-MAL       ,,3,03:27,7,105,"MCCALLUM, RAY",P008002   ,Free Throw In (1/1 -  3 pt),FTM,11.0,19.0,Unicaja Malaga,0
-IST       ,,15,03:16,7,106,"STIMAC, VLADIMIR",PLBJ      ,Two Pointer (3/6 -  6 pt),2FGM,13.0,19.0,Anadolu Efes Istanbul,0
-IST       ,,44,03:14,7,107,"SIMON, KRUNOSLAV",PCPR      ,Assist (1),AS,,,Anadolu Efes Istanbul,0
-MAL       ,,3,02:56,8,109,"MCCALLUM, RAY",P008002   ,Turnover (1),TO,,,Unicaja Malaga,0
-IST       ,,44,02:55,8,110,"SIMON, KRUNOSLAV",PCPR      ,Steal (1),ST,,,Anadolu Efes Istanbul,0
-IST       ,,15,02:42,8,111,"STIMAC, VLADIMIR",PLBJ      ,Missed Two Pointer (3/7 -  6 pt),2FGA,,,Anadolu Efes Istanbul,0
-MAL       ,,23,02:40,8,112,"BROOKS, JEFF",P004117   ,Def Rebound (4),D,,,Unicaja Malaga,0
-MAL       ,,16,02:34,8,113,"NEDOVIC, NEMANJA",P000848   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Unicaja Malaga,0
-IST       ,,42,02:31,8,114,"DUNSTON, BRYANT",P003048   ,Def Rebound (2),D,,,Anadolu Efes Istanbul,0
-IST       ,,24,02:21,8,115,"MURIC, EDO",P003515   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Anadolu Efes Istanbul,0
-MAL       ,,17,02:19,8,116,"SHERMADINI, GIORGI",P001386   ,Def Rebound (1),D,,,Unicaja Malaga,0
-IST       ,,15,02:08,8,117,"STIMAC, VLADIMIR",PLBJ      ,Foul (2),CM,,,Anadolu Efes Istanbul,0
-MAL       ,,17,02:08,8,118,"SHERMADINI, GIORGI",P001386   ,Foul Drawn (2),RV,,,Unicaja Malaga,0
-IST       ,,12,02:08,8,119,"MOTUM, BROCK",P006599   ,In,IN,,,Anadolu Efes Istanbul,0
-IST       ,,15,02:08,8,120,"STIMAC, VLADIMIR",PLBJ      ,Out,OUT,,,Anadolu Efes Istanbul,0
-MAL       ,,3,02:08,8,121,"MCCALLUM, RAY",P008002   ,Out,OUT,,,Unicaja Malaga,0
-MAL       ,,9,02:08,8,122,"DIAZ, ALBERTO",P004213   ,In,IN,,,Unicaja Malaga,0
-MAL       ,,23,02:08,8,123,"BROOKS, JEFF",P004117   ,Out,OUT,,,Unicaja Malaga,0
-MAL       ,,43,02:08,8,124,"SUAREZ, CARLOS",PJJS      ,In,IN,,,Unicaja Malaga,0
-MAL       ,,17,02:08,8,125,"SHERMADINI, GIORGI",P001386   ,Free Throw In (2/2 -  8 pt),FTM,13.0,20.0,Unicaja Malaga,0
-MAL       ,,17,02:08,8,126,"SHERMADINI, GIORGI",P001386   ,Free Throw In (3/3 -  9 pt),FTM,13.0,21.0,Unicaja Malaga,0
-MAL       ,,17,02:08,8,127,"SHERMADINI, GIORGI",P001386   ,Out,OUT,,,Unicaja Malaga,0
-MAL       ,,40,02:08,8,128,"AUGUSTINE, JAMES",P001438   ,In,IN,,,Unicaja Malaga,0
-IST       ,,44,01:46,9,130,"SIMON, KRUNOSLAV",PCPR      ,Three Pointer (1/1 -  5 pt),3FGM,16.0,21.0,Anadolu Efes Istanbul,0
-IST       ,,14,01:43,9,131,"ADAMS, JOSH",P007872   ,Assist (1),AS,,,Anadolu Efes Istanbul,0
-MAL       ,,21,01:27,9,132,"WACZYNSKI, ADAM",PLDX      ,Three Pointer (1/1 -  3 pt),3FGM,16.0,24.0,Unicaja Malaga,0
-MAL       ,,16,01:25,9,133,"NEDOVIC, NEMANJA",P000848   ,Assist (1),AS,,,Unicaja Malaga,0
-IST       ,,14,01:05,9,134,"ADAMS, JOSH",P007872   ,Three Pointer (1/1 -  3 pt),3FGM,19.0,24.0,Anadolu Efes Istanbul,0
-MAL       ,,9,00:43,10,136,"DIAZ, ALBERTO",P004213   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Unicaja Malaga,0
-IST       ,,42,00:42,10,137,"DUNSTON, BRYANT",P003048   ,Foul (1),CM,,,Anadolu Efes Istanbul,0
-MAL       ,,40,00:42,10,138,"AUGUSTINE, JAMES",P001438   ,Foul Drawn (1),RV,,,Unicaja Malaga,0
-MAL       ,,,00:42,10,139,,          ,Off Rebound (1),O,,,Unicaja Malaga,0
-MAL       ,,40,00:42,10,140,"AUGUSTINE, JAMES",P001438   ,Free Throw In (1/1 -  1 pt),FTM,19.0,25.0,Unicaja Malaga,0
-MAL       ,,40,00:42,10,141,"AUGUSTINE, JAMES",P001438   ,Missed Free Throw (1/2 -  1 pt),FTA,,,Unicaja Malaga,0
-IST       ,,12,00:42,10,142,"MOTUM, BROCK",P006599   ,Def Rebound (1),D,,,Anadolu Efes Istanbul,0
-IST       ,,12,00:27,10,143,"MOTUM, BROCK",P006599   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Anadolu Efes Istanbul,0
-IST       ,,44,00:24,10,144,"SIMON, KRUNOSLAV",PCPR      ,Off Rebound (1),O,,,Anadolu Efes Istanbul,0
-IST       ,,44,00:19,10,145,"SIMON, KRUNOSLAV",PCPR      ,Missed Three Pointer (1/2 -  5 pt),3FGA,,,Anadolu Efes Istanbul,0
-MAL       ,,43,00:15,10,146,"SUAREZ, CARLOS",PJJS      ,Def Rebound (1),D,,,Unicaja Malaga,0
-MAL       ,,43,00:13,10,147,"SUAREZ, CARLOS",PJJS      ,Turnover (1),TO,,,Unicaja Malaga,0
-IST       ,,44,00:12,10,148,"SIMON, KRUNOSLAV",PCPR      ,Steal (2),ST,,,Anadolu Efes Istanbul,0
-IST       ,,44,00:02,10,149,"SIMON, KRUNOSLAV",PCPR      ,Missed Two Pointer (1/2 -  5 pt),2FGA,,,Anadolu Efes Istanbul,0
-MAL       ,,43,00:01,10,150,"SUAREZ, CARLOS",PJJS      ,Def Rebound (2),D,,,Unicaja Malaga,0
-          ,,,,11,152,,          ,End Period,EP,,,,0
-          ,,,,11,153,,          ,Begin Period,BP,,,,0
-IST       ,,24,09:50,11,154,"MURIC, EDO",P003515   ,Turnover (1),TO,,,Anadolu Efes Istanbul,0
-MAL       ,,16,09:49,11,155,"NEDOVIC, NEMANJA",P000848   ,Steal (1),ST,,,Unicaja Malaga,0
-MAL       ,,16,09:31,11,156,"NEDOVIC, NEMANJA",P000848   ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,Unicaja Malaga,0
-IST       ,,24,09:29,11,157,"MURIC, EDO",P003515   ,Def Rebound (1),D,,,Anadolu Efes Istanbul,0
-IST       ,,14,09:15,11,158,"ADAMS, JOSH",P007872   ,Three Pointer (2/2 -  6 pt),3FGM,22.0,25.0,Anadolu Efes Istanbul,0
-IST       ,,44,09:13,11,159,"SIMON, KRUNOSLAV",PCPR      ,Assist (2),AS,,,Anadolu Efes Istanbul,0
-MAL       ,,21,08:54,12,161,"WACZYNSKI, ADAM",PLDX      ,Missed Three Pointer (1/2 -  3 pt),3FGA,,,Unicaja Malaga,0
-IST       ,,12,08:51,12,162,"MOTUM, BROCK",P006599   ,Def Rebound (2),D,,,Anadolu Efes Istanbul,0
-IST       ,,14,08:46,12,163,"ADAMS, JOSH",P007872   ,Missed Three Pointer (2/3 -  6 pt),3FGA,,,Anadolu Efes Istanbul,0
-MAL       ,,21,08:43,12,164,"WACZYNSKI, ADAM",PLDX      ,Def Rebound (1),D,,,Unicaja Malaga,0
-MAL       ,,40,08:38,12,165,"AUGUSTINE, JAMES",P001438   ,Missed Two Pointer (0/1 -  1 pt),2FGA,,,Unicaja Malaga,0
-MAL       ,,21,08:36,12,166,"WACZYNSKI, ADAM",PLDX      ,Off Rebound (1),O,,,Unicaja Malaga,0
-MAL       ,,21,08:36,12,167,"WACZYNSKI, ADAM",PLDX      ,Two Pointer (1/1 -  5 pt),2FGM,22.0,27.0,Unicaja Malaga,0
-IST       ,,24,08:19,12,168,"MURIC, EDO",P003515   ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,Anadolu Efes Istanbul,0
-MAL       ,,40,08:17,12,169,"AUGUSTINE, JAMES",P001438   ,Def Rebound (1),D,,,Unicaja Malaga,0
-IST       ,,14,08:11,12,170,"ADAMS, JOSH",P007872   ,Foul (2),CM,,,Anadolu Efes Istanbul,0
-MAL       ,,43,08:11,12,171,"SUAREZ, CARLOS",PJJS      ,Foul Drawn (1),RV,,,Unicaja Malaga,0
-IST       ,,1,08:11,12,172,"LEDO, RICKY",P007969   ,In,IN,,,Anadolu Efes Istanbul,0
-IST       ,,15,08:11,12,173,"STIMAC, VLADIMIR",PLBJ      ,In,IN,,,Anadolu Efes Istanbul,0
-IST       ,,24,08:11,12,174,"MURIC, EDO",P003515   ,Out,OUT,,,Anadolu Efes Istanbul,0
-IST       ,,42,08:11,12,175,"DUNSTON, BRYANT",P003048   ,Out,OUT,,,Anadolu Efes Istanbul,0
-MAL       ,,43,08:11,12,176,"SUAREZ, CARLOS",PJJS      ,Free Throw In (1/1 -  1 pt),FTM,22.0,28.0,Unicaja Malaga,0
-MAL       ,,16,08:11,12,177,"NEDOVIC, NEMANJA",P000848   ,Assist (2),AS,,,Unicaja Malaga,0
-MAL       ,,43,08:11,12,178,"SUAREZ, CARLOS",PJJS      ,Missed Free Throw (1/2 -  1 pt),FTA,,,Unicaja Malaga,0
-MAL       ,,43,08:11,12,179,"SUAREZ, CARLOS",PJJS      ,Off Rebound (1),O,,,Unicaja Malaga,0
-MAL       ,,43,07:56,13,181,"SUAREZ, CARLOS",PJJS      ,Missed Three Pointer (0/1 -  1 pt),3FGA,,,Unicaja Malaga,0
-IST       ,,14,07:55,13,182,"ADAMS, JOSH",P007872   ,Def Rebound (1),D,,,Anadolu Efes Istanbul,0
-MAL       ,,9,07:55,13,183,"DIAZ, ALBERTO",P004213   ,Foul (1),CM,,,Unicaja Malaga,0
-IST       ,,14,07:55,13,184,"ADAMS, JOSH",P007872   ,Foul Drawn (1),RV,,,Anadolu Efes Istanbul,0
-MAL       ,,43,07:43,13,185,"SUAREZ, CARLOS",PJJS      ,Foul (1),CM,,,Unicaja Malaga,0
-IST       ,,12,07:43,13,186,"MOTUM, BROCK",P006599   ,Foul Drawn (1),RV,,,Anadolu Efes Istanbul,0
-IST       ,,12,07:42,13,187,"MOTUM, BROCK",P006599   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Anadolu Efes Istanbul,0
-MAL       ,,40,07:40,13,188,"AUGUSTINE, JAMES",P001438   ,Def Rebound (2),D,,,Unicaja Malaga,0
-MAL       ,,16,07:33,13,189,"NEDOVIC, NEMANJA",P000848   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Unicaja Malaga,0
-MAL       ,,21,07:31,13,190,"WACZYNSKI, ADAM",PLDX      ,Off Rebound (2),O,,,Unicaja Malaga,0
-MAL       ,,16,07:29,13,191,"NEDOVIC, NEMANJA",P000848   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Unicaja Malaga,0
-IST       ,,15,07:29,13,192,"STIMAC, VLADIMIR",PLBJ      ,Def Rebound (1),D,,,Anadolu Efes Istanbul,0
-IST       ,,15,07:16,13,193,"STIMAC, VLADIMIR",PLBJ      ,Two Pointer (4/8 -  8 pt),2FGM,24.0,28.0,Anadolu Efes Istanbul,0
-IST       ,,44,07:15,13,194,"SIMON, KRUNOSLAV",PCPR      ,Assist (3),AS,,,Anadolu Efes Istanbul,0
-MAL       ,,16,06:51,14,196,"NEDOVIC, NEMANJA",P000848   ,Missed Three Pointer (0/3 -  0 pt),3FGA,,,Unicaja Malaga,0
-MAL       ,,40,06:48,14,197,"AUGUSTINE, JAMES",P001438   ,Off Rebound (1),O,,,Unicaja Malaga,0
-MAL       ,,21,06:45,14,198,"WACZYNSKI, ADAM",PLDX      ,Missed Two Pointer (1/2 -  5 pt),2FGA,,,Unicaja Malaga,0
-IST       ,,15,06:43,14,199,"STIMAC, VLADIMIR",PLBJ      ,Def Rebound (2),D,,,Anadolu Efes Istanbul,0
-IST       ,,12,06:27,14,200,"MOTUM, BROCK",P006599   ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,Anadolu Efes Istanbul,0
-IST       ,,1,06:24,14,201,"LEDO, RICKY",P007969   ,Off Rebound (2),O,,,Anadolu Efes Istanbul,0
-IST       ,,1,06:22,14,202,"LEDO, RICKY",P007969   ,Two Pointer (2/3 -  4 pt),2FGM,26.0,28.0,Anadolu Efes Istanbul,0
-IST       ,,44,06:18,14,203,"SIMON, KRUNOSLAV",PCPR      ,Foul (1),CM,,,Anadolu Efes Istanbul,0
-MAL       ,,16,06:18,14,204,"NEDOVIC, NEMANJA",P000848   ,Foul Drawn (1),RV,,,Unicaja Malaga,0
-IST       ,,4,06:18,14,205,"BALBAY, DOGUS",P003521   ,In,IN,,,Anadolu Efes Istanbul,0
-IST       ,,44,06:18,14,206,"SIMON, KRUNOSLAV",PCPR      ,Out,OUT,,,Anadolu Efes Istanbul,0
-MAL       ,,3,06:18,14,207,"MCCALLUM, RAY",P008002   ,In,IN,,,Unicaja Malaga,0
-MAL       ,,9,06:18,14,208,"DIAZ, ALBERTO",P004213   ,Out,OUT,,,Unicaja Malaga,0
-MAL       ,,17,06:18,14,209,"SHERMADINI, GIORGI",P001386   ,In,IN,,,Unicaja Malaga,0
-MAL       ,,23,06:18,14,210,"BROOKS, JEFF",P004117   ,In,IN,,,Unicaja Malaga,0
-MAL       ,,40,06:18,14,211,"AUGUSTINE, JAMES",P001438   ,Out,OUT,,,Unicaja Malaga,0
-MAL       ,,43,06:18,14,212,"SUAREZ, CARLOS",PJJS      ,Out,OUT,,,Unicaja Malaga,0
-MAL       ,,17,06:07,14,213,"SHERMADINI, GIORGI",P001386   ,Turnover (1),TO,,,Unicaja Malaga,0
-IST       ,,4,06:06,14,214,"BALBAY, DOGUS",P003521   ,Steal (1),ST,,,Anadolu Efes Istanbul,0
-IST       ,,1,06:04,14,215,"LEDO, RICKY",P007969   ,Missed Two Pointer (2/4 -  4 pt),2FGA,,,Anadolu Efes Istanbul,0
-MAL       ,,23,06:04,14,216,"BROOKS, JEFF",P004117   ,Foul (2),CM,,,Unicaja Malaga,0
-IST       ,,12,06:04,14,217,"MOTUM, BROCK",P006599   ,Foul Drawn (2),RV,,,Anadolu Efes Istanbul,0
-IST       ,,,06:04,14,218,,          ,Off Rebound (2),O,,,Anadolu Efes Istanbul,0
-IST       ,,14,05:59,15,220,"ADAMS, JOSH",P007872   ,Turnover (1),TO,,,Anadolu Efes Istanbul,0
-MAL       ,,10,05:59,15,221,"SALIN, SASU",P002820   ,In,IN,,,Unicaja Malaga,0
-MAL       ,,16,05:59,15,222,"NEDOVIC, NEMANJA",P000848   ,Out,OUT,,,Unicaja Malaga,0
-MAL       ,,21,05:37,15,223,"WACZYNSKI, ADAM",PLDX      ,Turnover (1),TO,,,Unicaja Malaga,0
-IST       ,,1,05:36,15,224,"LEDO, RICKY",P007969   ,Steal (3),ST,,,Anadolu Efes Istanbul,0
-IST       ,,14,05:34,15,225,"ADAMS, JOSH",P007872   ,Two Pointer (1/1 -  8 pt),2FGM,28.0,28.0,Anadolu Efes Istanbul,0
-IST       ,,1,05:34,15,226,"LEDO, RICKY",P007969   ,Assist (1),AS,,,Anadolu Efes Istanbul,0
-MAL       ,,,05:34,15,227,,          ,Time Out (1),TOUT,,,Unicaja Malaga,0
-          ,,,05:34,15,228,,          ,TV Time Out (2),TOUT_TV,,,,0
-MAL       ,,3,05:26,15,229,"MCCALLUM, RAY",P008002   ,Turnover (2),TO,,,Unicaja Malaga,0
-IST       ,,14,05:16,15,230,"ADAMS, JOSH",P007872   ,Turnover (2),TO,,,Anadolu Efes Istanbul,0
-IST       ,,3,05:16,15,231,"MCCOLLUM, ERRICK",P005216   ,In,IN,,,Anadolu Efes Istanbul,0
-IST       ,,14,05:16,15,232,"ADAMS, JOSH",P007872   ,Out,OUT,,,Anadolu Efes Istanbul,0
-MAL       ,,12,05:16,15,233,"MILOSAVLJEVIC, DRAGAN",P002822   ,In,IN,,,Unicaja Malaga,0
-MAL       ,,21,05:16,15,234,"WACZYNSKI, ADAM",PLDX      ,Out,OUT,,,Unicaja Malaga,0
-IST       ,,3,05:12,15,235,"MCCOLLUM, ERRICK",P005216   ,Foul (2),CM,,,Anadolu Efes Istanbul,0
-MAL       ,,10,05:12,15,236,"SALIN, SASU",P002820   ,Foul Drawn (2),RV,,,Unicaja Malaga,0
-IST       ,,4,05:08,15,237,"BALBAY, DOGUS",P003521   ,Foul (1),CM,,,Anadolu Efes Istanbul,0
-MAL       ,,10,05:08,15,238,"SALIN, SASU",P002820   ,Foul Drawn (3),RV,,,Unicaja Malaga,0
-MAL       ,,17,04:56,16,240,"SHERMADINI, GIORGI",P001386   ,Missed Two Pointer (3/5 -  9 pt),2FGA,,,Unicaja Malaga,0
-IST       ,,1,04:53,16,241,"LEDO, RICKY",P007969   ,Def Rebound (1),D,,,Anadolu Efes Istanbul,0
-MAL       ,,17,04:51,16,242,"SHERMADINI, GIORGI",P001386   ,Block (1),FV,,,Unicaja Malaga,0
-IST       ,,1,04:50,16,243,"LEDO, RICKY",P007969   ,Missed Two Pointer (2/5 -  4 pt),2FGA,,,Anadolu Efes Istanbul,0
-IST       ,,1,04:50,16,244,"LEDO, RICKY",P007969   ,Shot Rejected (1),AG,,,Anadolu Efes Istanbul,0
-IST       ,,,04:48,16,245,,          ,Off Rebound (3),O,,,Anadolu Efes Istanbul,0
-IST       ,,4,04:38,16,246,"BALBAY, DOGUS",P003521   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Anadolu Efes Istanbul,0
-IST       ,,15,04:34,16,247,"STIMAC, VLADIMIR",PLBJ      ,Off Rebound (4),O,,,Anadolu Efes Istanbul,0
-IST       ,,15,04:34,16,248,"STIMAC, VLADIMIR",PLBJ      ,Two Pointer (5/9 -  10 pt),2FGM,30.0,28.0,Anadolu Efes Istanbul,0
-MAL       ,,17,04:21,16,249,"SHERMADINI, GIORGI",P001386   ,Missed Two Pointer (3/6 -  9 pt),2FGA,,,Unicaja Malaga,0
-IST       ,,15,04:19,16,250,"STIMAC, VLADIMIR",PLBJ      ,Def Rebound (3),D,,,Anadolu Efes Istanbul,0
-IST       ,,1,04:04,16,251,"LEDO, RICKY",P007969   ,Missed Two Pointer (2/6 -  4 pt),2FGA,,,Anadolu Efes Istanbul,0
-IST       ,,15,04:02,16,252,"STIMAC, VLADIMIR",PLBJ      ,Off Rebound (5),O,,,Anadolu Efes Istanbul,0
-MAL       ,,23,04:02,16,253,"BROOKS, JEFF",P004117   ,Foul (3),CM,,,Unicaja Malaga,0
-IST       ,,15,04:02,16,254,"STIMAC, VLADIMIR",PLBJ      ,Foul Drawn (1),RV,,,Anadolu Efes Istanbul,0
-MAL       ,,17,04:02,16,255,"SHERMADINI, GIORGI",P001386   ,Out,OUT,,,Unicaja Malaga,0
-MAL       ,,23,04:02,16,256,"BROOKS, JEFF",P004117   ,Out,OUT,,,Unicaja Malaga,0
-MAL       ,,40,04:02,16,257,"AUGUSTINE, JAMES",P001438   ,In,IN,,,Unicaja Malaga,0
-MAL       ,,44,04:02,16,258,"MUSLI, DEJAN",PLUR      ,In,IN,,,Unicaja Malaga,0
-IST       ,,15,04:02,16,259,"STIMAC, VLADIMIR",PLBJ      ,Free Throw In (1/1 -  11 pt),FTM,31.0,28.0,Anadolu Efes Istanbul,0
-IST       ,,15,04:02,16,260,"STIMAC, VLADIMIR",PLBJ      ,Missed Free Throw (1/2 -  11 pt),FTA,,,Anadolu Efes Istanbul,0
-MAL       ,,44,04:02,16,261,"MUSLI, DEJAN",PLUR      ,Def Rebound (1),D,,,Unicaja Malaga,0
-MAL       ,,10,03:47,17,263,"SALIN, SASU",P002820   ,Missed Three Pointer (2/4 -  6 pt),3FGA,,,Unicaja Malaga,0
-IST       ,,15,03:44,17,264,"STIMAC, VLADIMIR",PLBJ      ,Def Rebound (4),D,,,Anadolu Efes Istanbul,0
-IST       ,,3,03:35,17,265,"MCCOLLUM, ERRICK",P005216   ,Missed Three Pointer (0/1 -  1 pt),3FGA,,,Anadolu Efes Istanbul,0
-MAL       ,,44,03:33,17,266,"MUSLI, DEJAN",PLUR      ,Def Rebound (2),D,,,Unicaja Malaga,0
-MAL       ,,3,03:27,17,267,"MCCALLUM, RAY",P008002   ,Missed Two Pointer (1/3 -  3 pt),2FGA,,,Unicaja Malaga,0
-MAL       ,,40,03:23,17,268,"AUGUSTINE, JAMES",P001438   ,Off Rebound (2),O,,,Unicaja Malaga,0
-MAL       ,,40,03:23,17,269,"AUGUSTINE, JAMES",P001438   ,Two Pointer (1/2 -  3 pt),2FGM,31.0,30.0,Unicaja Malaga,0
-IST       ,,1,03:06,17,270,"LEDO, RICKY",P007969   ,Turnover (1),TO,,,Anadolu Efes Istanbul,0
-MAL       ,,40,03:05,17,271,"AUGUSTINE, JAMES",P001438   ,Steal (1),ST,,,Unicaja Malaga,0
-IST       ,,,03:04,17,272,,          ,Time Out (1),TOUT,,,Anadolu Efes Istanbul,0
-IST       ,,1,03:04,17,273,"LEDO, RICKY",P007969   ,Out,OUT,,,Anadolu Efes Istanbul,0
-IST       ,,12,03:04,17,274,"MOTUM, BROCK",P006599   ,Out,OUT,,,Anadolu Efes Istanbul,0
-IST       ,,42,03:04,17,275,"DUNSTON, BRYANT",P003048   ,In,IN,,,Anadolu Efes Istanbul,0
-IST       ,,44,03:04,17,276,"SIMON, KRUNOSLAV",PCPR      ,In,IN,,,Anadolu Efes Istanbul,0
-MAL       ,,3,03:04,17,277,"MCCALLUM, RAY",P008002   ,Out,OUT,,,Unicaja Malaga,0
-MAL       ,,9,03:04,17,278,"DIAZ, ALBERTO",P004213   ,In,IN,,,Unicaja Malaga,0
-MAL       ,,40,02:57,18,280,"AUGUSTINE, JAMES",P001438   ,Two Pointer (2/3 -  5 pt),2FGM,31.0,32.0,Unicaja Malaga,0
-MAL       ,,10,02:55,18,281,"SALIN, SASU",P002820   ,Assist (1),AS,,,Unicaja Malaga,0
-IST       ,,15,02:35,18,282,"STIMAC, VLADIMIR",PLBJ      ,Missed Two Pointer (5/10 -  11 pt),2FGA,,,Anadolu Efes Istanbul,0
-MAL       ,,40,02:33,18,283,"AUGUSTINE, JAMES",P001438   ,Def Rebound (3),D,,,Unicaja Malaga,0
-MAL       ,,10,02:14,18,284,"SALIN, SASU",P002820   ,Two Pointer (1/1 -  8 pt),2FGM,31.0,34.0,Unicaja Malaga,0
-MAL       ,,12,02:10,18,285,"MILOSAVLJEVIC, DRAGAN",P002822   ,Assist (1),AS,,,Unicaja Malaga,0
-MAL       ,,9,01:53,19,287,"DIAZ, ALBERTO",P004213   ,Foul (2),CM,,,Unicaja Malaga,0
-IST       ,,42,01:53,19,288,"DUNSTON, BRYANT",P003048   ,Foul Drawn (3),RV,,,Anadolu Efes Istanbul,0
-IST       ,,4,01:53,19,289,"BALBAY, DOGUS",P003521   ,Out,OUT,,,Anadolu Efes Istanbul,0
-IST       ,,12,01:53,19,290,"MOTUM, BROCK",P006599   ,In,IN,,,Anadolu Efes Istanbul,0
-IST       ,,15,01:53,19,291,"STIMAC, VLADIMIR",PLBJ      ,Out,OUT,,,Anadolu Efes Istanbul,0
-IST       ,,24,01:53,19,292,"MURIC, EDO",P003515   ,In,IN,,,Anadolu Efes Istanbul,0
-IST       ,,42,01:53,19,293,"DUNSTON, BRYANT",P003048   ,Free Throw In (3/3 -  3 pt),FTM,32.0,34.0,Anadolu Efes Istanbul,0
-IST       ,,42,01:53,19,294,"DUNSTON, BRYANT",P003048   ,Free Throw In (4/4 -  4 pt),FTM,33.0,34.0,Anadolu Efes Istanbul,0
-MAL       ,,10,01:30,19,295,"SALIN, SASU",P002820   ,Missed Three Pointer (2/5 -  8 pt),3FGA,,,Unicaja Malaga,0
-IST       ,,42,01:26,19,296,"DUNSTON, BRYANT",P003048   ,Def Rebound (3),D,,,Anadolu Efes Istanbul,0
-IST       ,,12,01:14,19,297,"MOTUM, BROCK",P006599   ,Missed Three Pointer (0/3 -  0 pt),3FGA,,,Anadolu Efes Istanbul,0
-MAL       ,,40,01:11,19,298,"AUGUSTINE, JAMES",P001438   ,Def Rebound (4),D,,,Unicaja Malaga,0
-MAL       ,,44,01:04,19,299,"MUSLI, DEJAN",PLUR      ,Turnover (1),TO,,,Unicaja Malaga,0
-IST       ,,44,00:44,20,301,"SIMON, KRUNOSLAV",PCPR      ,Two Pointer (2/3 -  7 pt),2FGM,35.0,34.0,Anadolu Efes Istanbul,0
-IST       ,,42,00:32,20,302,"DUNSTON, BRYANT",P003048   ,Foul (2),CM,,,Anadolu Efes Istanbul,0
-MAL       ,,10,00:32,20,303,"SALIN, SASU",P002820   ,Foul Drawn (4),RV,,,Unicaja Malaga,0
-MAL       ,,3,00:32,20,304,"MCCALLUM, RAY",P008002   ,In,IN,,,Unicaja Malaga,0
-MAL       ,,9,00:32,20,305,"DIAZ, ALBERTO",P004213   ,Out,OUT,,,Unicaja Malaga,0
-MAL       ,,10,00:32,20,306,"SALIN, SASU",P002820   ,Missed Free Throw (0/1 -  8 pt),FTA,,,Unicaja Malaga,0
-MAL       ,,10,00:32,20,307,"SALIN, SASU",P002820   ,Free Throw In (1/2 -  9 pt),FTM,35.0,35.0,Unicaja Malaga,0
-IST       ,,44,00:16,20,308,"SIMON, KRUNOSLAV",PCPR      ,Turnover (1),TO,,,Anadolu Efes Istanbul,0
-MAL       ,,10,00:15,20,309,"SALIN, SASU",P002820   ,Steal (1),ST,,,Unicaja Malaga,0
-MAL       ,,3,00:01,20,310,"MCCALLUM, RAY",P008002   ,Missed Two Pointer (1/4 -  3 pt),2FGA,,,Unicaja Malaga,0
-          ,,,,21,312,,          ,End Period,EP,,,,0
-          ,,,,21,325,,          ,Begin Period,BP,,,,0
-IST       ,,1,10:00,21,313,"LEDO, RICKY",P007969   ,In,IN,,,Anadolu Efes Istanbul,0
-IST       ,,4,10:00,21,314,"BALBAY, DOGUS",P003521   ,In,IN,,,Anadolu Efes Istanbul,0
-IST       ,,15,10:00,21,315,"STIMAC, VLADIMIR",PLBJ      ,In,IN,,,Anadolu Efes Istanbul,0
-IST       ,,24,10:00,21,316,"MURIC, EDO",P003515   ,Out,OUT,,,Anadolu Efes Istanbul,0
-IST       ,,42,10:00,21,317,"DUNSTON, BRYANT",P003048   ,Out,OUT,,,Anadolu Efes Istanbul,0
-IST       ,,44,10:00,21,318,"SIMON, KRUNOSLAV",PCPR      ,Out,OUT,,,Anadolu Efes Istanbul,0
-MAL       ,,3,10:00,21,319,"MCCALLUM, RAY",P008002   ,Out,OUT,,,Unicaja Malaga,0
-MAL       ,,9,10:00,21,320,"DIAZ, ALBERTO",P004213   ,In,IN,,,Unicaja Malaga,0
-MAL       ,,10,10:00,21,321,"SALIN, SASU",P002820   ,Out,OUT,,,Unicaja Malaga,0
-MAL       ,,16,10:00,21,322,"NEDOVIC, NEMANJA",P000848   ,In,IN,,,Unicaja Malaga,0
-MAL       ,,43,10:00,21,323,"SUAREZ, CARLOS",PJJS      ,In,IN,,,Unicaja Malaga,0
-MAL       ,,44,10:00,21,324,"MUSLI, DEJAN",PLUR      ,Out,OUT,,,Unicaja Malaga,0
-MAL       ,,9,09:55,21,326,"DIAZ, ALBERTO",P004213   ,Turnover (1),TO,,,Unicaja Malaga,0
-IST       ,,3,09:34,21,327,"MCCOLLUM, ERRICK",P005216   ,Missed Two Pointer (0/2 -  1 pt),2FGA,,,Anadolu Efes Istanbul,0
-IST       ,,4,09:31,21,328,"BALBAY, DOGUS",P003521   ,Off Rebound (1),O,,,Anadolu Efes Istanbul,0
-IST       ,,4,09:31,21,329,"BALBAY, DOGUS",P003521   ,Two Pointer (1/2 -  2 pt),2FGM,37.0,35.0,Anadolu Efes Istanbul,0
-MAL       ,,16,09:09,21,330,"NEDOVIC, NEMANJA",P000848   ,Turnover (1),TO,,,Unicaja Malaga,0
-IST       ,,3,09:07,21,331,"MCCOLLUM, ERRICK",P005216   ,Steal (1),ST,,,Anadolu Efes Istanbul,0
-IST       ,,3,09:04,21,332,"MCCOLLUM, ERRICK",P005216   ,Two Pointer (1/3 -  3 pt),2FGM,39.0,35.0,Anadolu Efes Istanbul,0
-MAL       ,,12,08:48,22,334,"MILOSAVLJEVIC, DRAGAN",P002822   ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,Unicaja Malaga,0
-IST       ,,12,08:46,22,335,"MOTUM, BROCK",P006599   ,Def Rebound (3),D,,,Anadolu Efes Istanbul,0
-MAL       ,,16,08:38,22,336,"NEDOVIC, NEMANJA",P000848   ,Foul (1),CM,,,Unicaja Malaga,0
-IST       ,,3,08:38,22,337,"MCCOLLUM, ERRICK",P005216   ,Foul Drawn (2),RV,,,Anadolu Efes Istanbul,0
-IST       ,,3,08:38,22,338,"MCCOLLUM, ERRICK",P005216   ,Missed Free Throw (1/3 -  3 pt),FTA,,,Anadolu Efes Istanbul,0
-IST       ,,3,08:38,22,339,"MCCOLLUM, ERRICK",P005216   ,Free Throw In (2/4 -  4 pt),FTM,40.0,35.0,Anadolu Efes Istanbul,0
-IST       ,,15,08:38,22,340,"STIMAC, VLADIMIR",PLBJ      ,Assist (2),AS,,,Anadolu Efes Istanbul,0
-MAL       ,,9,08:23,22,341,"DIAZ, ALBERTO",P004213   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Unicaja Malaga,0
-IST       ,,3,08:21,22,342,"MCCOLLUM, ERRICK",P005216   ,Def Rebound (1),D,,,Anadolu Efes Istanbul,0
-MAL       ,,40,08:11,22,343,"AUGUSTINE, JAMES",P001438   ,Foul (1),CM,,,Unicaja Malaga,0
-IST       ,,3,08:11,22,344,"MCCOLLUM, ERRICK",P005216   ,Foul Drawn (3),RV,,,Anadolu Efes Istanbul,0
-IST       ,,1,08:02,22,345,"LEDO, RICKY",P007969   ,Missed Two Pointer (2/7 -  4 pt),2FGA,,,Anadolu Efes Istanbul,0
-IST       ,,15,07:59,23,347,"STIMAC, VLADIMIR",PLBJ      ,Off Rebound (6),O,,,Anadolu Efes Istanbul,0
-IST       ,,15,07:59,23,348,"STIMAC, VLADIMIR",PLBJ      ,Two Pointer (6/11 -  13 pt),2FGM,42.0,35.0,Anadolu Efes Istanbul,0
-MAL       ,,40,07:47,23,349,"AUGUSTINE, JAMES",P001438   ,Two Pointer (3/4 -  7 pt),2FGM,42.0,37.0,Unicaja Malaga,0
-MAL       ,,43,07:47,23,350,"SUAREZ, CARLOS",PJJS      ,Assist (1),AS,,,Unicaja Malaga,0
-IST       ,,3,07:33,23,351,"MCCOLLUM, ERRICK",P005216   ,Missed Three Pointer (0/2 -  4 pt),3FGA,,,Anadolu Efes Istanbul,0
-MAL       ,,43,07:31,23,352,"SUAREZ, CARLOS",PJJS      ,Def Rebound (3),D,,,Unicaja Malaga,0
-MAL       ,,12,07:26,23,353,"MILOSAVLJEVIC, DRAGAN",P002822   ,Two Pointer (1/1 -  2 pt),2FGM,42.0,39.0,Unicaja Malaga,0
-MAL       ,,16,07:24,23,354,"NEDOVIC, NEMANJA",P000848   ,Assist (3),AS,,,Unicaja Malaga,0
-IST       ,,1,07:09,23,355,"LEDO, RICKY",P007969   ,Missed Three Pointer (0/2 -  4 pt),3FGA,,,Anadolu Efes Istanbul,0
-IST       ,,15,07:07,23,356,"STIMAC, VLADIMIR",PLBJ      ,Off Rebound (7),O,,,Anadolu Efes Istanbul,0
-MAL       ,,12,07:07,23,357,"MILOSAVLJEVIC, DRAGAN",P002822   ,Foul (2),CM,,,Unicaja Malaga,0
-IST       ,,15,07:07,23,358,"STIMAC, VLADIMIR",PLBJ      ,Foul Drawn (2),RV,,,Anadolu Efes Istanbul,0
-IST       ,,1,07:07,23,359,"LEDO, RICKY",P007969   ,Out,OUT,,,Anadolu Efes Istanbul,0
-IST       ,,44,07:07,23,360,"SIMON, KRUNOSLAV",PCPR      ,In,IN,,,Anadolu Efes Istanbul,0
-IST       ,,12,06:57,24,362,"MOTUM, BROCK",P006599   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Anadolu Efes Istanbul,0
-MAL       ,,43,06:55,24,363,"SUAREZ, CARLOS",PJJS      ,Def Rebound (4),D,,,Unicaja Malaga,0
-MAL       ,,16,06:44,24,364,"NEDOVIC, NEMANJA",P000848   ,Three Pointer (1/4 -  3 pt),3FGM,42.0,42.0,Unicaja Malaga,0
-MAL       ,,43,06:43,24,365,"SUAREZ, CARLOS",PJJS      ,Assist (2),AS,,,Unicaja Malaga,0
-IST       ,,3,06:22,24,366,"MCCOLLUM, ERRICK",P005216   ,Missed Three Pointer (0/3 -  4 pt),3FGA,,,Anadolu Efes Istanbul,0
-IST       ,,12,06:20,24,367,"MOTUM, BROCK",P006599   ,Off Rebound (1),O,,,Anadolu Efes Istanbul,0
-IST       ,,15,06:11,24,368,"STIMAC, VLADIMIR",PLBJ      ,Two Pointer (7/12 -  15 pt),2FGM,44.0,42.0,Anadolu Efes Istanbul,0
-IST       ,,44,06:08,24,369,"SIMON, KRUNOSLAV",PCPR      ,Assist (4),AS,,,Anadolu Efes Istanbul,0
-MAL       ,,9,05:45,25,371,"DIAZ, ALBERTO",P004213   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Unicaja Malaga,0
-IST       ,,3,05:43,25,372,"MCCOLLUM, ERRICK",P005216   ,Def Rebound (2),D,,,Anadolu Efes Istanbul,0
-IST       ,,44,05:34,25,373,"SIMON, KRUNOSLAV",PCPR      ,Missed Two Pointer (2/4 -  7 pt),2FGA,,,Anadolu Efes Istanbul,0
-MAL       ,,43,05:34,25,374,"SUAREZ, CARLOS",PJJS      ,Def Rebound (5),D,,,Unicaja Malaga,0
-IST       ,,44,05:34,25,375,"SIMON, KRUNOSLAV",PCPR      ,Foul (2),CM,,,Anadolu Efes Istanbul,0
-MAL       ,,43,05:34,25,376,"SUAREZ, CARLOS",PJJS      ,Foul Drawn (2),RV,,,Unicaja Malaga,0
-IST       ,,3,05:34,25,377,"MCCOLLUM, ERRICK",P005216   ,Out,OUT,,,Anadolu Efes Istanbul,0
-IST       ,,14,05:34,25,378,"ADAMS, JOSH",P007872   ,In,IN,,,Anadolu Efes Istanbul,0
-MAL       ,,9,05:10,25,379,"DIAZ, ALBERTO",P004213   ,Two Pointer (1/3 -  2 pt),2FGM,44.0,44.0,Unicaja Malaga,0
-MAL       ,,16,05:08,25,380,"NEDOVIC, NEMANJA",P000848   ,Assist (4),AS,,,Unicaja Malaga,0
-MAL       ,,9,04:49,26,382,"DIAZ, ALBERTO",P004213   ,Foul (3),CM,,,Unicaja Malaga,0
-IST       ,,15,04:49,26,383,"STIMAC, VLADIMIR",PLBJ      ,Foul Drawn (3),RV,,,Anadolu Efes Istanbul,0
-          ,,,04:49,26,384,,          ,TV Time Out (3),TOUT_TV,,,,0
-IST       ,,12,04:49,26,385,"MOTUM, BROCK",P006599   ,Out,OUT,,,Anadolu Efes Istanbul,0
-IST       ,,42,04:49,26,386,"DUNSTON, BRYANT",P003048   ,In,IN,,,Anadolu Efes Istanbul,0
-IST       ,,44,04:40,26,387,"SIMON, KRUNOSLAV",PCPR      ,Three Pointer (2/3 -  10 pt),3FGM,47.0,44.0,Anadolu Efes Istanbul,0
-MAL       ,,16,04:23,26,388,"NEDOVIC, NEMANJA",P000848   ,Two Pointer (1/3 -  5 pt),2FGM,47.0,46.0,Unicaja Malaga,0
-MAL       ,,9,04:11,26,389,"DIAZ, ALBERTO",P004213   ,Foul (4),CM,,,Unicaja Malaga,0
-IST       ,,15,04:11,26,390,"STIMAC, VLADIMIR",PLBJ      ,Foul Drawn (4),RV,,,Anadolu Efes Istanbul,0
-IST       ,,4,04:11,26,391,"BALBAY, DOGUS",P003521   ,Out,OUT,,,Anadolu Efes Istanbul,0
-IST       ,,24,04:11,26,392,"MURIC, EDO",P003515   ,In,IN,,,Anadolu Efes Istanbul,0
-MAL       ,,3,04:11,26,393,"MCCALLUM, RAY",P008002   ,In,IN,,,Unicaja Malaga,0
-MAL       ,,9,04:11,26,394,"DIAZ, ALBERTO",P004213   ,Out,OUT,,,Unicaja Malaga,0
-IST       ,,15,04:11,26,395,"STIMAC, VLADIMIR",PLBJ      ,Free Throw In (2/3 -  16 pt),FTM,48.0,46.0,Anadolu Efes Istanbul,0
-IST       ,,15,04:11,26,396,"STIMAC, VLADIMIR",PLBJ      ,Free Throw In (3/4 -  17 pt),FTM,49.0,46.0,Anadolu Efes Istanbul,0
-MAL       ,,16,03:46,27,398,"NEDOVIC, NEMANJA",P000848   ,Missed Three Pointer (1/5 -  5 pt),3FGA,,,Unicaja Malaga,0
-MAL       ,,43,03:44,27,399,"SUAREZ, CARLOS",PJJS      ,Off Rebound (2),O,,,Unicaja Malaga,0
-MAL       ,,3,03:31,27,400,"MCCALLUM, RAY",P008002   ,Missed Two Pointer (1/5 -  3 pt),2FGA,,,Unicaja Malaga,0
-IST       ,,42,03:29,27,401,"DUNSTON, BRYANT",P003048   ,Def Rebound (4),D,,,Anadolu Efes Istanbul,0
-IST       ,,15,03:27,27,402,"STIMAC, VLADIMIR",PLBJ      ,Offensive Foul (3),OF,,,Anadolu Efes Istanbul,0
-IST       ,,15,03:27,27,403,"STIMAC, VLADIMIR",PLBJ      ,Turnover (1),TO,,,Anadolu Efes Istanbul,0
-MAL       ,,43,03:27,27,404,"SUAREZ, CARLOS",PJJS      ,Foul Drawn (3),RV,,,Unicaja Malaga,0
-MAL       ,,23,03:27,27,405,"BROOKS, JEFF",P004117   ,In,IN,,,Unicaja Malaga,0
-MAL       ,,43,03:27,27,406,"SUAREZ, CARLOS",PJJS      ,Out,OUT,,,Unicaja Malaga,0
-IST       ,,12,03:27,27,407,"MOTUM, BROCK",P006599   ,In,IN,,,Anadolu Efes Istanbul,0
-IST       ,,15,03:27,27,408,"STIMAC, VLADIMIR",PLBJ      ,Out,OUT,,,Anadolu Efes Istanbul,0
-IST       ,,12,03:10,27,409,"MOTUM, BROCK",P006599   ,Foul (1),CM,,,Anadolu Efes Istanbul,0
-MAL       ,,23,03:10,27,410,"BROOKS, JEFF",P004117   ,Foul Drawn (1),RV,,,Unicaja Malaga,0
-MAL       ,,3,03:10,27,411,"MCCALLUM, RAY",P008002   ,Turnover (3),TO,,,Unicaja Malaga,0
-IST       ,,42,03:10,27,412,"DUNSTON, BRYANT",P003048   ,Steal (1),ST,,,Anadolu Efes Istanbul,0
-IST       ,,12,03:01,27,413,"MOTUM, BROCK",P006599   ,Two Pointer (1/3 -  2 pt),2FGM,51.0,46.0,Anadolu Efes Istanbul,0
-IST       ,,42,02:59,28,415,"DUNSTON, BRYANT",P003048   ,Assist (2),AS,,,Anadolu Efes Istanbul,0
-MAL       ,,16,02:42,28,416,"NEDOVIC, NEMANJA",P000848   ,Missed Two Pointer (1/4 -  5 pt),2FGA,,,Unicaja Malaga,0
-IST       ,,24,02:39,28,417,"MURIC, EDO",P003515   ,Def Rebound (2),D,,,Anadolu Efes Istanbul,0
-MAL       ,,12,02:24,28,418,"MILOSAVLJEVIC, DRAGAN",P002822   ,Out,OUT,,,Unicaja Malaga,0
-MAL       ,,21,02:24,28,419,"WACZYNSKI, ADAM",PLDX      ,In,IN,,,Unicaja Malaga,0
-IST       ,,12,02:19,28,420,"MOTUM, BROCK",P006599   ,Two Pointer (2/4 -  4 pt),2FGM,53.0,46.0,Anadolu Efes Istanbul,0
-IST       ,,14,02:19,28,421,"ADAMS, JOSH",P007872   ,Assist (2),AS,,,Anadolu Efes Istanbul,0
-MAL       ,,3,02:07,28,422,"MCCALLUM, RAY",P008002   ,Three Pointer (1/1 -  6 pt),3FGM,53.0,49.0,Unicaja Malaga,0
-MAL       ,,16,02:07,28,423,"NEDOVIC, NEMANJA",P000848   ,Assist (5),AS,,,Unicaja Malaga,0
-MAL       ,,40,02:07,28,424,"AUGUSTINE, JAMES",P001438   ,Foul (2),CM,,,Unicaja Malaga,0
-IST       ,,44,02:07,28,425,"SIMON, KRUNOSLAV",PCPR      ,Foul Drawn (1),RV,,,Anadolu Efes Istanbul,0
-MAL       ,,10,02:07,28,426,"SALIN, SASU",P002820   ,In,IN,,,Unicaja Malaga,0
-MAL       ,,16,02:07,28,427,"NEDOVIC, NEMANJA",P000848   ,Out,OUT,,,Unicaja Malaga,0
-IST       ,,44,01:49,29,429,"SIMON, KRUNOSLAV",PCPR      ,Free Throw In (1/1 -  11 pt),FTM,54.0,49.0,Anadolu Efes Istanbul,0
-IST       ,,44,01:49,29,430,"SIMON, KRUNOSLAV",PCPR      ,Free Throw In (2/2 -  12 pt),FTM,55.0,49.0,Anadolu Efes Istanbul,0
-MAL       ,,17,01:49,29,431,"SHERMADINI, GIORGI",P001386   ,In,IN,,,Unicaja Malaga,0
-MAL       ,,40,01:49,29,432,"AUGUSTINE, JAMES",P001438   ,Out,OUT,,,Unicaja Malaga,0
-MAL       ,,17,01:33,29,433,"SHERMADINI, GIORGI",P001386   ,Two Pointer (4/7 -  11 pt),2FGM,55.0,51.0,Unicaja Malaga,0
-IST       ,,12,01:04,29,434,"MOTUM, BROCK",P006599   ,Two Pointer (3/5 -  6 pt),2FGM,57.0,51.0,Anadolu Efes Istanbul,0
-IST       ,,42,01:02,29,435,"DUNSTON, BRYANT",P003048   ,Assist (3),AS,,,Anadolu Efes Istanbul,0
-MAL       ,,21,00:46,30,437,"WACZYNSKI, ADAM",PLDX      ,Missed Three Pointer (1/3 -  5 pt),3FGA,,,Unicaja Malaga,0
-IST       ,,42,00:44,30,438,"DUNSTON, BRYANT",P003048   ,Def Rebound (5),D,,,Anadolu Efes Istanbul,0
-IST       ,,44,00:37,30,439,"SIMON, KRUNOSLAV",PCPR      ,Turnover (2),TO,,,Anadolu Efes Istanbul,0
-MAL       ,,23,00:35,30,440,"BROOKS, JEFF",P004117   ,Steal (1),ST,,,Unicaja Malaga,0
-IST       ,,42,00:32,30,441,"DUNSTON, BRYANT",P003048   ,Block (1),FV,,,Anadolu Efes Istanbul,0
-MAL       ,,3,00:31,30,442,"MCCALLUM, RAY",P008002   ,Missed Two Pointer (1/6 -  6 pt),2FGA,,,Unicaja Malaga,0
-MAL       ,,3,00:31,30,443,"MCCALLUM, RAY",P008002   ,Shot Rejected (1),AG,,,Unicaja Malaga,0
-MAL       ,,,00:30,30,444,,          ,Off Rebound (4),O,,,Unicaja Malaga,0
-IST       ,,24,00:24,30,445,"MURIC, EDO",P003515   ,Foul (1),CM,,,Anadolu Efes Istanbul,0
-MAL       ,,10,00:24,30,446,"SALIN, SASU",P002820   ,Foul Drawn (5),RV,,,Unicaja Malaga,0
-IST       ,,24,00:15,30,447,"MURIC, EDO",P003515   ,Foul (2),CM,,,Anadolu Efes Istanbul,0
-MAL       ,,17,00:15,30,448,"SHERMADINI, GIORGI",P001386   ,Foul Drawn (3),RV,,,Unicaja Malaga,0
-MAL       ,,17,00:15,30,449,"SHERMADINI, GIORGI",P001386   ,Free Throw In (4/4 -  12 pt),FTM,57.0,52.0,Unicaja Malaga,0
-MAL       ,,3,00:15,30,450,"MCCALLUM, RAY",P008002   ,Assist (4),AS,,,Unicaja Malaga,0
-MAL       ,,17,00:15,30,451,"SHERMADINI, GIORGI",P001386   ,Free Throw In (5/5 -  13 pt),FTM,57.0,53.0,Unicaja Malaga,0
-MAL       ,,17,00:15,30,452,"SHERMADINI, GIORGI",P001386   ,Out,OUT,,,Unicaja Malaga,0
-MAL       ,,43,00:15,30,453,"SUAREZ, CARLOS",PJJS      ,In,IN,,,Unicaja Malaga,0
-IST       ,,14,00:07,30,454,"ADAMS, JOSH",P007872   ,Two Pointer (2/2 -  10 pt),2FGM,59.0,53.0,Anadolu Efes Istanbul,0
-MAL       ,,23,00:01,30,455,"BROOKS, JEFF",P004117   ,Turnover (1),TO,,,Unicaja Malaga,0
-IST       ,,24,00:01,30,456,"MURIC, EDO",P003515   ,Steal (1),ST,,,Anadolu Efes Istanbul,0
-IST       ,,24,00:01,30,457,"MURIC, EDO",P003515   ,Missed Three Pointer (0/3 -  0 pt),3FGA,,,Anadolu Efes Istanbul,0
-          ,,,,31,459,,          ,End Period,EP,,,,0
-          ,,,,31,462,,          ,Begin Period,BP,,,,0
-MAL       ,,17,10:00,31,460,"SHERMADINI, GIORGI",P001386   ,In,IN,,,Unicaja Malaga,0
-MAL       ,,43,10:00,31,461,"SUAREZ, CARLOS",PJJS      ,Out,OUT,,,Unicaja Malaga,0
-IST       ,,12,09:51,31,463,"MOTUM, BROCK",P006599   ,Three Pointer (1/4 -  9 pt),3FGM,62.0,53.0,Anadolu Efes Istanbul,0
-IST       ,,14,09:48,31,464,"ADAMS, JOSH",P007872   ,Assist (3),AS,,,Anadolu Efes Istanbul,0
-MAL       ,,3,09:26,31,465,"MCCALLUM, RAY",P008002   ,Two Pointer (2/7 -  8 pt),2FGM,62.0,55.0,Unicaja Malaga,0
-IST       ,,44,09:08,31,466,"SIMON, KRUNOSLAV",PCPR      ,Missed Three Pointer (2/4 -  12 pt),3FGA,,,Anadolu Efes Istanbul,0
-MAL       ,,3,09:06,31,467,"MCCALLUM, RAY",P008002   ,Def Rebound (1),D,,,Unicaja Malaga,0
-MAL       ,,21,09:00,31,468,"WACZYNSKI, ADAM",PLDX      ,Missed Two Pointer (1/3 -  5 pt),2FGA,,,Unicaja Malaga,0
-IST       ,,44,09:00,31,469,"SIMON, KRUNOSLAV",PCPR      ,Def Rebound (2),D,,,Anadolu Efes Istanbul,0
-IST       ,,14,09:00,31,470,"ADAMS, JOSH",P007872   ,Missed Three Pointer (2/4 -  10 pt),3FGA,,,Anadolu Efes Istanbul,0
-MAL       ,,21,09:00,31,471,"WACZYNSKI, ADAM",PLDX      ,Def Rebound (2),D,,,Unicaja Malaga,0
-IST       ,,14,08:28,32,473,"ADAMS, JOSH",P007872   ,Foul (3),CM,,,Anadolu Efes Istanbul,0
-MAL       ,,3,08:28,32,474,"MCCALLUM, RAY",P008002   ,Foul Drawn (2),RV,,,Unicaja Malaga,0
-MAL       ,,21,08:16,32,475,"WACZYNSKI, ADAM",PLDX      ,Two Pointer (2/4 -  7 pt),2FGM,62.0,57.0,Unicaja Malaga,0
-MAL       ,,23,08:01,32,476,"BROOKS, JEFF",P004117   ,Foul (4),CM,,,Unicaja Malaga,0
-IST       ,,12,08:01,32,477,"MOTUM, BROCK",P006599   ,Foul Drawn (3),RV,,,Anadolu Efes Istanbul,0
-IST       ,,1,08:01,32,478,"LEDO, RICKY",P007969   ,In,IN,,,Anadolu Efes Istanbul,0
-IST       ,,24,08:01,32,479,"MURIC, EDO",P003515   ,Out,OUT,,,Anadolu Efes Istanbul,0
-MAL       ,,12,08:01,32,480,"MILOSAVLJEVIC, DRAGAN",P002822   ,In,IN,,,Unicaja Malaga,0
-MAL       ,,21,08:01,32,481,"WACZYNSKI, ADAM",PLDX      ,Out,OUT,,,Unicaja Malaga,0
-IST       ,,12,08:01,32,482,"MOTUM, BROCK",P006599   ,Free Throw In (1/1 -  10 pt),FTM,63.0,57.0,Anadolu Efes Istanbul,0
-IST       ,,12,08:01,32,483,"MOTUM, BROCK",P006599   ,Free Throw In (2/2 -  11 pt),FTM,64.0,57.0,Anadolu Efes Istanbul,0
-IST       ,,14,08:01,32,518,"ADAMS, JOSH",P007872   ,Assist (4),AS,,,Anadolu Efes Istanbul,0
-MAL       ,,23,08:01,32,484,"BROOKS, JEFF",P004117   ,Out,OUT,,,Unicaja Malaga,0
-MAL       ,,43,08:01,32,485,"SUAREZ, CARLOS",PJJS      ,In,IN,,,Unicaja Malaga,0
-MAL       ,,10,07:48,33,487,"SALIN, SASU",P002820   ,Turnover (2),TO,,,Unicaja Malaga,0
-MAL       ,,12,07:27,33,488,"MILOSAVLJEVIC, DRAGAN",P002822   ,Block (1),FV,,,Unicaja Malaga,0
-IST       ,,12,07:26,33,489,"MOTUM, BROCK",P006599   ,Missed Two Pointer (3/6 -  11 pt),2FGA,,,Anadolu Efes Istanbul,0
-IST       ,,12,07:26,33,490,"MOTUM, BROCK",P006599   ,Shot Rejected (1),AG,,,Anadolu Efes Istanbul,0
-MAL       ,,12,07:25,33,491,"MILOSAVLJEVIC, DRAGAN",P002822   ,Def Rebound (1),D,,,Unicaja Malaga,0
-MAL       ,,43,07:16,33,492,"SUAREZ, CARLOS",PJJS      ,Missed Two Pointer (0/1 -  1 pt),2FGA,,,Unicaja Malaga,0
-IST       ,,12,07:14,33,493,"MOTUM, BROCK",P006599   ,Def Rebound (4),D,,,Anadolu Efes Istanbul,0
-MAL       ,,17,06:58,34,495,"SHERMADINI, GIORGI",P001386   ,Block (2),FV,,,Unicaja Malaga,0
-IST       ,,1,06:57,34,496,"LEDO, RICKY",P007969   ,Missed Two Pointer (2/8 -  4 pt),2FGA,,,Anadolu Efes Istanbul,0
-IST       ,,1,06:57,34,497,"LEDO, RICKY",P007969   ,Shot Rejected (2),AG,,,Anadolu Efes Istanbul,0
-IST       ,,,06:56,34,498,,          ,Off Rebound (5),O,,,Anadolu Efes Istanbul,0
-IST       ,,12,06:56,34,499,"MOTUM, BROCK",P006599   ,Out,OUT,,,Anadolu Efes Istanbul,0
-IST       ,,15,06:56,34,500,"STIMAC, VLADIMIR",PLBJ      ,In,IN,,,Anadolu Efes Istanbul,0
-MAL       ,,17,06:56,34,501,"SHERMADINI, GIORGI",P001386   ,Out,OUT,,,Unicaja Malaga,0
-MAL       ,,40,06:56,34,502,"AUGUSTINE, JAMES",P001438   ,In,IN,,,Unicaja Malaga,0
-IST       ,,1,06:51,34,503,"LEDO, RICKY",P007969   ,Missed Two Pointer (2/9 -  4 pt),2FGA,,,Anadolu Efes Istanbul,0
-MAL       ,,43,06:49,34,504,"SUAREZ, CARLOS",PJJS      ,Def Rebound (6),D,,,Unicaja Malaga,0
-IST       ,,1,06:38,34,505,"LEDO, RICKY",P007969   ,Foul (2),CM,,,Anadolu Efes Istanbul,0
-MAL       ,,43,06:38,34,506,"SUAREZ, CARLOS",PJJS      ,Foul Drawn (4),RV,,,Unicaja Malaga,0
-MAL       ,,10,06:38,34,507,"SALIN, SASU",P002820   ,Out,OUT,,,Unicaja Malaga,0
-MAL       ,,16,06:38,34,508,"NEDOVIC, NEMANJA",P000848   ,In,IN,,,Unicaja Malaga,0
-MAL       ,,43,06:30,34,509,"SUAREZ, CARLOS",PJJS      ,Three Pointer (1/2 -  4 pt),3FGM,64.0,60.0,Unicaja Malaga,0
-MAL       ,,16,06:28,34,510,"NEDOVIC, NEMANJA",P000848   ,Assist (6),AS,,,Unicaja Malaga,0
-IST       ,,15,06:05,34,511,"STIMAC, VLADIMIR",PLBJ      ,Turnover (2),TO,,,Anadolu Efes Istanbul,0
-MAL       ,,3,06:04,34,512,"MCCALLUM, RAY",P008002   ,Steal (1),ST,,,Unicaja Malaga,0
-MAL       ,,3,05:50,35,514,"MCCALLUM, RAY",P008002   ,Three Pointer (2/2 -  11 pt),3FGM,64.0,63.0,Unicaja Malaga,0
-MAL       ,,16,05:50,35,515,"NEDOVIC, NEMANJA",P000848   ,Assist (7),AS,,,Unicaja Malaga,0
-IST       ,,,05:50,35,516,,          ,Time Out (1),TOUT,,,Anadolu Efes Istanbul,0
-          ,,,05:50,35,517,,          ,TV Time Out (4),TOUT_TV,,,,0
-IST       ,,44,05:36,35,519,"SIMON, KRUNOSLAV",PCPR      ,Missed Two Pointer (2/5 -  12 pt),2FGA,,,Anadolu Efes Istanbul,0
-MAL       ,,3,05:34,35,520,"MCCALLUM, RAY",P008002   ,Def Rebound (2),D,,,Unicaja Malaga,0
-MAL       ,,16,05:31,35,521,"NEDOVIC, NEMANJA",P000848   ,Three Pointer (2/6 -  8 pt),3FGM,64.0,66.0,Unicaja Malaga,0
-MAL       ,,3,05:31,35,522,"MCCALLUM, RAY",P008002   ,Assist (5),AS,,,Unicaja Malaga,0
-IST       ,,1,05:31,35,523,"LEDO, RICKY",P007969   ,Missed Three Pointer (0/3 -  4 pt),3FGA,,,Anadolu Efes Istanbul,0
-IST       ,,42,05:31,35,524,"DUNSTON, BRYANT",P003048   ,Off Rebound (1),O,,,Anadolu Efes Istanbul,0
-IST       ,,42,05:31,35,525,"DUNSTON, BRYANT",P003048   ,Two Pointer (1/2 -  6 pt),2FGM,66.0,66.0,Anadolu Efes Istanbul,0
-MAL       ,,16,04:54,36,527,"NEDOVIC, NEMANJA",P000848   ,Two Pointer (2/5 -  10 pt),2FGM,66.0,68.0,Unicaja Malaga,0
-IST       ,,1,04:33,36,528,"LEDO, RICKY",P007969   ,Turnover (2),TO,,,Anadolu Efes Istanbul,0
-MAL       ,,12,04:32,36,529,"MILOSAVLJEVIC, DRAGAN",P002822   ,Steal (1),ST,,,Unicaja Malaga,0
-MAL       ,,43,04:16,36,530,"SUAREZ, CARLOS",PJJS      ,Missed Three Pointer (1/3 -  4 pt),3FGA,,,Unicaja Malaga,0
-MAL       ,,40,04:14,36,531,"AUGUSTINE, JAMES",P001438   ,Off Rebound (3),O,,,Unicaja Malaga,0
-MAL       ,,16,04:04,36,532,"NEDOVIC, NEMANJA",P000848   ,Missed Three Pointer (2/7 -  10 pt),3FGA,,,Unicaja Malaga,0
-IST       ,,1,04:01,36,533,"LEDO, RICKY",P007969   ,Def Rebound (2),D,,,Anadolu Efes Istanbul,0
-MAL       ,,12,03:44,37,535,"MILOSAVLJEVIC, DRAGAN",P002822   ,Foul (3),CM,,,Unicaja Malaga,0
-IST       ,,1,03:44,37,536,"LEDO, RICKY",P007969   ,Foul Drawn (2),RV,,,Anadolu Efes Istanbul,0
-IST       ,,12,03:44,37,537,"MOTUM, BROCK",P006599   ,In,IN,,,Anadolu Efes Istanbul,0
-IST       ,,15,03:44,37,538,"STIMAC, VLADIMIR",PLBJ      ,Out,OUT,,,Anadolu Efes Istanbul,0
-IST       ,,24,03:44,37,539,"MURIC, EDO",P003515   ,In,IN,,,Anadolu Efes Istanbul,0
-IST       ,,44,03:44,37,540,"SIMON, KRUNOSLAV",PCPR      ,Out,OUT,,,Anadolu Efes Istanbul,0
-IST       ,,1,03:44,37,541,"LEDO, RICKY",P007969   ,Missed Free Throw (0/3 -  4 pt),FTA,,,Anadolu Efes Istanbul,0
-IST       ,,1,03:44,37,542,"LEDO, RICKY",P007969   ,Free Throw In (1/4 -  5 pt),FTM,67.0,68.0,Anadolu Efes Istanbul,0
-MAL       ,,40,03:29,37,543,"AUGUSTINE, JAMES",P001438   ,Two Pointer (4/5 -  9 pt),2FGM,67.0,70.0,Unicaja Malaga,0
-MAL       ,,16,03:27,37,544,"NEDOVIC, NEMANJA",P000848   ,Assist (8),AS,,,Unicaja Malaga,0
-IST       ,,,03:26,37,545,,          ,Time Out (2),TOUT,,,Anadolu Efes Istanbul,0
-IST       ,,4,03:26,37,546,"BALBAY, DOGUS",P003521   ,In,IN,,,Anadolu Efes Istanbul,0
-IST       ,,14,03:26,37,547,"ADAMS, JOSH",P007872   ,Out,OUT,,,Anadolu Efes Istanbul,0
-IST       ,,1,03:08,37,548,"LEDO, RICKY",P007969   ,Missed Two Pointer (2/10 -  5 pt),2FGA,,,Anadolu Efes Istanbul,0
-IST       ,,42,03:05,37,549,"DUNSTON, BRYANT",P003048   ,Off Rebound (2),O,,,Anadolu Efes Istanbul,0
-IST       ,,42,03:05,37,550,"DUNSTON, BRYANT",P003048   ,Two Pointer (2/3 -  8 pt),2FGM,69.0,70.0,Anadolu Efes Istanbul,0
-IST       ,,1,02:51,38,552,"LEDO, RICKY",P007969   ,Out,OUT,,,Anadolu Efes Istanbul,0
-IST       ,,44,02:51,38,553,"SIMON, KRUNOSLAV",PCPR      ,In,IN,,,Anadolu Efes Istanbul,0
-IST       ,,24,02:44,38,554,"MURIC, EDO",P003515   ,Foul (3),CM,,,Anadolu Efes Istanbul,0
-MAL       ,,40,02:44,38,555,"AUGUSTINE, JAMES",P001438   ,Foul Drawn (2),RV,,,Unicaja Malaga,0
-MAL       ,,40,02:44,38,556,"AUGUSTINE, JAMES",P001438   ,Free Throw In (2/3 -  10 pt),FTM,69.0,71.0,Unicaja Malaga,0
-MAL       ,,43,02:44,38,557,"SUAREZ, CARLOS",PJJS      ,Assist (3),AS,,,Unicaja Malaga,0
-MAL       ,,40,02:44,38,558,"AUGUSTINE, JAMES",P001438   ,Free Throw In (3/4 -  11 pt),FTM,69.0,72.0,Unicaja Malaga,0
-IST       ,,4,02:27,38,559,"BALBAY, DOGUS",P003521   ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,Anadolu Efes Istanbul,0
-IST       ,,42,02:23,38,560,"DUNSTON, BRYANT",P003048   ,Off Rebound (3),O,,,Anadolu Efes Istanbul,0
-IST       ,,42,02:22,38,561,"DUNSTON, BRYANT",P003048   ,Turnover (1),TO,,,Anadolu Efes Istanbul,0
-MAL       ,,16,02:07,38,562,"NEDOVIC, NEMANJA",P000848   ,Three Pointer (3/8 -  13 pt),3FGM,69.0,75.0,Unicaja Malaga,0
-IST       ,,44,01:51,39,564,"SIMON, KRUNOSLAV",PCPR      ,Missed Three Pointer (2/5 -  12 pt),3FGA,,,Anadolu Efes Istanbul,0
-IST       ,,12,01:49,39,565,"MOTUM, BROCK",P006599   ,Off Rebound (2),O,,,Anadolu Efes Istanbul,0
-IST       ,,12,01:49,39,566,"MOTUM, BROCK",P006599   ,Missed Two Pointer (3/7 -  11 pt),2FGA,,,Anadolu Efes Istanbul,0
-IST       ,,,01:48,39,567,,          ,Off Rebound (6),O,,,Anadolu Efes Istanbul,0
-IST       ,,4,01:48,39,568,"BALBAY, DOGUS",P003521   ,Out,OUT,,,Anadolu Efes Istanbul,0
-IST       ,,14,01:48,39,569,"ADAMS, JOSH",P007872   ,In,IN,,,Anadolu Efes Istanbul,0
-IST       ,,12,01:39,39,570,"MOTUM, BROCK",P006599   ,Missed Two Pointer (3/8 -  11 pt),2FGA,,,Anadolu Efes Istanbul,0
-MAL       ,,40,01:37,39,571,"AUGUSTINE, JAMES",P001438   ,Def Rebound (5),D,,,Unicaja Malaga,0
-MAL       ,,12,01:18,39,572,"MILOSAVLJEVIC, DRAGAN",P002822   ,Missed Three Pointer (0/3 -  2 pt),3FGA,,,Unicaja Malaga,0
-IST       ,,44,01:16,39,573,"SIMON, KRUNOSLAV",PCPR      ,Def Rebound (3),D,,,Anadolu Efes Istanbul,0
-MAL       ,,16,01:11,39,574,"NEDOVIC, NEMANJA",P000848   ,Foul (2),CM,,,Unicaja Malaga,0
-IST       ,,14,01:11,39,575,"ADAMS, JOSH",P007872   ,Foul Drawn (2),RV,,,Anadolu Efes Istanbul,0
-IST       ,,14,01:05,39,576,"ADAMS, JOSH",P007872   ,Turnover (3),TO,,,Anadolu Efes Istanbul,0
-IST       ,,4,01:05,39,577,"BALBAY, DOGUS",P003521   ,In,IN,,,Anadolu Efes Istanbul,0
-IST       ,,44,01:05,39,578,"SIMON, KRUNOSLAV",PCPR      ,Out,OUT,,,Anadolu Efes Istanbul,0
-IST       ,,42,00:48,40,580,"DUNSTON, BRYANT",P003048   ,Foul (3),CM,,,Anadolu Efes Istanbul,0
-MAL       ,,3,00:48,40,581,"MCCALLUM, RAY",P008002   ,Foul Drawn (3),RV,,,Unicaja Malaga,0
-IST       ,,4,00:48,40,582,"BALBAY, DOGUS",P003521   ,Out,OUT,,,Anadolu Efes Istanbul,0
-IST       ,,44,00:48,40,583,"SIMON, KRUNOSLAV",PCPR      ,In,IN,,,Anadolu Efes Istanbul,0
-MAL       ,,3,00:48,40,584,"MCCALLUM, RAY",P008002   ,Free Throw In (2/2 -  12 pt),FTM,69.0,76.0,Unicaja Malaga,0
-MAL       ,,3,00:48,40,585,"MCCALLUM, RAY",P008002   ,Free Throw In (3/3 -  13 pt),FTM,69.0,77.0,Unicaja Malaga,0
-IST       ,,,00:48,40,586,,          ,Time Out (3),TOUT,,,Anadolu Efes Istanbul,0
-IST       ,,12,00:44,40,587,"MOTUM, BROCK",P006599   ,Three Pointer (2/5 -  14 pt),3FGM,72.0,77.0,Anadolu Efes Istanbul,0
-IST       ,,14,00:45,40,588,"ADAMS, JOSH",P007872   ,Assist (5),AS,,,Anadolu Efes Istanbul,0
-IST       ,,12,00:43,40,589,"MOTUM, BROCK",P006599   ,Foul (2),CM,,,Anadolu Efes Istanbul,0
-MAL       ,,43,00:43,40,590,"SUAREZ, CARLOS",PJJS      ,Foul Drawn (5),RV,,,Unicaja Malaga,0
-MAL       ,,43,00:43,40,591,"SUAREZ, CARLOS",PJJS      ,Free Throw In (2/3 -  5 pt),FTM,72.0,78.0,Unicaja Malaga,0
-MAL       ,,43,00:43,40,592,"SUAREZ, CARLOS",PJJS      ,Free Throw In (3/4 -  6 pt),FTM,72.0,79.0,Unicaja Malaga,0
-MAL       ,,16,00:30,40,593,"NEDOVIC, NEMANJA",P000848   ,Block (1),FV,,,Unicaja Malaga,0
-IST       ,,24,00:31,40,594,"MURIC, EDO",P003515   ,Missed Three Pointer (0/4 -  0 pt),3FGA,,,Anadolu Efes Istanbul,0
-IST       ,,24,00:31,40,595,"MURIC, EDO",P003515   ,Shot Rejected (1),AG,,,Anadolu Efes Istanbul,0
-IST       ,,12,00:30,40,596,"MOTUM, BROCK",P006599   ,Off Rebound (3),O,,,Anadolu Efes Istanbul,0
-IST       ,,12,00:29,40,597,"MOTUM, BROCK",P006599   ,Missed Three Pointer (2/6 -  14 pt),3FGA,,,Anadolu Efes Istanbul,0
-IST       ,,,00:24,40,598,,          ,Off Rebound (7),O,,,Anadolu Efes Istanbul,0
-IST       ,,44,00:19,40,599,"SIMON, KRUNOSLAV",PCPR      ,Missed Three Pointer (2/6 -  12 pt),3FGA,,,Anadolu Efes Istanbul,0
-MAL       ,,16,00:16,40,600,"NEDOVIC, NEMANJA",P000848   ,Def Rebound (1),D,,,Unicaja Malaga,0
-MAL       ,,12,00:06,40,601,"MILOSAVLJEVIC, DRAGAN",P002822   ,Turnover (2),TO,,,Unicaja Malaga,0
-IST       ,,12,00:02,40,602,"MOTUM, BROCK",P006599   ,Two Pointer (4/9 -  16 pt),2FGM,74.0,79.0,Anadolu Efes Istanbul,0
-IST       ,,14,00:02,40,603,"ADAMS, JOSH",P007872   ,Assist (6),AS,,,Anadolu Efes Istanbul,0
-          ,,,,41,606,,          ,End Game,EG,,,,0
+CODETEAM,COMMENT,DORSAL,MARKERTIME,MINUTE,NUMBEROFPLAY,PLAYER,PLAYER_ID,PLAYINFO,PLAYTYPE,POINTS_A,POINTS_B,TEAM,TYPE,home_team,home_team_code,away_team,away_team_code
+          ,,,,1,17,,          ,Begin Period,BP,,,,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,10,09:53,1,18,"SALIN, SASU",P002820   ,Turnover (1),TO,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,1,09:53,1,19,"LEDO, RICKY",P007969   ,Steal (1),ST,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,3,09:53,1,20,"MCCOLLUM, ERRICK",P005216   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,15,09:53,1,21,"STIMAC, VLADIMIR",PLBJ      ,Off Rebound (1),O,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,15,09:53,1,22,"STIMAC, VLADIMIR",PLBJ      ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,15,09:53,1,23,"STIMAC, VLADIMIR",PLBJ      ,Off Rebound (2),O,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,1,09:18,1,24,"LEDO, RICKY",P007969   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,15,09:18,1,25,"STIMAC, VLADIMIR",PLBJ      ,Off Rebound (3),O,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,15,09:18,1,26,"STIMAC, VLADIMIR",PLBJ      ,Two Pointer (1/2 -  2 pt),2FGM,2.0,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,10,08:56,2,28,"SALIN, SASU",P002820   ,Three Pointer (1/1 -  3 pt),3FGM,2.0,3.0,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,17,08:55,2,29,"SHERMADINI, GIORGI",P001386   ,Assist (1),AS,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,42,08:33,2,30,"DUNSTON, BRYANT",P003048   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,23,08:31,2,31,"BROOKS, JEFF",P004117   ,Def Rebound (1),D,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,10,08:20,2,32,"SALIN, SASU",P002820   ,Three Pointer (2/2 -  6 pt),3FGM,2.0,6.0,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,23,08:18,2,33,"BROOKS, JEFF",P004117   ,Assist (1),AS,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,15,07:57,3,35,"STIMAC, VLADIMIR",PLBJ      ,Two Pointer (2/3 -  4 pt),2FGM,4.0,6.0,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,42,07:56,3,36,"DUNSTON, BRYANT",P003048   ,Assist (1),AS,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,12,07:37,3,37,"MILOSAVLJEVIC, DRAGAN",P002822   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,42,07:35,3,38,"DUNSTON, BRYANT",P003048   ,Def Rebound (1),D,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,15,07:24,3,39,"STIMAC, VLADIMIR",PLBJ      ,Missed Two Pointer (2/4 -  4 pt),2FGA,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,23,07:22,3,40,"BROOKS, JEFF",P004117   ,Def Rebound (2),D,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,17,07:08,3,41,"SHERMADINI, GIORGI",P001386   ,Two Pointer (1/1 -  2 pt),2FGM,4.0,8.0,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,3,07:06,3,42,"MCCALLUM, RAY",P008002   ,Assist (1),AS,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,8,06:47,4,44,"BATUK, BIRKAN",P004170   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,,06:46,4,45,,          ,Def Rebound (1),D,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,3,06:31,4,46,"MCCOLLUM, ERRICK",P005216   ,Foul (1),CM,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,10,06:31,4,47,"SALIN, SASU",P002820   ,Foul Drawn (1),RV,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,12,06:24,4,48,"MILOSAVLJEVIC, DRAGAN",P002822   ,Turnover (1),TO,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,1,06:23,4,49,"LEDO, RICKY",P007969   ,Steal (2),ST,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,1,06:20,4,50,"LEDO, RICKY",P007969   ,Two Pointer (1/2 -  2 pt),2FGM,6.0,8.0,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,17,06:08,4,51,"SHERMADINI, GIORGI",P001386   ,Two Pointer (2/2 -  4 pt),2FGM,6.0,10.0,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,17,06:08,4,52,"SHERMADINI, GIORGI",P001386   ,Foul Drawn (1),RV,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,15,06:08,4,53,"STIMAC, VLADIMIR",PLBJ      ,Foul (1),CM,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,8,06:08,4,54,"BATUK, BIRKAN",P004170   ,Out,OUT,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,44,06:08,4,55,"SIMON, KRUNOSLAV",PCPR      ,In,IN,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,17,06:08,4,56,"SHERMADINI, GIORGI",P001386   ,Free Throw In (1/1 -  5 pt),FTM,6.0,11.0,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,3,06:08,4,57,"MCCALLUM, RAY",P008002   ,Assist (2),AS,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,17,05:56,5,59,"SHERMADINI, GIORGI",P001386   ,Foul (1),CM,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,42,05:56,5,60,"DUNSTON, BRYANT",P003048   ,Foul Drawn (1),RV,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,42,05:56,5,61,"DUNSTON, BRYANT",P003048   ,Free Throw In (1/1 -  1 pt),FTM,7.0,11.0,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,15,05:56,5,62,"STIMAC, VLADIMIR",PLBJ      ,Assist (1),AS,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,42,05:56,5,63,"DUNSTON, BRYANT",P003048   ,Free Throw In (2/2 -  2 pt),FTM,8.0,11.0,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,17,05:39,5,64,"SHERMADINI, GIORGI",P001386   ,Two Pointer (3/3 -  7 pt),2FGM,8.0,13.0,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,3,05:37,5,65,"MCCALLUM, RAY",P008002   ,Assist (3),AS,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,3,05:23,5,66,"MCCALLUM, RAY",P008002   ,Foul (1),CM,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,3,05:23,5,67,"MCCOLLUM, ERRICK",P005216   ,Foul Drawn (1),RV,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,3,05:23,5,68,"MCCOLLUM, ERRICK",P005216   ,Missed Free Throw (0/1 -  0 pt),FTA,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,3,05:23,5,69,"MCCOLLUM, ERRICK",P005216   ,Free Throw In (1/2 -  1 pt),FTM,9.0,13.0,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,17,05:06,5,70,"SHERMADINI, GIORGI",P001386   ,Missed Two Pointer (3/4 -  7 pt),2FGA,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,23,05:04,5,71,"BROOKS, JEFF",P004117   ,Off Rebound (1),O,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,23,05:01,5,72,"BROOKS, JEFF",P004117   ,Three Pointer (1/1 -  3 pt),3FGM,9.0,16.0,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,23,04:48,6,74,"BROOKS, JEFF",P004117   ,Foul (1),CM,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,42,04:48,6,75,"DUNSTON, BRYANT",P003048   ,Foul Drawn (2),RV,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+          ,,,04:48,6,76,,          ,TV Time Out (1),TOUT_TV,,,,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,1,04:48,6,77,"LEDO, RICKY",P007969   ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,1,04:41,6,78,"LEDO, RICKY",P007969   ,Off Rebound (1),O,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,15,04:39,6,79,"STIMAC, VLADIMIR",PLBJ      ,Missed Two Pointer (2/5 -  4 pt),2FGA,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,1,04:38,6,80,"LEDO, RICKY",P007969   ,Foul (1),CM,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,12,04:38,6,81,"MILOSAVLJEVIC, DRAGAN",P002822   ,Foul Drawn (1),RV,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,,04:38,6,82,,          ,Def Rebound (2),D,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,3,04:28,6,83,"MCCALLUM, RAY",P008002   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,44,04:25,6,84,"SIMON, KRUNOSLAV",PCPR      ,Def Rebound (1),D,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,44,04:18,6,85,"SIMON, KRUNOSLAV",PCPR      ,Two Pointer (1/1 -  2 pt),2FGM,11.0,16.0,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,10,04:01,6,86,"SALIN, SASU",P002820   ,Missed Three Pointer (2/3 -  6 pt),3FGA,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,,04:00,6,87,,          ,Def Rebound (3),D,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,3,04:00,6,88,"MCCOLLUM, ERRICK",P005216   ,Out,OUT,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,14,04:00,6,89,"ADAMS, JOSH",P007872   ,In,IN,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,12,03:44,7,91,"MILOSAVLJEVIC, DRAGAN",P002822   ,Foul (1),CM,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,1,03:44,7,92,"LEDO, RICKY",P007969   ,Foul Drawn (1),RV,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,10,03:44,7,93,"SALIN, SASU",P002820   ,Out,OUT,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,16,03:44,7,94,"NEDOVIC, NEMANJA",P000848   ,In,IN,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,1,03:44,7,95,"LEDO, RICKY",P007969   ,Missed Free Throw (0/1 -  2 pt),FTA,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,1,03:44,7,96,"LEDO, RICKY",P007969   ,Missed Free Throw (0/2 -  2 pt),FTA,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,23,03:44,7,97,"BROOKS, JEFF",P004117   ,Def Rebound (3),D,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,3,03:27,7,98,"MCCALLUM, RAY",P008002   ,Two Pointer (1/2 -  2 pt),2FGM,11.0,18.0,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,3,03:27,7,99,"MCCALLUM, RAY",P008002   ,Foul Drawn (1),RV,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,14,03:27,7,100,"ADAMS, JOSH",P007872   ,Foul (1),CM,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,1,03:27,7,101,"LEDO, RICKY",P007969   ,Out,OUT,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,24,03:27,7,102,"MURIC, EDO",P003515   ,In,IN,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,12,03:27,7,103,"MILOSAVLJEVIC, DRAGAN",P002822   ,Out,OUT,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,21,03:27,7,104,"WACZYNSKI, ADAM",PLDX      ,In,IN,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,3,03:27,7,105,"MCCALLUM, RAY",P008002   ,Free Throw In (1/1 -  3 pt),FTM,11.0,19.0,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,15,03:16,7,106,"STIMAC, VLADIMIR",PLBJ      ,Two Pointer (3/6 -  6 pt),2FGM,13.0,19.0,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,44,03:14,7,107,"SIMON, KRUNOSLAV",PCPR      ,Assist (1),AS,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,3,02:56,8,109,"MCCALLUM, RAY",P008002   ,Turnover (1),TO,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,44,02:55,8,110,"SIMON, KRUNOSLAV",PCPR      ,Steal (1),ST,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,15,02:42,8,111,"STIMAC, VLADIMIR",PLBJ      ,Missed Two Pointer (3/7 -  6 pt),2FGA,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,23,02:40,8,112,"BROOKS, JEFF",P004117   ,Def Rebound (4),D,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,16,02:34,8,113,"NEDOVIC, NEMANJA",P000848   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,42,02:31,8,114,"DUNSTON, BRYANT",P003048   ,Def Rebound (2),D,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,24,02:21,8,115,"MURIC, EDO",P003515   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,17,02:19,8,116,"SHERMADINI, GIORGI",P001386   ,Def Rebound (1),D,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,15,02:08,8,117,"STIMAC, VLADIMIR",PLBJ      ,Foul (2),CM,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,17,02:08,8,118,"SHERMADINI, GIORGI",P001386   ,Foul Drawn (2),RV,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,12,02:08,8,119,"MOTUM, BROCK",P006599   ,In,IN,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,15,02:08,8,120,"STIMAC, VLADIMIR",PLBJ      ,Out,OUT,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,3,02:08,8,121,"MCCALLUM, RAY",P008002   ,Out,OUT,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,9,02:08,8,122,"DIAZ, ALBERTO",P004213   ,In,IN,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,23,02:08,8,123,"BROOKS, JEFF",P004117   ,Out,OUT,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,43,02:08,8,124,"SUAREZ, CARLOS",PJJS      ,In,IN,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,17,02:08,8,125,"SHERMADINI, GIORGI",P001386   ,Free Throw In (2/2 -  8 pt),FTM,13.0,20.0,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,17,02:08,8,126,"SHERMADINI, GIORGI",P001386   ,Free Throw In (3/3 -  9 pt),FTM,13.0,21.0,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,17,02:08,8,127,"SHERMADINI, GIORGI",P001386   ,Out,OUT,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,40,02:08,8,128,"AUGUSTINE, JAMES",P001438   ,In,IN,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,44,01:46,9,130,"SIMON, KRUNOSLAV",PCPR      ,Three Pointer (1/1 -  5 pt),3FGM,16.0,21.0,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,14,01:43,9,131,"ADAMS, JOSH",P007872   ,Assist (1),AS,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,21,01:27,9,132,"WACZYNSKI, ADAM",PLDX      ,Three Pointer (1/1 -  3 pt),3FGM,16.0,24.0,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,16,01:25,9,133,"NEDOVIC, NEMANJA",P000848   ,Assist (1),AS,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,14,01:05,9,134,"ADAMS, JOSH",P007872   ,Three Pointer (1/1 -  3 pt),3FGM,19.0,24.0,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,9,00:43,10,136,"DIAZ, ALBERTO",P004213   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,42,00:42,10,137,"DUNSTON, BRYANT",P003048   ,Foul (1),CM,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,40,00:42,10,138,"AUGUSTINE, JAMES",P001438   ,Foul Drawn (1),RV,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,,00:42,10,139,,          ,Off Rebound (1),O,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,40,00:42,10,140,"AUGUSTINE, JAMES",P001438   ,Free Throw In (1/1 -  1 pt),FTM,19.0,25.0,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,40,00:42,10,141,"AUGUSTINE, JAMES",P001438   ,Missed Free Throw (1/2 -  1 pt),FTA,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,12,00:42,10,142,"MOTUM, BROCK",P006599   ,Def Rebound (1),D,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,12,00:27,10,143,"MOTUM, BROCK",P006599   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,44,00:24,10,144,"SIMON, KRUNOSLAV",PCPR      ,Off Rebound (1),O,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,44,00:19,10,145,"SIMON, KRUNOSLAV",PCPR      ,Missed Three Pointer (1/2 -  5 pt),3FGA,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,43,00:15,10,146,"SUAREZ, CARLOS",PJJS      ,Def Rebound (1),D,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,43,00:13,10,147,"SUAREZ, CARLOS",PJJS      ,Turnover (1),TO,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,44,00:12,10,148,"SIMON, KRUNOSLAV",PCPR      ,Steal (2),ST,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,44,00:02,10,149,"SIMON, KRUNOSLAV",PCPR      ,Missed Two Pointer (1/2 -  5 pt),2FGA,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,43,00:01,10,150,"SUAREZ, CARLOS",PJJS      ,Def Rebound (2),D,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+          ,,,,11,152,,          ,End Period,EP,,,,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+          ,,,,11,153,,          ,Begin Period,BP,,,,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,24,09:50,11,154,"MURIC, EDO",P003515   ,Turnover (1),TO,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,16,09:49,11,155,"NEDOVIC, NEMANJA",P000848   ,Steal (1),ST,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,16,09:31,11,156,"NEDOVIC, NEMANJA",P000848   ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,24,09:29,11,157,"MURIC, EDO",P003515   ,Def Rebound (1),D,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,14,09:15,11,158,"ADAMS, JOSH",P007872   ,Three Pointer (2/2 -  6 pt),3FGM,22.0,25.0,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,44,09:13,11,159,"SIMON, KRUNOSLAV",PCPR      ,Assist (2),AS,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,21,08:54,12,161,"WACZYNSKI, ADAM",PLDX      ,Missed Three Pointer (1/2 -  3 pt),3FGA,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,12,08:51,12,162,"MOTUM, BROCK",P006599   ,Def Rebound (2),D,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,14,08:46,12,163,"ADAMS, JOSH",P007872   ,Missed Three Pointer (2/3 -  6 pt),3FGA,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,21,08:43,12,164,"WACZYNSKI, ADAM",PLDX      ,Def Rebound (1),D,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,40,08:38,12,165,"AUGUSTINE, JAMES",P001438   ,Missed Two Pointer (0/1 -  1 pt),2FGA,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,21,08:36,12,166,"WACZYNSKI, ADAM",PLDX      ,Off Rebound (1),O,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,21,08:36,12,167,"WACZYNSKI, ADAM",PLDX      ,Two Pointer (1/1 -  5 pt),2FGM,22.0,27.0,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,24,08:19,12,168,"MURIC, EDO",P003515   ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,40,08:17,12,169,"AUGUSTINE, JAMES",P001438   ,Def Rebound (1),D,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,14,08:11,12,170,"ADAMS, JOSH",P007872   ,Foul (2),CM,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,43,08:11,12,171,"SUAREZ, CARLOS",PJJS      ,Foul Drawn (1),RV,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,1,08:11,12,172,"LEDO, RICKY",P007969   ,In,IN,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,15,08:11,12,173,"STIMAC, VLADIMIR",PLBJ      ,In,IN,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,24,08:11,12,174,"MURIC, EDO",P003515   ,Out,OUT,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,42,08:11,12,175,"DUNSTON, BRYANT",P003048   ,Out,OUT,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,43,08:11,12,176,"SUAREZ, CARLOS",PJJS      ,Free Throw In (1/1 -  1 pt),FTM,22.0,28.0,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,16,08:11,12,177,"NEDOVIC, NEMANJA",P000848   ,Assist (2),AS,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,43,08:11,12,178,"SUAREZ, CARLOS",PJJS      ,Missed Free Throw (1/2 -  1 pt),FTA,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,43,08:11,12,179,"SUAREZ, CARLOS",PJJS      ,Off Rebound (1),O,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,43,07:56,13,181,"SUAREZ, CARLOS",PJJS      ,Missed Three Pointer (0/1 -  1 pt),3FGA,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,14,07:55,13,182,"ADAMS, JOSH",P007872   ,Def Rebound (1),D,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,9,07:55,13,183,"DIAZ, ALBERTO",P004213   ,Foul (1),CM,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,14,07:55,13,184,"ADAMS, JOSH",P007872   ,Foul Drawn (1),RV,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,43,07:43,13,185,"SUAREZ, CARLOS",PJJS      ,Foul (1),CM,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,12,07:43,13,186,"MOTUM, BROCK",P006599   ,Foul Drawn (1),RV,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,12,07:42,13,187,"MOTUM, BROCK",P006599   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,40,07:40,13,188,"AUGUSTINE, JAMES",P001438   ,Def Rebound (2),D,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,16,07:33,13,189,"NEDOVIC, NEMANJA",P000848   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,21,07:31,13,190,"WACZYNSKI, ADAM",PLDX      ,Off Rebound (2),O,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,16,07:29,13,191,"NEDOVIC, NEMANJA",P000848   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,15,07:29,13,192,"STIMAC, VLADIMIR",PLBJ      ,Def Rebound (1),D,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,15,07:16,13,193,"STIMAC, VLADIMIR",PLBJ      ,Two Pointer (4/8 -  8 pt),2FGM,24.0,28.0,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,44,07:15,13,194,"SIMON, KRUNOSLAV",PCPR      ,Assist (3),AS,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,16,06:51,14,196,"NEDOVIC, NEMANJA",P000848   ,Missed Three Pointer (0/3 -  0 pt),3FGA,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,40,06:48,14,197,"AUGUSTINE, JAMES",P001438   ,Off Rebound (1),O,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,21,06:45,14,198,"WACZYNSKI, ADAM",PLDX      ,Missed Two Pointer (1/2 -  5 pt),2FGA,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,15,06:43,14,199,"STIMAC, VLADIMIR",PLBJ      ,Def Rebound (2),D,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,12,06:27,14,200,"MOTUM, BROCK",P006599   ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,1,06:24,14,201,"LEDO, RICKY",P007969   ,Off Rebound (2),O,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,1,06:22,14,202,"LEDO, RICKY",P007969   ,Two Pointer (2/3 -  4 pt),2FGM,26.0,28.0,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,44,06:18,14,203,"SIMON, KRUNOSLAV",PCPR      ,Foul (1),CM,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,16,06:18,14,204,"NEDOVIC, NEMANJA",P000848   ,Foul Drawn (1),RV,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,4,06:18,14,205,"BALBAY, DOGUS",P003521   ,In,IN,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,44,06:18,14,206,"SIMON, KRUNOSLAV",PCPR      ,Out,OUT,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,3,06:18,14,207,"MCCALLUM, RAY",P008002   ,In,IN,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,9,06:18,14,208,"DIAZ, ALBERTO",P004213   ,Out,OUT,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,17,06:18,14,209,"SHERMADINI, GIORGI",P001386   ,In,IN,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,23,06:18,14,210,"BROOKS, JEFF",P004117   ,In,IN,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,40,06:18,14,211,"AUGUSTINE, JAMES",P001438   ,Out,OUT,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,43,06:18,14,212,"SUAREZ, CARLOS",PJJS      ,Out,OUT,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,17,06:07,14,213,"SHERMADINI, GIORGI",P001386   ,Turnover (1),TO,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,4,06:06,14,214,"BALBAY, DOGUS",P003521   ,Steal (1),ST,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,1,06:04,14,215,"LEDO, RICKY",P007969   ,Missed Two Pointer (2/4 -  4 pt),2FGA,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,23,06:04,14,216,"BROOKS, JEFF",P004117   ,Foul (2),CM,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,12,06:04,14,217,"MOTUM, BROCK",P006599   ,Foul Drawn (2),RV,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,,06:04,14,218,,          ,Off Rebound (2),O,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,14,05:59,15,220,"ADAMS, JOSH",P007872   ,Turnover (1),TO,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,10,05:59,15,221,"SALIN, SASU",P002820   ,In,IN,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,16,05:59,15,222,"NEDOVIC, NEMANJA",P000848   ,Out,OUT,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,21,05:37,15,223,"WACZYNSKI, ADAM",PLDX      ,Turnover (1),TO,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,1,05:36,15,224,"LEDO, RICKY",P007969   ,Steal (3),ST,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,14,05:34,15,225,"ADAMS, JOSH",P007872   ,Two Pointer (1/1 -  8 pt),2FGM,28.0,28.0,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,1,05:34,15,226,"LEDO, RICKY",P007969   ,Assist (1),AS,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,,05:34,15,227,,          ,Time Out (1),TOUT,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+          ,,,05:34,15,228,,          ,TV Time Out (2),TOUT_TV,,,,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,3,05:26,15,229,"MCCALLUM, RAY",P008002   ,Turnover (2),TO,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,14,05:16,15,230,"ADAMS, JOSH",P007872   ,Turnover (2),TO,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,3,05:16,15,231,"MCCOLLUM, ERRICK",P005216   ,In,IN,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,14,05:16,15,232,"ADAMS, JOSH",P007872   ,Out,OUT,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,12,05:16,15,233,"MILOSAVLJEVIC, DRAGAN",P002822   ,In,IN,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,21,05:16,15,234,"WACZYNSKI, ADAM",PLDX      ,Out,OUT,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,3,05:12,15,235,"MCCOLLUM, ERRICK",P005216   ,Foul (2),CM,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,10,05:12,15,236,"SALIN, SASU",P002820   ,Foul Drawn (2),RV,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,4,05:08,15,237,"BALBAY, DOGUS",P003521   ,Foul (1),CM,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,10,05:08,15,238,"SALIN, SASU",P002820   ,Foul Drawn (3),RV,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,17,04:56,16,240,"SHERMADINI, GIORGI",P001386   ,Missed Two Pointer (3/5 -  9 pt),2FGA,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,1,04:53,16,241,"LEDO, RICKY",P007969   ,Def Rebound (1),D,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,17,04:51,16,242,"SHERMADINI, GIORGI",P001386   ,Block (1),FV,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,1,04:50,16,243,"LEDO, RICKY",P007969   ,Missed Two Pointer (2/5 -  4 pt),2FGA,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,1,04:50,16,244,"LEDO, RICKY",P007969   ,Shot Rejected (1),AG,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,,04:48,16,245,,          ,Off Rebound (3),O,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,4,04:38,16,246,"BALBAY, DOGUS",P003521   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,15,04:34,16,247,"STIMAC, VLADIMIR",PLBJ      ,Off Rebound (4),O,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,15,04:34,16,248,"STIMAC, VLADIMIR",PLBJ      ,Two Pointer (5/9 -  10 pt),2FGM,30.0,28.0,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,17,04:21,16,249,"SHERMADINI, GIORGI",P001386   ,Missed Two Pointer (3/6 -  9 pt),2FGA,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,15,04:19,16,250,"STIMAC, VLADIMIR",PLBJ      ,Def Rebound (3),D,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,1,04:04,16,251,"LEDO, RICKY",P007969   ,Missed Two Pointer (2/6 -  4 pt),2FGA,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,15,04:02,16,252,"STIMAC, VLADIMIR",PLBJ      ,Off Rebound (5),O,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,23,04:02,16,253,"BROOKS, JEFF",P004117   ,Foul (3),CM,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,15,04:02,16,254,"STIMAC, VLADIMIR",PLBJ      ,Foul Drawn (1),RV,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,17,04:02,16,255,"SHERMADINI, GIORGI",P001386   ,Out,OUT,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,23,04:02,16,256,"BROOKS, JEFF",P004117   ,Out,OUT,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,40,04:02,16,257,"AUGUSTINE, JAMES",P001438   ,In,IN,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,44,04:02,16,258,"MUSLI, DEJAN",PLUR      ,In,IN,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,15,04:02,16,259,"STIMAC, VLADIMIR",PLBJ      ,Free Throw In (1/1 -  11 pt),FTM,31.0,28.0,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,15,04:02,16,260,"STIMAC, VLADIMIR",PLBJ      ,Missed Free Throw (1/2 -  11 pt),FTA,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,44,04:02,16,261,"MUSLI, DEJAN",PLUR      ,Def Rebound (1),D,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,10,03:47,17,263,"SALIN, SASU",P002820   ,Missed Three Pointer (2/4 -  6 pt),3FGA,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,15,03:44,17,264,"STIMAC, VLADIMIR",PLBJ      ,Def Rebound (4),D,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,3,03:35,17,265,"MCCOLLUM, ERRICK",P005216   ,Missed Three Pointer (0/1 -  1 pt),3FGA,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,44,03:33,17,266,"MUSLI, DEJAN",PLUR      ,Def Rebound (2),D,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,3,03:27,17,267,"MCCALLUM, RAY",P008002   ,Missed Two Pointer (1/3 -  3 pt),2FGA,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,40,03:23,17,268,"AUGUSTINE, JAMES",P001438   ,Off Rebound (2),O,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,40,03:23,17,269,"AUGUSTINE, JAMES",P001438   ,Two Pointer (1/2 -  3 pt),2FGM,31.0,30.0,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,1,03:06,17,270,"LEDO, RICKY",P007969   ,Turnover (1),TO,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,40,03:05,17,271,"AUGUSTINE, JAMES",P001438   ,Steal (1),ST,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,,03:04,17,272,,          ,Time Out (1),TOUT,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,1,03:04,17,273,"LEDO, RICKY",P007969   ,Out,OUT,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,12,03:04,17,274,"MOTUM, BROCK",P006599   ,Out,OUT,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,42,03:04,17,275,"DUNSTON, BRYANT",P003048   ,In,IN,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,44,03:04,17,276,"SIMON, KRUNOSLAV",PCPR      ,In,IN,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,3,03:04,17,277,"MCCALLUM, RAY",P008002   ,Out,OUT,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,9,03:04,17,278,"DIAZ, ALBERTO",P004213   ,In,IN,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,40,02:57,18,280,"AUGUSTINE, JAMES",P001438   ,Two Pointer (2/3 -  5 pt),2FGM,31.0,32.0,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,10,02:55,18,281,"SALIN, SASU",P002820   ,Assist (1),AS,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,15,02:35,18,282,"STIMAC, VLADIMIR",PLBJ      ,Missed Two Pointer (5/10 -  11 pt),2FGA,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,40,02:33,18,283,"AUGUSTINE, JAMES",P001438   ,Def Rebound (3),D,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,10,02:14,18,284,"SALIN, SASU",P002820   ,Two Pointer (1/1 -  8 pt),2FGM,31.0,34.0,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,12,02:10,18,285,"MILOSAVLJEVIC, DRAGAN",P002822   ,Assist (1),AS,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,9,01:53,19,287,"DIAZ, ALBERTO",P004213   ,Foul (2),CM,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,42,01:53,19,288,"DUNSTON, BRYANT",P003048   ,Foul Drawn (3),RV,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,4,01:53,19,289,"BALBAY, DOGUS",P003521   ,Out,OUT,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,12,01:53,19,290,"MOTUM, BROCK",P006599   ,In,IN,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,15,01:53,19,291,"STIMAC, VLADIMIR",PLBJ      ,Out,OUT,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,24,01:53,19,292,"MURIC, EDO",P003515   ,In,IN,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,42,01:53,19,293,"DUNSTON, BRYANT",P003048   ,Free Throw In (3/3 -  3 pt),FTM,32.0,34.0,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,42,01:53,19,294,"DUNSTON, BRYANT",P003048   ,Free Throw In (4/4 -  4 pt),FTM,33.0,34.0,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,10,01:30,19,295,"SALIN, SASU",P002820   ,Missed Three Pointer (2/5 -  8 pt),3FGA,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,42,01:26,19,296,"DUNSTON, BRYANT",P003048   ,Def Rebound (3),D,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,12,01:14,19,297,"MOTUM, BROCK",P006599   ,Missed Three Pointer (0/3 -  0 pt),3FGA,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,40,01:11,19,298,"AUGUSTINE, JAMES",P001438   ,Def Rebound (4),D,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,44,01:04,19,299,"MUSLI, DEJAN",PLUR      ,Turnover (1),TO,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,44,00:44,20,301,"SIMON, KRUNOSLAV",PCPR      ,Two Pointer (2/3 -  7 pt),2FGM,35.0,34.0,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,42,00:32,20,302,"DUNSTON, BRYANT",P003048   ,Foul (2),CM,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,10,00:32,20,303,"SALIN, SASU",P002820   ,Foul Drawn (4),RV,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,3,00:32,20,304,"MCCALLUM, RAY",P008002   ,In,IN,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,9,00:32,20,305,"DIAZ, ALBERTO",P004213   ,Out,OUT,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,10,00:32,20,306,"SALIN, SASU",P002820   ,Missed Free Throw (0/1 -  8 pt),FTA,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,10,00:32,20,307,"SALIN, SASU",P002820   ,Free Throw In (1/2 -  9 pt),FTM,35.0,35.0,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,44,00:16,20,308,"SIMON, KRUNOSLAV",PCPR      ,Turnover (1),TO,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,10,00:15,20,309,"SALIN, SASU",P002820   ,Steal (1),ST,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,3,00:01,20,310,"MCCALLUM, RAY",P008002   ,Missed Two Pointer (1/4 -  3 pt),2FGA,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+          ,,,,21,312,,          ,End Period,EP,,,,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+          ,,,,21,325,,          ,Begin Period,BP,,,,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,1,10:00,21,313,"LEDO, RICKY",P007969   ,In,IN,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,4,10:00,21,314,"BALBAY, DOGUS",P003521   ,In,IN,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,15,10:00,21,315,"STIMAC, VLADIMIR",PLBJ      ,In,IN,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,24,10:00,21,316,"MURIC, EDO",P003515   ,Out,OUT,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,42,10:00,21,317,"DUNSTON, BRYANT",P003048   ,Out,OUT,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,44,10:00,21,318,"SIMON, KRUNOSLAV",PCPR      ,Out,OUT,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,3,10:00,21,319,"MCCALLUM, RAY",P008002   ,Out,OUT,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,9,10:00,21,320,"DIAZ, ALBERTO",P004213   ,In,IN,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,10,10:00,21,321,"SALIN, SASU",P002820   ,Out,OUT,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,16,10:00,21,322,"NEDOVIC, NEMANJA",P000848   ,In,IN,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,43,10:00,21,323,"SUAREZ, CARLOS",PJJS      ,In,IN,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,44,10:00,21,324,"MUSLI, DEJAN",PLUR      ,Out,OUT,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,9,09:55,21,326,"DIAZ, ALBERTO",P004213   ,Turnover (1),TO,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,3,09:34,21,327,"MCCOLLUM, ERRICK",P005216   ,Missed Two Pointer (0/2 -  1 pt),2FGA,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,4,09:31,21,328,"BALBAY, DOGUS",P003521   ,Off Rebound (1),O,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,4,09:31,21,329,"BALBAY, DOGUS",P003521   ,Two Pointer (1/2 -  2 pt),2FGM,37.0,35.0,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,16,09:09,21,330,"NEDOVIC, NEMANJA",P000848   ,Turnover (1),TO,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,3,09:07,21,331,"MCCOLLUM, ERRICK",P005216   ,Steal (1),ST,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,3,09:04,21,332,"MCCOLLUM, ERRICK",P005216   ,Two Pointer (1/3 -  3 pt),2FGM,39.0,35.0,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,12,08:48,22,334,"MILOSAVLJEVIC, DRAGAN",P002822   ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,12,08:46,22,335,"MOTUM, BROCK",P006599   ,Def Rebound (3),D,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,16,08:38,22,336,"NEDOVIC, NEMANJA",P000848   ,Foul (1),CM,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,3,08:38,22,337,"MCCOLLUM, ERRICK",P005216   ,Foul Drawn (2),RV,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,3,08:38,22,338,"MCCOLLUM, ERRICK",P005216   ,Missed Free Throw (1/3 -  3 pt),FTA,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,3,08:38,22,339,"MCCOLLUM, ERRICK",P005216   ,Free Throw In (2/4 -  4 pt),FTM,40.0,35.0,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,15,08:38,22,340,"STIMAC, VLADIMIR",PLBJ      ,Assist (2),AS,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,9,08:23,22,341,"DIAZ, ALBERTO",P004213   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,3,08:21,22,342,"MCCOLLUM, ERRICK",P005216   ,Def Rebound (1),D,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,40,08:11,22,343,"AUGUSTINE, JAMES",P001438   ,Foul (1),CM,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,3,08:11,22,344,"MCCOLLUM, ERRICK",P005216   ,Foul Drawn (3),RV,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,1,08:02,22,345,"LEDO, RICKY",P007969   ,Missed Two Pointer (2/7 -  4 pt),2FGA,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,15,07:59,23,347,"STIMAC, VLADIMIR",PLBJ      ,Off Rebound (6),O,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,15,07:59,23,348,"STIMAC, VLADIMIR",PLBJ      ,Two Pointer (6/11 -  13 pt),2FGM,42.0,35.0,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,40,07:47,23,349,"AUGUSTINE, JAMES",P001438   ,Two Pointer (3/4 -  7 pt),2FGM,42.0,37.0,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,43,07:47,23,350,"SUAREZ, CARLOS",PJJS      ,Assist (1),AS,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,3,07:33,23,351,"MCCOLLUM, ERRICK",P005216   ,Missed Three Pointer (0/2 -  4 pt),3FGA,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,43,07:31,23,352,"SUAREZ, CARLOS",PJJS      ,Def Rebound (3),D,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,12,07:26,23,353,"MILOSAVLJEVIC, DRAGAN",P002822   ,Two Pointer (1/1 -  2 pt),2FGM,42.0,39.0,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,16,07:24,23,354,"NEDOVIC, NEMANJA",P000848   ,Assist (3),AS,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,1,07:09,23,355,"LEDO, RICKY",P007969   ,Missed Three Pointer (0/2 -  4 pt),3FGA,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,15,07:07,23,356,"STIMAC, VLADIMIR",PLBJ      ,Off Rebound (7),O,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,12,07:07,23,357,"MILOSAVLJEVIC, DRAGAN",P002822   ,Foul (2),CM,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,15,07:07,23,358,"STIMAC, VLADIMIR",PLBJ      ,Foul Drawn (2),RV,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,1,07:07,23,359,"LEDO, RICKY",P007969   ,Out,OUT,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,44,07:07,23,360,"SIMON, KRUNOSLAV",PCPR      ,In,IN,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,12,06:57,24,362,"MOTUM, BROCK",P006599   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,43,06:55,24,363,"SUAREZ, CARLOS",PJJS      ,Def Rebound (4),D,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,16,06:44,24,364,"NEDOVIC, NEMANJA",P000848   ,Three Pointer (1/4 -  3 pt),3FGM,42.0,42.0,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,43,06:43,24,365,"SUAREZ, CARLOS",PJJS      ,Assist (2),AS,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,3,06:22,24,366,"MCCOLLUM, ERRICK",P005216   ,Missed Three Pointer (0/3 -  4 pt),3FGA,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,12,06:20,24,367,"MOTUM, BROCK",P006599   ,Off Rebound (1),O,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,15,06:11,24,368,"STIMAC, VLADIMIR",PLBJ      ,Two Pointer (7/12 -  15 pt),2FGM,44.0,42.0,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,44,06:08,24,369,"SIMON, KRUNOSLAV",PCPR      ,Assist (4),AS,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,9,05:45,25,371,"DIAZ, ALBERTO",P004213   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,3,05:43,25,372,"MCCOLLUM, ERRICK",P005216   ,Def Rebound (2),D,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,44,05:34,25,373,"SIMON, KRUNOSLAV",PCPR      ,Missed Two Pointer (2/4 -  7 pt),2FGA,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,43,05:34,25,374,"SUAREZ, CARLOS",PJJS      ,Def Rebound (5),D,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,44,05:34,25,375,"SIMON, KRUNOSLAV",PCPR      ,Foul (2),CM,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,43,05:34,25,376,"SUAREZ, CARLOS",PJJS      ,Foul Drawn (2),RV,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,3,05:34,25,377,"MCCOLLUM, ERRICK",P005216   ,Out,OUT,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,14,05:34,25,378,"ADAMS, JOSH",P007872   ,In,IN,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,9,05:10,25,379,"DIAZ, ALBERTO",P004213   ,Two Pointer (1/3 -  2 pt),2FGM,44.0,44.0,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,16,05:08,25,380,"NEDOVIC, NEMANJA",P000848   ,Assist (4),AS,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,9,04:49,26,382,"DIAZ, ALBERTO",P004213   ,Foul (3),CM,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,15,04:49,26,383,"STIMAC, VLADIMIR",PLBJ      ,Foul Drawn (3),RV,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+          ,,,04:49,26,384,,          ,TV Time Out (3),TOUT_TV,,,,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,12,04:49,26,385,"MOTUM, BROCK",P006599   ,Out,OUT,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,42,04:49,26,386,"DUNSTON, BRYANT",P003048   ,In,IN,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,44,04:40,26,387,"SIMON, KRUNOSLAV",PCPR      ,Three Pointer (2/3 -  10 pt),3FGM,47.0,44.0,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,16,04:23,26,388,"NEDOVIC, NEMANJA",P000848   ,Two Pointer (1/3 -  5 pt),2FGM,47.0,46.0,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,9,04:11,26,389,"DIAZ, ALBERTO",P004213   ,Foul (4),CM,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,15,04:11,26,390,"STIMAC, VLADIMIR",PLBJ      ,Foul Drawn (4),RV,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,4,04:11,26,391,"BALBAY, DOGUS",P003521   ,Out,OUT,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,24,04:11,26,392,"MURIC, EDO",P003515   ,In,IN,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,3,04:11,26,393,"MCCALLUM, RAY",P008002   ,In,IN,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,9,04:11,26,394,"DIAZ, ALBERTO",P004213   ,Out,OUT,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,15,04:11,26,395,"STIMAC, VLADIMIR",PLBJ      ,Free Throw In (2/3 -  16 pt),FTM,48.0,46.0,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,15,04:11,26,396,"STIMAC, VLADIMIR",PLBJ      ,Free Throw In (3/4 -  17 pt),FTM,49.0,46.0,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,16,03:46,27,398,"NEDOVIC, NEMANJA",P000848   ,Missed Three Pointer (1/5 -  5 pt),3FGA,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,43,03:44,27,399,"SUAREZ, CARLOS",PJJS      ,Off Rebound (2),O,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,3,03:31,27,400,"MCCALLUM, RAY",P008002   ,Missed Two Pointer (1/5 -  3 pt),2FGA,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,42,03:29,27,401,"DUNSTON, BRYANT",P003048   ,Def Rebound (4),D,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,15,03:27,27,402,"STIMAC, VLADIMIR",PLBJ      ,Offensive Foul (3),OF,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,15,03:27,27,403,"STIMAC, VLADIMIR",PLBJ      ,Turnover (1),TO,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,43,03:27,27,404,"SUAREZ, CARLOS",PJJS      ,Foul Drawn (3),RV,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,23,03:27,27,405,"BROOKS, JEFF",P004117   ,In,IN,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,43,03:27,27,406,"SUAREZ, CARLOS",PJJS      ,Out,OUT,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,12,03:27,27,407,"MOTUM, BROCK",P006599   ,In,IN,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,15,03:27,27,408,"STIMAC, VLADIMIR",PLBJ      ,Out,OUT,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,12,03:10,27,409,"MOTUM, BROCK",P006599   ,Foul (1),CM,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,23,03:10,27,410,"BROOKS, JEFF",P004117   ,Foul Drawn (1),RV,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,3,03:10,27,411,"MCCALLUM, RAY",P008002   ,Turnover (3),TO,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,42,03:10,27,412,"DUNSTON, BRYANT",P003048   ,Steal (1),ST,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,12,03:01,27,413,"MOTUM, BROCK",P006599   ,Two Pointer (1/3 -  2 pt),2FGM,51.0,46.0,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,42,02:59,28,415,"DUNSTON, BRYANT",P003048   ,Assist (2),AS,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,16,02:42,28,416,"NEDOVIC, NEMANJA",P000848   ,Missed Two Pointer (1/4 -  5 pt),2FGA,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,24,02:39,28,417,"MURIC, EDO",P003515   ,Def Rebound (2),D,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,12,02:24,28,418,"MILOSAVLJEVIC, DRAGAN",P002822   ,Out,OUT,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,21,02:24,28,419,"WACZYNSKI, ADAM",PLDX      ,In,IN,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,12,02:19,28,420,"MOTUM, BROCK",P006599   ,Two Pointer (2/4 -  4 pt),2FGM,53.0,46.0,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,14,02:19,28,421,"ADAMS, JOSH",P007872   ,Assist (2),AS,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,3,02:07,28,422,"MCCALLUM, RAY",P008002   ,Three Pointer (1/1 -  6 pt),3FGM,53.0,49.0,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,16,02:07,28,423,"NEDOVIC, NEMANJA",P000848   ,Assist (5),AS,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,40,02:07,28,424,"AUGUSTINE, JAMES",P001438   ,Foul (2),CM,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,44,02:07,28,425,"SIMON, KRUNOSLAV",PCPR      ,Foul Drawn (1),RV,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,10,02:07,28,426,"SALIN, SASU",P002820   ,In,IN,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,16,02:07,28,427,"NEDOVIC, NEMANJA",P000848   ,Out,OUT,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,44,01:49,29,429,"SIMON, KRUNOSLAV",PCPR      ,Free Throw In (1/1 -  11 pt),FTM,54.0,49.0,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,44,01:49,29,430,"SIMON, KRUNOSLAV",PCPR      ,Free Throw In (2/2 -  12 pt),FTM,55.0,49.0,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,17,01:49,29,431,"SHERMADINI, GIORGI",P001386   ,In,IN,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,40,01:49,29,432,"AUGUSTINE, JAMES",P001438   ,Out,OUT,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,17,01:33,29,433,"SHERMADINI, GIORGI",P001386   ,Two Pointer (4/7 -  11 pt),2FGM,55.0,51.0,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,12,01:04,29,434,"MOTUM, BROCK",P006599   ,Two Pointer (3/5 -  6 pt),2FGM,57.0,51.0,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,42,01:02,29,435,"DUNSTON, BRYANT",P003048   ,Assist (3),AS,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,21,00:46,30,437,"WACZYNSKI, ADAM",PLDX      ,Missed Three Pointer (1/3 -  5 pt),3FGA,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,42,00:44,30,438,"DUNSTON, BRYANT",P003048   ,Def Rebound (5),D,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,44,00:37,30,439,"SIMON, KRUNOSLAV",PCPR      ,Turnover (2),TO,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,23,00:35,30,440,"BROOKS, JEFF",P004117   ,Steal (1),ST,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,42,00:32,30,441,"DUNSTON, BRYANT",P003048   ,Block (1),FV,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,3,00:31,30,442,"MCCALLUM, RAY",P008002   ,Missed Two Pointer (1/6 -  6 pt),2FGA,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,3,00:31,30,443,"MCCALLUM, RAY",P008002   ,Shot Rejected (1),AG,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,,00:30,30,444,,          ,Off Rebound (4),O,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,24,00:24,30,445,"MURIC, EDO",P003515   ,Foul (1),CM,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,10,00:24,30,446,"SALIN, SASU",P002820   ,Foul Drawn (5),RV,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,24,00:15,30,447,"MURIC, EDO",P003515   ,Foul (2),CM,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,17,00:15,30,448,"SHERMADINI, GIORGI",P001386   ,Foul Drawn (3),RV,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,17,00:15,30,449,"SHERMADINI, GIORGI",P001386   ,Free Throw In (4/4 -  12 pt),FTM,57.0,52.0,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,3,00:15,30,450,"MCCALLUM, RAY",P008002   ,Assist (4),AS,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,17,00:15,30,451,"SHERMADINI, GIORGI",P001386   ,Free Throw In (5/5 -  13 pt),FTM,57.0,53.0,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,17,00:15,30,452,"SHERMADINI, GIORGI",P001386   ,Out,OUT,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,43,00:15,30,453,"SUAREZ, CARLOS",PJJS      ,In,IN,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,14,00:07,30,454,"ADAMS, JOSH",P007872   ,Two Pointer (2/2 -  10 pt),2FGM,59.0,53.0,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,23,00:01,30,455,"BROOKS, JEFF",P004117   ,Turnover (1),TO,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,24,00:01,30,456,"MURIC, EDO",P003515   ,Steal (1),ST,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,24,00:01,30,457,"MURIC, EDO",P003515   ,Missed Three Pointer (0/3 -  0 pt),3FGA,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+          ,,,,31,459,,          ,End Period,EP,,,,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+          ,,,,31,462,,          ,Begin Period,BP,,,,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,17,10:00,31,460,"SHERMADINI, GIORGI",P001386   ,In,IN,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,43,10:00,31,461,"SUAREZ, CARLOS",PJJS      ,Out,OUT,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,12,09:51,31,463,"MOTUM, BROCK",P006599   ,Three Pointer (1/4 -  9 pt),3FGM,62.0,53.0,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,14,09:48,31,464,"ADAMS, JOSH",P007872   ,Assist (3),AS,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,3,09:26,31,465,"MCCALLUM, RAY",P008002   ,Two Pointer (2/7 -  8 pt),2FGM,62.0,55.0,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,44,09:08,31,466,"SIMON, KRUNOSLAV",PCPR      ,Missed Three Pointer (2/4 -  12 pt),3FGA,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,3,09:06,31,467,"MCCALLUM, RAY",P008002   ,Def Rebound (1),D,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,21,09:00,31,468,"WACZYNSKI, ADAM",PLDX      ,Missed Two Pointer (1/3 -  5 pt),2FGA,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,44,09:00,31,469,"SIMON, KRUNOSLAV",PCPR      ,Def Rebound (2),D,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,14,09:00,31,470,"ADAMS, JOSH",P007872   ,Missed Three Pointer (2/4 -  10 pt),3FGA,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,21,09:00,31,471,"WACZYNSKI, ADAM",PLDX      ,Def Rebound (2),D,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,14,08:28,32,473,"ADAMS, JOSH",P007872   ,Foul (3),CM,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,3,08:28,32,474,"MCCALLUM, RAY",P008002   ,Foul Drawn (2),RV,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,21,08:16,32,475,"WACZYNSKI, ADAM",PLDX      ,Two Pointer (2/4 -  7 pt),2FGM,62.0,57.0,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,23,08:01,32,476,"BROOKS, JEFF",P004117   ,Foul (4),CM,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,12,08:01,32,477,"MOTUM, BROCK",P006599   ,Foul Drawn (3),RV,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,1,08:01,32,478,"LEDO, RICKY",P007969   ,In,IN,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,24,08:01,32,479,"MURIC, EDO",P003515   ,Out,OUT,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,12,08:01,32,480,"MILOSAVLJEVIC, DRAGAN",P002822   ,In,IN,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,21,08:01,32,481,"WACZYNSKI, ADAM",PLDX      ,Out,OUT,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,12,08:01,32,482,"MOTUM, BROCK",P006599   ,Free Throw In (1/1 -  10 pt),FTM,63.0,57.0,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,12,08:01,32,483,"MOTUM, BROCK",P006599   ,Free Throw In (2/2 -  11 pt),FTM,64.0,57.0,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,14,08:01,32,518,"ADAMS, JOSH",P007872   ,Assist (4),AS,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,23,08:01,32,484,"BROOKS, JEFF",P004117   ,Out,OUT,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,43,08:01,32,485,"SUAREZ, CARLOS",PJJS      ,In,IN,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,10,07:48,33,487,"SALIN, SASU",P002820   ,Turnover (2),TO,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,12,07:27,33,488,"MILOSAVLJEVIC, DRAGAN",P002822   ,Block (1),FV,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,12,07:26,33,489,"MOTUM, BROCK",P006599   ,Missed Two Pointer (3/6 -  11 pt),2FGA,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,12,07:26,33,490,"MOTUM, BROCK",P006599   ,Shot Rejected (1),AG,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,12,07:25,33,491,"MILOSAVLJEVIC, DRAGAN",P002822   ,Def Rebound (1),D,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,43,07:16,33,492,"SUAREZ, CARLOS",PJJS      ,Missed Two Pointer (0/1 -  1 pt),2FGA,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,12,07:14,33,493,"MOTUM, BROCK",P006599   ,Def Rebound (4),D,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,17,06:58,34,495,"SHERMADINI, GIORGI",P001386   ,Block (2),FV,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,1,06:57,34,496,"LEDO, RICKY",P007969   ,Missed Two Pointer (2/8 -  4 pt),2FGA,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,1,06:57,34,497,"LEDO, RICKY",P007969   ,Shot Rejected (2),AG,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,,06:56,34,498,,          ,Off Rebound (5),O,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,12,06:56,34,499,"MOTUM, BROCK",P006599   ,Out,OUT,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,15,06:56,34,500,"STIMAC, VLADIMIR",PLBJ      ,In,IN,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,17,06:56,34,501,"SHERMADINI, GIORGI",P001386   ,Out,OUT,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,40,06:56,34,502,"AUGUSTINE, JAMES",P001438   ,In,IN,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,1,06:51,34,503,"LEDO, RICKY",P007969   ,Missed Two Pointer (2/9 -  4 pt),2FGA,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,43,06:49,34,504,"SUAREZ, CARLOS",PJJS      ,Def Rebound (6),D,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,1,06:38,34,505,"LEDO, RICKY",P007969   ,Foul (2),CM,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,43,06:38,34,506,"SUAREZ, CARLOS",PJJS      ,Foul Drawn (4),RV,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,10,06:38,34,507,"SALIN, SASU",P002820   ,Out,OUT,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,16,06:38,34,508,"NEDOVIC, NEMANJA",P000848   ,In,IN,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,43,06:30,34,509,"SUAREZ, CARLOS",PJJS      ,Three Pointer (1/2 -  4 pt),3FGM,64.0,60.0,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,16,06:28,34,510,"NEDOVIC, NEMANJA",P000848   ,Assist (6),AS,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,15,06:05,34,511,"STIMAC, VLADIMIR",PLBJ      ,Turnover (2),TO,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,3,06:04,34,512,"MCCALLUM, RAY",P008002   ,Steal (1),ST,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,3,05:50,35,514,"MCCALLUM, RAY",P008002   ,Three Pointer (2/2 -  11 pt),3FGM,64.0,63.0,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,16,05:50,35,515,"NEDOVIC, NEMANJA",P000848   ,Assist (7),AS,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,,05:50,35,516,,          ,Time Out (1),TOUT,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+          ,,,05:50,35,517,,          ,TV Time Out (4),TOUT_TV,,,,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,44,05:36,35,519,"SIMON, KRUNOSLAV",PCPR      ,Missed Two Pointer (2/5 -  12 pt),2FGA,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,3,05:34,35,520,"MCCALLUM, RAY",P008002   ,Def Rebound (2),D,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,16,05:31,35,521,"NEDOVIC, NEMANJA",P000848   ,Three Pointer (2/6 -  8 pt),3FGM,64.0,66.0,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,3,05:31,35,522,"MCCALLUM, RAY",P008002   ,Assist (5),AS,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,1,05:31,35,523,"LEDO, RICKY",P007969   ,Missed Three Pointer (0/3 -  4 pt),3FGA,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,42,05:31,35,524,"DUNSTON, BRYANT",P003048   ,Off Rebound (1),O,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,42,05:31,35,525,"DUNSTON, BRYANT",P003048   ,Two Pointer (1/2 -  6 pt),2FGM,66.0,66.0,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,16,04:54,36,527,"NEDOVIC, NEMANJA",P000848   ,Two Pointer (2/5 -  10 pt),2FGM,66.0,68.0,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,1,04:33,36,528,"LEDO, RICKY",P007969   ,Turnover (2),TO,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,12,04:32,36,529,"MILOSAVLJEVIC, DRAGAN",P002822   ,Steal (1),ST,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,43,04:16,36,530,"SUAREZ, CARLOS",PJJS      ,Missed Three Pointer (1/3 -  4 pt),3FGA,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,40,04:14,36,531,"AUGUSTINE, JAMES",P001438   ,Off Rebound (3),O,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,16,04:04,36,532,"NEDOVIC, NEMANJA",P000848   ,Missed Three Pointer (2/7 -  10 pt),3FGA,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,1,04:01,36,533,"LEDO, RICKY",P007969   ,Def Rebound (2),D,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,12,03:44,37,535,"MILOSAVLJEVIC, DRAGAN",P002822   ,Foul (3),CM,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,1,03:44,37,536,"LEDO, RICKY",P007969   ,Foul Drawn (2),RV,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,12,03:44,37,537,"MOTUM, BROCK",P006599   ,In,IN,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,15,03:44,37,538,"STIMAC, VLADIMIR",PLBJ      ,Out,OUT,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,24,03:44,37,539,"MURIC, EDO",P003515   ,In,IN,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,44,03:44,37,540,"SIMON, KRUNOSLAV",PCPR      ,Out,OUT,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,1,03:44,37,541,"LEDO, RICKY",P007969   ,Missed Free Throw (0/3 -  4 pt),FTA,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,1,03:44,37,542,"LEDO, RICKY",P007969   ,Free Throw In (1/4 -  5 pt),FTM,67.0,68.0,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,40,03:29,37,543,"AUGUSTINE, JAMES",P001438   ,Two Pointer (4/5 -  9 pt),2FGM,67.0,70.0,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,16,03:27,37,544,"NEDOVIC, NEMANJA",P000848   ,Assist (8),AS,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,,03:26,37,545,,          ,Time Out (2),TOUT,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,4,03:26,37,546,"BALBAY, DOGUS",P003521   ,In,IN,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,14,03:26,37,547,"ADAMS, JOSH",P007872   ,Out,OUT,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,1,03:08,37,548,"LEDO, RICKY",P007969   ,Missed Two Pointer (2/10 -  5 pt),2FGA,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,42,03:05,37,549,"DUNSTON, BRYANT",P003048   ,Off Rebound (2),O,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,42,03:05,37,550,"DUNSTON, BRYANT",P003048   ,Two Pointer (2/3 -  8 pt),2FGM,69.0,70.0,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,1,02:51,38,552,"LEDO, RICKY",P007969   ,Out,OUT,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,44,02:51,38,553,"SIMON, KRUNOSLAV",PCPR      ,In,IN,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,24,02:44,38,554,"MURIC, EDO",P003515   ,Foul (3),CM,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,40,02:44,38,555,"AUGUSTINE, JAMES",P001438   ,Foul Drawn (2),RV,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,40,02:44,38,556,"AUGUSTINE, JAMES",P001438   ,Free Throw In (2/3 -  10 pt),FTM,69.0,71.0,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,43,02:44,38,557,"SUAREZ, CARLOS",PJJS      ,Assist (3),AS,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,40,02:44,38,558,"AUGUSTINE, JAMES",P001438   ,Free Throw In (3/4 -  11 pt),FTM,69.0,72.0,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,4,02:27,38,559,"BALBAY, DOGUS",P003521   ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,42,02:23,38,560,"DUNSTON, BRYANT",P003048   ,Off Rebound (3),O,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,42,02:22,38,561,"DUNSTON, BRYANT",P003048   ,Turnover (1),TO,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,16,02:07,38,562,"NEDOVIC, NEMANJA",P000848   ,Three Pointer (3/8 -  13 pt),3FGM,69.0,75.0,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,44,01:51,39,564,"SIMON, KRUNOSLAV",PCPR      ,Missed Three Pointer (2/5 -  12 pt),3FGA,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,12,01:49,39,565,"MOTUM, BROCK",P006599   ,Off Rebound (2),O,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,12,01:49,39,566,"MOTUM, BROCK",P006599   ,Missed Two Pointer (3/7 -  11 pt),2FGA,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,,01:48,39,567,,          ,Off Rebound (6),O,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,4,01:48,39,568,"BALBAY, DOGUS",P003521   ,Out,OUT,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,14,01:48,39,569,"ADAMS, JOSH",P007872   ,In,IN,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,12,01:39,39,570,"MOTUM, BROCK",P006599   ,Missed Two Pointer (3/8 -  11 pt),2FGA,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,40,01:37,39,571,"AUGUSTINE, JAMES",P001438   ,Def Rebound (5),D,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,12,01:18,39,572,"MILOSAVLJEVIC, DRAGAN",P002822   ,Missed Three Pointer (0/3 -  2 pt),3FGA,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,44,01:16,39,573,"SIMON, KRUNOSLAV",PCPR      ,Def Rebound (3),D,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,16,01:11,39,574,"NEDOVIC, NEMANJA",P000848   ,Foul (2),CM,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,14,01:11,39,575,"ADAMS, JOSH",P007872   ,Foul Drawn (2),RV,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,14,01:05,39,576,"ADAMS, JOSH",P007872   ,Turnover (3),TO,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,4,01:05,39,577,"BALBAY, DOGUS",P003521   ,In,IN,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,44,01:05,39,578,"SIMON, KRUNOSLAV",PCPR      ,Out,OUT,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,42,00:48,40,580,"DUNSTON, BRYANT",P003048   ,Foul (3),CM,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,3,00:48,40,581,"MCCALLUM, RAY",P008002   ,Foul Drawn (3),RV,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,4,00:48,40,582,"BALBAY, DOGUS",P003521   ,Out,OUT,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,44,00:48,40,583,"SIMON, KRUNOSLAV",PCPR      ,In,IN,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,3,00:48,40,584,"MCCALLUM, RAY",P008002   ,Free Throw In (2/2 -  12 pt),FTM,69.0,76.0,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,3,00:48,40,585,"MCCALLUM, RAY",P008002   ,Free Throw In (3/3 -  13 pt),FTM,69.0,77.0,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,,00:48,40,586,,          ,Time Out (3),TOUT,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,12,00:44,40,587,"MOTUM, BROCK",P006599   ,Three Pointer (2/5 -  14 pt),3FGM,72.0,77.0,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,14,00:45,40,588,"ADAMS, JOSH",P007872   ,Assist (5),AS,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,12,00:43,40,589,"MOTUM, BROCK",P006599   ,Foul (2),CM,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,43,00:43,40,590,"SUAREZ, CARLOS",PJJS      ,Foul Drawn (5),RV,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,43,00:43,40,591,"SUAREZ, CARLOS",PJJS      ,Free Throw In (2/3 -  5 pt),FTM,72.0,78.0,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,43,00:43,40,592,"SUAREZ, CARLOS",PJJS      ,Free Throw In (3/4 -  6 pt),FTM,72.0,79.0,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,16,00:30,40,593,"NEDOVIC, NEMANJA",P000848   ,Block (1),FV,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,24,00:31,40,594,"MURIC, EDO",P003515   ,Missed Three Pointer (0/4 -  0 pt),3FGA,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,24,00:31,40,595,"MURIC, EDO",P003515   ,Shot Rejected (1),AG,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,12,00:30,40,596,"MOTUM, BROCK",P006599   ,Off Rebound (3),O,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,12,00:29,40,597,"MOTUM, BROCK",P006599   ,Missed Three Pointer (2/6 -  14 pt),3FGA,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,,00:24,40,598,,          ,Off Rebound (7),O,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,44,00:19,40,599,"SIMON, KRUNOSLAV",PCPR      ,Missed Three Pointer (2/6 -  12 pt),3FGA,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,16,00:16,40,600,"NEDOVIC, NEMANJA",P000848   ,Def Rebound (1),D,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+MAL       ,,12,00:06,40,601,"MILOSAVLJEVIC, DRAGAN",P002822   ,Turnover (2),TO,,,Unicaja Malaga,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,12,00:02,40,602,"MOTUM, BROCK",P006599   ,Two Pointer (4/9 -  16 pt),2FGM,74.0,79.0,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+IST       ,,14,00:02,40,603,"ADAMS, JOSH",P007872   ,Assist (6),AS,,,Anadolu Efes Istanbul,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL
+          ,,,,41,606,,          ,End Game,EG,,,,0,Anadolu Efes Istanbul,IST,Unicaja Malaga,MAL

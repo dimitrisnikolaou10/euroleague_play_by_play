@@ -1,476 +1,476 @@
-CODETEAM,COMMENT,DORSAL,MARKERTIME,MINUTE,NUMBEROFPLAY,PLAYER,PLAYER_ID,PLAYINFO,PLAYTYPE,POINTS_A,POINTS_B,TEAM,TYPE
-          ,,,,1,2,,          ,Begin Period,BP,,,,0
-KHI       ,,1,09:46,1,3,"SHVED, ALEXEY",PKVZ      ,Turnover (1),TO,,,Khimki Moscow Region,0
-ULK       ,,21,09:45,1,4,"NUNNALLY, JAMES",P007400   ,Steal (1),ST,,,Fenerbahce Dogus Istanbul,0
-KHI       ,,22,09:43,1,5,"JENKINS, CHARLES",P005014   ,Foul (1),CM,,,Khimki Moscow Region,0
-ULK       ,,11,09:43,1,6,"WANAMAKER, BRAD",P005838   ,Foul Drawn (1),RV,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,1,09:27,1,7,"THOMPSON, JASON",P007998   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,21,09:24,1,8,"NUNNALLY, JAMES",P007400   ,Off Rebound (1),O,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,70,09:21,1,9,"DATOME, LUIGI",PCCD      ,Three Pointer (1/1 -  3 pt),3FGM,3.0,,Fenerbahce Dogus Istanbul,0
-ULK       ,,21,09:19,1,10,"NUNNALLY, JAMES",P007400   ,Assist (1),AS,,,Fenerbahce Dogus Istanbul,0
-KHI       ,,1,09:05,1,11,"SHVED, ALEXEY",PKVZ      ,Three Pointer (1/1 -  3 pt),3FGM,3.0,3.0,Khimki Moscow Region,0
-KHI       ,,12,09:04,1,12,"MONIA, SERGEY",PBFX      ,Assist (1),AS,,,Khimki Moscow Region,0
-ULK       ,,70,08:44,2,14,"DATOME, LUIGI",PCCD      ,Turnover (1),TO,,,Fenerbahce Dogus Istanbul,0
-KHI       ,,0,08:43,2,15,"ROBINSON, THOMAS",P008003   ,Steal (1),ST,,,Khimki Moscow Region,0
-KHI       ,,0,08:32,2,16,"ROBINSON, THOMAS",P008003   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Khimki Moscow Region,0
-ULK       ,,70,08:30,2,17,"DATOME, LUIGI",PCCD      ,Def Rebound (1),D,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,24,08:20,2,18,"VESELY, JAN",P000925   ,Two Pointer (1/1 -  2 pt),2FGM,5.0,3.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,1,08:18,2,19,"THOMPSON, JASON",P007998   ,Assist (1),AS,,,Fenerbahce Dogus Istanbul,0
-KHI       ,,21,07:54,3,21,"ANDERSON, JAMES",P005938   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Khimki Moscow Region,0
-ULK       ,,1,07:52,3,22,"THOMPSON, JASON",P007998   ,Def Rebound (1),D,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,70,07:46,3,23,"DATOME, LUIGI",PCCD      ,Missed Three Pointer (1/2 -  3 pt),3FGA,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,11,07:44,3,24,"WANAMAKER, BRAD",P005838   ,Off Rebound (1),O,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,1,07:37,3,25,"THOMPSON, JASON",P007998   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Fenerbahce Dogus Istanbul,0
-KHI       ,,0,07:35,3,26,"ROBINSON, THOMAS",P008003   ,Def Rebound (1),D,,,Khimki Moscow Region,0
-KHI       ,,1,07:22,3,27,"SHVED, ALEXEY",PKVZ      ,Turnover (2),TO,,,Khimki Moscow Region,0
-ULK       ,,21,07:20,3,28,"NUNNALLY, JAMES",P007400   ,Steal (2),ST,,,Fenerbahce Dogus Istanbul,0
-KHI       ,,12,07:16,3,29,"MONIA, SERGEY",PBFX      ,Block (1),FV,,,Khimki Moscow Region,0
-ULK       ,,70,07:13,3,30,"DATOME, LUIGI",PCCD      ,Missed Two Pointer (0/1 -  3 pt),2FGA,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,70,07:13,3,31,"DATOME, LUIGI",PCCD      ,Shot Rejected (1),AG,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,11,07:12,3,32,"WANAMAKER, BRAD",P005838   ,Off Rebound (2),O,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,21,07:12,3,33,"NUNNALLY, JAMES",P007400   ,Three Pointer (1/1 -  3 pt),3FGM,8.0,3.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,11,07:12,3,34,"WANAMAKER, BRAD",P005838   ,Assist (1),AS,,,Fenerbahce Dogus Istanbul,0
-KHI       ,,1,06:58,4,36,"SHVED, ALEXEY",PKVZ      ,Missed Two Pointer (0/1 -  3 pt),2FGA,,,Khimki Moscow Region,0
-ULK       ,,70,06:56,4,37,"DATOME, LUIGI",PCCD      ,Def Rebound (2),D,,,Fenerbahce Dogus Istanbul,0
-KHI       ,,22,06:52,4,38,"JENKINS, CHARLES",P005014   ,Foul (2),CM,,,Khimki Moscow Region,0
-ULK       ,,1,06:52,4,39,"THOMPSON, JASON",P007998   ,Foul Drawn (1),RV,,,Fenerbahce Dogus Istanbul,0
-KHI       ,,9,06:52,4,40,"MARKOVIC, STEFAN",PLME      ,In,IN,,,Khimki Moscow Region,0
-KHI       ,,22,06:52,4,41,"JENKINS, CHARLES",P005014   ,Out,OUT,,,Khimki Moscow Region,0
-ULK       ,,11,06:38,4,42,"WANAMAKER, BRAD",P005838   ,Three Pointer (1/1 -  3 pt),3FGM,11.0,3.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,1,06:36,4,43,"THOMPSON, JASON",P007998   ,Assist (2),AS,,,Fenerbahce Dogus Istanbul,0
-KHI       ,,21,06:12,4,44,"ANDERSON, JAMES",P005938   ,Three Pointer (1/1 -  3 pt),3FGM,11.0,6.0,Khimki Moscow Region,0
-KHI       ,,1,06:10,4,45,"SHVED, ALEXEY",PKVZ      ,Assist (1),AS,,,Khimki Moscow Region,0
-ULK       ,,11,05:47,5,47,"WANAMAKER, BRAD",P005838   ,Missed Three Pointer (1/2 -  3 pt),3FGA,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,1,05:45,5,48,"THOMPSON, JASON",P007998   ,Off Rebound (1),O,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,21,05:41,5,49,"NUNNALLY, JAMES",P007400   ,Three Pointer (2/2 -  6 pt),3FGM,14.0,6.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,11,05:39,5,50,"WANAMAKER, BRAD",P005838   ,Assist (2),AS,,,Fenerbahce Dogus Istanbul,0
-KHI       ,,21,05:17,5,51,"ANDERSON, JAMES",P005938   ,Missed Three Pointer (1/2 -  3 pt),3FGA,,,Khimki Moscow Region,0
-ULK       ,,70,05:16,5,52,"DATOME, LUIGI",PCCD      ,Foul (1),CM,,,Fenerbahce Dogus Istanbul,0
-KHI       ,,0,05:16,5,53,"ROBINSON, THOMAS",P008003   ,Foul Drawn (1),RV,,,Khimki Moscow Region,0
-KHI       ,,,05:16,5,54,,          ,Off Rebound (1),O,,,Khimki Moscow Region,0
-KHI       ,,1,05:09,5,55,"SHVED, ALEXEY",PKVZ      ,Missed Three Pointer (1/2 -  3 pt),3FGA,,,Khimki Moscow Region,0
-ULK       ,,70,05:07,5,56,"DATOME, LUIGI",PCCD      ,Def Rebound (3),D,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,24,04:55,6,58,"VESELY, JAN",P000925   ,Two Pointer (2/2 -  4 pt),2FGM,16.0,6.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,11,04:55,6,59,"WANAMAKER, BRAD",P005838   ,Assist (3),AS,,,Fenerbahce Dogus Istanbul,0
-KHI       ,,,04:55,6,60,,          ,Time Out (1),TOUT,,,Khimki Moscow Region,0
-          ,,,04:55,6,61,,          ,TV Time Out (1),TOUT_TV,,,,0
-KHI       ,,12,04:55,6,62,"MONIA, SERGEY",PBFX      ,Out,OUT,,,Khimki Moscow Region,0
-KHI       ,,13,04:55,6,63,"GILL, ANTHONY",P008001   ,In,IN,,,Khimki Moscow Region,0
-KHI       ,,0,04:38,6,64,"ROBINSON, THOMAS",P008003   ,Two Pointer (1/2 -  2 pt),2FGM,16.0,8.0,Khimki Moscow Region,0
-ULK       ,,24,04:20,6,65,"VESELY, JAN",P000925   ,Turnover (1),TO,,,Fenerbahce Dogus Istanbul,0
-KHI       ,,1,03:57,7,67,"SHVED, ALEXEY",PKVZ      ,Three Pointer (2/3 -  6 pt),3FGM,16.0,11.0,Khimki Moscow Region,0
-KHI       ,,0,03:55,7,68,"ROBINSON, THOMAS",P008003   ,Assist (1),AS,,,Khimki Moscow Region,0
-ULK       ,,21,03:35,7,69,"NUNNALLY, JAMES",P007400   ,Three Pointer (3/3 -  9 pt),3FGM,19.0,11.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,24,03:33,7,70,"VESELY, JAN",P000925   ,Assist (1),AS,,,Fenerbahce Dogus Istanbul,0
-KHI       ,,0,03:19,7,71,"ROBINSON, THOMAS",P008003   ,Missed Two Pointer (1/3 -  2 pt),2FGA,,,Khimki Moscow Region,0
-ULK       ,,11,03:16,7,72,"WANAMAKER, BRAD",P005838   ,Def Rebound (1),D,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,11,03:14,7,73,"WANAMAKER, BRAD",P005838   ,Two Pointer (1/1 -  5 pt),2FGM,21.0,11.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,11,03:14,7,74,"WANAMAKER, BRAD",P005838   ,Foul Drawn (2),RV,,,Fenerbahce Dogus Istanbul,0
-KHI       ,,21,03:14,7,75,"ANDERSON, JAMES",P005938   ,Foul (1),CM,,,Khimki Moscow Region,0
-ULK       ,,23,03:14,7,76,"GUDURIC, MARKO",P004004   ,In,IN,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,70,03:14,7,77,"DATOME, LUIGI",PCCD      ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,11,03:14,7,78,"WANAMAKER, BRAD",P005838   ,Free Throw In (1/1 -  6 pt),FTM,22.0,11.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,11,03:04,7,79,"WANAMAKER, BRAD",P005838   ,Foul (1),CM,,,Fenerbahce Dogus Istanbul,0
-KHI       ,,1,03:04,7,80,"SHVED, ALEXEY",PKVZ      ,Foul Drawn (1),RV,,,Khimki Moscow Region,0
-KHI       ,,9,02:51,8,82,"MARKOVIC, STEFAN",PLME      ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Khimki Moscow Region,0
-ULK       ,,1,02:49,8,83,"THOMPSON, JASON",P007998   ,Def Rebound (2),D,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,23,02:27,8,84,"GUDURIC, MARKO",P004004   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,24,02:23,8,85,"VESELY, JAN",P000925   ,Off Rebound (1),O,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,24,02:23,8,86,"VESELY, JAN",P000925   ,Two Pointer (3/3 -  6 pt),2FGM,24.0,11.0,Fenerbahce Dogus Istanbul,0
-KHI       ,,0,02:02,8,87,"ROBINSON, THOMAS",P008003   ,Two Pointer (2/4 -  4 pt),2FGM,24.0,13.0,Khimki Moscow Region,0
-KHI       ,,1,02:00,8,88,"SHVED, ALEXEY",PKVZ      ,Assist (2),AS,,,Khimki Moscow Region,0
-ULK       ,,21,01:43,9,90,"NUNNALLY, JAMES",P007400   ,Missed Three Pointer (3/4 -  9 pt),3FGA,,,Fenerbahce Dogus Istanbul,0
-KHI       ,,0,01:40,9,91,"ROBINSON, THOMAS",P008003   ,Def Rebound (2),D,,,Khimki Moscow Region,0
-KHI       ,,21,01:25,9,92,"ANDERSON, JAMES",P005938   ,Missed Three Pointer (1/3 -  3 pt),3FGA,,,Khimki Moscow Region,0
-ULK       ,,24,01:22,9,93,"VESELY, JAN",P000925   ,Def Rebound (1),D,,,Fenerbahce Dogus Istanbul,0
-KHI       ,,1,01:16,9,94,"SHVED, ALEXEY",PKVZ      ,Foul (1),CM,,,Khimki Moscow Region,0
-ULK       ,,23,01:16,9,95,"GUDURIC, MARKO",P004004   ,Foul Drawn (1),RV,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,1,01:16,9,96,"THOMPSON, JASON",P007998   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,4,01:16,9,97,"MELLI, NICOLO",P002849   ,In,IN,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,11,01:08,9,98,"WANAMAKER, BRAD",P005838   ,Missed Two Pointer (1/2 -  6 pt),2FGA,,,Fenerbahce Dogus Istanbul,0
-KHI       ,,0,01:06,9,99,"ROBINSON, THOMAS",P008003   ,Def Rebound (3),D,,,Khimki Moscow Region,0
-KHI       ,,0,00:45,10,101,"ROBINSON, THOMAS",P008003   ,Missed Two Pointer (2/5 -  4 pt),2FGA,,,Khimki Moscow Region,0
-KHI       ,,13,00:43,10,102,"GILL, ANTHONY",P008001   ,Off Rebound (1),O,,,Khimki Moscow Region,0
-KHI       ,,13,00:43,10,103,"GILL, ANTHONY",P008001   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Khimki Moscow Region,0
-KHI       ,,13,00:43,10,104,"GILL, ANTHONY",P008001   ,Shot Rejected (1),AG,,,Khimki Moscow Region,0
-ULK       ,,4,00:43,10,105,"MELLI, NICOLO",P002849   ,Block (1),FV,,,Fenerbahce Dogus Istanbul,0
-KHI       ,,,00:43,10,106,,          ,Off Rebound (2),O,,,Khimki Moscow Region,0
-ULK       ,,4,00:39,10,107,"MELLI, NICOLO",P002849   ,Foul (1),CM,,,Fenerbahce Dogus Istanbul,0
-KHI       ,,1,00:39,10,108,"SHVED, ALEXEY",PKVZ      ,Foul Drawn (2),RV,,,Khimki Moscow Region,0
-KHI       ,,21,00:25,10,109,"ANDERSON, JAMES",P005938   ,Two Pointer (1/2 -  5 pt),2FGM,24.0,15.0,Khimki Moscow Region,0
-KHI       ,,1,00:23,10,110,"SHVED, ALEXEY",PKVZ      ,Assist (3),AS,,,Khimki Moscow Region,0
-ULK       ,,1,00:02,10,111,"THOMPSON, JASON",P007998   ,In,IN,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,24,00:02,10,112,"VESELY, JAN",P000925   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,1,00:02,10,113,"THOMPSON, JASON",P007998   ,Missed Two Pointer (0/3 -  0 pt),2FGA,,,Fenerbahce Dogus Istanbul,0
-          ,,,,11,115,,          ,End Period,EP,,,,0
-          ,,,,11,116,,          ,Begin Period,BP,,,,0
-ULK       ,,4,09:49,11,117,"MELLI, NICOLO",P002849   ,Turnover (1),TO,,,Fenerbahce Dogus Istanbul,0
-KHI       ,,21,09:30,11,118,"ANDERSON, JAMES",P005938   ,Two Pointer (2/3 -  7 pt),2FGM,24.0,17.0,Khimki Moscow Region,0
-ULK       ,,4,09:08,11,119,"MELLI, NICOLO",P002849   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Fenerbahce Dogus Istanbul,0
-KHI       ,,0,09:08,11,120,"ROBINSON, THOMAS",P008003   ,Def Rebound (4),D,,,Khimki Moscow Region,0
-KHI       ,,9,08:43,12,122,"MARKOVIC, STEFAN",PLME      ,Three Pointer (1/1 -  3 pt),3FGM,24.0,20.0,Khimki Moscow Region,0
-ULK       ,,,08:41,12,123,,          ,Time Out (1),TOUT,,,Fenerbahce Dogus Istanbul,0
-          ,,,08:41,12,124,,          ,TV Time Out (2),TOUT_TV,,,,0
-ULK       ,,1,08:22,12,125,"THOMPSON, JASON",P007998   ,Turnover (1),TO,,,Fenerbahce Dogus Istanbul,0
-KHI       ,,13,08:21,12,126,"GILL, ANTHONY",P008001   ,Steal (1),ST,,,Khimki Moscow Region,0
-KHI       ,,13,08:11,12,127,"GILL, ANTHONY",P008001   ,Offensive Foul (1),OF,,,Khimki Moscow Region,0
-KHI       ,,13,08:11,12,128,"GILL, ANTHONY",P008001   ,Turnover (1),TO,,,Khimki Moscow Region,0
-ULK       ,,1,08:11,12,129,"THOMPSON, JASON",P007998   ,Foul Drawn (2),RV,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,21,08:11,12,130,"NUNNALLY, JAMES",P007400   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,35,08:11,12,131,"MUHAMMED, ALI",P001324   ,In,IN,,,Fenerbahce Dogus Istanbul,0
-KHI       ,,0,08:11,12,132,"ROBINSON, THOMAS",P008003   ,Out,OUT,,,Khimki Moscow Region,0
-KHI       ,,23,08:11,12,133,"THOMAS, MALCOLM",P004251   ,In,IN,,,Khimki Moscow Region,0
-KHI       ,,1,07:54,13,135,"SHVED, ALEXEY",PKVZ      ,Foul (2),CM,,,Khimki Moscow Region,0
-ULK       ,,4,07:54,13,136,"MELLI, NICOLO",P002849   ,Foul Drawn (1),RV,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,11,07:42,13,137,"WANAMAKER, BRAD",P005838   ,Missed Two Pointer (1/3 -  6 pt),2FGA,,,Fenerbahce Dogus Istanbul,0
-KHI       ,,,07:40,13,138,,          ,Def Rebound (1),D,,,Khimki Moscow Region,0
-KHI       ,,1,07:40,13,139,"SHVED, ALEXEY",PKVZ      ,Out,OUT,,,Khimki Moscow Region,0
-KHI       ,,22,07:40,13,140,"JENKINS, CHARLES",P005014   ,In,IN,,,Khimki Moscow Region,0
-KHI       ,,21,07:39,13,141,"ANDERSON, JAMES",P005938   ,Three Pointer (2/4 -  10 pt),3FGM,24.0,23.0,Khimki Moscow Region,0
-KHI       ,,23,07:39,13,142,"THOMAS, MALCOLM",P004251   ,Assist (1),AS,,,Khimki Moscow Region,0
-ULK       ,,4,07:39,13,143,"MELLI, NICOLO",P002849   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,24,07:39,13,144,"VESELY, JAN",P000925   ,In,IN,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,35,06:54,14,146,"MUHAMMED, ALI",P001324   ,Two Pointer (1/1 -  2 pt),2FGM,26.0,23.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,11,06:49,14,147,"WANAMAKER, BRAD",P005838   ,Assist (4),AS,,,Fenerbahce Dogus Istanbul,0
-KHI       ,,21,06:33,14,148,"ANDERSON, JAMES",P005938   ,Missed Two Pointer (2/4 -  10 pt),2FGA,,,Khimki Moscow Region,0
-ULK       ,,1,06:33,14,149,"THOMPSON, JASON",P007998   ,Foul (1),CM,,,Fenerbahce Dogus Istanbul,0
-KHI       ,,23,06:33,14,150,"THOMAS, MALCOLM",P004251   ,Foul Drawn (1),RV,,,Khimki Moscow Region,0
-KHI       ,,,06:33,14,151,,          ,Off Rebound (3),O,,,Khimki Moscow Region,0
-KHI       ,,21,06:21,14,152,"ANDERSON, JAMES",P005938   ,Missed Three Pointer (2/5 -  10 pt),3FGA,,,Khimki Moscow Region,0
-ULK       ,,35,06:19,14,153,"MUHAMMED, ALI",P001324   ,Def Rebound (1),D,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,11,06:03,14,154,"WANAMAKER, BRAD",P005838   ,Missed Three Pointer (1/3 -  6 pt),3FGA,,,Fenerbahce Dogus Istanbul,0
-KHI       ,,9,06:00,14,155,"MARKOVIC, STEFAN",PLME      ,Def Rebound (1),D,,,Khimki Moscow Region,0
-ULK       ,,11,06:00,14,156,"WANAMAKER, BRAD",P005838   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,70,06:00,14,157,"DATOME, LUIGI",PCCD      ,In,IN,,,Fenerbahce Dogus Istanbul,0
-KHI       ,,0,06:00,14,158,"ROBINSON, THOMAS",P008003   ,In,IN,,,Khimki Moscow Region,0
-KHI       ,,13,06:00,14,159,"GILL, ANTHONY",P008001   ,Out,OUT,,,Khimki Moscow Region,0
-KHI       ,,9,05:45,15,161,"MARKOVIC, STEFAN",PLME      ,Missed Three Pointer (1/2 -  3 pt),3FGA,,,Khimki Moscow Region,0
-ULK       ,,35,05:43,15,162,"MUHAMMED, ALI",P001324   ,Def Rebound (2),D,,,Fenerbahce Dogus Istanbul,0
-KHI       ,,23,05:35,15,163,"THOMAS, MALCOLM",P004251   ,Foul (1),CM,,,Khimki Moscow Region,0
-ULK       ,,24,05:35,15,164,"VESELY, JAN",P000925   ,Foul Drawn (1),RV,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,35,05:23,15,165,"MUHAMMED, ALI",P001324   ,Three Pointer (1/1 -  5 pt),3FGM,29.0,23.0,Fenerbahce Dogus Istanbul,0
-KHI       ,,0,05:05,15,166,"ROBINSON, THOMAS",P008003   ,Missed Two Pointer (2/6 -  4 pt),2FGA,,,Khimki Moscow Region,0
-ULK       ,,1,05:04,15,167,"THOMPSON, JASON",P007998   ,Def Rebound (3),D,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,23,05:00,15,168,"GUDURIC, MARKO",P004004   ,Two Pointer (1/1 -  2 pt),2FGM,31.0,23.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,35,04:59,16,170,"MUHAMMED, ALI",P001324   ,Assist (1),AS,,,Fenerbahce Dogus Istanbul,0
-KHI       ,,21,04:33,16,171,"ANDERSON, JAMES",P005938   ,Turnover (1),TO,,,Khimki Moscow Region,0
-KHI       ,,,04:33,16,172,,          ,Time Out (1),TOUT,,,Khimki Moscow Region,0
-KHI       ,,6,04:33,16,173,"VIALTSEV, EGOR",PBGV      ,In,IN,,,Khimki Moscow Region,0
-KHI       ,,21,04:33,16,174,"ANDERSON, JAMES",P005938   ,Out,OUT,,,Khimki Moscow Region,0
-ULK       ,,23,04:08,16,175,"GUDURIC, MARKO",P004004   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,24,04:06,16,176,"VESELY, JAN",P000925   ,Off Rebound (2),O,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,70,04:01,16,177,"DATOME, LUIGI",PCCD      ,Two Pointer (1/2 -  5 pt),2FGM,33.0,23.0,Fenerbahce Dogus Istanbul,0
-KHI       ,,23,03:39,17,179,"THOMAS, MALCOLM",P004251   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Khimki Moscow Region,0
-ULK       ,,1,03:37,17,180,"THOMPSON, JASON",P007998   ,Def Rebound (4),D,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,35,03:28,17,181,"MUHAMMED, ALI",P001324   ,Missed Three Pointer (1/2 -  5 pt),3FGA,,,Fenerbahce Dogus Istanbul,0
-KHI       ,,,03:27,17,182,,          ,Def Rebound (2),D,,,Khimki Moscow Region,0
-ULK       ,,1,03:06,17,183,"THOMPSON, JASON",P007998   ,Foul (2),CM,,,Fenerbahce Dogus Istanbul,0
-KHI       ,,6,03:06,17,184,"VIALTSEV, EGOR",PBGV      ,Foul Drawn (1),RV,,,Khimki Moscow Region,0
-ULK       ,,1,03:06,17,185,"THOMPSON, JASON",P007998   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,4,03:06,17,186,"MELLI, NICOLO",P002849   ,In,IN,,,Fenerbahce Dogus Istanbul,0
-KHI       ,,1,03:06,17,187,"SHVED, ALEXEY",PKVZ      ,In,IN,,,Khimki Moscow Region,0
-KHI       ,,9,03:06,17,188,"MARKOVIC, STEFAN",PLME      ,Out,OUT,,,Khimki Moscow Region,0
-KHI       ,,0,03:01,17,189,"ROBINSON, THOMAS",P008003   ,Turnover (1),TO,,,Khimki Moscow Region,0
-ULK       ,,11,03:01,17,190,"WANAMAKER, BRAD",P005838   ,In,IN,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,35,03:01,17,191,"MUHAMMED, ALI",P001324   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
-KHI       ,,6,02:45,18,193,"VIALTSEV, EGOR",PBGV      ,Foul (1),CM,,,Khimki Moscow Region,0
-ULK       ,,70,02:45,18,194,"DATOME, LUIGI",PCCD      ,Foul Drawn (1),RV,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,70,02:35,18,195,"DATOME, LUIGI",PCCD      ,Missed Two Pointer (1/3 -  5 pt),2FGA,,,Fenerbahce Dogus Istanbul,0
-KHI       ,,23,02:33,18,196,"THOMAS, MALCOLM",P004251   ,Def Rebound (1),D,,,Khimki Moscow Region,0
-KHI       ,,1,02:13,18,197,"SHVED, ALEXEY",PKVZ      ,Missed Three Pointer (2/4 -  6 pt),3FGA,,,Khimki Moscow Region,0
-ULK       ,,70,02:09,18,198,"DATOME, LUIGI",PCCD      ,Def Rebound (4),D,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,24,01:54,19,200,"VESELY, JAN",P000925   ,Turnover (2),TO,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,23,01:40,19,201,"GUDURIC, MARKO",P004004   ,Foul (1),CM,,,Fenerbahce Dogus Istanbul,0
-KHI       ,,1,01:40,19,202,"SHVED, ALEXEY",PKVZ      ,Foul Drawn (3),RV,,,Khimki Moscow Region,0
-KHI       ,,1,01:40,19,203,"SHVED, ALEXEY",PKVZ      ,Missed Free Throw (0/1 -  6 pt),FTA,,,Khimki Moscow Region,0
-KHI       ,,1,01:40,19,204,"SHVED, ALEXEY",PKVZ      ,Missed Free Throw (0/2 -  6 pt),FTA,,,Khimki Moscow Region,0
-KHI       ,,0,01:40,19,205,"ROBINSON, THOMAS",P008003   ,Off Rebound (1),O,,,Khimki Moscow Region,0
-KHI       ,,0,01:40,19,206,"ROBINSON, THOMAS",P008003   ,Missed Two Pointer (2/7 -  4 pt),2FGA,,,Khimki Moscow Region,0
-ULK       ,,24,01:39,19,207,"VESELY, JAN",P000925   ,Def Rebound (2),D,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,4,01:20,19,208,"MELLI, NICOLO",P002849   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Fenerbahce Dogus Istanbul,0
-KHI       ,,0,01:20,19,209,"ROBINSON, THOMAS",P008003   ,Foul (1),CM,,,Khimki Moscow Region,0
-ULK       ,,24,01:20,19,210,"VESELY, JAN",P000925   ,Foul Drawn (2),RV,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,,01:20,19,211,,          ,Off Rebound (4),O,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,24,01:20,19,212,"VESELY, JAN",P000925   ,Missed Free Throw (0/1 -  6 pt),FTA,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,24,01:20,19,213,"VESELY, JAN",P000925   ,Free Throw In (1/2 -  7 pt),FTM,34.0,23.0,Fenerbahce Dogus Istanbul,0
-KHI       ,,22,01:16,19,214,"JENKINS, CHARLES",P005014   ,Turnover (1),TO,,,Khimki Moscow Region,0
-ULK       ,,70,01:10,19,215,"DATOME, LUIGI",PCCD      ,Three Pointer (2/3 -  8 pt),3FGM,37.0,23.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,23,01:07,19,216,"GUDURIC, MARKO",P004004   ,Assist (1),AS,,,Fenerbahce Dogus Istanbul,0
-KHI       ,,1,00:57,20,218,"SHVED, ALEXEY",PKVZ      ,Missed Two Pointer (0/2 -  6 pt),2FGA,,,Khimki Moscow Region,0
-ULK       ,,70,00:54,20,219,"DATOME, LUIGI",PCCD      ,Def Rebound (5),D,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,23,00:33,20,220,"GUDURIC, MARKO",P004004   ,Missed Three Pointer (0/2 -  2 pt),3FGA,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,24,00:32,20,221,"VESELY, JAN",P000925   ,Foul (1),CM,,,Fenerbahce Dogus Istanbul,0
-KHI       ,,6,00:32,20,222,"VIALTSEV, EGOR",PBGV      ,Foul Drawn (2),RV,,,Khimki Moscow Region,0
-KHI       ,,,00:32,20,223,,          ,Def Rebound (3),D,,,Khimki Moscow Region,0
-KHI       ,,1,00:16,20,224,"SHVED, ALEXEY",PKVZ      ,Three Pointer (3/5 -  9 pt),3FGM,37.0,26.0,Khimki Moscow Region,0
-KHI       ,,6,00:16,20,225,"VIALTSEV, EGOR",PBGV      ,Assist (1),AS,,,Khimki Moscow Region,0
-ULK       ,,,00:16,20,226,,          ,Time Out (2),TOUT,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,4,00:16,20,227,"MELLI, NICOLO",P002849   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,21,00:16,20,228,"NUNNALLY, JAMES",P007400   ,In,IN,,,Fenerbahce Dogus Istanbul,0
-KHI       ,,1,00:16,20,229,"SHVED, ALEXEY",PKVZ      ,Out,OUT,,,Khimki Moscow Region,0
-KHI       ,,8,00:16,20,230,"ZAYTSEV, VYACHESLAV",P001792   ,In,IN,,,Khimki Moscow Region,0
-KHI       ,,9,00:16,20,231,"MARKOVIC, STEFAN",PLME      ,In,IN,,,Khimki Moscow Region,0
-KHI       ,,22,00:16,20,232,"JENKINS, CHARLES",P005014   ,Out,OUT,,,Khimki Moscow Region,0
-KHI       ,,0,00:04,20,233,"ROBINSON, THOMAS",P008003   ,Foul (2),CM,,,Khimki Moscow Region,0
-ULK       ,,11,00:04,20,234,"WANAMAKER, BRAD",P005838   ,Foul Drawn (3),RV,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,11,00:04,20,235,"WANAMAKER, BRAD",P005838   ,Free Throw In (2/2 -  7 pt),FTM,38.0,26.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,11,00:04,20,236,"WANAMAKER, BRAD",P005838   ,Missed Free Throw (2/3 -  7 pt),FTA,,,Fenerbahce Dogus Istanbul,0
-KHI       ,,8,00:04,20,237,"ZAYTSEV, VYACHESLAV",P001792   ,Def Rebound (1),D,,,Khimki Moscow Region,0
-KHI       ,,8,00:01,20,238,"ZAYTSEV, VYACHESLAV",P001792   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Khimki Moscow Region,0
-          ,,,,21,240,,          ,End Period,EP,,,,0
-          ,,,,21,251,,          ,Begin Period,BP,,,,0
-ULK       ,,1,10:00,21,241,"THOMPSON, JASON",P007998   ,In,IN,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,23,10:00,21,242,"GUDURIC, MARKO",P004004   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
-KHI       ,,0,10:00,21,243,"ROBINSON, THOMAS",P008003   ,Out,OUT,,,Khimki Moscow Region,0
-KHI       ,,1,10:00,21,244,"SHVED, ALEXEY",PKVZ      ,In,IN,,,Khimki Moscow Region,0
-KHI       ,,6,10:00,21,245,"VIALTSEV, EGOR",PBGV      ,Out,OUT,,,Khimki Moscow Region,0
-KHI       ,,8,10:00,21,246,"ZAYTSEV, VYACHESLAV",P001792   ,Out,OUT,,,Khimki Moscow Region,0
-KHI       ,,9,10:00,21,247,"MARKOVIC, STEFAN",PLME      ,Out,OUT,,,Khimki Moscow Region,0
-KHI       ,,13,10:00,21,248,"GILL, ANTHONY",P008001   ,In,IN,,,Khimki Moscow Region,0
-KHI       ,,21,10:00,21,249,"ANDERSON, JAMES",P005938   ,In,IN,,,Khimki Moscow Region,0
-KHI       ,,22,10:00,21,250,"JENKINS, CHARLES",P005014   ,In,IN,,,Khimki Moscow Region,0
-KHI       ,,13,09:40,21,252,"GILL, ANTHONY",P008001   ,Two Pointer (1/2 -  2 pt),2FGM,38.0,28.0,Khimki Moscow Region,0
-ULK       ,,21,09:13,21,253,"NUNNALLY, JAMES",P007400   ,Two Pointer (1/1 -  11 pt),2FGM,40.0,28.0,Fenerbahce Dogus Istanbul,0
-KHI       ,,23,08:56,22,255,"THOMAS, MALCOLM",P004251   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Khimki Moscow Region,0
-ULK       ,,1,08:54,22,256,"THOMPSON, JASON",P007998   ,Def Rebound (5),D,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,24,08:37,22,257,"VESELY, JAN",P000925   ,Missed Two Pointer (3/4 -  7 pt),2FGA,,,Fenerbahce Dogus Istanbul,0
-KHI       ,,23,08:36,22,258,"THOMAS, MALCOLM",P004251   ,Def Rebound (2),D,,,Khimki Moscow Region,0
-ULK       ,,1,08:35,22,259,"THOMPSON, JASON",P007998   ,Technical Foul (3),CMT,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,1,08:35,22,260,"THOMPSON, JASON",P007998   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,4,08:35,22,261,"MELLI, NICOLO",P002849   ,In,IN,,,Fenerbahce Dogus Istanbul,0
-KHI       ,,1,08:35,22,262,"SHVED, ALEXEY",PKVZ      ,Missed Free Throw (0/3 -  9 pt),FTA,,,Khimki Moscow Region,0
-ULK       ,,70,08:14,22,263,"DATOME, LUIGI",PCCD      ,Block (1),FV,,,Fenerbahce Dogus Istanbul,0
-KHI       ,,21,08:12,22,264,"ANDERSON, JAMES",P005938   ,Missed Two Pointer (2/5 -  10 pt),2FGA,,,Khimki Moscow Region,0
-KHI       ,,21,08:12,22,265,"ANDERSON, JAMES",P005938   ,Shot Rejected (1),AG,,,Khimki Moscow Region,0
-KHI       ,,1,08:09,22,266,"SHVED, ALEXEY",PKVZ      ,Off Rebound (1),O,,,Khimki Moscow Region,0
-KHI       ,,1,08:09,22,267,"SHVED, ALEXEY",PKVZ      ,Missed Two Pointer (0/3 -  9 pt),2FGA,,,Khimki Moscow Region,0
-ULK       ,,21,08:09,22,268,"NUNNALLY, JAMES",P007400   ,Def Rebound (1),D,,,Fenerbahce Dogus Istanbul,0
-KHI       ,,22,08:09,22,269,"JENKINS, CHARLES",P005014   ,Foul (3),CM,,,Khimki Moscow Region,0
-ULK       ,,21,08:09,22,270,"NUNNALLY, JAMES",P007400   ,Foul Drawn (1),RV,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,21,08:09,22,271,"NUNNALLY, JAMES",P007400   ,Free Throw In (1/1 -  12 pt),FTM,41.0,28.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,21,08:09,22,272,"NUNNALLY, JAMES",P007400   ,Free Throw In (2/2 -  13 pt),FTM,42.0,28.0,Fenerbahce Dogus Istanbul,0
-KHI       ,,1,07:48,23,274,"SHVED, ALEXEY",PKVZ      ,Missed Three Pointer (3/6 -  9 pt),3FGA,,,Khimki Moscow Region,0
-ULK       ,,,07:45,23,275,,          ,Def Rebound (4),D,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,11,07:36,23,276,"WANAMAKER, BRAD",P005838   ,Three Pointer (2/4 -  10 pt),3FGM,45.0,28.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,4,07:34,23,277,"MELLI, NICOLO",P002849   ,Assist (1),AS,,,Fenerbahce Dogus Istanbul,0
-KHI       ,,21,07:13,23,278,"ANDERSON, JAMES",P005938   ,Two Pointer (3/6 -  12 pt),2FGM,45.0,30.0,Khimki Moscow Region,0
-KHI       ,,21,07:13,23,279,"ANDERSON, JAMES",P005938   ,Foul Drawn (1),RV,,,Khimki Moscow Region,0
-ULK       ,,24,07:13,23,280,"VESELY, JAN",P000925   ,Foul (2),CM,,,Fenerbahce Dogus Istanbul,0
-KHI       ,,21,07:13,23,281,"ANDERSON, JAMES",P005938   ,Free Throw In (1/1 -  13 pt),FTM,45.0,31.0,Khimki Moscow Region,0
-ULK       ,,70,06:54,24,283,"DATOME, LUIGI",PCCD      ,Turnover (2),TO,,,Fenerbahce Dogus Istanbul,0
-KHI       ,,22,06:53,24,284,"JENKINS, CHARLES",P005014   ,Steal (1),ST,,,Khimki Moscow Region,0
-KHI       ,,22,06:46,24,285,"JENKINS, CHARLES",P005014   ,Turnover (2),TO,,,Khimki Moscow Region,0
-ULK       ,,21,06:30,24,286,"NUNNALLY, JAMES",P007400   ,Turnover (1),TO,,,Fenerbahce Dogus Istanbul,0
-KHI       ,,1,06:29,24,287,"SHVED, ALEXEY",PKVZ      ,Steal (1),ST,,,Khimki Moscow Region,0
-ULK       ,,21,06:28,24,288,"NUNNALLY, JAMES",P007400   ,Foul (1),CM,,,Fenerbahce Dogus Istanbul,0
-KHI       ,,1,06:28,24,289,"SHVED, ALEXEY",PKVZ      ,Foul Drawn (4),RV,,,Khimki Moscow Region,0
-KHI       ,,1,06:28,24,290,"SHVED, ALEXEY",PKVZ      ,Free Throw In (1/4 -  10 pt),FTM,45.0,32.0,Khimki Moscow Region,0
-KHI       ,,1,06:28,24,291,"SHVED, ALEXEY",PKVZ      ,Free Throw In (2/5 -  11 pt),FTM,45.0,33.0,Khimki Moscow Region,0
-ULK       ,,70,06:25,24,292,"DATOME, LUIGI",PCCD      ,Turnover (3),TO,,,Fenerbahce Dogus Istanbul,0
-KHI       ,,21,06:07,24,293,"ANDERSON, JAMES",P005938   ,Missed Three Pointer (2/6 -  13 pt),3FGA,,,Khimki Moscow Region,0
-ULK       ,,24,06:07,24,294,"VESELY, JAN",P000925   ,Foul (3),CM,,,Fenerbahce Dogus Istanbul,0
-KHI       ,,13,06:07,24,295,"GILL, ANTHONY",P008001   ,Foul Drawn (1),RV,,,Khimki Moscow Region,0
-KHI       ,,13,06:07,24,296,"GILL, ANTHONY",P008001   ,Off Rebound (2),O,,,Khimki Moscow Region,0
-ULK       ,,24,06:07,24,297,"VESELY, JAN",P000925   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,44,06:07,24,298,"DUVERIOGLU, AHMET",P006399   ,In,IN,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,44,05:58,25,300,"DUVERIOGLU, AHMET",P006399   ,Foul (1),CM,,,Fenerbahce Dogus Istanbul,0
-KHI       ,,13,05:58,25,301,"GILL, ANTHONY",P008001   ,Foul Drawn (2),RV,,,Khimki Moscow Region,0
-KHI       ,,13,05:58,25,302,"GILL, ANTHONY",P008001   ,Free Throw In (1/1 -  3 pt),FTM,45.0,34.0,Khimki Moscow Region,0
-KHI       ,,13,05:58,25,303,"GILL, ANTHONY",P008001   ,Free Throw In (2/2 -  4 pt),FTM,45.0,35.0,Khimki Moscow Region,0
-KHI       ,,12,05:58,25,304,"MONIA, SERGEY",PBFX      ,In,IN,,,Khimki Moscow Region,0
-KHI       ,,13,05:58,25,305,"GILL, ANTHONY",P008001   ,Out,OUT,,,Khimki Moscow Region,0
-ULK       ,,11,05:37,25,306,"WANAMAKER, BRAD",P005838   ,Missed Two Pointer (1/4 -  10 pt),2FGA,,,Fenerbahce Dogus Istanbul,0
-KHI       ,,1,05:35,25,307,"SHVED, ALEXEY",PKVZ      ,Def Rebound (1),D,,,Khimki Moscow Region,0
-KHI       ,,23,05:20,25,308,"THOMAS, MALCOLM",P004251   ,Two Pointer (1/3 -  2 pt),2FGM,45.0,37.0,Khimki Moscow Region,0
-KHI       ,,12,05:19,25,309,"MONIA, SERGEY",PBFX      ,Assist (2),AS,,,Khimki Moscow Region,0
-ULK       ,,70,05:08,25,310,"DATOME, LUIGI",PCCD      ,Two Pointer (2/4 -  10 pt),2FGM,47.0,37.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,21,05:08,25,311,"NUNNALLY, JAMES",P007400   ,Assist (2),AS,,,Fenerbahce Dogus Istanbul,0
-KHI       ,,23,04:42,26,313,"THOMAS, MALCOLM",P004251   ,Missed Two Pointer (1/4 -  2 pt),2FGA,,,Khimki Moscow Region,0
-ULK       ,,4,04:41,26,314,"MELLI, NICOLO",P002849   ,Def Rebound (1),D,,,Fenerbahce Dogus Istanbul,0
-KHI       ,,21,04:35,26,315,"ANDERSON, JAMES",P005938   ,Foul (2),CM,,,Khimki Moscow Region,0
-ULK       ,,21,04:35,26,316,"NUNNALLY, JAMES",P007400   ,Foul Drawn (2),RV,,,Fenerbahce Dogus Istanbul,0
-          ,,,04:35,26,318,,          ,TV Time Out (3),TOUT_TV,,,,0
-KHI       ,,9,04:35,26,319,"MARKOVIC, STEFAN",PLME      ,In,IN,,,Khimki Moscow Region,0
-KHI       ,,22,04:35,26,320,"JENKINS, CHARLES",P005014   ,Out,OUT,,,Khimki Moscow Region,0
-ULK       ,,21,04:35,26,321,"NUNNALLY, JAMES",P007400   ,Free Throw In (3/3 -  14 pt),FTM,48.0,37.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,11,04:35,26,322,"WANAMAKER, BRAD",P005838   ,Assist (5),AS,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,21,04:35,26,323,"NUNNALLY, JAMES",P007400   ,Missed Free Throw (3/4 -  14 pt),FTA,,,Fenerbahce Dogus Istanbul,0
-KHI       ,,21,04:35,26,324,"ANDERSON, JAMES",P005938   ,Def Rebound (1),D,,,Khimki Moscow Region,0
-KHI       ,,12,04:13,26,325,"MONIA, SERGEY",PBFX      ,Three Pointer (1/1 -  3 pt),3FGM,48.0,40.0,Khimki Moscow Region,0
-KHI       ,,23,04:12,26,326,"THOMAS, MALCOLM",P004251   ,Assist (2),AS,,,Khimki Moscow Region,0
-ULK       ,,44,03:48,27,328,"DUVERIOGLU, AHMET",P006399   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Fenerbahce Dogus Istanbul,0
-KHI       ,,,03:48,27,329,,          ,Def Rebound (5),D,,,Khimki Moscow Region,0
-KHI       ,,9,03:48,27,330,"MARKOVIC, STEFAN",PLME      ,Turnover (1),TO,,,Khimki Moscow Region,0
-ULK       ,,11,03:48,27,331,"WANAMAKER, BRAD",P005838   ,Steal (1),ST,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,11,03:48,27,332,"WANAMAKER, BRAD",P005838   ,Missed Two Pointer (1/5 -  10 pt),2FGA,,,Fenerbahce Dogus Istanbul,0
-KHI       ,,23,03:48,27,333,"THOMAS, MALCOLM",P004251   ,Def Rebound (3),D,,,Khimki Moscow Region,0
-ULK       ,,4,03:35,27,334,"MELLI, NICOLO",P002849   ,Foul (2),CM,,,Fenerbahce Dogus Istanbul,0
-KHI       ,,1,03:35,27,335,"SHVED, ALEXEY",PKVZ      ,Foul Drawn (5),RV,,,Khimki Moscow Region,0
-KHI       ,,1,03:35,27,336,"SHVED, ALEXEY",PKVZ      ,Free Throw In (3/6 -  12 pt),FTM,48.0,41.0,Khimki Moscow Region,0
-KHI       ,,1,03:35,27,337,"SHVED, ALEXEY",PKVZ      ,Free Throw In (4/7 -  13 pt),FTM,48.0,42.0,Khimki Moscow Region,0
-KHI       ,,12,03:24,27,338,"MONIA, SERGEY",PBFX      ,Foul (1),CM,,,Khimki Moscow Region,0
-ULK       ,,70,03:24,27,339,"DATOME, LUIGI",PCCD      ,Foul Drawn (2),RV,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,11,03:10,27,340,"WANAMAKER, BRAD",P005838   ,Missed Two Pointer (1/6 -  10 pt),2FGA,,,Fenerbahce Dogus Istanbul,0
-KHI       ,,1,03:10,27,341,"SHVED, ALEXEY",PKVZ      ,Def Rebound (2),D,,,Khimki Moscow Region,0
-KHI       ,,1,03:10,27,342,"SHVED, ALEXEY",PKVZ      ,Two Pointer (1/4 -  15 pt),2FGM,48.0,44.0,Khimki Moscow Region,0
-ULK       ,,21,02:40,28,344,"NUNNALLY, JAMES",P007400   ,Three Pointer (4/5 -  17 pt),3FGM,51.0,44.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,21,02:40,28,345,"NUNNALLY, JAMES",P007400   ,Foul Drawn (3),RV,,,Fenerbahce Dogus Istanbul,0
-KHI       ,,1,02:40,28,346,"SHVED, ALEXEY",PKVZ      ,Foul (3),CM,,,Khimki Moscow Region,0
-ULK       ,,11,02:40,28,394,"WANAMAKER, BRAD",P005838   ,Assist (6),AS,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,21,02:40,28,347,"NUNNALLY, JAMES",P007400   ,Free Throw In (4/5 -  18 pt),FTM,52.0,44.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,11,02:40,28,348,"WANAMAKER, BRAD",P005838   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,21,02:40,28,349,"NUNNALLY, JAMES",P007400   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,23,02:40,28,350,"GUDURIC, MARKO",P004004   ,In,IN,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,35,02:40,28,351,"MUHAMMED, ALI",P001324   ,In,IN,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,23,02:36,28,352,"GUDURIC, MARKO",P004004   ,Foul (2),CM,,,Fenerbahce Dogus Istanbul,0
-KHI       ,,1,02:36,28,353,"SHVED, ALEXEY",PKVZ      ,Foul Drawn (6),RV,,,Khimki Moscow Region,0
-KHI       ,,1,02:36,28,354,"SHVED, ALEXEY",PKVZ      ,Free Throw In (5/8 -  16 pt),FTM,52.0,45.0,Khimki Moscow Region,0
-KHI       ,,1,02:36,28,355,"SHVED, ALEXEY",PKVZ      ,Free Throw In (6/9 -  17 pt),FTM,52.0,46.0,Khimki Moscow Region,0
-ULK       ,,70,02:16,28,356,"DATOME, LUIGI",PCCD      ,Two Pointer (3/5 -  12 pt),2FGM,54.0,46.0,Fenerbahce Dogus Istanbul,0
-KHI       ,,12,01:51,29,358,"MONIA, SERGEY",PBFX      ,Missed Three Pointer (1/2 -  3 pt),3FGA,,,Khimki Moscow Region,0
-ULK       ,,70,01:49,29,359,"DATOME, LUIGI",PCCD      ,Def Rebound (6),D,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,23,01:35,29,360,"GUDURIC, MARKO",P004004   ,Missed Two Pointer (1/3 -  2 pt),2FGA,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,44,01:34,29,361,"DUVERIOGLU, AHMET",P006399   ,Off Rebound (1),O,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,44,01:34,29,362,"DUVERIOGLU, AHMET",P006399   ,Two Pointer (1/2 -  2 pt),2FGM,56.0,46.0,Fenerbahce Dogus Istanbul,0
-KHI       ,,9,01:34,29,363,"MARKOVIC, STEFAN",PLME      ,Foul (1),CM,,,Khimki Moscow Region,0
-ULK       ,,44,01:34,29,364,"DUVERIOGLU, AHMET",P006399   ,Foul Drawn (1),RV,,,Fenerbahce Dogus Istanbul,0
-KHI       ,,19,01:34,29,365,"TODOROVIC, MARKO",P001612   ,In,IN,,,Khimki Moscow Region,0
-KHI       ,,23,01:34,29,366,"THOMAS, MALCOLM",P004251   ,Out,OUT,,,Khimki Moscow Region,0
-ULK       ,,44,01:34,29,367,"DUVERIOGLU, AHMET",P006399   ,Missed Free Throw (0/1 -  2 pt),FTA,,,Fenerbahce Dogus Istanbul,0
-KHI       ,,12,01:34,29,368,"MONIA, SERGEY",PBFX      ,Foul (2),CM,,,Khimki Moscow Region,0
-ULK       ,,70,01:34,29,369,"DATOME, LUIGI",PCCD      ,Foul Drawn (3),RV,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,,01:34,29,370,,          ,Off Rebound (5),O,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,70,01:34,29,371,"DATOME, LUIGI",PCCD      ,Free Throw In (1/1 -  13 pt),FTM,57.0,46.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,70,01:34,29,372,"DATOME, LUIGI",PCCD      ,Free Throw In (2/2 -  14 pt),FTM,58.0,46.0,Fenerbahce Dogus Istanbul,0
-KHI       ,,12,01:15,29,373,"MONIA, SERGEY",PBFX      ,Turnover (1),TO,,,Khimki Moscow Region,0
-ULK       ,,23,01:14,29,374,"GUDURIC, MARKO",P004004   ,Steal (1),ST,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,70,00:52,30,376,"DATOME, LUIGI",PCCD      ,Missed Three Pointer (2/4 -  14 pt),3FGA,,,Fenerbahce Dogus Istanbul,0
-KHI       ,,9,00:50,30,377,"MARKOVIC, STEFAN",PLME      ,Def Rebound (2),D,,,Khimki Moscow Region,0
-ULK       ,,4,00:43,30,378,"MELLI, NICOLO",P002849   ,Foul (3),CM,,,Fenerbahce Dogus Istanbul,0
-KHI       ,,1,00:43,30,379,"SHVED, ALEXEY",PKVZ      ,Foul Drawn (7),RV,,,Khimki Moscow Region,0
-KHI       ,,12,00:43,30,380,"MONIA, SERGEY",PBFX      ,Out,OUT,,,Khimki Moscow Region,0
-KHI       ,,13,00:43,30,381,"GILL, ANTHONY",P008001   ,In,IN,,,Khimki Moscow Region,0
-KHI       ,,1,00:43,30,382,"SHVED, ALEXEY",PKVZ      ,Free Throw In (7/10 -  18 pt),FTM,58.0,47.0,Khimki Moscow Region,0
-KHI       ,,1,00:43,30,383,"SHVED, ALEXEY",PKVZ      ,Free Throw In (8/11 -  19 pt),FTM,58.0,48.0,Khimki Moscow Region,0
-KHI       ,,1,00:43,30,384,"SHVED, ALEXEY",PKVZ      ,Out,OUT,,,Khimki Moscow Region,0
-KHI       ,,22,00:43,30,385,"JENKINS, CHARLES",P005014   ,In,IN,,,Khimki Moscow Region,0
-ULK       ,,23,00:31,30,386,"GUDURIC, MARKO",P004004   ,Missed Three Pointer (0/3 -  2 pt),3FGA,,,Fenerbahce Dogus Istanbul,0
-KHI       ,,22,00:29,30,387,"JENKINS, CHARLES",P005014   ,Def Rebound (1),D,,,Khimki Moscow Region,0
-KHI       ,,21,00:15,30,388,"ANDERSON, JAMES",P005938   ,Missed Two Pointer (3/7 -  13 pt),2FGA,,,Khimki Moscow Region,0
-ULK       ,,44,00:14,30,389,"DUVERIOGLU, AHMET",P006399   ,Def Rebound (1),D,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,35,00:04,30,390,"MUHAMMED, ALI",P001324   ,Missed Two Pointer (1/2 -  5 pt),2FGA,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,23,00:03,30,391,"GUDURIC, MARKO",P004004   ,Off Rebound (1),O,,,Fenerbahce Dogus Istanbul,0
-          ,,,,31,393,,          ,End Period,EP,,,,0
-          ,,,,31,395,,          ,Begin Period,BP,,,,0
-ULK       ,,4,09:45,31,396,"MELLI, NICOLO",P002849   ,Turnover (2),TO,,,Fenerbahce Dogus Istanbul,0
-KHI       ,,9,09:43,31,397,"MARKOVIC, STEFAN",PLME      ,Steal (1),ST,,,Khimki Moscow Region,0
-KHI       ,,9,09:22,31,398,"MARKOVIC, STEFAN",PLME      ,Three Pointer (2/3 -  6 pt),3FGM,58.0,51.0,Khimki Moscow Region,0
-KHI       ,,22,09:20,31,399,"JENKINS, CHARLES",P005014   ,Assist (1),AS,,,Khimki Moscow Region,0
-KHI       ,,21,09:18,31,400,"ANDERSON, JAMES",P005938   ,Foul (3),CM,,,Khimki Moscow Region,0
-ULK       ,,4,09:18,31,401,"MELLI, NICOLO",P002849   ,Foul Drawn (2),RV,,,Fenerbahce Dogus Istanbul,0
-KHI       ,,1,09:18,31,402,"SHVED, ALEXEY",PKVZ      ,In,IN,,,Khimki Moscow Region,0
-KHI       ,,21,09:18,31,403,"ANDERSON, JAMES",P005938   ,Out,OUT,,,Khimki Moscow Region,0
-KHI       ,,19,09:05,31,404,"TODOROVIC, MARKO",P001612   ,Foul (1),CM,,,Khimki Moscow Region,0
-ULK       ,,23,09:05,31,405,"GUDURIC, MARKO",P004004   ,Foul Drawn (2),RV,,,Fenerbahce Dogus Istanbul,0
-KHI       ,,22,08:57,32,407,"JENKINS, CHARLES",P005014   ,Foul (4),CM,,,Khimki Moscow Region,0
-ULK       ,,44,08:57,32,408,"DUVERIOGLU, AHMET",P006399   ,Foul Drawn (2),RV,,,Fenerbahce Dogus Istanbul,0
-KHI       ,,19,08:57,32,423,"TODOROVIC, MARKO",P001612   ,Block (1),FV,,,Khimki Moscow Region,0
-ULK       ,,35,08:57,32,425,"MUHAMMED, ALI",P001324   ,Shot Rejected (1),AG,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,35,08:57,32,424,"MUHAMMED, ALI",P001324   ,Missed Two Pointer (1/3 -  5 pt),2FGA,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,,08:41,32,410,,          ,Turnover (1),TO,,,Fenerbahce Dogus Istanbul,0
-KHI       ,,9,08:18,32,411,"MARKOVIC, STEFAN",PLME      ,Missed Three Pointer (2/4 -  6 pt),3FGA,,,Khimki Moscow Region,0
-ULK       ,,,08:15,32,412,,          ,Def Rebound (6),D,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,24,08:15,32,413,"VESELY, JAN",P000925   ,In,IN,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,44,08:15,32,414,"DUVERIOGLU, AHMET",P006399   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,23,07:59,33,416,"GUDURIC, MARKO",P004004   ,Turnover (1),TO,,,Fenerbahce Dogus Istanbul,0
-KHI       ,,19,07:58,33,417,"TODOROVIC, MARKO",P001612   ,Steal (1),ST,,,Khimki Moscow Region,0
-KHI       ,,13,07:53,33,418,"GILL, ANTHONY",P008001   ,Missed Two Pointer (1/3 -  4 pt),2FGA,,,Khimki Moscow Region,0
-KHI       ,,19,07:53,33,419,"TODOROVIC, MARKO",P001612   ,Off Rebound (1),O,,,Khimki Moscow Region,0
-KHI       ,,19,07:53,33,420,"TODOROVIC, MARKO",P001612   ,Two Pointer (1/1 -  2 pt),2FGM,58.0,53.0,Khimki Moscow Region,0
-ULK       ,,,07:53,33,421,,          ,Time Out (1),TOUT,,,Fenerbahce Dogus Istanbul,0
-          ,,,07:53,33,422,,          ,TV Time Out (4),TOUT_TV,,,,0
-ULK       ,,11,07:53,33,426,"WANAMAKER, BRAD",P005838   ,In,IN,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,21,07:53,33,427,"NUNNALLY, JAMES",P007400   ,In,IN,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,23,07:53,33,428,"GUDURIC, MARKO",P004004   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,35,07:53,33,429,"MUHAMMED, ALI",P001324   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,11,07:36,33,430,"WANAMAKER, BRAD",P005838   ,Two Pointer (2/7 -  12 pt),2FGM,60.0,53.0,Fenerbahce Dogus Istanbul,0
-KHI       ,,13,07:15,33,431,"GILL, ANTHONY",P008001   ,Three Pointer (1/1 -  7 pt),3FGM,60.0,56.0,Khimki Moscow Region,0
-KHI       ,,1,07:13,33,432,"SHVED, ALEXEY",PKVZ      ,Assist (4),AS,,,Khimki Moscow Region,0
-ULK       ,,4,06:59,34,434,"MELLI, NICOLO",P002849   ,Offensive Foul (4),OF,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,4,06:59,34,435,"MELLI, NICOLO",P002849   ,Turnover (3),TO,,,Fenerbahce Dogus Istanbul,0
-KHI       ,,9,06:59,34,436,"MARKOVIC, STEFAN",PLME      ,Foul Drawn (1),RV,,,Khimki Moscow Region,0
-ULK       ,,1,06:59,34,437,"THOMPSON, JASON",P007998   ,In,IN,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,4,06:59,34,438,"MELLI, NICOLO",P002849   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
-KHI       ,,22,06:34,34,439,"JENKINS, CHARLES",P005014   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Khimki Moscow Region,0
-KHI       ,,13,06:32,34,440,"GILL, ANTHONY",P008001   ,Off Rebound (3),O,,,Khimki Moscow Region,0
-ULK       ,,1,06:32,34,441,"THOMPSON, JASON",P007998   ,Foul (4),CM,,,Fenerbahce Dogus Istanbul,0
-KHI       ,,13,06:32,34,442,"GILL, ANTHONY",P008001   ,Foul Drawn (3),RV,,,Khimki Moscow Region,0
-KHI       ,,1,06:20,34,443,"SHVED, ALEXEY",PKVZ      ,Missed Three Pointer (3/7 -  19 pt),3FGA,,,Khimki Moscow Region,0
-ULK       ,,21,06:18,34,444,"NUNNALLY, JAMES",P007400   ,Def Rebound (2),D,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,11,05:59,35,446,"WANAMAKER, BRAD",P005838   ,Missed Three Pointer (2/5 -  12 pt),3FGA,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,24,05:55,35,447,"VESELY, JAN",P000925   ,Off Rebound (3),O,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,24,05:51,35,448,"VESELY, JAN",P000925   ,Two Pointer (4/5 -  9 pt),2FGM,62.0,56.0,Fenerbahce Dogus Istanbul,0
-KHI       ,,22,05:51,35,449,"JENKINS, CHARLES",P005014   ,Foul (5),CM,,,Khimki Moscow Region,0
-ULK       ,,24,05:51,35,450,"VESELY, JAN",P000925   ,Foul Drawn (3),RV,,,Fenerbahce Dogus Istanbul,0
-KHI       ,,21,05:51,35,451,"ANDERSON, JAMES",P005938   ,In,IN,,,Khimki Moscow Region,0
-KHI       ,,22,05:51,35,452,"JENKINS, CHARLES",P005014   ,Out,OUT,,,Khimki Moscow Region,0
-ULK       ,,24,05:51,35,453,"VESELY, JAN",P000925   ,Free Throw In (2/3 -  10 pt),FTM,63.0,56.0,Fenerbahce Dogus Istanbul,0
-KHI       ,,9,05:29,35,454,"MARKOVIC, STEFAN",PLME      ,Two Pointer (1/2 -  8 pt),2FGM,63.0,58.0,Khimki Moscow Region,0
-ULK       ,,70,05:13,35,455,"DATOME, LUIGI",PCCD      ,Missed Three Pointer (2/5 -  14 pt),3FGA,,,Fenerbahce Dogus Istanbul,0
-KHI       ,,19,05:10,35,456,"TODOROVIC, MARKO",P001612   ,Def Rebound (1),D,,,Khimki Moscow Region,0
-KHI       ,,21,04:50,36,458,"ANDERSON, JAMES",P005938   ,Missed Two Pointer (3/8 -  13 pt),2FGA,,,Khimki Moscow Region,0
-ULK       ,,70,04:49,36,459,"DATOME, LUIGI",PCCD      ,Foul (2),CM,,,Fenerbahce Dogus Istanbul,0
-KHI       ,,13,04:49,36,460,"GILL, ANTHONY",P008001   ,Foul Drawn (4),RV,,,Khimki Moscow Region,0
-KHI       ,,,04:49,36,461,,          ,Off Rebound (6),O,,,Khimki Moscow Region,0
-KHI       ,,1,04:40,36,462,"SHVED, ALEXEY",PKVZ      ,Two Pointer (2/5 -  21 pt),2FGM,63.0,60.0,Khimki Moscow Region,0
-KHI       ,,9,04:40,36,463,"MARKOVIC, STEFAN",PLME      ,Foul (2),CM,,,Khimki Moscow Region,0
-ULK       ,,11,04:40,36,464,"WANAMAKER, BRAD",P005838   ,Foul Drawn (4),RV,,,Fenerbahce Dogus Istanbul,0
-KHI       ,,,04:40,36,465,,          ,Time Out (1),TOUT,,,Khimki Moscow Region,0
-ULK       ,,11,04:40,36,466,"WANAMAKER, BRAD",P005838   ,Missed Free Throw (2/4 -  12 pt),FTA,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,11,04:40,36,467,"WANAMAKER, BRAD",P005838   ,Free Throw In (3/5 -  13 pt),FTM,64.0,60.0,Fenerbahce Dogus Istanbul,0
-KHI       ,,19,03:58,37,469,"TODOROVIC, MARKO",P001612   ,Two Pointer (2/2 -  4 pt),2FGM,64.0,62.0,Khimki Moscow Region,0
-KHI       ,,21,03:55,37,470,"ANDERSON, JAMES",P005938   ,Assist (1),AS,,,Khimki Moscow Region,0
-KHI       ,,19,03:35,37,471,"TODOROVIC, MARKO",P001612   ,Foul (2),CM,,,Khimki Moscow Region,0
-ULK       ,,21,03:35,37,472,"NUNNALLY, JAMES",P007400   ,Foul Drawn (4),RV,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,21,03:35,37,473,"NUNNALLY, JAMES",P007400   ,Free Throw In (5/6 -  19 pt),FTM,65.0,62.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,21,03:35,37,474,"NUNNALLY, JAMES",P007400   ,Free Throw In (6/7 -  20 pt),FTM,66.0,62.0,Fenerbahce Dogus Istanbul,0
-KHI       ,,1,03:16,37,475,"SHVED, ALEXEY",PKVZ      ,Missed Three Pointer (3/8 -  21 pt),3FGA,,,Khimki Moscow Region,0
-ULK       ,,,03:13,37,476,,          ,Def Rebound (7),D,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,21,02:53,38,478,"NUNNALLY, JAMES",P007400   ,Turnover (2),TO,,,Fenerbahce Dogus Istanbul,0
-KHI       ,,1,02:51,38,479,"SHVED, ALEXEY",PKVZ      ,Steal (2),ST,,,Khimki Moscow Region,0
-KHI       ,,9,02:46,38,480,"MARKOVIC, STEFAN",PLME      ,Three Pointer (3/5 -  11 pt),3FGM,66.0,65.0,Khimki Moscow Region,0
-KHI       ,,1,02:45,38,481,"SHVED, ALEXEY",PKVZ      ,Assist (5),AS,,,Khimki Moscow Region,0
-ULK       ,,11,02:32,38,482,"WANAMAKER, BRAD",P005838   ,Missed Two Pointer (2/8 -  13 pt),2FGA,,,Fenerbahce Dogus Istanbul,0
-KHI       ,,21,02:27,38,483,"ANDERSON, JAMES",P005938   ,Def Rebound (2),D,,,Khimki Moscow Region,0
-KHI       ,,21,02:22,38,484,"ANDERSON, JAMES",P005938   ,Missed Three Pointer (2/7 -  13 pt),3FGA,,,Khimki Moscow Region,0
-ULK       ,,70,02:21,38,485,"DATOME, LUIGI",PCCD      ,Def Rebound (7),D,,,Fenerbahce Dogus Istanbul,0
-KHI       ,,21,02:01,38,486,"ANDERSON, JAMES",P005938   ,Foul (4),CM,,,Khimki Moscow Region,0
-ULK       ,,11,02:01,38,487,"WANAMAKER, BRAD",P005838   ,Foul Drawn (5),RV,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,11,01:57,39,489,"WANAMAKER, BRAD",P005838   ,Missed Free Throw (3/6 -  13 pt),FTA,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,11,01:57,39,490,"WANAMAKER, BRAD",P005838   ,Missed Free Throw (3/7 -  13 pt),FTA,,,Fenerbahce Dogus Istanbul,0
-KHI       ,,9,01:57,39,491,"MARKOVIC, STEFAN",PLME      ,Def Rebound (3),D,,,Khimki Moscow Region,0
-ULK       ,,24,01:46,39,492,"VESELY, JAN",P000925   ,Foul (4),CM,,,Fenerbahce Dogus Istanbul,0
-KHI       ,,9,01:46,39,493,"MARKOVIC, STEFAN",PLME      ,Foul Drawn (2),RV,,,Khimki Moscow Region,0
-KHI       ,,1,01:40,39,494,"SHVED, ALEXEY",PKVZ      ,Missed Three Pointer (3/9 -  21 pt),3FGA,,,Khimki Moscow Region,0
-ULK       ,,11,01:38,39,495,"WANAMAKER, BRAD",P005838   ,Def Rebound (2),D,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,24,01:29,39,496,"VESELY, JAN",P000925   ,Two Pointer (5/6 -  12 pt),2FGM,68.0,65.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,21,01:29,39,497,"NUNNALLY, JAMES",P007400   ,Assist (3),AS,,,Fenerbahce Dogus Istanbul,0
-KHI       ,,13,01:07,39,498,"GILL, ANTHONY",P008001   ,Two Pointer (2/4 -  9 pt),2FGM,68.0,67.0,Khimki Moscow Region,0
-KHI       ,,21,01:07,39,499,"ANDERSON, JAMES",P005938   ,Assist (2),AS,,,Khimki Moscow Region,0
-ULK       ,,11,00:51,40,501,"WANAMAKER, BRAD",P005838   ,Missed Three Pointer (2/6 -  13 pt),3FGA,,,Fenerbahce Dogus Istanbul,0
-KHI       ,,13,00:48,40,502,"GILL, ANTHONY",P008001   ,Def Rebound (1),D,,,Khimki Moscow Region,0
-KHI       ,,,00:25,40,503,,          ,Turnover (2),TO,,,Khimki Moscow Region,0
-ULK       ,,,00:25,40,504,,          ,Time Out (2),TOUT,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,1,00:25,40,505,"THOMPSON, JASON",P007998   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,4,00:25,40,506,"MELLI, NICOLO",P002849   ,In,IN,,,Fenerbahce Dogus Istanbul,0
-KHI       ,,21,00:16,40,507,"ANDERSON, JAMES",P005938   ,Foul (5),CM,,,Khimki Moscow Region,0
-ULK       ,,11,00:16,40,508,"WANAMAKER, BRAD",P005838   ,Foul Drawn (6),RV,,,Fenerbahce Dogus Istanbul,0
-KHI       ,,6,00:16,40,509,"VIALTSEV, EGOR",PBGV      ,In,IN,,,Khimki Moscow Region,0
-KHI       ,,21,00:16,40,510,"ANDERSON, JAMES",P005938   ,Out,OUT,,,Khimki Moscow Region,0
-ULK       ,,11,00:16,40,511,"WANAMAKER, BRAD",P005838   ,Free Throw In (4/8 -  14 pt),FTM,69.0,67.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,11,00:16,40,512,"WANAMAKER, BRAD",P005838   ,Free Throw In (5/9 -  15 pt),FTM,70.0,67.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,11,00:16,40,513,"WANAMAKER, BRAD",P005838   ,Free Throw In (6/10 -  16 pt),FTM,71.0,67.0,Fenerbahce Dogus Istanbul,0
-KHI       ,,,00:16,40,514,,          ,Time Out (2),TOUT,,,Khimki Moscow Region,0
-KHI       ,,1,00:04,40,515,"SHVED, ALEXEY",PKVZ      ,Missed Three Pointer (3/10 -  21 pt),3FGA,,,Khimki Moscow Region,0
-ULK       ,,11,00:03,40,516,"WANAMAKER, BRAD",P005838   ,Def Rebound (3),D,,,Fenerbahce Dogus Istanbul,0
-          ,,,,41,519,,          ,End Game,EG,,,,0
+CODETEAM,COMMENT,DORSAL,MARKERTIME,MINUTE,NUMBEROFPLAY,PLAYER,PLAYER_ID,PLAYINFO,PLAYTYPE,POINTS_A,POINTS_B,TEAM,TYPE,home_team,home_team_code,away_team,away_team_code
+          ,,,,1,2,,          ,Begin Period,BP,,,,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,1,09:46,1,3,"SHVED, ALEXEY",PKVZ      ,Turnover (1),TO,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,21,09:45,1,4,"NUNNALLY, JAMES",P007400   ,Steal (1),ST,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,22,09:43,1,5,"JENKINS, CHARLES",P005014   ,Foul (1),CM,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,11,09:43,1,6,"WANAMAKER, BRAD",P005838   ,Foul Drawn (1),RV,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,1,09:27,1,7,"THOMPSON, JASON",P007998   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,21,09:24,1,8,"NUNNALLY, JAMES",P007400   ,Off Rebound (1),O,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,70,09:21,1,9,"DATOME, LUIGI",PCCD      ,Three Pointer (1/1 -  3 pt),3FGM,3.0,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,21,09:19,1,10,"NUNNALLY, JAMES",P007400   ,Assist (1),AS,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,1,09:05,1,11,"SHVED, ALEXEY",PKVZ      ,Three Pointer (1/1 -  3 pt),3FGM,3.0,3.0,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,12,09:04,1,12,"MONIA, SERGEY",PBFX      ,Assist (1),AS,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,70,08:44,2,14,"DATOME, LUIGI",PCCD      ,Turnover (1),TO,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,0,08:43,2,15,"ROBINSON, THOMAS",P008003   ,Steal (1),ST,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,0,08:32,2,16,"ROBINSON, THOMAS",P008003   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,70,08:30,2,17,"DATOME, LUIGI",PCCD      ,Def Rebound (1),D,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,24,08:20,2,18,"VESELY, JAN",P000925   ,Two Pointer (1/1 -  2 pt),2FGM,5.0,3.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,1,08:18,2,19,"THOMPSON, JASON",P007998   ,Assist (1),AS,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,21,07:54,3,21,"ANDERSON, JAMES",P005938   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,1,07:52,3,22,"THOMPSON, JASON",P007998   ,Def Rebound (1),D,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,70,07:46,3,23,"DATOME, LUIGI",PCCD      ,Missed Three Pointer (1/2 -  3 pt),3FGA,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,11,07:44,3,24,"WANAMAKER, BRAD",P005838   ,Off Rebound (1),O,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,1,07:37,3,25,"THOMPSON, JASON",P007998   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,0,07:35,3,26,"ROBINSON, THOMAS",P008003   ,Def Rebound (1),D,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,1,07:22,3,27,"SHVED, ALEXEY",PKVZ      ,Turnover (2),TO,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,21,07:20,3,28,"NUNNALLY, JAMES",P007400   ,Steal (2),ST,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,12,07:16,3,29,"MONIA, SERGEY",PBFX      ,Block (1),FV,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,70,07:13,3,30,"DATOME, LUIGI",PCCD      ,Missed Two Pointer (0/1 -  3 pt),2FGA,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,70,07:13,3,31,"DATOME, LUIGI",PCCD      ,Shot Rejected (1),AG,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,11,07:12,3,32,"WANAMAKER, BRAD",P005838   ,Off Rebound (2),O,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,21,07:12,3,33,"NUNNALLY, JAMES",P007400   ,Three Pointer (1/1 -  3 pt),3FGM,8.0,3.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,11,07:12,3,34,"WANAMAKER, BRAD",P005838   ,Assist (1),AS,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,1,06:58,4,36,"SHVED, ALEXEY",PKVZ      ,Missed Two Pointer (0/1 -  3 pt),2FGA,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,70,06:56,4,37,"DATOME, LUIGI",PCCD      ,Def Rebound (2),D,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,22,06:52,4,38,"JENKINS, CHARLES",P005014   ,Foul (2),CM,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,1,06:52,4,39,"THOMPSON, JASON",P007998   ,Foul Drawn (1),RV,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,9,06:52,4,40,"MARKOVIC, STEFAN",PLME      ,In,IN,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,22,06:52,4,41,"JENKINS, CHARLES",P005014   ,Out,OUT,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,11,06:38,4,42,"WANAMAKER, BRAD",P005838   ,Three Pointer (1/1 -  3 pt),3FGM,11.0,3.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,1,06:36,4,43,"THOMPSON, JASON",P007998   ,Assist (2),AS,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,21,06:12,4,44,"ANDERSON, JAMES",P005938   ,Three Pointer (1/1 -  3 pt),3FGM,11.0,6.0,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,1,06:10,4,45,"SHVED, ALEXEY",PKVZ      ,Assist (1),AS,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,11,05:47,5,47,"WANAMAKER, BRAD",P005838   ,Missed Three Pointer (1/2 -  3 pt),3FGA,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,1,05:45,5,48,"THOMPSON, JASON",P007998   ,Off Rebound (1),O,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,21,05:41,5,49,"NUNNALLY, JAMES",P007400   ,Three Pointer (2/2 -  6 pt),3FGM,14.0,6.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,11,05:39,5,50,"WANAMAKER, BRAD",P005838   ,Assist (2),AS,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,21,05:17,5,51,"ANDERSON, JAMES",P005938   ,Missed Three Pointer (1/2 -  3 pt),3FGA,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,70,05:16,5,52,"DATOME, LUIGI",PCCD      ,Foul (1),CM,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,0,05:16,5,53,"ROBINSON, THOMAS",P008003   ,Foul Drawn (1),RV,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,,05:16,5,54,,          ,Off Rebound (1),O,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,1,05:09,5,55,"SHVED, ALEXEY",PKVZ      ,Missed Three Pointer (1/2 -  3 pt),3FGA,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,70,05:07,5,56,"DATOME, LUIGI",PCCD      ,Def Rebound (3),D,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,24,04:55,6,58,"VESELY, JAN",P000925   ,Two Pointer (2/2 -  4 pt),2FGM,16.0,6.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,11,04:55,6,59,"WANAMAKER, BRAD",P005838   ,Assist (3),AS,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,,04:55,6,60,,          ,Time Out (1),TOUT,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+          ,,,04:55,6,61,,          ,TV Time Out (1),TOUT_TV,,,,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,12,04:55,6,62,"MONIA, SERGEY",PBFX      ,Out,OUT,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,13,04:55,6,63,"GILL, ANTHONY",P008001   ,In,IN,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,0,04:38,6,64,"ROBINSON, THOMAS",P008003   ,Two Pointer (1/2 -  2 pt),2FGM,16.0,8.0,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,24,04:20,6,65,"VESELY, JAN",P000925   ,Turnover (1),TO,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,1,03:57,7,67,"SHVED, ALEXEY",PKVZ      ,Three Pointer (2/3 -  6 pt),3FGM,16.0,11.0,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,0,03:55,7,68,"ROBINSON, THOMAS",P008003   ,Assist (1),AS,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,21,03:35,7,69,"NUNNALLY, JAMES",P007400   ,Three Pointer (3/3 -  9 pt),3FGM,19.0,11.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,24,03:33,7,70,"VESELY, JAN",P000925   ,Assist (1),AS,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,0,03:19,7,71,"ROBINSON, THOMAS",P008003   ,Missed Two Pointer (1/3 -  2 pt),2FGA,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,11,03:16,7,72,"WANAMAKER, BRAD",P005838   ,Def Rebound (1),D,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,11,03:14,7,73,"WANAMAKER, BRAD",P005838   ,Two Pointer (1/1 -  5 pt),2FGM,21.0,11.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,11,03:14,7,74,"WANAMAKER, BRAD",P005838   ,Foul Drawn (2),RV,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,21,03:14,7,75,"ANDERSON, JAMES",P005938   ,Foul (1),CM,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,23,03:14,7,76,"GUDURIC, MARKO",P004004   ,In,IN,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,70,03:14,7,77,"DATOME, LUIGI",PCCD      ,Out,OUT,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,11,03:14,7,78,"WANAMAKER, BRAD",P005838   ,Free Throw In (1/1 -  6 pt),FTM,22.0,11.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,11,03:04,7,79,"WANAMAKER, BRAD",P005838   ,Foul (1),CM,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,1,03:04,7,80,"SHVED, ALEXEY",PKVZ      ,Foul Drawn (1),RV,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,9,02:51,8,82,"MARKOVIC, STEFAN",PLME      ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,1,02:49,8,83,"THOMPSON, JASON",P007998   ,Def Rebound (2),D,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,23,02:27,8,84,"GUDURIC, MARKO",P004004   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,24,02:23,8,85,"VESELY, JAN",P000925   ,Off Rebound (1),O,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,24,02:23,8,86,"VESELY, JAN",P000925   ,Two Pointer (3/3 -  6 pt),2FGM,24.0,11.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,0,02:02,8,87,"ROBINSON, THOMAS",P008003   ,Two Pointer (2/4 -  4 pt),2FGM,24.0,13.0,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,1,02:00,8,88,"SHVED, ALEXEY",PKVZ      ,Assist (2),AS,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,21,01:43,9,90,"NUNNALLY, JAMES",P007400   ,Missed Three Pointer (3/4 -  9 pt),3FGA,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,0,01:40,9,91,"ROBINSON, THOMAS",P008003   ,Def Rebound (2),D,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,21,01:25,9,92,"ANDERSON, JAMES",P005938   ,Missed Three Pointer (1/3 -  3 pt),3FGA,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,24,01:22,9,93,"VESELY, JAN",P000925   ,Def Rebound (1),D,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,1,01:16,9,94,"SHVED, ALEXEY",PKVZ      ,Foul (1),CM,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,23,01:16,9,95,"GUDURIC, MARKO",P004004   ,Foul Drawn (1),RV,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,1,01:16,9,96,"THOMPSON, JASON",P007998   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,4,01:16,9,97,"MELLI, NICOLO",P002849   ,In,IN,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,11,01:08,9,98,"WANAMAKER, BRAD",P005838   ,Missed Two Pointer (1/2 -  6 pt),2FGA,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,0,01:06,9,99,"ROBINSON, THOMAS",P008003   ,Def Rebound (3),D,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,0,00:45,10,101,"ROBINSON, THOMAS",P008003   ,Missed Two Pointer (2/5 -  4 pt),2FGA,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,13,00:43,10,102,"GILL, ANTHONY",P008001   ,Off Rebound (1),O,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,13,00:43,10,103,"GILL, ANTHONY",P008001   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,13,00:43,10,104,"GILL, ANTHONY",P008001   ,Shot Rejected (1),AG,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,4,00:43,10,105,"MELLI, NICOLO",P002849   ,Block (1),FV,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,,00:43,10,106,,          ,Off Rebound (2),O,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,4,00:39,10,107,"MELLI, NICOLO",P002849   ,Foul (1),CM,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,1,00:39,10,108,"SHVED, ALEXEY",PKVZ      ,Foul Drawn (2),RV,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,21,00:25,10,109,"ANDERSON, JAMES",P005938   ,Two Pointer (1/2 -  5 pt),2FGM,24.0,15.0,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,1,00:23,10,110,"SHVED, ALEXEY",PKVZ      ,Assist (3),AS,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,1,00:02,10,111,"THOMPSON, JASON",P007998   ,In,IN,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,24,00:02,10,112,"VESELY, JAN",P000925   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,1,00:02,10,113,"THOMPSON, JASON",P007998   ,Missed Two Pointer (0/3 -  0 pt),2FGA,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+          ,,,,11,115,,          ,End Period,EP,,,,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+          ,,,,11,116,,          ,Begin Period,BP,,,,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,4,09:49,11,117,"MELLI, NICOLO",P002849   ,Turnover (1),TO,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,21,09:30,11,118,"ANDERSON, JAMES",P005938   ,Two Pointer (2/3 -  7 pt),2FGM,24.0,17.0,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,4,09:08,11,119,"MELLI, NICOLO",P002849   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,0,09:08,11,120,"ROBINSON, THOMAS",P008003   ,Def Rebound (4),D,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,9,08:43,12,122,"MARKOVIC, STEFAN",PLME      ,Three Pointer (1/1 -  3 pt),3FGM,24.0,20.0,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,,08:41,12,123,,          ,Time Out (1),TOUT,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+          ,,,08:41,12,124,,          ,TV Time Out (2),TOUT_TV,,,,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,1,08:22,12,125,"THOMPSON, JASON",P007998   ,Turnover (1),TO,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,13,08:21,12,126,"GILL, ANTHONY",P008001   ,Steal (1),ST,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,13,08:11,12,127,"GILL, ANTHONY",P008001   ,Offensive Foul (1),OF,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,13,08:11,12,128,"GILL, ANTHONY",P008001   ,Turnover (1),TO,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,1,08:11,12,129,"THOMPSON, JASON",P007998   ,Foul Drawn (2),RV,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,21,08:11,12,130,"NUNNALLY, JAMES",P007400   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,35,08:11,12,131,"MUHAMMED, ALI",P001324   ,In,IN,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,0,08:11,12,132,"ROBINSON, THOMAS",P008003   ,Out,OUT,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,23,08:11,12,133,"THOMAS, MALCOLM",P004251   ,In,IN,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,1,07:54,13,135,"SHVED, ALEXEY",PKVZ      ,Foul (2),CM,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,4,07:54,13,136,"MELLI, NICOLO",P002849   ,Foul Drawn (1),RV,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,11,07:42,13,137,"WANAMAKER, BRAD",P005838   ,Missed Two Pointer (1/3 -  6 pt),2FGA,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,,07:40,13,138,,          ,Def Rebound (1),D,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,1,07:40,13,139,"SHVED, ALEXEY",PKVZ      ,Out,OUT,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,22,07:40,13,140,"JENKINS, CHARLES",P005014   ,In,IN,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,21,07:39,13,141,"ANDERSON, JAMES",P005938   ,Three Pointer (2/4 -  10 pt),3FGM,24.0,23.0,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,23,07:39,13,142,"THOMAS, MALCOLM",P004251   ,Assist (1),AS,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,4,07:39,13,143,"MELLI, NICOLO",P002849   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,24,07:39,13,144,"VESELY, JAN",P000925   ,In,IN,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,35,06:54,14,146,"MUHAMMED, ALI",P001324   ,Two Pointer (1/1 -  2 pt),2FGM,26.0,23.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,11,06:49,14,147,"WANAMAKER, BRAD",P005838   ,Assist (4),AS,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,21,06:33,14,148,"ANDERSON, JAMES",P005938   ,Missed Two Pointer (2/4 -  10 pt),2FGA,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,1,06:33,14,149,"THOMPSON, JASON",P007998   ,Foul (1),CM,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,23,06:33,14,150,"THOMAS, MALCOLM",P004251   ,Foul Drawn (1),RV,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,,06:33,14,151,,          ,Off Rebound (3),O,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,21,06:21,14,152,"ANDERSON, JAMES",P005938   ,Missed Three Pointer (2/5 -  10 pt),3FGA,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,35,06:19,14,153,"MUHAMMED, ALI",P001324   ,Def Rebound (1),D,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,11,06:03,14,154,"WANAMAKER, BRAD",P005838   ,Missed Three Pointer (1/3 -  6 pt),3FGA,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,9,06:00,14,155,"MARKOVIC, STEFAN",PLME      ,Def Rebound (1),D,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,11,06:00,14,156,"WANAMAKER, BRAD",P005838   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,70,06:00,14,157,"DATOME, LUIGI",PCCD      ,In,IN,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,0,06:00,14,158,"ROBINSON, THOMAS",P008003   ,In,IN,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,13,06:00,14,159,"GILL, ANTHONY",P008001   ,Out,OUT,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,9,05:45,15,161,"MARKOVIC, STEFAN",PLME      ,Missed Three Pointer (1/2 -  3 pt),3FGA,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,35,05:43,15,162,"MUHAMMED, ALI",P001324   ,Def Rebound (2),D,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,23,05:35,15,163,"THOMAS, MALCOLM",P004251   ,Foul (1),CM,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,24,05:35,15,164,"VESELY, JAN",P000925   ,Foul Drawn (1),RV,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,35,05:23,15,165,"MUHAMMED, ALI",P001324   ,Three Pointer (1/1 -  5 pt),3FGM,29.0,23.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,0,05:05,15,166,"ROBINSON, THOMAS",P008003   ,Missed Two Pointer (2/6 -  4 pt),2FGA,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,1,05:04,15,167,"THOMPSON, JASON",P007998   ,Def Rebound (3),D,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,23,05:00,15,168,"GUDURIC, MARKO",P004004   ,Two Pointer (1/1 -  2 pt),2FGM,31.0,23.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,35,04:59,16,170,"MUHAMMED, ALI",P001324   ,Assist (1),AS,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,21,04:33,16,171,"ANDERSON, JAMES",P005938   ,Turnover (1),TO,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,,04:33,16,172,,          ,Time Out (1),TOUT,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,6,04:33,16,173,"VIALTSEV, EGOR",PBGV      ,In,IN,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,21,04:33,16,174,"ANDERSON, JAMES",P005938   ,Out,OUT,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,23,04:08,16,175,"GUDURIC, MARKO",P004004   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,24,04:06,16,176,"VESELY, JAN",P000925   ,Off Rebound (2),O,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,70,04:01,16,177,"DATOME, LUIGI",PCCD      ,Two Pointer (1/2 -  5 pt),2FGM,33.0,23.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,23,03:39,17,179,"THOMAS, MALCOLM",P004251   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,1,03:37,17,180,"THOMPSON, JASON",P007998   ,Def Rebound (4),D,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,35,03:28,17,181,"MUHAMMED, ALI",P001324   ,Missed Three Pointer (1/2 -  5 pt),3FGA,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,,03:27,17,182,,          ,Def Rebound (2),D,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,1,03:06,17,183,"THOMPSON, JASON",P007998   ,Foul (2),CM,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,6,03:06,17,184,"VIALTSEV, EGOR",PBGV      ,Foul Drawn (1),RV,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,1,03:06,17,185,"THOMPSON, JASON",P007998   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,4,03:06,17,186,"MELLI, NICOLO",P002849   ,In,IN,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,1,03:06,17,187,"SHVED, ALEXEY",PKVZ      ,In,IN,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,9,03:06,17,188,"MARKOVIC, STEFAN",PLME      ,Out,OUT,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,0,03:01,17,189,"ROBINSON, THOMAS",P008003   ,Turnover (1),TO,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,11,03:01,17,190,"WANAMAKER, BRAD",P005838   ,In,IN,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,35,03:01,17,191,"MUHAMMED, ALI",P001324   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,6,02:45,18,193,"VIALTSEV, EGOR",PBGV      ,Foul (1),CM,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,70,02:45,18,194,"DATOME, LUIGI",PCCD      ,Foul Drawn (1),RV,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,70,02:35,18,195,"DATOME, LUIGI",PCCD      ,Missed Two Pointer (1/3 -  5 pt),2FGA,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,23,02:33,18,196,"THOMAS, MALCOLM",P004251   ,Def Rebound (1),D,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,1,02:13,18,197,"SHVED, ALEXEY",PKVZ      ,Missed Three Pointer (2/4 -  6 pt),3FGA,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,70,02:09,18,198,"DATOME, LUIGI",PCCD      ,Def Rebound (4),D,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,24,01:54,19,200,"VESELY, JAN",P000925   ,Turnover (2),TO,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,23,01:40,19,201,"GUDURIC, MARKO",P004004   ,Foul (1),CM,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,1,01:40,19,202,"SHVED, ALEXEY",PKVZ      ,Foul Drawn (3),RV,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,1,01:40,19,203,"SHVED, ALEXEY",PKVZ      ,Missed Free Throw (0/1 -  6 pt),FTA,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,1,01:40,19,204,"SHVED, ALEXEY",PKVZ      ,Missed Free Throw (0/2 -  6 pt),FTA,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,0,01:40,19,205,"ROBINSON, THOMAS",P008003   ,Off Rebound (1),O,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,0,01:40,19,206,"ROBINSON, THOMAS",P008003   ,Missed Two Pointer (2/7 -  4 pt),2FGA,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,24,01:39,19,207,"VESELY, JAN",P000925   ,Def Rebound (2),D,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,4,01:20,19,208,"MELLI, NICOLO",P002849   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,0,01:20,19,209,"ROBINSON, THOMAS",P008003   ,Foul (1),CM,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,24,01:20,19,210,"VESELY, JAN",P000925   ,Foul Drawn (2),RV,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,,01:20,19,211,,          ,Off Rebound (4),O,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,24,01:20,19,212,"VESELY, JAN",P000925   ,Missed Free Throw (0/1 -  6 pt),FTA,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,24,01:20,19,213,"VESELY, JAN",P000925   ,Free Throw In (1/2 -  7 pt),FTM,34.0,23.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,22,01:16,19,214,"JENKINS, CHARLES",P005014   ,Turnover (1),TO,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,70,01:10,19,215,"DATOME, LUIGI",PCCD      ,Three Pointer (2/3 -  8 pt),3FGM,37.0,23.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,23,01:07,19,216,"GUDURIC, MARKO",P004004   ,Assist (1),AS,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,1,00:57,20,218,"SHVED, ALEXEY",PKVZ      ,Missed Two Pointer (0/2 -  6 pt),2FGA,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,70,00:54,20,219,"DATOME, LUIGI",PCCD      ,Def Rebound (5),D,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,23,00:33,20,220,"GUDURIC, MARKO",P004004   ,Missed Three Pointer (0/2 -  2 pt),3FGA,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,24,00:32,20,221,"VESELY, JAN",P000925   ,Foul (1),CM,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,6,00:32,20,222,"VIALTSEV, EGOR",PBGV      ,Foul Drawn (2),RV,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,,00:32,20,223,,          ,Def Rebound (3),D,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,1,00:16,20,224,"SHVED, ALEXEY",PKVZ      ,Three Pointer (3/5 -  9 pt),3FGM,37.0,26.0,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,6,00:16,20,225,"VIALTSEV, EGOR",PBGV      ,Assist (1),AS,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,,00:16,20,226,,          ,Time Out (2),TOUT,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,4,00:16,20,227,"MELLI, NICOLO",P002849   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,21,00:16,20,228,"NUNNALLY, JAMES",P007400   ,In,IN,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,1,00:16,20,229,"SHVED, ALEXEY",PKVZ      ,Out,OUT,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,8,00:16,20,230,"ZAYTSEV, VYACHESLAV",P001792   ,In,IN,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,9,00:16,20,231,"MARKOVIC, STEFAN",PLME      ,In,IN,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,22,00:16,20,232,"JENKINS, CHARLES",P005014   ,Out,OUT,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,0,00:04,20,233,"ROBINSON, THOMAS",P008003   ,Foul (2),CM,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,11,00:04,20,234,"WANAMAKER, BRAD",P005838   ,Foul Drawn (3),RV,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,11,00:04,20,235,"WANAMAKER, BRAD",P005838   ,Free Throw In (2/2 -  7 pt),FTM,38.0,26.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,11,00:04,20,236,"WANAMAKER, BRAD",P005838   ,Missed Free Throw (2/3 -  7 pt),FTA,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,8,00:04,20,237,"ZAYTSEV, VYACHESLAV",P001792   ,Def Rebound (1),D,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,8,00:01,20,238,"ZAYTSEV, VYACHESLAV",P001792   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+          ,,,,21,240,,          ,End Period,EP,,,,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+          ,,,,21,251,,          ,Begin Period,BP,,,,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,1,10:00,21,241,"THOMPSON, JASON",P007998   ,In,IN,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,23,10:00,21,242,"GUDURIC, MARKO",P004004   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,0,10:00,21,243,"ROBINSON, THOMAS",P008003   ,Out,OUT,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,1,10:00,21,244,"SHVED, ALEXEY",PKVZ      ,In,IN,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,6,10:00,21,245,"VIALTSEV, EGOR",PBGV      ,Out,OUT,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,8,10:00,21,246,"ZAYTSEV, VYACHESLAV",P001792   ,Out,OUT,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,9,10:00,21,247,"MARKOVIC, STEFAN",PLME      ,Out,OUT,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,13,10:00,21,248,"GILL, ANTHONY",P008001   ,In,IN,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,21,10:00,21,249,"ANDERSON, JAMES",P005938   ,In,IN,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,22,10:00,21,250,"JENKINS, CHARLES",P005014   ,In,IN,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,13,09:40,21,252,"GILL, ANTHONY",P008001   ,Two Pointer (1/2 -  2 pt),2FGM,38.0,28.0,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,21,09:13,21,253,"NUNNALLY, JAMES",P007400   ,Two Pointer (1/1 -  11 pt),2FGM,40.0,28.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,23,08:56,22,255,"THOMAS, MALCOLM",P004251   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,1,08:54,22,256,"THOMPSON, JASON",P007998   ,Def Rebound (5),D,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,24,08:37,22,257,"VESELY, JAN",P000925   ,Missed Two Pointer (3/4 -  7 pt),2FGA,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,23,08:36,22,258,"THOMAS, MALCOLM",P004251   ,Def Rebound (2),D,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,1,08:35,22,259,"THOMPSON, JASON",P007998   ,Technical Foul (3),CMT,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,1,08:35,22,260,"THOMPSON, JASON",P007998   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,4,08:35,22,261,"MELLI, NICOLO",P002849   ,In,IN,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,1,08:35,22,262,"SHVED, ALEXEY",PKVZ      ,Missed Free Throw (0/3 -  9 pt),FTA,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,70,08:14,22,263,"DATOME, LUIGI",PCCD      ,Block (1),FV,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,21,08:12,22,264,"ANDERSON, JAMES",P005938   ,Missed Two Pointer (2/5 -  10 pt),2FGA,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,21,08:12,22,265,"ANDERSON, JAMES",P005938   ,Shot Rejected (1),AG,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,1,08:09,22,266,"SHVED, ALEXEY",PKVZ      ,Off Rebound (1),O,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,1,08:09,22,267,"SHVED, ALEXEY",PKVZ      ,Missed Two Pointer (0/3 -  9 pt),2FGA,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,21,08:09,22,268,"NUNNALLY, JAMES",P007400   ,Def Rebound (1),D,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,22,08:09,22,269,"JENKINS, CHARLES",P005014   ,Foul (3),CM,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,21,08:09,22,270,"NUNNALLY, JAMES",P007400   ,Foul Drawn (1),RV,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,21,08:09,22,271,"NUNNALLY, JAMES",P007400   ,Free Throw In (1/1 -  12 pt),FTM,41.0,28.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,21,08:09,22,272,"NUNNALLY, JAMES",P007400   ,Free Throw In (2/2 -  13 pt),FTM,42.0,28.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,1,07:48,23,274,"SHVED, ALEXEY",PKVZ      ,Missed Three Pointer (3/6 -  9 pt),3FGA,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,,07:45,23,275,,          ,Def Rebound (4),D,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,11,07:36,23,276,"WANAMAKER, BRAD",P005838   ,Three Pointer (2/4 -  10 pt),3FGM,45.0,28.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,4,07:34,23,277,"MELLI, NICOLO",P002849   ,Assist (1),AS,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,21,07:13,23,278,"ANDERSON, JAMES",P005938   ,Two Pointer (3/6 -  12 pt),2FGM,45.0,30.0,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,21,07:13,23,279,"ANDERSON, JAMES",P005938   ,Foul Drawn (1),RV,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,24,07:13,23,280,"VESELY, JAN",P000925   ,Foul (2),CM,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,21,07:13,23,281,"ANDERSON, JAMES",P005938   ,Free Throw In (1/1 -  13 pt),FTM,45.0,31.0,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,70,06:54,24,283,"DATOME, LUIGI",PCCD      ,Turnover (2),TO,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,22,06:53,24,284,"JENKINS, CHARLES",P005014   ,Steal (1),ST,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,22,06:46,24,285,"JENKINS, CHARLES",P005014   ,Turnover (2),TO,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,21,06:30,24,286,"NUNNALLY, JAMES",P007400   ,Turnover (1),TO,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,1,06:29,24,287,"SHVED, ALEXEY",PKVZ      ,Steal (1),ST,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,21,06:28,24,288,"NUNNALLY, JAMES",P007400   ,Foul (1),CM,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,1,06:28,24,289,"SHVED, ALEXEY",PKVZ      ,Foul Drawn (4),RV,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,1,06:28,24,290,"SHVED, ALEXEY",PKVZ      ,Free Throw In (1/4 -  10 pt),FTM,45.0,32.0,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,1,06:28,24,291,"SHVED, ALEXEY",PKVZ      ,Free Throw In (2/5 -  11 pt),FTM,45.0,33.0,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,70,06:25,24,292,"DATOME, LUIGI",PCCD      ,Turnover (3),TO,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,21,06:07,24,293,"ANDERSON, JAMES",P005938   ,Missed Three Pointer (2/6 -  13 pt),3FGA,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,24,06:07,24,294,"VESELY, JAN",P000925   ,Foul (3),CM,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,13,06:07,24,295,"GILL, ANTHONY",P008001   ,Foul Drawn (1),RV,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,13,06:07,24,296,"GILL, ANTHONY",P008001   ,Off Rebound (2),O,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,24,06:07,24,297,"VESELY, JAN",P000925   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,44,06:07,24,298,"DUVERIOGLU, AHMET",P006399   ,In,IN,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,44,05:58,25,300,"DUVERIOGLU, AHMET",P006399   ,Foul (1),CM,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,13,05:58,25,301,"GILL, ANTHONY",P008001   ,Foul Drawn (2),RV,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,13,05:58,25,302,"GILL, ANTHONY",P008001   ,Free Throw In (1/1 -  3 pt),FTM,45.0,34.0,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,13,05:58,25,303,"GILL, ANTHONY",P008001   ,Free Throw In (2/2 -  4 pt),FTM,45.0,35.0,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,12,05:58,25,304,"MONIA, SERGEY",PBFX      ,In,IN,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,13,05:58,25,305,"GILL, ANTHONY",P008001   ,Out,OUT,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,11,05:37,25,306,"WANAMAKER, BRAD",P005838   ,Missed Two Pointer (1/4 -  10 pt),2FGA,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,1,05:35,25,307,"SHVED, ALEXEY",PKVZ      ,Def Rebound (1),D,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,23,05:20,25,308,"THOMAS, MALCOLM",P004251   ,Two Pointer (1/3 -  2 pt),2FGM,45.0,37.0,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,12,05:19,25,309,"MONIA, SERGEY",PBFX      ,Assist (2),AS,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,70,05:08,25,310,"DATOME, LUIGI",PCCD      ,Two Pointer (2/4 -  10 pt),2FGM,47.0,37.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,21,05:08,25,311,"NUNNALLY, JAMES",P007400   ,Assist (2),AS,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,23,04:42,26,313,"THOMAS, MALCOLM",P004251   ,Missed Two Pointer (1/4 -  2 pt),2FGA,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,4,04:41,26,314,"MELLI, NICOLO",P002849   ,Def Rebound (1),D,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,21,04:35,26,315,"ANDERSON, JAMES",P005938   ,Foul (2),CM,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,21,04:35,26,316,"NUNNALLY, JAMES",P007400   ,Foul Drawn (2),RV,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+          ,,,04:35,26,318,,          ,TV Time Out (3),TOUT_TV,,,,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,9,04:35,26,319,"MARKOVIC, STEFAN",PLME      ,In,IN,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,22,04:35,26,320,"JENKINS, CHARLES",P005014   ,Out,OUT,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,21,04:35,26,321,"NUNNALLY, JAMES",P007400   ,Free Throw In (3/3 -  14 pt),FTM,48.0,37.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,11,04:35,26,322,"WANAMAKER, BRAD",P005838   ,Assist (5),AS,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,21,04:35,26,323,"NUNNALLY, JAMES",P007400   ,Missed Free Throw (3/4 -  14 pt),FTA,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,21,04:35,26,324,"ANDERSON, JAMES",P005938   ,Def Rebound (1),D,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,12,04:13,26,325,"MONIA, SERGEY",PBFX      ,Three Pointer (1/1 -  3 pt),3FGM,48.0,40.0,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,23,04:12,26,326,"THOMAS, MALCOLM",P004251   ,Assist (2),AS,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,44,03:48,27,328,"DUVERIOGLU, AHMET",P006399   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,,03:48,27,329,,          ,Def Rebound (5),D,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,9,03:48,27,330,"MARKOVIC, STEFAN",PLME      ,Turnover (1),TO,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,11,03:48,27,331,"WANAMAKER, BRAD",P005838   ,Steal (1),ST,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,11,03:48,27,332,"WANAMAKER, BRAD",P005838   ,Missed Two Pointer (1/5 -  10 pt),2FGA,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,23,03:48,27,333,"THOMAS, MALCOLM",P004251   ,Def Rebound (3),D,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,4,03:35,27,334,"MELLI, NICOLO",P002849   ,Foul (2),CM,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,1,03:35,27,335,"SHVED, ALEXEY",PKVZ      ,Foul Drawn (5),RV,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,1,03:35,27,336,"SHVED, ALEXEY",PKVZ      ,Free Throw In (3/6 -  12 pt),FTM,48.0,41.0,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,1,03:35,27,337,"SHVED, ALEXEY",PKVZ      ,Free Throw In (4/7 -  13 pt),FTM,48.0,42.0,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,12,03:24,27,338,"MONIA, SERGEY",PBFX      ,Foul (1),CM,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,70,03:24,27,339,"DATOME, LUIGI",PCCD      ,Foul Drawn (2),RV,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,11,03:10,27,340,"WANAMAKER, BRAD",P005838   ,Missed Two Pointer (1/6 -  10 pt),2FGA,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,1,03:10,27,341,"SHVED, ALEXEY",PKVZ      ,Def Rebound (2),D,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,1,03:10,27,342,"SHVED, ALEXEY",PKVZ      ,Two Pointer (1/4 -  15 pt),2FGM,48.0,44.0,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,21,02:40,28,344,"NUNNALLY, JAMES",P007400   ,Three Pointer (4/5 -  17 pt),3FGM,51.0,44.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,21,02:40,28,345,"NUNNALLY, JAMES",P007400   ,Foul Drawn (3),RV,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,1,02:40,28,346,"SHVED, ALEXEY",PKVZ      ,Foul (3),CM,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,11,02:40,28,394,"WANAMAKER, BRAD",P005838   ,Assist (6),AS,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,21,02:40,28,347,"NUNNALLY, JAMES",P007400   ,Free Throw In (4/5 -  18 pt),FTM,52.0,44.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,11,02:40,28,348,"WANAMAKER, BRAD",P005838   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,21,02:40,28,349,"NUNNALLY, JAMES",P007400   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,23,02:40,28,350,"GUDURIC, MARKO",P004004   ,In,IN,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,35,02:40,28,351,"MUHAMMED, ALI",P001324   ,In,IN,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,23,02:36,28,352,"GUDURIC, MARKO",P004004   ,Foul (2),CM,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,1,02:36,28,353,"SHVED, ALEXEY",PKVZ      ,Foul Drawn (6),RV,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,1,02:36,28,354,"SHVED, ALEXEY",PKVZ      ,Free Throw In (5/8 -  16 pt),FTM,52.0,45.0,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,1,02:36,28,355,"SHVED, ALEXEY",PKVZ      ,Free Throw In (6/9 -  17 pt),FTM,52.0,46.0,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,70,02:16,28,356,"DATOME, LUIGI",PCCD      ,Two Pointer (3/5 -  12 pt),2FGM,54.0,46.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,12,01:51,29,358,"MONIA, SERGEY",PBFX      ,Missed Three Pointer (1/2 -  3 pt),3FGA,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,70,01:49,29,359,"DATOME, LUIGI",PCCD      ,Def Rebound (6),D,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,23,01:35,29,360,"GUDURIC, MARKO",P004004   ,Missed Two Pointer (1/3 -  2 pt),2FGA,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,44,01:34,29,361,"DUVERIOGLU, AHMET",P006399   ,Off Rebound (1),O,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,44,01:34,29,362,"DUVERIOGLU, AHMET",P006399   ,Two Pointer (1/2 -  2 pt),2FGM,56.0,46.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,9,01:34,29,363,"MARKOVIC, STEFAN",PLME      ,Foul (1),CM,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,44,01:34,29,364,"DUVERIOGLU, AHMET",P006399   ,Foul Drawn (1),RV,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,19,01:34,29,365,"TODOROVIC, MARKO",P001612   ,In,IN,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,23,01:34,29,366,"THOMAS, MALCOLM",P004251   ,Out,OUT,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,44,01:34,29,367,"DUVERIOGLU, AHMET",P006399   ,Missed Free Throw (0/1 -  2 pt),FTA,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,12,01:34,29,368,"MONIA, SERGEY",PBFX      ,Foul (2),CM,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,70,01:34,29,369,"DATOME, LUIGI",PCCD      ,Foul Drawn (3),RV,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,,01:34,29,370,,          ,Off Rebound (5),O,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,70,01:34,29,371,"DATOME, LUIGI",PCCD      ,Free Throw In (1/1 -  13 pt),FTM,57.0,46.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,70,01:34,29,372,"DATOME, LUIGI",PCCD      ,Free Throw In (2/2 -  14 pt),FTM,58.0,46.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,12,01:15,29,373,"MONIA, SERGEY",PBFX      ,Turnover (1),TO,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,23,01:14,29,374,"GUDURIC, MARKO",P004004   ,Steal (1),ST,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,70,00:52,30,376,"DATOME, LUIGI",PCCD      ,Missed Three Pointer (2/4 -  14 pt),3FGA,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,9,00:50,30,377,"MARKOVIC, STEFAN",PLME      ,Def Rebound (2),D,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,4,00:43,30,378,"MELLI, NICOLO",P002849   ,Foul (3),CM,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,1,00:43,30,379,"SHVED, ALEXEY",PKVZ      ,Foul Drawn (7),RV,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,12,00:43,30,380,"MONIA, SERGEY",PBFX      ,Out,OUT,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,13,00:43,30,381,"GILL, ANTHONY",P008001   ,In,IN,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,1,00:43,30,382,"SHVED, ALEXEY",PKVZ      ,Free Throw In (7/10 -  18 pt),FTM,58.0,47.0,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,1,00:43,30,383,"SHVED, ALEXEY",PKVZ      ,Free Throw In (8/11 -  19 pt),FTM,58.0,48.0,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,1,00:43,30,384,"SHVED, ALEXEY",PKVZ      ,Out,OUT,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,22,00:43,30,385,"JENKINS, CHARLES",P005014   ,In,IN,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,23,00:31,30,386,"GUDURIC, MARKO",P004004   ,Missed Three Pointer (0/3 -  2 pt),3FGA,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,22,00:29,30,387,"JENKINS, CHARLES",P005014   ,Def Rebound (1),D,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,21,00:15,30,388,"ANDERSON, JAMES",P005938   ,Missed Two Pointer (3/7 -  13 pt),2FGA,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,44,00:14,30,389,"DUVERIOGLU, AHMET",P006399   ,Def Rebound (1),D,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,35,00:04,30,390,"MUHAMMED, ALI",P001324   ,Missed Two Pointer (1/2 -  5 pt),2FGA,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,23,00:03,30,391,"GUDURIC, MARKO",P004004   ,Off Rebound (1),O,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+          ,,,,31,393,,          ,End Period,EP,,,,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+          ,,,,31,395,,          ,Begin Period,BP,,,,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,4,09:45,31,396,"MELLI, NICOLO",P002849   ,Turnover (2),TO,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,9,09:43,31,397,"MARKOVIC, STEFAN",PLME      ,Steal (1),ST,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,9,09:22,31,398,"MARKOVIC, STEFAN",PLME      ,Three Pointer (2/3 -  6 pt),3FGM,58.0,51.0,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,22,09:20,31,399,"JENKINS, CHARLES",P005014   ,Assist (1),AS,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,21,09:18,31,400,"ANDERSON, JAMES",P005938   ,Foul (3),CM,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,4,09:18,31,401,"MELLI, NICOLO",P002849   ,Foul Drawn (2),RV,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,1,09:18,31,402,"SHVED, ALEXEY",PKVZ      ,In,IN,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,21,09:18,31,403,"ANDERSON, JAMES",P005938   ,Out,OUT,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,19,09:05,31,404,"TODOROVIC, MARKO",P001612   ,Foul (1),CM,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,23,09:05,31,405,"GUDURIC, MARKO",P004004   ,Foul Drawn (2),RV,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,22,08:57,32,407,"JENKINS, CHARLES",P005014   ,Foul (4),CM,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,44,08:57,32,408,"DUVERIOGLU, AHMET",P006399   ,Foul Drawn (2),RV,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,19,08:57,32,423,"TODOROVIC, MARKO",P001612   ,Block (1),FV,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,35,08:57,32,425,"MUHAMMED, ALI",P001324   ,Shot Rejected (1),AG,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,35,08:57,32,424,"MUHAMMED, ALI",P001324   ,Missed Two Pointer (1/3 -  5 pt),2FGA,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,,08:41,32,410,,          ,Turnover (1),TO,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,9,08:18,32,411,"MARKOVIC, STEFAN",PLME      ,Missed Three Pointer (2/4 -  6 pt),3FGA,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,,08:15,32,412,,          ,Def Rebound (6),D,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,24,08:15,32,413,"VESELY, JAN",P000925   ,In,IN,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,44,08:15,32,414,"DUVERIOGLU, AHMET",P006399   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,23,07:59,33,416,"GUDURIC, MARKO",P004004   ,Turnover (1),TO,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,19,07:58,33,417,"TODOROVIC, MARKO",P001612   ,Steal (1),ST,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,13,07:53,33,418,"GILL, ANTHONY",P008001   ,Missed Two Pointer (1/3 -  4 pt),2FGA,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,19,07:53,33,419,"TODOROVIC, MARKO",P001612   ,Off Rebound (1),O,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,19,07:53,33,420,"TODOROVIC, MARKO",P001612   ,Two Pointer (1/1 -  2 pt),2FGM,58.0,53.0,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,,07:53,33,421,,          ,Time Out (1),TOUT,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+          ,,,07:53,33,422,,          ,TV Time Out (4),TOUT_TV,,,,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,11,07:53,33,426,"WANAMAKER, BRAD",P005838   ,In,IN,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,21,07:53,33,427,"NUNNALLY, JAMES",P007400   ,In,IN,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,23,07:53,33,428,"GUDURIC, MARKO",P004004   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,35,07:53,33,429,"MUHAMMED, ALI",P001324   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,11,07:36,33,430,"WANAMAKER, BRAD",P005838   ,Two Pointer (2/7 -  12 pt),2FGM,60.0,53.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,13,07:15,33,431,"GILL, ANTHONY",P008001   ,Three Pointer (1/1 -  7 pt),3FGM,60.0,56.0,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,1,07:13,33,432,"SHVED, ALEXEY",PKVZ      ,Assist (4),AS,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,4,06:59,34,434,"MELLI, NICOLO",P002849   ,Offensive Foul (4),OF,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,4,06:59,34,435,"MELLI, NICOLO",P002849   ,Turnover (3),TO,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,9,06:59,34,436,"MARKOVIC, STEFAN",PLME      ,Foul Drawn (1),RV,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,1,06:59,34,437,"THOMPSON, JASON",P007998   ,In,IN,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,4,06:59,34,438,"MELLI, NICOLO",P002849   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,22,06:34,34,439,"JENKINS, CHARLES",P005014   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,13,06:32,34,440,"GILL, ANTHONY",P008001   ,Off Rebound (3),O,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,1,06:32,34,441,"THOMPSON, JASON",P007998   ,Foul (4),CM,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,13,06:32,34,442,"GILL, ANTHONY",P008001   ,Foul Drawn (3),RV,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,1,06:20,34,443,"SHVED, ALEXEY",PKVZ      ,Missed Three Pointer (3/7 -  19 pt),3FGA,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,21,06:18,34,444,"NUNNALLY, JAMES",P007400   ,Def Rebound (2),D,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,11,05:59,35,446,"WANAMAKER, BRAD",P005838   ,Missed Three Pointer (2/5 -  12 pt),3FGA,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,24,05:55,35,447,"VESELY, JAN",P000925   ,Off Rebound (3),O,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,24,05:51,35,448,"VESELY, JAN",P000925   ,Two Pointer (4/5 -  9 pt),2FGM,62.0,56.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,22,05:51,35,449,"JENKINS, CHARLES",P005014   ,Foul (5),CM,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,24,05:51,35,450,"VESELY, JAN",P000925   ,Foul Drawn (3),RV,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,21,05:51,35,451,"ANDERSON, JAMES",P005938   ,In,IN,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,22,05:51,35,452,"JENKINS, CHARLES",P005014   ,Out,OUT,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,24,05:51,35,453,"VESELY, JAN",P000925   ,Free Throw In (2/3 -  10 pt),FTM,63.0,56.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,9,05:29,35,454,"MARKOVIC, STEFAN",PLME      ,Two Pointer (1/2 -  8 pt),2FGM,63.0,58.0,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,70,05:13,35,455,"DATOME, LUIGI",PCCD      ,Missed Three Pointer (2/5 -  14 pt),3FGA,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,19,05:10,35,456,"TODOROVIC, MARKO",P001612   ,Def Rebound (1),D,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,21,04:50,36,458,"ANDERSON, JAMES",P005938   ,Missed Two Pointer (3/8 -  13 pt),2FGA,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,70,04:49,36,459,"DATOME, LUIGI",PCCD      ,Foul (2),CM,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,13,04:49,36,460,"GILL, ANTHONY",P008001   ,Foul Drawn (4),RV,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,,04:49,36,461,,          ,Off Rebound (6),O,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,1,04:40,36,462,"SHVED, ALEXEY",PKVZ      ,Two Pointer (2/5 -  21 pt),2FGM,63.0,60.0,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,9,04:40,36,463,"MARKOVIC, STEFAN",PLME      ,Foul (2),CM,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,11,04:40,36,464,"WANAMAKER, BRAD",P005838   ,Foul Drawn (4),RV,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,,04:40,36,465,,          ,Time Out (1),TOUT,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,11,04:40,36,466,"WANAMAKER, BRAD",P005838   ,Missed Free Throw (2/4 -  12 pt),FTA,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,11,04:40,36,467,"WANAMAKER, BRAD",P005838   ,Free Throw In (3/5 -  13 pt),FTM,64.0,60.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,19,03:58,37,469,"TODOROVIC, MARKO",P001612   ,Two Pointer (2/2 -  4 pt),2FGM,64.0,62.0,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,21,03:55,37,470,"ANDERSON, JAMES",P005938   ,Assist (1),AS,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,19,03:35,37,471,"TODOROVIC, MARKO",P001612   ,Foul (2),CM,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,21,03:35,37,472,"NUNNALLY, JAMES",P007400   ,Foul Drawn (4),RV,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,21,03:35,37,473,"NUNNALLY, JAMES",P007400   ,Free Throw In (5/6 -  19 pt),FTM,65.0,62.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,21,03:35,37,474,"NUNNALLY, JAMES",P007400   ,Free Throw In (6/7 -  20 pt),FTM,66.0,62.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,1,03:16,37,475,"SHVED, ALEXEY",PKVZ      ,Missed Three Pointer (3/8 -  21 pt),3FGA,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,,03:13,37,476,,          ,Def Rebound (7),D,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,21,02:53,38,478,"NUNNALLY, JAMES",P007400   ,Turnover (2),TO,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,1,02:51,38,479,"SHVED, ALEXEY",PKVZ      ,Steal (2),ST,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,9,02:46,38,480,"MARKOVIC, STEFAN",PLME      ,Three Pointer (3/5 -  11 pt),3FGM,66.0,65.0,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,1,02:45,38,481,"SHVED, ALEXEY",PKVZ      ,Assist (5),AS,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,11,02:32,38,482,"WANAMAKER, BRAD",P005838   ,Missed Two Pointer (2/8 -  13 pt),2FGA,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,21,02:27,38,483,"ANDERSON, JAMES",P005938   ,Def Rebound (2),D,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,21,02:22,38,484,"ANDERSON, JAMES",P005938   ,Missed Three Pointer (2/7 -  13 pt),3FGA,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,70,02:21,38,485,"DATOME, LUIGI",PCCD      ,Def Rebound (7),D,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,21,02:01,38,486,"ANDERSON, JAMES",P005938   ,Foul (4),CM,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,11,02:01,38,487,"WANAMAKER, BRAD",P005838   ,Foul Drawn (5),RV,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,11,01:57,39,489,"WANAMAKER, BRAD",P005838   ,Missed Free Throw (3/6 -  13 pt),FTA,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,11,01:57,39,490,"WANAMAKER, BRAD",P005838   ,Missed Free Throw (3/7 -  13 pt),FTA,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,9,01:57,39,491,"MARKOVIC, STEFAN",PLME      ,Def Rebound (3),D,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,24,01:46,39,492,"VESELY, JAN",P000925   ,Foul (4),CM,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,9,01:46,39,493,"MARKOVIC, STEFAN",PLME      ,Foul Drawn (2),RV,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,1,01:40,39,494,"SHVED, ALEXEY",PKVZ      ,Missed Three Pointer (3/9 -  21 pt),3FGA,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,11,01:38,39,495,"WANAMAKER, BRAD",P005838   ,Def Rebound (2),D,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,24,01:29,39,496,"VESELY, JAN",P000925   ,Two Pointer (5/6 -  12 pt),2FGM,68.0,65.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,21,01:29,39,497,"NUNNALLY, JAMES",P007400   ,Assist (3),AS,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,13,01:07,39,498,"GILL, ANTHONY",P008001   ,Two Pointer (2/4 -  9 pt),2FGM,68.0,67.0,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,21,01:07,39,499,"ANDERSON, JAMES",P005938   ,Assist (2),AS,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,11,00:51,40,501,"WANAMAKER, BRAD",P005838   ,Missed Three Pointer (2/6 -  13 pt),3FGA,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,13,00:48,40,502,"GILL, ANTHONY",P008001   ,Def Rebound (1),D,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,,00:25,40,503,,          ,Turnover (2),TO,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,,00:25,40,504,,          ,Time Out (2),TOUT,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,1,00:25,40,505,"THOMPSON, JASON",P007998   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,4,00:25,40,506,"MELLI, NICOLO",P002849   ,In,IN,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,21,00:16,40,507,"ANDERSON, JAMES",P005938   ,Foul (5),CM,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,11,00:16,40,508,"WANAMAKER, BRAD",P005838   ,Foul Drawn (6),RV,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,6,00:16,40,509,"VIALTSEV, EGOR",PBGV      ,In,IN,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,21,00:16,40,510,"ANDERSON, JAMES",P005938   ,Out,OUT,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,11,00:16,40,511,"WANAMAKER, BRAD",P005838   ,Free Throw In (4/8 -  14 pt),FTM,69.0,67.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,11,00:16,40,512,"WANAMAKER, BRAD",P005838   ,Free Throw In (5/9 -  15 pt),FTM,70.0,67.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,11,00:16,40,513,"WANAMAKER, BRAD",P005838   ,Free Throw In (6/10 -  16 pt),FTM,71.0,67.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,,00:16,40,514,,          ,Time Out (2),TOUT,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+KHI       ,,1,00:04,40,515,"SHVED, ALEXEY",PKVZ      ,Missed Three Pointer (3/10 -  21 pt),3FGA,,,Khimki Moscow Region,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+ULK       ,,11,00:03,40,516,"WANAMAKER, BRAD",P005838   ,Def Rebound (3),D,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI
+          ,,,,41,519,,          ,End Game,EG,,,,0,Fenerbahce Dogus Istanbul,ULK,Khimki Moscow Region,KHI

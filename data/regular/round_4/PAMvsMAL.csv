@@ -1,446 +1,446 @@
-CODETEAM,COMMENT,DORSAL,MARKERTIME,MINUTE,NUMBEROFPLAY,PLAYER,PLAYER_ID,PLAYINFO,PLAYTYPE,POINTS_A,POINTS_B,TEAM,TYPE
-          ,,,,1,12,,          ,Begin Period,BP,,,,0
-PAM       ,,14,09:43,1,13,"DUBLJEVIC, BOJAN",P002742   ,Foul (1),CM,,,Valencia Basket,0
-MAL       ,,44,09:43,1,14,"MUSLI, DEJAN",PLUR      ,Foul Drawn (1),RV,,,Unicaja Malaga,0
-MAL       ,,3,09:37,1,15,"MCCALLUM, RAY",P008002   ,Turnover (1),TO,,,Unicaja Malaga,0
-PAM       ,,42,09:35,1,16,"DOORNEKAMP, AARON",P002763   ,Steal (1),ST,,,Valencia Basket,0
-PAM       ,,14,09:23,1,17,"DUBLJEVIC, BOJAN",P002742   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Valencia Basket,0
-PAM       ,,14,09:23,1,18,"DUBLJEVIC, BOJAN",P002742   ,Shot Rejected (1),AG,,,Valencia Basket,0
-MAL       ,,44,09:18,1,19,"MUSLI, DEJAN",PLUR      ,Block (1),FV,,,Unicaja Malaga,0
-MAL       ,,3,09:14,1,20,"MCCALLUM, RAY",P008002   ,Def Rebound (1),D,,,Unicaja Malaga,0
-MAL       ,,3,09:12,1,21,"MCCALLUM, RAY",P008002   ,Two Pointer (1/1 -  2 pt),2FGM,,2.0,Unicaja Malaga,0
-PAM       ,,32,09:04,1,22,"GREEN, ERICK",P005159   ,Two Pointer (1/1 -  2 pt),2FGM,2.0,2.0,Valencia Basket,0
-PAM       ,,16,09:02,1,23,"VIVES, GUILLEM",P002361   ,Assist (1),AS,,,Valencia Basket,0
-PAM       ,,16,08:50,2,25,"VIVES, GUILLEM",P002361   ,Foul (1),CM,,,Valencia Basket,0
-MAL       ,,10,08:50,2,26,"SALIN, SASU",P002820   ,Foul Drawn (1),RV,,,Unicaja Malaga,0
-MAL       ,,3,08:36,2,27,"MCCALLUM, RAY",P008002   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,Unicaja Malaga,0
-PAM       ,,42,08:33,2,28,"DOORNEKAMP, AARON",P002763   ,Def Rebound (1),D,,,Valencia Basket,0
-PAM       ,,32,08:28,2,29,"GREEN, ERICK",P005159   ,Two Pointer (2/2 -  4 pt),2FGM,4.0,2.0,Valencia Basket,0
-PAM       ,,42,08:26,2,30,"DOORNEKAMP, AARON",P002763   ,Assist (1),AS,,,Valencia Basket,0
-MAL       ,,10,08:11,2,31,"SALIN, SASU",P002820   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Unicaja Malaga,0
-PAM       ,,0,08:09,2,32,"THOMAS, WILL",P005856   ,Def Rebound (1),D,,,Valencia Basket,0
-PAM       ,,32,07:57,3,34,"GREEN, ERICK",P005159   ,Missed Two Pointer (2/3 -  4 pt),2FGA,,,Valencia Basket,0
-MAL       ,,3,07:54,3,35,"MCCALLUM, RAY",P008002   ,Def Rebound (2),D,,,Unicaja Malaga,0
-MAL       ,,3,07:38,3,36,"MCCALLUM, RAY",P008002   ,Two Pointer (2/3 -  4 pt),2FGM,4.0,4.0,Unicaja Malaga,0
-PAM       ,,42,07:19,3,37,"DOORNEKAMP, AARON",P002763   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Valencia Basket,0
-PAM       ,,16,07:16,3,38,"VIVES, GUILLEM",P002361   ,Off Rebound (1),O,,,Valencia Basket,0
-PAM       ,,42,07:07,3,39,"DOORNEKAMP, AARON",P002763   ,Three Pointer (1/1 -  3 pt),3FGM,7.0,4.0,Valencia Basket,0
-PAM       ,,32,07:05,3,40,"GREEN, ERICK",P005159   ,Assist (1),AS,,,Valencia Basket,0
-MAL       ,,10,06:39,4,42,"SALIN, SASU",P002820   ,Three Pointer (1/1 -  3 pt),3FGM,7.0,7.0,Unicaja Malaga,0
-MAL       ,,23,06:37,4,43,"BROOKS, JEFF",P004117   ,Assist (1),AS,,,Unicaja Malaga,0
-PAM       ,,14,06:20,4,44,"DUBLJEVIC, BOJAN",P002742   ,Three Pointer (1/1 -  3 pt),3FGM,10.0,7.0,Valencia Basket,0
-PAM       ,,32,06:18,4,45,"GREEN, ERICK",P005159   ,Assist (2),AS,,,Valencia Basket,0
-PAM       ,,16,06:03,4,46,"VIVES, GUILLEM",P002361   ,Foul (2),CM,,,Valencia Basket,0
-MAL       ,,10,06:03,4,47,"SALIN, SASU",P002820   ,Foul Drawn (2),RV,,,Unicaja Malaga,0
-PAM       ,,9,06:03,4,48,"VAN ROSSOM, SAM",PLRQ      ,In,IN,,,Valencia Basket,0
-PAM       ,,16,06:03,4,49,"VIVES, GUILLEM",P002361   ,Out,OUT,,,Valencia Basket,0
-MAL       ,,21,05:49,5,51,"WACZYNSKI, ADAM",PLDX      ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Unicaja Malaga,0
-PAM       ,,9,05:46,5,52,"VAN ROSSOM, SAM",PLRQ      ,Def Rebound (1),D,,,Valencia Basket,0
-PAM       ,,32,05:32,5,53,"GREEN, ERICK",P005159   ,Two Pointer (3/4 -  6 pt),2FGM,12.0,7.0,Valencia Basket,0
-MAL       ,,23,05:06,5,54,"BROOKS, JEFF",P004117   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Unicaja Malaga,0
-PAM       ,,14,05:03,5,55,"DUBLJEVIC, BOJAN",P002742   ,Def Rebound (1),D,,,Valencia Basket,0
-PAM       ,,32,04:46,6,57,"GREEN, ERICK",P005159   ,Two Pointer (4/5 -  8 pt),2FGM,14.0,7.0,Valencia Basket,0
-MAL       ,,44,04:21,6,58,"MUSLI, DEJAN",PLUR      ,Two Pointer (1/1 -  2 pt),2FGM,14.0,9.0,Unicaja Malaga,0
-PAM       ,,14,04:01,6,59,"DUBLJEVIC, BOJAN",P002742   ,Three Pointer (2/2 -  6 pt),3FGM,17.0,9.0,Valencia Basket,0
-PAM       ,,32,04:00,6,60,"GREEN, ERICK",P005159   ,Assist (3),AS,,,Valencia Basket,0
-MAL       ,,,04:00,6,61,,          ,Time Out (1),TOUT,,,Unicaja Malaga,0
-PAM       ,,14,04:00,6,62,"DUBLJEVIC, BOJAN",P002742   ,Out,OUT,,,Valencia Basket,0
-PAM       ,,17,04:00,6,63,"MARTINEZ, RAFA",P001351   ,In,IN,,,Valencia Basket,0
-PAM       ,,21,04:00,6,64,"PLEISS, TIBOR",PLHK      ,In,IN,,,Valencia Basket,0
-PAM       ,,32,04:00,6,65,"GREEN, ERICK",P005159   ,Out,OUT,,,Valencia Basket,0
-PAM       ,,17,03:49,7,67,"MARTINEZ, RAFA",P001351   ,Foul (1),CM,,,Valencia Basket,0
-MAL       ,,10,03:49,7,68,"SALIN, SASU",P002820   ,Foul Drawn (3),RV,,,Unicaja Malaga,0
-MAL       ,,44,03:39,7,69,"MUSLI, DEJAN",PLUR      ,Turnover (1),TO,,,Unicaja Malaga,0
-MAL       ,,44,03:18,7,70,"MUSLI, DEJAN",PLUR      ,Foul (1),CM,,,Unicaja Malaga,0
-PAM       ,,21,03:18,7,71,"PLEISS, TIBOR",PLHK      ,Foul Drawn (1),RV,,,Valencia Basket,0
-MAL       ,,3,03:18,7,72,"MCCALLUM, RAY",P008002   ,Out,OUT,,,Unicaja Malaga,0
-MAL       ,,9,03:18,7,73,"DIAZ, ALBERTO",P004213   ,In,IN,,,Unicaja Malaga,0
-MAL       ,,17,03:18,7,74,"SHERMADINI, GIORGI",P001386   ,In,IN,,,Unicaja Malaga,0
-MAL       ,,44,03:18,7,75,"MUSLI, DEJAN",PLUR      ,Out,OUT,,,Unicaja Malaga,0
-PAM       ,,0,03:11,7,76,"THOMAS, WILL",P005856   ,Two Pointer (1/1 -  2 pt),2FGM,19.0,9.0,Valencia Basket,0
-PAM       ,,42,03:08,7,77,"DOORNEKAMP, AARON",P002763   ,Assist (2),AS,,,Valencia Basket,0
-MAL       ,,21,02:55,8,79,"WACZYNSKI, ADAM",PLDX      ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Unicaja Malaga,0
-PAM       ,,21,02:54,8,80,"PLEISS, TIBOR",PLHK      ,Def Rebound (1),D,,,Valencia Basket,0
-PAM       ,,9,02:47,8,81,"VAN ROSSOM, SAM",PLRQ      ,Two Pointer (1/1 -  2 pt),2FGM,21.0,9.0,Valencia Basket,0
-MAL       ,,23,02:35,8,82,"BROOKS, JEFF",P004117   ,Offensive Foul (1),OF,,,Unicaja Malaga,0
-MAL       ,,23,02:35,8,83,"BROOKS, JEFF",P004117   ,Turnover (1),TO,,,Unicaja Malaga,0
-PAM       ,,17,02:35,8,84,"MARTINEZ, RAFA",P001351   ,Foul Drawn (1),RV,,,Valencia Basket,0
-PAM       ,,6,02:35,8,85,"ABALDE, ALBERTO",P003733   ,In,IN,,,Valencia Basket,0
-PAM       ,,42,02:35,8,86,"DOORNEKAMP, AARON",P002763   ,Out,OUT,,,Valencia Basket,0
-MAL       ,,12,02:35,8,87,"MILOSAVLJEVIC, DRAGAN",P002822   ,In,IN,,,Unicaja Malaga,0
-MAL       ,,21,02:35,8,88,"WACZYNSKI, ADAM",PLDX      ,Out,OUT,,,Unicaja Malaga,0
-PAM       ,,17,02:17,8,89,"MARTINEZ, RAFA",P001351   ,Two Pointer (1/1 -  2 pt),2FGM,23.0,9.0,Valencia Basket,0
-PAM       ,,21,02:15,8,90,"PLEISS, TIBOR",PLHK      ,Assist (1),AS,,,Valencia Basket,0
-MAL       ,,,01:51,9,92,,          ,Turnover (1),TO,,,Unicaja Malaga,0
-MAL       ,,6,01:51,9,93,"SOLUADE, MO",P004479   ,In,IN,,,Unicaja Malaga,0
-MAL       ,,10,01:51,9,94,"SALIN, SASU",P002820   ,Out,OUT,,,Unicaja Malaga,0
-MAL       ,,9,01:43,9,95,"DIAZ, ALBERTO",P004213   ,Foul (1),CM,,,Unicaja Malaga,0
-PAM       ,,9,01:43,9,96,"VAN ROSSOM, SAM",PLRQ      ,Foul Drawn (1),RV,,,Valencia Basket,0
-PAM       ,,9,01:43,9,97,"VAN ROSSOM, SAM",PLRQ      ,Free Throw In (1/1 -  3 pt),FTM,24.0,9.0,Valencia Basket,0
-PAM       ,,9,01:43,9,98,"VAN ROSSOM, SAM",PLRQ      ,Free Throw In (2/2 -  4 pt),FTM,25.0,9.0,Valencia Basket,0
-MAL       ,,12,01:20,9,99,"MILOSAVLJEVIC, DRAGAN",P002822   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Unicaja Malaga,0
-PAM       ,,0,01:18,9,100,"THOMAS, WILL",P005856   ,Def Rebound (2),D,,,Valencia Basket,0
-PAM       ,,21,01:04,9,101,"PLEISS, TIBOR",PLHK      ,Two Pointer (1/1 -  2 pt),2FGM,27.0,9.0,Valencia Basket,0
-MAL       ,,17,01:04,9,102,"SHERMADINI, GIORGI",P001386   ,Foul (1),CM,,,Unicaja Malaga,0
-PAM       ,,21,01:04,9,103,"PLEISS, TIBOR",PLHK      ,Foul Drawn (2),RV,,,Valencia Basket,0
-PAM       ,,21,01:04,9,104,"PLEISS, TIBOR",PLHK      ,Free Throw In (1/1 -  3 pt),FTM,28.0,9.0,Valencia Basket,0
-MAL       ,,23,00:39,10,106,"BROOKS, JEFF",P004117   ,Two Pointer (1/2 -  2 pt),2FGM,28.0,11.0,Unicaja Malaga,0
-PAM       ,,17,00:16,10,107,"MARTINEZ, RAFA",P001351   ,Three Pointer (1/1 -  5 pt),3FGM,31.0,11.0,Valencia Basket,0
-PAM       ,,21,00:13,10,108,"PLEISS, TIBOR",PLHK      ,Assist (2),AS,,,Valencia Basket,0
-MAL       ,,12,00:01,10,109,"MILOSAVLJEVIC, DRAGAN",P002822   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Unicaja Malaga,0
-MAL       ,,12,00:01,10,110,"MILOSAVLJEVIC, DRAGAN",P002822   ,Shot Rejected (1),AG,,,Unicaja Malaga,0
-PAM       ,,21,00:01,10,111,"PLEISS, TIBOR",PLHK      ,Block (1),FV,,,Valencia Basket,0
-PAM       ,,0,00:01,10,112,"THOMAS, WILL",P005856   ,Def Rebound (3),D,,,Valencia Basket,0
-          ,,,,11,114,,          ,End Period,EP,,,,0
-          ,,,,11,117,,          ,Begin Period,BP,,,,0
-MAL       ,,23,10:00,11,115,"BROOKS, JEFF",P004117   ,Out,OUT,,,Unicaja Malaga,0
-MAL       ,,43,10:00,11,116,"SUAREZ, CARLOS",PJJS      ,In,IN,,,Unicaja Malaga,0
-MAL       ,,43,09:51,11,118,"SUAREZ, CARLOS",PJJS      ,Foul (1),CM,,,Unicaja Malaga,0
-PAM       ,,0,09:51,11,119,"THOMAS, WILL",P005856   ,Foul Drawn (1),RV,,,Valencia Basket,0
-PAM       ,,17,09:38,11,120,"MARTINEZ, RAFA",P001351   ,Three Pointer (2/2 -  8 pt),3FGM,34.0,11.0,Valencia Basket,0
-PAM       ,,9,09:36,11,121,"VAN ROSSOM, SAM",PLRQ      ,Assist (1),AS,,,Valencia Basket,0
-PAM       ,,17,09:20,11,122,"MARTINEZ, RAFA",P001351   ,Foul (2),CM,,,Valencia Basket,0
-MAL       ,,6,09:20,11,123,"SOLUADE, MO",P004479   ,Foul Drawn (1),RV,,,Unicaja Malaga,0
-PAM       ,,9,09:20,11,124,"VAN ROSSOM, SAM",PLRQ      ,Out,OUT,,,Valencia Basket,0
-PAM       ,,16,09:20,11,125,"VIVES, GUILLEM",P002361   ,In,IN,,,Valencia Basket,0
-PAM       ,,17,09:20,11,126,"MARTINEZ, RAFA",P001351   ,Out,OUT,,,Valencia Basket,0
-PAM       ,,32,09:20,11,127,"GREEN, ERICK",P005159   ,In,IN,,,Valencia Basket,0
-MAL       ,,12,09:13,11,128,"MILOSAVLJEVIC, DRAGAN",P002822   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Unicaja Malaga,0
-PAM       ,,21,09:11,11,129,"PLEISS, TIBOR",PLHK      ,Def Rebound (2),D,,,Valencia Basket,0
-PAM       ,,16,09:01,11,130,"VIVES, GUILLEM",P002361   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Valencia Basket,0
-MAL       ,,43,08:58,12,132,"SUAREZ, CARLOS",PJJS      ,Def Rebound (1),D,,,Unicaja Malaga,0
-MAL       ,,12,08:47,12,133,"MILOSAVLJEVIC, DRAGAN",P002822   ,Turnover (1),TO,,,Unicaja Malaga,0
-PAM       ,,0,08:46,12,134,"THOMAS, WILL",P005856   ,Steal (1),ST,,,Valencia Basket,0
-PAM       ,,32,08:41,12,135,"GREEN, ERICK",P005159   ,Two Pointer (5/6 -  10 pt),2FGM,36.0,11.0,Valencia Basket,0
-PAM       ,,21,08:28,12,136,"PLEISS, TIBOR",PLHK      ,Foul (1),CM,,,Valencia Basket,0
-MAL       ,,17,08:28,12,137,"SHERMADINI, GIORGI",P001386   ,Foul Drawn (1),RV,,,Unicaja Malaga,0
-PAM       ,,0,08:28,12,138,"THOMAS, WILL",P005856   ,Out,OUT,,,Valencia Basket,0
-PAM       ,,14,08:28,12,139,"DUBLJEVIC, BOJAN",P002742   ,In,IN,,,Valencia Basket,0
-PAM       ,,21,08:28,12,140,"PLEISS, TIBOR",PLHK      ,Out,OUT,,,Valencia Basket,0
-PAM       ,,42,08:28,12,141,"DOORNEKAMP, AARON",P002763   ,In,IN,,,Valencia Basket,0
-MAL       ,,6,08:28,12,142,"SOLUADE, MO",P004479   ,Out,OUT,,,Unicaja Malaga,0
-MAL       ,,11,08:28,12,143,"DIEZ, DANIEL",P003198   ,In,IN,,,Unicaja Malaga,0
-MAL       ,,17,08:28,12,144,"SHERMADINI, GIORGI",P001386   ,Missed Free Throw (0/1 -  0 pt),FTA,,,Unicaja Malaga,0
-MAL       ,,17,08:28,12,145,"SHERMADINI, GIORGI",P001386   ,Missed Free Throw (0/2 -  0 pt),FTA,,,Unicaja Malaga,0
-PAM       ,,6,08:28,12,146,"ABALDE, ALBERTO",P003733   ,Def Rebound (1),D,,,Valencia Basket,0
-MAL       ,,9,08:08,12,147,"DIAZ, ALBERTO",P004213   ,Foul (2),CM,,,Unicaja Malaga,0
-PAM       ,,14,08:08,12,148,"DUBLJEVIC, BOJAN",P002742   ,Foul Drawn (1),RV,,,Valencia Basket,0
-MAL       ,,3,08:08,12,149,"MCCALLUM, RAY",P008002   ,In,IN,,,Unicaja Malaga,0
-MAL       ,,9,08:08,12,150,"DIAZ, ALBERTO",P004213   ,Out,OUT,,,Unicaja Malaga,0
-MAL       ,,12,08:04,12,151,"MILOSAVLJEVIC, DRAGAN",P002822   ,Foul (1),CM,,,Unicaja Malaga,0
-PAM       ,,14,08:04,12,152,"DUBLJEVIC, BOJAN",P002742   ,Foul Drawn (2),RV,,,Valencia Basket,0
-PAM       ,,14,07:56,13,154,"DUBLJEVIC, BOJAN",P002742   ,Missed Three Pointer (2/3 -  6 pt),3FGA,,,Valencia Basket,0
-MAL       ,,,07:56,13,155,,          ,Def Rebound (1),D,,,Unicaja Malaga,0
-PAM       ,,42,07:56,13,156,"DOORNEKAMP, AARON",P002763   ,Foul (1),CM,,,Valencia Basket,0
-MAL       ,,43,07:56,13,157,"SUAREZ, CARLOS",PJJS      ,Foul Drawn (1),RV,,,Unicaja Malaga,0
-MAL       ,,17,07:41,13,158,"SHERMADINI, GIORGI",P001386   ,Two Pointer (1/1 -  2 pt),2FGM,36.0,13.0,Unicaja Malaga,0
-MAL       ,,43,07:38,13,159,"SUAREZ, CARLOS",PJJS      ,Assist (1),AS,,,Unicaja Malaga,0
-PAM       ,,14,07:23,13,160,"DUBLJEVIC, BOJAN",P002742   ,Missed Two Pointer (0/2 -  6 pt),2FGA,,,Valencia Basket,0
-MAL       ,,43,07:21,13,161,"SUAREZ, CARLOS",PJJS      ,Def Rebound (2),D,,,Unicaja Malaga,0
-MAL       ,,12,07:19,13,162,"MILOSAVLJEVIC, DRAGAN",P002822   ,Turnover (2),TO,,,Unicaja Malaga,0
-PAM       ,,32,06:54,14,164,"GREEN, ERICK",P005159   ,Two Pointer (6/7 -  12 pt),2FGM,38.0,13.0,Valencia Basket,0
-MAL       ,,3,06:51,14,165,"MCCALLUM, RAY",P008002   ,Turnover (2),TO,,,Unicaja Malaga,0
-PAM       ,,6,06:38,14,166,"ABALDE, ALBERTO",P003733   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Valencia Basket,0
-MAL       ,,17,06:36,14,167,"SHERMADINI, GIORGI",P001386   ,Def Rebound (1),D,,,Unicaja Malaga,0
-MAL       ,,17,06:25,14,168,"SHERMADINI, GIORGI",P001386   ,Offensive Foul (2),OF,,,Unicaja Malaga,0
-MAL       ,,17,06:25,14,169,"SHERMADINI, GIORGI",P001386   ,Turnover (1),TO,,,Unicaja Malaga,0
-PAM       ,,14,06:25,14,170,"DUBLJEVIC, BOJAN",P002742   ,Foul Drawn (3),RV,,,Valencia Basket,0
-PAM       ,,32,06:10,14,171,"GREEN, ERICK",P005159   ,Turnover (1),TO,,,Valencia Basket,0
-MAL       ,,12,05:37,15,173,"MILOSAVLJEVIC, DRAGAN",P002822   ,Two Pointer (1/3 -  2 pt),2FGM,38.0,15.0,Unicaja Malaga,0
-PAM       ,,6,05:17,15,174,"ABALDE, ALBERTO",P003733   ,Two Pointer (1/2 -  2 pt),2FGM,40.0,15.0,Valencia Basket,0
-PAM       ,,14,05:14,15,175,"DUBLJEVIC, BOJAN",P002742   ,Assist (1),AS,,,Valencia Basket,0
-PAM       ,,14,05:06,15,176,"DUBLJEVIC, BOJAN",P002742   ,Foul (2),CM,,,Valencia Basket,0
-MAL       ,,17,05:06,15,177,"SHERMADINI, GIORGI",P001386   ,Foul Drawn (2),RV,,,Unicaja Malaga,0
-PAM       ,,9,05:06,15,178,"VAN ROSSOM, SAM",PLRQ      ,In,IN,,,Valencia Basket,0
-PAM       ,,14,05:06,15,179,"DUBLJEVIC, BOJAN",P002742   ,Out,OUT,,,Valencia Basket,0
-PAM       ,,16,05:06,15,180,"VIVES, GUILLEM",P002361   ,Out,OUT,,,Valencia Basket,0
-PAM       ,,21,05:06,15,181,"PLEISS, TIBOR",PLHK      ,In,IN,,,Valencia Basket,0
-MAL       ,,12,04:57,16,183,"MILOSAVLJEVIC, DRAGAN",P002822   ,Missed Two Pointer (1/4 -  2 pt),2FGA,,,Unicaja Malaga,0
-MAL       ,,12,04:57,16,184,"MILOSAVLJEVIC, DRAGAN",P002822   ,Shot Rejected (2),AG,,,Unicaja Malaga,0
-PAM       ,,21,04:53,16,185,"PLEISS, TIBOR",PLHK      ,Block (2),FV,,,Valencia Basket,0
-PAM       ,,42,04:49,16,186,"DOORNEKAMP, AARON",P002763   ,Def Rebound (2),D,,,Valencia Basket,0
-PAM       ,,6,04:46,16,187,"ABALDE, ALBERTO",P003733   ,Three Pointer (1/1 -  5 pt),3FGM,43.0,15.0,Valencia Basket,0
-PAM       ,,9,04:44,16,188,"VAN ROSSOM, SAM",PLRQ      ,Assist (2),AS,,,Valencia Basket,0
-MAL       ,,3,04:23,16,189,"MCCALLUM, RAY",P008002   ,Missed Three Pointer (0/1 -  4 pt),3FGA,,,Unicaja Malaga,0
-MAL       ,,17,04:21,16,190,"SHERMADINI, GIORGI",P001386   ,Off Rebound (1),O,,,Unicaja Malaga,0
-MAL       ,,11,04:06,16,191,"DIEZ, DANIEL",P003198   ,Two Pointer (1/1 -  2 pt),2FGM,43.0,17.0,Unicaja Malaga,0
-MAL       ,,43,04:05,16,192,"SUAREZ, CARLOS",PJJS      ,Assist (2),AS,,,Unicaja Malaga,0
-PAM       ,,32,03:51,17,194,"GREEN, ERICK",P005159   ,Three Pointer (1/1 -  15 pt),3FGM,46.0,17.0,Valencia Basket,0
-PAM       ,,9,03:48,17,195,"VAN ROSSOM, SAM",PLRQ      ,Assist (3),AS,,,Valencia Basket,0
-MAL       ,,12,03:48,17,196,"MILOSAVLJEVIC, DRAGAN",P002822   ,Missed Two Pointer (1/5 -  2 pt),2FGA,,,Unicaja Malaga,0
-MAL       ,,,03:34,17,197,,          ,Off Rebound (1),O,,,Unicaja Malaga,0
-MAL       ,,,03:34,17,198,,          ,Time Out (1),TOUT,,,Unicaja Malaga,0
-PAM       ,,0,03:34,17,199,"THOMAS, WILL",P005856   ,In,IN,,,Valencia Basket,0
-PAM       ,,42,03:34,17,200,"DOORNEKAMP, AARON",P002763   ,Out,OUT,,,Valencia Basket,0
-MAL       ,,10,03:34,17,201,"SALIN, SASU",P002820   ,In,IN,,,Unicaja Malaga,0
-MAL       ,,12,03:34,17,202,"MILOSAVLJEVIC, DRAGAN",P002822   ,Out,OUT,,,Unicaja Malaga,0
-MAL       ,,17,03:34,17,203,"SHERMADINI, GIORGI",P001386   ,Out,OUT,,,Unicaja Malaga,0
-MAL       ,,23,03:34,17,204,"BROOKS, JEFF",P004117   ,In,IN,,,Unicaja Malaga,0
-MAL       ,,3,03:21,17,205,"MCCALLUM, RAY",P008002   ,Two Pointer (3/4 -  6 pt),2FGM,46.0,19.0,Unicaja Malaga,0
-PAM       ,,6,02:56,18,207,"ABALDE, ALBERTO",P003733   ,Two Pointer (2/3 -  7 pt),2FGM,48.0,19.0,Valencia Basket,0
-MAL       ,,3,02:42,18,208,"MCCALLUM, RAY",P008002   ,Missed Two Pointer (3/5 -  6 pt),2FGA,,,Unicaja Malaga,0
-PAM       ,,9,02:40,18,209,"VAN ROSSOM, SAM",PLRQ      ,Def Rebound (2),D,,,Valencia Basket,0
-MAL       ,,10,02:37,18,210,"SALIN, SASU",P002820   ,Foul (1),CM,,,Unicaja Malaga,0
-PAM       ,,32,02:37,18,211,"GREEN, ERICK",P005159   ,Foul Drawn (1),RV,,,Valencia Basket,0
-PAM       ,,32,02:37,18,212,"GREEN, ERICK",P005159   ,Free Throw In (1/1 -  16 pt),FTM,49.0,19.0,Valencia Basket,0
-PAM       ,,32,02:37,18,213,"GREEN, ERICK",P005159   ,Free Throw In (2/2 -  17 pt),FTM,50.0,19.0,Valencia Basket,0
-MAL       ,,11,02:19,18,214,"DIEZ, DANIEL",P003198   ,Two Pointer (2/2 -  4 pt),2FGM,50.0,21.0,Unicaja Malaga,0
-PAM       ,,32,02:02,18,215,"GREEN, ERICK",P005159   ,Two Pointer (7/8 -  19 pt),2FGM,52.0,21.0,Valencia Basket,0
-MAL       ,,43,01:42,19,217,"SUAREZ, CARLOS",PJJS      ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Unicaja Malaga,0
-PAM       ,,21,01:38,19,218,"PLEISS, TIBOR",PLHK      ,Def Rebound (3),D,,,Valencia Basket,0
-PAM       ,,6,01:35,19,219,"ABALDE, ALBERTO",P003733   ,Three Pointer (2/2 -  10 pt),3FGM,55.0,21.0,Valencia Basket,0
-PAM       ,,32,01:33,19,220,"GREEN, ERICK",P005159   ,Assist (4),AS,,,Valencia Basket,0
-MAL       ,,11,01:29,19,221,"DIEZ, DANIEL",P003198   ,Missed Two Pointer (2/3 -  4 pt),2FGA,,,Unicaja Malaga,0
-MAL       ,,11,01:29,19,222,"DIEZ, DANIEL",P003198   ,Shot Rejected (1),AG,,,Unicaja Malaga,0
-PAM       ,,21,01:26,19,223,"PLEISS, TIBOR",PLHK      ,Block (3),FV,,,Valencia Basket,0
-PAM       ,,21,01:25,19,224,"PLEISS, TIBOR",PLHK      ,Def Rebound (4),D,,,Valencia Basket,0
-PAM       ,,0,01:16,19,225,"THOMAS, WILL",P005856   ,Two Pointer (2/2 -  4 pt),2FGM,57.0,21.0,Valencia Basket,0
-MAL       ,,11,01:01,19,226,"DIEZ, DANIEL",P003198   ,Two Pointer (3/4 -  6 pt),2FGM,57.0,23.0,Unicaja Malaga,0
-MAL       ,,10,01:00,19,227,"SALIN, SASU",P002820   ,Assist (1),AS,,,Unicaja Malaga,0
-PAM       ,,9,00:37,20,229,"VAN ROSSOM, SAM",PLRQ      ,Missed Three Pointer (0/1 -  4 pt),3FGA,,,Valencia Basket,0
-PAM       ,,21,00:34,20,230,"PLEISS, TIBOR",PLHK      ,Off Rebound (1),O,,,Valencia Basket,0
-PAM       ,,21,00:33,20,231,"PLEISS, TIBOR",PLHK      ,Turnover (1),TO,,,Valencia Basket,0
-MAL       ,,23,00:32,20,232,"BROOKS, JEFF",P004117   ,Steal (1),ST,,,Unicaja Malaga,0
-MAL       ,,23,00:21,20,233,"BROOKS, JEFF",P004117   ,Two Pointer (2/3 -  4 pt),2FGM,57.0,25.0,Unicaja Malaga,0
-PAM       ,,,00:20,20,234,,          ,Time Out (1),TOUT,,,Valencia Basket,0
-PAM       ,,0,00:20,20,235,"THOMAS, WILL",P005856   ,Out,OUT,,,Valencia Basket,0
-PAM       ,,42,00:20,20,236,"DOORNEKAMP, AARON",P002763   ,In,IN,,,Valencia Basket,0
-PAM       ,,32,00:01,20,237,"GREEN, ERICK",P005159   ,Missed Two Pointer (7/9 -  19 pt),2FGA,,,Valencia Basket,0
-PAM       ,,32,00:01,20,238,"GREEN, ERICK",P005159   ,Shot Rejected (1),AG,,,Valencia Basket,0
-MAL       ,,23,00:01,20,239,"BROOKS, JEFF",P004117   ,Block (1),FV,,,Unicaja Malaga,0
-MAL       ,,23,00:01,20,240,"BROOKS, JEFF",P004117   ,Def Rebound (1),D,,,Unicaja Malaga,0
-          ,,,,21,242,,          ,End Period,EP,,,,0
-          ,,,,21,253,,          ,Begin Period,BP,,,,0
-PAM       ,,0,10:00,21,243,"THOMAS, WILL",P005856   ,In,IN,,,Valencia Basket,0
-PAM       ,,6,10:00,21,244,"ABALDE, ALBERTO",P003733   ,Out,OUT,,,Valencia Basket,0
-PAM       ,,14,10:00,21,245,"DUBLJEVIC, BOJAN",P002742   ,In,IN,,,Valencia Basket,0
-PAM       ,,17,10:00,21,246,"MARTINEZ, RAFA",P001351   ,In,IN,,,Valencia Basket,0
-PAM       ,,21,10:00,21,247,"PLEISS, TIBOR",PLHK      ,Out,OUT,,,Valencia Basket,0
-PAM       ,,32,10:00,21,248,"GREEN, ERICK",P005159   ,Out,OUT,,,Valencia Basket,0
-MAL       ,,11,10:00,21,249,"DIEZ, DANIEL",P003198   ,Out,OUT,,,Unicaja Malaga,0
-MAL       ,,21,10:00,21,250,"WACZYNSKI, ADAM",PLDX      ,In,IN,,,Unicaja Malaga,0
-MAL       ,,43,10:00,21,251,"SUAREZ, CARLOS",PJJS      ,Out,OUT,,,Unicaja Malaga,0
-MAL       ,,44,10:00,21,252,"MUSLI, DEJAN",PLUR      ,In,IN,,,Unicaja Malaga,0
-MAL       ,,10,09:41,21,254,"SALIN, SASU",P002820   ,Missed Two Pointer (0/2 -  3 pt),2FGA,,,Unicaja Malaga,0
-PAM       ,,14,09:39,21,255,"DUBLJEVIC, BOJAN",P002742   ,Def Rebound (2),D,,,Valencia Basket,0
-PAM       ,,0,09:29,21,256,"THOMAS, WILL",P005856   ,Two Pointer (3/3 -  6 pt),2FGM,59.0,25.0,Valencia Basket,0
-MAL       ,,21,09:06,21,257,"WACZYNSKI, ADAM",PLDX      ,Two Pointer (1/2 -  2 pt),2FGM,59.0,27.0,Unicaja Malaga,0
-PAM       ,,42,08:43,22,259,"DOORNEKAMP, AARON",P002763   ,Missed Three Pointer (1/2 -  3 pt),3FGA,,,Valencia Basket,0
-MAL       ,,10,08:40,22,260,"SALIN, SASU",P002820   ,Def Rebound (1),D,,,Unicaja Malaga,0
-MAL       ,,44,08:35,22,261,"MUSLI, DEJAN",PLUR      ,Turnover (2),TO,,,Unicaja Malaga,0
-PAM       ,,9,08:14,22,262,"VAN ROSSOM, SAM",PLRQ      ,Turnover (1),TO,,,Valencia Basket,0
-MAL       ,,21,08:12,22,263,"WACZYNSKI, ADAM",PLDX      ,Steal (1),ST,,,Unicaja Malaga,0
-MAL       ,,21,07:59,23,265,"WACZYNSKI, ADAM",PLDX      ,Missed Two Pointer (1/3 -  2 pt),2FGA,,,Unicaja Malaga,0
-MAL       ,,21,07:59,23,266,"WACZYNSKI, ADAM",PLDX      ,Shot Rejected (1),AG,,,Unicaja Malaga,0
-PAM       ,,14,07:59,23,267,"DUBLJEVIC, BOJAN",P002742   ,Block (1),FV,,,Valencia Basket,0
-MAL       ,,,07:59,23,268,,          ,Off Rebound (2),O,,,Unicaja Malaga,0
-MAL       ,,10,07:51,23,269,"SALIN, SASU",P002820   ,Three Pointer (2/2 -  6 pt),3FGM,59.0,30.0,Unicaja Malaga,0
-MAL       ,,3,07:48,23,270,"MCCALLUM, RAY",P008002   ,Assist (1),AS,,,Unicaja Malaga,0
-PAM       ,,17,07:32,23,271,"MARTINEZ, RAFA",P001351   ,Three Pointer (3/3 -  11 pt),3FGM,62.0,30.0,Valencia Basket,0
-PAM       ,,9,07:30,23,272,"VAN ROSSOM, SAM",PLRQ      ,Assist (4),AS,,,Valencia Basket,0
-MAL       ,,10,07:20,23,273,"SALIN, SASU",P002820   ,Turnover (1),TO,,,Unicaja Malaga,0
-MAL       ,,3,07:20,23,274,"MCCALLUM, RAY",P008002   ,Out,OUT,,,Unicaja Malaga,0
-MAL       ,,9,07:20,23,275,"DIAZ, ALBERTO",P004213   ,In,IN,,,Unicaja Malaga,0
-PAM       ,,14,07:04,23,276,"DUBLJEVIC, BOJAN",P002742   ,Two Pointer (1/3 -  8 pt),2FGM,64.0,30.0,Valencia Basket,0
-MAL       ,,21,07:04,23,277,"WACZYNSKI, ADAM",PLDX      ,Foul (1),CM,,,Unicaja Malaga,0
-PAM       ,,14,07:04,23,278,"DUBLJEVIC, BOJAN",P002742   ,Foul Drawn (4),RV,,,Valencia Basket,0
-PAM       ,,0,07:04,23,279,"THOMAS, WILL",P005856   ,Assist (1),AS,,,Valencia Basket,0
-PAM       ,,14,07:04,23,280,"DUBLJEVIC, BOJAN",P002742   ,Free Throw In (1/1 -  9 pt),FTM,65.0,30.0,Valencia Basket,0
-MAL       ,,44,06:39,24,282,"MUSLI, DEJAN",PLUR      ,Two Pointer (2/2 -  4 pt),2FGM,65.0,32.0,Unicaja Malaga,0
-MAL       ,,21,06:37,24,283,"WACZYNSKI, ADAM",PLDX      ,Assist (1),AS,,,Unicaja Malaga,0
-PAM       ,,9,06:18,24,284,"VAN ROSSOM, SAM",PLRQ      ,Missed Three Pointer (0/2 -  4 pt),3FGA,,,Valencia Basket,0
-PAM       ,,42,06:16,24,285,"DOORNEKAMP, AARON",P002763   ,Off Rebound (1),O,,,Valencia Basket,0
-PAM       ,,9,06:10,24,286,"VAN ROSSOM, SAM",PLRQ      ,Missed Three Pointer (0/3 -  4 pt),3FGA,,,Valencia Basket,0
-PAM       ,,14,06:06,24,287,"DUBLJEVIC, BOJAN",P002742   ,Off Rebound (1),O,,,Valencia Basket,0
-PAM       ,,9,05:58,25,289,"VAN ROSSOM, SAM",PLRQ      ,Turnover (2),TO,,,Valencia Basket,0
-MAL       ,,21,05:57,25,290,"WACZYNSKI, ADAM",PLDX      ,Steal (2),ST,,,Unicaja Malaga,0
-MAL       ,,21,05:57,25,291,"WACZYNSKI, ADAM",PLDX      ,Missed Two Pointer (1/4 -  2 pt),2FGA,,,Unicaja Malaga,0
-MAL       ,,9,05:38,25,292,"DIAZ, ALBERTO",P004213   ,Foul (3),CM,,,Unicaja Malaga,0
-PAM       ,,0,05:38,25,293,"THOMAS, WILL",P005856   ,Foul Drawn (2),RV,,,Valencia Basket,0
-PAM       ,,9,05:38,25,294,"VAN ROSSOM, SAM",PLRQ      ,Out,OUT,,,Valencia Basket,0
-PAM       ,,14,05:38,25,295,"DUBLJEVIC, BOJAN",P002742   ,Out,OUT,,,Valencia Basket,0
-PAM       ,,16,05:38,25,296,"VIVES, GUILLEM",P002361   ,In,IN,,,Valencia Basket,0
-PAM       ,,21,05:38,25,297,"PLEISS, TIBOR",PLHK      ,In,IN,,,Valencia Basket,0
-PAM       ,,17,05:28,25,298,"MARTINEZ, RAFA",P001351   ,Missed Three Pointer (3/4 -  11 pt),3FGA,,,Valencia Basket,0
-MAL       ,,23,05:26,25,299,"BROOKS, JEFF",P004117   ,Def Rebound (2),D,,,Unicaja Malaga,0
-MAL       ,,9,05:05,25,300,"DIAZ, ALBERTO",P004213   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Unicaja Malaga,0
-MAL       ,,44,05:05,25,301,"MUSLI, DEJAN",PLUR      ,Off Rebound (1),O,,,Unicaja Malaga,0
-PAM       ,,17,05:05,25,302,"MARTINEZ, RAFA",P001351   ,Foul (3),CM,,,Valencia Basket,0
-MAL       ,,44,05:05,25,303,"MUSLI, DEJAN",PLUR      ,Foul Drawn (2),RV,,,Unicaja Malaga,0
-PAM       ,,6,05:05,25,304,"ABALDE, ALBERTO",P003733   ,In,IN,,,Valencia Basket,0
-PAM       ,,17,05:05,25,305,"MARTINEZ, RAFA",P001351   ,Out,OUT,,,Valencia Basket,0
-PAM       ,,32,05:05,25,306,"GREEN, ERICK",P005159   ,In,IN,,,Valencia Basket,0
-PAM       ,,42,05:05,25,307,"DOORNEKAMP, AARON",P002763   ,Out,OUT,,,Valencia Basket,0
-MAL       ,,23,05:05,25,308,"BROOKS, JEFF",P004117   ,Out,OUT,,,Unicaja Malaga,0
-MAL       ,,43,05:05,25,309,"SUAREZ, CARLOS",PJJS      ,In,IN,,,Unicaja Malaga,0
-MAL       ,,10,04:56,26,311,"SALIN, SASU",P002820   ,Missed Three Pointer (2/3 -  6 pt),3FGA,,,Unicaja Malaga,0
-MAL       ,,9,04:54,26,312,"DIAZ, ALBERTO",P004213   ,Off Rebound (1),O,,,Unicaja Malaga,0
-MAL       ,,21,04:51,26,313,"WACZYNSKI, ADAM",PLDX      ,Three Pointer (1/2 -  5 pt),3FGM,65.0,35.0,Unicaja Malaga,0
-MAL       ,,9,04:50,26,314,"DIAZ, ALBERTO",P004213   ,Assist (1),AS,,,Unicaja Malaga,0
-MAL       ,,21,04:34,26,315,"WACZYNSKI, ADAM",PLDX      ,Foul (2),CM,,,Unicaja Malaga,0
-PAM       ,,6,04:34,26,316,"ABALDE, ALBERTO",P003733   ,Foul Drawn (1),RV,,,Valencia Basket,0
-          ,,,04:34,26,317,,          ,TV Time Out (1),TOUT_TV,,,,0
-PAM       ,,16,04:18,26,318,"VIVES, GUILLEM",P002361   ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,Valencia Basket,0
-MAL       ,,43,04:16,26,319,"SUAREZ, CARLOS",PJJS      ,Def Rebound (3),D,,,Unicaja Malaga,0
-MAL       ,,21,03:55,27,321,"WACZYNSKI, ADAM",PLDX      ,Three Pointer (2/3 -  8 pt),3FGM,65.0,38.0,Unicaja Malaga,0
-MAL       ,,44,03:53,27,322,"MUSLI, DEJAN",PLUR      ,Assist (1),AS,,,Unicaja Malaga,0
-PAM       ,,0,03:31,27,323,"THOMAS, WILL",P005856   ,Three Pointer (1/1 -  9 pt),3FGM,68.0,38.0,Valencia Basket,0
-PAM       ,,16,03:28,27,324,"VIVES, GUILLEM",P002361   ,Assist (2),AS,,,Valencia Basket,0
-MAL       ,,10,03:11,27,325,"SALIN, SASU",P002820   ,Missed Three Pointer (2/4 -  6 pt),3FGA,,,Unicaja Malaga,0
-MAL       ,,,03:11,27,326,,          ,Off Rebound (3),O,,,Unicaja Malaga,0
-PAM       ,,0,03:11,27,327,"THOMAS, WILL",P005856   ,Foul (1),CM,,,Valencia Basket,0
-MAL       ,,43,03:11,27,328,"SUAREZ, CARLOS",PJJS      ,Foul Drawn (2),RV,,,Unicaja Malaga,0
-MAL       ,,44,03:04,27,329,"MUSLI, DEJAN",PLUR      ,Missed Two Pointer (2/3 -  4 pt),2FGA,,,Unicaja Malaga,0
-PAM       ,,16,03:02,27,330,"VIVES, GUILLEM",P002361   ,Def Rebound (1),D,,,Valencia Basket,0
-PAM       ,,16,02:40,28,332,"VIVES, GUILLEM",P002361   ,Missed Three Pointer (0/3 -  0 pt),3FGA,,,Valencia Basket,0
-MAL       ,,21,02:38,28,333,"WACZYNSKI, ADAM",PLDX      ,Def Rebound (1),D,,,Unicaja Malaga,0
-PAM       ,,21,02:33,28,334,"PLEISS, TIBOR",PLHK      ,Foul (2),CM,,,Valencia Basket,0
-MAL       ,,44,02:33,28,335,"MUSLI, DEJAN",PLUR      ,Foul Drawn (3),RV,,,Unicaja Malaga,0
-PAM       ,,9,02:33,28,336,"VAN ROSSOM, SAM",PLRQ      ,In,IN,,,Valencia Basket,0
-PAM       ,,16,02:33,28,337,"VIVES, GUILLEM",P002361   ,Out,OUT,,,Valencia Basket,0
-MAL       ,,12,02:33,28,338,"MILOSAVLJEVIC, DRAGAN",P002822   ,In,IN,,,Unicaja Malaga,0
-MAL       ,,21,02:33,28,339,"WACZYNSKI, ADAM",PLDX      ,Out,OUT,,,Unicaja Malaga,0
-MAL       ,,43,02:19,28,340,"SUAREZ, CARLOS",PJJS      ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Unicaja Malaga,0
-PAM       ,,0,02:18,28,341,"THOMAS, WILL",P005856   ,Def Rebound (4),D,,,Valencia Basket,0
-MAL       ,,43,02:09,28,342,"SUAREZ, CARLOS",PJJS      ,Foul (2),CM,,,Unicaja Malaga,0
-PAM       ,,0,02:09,28,343,"THOMAS, WILL",P005856   ,Foul Drawn (3),RV,,,Valencia Basket,0
-PAM       ,,32,01:55,29,345,"GREEN, ERICK",P005159   ,Missed Three Pointer (1/2 -  19 pt),3FGA,,,Valencia Basket,0
-PAM       ,,,01:55,29,346,,          ,Off Rebound (4),O,,,Valencia Basket,0
-MAL       ,,12,01:55,29,347,"MILOSAVLJEVIC, DRAGAN",P002822   ,Foul (2),CM,,,Unicaja Malaga,0
-PAM       ,,21,01:55,29,349,"PLEISS, TIBOR",PLHK      ,Foul Drawn (3),RV,,,Valencia Basket,0
-MAL       ,,43,01:55,29,350,"SUAREZ, CARLOS",PJJS      ,Technical Foul (3),CMT,,,Unicaja Malaga,0
-PAM       ,,21,01:55,29,352,"PLEISS, TIBOR",PLHK      ,Missed Free Throw (1/2 -  3 pt),FTA,,,Valencia Basket,0
-PAM       ,,21,01:55,29,353,"PLEISS, TIBOR",PLHK      ,Free Throw In (2/3 -  4 pt),FTM,69.0,38.0,Valencia Basket,0
-PAM       ,,21,01:55,29,354,"PLEISS, TIBOR",PLHK      ,Free Throw In (3/4 -  5 pt),FTM,70.0,38.0,Valencia Basket,0
-PAM       ,,32,01:35,29,355,"GREEN, ERICK",P005159   ,Missed Three Pointer (1/3 -  19 pt),3FGA,,,Valencia Basket,0
-MAL       ,,10,01:32,29,356,"SALIN, SASU",P002820   ,Def Rebound (2),D,,,Unicaja Malaga,0
-MAL       ,,44,01:18,29,357,"MUSLI, DEJAN",PLUR      ,Missed Two Pointer (2/4 -  4 pt),2FGA,,,Unicaja Malaga,0
-MAL       ,,44,01:18,29,358,"MUSLI, DEJAN",PLUR      ,Shot Rejected (1),AG,,,Unicaja Malaga,0
-PAM       ,,21,01:15,29,359,"PLEISS, TIBOR",PLHK      ,Block (4),FV,,,Valencia Basket,0
-MAL       ,,43,01:12,29,360,"SUAREZ, CARLOS",PJJS      ,Off Rebound (1),O,,,Unicaja Malaga,0
-MAL       ,,43,01:12,29,361,"SUAREZ, CARLOS",PJJS      ,Two Pointer (1/2 -  2 pt),2FGM,70.0,40.0,Unicaja Malaga,0
-PAM       ,,,00:56,30,364,,          ,Time Out (1),TOUT,,,Valencia Basket,0
-PAM       ,,32,00:50,30,365,"GREEN, ERICK",P005159   ,Missed Three Pointer (1/4 -  19 pt),3FGA,,,Valencia Basket,0
-MAL       ,,9,00:48,30,366,"DIAZ, ALBERTO",P004213   ,Def Rebound (1),D,,,Unicaja Malaga,0
-MAL       ,,43,00:32,30,367,"SUAREZ, CARLOS",PJJS      ,Two Pointer (2/3 -  4 pt),2FGM,70.0,42.0,Unicaja Malaga,0
-MAL       ,,10,00:30,30,368,"SALIN, SASU",P002820   ,Assist (2),AS,,,Unicaja Malaga,0
-PAM       ,,6,00:15,30,369,"ABALDE, ALBERTO",P003733   ,Three Pointer (3/3 -  13 pt),3FGM,73.0,42.0,Valencia Basket,0
-PAM       ,,32,00:13,30,370,"GREEN, ERICK",P005159   ,Assist (5),AS,,,Valencia Basket,0
-MAL       ,,44,00:01,30,371,"MUSLI, DEJAN",PLUR      ,Missed Two Pointer (2/5 -  4 pt),2FGA,,,Unicaja Malaga,0
-PAM       ,,21,00:00,30,372,"PLEISS, TIBOR",PLHK      ,Def Rebound (5),D,,,Valencia Basket,0
-          ,,,,31,374,,          ,End Period,EP,,,,0
-          ,,,,31,377,,          ,Begin Period,BP,,,,0
-MAL       ,,2,10:00,31,375,"OKOUO, VINY",P005363   ,In,IN,,,Unicaja Malaga,0
-MAL       ,,44,10:00,31,376,"MUSLI, DEJAN",PLUR      ,Out,OUT,,,Unicaja Malaga,0
-PAM       ,,6,09:39,31,378,"ABALDE, ALBERTO",P003733   ,Two Pointer (3/4 -  15 pt),2FGM,75.0,42.0,Valencia Basket,0
-PAM       ,,9,09:38,31,379,"VAN ROSSOM, SAM",PLRQ      ,Assist (5),AS,,,Valencia Basket,0
-PAM       ,,9,09:28,31,380,"VAN ROSSOM, SAM",PLRQ      ,Foul (1),CM,,,Valencia Basket,0
-MAL       ,,10,09:28,31,381,"SALIN, SASU",P002820   ,Foul Drawn (4),RV,,,Unicaja Malaga,0
-MAL       ,,43,09:12,31,382,"SUAREZ, CARLOS",PJJS      ,Missed Two Pointer (2/4 -  4 pt),2FGA,,,Unicaja Malaga,0
-MAL       ,,10,09:10,31,383,"SALIN, SASU",P002820   ,Off Rebound (1),O,,,Unicaja Malaga,0
-MAL       ,,10,09:06,31,384,"SALIN, SASU",P002820   ,Turnover (2),TO,,,Unicaja Malaga,0
-PAM       ,,0,09:04,31,385,"THOMAS, WILL",P005856   ,Steal (2),ST,,,Valencia Basket,0
-PAM       ,,21,08:41,32,387,"PLEISS, TIBOR",PLHK      ,Missed Two Pointer (1/2 -  5 pt),2FGA,,,Valencia Basket,0
-MAL       ,,9,08:39,32,388,"DIAZ, ALBERTO",P004213   ,Def Rebound (2),D,,,Unicaja Malaga,0
-MAL       ,,2,08:28,32,389,"OKOUO, VINY",P005363   ,Offensive Foul (1),OF,,,Unicaja Malaga,0
-MAL       ,,2,08:28,32,390,"OKOUO, VINY",P005363   ,Turnover (1),TO,,,Unicaja Malaga,0
-PAM       ,,6,08:28,32,391,"ABALDE, ALBERTO",P003733   ,Foul Drawn (2),RV,,,Valencia Basket,0
-PAM       ,,0,08:28,32,392,"THOMAS, WILL",P005856   ,Out,OUT,,,Valencia Basket,0
-PAM       ,,14,08:28,32,393,"DUBLJEVIC, BOJAN",P002742   ,In,IN,,,Valencia Basket,0
-PAM       ,,21,08:28,32,394,"PLEISS, TIBOR",PLHK      ,Out,OUT,,,Valencia Basket,0
-PAM       ,,42,08:28,32,395,"DOORNEKAMP, AARON",P002763   ,In,IN,,,Valencia Basket,0
-PAM       ,,9,08:12,32,396,"VAN ROSSOM, SAM",PLRQ      ,Missed Three Pointer (0/4 -  4 pt),3FGA,,,Valencia Basket,0
-MAL       ,,2,08:09,32,397,"OKOUO, VINY",P005363   ,Def Rebound (1),D,,,Unicaja Malaga,0
-MAL       ,,2,07:55,33,399,"OKOUO, VINY",P005363   ,Two Pointer (1/1 -  2 pt),2FGM,75.0,44.0,Unicaja Malaga,0
-MAL       ,,43,07:54,33,400,"SUAREZ, CARLOS",PJJS      ,Assist (3),AS,,,Unicaja Malaga,0
-PAM       ,,9,07:38,33,401,"VAN ROSSOM, SAM",PLRQ      ,Missed Three Pointer (0/5 -  4 pt),3FGA,,,Valencia Basket,0
-MAL       ,,2,07:36,33,402,"OKOUO, VINY",P005363   ,Def Rebound (2),D,,,Unicaja Malaga,0
-PAM       ,,6,07:29,33,403,"ABALDE, ALBERTO",P003733   ,Foul (1),CM,,,Valencia Basket,0
-MAL       ,,10,07:29,33,404,"SALIN, SASU",P002820   ,Foul Drawn (5),RV,,,Unicaja Malaga,0
-PAM       ,,17,07:29,33,405,"MARTINEZ, RAFA",P001351   ,In,IN,,,Valencia Basket,0
-PAM       ,,32,07:29,33,406,"GREEN, ERICK",P005159   ,Out,OUT,,,Valencia Basket,0
-MAL       ,,10,07:29,33,407,"SALIN, SASU",P002820   ,Out,OUT,,,Unicaja Malaga,0
-MAL       ,,11,07:29,33,408,"DIEZ, DANIEL",P003198   ,In,IN,,,Unicaja Malaga,0
-MAL       ,,21,07:29,33,409,"WACZYNSKI, ADAM",PLDX      ,In,IN,,,Unicaja Malaga,0
-MAL       ,,43,07:29,33,410,"SUAREZ, CARLOS",PJJS      ,Out,OUT,,,Unicaja Malaga,0
-PAM       ,,14,07:18,33,411,"DUBLJEVIC, BOJAN",P002742   ,Foul (3),CM,,,Valencia Basket,0
-MAL       ,,2,07:18,33,412,"OKOUO, VINY",P005363   ,Foul Drawn (1),RV,,,Unicaja Malaga,0
-MAL       ,,21,07:06,33,413,"WACZYNSKI, ADAM",PLDX      ,Three Pointer (3/4 -  11 pt),3FGM,75.0,47.0,Unicaja Malaga,0
-MAL       ,,9,07:04,33,414,"DIAZ, ALBERTO",P004213   ,Assist (2),AS,,,Unicaja Malaga,0
-PAM       ,,6,06:45,34,416,"ABALDE, ALBERTO",P003733   ,Three Pointer (4/4 -  18 pt),3FGM,78.0,47.0,Valencia Basket,0
-PAM       ,,9,06:43,34,417,"VAN ROSSOM, SAM",PLRQ      ,Assist (6),AS,,,Valencia Basket,0
-MAL       ,,21,06:18,34,418,"WACZYNSKI, ADAM",PLDX      ,Two Pointer (2/5 -  13 pt),2FGM,78.0,49.0,Unicaja Malaga,0
-PAM       ,,42,06:01,34,419,"DOORNEKAMP, AARON",P002763   ,Two Pointer (1/2 -  5 pt),2FGM,80.0,49.0,Valencia Basket,0
-PAM       ,,9,05:59,35,421,"VAN ROSSOM, SAM",PLRQ      ,Assist (7),AS,,,Valencia Basket,0
-MAL       ,,21,05:45,35,422,"WACZYNSKI, ADAM",PLDX      ,Two Pointer (3/6 -  15 pt),2FGM,80.0,51.0,Unicaja Malaga,0
-PAM       ,,14,05:27,35,423,"DUBLJEVIC, BOJAN",P002742   ,Two Pointer (2/4 -  11 pt),2FGM,82.0,51.0,Valencia Basket,0
-PAM       ,,42,05:25,35,424,"DOORNEKAMP, AARON",P002763   ,Assist (3),AS,,,Valencia Basket,0
-MAL       ,,21,05:09,35,425,"WACZYNSKI, ADAM",PLDX      ,Missed Three Pointer (3/5 -  15 pt),3FGA,,,Unicaja Malaga,0
-PAM       ,,,05:09,35,426,,          ,Def Rebound (2),D,,,Valencia Basket,0
-PAM       ,,3,05:09,35,427,"PUERTO, JOSEP",P006643   ,In,IN,,,Valencia Basket,0
-PAM       ,,9,05:09,35,428,"VAN ROSSOM, SAM",PLRQ      ,Out,OUT,,,Valencia Basket,0
-PAM       ,,14,04:53,36,430,"DUBLJEVIC, BOJAN",P002742   ,Missed Three Pointer (2/4 -  11 pt),3FGA,,,Valencia Basket,0
-MAL       ,,9,04:51,36,431,"DIAZ, ALBERTO",P004213   ,Def Rebound (3),D,,,Unicaja Malaga,0
-MAL       ,,9,04:41,36,432,"DIAZ, ALBERTO",P004213   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Unicaja Malaga,0
-MAL       ,,9,04:41,36,433,"DIAZ, ALBERTO",P004213   ,Shot Rejected (1),AG,,,Unicaja Malaga,0
-PAM       ,,3,04:39,36,434,"PUERTO, JOSEP",P006643   ,Block (1),FV,,,Valencia Basket,0
-PAM       ,,14,04:37,36,435,"DUBLJEVIC, BOJAN",P002742   ,Def Rebound (3),D,,,Valencia Basket,0
-MAL       ,,2,04:30,36,436,"OKOUO, VINY",P005363   ,Foul (2),CM,,,Unicaja Malaga,0
-PAM       ,,3,04:30,36,437,"PUERTO, JOSEP",P006643   ,Foul Drawn (1),RV,,,Valencia Basket,0
-          ,,,04:30,36,438,,          ,TV Time Out (2),TOUT_TV,,,,0
-PAM       ,,14,04:30,36,439,"DUBLJEVIC, BOJAN",P002742   ,Out,OUT,,,Valencia Basket,0
-PAM       ,,51,04:30,36,440,"HLINASON, TRYGGVI",P008041   ,In,IN,,,Valencia Basket,0
-MAL       ,,3,04:30,36,441,"MCCALLUM, RAY",P008002   ,In,IN,,,Unicaja Malaga,0
-MAL       ,,6,04:30,36,442,"SOLUADE, MO",P004479   ,In,IN,,,Unicaja Malaga,0
-MAL       ,,9,04:30,36,443,"DIAZ, ALBERTO",P004213   ,Out,OUT,,,Unicaja Malaga,0
-MAL       ,,21,04:30,36,444,"WACZYNSKI, ADAM",PLDX      ,Out,OUT,,,Unicaja Malaga,0
-PAM       ,,3,04:30,36,445,"PUERTO, JOSEP",P006643   ,Free Throw In (1/1 -  1 pt),FTM,83.0,51.0,Valencia Basket,0
-PAM       ,,3,04:30,36,446,"PUERTO, JOSEP",P006643   ,Free Throw In (2/2 -  2 pt),FTM,84.0,51.0,Valencia Basket,0
-MAL       ,,6,04:16,36,447,"SOLUADE, MO",P004479   ,Turnover (1),TO,,,Unicaja Malaga,0
-PAM       ,,51,04:15,36,448,"HLINASON, TRYGGVI",P008041   ,Steal (1),ST,,,Valencia Basket,0
-PAM       ,,17,04:12,36,449,"MARTINEZ, RAFA",P001351   ,Missed Two Pointer (1/2 -  11 pt),2FGA,,,Valencia Basket,0
-PAM       ,,17,04:12,36,450,"MARTINEZ, RAFA",P001351   ,Shot Rejected (1),AG,,,Valencia Basket,0
-MAL       ,,6,04:12,36,451,"SOLUADE, MO",P004479   ,Block (1),FV,,,Unicaja Malaga,0
-PAM       ,,,04:12,36,452,,          ,Off Rebound (5),O,,,Valencia Basket,0
-PAM       ,,3,03:55,37,454,"PUERTO, JOSEP",P006643   ,Two Pointer (1/1 -  4 pt),2FGM,86.0,51.0,Valencia Basket,0
-PAM       ,,17,03:51,37,455,"MARTINEZ, RAFA",P001351   ,Assist (1),AS,,,Valencia Basket,0
-MAL       ,,2,03:38,37,456,"OKOUO, VINY",P005363   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,Unicaja Malaga,0
-MAL       ,,2,03:38,37,457,"OKOUO, VINY",P005363   ,Shot Rejected (1),AG,,,Unicaja Malaga,0
-PAM       ,,51,03:38,37,458,"HLINASON, TRYGGVI",P008041   ,Block (1),FV,,,Valencia Basket,0
-MAL       ,,,03:38,37,459,,          ,Off Rebound (6),O,,,Unicaja Malaga,0
-MAL       ,,6,03:29,37,460,"SOLUADE, MO",P004479   ,Turnover (2),TO,,,Unicaja Malaga,0
-PAM       ,,6,03:29,37,461,"ABALDE, ALBERTO",P003733   ,Out,OUT,,,Valencia Basket,0
-PAM       ,,9,03:29,37,462,"VAN ROSSOM, SAM",PLRQ      ,In,IN,,,Valencia Basket,0
-PAM       ,,42,03:09,37,463,"DOORNEKAMP, AARON",P002763   ,Missed Three Pointer (1/3 -  5 pt),3FGA,,,Valencia Basket,0
-MAL       ,,,03:08,37,464,,          ,Def Rebound (3),D,,,Unicaja Malaga,0
-MAL       ,,6,02:53,38,466,"SOLUADE, MO",P004479   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Unicaja Malaga,0
-PAM       ,,17,02:51,38,467,"MARTINEZ, RAFA",P001351   ,Def Rebound (1),D,,,Valencia Basket,0
-MAL       ,,12,02:44,38,468,"MILOSAVLJEVIC, DRAGAN",P002822   ,Foul (3),CM,,,Unicaja Malaga,0
-PAM       ,,9,02:44,38,469,"VAN ROSSOM, SAM",PLRQ      ,Foul Drawn (2),RV,,,Valencia Basket,0
-PAM       ,,51,02:36,38,470,"HLINASON, TRYGGVI",P008041   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Valencia Basket,0
-MAL       ,,6,02:34,38,471,"SOLUADE, MO",P004479   ,Def Rebound (1),D,,,Unicaja Malaga,0
-MAL       ,,3,02:22,38,472,"MCCALLUM, RAY",P008002   ,Missed Two Pointer (3/6 -  6 pt),2FGA,,,Unicaja Malaga,0
-MAL       ,,2,02:20,38,473,"OKOUO, VINY",P005363   ,Off Rebound (1),O,,,Unicaja Malaga,0
-MAL       ,,2,02:20,38,474,"OKOUO, VINY",P005363   ,Missed Two Pointer (1/3 -  2 pt),2FGA,,,Unicaja Malaga,0
-PAM       ,,51,02:18,38,475,"HLINASON, TRYGGVI",P008041   ,Def Rebound (1),D,,,Valencia Basket,0
-PAM       ,,17,02:14,38,476,"MARTINEZ, RAFA",P001351   ,Missed Three Pointer (3/5 -  11 pt),3FGA,,,Valencia Basket,0
-MAL       ,,2,02:12,38,477,"OKOUO, VINY",P005363   ,Def Rebound (3),D,,,Unicaja Malaga,0
-MAL       ,,2,01:57,39,479,"OKOUO, VINY",P005363   ,Missed Two Pointer (1/4 -  2 pt),2FGA,,,Unicaja Malaga,0
-PAM       ,,9,01:55,39,480,"VAN ROSSOM, SAM",PLRQ      ,Def Rebound (3),D,,,Valencia Basket,0
-MAL       ,,12,01:48,39,481,"MILOSAVLJEVIC, DRAGAN",P002822   ,Foul (4),CM,,,Unicaja Malaga,0
-PAM       ,,3,01:48,39,482,"PUERTO, JOSEP",P006643   ,Foul Drawn (2),RV,,,Valencia Basket,0
-PAM       ,,0,01:48,39,483,"THOMAS, WILL",P005856   ,In,IN,,,Valencia Basket,0
-PAM       ,,42,01:48,39,484,"DOORNEKAMP, AARON",P002763   ,Out,OUT,,,Valencia Basket,0
-PAM       ,,17,01:38,39,485,"MARTINEZ, RAFA",P001351   ,Three Pointer (4/6 -  14 pt),3FGM,89.0,51.0,Valencia Basket,0
-PAM       ,,9,01:38,39,486,"VAN ROSSOM, SAM",PLRQ      ,Assist (8),AS,,,Valencia Basket,0
-MAL       ,,11,01:21,39,487,"DIEZ, DANIEL",P003198   ,Missed Three Pointer (0/1 -  6 pt),3FGA,,,Unicaja Malaga,0
-PAM       ,,17,01:19,39,488,"MARTINEZ, RAFA",P001351   ,Def Rebound (2),D,,,Valencia Basket,0
-PAM       ,,3,00:57,40,490,"PUERTO, JOSEP",P006643   ,Missed Two Pointer (1/2 -  4 pt),2FGA,,,Valencia Basket,0
-MAL       ,,3,00:55,40,491,"MCCALLUM, RAY",P008002   ,Def Rebound (3),D,,,Unicaja Malaga,0
-MAL       ,,3,00:51,40,492,"MCCALLUM, RAY",P008002   ,Missed Two Pointer (3/7 -  6 pt),2FGA,,,Unicaja Malaga,0
-PAM       ,,0,00:49,40,493,"THOMAS, WILL",P005856   ,Def Rebound (5),D,,,Valencia Basket,0
-PAM       ,,3,00:28,40,494,"PUERTO, JOSEP",P006643   ,Missed Three Pointer (0/1 -  4 pt),3FGA,,,Valencia Basket,0
-PAM       ,,51,00:25,40,495,"HLINASON, TRYGGVI",P008041   ,Off Rebound (1),O,,,Valencia Basket,0
-PAM       ,,51,00:25,40,496,"HLINASON, TRYGGVI",P008041   ,Two Pointer (1/2 -  2 pt),2FGM,91.0,51.0,Valencia Basket,0
-MAL       ,,3,00:00,40,497,"MCCALLUM, RAY",P008002   ,Two Pointer (4/8 -  8 pt),2FGM,91.0,53.0,Unicaja Malaga,0
-          ,,,,41,500,,          ,End Game,EG,,,,0
+CODETEAM,COMMENT,DORSAL,MARKERTIME,MINUTE,NUMBEROFPLAY,PLAYER,PLAYER_ID,PLAYINFO,PLAYTYPE,POINTS_A,POINTS_B,TEAM,TYPE,home_team,home_team_code,away_team,away_team_code
+          ,,,,1,12,,          ,Begin Period,BP,,,,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,14,09:43,1,13,"DUBLJEVIC, BOJAN",P002742   ,Foul (1),CM,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,44,09:43,1,14,"MUSLI, DEJAN",PLUR      ,Foul Drawn (1),RV,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,3,09:37,1,15,"MCCALLUM, RAY",P008002   ,Turnover (1),TO,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,42,09:35,1,16,"DOORNEKAMP, AARON",P002763   ,Steal (1),ST,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,14,09:23,1,17,"DUBLJEVIC, BOJAN",P002742   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,14,09:23,1,18,"DUBLJEVIC, BOJAN",P002742   ,Shot Rejected (1),AG,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,44,09:18,1,19,"MUSLI, DEJAN",PLUR      ,Block (1),FV,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,3,09:14,1,20,"MCCALLUM, RAY",P008002   ,Def Rebound (1),D,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,3,09:12,1,21,"MCCALLUM, RAY",P008002   ,Two Pointer (1/1 -  2 pt),2FGM,,2.0,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,32,09:04,1,22,"GREEN, ERICK",P005159   ,Two Pointer (1/1 -  2 pt),2FGM,2.0,2.0,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,16,09:02,1,23,"VIVES, GUILLEM",P002361   ,Assist (1),AS,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,16,08:50,2,25,"VIVES, GUILLEM",P002361   ,Foul (1),CM,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,10,08:50,2,26,"SALIN, SASU",P002820   ,Foul Drawn (1),RV,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,3,08:36,2,27,"MCCALLUM, RAY",P008002   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,42,08:33,2,28,"DOORNEKAMP, AARON",P002763   ,Def Rebound (1),D,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,32,08:28,2,29,"GREEN, ERICK",P005159   ,Two Pointer (2/2 -  4 pt),2FGM,4.0,2.0,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,42,08:26,2,30,"DOORNEKAMP, AARON",P002763   ,Assist (1),AS,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,10,08:11,2,31,"SALIN, SASU",P002820   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,0,08:09,2,32,"THOMAS, WILL",P005856   ,Def Rebound (1),D,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,32,07:57,3,34,"GREEN, ERICK",P005159   ,Missed Two Pointer (2/3 -  4 pt),2FGA,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,3,07:54,3,35,"MCCALLUM, RAY",P008002   ,Def Rebound (2),D,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,3,07:38,3,36,"MCCALLUM, RAY",P008002   ,Two Pointer (2/3 -  4 pt),2FGM,4.0,4.0,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,42,07:19,3,37,"DOORNEKAMP, AARON",P002763   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,16,07:16,3,38,"VIVES, GUILLEM",P002361   ,Off Rebound (1),O,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,42,07:07,3,39,"DOORNEKAMP, AARON",P002763   ,Three Pointer (1/1 -  3 pt),3FGM,7.0,4.0,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,32,07:05,3,40,"GREEN, ERICK",P005159   ,Assist (1),AS,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,10,06:39,4,42,"SALIN, SASU",P002820   ,Three Pointer (1/1 -  3 pt),3FGM,7.0,7.0,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,23,06:37,4,43,"BROOKS, JEFF",P004117   ,Assist (1),AS,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,14,06:20,4,44,"DUBLJEVIC, BOJAN",P002742   ,Three Pointer (1/1 -  3 pt),3FGM,10.0,7.0,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,32,06:18,4,45,"GREEN, ERICK",P005159   ,Assist (2),AS,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,16,06:03,4,46,"VIVES, GUILLEM",P002361   ,Foul (2),CM,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,10,06:03,4,47,"SALIN, SASU",P002820   ,Foul Drawn (2),RV,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,9,06:03,4,48,"VAN ROSSOM, SAM",PLRQ      ,In,IN,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,16,06:03,4,49,"VIVES, GUILLEM",P002361   ,Out,OUT,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,21,05:49,5,51,"WACZYNSKI, ADAM",PLDX      ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,9,05:46,5,52,"VAN ROSSOM, SAM",PLRQ      ,Def Rebound (1),D,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,32,05:32,5,53,"GREEN, ERICK",P005159   ,Two Pointer (3/4 -  6 pt),2FGM,12.0,7.0,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,23,05:06,5,54,"BROOKS, JEFF",P004117   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,14,05:03,5,55,"DUBLJEVIC, BOJAN",P002742   ,Def Rebound (1),D,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,32,04:46,6,57,"GREEN, ERICK",P005159   ,Two Pointer (4/5 -  8 pt),2FGM,14.0,7.0,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,44,04:21,6,58,"MUSLI, DEJAN",PLUR      ,Two Pointer (1/1 -  2 pt),2FGM,14.0,9.0,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,14,04:01,6,59,"DUBLJEVIC, BOJAN",P002742   ,Three Pointer (2/2 -  6 pt),3FGM,17.0,9.0,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,32,04:00,6,60,"GREEN, ERICK",P005159   ,Assist (3),AS,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,,04:00,6,61,,          ,Time Out (1),TOUT,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,14,04:00,6,62,"DUBLJEVIC, BOJAN",P002742   ,Out,OUT,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,17,04:00,6,63,"MARTINEZ, RAFA",P001351   ,In,IN,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,21,04:00,6,64,"PLEISS, TIBOR",PLHK      ,In,IN,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,32,04:00,6,65,"GREEN, ERICK",P005159   ,Out,OUT,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,17,03:49,7,67,"MARTINEZ, RAFA",P001351   ,Foul (1),CM,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,10,03:49,7,68,"SALIN, SASU",P002820   ,Foul Drawn (3),RV,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,44,03:39,7,69,"MUSLI, DEJAN",PLUR      ,Turnover (1),TO,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,44,03:18,7,70,"MUSLI, DEJAN",PLUR      ,Foul (1),CM,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,21,03:18,7,71,"PLEISS, TIBOR",PLHK      ,Foul Drawn (1),RV,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,3,03:18,7,72,"MCCALLUM, RAY",P008002   ,Out,OUT,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,9,03:18,7,73,"DIAZ, ALBERTO",P004213   ,In,IN,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,17,03:18,7,74,"SHERMADINI, GIORGI",P001386   ,In,IN,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,44,03:18,7,75,"MUSLI, DEJAN",PLUR      ,Out,OUT,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,0,03:11,7,76,"THOMAS, WILL",P005856   ,Two Pointer (1/1 -  2 pt),2FGM,19.0,9.0,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,42,03:08,7,77,"DOORNEKAMP, AARON",P002763   ,Assist (2),AS,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,21,02:55,8,79,"WACZYNSKI, ADAM",PLDX      ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,21,02:54,8,80,"PLEISS, TIBOR",PLHK      ,Def Rebound (1),D,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,9,02:47,8,81,"VAN ROSSOM, SAM",PLRQ      ,Two Pointer (1/1 -  2 pt),2FGM,21.0,9.0,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,23,02:35,8,82,"BROOKS, JEFF",P004117   ,Offensive Foul (1),OF,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,23,02:35,8,83,"BROOKS, JEFF",P004117   ,Turnover (1),TO,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,17,02:35,8,84,"MARTINEZ, RAFA",P001351   ,Foul Drawn (1),RV,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,6,02:35,8,85,"ABALDE, ALBERTO",P003733   ,In,IN,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,42,02:35,8,86,"DOORNEKAMP, AARON",P002763   ,Out,OUT,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,12,02:35,8,87,"MILOSAVLJEVIC, DRAGAN",P002822   ,In,IN,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,21,02:35,8,88,"WACZYNSKI, ADAM",PLDX      ,Out,OUT,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,17,02:17,8,89,"MARTINEZ, RAFA",P001351   ,Two Pointer (1/1 -  2 pt),2FGM,23.0,9.0,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,21,02:15,8,90,"PLEISS, TIBOR",PLHK      ,Assist (1),AS,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,,01:51,9,92,,          ,Turnover (1),TO,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,6,01:51,9,93,"SOLUADE, MO",P004479   ,In,IN,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,10,01:51,9,94,"SALIN, SASU",P002820   ,Out,OUT,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,9,01:43,9,95,"DIAZ, ALBERTO",P004213   ,Foul (1),CM,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,9,01:43,9,96,"VAN ROSSOM, SAM",PLRQ      ,Foul Drawn (1),RV,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,9,01:43,9,97,"VAN ROSSOM, SAM",PLRQ      ,Free Throw In (1/1 -  3 pt),FTM,24.0,9.0,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,9,01:43,9,98,"VAN ROSSOM, SAM",PLRQ      ,Free Throw In (2/2 -  4 pt),FTM,25.0,9.0,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,12,01:20,9,99,"MILOSAVLJEVIC, DRAGAN",P002822   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,0,01:18,9,100,"THOMAS, WILL",P005856   ,Def Rebound (2),D,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,21,01:04,9,101,"PLEISS, TIBOR",PLHK      ,Two Pointer (1/1 -  2 pt),2FGM,27.0,9.0,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,17,01:04,9,102,"SHERMADINI, GIORGI",P001386   ,Foul (1),CM,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,21,01:04,9,103,"PLEISS, TIBOR",PLHK      ,Foul Drawn (2),RV,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,21,01:04,9,104,"PLEISS, TIBOR",PLHK      ,Free Throw In (1/1 -  3 pt),FTM,28.0,9.0,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,23,00:39,10,106,"BROOKS, JEFF",P004117   ,Two Pointer (1/2 -  2 pt),2FGM,28.0,11.0,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,17,00:16,10,107,"MARTINEZ, RAFA",P001351   ,Three Pointer (1/1 -  5 pt),3FGM,31.0,11.0,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,21,00:13,10,108,"PLEISS, TIBOR",PLHK      ,Assist (2),AS,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,12,00:01,10,109,"MILOSAVLJEVIC, DRAGAN",P002822   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,12,00:01,10,110,"MILOSAVLJEVIC, DRAGAN",P002822   ,Shot Rejected (1),AG,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,21,00:01,10,111,"PLEISS, TIBOR",PLHK      ,Block (1),FV,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,0,00:01,10,112,"THOMAS, WILL",P005856   ,Def Rebound (3),D,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+          ,,,,11,114,,          ,End Period,EP,,,,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+          ,,,,11,117,,          ,Begin Period,BP,,,,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,23,10:00,11,115,"BROOKS, JEFF",P004117   ,Out,OUT,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,43,10:00,11,116,"SUAREZ, CARLOS",PJJS      ,In,IN,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,43,09:51,11,118,"SUAREZ, CARLOS",PJJS      ,Foul (1),CM,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,0,09:51,11,119,"THOMAS, WILL",P005856   ,Foul Drawn (1),RV,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,17,09:38,11,120,"MARTINEZ, RAFA",P001351   ,Three Pointer (2/2 -  8 pt),3FGM,34.0,11.0,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,9,09:36,11,121,"VAN ROSSOM, SAM",PLRQ      ,Assist (1),AS,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,17,09:20,11,122,"MARTINEZ, RAFA",P001351   ,Foul (2),CM,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,6,09:20,11,123,"SOLUADE, MO",P004479   ,Foul Drawn (1),RV,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,9,09:20,11,124,"VAN ROSSOM, SAM",PLRQ      ,Out,OUT,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,16,09:20,11,125,"VIVES, GUILLEM",P002361   ,In,IN,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,17,09:20,11,126,"MARTINEZ, RAFA",P001351   ,Out,OUT,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,32,09:20,11,127,"GREEN, ERICK",P005159   ,In,IN,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,12,09:13,11,128,"MILOSAVLJEVIC, DRAGAN",P002822   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,21,09:11,11,129,"PLEISS, TIBOR",PLHK      ,Def Rebound (2),D,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,16,09:01,11,130,"VIVES, GUILLEM",P002361   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,43,08:58,12,132,"SUAREZ, CARLOS",PJJS      ,Def Rebound (1),D,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,12,08:47,12,133,"MILOSAVLJEVIC, DRAGAN",P002822   ,Turnover (1),TO,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,0,08:46,12,134,"THOMAS, WILL",P005856   ,Steal (1),ST,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,32,08:41,12,135,"GREEN, ERICK",P005159   ,Two Pointer (5/6 -  10 pt),2FGM,36.0,11.0,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,21,08:28,12,136,"PLEISS, TIBOR",PLHK      ,Foul (1),CM,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,17,08:28,12,137,"SHERMADINI, GIORGI",P001386   ,Foul Drawn (1),RV,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,0,08:28,12,138,"THOMAS, WILL",P005856   ,Out,OUT,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,14,08:28,12,139,"DUBLJEVIC, BOJAN",P002742   ,In,IN,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,21,08:28,12,140,"PLEISS, TIBOR",PLHK      ,Out,OUT,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,42,08:28,12,141,"DOORNEKAMP, AARON",P002763   ,In,IN,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,6,08:28,12,142,"SOLUADE, MO",P004479   ,Out,OUT,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,11,08:28,12,143,"DIEZ, DANIEL",P003198   ,In,IN,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,17,08:28,12,144,"SHERMADINI, GIORGI",P001386   ,Missed Free Throw (0/1 -  0 pt),FTA,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,17,08:28,12,145,"SHERMADINI, GIORGI",P001386   ,Missed Free Throw (0/2 -  0 pt),FTA,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,6,08:28,12,146,"ABALDE, ALBERTO",P003733   ,Def Rebound (1),D,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,9,08:08,12,147,"DIAZ, ALBERTO",P004213   ,Foul (2),CM,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,14,08:08,12,148,"DUBLJEVIC, BOJAN",P002742   ,Foul Drawn (1),RV,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,3,08:08,12,149,"MCCALLUM, RAY",P008002   ,In,IN,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,9,08:08,12,150,"DIAZ, ALBERTO",P004213   ,Out,OUT,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,12,08:04,12,151,"MILOSAVLJEVIC, DRAGAN",P002822   ,Foul (1),CM,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,14,08:04,12,152,"DUBLJEVIC, BOJAN",P002742   ,Foul Drawn (2),RV,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,14,07:56,13,154,"DUBLJEVIC, BOJAN",P002742   ,Missed Three Pointer (2/3 -  6 pt),3FGA,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,,07:56,13,155,,          ,Def Rebound (1),D,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,42,07:56,13,156,"DOORNEKAMP, AARON",P002763   ,Foul (1),CM,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,43,07:56,13,157,"SUAREZ, CARLOS",PJJS      ,Foul Drawn (1),RV,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,17,07:41,13,158,"SHERMADINI, GIORGI",P001386   ,Two Pointer (1/1 -  2 pt),2FGM,36.0,13.0,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,43,07:38,13,159,"SUAREZ, CARLOS",PJJS      ,Assist (1),AS,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,14,07:23,13,160,"DUBLJEVIC, BOJAN",P002742   ,Missed Two Pointer (0/2 -  6 pt),2FGA,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,43,07:21,13,161,"SUAREZ, CARLOS",PJJS      ,Def Rebound (2),D,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,12,07:19,13,162,"MILOSAVLJEVIC, DRAGAN",P002822   ,Turnover (2),TO,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,32,06:54,14,164,"GREEN, ERICK",P005159   ,Two Pointer (6/7 -  12 pt),2FGM,38.0,13.0,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,3,06:51,14,165,"MCCALLUM, RAY",P008002   ,Turnover (2),TO,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,6,06:38,14,166,"ABALDE, ALBERTO",P003733   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,17,06:36,14,167,"SHERMADINI, GIORGI",P001386   ,Def Rebound (1),D,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,17,06:25,14,168,"SHERMADINI, GIORGI",P001386   ,Offensive Foul (2),OF,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,17,06:25,14,169,"SHERMADINI, GIORGI",P001386   ,Turnover (1),TO,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,14,06:25,14,170,"DUBLJEVIC, BOJAN",P002742   ,Foul Drawn (3),RV,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,32,06:10,14,171,"GREEN, ERICK",P005159   ,Turnover (1),TO,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,12,05:37,15,173,"MILOSAVLJEVIC, DRAGAN",P002822   ,Two Pointer (1/3 -  2 pt),2FGM,38.0,15.0,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,6,05:17,15,174,"ABALDE, ALBERTO",P003733   ,Two Pointer (1/2 -  2 pt),2FGM,40.0,15.0,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,14,05:14,15,175,"DUBLJEVIC, BOJAN",P002742   ,Assist (1),AS,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,14,05:06,15,176,"DUBLJEVIC, BOJAN",P002742   ,Foul (2),CM,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,17,05:06,15,177,"SHERMADINI, GIORGI",P001386   ,Foul Drawn (2),RV,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,9,05:06,15,178,"VAN ROSSOM, SAM",PLRQ      ,In,IN,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,14,05:06,15,179,"DUBLJEVIC, BOJAN",P002742   ,Out,OUT,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,16,05:06,15,180,"VIVES, GUILLEM",P002361   ,Out,OUT,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,21,05:06,15,181,"PLEISS, TIBOR",PLHK      ,In,IN,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,12,04:57,16,183,"MILOSAVLJEVIC, DRAGAN",P002822   ,Missed Two Pointer (1/4 -  2 pt),2FGA,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,12,04:57,16,184,"MILOSAVLJEVIC, DRAGAN",P002822   ,Shot Rejected (2),AG,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,21,04:53,16,185,"PLEISS, TIBOR",PLHK      ,Block (2),FV,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,42,04:49,16,186,"DOORNEKAMP, AARON",P002763   ,Def Rebound (2),D,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,6,04:46,16,187,"ABALDE, ALBERTO",P003733   ,Three Pointer (1/1 -  5 pt),3FGM,43.0,15.0,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,9,04:44,16,188,"VAN ROSSOM, SAM",PLRQ      ,Assist (2),AS,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,3,04:23,16,189,"MCCALLUM, RAY",P008002   ,Missed Three Pointer (0/1 -  4 pt),3FGA,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,17,04:21,16,190,"SHERMADINI, GIORGI",P001386   ,Off Rebound (1),O,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,11,04:06,16,191,"DIEZ, DANIEL",P003198   ,Two Pointer (1/1 -  2 pt),2FGM,43.0,17.0,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,43,04:05,16,192,"SUAREZ, CARLOS",PJJS      ,Assist (2),AS,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,32,03:51,17,194,"GREEN, ERICK",P005159   ,Three Pointer (1/1 -  15 pt),3FGM,46.0,17.0,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,9,03:48,17,195,"VAN ROSSOM, SAM",PLRQ      ,Assist (3),AS,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,12,03:48,17,196,"MILOSAVLJEVIC, DRAGAN",P002822   ,Missed Two Pointer (1/5 -  2 pt),2FGA,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,,03:34,17,197,,          ,Off Rebound (1),O,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,,03:34,17,198,,          ,Time Out (1),TOUT,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,0,03:34,17,199,"THOMAS, WILL",P005856   ,In,IN,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,42,03:34,17,200,"DOORNEKAMP, AARON",P002763   ,Out,OUT,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,10,03:34,17,201,"SALIN, SASU",P002820   ,In,IN,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,12,03:34,17,202,"MILOSAVLJEVIC, DRAGAN",P002822   ,Out,OUT,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,17,03:34,17,203,"SHERMADINI, GIORGI",P001386   ,Out,OUT,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,23,03:34,17,204,"BROOKS, JEFF",P004117   ,In,IN,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,3,03:21,17,205,"MCCALLUM, RAY",P008002   ,Two Pointer (3/4 -  6 pt),2FGM,46.0,19.0,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,6,02:56,18,207,"ABALDE, ALBERTO",P003733   ,Two Pointer (2/3 -  7 pt),2FGM,48.0,19.0,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,3,02:42,18,208,"MCCALLUM, RAY",P008002   ,Missed Two Pointer (3/5 -  6 pt),2FGA,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,9,02:40,18,209,"VAN ROSSOM, SAM",PLRQ      ,Def Rebound (2),D,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,10,02:37,18,210,"SALIN, SASU",P002820   ,Foul (1),CM,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,32,02:37,18,211,"GREEN, ERICK",P005159   ,Foul Drawn (1),RV,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,32,02:37,18,212,"GREEN, ERICK",P005159   ,Free Throw In (1/1 -  16 pt),FTM,49.0,19.0,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,32,02:37,18,213,"GREEN, ERICK",P005159   ,Free Throw In (2/2 -  17 pt),FTM,50.0,19.0,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,11,02:19,18,214,"DIEZ, DANIEL",P003198   ,Two Pointer (2/2 -  4 pt),2FGM,50.0,21.0,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,32,02:02,18,215,"GREEN, ERICK",P005159   ,Two Pointer (7/8 -  19 pt),2FGM,52.0,21.0,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,43,01:42,19,217,"SUAREZ, CARLOS",PJJS      ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,21,01:38,19,218,"PLEISS, TIBOR",PLHK      ,Def Rebound (3),D,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,6,01:35,19,219,"ABALDE, ALBERTO",P003733   ,Three Pointer (2/2 -  10 pt),3FGM,55.0,21.0,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,32,01:33,19,220,"GREEN, ERICK",P005159   ,Assist (4),AS,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,11,01:29,19,221,"DIEZ, DANIEL",P003198   ,Missed Two Pointer (2/3 -  4 pt),2FGA,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,11,01:29,19,222,"DIEZ, DANIEL",P003198   ,Shot Rejected (1),AG,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,21,01:26,19,223,"PLEISS, TIBOR",PLHK      ,Block (3),FV,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,21,01:25,19,224,"PLEISS, TIBOR",PLHK      ,Def Rebound (4),D,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,0,01:16,19,225,"THOMAS, WILL",P005856   ,Two Pointer (2/2 -  4 pt),2FGM,57.0,21.0,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,11,01:01,19,226,"DIEZ, DANIEL",P003198   ,Two Pointer (3/4 -  6 pt),2FGM,57.0,23.0,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,10,01:00,19,227,"SALIN, SASU",P002820   ,Assist (1),AS,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,9,00:37,20,229,"VAN ROSSOM, SAM",PLRQ      ,Missed Three Pointer (0/1 -  4 pt),3FGA,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,21,00:34,20,230,"PLEISS, TIBOR",PLHK      ,Off Rebound (1),O,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,21,00:33,20,231,"PLEISS, TIBOR",PLHK      ,Turnover (1),TO,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,23,00:32,20,232,"BROOKS, JEFF",P004117   ,Steal (1),ST,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,23,00:21,20,233,"BROOKS, JEFF",P004117   ,Two Pointer (2/3 -  4 pt),2FGM,57.0,25.0,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,,00:20,20,234,,          ,Time Out (1),TOUT,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,0,00:20,20,235,"THOMAS, WILL",P005856   ,Out,OUT,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,42,00:20,20,236,"DOORNEKAMP, AARON",P002763   ,In,IN,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,32,00:01,20,237,"GREEN, ERICK",P005159   ,Missed Two Pointer (7/9 -  19 pt),2FGA,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,32,00:01,20,238,"GREEN, ERICK",P005159   ,Shot Rejected (1),AG,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,23,00:01,20,239,"BROOKS, JEFF",P004117   ,Block (1),FV,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,23,00:01,20,240,"BROOKS, JEFF",P004117   ,Def Rebound (1),D,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+          ,,,,21,242,,          ,End Period,EP,,,,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+          ,,,,21,253,,          ,Begin Period,BP,,,,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,0,10:00,21,243,"THOMAS, WILL",P005856   ,In,IN,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,6,10:00,21,244,"ABALDE, ALBERTO",P003733   ,Out,OUT,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,14,10:00,21,245,"DUBLJEVIC, BOJAN",P002742   ,In,IN,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,17,10:00,21,246,"MARTINEZ, RAFA",P001351   ,In,IN,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,21,10:00,21,247,"PLEISS, TIBOR",PLHK      ,Out,OUT,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,32,10:00,21,248,"GREEN, ERICK",P005159   ,Out,OUT,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,11,10:00,21,249,"DIEZ, DANIEL",P003198   ,Out,OUT,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,21,10:00,21,250,"WACZYNSKI, ADAM",PLDX      ,In,IN,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,43,10:00,21,251,"SUAREZ, CARLOS",PJJS      ,Out,OUT,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,44,10:00,21,252,"MUSLI, DEJAN",PLUR      ,In,IN,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,10,09:41,21,254,"SALIN, SASU",P002820   ,Missed Two Pointer (0/2 -  3 pt),2FGA,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,14,09:39,21,255,"DUBLJEVIC, BOJAN",P002742   ,Def Rebound (2),D,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,0,09:29,21,256,"THOMAS, WILL",P005856   ,Two Pointer (3/3 -  6 pt),2FGM,59.0,25.0,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,21,09:06,21,257,"WACZYNSKI, ADAM",PLDX      ,Two Pointer (1/2 -  2 pt),2FGM,59.0,27.0,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,42,08:43,22,259,"DOORNEKAMP, AARON",P002763   ,Missed Three Pointer (1/2 -  3 pt),3FGA,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,10,08:40,22,260,"SALIN, SASU",P002820   ,Def Rebound (1),D,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,44,08:35,22,261,"MUSLI, DEJAN",PLUR      ,Turnover (2),TO,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,9,08:14,22,262,"VAN ROSSOM, SAM",PLRQ      ,Turnover (1),TO,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,21,08:12,22,263,"WACZYNSKI, ADAM",PLDX      ,Steal (1),ST,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,21,07:59,23,265,"WACZYNSKI, ADAM",PLDX      ,Missed Two Pointer (1/3 -  2 pt),2FGA,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,21,07:59,23,266,"WACZYNSKI, ADAM",PLDX      ,Shot Rejected (1),AG,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,14,07:59,23,267,"DUBLJEVIC, BOJAN",P002742   ,Block (1),FV,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,,07:59,23,268,,          ,Off Rebound (2),O,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,10,07:51,23,269,"SALIN, SASU",P002820   ,Three Pointer (2/2 -  6 pt),3FGM,59.0,30.0,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,3,07:48,23,270,"MCCALLUM, RAY",P008002   ,Assist (1),AS,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,17,07:32,23,271,"MARTINEZ, RAFA",P001351   ,Three Pointer (3/3 -  11 pt),3FGM,62.0,30.0,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,9,07:30,23,272,"VAN ROSSOM, SAM",PLRQ      ,Assist (4),AS,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,10,07:20,23,273,"SALIN, SASU",P002820   ,Turnover (1),TO,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,3,07:20,23,274,"MCCALLUM, RAY",P008002   ,Out,OUT,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,9,07:20,23,275,"DIAZ, ALBERTO",P004213   ,In,IN,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,14,07:04,23,276,"DUBLJEVIC, BOJAN",P002742   ,Two Pointer (1/3 -  8 pt),2FGM,64.0,30.0,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,21,07:04,23,277,"WACZYNSKI, ADAM",PLDX      ,Foul (1),CM,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,14,07:04,23,278,"DUBLJEVIC, BOJAN",P002742   ,Foul Drawn (4),RV,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,0,07:04,23,279,"THOMAS, WILL",P005856   ,Assist (1),AS,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,14,07:04,23,280,"DUBLJEVIC, BOJAN",P002742   ,Free Throw In (1/1 -  9 pt),FTM,65.0,30.0,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,44,06:39,24,282,"MUSLI, DEJAN",PLUR      ,Two Pointer (2/2 -  4 pt),2FGM,65.0,32.0,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,21,06:37,24,283,"WACZYNSKI, ADAM",PLDX      ,Assist (1),AS,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,9,06:18,24,284,"VAN ROSSOM, SAM",PLRQ      ,Missed Three Pointer (0/2 -  4 pt),3FGA,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,42,06:16,24,285,"DOORNEKAMP, AARON",P002763   ,Off Rebound (1),O,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,9,06:10,24,286,"VAN ROSSOM, SAM",PLRQ      ,Missed Three Pointer (0/3 -  4 pt),3FGA,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,14,06:06,24,287,"DUBLJEVIC, BOJAN",P002742   ,Off Rebound (1),O,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,9,05:58,25,289,"VAN ROSSOM, SAM",PLRQ      ,Turnover (2),TO,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,21,05:57,25,290,"WACZYNSKI, ADAM",PLDX      ,Steal (2),ST,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,21,05:57,25,291,"WACZYNSKI, ADAM",PLDX      ,Missed Two Pointer (1/4 -  2 pt),2FGA,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,9,05:38,25,292,"DIAZ, ALBERTO",P004213   ,Foul (3),CM,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,0,05:38,25,293,"THOMAS, WILL",P005856   ,Foul Drawn (2),RV,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,9,05:38,25,294,"VAN ROSSOM, SAM",PLRQ      ,Out,OUT,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,14,05:38,25,295,"DUBLJEVIC, BOJAN",P002742   ,Out,OUT,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,16,05:38,25,296,"VIVES, GUILLEM",P002361   ,In,IN,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,21,05:38,25,297,"PLEISS, TIBOR",PLHK      ,In,IN,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,17,05:28,25,298,"MARTINEZ, RAFA",P001351   ,Missed Three Pointer (3/4 -  11 pt),3FGA,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,23,05:26,25,299,"BROOKS, JEFF",P004117   ,Def Rebound (2),D,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,9,05:05,25,300,"DIAZ, ALBERTO",P004213   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,44,05:05,25,301,"MUSLI, DEJAN",PLUR      ,Off Rebound (1),O,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,17,05:05,25,302,"MARTINEZ, RAFA",P001351   ,Foul (3),CM,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,44,05:05,25,303,"MUSLI, DEJAN",PLUR      ,Foul Drawn (2),RV,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,6,05:05,25,304,"ABALDE, ALBERTO",P003733   ,In,IN,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,17,05:05,25,305,"MARTINEZ, RAFA",P001351   ,Out,OUT,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,32,05:05,25,306,"GREEN, ERICK",P005159   ,In,IN,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,42,05:05,25,307,"DOORNEKAMP, AARON",P002763   ,Out,OUT,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,23,05:05,25,308,"BROOKS, JEFF",P004117   ,Out,OUT,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,43,05:05,25,309,"SUAREZ, CARLOS",PJJS      ,In,IN,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,10,04:56,26,311,"SALIN, SASU",P002820   ,Missed Three Pointer (2/3 -  6 pt),3FGA,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,9,04:54,26,312,"DIAZ, ALBERTO",P004213   ,Off Rebound (1),O,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,21,04:51,26,313,"WACZYNSKI, ADAM",PLDX      ,Three Pointer (1/2 -  5 pt),3FGM,65.0,35.0,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,9,04:50,26,314,"DIAZ, ALBERTO",P004213   ,Assist (1),AS,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,21,04:34,26,315,"WACZYNSKI, ADAM",PLDX      ,Foul (2),CM,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,6,04:34,26,316,"ABALDE, ALBERTO",P003733   ,Foul Drawn (1),RV,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+          ,,,04:34,26,317,,          ,TV Time Out (1),TOUT_TV,,,,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,16,04:18,26,318,"VIVES, GUILLEM",P002361   ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,43,04:16,26,319,"SUAREZ, CARLOS",PJJS      ,Def Rebound (3),D,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,21,03:55,27,321,"WACZYNSKI, ADAM",PLDX      ,Three Pointer (2/3 -  8 pt),3FGM,65.0,38.0,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,44,03:53,27,322,"MUSLI, DEJAN",PLUR      ,Assist (1),AS,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,0,03:31,27,323,"THOMAS, WILL",P005856   ,Three Pointer (1/1 -  9 pt),3FGM,68.0,38.0,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,16,03:28,27,324,"VIVES, GUILLEM",P002361   ,Assist (2),AS,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,10,03:11,27,325,"SALIN, SASU",P002820   ,Missed Three Pointer (2/4 -  6 pt),3FGA,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,,03:11,27,326,,          ,Off Rebound (3),O,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,0,03:11,27,327,"THOMAS, WILL",P005856   ,Foul (1),CM,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,43,03:11,27,328,"SUAREZ, CARLOS",PJJS      ,Foul Drawn (2),RV,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,44,03:04,27,329,"MUSLI, DEJAN",PLUR      ,Missed Two Pointer (2/3 -  4 pt),2FGA,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,16,03:02,27,330,"VIVES, GUILLEM",P002361   ,Def Rebound (1),D,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,16,02:40,28,332,"VIVES, GUILLEM",P002361   ,Missed Three Pointer (0/3 -  0 pt),3FGA,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,21,02:38,28,333,"WACZYNSKI, ADAM",PLDX      ,Def Rebound (1),D,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,21,02:33,28,334,"PLEISS, TIBOR",PLHK      ,Foul (2),CM,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,44,02:33,28,335,"MUSLI, DEJAN",PLUR      ,Foul Drawn (3),RV,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,9,02:33,28,336,"VAN ROSSOM, SAM",PLRQ      ,In,IN,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,16,02:33,28,337,"VIVES, GUILLEM",P002361   ,Out,OUT,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,12,02:33,28,338,"MILOSAVLJEVIC, DRAGAN",P002822   ,In,IN,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,21,02:33,28,339,"WACZYNSKI, ADAM",PLDX      ,Out,OUT,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,43,02:19,28,340,"SUAREZ, CARLOS",PJJS      ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,0,02:18,28,341,"THOMAS, WILL",P005856   ,Def Rebound (4),D,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,43,02:09,28,342,"SUAREZ, CARLOS",PJJS      ,Foul (2),CM,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,0,02:09,28,343,"THOMAS, WILL",P005856   ,Foul Drawn (3),RV,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,32,01:55,29,345,"GREEN, ERICK",P005159   ,Missed Three Pointer (1/2 -  19 pt),3FGA,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,,01:55,29,346,,          ,Off Rebound (4),O,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,12,01:55,29,347,"MILOSAVLJEVIC, DRAGAN",P002822   ,Foul (2),CM,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,21,01:55,29,349,"PLEISS, TIBOR",PLHK      ,Foul Drawn (3),RV,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,43,01:55,29,350,"SUAREZ, CARLOS",PJJS      ,Technical Foul (3),CMT,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,21,01:55,29,352,"PLEISS, TIBOR",PLHK      ,Missed Free Throw (1/2 -  3 pt),FTA,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,21,01:55,29,353,"PLEISS, TIBOR",PLHK      ,Free Throw In (2/3 -  4 pt),FTM,69.0,38.0,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,21,01:55,29,354,"PLEISS, TIBOR",PLHK      ,Free Throw In (3/4 -  5 pt),FTM,70.0,38.0,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,32,01:35,29,355,"GREEN, ERICK",P005159   ,Missed Three Pointer (1/3 -  19 pt),3FGA,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,10,01:32,29,356,"SALIN, SASU",P002820   ,Def Rebound (2),D,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,44,01:18,29,357,"MUSLI, DEJAN",PLUR      ,Missed Two Pointer (2/4 -  4 pt),2FGA,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,44,01:18,29,358,"MUSLI, DEJAN",PLUR      ,Shot Rejected (1),AG,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,21,01:15,29,359,"PLEISS, TIBOR",PLHK      ,Block (4),FV,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,43,01:12,29,360,"SUAREZ, CARLOS",PJJS      ,Off Rebound (1),O,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,43,01:12,29,361,"SUAREZ, CARLOS",PJJS      ,Two Pointer (1/2 -  2 pt),2FGM,70.0,40.0,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,,00:56,30,364,,          ,Time Out (1),TOUT,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,32,00:50,30,365,"GREEN, ERICK",P005159   ,Missed Three Pointer (1/4 -  19 pt),3FGA,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,9,00:48,30,366,"DIAZ, ALBERTO",P004213   ,Def Rebound (1),D,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,43,00:32,30,367,"SUAREZ, CARLOS",PJJS      ,Two Pointer (2/3 -  4 pt),2FGM,70.0,42.0,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,10,00:30,30,368,"SALIN, SASU",P002820   ,Assist (2),AS,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,6,00:15,30,369,"ABALDE, ALBERTO",P003733   ,Three Pointer (3/3 -  13 pt),3FGM,73.0,42.0,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,32,00:13,30,370,"GREEN, ERICK",P005159   ,Assist (5),AS,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,44,00:01,30,371,"MUSLI, DEJAN",PLUR      ,Missed Two Pointer (2/5 -  4 pt),2FGA,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,21,00:00,30,372,"PLEISS, TIBOR",PLHK      ,Def Rebound (5),D,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+          ,,,,31,374,,          ,End Period,EP,,,,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+          ,,,,31,377,,          ,Begin Period,BP,,,,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,2,10:00,31,375,"OKOUO, VINY",P005363   ,In,IN,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,44,10:00,31,376,"MUSLI, DEJAN",PLUR      ,Out,OUT,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,6,09:39,31,378,"ABALDE, ALBERTO",P003733   ,Two Pointer (3/4 -  15 pt),2FGM,75.0,42.0,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,9,09:38,31,379,"VAN ROSSOM, SAM",PLRQ      ,Assist (5),AS,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,9,09:28,31,380,"VAN ROSSOM, SAM",PLRQ      ,Foul (1),CM,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,10,09:28,31,381,"SALIN, SASU",P002820   ,Foul Drawn (4),RV,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,43,09:12,31,382,"SUAREZ, CARLOS",PJJS      ,Missed Two Pointer (2/4 -  4 pt),2FGA,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,10,09:10,31,383,"SALIN, SASU",P002820   ,Off Rebound (1),O,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,10,09:06,31,384,"SALIN, SASU",P002820   ,Turnover (2),TO,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,0,09:04,31,385,"THOMAS, WILL",P005856   ,Steal (2),ST,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,21,08:41,32,387,"PLEISS, TIBOR",PLHK      ,Missed Two Pointer (1/2 -  5 pt),2FGA,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,9,08:39,32,388,"DIAZ, ALBERTO",P004213   ,Def Rebound (2),D,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,2,08:28,32,389,"OKOUO, VINY",P005363   ,Offensive Foul (1),OF,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,2,08:28,32,390,"OKOUO, VINY",P005363   ,Turnover (1),TO,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,6,08:28,32,391,"ABALDE, ALBERTO",P003733   ,Foul Drawn (2),RV,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,0,08:28,32,392,"THOMAS, WILL",P005856   ,Out,OUT,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,14,08:28,32,393,"DUBLJEVIC, BOJAN",P002742   ,In,IN,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,21,08:28,32,394,"PLEISS, TIBOR",PLHK      ,Out,OUT,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,42,08:28,32,395,"DOORNEKAMP, AARON",P002763   ,In,IN,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,9,08:12,32,396,"VAN ROSSOM, SAM",PLRQ      ,Missed Three Pointer (0/4 -  4 pt),3FGA,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,2,08:09,32,397,"OKOUO, VINY",P005363   ,Def Rebound (1),D,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,2,07:55,33,399,"OKOUO, VINY",P005363   ,Two Pointer (1/1 -  2 pt),2FGM,75.0,44.0,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,43,07:54,33,400,"SUAREZ, CARLOS",PJJS      ,Assist (3),AS,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,9,07:38,33,401,"VAN ROSSOM, SAM",PLRQ      ,Missed Three Pointer (0/5 -  4 pt),3FGA,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,2,07:36,33,402,"OKOUO, VINY",P005363   ,Def Rebound (2),D,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,6,07:29,33,403,"ABALDE, ALBERTO",P003733   ,Foul (1),CM,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,10,07:29,33,404,"SALIN, SASU",P002820   ,Foul Drawn (5),RV,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,17,07:29,33,405,"MARTINEZ, RAFA",P001351   ,In,IN,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,32,07:29,33,406,"GREEN, ERICK",P005159   ,Out,OUT,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,10,07:29,33,407,"SALIN, SASU",P002820   ,Out,OUT,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,11,07:29,33,408,"DIEZ, DANIEL",P003198   ,In,IN,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,21,07:29,33,409,"WACZYNSKI, ADAM",PLDX      ,In,IN,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,43,07:29,33,410,"SUAREZ, CARLOS",PJJS      ,Out,OUT,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,14,07:18,33,411,"DUBLJEVIC, BOJAN",P002742   ,Foul (3),CM,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,2,07:18,33,412,"OKOUO, VINY",P005363   ,Foul Drawn (1),RV,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,21,07:06,33,413,"WACZYNSKI, ADAM",PLDX      ,Three Pointer (3/4 -  11 pt),3FGM,75.0,47.0,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,9,07:04,33,414,"DIAZ, ALBERTO",P004213   ,Assist (2),AS,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,6,06:45,34,416,"ABALDE, ALBERTO",P003733   ,Three Pointer (4/4 -  18 pt),3FGM,78.0,47.0,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,9,06:43,34,417,"VAN ROSSOM, SAM",PLRQ      ,Assist (6),AS,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,21,06:18,34,418,"WACZYNSKI, ADAM",PLDX      ,Two Pointer (2/5 -  13 pt),2FGM,78.0,49.0,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,42,06:01,34,419,"DOORNEKAMP, AARON",P002763   ,Two Pointer (1/2 -  5 pt),2FGM,80.0,49.0,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,9,05:59,35,421,"VAN ROSSOM, SAM",PLRQ      ,Assist (7),AS,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,21,05:45,35,422,"WACZYNSKI, ADAM",PLDX      ,Two Pointer (3/6 -  15 pt),2FGM,80.0,51.0,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,14,05:27,35,423,"DUBLJEVIC, BOJAN",P002742   ,Two Pointer (2/4 -  11 pt),2FGM,82.0,51.0,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,42,05:25,35,424,"DOORNEKAMP, AARON",P002763   ,Assist (3),AS,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,21,05:09,35,425,"WACZYNSKI, ADAM",PLDX      ,Missed Three Pointer (3/5 -  15 pt),3FGA,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,,05:09,35,426,,          ,Def Rebound (2),D,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,3,05:09,35,427,"PUERTO, JOSEP",P006643   ,In,IN,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,9,05:09,35,428,"VAN ROSSOM, SAM",PLRQ      ,Out,OUT,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,14,04:53,36,430,"DUBLJEVIC, BOJAN",P002742   ,Missed Three Pointer (2/4 -  11 pt),3FGA,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,9,04:51,36,431,"DIAZ, ALBERTO",P004213   ,Def Rebound (3),D,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,9,04:41,36,432,"DIAZ, ALBERTO",P004213   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,9,04:41,36,433,"DIAZ, ALBERTO",P004213   ,Shot Rejected (1),AG,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,3,04:39,36,434,"PUERTO, JOSEP",P006643   ,Block (1),FV,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,14,04:37,36,435,"DUBLJEVIC, BOJAN",P002742   ,Def Rebound (3),D,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,2,04:30,36,436,"OKOUO, VINY",P005363   ,Foul (2),CM,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,3,04:30,36,437,"PUERTO, JOSEP",P006643   ,Foul Drawn (1),RV,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+          ,,,04:30,36,438,,          ,TV Time Out (2),TOUT_TV,,,,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,14,04:30,36,439,"DUBLJEVIC, BOJAN",P002742   ,Out,OUT,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,51,04:30,36,440,"HLINASON, TRYGGVI",P008041   ,In,IN,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,3,04:30,36,441,"MCCALLUM, RAY",P008002   ,In,IN,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,6,04:30,36,442,"SOLUADE, MO",P004479   ,In,IN,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,9,04:30,36,443,"DIAZ, ALBERTO",P004213   ,Out,OUT,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,21,04:30,36,444,"WACZYNSKI, ADAM",PLDX      ,Out,OUT,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,3,04:30,36,445,"PUERTO, JOSEP",P006643   ,Free Throw In (1/1 -  1 pt),FTM,83.0,51.0,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,3,04:30,36,446,"PUERTO, JOSEP",P006643   ,Free Throw In (2/2 -  2 pt),FTM,84.0,51.0,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,6,04:16,36,447,"SOLUADE, MO",P004479   ,Turnover (1),TO,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,51,04:15,36,448,"HLINASON, TRYGGVI",P008041   ,Steal (1),ST,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,17,04:12,36,449,"MARTINEZ, RAFA",P001351   ,Missed Two Pointer (1/2 -  11 pt),2FGA,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,17,04:12,36,450,"MARTINEZ, RAFA",P001351   ,Shot Rejected (1),AG,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,6,04:12,36,451,"SOLUADE, MO",P004479   ,Block (1),FV,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,,04:12,36,452,,          ,Off Rebound (5),O,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,3,03:55,37,454,"PUERTO, JOSEP",P006643   ,Two Pointer (1/1 -  4 pt),2FGM,86.0,51.0,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,17,03:51,37,455,"MARTINEZ, RAFA",P001351   ,Assist (1),AS,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,2,03:38,37,456,"OKOUO, VINY",P005363   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,2,03:38,37,457,"OKOUO, VINY",P005363   ,Shot Rejected (1),AG,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,51,03:38,37,458,"HLINASON, TRYGGVI",P008041   ,Block (1),FV,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,,03:38,37,459,,          ,Off Rebound (6),O,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,6,03:29,37,460,"SOLUADE, MO",P004479   ,Turnover (2),TO,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,6,03:29,37,461,"ABALDE, ALBERTO",P003733   ,Out,OUT,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,9,03:29,37,462,"VAN ROSSOM, SAM",PLRQ      ,In,IN,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,42,03:09,37,463,"DOORNEKAMP, AARON",P002763   ,Missed Three Pointer (1/3 -  5 pt),3FGA,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,,03:08,37,464,,          ,Def Rebound (3),D,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,6,02:53,38,466,"SOLUADE, MO",P004479   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,17,02:51,38,467,"MARTINEZ, RAFA",P001351   ,Def Rebound (1),D,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,12,02:44,38,468,"MILOSAVLJEVIC, DRAGAN",P002822   ,Foul (3),CM,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,9,02:44,38,469,"VAN ROSSOM, SAM",PLRQ      ,Foul Drawn (2),RV,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,51,02:36,38,470,"HLINASON, TRYGGVI",P008041   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,6,02:34,38,471,"SOLUADE, MO",P004479   ,Def Rebound (1),D,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,3,02:22,38,472,"MCCALLUM, RAY",P008002   ,Missed Two Pointer (3/6 -  6 pt),2FGA,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,2,02:20,38,473,"OKOUO, VINY",P005363   ,Off Rebound (1),O,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,2,02:20,38,474,"OKOUO, VINY",P005363   ,Missed Two Pointer (1/3 -  2 pt),2FGA,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,51,02:18,38,475,"HLINASON, TRYGGVI",P008041   ,Def Rebound (1),D,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,17,02:14,38,476,"MARTINEZ, RAFA",P001351   ,Missed Three Pointer (3/5 -  11 pt),3FGA,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,2,02:12,38,477,"OKOUO, VINY",P005363   ,Def Rebound (3),D,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,2,01:57,39,479,"OKOUO, VINY",P005363   ,Missed Two Pointer (1/4 -  2 pt),2FGA,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,9,01:55,39,480,"VAN ROSSOM, SAM",PLRQ      ,Def Rebound (3),D,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,12,01:48,39,481,"MILOSAVLJEVIC, DRAGAN",P002822   ,Foul (4),CM,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,3,01:48,39,482,"PUERTO, JOSEP",P006643   ,Foul Drawn (2),RV,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,0,01:48,39,483,"THOMAS, WILL",P005856   ,In,IN,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,42,01:48,39,484,"DOORNEKAMP, AARON",P002763   ,Out,OUT,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,17,01:38,39,485,"MARTINEZ, RAFA",P001351   ,Three Pointer (4/6 -  14 pt),3FGM,89.0,51.0,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,9,01:38,39,486,"VAN ROSSOM, SAM",PLRQ      ,Assist (8),AS,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,11,01:21,39,487,"DIEZ, DANIEL",P003198   ,Missed Three Pointer (0/1 -  6 pt),3FGA,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,17,01:19,39,488,"MARTINEZ, RAFA",P001351   ,Def Rebound (2),D,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,3,00:57,40,490,"PUERTO, JOSEP",P006643   ,Missed Two Pointer (1/2 -  4 pt),2FGA,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,3,00:55,40,491,"MCCALLUM, RAY",P008002   ,Def Rebound (3),D,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,3,00:51,40,492,"MCCALLUM, RAY",P008002   ,Missed Two Pointer (3/7 -  6 pt),2FGA,,,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,0,00:49,40,493,"THOMAS, WILL",P005856   ,Def Rebound (5),D,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,3,00:28,40,494,"PUERTO, JOSEP",P006643   ,Missed Three Pointer (0/1 -  4 pt),3FGA,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,51,00:25,40,495,"HLINASON, TRYGGVI",P008041   ,Off Rebound (1),O,,,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+PAM       ,,51,00:25,40,496,"HLINASON, TRYGGVI",P008041   ,Two Pointer (1/2 -  2 pt),2FGM,91.0,51.0,Valencia Basket,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+MAL       ,,3,00:00,40,497,"MCCALLUM, RAY",P008002   ,Two Pointer (4/8 -  8 pt),2FGM,91.0,53.0,Unicaja Malaga,0,Valencia Basket,PAM,Unicaja Malaga,MAL
+          ,,,,41,500,,          ,End Game,EG,,,,0,Valencia Basket,PAM,Unicaja Malaga,MAL

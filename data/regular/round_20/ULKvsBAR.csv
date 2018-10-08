@@ -1,528 +1,528 @@
-CODETEAM,COMMENT,DORSAL,MARKERTIME,MINUTE,NUMBEROFPLAY,PLAYER,PLAYER_ID,PLAYINFO,PLAYTYPE,POINTS_A,POINTS_B,TEAM,TYPE
-          ,,,,1,2,,          ,Begin Period,BP,,,,0
-ULK       ,,11,09:54,1,3,"WANAMAKER, BRAD",P005838   ,Turnover (1),TO,,,Fenerbahce Dogus Istanbul,0
-BAR       ,,9,09:32,1,4,"HANGA, ADAM",P005099   ,Three Pointer (1/1 -  3 pt),3FGM,,3.0,FC Barcelona Lassa,0
-BAR       ,,5,09:31,1,5,"RIBAS, PAU",PJUG      ,Assist (1),AS,,,FC Barcelona Lassa,0
-ULK       ,,16,09:09,1,6,"SLOUKAS, KOSTAS",P001926   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Fenerbahce Dogus Istanbul,0
-BAR       ,,45,09:08,1,7,"MOERMAN, ADRIEN",P001833   ,Foul (1),CM,,,FC Barcelona Lassa,0
-ULK       ,,24,09:08,1,8,"VESELY, JAN",P000925   ,Foul Drawn (1),RV,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,,09:08,1,9,,          ,Off Rebound (1),O,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,24,09:00,1,10,"VESELY, JAN",P000925   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Fenerbahce Dogus Istanbul,0
-BAR       ,,45,08:59,2,12,"MOERMAN, ADRIEN",P001833   ,Def Rebound (1),D,,,FC Barcelona Lassa,0
-BAR       ,,5,08:37,2,13,"RIBAS, PAU",PJUG      ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,FC Barcelona Lassa,0
-ULK       ,,1,08:36,2,14,"THOMPSON, JASON",P007998   ,Def Rebound (1),D,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,24,08:16,2,15,"VESELY, JAN",P000925   ,Two Pointer (1/2 -  2 pt),2FGM,2.0,3.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,16,08:14,2,16,"SLOUKAS, KOSTAS",P001926   ,Assist (1),AS,,,Fenerbahce Dogus Istanbul,0
-BAR       ,,9,08:01,2,17,"HANGA, ADAM",P005099   ,Two Pointer (1/1 -  5 pt),2FGM,2.0,5.0,FC Barcelona Lassa,0
-BAR       ,,44,07:59,3,19,"TOMIC, ANTE",P002507   ,Assist (1),AS,,,FC Barcelona Lassa,0
-BAR       ,,9,07:45,3,20,"HANGA, ADAM",P005099   ,Foul (1),CM,,,FC Barcelona Lassa,0
-ULK       ,,70,07:45,3,21,"DATOME, LUIGI",PCCD      ,Foul Drawn (1),RV,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,1,07:32,3,22,"THOMPSON, JASON",P007998   ,Two Pointer (1/1 -  2 pt),2FGM,4.0,5.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,11,07:29,3,23,"WANAMAKER, BRAD",P005838   ,Assist (1),AS,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,16,07:20,3,24,"SLOUKAS, KOSTAS",P001926   ,Foul (1),CM,,,Fenerbahce Dogus Istanbul,0
-BAR       ,,25,07:20,3,25,"KOPONEN, PETTERI",P004178   ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0
-BAR       ,,25,07:12,3,26,"KOPONEN, PETTERI",P004178   ,Three Pointer (1/1 -  3 pt),3FGM,4.0,8.0,FC Barcelona Lassa,0
-BAR       ,,5,07:10,3,27,"RIBAS, PAU",PJUG      ,Assist (2),AS,,,FC Barcelona Lassa,0
-ULK       ,,11,06:52,4,29,"WANAMAKER, BRAD",P005838   ,Three Pointer (1/1 -  3 pt),3FGM,7.0,8.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,16,06:50,4,30,"SLOUKAS, KOSTAS",P001926   ,Assist (2),AS,,,Fenerbahce Dogus Istanbul,0
-BAR       ,,25,06:24,4,31,"KOPONEN, PETTERI",P004178   ,Missed Two Pointer (0/1 -  3 pt),2FGA,,,FC Barcelona Lassa,0
-ULK       ,,24,06:21,4,32,"VESELY, JAN",P000925   ,Def Rebound (1),D,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,70,06:10,4,33,"DATOME, LUIGI",PCCD      ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Fenerbahce Dogus Istanbul,0
-BAR       ,,45,06:08,4,34,"MOERMAN, ADRIEN",P001833   ,Def Rebound (2),D,,,FC Barcelona Lassa,0
-BAR       ,,45,06:02,4,35,"MOERMAN, ADRIEN",P001833   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,FC Barcelona Lassa,0
-ULK       ,,1,05:58,5,37,"THOMPSON, JASON",P007998   ,Def Rebound (2),D,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,24,05:36,5,38,"VESELY, JAN",P000925   ,Two Pointer (2/3 -  4 pt),2FGM,9.0,8.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,16,05:34,5,39,"SLOUKAS, KOSTAS",P001926   ,Assist (3),AS,,,Fenerbahce Dogus Istanbul,0
-BAR       ,,9,05:21,5,40,"HANGA, ADAM",P005099   ,Missed Three Pointer (1/2 -  5 pt),3FGA,,,FC Barcelona Lassa,0
-BAR       ,,45,05:18,5,41,"MOERMAN, ADRIEN",P001833   ,Off Rebound (1),O,,,FC Barcelona Lassa,0
-BAR       ,,9,05:09,5,42,"HANGA, ADAM",P005099   ,Missed Two Pointer (1/2 -  5 pt),2FGA,,,FC Barcelona Lassa,0
-ULK       ,,,05:09,5,43,,          ,Def Rebound (1),D,,,Fenerbahce Dogus Istanbul,0
-BAR       ,,18,05:09,5,44,"ORIOLA, PIERRE",P005917   ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,44,05:09,5,45,"TOMIC, ANTE",P002507   ,Out,OUT,,,FC Barcelona Lassa,0
-ULK       ,,24,04:46,6,47,"VESELY, JAN",P000925   ,Turnover (1),TO,,,Fenerbahce Dogus Istanbul,0
-BAR       ,,5,04:45,6,48,"RIBAS, PAU",PJUG      ,Steal (1),ST,,,FC Barcelona Lassa,0
-BAR       ,,5,04:35,6,49,"RIBAS, PAU",PJUG      ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,FC Barcelona Lassa,0
-ULK       ,,11,04:34,6,50,"WANAMAKER, BRAD",P005838   ,Def Rebound (1),D,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,70,04:29,6,51,"DATOME, LUIGI",PCCD      ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,16,04:26,6,52,"SLOUKAS, KOSTAS",P001926   ,Off Rebound (1),O,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,24,04:19,6,53,"VESELY, JAN",P000925   ,Two Pointer (3/4 -  6 pt),2FGM,11.0,8.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,11,04:17,6,54,"WANAMAKER, BRAD",P005838   ,Assist (2),AS,,,Fenerbahce Dogus Istanbul,0
-BAR       ,,9,03:53,7,56,"HANGA, ADAM",P005099   ,Turnover (1),TO,,,FC Barcelona Lassa,0
-ULK       ,,24,03:52,7,57,"VESELY, JAN",P000925   ,Steal (1),ST,,,Fenerbahce Dogus Istanbul,0
-BAR       ,,45,03:51,7,58,"MOERMAN, ADRIEN",P001833   ,Foul (2),CM,,,FC Barcelona Lassa,0
-ULK       ,,24,03:51,7,59,"VESELY, JAN",P000925   ,Foul Drawn (2),RV,,,Fenerbahce Dogus Istanbul,0
-          ,,,03:51,7,60,,          ,TV Time Out (1),TOUT_TV,,,,0
-ULK       ,,1,03:51,7,61,"THOMPSON, JASON",P007998   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,4,03:51,7,62,"MELLI, NICOLO",P002849   ,In,IN,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,23,03:51,7,63,"GUDURIC, MARKO",P004004   ,In,IN,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,70,03:51,7,64,"DATOME, LUIGI",PCCD      ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
-BAR       ,,5,03:51,7,65,"RIBAS, PAU",PJUG      ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,13,03:51,7,66,"HEURTEL, THOMAS",PKLT      ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,30,03:51,7,67,"CLAVER, VICTOR",P000556   ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,45,03:51,7,68,"MOERMAN, ADRIEN",P001833   ,Out,OUT,,,FC Barcelona Lassa,0
-ULK       ,,24,03:51,7,69,"VESELY, JAN",P000925   ,Missed Free Throw (0/1 -  6 pt),FTA,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,24,03:51,7,70,"VESELY, JAN",P000925   ,Free Throw In (1/2 -  7 pt),FTM,12.0,8.0,Fenerbahce Dogus Istanbul,0
-BAR       ,,25,03:29,7,71,"KOPONEN, PETTERI",P004178   ,Three Pointer (2/2 -  6 pt),3FGM,12.0,11.0,FC Barcelona Lassa,0
-BAR       ,,30,03:27,7,72,"CLAVER, VICTOR",P000556   ,Assist (1),AS,,,FC Barcelona Lassa,0
-BAR       ,,25,03:16,7,73,"KOPONEN, PETTERI",P004178   ,Foul (1),CM,,,FC Barcelona Lassa,0
-ULK       ,,11,03:16,7,74,"WANAMAKER, BRAD",P005838   ,Foul Drawn (1),RV,,,Fenerbahce Dogus Istanbul,0
-BAR       ,,9,03:16,7,75,"HANGA, ADAM",P005099   ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,21,03:16,7,76,"SANDERS, RAKIM",P005001   ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,30,03:09,7,77,"CLAVER, VICTOR",P000556   ,Block (1),FV,,,FC Barcelona Lassa,0
-ULK       ,,4,03:09,7,78,"MELLI, NICOLO",P002849   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,4,03:09,7,79,"MELLI, NICOLO",P002849   ,Shot Rejected (1),AG,,,Fenerbahce Dogus Istanbul,0
-BAR       ,,18,03:09,7,80,"ORIOLA, PIERRE",P005917   ,Def Rebound (1),D,,,FC Barcelona Lassa,0
-BAR       ,,18,03:09,7,81,"ORIOLA, PIERRE",P005917   ,Two Pointer (1/1 -  2 pt),2FGM,12.0,13.0,FC Barcelona Lassa,0
-BAR       ,,25,03:09,7,82,"KOPONEN, PETTERI",P004178   ,Assist (1),AS,,,FC Barcelona Lassa,0
-ULK       ,,23,02:22,8,84,"GUDURIC, MARKO",P004004   ,Turnover (1),TO,,,Fenerbahce Dogus Istanbul,0
-BAR       ,,30,02:21,8,85,"CLAVER, VICTOR",P000556   ,Steal (1),ST,,,FC Barcelona Lassa,0
-BAR       ,,30,02:14,8,86,"CLAVER, VICTOR",P000556   ,Three Pointer (1/1 -  3 pt),3FGM,12.0,16.0,FC Barcelona Lassa,0
-BAR       ,,13,02:13,8,87,"HEURTEL, THOMAS",PKLT      ,Assist (1),AS,,,FC Barcelona Lassa,0
-ULK       ,,,02:13,8,88,,          ,Time Out (1),TOUT,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,16,02:13,8,89,"SLOUKAS, KOSTAS",P001926   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,70,02:13,8,90,"DATOME, LUIGI",PCCD      ,In,IN,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,11,01:57,9,92,"WANAMAKER, BRAD",P005838   ,Three Pointer (2/2 -  6 pt),3FGM,15.0,16.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,4,01:55,9,93,"MELLI, NICOLO",P002849   ,Assist (1),AS,,,Fenerbahce Dogus Istanbul,0
-BAR       ,,21,01:35,9,94,"SANDERS, RAKIM",P005001   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,FC Barcelona Lassa,0
-ULK       ,,,01:33,9,95,,          ,Def Rebound (2),D,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,24,01:16,9,96,"VESELY, JAN",P000925   ,Missed Two Pointer (3/5 -  7 pt),2FGA,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,11,01:14,9,97,"WANAMAKER, BRAD",P005838   ,Off Rebound (1),O,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,11,01:12,9,98,"WANAMAKER, BRAD",P005838   ,Two Pointer (1/1 -  8 pt),2FGM,17.0,16.0,Fenerbahce Dogus Istanbul,0
-BAR       ,,21,00:51,10,100,"SANDERS, RAKIM",P005001   ,Turnover (1),TO,,,FC Barcelona Lassa,0
-BAR       ,,9,00:51,10,101,"HANGA, ADAM",P005099   ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,25,00:51,10,102,"KOPONEN, PETTERI",P004178   ,Out,OUT,,,FC Barcelona Lassa,0
-ULK       ,,11,00:38,10,103,"WANAMAKER, BRAD",P005838   ,Two Pointer (2/2 -  10 pt),2FGM,19.0,16.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,24,00:36,10,104,"VESELY, JAN",P000925   ,Assist (1),AS,,,Fenerbahce Dogus Istanbul,0
-BAR       ,,30,00:16,10,105,"CLAVER, VICTOR",P000556   ,Two Pointer (1/1 -  5 pt),2FGM,19.0,18.0,FC Barcelona Lassa,0
-BAR       ,,18,00:01,10,106,"ORIOLA, PIERRE",P005917   ,Foul (1),CM,,,FC Barcelona Lassa,0
-ULK       ,,11,00:01,10,107,"WANAMAKER, BRAD",P005838   ,Foul Drawn (2),RV,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,11,00:01,10,108,"WANAMAKER, BRAD",P005838   ,Free Throw In (1/1 -  11 pt),FTM,20.0,18.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,11,00:01,10,109,"WANAMAKER, BRAD",P005838   ,Free Throw In (2/2 -  12 pt),FTM,21.0,18.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,11,00:01,10,110,"WANAMAKER, BRAD",P005838   ,Free Throw In (3/3 -  13 pt),FTM,22.0,18.0,Fenerbahce Dogus Istanbul,0
-BAR       ,,21,00:01,10,111,"SANDERS, RAKIM",P005001   ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,FC Barcelona Lassa,0
-          ,,,,11,113,,          ,End Period,EP,,,,0
-          ,,,,11,114,,          ,Begin Period,BP,,,,0
-ULK       ,,4,09:45,11,115,"MELLI, NICOLO",P002849   ,Two Pointer (1/2 -  2 pt),2FGM,24.0,18.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,70,09:44,11,116,"DATOME, LUIGI",PCCD      ,Assist (1),AS,,,Fenerbahce Dogus Istanbul,0
-BAR       ,,13,09:24,11,117,"HEURTEL, THOMAS",PKLT      ,Three Pointer (1/1 -  3 pt),3FGM,24.0,21.0,FC Barcelona Lassa,0
-BAR       ,,21,09:23,11,118,"SANDERS, RAKIM",P005001   ,Assist (1),AS,,,FC Barcelona Lassa,0
-ULK       ,,23,09:11,11,119,"GUDURIC, MARKO",P004004   ,Two Pointer (1/1 -  2 pt),2FGM,26.0,21.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,11,09:08,11,120,"WANAMAKER, BRAD",P005838   ,Assist (3),AS,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,70,08:55,12,122,"DATOME, LUIGI",PCCD      ,Foul (1),CM,,,Fenerbahce Dogus Istanbul,0
-BAR       ,,21,08:55,12,123,"SANDERS, RAKIM",P005001   ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0
-ULK       ,,11,08:55,12,124,"WANAMAKER, BRAD",P005838   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,35,08:55,12,125,"MUHAMMED, ALI",P001324   ,In,IN,,,Fenerbahce Dogus Istanbul,0
-BAR       ,,13,08:44,12,126,"HEURTEL, THOMAS",PKLT      ,Three Pointer (2/2 -  6 pt),3FGM,26.0,24.0,FC Barcelona Lassa,0
-BAR       ,,9,08:28,12,127,"HANGA, ADAM",P005099   ,Foul (2),CM,,,FC Barcelona Lassa,0
-ULK       ,,23,08:28,12,128,"GUDURIC, MARKO",P004004   ,Foul Drawn (1),RV,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,70,08:24,12,129,"DATOME, LUIGI",PCCD      ,Two Pointer (1/2 -  2 pt),2FGM,28.0,24.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,23,08:02,12,130,"GUDURIC, MARKO",P004004   ,Foul (1),CM,,,Fenerbahce Dogus Istanbul,0
-BAR       ,,18,08:02,12,131,"ORIOLA, PIERRE",P005917   ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0
-ULK       ,,1,08:02,12,132,"THOMPSON, JASON",P007998   ,In,IN,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,24,08:02,12,133,"VESELY, JAN",P000925   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
-BAR       ,,18,08:02,12,134,"ORIOLA, PIERRE",P005917   ,Free Throw In (1/1 -  3 pt),FTM,28.0,25.0,FC Barcelona Lassa,0
-BAR       ,,13,08:02,12,135,"HEURTEL, THOMAS",PKLT      ,Assist (2),AS,,,FC Barcelona Lassa,0
-BAR       ,,18,08:02,12,136,"ORIOLA, PIERRE",P005917   ,Missed Free Throw (1/2 -  3 pt),FTA,,,FC Barcelona Lassa,0
-ULK       ,,70,08:02,12,137,"DATOME, LUIGI",PCCD      ,Def Rebound (1),D,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,4,07:49,13,139,"MELLI, NICOLO",P002849   ,Three Pointer (1/1 -  5 pt),3FGM,31.0,25.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,23,07:47,13,140,"GUDURIC, MARKO",P004004   ,Assist (1),AS,,,Fenerbahce Dogus Istanbul,0
-BAR       ,,21,07:32,13,141,"SANDERS, RAKIM",P005001   ,Turnover (2),TO,,,FC Barcelona Lassa,0
-ULK       ,,4,07:08,13,142,"MELLI, NICOLO",P002849   ,Two Pointer (2/3 -  7 pt),2FGM,33.0,25.0,Fenerbahce Dogus Istanbul,0
-BAR       ,,,07:07,13,143,,          ,Time Out (1),TOUT,,,FC Barcelona Lassa,0
-          ,,,07:07,13,144,,          ,TV Time Out (2),TOUT_TV,,,,0
-BAR       ,,5,07:07,13,145,"RIBAS, PAU",PJUG      ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,13,07:07,13,146,"HEURTEL, THOMAS",PKLT      ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,18,07:07,13,147,"ORIOLA, PIERRE",P005917   ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,44,07:07,13,148,"TOMIC, ANTE",P002507   ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,21,06:48,14,150,"SANDERS, RAKIM",P005001   ,Missed Three Pointer (0/3 -  0 pt),3FGA,,,FC Barcelona Lassa,0
-BAR       ,,21,06:45,14,151,"SANDERS, RAKIM",P005001   ,Off Rebound (1),O,,,FC Barcelona Lassa,0
-BAR       ,,30,06:44,14,152,"CLAVER, VICTOR",P000556   ,Two Pointer (2/2 -  7 pt),2FGM,33.0,27.0,FC Barcelona Lassa,0
-BAR       ,,5,06:44,14,153,"RIBAS, PAU",PJUG      ,Assist (3),AS,,,FC Barcelona Lassa,0
-ULK       ,,4,06:21,14,154,"MELLI, NICOLO",P002849   ,Two Pointer (3/4 -  9 pt),2FGM,35.0,27.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,1,06:19,14,155,"THOMPSON, JASON",P007998   ,Assist (1),AS,,,Fenerbahce Dogus Istanbul,0
-BAR       ,,9,06:04,14,156,"HANGA, ADAM",P005099   ,Three Pointer (2/3 -  8 pt),3FGM,35.0,30.0,FC Barcelona Lassa,0
-BAR       ,,30,06:03,14,157,"CLAVER, VICTOR",P000556   ,Assist (2),AS,,,FC Barcelona Lassa,0
-BAR       ,,44,05:44,15,159,"TOMIC, ANTE",P002507   ,Foul (1),CM,,,FC Barcelona Lassa,0
-ULK       ,,1,05:44,15,160,"THOMPSON, JASON",P007998   ,Foul Drawn (1),RV,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,1,05:33,15,161,"THOMPSON, JASON",P007998   ,Two Pointer (2/2 -  4 pt),2FGM,37.0,30.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,35,05:32,15,162,"MUHAMMED, ALI",P001324   ,Assist (1),AS,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,1,05:09,15,163,"THOMPSON, JASON",P007998   ,Foul (1),CM,,,Fenerbahce Dogus Istanbul,0
-BAR       ,,44,05:09,15,164,"TOMIC, ANTE",P002507   ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0
-BAR       ,,21,05:07,15,165,"SANDERS, RAKIM",P005001   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,FC Barcelona Lassa,0
-ULK       ,,35,05:05,15,166,"MUHAMMED, ALI",P001324   ,Def Rebound (1),D,,,Fenerbahce Dogus Istanbul,0
-BAR       ,,30,04:57,16,168,"CLAVER, VICTOR",P000556   ,Foul (1),CM,,,FC Barcelona Lassa,0
-ULK       ,,1,04:57,16,169,"THOMPSON, JASON",P007998   ,Foul Drawn (2),RV,,,Fenerbahce Dogus Istanbul,0
-BAR       ,,21,04:57,16,170,"SANDERS, RAKIM",P005001   ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,25,04:57,16,171,"KOPONEN, PETTERI",P004178   ,In,IN,,,FC Barcelona Lassa,0
-ULK       ,,1,04:57,16,172,"THOMPSON, JASON",P007998   ,Missed Free Throw (0/1 -  4 pt),FTA,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,1,04:57,16,173,"THOMPSON, JASON",P007998   ,Free Throw In (1/2 -  5 pt),FTM,38.0,30.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,4,04:57,16,174,"MELLI, NICOLO",P002849   ,Assist (2),AS,,,Fenerbahce Dogus Istanbul,0
-BAR       ,,25,04:43,16,175,"KOPONEN, PETTERI",P004178   ,Missed Two Pointer (0/2 -  6 pt),2FGA,,,FC Barcelona Lassa,0
-BAR       ,,44,04:40,16,176,"TOMIC, ANTE",P002507   ,Off Rebound (1),O,,,FC Barcelona Lassa,0
-BAR       ,,44,04:39,16,177,"TOMIC, ANTE",P002507   ,Two Pointer (1/1 -  2 pt),2FGM,38.0,32.0,FC Barcelona Lassa,0
-ULK       ,,35,04:33,16,178,"MUHAMMED, ALI",P001324   ,Turnover (1),TO,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,11,04:33,16,179,"WANAMAKER, BRAD",P005838   ,In,IN,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,35,04:33,16,180,"MUHAMMED, ALI",P001324   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
-BAR       ,,30,04:15,16,181,"CLAVER, VICTOR",P000556   ,Missed Three Pointer (1/2 -  7 pt),3FGA,,,FC Barcelona Lassa,0
-ULK       ,,11,04:13,16,182,"WANAMAKER, BRAD",P005838   ,Def Rebound (2),D,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,1,04:03,16,183,"THOMPSON, JASON",P007998   ,Missed Two Pointer (2/3 -  5 pt),2FGA,,,Fenerbahce Dogus Istanbul,0
-BAR       ,,9,04:01,16,184,"HANGA, ADAM",P005099   ,Def Rebound (1),D,,,FC Barcelona Lassa,0
-BAR       ,,44,03:51,17,186,"TOMIC, ANTE",P002507   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,FC Barcelona Lassa,0
-ULK       ,,23,03:49,17,187,"GUDURIC, MARKO",P004004   ,Def Rebound (1),D,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,23,03:33,17,188,"GUDURIC, MARKO",P004004   ,Turnover (2),TO,,,Fenerbahce Dogus Istanbul,0
-BAR       ,,30,03:33,17,189,"CLAVER, VICTOR",P000556   ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,45,03:33,17,190,"MOERMAN, ADRIEN",P001833   ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,44,03:19,17,191,"TOMIC, ANTE",P002507   ,Two Pointer (2/3 -  4 pt),2FGM,38.0,34.0,FC Barcelona Lassa,0
-BAR       ,,9,03:17,17,192,"HANGA, ADAM",P005099   ,Assist (1),AS,,,FC Barcelona Lassa,0
-ULK       ,,23,02:58,18,194,"GUDURIC, MARKO",P004004   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,Fenerbahce Dogus Istanbul,0
-BAR       ,,45,02:56,18,195,"MOERMAN, ADRIEN",P001833   ,Def Rebound (3),D,,,FC Barcelona Lassa,0
-BAR       ,,25,02:36,18,196,"KOPONEN, PETTERI",P004178   ,Three Pointer (3/3 -  9 pt),3FGM,38.0,37.0,FC Barcelona Lassa,0
-ULK       ,,,02:36,18,197,,          ,Time Out (1),TOUT,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,1,02:36,18,198,"THOMPSON, JASON",P007998   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,16,02:36,18,199,"SLOUKAS, KOSTAS",P001926   ,In,IN,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,23,02:36,18,200,"GUDURIC, MARKO",P004004   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,24,02:36,18,201,"VESELY, JAN",P000925   ,In,IN,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,70,02:19,18,202,"DATOME, LUIGI",PCCD      ,Missed Two Pointer (1/3 -  2 pt),2FGA,,,Fenerbahce Dogus Istanbul,0
-BAR       ,,25,02:17,18,203,"KOPONEN, PETTERI",P004178   ,Def Rebound (1),D,,,FC Barcelona Lassa,0
-BAR       ,,9,02:03,18,204,"HANGA, ADAM",P005099   ,Three Pointer (3/4 -  11 pt),3FGM,38.0,40.0,FC Barcelona Lassa,0
-BAR       ,,44,02:03,18,205,"TOMIC, ANTE",P002507   ,Assist (2),AS,,,FC Barcelona Lassa,0
-BAR       ,,5,01:51,19,207,"RIBAS, PAU",PJUG      ,Foul (1),CM,,,FC Barcelona Lassa,0
-ULK       ,,24,01:51,19,208,"VESELY, JAN",P000925   ,Foul Drawn (3),RV,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,11,01:42,19,209,"WANAMAKER, BRAD",P005838   ,Missed Two Pointer (2/3 -  13 pt),2FGA,,,Fenerbahce Dogus Istanbul,0
-BAR       ,,45,01:41,19,210,"MOERMAN, ADRIEN",P001833   ,Def Rebound (4),D,,,FC Barcelona Lassa,0
-ULK       ,,4,01:28,19,211,"MELLI, NICOLO",P002849   ,Foul (1),CM,,,Fenerbahce Dogus Istanbul,0
-BAR       ,,44,01:28,19,212,"TOMIC, ANTE",P002507   ,Foul Drawn (2),RV,,,FC Barcelona Lassa,0
-BAR       ,,30,01:28,19,213,"CLAVER, VICTOR",P000556   ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,45,01:28,19,214,"MOERMAN, ADRIEN",P001833   ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,44,01:28,19,215,"TOMIC, ANTE",P002507   ,Free Throw In (1/1 -  5 pt),FTM,38.0,41.0,FC Barcelona Lassa,0
-BAR       ,,5,01:28,19,216,"RIBAS, PAU",PJUG      ,Assist (4),AS,,,FC Barcelona Lassa,0
-BAR       ,,44,01:28,19,217,"TOMIC, ANTE",P002507   ,Free Throw In (2/2 -  6 pt),FTM,38.0,42.0,FC Barcelona Lassa,0
-BAR       ,,9,01:28,19,218,"HANGA, ADAM",P005099   ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,21,01:28,19,219,"SANDERS, RAKIM",P005001   ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,30,01:11,19,220,"CLAVER, VICTOR",P000556   ,Foul (2),CM,,,FC Barcelona Lassa,0
-ULK       ,,4,01:11,19,221,"MELLI, NICOLO",P002849   ,Foul Drawn (1),RV,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,4,01:11,19,222,"MELLI, NICOLO",P002849   ,Free Throw In (1/1 -  10 pt),FTM,39.0,42.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,4,01:11,19,223,"MELLI, NICOLO",P002849   ,Missed Free Throw (1/2 -  10 pt),FTA,,,Fenerbahce Dogus Istanbul,0
-BAR       ,,21,01:10,19,224,"SANDERS, RAKIM",P005001   ,Def Rebound (1),D,,,FC Barcelona Lassa,0
-BAR       ,,44,00:50,20,226,"TOMIC, ANTE",P002507   ,Two Pointer (3/4 -  8 pt),2FGM,39.0,44.0,FC Barcelona Lassa,0
-BAR       ,,25,00:49,20,227,"KOPONEN, PETTERI",P004178   ,Assist (2),AS,,,FC Barcelona Lassa,0
-ULK       ,,4,00:39,20,228,"MELLI, NICOLO",P002849   ,Two Pointer (4/5 -  12 pt),2FGM,41.0,44.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,11,00:38,20,229,"WANAMAKER, BRAD",P005838   ,Assist (4),AS,,,Fenerbahce Dogus Istanbul,0
-BAR       ,,5,00:35,20,230,"RIBAS, PAU",PJUG      ,Turnover (1),TO,,,FC Barcelona Lassa,0
-ULK       ,,24,00:35,20,231,"VESELY, JAN",P000925   ,Steal (2),ST,,,Fenerbahce Dogus Istanbul,0
-BAR       ,,44,00:32,20,232,"TOMIC, ANTE",P002507   ,Foul (2),CM,,,FC Barcelona Lassa,0
-ULK       ,,24,00:32,20,233,"VESELY, JAN",P000925   ,Foul Drawn (4),RV,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,24,00:32,20,234,"VESELY, JAN",P000925   ,Free Throw In (2/3 -  8 pt),FTM,42.0,44.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,24,00:32,20,235,"VESELY, JAN",P000925   ,Missed Free Throw (2/4 -  8 pt),FTA,,,Fenerbahce Dogus Istanbul,0
-BAR       ,,21,00:30,20,236,"SANDERS, RAKIM",P005001   ,Def Rebound (2),D,,,FC Barcelona Lassa,0
-BAR       ,,21,00:08,20,237,"SANDERS, RAKIM",P005001   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,FC Barcelona Lassa,0
-ULK       ,,,00:08,20,238,,          ,Def Rebound (3),D,,,Fenerbahce Dogus Istanbul,0
-BAR       ,,18,00:08,20,239,"ORIOLA, PIERRE",P005917   ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,44,00:08,20,240,"TOMIC, ANTE",P002507   ,Out,OUT,,,FC Barcelona Lassa,0
-ULK       ,,16,00:01,20,241,"SLOUKAS, KOSTAS",P001926   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Fenerbahce Dogus Istanbul,0
-          ,,,,21,243,,          ,End Period,EP,,,,0
-          ,,,,21,254,,          ,Begin Period,BP,,,,0
-ULK       ,,10,10:00,21,244,"MAHMUTOGLU, MELIH",P002969   ,In,IN,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,16,10:00,21,245,"SLOUKAS, KOSTAS",P001926   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,23,10:00,21,246,"GUDURIC, MARKO",P004004   ,In,IN,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,70,10:00,21,247,"DATOME, LUIGI",PCCD      ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
-BAR       ,,9,10:00,21,248,"HANGA, ADAM",P005099   ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,18,10:00,21,249,"ORIOLA, PIERRE",P005917   ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,21,10:00,21,250,"SANDERS, RAKIM",P005001   ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,30,10:00,21,251,"CLAVER, VICTOR",P000556   ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,44,10:00,21,252,"TOMIC, ANTE",P002507   ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,45,10:00,21,253,"MOERMAN, ADRIEN",P001833   ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,45,09:44,21,255,"MOERMAN, ADRIEN",P001833   ,Turnover (1),TO,,,FC Barcelona Lassa,0
-ULK       ,,4,09:22,21,256,"MELLI, NICOLO",P002849   ,Two Pointer (5/6 -  14 pt),2FGM,44.0,44.0,Fenerbahce Dogus Istanbul,0
-BAR       ,,45,09:04,21,257,"MOERMAN, ADRIEN",P001833   ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,FC Barcelona Lassa,0
-BAR       ,,44,09:01,21,258,"TOMIC, ANTE",P002507   ,Off Rebound (2),O,,,FC Barcelona Lassa,0
-BAR       ,,5,08:59,22,260,"RIBAS, PAU",PJUG      ,Missed Three Pointer (0/3 -  0 pt),3FGA,,,FC Barcelona Lassa,0
-ULK       ,,23,08:54,22,261,"GUDURIC, MARKO",P004004   ,Def Rebound (2),D,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,4,08:45,22,262,"MELLI, NICOLO",P002849   ,Missed Three Pointer (1/2 -  14 pt),3FGA,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,23,08:41,22,263,"GUDURIC, MARKO",P004004   ,Off Rebound (1),O,,,Fenerbahce Dogus Istanbul,0
-BAR       ,,25,08:37,22,264,"KOPONEN, PETTERI",P004178   ,Foul (2),CM,,,FC Barcelona Lassa,0
-ULK       ,,23,08:37,22,265,"GUDURIC, MARKO",P004004   ,Foul Drawn (2),RV,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,11,08:31,22,266,"WANAMAKER, BRAD",P005838   ,Missed Three Pointer (2/3 -  13 pt),3FGA,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,10,08:28,22,267,"MAHMUTOGLU, MELIH",P002969   ,Off Rebound (1),O,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,10,08:28,22,268,"MAHMUTOGLU, MELIH",P002969   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Fenerbahce Dogus Istanbul,0
-BAR       ,,9,08:26,22,269,"HANGA, ADAM",P005099   ,Def Rebound (2),D,,,FC Barcelona Lassa,0
-BAR       ,,25,08:09,22,270,"KOPONEN, PETTERI",P004178   ,Turnover (1),TO,,,FC Barcelona Lassa,0
-ULK       ,,24,08:08,22,271,"VESELY, JAN",P000925   ,Steal (3),ST,,,Fenerbahce Dogus Istanbul,0
-BAR       ,,5,08:05,22,272,"RIBAS, PAU",PJUG      ,Foul (2),CM,,,FC Barcelona Lassa,0
-ULK       ,,4,08:05,22,273,"MELLI, NICOLO",P002849   ,Foul Drawn (2),RV,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,4,08:05,22,274,"MELLI, NICOLO",P002849   ,Free Throw In (2/3 -  15 pt),FTM,45.0,44.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,23,08:05,22,275,"GUDURIC, MARKO",P004004   ,Assist (2),AS,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,4,08:05,22,276,"MELLI, NICOLO",P002849   ,Free Throw In (3/4 -  16 pt),FTM,46.0,44.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,24,07:57,23,278,"VESELY, JAN",P000925   ,Foul (1),CM,,,Fenerbahce Dogus Istanbul,0
-BAR       ,,25,07:57,23,279,"KOPONEN, PETTERI",P004178   ,Foul Drawn (2),RV,,,FC Barcelona Lassa,0
-BAR       ,,5,07:40,23,280,"RIBAS, PAU",PJUG      ,Missed Three Pointer (0/4 -  0 pt),3FGA,,,FC Barcelona Lassa,0
-ULK       ,,11,07:38,23,281,"WANAMAKER, BRAD",P005838   ,Def Rebound (3),D,,,Fenerbahce Dogus Istanbul,0
-BAR       ,,25,07:34,23,282,"KOPONEN, PETTERI",P004178   ,Foul (3),CM,,,FC Barcelona Lassa,0
-ULK       ,,11,07:34,23,283,"WANAMAKER, BRAD",P005838   ,Foul Drawn (3),RV,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,11,07:34,23,284,"WANAMAKER, BRAD",P005838   ,Free Throw In (4/4 -  14 pt),FTM,47.0,44.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,11,07:34,23,285,"WANAMAKER, BRAD",P005838   ,Free Throw In (5/5 -  15 pt),FTM,48.0,44.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,23,07:18,23,286,"GUDURIC, MARKO",P004004   ,Foul (2),CM,,,Fenerbahce Dogus Istanbul,0
-BAR       ,,9,07:18,23,287,"HANGA, ADAM",P005099   ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0
-BAR       ,,9,07:18,23,288,"HANGA, ADAM",P005099   ,Missed Free Throw (0/1 -  11 pt),FTA,,,FC Barcelona Lassa,0
-BAR       ,,9,07:18,23,289,"HANGA, ADAM",P005099   ,Free Throw In (1/2 -  12 pt),FTM,48.0,45.0,FC Barcelona Lassa,0
-ULK       ,,23,07:05,23,290,"GUDURIC, MARKO",P004004   ,Turnover (3),TO,,,Fenerbahce Dogus Istanbul,0
-BAR       ,,9,07:04,23,291,"HANGA, ADAM",P005099   ,Steal (1),ST,,,FC Barcelona Lassa,0
-BAR       ,,45,06:53,24,293,"MOERMAN, ADRIEN",P001833   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,FC Barcelona Lassa,0
-ULK       ,,24,06:51,24,294,"VESELY, JAN",P000925   ,Def Rebound (2),D,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,24,06:46,24,295,"VESELY, JAN",P000925   ,Turnover (2),TO,,,Fenerbahce Dogus Istanbul,0
-BAR       ,,5,06:44,24,296,"RIBAS, PAU",PJUG      ,Steal (2),ST,,,FC Barcelona Lassa,0
-ULK       ,,24,06:39,24,297,"VESELY, JAN",P000925   ,Foul (2),CM,,,Fenerbahce Dogus Istanbul,0
-BAR       ,,9,06:39,24,298,"HANGA, ADAM",P005099   ,Foul Drawn (2),RV,,,FC Barcelona Lassa,0
-ULK       ,,4,06:25,24,299,"MELLI, NICOLO",P002849   ,Foul (2),CM,,,Fenerbahce Dogus Istanbul,0
-BAR       ,,44,06:25,24,300,"TOMIC, ANTE",P002507   ,Foul Drawn (3),RV,,,FC Barcelona Lassa,0
-BAR       ,,25,06:24,24,301,"KOPONEN, PETTERI",P004178   ,Three Pointer (4/4 -  12 pt),3FGM,48.0,48.0,FC Barcelona Lassa,0
-BAR       ,,5,06:23,24,302,"RIBAS, PAU",PJUG      ,Assist (5),AS,,,FC Barcelona Lassa,0
-ULK       ,,11,05:53,25,304,"WANAMAKER, BRAD",P005838   ,Missed Two Pointer (2/4 -  15 pt),2FGA,,,Fenerbahce Dogus Istanbul,0
-BAR       ,,44,05:52,25,305,"TOMIC, ANTE",P002507   ,Def Rebound (1),D,,,FC Barcelona Lassa,0
-ULK       ,,24,05:52,25,306,"VESELY, JAN",P000925   ,Foul (3),CM,,,Fenerbahce Dogus Istanbul,0
-BAR       ,,44,05:52,25,307,"TOMIC, ANTE",P002507   ,Foul Drawn (4),RV,,,FC Barcelona Lassa,0
-ULK       ,,24,05:52,25,308,"VESELY, JAN",P000925   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,44,05:52,25,309,"DUVERIOGLU, AHMET",P006399   ,In,IN,,,Fenerbahce Dogus Istanbul,0
-BAR       ,,44,05:52,25,310,"TOMIC, ANTE",P002507   ,Free Throw In (3/3 -  9 pt),FTM,48.0,49.0,FC Barcelona Lassa,0
-BAR       ,,44,05:52,25,311,"TOMIC, ANTE",P002507   ,Free Throw In (4/4 -  10 pt),FTM,48.0,50.0,FC Barcelona Lassa,0
-ULK       ,,4,05:29,25,312,"MELLI, NICOLO",P002849   ,Two Pointer (6/7 -  18 pt),2FGM,50.0,50.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,11,05:27,25,313,"WANAMAKER, BRAD",P005838   ,Assist (5),AS,,,Fenerbahce Dogus Istanbul,0
-BAR       ,,44,05:05,25,314,"TOMIC, ANTE",P002507   ,Missed Two Pointer (3/5 -  10 pt),2FGA,,,FC Barcelona Lassa,0
-ULK       ,,11,05:03,25,315,"WANAMAKER, BRAD",P005838   ,Def Rebound (4),D,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,4,04:58,26,317,"MELLI, NICOLO",P002849   ,Two Pointer (7/8 -  20 pt),2FGM,52.0,50.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,11,04:57,26,318,"WANAMAKER, BRAD",P005838   ,Assist (6),AS,,,Fenerbahce Dogus Istanbul,0
-BAR       ,,44,04:35,26,319,"TOMIC, ANTE",P002507   ,Missed Two Pointer (3/6 -  10 pt),2FGA,,,FC Barcelona Lassa,0
-ULK       ,,4,04:33,26,320,"MELLI, NICOLO",P002849   ,Def Rebound (1),D,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,11,04:25,26,321,"WANAMAKER, BRAD",P005838   ,Three Pointer (3/4 -  18 pt),3FGM,55.0,50.0,Fenerbahce Dogus Istanbul,0
-BAR       ,,,04:25,26,322,,          ,Time Out (1),TOUT,,,FC Barcelona Lassa,0
-          ,,,04:25,26,323,,          ,TV Time Out (3),TOUT_TV,,,,0
-BAR       ,,18,04:25,26,324,"ORIOLA, PIERRE",P005917   ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,30,04:25,26,325,"CLAVER, VICTOR",P000556   ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,44,04:25,26,326,"TOMIC, ANTE",P002507   ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,45,04:25,26,327,"MOERMAN, ADRIEN",P001833   ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,5,04:11,26,328,"RIBAS, PAU",PJUG      ,Turnover (2),TO,,,FC Barcelona Lassa,0
-ULK       ,,4,04:09,26,329,"MELLI, NICOLO",P002849   ,Steal (1),ST,,,Fenerbahce Dogus Istanbul,0
-BAR       ,,5,04:08,26,330,"RIBAS, PAU",PJUG      ,Foul (3),CM,,,FC Barcelona Lassa,0
-ULK       ,,4,04:08,26,331,"MELLI, NICOLO",P002849   ,Foul Drawn (3),RV,,,Fenerbahce Dogus Istanbul,0
-BAR       ,,5,04:08,26,332,"RIBAS, PAU",PJUG      ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,13,04:08,26,333,"HEURTEL, THOMAS",PKLT      ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,18,04:00,26,334,"ORIOLA, PIERRE",P005917   ,Foul (2),CM,,,FC Barcelona Lassa,0
-ULK       ,,44,04:00,26,335,"DUVERIOGLU, AHMET",P006399   ,Foul Drawn (1),RV,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,44,03:57,27,337,"DUVERIOGLU, AHMET",P006399   ,Missed Free Throw (0/1 -  0 pt),FTA,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,44,03:57,27,338,"DUVERIOGLU, AHMET",P006399   ,Missed Free Throw (0/2 -  0 pt),FTA,,,Fenerbahce Dogus Istanbul,0
-BAR       ,,18,03:57,27,339,"ORIOLA, PIERRE",P005917   ,Def Rebound (2),D,,,FC Barcelona Lassa,0
-BAR       ,,13,03:43,27,340,"HEURTEL, THOMAS",PKLT      ,Two Pointer (1/1 -  8 pt),2FGM,55.0,52.0,FC Barcelona Lassa,0
-ULK       ,,10,03:22,27,341,"MAHMUTOGLU, MELIH",P002969   ,Two Pointer (1/2 -  2 pt),2FGM,57.0,52.0,Fenerbahce Dogus Istanbul,0
-BAR       ,,13,03:06,27,342,"HEURTEL, THOMAS",PKLT      ,Missed Two Pointer (1/2 -  8 pt),2FGA,,,FC Barcelona Lassa,0
-ULK       ,,23,03:04,27,343,"GUDURIC, MARKO",P004004   ,Def Rebound (3),D,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,11,02:53,28,345,"WANAMAKER, BRAD",P005838   ,Missed Two Pointer (2/5 -  18 pt),2FGA,,,Fenerbahce Dogus Istanbul,0
-BAR       ,,13,02:51,28,346,"HEURTEL, THOMAS",PKLT      ,Def Rebound (1),D,,,FC Barcelona Lassa,0
-ULK       ,,11,02:49,28,347,"WANAMAKER, BRAD",P005838   ,Foul (1),CM,,,Fenerbahce Dogus Istanbul,0
-BAR       ,,18,02:49,28,348,"ORIOLA, PIERRE",P005917   ,Foul Drawn (2),RV,,,FC Barcelona Lassa,0
-ULK       ,,11,02:49,28,349,"WANAMAKER, BRAD",P005838   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,16,02:49,28,350,"SLOUKAS, KOSTAS",P001926   ,In,IN,,,Fenerbahce Dogus Istanbul,0
-BAR       ,,9,02:49,28,351,"HANGA, ADAM",P005099   ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,21,02:49,28,352,"SANDERS, RAKIM",P005001   ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,18,02:49,28,353,"ORIOLA, PIERRE",P005917   ,Missed Free Throw (1/3 -  3 pt),FTA,,,FC Barcelona Lassa,0
-BAR       ,,18,02:49,28,354,"ORIOLA, PIERRE",P005917   ,Missed Free Throw (1/4 -  3 pt),FTA,,,FC Barcelona Lassa,0
-ULK       ,,4,02:47,28,355,"MELLI, NICOLO",P002849   ,Def Rebound (2),D,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,10,02:25,28,356,"MAHMUTOGLU, MELIH",P002969   ,Missed Two Pointer (1/3 -  2 pt),2FGA,,,Fenerbahce Dogus Istanbul,0
-BAR       ,,21,02:24,28,357,"SANDERS, RAKIM",P005001   ,Def Rebound (3),D,,,FC Barcelona Lassa,0
-BAR       ,,30,02:06,28,358,"CLAVER, VICTOR",P000556   ,Missed Three Pointer (1/3 -  7 pt),3FGA,,,FC Barcelona Lassa,0
-ULK       ,,16,02:04,28,359,"SLOUKAS, KOSTAS",P001926   ,Def Rebound (1),D,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,4,01:54,29,361,"MELLI, NICOLO",P002849   ,Missed Three Pointer (1/3 -  20 pt),3FGA,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,44,01:52,29,362,"DUVERIOGLU, AHMET",P006399   ,Off Rebound (1),O,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,23,01:41,29,363,"GUDURIC, MARKO",P004004   ,Three Pointer (1/1 -  5 pt),3FGM,60.0,52.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,44,01:20,29,364,"DUVERIOGLU, AHMET",P006399   ,Foul (1),CM,,,Fenerbahce Dogus Istanbul,0
-BAR       ,,13,01:20,29,365,"HEURTEL, THOMAS",PKLT      ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0
-BAR       ,,9,01:20,29,366,"HANGA, ADAM",P005099   ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,25,01:20,29,367,"KOPONEN, PETTERI",P004178   ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,13,01:20,29,368,"HEURTEL, THOMAS",PKLT      ,Free Throw In (1/1 -  9 pt),FTM,60.0,53.0,FC Barcelona Lassa,0
-BAR       ,,13,01:20,29,369,"HEURTEL, THOMAS",PKLT      ,Free Throw In (2/2 -  10 pt),FTM,60.0,54.0,FC Barcelona Lassa,0
-ULK       ,,10,01:08,29,370,"MAHMUTOGLU, MELIH",P002969   ,Three Pointer (1/1 -  5 pt),3FGM,63.0,54.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,16,01:06,29,371,"SLOUKAS, KOSTAS",P001926   ,Assist (4),AS,,,Fenerbahce Dogus Istanbul,0
-BAR       ,,13,00:53,30,373,"HEURTEL, THOMAS",PKLT      ,Turnover (1),TO,,,FC Barcelona Lassa,0
-ULK       ,,10,00:52,30,374,"MAHMUTOGLU, MELIH",P002969   ,Steal (1),ST,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,10,00:50,30,375,"MAHMUTOGLU, MELIH",P002969   ,Two Pointer (2/4 -  7 pt),2FGM,65.0,54.0,Fenerbahce Dogus Istanbul,0
-BAR       ,,30,00:27,30,376,"CLAVER, VICTOR",P000556   ,Three Pointer (2/4 -  10 pt),3FGM,65.0,57.0,FC Barcelona Lassa,0
-BAR       ,,13,00:25,30,377,"HEURTEL, THOMAS",PKLT      ,Assist (3),AS,,,FC Barcelona Lassa,0
-ULK       ,,4,00:04,30,378,"MELLI, NICOLO",P002849   ,Offensive Foul (3),OF,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,4,00:04,30,379,"MELLI, NICOLO",P002849   ,Turnover (1),TO,,,Fenerbahce Dogus Istanbul,0
-BAR       ,,30,00:04,30,380,"CLAVER, VICTOR",P000556   ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0
-ULK       ,,4,00:04,30,381,"MELLI, NICOLO",P002849   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,24,00:04,30,382,"VESELY, JAN",P000925   ,In,IN,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,33,00:04,30,383,"KALINIC, NIKOLA",P004866   ,In,IN,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,44,00:04,30,384,"DUVERIOGLU, AHMET",P006399   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
-BAR       ,,5,00:04,30,385,"RIBAS, PAU",PJUG      ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,18,00:04,30,386,"ORIOLA, PIERRE",P005917   ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,30,00:04,30,387,"CLAVER, VICTOR",P000556   ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,45,00:04,30,388,"MOERMAN, ADRIEN",P001833   ,In,IN,,,FC Barcelona Lassa,0
-          ,,,,31,390,,          ,End Period,EP,,,,0
-          ,,,,31,398,,          ,Begin Period,BP,,,,0
-ULK       ,,24,10:00,31,392,"VESELY, JAN",P000925   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,44,10:00,31,393,"DUVERIOGLU, AHMET",P006399   ,In,IN,,,Fenerbahce Dogus Istanbul,0
-BAR       ,,5,10:00,31,394,"RIBAS, PAU",PJUG      ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,30,10:00,31,395,"CLAVER, VICTOR",P000556   ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,44,10:00,31,396,"TOMIC, ANTE",P002507   ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,45,10:00,31,397,"MOERMAN, ADRIEN",P001833   ,Out,OUT,,,FC Barcelona Lassa,0
-ULK       ,,33,09:47,31,399,"KALINIC, NIKOLA",P004866   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Fenerbahce Dogus Istanbul,0
-BAR       ,,44,09:44,31,400,"TOMIC, ANTE",P002507   ,Def Rebound (2),D,,,FC Barcelona Lassa,0
-BAR       ,,44,09:31,31,401,"TOMIC, ANTE",P002507   ,Missed Two Pointer (3/7 -  10 pt),2FGA,,,FC Barcelona Lassa,0
-ULK       ,,44,09:29,31,402,"DUVERIOGLU, AHMET",P006399   ,Def Rebound (1),D,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,23,09:14,31,403,"GUDURIC, MARKO",P004004   ,Two Pointer (2/3 -  7 pt),2FGM,67.0,57.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,44,09:14,31,404,"DUVERIOGLU, AHMET",P006399   ,Assist (1),AS,,,Fenerbahce Dogus Istanbul,0
-BAR       ,,9,09:14,31,405,"HANGA, ADAM",P005099   ,Turnover (2),TO,,,FC Barcelona Lassa,0
-ULK       ,,23,09:14,31,406,"GUDURIC, MARKO",P004004   ,Steal (1),ST,,,Fenerbahce Dogus Istanbul,0
-BAR       ,,13,08:49,32,408,"HEURTEL, THOMAS",PKLT      ,Foul (1),CM,,,FC Barcelona Lassa,0
-ULK       ,,16,08:49,32,409,"SLOUKAS, KOSTAS",P001926   ,Foul Drawn (1),RV,,,Fenerbahce Dogus Istanbul,0
-BAR       ,,30,08:49,32,410,"CLAVER, VICTOR",P000556   ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,45,08:49,32,411,"MOERMAN, ADRIEN",P001833   ,In,IN,,,FC Barcelona Lassa,0
-ULK       ,,44,08:39,32,412,"DUVERIOGLU, AHMET",P006399   ,Turnover (1),TO,,,Fenerbahce Dogus Istanbul,0
-BAR       ,,13,08:19,32,413,"HEURTEL, THOMAS",PKLT      ,Missed Two Pointer (1/3 -  10 pt),2FGA,,,FC Barcelona Lassa,0
-BAR       ,,9,08:17,32,414,"HANGA, ADAM",P005099   ,Off Rebound (1),O,,,FC Barcelona Lassa,0
-ULK       ,,44,08:09,32,415,"DUVERIOGLU, AHMET",P006399   ,Block (1),FV,,,Fenerbahce Dogus Istanbul,0
-BAR       ,,13,08:08,32,416,"HEURTEL, THOMAS",PKLT      ,Missed Two Pointer (1/4 -  10 pt),2FGA,,,FC Barcelona Lassa,0
-BAR       ,,13,08:08,32,417,"HEURTEL, THOMAS",PKLT      ,Shot Rejected (1),AG,,,FC Barcelona Lassa,0
-BAR       ,,44,08:08,32,418,"TOMIC, ANTE",P002507   ,Off Rebound (3),O,,,FC Barcelona Lassa,0
-BAR       ,,44,08:08,32,419,"TOMIC, ANTE",P002507   ,Two Pointer (4/8 -  12 pt),2FGM,67.0,59.0,FC Barcelona Lassa,0
-BAR       ,,44,08:08,32,420,"TOMIC, ANTE",P002507   ,Foul Drawn (5),RV,,,FC Barcelona Lassa,0
-ULK       ,,33,08:08,32,421,"KALINIC, NIKOLA",P004866   ,Foul (1),CM,,,Fenerbahce Dogus Istanbul,0
-BAR       ,,44,08:08,32,422,"TOMIC, ANTE",P002507   ,Free Throw In (5/5 -  13 pt),FTM,67.0,60.0,FC Barcelona Lassa,0
-ULK       ,,10,07:48,33,424,"MAHMUTOGLU, MELIH",P002969   ,Turnover (1),TO,,,Fenerbahce Dogus Istanbul,0
-BAR       ,,13,07:33,33,425,"HEURTEL, THOMAS",PKLT      ,Two Pointer (2/5 -  12 pt),2FGM,67.0,62.0,FC Barcelona Lassa,0
-ULK       ,,,07:32,33,426,,          ,Time Out (1),TOUT,,,Fenerbahce Dogus Istanbul,0
-          ,,,07:32,33,427,,          ,TV Time Out (4),TOUT_TV,,,,0
-ULK       ,,4,07:32,33,428,"MELLI, NICOLO",P002849   ,In,IN,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,24,07:32,33,429,"VESELY, JAN",P000925   ,In,IN,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,33,07:32,33,430,"KALINIC, NIKOLA",P004866   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,44,07:32,33,431,"DUVERIOGLU, AHMET",P006399   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,16,07:13,33,432,"SLOUKAS, KOSTAS",P001926   ,Two Pointer (1/2 -  2 pt),2FGM,69.0,62.0,Fenerbahce Dogus Istanbul,0
-BAR       ,,21,06:51,34,434,"SANDERS, RAKIM",P005001   ,Missed Two Pointer (0/3 -  0 pt),2FGA,,,FC Barcelona Lassa,0
-ULK       ,,4,06:48,34,435,"MELLI, NICOLO",P002849   ,Def Rebound (3),D,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,24,06:38,34,436,"VESELY, JAN",P000925   ,Two Pointer (4/6 -  10 pt),2FGM,71.0,62.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,24,06:38,34,437,"VESELY, JAN",P000925   ,Foul Drawn (5),RV,,,Fenerbahce Dogus Istanbul,0
-BAR       ,,21,06:38,34,438,"SANDERS, RAKIM",P005001   ,Foul (1),CM,,,FC Barcelona Lassa,0
-ULK       ,,16,06:38,34,439,"SLOUKAS, KOSTAS",P001926   ,Assist (5),AS,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,10,06:38,34,440,"MAHMUTOGLU, MELIH",P002969   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,11,06:38,34,441,"WANAMAKER, BRAD",P005838   ,In,IN,,,Fenerbahce Dogus Istanbul,0
-BAR       ,,21,06:38,34,442,"SANDERS, RAKIM",P005001   ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,25,06:38,34,443,"KOPONEN, PETTERI",P004178   ,In,IN,,,FC Barcelona Lassa,0
-ULK       ,,24,06:38,34,444,"VESELY, JAN",P000925   ,Missed Free Throw (2/5 -  10 pt),FTA,,,Fenerbahce Dogus Istanbul,0
-BAR       ,,45,06:38,34,445,"MOERMAN, ADRIEN",P001833   ,Def Rebound (5),D,,,FC Barcelona Lassa,0
-BAR       ,,44,06:25,34,446,"TOMIC, ANTE",P002507   ,Two Pointer (5/9 -  15 pt),2FGM,71.0,64.0,FC Barcelona Lassa,0
-BAR       ,,13,06:23,34,447,"HEURTEL, THOMAS",PKLT      ,Assist (4),AS,,,FC Barcelona Lassa,0
-ULK       ,,4,06:06,34,448,"MELLI, NICOLO",P002849   ,Missed Three Pointer (1/4 -  20 pt),3FGA,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,,06:03,34,449,,          ,Off Rebound (2),O,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,24,05:54,35,451,"VESELY, JAN",P000925   ,Two Pointer (5/7 -  12 pt),2FGM,73.0,64.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,16,05:52,35,452,"SLOUKAS, KOSTAS",P001926   ,Assist (6),AS,,,Fenerbahce Dogus Istanbul,0
-BAR       ,,13,05:28,35,453,"HEURTEL, THOMAS",PKLT      ,Two Pointer (3/6 -  14 pt),2FGM,73.0,66.0,FC Barcelona Lassa,0
-ULK       ,,16,05:08,35,454,"SLOUKAS, KOSTAS",P001926   ,Missed Two Pointer (1/3 -  2 pt),2FGA,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,24,05:06,35,455,"VESELY, JAN",P000925   ,Off Rebound (1),O,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,4,04:58,36,457,"MELLI, NICOLO",P002849   ,Two Pointer (8/9 -  22 pt),2FGM,75.0,66.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,4,04:58,36,458,"MELLI, NICOLO",P002849   ,Foul Drawn (4),RV,,,Fenerbahce Dogus Istanbul,0
-BAR       ,,45,04:58,36,459,"MOERMAN, ADRIEN",P001833   ,Foul (3),CM,,,FC Barcelona Lassa,0
-ULK       ,,11,04:58,36,460,"WANAMAKER, BRAD",P005838   ,Assist (7),AS,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,4,04:58,36,461,"MELLI, NICOLO",P002849   ,Free Throw In (4/5 -  23 pt),FTM,76.0,66.0,Fenerbahce Dogus Istanbul,0
-BAR       ,,5,04:58,36,462,"RIBAS, PAU",PJUG      ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,9,04:58,36,463,"HANGA, ADAM",P005099   ,Out,OUT,,,FC Barcelona Lassa,0
-ULK       ,,24,04:40,36,464,"VESELY, JAN",P000925   ,Unsportsmanlike Foul  (4),CMU,,,Fenerbahce Dogus Istanbul,0
-BAR       ,,44,04:40,36,465,"TOMIC, ANTE",P002507   ,Foul Drawn (6),RV,,,FC Barcelona Lassa,0
-BAR       ,,30,04:40,36,466,"CLAVER, VICTOR",P000556   ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,45,04:40,36,467,"MOERMAN, ADRIEN",P001833   ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,44,04:40,36,468,"TOMIC, ANTE",P002507   ,Missed Free Throw (5/6 -  15 pt),FTA,,,FC Barcelona Lassa,0
-BAR       ,,44,04:40,36,469,"TOMIC, ANTE",P002507   ,Free Throw In (6/7 -  16 pt),FTM,76.0,67.0,FC Barcelona Lassa,0
-BAR       ,,5,04:40,36,470,"RIBAS, PAU",PJUG      ,Assist (6),AS,,,FC Barcelona Lassa,0
-BAR       ,,13,04:28,36,471,"HEURTEL, THOMAS",PKLT      ,Missed Three Pointer (2/3 -  14 pt),3FGA,,,FC Barcelona Lassa,0
-BAR       ,,44,04:25,36,472,"TOMIC, ANTE",P002507   ,Off Rebound (4),O,,,FC Barcelona Lassa,0
-BAR       ,,44,04:25,36,473,"TOMIC, ANTE",P002507   ,Missed Two Pointer (5/10 -  16 pt),2FGA,,,FC Barcelona Lassa,0
-BAR       ,,44,04:23,36,474,"TOMIC, ANTE",P002507   ,Off Rebound (5),O,,,FC Barcelona Lassa,0
-BAR       ,,44,04:23,36,475,"TOMIC, ANTE",P002507   ,Two Pointer (6/11 -  18 pt),2FGM,76.0,69.0,FC Barcelona Lassa,0
-ULK       ,,4,04:05,36,476,"MELLI, NICOLO",P002849   ,Missed Three Pointer (1/5 -  23 pt),3FGA,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,24,04:04,36,477,"VESELY, JAN",P000925   ,Off Rebound (2),O,,,Fenerbahce Dogus Istanbul,0
-BAR       ,,44,04:04,36,478,"TOMIC, ANTE",P002507   ,Foul (3),CM,,,FC Barcelona Lassa,0
-ULK       ,,24,04:04,36,479,"VESELY, JAN",P000925   ,Foul Drawn (6),RV,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,11,03:57,37,481,"WANAMAKER, BRAD",P005838   ,Two Pointer (3/6 -  20 pt),2FGM,78.0,69.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,11,03:36,37,482,"WANAMAKER, BRAD",P005838   ,Foul (2),CM,,,Fenerbahce Dogus Istanbul,0
-BAR       ,,44,03:36,37,483,"TOMIC, ANTE",P002507   ,Foul Drawn (7),RV,,,FC Barcelona Lassa,0
-BAR       ,,44,03:36,37,484,"TOMIC, ANTE",P002507   ,Free Throw In (7/8 -  19 pt),FTM,78.0,70.0,FC Barcelona Lassa,0
-BAR       ,,44,03:36,37,485,"TOMIC, ANTE",P002507   ,Free Throw In (8/9 -  20 pt),FTM,78.0,71.0,FC Barcelona Lassa,0
-BAR       ,,18,03:36,37,486,"ORIOLA, PIERRE",P005917   ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,44,03:36,37,487,"TOMIC, ANTE",P002507   ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,18,03:18,37,488,"ORIOLA, PIERRE",P005917   ,Foul (3),CM,,,FC Barcelona Lassa,0
-ULK       ,,16,03:18,37,489,"SLOUKAS, KOSTAS",P001926   ,Foul Drawn (2),RV,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,23,03:18,37,490,"GUDURIC, MARKO",P004004   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,33,03:18,37,491,"KALINIC, NIKOLA",P004866   ,In,IN,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,16,03:18,37,492,"SLOUKAS, KOSTAS",P001926   ,Free Throw In (1/1 -  3 pt),FTM,79.0,71.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,16,03:18,37,493,"SLOUKAS, KOSTAS",P001926   ,Free Throw In (2/2 -  4 pt),FTM,80.0,71.0,Fenerbahce Dogus Istanbul,0
-BAR       ,,13,02:54,38,495,"HEURTEL, THOMAS",PKLT      ,Three Pointer (3/4 -  17 pt),3FGM,80.0,74.0,FC Barcelona Lassa,0
-BAR       ,,5,02:52,38,496,"RIBAS, PAU",PJUG      ,Assist (7),AS,,,FC Barcelona Lassa,0
-ULK       ,,16,02:28,38,497,"SLOUKAS, KOSTAS",P001926   ,Turnover (1),TO,,,Fenerbahce Dogus Istanbul,0
-BAR       ,,30,02:27,38,498,"CLAVER, VICTOR",P000556   ,Steal (2),ST,,,FC Barcelona Lassa,0
-BAR       ,,5,02:23,38,499,"RIBAS, PAU",PJUG      ,Two Pointer (1/1 -  2 pt),2FGM,80.0,76.0,FC Barcelona Lassa,0
-BAR       ,,13,02:21,38,500,"HEURTEL, THOMAS",PKLT      ,Assist (5),AS,,,FC Barcelona Lassa,0
-BAR       ,,30,02:08,38,501,"CLAVER, VICTOR",P000556   ,Foul (3),CM,,,FC Barcelona Lassa,0
-ULK       ,,11,02:08,38,502,"WANAMAKER, BRAD",P005838   ,Foul Drawn (4),RV,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,16,02:08,38,503,"SLOUKAS, KOSTAS",P001926   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,23,02:08,38,504,"GUDURIC, MARKO",P004004   ,In,IN,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,11,02:08,38,505,"WANAMAKER, BRAD",P005838   ,Free Throw In (6/6 -  21 pt),FTM,81.0,76.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,11,02:08,38,506,"WANAMAKER, BRAD",P005838   ,Free Throw In (7/7 -  22 pt),FTM,82.0,76.0,Fenerbahce Dogus Istanbul,0
-BAR       ,,30,01:49,39,508,"CLAVER, VICTOR",P000556   ,Missed Two Pointer (2/3 -  10 pt),2FGA,,,FC Barcelona Lassa,0
-BAR       ,,,01:49,39,509,,          ,Off Rebound (3),O,,,FC Barcelona Lassa,0
-BAR       ,,,01:49,39,510,,          ,Time Out (1),TOUT,,,FC Barcelona Lassa,0
-BAR       ,,13,01:41,39,511,"HEURTEL, THOMAS",PKLT      ,Three Pointer (4/5 -  20 pt),3FGM,82.0,79.0,FC Barcelona Lassa,0
-ULK       ,,16,01:41,39,512,"SLOUKAS, KOSTAS",P001926   ,In,IN,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,33,01:41,39,513,"KALINIC, NIKOLA",P004866   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,4,01:34,39,514,"MELLI, NICOLO",P002849   ,Missed Three Pointer (1/6 -  23 pt),3FGA,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,24,01:34,39,515,"VESELY, JAN",P000925   ,Off Rebound (3),O,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,11,01:05,39,516,"WANAMAKER, BRAD",P005838   ,Missed Two Pointer (3/7 -  22 pt),2FGA,,,Fenerbahce Dogus Istanbul,0
-BAR       ,,5,01:03,39,517,"RIBAS, PAU",PJUG      ,Def Rebound (1),D,,,FC Barcelona Lassa,0
-ULK       ,,24,00:51,40,519,"VESELY, JAN",P000925   ,Foul (5),CM,,,Fenerbahce Dogus Istanbul,0
-BAR       ,,13,00:51,40,520,"HEURTEL, THOMAS",PKLT      ,Foul Drawn (2),RV,,,FC Barcelona Lassa,0
-ULK       ,,24,00:51,40,521,"VESELY, JAN",P000925   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,33,00:51,40,522,"KALINIC, NIKOLA",P004866   ,In,IN,,,Fenerbahce Dogus Istanbul,0
-BAR       ,,13,00:46,40,523,"HEURTEL, THOMAS",PKLT      ,Missed Two Pointer (3/7 -  20 pt),2FGA,,,FC Barcelona Lassa,0
-ULK       ,,4,00:44,40,524,"MELLI, NICOLO",P002849   ,Def Rebound (4),D,,,Fenerbahce Dogus Istanbul,0
-BAR       ,,5,00:21,40,525,"RIBAS, PAU",PJUG      ,Block (1),FV,,,FC Barcelona Lassa,0
-ULK       ,,23,00:20,40,526,"GUDURIC, MARKO",P004004   ,Missed Two Pointer (2/4 -  7 pt),2FGA,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,23,00:20,40,527,"GUDURIC, MARKO",P004004   ,Shot Rejected (1),AG,,,Fenerbahce Dogus Istanbul,0
-BAR       ,,13,00:19,40,528,"HEURTEL, THOMAS",PKLT      ,Def Rebound (2),D,,,FC Barcelona Lassa,0
-ULK       ,,16,00:11,40,529,"SLOUKAS, KOSTAS",P001926   ,Foul (2),CM,,,Fenerbahce Dogus Istanbul,0
-BAR       ,,13,00:11,40,530,"HEURTEL, THOMAS",PKLT      ,Foul Drawn (3),RV,,,FC Barcelona Lassa,0
-BAR       ,,13,00:11,40,531,"HEURTEL, THOMAS",PKLT      ,Missed Free Throw (2/3 -  20 pt),FTA,,,FC Barcelona Lassa,0
-BAR       ,,13,00:11,40,532,"HEURTEL, THOMAS",PKLT      ,Free Throw In (3/4 -  21 pt),FTM,82.0,80.0,FC Barcelona Lassa,0
-ULK       ,,,00:11,40,533,,          ,Time Out (2),TOUT,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,33,00:11,40,534,"KALINIC, NIKOLA",P004866   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,70,00:11,40,535,"DATOME, LUIGI",PCCD      ,In,IN,,,Fenerbahce Dogus Istanbul,0
-BAR       ,,9,00:11,40,536,"HANGA, ADAM",P005099   ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,25,00:11,40,537,"KOPONEN, PETTERI",P004178   ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,13,00:09,40,538,"HEURTEL, THOMAS",PKLT      ,Foul (2),CM,,,FC Barcelona Lassa,0
-ULK       ,,11,00:09,40,539,"WANAMAKER, BRAD",P005838   ,Foul Drawn (5),RV,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,33,00:09,40,540,"KALINIC, NIKOLA",P004866   ,In,IN,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,70,00:09,40,541,"DATOME, LUIGI",PCCD      ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,11,00:09,40,542,"WANAMAKER, BRAD",P005838   ,Free Throw In (8/8 -  23 pt),FTM,83.0,80.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,11,00:09,40,543,"WANAMAKER, BRAD",P005838   ,Free Throw In (9/9 -  24 pt),FTM,84.0,80.0,Fenerbahce Dogus Istanbul,0
-BAR       ,,,00:09,40,544,,          ,Time Out (2),TOUT,,,FC Barcelona Lassa,0
-BAR       ,,18,00:07,40,545,"ORIOLA, PIERRE",P005917   ,Missed Two Pointer (1/2 -  3 pt),2FGA,,,FC Barcelona Lassa,0
-BAR       ,,30,00:05,40,546,"CLAVER, VICTOR",P000556   ,Off Rebound (1),O,,,FC Barcelona Lassa,0
-ULK       ,,4,00:05,40,547,"MELLI, NICOLO",P002849   ,Foul (4),CM,,,Fenerbahce Dogus Istanbul,0
-BAR       ,,30,00:05,40,548,"CLAVER, VICTOR",P000556   ,Foul Drawn (2),RV,,,FC Barcelona Lassa,0
-BAR       ,,9,00:05,40,549,"HANGA, ADAM",P005099   ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,44,00:05,40,550,"TOMIC, ANTE",P002507   ,In,IN,,,FC Barcelona Lassa,0
-ULK       ,,1,00:05,40,551,"THOMPSON, JASON",P007998   ,In,IN,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,33,00:05,40,552,"KALINIC, NIKOLA",P004866   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
-BAR       ,,30,00:05,40,553,"CLAVER, VICTOR",P000556   ,Free Throw In (1/1 -  11 pt),FTM,84.0,81.0,FC Barcelona Lassa,0
-BAR       ,,30,00:05,40,554,"CLAVER, VICTOR",P000556   ,Free Throw In (2/2 -  12 pt),FTM,84.0,82.0,FC Barcelona Lassa,0
-ULK       ,,4,00:05,40,555,"MELLI, NICOLO",P002849   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,70,00:05,40,556,"DATOME, LUIGI",PCCD      ,In,IN,,,Fenerbahce Dogus Istanbul,0
-BAR       ,,9,00:05,40,557,"HANGA, ADAM",P005099   ,In,IN,,,FC Barcelona Lassa,0
-BAR       ,,30,00:05,40,558,"CLAVER, VICTOR",P000556   ,Out,OUT,,,FC Barcelona Lassa,0
-BAR       ,,13,00:04,40,559,"HEURTEL, THOMAS",PKLT      ,Foul (3),CM,,,FC Barcelona Lassa,0
-ULK       ,,16,00:04,40,560,"SLOUKAS, KOSTAS",P001926   ,Foul Drawn (3),RV,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,1,00:04,40,561,"THOMPSON, JASON",P007998   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,4,00:04,40,562,"MELLI, NICOLO",P002849   ,In,IN,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,33,00:04,40,563,"KALINIC, NIKOLA",P004866   ,In,IN,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,70,00:04,40,564,"DATOME, LUIGI",PCCD      ,Out,OUT,,,Fenerbahce Dogus Istanbul,0
-ULK       ,,16,00:04,40,565,"SLOUKAS, KOSTAS",P001926   ,Free Throw In (3/3 -  5 pt),FTM,85.0,82.0,Fenerbahce Dogus Istanbul,0
-ULK       ,,16,00:04,40,566,"SLOUKAS, KOSTAS",P001926   ,Free Throw In (4/4 -  6 pt),FTM,86.0,82.0,Fenerbahce Dogus Istanbul,0
-BAR       ,,5,00:01,40,567,"RIBAS, PAU",PJUG      ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,FC Barcelona Lassa,0
-          ,,,,41,570,,          ,End Game,EG,,,,0
+CODETEAM,COMMENT,DORSAL,MARKERTIME,MINUTE,NUMBEROFPLAY,PLAYER,PLAYER_ID,PLAYINFO,PLAYTYPE,POINTS_A,POINTS_B,TEAM,TYPE,home_team,home_team_code,away_team,away_team_code
+          ,,,,1,2,,          ,Begin Period,BP,,,,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,11,09:54,1,3,"WANAMAKER, BRAD",P005838   ,Turnover (1),TO,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,9,09:32,1,4,"HANGA, ADAM",P005099   ,Three Pointer (1/1 -  3 pt),3FGM,,3.0,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,5,09:31,1,5,"RIBAS, PAU",PJUG      ,Assist (1),AS,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,16,09:09,1,6,"SLOUKAS, KOSTAS",P001926   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,45,09:08,1,7,"MOERMAN, ADRIEN",P001833   ,Foul (1),CM,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,24,09:08,1,8,"VESELY, JAN",P000925   ,Foul Drawn (1),RV,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,,09:08,1,9,,          ,Off Rebound (1),O,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,24,09:00,1,10,"VESELY, JAN",P000925   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,45,08:59,2,12,"MOERMAN, ADRIEN",P001833   ,Def Rebound (1),D,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,5,08:37,2,13,"RIBAS, PAU",PJUG      ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,1,08:36,2,14,"THOMPSON, JASON",P007998   ,Def Rebound (1),D,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,24,08:16,2,15,"VESELY, JAN",P000925   ,Two Pointer (1/2 -  2 pt),2FGM,2.0,3.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,16,08:14,2,16,"SLOUKAS, KOSTAS",P001926   ,Assist (1),AS,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,9,08:01,2,17,"HANGA, ADAM",P005099   ,Two Pointer (1/1 -  5 pt),2FGM,2.0,5.0,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,44,07:59,3,19,"TOMIC, ANTE",P002507   ,Assist (1),AS,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,9,07:45,3,20,"HANGA, ADAM",P005099   ,Foul (1),CM,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,70,07:45,3,21,"DATOME, LUIGI",PCCD      ,Foul Drawn (1),RV,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,1,07:32,3,22,"THOMPSON, JASON",P007998   ,Two Pointer (1/1 -  2 pt),2FGM,4.0,5.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,11,07:29,3,23,"WANAMAKER, BRAD",P005838   ,Assist (1),AS,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,16,07:20,3,24,"SLOUKAS, KOSTAS",P001926   ,Foul (1),CM,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,25,07:20,3,25,"KOPONEN, PETTERI",P004178   ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,25,07:12,3,26,"KOPONEN, PETTERI",P004178   ,Three Pointer (1/1 -  3 pt),3FGM,4.0,8.0,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,5,07:10,3,27,"RIBAS, PAU",PJUG      ,Assist (2),AS,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,11,06:52,4,29,"WANAMAKER, BRAD",P005838   ,Three Pointer (1/1 -  3 pt),3FGM,7.0,8.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,16,06:50,4,30,"SLOUKAS, KOSTAS",P001926   ,Assist (2),AS,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,25,06:24,4,31,"KOPONEN, PETTERI",P004178   ,Missed Two Pointer (0/1 -  3 pt),2FGA,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,24,06:21,4,32,"VESELY, JAN",P000925   ,Def Rebound (1),D,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,70,06:10,4,33,"DATOME, LUIGI",PCCD      ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,45,06:08,4,34,"MOERMAN, ADRIEN",P001833   ,Def Rebound (2),D,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,45,06:02,4,35,"MOERMAN, ADRIEN",P001833   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,1,05:58,5,37,"THOMPSON, JASON",P007998   ,Def Rebound (2),D,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,24,05:36,5,38,"VESELY, JAN",P000925   ,Two Pointer (2/3 -  4 pt),2FGM,9.0,8.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,16,05:34,5,39,"SLOUKAS, KOSTAS",P001926   ,Assist (3),AS,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,9,05:21,5,40,"HANGA, ADAM",P005099   ,Missed Three Pointer (1/2 -  5 pt),3FGA,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,45,05:18,5,41,"MOERMAN, ADRIEN",P001833   ,Off Rebound (1),O,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,9,05:09,5,42,"HANGA, ADAM",P005099   ,Missed Two Pointer (1/2 -  5 pt),2FGA,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,,05:09,5,43,,          ,Def Rebound (1),D,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,18,05:09,5,44,"ORIOLA, PIERRE",P005917   ,In,IN,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,44,05:09,5,45,"TOMIC, ANTE",P002507   ,Out,OUT,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,24,04:46,6,47,"VESELY, JAN",P000925   ,Turnover (1),TO,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,5,04:45,6,48,"RIBAS, PAU",PJUG      ,Steal (1),ST,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,5,04:35,6,49,"RIBAS, PAU",PJUG      ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,11,04:34,6,50,"WANAMAKER, BRAD",P005838   ,Def Rebound (1),D,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,70,04:29,6,51,"DATOME, LUIGI",PCCD      ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,16,04:26,6,52,"SLOUKAS, KOSTAS",P001926   ,Off Rebound (1),O,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,24,04:19,6,53,"VESELY, JAN",P000925   ,Two Pointer (3/4 -  6 pt),2FGM,11.0,8.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,11,04:17,6,54,"WANAMAKER, BRAD",P005838   ,Assist (2),AS,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,9,03:53,7,56,"HANGA, ADAM",P005099   ,Turnover (1),TO,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,24,03:52,7,57,"VESELY, JAN",P000925   ,Steal (1),ST,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,45,03:51,7,58,"MOERMAN, ADRIEN",P001833   ,Foul (2),CM,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,24,03:51,7,59,"VESELY, JAN",P000925   ,Foul Drawn (2),RV,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+          ,,,03:51,7,60,,          ,TV Time Out (1),TOUT_TV,,,,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,1,03:51,7,61,"THOMPSON, JASON",P007998   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,4,03:51,7,62,"MELLI, NICOLO",P002849   ,In,IN,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,23,03:51,7,63,"GUDURIC, MARKO",P004004   ,In,IN,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,70,03:51,7,64,"DATOME, LUIGI",PCCD      ,Out,OUT,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,5,03:51,7,65,"RIBAS, PAU",PJUG      ,Out,OUT,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,13,03:51,7,66,"HEURTEL, THOMAS",PKLT      ,In,IN,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,30,03:51,7,67,"CLAVER, VICTOR",P000556   ,In,IN,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,45,03:51,7,68,"MOERMAN, ADRIEN",P001833   ,Out,OUT,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,24,03:51,7,69,"VESELY, JAN",P000925   ,Missed Free Throw (0/1 -  6 pt),FTA,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,24,03:51,7,70,"VESELY, JAN",P000925   ,Free Throw In (1/2 -  7 pt),FTM,12.0,8.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,25,03:29,7,71,"KOPONEN, PETTERI",P004178   ,Three Pointer (2/2 -  6 pt),3FGM,12.0,11.0,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,30,03:27,7,72,"CLAVER, VICTOR",P000556   ,Assist (1),AS,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,25,03:16,7,73,"KOPONEN, PETTERI",P004178   ,Foul (1),CM,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,11,03:16,7,74,"WANAMAKER, BRAD",P005838   ,Foul Drawn (1),RV,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,9,03:16,7,75,"HANGA, ADAM",P005099   ,Out,OUT,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,21,03:16,7,76,"SANDERS, RAKIM",P005001   ,In,IN,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,30,03:09,7,77,"CLAVER, VICTOR",P000556   ,Block (1),FV,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,4,03:09,7,78,"MELLI, NICOLO",P002849   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,4,03:09,7,79,"MELLI, NICOLO",P002849   ,Shot Rejected (1),AG,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,18,03:09,7,80,"ORIOLA, PIERRE",P005917   ,Def Rebound (1),D,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,18,03:09,7,81,"ORIOLA, PIERRE",P005917   ,Two Pointer (1/1 -  2 pt),2FGM,12.0,13.0,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,25,03:09,7,82,"KOPONEN, PETTERI",P004178   ,Assist (1),AS,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,23,02:22,8,84,"GUDURIC, MARKO",P004004   ,Turnover (1),TO,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,30,02:21,8,85,"CLAVER, VICTOR",P000556   ,Steal (1),ST,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,30,02:14,8,86,"CLAVER, VICTOR",P000556   ,Three Pointer (1/1 -  3 pt),3FGM,12.0,16.0,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,13,02:13,8,87,"HEURTEL, THOMAS",PKLT      ,Assist (1),AS,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,,02:13,8,88,,          ,Time Out (1),TOUT,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,16,02:13,8,89,"SLOUKAS, KOSTAS",P001926   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,70,02:13,8,90,"DATOME, LUIGI",PCCD      ,In,IN,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,11,01:57,9,92,"WANAMAKER, BRAD",P005838   ,Three Pointer (2/2 -  6 pt),3FGM,15.0,16.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,4,01:55,9,93,"MELLI, NICOLO",P002849   ,Assist (1),AS,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,21,01:35,9,94,"SANDERS, RAKIM",P005001   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,,01:33,9,95,,          ,Def Rebound (2),D,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,24,01:16,9,96,"VESELY, JAN",P000925   ,Missed Two Pointer (3/5 -  7 pt),2FGA,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,11,01:14,9,97,"WANAMAKER, BRAD",P005838   ,Off Rebound (1),O,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,11,01:12,9,98,"WANAMAKER, BRAD",P005838   ,Two Pointer (1/1 -  8 pt),2FGM,17.0,16.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,21,00:51,10,100,"SANDERS, RAKIM",P005001   ,Turnover (1),TO,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,9,00:51,10,101,"HANGA, ADAM",P005099   ,In,IN,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,25,00:51,10,102,"KOPONEN, PETTERI",P004178   ,Out,OUT,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,11,00:38,10,103,"WANAMAKER, BRAD",P005838   ,Two Pointer (2/2 -  10 pt),2FGM,19.0,16.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,24,00:36,10,104,"VESELY, JAN",P000925   ,Assist (1),AS,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,30,00:16,10,105,"CLAVER, VICTOR",P000556   ,Two Pointer (1/1 -  5 pt),2FGM,19.0,18.0,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,18,00:01,10,106,"ORIOLA, PIERRE",P005917   ,Foul (1),CM,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,11,00:01,10,107,"WANAMAKER, BRAD",P005838   ,Foul Drawn (2),RV,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,11,00:01,10,108,"WANAMAKER, BRAD",P005838   ,Free Throw In (1/1 -  11 pt),FTM,20.0,18.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,11,00:01,10,109,"WANAMAKER, BRAD",P005838   ,Free Throw In (2/2 -  12 pt),FTM,21.0,18.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,11,00:01,10,110,"WANAMAKER, BRAD",P005838   ,Free Throw In (3/3 -  13 pt),FTM,22.0,18.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,21,00:01,10,111,"SANDERS, RAKIM",P005001   ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+          ,,,,11,113,,          ,End Period,EP,,,,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+          ,,,,11,114,,          ,Begin Period,BP,,,,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,4,09:45,11,115,"MELLI, NICOLO",P002849   ,Two Pointer (1/2 -  2 pt),2FGM,24.0,18.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,70,09:44,11,116,"DATOME, LUIGI",PCCD      ,Assist (1),AS,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,13,09:24,11,117,"HEURTEL, THOMAS",PKLT      ,Three Pointer (1/1 -  3 pt),3FGM,24.0,21.0,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,21,09:23,11,118,"SANDERS, RAKIM",P005001   ,Assist (1),AS,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,23,09:11,11,119,"GUDURIC, MARKO",P004004   ,Two Pointer (1/1 -  2 pt),2FGM,26.0,21.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,11,09:08,11,120,"WANAMAKER, BRAD",P005838   ,Assist (3),AS,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,70,08:55,12,122,"DATOME, LUIGI",PCCD      ,Foul (1),CM,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,21,08:55,12,123,"SANDERS, RAKIM",P005001   ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,11,08:55,12,124,"WANAMAKER, BRAD",P005838   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,35,08:55,12,125,"MUHAMMED, ALI",P001324   ,In,IN,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,13,08:44,12,126,"HEURTEL, THOMAS",PKLT      ,Three Pointer (2/2 -  6 pt),3FGM,26.0,24.0,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,9,08:28,12,127,"HANGA, ADAM",P005099   ,Foul (2),CM,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,23,08:28,12,128,"GUDURIC, MARKO",P004004   ,Foul Drawn (1),RV,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,70,08:24,12,129,"DATOME, LUIGI",PCCD      ,Two Pointer (1/2 -  2 pt),2FGM,28.0,24.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,23,08:02,12,130,"GUDURIC, MARKO",P004004   ,Foul (1),CM,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,18,08:02,12,131,"ORIOLA, PIERRE",P005917   ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,1,08:02,12,132,"THOMPSON, JASON",P007998   ,In,IN,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,24,08:02,12,133,"VESELY, JAN",P000925   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,18,08:02,12,134,"ORIOLA, PIERRE",P005917   ,Free Throw In (1/1 -  3 pt),FTM,28.0,25.0,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,13,08:02,12,135,"HEURTEL, THOMAS",PKLT      ,Assist (2),AS,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,18,08:02,12,136,"ORIOLA, PIERRE",P005917   ,Missed Free Throw (1/2 -  3 pt),FTA,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,70,08:02,12,137,"DATOME, LUIGI",PCCD      ,Def Rebound (1),D,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,4,07:49,13,139,"MELLI, NICOLO",P002849   ,Three Pointer (1/1 -  5 pt),3FGM,31.0,25.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,23,07:47,13,140,"GUDURIC, MARKO",P004004   ,Assist (1),AS,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,21,07:32,13,141,"SANDERS, RAKIM",P005001   ,Turnover (2),TO,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,4,07:08,13,142,"MELLI, NICOLO",P002849   ,Two Pointer (2/3 -  7 pt),2FGM,33.0,25.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,,07:07,13,143,,          ,Time Out (1),TOUT,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+          ,,,07:07,13,144,,          ,TV Time Out (2),TOUT_TV,,,,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,5,07:07,13,145,"RIBAS, PAU",PJUG      ,In,IN,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,13,07:07,13,146,"HEURTEL, THOMAS",PKLT      ,Out,OUT,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,18,07:07,13,147,"ORIOLA, PIERRE",P005917   ,Out,OUT,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,44,07:07,13,148,"TOMIC, ANTE",P002507   ,In,IN,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,21,06:48,14,150,"SANDERS, RAKIM",P005001   ,Missed Three Pointer (0/3 -  0 pt),3FGA,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,21,06:45,14,151,"SANDERS, RAKIM",P005001   ,Off Rebound (1),O,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,30,06:44,14,152,"CLAVER, VICTOR",P000556   ,Two Pointer (2/2 -  7 pt),2FGM,33.0,27.0,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,5,06:44,14,153,"RIBAS, PAU",PJUG      ,Assist (3),AS,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,4,06:21,14,154,"MELLI, NICOLO",P002849   ,Two Pointer (3/4 -  9 pt),2FGM,35.0,27.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,1,06:19,14,155,"THOMPSON, JASON",P007998   ,Assist (1),AS,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,9,06:04,14,156,"HANGA, ADAM",P005099   ,Three Pointer (2/3 -  8 pt),3FGM,35.0,30.0,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,30,06:03,14,157,"CLAVER, VICTOR",P000556   ,Assist (2),AS,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,44,05:44,15,159,"TOMIC, ANTE",P002507   ,Foul (1),CM,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,1,05:44,15,160,"THOMPSON, JASON",P007998   ,Foul Drawn (1),RV,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,1,05:33,15,161,"THOMPSON, JASON",P007998   ,Two Pointer (2/2 -  4 pt),2FGM,37.0,30.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,35,05:32,15,162,"MUHAMMED, ALI",P001324   ,Assist (1),AS,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,1,05:09,15,163,"THOMPSON, JASON",P007998   ,Foul (1),CM,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,44,05:09,15,164,"TOMIC, ANTE",P002507   ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,21,05:07,15,165,"SANDERS, RAKIM",P005001   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,35,05:05,15,166,"MUHAMMED, ALI",P001324   ,Def Rebound (1),D,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,30,04:57,16,168,"CLAVER, VICTOR",P000556   ,Foul (1),CM,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,1,04:57,16,169,"THOMPSON, JASON",P007998   ,Foul Drawn (2),RV,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,21,04:57,16,170,"SANDERS, RAKIM",P005001   ,Out,OUT,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,25,04:57,16,171,"KOPONEN, PETTERI",P004178   ,In,IN,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,1,04:57,16,172,"THOMPSON, JASON",P007998   ,Missed Free Throw (0/1 -  4 pt),FTA,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,1,04:57,16,173,"THOMPSON, JASON",P007998   ,Free Throw In (1/2 -  5 pt),FTM,38.0,30.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,4,04:57,16,174,"MELLI, NICOLO",P002849   ,Assist (2),AS,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,25,04:43,16,175,"KOPONEN, PETTERI",P004178   ,Missed Two Pointer (0/2 -  6 pt),2FGA,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,44,04:40,16,176,"TOMIC, ANTE",P002507   ,Off Rebound (1),O,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,44,04:39,16,177,"TOMIC, ANTE",P002507   ,Two Pointer (1/1 -  2 pt),2FGM,38.0,32.0,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,35,04:33,16,178,"MUHAMMED, ALI",P001324   ,Turnover (1),TO,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,11,04:33,16,179,"WANAMAKER, BRAD",P005838   ,In,IN,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,35,04:33,16,180,"MUHAMMED, ALI",P001324   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,30,04:15,16,181,"CLAVER, VICTOR",P000556   ,Missed Three Pointer (1/2 -  7 pt),3FGA,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,11,04:13,16,182,"WANAMAKER, BRAD",P005838   ,Def Rebound (2),D,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,1,04:03,16,183,"THOMPSON, JASON",P007998   ,Missed Two Pointer (2/3 -  5 pt),2FGA,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,9,04:01,16,184,"HANGA, ADAM",P005099   ,Def Rebound (1),D,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,44,03:51,17,186,"TOMIC, ANTE",P002507   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,23,03:49,17,187,"GUDURIC, MARKO",P004004   ,Def Rebound (1),D,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,23,03:33,17,188,"GUDURIC, MARKO",P004004   ,Turnover (2),TO,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,30,03:33,17,189,"CLAVER, VICTOR",P000556   ,Out,OUT,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,45,03:33,17,190,"MOERMAN, ADRIEN",P001833   ,In,IN,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,44,03:19,17,191,"TOMIC, ANTE",P002507   ,Two Pointer (2/3 -  4 pt),2FGM,38.0,34.0,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,9,03:17,17,192,"HANGA, ADAM",P005099   ,Assist (1),AS,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,23,02:58,18,194,"GUDURIC, MARKO",P004004   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,45,02:56,18,195,"MOERMAN, ADRIEN",P001833   ,Def Rebound (3),D,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,25,02:36,18,196,"KOPONEN, PETTERI",P004178   ,Three Pointer (3/3 -  9 pt),3FGM,38.0,37.0,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,,02:36,18,197,,          ,Time Out (1),TOUT,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,1,02:36,18,198,"THOMPSON, JASON",P007998   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,16,02:36,18,199,"SLOUKAS, KOSTAS",P001926   ,In,IN,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,23,02:36,18,200,"GUDURIC, MARKO",P004004   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,24,02:36,18,201,"VESELY, JAN",P000925   ,In,IN,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,70,02:19,18,202,"DATOME, LUIGI",PCCD      ,Missed Two Pointer (1/3 -  2 pt),2FGA,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,25,02:17,18,203,"KOPONEN, PETTERI",P004178   ,Def Rebound (1),D,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,9,02:03,18,204,"HANGA, ADAM",P005099   ,Three Pointer (3/4 -  11 pt),3FGM,38.0,40.0,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,44,02:03,18,205,"TOMIC, ANTE",P002507   ,Assist (2),AS,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,5,01:51,19,207,"RIBAS, PAU",PJUG      ,Foul (1),CM,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,24,01:51,19,208,"VESELY, JAN",P000925   ,Foul Drawn (3),RV,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,11,01:42,19,209,"WANAMAKER, BRAD",P005838   ,Missed Two Pointer (2/3 -  13 pt),2FGA,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,45,01:41,19,210,"MOERMAN, ADRIEN",P001833   ,Def Rebound (4),D,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,4,01:28,19,211,"MELLI, NICOLO",P002849   ,Foul (1),CM,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,44,01:28,19,212,"TOMIC, ANTE",P002507   ,Foul Drawn (2),RV,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,30,01:28,19,213,"CLAVER, VICTOR",P000556   ,In,IN,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,45,01:28,19,214,"MOERMAN, ADRIEN",P001833   ,Out,OUT,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,44,01:28,19,215,"TOMIC, ANTE",P002507   ,Free Throw In (1/1 -  5 pt),FTM,38.0,41.0,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,5,01:28,19,216,"RIBAS, PAU",PJUG      ,Assist (4),AS,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,44,01:28,19,217,"TOMIC, ANTE",P002507   ,Free Throw In (2/2 -  6 pt),FTM,38.0,42.0,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,9,01:28,19,218,"HANGA, ADAM",P005099   ,Out,OUT,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,21,01:28,19,219,"SANDERS, RAKIM",P005001   ,In,IN,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,30,01:11,19,220,"CLAVER, VICTOR",P000556   ,Foul (2),CM,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,4,01:11,19,221,"MELLI, NICOLO",P002849   ,Foul Drawn (1),RV,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,4,01:11,19,222,"MELLI, NICOLO",P002849   ,Free Throw In (1/1 -  10 pt),FTM,39.0,42.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,4,01:11,19,223,"MELLI, NICOLO",P002849   ,Missed Free Throw (1/2 -  10 pt),FTA,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,21,01:10,19,224,"SANDERS, RAKIM",P005001   ,Def Rebound (1),D,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,44,00:50,20,226,"TOMIC, ANTE",P002507   ,Two Pointer (3/4 -  8 pt),2FGM,39.0,44.0,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,25,00:49,20,227,"KOPONEN, PETTERI",P004178   ,Assist (2),AS,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,4,00:39,20,228,"MELLI, NICOLO",P002849   ,Two Pointer (4/5 -  12 pt),2FGM,41.0,44.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,11,00:38,20,229,"WANAMAKER, BRAD",P005838   ,Assist (4),AS,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,5,00:35,20,230,"RIBAS, PAU",PJUG      ,Turnover (1),TO,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,24,00:35,20,231,"VESELY, JAN",P000925   ,Steal (2),ST,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,44,00:32,20,232,"TOMIC, ANTE",P002507   ,Foul (2),CM,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,24,00:32,20,233,"VESELY, JAN",P000925   ,Foul Drawn (4),RV,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,24,00:32,20,234,"VESELY, JAN",P000925   ,Free Throw In (2/3 -  8 pt),FTM,42.0,44.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,24,00:32,20,235,"VESELY, JAN",P000925   ,Missed Free Throw (2/4 -  8 pt),FTA,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,21,00:30,20,236,"SANDERS, RAKIM",P005001   ,Def Rebound (2),D,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,21,00:08,20,237,"SANDERS, RAKIM",P005001   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,,00:08,20,238,,          ,Def Rebound (3),D,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,18,00:08,20,239,"ORIOLA, PIERRE",P005917   ,In,IN,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,44,00:08,20,240,"TOMIC, ANTE",P002507   ,Out,OUT,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,16,00:01,20,241,"SLOUKAS, KOSTAS",P001926   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+          ,,,,21,243,,          ,End Period,EP,,,,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+          ,,,,21,254,,          ,Begin Period,BP,,,,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,10,10:00,21,244,"MAHMUTOGLU, MELIH",P002969   ,In,IN,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,16,10:00,21,245,"SLOUKAS, KOSTAS",P001926   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,23,10:00,21,246,"GUDURIC, MARKO",P004004   ,In,IN,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,70,10:00,21,247,"DATOME, LUIGI",PCCD      ,Out,OUT,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,9,10:00,21,248,"HANGA, ADAM",P005099   ,In,IN,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,18,10:00,21,249,"ORIOLA, PIERRE",P005917   ,Out,OUT,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,21,10:00,21,250,"SANDERS, RAKIM",P005001   ,Out,OUT,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,30,10:00,21,251,"CLAVER, VICTOR",P000556   ,Out,OUT,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,44,10:00,21,252,"TOMIC, ANTE",P002507   ,In,IN,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,45,10:00,21,253,"MOERMAN, ADRIEN",P001833   ,In,IN,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,45,09:44,21,255,"MOERMAN, ADRIEN",P001833   ,Turnover (1),TO,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,4,09:22,21,256,"MELLI, NICOLO",P002849   ,Two Pointer (5/6 -  14 pt),2FGM,44.0,44.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,45,09:04,21,257,"MOERMAN, ADRIEN",P001833   ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,44,09:01,21,258,"TOMIC, ANTE",P002507   ,Off Rebound (2),O,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,5,08:59,22,260,"RIBAS, PAU",PJUG      ,Missed Three Pointer (0/3 -  0 pt),3FGA,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,23,08:54,22,261,"GUDURIC, MARKO",P004004   ,Def Rebound (2),D,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,4,08:45,22,262,"MELLI, NICOLO",P002849   ,Missed Three Pointer (1/2 -  14 pt),3FGA,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,23,08:41,22,263,"GUDURIC, MARKO",P004004   ,Off Rebound (1),O,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,25,08:37,22,264,"KOPONEN, PETTERI",P004178   ,Foul (2),CM,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,23,08:37,22,265,"GUDURIC, MARKO",P004004   ,Foul Drawn (2),RV,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,11,08:31,22,266,"WANAMAKER, BRAD",P005838   ,Missed Three Pointer (2/3 -  13 pt),3FGA,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,10,08:28,22,267,"MAHMUTOGLU, MELIH",P002969   ,Off Rebound (1),O,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,10,08:28,22,268,"MAHMUTOGLU, MELIH",P002969   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,9,08:26,22,269,"HANGA, ADAM",P005099   ,Def Rebound (2),D,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,25,08:09,22,270,"KOPONEN, PETTERI",P004178   ,Turnover (1),TO,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,24,08:08,22,271,"VESELY, JAN",P000925   ,Steal (3),ST,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,5,08:05,22,272,"RIBAS, PAU",PJUG      ,Foul (2),CM,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,4,08:05,22,273,"MELLI, NICOLO",P002849   ,Foul Drawn (2),RV,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,4,08:05,22,274,"MELLI, NICOLO",P002849   ,Free Throw In (2/3 -  15 pt),FTM,45.0,44.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,23,08:05,22,275,"GUDURIC, MARKO",P004004   ,Assist (2),AS,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,4,08:05,22,276,"MELLI, NICOLO",P002849   ,Free Throw In (3/4 -  16 pt),FTM,46.0,44.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,24,07:57,23,278,"VESELY, JAN",P000925   ,Foul (1),CM,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,25,07:57,23,279,"KOPONEN, PETTERI",P004178   ,Foul Drawn (2),RV,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,5,07:40,23,280,"RIBAS, PAU",PJUG      ,Missed Three Pointer (0/4 -  0 pt),3FGA,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,11,07:38,23,281,"WANAMAKER, BRAD",P005838   ,Def Rebound (3),D,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,25,07:34,23,282,"KOPONEN, PETTERI",P004178   ,Foul (3),CM,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,11,07:34,23,283,"WANAMAKER, BRAD",P005838   ,Foul Drawn (3),RV,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,11,07:34,23,284,"WANAMAKER, BRAD",P005838   ,Free Throw In (4/4 -  14 pt),FTM,47.0,44.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,11,07:34,23,285,"WANAMAKER, BRAD",P005838   ,Free Throw In (5/5 -  15 pt),FTM,48.0,44.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,23,07:18,23,286,"GUDURIC, MARKO",P004004   ,Foul (2),CM,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,9,07:18,23,287,"HANGA, ADAM",P005099   ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,9,07:18,23,288,"HANGA, ADAM",P005099   ,Missed Free Throw (0/1 -  11 pt),FTA,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,9,07:18,23,289,"HANGA, ADAM",P005099   ,Free Throw In (1/2 -  12 pt),FTM,48.0,45.0,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,23,07:05,23,290,"GUDURIC, MARKO",P004004   ,Turnover (3),TO,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,9,07:04,23,291,"HANGA, ADAM",P005099   ,Steal (1),ST,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,45,06:53,24,293,"MOERMAN, ADRIEN",P001833   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,24,06:51,24,294,"VESELY, JAN",P000925   ,Def Rebound (2),D,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,24,06:46,24,295,"VESELY, JAN",P000925   ,Turnover (2),TO,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,5,06:44,24,296,"RIBAS, PAU",PJUG      ,Steal (2),ST,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,24,06:39,24,297,"VESELY, JAN",P000925   ,Foul (2),CM,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,9,06:39,24,298,"HANGA, ADAM",P005099   ,Foul Drawn (2),RV,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,4,06:25,24,299,"MELLI, NICOLO",P002849   ,Foul (2),CM,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,44,06:25,24,300,"TOMIC, ANTE",P002507   ,Foul Drawn (3),RV,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,25,06:24,24,301,"KOPONEN, PETTERI",P004178   ,Three Pointer (4/4 -  12 pt),3FGM,48.0,48.0,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,5,06:23,24,302,"RIBAS, PAU",PJUG      ,Assist (5),AS,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,11,05:53,25,304,"WANAMAKER, BRAD",P005838   ,Missed Two Pointer (2/4 -  15 pt),2FGA,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,44,05:52,25,305,"TOMIC, ANTE",P002507   ,Def Rebound (1),D,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,24,05:52,25,306,"VESELY, JAN",P000925   ,Foul (3),CM,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,44,05:52,25,307,"TOMIC, ANTE",P002507   ,Foul Drawn (4),RV,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,24,05:52,25,308,"VESELY, JAN",P000925   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,44,05:52,25,309,"DUVERIOGLU, AHMET",P006399   ,In,IN,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,44,05:52,25,310,"TOMIC, ANTE",P002507   ,Free Throw In (3/3 -  9 pt),FTM,48.0,49.0,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,44,05:52,25,311,"TOMIC, ANTE",P002507   ,Free Throw In (4/4 -  10 pt),FTM,48.0,50.0,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,4,05:29,25,312,"MELLI, NICOLO",P002849   ,Two Pointer (6/7 -  18 pt),2FGM,50.0,50.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,11,05:27,25,313,"WANAMAKER, BRAD",P005838   ,Assist (5),AS,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,44,05:05,25,314,"TOMIC, ANTE",P002507   ,Missed Two Pointer (3/5 -  10 pt),2FGA,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,11,05:03,25,315,"WANAMAKER, BRAD",P005838   ,Def Rebound (4),D,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,4,04:58,26,317,"MELLI, NICOLO",P002849   ,Two Pointer (7/8 -  20 pt),2FGM,52.0,50.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,11,04:57,26,318,"WANAMAKER, BRAD",P005838   ,Assist (6),AS,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,44,04:35,26,319,"TOMIC, ANTE",P002507   ,Missed Two Pointer (3/6 -  10 pt),2FGA,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,4,04:33,26,320,"MELLI, NICOLO",P002849   ,Def Rebound (1),D,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,11,04:25,26,321,"WANAMAKER, BRAD",P005838   ,Three Pointer (3/4 -  18 pt),3FGM,55.0,50.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,,04:25,26,322,,          ,Time Out (1),TOUT,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+          ,,,04:25,26,323,,          ,TV Time Out (3),TOUT_TV,,,,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,18,04:25,26,324,"ORIOLA, PIERRE",P005917   ,In,IN,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,30,04:25,26,325,"CLAVER, VICTOR",P000556   ,In,IN,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,44,04:25,26,326,"TOMIC, ANTE",P002507   ,Out,OUT,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,45,04:25,26,327,"MOERMAN, ADRIEN",P001833   ,Out,OUT,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,5,04:11,26,328,"RIBAS, PAU",PJUG      ,Turnover (2),TO,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,4,04:09,26,329,"MELLI, NICOLO",P002849   ,Steal (1),ST,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,5,04:08,26,330,"RIBAS, PAU",PJUG      ,Foul (3),CM,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,4,04:08,26,331,"MELLI, NICOLO",P002849   ,Foul Drawn (3),RV,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,5,04:08,26,332,"RIBAS, PAU",PJUG      ,Out,OUT,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,13,04:08,26,333,"HEURTEL, THOMAS",PKLT      ,In,IN,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,18,04:00,26,334,"ORIOLA, PIERRE",P005917   ,Foul (2),CM,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,44,04:00,26,335,"DUVERIOGLU, AHMET",P006399   ,Foul Drawn (1),RV,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,44,03:57,27,337,"DUVERIOGLU, AHMET",P006399   ,Missed Free Throw (0/1 -  0 pt),FTA,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,44,03:57,27,338,"DUVERIOGLU, AHMET",P006399   ,Missed Free Throw (0/2 -  0 pt),FTA,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,18,03:57,27,339,"ORIOLA, PIERRE",P005917   ,Def Rebound (2),D,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,13,03:43,27,340,"HEURTEL, THOMAS",PKLT      ,Two Pointer (1/1 -  8 pt),2FGM,55.0,52.0,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,10,03:22,27,341,"MAHMUTOGLU, MELIH",P002969   ,Two Pointer (1/2 -  2 pt),2FGM,57.0,52.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,13,03:06,27,342,"HEURTEL, THOMAS",PKLT      ,Missed Two Pointer (1/2 -  8 pt),2FGA,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,23,03:04,27,343,"GUDURIC, MARKO",P004004   ,Def Rebound (3),D,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,11,02:53,28,345,"WANAMAKER, BRAD",P005838   ,Missed Two Pointer (2/5 -  18 pt),2FGA,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,13,02:51,28,346,"HEURTEL, THOMAS",PKLT      ,Def Rebound (1),D,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,11,02:49,28,347,"WANAMAKER, BRAD",P005838   ,Foul (1),CM,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,18,02:49,28,348,"ORIOLA, PIERRE",P005917   ,Foul Drawn (2),RV,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,11,02:49,28,349,"WANAMAKER, BRAD",P005838   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,16,02:49,28,350,"SLOUKAS, KOSTAS",P001926   ,In,IN,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,9,02:49,28,351,"HANGA, ADAM",P005099   ,Out,OUT,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,21,02:49,28,352,"SANDERS, RAKIM",P005001   ,In,IN,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,18,02:49,28,353,"ORIOLA, PIERRE",P005917   ,Missed Free Throw (1/3 -  3 pt),FTA,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,18,02:49,28,354,"ORIOLA, PIERRE",P005917   ,Missed Free Throw (1/4 -  3 pt),FTA,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,4,02:47,28,355,"MELLI, NICOLO",P002849   ,Def Rebound (2),D,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,10,02:25,28,356,"MAHMUTOGLU, MELIH",P002969   ,Missed Two Pointer (1/3 -  2 pt),2FGA,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,21,02:24,28,357,"SANDERS, RAKIM",P005001   ,Def Rebound (3),D,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,30,02:06,28,358,"CLAVER, VICTOR",P000556   ,Missed Three Pointer (1/3 -  7 pt),3FGA,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,16,02:04,28,359,"SLOUKAS, KOSTAS",P001926   ,Def Rebound (1),D,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,4,01:54,29,361,"MELLI, NICOLO",P002849   ,Missed Three Pointer (1/3 -  20 pt),3FGA,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,44,01:52,29,362,"DUVERIOGLU, AHMET",P006399   ,Off Rebound (1),O,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,23,01:41,29,363,"GUDURIC, MARKO",P004004   ,Three Pointer (1/1 -  5 pt),3FGM,60.0,52.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,44,01:20,29,364,"DUVERIOGLU, AHMET",P006399   ,Foul (1),CM,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,13,01:20,29,365,"HEURTEL, THOMAS",PKLT      ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,9,01:20,29,366,"HANGA, ADAM",P005099   ,In,IN,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,25,01:20,29,367,"KOPONEN, PETTERI",P004178   ,Out,OUT,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,13,01:20,29,368,"HEURTEL, THOMAS",PKLT      ,Free Throw In (1/1 -  9 pt),FTM,60.0,53.0,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,13,01:20,29,369,"HEURTEL, THOMAS",PKLT      ,Free Throw In (2/2 -  10 pt),FTM,60.0,54.0,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,10,01:08,29,370,"MAHMUTOGLU, MELIH",P002969   ,Three Pointer (1/1 -  5 pt),3FGM,63.0,54.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,16,01:06,29,371,"SLOUKAS, KOSTAS",P001926   ,Assist (4),AS,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,13,00:53,30,373,"HEURTEL, THOMAS",PKLT      ,Turnover (1),TO,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,10,00:52,30,374,"MAHMUTOGLU, MELIH",P002969   ,Steal (1),ST,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,10,00:50,30,375,"MAHMUTOGLU, MELIH",P002969   ,Two Pointer (2/4 -  7 pt),2FGM,65.0,54.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,30,00:27,30,376,"CLAVER, VICTOR",P000556   ,Three Pointer (2/4 -  10 pt),3FGM,65.0,57.0,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,13,00:25,30,377,"HEURTEL, THOMAS",PKLT      ,Assist (3),AS,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,4,00:04,30,378,"MELLI, NICOLO",P002849   ,Offensive Foul (3),OF,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,4,00:04,30,379,"MELLI, NICOLO",P002849   ,Turnover (1),TO,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,30,00:04,30,380,"CLAVER, VICTOR",P000556   ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,4,00:04,30,381,"MELLI, NICOLO",P002849   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,24,00:04,30,382,"VESELY, JAN",P000925   ,In,IN,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,33,00:04,30,383,"KALINIC, NIKOLA",P004866   ,In,IN,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,44,00:04,30,384,"DUVERIOGLU, AHMET",P006399   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,5,00:04,30,385,"RIBAS, PAU",PJUG      ,In,IN,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,18,00:04,30,386,"ORIOLA, PIERRE",P005917   ,Out,OUT,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,30,00:04,30,387,"CLAVER, VICTOR",P000556   ,Out,OUT,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,45,00:04,30,388,"MOERMAN, ADRIEN",P001833   ,In,IN,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+          ,,,,31,390,,          ,End Period,EP,,,,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+          ,,,,31,398,,          ,Begin Period,BP,,,,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,24,10:00,31,392,"VESELY, JAN",P000925   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,44,10:00,31,393,"DUVERIOGLU, AHMET",P006399   ,In,IN,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,5,10:00,31,394,"RIBAS, PAU",PJUG      ,Out,OUT,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,30,10:00,31,395,"CLAVER, VICTOR",P000556   ,In,IN,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,44,10:00,31,396,"TOMIC, ANTE",P002507   ,In,IN,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,45,10:00,31,397,"MOERMAN, ADRIEN",P001833   ,Out,OUT,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,33,09:47,31,399,"KALINIC, NIKOLA",P004866   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,44,09:44,31,400,"TOMIC, ANTE",P002507   ,Def Rebound (2),D,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,44,09:31,31,401,"TOMIC, ANTE",P002507   ,Missed Two Pointer (3/7 -  10 pt),2FGA,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,44,09:29,31,402,"DUVERIOGLU, AHMET",P006399   ,Def Rebound (1),D,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,23,09:14,31,403,"GUDURIC, MARKO",P004004   ,Two Pointer (2/3 -  7 pt),2FGM,67.0,57.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,44,09:14,31,404,"DUVERIOGLU, AHMET",P006399   ,Assist (1),AS,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,9,09:14,31,405,"HANGA, ADAM",P005099   ,Turnover (2),TO,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,23,09:14,31,406,"GUDURIC, MARKO",P004004   ,Steal (1),ST,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,13,08:49,32,408,"HEURTEL, THOMAS",PKLT      ,Foul (1),CM,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,16,08:49,32,409,"SLOUKAS, KOSTAS",P001926   ,Foul Drawn (1),RV,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,30,08:49,32,410,"CLAVER, VICTOR",P000556   ,Out,OUT,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,45,08:49,32,411,"MOERMAN, ADRIEN",P001833   ,In,IN,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,44,08:39,32,412,"DUVERIOGLU, AHMET",P006399   ,Turnover (1),TO,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,13,08:19,32,413,"HEURTEL, THOMAS",PKLT      ,Missed Two Pointer (1/3 -  10 pt),2FGA,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,9,08:17,32,414,"HANGA, ADAM",P005099   ,Off Rebound (1),O,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,44,08:09,32,415,"DUVERIOGLU, AHMET",P006399   ,Block (1),FV,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,13,08:08,32,416,"HEURTEL, THOMAS",PKLT      ,Missed Two Pointer (1/4 -  10 pt),2FGA,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,13,08:08,32,417,"HEURTEL, THOMAS",PKLT      ,Shot Rejected (1),AG,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,44,08:08,32,418,"TOMIC, ANTE",P002507   ,Off Rebound (3),O,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,44,08:08,32,419,"TOMIC, ANTE",P002507   ,Two Pointer (4/8 -  12 pt),2FGM,67.0,59.0,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,44,08:08,32,420,"TOMIC, ANTE",P002507   ,Foul Drawn (5),RV,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,33,08:08,32,421,"KALINIC, NIKOLA",P004866   ,Foul (1),CM,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,44,08:08,32,422,"TOMIC, ANTE",P002507   ,Free Throw In (5/5 -  13 pt),FTM,67.0,60.0,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,10,07:48,33,424,"MAHMUTOGLU, MELIH",P002969   ,Turnover (1),TO,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,13,07:33,33,425,"HEURTEL, THOMAS",PKLT      ,Two Pointer (2/5 -  12 pt),2FGM,67.0,62.0,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,,07:32,33,426,,          ,Time Out (1),TOUT,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+          ,,,07:32,33,427,,          ,TV Time Out (4),TOUT_TV,,,,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,4,07:32,33,428,"MELLI, NICOLO",P002849   ,In,IN,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,24,07:32,33,429,"VESELY, JAN",P000925   ,In,IN,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,33,07:32,33,430,"KALINIC, NIKOLA",P004866   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,44,07:32,33,431,"DUVERIOGLU, AHMET",P006399   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,16,07:13,33,432,"SLOUKAS, KOSTAS",P001926   ,Two Pointer (1/2 -  2 pt),2FGM,69.0,62.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,21,06:51,34,434,"SANDERS, RAKIM",P005001   ,Missed Two Pointer (0/3 -  0 pt),2FGA,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,4,06:48,34,435,"MELLI, NICOLO",P002849   ,Def Rebound (3),D,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,24,06:38,34,436,"VESELY, JAN",P000925   ,Two Pointer (4/6 -  10 pt),2FGM,71.0,62.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,24,06:38,34,437,"VESELY, JAN",P000925   ,Foul Drawn (5),RV,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,21,06:38,34,438,"SANDERS, RAKIM",P005001   ,Foul (1),CM,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,16,06:38,34,439,"SLOUKAS, KOSTAS",P001926   ,Assist (5),AS,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,10,06:38,34,440,"MAHMUTOGLU, MELIH",P002969   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,11,06:38,34,441,"WANAMAKER, BRAD",P005838   ,In,IN,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,21,06:38,34,442,"SANDERS, RAKIM",P005001   ,Out,OUT,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,25,06:38,34,443,"KOPONEN, PETTERI",P004178   ,In,IN,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,24,06:38,34,444,"VESELY, JAN",P000925   ,Missed Free Throw (2/5 -  10 pt),FTA,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,45,06:38,34,445,"MOERMAN, ADRIEN",P001833   ,Def Rebound (5),D,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,44,06:25,34,446,"TOMIC, ANTE",P002507   ,Two Pointer (5/9 -  15 pt),2FGM,71.0,64.0,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,13,06:23,34,447,"HEURTEL, THOMAS",PKLT      ,Assist (4),AS,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,4,06:06,34,448,"MELLI, NICOLO",P002849   ,Missed Three Pointer (1/4 -  20 pt),3FGA,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,,06:03,34,449,,          ,Off Rebound (2),O,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,24,05:54,35,451,"VESELY, JAN",P000925   ,Two Pointer (5/7 -  12 pt),2FGM,73.0,64.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,16,05:52,35,452,"SLOUKAS, KOSTAS",P001926   ,Assist (6),AS,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,13,05:28,35,453,"HEURTEL, THOMAS",PKLT      ,Two Pointer (3/6 -  14 pt),2FGM,73.0,66.0,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,16,05:08,35,454,"SLOUKAS, KOSTAS",P001926   ,Missed Two Pointer (1/3 -  2 pt),2FGA,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,24,05:06,35,455,"VESELY, JAN",P000925   ,Off Rebound (1),O,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,4,04:58,36,457,"MELLI, NICOLO",P002849   ,Two Pointer (8/9 -  22 pt),2FGM,75.0,66.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,4,04:58,36,458,"MELLI, NICOLO",P002849   ,Foul Drawn (4),RV,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,45,04:58,36,459,"MOERMAN, ADRIEN",P001833   ,Foul (3),CM,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,11,04:58,36,460,"WANAMAKER, BRAD",P005838   ,Assist (7),AS,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,4,04:58,36,461,"MELLI, NICOLO",P002849   ,Free Throw In (4/5 -  23 pt),FTM,76.0,66.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,5,04:58,36,462,"RIBAS, PAU",PJUG      ,In,IN,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,9,04:58,36,463,"HANGA, ADAM",P005099   ,Out,OUT,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,24,04:40,36,464,"VESELY, JAN",P000925   ,Unsportsmanlike Foul  (4),CMU,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,44,04:40,36,465,"TOMIC, ANTE",P002507   ,Foul Drawn (6),RV,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,30,04:40,36,466,"CLAVER, VICTOR",P000556   ,In,IN,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,45,04:40,36,467,"MOERMAN, ADRIEN",P001833   ,Out,OUT,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,44,04:40,36,468,"TOMIC, ANTE",P002507   ,Missed Free Throw (5/6 -  15 pt),FTA,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,44,04:40,36,469,"TOMIC, ANTE",P002507   ,Free Throw In (6/7 -  16 pt),FTM,76.0,67.0,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,5,04:40,36,470,"RIBAS, PAU",PJUG      ,Assist (6),AS,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,13,04:28,36,471,"HEURTEL, THOMAS",PKLT      ,Missed Three Pointer (2/3 -  14 pt),3FGA,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,44,04:25,36,472,"TOMIC, ANTE",P002507   ,Off Rebound (4),O,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,44,04:25,36,473,"TOMIC, ANTE",P002507   ,Missed Two Pointer (5/10 -  16 pt),2FGA,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,44,04:23,36,474,"TOMIC, ANTE",P002507   ,Off Rebound (5),O,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,44,04:23,36,475,"TOMIC, ANTE",P002507   ,Two Pointer (6/11 -  18 pt),2FGM,76.0,69.0,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,4,04:05,36,476,"MELLI, NICOLO",P002849   ,Missed Three Pointer (1/5 -  23 pt),3FGA,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,24,04:04,36,477,"VESELY, JAN",P000925   ,Off Rebound (2),O,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,44,04:04,36,478,"TOMIC, ANTE",P002507   ,Foul (3),CM,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,24,04:04,36,479,"VESELY, JAN",P000925   ,Foul Drawn (6),RV,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,11,03:57,37,481,"WANAMAKER, BRAD",P005838   ,Two Pointer (3/6 -  20 pt),2FGM,78.0,69.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,11,03:36,37,482,"WANAMAKER, BRAD",P005838   ,Foul (2),CM,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,44,03:36,37,483,"TOMIC, ANTE",P002507   ,Foul Drawn (7),RV,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,44,03:36,37,484,"TOMIC, ANTE",P002507   ,Free Throw In (7/8 -  19 pt),FTM,78.0,70.0,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,44,03:36,37,485,"TOMIC, ANTE",P002507   ,Free Throw In (8/9 -  20 pt),FTM,78.0,71.0,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,18,03:36,37,486,"ORIOLA, PIERRE",P005917   ,In,IN,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,44,03:36,37,487,"TOMIC, ANTE",P002507   ,Out,OUT,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,18,03:18,37,488,"ORIOLA, PIERRE",P005917   ,Foul (3),CM,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,16,03:18,37,489,"SLOUKAS, KOSTAS",P001926   ,Foul Drawn (2),RV,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,23,03:18,37,490,"GUDURIC, MARKO",P004004   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,33,03:18,37,491,"KALINIC, NIKOLA",P004866   ,In,IN,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,16,03:18,37,492,"SLOUKAS, KOSTAS",P001926   ,Free Throw In (1/1 -  3 pt),FTM,79.0,71.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,16,03:18,37,493,"SLOUKAS, KOSTAS",P001926   ,Free Throw In (2/2 -  4 pt),FTM,80.0,71.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,13,02:54,38,495,"HEURTEL, THOMAS",PKLT      ,Three Pointer (3/4 -  17 pt),3FGM,80.0,74.0,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,5,02:52,38,496,"RIBAS, PAU",PJUG      ,Assist (7),AS,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,16,02:28,38,497,"SLOUKAS, KOSTAS",P001926   ,Turnover (1),TO,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,30,02:27,38,498,"CLAVER, VICTOR",P000556   ,Steal (2),ST,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,5,02:23,38,499,"RIBAS, PAU",PJUG      ,Two Pointer (1/1 -  2 pt),2FGM,80.0,76.0,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,13,02:21,38,500,"HEURTEL, THOMAS",PKLT      ,Assist (5),AS,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,30,02:08,38,501,"CLAVER, VICTOR",P000556   ,Foul (3),CM,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,11,02:08,38,502,"WANAMAKER, BRAD",P005838   ,Foul Drawn (4),RV,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,16,02:08,38,503,"SLOUKAS, KOSTAS",P001926   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,23,02:08,38,504,"GUDURIC, MARKO",P004004   ,In,IN,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,11,02:08,38,505,"WANAMAKER, BRAD",P005838   ,Free Throw In (6/6 -  21 pt),FTM,81.0,76.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,11,02:08,38,506,"WANAMAKER, BRAD",P005838   ,Free Throw In (7/7 -  22 pt),FTM,82.0,76.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,30,01:49,39,508,"CLAVER, VICTOR",P000556   ,Missed Two Pointer (2/3 -  10 pt),2FGA,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,,01:49,39,509,,          ,Off Rebound (3),O,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,,01:49,39,510,,          ,Time Out (1),TOUT,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,13,01:41,39,511,"HEURTEL, THOMAS",PKLT      ,Three Pointer (4/5 -  20 pt),3FGM,82.0,79.0,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,16,01:41,39,512,"SLOUKAS, KOSTAS",P001926   ,In,IN,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,33,01:41,39,513,"KALINIC, NIKOLA",P004866   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,4,01:34,39,514,"MELLI, NICOLO",P002849   ,Missed Three Pointer (1/6 -  23 pt),3FGA,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,24,01:34,39,515,"VESELY, JAN",P000925   ,Off Rebound (3),O,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,11,01:05,39,516,"WANAMAKER, BRAD",P005838   ,Missed Two Pointer (3/7 -  22 pt),2FGA,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,5,01:03,39,517,"RIBAS, PAU",PJUG      ,Def Rebound (1),D,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,24,00:51,40,519,"VESELY, JAN",P000925   ,Foul (5),CM,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,13,00:51,40,520,"HEURTEL, THOMAS",PKLT      ,Foul Drawn (2),RV,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,24,00:51,40,521,"VESELY, JAN",P000925   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,33,00:51,40,522,"KALINIC, NIKOLA",P004866   ,In,IN,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,13,00:46,40,523,"HEURTEL, THOMAS",PKLT      ,Missed Two Pointer (3/7 -  20 pt),2FGA,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,4,00:44,40,524,"MELLI, NICOLO",P002849   ,Def Rebound (4),D,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,5,00:21,40,525,"RIBAS, PAU",PJUG      ,Block (1),FV,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,23,00:20,40,526,"GUDURIC, MARKO",P004004   ,Missed Two Pointer (2/4 -  7 pt),2FGA,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,23,00:20,40,527,"GUDURIC, MARKO",P004004   ,Shot Rejected (1),AG,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,13,00:19,40,528,"HEURTEL, THOMAS",PKLT      ,Def Rebound (2),D,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,16,00:11,40,529,"SLOUKAS, KOSTAS",P001926   ,Foul (2),CM,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,13,00:11,40,530,"HEURTEL, THOMAS",PKLT      ,Foul Drawn (3),RV,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,13,00:11,40,531,"HEURTEL, THOMAS",PKLT      ,Missed Free Throw (2/3 -  20 pt),FTA,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,13,00:11,40,532,"HEURTEL, THOMAS",PKLT      ,Free Throw In (3/4 -  21 pt),FTM,82.0,80.0,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,,00:11,40,533,,          ,Time Out (2),TOUT,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,33,00:11,40,534,"KALINIC, NIKOLA",P004866   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,70,00:11,40,535,"DATOME, LUIGI",PCCD      ,In,IN,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,9,00:11,40,536,"HANGA, ADAM",P005099   ,In,IN,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,25,00:11,40,537,"KOPONEN, PETTERI",P004178   ,Out,OUT,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,13,00:09,40,538,"HEURTEL, THOMAS",PKLT      ,Foul (2),CM,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,11,00:09,40,539,"WANAMAKER, BRAD",P005838   ,Foul Drawn (5),RV,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,33,00:09,40,540,"KALINIC, NIKOLA",P004866   ,In,IN,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,70,00:09,40,541,"DATOME, LUIGI",PCCD      ,Out,OUT,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,11,00:09,40,542,"WANAMAKER, BRAD",P005838   ,Free Throw In (8/8 -  23 pt),FTM,83.0,80.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,11,00:09,40,543,"WANAMAKER, BRAD",P005838   ,Free Throw In (9/9 -  24 pt),FTM,84.0,80.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,,00:09,40,544,,          ,Time Out (2),TOUT,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,18,00:07,40,545,"ORIOLA, PIERRE",P005917   ,Missed Two Pointer (1/2 -  3 pt),2FGA,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,30,00:05,40,546,"CLAVER, VICTOR",P000556   ,Off Rebound (1),O,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,4,00:05,40,547,"MELLI, NICOLO",P002849   ,Foul (4),CM,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,30,00:05,40,548,"CLAVER, VICTOR",P000556   ,Foul Drawn (2),RV,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,9,00:05,40,549,"HANGA, ADAM",P005099   ,Out,OUT,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,44,00:05,40,550,"TOMIC, ANTE",P002507   ,In,IN,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,1,00:05,40,551,"THOMPSON, JASON",P007998   ,In,IN,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,33,00:05,40,552,"KALINIC, NIKOLA",P004866   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,30,00:05,40,553,"CLAVER, VICTOR",P000556   ,Free Throw In (1/1 -  11 pt),FTM,84.0,81.0,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,30,00:05,40,554,"CLAVER, VICTOR",P000556   ,Free Throw In (2/2 -  12 pt),FTM,84.0,82.0,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,4,00:05,40,555,"MELLI, NICOLO",P002849   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,70,00:05,40,556,"DATOME, LUIGI",PCCD      ,In,IN,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,9,00:05,40,557,"HANGA, ADAM",P005099   ,In,IN,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,30,00:05,40,558,"CLAVER, VICTOR",P000556   ,Out,OUT,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,13,00:04,40,559,"HEURTEL, THOMAS",PKLT      ,Foul (3),CM,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,16,00:04,40,560,"SLOUKAS, KOSTAS",P001926   ,Foul Drawn (3),RV,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,1,00:04,40,561,"THOMPSON, JASON",P007998   ,Out,OUT,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,4,00:04,40,562,"MELLI, NICOLO",P002849   ,In,IN,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,33,00:04,40,563,"KALINIC, NIKOLA",P004866   ,In,IN,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,70,00:04,40,564,"DATOME, LUIGI",PCCD      ,Out,OUT,,,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,16,00:04,40,565,"SLOUKAS, KOSTAS",P001926   ,Free Throw In (3/3 -  5 pt),FTM,85.0,82.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+ULK       ,,16,00:04,40,566,"SLOUKAS, KOSTAS",P001926   ,Free Throw In (4/4 -  6 pt),FTM,86.0,82.0,Fenerbahce Dogus Istanbul,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+BAR       ,,5,00:01,40,567,"RIBAS, PAU",PJUG      ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,FC Barcelona Lassa,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
+          ,,,,41,570,,          ,End Game,EG,,,,0,Fenerbahce Dogus Istanbul,ULK,FC Barcelona Lassa,BAR
