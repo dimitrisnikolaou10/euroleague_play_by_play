@@ -1,10 +1,3 @@
-git add data from pc
-git commit and push that
-git pull from here
-git add adjust, commit and push
-git pull from other
-run on data
-
 """import modules that will be used"""
 import pandas as pd
 import numpy as np
