@@ -54,18 +54,18 @@ def obtain_data(round, game_range):
 		"""From this point on, the data is being stored locally"""
 		if round == "regular":
 			round_of_game = ((g-1)// 8) + 1
-			if not os.path.exists("data/" + round + "/round_" + str(round_of_game)):
-				os.makedirs("data/" + round + "/round_" + str(round_of_game))
-			path = "data/" + round + "/round_" + str(round_of_game) + "/" 
+			if not os.path.exists("data/raw/" + round + "/round_" + str(round_of_game)):
+				os.makedirs("data/raw/" + round + "/round_" + str(round_of_game))
+			path = "data/raw/" + round + "/round_" + str(round_of_game) + "/" 
 		elif round == "playoff":
 			round_of_game = ((g-241)// 4) + 1
-			if not os.path.exists("data/" + round + "/round_" + str(round_of_game)):
-				os.makedirs("data/" + round + "/round_" + str(round_of_game))
-			path = "data/" + round + "/round_" + str(round_of_game) + "/" 
+			if not os.path.exists("data/raw/" + round + "/round_" + str(round_of_game)):
+				os.makedirs("data/raw/" + round + "/round_" + str(round_of_game))
+			path = "data/raw/" + round + "/round_" + str(round_of_game) + "/" 
 		else: 
-			if not os.path.exists("data/" + round + "/"):
-				os.makedirs("data/" + round + "/")
-			path = "data/" + round + "/"
+			if not os.path.exists("data/raw/" + round + "/"):
+				os.makedirs("data/raw/" + round + "/")
+			path = "data/raw/" + round + "/"
 		
 		full_name = path + game_name + ".csv"
 
