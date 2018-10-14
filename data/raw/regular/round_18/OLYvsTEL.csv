@@ -1,0 +1,569 @@
+CODETEAM,COMMENT,DORSAL,MARKERTIME,MINUTE,NUMBEROFPLAY,PLAYER,PLAYER_ID,PLAYINFO,PLAYTYPE,POINTS_A,POINTS_B,TEAM,TYPE,home_team,home_team_code,away_team,away_team_code
+          ,,,,1,2,,          ,Begin Period,BP,,,,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,11,09:59,1,3,"MILUTINOV, NIKOLA",P003941   ,Foul (1),CM,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,45,09:59,1,4,"PARAKHOUSKI, ARTSIOM",P003034   ,Foul Drawn (1),RV,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,45,09:46,1,5,"PARAKHOUSKI, ARTSIOM",P003034   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,17,09:44,1,6,"MANTZARIS, VANGELIS",P003537   ,Def Rebound (1),D,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,17,09:27,1,7,"MANTZARIS, VANGELIS",P003537   ,Two Pointer (1/1 -  2 pt),2FGM,2.0,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,7,09:15,1,8,"SPANOULIS, VASSILIS",PJUO      ,Foul (1),CM,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,7,09:15,1,9,"KANE, DEANDRE",P005781   ,Foul Drawn (1),RV,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,5,09:07,1,10,"ROLL, MICHAEL",P004974   ,Two Pointer (1/1 -  2 pt),2FGM,2.0,2.0,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,55,09:05,1,11,"JACKSON, PIERRE",P005112   ,Assist (1),AS,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,7,08:56,2,13,"KANE, DEANDRE",P005781   ,Foul (1),CM,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,7,08:56,2,14,"SPANOULIS, VASSILIS",PJUO      ,Foul Drawn (1),RV,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,15,08:45,2,15,"PRINTEZIS, GEORGIOS",PAMM      ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,5,08:43,2,16,"ROLL, MICHAEL",P004974   ,Def Rebound (1),D,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,1,08:36,2,17,"THOMAS, DESHAUN",P005094   ,Three Pointer (1/1 -  3 pt),3FGM,2.0,5.0,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,5,08:33,2,18,"ROLL, MICHAEL",P004974   ,Assist (1),AS,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,15,08:17,2,19,"PRINTEZIS, GEORGIOS",PAMM      ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,45,08:15,2,20,"PARAKHOUSKI, ARTSIOM",P003034   ,Def Rebound (1),D,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,5,08:05,2,21,"ROLL, MICHAEL",P004974   ,Turnover (1),TO,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,15,07:50,3,23,"PRINTEZIS, GEORGIOS",PAMM      ,Two Pointer (1/2 -  2 pt),2FGM,4.0,5.0,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,7,07:48,3,24,"SPANOULIS, VASSILIS",PJUO      ,Assist (1),AS,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,45,07:36,3,25,"PARAKHOUSKI, ARTSIOM",P003034   ,Two Pointer (1/2 -  2 pt),2FGM,4.0,7.0,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,55,07:35,3,26,"JACKSON, PIERRE",P005112   ,Assist (2),AS,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,16,07:16,3,27,"PAPANIKOLAOU, KOSTAS",P001255   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,1,07:14,3,28,"THOMAS, DESHAUN",P005094   ,Def Rebound (1),D,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,55,07:07,3,29,"JACKSON, PIERRE",P005112   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,11,07:05,3,30,"MILUTINOV, NIKOLA",P003941   ,Def Rebound (1),D,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,7,06:55,4,32,"SPANOULIS, VASSILIS",PJUO      ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,7,06:55,4,33,"SPANOULIS, VASSILIS",PJUO      ,Shot Rejected (1),AG,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,5,06:55,4,34,"ROLL, MICHAEL",P004974   ,Block (1),FV,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,,06:55,4,35,,          ,Off Rebound (1),O,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,1,06:47,4,36,"THOMAS, DESHAUN",P005094   ,Foul (1),CM,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,15,06:47,4,37,"PRINTEZIS, GEORGIOS",PAMM      ,Foul Drawn (1),RV,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,11,06:37,4,38,"MILUTINOV, NIKOLA",P003941   ,Two Pointer (1/1 -  2 pt),2FGM,6.0,7.0,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,16,06:35,4,39,"PAPANIKOLAOU, KOSTAS",P001255   ,Assist (1),AS,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,5,06:22,4,40,"ROLL, MICHAEL",P004974   ,Turnover (2),TO,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,7,06:21,4,41,"SPANOULIS, VASSILIS",PJUO      ,Steal (1),ST,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,11,06:16,4,42,"MILUTINOV, NIKOLA",P003941   ,Two Pointer (2/2 -  4 pt),2FGM,8.0,7.0,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,7,06:15,4,43,"SPANOULIS, VASSILIS",PJUO      ,Assist (2),AS,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,7,06:04,4,44,"KANE, DEANDRE",P005781   ,Two Pointer (1/1 -  2 pt),2FGM,8.0,9.0,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,7,05:37,5,46,"KANE, DEANDRE",P005781   ,Foul (2),CM,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,15,05:37,5,47,"PRINTEZIS, GEORGIOS",PAMM      ,Foul Drawn (2),RV,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,16,05:37,5,48,"PAPANIKOLAOU, KOSTAS",P001255   ,Two Pointer (1/1 -  2 pt),2FGM,10.0,9.0,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,7,05:37,5,49,"SPANOULIS, VASSILIS",PJUO      ,Assist (3),AS,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,7,05:09,5,50,"KANE, DEANDRE",P005781   ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,16,05:07,5,51,"PAPANIKOLAOU, KOSTAS",P001255   ,Def Rebound (1),D,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,15,05:00,5,52,"PRINTEZIS, GEORGIOS",PAMM      ,Missed Two Pointer (1/3 -  2 pt),2FGA,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,1,04:58,6,54,"THOMAS, DESHAUN",P005094   ,Def Rebound (2),D,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,1,04:50,6,55,"THOMAS, DESHAUN",P005094   ,Missed Three Pointer (1/2 -  3 pt),3FGA,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,7,04:49,6,56,"SPANOULIS, VASSILIS",PJUO      ,Def Rebound (1),D,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,16,04:31,6,57,"PAPANIKOLAOU, KOSTAS",P001255   ,Missed Three Pointer (0/2 -  2 pt),3FGA,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,7,04:29,6,58,"KANE, DEANDRE",P005781   ,Def Rebound (1),D,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,7,04:26,6,59,"SPANOULIS, VASSILIS",PJUO      ,Foul (2),CM,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,7,04:26,6,60,"KANE, DEANDRE",P005781   ,Foul Drawn (2),RV,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+          ,,,04:26,6,61,,          ,TV Time Out (1),TOUT_TV,,,,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,1,04:26,6,62,"MCLEAN, JAMEL",P004418   ,In,IN,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,11,04:26,6,63,"MILUTINOV, NIKOLA",P003941   ,Out,OUT,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,9,04:26,6,64,"TYUS, ALEX",P004119   ,In,IN,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,45,04:26,6,65,"PARAKHOUSKI, ARTSIOM",P003034   ,Out,OUT,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,7,04:26,6,66,"KANE, DEANDRE",P005781   ,Missed Free Throw (0/1 -  2 pt),FTA,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,7,04:26,6,67,"KANE, DEANDRE",P005781   ,Free Throw In (1/2 -  3 pt),FTM,10.0,10.0,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,7,04:26,6,68,"KANE, DEANDRE",P005781   ,Out,OUT,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,30,04:26,6,69,"COLE, NORRIS",P007989   ,In,IN,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,9,04:10,6,70,"TYUS, ALEX",P004119   ,Foul (1),CM,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,16,04:10,6,71,"PAPANIKOLAOU, KOSTAS",P001255   ,Foul Drawn (1),RV,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,16,04:10,6,72,"PAPANIKOLAOU, KOSTAS",P001255   ,Free Throw In (1/1 -  3 pt),FTM,11.0,10.0,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,16,04:10,6,73,"PAPANIKOLAOU, KOSTAS",P001255   ,Free Throw In (2/2 -  4 pt),FTM,12.0,10.0,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,30,03:51,7,75,"COLE, NORRIS",P007989   ,Three Pointer (1/1 -  3 pt),3FGM,12.0,13.0,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,1,03:49,7,76,"THOMAS, DESHAUN",P005094   ,Assist (1),AS,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,7,03:33,7,77,"SPANOULIS, VASSILIS",PJUO      ,Turnover (1),TO,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,1,03:31,7,78,"THOMAS, DESHAUN",P005094   ,Steal (1),ST,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,5,03:22,7,79,"ROLL, MICHAEL",P004974   ,Turnover (3),TO,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,1,03:15,7,80,"THOMAS, DESHAUN",P005094   ,Foul (2),CM,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,7,03:15,7,81,"SPANOULIS, VASSILIS",PJUO      ,Foul Drawn (2),RV,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,7,03:15,7,82,"SPANOULIS, VASSILIS",PJUO      ,Free Throw In (1/1 -  1 pt),FTM,13.0,13.0,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,7,03:15,7,83,"SPANOULIS, VASSILIS",PJUO      ,Free Throw In (2/2 -  2 pt),FTM,14.0,13.0,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,17,03:06,7,84,"MANTZARIS, VANGELIS",P003537   ,Foul (1),CM,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,55,03:06,7,85,"JACKSON, PIERRE",P005112   ,Foul Drawn (1),RV,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,55,03:06,7,86,"JACKSON, PIERRE",P005112   ,Turnover (1),TO,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,55,02:55,8,88,"JACKSON, PIERRE",P005112   ,Foul (1),CM,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,1,02:55,8,89,"MCLEAN, JAMEL",P004418   ,Foul Drawn (1),RV,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,12,02:55,8,90,"DIBARTOLOMEO, JOHN",P007990   ,In,IN,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,55,02:55,8,91,"JACKSON, PIERRE",P005112   ,Out,OUT,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,1,02:55,8,92,"MCLEAN, JAMEL",P004418   ,Free Throw In (1/1 -  1 pt),FTM,15.0,13.0,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,15,02:55,8,93,"PRINTEZIS, GEORGIOS",PAMM      ,Assist (1),AS,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,1,02:55,8,94,"MCLEAN, JAMEL",P004418   ,Free Throw In (2/2 -  2 pt),FTM,16.0,13.0,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,9,02:49,8,95,"TYUS, ALEX",P004119   ,Two Pointer (1/1 -  2 pt),2FGM,16.0,15.0,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,5,02:47,8,96,"ROLL, MICHAEL",P004974   ,Assist (2),AS,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,7,02:25,8,97,"SPANOULIS, VASSILIS",PJUO      ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,1,02:23,8,98,"MCLEAN, JAMEL",P004418   ,Off Rebound (1),O,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,1,02:15,8,99,"MCLEAN, JAMEL",P004418   ,Two Pointer (1/1 -  4 pt),2FGM,18.0,15.0,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,17,02:15,8,100,"MANTZARIS, VANGELIS",P003537   ,Assist (1),AS,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,9,02:15,8,101,"TYUS, ALEX",P004119   ,Foul (2),CM,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,1,02:15,8,102,"MCLEAN, JAMEL",P004418   ,Foul Drawn (2),RV,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,9,02:15,8,103,"TYUS, ALEX",P004119   ,Out,OUT,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,45,02:15,8,104,"PARAKHOUSKI, ARTSIOM",P003034   ,In,IN,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,6,02:15,8,105,"PAPAPETROU, IOANNIS",P005161   ,In,IN,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,15,02:15,8,106,"PRINTEZIS, GEORGIOS",PAMM      ,Out,OUT,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,1,02:15,8,107,"MCLEAN, JAMEL",P004418   ,Free Throw In (3/3 -  5 pt),FTM,19.0,15.0,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,45,01:55,9,109,"PARAKHOUSKI, ARTSIOM",P003034   ,Missed Two Pointer (1/3 -  2 pt),2FGA,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,6,01:53,9,110,"PAPAPETROU, IOANNIS",P005161   ,Def Rebound (1),D,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,1,01:36,9,111,"MCLEAN, JAMEL",P004418   ,Missed Two Pointer (1/2 -  5 pt),2FGA,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,1,01:36,9,112,"MCLEAN, JAMEL",P004418   ,Shot Rejected (1),AG,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,45,01:34,9,113,"PARAKHOUSKI, ARTSIOM",P003034   ,Block (1),FV,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,6,01:32,9,114,"PAPAPETROU, IOANNIS",P005161   ,Off Rebound (1),O,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,6,01:30,9,115,"PAPAPETROU, IOANNIS",P005161   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,7,01:29,9,116,"SPANOULIS, VASSILIS",PJUO      ,Off Rebound (1),O,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,17,01:22,9,117,"MANTZARIS, VANGELIS",P003537   ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,12,01:20,9,118,"DIBARTOLOMEO, JOHN",P007990   ,Def Rebound (1),D,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,16,01:18,9,119,"PAPANIKOLAOU, KOSTAS",P001255   ,Foul (1),CM,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,12,01:18,9,120,"DIBARTOLOMEO, JOHN",P007990   ,Foul Drawn (1),RV,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,7,01:18,9,121,"SPANOULIS, VASSILIS",PJUO      ,Out,OUT,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,13,01:18,9,122,"STRELNIEKS, JANIS",P000046   ,In,IN,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,1,01:18,9,123,"THOMAS, DESHAUN",P005094   ,Out,OUT,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,4,01:18,9,124,"MASHOUR, KARAM",P008015   ,In,IN,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,5,01:18,9,125,"ROLL, MICHAEL",P004974   ,Out,OUT,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,15,01:18,9,126,"COHEN, JAKE",P005145   ,In,IN,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,12,01:18,9,127,"DIBARTOLOMEO, JOHN",P007990   ,Free Throw In (1/1 -  1 pt),FTM,19.0,16.0,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,12,01:18,9,128,"DIBARTOLOMEO, JOHN",P007990   ,Missed Free Throw (1/2 -  1 pt),FTA,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,17,01:18,9,129,"MANTZARIS, VANGELIS",P003537   ,Def Rebound (2),D,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,1,01:02,9,130,"MCLEAN, JAMEL",P004418   ,Two Pointer (2/3 -  7 pt),2FGM,21.0,16.0,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,45,01:02,9,131,"PARAKHOUSKI, ARTSIOM",P003034   ,Foul (1),CM,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,1,01:02,9,132,"MCLEAN, JAMEL",P004418   ,Foul Drawn (3),RV,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,1,01:02,9,133,"MCLEAN, JAMEL",P004418   ,Free Throw In (4/4 -  8 pt),FTM,22.0,16.0,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,12,00:42,10,135,"DIBARTOLOMEO, JOHN",P007990   ,Turnover (1),TO,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,17,00:40,10,136,"MANTZARIS, VANGELIS",P003537   ,Steal (1),ST,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,17,00:22,10,137,"MANTZARIS, VANGELIS",P003537   ,Missed Three Pointer (0/2 -  2 pt),3FGA,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,1,00:21,10,138,"MCLEAN, JAMEL",P004418   ,Off Rebound (2),O,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,1,00:10,10,139,"MCLEAN, JAMEL",P004418   ,Two Pointer (3/4 -  10 pt),2FGM,24.0,16.0,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,16,00:09,10,140,"PAPANIKOLAOU, KOSTAS",P001255   ,Assist (2),AS,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,30,00:01,10,141,"COLE, NORRIS",P007989   ,Missed Three Pointer (1/2 -  3 pt),3FGA,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,1,00:00,10,142,"MCLEAN, JAMEL",P004418   ,Def Rebound (1),D,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+          ,,,,11,144,,          ,End Period,EP,,,,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+          ,,,,11,149,,          ,Begin Period,BP,,,,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,16,10:00,11,145,"PAPANIKOLAOU, KOSTAS",P001255   ,Out,OUT,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,17,10:00,11,146,"MANTZARIS, VANGELIS",P003537   ,Out,OUT,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,22,10:00,11,147,"ROBERTS, BRIAN",P002091   ,In,IN,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,34,10:00,11,148,"THOMPSON, HOLLIS",P008014   ,In,IN,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,34,09:42,11,150,"THOMPSON, HOLLIS",P008014   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,6,09:40,11,151,"PAPAPETROU, IOANNIS",P005161   ,Off Rebound (2),O,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,1,09:31,11,152,"MCLEAN, JAMEL",P004418   ,Two Pointer (4/5 -  12 pt),2FGM,26.0,16.0,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,13,09:28,11,153,"STRELNIEKS, JANIS",P000046   ,Assist (1),AS,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,22,09:26,11,154,"ROBERTS, BRIAN",P002091   ,Foul (1),CM,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,30,09:26,11,155,"COLE, NORRIS",P007989   ,Foul Drawn (1),RV,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,1,09:26,11,156,"MCLEAN, JAMEL",P004418   ,Out,OUT,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,11,09:26,11,157,"MILUTINOV, NIKOLA",P003941   ,In,IN,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,18,09:26,11,158,"SEGEV, ITAY",P004161   ,In,IN,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,45,09:26,11,159,"PARAKHOUSKI, ARTSIOM",P003034   ,Out,OUT,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,18,09:09,11,160,"SEGEV, ITAY",P004161   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,18,09:09,11,161,"SEGEV, ITAY",P004161   ,Shot Rejected (1),AG,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,11,09:06,11,162,"MILUTINOV, NIKOLA",P003941   ,Block (1),FV,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,18,09:05,11,163,"SEGEV, ITAY",P004161   ,Off Rebound (1),O,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,4,09:03,11,164,"MASHOUR, KARAM",P008015   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,,09:03,11,165,,          ,Off Rebound (2),O,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,6,09:03,11,166,"PAPAPETROU, IOANNIS",P005161   ,Foul (1),CM,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,15,09:03,11,167,"COHEN, JAKE",P005145   ,Foul Drawn (1),RV,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,12,09:03,11,168,"DIBARTOLOMEO, JOHN",P007990   ,Out,OUT,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,55,09:03,11,169,"JACKSON, PIERRE",P005112   ,In,IN,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,30,08:58,12,171,"COLE, NORRIS",P007989   ,Missed Three Pointer (1/3 -  3 pt),3FGA,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,55,08:55,12,172,"JACKSON, PIERRE",P005112   ,Off Rebound (1),O,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,34,08:51,12,173,"THOMPSON, HOLLIS",P008014   ,Foul (1),CM,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,18,08:51,12,174,"SEGEV, ITAY",P004161   ,Foul Drawn (1),RV,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,18,08:51,12,175,"SEGEV, ITAY",P004161   ,Missed Free Throw (0/1 -  0 pt),FTA,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,18,08:51,12,176,"SEGEV, ITAY",P004161   ,Missed Free Throw (0/2 -  0 pt),FTA,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,,08:51,12,177,,          ,Def Rebound (1),D,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,6,08:35,12,178,"PAPAPETROU, IOANNIS",P005161   ,Two Pointer (1/2 -  2 pt),2FGM,28.0,16.0,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,11,08:34,12,179,"MILUTINOV, NIKOLA",P003941   ,Assist (1),AS,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,18,08:28,12,180,"SEGEV, ITAY",P004161   ,Turnover (1),TO,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,6,08:10,12,181,"PAPAPETROU, IOANNIS",P005161   ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,55,08:09,12,182,"JACKSON, PIERRE",P005112   ,Def Rebound (1),D,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,30,08:02,12,183,"COLE, NORRIS",P007989   ,Two Pointer (1/1 -  5 pt),2FGM,28.0,18.0,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,55,08:00,12,184,"JACKSON, PIERRE",P005112   ,Assist (3),AS,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,4,07:46,13,186,"MASHOUR, KARAM",P008015   ,Foul (1),CM,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,34,07:46,13,187,"THOMPSON, HOLLIS",P008014   ,Foul Drawn (1),RV,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,4,07:46,13,188,"MASHOUR, KARAM",P008015   ,Out,OUT,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,50,07:46,13,189,"ZOOSMAN, YOVEL",P006625   ,In,IN,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,34,07:46,13,190,"THOMPSON, HOLLIS",P008014   ,Free Throw In (1/1 -  1 pt),FTM,29.0,18.0,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,34,07:46,13,191,"THOMPSON, HOLLIS",P008014   ,Free Throw In (2/2 -  2 pt),FTM,30.0,18.0,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,18,07:32,13,192,"SEGEV, ITAY",P004161   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,34,07:30,13,193,"THOMPSON, HOLLIS",P008014   ,Def Rebound (1),D,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,34,07:29,13,194,"THOMPSON, HOLLIS",P008014   ,Offensive Foul (2),OF,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,34,07:29,13,195,"THOMPSON, HOLLIS",P008014   ,Turnover (1),TO,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,30,07:29,13,196,"COLE, NORRIS",P007989   ,Foul Drawn (2),RV,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,1,07:29,13,197,"THOMAS, DESHAUN",P005094   ,In,IN,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,18,07:29,13,198,"SEGEV, ITAY",P004161   ,Out,OUT,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,30,07:12,13,199,"COLE, NORRIS",P007989   ,Missed Two Pointer (1/2 -  5 pt),2FGA,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,13,07:10,13,200,"STRELNIEKS, JANIS",P000046   ,Def Rebound (1),D,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,22,06:59,14,202,"ROBERTS, BRIAN",P002091   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,,06:57,14,203,,          ,Def Rebound (2),D,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,55,06:48,14,204,"JACKSON, PIERRE",P005112   ,Two Pointer (1/2 -  2 pt),2FGM,30.0,20.0,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,22,06:48,14,205,"ROBERTS, BRIAN",P002091   ,Foul (2),CM,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,55,06:48,14,206,"JACKSON, PIERRE",P005112   ,Foul Drawn (2),RV,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,55,06:48,14,207,"JACKSON, PIERRE",P005112   ,Free Throw In (1/1 -  3 pt),FTM,30.0,21.0,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,15,06:37,14,208,"COHEN, JAKE",P005145   ,Foul (1),CM,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,11,06:37,14,209,"MILUTINOV, NIKOLA",P003941   ,Foul Drawn (1),RV,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,34,06:33,14,210,"THOMPSON, HOLLIS",P008014   ,Missed Two Pointer (0/1 -  2 pt),2FGA,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,15,06:31,14,211,"COHEN, JAKE",P005145   ,Def Rebound (1),D,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,55,06:28,14,212,"JACKSON, PIERRE",P005112   ,Three Pointer (1/1 -  6 pt),3FGM,30.0,24.0,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,,06:28,14,213,,          ,Time Out (1),TOUT,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,16,06:28,14,214,"PAPANIKOLAOU, KOSTAS",P001255   ,In,IN,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,34,06:28,14,215,"THOMPSON, HOLLIS",P008014   ,Out,OUT,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,30,06:17,14,216,"COLE, NORRIS",P007989   ,Foul (1),CM,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,13,06:17,14,217,"STRELNIEKS, JANIS",P000046   ,Foul Drawn (1),RV,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,13,06:17,14,218,"STRELNIEKS, JANIS",P000046   ,Free Throw In (1/1 -  1 pt),FTM,31.0,24.0,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,22,06:17,14,219,"ROBERTS, BRIAN",P002091   ,Assist (1),AS,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,13,06:17,14,220,"STRELNIEKS, JANIS",P000046   ,Free Throw In (2/2 -  2 pt),FTM,32.0,24.0,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,13,06:17,14,221,"STRELNIEKS, JANIS",P000046   ,Free Throw In (3/3 -  3 pt),FTM,33.0,24.0,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,30,06:04,14,222,"COLE, NORRIS",P007989   ,Missed Two Pointer (1/3 -  5 pt),2FGA,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,11,06:03,14,223,"MILUTINOV, NIKOLA",P003941   ,Def Rebound (2),D,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,11,05:55,15,225,"MILUTINOV, NIKOLA",P003941   ,Two Pointer (3/3 -  6 pt),2FGM,35.0,24.0,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,13,05:53,15,226,"STRELNIEKS, JANIS",P000046   ,Assist (2),AS,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,1,05:42,15,227,"THOMAS, DESHAUN",P005094   ,Turnover (1),TO,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,9,05:42,15,228,"TYUS, ALEX",P004119   ,In,IN,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,15,05:42,15,229,"COHEN, JAKE",P005145   ,Out,OUT,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,5,05:42,15,230,"ROLL, MICHAEL",P004974   ,In,IN,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,30,05:42,15,231,"COLE, NORRIS",P007989   ,Out,OUT,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,11,05:30,15,232,"MILUTINOV, NIKOLA",P003941   ,Two Pointer (4/4 -  8 pt),2FGM,37.0,24.0,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,13,05:30,15,245,"STRELNIEKS, JANIS",P000046   ,Assist (3),AS,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,,05:30,15,233,,CO_B      ,Coach Foul (1),C,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,13,05:30,15,234,"STRELNIEKS, JANIS",P000046   ,Missed Free Throw (3/4 -  3 pt),FTA,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,11,05:15,15,235,"MILUTINOV, NIKOLA",P003941   ,Turnover (1),TO,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,1,05:14,15,236,"THOMAS, DESHAUN",P005094   ,Steal (2),ST,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,55,05:08,15,237,"JACKSON, PIERRE",P005112   ,Missed Two Pointer (1/3 -  6 pt),2FGA,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,9,05:05,15,238,"TYUS, ALEX",P004119   ,Off Rebound (1),O,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,9,05:05,15,239,"TYUS, ALEX",P004119   ,Two Pointer (2/2 -  4 pt),2FGM,37.0,26.0,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,6,04:45,16,241,"PAPAPETROU, IOANNIS",P005161   ,Missed Two Pointer (1/3 -  2 pt),2FGA,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,1,04:42,16,242,"THOMAS, DESHAUN",P005094   ,Def Rebound (3),D,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,55,04:36,16,243,"JACKSON, PIERRE",P005112   ,Three Pointer (2/2 -  9 pt),3FGM,37.0,29.0,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,5,04:36,16,244,"ROLL, MICHAEL",P004974   ,Assist (3),AS,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,,04:36,16,246,,          ,Time Out (2),TOUT,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,7,04:36,16,247,"SPANOULIS, VASSILIS",PJUO      ,In,IN,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,13,04:36,16,248,"STRELNIEKS, JANIS",P000046   ,Out,OUT,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,17,04:36,16,249,"MANTZARIS, VANGELIS",P003537   ,In,IN,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,22,04:36,16,250,"ROBERTS, BRIAN",P002091   ,Out,OUT,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,7,04:36,16,251,"KANE, DEANDRE",P005781   ,In,IN,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,50,04:36,16,252,"ZOOSMAN, YOVEL",P006625   ,Out,OUT,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,16,04:21,16,253,"PAPANIKOLAOU, KOSTAS",P001255   ,Missed Two Pointer (1/2 -  4 pt),2FGA,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,16,04:21,16,254,"PAPANIKOLAOU, KOSTAS",P001255   ,Shot Rejected (1),AG,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,9,04:19,16,255,"TYUS, ALEX",P004119   ,Block (1),FV,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,55,04:17,16,256,"JACKSON, PIERRE",P005112   ,Def Rebound (2),D,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,55,04:13,16,257,"JACKSON, PIERRE",P005112   ,Missed Two Pointer (1/4 -  9 pt),2FGA,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,55,04:13,16,258,"JACKSON, PIERRE",P005112   ,Shot Rejected (1),AG,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,6,04:11,16,259,"PAPAPETROU, IOANNIS",P005161   ,Block (1),FV,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,7,04:10,16,260,"KANE, DEANDRE",P005781   ,Off Rebound (1),O,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,7,04:09,16,261,"KANE, DEANDRE",P005781   ,Two Pointer (2/2 -  5 pt),2FGM,37.0,31.0,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,7,03:57,17,263,"SPANOULIS, VASSILIS",PJUO      ,Three Pointer (1/2 -  5 pt),3FGM,40.0,31.0,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,7,03:37,17,264,"KANE, DEANDRE",P005781   ,Missed Two Pointer (2/3 -  5 pt),2FGA,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,16,03:35,17,265,"PAPANIKOLAOU, KOSTAS",P001255   ,Def Rebound (2),D,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,7,03:22,17,266,"SPANOULIS, VASSILIS",PJUO      ,Missed Three Pointer (1/3 -  5 pt),3FGA,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,7,03:19,17,267,"KANE, DEANDRE",P005781   ,Def Rebound (2),D,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,5,03:13,17,268,"ROLL, MICHAEL",P004974   ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,1,03:13,17,269,"THOMAS, DESHAUN",P005094   ,Off Rebound (1),O,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,6,03:13,17,270,"PAPAPETROU, IOANNIS",P005161   ,Foul (2),CM,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,1,03:13,17,271,"THOMAS, DESHAUN",P005094   ,Foul Drawn (1),RV,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,11,03:13,17,272,"MILUTINOV, NIKOLA",P003941   ,Out,OUT,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,15,03:13,17,273,"PRINTEZIS, GEORGIOS",PAMM      ,In,IN,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,1,03:13,17,274,"THOMAS, DESHAUN",P005094   ,Free Throw In (1/1 -  4 pt),FTM,40.0,32.0,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,1,03:13,17,275,"THOMAS, DESHAUN",P005094   ,Missed Free Throw (1/2 -  4 pt),FTA,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,15,03:13,17,276,"PRINTEZIS, GEORGIOS",PAMM      ,Def Rebound (1),D,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,16,02:57,18,278,"PAPANIKOLAOU, KOSTAS",P001255   ,Missed Two Pointer (1/3 -  4 pt),2FGA,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,1,02:54,18,279,"THOMAS, DESHAUN",P005094   ,Def Rebound (4),D,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,55,02:48,18,280,"JACKSON, PIERRE",P005112   ,Missed Two Pointer (1/5 -  9 pt),2FGA,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,,02:48,18,281,,          ,Off Rebound (3),O,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,15,02:48,18,282,"PRINTEZIS, GEORGIOS",PAMM      ,Foul (1),CM,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,9,02:48,18,283,"TYUS, ALEX",P004119   ,Foul Drawn (1),RV,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,9,02:48,18,284,"TYUS, ALEX",P004119   ,Missed Free Throw (0/1 -  4 pt),FTA,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,9,02:48,18,285,"TYUS, ALEX",P004119   ,Free Throw In (1/2 -  5 pt),FTM,40.0,33.0,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,7,02:34,18,286,"SPANOULIS, VASSILIS",PJUO      ,Two Pointer (1/2 -  7 pt),2FGM,42.0,33.0,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,5,02:13,18,287,"ROLL, MICHAEL",P004974   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,15,02:11,18,288,"PRINTEZIS, GEORGIOS",PAMM      ,Def Rebound (2),D,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,16,02:08,18,289,"PAPANIKOLAOU, KOSTAS",P001255   ,Two Pointer (2/4 -  6 pt),2FGM,44.0,33.0,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,17,02:08,18,290,"MANTZARIS, VANGELIS",P003537   ,Assist (2),AS,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,,02:08,18,291,,          ,Time Out (1),TOUT,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,5,02:08,18,292,"ROLL, MICHAEL",P004974   ,Out,OUT,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,30,02:08,18,293,"COLE, NORRIS",P007989   ,In,IN,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,1,01:48,19,295,"THOMAS, DESHAUN",P005094   ,Missed Two Pointer (0/1 -  4 pt),2FGA,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,17,01:46,19,296,"MANTZARIS, VANGELIS",P003537   ,Def Rebound (3),D,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,7,01:41,19,297,"SPANOULIS, VASSILIS",PJUO      ,Missed Two Pointer (1/3 -  7 pt),2FGA,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,7,01:41,19,298,"SPANOULIS, VASSILIS",PJUO      ,Shot Rejected (2),AG,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,55,01:39,19,299,"JACKSON, PIERRE",P005112   ,Block (1),FV,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,7,01:37,19,300,"KANE, DEANDRE",P005781   ,Def Rebound (3),D,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,7,01:36,19,301,"KANE, DEANDRE",P005781   ,Out,OUT,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,50,01:36,19,302,"ZOOSMAN, YOVEL",P006625   ,In,IN,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,30,01:33,19,303,"COLE, NORRIS",P007989   ,Turnover (1),TO,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,6,01:32,19,304,"PAPAPETROU, IOANNIS",P005161   ,Steal (1),ST,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,55,01:30,19,305,"JACKSON, PIERRE",P005112   ,Foul (2),CM,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,7,01:30,19,306,"SPANOULIS, VASSILIS",PJUO      ,Foul Drawn (3),RV,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,1,01:30,19,307,"THOMAS, DESHAUN",P005094   ,Out,OUT,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,15,01:30,19,308,"COHEN, JAKE",P005145   ,In,IN,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,30,01:28,19,309,"COLE, NORRIS",P007989   ,Foul (2),CM,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,7,01:28,19,310,"SPANOULIS, VASSILIS",PJUO      ,Foul Drawn (4),RV,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,7,01:28,19,311,"SPANOULIS, VASSILIS",PJUO      ,Free Throw In (3/3 -  8 pt),FTM,45.0,33.0,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,7,01:28,19,312,"SPANOULIS, VASSILIS",PJUO      ,Free Throw In (4/4 -  9 pt),FTM,46.0,33.0,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,12,01:28,19,313,"DIBARTOLOMEO, JOHN",P007990   ,In,IN,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,30,01:28,19,314,"COLE, NORRIS",P007989   ,Out,OUT,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,55,01:13,19,315,"JACKSON, PIERRE",P005112   ,Missed Two Pointer (1/6 -  9 pt),2FGA,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,9,01:13,19,316,"TYUS, ALEX",P004119   ,Off Rebound (2),O,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,9,01:13,19,317,"TYUS, ALEX",P004119   ,Two Pointer (3/3 -  7 pt),2FGM,46.0,35.0,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,16,01:13,19,318,"PAPANIKOLAOU, KOSTAS",P001255   ,Foul (2),CM,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,9,01:13,19,319,"TYUS, ALEX",P004119   ,Foul Drawn (2),RV,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,9,01:13,19,320,"TYUS, ALEX",P004119   ,Free Throw In (2/3 -  8 pt),FTM,46.0,36.0,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,15,00:59,20,322,"PRINTEZIS, GEORGIOS",PAMM      ,Two Pointer (2/4 -  4 pt),2FGM,48.0,36.0,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,7,00:57,20,323,"SPANOULIS, VASSILIS",PJUO      ,Assist (4),AS,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,17,00:46,20,324,"MANTZARIS, VANGELIS",P003537   ,Foul (2),CM,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,55,00:46,20,325,"JACKSON, PIERRE",P005112   ,Foul Drawn (3),RV,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,55,00:46,20,326,"JACKSON, PIERRE",P005112   ,Free Throw In (2/2 -  10 pt),FTM,48.0,37.0,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,55,00:46,20,327,"JACKSON, PIERRE",P005112   ,Free Throw In (3/3 -  11 pt),FTM,48.0,38.0,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,50,00:36,20,328,"ZOOSMAN, YOVEL",P006625   ,Foul (1),CM,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,16,00:36,20,329,"PAPANIKOLAOU, KOSTAS",P001255   ,Foul Drawn (2),RV,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,7,00:36,20,330,"SPANOULIS, VASSILIS",PJUO      ,Out,OUT,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,13,00:36,20,331,"STRELNIEKS, JANIS",P000046   ,In,IN,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,16,00:36,20,332,"PAPANIKOLAOU, KOSTAS",P001255   ,Free Throw In (3/3 -  7 pt),FTM,49.0,38.0,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,7,00:36,20,333,"SPANOULIS, VASSILIS",PJUO      ,Assist (5),AS,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,16,00:36,20,334,"PAPANIKOLAOU, KOSTAS",P001255   ,Free Throw In (4/4 -  8 pt),FTM,50.0,38.0,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,55,00:26,20,335,"JACKSON, PIERRE",P005112   ,Two Pointer (2/7 -  13 pt),2FGM,50.0,40.0,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,55,00:27,20,336,"JACKSON, PIERRE",P005112   ,Technical Foul (3),CMT,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,4,00:27,20,337,"MASHOUR, KARAM",P008015   ,In,IN,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,55,00:27,20,338,"JACKSON, PIERRE",P005112   ,Out,OUT,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,13,00:27,20,339,"STRELNIEKS, JANIS",P000046   ,Missed Free Throw (3/5 -  3 pt),FTA,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,6,00:08,20,340,"PAPAPETROU, IOANNIS",P005161   ,Two Pointer (2/4 -  4 pt),2FGM,52.0,40.0,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,15,00:08,20,341,"COHEN, JAKE",P005145   ,Foul (2),CM,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,6,00:08,20,342,"PAPAPETROU, IOANNIS",P005161   ,Foul Drawn (1),RV,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,6,00:08,20,343,"PAPAPETROU, IOANNIS",P005161   ,Free Throw In (1/1 -  5 pt),FTM,53.0,40.0,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+          ,,,,21,345,,          ,End Period,EP,,,,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+          ,,,,21,360,,          ,Begin Period,BP,,,,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,6,10:00,21,346,"PAPAPETROU, IOANNIS",P005161   ,Out,OUT,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,7,10:00,21,347,"SPANOULIS, VASSILIS",PJUO      ,In,IN,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,11,10:00,21,348,"MILUTINOV, NIKOLA",P003941   ,In,IN,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,13,10:00,21,349,"STRELNIEKS, JANIS",P000046   ,Out,OUT,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,1,10:00,21,350,"THOMAS, DESHAUN",P005094   ,In,IN,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,4,10:00,21,351,"MASHOUR, KARAM",P008015   ,Out,OUT,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,5,10:00,21,352,"ROLL, MICHAEL",P004974   ,In,IN,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,7,10:00,21,353,"KANE, DEANDRE",P005781   ,In,IN,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,9,10:00,21,354,"TYUS, ALEX",P004119   ,Out,OUT,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,12,10:00,21,355,"DIBARTOLOMEO, JOHN",P007990   ,Out,OUT,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,15,10:00,21,356,"COHEN, JAKE",P005145   ,Out,OUT,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,45,10:00,21,357,"PARAKHOUSKI, ARTSIOM",P003034   ,In,IN,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,50,10:00,21,358,"ZOOSMAN, YOVEL",P006625   ,Out,OUT,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,55,10:00,21,359,"JACKSON, PIERRE",P005112   ,In,IN,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,1,09:39,21,361,"THOMAS, DESHAUN",P005094   ,Two Pointer (1/2 -  6 pt),2FGM,53.0,42.0,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,5,09:24,21,362,"ROLL, MICHAEL",P004974   ,Foul (1),CM,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,16,09:24,21,363,"PAPANIKOLAOU, KOSTAS",P001255   ,Foul Drawn (3),RV,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,16,09:24,21,364,"PAPANIKOLAOU, KOSTAS",P001255   ,Free Throw In (5/5 -  9 pt),FTM,54.0,42.0,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,11,09:24,21,365,"MILUTINOV, NIKOLA",P003941   ,Assist (2),AS,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,16,09:24,21,366,"PAPANIKOLAOU, KOSTAS",P001255   ,Missed Free Throw (5/6 -  9 pt),FTA,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,1,09:24,21,367,"THOMAS, DESHAUN",P005094   ,Def Rebound (5),D,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,1,09:01,21,368,"THOMAS, DESHAUN",P005094   ,Missed Three Pointer (1/3 -  6 pt),3FGA,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,16,09:00,22,370,"PAPANIKOLAOU, KOSTAS",P001255   ,Def Rebound (3),D,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,15,08:50,22,371,"PRINTEZIS, GEORGIOS",PAMM      ,Turnover (1),TO,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,45,08:48,22,372,"PARAKHOUSKI, ARTSIOM",P003034   ,Steal (1),ST,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,45,08:37,22,373,"PARAKHOUSKI, ARTSIOM",P003034   ,Missed Two Pointer (1/4 -  2 pt),2FGA,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,15,08:35,22,374,"PRINTEZIS, GEORGIOS",PAMM      ,Def Rebound (3),D,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,7,08:22,22,375,"SPANOULIS, VASSILIS",PJUO      ,Missed Three Pointer (1/4 -  9 pt),3FGA,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,7,08:22,22,376,"SPANOULIS, VASSILIS",PJUO      ,Shot Rejected (3),AG,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,7,08:21,22,377,"KANE, DEANDRE",P005781   ,Block (1),FV,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,11,08:19,22,378,"MILUTINOV, NIKOLA",P003941   ,Off Rebound (1),O,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,45,08:19,22,379,"PARAKHOUSKI, ARTSIOM",P003034   ,Foul (2),CM,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,11,08:19,22,380,"MILUTINOV, NIKOLA",P003941   ,Foul Drawn (2),RV,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,7,08:06,22,381,"SPANOULIS, VASSILIS",PJUO      ,Missed Two Pointer (1/4 -  9 pt),2FGA,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,11,08:04,22,382,"MILUTINOV, NIKOLA",P003941   ,Off Rebound (2),O,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,11,08:03,22,383,"MILUTINOV, NIKOLA",P003941   ,Turnover (2),TO,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,55,07:51,23,385,"JACKSON, PIERRE",P005112   ,Missed Three Pointer (2/3 -  13 pt),3FGA,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,15,07:49,23,386,"PRINTEZIS, GEORGIOS",PAMM      ,Def Rebound (4),D,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,17,07:32,23,387,"MANTZARIS, VANGELIS",P003537   ,Three Pointer (1/3 -  5 pt),3FGM,57.0,42.0,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,7,07:30,23,388,"SPANOULIS, VASSILIS",PJUO      ,Assist (6),AS,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,17,07:18,23,389,"MANTZARIS, VANGELIS",P003537   ,Foul (3),CM,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,55,07:18,23,390,"JACKSON, PIERRE",P005112   ,Foul Drawn (4),RV,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,17,07:18,23,391,"MANTZARIS, VANGELIS",P003537   ,Out,OUT,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,22,07:18,23,392,"ROBERTS, BRIAN",P002091   ,In,IN,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,5,07:08,23,393,"ROLL, MICHAEL",P004974   ,Two Pointer (2/3 -  4 pt),2FGM,57.0,44.0,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,15,06:42,24,395,"PRINTEZIS, GEORGIOS",PAMM      ,Missed Two Pointer (2/5 -  4 pt),2FGA,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,,06:41,24,396,,          ,Turnover (1),TO,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,1,06:31,24,397,"THOMAS, DESHAUN",P005094   ,Turnover (2),TO,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,7,06:11,24,398,"SPANOULIS, VASSILIS",PJUO      ,Three Pointer (2/5 -  12 pt),3FGM,60.0,44.0,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,55,05:54,25,400,"JACKSON, PIERRE",P005112   ,Missed Two Pointer (2/8 -  13 pt),2FGA,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,11,05:52,25,401,"MILUTINOV, NIKOLA",P003941   ,Def Rebound (3),D,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,5,05:49,25,402,"ROLL, MICHAEL",P004974   ,Foul (2),CM,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,16,05:49,25,403,"PAPANIKOLAOU, KOSTAS",P001255   ,Foul Drawn (4),RV,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,9,05:49,25,404,"TYUS, ALEX",P004119   ,In,IN,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,45,05:49,25,405,"PARAKHOUSKI, ARTSIOM",P003034   ,Out,OUT,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,11,05:35,25,406,"MILUTINOV, NIKOLA",P003941   ,Two Pointer (5/5 -  10 pt),2FGM,62.0,44.0,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,15,05:33,25,407,"PRINTEZIS, GEORGIOS",PAMM      ,Assist (2),AS,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,5,05:14,25,408,"ROLL, MICHAEL",P004974   ,Missed Two Pointer (2/4 -  4 pt),2FGA,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,15,05:12,25,409,"PRINTEZIS, GEORGIOS",PAMM      ,Def Rebound (5),D,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,7,05:00,25,410,"SPANOULIS, VASSILIS",PJUO      ,Missed Two Pointer (1/5 -  12 pt),2FGA,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,9,04:58,26,412,"TYUS, ALEX",P004119   ,Def Rebound (1),D,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,9,04:47,26,413,"TYUS, ALEX",P004119   ,Turnover (1),TO,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+          ,,,04:47,26,414,,          ,TV Time Out (2),TOUT_TV,,,,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,30,04:47,26,415,"COLE, NORRIS",P007989   ,In,IN,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,55,04:47,26,416,"JACKSON, PIERRE",P005112   ,Out,OUT,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,7,04:31,26,417,"SPANOULIS, VASSILIS",PJUO      ,Turnover (2),TO,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,30,04:30,26,418,"COLE, NORRIS",P007989   ,Steal (1),ST,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,5,04:12,26,419,"ROLL, MICHAEL",P004974   ,Two Pointer (3/5 -  6 pt),2FGM,62.0,46.0,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,15,03:49,27,421,"PRINTEZIS, GEORGIOS",PAMM      ,Two Pointer (3/6 -  6 pt),2FGM,64.0,46.0,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,7,03:47,27,422,"SPANOULIS, VASSILIS",PJUO      ,Assist (7),AS,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,30,03:30,27,423,"COLE, NORRIS",P007989   ,Missed Two Pointer (1/4 -  5 pt),2FGA,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,15,03:28,27,424,"PRINTEZIS, GEORGIOS",PAMM      ,Def Rebound (6),D,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,1,03:14,27,425,"THOMAS, DESHAUN",P005094   ,Foul (3),CM,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,7,03:14,27,426,"SPANOULIS, VASSILIS",PJUO      ,Foul Drawn (5),RV,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,6,03:14,27,427,"PAPAPETROU, IOANNIS",P005161   ,In,IN,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,11,03:14,27,428,"MILUTINOV, NIKOLA",P003941   ,Out,OUT,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,16,03:14,27,429,"PAPANIKOLAOU, KOSTAS",P001255   ,Out,OUT,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,34,03:14,27,430,"THOMPSON, HOLLIS",P008014   ,In,IN,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,34,03:03,27,431,"THOMPSON, HOLLIS",P008014   ,Two Pointer (1/2 -  4 pt),2FGM,66.0,46.0,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,1,02:47,28,433,"THOMAS, DESHAUN",P005094   ,Three Pointer (2/4 -  9 pt),3FGM,66.0,49.0,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,7,02:45,28,434,"KANE, DEANDRE",P005781   ,Assist (1),AS,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,7,02:31,28,435,"KANE, DEANDRE",P005781   ,Foul (3),CM,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,7,02:31,28,436,"SPANOULIS, VASSILIS",PJUO      ,Foul Drawn (6),RV,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,7,02:31,28,437,"SPANOULIS, VASSILIS",PJUO      ,Missed Free Throw (4/5 -  12 pt),FTA,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,7,02:31,28,438,"SPANOULIS, VASSILIS",PJUO      ,Free Throw In (5/6 -  13 pt),FTM,67.0,49.0,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,7,02:31,28,439,"SPANOULIS, VASSILIS",PJUO      ,Out,OUT,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,13,02:31,28,440,"STRELNIEKS, JANIS",P000046   ,In,IN,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,1,02:04,28,441,"THOMAS, DESHAUN",P005094   ,Missed Two Pointer (1/3 -  9 pt),2FGA,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,7,02:02,28,442,"KANE, DEANDRE",P005781   ,Off Rebound (2),O,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,7,02:01,28,443,"KANE, DEANDRE",P005781   ,Two Pointer (3/4 -  7 pt),2FGM,67.0,51.0,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,6,01:41,29,445,"PAPAPETROU, IOANNIS",P005161   ,Three Pointer (1/2 -  8 pt),3FGM,70.0,51.0,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,15,01:39,29,446,"PRINTEZIS, GEORGIOS",PAMM      ,Assist (3),AS,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,1,01:09,29,447,"THOMAS, DESHAUN",P005094   ,Missed Two Pointer (1/4 -  9 pt),2FGA,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,7,01:07,29,448,"KANE, DEANDRE",P005781   ,Off Rebound (3),O,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,9,01:02,29,449,"TYUS, ALEX",P004119   ,Missed Two Pointer (3/4 -  8 pt),2FGA,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,22,00:59,30,451,"ROBERTS, BRIAN",P002091   ,Def Rebound (1),D,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,34,00:45,30,452,"THOMPSON, HOLLIS",P008014   ,Turnover (2),TO,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,1,00:45,30,453,"THOMAS, DESHAUN",P005094   ,Out,OUT,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,15,00:45,30,454,"COHEN, JAKE",P005145   ,In,IN,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,15,00:45,30,455,"PRINTEZIS, GEORGIOS",PAMM      ,Out,OUT,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,31,00:45,30,456,"BOGRIS, GEORGIOS",P001933   ,In,IN,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,5,00:31,30,457,"ROLL, MICHAEL",P004974   ,Missed Two Pointer (3/6 -  6 pt),2FGA,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,31,00:29,30,458,"BOGRIS, GEORGIOS",P001933   ,Def Rebound (1),D,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,31,00:09,30,459,"BOGRIS, GEORGIOS",P001933   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,34,00:07,30,460,"THOMPSON, HOLLIS",P008014   ,Off Rebound (1),O,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,22,00:00,30,461,"ROBERTS, BRIAN",P002091   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+          ,,,,31,463,,          ,End Period,EP,,,,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+          ,,,,31,466,,          ,Begin Period,BP,,,,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,5,10:00,31,464,"ROLL, MICHAEL",P004974   ,Out,OUT,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,12,10:00,31,465,"DIBARTOLOMEO, JOHN",P007990   ,In,IN,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,22,09:47,31,467,"ROBERTS, BRIAN",P002091   ,Three Pointer (1/2 -  3 pt),3FGM,73.0,51.0,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,31,09:45,31,468,"BOGRIS, GEORGIOS",P001933   ,Assist (1),AS,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,34,09:37,31,469,"THOMPSON, HOLLIS",P008014   ,Foul (3),CM,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,7,09:37,31,470,"KANE, DEANDRE",P005781   ,Foul Drawn (3),RV,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,31,09:26,31,471,"BOGRIS, GEORGIOS",P001933   ,Foul (1),CM,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,12,09:26,31,472,"DIBARTOLOMEO, JOHN",P007990   ,Foul Drawn (2),RV,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,12,09:26,31,473,"DIBARTOLOMEO, JOHN",P007990   ,Free Throw In (2/3 -  2 pt),FTM,73.0,52.0,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,12,09:26,31,474,"DIBARTOLOMEO, JOHN",P007990   ,Missed Free Throw (2/4 -  2 pt),FTA,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,31,09:26,31,475,"BOGRIS, GEORGIOS",P001933   ,Def Rebound (2),D,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,13,09:11,31,476,"STRELNIEKS, JANIS",P000046   ,Missed Two Pointer (0/1 -  3 pt),2FGA,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,31,09:09,31,477,"BOGRIS, GEORGIOS",P001933   ,Off Rebound (1),O,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,31,09:08,31,478,"BOGRIS, GEORGIOS",P001933   ,Two Pointer (1/2 -  2 pt),2FGM,75.0,52.0,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,15,08:53,32,480,"COHEN, JAKE",P005145   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,9,08:50,32,481,"TYUS, ALEX",P004119   ,Off Rebound (3),O,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,7,08:47,32,482,"KANE, DEANDRE",P005781   ,Turnover (1),TO,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,4,08:47,32,483,"MASHOUR, KARAM",P008015   ,In,IN,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,7,08:47,32,484,"KANE, DEANDRE",P005781   ,Out,OUT,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,6,08:32,32,485,"PAPAPETROU, IOANNIS",P005161   ,Missed Two Pointer (2/5 -  8 pt),2FGA,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,12,08:30,32,486,"DIBARTOLOMEO, JOHN",P007990   ,Def Rebound (2),D,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,12,08:16,32,487,"DIBARTOLOMEO, JOHN",P007990   ,Missed Two Pointer (0/1 -  2 pt),2FGA,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,22,08:14,32,488,"ROBERTS, BRIAN",P002091   ,Def Rebound (2),D,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,34,08:03,32,489,"THOMPSON, HOLLIS",P008014   ,Missed Three Pointer (0/2 -  4 pt),3FGA,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,,08:03,32,490,,          ,Def Rebound (3),D,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,9,07:51,33,492,"TYUS, ALEX",P004119   ,Two Pointer (4/5 -  10 pt),2FGM,75.0,54.0,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,30,07:50,33,493,"COLE, NORRIS",P007989   ,Assist (1),AS,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,13,07:32,33,494,"STRELNIEKS, JANIS",P000046   ,Offensive Foul (1),OF,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,13,07:32,33,495,"STRELNIEKS, JANIS",P000046   ,Turnover (1),TO,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,12,07:32,33,496,"DIBARTOLOMEO, JOHN",P007990   ,Foul Drawn (3),RV,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,30,07:22,33,497,"COLE, NORRIS",P007989   ,Two Pointer (2/5 -  7 pt),2FGM,75.0,56.0,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,,07:22,33,498,,          ,Time Out (1),TOUT,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,11,07:22,33,499,"MILUTINOV, NIKOLA",P003941   ,In,IN,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,31,07:22,33,500,"BOGRIS, GEORGIOS",P001933   ,Out,OUT,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,34,06:58,34,502,"THOMPSON, HOLLIS",P008014   ,Three Pointer (1/3 -  7 pt),3FGM,78.0,56.0,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,22,06:56,34,503,"ROBERTS, BRIAN",P002091   ,Assist (2),AS,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,12,06:32,34,504,"DIBARTOLOMEO, JOHN",P007990   ,Missed Two Pointer (0/2 -  2 pt),2FGA,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,6,06:29,34,505,"PAPAPETROU, IOANNIS",P005161   ,Def Rebound (2),D,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,34,06:15,34,506,"THOMPSON, HOLLIS",P008014   ,Missed Two Pointer (1/3 -  7 pt),2FGA,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,11,06:13,34,507,"MILUTINOV, NIKOLA",P003941   ,Off Rebound (3),O,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,11,06:13,34,508,"MILUTINOV, NIKOLA",P003941   ,Two Pointer (6/6 -  12 pt),2FGM,80.0,56.0,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,30,06:03,34,509,"COLE, NORRIS",P007989   ,Missed Three Pointer (1/4 -  7 pt),3FGA,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,13,06:01,34,510,"STRELNIEKS, JANIS",P000046   ,Def Rebound (2),D,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,6,05:50,35,512,"PAPAPETROU, IOANNIS",P005161   ,Three Pointer (2/3 -  11 pt),3FGM,83.0,56.0,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,34,05:48,35,513,"THOMPSON, HOLLIS",P008014   ,Assist (1),AS,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,,05:48,35,514,,          ,Time Out (1),TOUT,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,6,05:48,35,515,"PAPAPETROU, IOANNIS",P005161   ,Out,OUT,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,33,05:48,35,516,"WILTJER, KYLE",P008052   ,In,IN,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,9,05:48,35,517,"TYUS, ALEX",P004119   ,Out,OUT,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,45,05:48,35,518,"PARAKHOUSKI, ARTSIOM",P003034   ,In,IN,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,45,05:37,35,519,"PARAKHOUSKI, ARTSIOM",P003034   ,Turnover (1),TO,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,4,05:14,35,520,"MASHOUR, KARAM",P008015   ,Foul (2),CM,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,13,05:14,35,521,"STRELNIEKS, JANIS",P000046   ,Foul Drawn (2),RV,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,11,05:03,35,522,"MILUTINOV, NIKOLA",P003941   ,Missed Two Pointer (6/7 -  12 pt),2FGA,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,11,05:01,35,523,"MILUTINOV, NIKOLA",P003941   ,Off Rebound (4),O,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,12,05:01,35,524,"DIBARTOLOMEO, JOHN",P007990   ,Foul (1),CM,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,11,05:01,35,525,"MILUTINOV, NIKOLA",P003941   ,Foul Drawn (3),RV,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,33,04:56,36,527,"WILTJER, KYLE",P008052   ,Three Pointer (1/1 -  3 pt),3FGM,86.0,56.0,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,34,04:53,36,528,"THOMPSON, HOLLIS",P008014   ,Assist (2),AS,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,30,04:42,36,529,"COLE, NORRIS",P007989   ,Turnover (2),TO,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,22,04:41,36,530,"ROBERTS, BRIAN",P002091   ,Steal (1),ST,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,22,04:39,36,531,"ROBERTS, BRIAN",P002091   ,Two Pointer (1/2 -  5 pt),2FGM,88.0,56.0,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,30,04:26,36,532,"COLE, NORRIS",P007989   ,Turnover (3),TO,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,30,04:26,36,533,"COLE, NORRIS",P007989   ,Out,OUT,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,50,04:26,36,534,"ZOOSMAN, YOVEL",P006625   ,In,IN,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,22,04:13,36,535,"ROBERTS, BRIAN",P002091   ,Missed Two Pointer (1/3 -  5 pt),2FGA,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,45,04:11,36,536,"PARAKHOUSKI, ARTSIOM",P003034   ,Def Rebound (2),D,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,12,03:57,37,538,"DIBARTOLOMEO, JOHN",P007990   ,Missed Two Pointer (0/3 -  2 pt),2FGA,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,,03:57,37,539,,          ,Def Rebound (4),D,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,6,03:57,37,540,"PAPAPETROU, IOANNIS",P005161   ,In,IN,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,11,03:57,37,541,"MILUTINOV, NIKOLA",P003941   ,Out,OUT,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,13,03:57,37,542,"STRELNIEKS, JANIS",P000046   ,Out,OUT,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,31,03:57,37,543,"BOGRIS, GEORGIOS",P001933   ,In,IN,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,34,03:40,37,544,"THOMPSON, HOLLIS",P008014   ,Missed Two Pointer (1/4 -  7 pt),2FGA,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,31,03:37,37,545,"BOGRIS, GEORGIOS",P001933   ,Off Rebound (2),O,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,31,03:37,37,546,"BOGRIS, GEORGIOS",P001933   ,Two Pointer (2/3 -  4 pt),2FGM,90.0,56.0,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,15,03:26,37,547,"COHEN, JAKE",P005145   ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,22,03:24,37,548,"ROBERTS, BRIAN",P002091   ,Def Rebound (3),D,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,22,03:18,37,549,"ROBERTS, BRIAN",P002091   ,Missed Three Pointer (1/3 -  5 pt),3FGA,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,15,03:16,37,550,"COHEN, JAKE",P005145   ,Def Rebound (2),D,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,4,03:02,37,551,"MASHOUR, KARAM",P008015   ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,31,03:00,37,552,"BOGRIS, GEORGIOS",P001933   ,Def Rebound (3),D,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,33,02:55,38,554,"WILTJER, KYLE",P008052   ,Missed Three Pointer (1/2 -  3 pt),3FGA,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,4,02:53,38,555,"MASHOUR, KARAM",P008015   ,Def Rebound (1),D,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,33,02:48,38,556,"WILTJER, KYLE",P008052   ,Foul (1),CM,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,15,02:48,38,557,"COHEN, JAKE",P005145   ,Foul Drawn (2),RV,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,45,02:36,38,558,"PARAKHOUSKI, ARTSIOM",P003034   ,Two Pointer (2/5 -  4 pt),2FGM,90.0,58.0,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,50,02:35,38,559,"ZOOSMAN, YOVEL",P006625   ,Assist (1),AS,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,34,02:17,38,560,"THOMPSON, HOLLIS",P008014   ,Missed Three Pointer (1/4 -  7 pt),3FGA,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,15,02:15,38,561,"COHEN, JAKE",P005145   ,Def Rebound (3),D,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,31,02:09,38,562,"BOGRIS, GEORGIOS",P001933   ,Foul (2),CM,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,4,02:09,38,563,"MASHOUR, KARAM",P008015   ,Foul Drawn (1),RV,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,17,02:09,38,564,"MANTZARIS, VANGELIS",P003537   ,In,IN,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,22,02:09,38,565,"ROBERTS, BRIAN",P002091   ,Out,OUT,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,18,02:09,38,566,"SEGEV, ITAY",P004161   ,In,IN,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,45,02:09,38,567,"PARAKHOUSKI, ARTSIOM",P003034   ,Out,OUT,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,4,02:09,38,568,"MASHOUR, KARAM",P008015   ,Free Throw In (1/1 -  1 pt),FTM,90.0,59.0,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,12,02:09,38,569,"DIBARTOLOMEO, JOHN",P007990   ,Assist (1),AS,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,4,02:09,38,570,"MASHOUR, KARAM",P008015   ,Missed Free Throw (1/2 -  1 pt),FTA,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,18,02:09,38,571,"SEGEV, ITAY",P004161   ,Off Rebound (2),O,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,12,01:57,39,573,"DIBARTOLOMEO, JOHN",P007990   ,Two Pointer (1/4 -  4 pt),2FGM,90.0,61.0,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,33,01:42,39,574,"WILTJER, KYLE",P008052   ,Three Pointer (2/3 -  6 pt),3FGM,93.0,61.0,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,34,01:41,39,575,"THOMPSON, HOLLIS",P008014   ,Assist (3),AS,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,12,01:32,39,576,"DIBARTOLOMEO, JOHN",P007990   ,Missed Three Pointer (0/1 -  4 pt),3FGA,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,15,01:32,39,577,"COHEN, JAKE",P005145   ,Off Rebound (1),O,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,33,01:32,39,578,"WILTJER, KYLE",P008052   ,Foul (2),CM,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,15,01:32,39,579,"COHEN, JAKE",P005145   ,Foul Drawn (3),RV,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,15,01:32,39,580,"COHEN, JAKE",P005145   ,Free Throw In (1/1 -  1 pt),FTM,93.0,62.0,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,15,01:32,39,581,"COHEN, JAKE",P005145   ,Free Throw In (2/2 -  2 pt),FTM,93.0,63.0,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,4,01:21,39,582,"MASHOUR, KARAM",P008015   ,Foul (3),CM,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,31,01:21,39,583,"BOGRIS, GEORGIOS",P001933   ,Foul Drawn (1),RV,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,31,01:21,39,584,"BOGRIS, GEORGIOS",P001933   ,Free Throw In (1/1 -  5 pt),FTM,94.0,63.0,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,6,01:21,39,585,"PAPAPETROU, IOANNIS",P005161   ,Assist (1),AS,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,31,01:21,39,586,"BOGRIS, GEORGIOS",P001933   ,Missed Free Throw (1/2 -  5 pt),FTA,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,31,01:21,39,587,"BOGRIS, GEORGIOS",P001933   ,Off Rebound (3),O,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,17,01:13,39,588,"MANTZARIS, VANGELIS",P003537   ,Missed Three Pointer (1/4 -  5 pt),3FGA,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,4,01:11,39,589,"MASHOUR, KARAM",P008015   ,Def Rebound (2),D,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,50,01:07,39,590,"ZOOSMAN, YOVEL",P006625   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,33,01:05,39,591,"WILTJER, KYLE",P008052   ,Def Rebound (1),D,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,33,00:58,40,593,"WILTJER, KYLE",P008052   ,Missed Three Pointer (2/4 -  6 pt),3FGA,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,18,00:56,40,594,"SEGEV, ITAY",P004161   ,Def Rebound (1),D,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,34,00:53,40,595,"THOMPSON, HOLLIS",P008014   ,Foul (4),CM,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,18,00:53,40,596,"SEGEV, ITAY",P004161   ,Foul Drawn (2),RV,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,18,00:53,40,597,"SEGEV, ITAY",P004161   ,Free Throw In (1/3 -  1 pt),FTM,94.0,64.0,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,18,00:53,40,598,"SEGEV, ITAY",P004161   ,Missed Free Throw (1/4 -  1 pt),FTA,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,33,00:53,40,599,"WILTJER, KYLE",P008052   ,Def Rebound (2),D,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,6,00:34,40,600,"PAPAPETROU, IOANNIS",P005161   ,Missed Two Pointer (2/6 -  11 pt),2FGA,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,31,00:33,40,601,"BOGRIS, GEORGIOS",P001933   ,Off Rebound (4),O,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,31,00:29,40,602,"BOGRIS, GEORGIOS",P001933   ,Missed Two Pointer (2/4 -  5 pt),2FGA,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,4,00:27,40,603,"MASHOUR, KARAM",P008015   ,Def Rebound (3),D,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,15,00:25,40,604,"COHEN, JAKE",P005145   ,Missed Two Pointer (0/1 -  2 pt),2FGA,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,4,00:23,40,605,"MASHOUR, KARAM",P008015   ,Off Rebound (1),O,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+TEL       ,,4,00:22,40,606,"MASHOUR, KARAM",P008015   ,Missed Two Pointer (0/1 -  1 pt),2FGA,,,Maccabi FOX Tel Aviv,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+OLY       ,,33,00:20,40,607,"WILTJER, KYLE",P008052   ,Def Rebound (3),D,,,Olympiacos Piraeus,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL
+          ,,,,41,610,,          ,End Game,EG,,,,0,Olympiacos Piraeus,OLY,Maccabi FOX Tel Aviv,TEL

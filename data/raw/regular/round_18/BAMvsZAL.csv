@@ -1,0 +1,545 @@
+CODETEAM,COMMENT,DORSAL,MARKERTIME,MINUTE,NUMBEROFPLAY,PLAYER,PLAYER_ID,PLAYINFO,PLAYTYPE,POINTS_A,POINTS_B,TEAM,TYPE,home_team,home_team_code,away_team,away_team_code
+          ,,,,1,6,,          ,Begin Period,BP,,,,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,6,09:51,1,7,"TOUPANE, AXEL",P002582   ,Foul (1),CM,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,6,09:51,1,8,"ZISIS, NIKOS",PABN      ,Foul Drawn (1),RV,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,21,09:41,1,9,"RUBIT, AUGUSTINE",P006477   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,6,09:38,1,10,"TOUPANE, AXEL",P002582   ,Def Rebound (1),D,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,2,09:27,1,11,"HICKMAN, RICKY",P004159   ,Foul (1),CM,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,3,09:27,1,12,"PANGOS, KEVIN",P006433   ,Foul Drawn (1),RV,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,3,09:19,1,13,"PANGOS, KEVIN",P006433   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,42,09:15,1,14,"MUSLI, DEJAN",PLUR      ,Def Rebound (1),D,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,33,08:55,2,16,"HECKMANN, PATRICK",P006420   ,Three Pointer (1/1 -  3 pt),3FGM,3.0,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,6,08:52,2,17,"ZISIS, NIKOS",PABN      ,Assist (1),AS,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,0,08:38,2,18,"DAVIES, BRANDON",P007870   ,Two Pointer (1/1 -  2 pt),2FGM,3.0,2.0,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,0,08:18,2,19,"DAVIES, BRANDON",P007870   ,Foul (1),CM,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,21,08:18,2,20,"RUBIT, AUGUSTINE",P006477   ,Foul Drawn (1),RV,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,2,08:11,2,21,"HICKMAN, RICKY",P004159   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,2,08:11,2,22,"HICKMAN, RICKY",P004159   ,Shot Rejected (1),AG,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,3,08:11,2,23,"PANGOS, KEVIN",P006433   ,Block (1),FV,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,,08:11,2,24,,          ,Off Rebound (1),O,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,33,08:04,2,25,"HECKMANN, PATRICK",P006420   ,Missed Two Pointer (0/1 -  3 pt),2FGA,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,13,08:02,2,26,"JANKUNAS, PAULIUS",PBWI      ,Def Rebound (1),D,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,6,07:59,3,28,"ZISIS, NIKOS",PABN      ,Foul (1),CM,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,6,07:59,3,29,"TOUPANE, AXEL",P002582   ,Foul Drawn (1),RV,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,6,07:59,3,30,"TOUPANE, AXEL",P002582   ,Free Throw In (1/1 -  1 pt),FTM,3.0,3.0,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,6,07:59,3,31,"TOUPANE, AXEL",P002582   ,Free Throw In (2/2 -  2 pt),FTM,3.0,4.0,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,3,07:52,3,32,"PANGOS, KEVIN",P006433   ,Foul (1),CM,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,2,07:52,3,33,"HICKMAN, RICKY",P004159   ,Foul Drawn (1),RV,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,21,07:42,3,34,"RUBIT, AUGUSTINE",P006477   ,Two Pointer (1/1 -  2 pt),2FGM,5.0,4.0,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,6,07:31,3,35,"ZISIS, NIKOS",PABN      ,Foul (2),CM,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,6,07:31,3,36,"TOUPANE, AXEL",P002582   ,Foul Drawn (2),RV,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,0,07:31,3,37,"HACKETT, DANIEL",P001844   ,In,IN,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,6,07:31,3,38,"ZISIS, NIKOS",PABN      ,Out,OUT,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,0,07:24,3,39,"DAVIES, BRANDON",P007870   ,Two Pointer (2/2 -  4 pt),2FGM,5.0,6.0,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,3,07:21,3,40,"PANGOS, KEVIN",P006433   ,Assist (1),AS,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,42,07:11,3,41,"MUSLI, DEJAN",PLUR      ,Two Pointer (1/1 -  2 pt),2FGM,7.0,6.0,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,0,07:11,3,43,"DAVIES, BRANDON",P007870   ,Foul (2),CM,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,42,07:11,3,81,"MUSLI, DEJAN",PLUR      ,Foul Drawn (1),RV,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,0,07:11,3,44,"DAVIES, BRANDON",P007870   ,Out,OUT,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,19,07:11,3,45,"SAJUS, MARTYNAS",P005519   ,In,IN,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,42,07:11,3,46,"MUSLI, DEJAN",PLUR      ,Free Throw In (1/1 -  3 pt),FTM,8.0,6.0,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,6,06:49,4,48,"TOUPANE, AXEL",P002582   ,Two Pointer (1/1 -  4 pt),2FGM,8.0,8.0,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,3,06:47,4,49,"PANGOS, KEVIN",P006433   ,Assist (2),AS,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,19,06:36,4,50,"SAJUS, MARTYNAS",P005519   ,Foul (1),CM,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,2,06:36,4,51,"HICKMAN, RICKY",P004159   ,Foul Drawn (2),RV,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,2,06:36,4,52,"HICKMAN, RICKY",P004159   ,Free Throw In (1/1 -  1 pt),FTM,9.0,8.0,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,2,06:36,4,53,"HICKMAN, RICKY",P004159   ,Free Throw In (2/2 -  2 pt),FTM,10.0,8.0,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,13,06:19,4,54,"JANKUNAS, PAULIUS",PBWI      ,Two Pointer (1/1 -  2 pt),2FGM,10.0,10.0,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,42,06:00,4,55,"MUSLI, DEJAN",PLUR      ,Missed Two Pointer (1/2 -  3 pt),2FGA,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,13,05:58,5,57,"JANKUNAS, PAULIUS",PBWI      ,Def Rebound (2),D,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,3,05:50,5,58,"PANGOS, KEVIN",P006433   ,Two Pointer (1/1 -  2 pt),2FGM,10.0,12.0,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,21,05:33,5,59,"RUBIT, AUGUSTINE",P006477   ,Two Pointer (2/2 -  4 pt),2FGM,12.0,12.0,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,13,05:21,5,60,"JANKUNAS, PAULIUS",PBWI      ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,21,05:19,5,61,"RUBIT, AUGUSTINE",P006477   ,Def Rebound (1),D,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,13,05:13,5,62,"JANKUNAS, PAULIUS",PBWI      ,Foul (1),CM,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,0,05:13,5,63,"HACKETT, DANIEL",P001844   ,Foul Drawn (1),RV,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,2,05:13,5,64,"HICKMAN, RICKY",P004159   ,Out,OUT,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,12,05:13,5,65,"LO, MAODO",P007032   ,In,IN,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,6,05:13,5,66,"TOUPANE, AXEL",P002582   ,Out,OUT,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,13,05:13,5,67,"JANKUNAS, PAULIUS",PBWI      ,Out,OUT,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,22,05:13,5,68,"MICIC, VASILIJE",P002580   ,In,IN,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,30,05:13,5,69,"WHITE, AARON",P006505   ,In,IN,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,0,05:13,5,70,"HACKETT, DANIEL",P001844   ,Free Throw In (1/1 -  1 pt),FTM,13.0,12.0,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,0,05:13,5,71,"HACKETT, DANIEL",P001844   ,Free Throw In (2/2 -  2 pt),FTM,14.0,12.0,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,30,05:02,5,72,"WHITE, AARON",P006505   ,Offensive Foul (1),OF,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,30,05:02,5,73,"WHITE, AARON",P006505   ,Turnover (1),TO,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,0,05:02,5,74,"HACKETT, DANIEL",P001844   ,Foul Drawn (2),RV,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,42,04:46,6,76,"MUSLI, DEJAN",PLUR      ,Two Pointer (2/3 -  5 pt),2FGM,16.0,12.0,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,21,04:44,6,77,"RUBIT, AUGUSTINE",P006477   ,Assist (1),AS,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,0,04:36,6,78,"HACKETT, DANIEL",P001844   ,Foul (1),CM,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,30,04:36,6,79,"WHITE, AARON",P006505   ,Foul Drawn (1),RV,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+          ,,,04:36,6,80,,          ,TV Time Out (1),TOUT_TV,,,,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,3,04:22,6,82,"PANGOS, KEVIN",P006433   ,Missed Three Pointer (0/2 -  2 pt),3FGA,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,12,04:20,6,83,"LO, MAODO",P007032   ,Def Rebound (1),D,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,42,04:15,6,84,"MUSLI, DEJAN",PLUR      ,Two Pointer (3/4 -  7 pt),2FGM,18.0,12.0,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,12,04:12,6,85,"LO, MAODO",P007032   ,Assist (1),AS,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,3,04:12,6,86,"WRIGHT, DORELL",P008049   ,In,IN,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,21,04:12,6,87,"RUBIT, AUGUSTINE",P006477   ,Out,OUT,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,3,04:12,6,88,"PANGOS, KEVIN",P006433   ,Out,OUT,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,9,04:12,6,89,"UDRIH, BENO",PAGP      ,In,IN,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,22,03:50,7,91,"MICIC, VASILIJE",P002580   ,Three Pointer (1/1 -  3 pt),3FGM,18.0,15.0,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,0,03:32,7,92,"HACKETT, DANIEL",P001844   ,Turnover (1),TO,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,92,03:30,7,93,"ULANOVAS, EDGARAS",P002329   ,Steal (1),ST,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,30,03:25,7,94,"WHITE, AARON",P006505   ,Two Pointer (1/1 -  2 pt),2FGM,18.0,17.0,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,92,03:23,7,95,"ULANOVAS, EDGARAS",P002329   ,Assist (1),AS,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,42,03:01,7,96,"MUSLI, DEJAN",PLUR      ,Missed Two Pointer (3/5 -  7 pt),2FGA,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,9,02:58,8,98,"UDRIH, BENO",PAGP      ,Def Rebound (1),D,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,3,02:51,8,99,"WRIGHT, DORELL",P008049   ,Foul (1),CM,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,30,02:51,8,100,"WHITE, AARON",P006505   ,Foul Drawn (2),RV,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,42,02:51,8,101,"MUSLI, DEJAN",PLUR      ,Out,OUT,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,43,02:51,8,102,"RADOSEVIC, LEON",PLEM      ,In,IN,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,0,02:51,8,103,"HACKETT, DANIEL",P001844   ,Out,OUT,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,7,02:51,8,104,"NIKOLIC, ALEKSEJ",P003703   ,In,IN,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,30,02:51,8,105,"WHITE, AARON",P006505   ,Free Throw In (1/1 -  3 pt),FTM,18.0,18.0,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,30,02:51,8,106,"WHITE, AARON",P006505   ,Free Throw In (2/2 -  4 pt),FTM,18.0,19.0,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,19,02:37,8,107,"SAJUS, MARTYNAS",P005519   ,Foul (2),CM,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,3,02:37,8,108,"WRIGHT, DORELL",P008049   ,Foul Drawn (1),RV,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,19,02:37,8,109,"SAJUS, MARTYNAS",P005519   ,Out,OUT,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,44,02:37,8,110,"KAVALIAUSKAS, ANTANAS",P000399   ,In,IN,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,3,02:37,8,111,"WRIGHT, DORELL",P008049   ,Missed Free Throw (0/1 -  0 pt),FTA,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,3,02:37,8,112,"WRIGHT, DORELL",P008049   ,Free Throw In (1/2 -  1 pt),FTM,19.0,19.0,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,22,02:37,8,113,"MICIC, VASILIJE",P002580   ,Two Pointer (1/1 -  5 pt),2FGM,19.0,21.0,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,3,01:56,9,115,"WRIGHT, DORELL",P008049   ,Missed Two Pointer (0/1 -  1 pt),2FGA,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,22,01:54,9,116,"MICIC, VASILIJE",P002580   ,Def Rebound (1),D,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,30,01:46,9,117,"WHITE, AARON",P006505   ,Missed Three Pointer (0/1 -  4 pt),3FGA,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,22,01:44,9,118,"MICIC, VASILIJE",P002580   ,Off Rebound (1),O,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,22,01:33,9,119,"MICIC, VASILIJE",P002580   ,Missed Three Pointer (1/2 -  5 pt),3FGA,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,,01:33,9,120,,          ,Off Rebound (2),O,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,0,01:33,9,121,"HACKETT, DANIEL",P001844   ,In,IN,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,33,01:33,9,122,"HECKMANN, PATRICK",P006420   ,Out,OUT,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,21,01:33,9,123,"MILAKNIS, ARTURAS",PKPD      ,In,IN,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,92,01:33,9,124,"ULANOVAS, EDGARAS",P002329   ,Out,OUT,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,44,01:33,9,125,"KAVALIAUSKAS, ANTANAS",P000399   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,30,01:33,9,126,"WHITE, AARON",P006505   ,Off Rebound (1),O,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,30,01:33,9,127,"WHITE, AARON",P006505   ,Missed Two Pointer (1/2 -  4 pt),2FGA,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,43,01:33,9,128,"RADOSEVIC, LEON",PLEM      ,Def Rebound (1),D,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,3,01:11,9,129,"WRIGHT, DORELL",P008049   ,Missed Two Pointer (0/2 -  1 pt),2FGA,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,30,01:09,9,130,"WHITE, AARON",P006505   ,Def Rebound (1),D,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,9,00:58,10,132,"UDRIH, BENO",PAGP      ,Two Pointer (1/1 -  2 pt),2FGM,19.0,23.0,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,43,00:40,10,133,"RADOSEVIC, LEON",PLEM      ,Two Pointer (1/1 -  2 pt),2FGM,21.0,23.0,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,7,00:38,10,134,"NIKOLIC, ALEKSEJ",P003703   ,Assist (1),AS,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,9,00:19,10,135,"UDRIH, BENO",PAGP      ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,12,00:16,10,136,"LO, MAODO",P007032   ,Def Rebound (2),D,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,12,00:00,10,137,"LO, MAODO",P007032   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+          ,,,,11,139,,          ,End Period,EP,,,,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+          ,,,,11,142,,          ,Begin Period,BP,,,,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,6,10:00,11,140,"ZISIS, NIKOS",PABN      ,In,IN,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,7,10:00,11,141,"NIKOLIC, ALEKSEJ",P003703   ,Out,OUT,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,22,09:35,11,143,"MICIC, VASILIJE",P002580   ,Missed Two Pointer (1/2 -  5 pt),2FGA,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,,09:35,11,145,,          ,Turnover (1),TO,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,0,09:16,11,146,"HACKETT, DANIEL",P001844   ,Three Pointer (1/1 -  5 pt),3FGM,24.0,23.0,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,12,09:16,11,147,"LO, MAODO",P007032   ,Assist (2),AS,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,,09:16,11,148,,          ,Time Out (1),TOUT,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,22,08:50,12,150,"MICIC, VASILIJE",P002580   ,Missed Two Pointer (1/3 -  5 pt),2FGA,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,3,08:48,12,151,"WRIGHT, DORELL",P008049   ,Def Rebound (1),D,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,9,08:28,12,152,"UDRIH, BENO",PAGP      ,Foul (1),CM,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,12,08:28,12,153,"LO, MAODO",P007032   ,Foul Drawn (1),RV,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,3,08:17,12,154,"WRIGHT, DORELL",P008049   ,Missed Three Pointer (0/1 -  1 pt),3FGA,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,44,08:15,12,155,"KAVALIAUSKAS, ANTANAS",P000399   ,Def Rebound (1),D,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,22,08:08,12,156,"MICIC, VASILIJE",P002580   ,Two Pointer (2/4 -  7 pt),2FGM,24.0,25.0,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,12,08:08,12,157,"LO, MAODO",P007032   ,Foul (1),CM,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,22,08:08,12,158,"MICIC, VASILIJE",P002580   ,Foul Drawn (1),RV,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,2,08:08,12,159,"HICKMAN, RICKY",P004159   ,In,IN,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,12,08:08,12,160,"LO, MAODO",P007032   ,Out,OUT,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,22,08:08,12,161,"MICIC, VASILIJE",P002580   ,Free Throw In (1/1 -  8 pt),FTM,24.0,26.0,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,3,07:52,13,163,"WRIGHT, DORELL",P008049   ,Out,OUT,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,21,07:52,13,164,"RUBIT, AUGUSTINE",P006477   ,In,IN,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,42,07:52,13,165,"MUSLI, DEJAN",PLUR      ,In,IN,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,43,07:52,13,166,"RADOSEVIC, LEON",PLEM      ,Out,OUT,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,13,07:52,13,167,"JANKUNAS, PAULIUS",PBWI      ,In,IN,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,30,07:52,13,168,"WHITE, AARON",P006505   ,Out,OUT,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,44,07:52,13,169,"KAVALIAUSKAS, ANTANAS",P000399   ,Out,OUT,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,92,07:52,13,170,"ULANOVAS, EDGARAS",P002329   ,In,IN,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,0,07:39,13,171,"HACKETT, DANIEL",P001844   ,Missed Two Pointer (0/1 -  5 pt),2FGA,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,21,07:37,13,172,"MILAKNIS, ARTURAS",PKPD      ,Def Rebound (1),D,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,13,07:30,13,173,"JANKUNAS, PAULIUS",PBWI      ,Missed Two Pointer (1/3 -  2 pt),2FGA,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,21,07:28,13,174,"RUBIT, AUGUSTINE",P006477   ,Def Rebound (2),D,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,21,07:11,13,175,"RUBIT, AUGUSTINE",P006477   ,Two Pointer (3/3 -  6 pt),2FGM,26.0,26.0,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,42,07:09,13,176,"MUSLI, DEJAN",PLUR      ,Assist (1),AS,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,9,07:04,13,177,"UDRIH, BENO",PAGP      ,Technical Foul (2),CMT,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,3,07:04,13,178,"PANGOS, KEVIN",P006433   ,In,IN,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,9,07:04,13,179,"UDRIH, BENO",PAGP      ,Out,OUT,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,2,07:04,13,180,"HICKMAN, RICKY",P004159   ,Missed Free Throw (2/3 -  2 pt),FTA,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,42,06:48,14,182,"MUSLI, DEJAN",PLUR      ,Two Pointer (4/6 -  9 pt),2FGM,28.0,26.0,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,6,06:46,14,183,"ZISIS, NIKOS",PABN      ,Assist (2),AS,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,13,06:24,14,184,"JANKUNAS, PAULIUS",PBWI      ,Missed Two Pointer (1/4 -  2 pt),2FGA,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,0,06:22,14,185,"HACKETT, DANIEL",P001844   ,Def Rebound (1),D,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,13,06:10,14,186,"JANKUNAS, PAULIUS",PBWI      ,Foul (2),CM,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,42,06:10,14,187,"MUSLI, DEJAN",PLUR      ,Foul Drawn (2),RV,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,13,06:10,14,188,"JANKUNAS, PAULIUS",PBWI      ,Out,OUT,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,22,06:10,14,189,"MICIC, VASILIJE",P002580   ,Out,OUT,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,30,06:10,14,190,"WHITE, AARON",P006505   ,In,IN,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,44,06:10,14,191,"KAVALIAUSKAS, ANTANAS",P000399   ,In,IN,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,42,06:10,14,192,"MUSLI, DEJAN",PLUR      ,Missed Free Throw (1/2 -  9 pt),FTA,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,42,06:10,14,193,"MUSLI, DEJAN",PLUR      ,Missed Free Throw (1/3 -  9 pt),FTA,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,21,06:10,14,194,"RUBIT, AUGUSTINE",P006477   ,Off Rebound (1),O,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,44,06:10,14,195,"KAVALIAUSKAS, ANTANAS",P000399   ,Foul (1),CM,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,21,06:10,14,196,"RUBIT, AUGUSTINE",P006477   ,Foul Drawn (2),RV,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,21,06:00,14,197,"RUBIT, AUGUSTINE",P006477   ,Missed Two Pointer (3/4 -  6 pt),2FGA,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,30,05:58,15,199,"WHITE, AARON",P006505   ,Def Rebound (2),D,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,21,05:38,15,200,"MILAKNIS, ARTURAS",PKPD      ,Three Pointer (1/1 -  3 pt),3FGM,28.0,29.0,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,3,05:36,15,201,"PANGOS, KEVIN",P006433   ,Assist (3),AS,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,0,05:17,15,202,"HACKETT, DANIEL",P001844   ,Missed Two Pointer (0/2 -  5 pt),2FGA,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,30,05:13,15,203,"WHITE, AARON",P006505   ,Def Rebound (3),D,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,92,05:03,15,204,"ULANOVAS, EDGARAS",P002329   ,Two Pointer (1/1 -  2 pt),2FGM,28.0,31.0,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,21,04:46,16,206,"RUBIT, AUGUSTINE",P006477   ,Three Pointer (1/2 -  9 pt),3FGM,31.0,31.0,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,42,04:44,16,207,"MUSLI, DEJAN",PLUR      ,Assist (2),AS,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,0,04:43,16,208,"HACKETT, DANIEL",P001844   ,Out,OUT,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,8,04:43,16,209,"STAIGER, LUCCA",P002506   ,In,IN,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,42,04:22,16,210,"MUSLI, DEJAN",PLUR      ,Foul (1),CM,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,21,04:22,16,211,"MILAKNIS, ARTURAS",PKPD      ,Foul Drawn (1),RV,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,8,04:22,16,212,"STAIGER, LUCCA",P002506   ,Foul (1),CM,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,21,04:22,16,213,"MILAKNIS, ARTURAS",PKPD      ,Foul Drawn (2),RV,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,6,04:22,16,214,"ZISIS, NIKOS",PABN      ,Out,OUT,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,12,04:22,16,215,"LO, MAODO",P007032   ,In,IN,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,21,04:13,16,216,"MILAKNIS, ARTURAS",PKPD      ,Three Pointer (2/2 -  6 pt),3FGM,31.0,34.0,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,92,04:12,16,217,"ULANOVAS, EDGARAS",P002329   ,Assist (2),AS,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,21,03:53,17,219,"RUBIT, AUGUSTINE",P006477   ,Two Pointer (4/5 -  11 pt),2FGM,33.0,34.0,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,30,03:41,17,220,"WHITE, AARON",P006505   ,Missed Three Pointer (0/2 -  4 pt),3FGA,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,42,03:39,17,221,"MUSLI, DEJAN",PLUR      ,Def Rebound (2),D,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,2,03:26,17,222,"HICKMAN, RICKY",P004159   ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,21,03:24,17,223,"RUBIT, AUGUSTINE",P006477   ,Off Rebound (2),O,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,21,03:22,17,224,"RUBIT, AUGUSTINE",P006477   ,Missed Two Pointer (4/6 -  11 pt),2FGA,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,44,03:19,17,225,"KAVALIAUSKAS, ANTANAS",P000399   ,Def Rebound (2),D,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,44,03:09,17,226,"KAVALIAUSKAS, ANTANAS",P000399   ,Turnover (1),TO,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,2,03:09,17,227,"HICKMAN, RICKY",P004159   ,Steal (1),ST,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,44,03:09,17,228,"KAVALIAUSKAS, ANTANAS",P000399   ,Foul (2),CM,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,2,03:09,17,229,"HICKMAN, RICKY",P004159   ,Foul Drawn (3),RV,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,19,03:09,17,230,"SAJUS, MARTYNAS",P005519   ,In,IN,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,44,03:09,17,231,"KAVALIAUSKAS, ANTANAS",P000399   ,Out,OUT,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,2,03:09,17,232,"HICKMAN, RICKY",P004159   ,Free Throw In (3/4 -  3 pt),FTM,34.0,34.0,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,2,03:09,17,233,"HICKMAN, RICKY",P004159   ,Free Throw In (4/5 -  4 pt),FTM,35.0,34.0,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,30,02:47,18,235,"WHITE, AARON",P006505   ,Missed Two Pointer (1/3 -  4 pt),2FGA,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,19,02:47,18,236,"SAJUS, MARTYNAS",P005519   ,Off Rebound (1),O,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,2,02:47,18,237,"HICKMAN, RICKY",P004159   ,Foul (2),CM,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,92,02:47,18,238,"ULANOVAS, EDGARAS",P002329   ,Foul Drawn (1),RV,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,21,02:47,18,239,"MILAKNIS, ARTURAS",PKPD      ,Three Pointer (3/3 -  9 pt),3FGM,35.0,37.0,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,3,02:47,18,240,"PANGOS, KEVIN",P006433   ,Assist (4),AS,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,21,02:24,18,241,"RUBIT, AUGUSTINE",P006477   ,Missed Three Pointer (1/3 -  11 pt),3FGA,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,3,02:22,18,242,"PANGOS, KEVIN",P006433   ,Def Rebound (1),D,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,92,02:15,18,243,"ULANOVAS, EDGARAS",P002329   ,Offensive Foul (1),OF,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,92,02:15,18,244,"ULANOVAS, EDGARAS",P002329   ,Turnover (1),TO,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,2,02:15,18,245,"HICKMAN, RICKY",P004159   ,Foul Drawn (4),RV,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,42,01:57,19,247,"MUSLI, DEJAN",PLUR      ,Missed Two Pointer (4/7 -  9 pt),2FGA,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,42,01:55,19,248,"MUSLI, DEJAN",PLUR      ,Off Rebound (1),O,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,42,01:55,19,249,"MUSLI, DEJAN",PLUR      ,Two Pointer (5/8 -  11 pt),2FGM,37.0,37.0,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,,01:55,19,250,,          ,Time Out (2),TOUT,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,19,01:55,19,251,"SAJUS, MARTYNAS",P005519   ,Out,OUT,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,44,01:55,19,252,"KAVALIAUSKAS, ANTANAS",P000399   ,In,IN,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,3,01:34,19,253,"PANGOS, KEVIN",P006433   ,Two Pointer (2/2 -  4 pt),2FGM,37.0,39.0,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,2,01:20,19,254,"HICKMAN, RICKY",P004159   ,Missed Three Pointer (0/2 -  4 pt),3FGA,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,3,01:18,19,255,"PANGOS, KEVIN",P006433   ,Def Rebound (2),D,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,44,01:04,19,256,"KAVALIAUSKAS, ANTANAS",P000399   ,Two Pointer (1/2 -  2 pt),2FGM,37.0,41.0,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,92,01:04,19,257,"ULANOVAS, EDGARAS",P002329   ,Assist (3),AS,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,,01:04,19,258,,          ,Time Out (1),TOUT,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,42,00:40,20,260,"MUSLI, DEJAN",PLUR      ,Turnover (1),TO,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,42,00:40,20,261,"MUSLI, DEJAN",PLUR      ,Out,OUT,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,43,00:40,20,262,"RADOSEVIC, LEON",PLEM      ,In,IN,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,0,00:40,20,263,"HACKETT, DANIEL",P001844   ,In,IN,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,8,00:40,20,264,"STAIGER, LUCCA",P002506   ,Out,OUT,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,30,00:27,20,265,"WHITE, AARON",P006505   ,Two Pointer (2/4 -  6 pt),2FGM,37.0,43.0,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,92,00:27,20,266,"ULANOVAS, EDGARAS",P002329   ,Assist (4),AS,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,0,00:27,20,267,"HACKETT, DANIEL",P001844   ,Foul (2),CM,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,30,00:27,20,268,"WHITE, AARON",P006505   ,Foul Drawn (3),RV,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,19,00:27,20,269,"SAJUS, MARTYNAS",P005519   ,In,IN,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,44,00:27,20,270,"KAVALIAUSKAS, ANTANAS",P000399   ,Out,OUT,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,,00:27,20,271,,          ,Time Out (2),TOUT,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,3,00:27,20,272,"WRIGHT, DORELL",P008049   ,In,IN,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,43,00:27,20,273,"RADOSEVIC, LEON",PLEM      ,Out,OUT,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,21,00:27,20,274,"MILAKNIS, ARTURAS",PKPD      ,Out,OUT,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,22,00:27,20,275,"MICIC, VASILIJE",P002580   ,In,IN,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,30,00:27,20,276,"WHITE, AARON",P006505   ,Free Throw In (3/3 -  7 pt),FTM,37.0,44.0,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,3,00:27,20,277,"PANGOS, KEVIN",P006433   ,Out,OUT,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,6,00:27,20,278,"TOUPANE, AXEL",P002582   ,In,IN,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,3,00:01,20,279,"WRIGHT, DORELL",P008049   ,Missed Two Pointer (0/3 -  1 pt),2FGA,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,6,00:00,20,280,"TOUPANE, AXEL",P002582   ,Def Rebound (2),D,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+          ,,,,21,282,,          ,End Period,EP,,,,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+          ,,,,21,295,,          ,Begin Period,BP,,,,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,2,10:00,21,283,"HICKMAN, RICKY",P004159   ,Out,OUT,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,6,10:00,21,284,"ZISIS, NIKOS",PABN      ,In,IN,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,12,10:00,21,285,"LO, MAODO",P007032   ,Out,OUT,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,42,10:00,21,286,"MUSLI, DEJAN",PLUR      ,In,IN,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,0,10:00,21,287,"DAVIES, BRANDON",P007870   ,In,IN,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,3,10:00,21,288,"PANGOS, KEVIN",P006433   ,In,IN,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,6,10:00,21,289,"TOUPANE, AXEL",P002582   ,Out,OUT,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,13,10:00,21,290,"JANKUNAS, PAULIUS",PBWI      ,In,IN,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,19,10:00,21,291,"SAJUS, MARTYNAS",P005519   ,Out,OUT,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,21,10:00,21,292,"MILAKNIS, ARTURAS",PKPD      ,In,IN,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,22,10:00,21,293,"MICIC, VASILIJE",P002580   ,Out,OUT,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,30,10:00,21,294,"WHITE, AARON",P006505   ,Out,OUT,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,3,09:59,21,296,"WRIGHT, DORELL",P008049   ,Three Pointer (1/2 -  4 pt),3FGM,40.0,44.0,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,6,09:59,21,297,"ZISIS, NIKOS",PABN      ,Assist (3),AS,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,21,09:23,21,298,"MILAKNIS, ARTURAS",PKPD      ,Three Pointer (4/4 -  12 pt),3FGM,40.0,47.0,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,13,09:01,21,299,"JANKUNAS, PAULIUS",PBWI      ,Foul (3),CM,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,42,09:01,21,300,"MUSLI, DEJAN",PLUR      ,Foul Drawn (3),RV,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,42,09:01,21,301,"MUSLI, DEJAN",PLUR      ,Missed Free Throw (1/4 -  11 pt),FTA,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,42,09:01,21,302,"MUSLI, DEJAN",PLUR      ,Free Throw In (2/5 -  12 pt),FTM,41.0,47.0,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,6,09:01,21,303,"ZISIS, NIKOS",PABN      ,Assist (4),AS,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,0,08:36,22,305,"DAVIES, BRANDON",P007870   ,Two Pointer (3/3 -  6 pt),2FGM,41.0,49.0,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,6,08:09,22,306,"ZISIS, NIKOS",PABN      ,Three Pointer (1/1 -  3 pt),3FGM,44.0,49.0,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,0,08:07,22,307,"HACKETT, DANIEL",P001844   ,Assist (1),AS,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,13,07:43,23,309,"JANKUNAS, PAULIUS",PBWI      ,Two Pointer (2/5 -  4 pt),2FGM,44.0,51.0,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,3,07:41,23,310,"PANGOS, KEVIN",P006433   ,Assist (5),AS,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,0,07:38,23,311,"DAVIES, BRANDON",P007870   ,Foul (3),CM,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,0,07:38,23,312,"HACKETT, DANIEL",P001844   ,Foul Drawn (3),RV,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,6,07:26,23,313,"ZISIS, NIKOS",PABN      ,Missed Two Pointer (0/1 -  3 pt),2FGA,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,42,07:24,23,314,"MUSLI, DEJAN",PLUR      ,Off Rebound (2),O,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,6,07:12,23,315,"ZISIS, NIKOS",PABN      ,Turnover (1),TO,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,92,07:10,23,316,"ULANOVAS, EDGARAS",P002329   ,Steal (2),ST,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,21,07:01,23,317,"MILAKNIS, ARTURAS",PKPD      ,Missed Three Pointer (4/5 -  12 pt),3FGA,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,0,06:59,24,319,"DAVIES, BRANDON",P007870   ,Off Rebound (1),O,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,0,06:57,24,320,"DAVIES, BRANDON",P007870   ,Turnover (1),TO,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,6,06:55,24,321,"ZISIS, NIKOS",PABN      ,Steal (1),ST,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,6,06:50,24,322,"ZISIS, NIKOS",PABN      ,Three Pointer (2/2 -  6 pt),3FGM,47.0,51.0,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,0,06:48,24,323,"HACKETT, DANIEL",P001844   ,Assist (2),AS,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,0,06:30,24,324,"DAVIES, BRANDON",P007870   ,Missed Two Pointer (3/4 -  6 pt),2FGA,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,0,06:30,24,325,"DAVIES, BRANDON",P007870   ,Shot Rejected (1),AG,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,42,06:28,24,326,"MUSLI, DEJAN",PLUR      ,Block (1),FV,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,42,06:23,24,327,"MUSLI, DEJAN",PLUR      ,Def Rebound (3),D,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,13,06:14,24,328,"JANKUNAS, PAULIUS",PBWI      ,Foul (4),CM,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,21,06:14,24,329,"RUBIT, AUGUSTINE",P006477   ,Foul Drawn (3),RV,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,0,06:14,24,330,"DAVIES, BRANDON",P007870   ,Out,OUT,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,13,06:14,24,331,"JANKUNAS, PAULIUS",PBWI      ,Out,OUT,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,30,06:14,24,332,"WHITE, AARON",P006505   ,In,IN,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,44,06:14,24,333,"KAVALIAUSKAS, ANTANAS",P000399   ,In,IN,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,6,06:03,24,334,"ZISIS, NIKOS",PABN      ,Missed Three Pointer (2/3 -  6 pt),3FGA,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,30,06:00,25,336,"WHITE, AARON",P006505   ,Def Rebound (4),D,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,6,05:51,25,337,"ZISIS, NIKOS",PABN      ,Foul (3),CM,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,3,05:51,25,338,"PANGOS, KEVIN",P006433   ,Foul Drawn (2),RV,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,3,05:51,25,339,"PANGOS, KEVIN",P006433   ,Out,OUT,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,22,05:51,25,340,"MICIC, VASILIJE",P002580   ,In,IN,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,21,05:39,25,341,"MILAKNIS, ARTURAS",PKPD      ,Missed Three Pointer (4/6 -  12 pt),3FGA,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,30,05:37,25,342,"WHITE, AARON",P006505   ,Off Rebound (2),O,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,30,05:35,25,343,"WHITE, AARON",P006505   ,Missed Two Pointer (2/5 -  7 pt),2FGA,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,22,05:26,25,344,"MICIC, VASILIJE",P002580   ,Off Rebound (2),O,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,22,05:23,25,345,"MICIC, VASILIJE",P002580   ,Missed Two Pointer (2/5 -  8 pt),2FGA,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,6,05:21,25,346,"ZISIS, NIKOS",PABN      ,Def Rebound (1),D,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,6,05:17,25,347,"ZISIS, NIKOS",PABN      ,Missed Two Pointer (0/2 -  6 pt),2FGA,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,42,05:17,25,348,"MUSLI, DEJAN",PLUR      ,Off Rebound (3),O,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,42,05:17,25,349,"MUSLI, DEJAN",PLUR      ,Two Pointer (6/9 -  14 pt),2FGM,49.0,51.0,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,21,05:02,25,350,"MILAKNIS, ARTURAS",PKPD      ,Three Pointer (5/7 -  15 pt),3FGM,49.0,54.0,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,22,05:00,25,351,"MICIC, VASILIJE",P002580   ,Assist (1),AS,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,21,04:50,26,353,"RUBIT, AUGUSTINE",P006477   ,Two Pointer (5/7 -  13 pt),2FGM,51.0,54.0,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,42,04:44,26,354,"MUSLI, DEJAN",PLUR      ,Assist (3),AS,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,21,04:41,26,355,"MILAKNIS, ARTURAS",PKPD      ,Offensive Foul (1),OF,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,21,04:41,26,356,"MILAKNIS, ARTURAS",PKPD      ,Turnover (1),TO,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,0,04:41,26,357,"HACKETT, DANIEL",P001844   ,Foul Drawn (4),RV,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+          ,,,04:41,26,358,,          ,TV Time Out (2),TOUT_TV,,,,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,9,04:41,26,359,"UDRIH, BENO",PAGP      ,In,IN,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,92,04:41,26,360,"ULANOVAS, EDGARAS",P002329   ,Out,OUT,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,3,04:21,26,361,"WRIGHT, DORELL",P008049   ,Missed Three Pointer (1/3 -  4 pt),3FGA,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,22,04:18,26,362,"MICIC, VASILIJE",P002580   ,Def Rebound (2),D,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,30,04:09,26,363,"WHITE, AARON",P006505   ,Two Pointer (3/6 -  9 pt),2FGM,51.0,56.0,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,21,04:07,26,364,"MILAKNIS, ARTURAS",PKPD      ,Assist (1),AS,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,0,03:43,27,366,"HACKETT, DANIEL",P001844   ,Missed Three Pointer (1/2 -  5 pt),3FGA,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,3,03:41,27,367,"WRIGHT, DORELL",P008049   ,Off Rebound (1),O,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,6,03:39,27,368,"ZISIS, NIKOS",PABN      ,Three Pointer (3/4 -  9 pt),3FGM,54.0,56.0,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,3,03:37,27,369,"WRIGHT, DORELL",P008049   ,Assist (1),AS,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,9,03:31,27,370,"UDRIH, BENO",PAGP      ,Turnover (1),TO,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,21,03:18,27,371,"RUBIT, AUGUSTINE",P006477   ,Two Pointer (6/8 -  15 pt),2FGM,56.0,56.0,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,6,03:18,27,372,"ZISIS, NIKOS",PABN      ,Assist (5),AS,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,,03:18,27,373,,          ,Time Out (1),TOUT,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,3,03:18,27,374,"PANGOS, KEVIN",P006433   ,In,IN,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,22,03:18,27,375,"MICIC, VASILIJE",P002580   ,Out,OUT,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,3,02:54,28,377,"PANGOS, KEVIN",P006433   ,Three Pointer (1/3 -  7 pt),3FGM,56.0,59.0,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,9,02:51,28,378,"UDRIH, BENO",PAGP      ,Assist (1),AS,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,9,02:42,28,379,"UDRIH, BENO",PAGP      ,Foul (3),CM,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,0,02:42,28,380,"HACKETT, DANIEL",P001844   ,Foul Drawn (5),RV,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,2,02:42,28,381,"HICKMAN, RICKY",P004159   ,In,IN,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,6,02:42,28,382,"ZISIS, NIKOS",PABN      ,Out,OUT,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,42,02:42,28,383,"MUSLI, DEJAN",PLUR      ,Out,OUT,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,43,02:42,28,384,"RADOSEVIC, LEON",PLEM      ,In,IN,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,0,02:42,28,385,"HACKETT, DANIEL",P001844   ,Free Throw In (3/3 -  6 pt),FTM,57.0,59.0,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,0,02:42,28,386,"HACKETT, DANIEL",P001844   ,Free Throw In (4/4 -  7 pt),FTM,58.0,59.0,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,6,02:42,28,387,"TOUPANE, AXEL",P002582   ,In,IN,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,21,02:42,28,388,"MILAKNIS, ARTURAS",PKPD      ,Out,OUT,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,43,02:33,28,389,"RADOSEVIC, LEON",PLEM      ,Foul (1),CM,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,30,02:33,28,390,"WHITE, AARON",P006505   ,Foul Drawn (4),RV,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,21,02:33,28,391,"RUBIT, AUGUSTINE",P006477   ,Out,OUT,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,33,02:33,28,392,"HECKMANN, PATRICK",P006420   ,In,IN,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,3,02:21,28,393,"PANGOS, KEVIN",P006433   ,Missed Two Pointer (2/3 -  7 pt),2FGA,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,3,02:18,28,394,"PANGOS, KEVIN",P006433   ,Off Rebound (1),O,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,6,02:17,28,395,"TOUPANE, AXEL",P002582   ,Missed Three Pointer (0/1 -  4 pt),3FGA,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,0,02:15,28,396,"HACKETT, DANIEL",P001844   ,Def Rebound (2),D,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,2,02:11,28,397,"HICKMAN, RICKY",P004159   ,Missed Two Pointer (0/2 -  4 pt),2FGA,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,2,02:11,28,398,"HICKMAN, RICKY",P004159   ,Shot Rejected (2),AG,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,44,02:11,28,399,"KAVALIAUSKAS, ANTANAS",P000399   ,Block (1),FV,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,,02:11,28,400,,          ,Off Rebound (3),O,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,44,02:05,28,401,"KAVALIAUSKAS, ANTANAS",P000399   ,Foul (3),CM,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,2,02:05,28,402,"HICKMAN, RICKY",P004159   ,Foul Drawn (5),RV,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,0,02:05,28,403,"DAVIES, BRANDON",P007870   ,In,IN,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,44,02:05,28,404,"KAVALIAUSKAS, ANTANAS",P000399   ,Out,OUT,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,2,02:05,28,405,"HICKMAN, RICKY",P004159   ,Free Throw In (5/6 -  5 pt),FTM,59.0,59.0,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,2,02:05,28,406,"HICKMAN, RICKY",P004159   ,Free Throw In (6/7 -  6 pt),FTM,60.0,59.0,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,0,01:43,29,408,"DAVIES, BRANDON",P007870   ,Missed Two Pointer (3/5 -  6 pt),2FGA,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,2,01:41,29,409,"HICKMAN, RICKY",P004159   ,Def Rebound (1),D,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,0,01:34,29,410,"HACKETT, DANIEL",P001844   ,Two Pointer (1/3 -  9 pt),2FGM,62.0,59.0,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,33,01:22,29,411,"HECKMANN, PATRICK",P006420   ,Foul (1),CM,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,3,01:22,29,412,"PANGOS, KEVIN",P006433   ,Foul Drawn (3),RV,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,0,01:22,29,413,"HACKETT, DANIEL",P001844   ,Out,OUT,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,12,01:22,29,414,"LO, MAODO",P007032   ,In,IN,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,9,01:22,29,415,"UDRIH, BENO",PAGP      ,Out,OUT,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,22,01:22,29,416,"MICIC, VASILIJE",P002580   ,In,IN,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,3,01:12,29,417,"PANGOS, KEVIN",P006433   ,Missed Three Pointer (1/4 -  7 pt),3FGA,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,33,01:10,29,418,"HECKMANN, PATRICK",P006420   ,Def Rebound (1),D,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,33,00:51,30,420,"HECKMANN, PATRICK",P006420   ,Two Pointer (1/2 -  5 pt),2FGM,64.0,59.0,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,,00:51,30,421,,          ,Time Out (2),TOUT,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,22,00:38,30,422,"MICIC, VASILIJE",P002580   ,Two Pointer (3/6 -  10 pt),2FGM,64.0,61.0,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,43,00:14,30,423,"RADOSEVIC, LEON",PLEM      ,Turnover (1),TO,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,6,00:13,30,424,"TOUPANE, AXEL",P002582   ,Steal (1),ST,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,30,00:03,30,425,"WHITE, AARON",P006505   ,Missed Two Pointer (3/7 -  9 pt),2FGA,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,2,00:00,30,426,"HICKMAN, RICKY",P004159   ,Def Rebound (2),D,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,2,00:00,30,427,"HICKMAN, RICKY",P004159   ,Missed Three Pointer (0/3 -  6 pt),3FGA,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+          ,,,,31,429,,          ,End Period,EP,,,,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+          ,,,,31,432,,          ,Begin Period,BP,,,,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,0,10:00,31,430,"HACKETT, DANIEL",P001844   ,In,IN,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,3,10:00,31,431,"WRIGHT, DORELL",P008049   ,Out,OUT,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,6,09:49,31,433,"TOUPANE, AXEL",P002582   ,Missed Two Pointer (1/2 -  4 pt),2FGA,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,0,09:59,31,434,"DAVIES, BRANDON",P007870   ,Off Rebound (2),O,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,0,09:59,31,435,"DAVIES, BRANDON",P007870   ,Two Pointer (4/6 -  8 pt),2FGM,64.0,63.0,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,2,09:14,31,436,"HICKMAN, RICKY",P004159   ,Missed Three Pointer (0/4 -  6 pt),3FGA,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,33,09:14,31,437,"HECKMANN, PATRICK",P006420   ,Off Rebound (1),O,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,,09:14,31,438,,          ,Turnover (2),TO,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,30,09:07,31,439,"WHITE, AARON",P006505   ,Two Pointer (4/8 -  11 pt),2FGM,64.0,65.0,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,3,09:07,31,440,"PANGOS, KEVIN",P006433   ,Assist (6),AS,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,43,08:55,32,442,"RADOSEVIC, LEON",PLEM      ,Two Pointer (2/2 -  4 pt),2FGM,66.0,65.0,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,0,08:51,32,443,"HACKETT, DANIEL",P001844   ,Out,OUT,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,3,08:51,32,444,"WRIGHT, DORELL",P008049   ,In,IN,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,3,08:51,32,445,"WRIGHT, DORELL",P008049   ,Assist (2),AS,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,33,08:51,32,446,"HECKMANN, PATRICK",P006420   ,Foul (2),CM,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,3,08:51,32,447,"PANGOS, KEVIN",P006433   ,Foul Drawn (4),RV,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,6,08:48,32,448,"TOUPANE, AXEL",P002582   ,Out,OUT,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,92,08:48,32,449,"ULANOVAS, EDGARAS",P002329   ,In,IN,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,22,08:32,32,450,"MICIC, VASILIJE",P002580   ,Missed Three Pointer (1/3 -  10 pt),3FGA,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,3,08:29,32,451,"PANGOS, KEVIN",P006433   ,Off Rebound (2),O,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,30,08:23,32,452,"WHITE, AARON",P006505   ,Offensive Foul (2),OF,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,30,08:23,32,453,"WHITE, AARON",P006505   ,Turnover (2),TO,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,3,08:23,32,454,"WRIGHT, DORELL",P008049   ,Foul Drawn (2),RV,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,21,08:23,32,455,"MILAKNIS, ARTURAS",PKPD      ,In,IN,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,30,08:23,32,456,"WHITE, AARON",P006505   ,Out,OUT,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,3,08:09,32,457,"WRIGHT, DORELL",P008049   ,Three Pointer (2/4 -  7 pt),3FGM,69.0,65.0,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,43,08:07,32,458,"RADOSEVIC, LEON",PLEM      ,Assist (1),AS,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,3,08:01,32,459,"WRIGHT, DORELL",P008049   ,Foul (2),CM,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,0,08:01,32,460,"DAVIES, BRANDON",P007870   ,Foul Drawn (1),RV,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,0,08:01,32,461,"HACKETT, DANIEL",P001844   ,In,IN,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,33,08:01,32,462,"HECKMANN, PATRICK",P006420   ,Out,OUT,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,0,08:01,32,463,"DAVIES, BRANDON",P007870   ,Free Throw In (1/1 -  9 pt),FTM,69.0,66.0,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,3,08:01,32,464,"PANGOS, KEVIN",P006433   ,Assist (7),AS,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,0,08:01,32,465,"DAVIES, BRANDON",P007870   ,Free Throw In (2/2 -  10 pt),FTM,69.0,67.0,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,22,08:01,32,466,"MICIC, VASILIJE",P002580   ,Foul (1),CM,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,3,08:01,32,467,"WRIGHT, DORELL",P008049   ,Foul Drawn (3),RV,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,0,07:51,33,469,"DAVIES, BRANDON",P007870   ,Foul (4),CM,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,2,07:51,33,470,"HICKMAN, RICKY",P004159   ,Foul Drawn (6),RV,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,43,07:51,33,471,"RADOSEVIC, LEON",PLEM      ,Missed Two Pointer (2/3 -  4 pt),2FGA,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,,07:51,33,472,,          ,Off Rebound (4),O,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,12,07:35,33,473,"LO, MAODO",P007032   ,Two Pointer (1/1 -  2 pt),2FGM,71.0,67.0,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,22,07:13,33,474,"MICIC, VASILIJE",P002580   ,Turnover (1),TO,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,3,07:12,33,475,"WRIGHT, DORELL",P008049   ,Steal (1),ST,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,12,07:01,33,476,"LO, MAODO",P007032   ,Turnover (1),TO,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,21,07:01,33,477,"RUBIT, AUGUSTINE",P006477   ,In,IN,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,43,07:01,33,478,"RADOSEVIC, LEON",PLEM      ,Out,OUT,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,0,07:01,33,479,"DAVIES, BRANDON",P007870   ,Out,OUT,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,13,07:01,33,480,"JANKUNAS, PAULIUS",PBWI      ,In,IN,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,0,06:43,34,482,"HACKETT, DANIEL",P001844   ,Foul (3),CM,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,13,06:43,34,483,"JANKUNAS, PAULIUS",PBWI      ,Foul Drawn (1),RV,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,3,06:31,34,484,"PANGOS, KEVIN",P006433   ,Missed Two Pointer (2/4 -  7 pt),2FGA,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,3,06:29,34,485,"WRIGHT, DORELL",P008049   ,Def Rebound (2),D,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,22,06:24,34,486,"MICIC, VASILIJE",P002580   ,Out,OUT,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,30,06:24,34,487,"WHITE, AARON",P006505   ,In,IN,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,2,06:13,34,488,"HICKMAN, RICKY",P004159   ,Missed Two Pointer (0/3 -  6 pt),2FGA,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,21,06:11,34,489,"RUBIT, AUGUSTINE",P006477   ,Off Rebound (3),O,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,13,06:11,34,490,"JANKUNAS, PAULIUS",PBWI      ,Foul (5),CM,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,21,06:11,34,491,"RUBIT, AUGUSTINE",P006477   ,Foul Drawn (4),RV,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,0,06:11,34,492,"DAVIES, BRANDON",P007870   ,In,IN,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,13,06:11,34,493,"JANKUNAS, PAULIUS",PBWI      ,Out,OUT,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,21,06:11,34,494,"RUBIT, AUGUSTINE",P006477   ,Free Throw In (1/1 -  16 pt),FTM,72.0,67.0,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,21,06:11,34,495,"RUBIT, AUGUSTINE",P006477   ,Missed Free Throw (1/2 -  16 pt),FTA,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,30,06:11,34,496,"WHITE, AARON",P006505   ,Def Rebound (5),D,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,2,06:00,34,497,"HICKMAN, RICKY",P004159   ,Foul (3),CM,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,3,06:00,34,498,"PANGOS, KEVIN",P006433   ,Foul Drawn (5),RV,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,3,05:49,35,500,"PANGOS, KEVIN",P006433   ,Turnover (1),TO,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,0,05:46,35,501,"HACKETT, DANIEL",P001844   ,Steal (1),ST,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,30,05:34,35,502,"WHITE, AARON",P006505   ,Foul (3),CM,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,21,05:34,35,503,"RUBIT, AUGUSTINE",P006477   ,Foul Drawn (5),RV,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,0,05:34,35,504,"DAVIES, BRANDON",P007870   ,Out,OUT,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,22,05:34,35,505,"MICIC, VASILIJE",P002580   ,In,IN,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,21,05:34,35,506,"RUBIT, AUGUSTINE",P006477   ,Free Throw In (2/3 -  17 pt),FTM,73.0,67.0,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,21,05:34,35,507,"RUBIT, AUGUSTINE",P006477   ,Free Throw In (3/4 -  18 pt),FTM,74.0,67.0,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,21,05:18,35,508,"MILAKNIS, ARTURAS",PKPD      ,Three Pointer (6/8 -  18 pt),3FGM,74.0,70.0,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,3,05:06,35,509,"PANGOS, KEVIN",P006433   ,Assist (8),AS,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,12,04:52,36,511,"LO, MAODO",P007032   ,Three Pointer (1/2 -  5 pt),3FGM,77.0,70.0,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,21,04:51,36,512,"RUBIT, AUGUSTINE",P006477   ,Assist (2),AS,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+          ,,,04:51,36,513,,          ,TV Time Out (3),TOUT_TV,,,,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,30,04:32,36,514,"WHITE, AARON",P006505   ,Two Pointer (5/9 -  13 pt),2FGM,77.0,72.0,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,3,04:30,36,515,"PANGOS, KEVIN",P006433   ,Assist (9),AS,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,21,04:05,36,516,"RUBIT, AUGUSTINE",P006477   ,Two Pointer (7/9 -  20 pt),2FGM,79.0,72.0,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,30,03:57,37,518,"WHITE, AARON",P006505   ,Offensive Foul (4),OF,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,30,03:57,37,519,"WHITE, AARON",P006505   ,Turnover (3),TO,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,2,03:57,37,520,"HICKMAN, RICKY",P004159   ,Foul Drawn (7),RV,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,12,03:37,37,521,"LO, MAODO",P007032   ,Missed Three Pointer (1/3 -  5 pt),3FGA,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,92,03:35,37,522,"ULANOVAS, EDGARAS",P002329   ,Def Rebound (1),D,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,12,03:29,37,523,"LO, MAODO",P007032   ,Foul (2),CM,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,30,03:29,37,524,"WHITE, AARON",P006505   ,Foul Drawn (5),RV,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,30,03:29,37,525,"WHITE, AARON",P006505   ,Free Throw In (4/4 -  14 pt),FTM,79.0,73.0,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,30,03:29,37,526,"WHITE, AARON",P006505   ,Free Throw In (5/5 -  15 pt),FTM,79.0,74.0,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,21,03:59,37,591,"RUBIT, AUGUSTINE",P006477   ,Shot Rejected (1),AG,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,21,03:21,37,590,"RUBIT, AUGUSTINE",P006477   ,Missed Two Pointer (7/10 -  20 pt),2FGA,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,30,03:21,37,592,"WHITE, AARON",P006505   ,Block (1),FV,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,21,03:17,37,528,"MILAKNIS, ARTURAS",PKPD      ,Def Rebound (2),D,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,3,03:11,37,529,"PANGOS, KEVIN",P006433   ,Missed Two Pointer (2/5 -  7 pt),2FGA,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,21,03:09,37,530,"RUBIT, AUGUSTINE",P006477   ,Def Rebound (3),D,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,3,02:49,38,532,"WRIGHT, DORELL",P008049   ,Missed Two Pointer (0/4 -  7 pt),2FGA,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,,02:49,38,533,,          ,Turnover (3),TO,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,6,02:49,38,534,"ZISIS, NIKOS",PABN      ,In,IN,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,12,02:49,38,535,"LO, MAODO",P007032   ,Out,OUT,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,30,02:35,38,536,"WHITE, AARON",P006505   ,Two Pointer (6/10 -  17 pt),2FGM,79.0,76.0,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,,02:35,38,537,,          ,Time Out (1),TOUT,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,21,02:34,38,538,"MILAKNIS, ARTURAS",PKPD      ,Foul (2),CM,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,0,02:34,38,539,"HACKETT, DANIEL",P001844   ,Foul Drawn (6),RV,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,0,02:34,38,540,"HACKETT, DANIEL",P001844   ,Free Throw In (5/5 -  10 pt),FTM,80.0,76.0,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,0,02:34,38,541,"HACKETT, DANIEL",P001844   ,Free Throw In (6/6 -  11 pt),FTM,81.0,76.0,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,3,02:18,38,542,"PANGOS, KEVIN",P006433   ,Missed Two Pointer (2/6 -  7 pt),2FGA,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,30,02:18,38,543,"WHITE, AARON",P006505   ,Off Rebound (3),O,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,0,02:18,38,544,"HACKETT, DANIEL",P001844   ,Foul (4),CM,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,30,02:18,38,545,"WHITE, AARON",P006505   ,Foul Drawn (6),RV,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,30,02:18,38,546,"WHITE, AARON",P006505   ,Free Throw In (6/6 -  18 pt),FTM,81.0,77.0,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,30,02:18,38,547,"WHITE, AARON",P006505   ,Free Throw In (7/7 -  19 pt),FTM,81.0,78.0,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,0,01:56,39,549,"HACKETT, DANIEL",P001844   ,Two Pointer (2/4 -  13 pt),2FGM,83.0,78.0,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,3,01:56,39,550,"WRIGHT, DORELL",P008049   ,Assist (3),AS,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,3,01:43,39,551,"WRIGHT, DORELL",P008049   ,Foul (3),CM,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,22,01:43,39,552,"MICIC, VASILIJE",P002580   ,Foul Drawn (2),RV,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,22,01:43,39,553,"MICIC, VASILIJE",P002580   ,Free Throw In (2/2 -  11 pt),FTM,83.0,79.0,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,22,01:43,39,554,"MICIC, VASILIJE",P002580   ,Free Throw In (3/3 -  12 pt),FTM,83.0,80.0,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,21,01:24,39,555,"RUBIT, AUGUSTINE",P006477   ,Two Pointer (8/11 -  22 pt),2FGM,85.0,80.0,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,0,01:24,39,556,"HACKETT, DANIEL",P001844   ,Assist (3),AS,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,30,01:12,39,557,"WHITE, AARON",P006505   ,Two Pointer (7/11 -  21 pt),2FGM,85.0,82.0,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,3,01:12,39,558,"PANGOS, KEVIN",P006433   ,Assist (10),AS,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,,00:55,40,560,,          ,Time Out (2),TOUT,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,2,00:47,40,561,"HICKMAN, RICKY",P004159   ,Missed Three Pointer (0/5 -  6 pt),3FGA,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,21,00:44,40,562,"RUBIT, AUGUSTINE",P006477   ,Off Rebound (4),O,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,0,00:37,40,563,"HACKETT, DANIEL",P001844   ,Two Pointer (3/5 -  15 pt),2FGM,87.0,82.0,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,,00:37,40,564,,          ,Time Out (1),TOUT,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,30,00:33,40,565,"WHITE, AARON",P006505   ,Two Pointer (8/12 -  23 pt),2FGM,87.0,84.0,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,3,00:33,40,566,"PANGOS, KEVIN",P006433   ,Foul (2),CM,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,2,00:33,40,567,"HICKMAN, RICKY",P004159   ,Foul Drawn (8),RV,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,2,00:33,40,568,"HICKMAN, RICKY",P004159   ,Free Throw In (7/8 -  7 pt),FTM,88.0,84.0,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,2,00:33,40,569,"HICKMAN, RICKY",P004159   ,Free Throw In (8/9 -  8 pt),FTM,89.0,84.0,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,3,00:22,40,570,"PANGOS, KEVIN",P006433   ,Two Pointer (3/7 -  9 pt),2FGM,89.0,86.0,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,21,00:22,40,571,"MILAKNIS, ARTURAS",PKPD      ,Foul (3),CM,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,0,00:22,40,572,"HACKETT, DANIEL",P001844   ,Foul Drawn (7),RV,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,0,00:22,40,573,"HACKETT, DANIEL",P001844   ,Free Throw In (7/7 -  16 pt),FTM,90.0,86.0,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,0,00:22,40,574,"HACKETT, DANIEL",P001844   ,Missed Free Throw (7/8 -  16 pt),FTA,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,0,00:22,40,575,"HACKETT, DANIEL",P001844   ,Off Rebound (1),O,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,3,00:18,40,576,"PANGOS, KEVIN",P006433   ,Foul (3),CM,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,2,00:18,40,577,"HICKMAN, RICKY",P004159   ,Foul Drawn (9),RV,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,2,00:18,40,578,"HICKMAN, RICKY",P004159   ,Missed Free Throw (8/10 -  8 pt),FTA,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,2,00:18,40,579,"HICKMAN, RICKY",P004159   ,Free Throw In (9/11 -  9 pt),FTM,91.0,86.0,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,3,00:08,40,580,"PANGOS, KEVIN",P006433   ,Turnover (2),TO,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,3,00:08,40,581,"WRIGHT, DORELL",P008049   ,Steal (2),ST,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,3,00:08,40,582,"PANGOS, KEVIN",P006433   ,Foul (4),CM,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,3,00:08,40,583,"WRIGHT, DORELL",P008049   ,Foul Drawn (4),RV,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,3,00:08,40,584,"WRIGHT, DORELL",P008049   ,Free Throw In (2/3 -  8 pt),FTM,92.0,86.0,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,3,00:08,40,585,"WRIGHT, DORELL",P008049   ,Free Throw In (3/4 -  9 pt),FTM,93.0,86.0,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+ZAL       ,,21,00:08,40,586,"MILAKNIS, ARTURAS",PKPD      ,Missed Three Pointer (6/9 -  18 pt),3FGA,,,Zalgiris Kaunas,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+BAM       ,,6,00:08,40,587,"ZISIS, NIKOS",PABN      ,Def Rebound (2),D,,,Brose Bamberg,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL
+          ,,,,41,593,,          ,End Game,EG,,,,0,Brose Bamberg,BAM,Zalgiris Kaunas,ZAL

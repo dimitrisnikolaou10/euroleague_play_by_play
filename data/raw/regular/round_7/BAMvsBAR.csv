@@ -1,0 +1,534 @@
+CODETEAM,COMMENT,DORSAL,MARKERTIME,MINUTE,NUMBEROFPLAY,PLAYER,PLAYER_ID,PLAYINFO,PLAYTYPE,POINTS_A,POINTS_B,TEAM,TYPE,home_team,home_team_code,away_team,away_team_code
+          ,,,,1,2,,          ,Begin Period,BP,,,,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,7,09:44,1,3,"NIKOLIC, ALEKSEJ",P003703   ,Three Pointer (1/1 -  3 pt),3FGM,3.0,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,2,09:43,1,4,"HICKMAN, RICKY",P004159   ,Assist (1),AS,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,21,09:22,1,5,"SANDERS, RAKIM",P005001   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,3,09:19,1,6,"WRIGHT, DORELL",P008049   ,Def Rebound (1),D,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,3,09:18,1,7,"WRIGHT, DORELL",P008049   ,Turnover (1),TO,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,21,09:15,1,8,"SANDERS, RAKIM",P005001   ,Steal (1),ST,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,21,09:13,1,9,"SANDERS, RAKIM",P005001   ,Two Pointer (1/2 -  2 pt),2FGM,3.0,2.0,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,13,08:56,2,11,"HEURTEL, THOMAS",PKLT      ,Foul (1),CM,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,7,08:56,2,12,"NIKOLIC, ALEKSEJ",P003703   ,Foul Drawn (1),RV,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,2,08:56,2,13,"HICKMAN, RICKY",P004159   ,Three Pointer (1/1 -  3 pt),3FGM,6.0,2.0,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,45,08:56,2,14,"MOERMAN, ADRIEN",P001833   ,Three Pointer (1/1 -  3 pt),3FGM,6.0,5.0,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,13,08:56,2,15,"HEURTEL, THOMAS",PKLT      ,Assist (1),AS,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,3,08:18,2,16,"WRIGHT, DORELL",P008049   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,1,08:15,2,17,"SERAPHIN, KEVIN",P001948   ,Def Rebound (1),D,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,9,08:08,2,18,"HANGA, ADAM",P005099   ,Two Pointer (1/1 -  2 pt),2FGM,6.0,7.0,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,45,08:07,2,19,"MOERMAN, ADRIEN",P001833   ,Assist (1),AS,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,43,07:55,3,21,"RADOSEVIC, LEON",PLEM      ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,21,07:53,3,22,"SANDERS, RAKIM",P005001   ,Def Rebound (1),D,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,1,07:36,3,23,"SERAPHIN, KEVIN",P001948   ,Two Pointer (1/1 -  2 pt),2FGM,6.0,9.0,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,21,07:34,3,24,"SANDERS, RAKIM",P005001   ,Assist (1),AS,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,3,07:21,3,25,"WRIGHT, DORELL",P008049   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,21,07:18,3,26,"SANDERS, RAKIM",P005001   ,Def Rebound (2),D,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,1,07:08,3,27,"SERAPHIN, KEVIN",P001948   ,Two Pointer (2/2 -  4 pt),2FGM,6.0,11.0,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,13,07:06,3,28,"HEURTEL, THOMAS",PKLT      ,Assist (2),AS,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,2,06:54,4,30,"HICKMAN, RICKY",P004159   ,Missed Two Pointer (0/1 -  3 pt),2FGA,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,1,06:52,4,31,"SERAPHIN, KEVIN",P001948   ,Def Rebound (2),D,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,9,06:35,4,32,"HANGA, ADAM",P005099   ,Turnover (1),TO,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,7,06:20,4,33,"NIKOLIC, ALEKSEJ",P003703   ,Missed Three Pointer (1/2 -  3 pt),3FGA,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,43,06:18,4,34,"RADOSEVIC, LEON",PLEM      ,Off Rebound (1),O,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,43,06:11,4,35,"RADOSEVIC, LEON",PLEM      ,Two Pointer (1/2 -  2 pt),2FGM,8.0,11.0,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,7,06:08,4,36,"NIKOLIC, ALEKSEJ",P003703   ,Assist (1),AS,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,44,06:03,4,37,"TAYLOR, BRYCE",P001988   ,Foul (1),CM,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,21,06:03,4,38,"SANDERS, RAKIM",P005001   ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,44,05:58,5,40,"TAYLOR, BRYCE",P001988   ,Foul (2),CM,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,21,05:58,5,41,"SANDERS, RAKIM",P005001   ,Foul Drawn (2),RV,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,21,05:58,5,42,"SANDERS, RAKIM",P005001   ,Free Throw In (1/1 -  3 pt),FTM,8.0,12.0,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,45,05:58,5,70,"MOERMAN, ADRIEN",P001833   ,Assist (2),AS,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,21,05:58,5,43,"SANDERS, RAKIM",P005001   ,Free Throw In (2/2 -  4 pt),FTM,8.0,13.0,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,6,05:58,5,44,"ZISIS, NIKOS",PABN      ,In,IN,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,7,05:58,5,45,"NIKOLIC, ALEKSEJ",P003703   ,Out,OUT,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,33,05:58,5,46,"HECKMANN, PATRICK",P006420   ,In,IN,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,44,05:58,5,47,"TAYLOR, BRYCE",P001988   ,Out,OUT,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,6,05:40,5,48,"ZISIS, NIKOS",PABN      ,Two Pointer (1/1 -  2 pt),2FGM,10.0,13.0,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,45,05:29,5,49,"MOERMAN, ADRIEN",P001833   ,Two Pointer (1/1 -  5 pt),2FGM,10.0,15.0,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,13,05:27,5,50,"HEURTEL, THOMAS",PKLT      ,Assist (3),AS,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,2,05:11,5,51,"HICKMAN, RICKY",P004159   ,Missed Three Pointer (1/2 -  3 pt),3FGA,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,21,05:09,5,52,"SANDERS, RAKIM",P005001   ,Def Rebound (3),D,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,9,05:04,5,53,"HANGA, ADAM",P005099   ,Two Pointer (2/2 -  4 pt),2FGM,10.0,17.0,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,21,05:00,6,55,"SANDERS, RAKIM",P005001   ,Assist (2),AS,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,6,04:46,6,56,"ZISIS, NIKOS",PABN      ,Turnover (1),TO,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+          ,,,04:46,6,57,,          ,TV Time Out (1),TOUT_TV,,,,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,3,04:46,6,58,"WRIGHT, DORELL",P008049   ,Out,OUT,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,9,04:46,6,59,"MITROVIC, LUKA",P002553   ,In,IN,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,45,04:27,6,60,"MOERMAN, ADRIEN",P001833   ,Three Pointer (2/2 -  8 pt),3FGM,10.0,20.0,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,13,04:25,6,61,"HEURTEL, THOMAS",PKLT      ,Assist (4),AS,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,43,04:07,6,62,"RADOSEVIC, LEON",PLEM      ,Turnover (1),TO,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,21,03:45,7,64,"SANDERS, RAKIM",P005001   ,Two Pointer (2/3 -  6 pt),2FGM,10.0,22.0,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,9,03:28,7,65,"MITROVIC, LUKA",P002553   ,Turnover (1),TO,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,9,03:28,7,66,"HANGA, ADAM",P005099   ,Steal (1),ST,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,9,03:28,7,67,"MITROVIC, LUKA",P002553   ,Unsportsmanlike Foul  (1),CMU,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,9,03:28,7,68,"HANGA, ADAM",P005099   ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,,03:28,7,69,,          ,Time Out (1),TOUT,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,21,03:28,7,71,"RUBIT, AUGUSTINE",P006477   ,In,IN,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,43,03:28,7,72,"RADOSEVIC, LEON",PLEM      ,Out,OUT,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,1,03:28,7,73,"SERAPHIN, KEVIN",P001948   ,Out,OUT,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,44,03:28,7,74,"TOMIC, ANTE",P002507   ,In,IN,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,9,03:28,7,75,"HANGA, ADAM",P005099   ,Free Throw In (1/1 -  5 pt),FTM,10.0,23.0,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,9,03:28,7,76,"HANGA, ADAM",P005099   ,Free Throw In (2/2 -  6 pt),FTM,10.0,24.0,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,44,03:09,7,77,"TOMIC, ANTE",P002507   ,Two Pointer (1/1 -  2 pt),2FGM,10.0,26.0,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,13,03:06,7,78,"HEURTEL, THOMAS",PKLT      ,Assist (5),AS,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,6,02:55,8,80,"ZISIS, NIKOS",PABN      ,Turnover (2),TO,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,21,02:53,8,81,"SANDERS, RAKIM",P005001   ,Steal (2),ST,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,13,02:49,8,82,"HEURTEL, THOMAS",PKLT      ,Two Pointer (1/1 -  2 pt),2FGM,10.0,28.0,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,44,02:47,8,83,"TOMIC, ANTE",P002507   ,Assist (1),AS,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,21,02:26,8,84,"RUBIT, AUGUSTINE",P006477   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,13,02:24,8,85,"HEURTEL, THOMAS",PKLT      ,Def Rebound (1),D,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,13,02:15,8,86,"HEURTEL, THOMAS",PKLT      ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,,02:15,8,87,,          ,Off Rebound (1),O,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,9,02:15,8,88,"MITROVIC, LUKA",P002553   ,Foul (2),CM,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,45,02:15,8,89,"MOERMAN, ADRIEN",P001833   ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,2,02:15,8,90,"HICKMAN, RICKY",P004159   ,Out,OUT,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,8,02:15,8,91,"STAIGER, LUCCA",P002506   ,In,IN,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,12,02:15,8,92,"LO, MAODO",P007032   ,In,IN,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,33,02:15,8,93,"HECKMANN, PATRICK",P006420   ,Out,OUT,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,5,02:15,8,94,"RIBAS, PAU",PJUG      ,In,IN,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,13,02:15,8,95,"HEURTEL, THOMAS",PKLT      ,Out,OUT,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,30,02:15,8,96,"CLAVER, VICTOR",P000556   ,In,IN,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,45,02:15,8,97,"MOERMAN, ADRIEN",P001833   ,Out,OUT,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,21,02:04,8,98,"SANDERS, RAKIM",P005001   ,Two Pointer (3/4 -  8 pt),2FGM,10.0,30.0,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,21,01:46,9,100,"RUBIT, AUGUSTINE",P006477   ,Two Pointer (1/2 -  2 pt),2FGM,12.0,30.0,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,6,01:42,9,101,"ZISIS, NIKOS",PABN      ,Assist (1),AS,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,44,01:29,9,102,"TOMIC, ANTE",P002507   ,Two Pointer (2/2 -  4 pt),2FGM,12.0,32.0,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,21,01:27,9,103,"SANDERS, RAKIM",P005001   ,Assist (3),AS,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,21,01:13,9,104,"RUBIT, AUGUSTINE",P006477   ,Missed Two Pointer (1/3 -  2 pt),2FGA,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,44,01:10,9,105,"TOMIC, ANTE",P002507   ,Def Rebound (1),D,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,30,00:56,10,107,"CLAVER, VICTOR",P000556   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,44,00:54,10,108,"TOMIC, ANTE",P002507   ,Off Rebound (1),O,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,5,00:49,10,109,"RIBAS, PAU",PJUG      ,Three Pointer (1/1 -  3 pt),3FGM,12.0,35.0,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,12,00:30,10,111,"LO, MAODO",P007032   ,Turnover (1),TO,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,9,00:28,10,112,"HANGA, ADAM",P005099   ,Steal (2),ST,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,21,00:28,10,113,"SANDERS, RAKIM",P005001   ,Two Pointer (4/5 -  10 pt),2FGM,12.0,37.0,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,9,00:28,10,114,"HANGA, ADAM",P005099   ,Assist (1),AS,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,21,00:28,10,115,"RUBIT, AUGUSTINE",P006477   ,Foul (1),CM,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,21,00:28,10,116,"SANDERS, RAKIM",P005001   ,Foul Drawn (3),RV,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,2,00:28,10,117,"HICKMAN, RICKY",P004159   ,In,IN,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,12,00:28,10,118,"LO, MAODO",P007032   ,Out,OUT,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,21,00:28,10,119,"SANDERS, RAKIM",P005001   ,Free Throw In (3/3 -  11 pt),FTM,12.0,38.0,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,21,00:28,10,120,"SANDERS, RAKIM",P005001   ,Out,OUT,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,25,00:28,10,121,"KOPONEN, PETTERI",P004178   ,In,IN,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,9,00:15,10,122,"MITROVIC, LUKA",P002553   ,Turnover (2),TO,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,44,00:02,10,123,"TOMIC, ANTE",P002507   ,Missed Two Pointer (2/3 -  4 pt),2FGA,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,21,00:00,10,124,"RUBIT, AUGUSTINE",P006477   ,Def Rebound (1),D,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,8,00:00,10,125,"STAIGER, LUCCA",P002506   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+          ,,,,11,127,,          ,End Period,EP,,,,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+          ,,,,11,134,,          ,Begin Period,BP,,,,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,2,10:00,11,128,"HICKMAN, RICKY",P004159   ,Out,OUT,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,3,10:00,11,129,"WRIGHT, DORELL",P008049   ,In,IN,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,8,10:00,11,130,"STAIGER, LUCCA",P002506   ,Out,OUT,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,9,10:00,11,131,"MITROVIC, LUKA",P002553   ,Out,OUT,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,12,10:00,11,132,"LO, MAODO",P007032   ,In,IN,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,44,10:00,11,133,"TAYLOR, BRYCE",P001988   ,In,IN,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,44,09:43,11,135,"TOMIC, ANTE",P002507   ,Missed Two Pointer (2/4 -  4 pt),2FGA,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,12,09:40,11,136,"LO, MAODO",P007032   ,Def Rebound (1),D,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,12,09:28,11,137,"LO, MAODO",P007032   ,Two Pointer (1/1 -  2 pt),2FGM,14.0,38.0,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,,09:28,11,138,,          ,Turnover (1),TO,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,3,08:45,12,140,"WRIGHT, DORELL",P008049   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,44,08:43,12,141,"TOMIC, ANTE",P002507   ,Def Rebound (2),D,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,21,08:31,12,142,"RUBIT, AUGUSTINE",P006477   ,Foul (2),CM,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,5,08:31,12,143,"RIBAS, PAU",PJUG      ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,44,08:19,12,144,"TOMIC, ANTE",P002507   ,Two Pointer (3/5 -  6 pt),2FGM,14.0,40.0,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,5,08:17,12,145,"RIBAS, PAU",PJUG      ,Assist (1),AS,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,44,08:00,12,146,"TAYLOR, BRYCE",P001988   ,Three Pointer (1/1 -  3 pt),3FGM,17.0,40.0,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,3,07:57,13,148,"WRIGHT, DORELL",P008049   ,Assist (1),AS,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,9,07:40,13,149,"HANGA, ADAM",P005099   ,Missed Three Pointer (0/1 -  6 pt),3FGA,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,3,07:38,13,150,"WRIGHT, DORELL",P008049   ,Def Rebound (2),D,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,30,07:36,13,151,"CLAVER, VICTOR",P000556   ,Foul (1),CM,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,3,07:36,13,152,"WRIGHT, DORELL",P008049   ,Foul Drawn (1),RV,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,8,07:36,13,153,"PRESSEY, PHIL",P007997   ,In,IN,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,9,07:36,13,154,"HANGA, ADAM",P005099   ,Out,OUT,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,6,07:29,13,155,"ZISIS, NIKOS",PABN      ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,5,07:27,13,156,"RIBAS, PAU",PJUG      ,Def Rebound (1),D,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,6,07:20,13,157,"ZISIS, NIKOS",PABN      ,Foul (1),CM,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,5,07:20,13,158,"RIBAS, PAU",PJUG      ,Foul Drawn (2),RV,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,2,07:20,13,159,"HICKMAN, RICKY",P004159   ,In,IN,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,6,07:20,13,160,"ZISIS, NIKOS",PABN      ,Out,OUT,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,30,07:08,13,161,"CLAVER, VICTOR",P000556   ,Turnover (1),TO,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,3,07:06,13,162,"WRIGHT, DORELL",P008049   ,Steal (1),ST,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,12,07:05,13,163,"LO, MAODO",P007032   ,Two Pointer (2/2 -  4 pt),2FGM,19.0,40.0,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,3,07:05,13,164,"WRIGHT, DORELL",P008049   ,Assist (2),AS,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,5,06:44,14,166,"RIBAS, PAU",PJUG      ,Turnover (1),TO,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,3,06:42,14,167,"WRIGHT, DORELL",P008049   ,Steal (2),ST,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,12,06:35,14,168,"LO, MAODO",P007032   ,Missed Three Pointer (0/1 -  4 pt),3FGA,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,30,06:32,14,169,"CLAVER, VICTOR",P000556   ,Def Rebound (1),D,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,8,06:23,14,170,"PRESSEY, PHIL",P007997   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,21,06:20,14,171,"RUBIT, AUGUSTINE",P006477   ,Def Rebound (2),D,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,3,06:10,14,172,"WRIGHT, DORELL",P008049   ,Missed Two Pointer (0/3 -  0 pt),2FGA,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,30,06:07,14,173,"CLAVER, VICTOR",P000556   ,Def Rebound (2),D,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,44,05:49,15,175,"TOMIC, ANTE",P002507   ,Missed Two Pointer (3/6 -  6 pt),2FGA,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,21,05:49,15,176,"RUBIT, AUGUSTINE",P006477   ,Def Rebound (3),D,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,44,05:31,15,177,"TOMIC, ANTE",P002507   ,Foul (1),CM,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,21,05:31,15,178,"RUBIT, AUGUSTINE",P006477   ,Foul Drawn (1),RV,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,1,05:31,15,179,"SERAPHIN, KEVIN",P001948   ,In,IN,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,44,05:31,15,180,"TOMIC, ANTE",P002507   ,Out,OUT,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,21,05:31,15,181,"RUBIT, AUGUSTINE",P006477   ,Free Throw In (1/1 -  3 pt),FTM,20.0,40.0,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,3,05:31,15,182,"WRIGHT, DORELL",P008049   ,Assist (3),AS,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,21,05:31,15,183,"RUBIT, AUGUSTINE",P006477   ,Free Throw In (2/2 -  4 pt),FTM,21.0,40.0,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,21,05:31,15,184,"RUBIT, AUGUSTINE",P006477   ,Out,OUT,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,43,05:31,15,185,"RADOSEVIC, LEON",PLEM      ,In,IN,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,30,05:13,15,186,"CLAVER, VICTOR",P000556   ,Three Pointer (1/2 -  3 pt),3FGM,21.0,43.0,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,5,05:11,15,187,"RIBAS, PAU",PJUG      ,Assist (2),AS,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,44,04:54,16,189,"TAYLOR, BRYCE",P001988   ,Missed Three Pointer (1/2 -  3 pt),3FGA,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,30,04:51,16,190,"CLAVER, VICTOR",P000556   ,Def Rebound (3),D,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,43,04:45,16,191,"RADOSEVIC, LEON",PLEM      ,Foul (1),CM,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,1,04:45,16,192,"SERAPHIN, KEVIN",P001948   ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+          ,,,04:45,16,193,,          ,TV Time Out (2),TOUT_TV,,,,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,1,04:45,16,194,"SERAPHIN, KEVIN",P001948   ,Free Throw In (1/1 -  5 pt),FTM,21.0,44.0,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,30,04:45,16,195,"CLAVER, VICTOR",P000556   ,Assist (1),AS,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,1,04:45,16,196,"SERAPHIN, KEVIN",P001948   ,Free Throw In (2/2 -  6 pt),FTM,21.0,45.0,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,43,04:36,16,197,"RADOSEVIC, LEON",PLEM      ,Offensive Foul (2),OF,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,43,04:36,16,198,"RADOSEVIC, LEON",PLEM      ,Turnover (2),TO,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,5,04:36,16,199,"RIBAS, PAU",PJUG      ,Foul Drawn (3),RV,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,25,04:27,16,200,"KOPONEN, PETTERI",P004178   ,Offensive Foul (1),OF,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,25,04:27,16,201,"KOPONEN, PETTERI",P004178   ,Turnover (1),TO,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,43,04:27,16,202,"RADOSEVIC, LEON",PLEM      ,Foul Drawn (1),RV,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,5,04:13,16,203,"RIBAS, PAU",PJUG      ,Out,OUT,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,21,04:13,16,204,"SANDERS, RAKIM",P005001   ,In,IN,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,30,04:13,16,205,"CLAVER, VICTOR",P000556   ,Out,OUT,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,45,04:13,16,206,"MOERMAN, ADRIEN",P001833   ,In,IN,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,12,04:05,16,207,"LO, MAODO",P007032   ,Missed Two Pointer (2/3 -  4 pt),2FGA,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,12,04:05,16,208,"LO, MAODO",P007032   ,Shot Rejected (1),AG,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,1,04:03,16,209,"SERAPHIN, KEVIN",P001948   ,Block (1),FV,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,25,04:01,16,210,"KOPONEN, PETTERI",P004178   ,Def Rebound (1),D,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,43,03:59,17,212,"RADOSEVIC, LEON",PLEM      ,Foul (3),CM,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,1,03:59,17,213,"SERAPHIN, KEVIN",P001948   ,Foul Drawn (2),RV,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,9,03:59,17,214,"MITROVIC, LUKA",P002553   ,In,IN,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,43,03:59,17,215,"RADOSEVIC, LEON",PLEM      ,Out,OUT,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,1,03:59,17,216,"SERAPHIN, KEVIN",P001948   ,Free Throw In (3/3 -  7 pt),FTM,21.0,46.0,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,25,03:59,17,217,"KOPONEN, PETTERI",P004178   ,Assist (1),AS,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,1,03:59,17,218,"SERAPHIN, KEVIN",P001948   ,Free Throw In (4/4 -  8 pt),FTM,21.0,47.0,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,21,03:46,17,219,"SANDERS, RAKIM",P005001   ,Foul (1),CM,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,2,03:46,17,220,"HICKMAN, RICKY",P004159   ,Foul Drawn (1),RV,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,7,03:46,17,221,"NIKOLIC, ALEKSEJ",P003703   ,In,IN,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,12,03:46,17,222,"LO, MAODO",P007032   ,Out,OUT,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,2,03:46,17,223,"HICKMAN, RICKY",P004159   ,Free Throw In (1/1 -  4 pt),FTM,22.0,47.0,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,2,03:46,17,224,"HICKMAN, RICKY",P004159   ,Free Throw In (2/2 -  5 pt),FTM,23.0,47.0,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,1,03:27,17,225,"SERAPHIN, KEVIN",P001948   ,Missed Two Pointer (2/3 -  8 pt),2FGA,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,3,03:23,17,226,"WRIGHT, DORELL",P008049   ,Def Rebound (3),D,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,9,03:12,17,227,"MITROVIC, LUKA",P002553   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,45,03:10,17,228,"MOERMAN, ADRIEN",P001833   ,Def Rebound (1),D,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,45,02:56,18,230,"MOERMAN, ADRIEN",P001833   ,Missed Three Pointer (2/3 -  8 pt),3FGA,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,9,02:53,18,231,"MITROVIC, LUKA",P002553   ,Def Rebound (1),D,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,8,02:46,18,232,"PRESSEY, PHIL",P007997   ,Foul (1),CM,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,3,02:46,18,233,"WRIGHT, DORELL",P008049   ,Foul Drawn (2),RV,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,8,02:46,18,234,"PRESSEY, PHIL",P007997   ,Out,OUT,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,13,02:46,18,235,"HEURTEL, THOMAS",PKLT      ,In,IN,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,3,02:46,18,236,"WRIGHT, DORELL",P008049   ,Free Throw In (1/1 -  1 pt),FTM,24.0,47.0,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,3,02:46,18,237,"WRIGHT, DORELL",P008049   ,Missed Free Throw (1/2 -  1 pt),FTA,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,9,02:46,18,238,"MITROVIC, LUKA",P002553   ,Off Rebound (1),O,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,3,02:42,18,239,"WRIGHT, DORELL",P008049   ,Three Pointer (1/2 -  4 pt),3FGM,27.0,47.0,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,9,02:42,18,240,"MITROVIC, LUKA",P002553   ,Assist (1),AS,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,,02:42,18,241,,          ,Time Out (1),TOUT,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,9,02:42,18,242,"HANGA, ADAM",P005099   ,In,IN,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,25,02:42,18,243,"KOPONEN, PETTERI",P004178   ,Out,OUT,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,21,02:16,18,244,"SANDERS, RAKIM",P005001   ,Two Pointer (5/6 -  13 pt),2FGM,27.0,49.0,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,2,01:56,19,246,"HICKMAN, RICKY",P004159   ,Missed Two Pointer (0/2 -  5 pt),2FGA,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,9,01:54,19,247,"MITROVIC, LUKA",P002553   ,Off Rebound (2),O,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,9,01:52,19,248,"MITROVIC, LUKA",P002553   ,Two Pointer (1/2 -  2 pt),2FGM,29.0,49.0,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,16,01:35,19,249,"OLINDE, LOUIS",P006919   ,In,IN,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,44,01:35,19,250,"TAYLOR, BRYCE",P001988   ,Out,OUT,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,21,01:34,19,251,"SANDERS, RAKIM",P005001   ,Missed Three Pointer (0/1 -  13 pt),3FGA,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,7,01:34,19,252,"NIKOLIC, ALEKSEJ",P003703   ,Def Rebound (1),D,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,7,01:34,19,253,"NIKOLIC, ALEKSEJ",P003703   ,Two Pointer (1/1 -  5 pt),2FGM,31.0,49.0,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,13,01:34,19,254,"HEURTEL, THOMAS",PKLT      ,Offensive Foul (2),OF,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,13,01:34,19,255,"HEURTEL, THOMAS",PKLT      ,Turnover (1),TO,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,7,01:34,19,256,"NIKOLIC, ALEKSEJ",P003703   ,Foul Drawn (2),RV,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,,01:18,19,257,,          ,Time Out (1),TOUT,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,9,01:18,19,258,"HANGA, ADAM",P005099   ,Foul (1),CM,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,3,01:18,19,259,"WRIGHT, DORELL",P008049   ,Foul Drawn (3),RV,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,3,01:15,19,260,"WRIGHT, DORELL",P008049   ,Free Throw In (2/3 -  5 pt),FTM,32.0,49.0,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,3,01:15,19,261,"WRIGHT, DORELL",P008049   ,Free Throw In (3/4 -  6 pt),FTM,33.0,49.0,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,1,00:51,20,263,"SERAPHIN, KEVIN",P001948   ,Missed Two Pointer (2/4 -  8 pt),2FGA,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,16,00:49,20,264,"OLINDE, LOUIS",P006919   ,Def Rebound (1),D,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,3,00:31,20,265,"WRIGHT, DORELL",P008049   ,Two Pointer (1/4 -  8 pt),2FGM,35.0,49.0,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,16,00:31,20,266,"OLINDE, LOUIS",P006919   ,Assist (1),AS,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,,00:31,20,267,,          ,Time Out (2),TOUT,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,1,00:16,20,268,"SERAPHIN, KEVIN",P001948   ,Offensive Foul (1),OF,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,1,00:16,20,269,"SERAPHIN, KEVIN",P001948   ,Turnover (1),TO,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,9,00:16,20,270,"MITROVIC, LUKA",P002553   ,Foul Drawn (1),RV,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,8,00:16,20,271,"STAIGER, LUCCA",P002506   ,In,IN,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,16,00:16,20,272,"OLINDE, LOUIS",P006919   ,Out,OUT,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,1,00:16,20,273,"SERAPHIN, KEVIN",P001948   ,Out,OUT,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,30,00:16,20,274,"CLAVER, VICTOR",P000556   ,In,IN,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,9,00:01,20,275,"MITROVIC, LUKA",P002553   ,Two Pointer (2/3 -  4 pt),2FGM,37.0,49.0,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,7,00:00,20,276,"NIKOLIC, ALEKSEJ",P003703   ,Assist (2),AS,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+          ,,,,21,278,,          ,End Period,EP,,,,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+          ,,,,21,285,,          ,Begin Period,BP,,,,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,3,10:00,21,279,"WRIGHT, DORELL",P008049   ,Out,OUT,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,6,10:00,21,280,"ZISIS, NIKOS",PABN      ,In,IN,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,8,10:00,21,281,"STAIGER, LUCCA",P002506   ,Out,OUT,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,21,10:00,21,282,"RUBIT, AUGUSTINE",P006477   ,In,IN,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,1,10:00,21,283,"SERAPHIN, KEVIN",P001948   ,In,IN,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,45,10:00,21,284,"MOERMAN, ADRIEN",P001833   ,Out,OUT,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,9,09:43,21,286,"MITROVIC, LUKA",P002553   ,Missed Two Pointer (2/4 -  4 pt),2FGA,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,21,09:43,21,287,"RUBIT, AUGUSTINE",P006477   ,Off Rebound (1),O,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,1,09:43,21,290,"SERAPHIN, KEVIN",P001948   ,Unsportsmanlike Foul  (2),CMU,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,21,09:43,21,291,"RUBIT, AUGUSTINE",P006477   ,Foul Drawn (2),RV,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,21,09:43,21,292,"RUBIT, AUGUSTINE",P006477   ,Free Throw In (3/3 -  5 pt),FTM,38.0,49.0,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,21,09:43,21,293,"RUBIT, AUGUSTINE",P006477   ,Free Throw In (4/4 -  6 pt),FTM,39.0,49.0,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,21,09:27,21,294,"RUBIT, AUGUSTINE",P006477   ,Two Pointer (2/4 -  8 pt),2FGM,41.0,49.0,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,9,09:25,21,295,"MITROVIC, LUKA",P002553   ,Assist (2),AS,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,9,09:01,21,296,"HANGA, ADAM",P005099   ,Three Pointer (1/2 -  9 pt),3FGM,41.0,52.0,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,21,08:59,22,298,"SANDERS, RAKIM",P005001   ,Assist (4),AS,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,9,08:49,22,299,"HANGA, ADAM",P005099   ,Foul (2),CM,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,6,08:49,22,300,"ZISIS, NIKOS",PABN      ,Foul Drawn (1),RV,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,6,08:49,22,301,"ZISIS, NIKOS",PABN      ,Free Throw In (1/1 -  3 pt),FTM,42.0,52.0,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,6,08:49,22,302,"ZISIS, NIKOS",PABN      ,Missed Free Throw (1/2 -  3 pt),FTA,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,1,08:49,22,303,"SERAPHIN, KEVIN",P001948   ,Def Rebound (3),D,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,9,08:21,22,304,"HANGA, ADAM",P005099   ,Missed Three Pointer (1/3 -  9 pt),3FGA,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,2,08:18,22,305,"HICKMAN, RICKY",P004159   ,Def Rebound (1),D,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,2,08:12,22,306,"HICKMAN, RICKY",P004159   ,Missed Three Pointer (1/3 -  5 pt),3FGA,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,1,08:12,22,307,"SERAPHIN, KEVIN",P001948   ,Def Rebound (4),D,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,21,08:12,22,308,"RUBIT, AUGUSTINE",P006477   ,Foul (3),CM,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,1,08:12,22,309,"SERAPHIN, KEVIN",P001948   ,Foul Drawn (3),RV,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,13,07:57,23,311,"HEURTEL, THOMAS",PKLT      ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,9,07:54,23,312,"MITROVIC, LUKA",P002553   ,Def Rebound (2),D,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,2,07:44,23,313,"HICKMAN, RICKY",P004159   ,Missed Two Pointer (0/3 -  5 pt),2FGA,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,30,07:42,23,314,"CLAVER, VICTOR",P000556   ,Def Rebound (4),D,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,7,07:42,23,315,"NIKOLIC, ALEKSEJ",P003703   ,Foul (1),CM,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,13,07:42,23,316,"HEURTEL, THOMAS",PKLT      ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,6,07:38,23,317,"ZISIS, NIKOS",PABN      ,Foul (2),CM,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,9,07:38,23,318,"HANGA, ADAM",P005099   ,Foul Drawn (2),RV,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,9,07:38,23,319,"HANGA, ADAM",P005099   ,Free Throw In (3/3 -  10 pt),FTM,42.0,53.0,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,9,07:38,23,320,"HANGA, ADAM",P005099   ,Free Throw In (4/4 -  11 pt),FTM,42.0,54.0,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,21,07:14,23,321,"RUBIT, AUGUSTINE",P006477   ,Missed Two Pointer (2/5 -  8 pt),2FGA,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,1,07:12,23,322,"SERAPHIN, KEVIN",P001948   ,Def Rebound (5),D,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,13,07:08,23,323,"HEURTEL, THOMAS",PKLT      ,Turnover (2),TO,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,6,07:06,23,324,"ZISIS, NIKOS",PABN      ,Steal (1),ST,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,9,07:01,23,325,"MITROVIC, LUKA",P002553   ,Two Pointer (3/5 -  6 pt),2FGM,44.0,54.0,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,6,06:59,24,327,"ZISIS, NIKOS",PABN      ,Assist (2),AS,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,21,06:58,24,328,"SANDERS, RAKIM",P005001   ,Missed Three Pointer (0/2 -  13 pt),3FGA,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,6,06:58,24,329,"ZISIS, NIKOS",PABN      ,Def Rebound (1),D,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,2,06:58,24,330,"HICKMAN, RICKY",P004159   ,Two Pointer (1/4 -  7 pt),2FGM,46.0,54.0,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,6,06:58,24,331,"ZISIS, NIKOS",PABN      ,Assist (3),AS,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,21,06:58,24,332,"SANDERS, RAKIM",P005001   ,Missed Two Pointer (5/7 -  13 pt),2FGA,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,21,06:58,24,333,"RUBIT, AUGUSTINE",P006477   ,Def Rebound (4),D,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,2,06:58,24,334,"HICKMAN, RICKY",P004159   ,Missed Three Pointer (1/4 -  7 pt),3FGA,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,9,06:58,24,335,"HANGA, ADAM",P005099   ,Def Rebound (1),D,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,13,05:56,25,337,"HEURTEL, THOMAS",PKLT      ,Two Pointer (2/3 -  4 pt),2FGM,46.0,56.0,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,6,05:24,25,338,"ZISIS, NIKOS",PABN      ,Missed Two Pointer (1/3 -  3 pt),2FGA,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,9,05:22,25,339,"MITROVIC, LUKA",P002553   ,Off Rebound (3),O,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,9,05:20,25,340,"MITROVIC, LUKA",P002553   ,Two Pointer (4/6 -  8 pt),2FGM,48.0,56.0,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,21,05:15,25,341,"SANDERS, RAKIM",P005001   ,Missed Two Pointer (5/8 -  13 pt),2FGA,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,9,05:13,25,342,"MITROVIC, LUKA",P002553   ,Def Rebound (3),D,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,9,05:08,25,343,"MITROVIC, LUKA",P002553   ,Missed Two Pointer (4/7 -  8 pt),2FGA,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,9,05:08,25,344,"MITROVIC, LUKA",P002553   ,Shot Rejected (1),AG,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,1,05:05,25,345,"SERAPHIN, KEVIN",P001948   ,Block (2),FV,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,13,05:04,25,346,"HEURTEL, THOMAS",PKLT      ,Def Rebound (2),D,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,30,05:04,25,347,"CLAVER, VICTOR",P000556   ,Turnover (2),TO,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,2,05:04,25,348,"HICKMAN, RICKY",P004159   ,Out,OUT,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,3,05:04,25,349,"WRIGHT, DORELL",P008049   ,In,IN,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,9,05:04,25,350,"MITROVIC, LUKA",P002553   ,Out,OUT,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,21,05:04,25,351,"RUBIT, AUGUSTINE",P006477   ,Out,OUT,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,43,05:04,25,352,"RADOSEVIC, LEON",PLEM      ,In,IN,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,44,05:04,25,353,"TAYLOR, BRYCE",P001988   ,In,IN,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,1,05:04,25,354,"SERAPHIN, KEVIN",P001948   ,Out,OUT,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,5,05:04,25,355,"RIBAS, PAU",PJUG      ,In,IN,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,13,05:04,25,356,"HEURTEL, THOMAS",PKLT      ,Out,OUT,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,30,05:04,25,357,"CLAVER, VICTOR",P000556   ,Out,OUT,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,44,05:04,25,358,"TOMIC, ANTE",P002507   ,In,IN,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,45,05:04,25,359,"MOERMAN, ADRIEN",P001833   ,In,IN,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,6,04:49,26,361,"ZISIS, NIKOS",PABN      ,Missed Three Pointer (0/1 -  3 pt),3FGA,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,9,04:46,26,362,"HANGA, ADAM",P005099   ,Def Rebound (2),D,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,45,04:36,26,363,"MOERMAN, ADRIEN",P001833   ,Three Pointer (3/4 -  11 pt),3FGM,48.0,59.0,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,5,04:36,26,364,"RIBAS, PAU",PJUG      ,Assist (3),AS,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,,04:36,26,365,,          ,Time Out (1),TOUT,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,7,04:36,26,366,"NIKOLIC, ALEKSEJ",P003703   ,Out,OUT,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,12,04:36,26,367,"LO, MAODO",P007032   ,In,IN,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,9,04:22,26,368,"HANGA, ADAM",P005099   ,Foul (3),CM,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,43,04:22,26,369,"RADOSEVIC, LEON",PLEM      ,Foul Drawn (2),RV,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,43,04:10,26,370,"RADOSEVIC, LEON",PLEM      ,Missed Two Pointer (1/3 -  2 pt),2FGA,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,21,04:09,26,371,"SANDERS, RAKIM",P005001   ,Def Rebound (4),D,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,44,04:07,26,372,"TOMIC, ANTE",P002507   ,Offensive Foul (2),OF,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,44,04:07,26,373,"TOMIC, ANTE",P002507   ,Turnover (1),TO,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,43,04:07,26,374,"RADOSEVIC, LEON",PLEM      ,Foul Drawn (3),RV,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,43,03:56,27,376,"RADOSEVIC, LEON",PLEM      ,Missed Two Pointer (1/4 -  2 pt),2FGA,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,45,03:56,27,377,"MOERMAN, ADRIEN",P001833   ,Def Rebound (2),D,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,44,03:56,27,378,"TOMIC, ANTE",P002507   ,Turnover (2),TO,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,44,03:56,27,379,"TAYLOR, BRYCE",P001988   ,Steal (1),ST,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,44,03:56,27,380,"TAYLOR, BRYCE",P001988   ,Two Pointer (1/1 -  5 pt),2FGM,50.0,59.0,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,3,03:56,27,381,"WRIGHT, DORELL",P008049   ,Assist (4),AS,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,44,02:50,28,383,"TOMIC, ANTE",P002507   ,Two Pointer (4/7 -  8 pt),2FGM,50.0,61.0,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,5,02:48,28,384,"RIBAS, PAU",PJUG      ,Assist (4),AS,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,3,02:25,28,385,"WRIGHT, DORELL",P008049   ,Turnover (2),TO,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,21,02:23,28,386,"SANDERS, RAKIM",P005001   ,Steal (3),ST,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,44,02:18,28,387,"TAYLOR, BRYCE",P001988   ,Foul (3),CM,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,21,02:18,28,388,"SANDERS, RAKIM",P005001   ,Foul Drawn (4),RV,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,2,02:18,28,389,"HICKMAN, RICKY",P004159   ,In,IN,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,6,02:18,28,390,"ZISIS, NIKOS",PABN      ,Out,OUT,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,9,02:18,28,391,"HANGA, ADAM",P005099   ,Out,OUT,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,11,02:18,28,392,"NAVARRO, JUAN CARLOS",PADI      ,In,IN,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,21,02:18,28,393,"SANDERS, RAKIM",P005001   ,Free Throw In (4/4 -  14 pt),FTM,50.0,62.0,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,21,02:18,28,394,"SANDERS, RAKIM",P005001   ,Free Throw In (5/5 -  15 pt),FTM,50.0,63.0,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,12,02:06,28,395,"LO, MAODO",P007032   ,Three Pointer (1/2 -  7 pt),3FGM,53.0,63.0,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,5,01:49,29,397,"RIBAS, PAU",PJUG      ,Turnover (2),TO,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,44,01:36,29,398,"TAYLOR, BRYCE",P001988   ,Three Pointer (2/3 -  8 pt),3FGM,56.0,63.0,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,12,01:36,29,399,"LO, MAODO",P007032   ,Assist (1),AS,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,,01:36,29,400,,          ,Time Out (1),TOUT,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,21,01:34,29,401,"SANDERS, RAKIM",P005001   ,Turnover (1),TO,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,44,01:34,29,402,"TAYLOR, BRYCE",P001988   ,Steal (2),ST,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,44,01:34,29,403,"TAYLOR, BRYCE",P001988   ,Two Pointer (2/2 -  10 pt),2FGM,58.0,63.0,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,,01:34,29,404,,          ,Turnover (2),TO,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,5,01:34,29,405,"RIBAS, PAU",PJUG      ,Out,OUT,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,13,01:34,29,406,"HEURTEL, THOMAS",PKLT      ,In,IN,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,12,00:51,30,408,"LO, MAODO",P007032   ,Missed Two Pointer (2/4 -  7 pt),2FGA,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,21,00:49,30,409,"SANDERS, RAKIM",P005001   ,Def Rebound (5),D,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,13,00:39,30,410,"HEURTEL, THOMAS",PKLT      ,Three Pointer (1/2 -  7 pt),3FGM,58.0,66.0,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,2,00:19,30,411,"HICKMAN, RICKY",P004159   ,Three Pointer (2/5 -  10 pt),3FGM,61.0,66.0,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,21,00:19,30,412,"SANDERS, RAKIM",P005001   ,Foul (2),CM,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,2,00:19,30,413,"HICKMAN, RICKY",P004159   ,Foul Drawn (2),RV,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,3,00:19,30,414,"WRIGHT, DORELL",P008049   ,Assist (5),AS,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,6,00:19,30,415,"ZISIS, NIKOS",PABN      ,In,IN,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,44,00:19,30,416,"TAYLOR, BRYCE",P001988   ,Out,OUT,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,2,00:19,30,417,"HICKMAN, RICKY",P004159   ,Free Throw In (3/3 -  11 pt),FTM,62.0,66.0,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,7,00:19,30,418,"NIKOLIC, ALEKSEJ",P003703   ,In,IN,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,12,00:19,30,419,"LO, MAODO",P007032   ,Out,OUT,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,11,00:00,30,420,"NAVARRO, JUAN CARLOS",PADI      ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,44,00:00,30,421,"TOMIC, ANTE",P002507   ,Off Rebound (2),O,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,44,00:00,30,422,"TOMIC, ANTE",P002507   ,Missed Two Pointer (4/8 -  8 pt),2FGA,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,3,00:00,30,423,"WRIGHT, DORELL",P008049   ,Def Rebound (4),D,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+          ,,,,31,425,,          ,End Period,EP,,,,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+          ,,,,31,432,,          ,Begin Period,BP,,,,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,6,10:00,31,426,"ZISIS, NIKOS",PABN      ,Out,OUT,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,7,10:00,31,427,"NIKOLIC, ALEKSEJ",P003703   ,Out,OUT,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,12,10:00,31,428,"LO, MAODO",P007032   ,In,IN,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,44,10:00,31,429,"TAYLOR, BRYCE",P001988   ,In,IN,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,1,10:00,31,430,"SERAPHIN, KEVIN",P001948   ,In,IN,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,44,10:00,31,431,"TOMIC, ANTE",P002507   ,Out,OUT,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,1,09:48,31,433,"SERAPHIN, KEVIN",P001948   ,Two Pointer (3/5 -  10 pt),2FGM,62.0,68.0,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,11,09:46,31,434,"NAVARRO, JUAN CARLOS",PADI      ,Assist (1),AS,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,2,09:24,31,435,"HICKMAN, RICKY",P004159   ,Missed Three Pointer (2/6 -  11 pt),3FGA,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,45,09:22,31,436,"MOERMAN, ADRIEN",P001833   ,Def Rebound (3),D,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,13,09:12,31,437,"HEURTEL, THOMAS",PKLT      ,Missed Three Pointer (1/3 -  7 pt),3FGA,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,3,09:12,31,438,"WRIGHT, DORELL",P008049   ,Def Rebound (5),D,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,3,08:47,32,440,"WRIGHT, DORELL",P008049   ,Three Pointer (2/3 -  11 pt),3FGM,65.0,68.0,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,2,08:44,32,441,"HICKMAN, RICKY",P004159   ,Assist (2),AS,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,45,08:26,32,442,"MOERMAN, ADRIEN",P001833   ,Three Pointer (4/5 -  14 pt),3FGM,65.0,71.0,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,1,08:23,32,443,"SERAPHIN, KEVIN",P001948   ,Assist (1),AS,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,45,08:06,32,444,"MOERMAN, ADRIEN",P001833   ,Foul (1),CM,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,2,08:06,32,445,"HICKMAN, RICKY",P004159   ,Foul Drawn (3),RV,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,6,08:06,32,446,"ZISIS, NIKOS",PABN      ,In,IN,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,44,08:06,32,447,"TAYLOR, BRYCE",P001988   ,Out,OUT,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,21,08:06,32,448,"RUBIT, AUGUSTINE",P006477   ,In,IN,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,43,08:06,32,449,"RADOSEVIC, LEON",PLEM      ,Out,OUT,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,12,07:58,33,451,"LO, MAODO",P007032   ,Missed Three Pointer (1/3 -  7 pt),3FGA,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,13,07:56,33,452,"HEURTEL, THOMAS",PKLT      ,Def Rebound (3),D,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,21,07:43,33,453,"SANDERS, RAKIM",P005001   ,Missed Three Pointer (0/3 -  15 pt),3FGA,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,21,07:41,33,454,"RUBIT, AUGUSTINE",P006477   ,Def Rebound (5),D,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,2,07:36,33,455,"HICKMAN, RICKY",P004159   ,Turnover (1),TO,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,1,07:10,33,456,"SERAPHIN, KEVIN",P001948   ,Missed Two Pointer (3/6 -  10 pt),2FGA,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,12,07:08,33,457,"LO, MAODO",P007032   ,Def Rebound (2),D,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,3,07:00,33,458,"WRIGHT, DORELL",P008049   ,Three Pointer (3/4 -  14 pt),3FGM,68.0,71.0,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,2,06:58,34,460,"HICKMAN, RICKY",P004159   ,Assist (3),AS,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,12,06:37,34,461,"LO, MAODO",P007032   ,Foul (1),CM,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,13,06:37,34,462,"HEURTEL, THOMAS",PKLT      ,Foul Drawn (2),RV,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,9,06:37,34,463,"HANGA, ADAM",P005099   ,In,IN,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,21,06:37,34,464,"SANDERS, RAKIM",P005001   ,Out,OUT,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,12,06:37,34,465,"LO, MAODO",P007032   ,Out,OUT,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,44,06:37,34,466,"TAYLOR, BRYCE",P001988   ,In,IN,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,11,06:30,34,467,"NAVARRO, JUAN CARLOS",PADI      ,Turnover (1),TO,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,3,06:15,34,468,"WRIGHT, DORELL",P008049   ,Missed Three Pointer (3/5 -  14 pt),3FGA,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,13,06:12,34,469,"HEURTEL, THOMAS",PKLT      ,Def Rebound (4),D,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,9,05:54,35,471,"HANGA, ADAM",P005099   ,Three Pointer (2/4 -  14 pt),3FGM,68.0,74.0,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,13,05:54,35,472,"HEURTEL, THOMAS",PKLT      ,Assist (6),AS,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,,05:54,35,473,,          ,Time Out (1),TOUT,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,30,05:54,35,474,"CLAVER, VICTOR",P000556   ,In,IN,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,45,05:54,35,475,"MOERMAN, ADRIEN",P001833   ,Out,OUT,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,2,05:41,35,476,"HICKMAN, RICKY",P004159   ,Two Pointer (2/5 -  13 pt),2FGM,70.0,74.0,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,1,05:41,35,477,"SERAPHIN, KEVIN",P001948   ,Foul (3),CM,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,2,05:41,35,478,"HICKMAN, RICKY",P004159   ,Foul Drawn (4),RV,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,2,05:41,35,479,"HICKMAN, RICKY",P004159   ,Free Throw In (4/4 -  14 pt),FTM,71.0,74.0,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,1,05:25,35,480,"SERAPHIN, KEVIN",P001948   ,Missed Two Pointer (3/7 -  10 pt),2FGA,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,44,05:22,35,481,"TAYLOR, BRYCE",P001988   ,Def Rebound (1),D,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,21,05:09,35,482,"RUBIT, AUGUSTINE",P006477   ,Two Pointer (3/6 -  10 pt),2FGM,73.0,74.0,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,2,05:06,35,483,"HICKMAN, RICKY",P004159   ,Assist (4),AS,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,13,04:54,36,485,"HEURTEL, THOMAS",PKLT      ,Turnover (3),TO,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,2,04:53,36,486,"HICKMAN, RICKY",P004159   ,Steal (1),ST,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,2,04:49,36,487,"HICKMAN, RICKY",P004159   ,Missed Two Pointer (2/6 -  14 pt),2FGA,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,2,04:49,36,488,"HICKMAN, RICKY",P004159   ,Shot Rejected (1),AG,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,9,04:47,36,489,"HANGA, ADAM",P005099   ,Block (1),FV,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,3,04:45,36,490,"WRIGHT, DORELL",P008049   ,Off Rebound (1),O,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,2,04:38,36,491,"HICKMAN, RICKY",P004159   ,Missed Three Pointer (2/7 -  14 pt),3FGA,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,3,04:36,36,492,"WRIGHT, DORELL",P008049   ,Off Rebound (2),O,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,11,04:30,36,493,"NAVARRO, JUAN CARLOS",PADI      ,Out,OUT,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,21,04:30,36,494,"SANDERS, RAKIM",P005001   ,In,IN,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,2,04:22,36,495,"HICKMAN, RICKY",P004159   ,Missed Three Pointer (2/8 -  14 pt),3FGA,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,44,04:21,36,496,"TAYLOR, BRYCE",P001988   ,Off Rebound (1),O,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,3,04:09,36,497,"WRIGHT, DORELL",P008049   ,Two Pointer (2/5 -  16 pt),2FGM,75.0,74.0,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,30,03:43,37,499,"CLAVER, VICTOR",P000556   ,Missed Three Pointer (1/3 -  3 pt),3FGA,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,,03:43,37,500,,          ,Def Rebound (1),D,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,30,03:43,37,501,"CLAVER, VICTOR",P000556   ,Out,OUT,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,45,03:43,37,502,"MOERMAN, ADRIEN",P001833   ,In,IN,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,6,03:30,37,503,"ZISIS, NIKOS",PABN      ,Two Pointer (2/4 -  5 pt),2FGM,77.0,74.0,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,,03:30,37,504,,          ,Time Out (1),TOUT,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,2,03:14,37,505,"HICKMAN, RICKY",P004159   ,Foul (1),CM,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,21,03:14,37,506,"SANDERS, RAKIM",P005001   ,Foul Drawn (5),RV,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,44,03:09,37,507,"TAYLOR, BRYCE",P001988   ,Foul (4),CM,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,13,03:09,37,508,"HEURTEL, THOMAS",PKLT      ,Foul Drawn (3),RV,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,21,03:02,37,509,"RUBIT, AUGUSTINE",P006477   ,Foul (4),CM,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,1,03:02,37,510,"SERAPHIN, KEVIN",P001948   ,Foul Drawn (4),RV,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,1,03:02,37,511,"SERAPHIN, KEVIN",P001948   ,Free Throw In (5/5 -  11 pt),FTM,77.0,75.0,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,9,03:02,37,512,"HANGA, ADAM",P005099   ,Assist (2),AS,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,1,03:02,37,513,"SERAPHIN, KEVIN",P001948   ,Missed Free Throw (5/6 -  11 pt),FTA,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,21,02:58,38,515,"RUBIT, AUGUSTINE",P006477   ,Def Rebound (6),D,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,6,02:46,38,516,"ZISIS, NIKOS",PABN      ,Missed Two Pointer (2/5 -  5 pt),2FGA,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,45,02:44,38,517,"MOERMAN, ADRIEN",P001833   ,Def Rebound (4),D,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,13,02:32,38,518,"HEURTEL, THOMAS",PKLT      ,Two Pointer (3/4 -  9 pt),2FGM,77.0,77.0,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,44,02:15,38,519,"TAYLOR, BRYCE",P001988   ,Three Pointer (3/4 -  13 pt),3FGM,80.0,77.0,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,6,02:13,38,520,"ZISIS, NIKOS",PABN      ,Assist (4),AS,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,45,01:52,39,522,"MOERMAN, ADRIEN",P001833   ,Missed Two Pointer (1/2 -  14 pt),2FGA,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,,01:52,39,523,,          ,Off Rebound (2),O,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,2,01:48,39,524,"HICKMAN, RICKY",P004159   ,Foul (2),CM,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,21,01:48,39,525,"SANDERS, RAKIM",P005001   ,Foul Drawn (6),RV,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,5,01:48,39,526,"RIBAS, PAU",PJUG      ,In,IN,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,13,01:48,39,527,"HEURTEL, THOMAS",PKLT      ,Out,OUT,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,21,01:48,39,528,"SANDERS, RAKIM",P005001   ,Free Throw In (6/6 -  16 pt),FTM,80.0,78.0,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,21,01:48,39,529,"SANDERS, RAKIM",P005001   ,Free Throw In (7/7 -  17 pt),FTM,80.0,79.0,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,6,01:30,39,530,"ZISIS, NIKOS",PABN      ,Two Pointer (3/6 -  7 pt),2FGM,82.0,79.0,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,5,01:30,39,531,"RIBAS, PAU",PJUG      ,Out,OUT,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,13,01:30,39,532,"HEURTEL, THOMAS",PKLT      ,In,IN,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,6,01:11,39,533,"ZISIS, NIKOS",PABN      ,Foul (3),CM,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,1,01:11,39,534,"SERAPHIN, KEVIN",P001948   ,Foul Drawn (5),RV,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,1,01:11,39,535,"SERAPHIN, KEVIN",P001948   ,Free Throw In (6/7 -  12 pt),FTM,82.0,80.0,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,9,01:11,39,536,"HANGA, ADAM",P005099   ,Assist (3),AS,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,1,01:11,39,537,"SERAPHIN, KEVIN",P001948   ,Free Throw In (7/8 -  13 pt),FTM,82.0,81.0,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,1,01:11,39,538,"SERAPHIN, KEVIN",P001948   ,Out,OUT,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,30,01:11,39,539,"CLAVER, VICTOR",P000556   ,In,IN,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,6,00:52,40,541,"ZISIS, NIKOS",PABN      ,Two Pointer (4/7 -  9 pt),2FGM,84.0,81.0,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,1,00:52,40,542,"SERAPHIN, KEVIN",P001948   ,In,IN,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,30,00:52,40,543,"CLAVER, VICTOR",P000556   ,Out,OUT,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,13,00:35,40,544,"HEURTEL, THOMAS",PKLT      ,Missed Two Pointer (3/5 -  9 pt),2FGA,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,1,00:33,40,545,"SERAPHIN, KEVIN",P001948   ,Off Rebound (1),O,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,1,00:32,40,546,"SERAPHIN, KEVIN",P001948   ,Missed Two Pointer (3/8 -  13 pt),2FGA,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,44,00:30,40,547,"TAYLOR, BRYCE",P001988   ,Def Rebound (2),D,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,44,00:10,40,548,"TAYLOR, BRYCE",P001988   ,Missed Three Pointer (3/5 -  13 pt),3FGA,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,21,00:10,40,549,"RUBIT, AUGUSTINE",P006477   ,Off Rebound (2),O,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,,00:10,40,550,,          ,Turnover (3),TO,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,,00:10,40,551,,          ,Time Out (2),TOUT,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,44,00:09,40,552,"TAYLOR, BRYCE",P001988   ,Foul (5),CM,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,45,00:09,40,553,"MOERMAN, ADRIEN",P001833   ,Foul Drawn (2),RV,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,43,00:09,40,554,"RADOSEVIC, LEON",PLEM      ,In,IN,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,44,00:09,40,555,"TAYLOR, BRYCE",P001988   ,Out,OUT,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,12,00:09,40,556,"LO, MAODO",P007032   ,In,IN,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,21,00:09,40,557,"RUBIT, AUGUSTINE",P006477   ,Out,OUT,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,45,00:09,40,558,"MOERMAN, ADRIEN",P001833   ,Missed Free Throw (0/1 -  14 pt),FTA,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,45,00:09,40,559,"MOERMAN, ADRIEN",P001833   ,Missed Free Throw (0/2 -  14 pt),FTA,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,21,00:05,40,560,"SANDERS, RAKIM",P005001   ,Off Rebound (1),O,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,21,00:05,40,561,"SANDERS, RAKIM",P005001   ,Missed Two Pointer (5/9 -  17 pt),2FGA,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,2,00:05,40,562,"HICKMAN, RICKY",P004159   ,Def Rebound (2),D,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,9,00:05,40,563,"HANGA, ADAM",P005099   ,Foul (4),CM,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,2,00:05,40,564,"HICKMAN, RICKY",P004159   ,Foul Drawn (5),RV,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,21,00:05,40,565,"RUBIT, AUGUSTINE",P006477   ,In,IN,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,43,00:05,40,566,"RADOSEVIC, LEON",PLEM      ,Out,OUT,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,,00:05,40,567,,          ,Time Out (2),TOUT,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,1,00:05,40,568,"SERAPHIN, KEVIN",P001948   ,Out,OUT,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,30,00:05,40,569,"CLAVER, VICTOR",P000556   ,In,IN,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,9,00:05,40,570,"HANGA, ADAM",P005099   ,Foul (5),CM,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,2,00:05,40,571,"HICKMAN, RICKY",P004159   ,Foul Drawn (6),RV,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,5,00:05,40,572,"RIBAS, PAU",PJUG      ,In,IN,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAR       ,,9,00:05,40,573,"HANGA, ADAM",P005099   ,Out,OUT,,,FC Barcelona Lassa,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,2,00:05,40,574,"HICKMAN, RICKY",P004159   ,Missed Two Pointer (2/7 -  14 pt),2FGA,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+BAM       ,,21,00:05,40,575,"RUBIT, AUGUSTINE",P006477   ,Off Rebound (3),O,,,Brose Bamberg,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR
+          ,,,,41,578,,          ,End Game,EG,,,,0,Brose Bamberg,BAM,FC Barcelona Lassa,BAR

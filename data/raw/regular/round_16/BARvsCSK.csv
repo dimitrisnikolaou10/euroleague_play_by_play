@@ -1,0 +1,557 @@
+CODETEAM,COMMENT,DORSAL,MARKERTIME,MINUTE,NUMBEROFPLAY,PLAYER,PLAYER_ID,PLAYINFO,PLAYTYPE,POINTS_A,POINTS_B,TEAM,TYPE,home_team,home_team_code,away_team,away_team_code
+          ,,,,1,33,,          ,Begin Period,BP,,,,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,9,09:47,1,34,"HANGA, ADAM",P005099   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,22,09:44,1,35,"HIGGINS, CORY",P006450   ,Def Rebound (1),D,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,13,09:33,1,36,"RODRIGUEZ, SERGIO",PCVM      ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,42,09:31,1,37,"HINES, KYLE",P002812   ,Off Rebound (1),O,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,13,09:20,1,38,"RODRIGUEZ, SERGIO",PCVM      ,Two Pointer (1/1 -  2 pt),2FGM,,2.0,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,22,09:17,1,39,"HIGGINS, CORY",P006450   ,Assist (1),AS,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,41,09:07,1,40,"KURBANOV, NIKITA",PJLX      ,Foul (1),CM,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,44,09:07,1,41,"TOMIC, ANTE",P002507   ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,42,08:53,2,43,"HINES, KYLE",P002812   ,Foul (1),CM,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,11,08:53,2,44,"NAVARRO, JUAN CARLOS",PADI      ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,11,08:53,2,45,"NAVARRO, JUAN CARLOS",PADI      ,Free Throw In (1/1 -  1 pt),FTM,1.0,2.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,11,08:53,2,46,"NAVARRO, JUAN CARLOS",PADI      ,Free Throw In (2/2 -  2 pt),FTM,2.0,2.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,11,08:53,2,47,"NAVARRO, JUAN CARLOS",PADI      ,Free Throw In (3/3 -  3 pt),FTM,3.0,2.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,41,08:53,2,48,"KURBANOV, NIKITA",PJLX      ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,45,08:53,2,49,"MOERMAN, ADRIEN",P001833   ,Def Rebound (1),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,5,08:53,2,50,"RIBAS, PAU",PJUG      ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,13,08:53,2,51,"RODRIGUEZ, SERGIO",PCVM      ,Def Rebound (1),D,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,42,08:53,2,52,"HINES, KYLE",P002812   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,,08:53,2,162,,          ,Off Rebound (1),O,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,13,08:08,2,54,"RODRIGUEZ, SERGIO",PCVM      ,Turnover (1),TO,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,9,08:08,2,55,"HANGA, ADAM",P005099   ,Steal (1),ST,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,45,08:08,2,56,"MOERMAN, ADRIEN",P001833   ,Two Pointer (1/1 -  2 pt),2FGM,5.0,2.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,9,08:08,2,57,"HANGA, ADAM",P005099   ,Assist (1),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,42,07:51,3,59,"HINES, KYLE",P002812   ,Two Pointer (1/2 -  2 pt),2FGM,5.0,4.0,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,13,07:49,3,60,"RODRIGUEZ, SERGIO",PCVM      ,Assist (1),AS,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,11,07:42,3,61,"NAVARRO, JUAN CARLOS",PADI      ,Missed Two Pointer (0/1 -  3 pt),2FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,9,07:39,3,62,"HANGA, ADAM",P005099   ,Off Rebound (1),O,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,5,07:38,3,63,"RIBAS, PAU",PJUG      ,Three Pointer (1/1 -  3 pt),3FGM,8.0,4.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,9,07:38,3,64,"HANGA, ADAM",P005099   ,Assist (2),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,,07:38,3,65,,          ,Time Out (1),TOUT,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,44,07:37,3,66,"TOMIC, ANTE",P002507   ,Foul (1),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,42,07:37,3,67,"HINES, KYLE",P002812   ,Foul Drawn (1),RV,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,22,07:27,3,68,"HIGGINS, CORY",P006450   ,Offensive Foul (1),OF,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,22,07:27,3,69,"HIGGINS, CORY",P006450   ,Turnover (1),TO,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,44,07:27,3,70,"TOMIC, ANTE",P002507   ,Foul Drawn (2),RV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,44,07:07,3,71,"TOMIC, ANTE",P002507   ,Two Pointer (1/1 -  2 pt),2FGM,10.0,4.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,9,07:05,3,72,"HANGA, ADAM",P005099   ,Assist (3),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,41,06:49,4,74,"KURBANOV, NIKITA",PJLX      ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,11,06:46,4,75,"ANTONOV, SEMEN",P004941   ,Off Rebound (1),O,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,11,06:44,4,76,"ANTONOV, SEMEN",P004941   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,44,06:41,4,77,"TOMIC, ANTE",P002507   ,Def Rebound (1),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,9,06:30,4,78,"HANGA, ADAM",P005099   ,Two Pointer (1/2 -  2 pt),2FGM,12.0,4.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,44,06:28,4,79,"TOMIC, ANTE",P002507   ,Assist (1),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,9,06:16,4,80,"HANGA, ADAM",P005099   ,Foul (1),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,41,06:16,4,81,"KURBANOV, NIKITA",PJLX      ,Foul Drawn (1),RV,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,1,06:16,4,82,"DE COLO, NANDO",P002100   ,In,IN,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,11,06:16,4,83,"ANTONOV, SEMEN",P004941   ,Out,OUT,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,13,06:16,4,84,"RODRIGUEZ, SERGIO",PCVM      ,Out,OUT,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,20,06:16,4,85,"VORONTSEVICH, ANDREY",PLHI      ,In,IN,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,41,06:16,4,86,"KURBANOV, NIKITA",PJLX      ,Missed Free Throw (0/1 -  0 pt),FTA,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,41,06:16,4,87,"KURBANOV, NIKITA",PJLX      ,Free Throw In (1/2 -  1 pt),FTM,12.0,5.0,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,5,06:10,4,88,"RIBAS, PAU",PJUG      ,Turnover (1),TO,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,1,06:07,4,89,"DE COLO, NANDO",P002100   ,Steal (1),ST,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,41,06:01,4,90,"KURBANOV, NIKITA",PJLX      ,Offensive Foul (2),OF,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,41,06:01,4,91,"KURBANOV, NIKITA",PJLX      ,Turnover (1),TO,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,11,06:01,4,92,"NAVARRO, JUAN CARLOS",PADI      ,Foul Drawn (2),RV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,21,06:01,4,93,"CLYBURN, WILL",P004888   ,In,IN,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,41,06:01,4,94,"KURBANOV, NIKITA",PJLX      ,Out,OUT,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,45,05:45,5,96,"MOERMAN, ADRIEN",P001833   ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,42,05:41,5,97,"HINES, KYLE",P002812   ,Def Rebound (1),D,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,1,05:35,5,98,"DE COLO, NANDO",P002100   ,Two Pointer (1/1 -  2 pt),2FGM,12.0,7.0,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,44,05:15,5,99,"TOMIC, ANTE",P002507   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,20,05:13,5,100,"VORONTSEVICH, ANDREY",PLHI      ,Def Rebound (1),D,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,20,05:05,5,101,"VORONTSEVICH, ANDREY",PLHI      ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,11,05:03,5,102,"NAVARRO, JUAN CARLOS",PADI      ,Def Rebound (1),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,9,04:58,6,104,"HANGA, ADAM",P005099   ,Two Pointer (2/3 -  4 pt),2FGM,14.0,7.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,5,04:56,6,105,"RIBAS, PAU",PJUG      ,Assist (1),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,22,04:45,6,106,"HIGGINS, CORY",P006450   ,Two Pointer (1/1 -  2 pt),2FGM,14.0,9.0,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,44,04:29,6,107,"TOMIC, ANTE",P002507   ,Two Pointer (2/3 -  4 pt),2FGM,16.0,9.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,9,04:22,6,108,"HANGA, ADAM",P005099   ,Assist (4),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,1,04:12,6,109,"DE COLO, NANDO",P002100   ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,5,04:10,6,110,"RIBAS, PAU",PJUG      ,Def Rebound (1),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,5,03:56,7,112,"RIBAS, PAU",PJUG      ,Three Pointer (2/2 -  6 pt),3FGM,19.0,9.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,11,03:54,7,113,"NAVARRO, JUAN CARLOS",PADI      ,Assist (1),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,5,03:36,7,114,"RIBAS, PAU",PJUG      ,Foul (1),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,1,03:36,7,115,"DE COLO, NANDO",P002100   ,Foul Drawn (1),RV,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,5,03:36,7,116,"RIBAS, PAU",PJUG      ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,11,03:36,7,117,"NAVARRO, JUAN CARLOS",PADI      ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,13,03:36,7,118,"HEURTEL, THOMAS",PKLT      ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,18,03:36,7,119,"ORIOLA, PIERRE",P005917   ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,25,03:36,7,120,"KOPONEN, PETTERI",P004178   ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,44,03:36,7,121,"TOMIC, ANTE",P002507   ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,42,03:36,7,122,"HINES, KYLE",P002812   ,Out,OUT,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,44,03:36,7,123,"HUNTER, OTHELLO",P005160   ,In,IN,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,1,03:26,7,124,"DE COLO, NANDO",P002100   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,9,03:23,7,125,"HANGA, ADAM",P005099   ,Def Rebound (1),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,25,03:18,7,126,"KOPONEN, PETTERI",P004178   ,Two Pointer (1/1 -  2 pt),2FGM,21.0,9.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,13,03:16,7,127,"HEURTEL, THOMAS",PKLT      ,Assist (1),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,20,03:03,7,128,"VORONTSEVICH, ANDREY",PLHI      ,Two Pointer (1/1 -  2 pt),2FGM,21.0,11.0,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,45,02:47,8,130,"MOERMAN, ADRIEN",P001833   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,20,02:45,8,131,"VORONTSEVICH, ANDREY",PLHI      ,Def Rebound (2),D,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,18,02:41,8,132,"ORIOLA, PIERRE",P005917   ,Foul (1),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,44,02:41,8,133,"HUNTER, OTHELLO",P005160   ,Foul Drawn (1),RV,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,30,02:41,8,134,"CLAVER, VICTOR",P000556   ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,45,02:41,8,135,"MOERMAN, ADRIEN",P001833   ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,18,02:30,8,136,"ORIOLA, PIERRE",P005917   ,Foul (2),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,21,02:30,8,137,"CLYBURN, WILL",P004888   ,Foul Drawn (1),RV,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,21,02:30,8,138,"CLYBURN, WILL",P004888   ,Free Throw In (1/1 -  1 pt),FTM,21.0,12.0,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,21,02:30,8,139,"CLYBURN, WILL",P004888   ,Free Throw In (2/2 -  2 pt),FTM,21.0,13.0,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,25,02:12,8,140,"KOPONEN, PETTERI",P004178   ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,21,02:10,8,141,"CLYBURN, WILL",P004888   ,Def Rebound (1),D,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,25,01:54,9,143,"KOPONEN, PETTERI",P004178   ,Foul (1),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,1,01:54,9,144,"DE COLO, NANDO",P002100   ,Foul Drawn (2),RV,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,9,01:54,9,145,"HANGA, ADAM",P005099   ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,14,01:54,9,146,"VEZENKOV, SASHA",P003469   ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,1,01:54,9,147,"DE COLO, NANDO",P002100   ,Free Throw In (1/1 -  3 pt),FTM,21.0,14.0,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,1,01:54,9,148,"DE COLO, NANDO",P002100   ,Free Throw In (2/2 -  4 pt),FTM,21.0,15.0,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,14,01:29,9,149,"VEZENKOV, SASHA",P003469   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,22,01:25,9,150,"HIGGINS, CORY",P006450   ,Def Rebound (2),D,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,21,01:09,9,151,"CLYBURN, WILL",P004888   ,Missed Two Pointer (0/1 -  2 pt),2FGA,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,13,01:07,9,152,"HEURTEL, THOMAS",PKLT      ,Def Rebound (1),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,13,00:49,10,154,"HEURTEL, THOMAS",PKLT      ,Two Pointer (1/1 -  2 pt),2FGM,23.0,15.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,1,00:28,10,155,"DE COLO, NANDO",P002100   ,Missed Two Pointer (1/3 -  4 pt),2FGA,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,20,00:24,10,156,"VORONTSEVICH, ANDREY",PLHI      ,Off Rebound (1),O,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,20,00:23,10,157,"VORONTSEVICH, ANDREY",PLHI      ,Two Pointer (2/2 -  4 pt),2FGM,23.0,17.0,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,18,00:03,10,158,"ORIOLA, PIERRE",P005917   ,Two Pointer (1/1 -  2 pt),2FGM,25.0,17.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,13,00:01,10,159,"HEURTEL, THOMAS",PKLT      ,Assist (2),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+          ,,,,11,161,,          ,End Period,EP,,,,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+          ,,,,11,165,,          ,Begin Period,BP,,,,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,22,10:00,11,163,"HIGGINS, CORY",P006450   ,Out,OUT,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,41,10:00,11,164,"KURBANOV, NIKITA",PJLX      ,In,IN,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,25,09:50,11,166,"KOPONEN, PETTERI",P004178   ,Foul (2),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,21,09:50,11,167,"CLYBURN, WILL",P004888   ,Foul Drawn (2),RV,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,44,09:38,11,168,"HUNTER, OTHELLO",P005160   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,18,09:36,11,169,"ORIOLA, PIERRE",P005917   ,Def Rebound (1),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,13,09:24,11,170,"HEURTEL, THOMAS",PKLT      ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,44,09:19,11,171,"HUNTER, OTHELLO",P005160   ,Def Rebound (1),D,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,21,09:10,11,172,"CLYBURN, WILL",P004888   ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,,09:10,11,173,,          ,Def Rebound (1),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,13,08:48,12,175,"HEURTEL, THOMAS",PKLT      ,Missed Three Pointer (0/2 -  2 pt),3FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,21,08:45,12,176,"CLYBURN, WILL",P004888   ,Def Rebound (2),D,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,13,08:34,12,177,"HEURTEL, THOMAS",PKLT      ,Foul (1),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,21,08:34,12,178,"CLYBURN, WILL",P004888   ,Foul Drawn (3),RV,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,44,08:20,12,179,"HUNTER, OTHELLO",P005160   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,,08:20,12,180,,          ,Def Rebound (2),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,18,07:56,13,182,"ORIOLA, PIERRE",P005917   ,Three Pointer (1/1 -  5 pt),3FGM,28.0,17.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,13,07:54,13,183,"HEURTEL, THOMAS",PKLT      ,Assist (3),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,14,07:44,13,184,"VEZENKOV, SASHA",P003469   ,Foul (1),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,21,07:44,13,185,"CLYBURN, WILL",P004888   ,Foul Drawn (4),RV,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,13,07:44,13,186,"RODRIGUEZ, SERGIO",PCVM      ,In,IN,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,21,07:44,13,187,"CLYBURN, WILL",P004888   ,Out,OUT,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,13,07:44,13,188,"RODRIGUEZ, SERGIO",PCVM      ,Missed Free Throw (0/1 -  2 pt),FTA,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,13,07:44,13,189,"RODRIGUEZ, SERGIO",PCVM      ,Free Throw In (1/2 -  3 pt),FTM,28.0,18.0,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,14,07:33,13,190,"VEZENKOV, SASHA",P003469   ,Two Pointer (1/2 -  2 pt),2FGM,30.0,18.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,13,07:33,13,191,"HEURTEL, THOMAS",PKLT      ,Assist (4),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,13,07:33,13,192,"RODRIGUEZ, SERGIO",PCVM      ,Foul (1),CM,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,14,07:33,13,193,"VEZENKOV, SASHA",P003469   ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,14,07:33,13,194,"VEZENKOV, SASHA",P003469   ,Free Throw In (1/1 -  3 pt),FTM,31.0,18.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,41,07:19,13,195,"KURBANOV, NIKITA",PJLX      ,Missed Three Pointer (0/1 -  1 pt),3FGA,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,14,07:16,13,196,"VEZENKOV, SASHA",P003469   ,Def Rebound (1),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,14,07:08,13,197,"VEZENKOV, SASHA",P003469   ,Two Pointer (2/3 -  5 pt),2FGM,33.0,18.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,18,07:08,13,198,"ORIOLA, PIERRE",P005917   ,Assist (1),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,,07:08,13,199,,          ,Time Out (1),TOUT,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,20,06:53,14,201,"VORONTSEVICH, ANDREY",PLHI      ,Missed Two Pointer (2/3 -  4 pt),2FGA,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,1,06:50,14,202,"DE COLO, NANDO",P002100   ,Off Rebound (1),O,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,14,06:50,14,203,"VEZENKOV, SASHA",P003469   ,Foul (2),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,1,06:50,14,204,"DE COLO, NANDO",P002100   ,Foul Drawn (3),RV,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,7,06:50,14,205,"FRIDZON, VITALY",PLLH      ,In,IN,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,20,06:50,14,206,"VORONTSEVICH, ANDREY",PLHI      ,Out,OUT,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,21,06:50,14,207,"CLYBURN, WILL",P004888   ,In,IN,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,41,06:50,14,208,"KURBANOV, NIKITA",PJLX      ,Out,OUT,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,1,06:44,14,209,"DE COLO, NANDO",P002100   ,Three Pointer (1/2 -  7 pt),3FGM,33.0,21.0,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,13,06:42,14,210,"RODRIGUEZ, SERGIO",PCVM      ,Assist (2),AS,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,13,06:22,14,211,"HEURTEL, THOMAS",PKLT      ,Two Pointer (2/2 -  4 pt),2FGM,35.0,21.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,21,06:08,14,212,"CLYBURN, WILL",P004888   ,Missed Two Pointer (0/2 -  2 pt),2FGA,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,21,06:06,14,213,"CLYBURN, WILL",P004888   ,Off Rebound (1),O,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,13,06:01,14,214,"RODRIGUEZ, SERGIO",PCVM      ,Three Pointer (1/2 -  6 pt),3FGM,35.0,24.0,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,7,05:59,15,216,"FRIDZON, VITALY",PLLH      ,Assist (1),AS,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,30,05:46,15,217,"CLAVER, VICTOR",P000556   ,Two Pointer (1/1 -  2 pt),2FGM,37.0,24.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,44,05:46,15,218,"HUNTER, OTHELLO",P005160   ,Foul (1),CM,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,30,05:46,15,318,"CLAVER, VICTOR",P000556   ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,14,05:46,15,219,"VEZENKOV, SASHA",P003469   ,Assist (1),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,30,05:46,15,220,"CLAVER, VICTOR",P000556   ,Missed Free Throw (0/1 -  2 pt),FTA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,7,05:39,15,221,"FRIDZON, VITALY",PLLH      ,Def Rebound (1),D,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,13,05:39,15,222,"RODRIGUEZ, SERGIO",PCVM      ,Turnover (2),TO,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,30,05:39,15,223,"CLAVER, VICTOR",P000556   ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,45,05:39,15,224,"MOERMAN, ADRIEN",P001833   ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,25,05:17,15,225,"KOPONEN, PETTERI",P004178   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,,05:17,15,226,,          ,Def Rebound (3),D,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,18,05:17,15,227,"ORIOLA, PIERRE",P005917   ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,44,05:17,15,228,"TOMIC, ANTE",P002507   ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,1,05:03,15,229,"DE COLO, NANDO",P002100   ,Missed Two Pointer (1/4 -  7 pt),2FGA,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,,05:03,15,230,,          ,Def Rebound (4),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,1,05:02,15,231,"DE COLO, NANDO",P002100   ,Foul (1),CM,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,25,05:02,15,232,"KOPONEN, PETTERI",P004178   ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,1,05:02,15,233,"DE COLO, NANDO",P002100   ,Out,OUT,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,22,05:02,15,234,"HIGGINS, CORY",P006450   ,In,IN,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,7,04:50,16,236,"FRIDZON, VITALY",PLLH      ,Foul (1),CM,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,14,04:50,16,237,"VEZENKOV, SASHA",P003469   ,Foul Drawn (2),RV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,25,04:46,16,238,"KOPONEN, PETTERI",P004178   ,Three Pointer (1/2 -  5 pt),3FGM,40.0,24.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,13,04:43,16,239,"HEURTEL, THOMAS",PKLT      ,Assist (5),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,45,04:26,16,240,"MOERMAN, ADRIEN",P001833   ,Foul (1),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,22,04:26,16,241,"HIGGINS, CORY",P006450   ,Foul Drawn (1),RV,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,42,04:26,16,242,"HINES, KYLE",P002812   ,In,IN,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,44,04:26,16,243,"HUNTER, OTHELLO",P005160   ,Out,OUT,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,22,04:26,16,244,"HIGGINS, CORY",P006450   ,Free Throw In (1/1 -  3 pt),FTM,40.0,25.0,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,22,04:26,16,245,"HIGGINS, CORY",P006450   ,Free Throw In (2/2 -  4 pt),FTM,40.0,26.0,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,9,04:25,16,246,"HANGA, ADAM",P005099   ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,14,04:25,16,247,"VEZENKOV, SASHA",P003469   ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,9,04:14,16,248,"HANGA, ADAM",P005099   ,Turnover (1),TO,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,22,03:53,17,250,"HIGGINS, CORY",P006450   ,Two Pointer (2/2 -  6 pt),2FGM,40.0,28.0,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,13,03:37,17,251,"HEURTEL, THOMAS",PKLT      ,Two Pointer (3/3 -  6 pt),2FGM,42.0,28.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,7,03:17,17,252,"FRIDZON, VITALY",PLLH      ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,45,03:15,17,253,"MOERMAN, ADRIEN",P001833   ,Def Rebound (2),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,13,03:10,17,254,"HEURTEL, THOMAS",PKLT      ,Two Pointer (4/4 -  8 pt),2FGM,44.0,28.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,22,02:45,18,256,"HIGGINS, CORY",P006450   ,Missed Three Pointer (0/1 -  6 pt),3FGA,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,45,02:42,18,257,"MOERMAN, ADRIEN",P001833   ,Def Rebound (3),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,25,02:35,18,258,"KOPONEN, PETTERI",P004178   ,Missed Two Pointer (1/3 -  5 pt),2FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,21,02:34,18,259,"CLYBURN, WILL",P004888   ,Def Rebound (3),D,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,7,02:13,18,260,"FRIDZON, VITALY",PLLH      ,Three Pointer (1/1 -  3 pt),3FGM,44.0,31.0,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,21,02:11,18,261,"CLYBURN, WILL",P004888   ,Assist (1),AS,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,9,01:57,19,263,"HANGA, ADAM",P005099   ,Two Pointer (3/4 -  6 pt),2FGM,46.0,31.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,42,01:43,19,264,"HINES, KYLE",P002812   ,Two Pointer (2/3 -  4 pt),2FGM,46.0,33.0,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,13,01:41,19,265,"RODRIGUEZ, SERGIO",PCVM      ,Assist (3),AS,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,13,01:27,19,266,"HEURTEL, THOMAS",PKLT      ,Offensive Foul (2),OF,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,13,01:27,19,267,"HEURTEL, THOMAS",PKLT      ,Turnover (1),TO,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,7,01:27,19,268,"FRIDZON, VITALY",PLLH      ,Foul Drawn (1),RV,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,5,01:27,19,269,"RIBAS, PAU",PJUG      ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,11,01:27,19,270,"NAVARRO, JUAN CARLOS",PADI      ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,13,01:27,19,271,"HEURTEL, THOMAS",PKLT      ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,25,01:27,19,272,"KOPONEN, PETTERI",P004178   ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,1,01:27,19,273,"DE COLO, NANDO",P002100   ,In,IN,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,22,01:27,19,274,"HIGGINS, CORY",P006450   ,Out,OUT,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,7,01:16,19,275,"FRIDZON, VITALY",PLLH      ,Three Pointer (2/2 -  6 pt),3FGM,46.0,36.0,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,13,01:16,19,276,"RODRIGUEZ, SERGIO",PCVM      ,Assist (4),AS,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,,01:16,19,277,,          ,Time Out (1),TOUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,5,01:01,19,278,"RIBAS, PAU",PJUG      ,Turnover (2),TO,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,21,00:57,20,280,"CLYBURN, WILL",P004888   ,Steal (1),ST,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,42,00:54,20,281,"HINES, KYLE",P002812   ,Two Pointer (3/4 -  6 pt),2FGM,46.0,38.0,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,21,00:54,20,282,"CLYBURN, WILL",P004888   ,Assist (2),AS,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,13,00:54,20,283,"RODRIGUEZ, SERGIO",PCVM      ,Foul (2),CM,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,11,00:54,20,284,"NAVARRO, JUAN CARLOS",PADI      ,Foul Drawn (3),RV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,11,00:54,20,285,"NAVARRO, JUAN CARLOS",PADI      ,Free Throw In (4/4 -  4 pt),FTM,47.0,38.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,11,00:54,20,286,"NAVARRO, JUAN CARLOS",PADI      ,Missed Free Throw (4/5 -  4 pt),FTA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,45,00:54,20,287,"MOERMAN, ADRIEN",P001833   ,Off Rebound (1),O,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,9,00:54,20,288,"HANGA, ADAM",P005099   ,Missed Three Pointer (0/1 -  6 pt),3FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,44,00:54,20,289,"TOMIC, ANTE",P002507   ,Off Rebound (1),O,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,11,00:37,20,290,"NAVARRO, JUAN CARLOS",PADI      ,Missed Three Pointer (0/1 -  4 pt),3FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,1,00:35,20,291,"DE COLO, NANDO",P002100   ,Def Rebound (1),D,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,7,00:28,20,292,"FRIDZON, VITALY",PLLH      ,Missed Two Pointer (0/2 -  6 pt),2FGA,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,7,00:28,20,293,"FRIDZON, VITALY",PLLH      ,Shot Rejected (1),AG,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,45,00:29,20,294,"MOERMAN, ADRIEN",P001833   ,Block (1),FV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,21,00:29,20,295,"CLYBURN, WILL",P004888   ,Off Rebound (2),O,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,21,00:29,20,296,"CLYBURN, WILL",P004888   ,Two Pointer (1/3 -  4 pt),2FGM,47.0,40.0,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,7,00:29,20,297,"FRIDZON, VITALY",PLLH      ,Technical Foul (2),CMT,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,9,00:29,20,298,"HANGA, ADAM",P005099   ,Technical Foul (2),CMT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,45,00:09,20,299,"MOERMAN, ADRIEN",P001833   ,Turnover (1),TO,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,1,00:08,20,300,"DE COLO, NANDO",P002100   ,Steal (2),ST,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,5,00:08,20,301,"RIBAS, PAU",PJUG      ,Foul (2),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,1,00:08,20,302,"DE COLO, NANDO",P002100   ,Foul Drawn (4),RV,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,13,00:08,20,303,"RODRIGUEZ, SERGIO",PCVM      ,Out,OUT,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,22,00:08,20,304,"HIGGINS, CORY",P006450   ,In,IN,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,1,00:08,20,306,"DE COLO, NANDO",P002100   ,Free Throw In (3/3 -  8 pt),FTM,47.0,41.0,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,1,00:08,20,307,"DE COLO, NANDO",P002100   ,Free Throw In (4/4 -  9 pt),FTM,47.0,42.0,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,,00:08,20,308,,          ,Time Out (2),TOUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,13,00:08,20,309,"HEURTEL, THOMAS",PKLT      ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,44,00:08,20,310,"TOMIC, ANTE",P002507   ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,7,00:08,20,311,"FRIDZON, VITALY",PLLH      ,Out,OUT,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,20,00:08,20,312,"VORONTSEVICH, ANDREY",PLHI      ,In,IN,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,13,00:08,20,313,"HEURTEL, THOMAS",PKLT      ,Missed Two Pointer (4/5 -  8 pt),2FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,45,00:08,20,314,"MOERMAN, ADRIEN",P001833   ,Off Rebound (2),O,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,45,00:08,20,315,"MOERMAN, ADRIEN",P001833   ,Missed Two Pointer (1/3 -  2 pt),2FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+          ,,,,21,317,,          ,End Period,EP,,,,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+          ,,,,21,323,,          ,Begin Period,BP,,,,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,13,10:00,21,319,"HEURTEL, THOMAS",PKLT      ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,44,10:00,21,320,"TOMIC, ANTE",P002507   ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,7,10:00,21,321,"FRIDZON, VITALY",PLLH      ,In,IN,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,20,10:00,21,322,"VORONTSEVICH, ANDREY",PLHI      ,Out,OUT,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,44,09:42,21,324,"TOMIC, ANTE",P002507   ,Two Pointer (3/4 -  6 pt),2FGM,49.0,42.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,5,09:40,21,325,"RIBAS, PAU",PJUG      ,Assist (2),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,22,09:28,21,326,"HIGGINS, CORY",P006450   ,Turnover (2),TO,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,5,09:01,21,327,"RIBAS, PAU",PJUG      ,Missed Three Pointer (2/3 -  6 pt),3FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,5,08:59,22,329,"RIBAS, PAU",PJUG      ,Off Rebound (1),O,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,45,08:56,22,330,"MOERMAN, ADRIEN",P001833   ,Missed Three Pointer (0/2 -  2 pt),3FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,5,08:52,22,331,"RIBAS, PAU",PJUG      ,Off Rebound (2),O,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,42,08:49,22,332,"HINES, KYLE",P002812   ,Foul (2),CM,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,44,08:49,22,333,"TOMIC, ANTE",P002507   ,Foul Drawn (3),RV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,44,08:49,22,334,"TOMIC, ANTE",P002507   ,Two Pointer (4/5 -  8 pt),2FGM,51.0,42.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,45,08:49,22,335,"MOERMAN, ADRIEN",P001833   ,Assist (1),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,44,08:49,22,336,"TOMIC, ANTE",P002507   ,Missed Free Throw (0/1 -  8 pt),FTA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,45,08:49,22,337,"MOERMAN, ADRIEN",P001833   ,Off Rebound (3),O,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,11,08:49,22,338,"NAVARRO, JUAN CARLOS",PADI      ,Missed Three Pointer (0/2 -  4 pt),3FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,22,08:49,22,339,"HIGGINS, CORY",P006450   ,Def Rebound (3),D,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,44,08:29,22,340,"TOMIC, ANTE",P002507   ,Foul (2),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,42,08:29,22,341,"HINES, KYLE",P002812   ,Foul Drawn (2),RV,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,1,08:24,22,342,"DE COLO, NANDO",P002100   ,Three Pointer (2/3 -  12 pt),3FGM,51.0,45.0,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,21,08:22,22,343,"CLYBURN, WILL",P004888   ,Assist (3),AS,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,44,08:12,22,344,"TOMIC, ANTE",P002507   ,Missed Two Pointer (4/6 -  8 pt),2FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,44,08:10,22,345,"TOMIC, ANTE",P002507   ,Off Rebound (2),O,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,44,08:08,22,346,"TOMIC, ANTE",P002507   ,Turnover (1),TO,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,42,08:06,22,347,"HINES, KYLE",P002812   ,Steal (1),ST,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,21,08:05,22,348,"CLYBURN, WILL",P004888   ,Turnover (1),TO,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,5,07:51,23,350,"RIBAS, PAU",PJUG      ,Missed Three Pointer (2/4 -  6 pt),3FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,44,07:49,23,351,"TOMIC, ANTE",P002507   ,Off Rebound (3),O,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,7,07:49,23,352,"FRIDZON, VITALY",PLLH      ,Foul (3),CM,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,44,07:49,23,353,"TOMIC, ANTE",P002507   ,Foul Drawn (4),RV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,42,07:49,23,354,"HINES, KYLE",P002812   ,Out,OUT,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,44,07:49,23,355,"HUNTER, OTHELLO",P005160   ,In,IN,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,45,07:49,23,356,"MOERMAN, ADRIEN",P001833   ,Two Pointer (2/4 -  4 pt),2FGM,53.0,45.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,5,07:49,23,357,"RIBAS, PAU",PJUG      ,Assist (3),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,9,07:38,23,358,"HANGA, ADAM",P005099   ,Foul (3),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,1,07:38,23,359,"DE COLO, NANDO",P002100   ,Foul Drawn (5),RV,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,21,07:26,23,360,"CLYBURN, WILL",P004888   ,Missed Two Pointer (1/4 -  4 pt),2FGA,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,5,07:23,23,361,"RIBAS, PAU",PJUG      ,Def Rebound (2),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,44,07:10,23,362,"TOMIC, ANTE",P002507   ,Foul Drawn (5),RV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,1,07:10,23,363,"DE COLO, NANDO",P002100   ,Foul (2),CM,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,11,07:10,23,364,"ANTONOV, SEMEN",P004941   ,In,IN,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,21,07:10,23,365,"CLYBURN, WILL",P004888   ,Out,OUT,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,44,07:10,23,366,"TOMIC, ANTE",P002507   ,Missed Free Throw (0/2 -  8 pt),FTA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,44,07:10,23,367,"TOMIC, ANTE",P002507   ,Missed Free Throw (0/3 -  8 pt),FTA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,9,07:10,23,368,"HANGA, ADAM",P005099   ,Off Rebound (2),O,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,44,07:10,23,369,"TOMIC, ANTE",P002507   ,Missed Two Pointer (4/7 -  8 pt),2FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,44,07:10,23,370,"HUNTER, OTHELLO",P005160   ,Def Rebound (2),D,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,5,07:10,23,371,"RIBAS, PAU",PJUG      ,Foul (3),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,22,07:10,23,372,"HIGGINS, CORY",P006450   ,Foul Drawn (2),RV,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,7,06:34,24,374,"FRIDZON, VITALY",PLLH      ,Missed Two Pointer (0/3 -  6 pt),2FGA,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,7,06:34,24,375,"FRIDZON, VITALY",PLLH      ,Shot Rejected (2),AG,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,9,06:32,24,376,"HANGA, ADAM",P005099   ,Block (1),FV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,44,06:28,24,377,"HUNTER, OTHELLO",P005160   ,Off Rebound (1),O,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,44,06:26,24,378,"HUNTER, OTHELLO",P005160   ,Two Pointer (1/3 -  2 pt),2FGM,53.0,47.0,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,11,06:14,24,379,"NAVARRO, JUAN CARLOS",PADI      ,Missed Two Pointer (0/2 -  4 pt),2FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,11,06:14,24,380,"NAVARRO, JUAN CARLOS",PADI      ,Shot Rejected (1),AG,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,44,06:12,24,381,"HUNTER, OTHELLO",P005160   ,Block (1),FV,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,44,06:10,24,382,"TOMIC, ANTE",P002507   ,Off Rebound (4),O,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,44,06:09,24,383,"TOMIC, ANTE",P002507   ,Turnover (2),TO,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,22,06:07,24,384,"HIGGINS, CORY",P006450   ,Steal (1),ST,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,22,06:07,24,385,"HIGGINS, CORY",P006450   ,Turnover (3),TO,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,9,05:52,25,387,"HANGA, ADAM",P005099   ,Missed Three Pointer (0/2 -  6 pt),3FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,22,05:48,25,388,"HIGGINS, CORY",P006450   ,Def Rebound (4),D,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,1,05:33,25,389,"DE COLO, NANDO",P002100   ,Three Pointer (3/4 -  15 pt),3FGM,53.0,50.0,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,22,05:31,25,390,"HIGGINS, CORY",P006450   ,Assist (2),AS,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,44,05:16,25,391,"HUNTER, OTHELLO",P005160   ,Foul (2),CM,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,11,05:16,25,392,"NAVARRO, JUAN CARLOS",PADI      ,Foul Drawn (4),RV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,5,05:16,25,393,"RIBAS, PAU",PJUG      ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,13,05:16,25,394,"HEURTEL, THOMAS",PKLT      ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,18,05:16,25,395,"ORIOLA, PIERRE",P005917   ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,44,05:16,25,396,"TOMIC, ANTE",P002507   ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,11,05:06,25,397,"NAVARRO, JUAN CARLOS",PADI      ,Three Pointer (1/3 -  7 pt),3FGM,56.0,50.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,45,05:04,25,398,"MOERMAN, ADRIEN",P001833   ,Assist (2),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,22,04:55,26,400,"HIGGINS, CORY",P006450   ,Two Pointer (3/3 -  8 pt),2FGM,56.0,52.0,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,11,04:49,26,401,"NAVARRO, JUAN CARLOS",PADI      ,Three Pointer (2/4 -  10 pt),3FGM,59.0,52.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,13,04:46,26,402,"HEURTEL, THOMAS",PKLT      ,Assist (6),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,11,04:24,26,403,"ANTONOV, SEMEN",P004941   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,18,04:22,26,404,"ORIOLA, PIERRE",P005917   ,Def Rebound (2),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,9,04:19,26,405,"HANGA, ADAM",P005099   ,Turnover (2),TO,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+          ,,,04:18,26,406,,          ,TV Time Out (1),TOUT_TV,,,,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,9,04:18,26,407,"HANGA, ADAM",P005099   ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,14,04:18,26,408,"VEZENKOV, SASHA",P003469   ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,1,04:18,26,409,"DE COLO, NANDO",P002100   ,Out,OUT,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,7,04:18,26,410,"FRIDZON, VITALY",PLLH      ,Out,OUT,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,13,04:18,26,411,"RODRIGUEZ, SERGIO",PCVM      ,In,IN,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,41,04:18,26,412,"KURBANOV, NIKITA",PJLX      ,In,IN,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,13,03:59,27,414,"RODRIGUEZ, SERGIO",PCVM      ,Missed Three Pointer (1/3 -  6 pt),3FGA,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,45,03:58,27,415,"MOERMAN, ADRIEN",P001833   ,Def Rebound (4),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,11,03:37,27,416,"NAVARRO, JUAN CARLOS",PADI      ,Missed Two Pointer (0/3 -  10 pt),2FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,13,03:34,27,417,"RODRIGUEZ, SERGIO",PCVM      ,Def Rebound (2),D,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,22,03:17,27,418,"HIGGINS, CORY",P006450   ,Missed Two Pointer (3/4 -  8 pt),2FGA,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,13,03:17,27,419,"HEURTEL, THOMAS",PKLT      ,Def Rebound (2),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,44,03:10,27,420,"HUNTER, OTHELLO",P005160   ,Foul (3),CM,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,13,03:10,27,421,"HEURTEL, THOMAS",PKLT      ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,30,03:10,27,422,"CLAVER, VICTOR",P000556   ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,45,03:10,27,423,"MOERMAN, ADRIEN",P001833   ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,1,03:10,27,424,"DE COLO, NANDO",P002100   ,In,IN,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,22,03:10,27,425,"HIGGINS, CORY",P006450   ,Out,OUT,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,13,03:10,27,426,"HEURTEL, THOMAS",PKLT      ,Free Throw In (1/1 -  9 pt),FTM,60.0,52.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,13,03:10,27,427,"HEURTEL, THOMAS",PKLT      ,Free Throw In (2/2 -  10 pt),FTM,61.0,52.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,11,02:48,28,429,"ANTONOV, SEMEN",P004941   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,30,02:45,28,430,"CLAVER, VICTOR",P000556   ,Def Rebound (1),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,13,02:40,28,431,"HEURTEL, THOMAS",PKLT      ,Missed Two Pointer (4/6 -  10 pt),2FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,13,02:40,28,432,"HEURTEL, THOMAS",PKLT      ,Shot Rejected (1),AG,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,13,02:40,28,433,"RODRIGUEZ, SERGIO",PCVM      ,Block (1),FV,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,,02:40,28,434,,          ,Def Rebound (5),D,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,11,02:40,28,435,"ANTONOV, SEMEN",P004941   ,Out,OUT,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,20,02:40,28,436,"VORONTSEVICH, ANDREY",PLHI      ,In,IN,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,11,02:23,28,437,"NAVARRO, JUAN CARLOS",PADI      ,Foul (1),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,1,02:23,28,438,"DE COLO, NANDO",P002100   ,Foul Drawn (6),RV,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,11,02:23,28,439,"NAVARRO, JUAN CARLOS",PADI      ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,25,02:23,28,440,"KOPONEN, PETTERI",P004178   ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,20,02:16,28,441,"VORONTSEVICH, ANDREY",PLHI      ,Missed Two Pointer (2/4 -  4 pt),2FGA,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,,02:15,28,442,,          ,Def Rebound (6),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,13,02:02,28,443,"RODRIGUEZ, SERGIO",PCVM      ,Foul (3),CM,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,30,02:02,28,444,"CLAVER, VICTOR",P000556   ,Foul Drawn (2),RV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,30,02:02,28,445,"CLAVER, VICTOR",P000556   ,Free Throw In (1/2 -  3 pt),FTM,62.0,52.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,30,02:02,28,446,"CLAVER, VICTOR",P000556   ,Missed Free Throw (1/3 -  3 pt),FTA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,44,02:02,28,447,"HUNTER, OTHELLO",P005160   ,Def Rebound (3),D,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,13,01:53,29,449,"RODRIGUEZ, SERGIO",PCVM      ,Turnover (3),TO,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,18,01:26,29,450,"ORIOLA, PIERRE",P005917   ,Turnover (1),TO,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,42,01:26,29,451,"HINES, KYLE",P002812   ,In,IN,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,44,01:26,29,452,"HUNTER, OTHELLO",P005160   ,Out,OUT,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,1,01:13,29,453,"DE COLO, NANDO",P002100   ,Missed Three Pointer (3/5 -  15 pt),3FGA,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,30,01:11,29,454,"CLAVER, VICTOR",P000556   ,Def Rebound (2),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,25,01:07,29,455,"KOPONEN, PETTERI",P004178   ,Two Pointer (2/4 -  7 pt),2FGM,64.0,52.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,,01:07,29,468,,          ,Time Out (1),TOUT,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,41,01:07,29,457,"KURBANOV, NIKITA",PJLX      ,Missed Two Pointer (0/3 -  1 pt),2FGA,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,41,01:07,29,458,"KURBANOV, NIKITA",PJLX      ,Shot Rejected (1),AG,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,41,01:07,29,459,"KURBANOV, NIKITA",PJLX      ,Off Rebound (1),O,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,30,01:07,29,460,"CLAVER, VICTOR",P000556   ,Block (1),FV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,13,00:43,30,462,"RODRIGUEZ, SERGIO",PCVM      ,Missed Three Pointer (1/4 -  6 pt),3FGA,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,25,00:40,30,463,"KOPONEN, PETTERI",P004178   ,Def Rebound (1),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,13,00:29,30,464,"HEURTEL, THOMAS",PKLT      ,Turnover (2),TO,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,42,00:27,30,465,"HINES, KYLE",P002812   ,Steal (2),ST,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,13,00:22,30,466,"RODRIGUEZ, SERGIO",PCVM      ,Three Pointer (2/5 -  9 pt),3FGM,64.0,55.0,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,13,00:03,30,467,"HEURTEL, THOMAS",PKLT      ,Two Pointer (5/7 -  12 pt),2FGM,66.0,55.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+          ,,,,31,470,,          ,End Period,EP,,,,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+          ,,,,31,471,,          ,Begin Period,BP,,,,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,13,09:42,31,472,"RODRIGUEZ, SERGIO",PCVM      ,Turnover (4),TO,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,18,09:42,31,473,"ORIOLA, PIERRE",P005917   ,Two Pointer (2/2 -  7 pt),2FGM,68.0,55.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,25,09:42,31,474,"KOPONEN, PETTERI",P004178   ,Assist (1),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,20,09:42,31,475,"VORONTSEVICH, ANDREY",PLHI      ,Missed Three Pointer (0/2 -  4 pt),3FGA,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,13,09:42,31,476,"HEURTEL, THOMAS",PKLT      ,Def Rebound (3),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,18,09:42,31,477,"ORIOLA, PIERRE",P005917   ,Missed Three Pointer (1/2 -  7 pt),3FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,25,09:42,31,478,"KOPONEN, PETTERI",P004178   ,Off Rebound (1),O,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,18,09:42,31,479,"ORIOLA, PIERRE",P005917   ,Two Pointer (3/3 -  9 pt),2FGM,70.0,55.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,1,09:42,31,480,"DE COLO, NANDO",P002100   ,Foul (3),CM,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,18,09:42,31,481,"ORIOLA, PIERRE",P005917   ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,22,09:42,31,482,"HIGGINS, CORY",P006450   ,In,IN,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,41,09:42,31,483,"KURBANOV, NIKITA",PJLX      ,Out,OUT,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,13,09:42,31,484,"HEURTEL, THOMAS",PKLT      ,Assist (7),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,18,08:52,32,486,"ORIOLA, PIERRE",P005917   ,Missed Free Throw (0/1 -  9 pt),FTA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,42,08:52,32,487,"HINES, KYLE",P002812   ,Def Rebound (2),D,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,13,08:44,32,488,"HEURTEL, THOMAS",PKLT      ,Foul (3),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,13,08:44,32,489,"RODRIGUEZ, SERGIO",PCVM      ,Foul Drawn (1),RV,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,42,08:33,32,490,"HINES, KYLE",P002812   ,Missed Two Pointer (3/5 -  6 pt),2FGA,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,14,08:31,32,491,"VEZENKOV, SASHA",P003469   ,Def Rebound (2),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,14,08:22,32,492,"VEZENKOV, SASHA",P003469   ,Missed Two Pointer (2/4 -  5 pt),2FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,1,08:21,32,493,"DE COLO, NANDO",P002100   ,Def Rebound (2),D,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,14,08:19,32,494,"VEZENKOV, SASHA",P003469   ,Foul (3),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,1,08:19,32,495,"DE COLO, NANDO",P002100   ,Foul Drawn (7),RV,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,20,08:05,32,496,"VORONTSEVICH, ANDREY",PLHI      ,Missed Three Pointer (0/3 -  4 pt),3FGA,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,14,08:04,32,497,"VEZENKOV, SASHA",P003469   ,Def Rebound (3),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,18,07:50,33,499,"ORIOLA, PIERRE",P005917   ,Two Pointer (4/4 -  11 pt),2FGM,72.0,55.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,30,07:49,33,500,"CLAVER, VICTOR",P000556   ,Assist (1),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,,07:49,33,501,,          ,Time Out (1),TOUT,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,7,07:49,33,502,"FRIDZON, VITALY",PLLH      ,In,IN,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,13,07:49,33,503,"RODRIGUEZ, SERGIO",PCVM      ,Out,OUT,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,20,07:49,33,504,"VORONTSEVICH, ANDREY",PLHI      ,Out,OUT,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,21,07:49,33,505,"CLYBURN, WILL",P004888   ,In,IN,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,1,07:37,33,506,"DE COLO, NANDO",P002100   ,Missed Two Pointer (1/5 -  15 pt),2FGA,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,18,07:34,33,507,"ORIOLA, PIERRE",P005917   ,Def Rebound (3),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,25,07:11,33,508,"KOPONEN, PETTERI",P004178   ,Three Pointer (2/3 -  10 pt),3FGM,75.0,55.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,13,07:09,33,509,"HEURTEL, THOMAS",PKLT      ,Assist (8),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,21,07:04,33,510,"CLYBURN, WILL",P004888   ,Out,OUT,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,41,07:04,33,511,"KURBANOV, NIKITA",PJLX      ,In,IN,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,42,06:52,34,513,"HINES, KYLE",P002812   ,Missed Two Pointer (3/6 -  6 pt),2FGA,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,42,06:52,34,514,"HINES, KYLE",P002812   ,Shot Rejected (1),AG,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,30,06:52,34,515,"CLAVER, VICTOR",P000556   ,Block (2),FV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,,06:52,34,516,,          ,Def Rebound (7),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,30,06:34,34,517,"CLAVER, VICTOR",P000556   ,Missed Three Pointer (0/1 -  3 pt),3FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,7,06:31,34,518,"FRIDZON, VITALY",PLLH      ,Def Rebound (2),D,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,1,06:22,34,519,"DE COLO, NANDO",P002100   ,Two Pointer (2/6 -  17 pt),2FGM,75.0,57.0,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,7,06:20,34,520,"FRIDZON, VITALY",PLLH      ,Assist (2),AS,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,22,06:06,34,521,"HIGGINS, CORY",P006450   ,Foul (2),CM,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,18,06:06,34,522,"ORIOLA, PIERRE",P005917   ,Foul Drawn (2),RV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,30,05:56,35,524,"CLAVER, VICTOR",P000556   ,Missed Two Pointer (1/2 -  3 pt),2FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,30,05:56,35,525,"CLAVER, VICTOR",P000556   ,Shot Rejected (1),AG,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,42,05:54,35,526,"HINES, KYLE",P002812   ,Block (1),FV,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,1,05:55,35,527,"DE COLO, NANDO",P002100   ,Def Rebound (3),D,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,18,05:55,35,528,"ORIOLA, PIERRE",P005917   ,Foul (3),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,1,05:55,35,529,"DE COLO, NANDO",P002100   ,Foul Drawn (8),RV,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,41,05:47,35,530,"KURBANOV, NIKITA",PJLX      ,Missed Two Pointer (0/4 -  1 pt),2FGA,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,,05:47,35,531,,          ,Def Rebound (8),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,18,05:47,35,532,"ORIOLA, PIERRE",P005917   ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,44,05:47,35,533,"TOMIC, ANTE",P002507   ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,13,05:35,35,534,"HEURTEL, THOMAS",PKLT      ,Missed Two Pointer (5/8 -  12 pt),2FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,42,05:32,35,535,"HINES, KYLE",P002812   ,Def Rebound (3),D,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,1,05:27,35,536,"DE COLO, NANDO",P002100   ,Missed Two Pointer (2/7 -  17 pt),2FGA,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,42,05:22,35,537,"HINES, KYLE",P002812   ,Off Rebound (2),O,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,42,05:22,35,538,"HINES, KYLE",P002812   ,Two Pointer (4/7 -  8 pt),2FGM,75.0,59.0,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,30,05:03,35,539,"CLAVER, VICTOR",P000556   ,Two Pointer (2/3 -  5 pt),2FGM,77.0,59.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,41,04:49,36,541,"KURBANOV, NIKITA",PJLX      ,Missed Three Pointer (0/2 -  1 pt),3FGA,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,25,04:46,36,542,"KOPONEN, PETTERI",P004178   ,Def Rebound (2),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,30,04:30,36,543,"CLAVER, VICTOR",P000556   ,Missed Two Pointer (2/4 -  5 pt),2FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,14,04:28,36,544,"VEZENKOV, SASHA",P003469   ,Off Rebound (1),O,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,25,04:26,36,545,"KOPONEN, PETTERI",P004178   ,Missed Three Pointer (2/4 -  10 pt),3FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,22,04:26,36,546,"HIGGINS, CORY",P006450   ,Foul (3),CM,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,44,04:26,36,547,"TOMIC, ANTE",P002507   ,Foul Drawn (6),RV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,30,04:26,36,548,"CLAVER, VICTOR",P000556   ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,45,04:26,36,549,"MOERMAN, ADRIEN",P001833   ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,41,04:26,36,550,"KURBANOV, NIKITA",PJLX      ,Out,OUT,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,44,04:26,36,551,"HUNTER, OTHELLO",P005160   ,In,IN,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,7,04:21,36,552,"FRIDZON, VITALY",PLLH      ,Foul (4),CM,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,45,04:21,36,553,"MOERMAN, ADRIEN",P001833   ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,13,04:17,36,554,"HEURTEL, THOMAS",PKLT      ,Missed Three Pointer (0/3 -  12 pt),3FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,42,04:14,36,555,"HINES, KYLE",P002812   ,Def Rebound (4),D,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,1,04:10,36,556,"DE COLO, NANDO",P002100   ,Two Pointer (3/8 -  19 pt),2FGM,77.0,61.0,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,,04:10,36,557,,          ,Time Out (1),TOUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,9,04:10,36,558,"HANGA, ADAM",P005099   ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,14,04:10,36,559,"VEZENKOV, SASHA",P003469   ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,22,03:52,37,561,"HIGGINS, CORY",P006450   ,Foul (4),CM,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,45,03:52,37,562,"MOERMAN, ADRIEN",P001833   ,Foul Drawn (2),RV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,45,03:52,37,563,"MOERMAN, ADRIEN",P001833   ,Missed Free Throw (0/1 -  4 pt),FTA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,45,03:52,37,564,"MOERMAN, ADRIEN",P001833   ,Free Throw In (1/2 -  5 pt),FTM,78.0,61.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,45,03:42,37,565,"MOERMAN, ADRIEN",P001833   ,Foul (2),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,22,03:42,37,566,"HIGGINS, CORY",P006450   ,Foul Drawn (3),RV,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,7,03:30,37,567,"FRIDZON, VITALY",PLLH      ,Missed Three Pointer (2/3 -  6 pt),3FGA,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,9,03:28,37,568,"HANGA, ADAM",P005099   ,Def Rebound (2),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,9,03:19,37,569,"HANGA, ADAM",P005099   ,Missed Two Pointer (3/5 -  6 pt),2FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,9,03:19,37,570,"HANGA, ADAM",P005099   ,Shot Rejected (1),AG,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,1,03:19,37,571,"DE COLO, NANDO",P002100   ,Block (1),FV,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,9,03:19,37,572,"HANGA, ADAM",P005099   ,Off Rebound (3),O,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,1,03:19,37,573,"DE COLO, NANDO",P002100   ,Foul (4),CM,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,9,03:19,37,574,"HANGA, ADAM",P005099   ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,,03:19,37,575,,          ,Time Out (2),TOUT,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,7,03:19,37,576,"FRIDZON, VITALY",PLLH      ,Out,OUT,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,41,03:19,37,577,"KURBANOV, NIKITA",PJLX      ,In,IN,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,9,03:19,37,578,"HANGA, ADAM",P005099   ,Free Throw In (1/1 -  7 pt),FTM,79.0,61.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,9,03:19,37,579,"HANGA, ADAM",P005099   ,Free Throw In (2/2 -  8 pt),FTM,80.0,61.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,25,03:09,37,580,"KOPONEN, PETTERI",P004178   ,Foul (3),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,22,03:09,37,581,"HIGGINS, CORY",P006450   ,Foul Drawn (4),RV,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,22,03:09,37,582,"HIGGINS, CORY",P006450   ,Free Throw In (3/3 -  9 pt),FTM,80.0,62.0,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,22,03:09,37,583,"HIGGINS, CORY",P006450   ,Missed Free Throw (3/4 -  9 pt),FTA,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,44,03:09,37,584,"TOMIC, ANTE",P002507   ,Def Rebound (2),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,44,02:52,38,586,"TOMIC, ANTE",P002507   ,Offensive Foul (3),OF,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,44,02:52,38,587,"TOMIC, ANTE",P002507   ,Turnover (3),TO,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,42,02:52,38,588,"HINES, KYLE",P002812   ,Foul Drawn (3),RV,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,13,02:40,38,589,"HEURTEL, THOMAS",PKLT      ,Foul (4),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,41,02:40,38,590,"KURBANOV, NIKITA",PJLX      ,Foul Drawn (2),RV,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,41,02:40,38,591,"KURBANOV, NIKITA",PJLX      ,Free Throw In (2/3 -  2 pt),FTM,80.0,63.0,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,41,02:40,38,592,"KURBANOV, NIKITA",PJLX      ,Free Throw In (3/4 -  3 pt),FTM,80.0,64.0,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,1,02:40,38,593,"DE COLO, NANDO",P002100   ,Assist (1),AS,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,25,02:21,38,594,"KOPONEN, PETTERI",P004178   ,Missed Two Pointer (2/5 -  10 pt),2FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,,02:21,38,603,,          ,Off Rebound (2),O,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,41,02:21,38,595,"KURBANOV, NIKITA",PJLX      ,Foul (3),CM,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,44,02:21,38,596,"TOMIC, ANTE",P002507   ,Foul Drawn (7),RV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,44,02:21,38,597,"TOMIC, ANTE",P002507   ,Missed Free Throw (0/4 -  8 pt),FTA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,44,02:21,38,598,"TOMIC, ANTE",P002507   ,Missed Free Throw (0/5 -  8 pt),FTA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,44,02:21,38,599,"HUNTER, OTHELLO",P005160   ,Def Rebound (4),D,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,1,02:09,38,600,"DE COLO, NANDO",P002100   ,Two Pointer (4/9 -  21 pt),2FGM,80.0,66.0,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,41,02:09,38,601,"KURBANOV, NIKITA",PJLX      ,Assist (1),AS,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,,02:09,38,602,,          ,Time Out (2),TOUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,13,01:47,39,605,"HEURTEL, THOMAS",PKLT      ,Missed Two Pointer (5/9 -  12 pt),2FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,,01:47,39,606,,          ,Def Rebound (9),D,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,44,01:33,39,607,"HUNTER, OTHELLO",P005160   ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,1,01:32,39,608,"DE COLO, NANDO",P002100   ,Off Rebound (2),O,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,1,01:32,39,609,"DE COLO, NANDO",P002100   ,Two Pointer (5/10 -  23 pt),2FGM,80.0,68.0,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,42,01:24,39,610,"HINES, KYLE",P002812   ,Foul (3),CM,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,9,01:24,39,611,"HANGA, ADAM",P005099   ,Foul Drawn (2),RV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,9,01:24,39,612,"HANGA, ADAM",P005099   ,Free Throw In (3/3 -  9 pt),FTM,81.0,68.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,9,01:24,39,613,"HANGA, ADAM",P005099   ,Free Throw In (4/4 -  10 pt),FTM,82.0,68.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,5,01:24,39,614,"RIBAS, PAU",PJUG      ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,13,01:24,39,615,"HEURTEL, THOMAS",PKLT      ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,42,01:12,39,616,"HINES, KYLE",P002812   ,Two Pointer (5/8 -  10 pt),2FGM,82.0,70.0,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,1,01:12,39,617,"DE COLO, NANDO",P002100   ,Assist (2),AS,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,25,01:12,39,618,"KOPONEN, PETTERI",P004178   ,Three Pointer (3/5 -  13 pt),3FGM,85.0,70.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,44,01:12,39,619,"TOMIC, ANTE",P002507   ,Assist (2),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,44,00:56,40,621,"HUNTER, OTHELLO",P005160   ,Two Pointer (2/4 -  4 pt),2FGM,85.0,72.0,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,1,00:56,40,622,"DE COLO, NANDO",P002100   ,Assist (3),AS,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,5,00:49,40,623,"RIBAS, PAU",PJUG      ,Missed Three Pointer (2/5 -  6 pt),3FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,1,00:49,40,624,"DE COLO, NANDO",P002100   ,Def Rebound (4),D,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,1,00:49,40,625,"DE COLO, NANDO",P002100   ,Missed Three Pointer (3/6 -  23 pt),3FGA,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,44,00:49,40,626,"TOMIC, ANTE",P002507   ,Def Rebound (3),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,,00:27,40,627,,          ,Time Out (3),TOUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+BAR       ,,45,00:20,40,628,"MOERMAN, ADRIEN",P001833   ,Turnover (2),TO,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+CSK       ,,41,00:18,40,629,"KURBANOV, NIKITA",PJLX      ,Steal (1),ST,,,CSKA Moscow,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK
+          ,,,,41,632,,          ,End Game,EG,,,,0,FC Barcelona Lassa,BAR,CSKA Moscow,CSK

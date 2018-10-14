@@ -1,0 +1,511 @@
+CODETEAM,COMMENT,DORSAL,MARKERTIME,MINUTE,NUMBEROFPLAY,PLAYER,PLAYER_ID,PLAYINFO,PLAYTYPE,POINTS_A,POINTS_B,TEAM,TYPE,home_team,home_team_code,away_team,away_team_code
+          ,,,,1,20,,          ,Begin Period,BP,,,,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,40,09:40,1,21,"AUGUSTINE, JAMES",P001438   ,Two Pointer (1/1 -  2 pt),2FGM,2.0,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,3,09:37,1,22,"MCCALLUM, RAY",P008002   ,Assist (1),AS,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,0,09:25,1,23,"GOUDELOCK, ANDREW",P004903   ,Two Pointer (1/1 -  2 pt),2FGM,2.0,2.0,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,40,09:10,1,24,"AUGUSTINE, JAMES",P001438   ,Two Pointer (2/2 -  4 pt),2FGM,4.0,2.0,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,23,09:08,1,25,"BROOKS, JEFF",P004117   ,Assist (1),AS,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,9,08:49,2,27,"KALNIETIS, MANTAS",PJBX      ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,9,08:49,2,28,"KALNIETIS, MANTAS",PJBX      ,Shot Rejected (1),AG,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,23,08:44,2,29,"BROOKS, JEFF",P004117   ,Block (1),FV,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,40,08:44,2,52,"AUGUSTINE, JAMES",P001438   ,Def Rebound (1),D,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,16,08:39,2,30,"NEDOVIC, NEMANJA",P000848   ,Three Pointer (1/1 -  3 pt),3FGM,7.0,2.0,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,3,08:37,2,31,"MCCALLUM, RAY",P008002   ,Assist (2),AS,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,9,08:19,2,32,"KALNIETIS, MANTAS",PJBX      ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,23,08:17,2,33,"BROOKS, JEFF",P004117   ,Def Rebound (1),D,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,40,08:03,2,34,"AUGUSTINE, JAMES",P001438   ,Missed Two Pointer (2/3 -  4 pt),2FGA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,12,08:03,2,35,"MILOSAVLJEVIC, DRAGAN",P002822   ,Off Rebound (1),O,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,15,07:50,3,37,"TARCZEWSKI, KALEB",P008004   ,Foul (1),CM,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,23,07:50,3,38,"BROOKS, JEFF",P004117   ,Foul Drawn (1),RV,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,23,07:50,3,39,"BROOKS, JEFF",P004117   ,Missed Free Throw (0/1 -  0 pt),FTA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,23,07:50,3,40,"BROOKS, JEFF",P004117   ,Free Throw In (1/2 -  1 pt),FTM,8.0,2.0,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,3,07:40,3,41,"MCCALLUM, RAY",P008002   ,Foul (1),CM,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,25,07:40,3,42,"THEODORE, JORDAN",P007946   ,Foul Drawn (1),RV,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,34,07:29,3,43,"JEFFERSON, CORY",P007992   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,23,07:27,3,44,"BROOKS, JEFF",P004117   ,Def Rebound (2),D,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,23,07:21,3,45,"BROOKS, JEFF",P004117   ,Two Pointer (1/1 -  3 pt),2FGM,10.0,2.0,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,0,06:58,4,47,"GOUDELOCK, ANDREW",P004903   ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,15,06:58,4,48,"TARCZEWSKI, KALEB",P008004   ,Off Rebound (1),O,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,15,06:58,4,49,"TARCZEWSKI, KALEB",P008004   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,,06:58,4,50,,          ,Def Rebound (1),D,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,,06:58,4,51,,          ,Time Out (1),TOUT,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,24,06:58,4,53,"M'BAYE, AMATH",P007993   ,In,IN,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,34,06:58,4,54,"JEFFERSON, CORY",P007992   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,16,06:43,4,55,"NEDOVIC, NEMANJA",P000848   ,Two Pointer (1/1 -  5 pt),2FGM,12.0,2.0,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,24,06:17,4,56,"M'BAYE, AMATH",P007993   ,Two Pointer (1/1 -  2 pt),2FGM,12.0,4.0,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,24,06:07,4,57,"M'BAYE, AMATH",P007993   ,Foul (1),CM,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,16,06:07,4,58,"NEDOVIC, NEMANJA",P000848   ,Foul Drawn (1),RV,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,16,06:00,4,59,"NEDOVIC, NEMANJA",P000848   ,Turnover (1),TO,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,0,05:49,5,61,"GOUDELOCK, ANDREW",P004903   ,Two Pointer (2/2 -  4 pt),2FGM,12.0,6.0,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,24,05:49,5,62,"M'BAYE, AMATH",P007993   ,Assist (1),AS,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,40,05:49,5,63,"AUGUSTINE, JAMES",P001438   ,Foul (1),CM,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,0,05:49,5,64,"GOUDELOCK, ANDREW",P004903   ,Foul Drawn (1),RV,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,0,05:49,5,65,"GOUDELOCK, ANDREW",P004903   ,Free Throw In (1/1 -  5 pt),FTM,12.0,7.0,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,40,05:30,5,66,"AUGUSTINE, JAMES",P001438   ,Missed Two Pointer (2/4 -  4 pt),2FGA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,24,05:27,5,67,"M'BAYE, AMATH",P007993   ,Def Rebound (1),D,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,15,05:18,5,68,"TARCZEWSKI, KALEB",P008004   ,Two Pointer (1/2 -  2 pt),2FGM,12.0,9.0,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,25,05:18,5,69,"THEODORE, JORDAN",P007946   ,Assist (1),AS,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,40,05:18,5,70,"AUGUSTINE, JAMES",P001438   ,Foul (2),CM,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,15,05:18,5,71,"TARCZEWSKI, KALEB",P008004   ,Foul Drawn (1),RV,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,17,05:18,5,72,"SHERMADINI, GIORGI",P001386   ,In,IN,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,40,05:18,5,73,"AUGUSTINE, JAMES",P001438   ,Out,OUT,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,15,05:18,5,74,"TARCZEWSKI, KALEB",P008004   ,Free Throw In (1/1 -  3 pt),FTM,12.0,10.0,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,17,05:00,5,75,"SHERMADINI, GIORGI",P001386   ,Two Pointer (1/1 -  2 pt),2FGM,14.0,10.0,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,3,05:00,5,76,"MCCALLUM, RAY",P008002   ,Assist (3),AS,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,15,05:00,5,77,"TARCZEWSKI, KALEB",P008004   ,Foul (2),CM,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,17,05:00,5,78,"SHERMADINI, GIORGI",P001386   ,Foul Drawn (1),RV,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,15,05:00,5,79,"TARCZEWSKI, KALEB",P008004   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,77,05:00,5,80,"GUDAITIS, ARTURAS",P003120   ,In,IN,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,17,05:00,5,81,"SHERMADINI, GIORGI",P001386   ,Missed Free Throw (0/1 -  2 pt),FTA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,9,05:00,5,82,"KALNIETIS, MANTAS",PJBX      ,Def Rebound (1),D,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,0,04:44,6,84,"GOUDELOCK, ANDREW",P004903   ,Missed Three Pointer (0/2 -  5 pt),3FGA,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,17,04:44,6,85,"SHERMADINI, GIORGI",P001386   ,Def Rebound (1),D,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,17,04:44,6,86,"SHERMADINI, GIORGI",P001386   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,23,04:44,6,87,"BROOKS, JEFF",P004117   ,Off Rebound (1),O,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,23,04:44,6,88,"BROOKS, JEFF",P004117   ,Two Pointer (2/2 -  5 pt),2FGM,16.0,10.0,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,0,04:14,6,89,"GOUDELOCK, ANDREW",P004903   ,Two Pointer (3/3 -  7 pt),2FGM,16.0,12.0,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,77,04:14,6,90,"GUDAITIS, ARTURAS",P003120   ,Assist (1),AS,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,77,04:14,6,91,"GUDAITIS, ARTURAS",P003120   ,Foul (1),CM,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,3,04:14,6,92,"MCCALLUM, RAY",P008002   ,Foul Drawn (1),RV,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,0,04:14,6,93,"GOUDELOCK, ANDREW",P004903   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,55,04:14,6,94,"JERRELLS, CURTIS",P003067   ,In,IN,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,16,03:57,7,96,"NEDOVIC, NEMANJA",P000848   ,Missed Two Pointer (1/2 -  5 pt),2FGA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,24,03:57,7,97,"M'BAYE, AMATH",P007993   ,Def Rebound (2),D,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,9,03:57,7,98,"KALNIETIS, MANTAS",PJBX      ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,3,03:57,7,99,"MCCALLUM, RAY",P008002   ,Def Rebound (1),D,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,16,03:17,7,100,"NEDOVIC, NEMANJA",P000848   ,Offensive Foul (1),OF,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,16,03:17,7,101,"NEDOVIC, NEMANJA",P000848   ,Turnover (2),TO,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,24,03:17,7,102,"M'BAYE, AMATH",P007993   ,Foul Drawn (1),RV,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,5,03:02,7,103,"MICOV, VLADIMIR",P000529   ,In,IN,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,9,03:02,7,104,"KALNIETIS, MANTAS",PJBX      ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,5,02:52,8,106,"MICOV, VLADIMIR",P000529   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,17,02:50,8,107,"SHERMADINI, GIORGI",P001386   ,Def Rebound (2),D,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,3,02:44,8,108,"MCCALLUM, RAY",P008002   ,Two Pointer (1/1 -  2 pt),2FGM,18.0,12.0,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,25,02:37,8,109,"THEODORE, JORDAN",P007946   ,Three Pointer (1/1 -  3 pt),3FGM,18.0,15.0,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,3,02:07,8,110,"MCCALLUM, RAY",P008002   ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,12,02:04,8,111,"MILOSAVLJEVIC, DRAGAN",P002822   ,Off Rebound (2),O,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,17,02:00,8,112,"SHERMADINI, GIORGI",P001386   ,Missed Two Pointer (1/3 -  2 pt),2FGA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,23,01:57,9,114,"BROOKS, JEFF",P004117   ,Off Rebound (2),O,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,16,01:55,9,115,"NEDOVIC, NEMANJA",P000848   ,Missed Three Pointer (1/2 -  5 pt),3FGA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,17,01:52,9,116,"SHERMADINI, GIORGI",P001386   ,Off Rebound (1),O,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,17,01:48,9,117,"SHERMADINI, GIORGI",P001386   ,Two Pointer (2/4 -  4 pt),2FGM,20.0,15.0,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,5,01:38,9,118,"MICOV, VLADIMIR",P000529   ,Three Pointer (1/1 -  3 pt),3FGM,20.0,18.0,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,25,01:36,9,119,"THEODORE, JORDAN",P007946   ,Assist (2),AS,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,17,01:29,9,120,"SHERMADINI, GIORGI",P001386   ,Missed Two Pointer (2/5 -  4 pt),2FGA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,55,01:29,9,121,"JERRELLS, CURTIS",P003067   ,Def Rebound (1),D,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,5,01:14,9,122,"MICOV, VLADIMIR",P000529   ,Two Pointer (1/2 -  5 pt),2FGM,20.0,20.0,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,55,01:14,9,123,"JERRELLS, CURTIS",P003067   ,Assist (1),AS,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,,01:14,9,124,,          ,Time Out (1),TOUT,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,12,01:14,9,125,"MILOSAVLJEVIC, DRAGAN",P002822   ,Out,OUT,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,21,01:14,9,126,"WACZYNSKI, ADAM",PLDX      ,In,IN,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,3,01:14,9,127,"MCCALLUM, RAY",P008002   ,Two Pointer (2/2 -  4 pt),2FGM,22.0,20.0,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,24,00:35,10,129,"M'BAYE, AMATH",P007993   ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,21,00:34,10,130,"WACZYNSKI, ADAM",PLDX      ,Def Rebound (1),D,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,55,00:34,10,131,"JERRELLS, CURTIS",P003067   ,Foul (1),CM,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,3,00:34,10,132,"MCCALLUM, RAY",P008002   ,Foul Drawn (2),RV,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,3,00:34,10,133,"MCCALLUM, RAY",P008002   ,Missed Free Throw (0/1 -  4 pt),FTA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,3,00:34,10,134,"MCCALLUM, RAY",P008002   ,Free Throw In (1/2 -  5 pt),FTM,23.0,20.0,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,25,00:22,10,135,"THEODORE, JORDAN",P007946   ,Turnover (1),TO,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,3,00:21,10,136,"MCCALLUM, RAY",P008002   ,Steal (1),ST,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,23,00:20,10,137,"BROOKS, JEFF",P004117   ,Two Pointer (3/3 -  7 pt),2FGM,25.0,20.0,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,3,00:20,10,147,"MCCALLUM, RAY",P008002   ,Assist (4),AS,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,24,00:20,10,138,"M'BAYE, AMATH",P007993   ,Foul (2),CM,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,23,00:20,10,139,"BROOKS, JEFF",P004117   ,Foul Drawn (2),RV,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,9,00:20,10,140,"DIAZ, ALBERTO",P004213   ,In,IN,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,16,00:20,10,141,"NEDOVIC, NEMANJA",P000848   ,Out,OUT,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,23,00:20,10,142,"BROOKS, JEFF",P004117   ,Free Throw In (2/3 -  8 pt),FTM,26.0,20.0,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,55,00:00,10,143,"JERRELLS, CURTIS",P003067   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,23,00:00,10,144,"BROOKS, JEFF",P004117   ,Def Rebound (3),D,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+          ,,,,11,146,,          ,End Period,EP,,,,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+          ,,,,11,152,,          ,Begin Period,BP,,,,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,3,10:00,11,148,"MCCALLUM, RAY",P008002   ,Out,OUT,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,10,10:00,11,149,"SALIN, SASU",P002820   ,In,IN,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,25,10:00,11,150,"THEODORE, JORDAN",P007946   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,45,10:00,11,151,"BERTANS, DAIRIS",P000436   ,In,IN,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,55,09:49,11,153,"JERRELLS, CURTIS",P003067   ,Turnover (1),TO,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,17,09:26,11,154,"SHERMADINI, GIORGI",P001386   ,Missed Two Pointer (2/6 -  4 pt),2FGA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,17,09:22,11,155,"SHERMADINI, GIORGI",P001386   ,Off Rebound (2),O,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,17,09:22,11,156,"SHERMADINI, GIORGI",P001386   ,Missed Two Pointer (2/7 -  4 pt),2FGA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,77,09:18,11,157,"GUDAITIS, ARTURAS",P003120   ,Def Rebound (1),D,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,21,09:12,11,158,"WACZYNSKI, ADAM",PLDX      ,Foul (1),CM,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,45,09:12,11,159,"BERTANS, DAIRIS",P000436   ,Foul Drawn (1),RV,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,45,09:12,11,160,"BERTANS, DAIRIS",P000436   ,Free Throw In (1/1 -  1 pt),FTM,26.0,21.0,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,45,09:12,11,161,"BERTANS, DAIRIS",P000436   ,Free Throw In (2/2 -  2 pt),FTM,26.0,22.0,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,55,08:57,12,163,"JERRELLS, CURTIS",P003067   ,Foul (2),CM,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,10,08:57,12,164,"SALIN, SASU",P002820   ,Foul Drawn (1),RV,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,10,08:57,12,165,"SALIN, SASU",P002820   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,5,08:57,12,166,"MICOV, VLADIMIR",P000529   ,Def Rebound (1),D,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,5,08:21,12,167,"MICOV, VLADIMIR",P000529   ,Missed Three Pointer (1/2 -  5 pt),3FGA,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,17,08:18,12,168,"SHERMADINI, GIORGI",P001386   ,Def Rebound (3),D,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,21,08:09,12,169,"WACZYNSKI, ADAM",PLDX      ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,77,08:07,12,170,"GUDAITIS, ARTURAS",P003120   ,Def Rebound (2),D,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,17,08:03,12,171,"SHERMADINI, GIORGI",P001386   ,Foul (1),CM,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,55,08:03,12,172,"JERRELLS, CURTIS",P003067   ,Foul Drawn (1),RV,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,23,08:03,12,173,"BROOKS, JEFF",P004117   ,Out,OUT,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,43,08:03,12,174,"SUAREZ, CARLOS",PJJS      ,In,IN,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,77,07:57,13,176,"GUDAITIS, ARTURAS",P003120   ,Turnover (1),TO,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,9,07:55,13,177,"DIAZ, ALBERTO",P004213   ,Steal (1),ST,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,10,07:54,13,178,"SALIN, SASU",P002820   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,43,07:54,13,179,"SUAREZ, CARLOS",PJJS      ,Off Rebound (1),O,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,10,07:18,13,180,"SALIN, SASU",P002820   ,Three Pointer (1/2 -  3 pt),3FGM,29.0,22.0,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,9,07:16,13,181,"DIAZ, ALBERTO",P004213   ,Assist (1),AS,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,17,07:02,13,182,"SHERMADINI, GIORGI",P001386   ,Foul (2),CM,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,5,07:02,13,183,"MICOV, VLADIMIR",P000529   ,Foul Drawn (1),RV,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,2,07:02,13,184,"OKOUO, VINY",P005363   ,In,IN,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,17,07:02,13,185,"SHERMADINI, GIORGI",P001386   ,Out,OUT,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,0,07:02,13,186,"GOUDELOCK, ANDREW",P004903   ,In,IN,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,20,07:02,13,187,"CINCIARINI, ANDREA",PKIW      ,In,IN,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,24,07:02,13,188,"M'BAYE, AMATH",P007993   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,55,07:02,13,189,"JERRELLS, CURTIS",P003067   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,0,06:48,14,191,"GOUDELOCK, ANDREW",P004903   ,Missed Three Pointer (0/3 -  7 pt),3FGA,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,45,06:46,14,192,"BERTANS, DAIRIS",P000436   ,Off Rebound (1),O,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,5,06:43,14,193,"MICOV, VLADIMIR",P000529   ,Missed Three Pointer (1/3 -  5 pt),3FGA,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,,06:43,14,194,,          ,Def Rebound (2),D,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,10,06:24,14,195,"SALIN, SASU",P002820   ,Turnover (1),TO,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,15,06:24,14,196,"TARCZEWSKI, KALEB",P008004   ,In,IN,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,77,06:24,14,197,"GUDAITIS, ARTURAS",P003120   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,20,05:59,15,199,"CINCIARINI, ANDREA",PKIW      ,Two Pointer (1/1 -  2 pt),2FGM,29.0,24.0,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,21,05:35,15,200,"WACZYNSKI, ADAM",PLDX      ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,21,05:35,15,201,"WACZYNSKI, ADAM",PLDX      ,Shot Rejected (1),AG,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,15,05:35,15,215,"TARCZEWSKI, KALEB",P008004   ,Block (1),FV,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,0,05:35,15,216,"GOUDELOCK, ANDREW",P004903   ,Def Rebound (1),D,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,20,05:35,15,217,"CINCIARINI, ANDREA",PKIW      ,Turnover (1),TO,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,16,05:32,15,203,"NEDOVIC, NEMANJA",P000848   ,In,IN,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,21,05:32,15,204,"WACZYNSKI, ADAM",PLDX      ,Out,OUT,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,45,05:13,15,205,"BERTANS, DAIRIS",P000436   ,Foul (1),CM,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,16,05:13,15,206,"NEDOVIC, NEMANJA",P000848   ,Foul Drawn (2),RV,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,10,05:01,15,207,"SALIN, SASU",P002820   ,Missed Three Pointer (1/3 -  3 pt),3FGA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,5,04:58,16,209,"MICOV, VLADIMIR",P000529   ,Def Rebound (2),D,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,0,04:45,16,210,"GOUDELOCK, ANDREW",P004903   ,Missed Two Pointer (3/4 -  7 pt),2FGA,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,15,04:45,16,211,"TARCZEWSKI, KALEB",P008004   ,Off Rebound (2),O,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,9,04:45,16,212,"DIAZ, ALBERTO",P004213   ,Foul (1),CM,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,15,04:45,16,213,"TARCZEWSKI, KALEB",P008004   ,Foul Drawn (2),RV,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+          ,,,04:45,16,214,,          ,TV Time Out (1),TOUT_TV,,,,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,45,04:36,16,218,"BERTANS, DAIRIS",P000436   ,Two Pointer (1/1 -  4 pt),2FGM,29.0,26.0,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,20,04:33,16,219,"CINCIARINI, ANDREA",PKIW      ,Assist (1),AS,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,20,04:32,16,220,"CINCIARINI, ANDREA",PKIW      ,Foul (1),CM,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,9,04:32,16,221,"DIAZ, ALBERTO",P004213   ,Foul Drawn (1),RV,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,16,04:22,16,222,"NEDOVIC, NEMANJA",P000848   ,Missed Three Pointer (1/3 -  5 pt),3FGA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,10,04:18,16,223,"SALIN, SASU",P002820   ,Off Rebound (1),O,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,10,04:18,16,224,"SALIN, SASU",P002820   ,Missed Two Pointer (0/2 -  3 pt),2FGA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,5,04:16,16,225,"MICOV, VLADIMIR",P000529   ,Def Rebound (3),D,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,45,04:04,16,226,"BERTANS, DAIRIS",P000436   ,Three Pointer (1/1 -  7 pt),3FGM,29.0,29.0,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,5,04:02,16,227,"MICOV, VLADIMIR",P000529   ,Assist (1),AS,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,10,03:48,17,229,"SALIN, SASU",P002820   ,Missed Three Pointer (1/4 -  3 pt),3FGA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,20,03:45,17,230,"CINCIARINI, ANDREA",PKIW      ,Def Rebound (1),D,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,45,03:37,17,231,"BERTANS, DAIRIS",P000436   ,Three Pointer (2/2 -  10 pt),3FGM,29.0,32.0,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,0,03:34,17,232,"GOUDELOCK, ANDREW",P004903   ,Assist (1),AS,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,15,03:21,17,233,"TARCZEWSKI, KALEB",P008004   ,Foul (3),CM,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,2,03:21,17,234,"OKOUO, VINY",P005363   ,Foul Drawn (1),RV,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,10,03:21,17,235,"SALIN, SASU",P002820   ,Out,OUT,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,12,03:21,17,236,"MILOSAVLJEVIC, DRAGAN",P002822   ,In,IN,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,15,03:21,17,237,"TARCZEWSKI, KALEB",P008004   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,77,03:21,17,238,"GUDAITIS, ARTURAS",P003120   ,In,IN,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,2,03:21,17,239,"OKOUO, VINY",P005363   ,Free Throw In (1/1 -  1 pt),FTM,30.0,32.0,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,9,03:21,17,240,"DIAZ, ALBERTO",P004213   ,Assist (2),AS,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,2,03:21,17,241,"OKOUO, VINY",P005363   ,Free Throw In (2/2 -  2 pt),FTM,31.0,32.0,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,2,03:21,17,242,"OKOUO, VINY",P005363   ,Out,OUT,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,23,03:21,17,243,"BROOKS, JEFF",P004117   ,In,IN,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,77,03:02,17,244,"GUDAITIS, ARTURAS",P003120   ,Turnover (2),TO,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,23,03:00,17,245,"BROOKS, JEFF",P004117   ,Steal (1),ST,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,23,02:49,18,247,"BROOKS, JEFF",P004117   ,Missed Two Pointer (3/4 -  8 pt),2FGA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,77,02:46,18,248,"GUDAITIS, ARTURAS",P003120   ,Def Rebound (3),D,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,45,02:26,18,249,"BERTANS, DAIRIS",P000436   ,Missed Three Pointer (2/3 -  10 pt),3FGA,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,12,02:23,18,250,"MILOSAVLJEVIC, DRAGAN",P002822   ,Def Rebound (1),D,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,16,02:13,18,251,"NEDOVIC, NEMANJA",P000848   ,Missed Three Pointer (1/4 -  5 pt),3FGA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,0,02:11,18,252,"GOUDELOCK, ANDREW",P004903   ,Def Rebound (2),D,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,5,02:03,18,253,"MICOV, VLADIMIR",P000529   ,Two Pointer (2/3 -  7 pt),2FGM,31.0,34.0,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,45,01:50,19,255,"BERTANS, DAIRIS",P000436   ,Foul (2),CM,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,16,01:50,19,256,"NEDOVIC, NEMANJA",P000848   ,Foul Drawn (3),RV,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,3,01:50,19,257,"MCCALLUM, RAY",P008002   ,In,IN,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,9,01:50,19,258,"DIAZ, ALBERTO",P004213   ,Out,OUT,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,16,01:50,19,259,"NEDOVIC, NEMANJA",P000848   ,Free Throw In (1/1 -  6 pt),FTM,32.0,34.0,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,16,01:50,19,260,"NEDOVIC, NEMANJA",P000848   ,Free Throw In (2/2 -  7 pt),FTM,33.0,34.0,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,0,01:33,19,261,"GOUDELOCK, ANDREW",P004903   ,Two Pointer (4/5 -  9 pt),2FGM,33.0,36.0,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,12,01:19,19,262,"MILOSAVLJEVIC, DRAGAN",P002822   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,77,01:16,19,263,"GUDAITIS, ARTURAS",P003120   ,Def Rebound (4),D,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,43,01:04,19,264,"SUAREZ, CARLOS",PJJS      ,Foul (1),CM,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,77,01:04,19,265,"GUDAITIS, ARTURAS",P003120   ,Foul Drawn (1),RV,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,16,01:04,19,266,"NEDOVIC, NEMANJA",P000848   ,Technical Foul (2),CMT,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,9,01:04,19,267,"KALNIETIS, MANTAS",PJBX      ,In,IN,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,45,01:04,19,268,"BERTANS, DAIRIS",P000436   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,77,01:04,19,269,"GUDAITIS, ARTURAS",P003120   ,Missed Free Throw (0/1 -  0 pt),FTA,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,77,01:04,19,270,"GUDAITIS, ARTURAS",P003120   ,Free Throw In (1/2 -  1 pt),FTM,33.0,37.0,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,16,01:04,19,271,"NEDOVIC, NEMANJA",P000848   ,Out,OUT,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,21,01:04,19,272,"WACZYNSKI, ADAM",PLDX      ,In,IN,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,0,01:04,19,273,"GOUDELOCK, ANDREW",P004903   ,Free Throw In (2/2 -  10 pt),FTM,33.0,38.0,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,5,00:45,20,275,"MICOV, VLADIMIR",P000529   ,Two Pointer (3/4 -  9 pt),2FGM,33.0,40.0,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,3,00:30,20,276,"MCCALLUM, RAY",P008002   ,Turnover (1),TO,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,0,00:17,20,277,"GOUDELOCK, ANDREW",P004903   ,Missed Two Pointer (4/6 -  10 pt),2FGA,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,,00:17,20,278,,          ,Def Rebound (3),D,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,77,00:17,20,279,"GUDAITIS, ARTURAS",P003120   ,Foul (2),CM,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,43,00:17,20,280,"SUAREZ, CARLOS",PJJS      ,Foul Drawn (1),RV,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,43,00:17,20,281,"SUAREZ, CARLOS",PJJS      ,Free Throw In (1/1 -  1 pt),FTM,34.0,40.0,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,43,00:17,20,282,"SUAREZ, CARLOS",PJJS      ,Free Throw In (2/2 -  2 pt),FTM,35.0,40.0,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,0,00:00,20,283,"GOUDELOCK, ANDREW",P004903   ,Two Pointer (5/7 -  12 pt),2FGM,35.0,42.0,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+          ,,,,21,285,,          ,End Period,EP,,,,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+          ,,,,21,296,,          ,Begin Period,BP,,,,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,3,10:00,21,286,"MCCALLUM, RAY",P008002   ,Out,OUT,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,9,10:00,21,287,"DIAZ, ALBERTO",P004213   ,In,IN,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,12,10:00,21,288,"MILOSAVLJEVIC, DRAGAN",P002822   ,Out,OUT,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,16,10:00,21,289,"NEDOVIC, NEMANJA",P000848   ,In,IN,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,40,10:00,21,290,"AUGUSTINE, JAMES",P001438   ,In,IN,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,43,10:00,21,291,"SUAREZ, CARLOS",PJJS      ,Out,OUT,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,9,10:00,21,292,"KALNIETIS, MANTAS",PJBX      ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,20,10:00,21,293,"CINCIARINI, ANDREA",PKIW      ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,24,10:00,21,294,"M'BAYE, AMATH",P007993   ,In,IN,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,25,10:00,21,295,"THEODORE, JORDAN",P007946   ,In,IN,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,40,09:48,21,297,"AUGUSTINE, JAMES",P001438   ,Missed Two Pointer (2/5 -  4 pt),2FGA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,23,09:48,21,298,"BROOKS, JEFF",P004117   ,Off Rebound (3),O,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,23,09:48,21,299,"BROOKS, JEFF",P004117   ,Two Pointer (4/5 -  10 pt),2FGM,37.0,42.0,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,77,09:13,21,300,"GUDAITIS, ARTURAS",P003120   ,Turnover (3),TO,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,40,09:11,21,301,"AUGUSTINE, JAMES",P001438   ,Steal (1),ST,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,25,09:11,21,302,"THEODORE, JORDAN",P007946   ,Foul (1),CM,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,16,09:11,21,303,"NEDOVIC, NEMANJA",P000848   ,Foul Drawn (4),RV,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,21,08:57,22,305,"WACZYNSKI, ADAM",PLDX      ,Three Pointer (1/2 -  3 pt),3FGM,40.0,42.0,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,16,08:55,22,306,"NEDOVIC, NEMANJA",P000848   ,Assist (1),AS,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,24,08:44,22,307,"M'BAYE, AMATH",P007993   ,Turnover (1),TO,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,16,08:31,22,308,"NEDOVIC, NEMANJA",P000848   ,Turnover (3),TO,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,77,08:10,22,309,"GUDAITIS, ARTURAS",P003120   ,Turnover (4),TO,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,23,07:49,23,311,"BROOKS, JEFF",P004117   ,Missed Two Pointer (4/6 -  10 pt),2FGA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,23,07:49,23,312,"BROOKS, JEFF",P004117   ,Shot Rejected (1),AG,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,77,07:44,23,313,"GUDAITIS, ARTURAS",P003120   ,Block (1),FV,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,40,07:38,23,314,"AUGUSTINE, JAMES",P001438   ,Off Rebound (1),O,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,16,07:38,23,354,"NEDOVIC, NEMANJA",P000848   ,Missed Three Pointer (1/5 -  7 pt),3FGA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,21,07:38,23,355,"WACZYNSKI, ADAM",PLDX      ,Off Rebound (1),O,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,21,07:30,23,315,"WACZYNSKI, ADAM",PLDX      ,Missed Three Pointer (1/3 -  3 pt),3FGA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,23,07:28,23,316,"BROOKS, JEFF",P004117   ,Off Rebound (4),O,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,23,07:26,23,317,"BROOKS, JEFF",P004117   ,Missed Two Pointer (4/7 -  10 pt),2FGA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,25,07:23,23,318,"THEODORE, JORDAN",P007946   ,Def Rebound (1),D,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,5,07:17,23,319,"MICOV, VLADIMIR",P000529   ,Turnover (1),TO,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,16,07:17,23,320,"NEDOVIC, NEMANJA",P000848   ,Steal (1),ST,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,16,07:17,23,321,"NEDOVIC, NEMANJA",P000848   ,Two Pointer (2/3 -  9 pt),2FGM,42.0,42.0,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,24,06:48,24,323,"M'BAYE, AMATH",P007993   ,Three Pointer (1/2 -  5 pt),3FGM,42.0,45.0,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,25,06:45,24,324,"THEODORE, JORDAN",P007946   ,Assist (3),AS,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,24,06:36,24,325,"M'BAYE, AMATH",P007993   ,Foul (3),CM,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,40,06:36,24,326,"AUGUSTINE, JAMES",P001438   ,Foul Drawn (1),RV,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,40,06:36,24,327,"AUGUSTINE, JAMES",P001438   ,Free Throw In (1/1 -  5 pt),FTM,43.0,45.0,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,21,06:36,24,328,"WACZYNSKI, ADAM",PLDX      ,Assist (1),AS,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,40,06:36,24,329,"AUGUSTINE, JAMES",P001438   ,Free Throw In (2/2 -  6 pt),FTM,44.0,45.0,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,25,06:27,24,330,"THEODORE, JORDAN",P007946   ,Two Pointer (1/1 -  5 pt),2FGM,44.0,47.0,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,23,06:18,24,331,"BROOKS, JEFF",P004117   ,Missed Three Pointer (0/1 -  10 pt),3FGA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,,06:18,24,332,,          ,Def Rebound (4),D,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,25,05:38,25,334,"THEODORE, JORDAN",P007946   ,Missed Three Pointer (1/2 -  5 pt),3FGA,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,23,05:38,25,335,"BROOKS, JEFF",P004117   ,Def Rebound (4),D,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,16,05:23,25,336,"NEDOVIC, NEMANJA",P000848   ,Missed Two Pointer (2/4 -  9 pt),2FGA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,24,05:23,25,337,"M'BAYE, AMATH",P007993   ,Def Rebound (3),D,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,0,05:05,25,338,"GOUDELOCK, ANDREW",P004903   ,Missed Two Pointer (5/8 -  12 pt),2FGA,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,,05:05,25,339,,          ,Off Rebound (1),O,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,40,05:05,25,340,"AUGUSTINE, JAMES",P001438   ,Foul (3),CM,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,77,05:05,25,341,"GUDAITIS, ARTURAS",P003120   ,Foul Drawn (2),RV,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,5,04:50,26,343,"MICOV, VLADIMIR",P000529   ,Missed Two Pointer (3/5 -  9 pt),2FGA,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,40,04:47,26,344,"AUGUSTINE, JAMES",P001438   ,Def Rebound (2),D,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,21,04:32,26,345,"WACZYNSKI, ADAM",PLDX      ,Three Pointer (2/4 -  6 pt),3FGM,47.0,47.0,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,9,04:30,26,346,"DIAZ, ALBERTO",P004213   ,Assist (3),AS,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,0,04:06,26,347,"GOUDELOCK, ANDREW",P004903   ,Missed Two Pointer (5/9 -  12 pt),2FGA,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,0,04:06,26,348,"GOUDELOCK, ANDREW",P004903   ,Shot Rejected (1),AG,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,40,04:05,26,349,"AUGUSTINE, JAMES",P001438   ,Block (1),FV,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,16,04:05,26,350,"NEDOVIC, NEMANJA",P000848   ,Def Rebound (1),D,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,77,04:05,26,351,"GUDAITIS, ARTURAS",P003120   ,Foul (3),CM,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,16,04:05,26,352,"NEDOVIC, NEMANJA",P000848   ,Foul Drawn (5),RV,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+          ,,,04:05,26,353,,          ,TV Time Out (2),TOUT_TV,,,,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,17,04:05,26,356,"SHERMADINI, GIORGI",P001386   ,In,IN,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,40,04:05,26,357,"AUGUSTINE, JAMES",P001438   ,Out,OUT,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,5,04:05,26,358,"MICOV, VLADIMIR",P000529   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,15,04:05,26,359,"TARCZEWSKI, KALEB",P008004   ,In,IN,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,45,04:05,26,360,"BERTANS, DAIRIS",P000436   ,In,IN,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,77,04:05,26,361,"GUDAITIS, ARTURAS",P003120   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,16,04:05,26,362,"NEDOVIC, NEMANJA",P000848   ,Free Throw In (3/3 -  10 pt),FTM,48.0,47.0,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,16,04:05,26,363,"NEDOVIC, NEMANJA",P000848   ,Free Throw In (4/4 -  11 pt),FTM,49.0,47.0,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,0,03:49,27,365,"GOUDELOCK, ANDREW",P004903   ,Missed Two Pointer (5/10 -  12 pt),2FGA,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,21,03:46,27,366,"WACZYNSKI, ADAM",PLDX      ,Def Rebound (2),D,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,17,03:29,27,367,"SHERMADINI, GIORGI",P001386   ,Missed Two Pointer (2/8 -  4 pt),2FGA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,24,03:29,27,368,"M'BAYE, AMATH",P007993   ,Def Rebound (4),D,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,0,03:29,27,369,"GOUDELOCK, ANDREW",P004903   ,Two Pointer (6/11 -  14 pt),2FGM,49.0,49.0,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,16,03:01,27,370,"NEDOVIC, NEMANJA",P000848   ,Missed Two Pointer (2/5 -  11 pt),2FGA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,,03:01,27,371,,          ,Def Rebound (5),D,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,17,03:01,27,372,"SHERMADINI, GIORGI",P001386   ,Foul (3),CM,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,45,03:01,27,373,"BERTANS, DAIRIS",P000436   ,Foul Drawn (2),RV,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,0,03:01,27,374,"GOUDELOCK, ANDREW",P004903   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,55,03:01,27,375,"JERRELLS, CURTIS",P003067   ,In,IN,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,55,02:36,28,377,"JERRELLS, CURTIS",P003067   ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,23,02:33,28,378,"BROOKS, JEFF",P004117   ,Def Rebound (5),D,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,9,02:25,28,379,"DIAZ, ALBERTO",P004213   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,15,02:22,28,380,"TARCZEWSKI, KALEB",P008004   ,Def Rebound (1),D,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,24,02:15,28,381,"M'BAYE, AMATH",P007993   ,Two Pointer (2/2 -  7 pt),2FGM,49.0,51.0,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,25,02:12,28,382,"THEODORE, JORDAN",P007946   ,Assist (4),AS,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,55,02:01,28,383,"JERRELLS, CURTIS",P003067   ,Foul (3),CM,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,16,02:01,28,384,"NEDOVIC, NEMANJA",P000848   ,Foul Drawn (6),RV,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,3,02:01,28,385,"MCCALLUM, RAY",P008002   ,In,IN,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,9,02:01,28,386,"DIAZ, ALBERTO",P004213   ,Out,OUT,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,23,02:01,28,387,"BROOKS, JEFF",P004117   ,Out,OUT,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,43,02:01,28,388,"SUAREZ, CARLOS",PJJS      ,In,IN,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,16,02:01,28,389,"NEDOVIC, NEMANJA",P000848   ,Free Throw In (5/5 -  12 pt),FTM,50.0,51.0,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,16,02:01,28,390,"NEDOVIC, NEMANJA",P000848   ,Missed Free Throw (5/6 -  12 pt),FTA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,15,01:36,29,392,"TARCZEWSKI, KALEB",P008004   ,Def Rebound (2),D,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,25,01:33,29,393,"THEODORE, JORDAN",P007946   ,Two Pointer (2/2 -  7 pt),2FGM,50.0,53.0,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,55,01:31,29,394,"JERRELLS, CURTIS",P003067   ,Assist (2),AS,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,43,01:11,29,395,"SUAREZ, CARLOS",PJJS      ,Missed Two Pointer (0/1 -  2 pt),2FGA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,15,01:08,29,396,"TARCZEWSKI, KALEB",P008004   ,Def Rebound (3),D,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,55,00:59,30,398,"JERRELLS, CURTIS",P003067   ,Missed Three Pointer (0/3 -  0 pt),3FGA,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,3,00:56,30,399,"MCCALLUM, RAY",P008002   ,Def Rebound (2),D,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,3,00:50,30,400,"MCCALLUM, RAY",P008002   ,Two Pointer (3/3 -  7 pt),2FGM,52.0,53.0,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,15,00:50,30,401,"TARCZEWSKI, KALEB",P008004   ,Foul (4),CM,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,3,00:50,30,402,"MCCALLUM, RAY",P008002   ,Foul Drawn (3),RV,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,10,00:50,30,403,"SALIN, SASU",P002820   ,In,IN,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,16,00:50,30,404,"NEDOVIC, NEMANJA",P000848   ,Out,OUT,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,3,00:50,30,405,"MCCALLUM, RAY",P008002   ,Free Throw In (2/3 -  8 pt),FTM,53.0,53.0,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,3,00:42,30,406,"MCCALLUM, RAY",P008002   ,Foul (2),CM,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,25,00:42,30,407,"THEODORE, JORDAN",P007946   ,Foul Drawn (2),RV,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,15,00:42,30,408,"TARCZEWSKI, KALEB",P008004   ,Turnover (1),TO,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,15,00:32,30,409,"TARCZEWSKI, KALEB",P008004   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,34,00:32,30,410,"JEFFERSON, CORY",P007992   ,In,IN,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,43,00:14,30,411,"SUAREZ, CARLOS",PJJS      ,Missed Two Pointer (0/2 -  2 pt),2FGA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,21,00:12,30,412,"WACZYNSKI, ADAM",PLDX      ,Off Rebound (2),O,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,21,00:12,30,486,"WACZYNSKI, ADAM",PLDX      ,Assist (2),AS,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,10,00:10,30,413,"SALIN, SASU",P002820   ,Two Pointer (1/3 -  5 pt),2FGM,55.0,53.0,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,55,00:01,30,414,"JERRELLS, CURTIS",P003067   ,Missed Three Pointer (0/4 -  0 pt),3FGA,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,,00:01,30,415,,          ,Def Rebound (6),D,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,,00:01,30,416,,          ,Time Out (1),TOUT,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,17,00:01,30,417,"SHERMADINI, GIORGI",P001386   ,Missed Three Pointer (0/1 -  4 pt),3FGA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+          ,,,,31,419,,          ,End Period,EP,,,,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+          ,,,,31,424,,          ,Begin Period,BP,,,,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,0,10:00,31,420,"GOUDELOCK, ANDREW",P004903   ,In,IN,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,15,10:00,31,421,"TARCZEWSKI, KALEB",P008004   ,In,IN,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,34,10:00,31,422,"JEFFERSON, CORY",P007992   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,55,10:00,31,423,"JERRELLS, CURTIS",P003067   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,25,09:38,31,425,"THEODORE, JORDAN",P007946   ,Three Pointer (2/3 -  10 pt),3FGM,55.0,56.0,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,15,09:38,31,426,"TARCZEWSKI, KALEB",P008004   ,Assist (1),AS,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,10,09:38,31,427,"SALIN, SASU",P002820   ,Missed Two Pointer (1/4 -  5 pt),2FGA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,15,09:38,31,428,"TARCZEWSKI, KALEB",P008004   ,Def Rebound (4),D,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,10,09:16,31,429,"SALIN, SASU",P002820   ,Foul (1),CM,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,0,09:16,31,430,"GOUDELOCK, ANDREW",P004903   ,Foul Drawn (2),RV,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,45,09:07,31,431,"BERTANS, DAIRIS",P000436   ,Three Pointer (3/4 -  13 pt),3FGM,55.0,59.0,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,24,09:07,31,432,"M'BAYE, AMATH",P007993   ,Assist (2),AS,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,43,08:36,32,434,"SUAREZ, CARLOS",PJJS      ,Missed Two Pointer (0/3 -  2 pt),2FGA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,21,08:36,32,435,"WACZYNSKI, ADAM",PLDX      ,Off Rebound (3),O,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,45,08:36,32,436,"BERTANS, DAIRIS",P000436   ,Foul (3),CM,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,21,08:36,32,437,"WACZYNSKI, ADAM",PLDX      ,Foul Drawn (1),RV,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,10,08:34,32,438,"SALIN, SASU",P002820   ,Three Pointer (2/5 -  8 pt),3FGM,58.0,59.0,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,21,08:34,32,439,"WACZYNSKI, ADAM",PLDX      ,Assist (3),AS,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,0,08:34,32,440,"GOUDELOCK, ANDREW",P004903   ,Missed Three Pointer (0/4 -  14 pt),3FGA,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,15,08:34,32,441,"TARCZEWSKI, KALEB",P008004   ,Off Rebound (3),O,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,25,07:56,33,443,"THEODORE, JORDAN",P007946   ,Turnover (2),TO,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,3,07:54,33,444,"MCCALLUM, RAY",P008002   ,Steal (2),ST,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,10,07:50,33,445,"SALIN, SASU",P002820   ,Missed Three Pointer (2/6 -  8 pt),3FGA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,24,07:50,33,446,"M'BAYE, AMATH",P007993   ,Def Rebound (5),D,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,17,07:48,33,447,"SHERMADINI, GIORGI",P001386   ,Out,OUT,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,40,07:48,33,448,"AUGUSTINE, JAMES",P001438   ,In,IN,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,15,07:32,33,449,"TARCZEWSKI, KALEB",P008004   ,Two Pointer (2/3 -  5 pt),2FGM,58.0,61.0,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,25,07:30,33,450,"THEODORE, JORDAN",P007946   ,Assist (5),AS,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,21,07:11,33,451,"WACZYNSKI, ADAM",PLDX      ,Missed Three Pointer (2/5 -  6 pt),3FGA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,45,07:08,33,452,"BERTANS, DAIRIS",P000436   ,Def Rebound (1),D,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,3,07:03,33,453,"MCCALLUM, RAY",P008002   ,Foul (3),CM,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,25,07:03,33,454,"THEODORE, JORDAN",P007946   ,Foul Drawn (3),RV,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,12,07:03,33,455,"MILOSAVLJEVIC, DRAGAN",P002822   ,In,IN,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,21,07:03,33,456,"WACZYNSKI, ADAM",PLDX      ,Out,OUT,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,23,07:03,33,457,"BROOKS, JEFF",P004117   ,In,IN,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,43,07:03,33,458,"SUAREZ, CARLOS",PJJS      ,Out,OUT,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,10,06:55,34,460,"SALIN, SASU",P002820   ,Foul (2),CM,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,0,06:55,34,461,"GOUDELOCK, ANDREW",P004903   ,Foul Drawn (3),RV,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,0,06:55,34,462,"GOUDELOCK, ANDREW",P004903   ,Free Throw In (3/3 -  15 pt),FTM,58.0,62.0,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,0,06:55,34,464,"GOUDELOCK, ANDREW",P004903   ,Free Throw In (4/4 -  16 pt),FTM,58.0,63.0,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,3,06:38,34,465,"MCCALLUM, RAY",P008002   ,Missed Two Pointer (3/4 -  8 pt),2FGA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,0,06:35,34,466,"GOUDELOCK, ANDREW",P004903   ,Def Rebound (3),D,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,45,06:20,34,467,"BERTANS, DAIRIS",P000436   ,Missed Three Pointer (3/5 -  13 pt),3FGA,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,10,06:16,34,468,"SALIN, SASU",P002820   ,Def Rebound (1),D,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,23,06:12,34,469,"BROOKS, JEFF",P004117   ,Two Pointer (5/8 -  12 pt),2FGM,60.0,63.0,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,25,05:32,35,472,"THEODORE, JORDAN",P007946   ,Three Pointer (3/4 -  13 pt),3FGM,60.0,66.0,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,24,05:30,35,473,"M'BAYE, AMATH",P007993   ,Assist (3),AS,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,3,05:11,35,474,"MCCALLUM, RAY",P008002   ,Missed Two Pointer (3/5 -  8 pt),2FGA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,25,05:09,35,475,"THEODORE, JORDAN",P007946   ,Def Rebound (2),D,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,0,04:50,36,477,"GOUDELOCK, ANDREW",P004903   ,Missed Three Pointer (0/5 -  16 pt),3FGA,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,23,04:47,36,478,"BROOKS, JEFF",P004117   ,Def Rebound (6),D,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,12,04:31,36,479,"MILOSAVLJEVIC, DRAGAN",P002822   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,25,04:28,36,480,"THEODORE, JORDAN",P007946   ,Def Rebound (3),D,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,25,04:12,36,481,"THEODORE, JORDAN",P007946   ,Missed Three Pointer (3/5 -  13 pt),3FGA,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,23,04:09,36,482,"BROOKS, JEFF",P004117   ,Def Rebound (7),D,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,0,04:07,36,483,"GOUDELOCK, ANDREW",P004903   ,Unsportsmanlike Foul  (1),CMU,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,40,04:07,36,484,"AUGUSTINE, JAMES",P001438   ,Foul Drawn (2),RV,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+          ,,,04:07,36,485,,          ,TV Time Out (3),TOUT_TV,,,,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,0,04:07,36,487,"GOUDELOCK, ANDREW",P004903   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,5,04:07,36,488,"MICOV, VLADIMIR",P000529   ,In,IN,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,15,04:07,36,489,"TARCZEWSKI, KALEB",P008004   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,77,04:07,36,490,"GUDAITIS, ARTURAS",P003120   ,In,IN,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,40,04:07,36,491,"AUGUSTINE, JAMES",P001438   ,Free Throw In (3/3 -  7 pt),FTM,61.0,66.0,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,40,04:07,36,492,"AUGUSTINE, JAMES",P001438   ,Missed Free Throw (3/4 -  7 pt),FTA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,10,04:02,36,493,"SALIN, SASU",P002820   ,Out,OUT,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,16,04:02,36,494,"NEDOVIC, NEMANJA",P000848   ,In,IN,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,16,03:49,37,496,"NEDOVIC, NEMANJA",P000848   ,Missed Three Pointer (1/6 -  12 pt),3FGA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,45,03:46,37,497,"BERTANS, DAIRIS",P000436   ,Def Rebound (2),D,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,5,03:32,37,498,"MICOV, VLADIMIR",P000529   ,Missed Two Pointer (3/6 -  9 pt),2FGA,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,,03:32,37,499,,          ,Def Rebound (7),D,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,24,03:25,37,500,"M'BAYE, AMATH",P007993   ,Foul (4),CM,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,3,03:25,37,501,"MCCALLUM, RAY",P008002   ,Foul Drawn (4),RV,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,23,03:11,37,502,"BROOKS, JEFF",P004117   ,Two Pointer (6/9 -  14 pt),2FGM,63.0,66.0,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,77,03:11,37,503,"GUDAITIS, ARTURAS",P003120   ,Foul (4),CM,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,23,03:11,37,504,"BROOKS, JEFF",P004117   ,Foul Drawn (3),RV,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,0,03:11,37,505,"GOUDELOCK, ANDREW",P004903   ,In,IN,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,15,03:11,37,506,"TARCZEWSKI, KALEB",P008004   ,In,IN,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,24,03:11,37,507,"M'BAYE, AMATH",P007993   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,77,03:11,37,508,"GUDAITIS, ARTURAS",P003120   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,23,03:11,37,509,"BROOKS, JEFF",P004117   ,Free Throw In (3/4 -  15 pt),FTM,64.0,66.0,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,0,02:48,38,511,"GOUDELOCK, ANDREW",P004903   ,Missed Two Pointer (6/12 -  16 pt),2FGA,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,12,02:46,38,512,"MILOSAVLJEVIC, DRAGAN",P002822   ,Def Rebound (2),D,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,16,02:33,38,513,"NEDOVIC, NEMANJA",P000848   ,Missed Two Pointer (2/6 -  12 pt),2FGA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,0,02:31,38,514,"GOUDELOCK, ANDREW",P004903   ,Def Rebound (4),D,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,12,02:15,38,515,"MILOSAVLJEVIC, DRAGAN",P002822   ,Foul (1),CM,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,0,02:15,38,516,"GOUDELOCK, ANDREW",P004903   ,Foul Drawn (4),RV,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,3,02:15,38,517,"MCCALLUM, RAY",P008002   ,Out,OUT,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,9,02:15,38,518,"DIAZ, ALBERTO",P004213   ,In,IN,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,25,02:06,38,519,"THEODORE, JORDAN",P007946   ,Missed Two Pointer (2/3 -  13 pt),2FGA,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,25,02:06,38,520,"THEODORE, JORDAN",P007946   ,Shot Rejected (1),AG,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,40,02:06,38,521,"AUGUSTINE, JAMES",P001438   ,Block (2),FV,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,25,02:06,38,522,"THEODORE, JORDAN",P007946   ,Off Rebound (1),O,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,25,02:06,38,523,"THEODORE, JORDAN",P007946   ,Missed Two Pointer (2/4 -  13 pt),2FGA,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,9,02:06,38,524,"DIAZ, ALBERTO",P004213   ,Def Rebound (1),D,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,9,01:37,39,526,"DIAZ, ALBERTO",P004213   ,Three Pointer (1/1 -  3 pt),3FGM,67.0,66.0,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,40,01:37,39,527,"AUGUSTINE, JAMES",P001438   ,Assist (1),AS,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,0,01:13,39,528,"GOUDELOCK, ANDREW",P004903   ,Missed Two Pointer (6/13 -  16 pt),2FGA,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,9,01:13,39,529,"DIAZ, ALBERTO",P004213   ,Def Rebound (2),D,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,16,00:55,40,531,"NEDOVIC, NEMANJA",P000848   ,Two Pointer (3/7 -  14 pt),2FGM,69.0,66.0,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,12,00:47,40,532,"MILOSAVLJEVIC, DRAGAN",P002822   ,Foul (2),CM,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,0,00:47,40,533,"GOUDELOCK, ANDREW",P004903   ,Foul Drawn (5),RV,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,0,00:47,40,534,"GOUDELOCK, ANDREW",P004903   ,Free Throw In (5/5 -  17 pt),FTM,69.0,67.0,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,0,00:47,40,535,"GOUDELOCK, ANDREW",P004903   ,Free Throw In (6/6 -  18 pt),FTM,69.0,68.0,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,12,00:36,40,536,"MILOSAVLJEVIC, DRAGAN",P002822   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,40,00:36,40,537,"AUGUSTINE, JAMES",P001438   ,Off Rebound (2),O,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,40,00:36,40,538,"AUGUSTINE, JAMES",P001438   ,Two Pointer (3/6 -  9 pt),2FGM,71.0,68.0,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,,00:27,40,539,,          ,Time Out (1),TOUT,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,16,00:15,40,540,"NEDOVIC, NEMANJA",P000848   ,Foul (3),CM,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,25,00:15,40,541,"THEODORE, JORDAN",P007946   ,Foul Drawn (4),RV,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,25,00:15,40,542,"THEODORE, JORDAN",P007946   ,Missed Free Throw (0/1 -  13 pt),FTA,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,25,00:15,40,543,"THEODORE, JORDAN",P007946   ,Free Throw In (1/2 -  14 pt),FTM,71.0,69.0,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,,00:15,40,544,,          ,Time Out (1),TOUT,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,12,00:15,40,545,"MILOSAVLJEVIC, DRAGAN",P002822   ,Out,OUT,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,21,00:15,40,546,"WACZYNSKI, ADAM",PLDX      ,In,IN,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,40,00:15,40,547,"AUGUSTINE, JAMES",P001438   ,Out,OUT,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,43,00:15,40,548,"SUAREZ, CARLOS",PJJS      ,In,IN,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,45,00:14,40,549,"BERTANS, DAIRIS",P000436   ,Foul (4),CM,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,16,00:14,40,550,"NEDOVIC, NEMANJA",P000848   ,Foul Drawn (7),RV,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,12,00:14,40,551,"MILOSAVLJEVIC, DRAGAN",P002822   ,In,IN,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,21,00:14,40,552,"WACZYNSKI, ADAM",PLDX      ,Out,OUT,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,40,00:14,40,553,"AUGUSTINE, JAMES",P001438   ,In,IN,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,43,00:14,40,554,"SUAREZ, CARLOS",PJJS      ,Out,OUT,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,16,00:14,40,555,"NEDOVIC, NEMANJA",P000848   ,Missed Free Throw (5/7 -  14 pt),FTA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,16,00:14,40,556,"NEDOVIC, NEMANJA",P000848   ,Free Throw In (6/8 -  15 pt),FTM,72.0,69.0,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,,00:14,40,557,,          ,Time Out (2),TOUT,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,10,00:14,40,558,"SALIN, SASU",P002820   ,In,IN,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,16,00:14,40,559,"NEDOVIC, NEMANJA",P000848   ,Out,OUT,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,45,00:07,40,560,"BERTANS, DAIRIS",P000436   ,Missed Three Pointer (3/6 -  13 pt),3FGA,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,9,00:07,40,561,"DIAZ, ALBERTO",P004213   ,Def Rebound (3),D,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,15,00:07,40,562,"TARCZEWSKI, KALEB",P008004   ,Foul (5),CM,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,9,00:07,40,563,"DIAZ, ALBERTO",P004213   ,Foul Drawn (2),RV,,,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,15,00:07,40,564,"TARCZEWSKI, KALEB",P008004   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,77,00:07,40,565,"GUDAITIS, ARTURAS",P003120   ,In,IN,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,9,00:07,40,566,"DIAZ, ALBERTO",P004213   ,Free Throw In (1/1 -  4 pt),FTM,73.0,69.0,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MAL       ,,9,00:07,40,567,"DIAZ, ALBERTO",P004213   ,Free Throw In (2/2 -  5 pt),FTM,74.0,69.0,Unicaja Malaga,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,0,00:02,40,568,"GOUDELOCK, ANDREW",P004903   ,Missed Three Pointer (0/6 -  18 pt),3FGA,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,77,00:02,40,569,"GUDAITIS, ARTURAS",P003120   ,Off Rebound (1),O,,,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+MIL       ,,77,00:01,40,570,"GUDAITIS, ARTURAS",P003120   ,Two Pointer (1/1 -  3 pt),2FGM,74.0,71.0,AX Armani Exchange Olimpia Milan,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL
+          ,,,,41,573,,          ,End Game,EG,,,,0,Unicaja Malaga,MAL,AX Armani Exchange Olimpia Milan,MIL

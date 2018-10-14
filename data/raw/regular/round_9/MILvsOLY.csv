@@ -1,0 +1,487 @@
+CODETEAM,COMMENT,DORSAL,MARKERTIME,MINUTE,NUMBEROFPLAY,PLAYER,PLAYER_ID,PLAYINFO,PLAYTYPE,POINTS_A,POINTS_B,TEAM,TYPE,home_team,home_team_code,away_team,away_team_code
+          ,,,,1,2,,          ,Begin Period,BP,,,,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,5,09:47,1,3,"MICOV, VLADIMIR",P000529   ,Two Pointer (1/1 -  2 pt),2FGM,2.0,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,22,09:26,1,4,"ROBERTS, BRIAN",P002091   ,Three Pointer (1/1 -  3 pt),3FGM,2.0,3.0,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,13,09:24,1,5,"STRELNIEKS, JANIS",P000046   ,Assist (1),AS,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,5,09:03,1,6,"MICOV, VLADIMIR",P000529   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,22,09:00,2,8,"ROBERTS, BRIAN",P002091   ,Def Rebound (1),D,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,15,08:46,2,9,"PRINTEZIS, GEORGIOS",PAMM      ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,,08:46,2,10,,          ,Def Rebound (1),D,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,34,08:26,2,11,"JEFFERSON, CORY",P007992   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,15,08:26,2,12,"TARCZEWSKI, KALEB",P008004   ,Off Rebound (1),O,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,15,08:26,2,13,"TARCZEWSKI, KALEB",P008004   ,Foul Drawn (1),RV,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,11,08:26,2,14,"MILUTINOV, NIKOLA",P003941   ,Foul (1),CM,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,25,08:25,2,15,"THEODORE, JORDAN",P007946   ,Three Pointer (1/1 -  3 pt),3FGM,5.0,3.0,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,5,08:25,2,16,"MICOV, VLADIMIR",P000529   ,Assist (1),AS,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,22,07:56,3,18,"ROBERTS, BRIAN",P002091   ,Foul Drawn (1),RV,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,25,07:56,3,19,"THEODORE, JORDAN",P007946   ,Foul (1),CM,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,22,07:56,3,20,"ROBERTS, BRIAN",P002091   ,Free Throw In (1/1 -  4 pt),FTM,5.0,4.0,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,22,07:56,3,21,"ROBERTS, BRIAN",P002091   ,Free Throw In (2/2 -  5 pt),FTM,5.0,5.0,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,45,07:41,3,22,"BERTANS, DAIRIS",P000436   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,34,07:38,3,23,"THOMPSON, HOLLIS",P008014   ,Def Rebound (1),D,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,22,07:25,3,24,"ROBERTS, BRIAN",P002091   ,Two Pointer (1/1 -  7 pt),2FGM,5.0,7.0,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,25,07:08,3,25,"THEODORE, JORDAN",P007946   ,Foul Drawn (1),RV,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,22,07:08,3,26,"ROBERTS, BRIAN",P002091   ,Foul (1),CM,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,25,07:03,3,27,"THEODORE, JORDAN",P007946   ,Missed Two Pointer (0/1 -  3 pt),2FGA,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,15,07:03,3,28,"TARCZEWSKI, KALEB",P008004   ,Off Rebound (2),O,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,15,07:03,3,29,"TARCZEWSKI, KALEB",P008004   ,Foul Drawn (2),RV,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,11,07:03,3,30,"MILUTINOV, NIKOLA",P003941   ,Foul (2),CM,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,11,07:01,3,31,"MILUTINOV, NIKOLA",P003941   ,Out,OUT,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,31,07:01,3,32,"BOGRIS, GEORGIOS",P001933   ,In,IN,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,45,06:58,4,34,"BERTANS, DAIRIS",P000436   ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,22,06:55,4,35,"ROBERTS, BRIAN",P002091   ,Def Rebound (2),D,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,22,06:52,4,36,"ROBERTS, BRIAN",P002091   ,Turnover (1),TO,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,45,06:48,4,37,"BERTANS, DAIRIS",P000436   ,Steal (1),ST,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,25,06:40,4,38,"THEODORE, JORDAN",P007946   ,Missed Two Pointer (0/2 -  3 pt),2FGA,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,15,06:37,4,39,"PRINTEZIS, GEORGIOS",PAMM      ,Def Rebound (1),D,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,15,06:28,4,40,"PRINTEZIS, GEORGIOS",PAMM      ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,15,06:25,4,41,"TARCZEWSKI, KALEB",P008004   ,Def Rebound (1),D,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,34,06:14,4,42,"JEFFERSON, CORY",P007992   ,Two Pointer (1/1 -  2 pt),2FGM,7.0,7.0,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,5,06:12,4,43,"MICOV, VLADIMIR",P000529   ,Assist (2),AS,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,13,05:51,5,45,"STRELNIEKS, JANIS",P000046   ,Two Pointer (1/1 -  2 pt),2FGM,7.0,9.0,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,15,05:42,5,46,"TARCZEWSKI, KALEB",P008004   ,Foul Drawn (3),RV,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,31,05:42,5,47,"BOGRIS, GEORGIOS",P001933   ,Foul (1),CM,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,15,05:31,5,48,"TARCZEWSKI, KALEB",P008004   ,Turnover (1),TO,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,13,05:29,5,49,"STRELNIEKS, JANIS",P000046   ,Steal (1),ST,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,34,05:24,5,50,"THOMPSON, HOLLIS",P008014   ,Two Pointer (1/1 -  2 pt),2FGM,7.0,11.0,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,13,05:21,5,51,"STRELNIEKS, JANIS",P000046   ,Assist (2),AS,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,25,05:12,5,52,"THEODORE, JORDAN",P007946   ,Two Pointer (1/3 -  5 pt),2FGM,9.0,11.0,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,13,04:58,6,54,"STRELNIEKS, JANIS",P000046   ,Three Pointer (1/1 -  5 pt),3FGM,9.0,14.0,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,31,04:58,6,122,"BOGRIS, GEORGIOS",P001933   ,Assist (1),AS,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,5,04:46,6,55,"MICOV, VLADIMIR",P000529   ,Foul Drawn (1),RV,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,34,04:46,6,56,"THOMPSON, HOLLIS",P008014   ,Foul (1),CM,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+          ,,,04:43,6,57,,          ,TV Time Out (1),TOUT_TV,,,,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,45,04:43,6,58,"BERTANS, DAIRIS",P000436   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,55,04:43,6,59,"JERRELLS, CURTIS",P003067   ,In,IN,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,17,04:43,6,60,"MANTZARIS, VANGELIS",P003537   ,In,IN,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,22,04:43,6,61,"ROBERTS, BRIAN",P002091   ,Out,OUT,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,5,04:43,6,62,"MICOV, VLADIMIR",P000529   ,Free Throw In (1/1 -  3 pt),FTM,10.0,14.0,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,5,04:43,6,63,"MICOV, VLADIMIR",P000529   ,Free Throw In (2/2 -  4 pt),FTM,11.0,14.0,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,34,04:32,6,64,"THOMPSON, HOLLIS",P008014   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,25,04:29,6,65,"THEODORE, JORDAN",P007946   ,Def Rebound (1),D,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,34,04:14,6,66,"JEFFERSON, CORY",P007992   ,Missed Three Pointer (0/2 -  2 pt),3FGA,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,15,04:11,6,67,"TARCZEWSKI, KALEB",P008004   ,Off Rebound (3),O,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,25,04:09,6,68,"THEODORE, JORDAN",P007946   ,Missed Three Pointer (1/2 -  5 pt),3FGA,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,34,04:05,6,69,"JEFFERSON, CORY",P007992   ,Off Rebound (1),O,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,34,04:05,6,70,"JEFFERSON, CORY",P007992   ,Two Pointer (2/2 -  4 pt),2FGM,13.0,14.0,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,13,03:54,7,72,"STRELNIEKS, JANIS",P000046   ,Foul Drawn (1),RV,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,34,03:54,7,73,"JEFFERSON, CORY",P007992   ,Foul (1),CM,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,1,03:52,7,74,"MCLEAN, JAMEL",P004418   ,In,IN,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,6,03:52,7,75,"PAPAPETROU, IOANNIS",P005161   ,In,IN,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,15,03:52,7,76,"PRINTEZIS, GEORGIOS",PAMM      ,Out,OUT,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,31,03:52,7,77,"BOGRIS, GEORGIOS",P001933   ,Out,OUT,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,6,03:37,7,78,"PAPAPETROU, IOANNIS",P005161   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,,03:37,7,79,,          ,Turnover (1),TO,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,34,03:25,7,80,"JEFFERSON, CORY",P007992   ,Two Pointer (3/3 -  6 pt),2FGM,15.0,14.0,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,13,03:02,7,81,"STRELNIEKS, JANIS",P000046   ,Missed Three Pointer (1/2 -  5 pt),3FGA,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,15,03:00,7,82,"TARCZEWSKI, KALEB",P008004   ,Def Rebound (2),D,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,15,02:58,8,84,"TARCZEWSKI, KALEB",P008004   ,Turnover (2),TO,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,34,02:56,8,85,"THOMPSON, HOLLIS",P008014   ,Steal (1),ST,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,6,02:46,8,86,"PAPAPETROU, IOANNIS",P005161   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,,02:46,8,87,,          ,Off Rebound (1),O,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,15,02:44,8,88,"TARCZEWSKI, KALEB",P008004   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,77,02:44,8,89,"GUDAITIS, ARTURAS",P003120   ,In,IN,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,16,02:44,8,90,"PAPANIKOLAOU, KOSTAS",P001255   ,In,IN,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,34,02:44,8,91,"THOMPSON, HOLLIS",P008014   ,Out,OUT,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,16,02:32,8,92,"PAPANIKOLAOU, KOSTAS",P001255   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,25,02:29,8,93,"THEODORE, JORDAN",P007946   ,Def Rebound (2),D,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,25,02:23,8,94,"THEODORE, JORDAN",P007946   ,Two Pointer (2/4 -  7 pt),2FGM,17.0,14.0,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,1,02:06,8,95,"MCLEAN, JAMEL",P004418   ,Foul Drawn (1),RV,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,77,02:06,8,96,"GUDAITIS, ARTURAS",P003120   ,Foul (1),CM,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,6,01:56,9,98,"PAPAPETROU, IOANNIS",P005161   ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,1,01:54,9,99,"MCLEAN, JAMEL",P004418   ,Off Rebound (1),O,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,1,01:45,9,100,"MCLEAN, JAMEL",P004418   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,34,01:42,9,101,"JEFFERSON, CORY",P007992   ,Def Rebound (1),D,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,25,01:27,9,102,"THEODORE, JORDAN",P007946   ,Missed Two Pointer (2/5 -  7 pt),2FGA,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,77,01:27,9,103,"GUDAITIS, ARTURAS",P003120   ,Off Rebound (1),O,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,77,01:27,9,104,"GUDAITIS, ARTURAS",P003120   ,Foul Drawn (1),RV,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,1,01:27,9,105,"MCLEAN, JAMEL",P004418   ,Foul (1),CM,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,77,01:24,9,106,"GUDAITIS, ARTURAS",P003120   ,Free Throw In (1/1 -  1 pt),FTM,18.0,14.0,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,77,01:24,9,107,"GUDAITIS, ARTURAS",P003120   ,Free Throw In (2/2 -  2 pt),FTM,19.0,14.0,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,6,01:05,9,108,"PAPAPETROU, IOANNIS",P005161   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,77,01:02,9,109,"GUDAITIS, ARTURAS",P003120   ,Def Rebound (1),D,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,5,00:54,10,111,"MICOV, VLADIMIR",P000529   ,Two Pointer (2/3 -  6 pt),2FGM,21.0,14.0,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,55,00:52,10,112,"JERRELLS, CURTIS",P003067   ,Assist (1),AS,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,13,00:53,10,113,"STRELNIEKS, JANIS",P000046   ,Out,OUT,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,22,00:53,10,114,"ROBERTS, BRIAN",P002091   ,In,IN,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,22,00:39,10,115,"ROBERTS, BRIAN",P002091   ,Three Pointer (2/2 -  10 pt),3FGM,21.0,17.0,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,1,00:37,10,116,"MCLEAN, JAMEL",P004418   ,Assist (1),AS,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,77,00:18,10,117,"GUDAITIS, ARTURAS",P003120   ,Missed Two Pointer (0/1 -  2 pt),2FGA,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,17,00:13,10,118,"MANTZARIS, VANGELIS",P003537   ,Def Rebound (1),D,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,22,00:00,10,119,"ROBERTS, BRIAN",P002091   ,Missed Three Pointer (2/3 -  10 pt),3FGA,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+          ,,,,11,121,,          ,End Period,EP,,,,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+          ,,,,11,127,,          ,Begin Period,BP,,,,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,5,10:00,11,123,"MICOV, VLADIMIR",P000529   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,9,10:00,11,124,"KALNIETIS, MANTAS",PJBX      ,In,IN,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,24,10:00,11,125,"M'BAYE, AMATH",P007993   ,In,IN,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,34,10:00,11,126,"JEFFERSON, CORY",P007992   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,22,09:50,11,128,"ROBERTS, BRIAN",P002091   ,Missed Two Pointer (1/2 -  10 pt),2FGA,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,6,09:48,11,129,"PAPAPETROU, IOANNIS",P005161   ,Off Rebound (1),O,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,1,09:45,11,130,"MCLEAN, JAMEL",P004418   ,Two Pointer (1/2 -  2 pt),2FGM,21.0,19.0,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,25,09:18,11,131,"THEODORE, JORDAN",P007946   ,Three Pointer (2/3 -  10 pt),3FGM,24.0,19.0,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,16,08:59,12,133,"PAPANIKOLAOU, KOSTAS",P001255   ,Foul Drawn (1),RV,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,9,08:59,12,134,"KALNIETIS, MANTAS",PJBX      ,Foul (1),CM,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,16,08:59,12,135,"PAPANIKOLAOU, KOSTAS",P001255   ,Free Throw In (1/1 -  1 pt),FTM,24.0,20.0,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,16,08:59,12,136,"PAPANIKOLAOU, KOSTAS",P001255   ,Free Throw In (2/2 -  2 pt),FTM,24.0,21.0,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,9,08:47,12,137,"KALNIETIS, MANTAS",PJBX      ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,24,08:44,12,138,"M'BAYE, AMATH",P007993   ,Off Rebound (1),O,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,24,08:44,12,139,"M'BAYE, AMATH",P007993   ,Two Pointer (1/1 -  2 pt),2FGM,26.0,21.0,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,1,08:31,12,140,"MCLEAN, JAMEL",P004418   ,Foul Drawn (2),RV,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,24,08:31,12,141,"M'BAYE, AMATH",P007993   ,Foul (1),CM,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,1,08:31,12,142,"MCLEAN, JAMEL",P004418   ,Free Throw In (1/1 -  3 pt),FTM,26.0,22.0,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,17,08:31,12,143,"MANTZARIS, VANGELIS",P003537   ,Assist (1),AS,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,1,08:31,12,144,"MCLEAN, JAMEL",P004418   ,Missed Free Throw (1/2 -  3 pt),FTA,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,77,08:31,12,145,"GUDAITIS, ARTURAS",P003120   ,Def Rebound (2),D,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,55,08:11,12,146,"JERRELLS, CURTIS",P003067   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,1,08:08,12,147,"MCLEAN, JAMEL",P004418   ,Def Rebound (1),D,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,16,08:00,12,148,"PAPANIKOLAOU, KOSTAS",P001255   ,Two Pointer (1/1 -  4 pt),2FGM,26.0,24.0,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,16,08:00,12,149,"PAPANIKOLAOU, KOSTAS",P001255   ,Foul Drawn (2),RV,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,55,08:00,12,150,"JERRELLS, CURTIS",P003067   ,Foul (1),CM,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,20,07:59,13,152,"CINCIARINI, ANDREA",PKIW      ,In,IN,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,25,07:59,13,153,"THEODORE, JORDAN",P007946   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,16,07:59,13,154,"PAPANIKOLAOU, KOSTAS",P001255   ,Free Throw In (3/3 -  5 pt),FTM,26.0,25.0,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,55,07:52,13,155,"JERRELLS, CURTIS",P003067   ,Foul Drawn (1),RV,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,17,07:52,13,156,"MANTZARIS, VANGELIS",P003537   ,Foul (1),CM,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,9,07:49,13,157,"KALNIETIS, MANTAS",PJBX      ,Turnover (1),TO,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,6,07:31,13,158,"PAPAPETROU, IOANNIS",P005161   ,Turnover (1),TO,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,55,07:28,13,159,"JERRELLS, CURTIS",P003067   ,Steal (1),ST,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,24,07:17,13,160,"M'BAYE, AMATH",P007993   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,16,07:14,13,161,"PAPANIKOLAOU, KOSTAS",P001255   ,Def Rebound (1),D,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,1,07:06,13,162,"MCLEAN, JAMEL",P004418   ,Missed Two Pointer (1/3 -  3 pt),2FGA,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,77,07:04,13,163,"GUDAITIS, ARTURAS",P003120   ,Def Rebound (3),D,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,24,06:56,14,165,"M'BAYE, AMATH",P007993   ,Foul Drawn (1),RV,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,22,06:56,14,166,"ROBERTS, BRIAN",P002091   ,Foul (2),CM,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,6,06:54,14,167,"PAPAPETROU, IOANNIS",P005161   ,Out,OUT,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,15,06:54,14,168,"PRINTEZIS, GEORGIOS",PAMM      ,In,IN,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,24,06:54,14,169,"M'BAYE, AMATH",P007993   ,Missed Free Throw (0/1 -  2 pt),FTA,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,24,06:54,14,170,"M'BAYE, AMATH",P007993   ,Free Throw In (1/2 -  3 pt),FTM,27.0,25.0,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,16,06:32,14,171,"PAPANIKOLAOU, KOSTAS",P001255   ,Missed Two Pointer (1/2 -  5 pt),2FGA,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,77,06:32,14,172,"GUDAITIS, ARTURAS",P003120   ,Def Rebound (4),D,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,77,06:32,14,173,"GUDAITIS, ARTURAS",P003120   ,Foul Drawn (2),RV,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,16,06:32,14,174,"PAPANIKOLAOU, KOSTAS",P001255   ,Foul (1),CM,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,1,06:31,14,175,"MCLEAN, JAMEL",P004418   ,Out,OUT,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,11,06:31,14,176,"MILUTINOV, NIKOLA",P003941   ,In,IN,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,13,06:31,14,177,"STRELNIEKS, JANIS",P000046   ,In,IN,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,22,06:31,14,178,"ROBERTS, BRIAN",P002091   ,Out,OUT,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,77,06:16,14,179,"GUDAITIS, ARTURAS",P003120   ,Two Pointer (1/2 -  4 pt),2FGM,29.0,25.0,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,55,06:14,14,180,"JERRELLS, CURTIS",P003067   ,Assist (2),AS,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,17,05:48,15,182,"MANTZARIS, VANGELIS",P003537   ,Three Pointer (1/1 -  3 pt),3FGM,29.0,28.0,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,55,05:35,15,183,"JERRELLS, CURTIS",P003067   ,Foul Drawn (2),RV,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,11,05:35,15,184,"MILUTINOV, NIKOLA",P003941   ,Foul (3),CM,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,1,05:34,15,185,"MCLEAN, JAMEL",P004418   ,In,IN,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,11,05:34,15,186,"MILUTINOV, NIKOLA",P003941   ,Out,OUT,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,55,05:34,15,187,"JERRELLS, CURTIS",P003067   ,Free Throw In (1/1 -  1 pt),FTM,30.0,28.0,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,55,05:34,15,188,"JERRELLS, CURTIS",P003067   ,Free Throw In (2/2 -  2 pt),FTM,31.0,28.0,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,1,05:21,15,189,"MCLEAN, JAMEL",P004418   ,Foul Drawn (3),RV,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,20,05:21,15,190,"CINCIARINI, ANDREA",PKIW      ,Foul (1),CM,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,13,05:12,15,191,"STRELNIEKS, JANIS",P000046   ,Three Pointer (2/3 -  8 pt),3FGM,31.0,31.0,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,55,04:59,16,193,"JERRELLS, CURTIS",P003067   ,Two Pointer (1/1 -  4 pt),2FGM,33.0,31.0,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,20,04:56,16,194,"CINCIARINI, ANDREA",PKIW      ,Assist (1),AS,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,13,04:55,16,195,"STRELNIEKS, JANIS",P000046   ,Two Pointer (2/2 -  10 pt),2FGM,33.0,33.0,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,17,04:55,16,196,"MANTZARIS, VANGELIS",P003537   ,Assist (2),AS,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,55,04:00,16,198,"JERRELLS, CURTIS",P003067   ,Off Rebound (1),O,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,55,04:59,16,205,"JERRELLS, CURTIS",P003067   ,Shot Rejected (1),AG,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,55,04:00,16,204,"JERRELLS, CURTIS",P003067   ,Missed Three Pointer (0/2 -  4 pt),3FGA,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,17,04:00,16,206,"MANTZARIS, VANGELIS",P003537   ,Block (1),FV,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,13,03:58,17,201,"STRELNIEKS, JANIS",P000046   ,Foul Drawn (2),RV,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,,03:58,17,207,,          ,Turnover (2),TO,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,20,03:58,17,202,"CINCIARINI, ANDREA",PKIW      ,Foul (2),CM,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+          ,,,03:56,17,203,,          ,TV Time Out (2),TOUT_TV,,,,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,15,03:56,17,208,"TARCZEWSKI, KALEB",P008004   ,In,IN,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,77,03:56,17,209,"GUDAITIS, ARTURAS",P003120   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,13,03:56,17,210,"STRELNIEKS, JANIS",P000046   ,Free Throw In (1/1 -  11 pt),FTM,33.0,34.0,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,13,03:56,17,211,"STRELNIEKS, JANIS",P000046   ,Free Throw In (2/2 -  12 pt),FTM,33.0,35.0,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,15,03:51,17,212,"TARCZEWSKI, KALEB",P008004   ,Two Pointer (1/1 -  2 pt),2FGM,35.0,35.0,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,55,03:51,17,213,"JERRELLS, CURTIS",P003067   ,Assist (3),AS,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,13,03:25,17,214,"STRELNIEKS, JANIS",P000046   ,Two Pointer (3/3 -  14 pt),2FGM,35.0,37.0,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,20,03:05,17,215,"CINCIARINI, ANDREA",PKIW      ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,15,03:03,17,216,"TARCZEWSKI, KALEB",P008004   ,Off Rebound (4),O,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,24,03:00,18,218,"M'BAYE, AMATH",P007993   ,Missed Two Pointer (1/3 -  3 pt),2FGA,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,16,02:57,18,219,"PAPANIKOLAOU, KOSTAS",P001255   ,Def Rebound (2),D,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,15,02:47,18,220,"PRINTEZIS, GEORGIOS",PAMM      ,Two Pointer (1/3 -  2 pt),2FGM,35.0,39.0,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,5,02:45,18,221,"MICOV, VLADIMIR",P000529   ,In,IN,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,9,02:45,18,222,"KALNIETIS, MANTAS",PJBX      ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,20,02:45,18,223,"CINCIARINI, ANDREA",PKIW      ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,24,02:45,18,224,"M'BAYE, AMATH",P007993   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,25,02:45,18,225,"THEODORE, JORDAN",P007946   ,In,IN,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,34,02:45,18,226,"JEFFERSON, CORY",P007992   ,In,IN,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,55,02:23,18,227,"JERRELLS, CURTIS",P003067   ,Missed Three Pointer (0/3 -  4 pt),3FGA,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,13,02:21,18,228,"STRELNIEKS, JANIS",P000046   ,Def Rebound (1),D,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,1,02:09,18,229,"MCLEAN, JAMEL",P004418   ,Two Pointer (2/4 -  5 pt),2FGM,35.0,41.0,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,15,02:09,18,230,"PRINTEZIS, GEORGIOS",PAMM      ,Assist (1),AS,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,,02:07,18,231,,          ,Time Out (1),TOUT,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,25,01:47,19,233,"THEODORE, JORDAN",P007946   ,Missed Two Pointer (2/6 -  10 pt),2FGA,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,15,01:47,19,234,"TARCZEWSKI, KALEB",P008004   ,Off Rebound (5),O,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,15,01:47,19,235,"TARCZEWSKI, KALEB",P008004   ,Two Pointer (2/2 -  4 pt),2FGM,37.0,41.0,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,,01:46,19,236,,          ,Time Out (1),TOUT,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,17,01:26,19,237,"MANTZARIS, VANGELIS",P003537   ,Three Pointer (2/2 -  6 pt),3FGM,37.0,44.0,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,5,01:02,19,238,"MICOV, VLADIMIR",P000529   ,Missed Two Pointer (2/4 -  6 pt),2FGA,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,15,00:57,20,240,"TARCZEWSKI, KALEB",P008004   ,Off Rebound (6),O,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,55,00:54,20,241,"JERRELLS, CURTIS",P003067   ,Three Pointer (1/4 -  7 pt),3FGM,40.0,44.0,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,15,00:51,20,242,"TARCZEWSKI, KALEB",P008004   ,Assist (1),AS,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,1,00:39,20,243,"MCLEAN, JAMEL",P004418   ,Two Pointer (3/5 -  7 pt),2FGM,40.0,46.0,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,13,00:37,20,244,"STRELNIEKS, JANIS",P000046   ,Assist (3),AS,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,25,00:20,20,245,"THEODORE, JORDAN",P007946   ,Two Pointer (3/7 -  12 pt),2FGM,42.0,46.0,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,,00:20,20,246,,          ,Time Out (2),TOUT,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,1,00:20,20,247,"MCLEAN, JAMEL",P004418   ,Out,OUT,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,17,00:20,20,248,"MANTZARIS, VANGELIS",P003537   ,Out,OUT,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,22,00:20,20,249,"ROBERTS, BRIAN",P002091   ,In,IN,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,34,00:20,20,250,"THOMPSON, HOLLIS",P008014   ,In,IN,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,15,00:00,20,251,"PRINTEZIS, GEORGIOS",PAMM      ,Missed Two Pointer (1/4 -  2 pt),2FGA,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,34,00:00,20,252,"THOMPSON, HOLLIS",P008014   ,Off Rebound (1),O,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,34,00:00,20,253,"THOMPSON, HOLLIS",P008014   ,Missed Two Pointer (1/3 -  2 pt),2FGA,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,25,00:00,20,254,"THEODORE, JORDAN",P007946   ,Def Rebound (3),D,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,25,00:00,20,255,"THEODORE, JORDAN",P007946   ,Missed Three Pointer (2/4 -  12 pt),3FGA,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+          ,,,,21,257,,          ,End Period,EP,,,,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+          ,,,,21,260,,          ,Begin Period,BP,,,,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,11,10:00,21,258,"MILUTINOV, NIKOLA",P003941   ,In,IN,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,16,10:00,21,259,"PAPANIKOLAOU, KOSTAS",P001255   ,Out,OUT,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,25,09:52,21,261,"THEODORE, JORDAN",P007946   ,Missed Two Pointer (3/8 -  12 pt),2FGA,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,13,09:50,21,262,"STRELNIEKS, JANIS",P000046   ,Def Rebound (2),D,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,13,09:43,21,263,"STRELNIEKS, JANIS",P000046   ,Foul Drawn (3),RV,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,55,09:43,21,264,"JERRELLS, CURTIS",P003067   ,Foul (2),CM,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,11,09:41,21,265,"MILUTINOV, NIKOLA",P003941   ,Foul Drawn (1),RV,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,25,09:41,21,266,"THEODORE, JORDAN",P007946   ,Foul (2),CM,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,15,09:28,21,267,"PRINTEZIS, GEORGIOS",PAMM      ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,5,09:25,21,268,"MICOV, VLADIMIR",P000529   ,Def Rebound (1),D,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,55,09:17,21,269,"JERRELLS, CURTIS",P003067   ,Foul Drawn (3),RV,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,13,09:17,21,270,"STRELNIEKS, JANIS",P000046   ,Foul (1),CM,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,15,09:15,21,271,"TARCZEWSKI, KALEB",P008004   ,Two Pointer (3/3 -  6 pt),2FGM,44.0,46.0,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,15,09:15,21,272,"TARCZEWSKI, KALEB",P008004   ,Foul Drawn (4),RV,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,11,09:15,21,273,"MILUTINOV, NIKOLA",P003941   ,Foul (4),CM,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,25,09:15,21,274,"THEODORE, JORDAN",P007946   ,Assist (1),AS,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,1,09:06,21,275,"MCLEAN, JAMEL",P004418   ,In,IN,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,11,09:06,21,276,"MILUTINOV, NIKOLA",P003941   ,Out,OUT,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,15,09:06,21,277,"TARCZEWSKI, KALEB",P008004   ,Free Throw In (1/1 -  7 pt),FTM,45.0,46.0,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,15,08:40,22,279,"PRINTEZIS, GEORGIOS",PAMM      ,Missed Two Pointer (1/5 -  2 pt),2FGA,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,15,08:38,22,280,"TARCZEWSKI, KALEB",P008004   ,Def Rebound (3),D,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,55,08:30,22,281,"JERRELLS, CURTIS",P003067   ,Turnover (1),TO,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,1,08:06,22,282,"MCLEAN, JAMEL",P004418   ,Two Pointer (4/6 -  9 pt),2FGM,45.0,48.0,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,13,08:04,22,283,"STRELNIEKS, JANIS",P000046   ,Assist (4),AS,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,5,07:44,23,285,"MICOV, VLADIMIR",P000529   ,Two Pointer (3/5 -  8 pt),2FGM,47.0,48.0,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,13,07:27,23,286,"STRELNIEKS, JANIS",P000046   ,Turnover (1),TO,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,16,07:25,23,287,"PAPANIKOLAOU, KOSTAS",P001255   ,In,IN,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,34,07:25,23,288,"THOMPSON, HOLLIS",P008014   ,Out,OUT,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,55,07:12,23,289,"JERRELLS, CURTIS",P003067   ,Missed Two Pointer (1/2 -  7 pt),2FGA,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,,07:10,23,290,,          ,Def Rebound (2),D,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,13,06:53,24,292,"STRELNIEKS, JANIS",P000046   ,Missed Three Pointer (2/4 -  14 pt),3FGA,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,15,06:51,24,293,"TARCZEWSKI, KALEB",P008004   ,Def Rebound (4),D,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,15,06:42,24,294,"TARCZEWSKI, KALEB",P008004   ,Missed Two Pointer (3/4 -  7 pt),2FGA,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,1,06:40,24,295,"MCLEAN, JAMEL",P004418   ,Def Rebound (2),D,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,22,06:34,24,296,"ROBERTS, BRIAN",P002091   ,Foul Drawn (2),RV,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,34,06:34,24,297,"JEFFERSON, CORY",P007992   ,Foul (2),CM,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,22,06:34,24,298,"ROBERTS, BRIAN",P002091   ,Free Throw In (3/3 -  11 pt),FTM,47.0,49.0,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,22,06:34,24,299,"ROBERTS, BRIAN",P002091   ,Free Throw In (4/4 -  12 pt),FTM,47.0,50.0,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,6,06:33,24,300,"PAPAPETROU, IOANNIS",P005161   ,In,IN,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,13,06:33,24,301,"STRELNIEKS, JANIS",P000046   ,Out,OUT,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,34,06:15,24,302,"JEFFERSON, CORY",P007992   ,Missed Three Pointer (0/3 -  6 pt),3FGA,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,1,06:13,24,303,"MCLEAN, JAMEL",P004418   ,Def Rebound (3),D,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,22,06:05,24,304,"ROBERTS, BRIAN",P002091   ,Two Pointer (2/3 -  14 pt),2FGM,47.0,52.0,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,34,05:46,25,306,"JEFFERSON, CORY",P007992   ,Two Pointer (4/4 -  8 pt),2FGM,49.0,52.0,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,25,05:43,25,307,"THEODORE, JORDAN",P007946   ,Assist (2),AS,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,1,05:19,25,308,"MCLEAN, JAMEL",P004418   ,Two Pointer (5/7 -  11 pt),2FGM,49.0,54.0,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,22,05:17,25,309,"ROBERTS, BRIAN",P002091   ,Assist (1),AS,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,25,05:11,25,310,"THEODORE, JORDAN",P007946   ,Foul Drawn (2),RV,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,22,05:11,25,311,"ROBERTS, BRIAN",P002091   ,Foul (3),CM,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,17,05:11,25,312,"MANTZARIS, VANGELIS",P003537   ,In,IN,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,22,05:11,25,313,"ROBERTS, BRIAN",P002091   ,Out,OUT,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,25,05:05,25,314,"THEODORE, JORDAN",P007946   ,Two Pointer (4/9 -  14 pt),2FGM,51.0,54.0,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,15,04:50,26,316,"PRINTEZIS, GEORGIOS",PAMM      ,Three Pointer (1/2 -  5 pt),3FGM,51.0,57.0,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,6,04:50,26,317,"PAPAPETROU, IOANNIS",P005161   ,Assist (1),AS,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,55,04:50,26,318,"JERRELLS, CURTIS",P003067   ,Missed Three Pointer (1/5 -  7 pt),3FGA,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,,04:50,26,319,,          ,Off Rebound (2),O,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,34,04:50,26,320,"JEFFERSON, CORY",P007992   ,Foul Drawn (1),RV,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,15,04:50,26,321,"PRINTEZIS, GEORGIOS",PAMM      ,Foul (1),CM,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+          ,,,04:14,26,322,,          ,TV Time Out (3),TOUT_TV,,,,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,5,04:14,26,323,"MICOV, VLADIMIR",P000529   ,Turnover (1),TO,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,9,04:14,26,324,"KALNIETIS, MANTAS",PJBX      ,In,IN,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,55,04:14,26,325,"JERRELLS, CURTIS",P003067   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,15,03:58,27,327,"PRINTEZIS, GEORGIOS",PAMM      ,Foul Drawn (1),RV,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,34,03:58,27,328,"JEFFERSON, CORY",P007992   ,Foul (3),CM,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,15,03:56,27,329,"PRINTEZIS, GEORGIOS",PAMM      ,Free Throw In (1/1 -  6 pt),FTM,51.0,58.0,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,15,03:55,27,330,"PRINTEZIS, GEORGIOS",PAMM      ,Free Throw In (2/2 -  7 pt),FTM,51.0,59.0,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,15,03:55,27,331,"TARCZEWSKI, KALEB",P008004   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,77,03:55,27,332,"GUDAITIS, ARTURAS",P003120   ,In,IN,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,5,03:38,27,333,"MICOV, VLADIMIR",P000529   ,Two Pointer (4/6 -  10 pt),2FGM,53.0,59.0,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,6,03:22,27,334,"PAPAPETROU, IOANNIS",P005161   ,Two Pointer (1/3 -  2 pt),2FGM,53.0,61.0,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,6,03:22,27,335,"PAPAPETROU, IOANNIS",P005161   ,Foul Drawn (1),RV,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,9,03:22,27,336,"KALNIETIS, MANTAS",PJBX      ,Foul (2),CM,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,6,03:22,27,337,"PAPAPETROU, IOANNIS",P005161   ,Missed Free Throw (0/1 -  2 pt),FTA,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,9,03:22,27,338,"KALNIETIS, MANTAS",PJBX      ,Def Rebound (1),D,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,25,03:06,27,339,"THEODORE, JORDAN",P007946   ,Missed Two Pointer (4/10 -  14 pt),2FGA,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,77,03:03,27,340,"GUDAITIS, ARTURAS",P003120   ,Off Rebound (2),O,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,25,02:55,28,342,"THEODORE, JORDAN",P007946   ,Missed Two Pointer (4/11 -  14 pt),2FGA,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,1,02:53,28,343,"MCLEAN, JAMEL",P004418   ,Def Rebound (4),D,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,1,02:36,28,344,"MCLEAN, JAMEL",P004418   ,Two Pointer (6/8 -  13 pt),2FGM,53.0,63.0,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,5,02:16,28,345,"MICOV, VLADIMIR",P000529   ,Two Pointer (5/7 -  12 pt),2FGM,55.0,63.0,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,17,01:50,29,347,"MANTZARIS, VANGELIS",P003537   ,Missed Three Pointer (2/3 -  6 pt),3FGA,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,77,01:48,29,348,"GUDAITIS, ARTURAS",P003120   ,Def Rebound (5),D,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,34,01:44,29,349,"JEFFERSON, CORY",P007992   ,Foul Drawn (2),RV,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,15,01:44,29,350,"PRINTEZIS, GEORGIOS",PAMM      ,Foul (2),CM,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,15,01:42,29,351,"PRINTEZIS, GEORGIOS",PAMM      ,Out,OUT,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,33,01:42,29,352,"WILTJER, KYLE",P008052   ,In,IN,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,34,01:42,29,353,"JEFFERSON, CORY",P007992   ,Free Throw In (1/1 -  9 pt),FTM,56.0,63.0,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,5,01:42,29,354,"MICOV, VLADIMIR",P000529   ,Assist (3),AS,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,34,01:42,29,355,"JEFFERSON, CORY",P007992   ,Free Throw In (2/2 -  10 pt),FTM,57.0,63.0,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,7,01:42,29,356,"PASCOLO, DAVIDE",P006385   ,In,IN,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,34,01:42,29,357,"JEFFERSON, CORY",P007992   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,1,01:23,29,358,"MCLEAN, JAMEL",P004418   ,Two Pointer (7/9 -  15 pt),2FGM,57.0,65.0,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,6,01:21,29,359,"PAPAPETROU, IOANNIS",P005161   ,Assist (2),AS,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,6,01:06,29,360,"PAPAPETROU, IOANNIS",P005161   ,Foul (1),CM,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,77,01:06,29,361,"GUDAITIS, ARTURAS",P003120   ,Foul Drawn (3),RV,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,77,01:05,29,362,"GUDAITIS, ARTURAS",P003120   ,Free Throw In (3/3 -  5 pt),FTM,58.0,65.0,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,77,01:05,29,363,"GUDAITIS, ARTURAS",P003120   ,Missed Free Throw (3/4 -  5 pt),FTA,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,6,01:05,29,364,"PAPAPETROU, IOANNIS",P005161   ,Def Rebound (1),D,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,17,00:53,30,366,"MANTZARIS, VANGELIS",P003537   ,Turnover (1),TO,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,9,00:43,30,367,"KALNIETIS, MANTAS",PJBX      ,Two Pointer (1/2 -  2 pt),2FGM,60.0,65.0,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,1,00:25,30,368,"MCLEAN, JAMEL",P004418   ,Missed Two Pointer (7/10 -  15 pt),2FGA,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,9,00:22,30,369,"KALNIETIS, MANTAS",PJBX      ,Def Rebound (2),D,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,25,00:17,30,370,"THEODORE, JORDAN",P007946   ,Two Pointer (5/12 -  16 pt),2FGM,62.0,65.0,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,16,00:00,30,371,"PAPANIKOLAOU, KOSTAS",P001255   ,Foul Drawn (3),RV,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,25,00:00,30,372,"THEODORE, JORDAN",P007946   ,Foul (3),CM,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,16,00:00,30,373,"PAPANIKOLAOU, KOSTAS",P001255   ,Free Throw In (4/4 -  6 pt),FTM,62.0,66.0,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,16,00:00,30,374,"PAPANIKOLAOU, KOSTAS",P001255   ,Missed Free Throw (4/5 -  6 pt),FTA,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,77,00:00,30,375,"GUDAITIS, ARTURAS",P003120   ,Def Rebound (6),D,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+          ,,,,31,377,,          ,End Period,EP,,,,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+          ,,,,31,380,,          ,Begin Period,BP,,,,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,17,10:00,31,378,"MANTZARIS, VANGELIS",P003537   ,Out,OUT,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,22,10:00,31,379,"ROBERTS, BRIAN",P002091   ,In,IN,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,6,09:47,31,381,"PAPAPETROU, IOANNIS",P005161   ,Missed Two Pointer (1/4 -  2 pt),2FGA,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,1,09:47,31,382,"MCLEAN, JAMEL",P004418   ,Off Rebound (2),O,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,1,09:47,31,383,"MCLEAN, JAMEL",P004418   ,Foul Drawn (4),RV,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,7,09:47,31,384,"PASCOLO, DAVIDE",P006385   ,Foul (1),CM,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,1,09:34,31,385,"MCLEAN, JAMEL",P004418   ,Two Pointer (8/11 -  17 pt),2FGM,62.0,68.0,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,22,09:32,31,386,"ROBERTS, BRIAN",P002091   ,Assist (2),AS,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,77,09:14,31,387,"GUDAITIS, ARTURAS",P003120   ,Two Pointer (2/3 -  7 pt),2FGM,64.0,68.0,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,22,08:58,32,390,"ROBERTS, BRIAN",P002091   ,Two Pointer (3/4 -  16 pt),2FGM,64.0,70.0,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,5,08:43,32,391,"MICOV, VLADIMIR",P000529   ,Foul Drawn (2),RV,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,1,08:43,32,392,"MCLEAN, JAMEL",P004418   ,Foul (2),CM,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,1,08:41,32,393,"MCLEAN, JAMEL",P004418   ,Out,OUT,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,11,08:41,32,394,"MILUTINOV, NIKOLA",P003941   ,In,IN,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,25,08:32,32,395,"THEODORE, JORDAN",P007946   ,Missed Three Pointer (2/5 -  16 pt),3FGA,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,,08:32,32,396,,          ,Def Rebound (3),D,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,16,08:32,32,397,"PAPANIKOLAOU, KOSTAS",P001255   ,Foul Drawn (4),RV,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,77,08:32,32,398,"GUDAITIS, ARTURAS",P003120   ,Foul (2),CM,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,,08:31,32,399,,          ,Time Out (1),TOUT,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,15,08:31,32,400,"PRINTEZIS, GEORGIOS",PAMM      ,In,IN,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,33,08:31,32,401,"WILTJER, KYLE",P008052   ,Out,OUT,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,15,08:23,32,402,"PRINTEZIS, GEORGIOS",PAMM      ,Turnover (1),TO,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,77,08:05,32,403,"GUDAITIS, ARTURAS",P003120   ,Two Pointer (3/4 -  9 pt),2FGM,66.0,70.0,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,25,08:05,32,404,"THEODORE, JORDAN",P007946   ,Assist (3),AS,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,25,07:47,33,406,"THEODORE, JORDAN",P007946   ,Foul Drawn (3),RV,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,11,07:47,33,407,"MILUTINOV, NIKOLA",P003941   ,Offensive Foul (5),OF,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,11,07:47,33,408,"MILUTINOV, NIKOLA",P003941   ,Turnover (1),TO,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,11,07:47,33,409,"MILUTINOV, NIKOLA",P003941   ,Out,OUT,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,31,07:47,33,410,"BOGRIS, GEORGIOS",P001933   ,In,IN,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,9,07:35,33,411,"KALNIETIS, MANTAS",PJBX      ,Missed Two Pointer (1/3 -  2 pt),2FGA,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,77,07:33,33,412,"GUDAITIS, ARTURAS",P003120   ,Off Rebound (3),O,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,77,07:31,33,413,"GUDAITIS, ARTURAS",P003120   ,Foul Drawn (4),RV,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,31,07:31,33,414,"BOGRIS, GEORGIOS",P001933   ,Foul (2),CM,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,13,07:23,33,415,"STRELNIEKS, JANIS",P000046   ,In,IN,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,16,07:23,33,416,"PAPANIKOLAOU, KOSTAS",P001255   ,Out,OUT,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,77,07:23,33,417,"GUDAITIS, ARTURAS",P003120   ,Missed Free Throw (3/5 -  9 pt),FTA,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,77,07:23,33,418,"GUDAITIS, ARTURAS",P003120   ,Free Throw In (4/6 -  10 pt),FTM,67.0,70.0,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,9,07:23,33,419,"KALNIETIS, MANTAS",PJBX      ,Assist (1),AS,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,13,07:14,33,420,"STRELNIEKS, JANIS",P000046   ,Foul Drawn (4),RV,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,9,07:14,33,421,"KALNIETIS, MANTAS",PJBX      ,Foul (3),CM,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,13,07:14,33,422,"STRELNIEKS, JANIS",P000046   ,Turnover (2),TO,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,9,07:14,33,423,"KALNIETIS, MANTAS",PJBX      ,Steal (1),ST,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,7,06:51,34,425,"PASCOLO, DAVIDE",P006385   ,Two Pointer (1/1 -  2 pt),2FGM,69.0,70.0,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,,06:51,34,426,,          ,Time Out (1),TOUT,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,1,06:51,34,427,"MCLEAN, JAMEL",P004418   ,In,IN,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,31,06:51,34,428,"BOGRIS, GEORGIOS",P001933   ,Out,OUT,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,6,06:43,34,429,"PAPAPETROU, IOANNIS",P005161   ,Foul Drawn (2),RV,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,5,06:43,34,430,"MICOV, VLADIMIR",P000529   ,Foul (1),CM,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,15,06:31,34,431,"PRINTEZIS, GEORGIOS",PAMM      ,Missed Three Pointer (1/3 -  7 pt),3FGA,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,5,06:28,34,432,"MICOV, VLADIMIR",P000529   ,Def Rebound (2),D,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,5,06:22,34,433,"MICOV, VLADIMIR",P000529   ,Three Pointer (1/1 -  15 pt),3FGM,72.0,70.0,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,7,06:20,34,434,"PASCOLO, DAVIDE",P006385   ,Assist (1),AS,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,22,05:59,35,436,"ROBERTS, BRIAN",P002091   ,Foul Drawn (3),RV,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,25,05:59,35,437,"THEODORE, JORDAN",P007946   ,Foul (4),CM,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,6,05:58,35,438,"PAPAPETROU, IOANNIS",P005161   ,Out,OUT,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,16,05:58,35,439,"PAPANIKOLAOU, KOSTAS",P001255   ,In,IN,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,22,05:58,35,440,"ROBERTS, BRIAN",P002091   ,Free Throw In (5/5 -  17 pt),FTM,72.0,71.0,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,22,05:58,35,441,"ROBERTS, BRIAN",P002091   ,Free Throw In (6/6 -  18 pt),FTM,72.0,72.0,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,25,05:58,35,442,"THEODORE, JORDAN",P007946   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,55,05:58,35,443,"JERRELLS, CURTIS",P003067   ,In,IN,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,77,05:55,35,444,"GUDAITIS, ARTURAS",P003120   ,Two Pointer (4/5 -  12 pt),2FGM,74.0,72.0,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,5,05:55,35,445,"MICOV, VLADIMIR",P000529   ,Assist (4),AS,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,77,05:55,35,446,"GUDAITIS, ARTURAS",P003120   ,Foul Drawn (5),RV,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,1,05:55,35,447,"MCLEAN, JAMEL",P004418   ,Foul (3),CM,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,77,05:55,35,448,"GUDAITIS, ARTURAS",P003120   ,Free Throw In (5/7 -  13 pt),FTM,75.0,72.0,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,9,05:33,35,449,"KALNIETIS, MANTAS",PJBX      ,Foul Drawn (1),RV,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,1,05:33,35,450,"MCLEAN, JAMEL",P004418   ,Offensive Foul (4),OF,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,1,05:33,35,451,"MCLEAN, JAMEL",P004418   ,Turnover (1),TO,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,5,05:13,35,452,"MICOV, VLADIMIR",P000529   ,Missed Three Pointer (1/2 -  15 pt),3FGA,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,22,05:13,35,453,"ROBERTS, BRIAN",P002091   ,Def Rebound (3),D,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,15,05:13,35,454,"PRINTEZIS, GEORGIOS",PAMM      ,Two Pointer (2/6 -  9 pt),2FGM,75.0,74.0,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,22,05:13,35,455,"ROBERTS, BRIAN",P002091   ,Assist (3),AS,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,15,05:13,35,456,"PRINTEZIS, GEORGIOS",PAMM      ,Foul Drawn (2),RV,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,5,05:13,35,457,"MICOV, VLADIMIR",P000529   ,Foul (2),CM,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,15,05:07,35,458,"PRINTEZIS, GEORGIOS",PAMM      ,Missed Free Throw (2/3 -  9 pt),FTA,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,77,05:07,35,459,"GUDAITIS, ARTURAS",P003120   ,Def Rebound (7),D,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,7,04:45,36,461,"PASCOLO, DAVIDE",P006385   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,22,04:43,36,462,"ROBERTS, BRIAN",P002091   ,Def Rebound (4),D,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,22,04:43,36,463,"ROBERTS, BRIAN",P002091   ,Turnover (2),TO,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,1,04:38,36,464,"MCLEAN, JAMEL",P004418   ,Out,OUT,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,34,04:38,36,465,"THOMPSON, HOLLIS",P008014   ,In,IN,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,77,04:27,36,466,"GUDAITIS, ARTURAS",P003120   ,Two Pointer (5/6 -  15 pt),2FGM,77.0,74.0,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,5,04:27,36,530,"MICOV, VLADIMIR",P000529   ,Assist (5),AS,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,16,04:06,36,467,"PAPANIKOLAOU, KOSTAS",P001255   ,Three Pointer (1/2 -  9 pt),3FGM,77.0,77.0,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,15,04:04,36,468,"PRINTEZIS, GEORGIOS",PAMM      ,Assist (2),AS,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,77,03:50,37,470,"GUDAITIS, ARTURAS",P003120   ,Foul Drawn (6),RV,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,15,03:50,37,471,"PRINTEZIS, GEORGIOS",PAMM      ,Foul (3),CM,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,77,03:51,37,472,"GUDAITIS, ARTURAS",P003120   ,Free Throw In (6/8 -  16 pt),FTM,78.0,77.0,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,77,03:51,37,473,"GUDAITIS, ARTURAS",P003120   ,Free Throw In (7/9 -  17 pt),FTM,79.0,77.0,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,7,03:51,37,474,"PASCOLO, DAVIDE",P006385   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,15,03:51,37,475,"TARCZEWSKI, KALEB",P008004   ,In,IN,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,25,03:51,37,476,"THEODORE, JORDAN",P007946   ,In,IN,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,77,03:51,37,477,"GUDAITIS, ARTURAS",P003120   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,34,03:37,37,478,"THOMPSON, HOLLIS",P008014   ,Foul Drawn (1),RV,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,15,03:37,37,479,"TARCZEWSKI, KALEB",P008004   ,Foul (1),CM,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,34,03:37,37,480,"THOMPSON, HOLLIS",P008014   ,Free Throw In (1/1 -  3 pt),FTM,79.0,78.0,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,1,03:37,37,481,"MCLEAN, JAMEL",P004418   ,In,IN,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,22,03:37,37,482,"ROBERTS, BRIAN",P002091   ,Out,OUT,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,34,03:37,37,483,"THOMPSON, HOLLIS",P008014   ,Free Throw In (2/2 -  4 pt),FTM,79.0,79.0,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,55,03:14,37,484,"JERRELLS, CURTIS",P003067   ,Missed Two Pointer (1/3 -  7 pt),2FGA,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,,03:14,37,485,,          ,Def Rebound (4),D,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,15,03:14,37,486,"TARCZEWSKI, KALEB",P008004   ,Foul (2),CM,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,16,03:14,37,487,"PAPANIKOLAOU, KOSTAS",P001255   ,Foul Drawn (5),RV,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,16,03:14,37,488,"PAPANIKOLAOU, KOSTAS",P001255   ,Free Throw In (5/6 -  10 pt),FTM,79.0,80.0,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,16,03:14,37,489,"PAPANIKOLAOU, KOSTAS",P001255   ,Free Throw In (6/7 -  11 pt),FTM,79.0,81.0,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,25,03:06,37,490,"THEODORE, JORDAN",P007946   ,Missed Two Pointer (5/13 -  16 pt),2FGA,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,1,03:06,37,491,"MCLEAN, JAMEL",P004418   ,Def Rebound (5),D,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,1,02:44,38,493,"MCLEAN, JAMEL",P004418   ,Missed Two Pointer (8/12 -  17 pt),2FGA,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,5,02:44,38,494,"MICOV, VLADIMIR",P000529   ,Def Rebound (3),D,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,25,02:43,38,495,"THEODORE, JORDAN",P007946   ,Missed Two Pointer (5/14 -  16 pt),2FGA,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,25,02:43,38,496,"THEODORE, JORDAN",P007946   ,Shot Rejected (1),AG,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,34,02:43,38,497,"THOMPSON, HOLLIS",P008014   ,Block (1),FV,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,,02:43,38,498,,          ,Off Rebound (3),O,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,15,02:25,38,499,"TARCZEWSKI, KALEB",P008004   ,Out,OUT,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,77,02:25,38,500,"GUDAITIS, ARTURAS",P003120   ,In,IN,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,77,02:25,38,501,"GUDAITIS, ARTURAS",P003120   ,Two Pointer (6/7 -  19 pt),2FGM,81.0,81.0,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,25,02:25,38,502,"THEODORE, JORDAN",P007946   ,Assist (4),AS,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,34,02:17,38,503,"THOMPSON, HOLLIS",P008014   ,Turnover (1),TO,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,25,01:42,39,505,"THEODORE, JORDAN",P007946   ,Two Pointer (6/15 -  18 pt),2FGM,83.0,81.0,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,22,01:41,39,506,"ROBERTS, BRIAN",P002091   ,In,IN,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,34,01:41,39,507,"THOMPSON, HOLLIS",P008014   ,Out,OUT,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,1,01:25,39,508,"MCLEAN, JAMEL",P004418   ,Two Pointer (9/13 -  19 pt),2FGM,83.0,83.0,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,13,01:25,39,509,"STRELNIEKS, JANIS",P000046   ,Assist (5),AS,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,25,01:04,39,510,"THEODORE, JORDAN",P007946   ,Two Pointer (7/16 -  20 pt),2FGM,85.0,83.0,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,1,00:46,40,512,"MCLEAN, JAMEL",P004418   ,Two Pointer (10/14 -  21 pt),2FGM,85.0,85.0,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,1,00:46,40,513,"MCLEAN, JAMEL",P004418   ,Foul Drawn (5),RV,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,77,00:46,40,514,"GUDAITIS, ARTURAS",P003120   ,Foul (3),CM,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,1,00:46,40,515,"MCLEAN, JAMEL",P004418   ,Free Throw In (2/3 -  22 pt),FTM,85.0,86.0,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,25,00:30,40,516,"THEODORE, JORDAN",P007946   ,Missed Two Pointer (7/17 -  20 pt),2FGA,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,25,00:30,40,517,"THEODORE, JORDAN",P007946   ,Shot Rejected (2),AG,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,16,00:30,40,518,"PAPANIKOLAOU, KOSTAS",P001255   ,Block (1),FV,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,,00:30,40,519,,          ,Off Rebound (4),O,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,77,00:30,40,520,"GUDAITIS, ARTURAS",P003120   ,Missed Two Pointer (6/8 -  19 pt),2FGA,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,15,00:15,40,521,"PRINTEZIS, GEORGIOS",PAMM      ,Def Rebound (2),D,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,16,00:15,40,522,"PAPANIKOLAOU, KOSTAS",P001255   ,Foul Drawn (6),RV,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,55,00:15,40,523,"JERRELLS, CURTIS",P003067   ,Foul (3),CM,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,16,00:15,40,524,"PAPANIKOLAOU, KOSTAS",P001255   ,Missed Free Throw (6/8 -  11 pt),FTA,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+OLY       ,,16,00:15,40,525,"PAPANIKOLAOU, KOSTAS",P001255   ,Missed Free Throw (6/9 -  11 pt),FTA,,,Olympiacos Piraeus,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,55,00:15,40,526,"JERRELLS, CURTIS",P003067   ,Def Rebound (1),D,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+MIL       ,,55,00:05,40,527,"JERRELLS, CURTIS",P003067   ,Missed Three Pointer (1/6 -  7 pt),3FGA,,,AX Armani Exchange Olimpia Milan,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY
+          ,,,,41,531,,          ,End Game,EG,,,,0,AX Armani Exchange Olimpia Milan,MIL,Olympiacos Piraeus,OLY

@@ -1,0 +1,605 @@
+CODETEAM,COMMENT,DORSAL,MARKERTIME,MINUTE,NUMBEROFPLAY,PLAYER,PLAYER_ID,PLAYINFO,PLAYTYPE,POINTS_A,POINTS_B,TEAM,TYPE,home_team,home_team_code,away_team,away_team_code
+          ,,,,1,10,,          ,Begin Period,BP,,,,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,13,09:42,1,11,"RODRIGUEZ, SERGIO",PCVM      ,Turnover (1),TO,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,32,09:29,1,12,"GREEN, ERICK",P005159   ,Foul Drawn (1),RV,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,41,09:29,1,13,"KURBANOV, NIKITA",PJLX      ,Foul (1),CM,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,32,09:16,1,14,"GREEN, ERICK",P005159   ,Two Pointer (1/1 -  2 pt),2FGM,2.0,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,41,09:03,1,15,"KURBANOV, NIKITA",PJLX      ,Two Pointer (1/1 -  2 pt),2FGM,2.0,2.0,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,21,08:35,2,17,"PLEISS, TIBOR",PLHK      ,Two Pointer (1/1 -  2 pt),2FGM,4.0,2.0,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,6,08:32,2,18,"ABALDE, ALBERTO",P003733   ,Assist (1),AS,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,21,08:24,2,19,"CLYBURN, WILL",P004888   ,Two Pointer (1/1 -  2 pt),2FGM,4.0,4.0,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,21,08:24,2,20,"CLYBURN, WILL",P004888   ,Foul Drawn (1),RV,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,42,08:24,2,21,"DOORNEKAMP, AARON",P002763   ,Foul (1),CM,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,21,08:24,2,22,"CLYBURN, WILL",P004888   ,Free Throw In (1/1 -  3 pt),FTM,4.0,5.0,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,42,08:03,2,23,"DOORNEKAMP, AARON",P002763   ,Turnover (1),TO,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,1,07:49,3,25,"DE COLO, NANDO",P002100   ,Three Pointer (1/1 -  3 pt),3FGM,4.0,8.0,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,21,07:48,3,26,"CLYBURN, WILL",P004888   ,Assist (1),AS,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,21,07:34,3,27,"PLEISS, TIBOR",PLHK      ,Two Pointer (2/2 -  4 pt),2FGM,6.0,8.0,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,32,07:32,3,28,"GREEN, ERICK",P005159   ,Assist (1),AS,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,1,07:32,3,29,"DE COLO, NANDO",P002100   ,Three Pointer (2/2 -  6 pt),3FGM,6.0,11.0,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,13,07:32,3,30,"RODRIGUEZ, SERGIO",PCVM      ,Assist (1),AS,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,32,07:32,3,31,"GREEN, ERICK",P005159   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,41,07:32,3,32,"KURBANOV, NIKITA",PJLX      ,Def Rebound (1),D,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,1,07:32,3,33,"DE COLO, NANDO",P002100   ,Missed Three Pointer (2/3 -  6 pt),3FGA,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,6,07:32,3,34,"ABALDE, ALBERTO",P003733   ,Def Rebound (1),D,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,21,06:34,4,36,"PLEISS, TIBOR",PLHK      ,Two Pointer (3/3 -  6 pt),2FGM,8.0,11.0,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,6,06:34,4,37,"ABALDE, ALBERTO",P003733   ,Assist (2),AS,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,21,06:34,4,38,"PLEISS, TIBOR",PLHK      ,Foul Drawn (1),RV,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,11,06:34,4,39,"ANTONOV, SEMEN",P004941   ,Foul (1),CM,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,21,06:34,4,40,"PLEISS, TIBOR",PLHK      ,Free Throw In (1/1 -  7 pt),FTM,9.0,11.0,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,21,06:27,4,41,"CLYBURN, WILL",P004888   ,Missed Two Pointer (1/2 -  3 pt),2FGA,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,42,06:27,4,42,"DOORNEKAMP, AARON",P002763   ,Def Rebound (1),D,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,0,06:27,4,43,"THOMAS, WILL",P005856   ,Two Pointer (1/1 -  2 pt),2FGM,11.0,11.0,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,42,06:27,4,44,"DOORNEKAMP, AARON",P002763   ,Assist (1),AS,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,1,05:53,5,46,"DE COLO, NANDO",P002100   ,Turnover (1),TO,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,42,05:53,5,47,"DOORNEKAMP, AARON",P002763   ,Steal (1),ST,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,21,05:41,5,48,"PLEISS, TIBOR",PLHK      ,Foul Drawn (2),RV,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,11,05:41,5,49,"ANTONOV, SEMEN",P004941   ,Foul (2),CM,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,11,05:41,5,50,"ANTONOV, SEMEN",P004941   ,Out,OUT,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,20,05:41,5,51,"VORONTSEVICH, ANDREY",PLHI      ,In,IN,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,21,05:41,5,52,"PLEISS, TIBOR",PLHK      ,Free Throw In (2/2 -  8 pt),FTM,12.0,11.0,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,42,05:41,5,53,"DOORNEKAMP, AARON",P002763   ,Assist (2),AS,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,21,05:41,5,54,"PLEISS, TIBOR",PLHK      ,Free Throw In (3/3 -  9 pt),FTM,13.0,11.0,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,13,05:20,5,55,"RODRIGUEZ, SERGIO",PCVM      ,Turnover (2),TO,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,21,05:19,5,56,"PLEISS, TIBOR",PLHK      ,Steal (1),ST,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,6,05:11,5,57,"ABALDE, ALBERTO",P003733   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,20,05:09,5,58,"VORONTSEVICH, ANDREY",PLHI      ,Def Rebound (1),D,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,13,05:05,5,59,"RODRIGUEZ, SERGIO",PCVM      ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,42,05:03,5,60,"DOORNEKAMP, AARON",P002763   ,Def Rebound (2),D,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,32,04:48,6,62,"GREEN, ERICK",P005159   ,Missed Two Pointer (1/3 -  2 pt),2FGA,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,41,04:47,6,63,"KURBANOV, NIKITA",PJLX      ,Def Rebound (2),D,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,1,04:38,6,64,"DE COLO, NANDO",P002100   ,Missed Two Pointer (0/1 -  6 pt),2FGA,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,1,04:38,6,65,"DE COLO, NANDO",P002100   ,Shot Rejected (1),AG,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,21,04:37,6,66,"PLEISS, TIBOR",PLHK      ,Block (1),FV,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,1,04:34,6,67,"DE COLO, NANDO",P002100   ,Off Rebound (1),O,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,1,04:32,6,68,"DE COLO, NANDO",P002100   ,Three Pointer (3/4 -  9 pt),3FGM,13.0,14.0,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,42,04:13,6,69,"DOORNEKAMP, AARON",P002763   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,,04:11,6,70,,          ,Off Rebound (1),O,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+          ,,,04:11,6,71,,          ,TV Time Out (1),TOUT_TV,,,,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,21,04:01,6,72,"PLEISS, TIBOR",PLHK      ,Missed Two Pointer (3/4 -  9 pt),2FGA,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,13,03:58,7,74,"RODRIGUEZ, SERGIO",PCVM      ,Def Rebound (1),D,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,20,03:43,7,75,"VORONTSEVICH, ANDREY",PLHI      ,Two Pointer (1/1 -  2 pt),2FGM,13.0,16.0,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,20,03:43,7,76,"VORONTSEVICH, ANDREY",PLHI      ,Foul Drawn (1),RV,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,21,03:43,7,77,"PLEISS, TIBOR",PLHK      ,Foul (1),CM,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,17,03:43,7,78,"MARTINEZ, RAFA",P001351   ,In,IN,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,19,03:43,7,79,"SAN EMETERIO, FERNANDO",P000518   ,In,IN,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,32,03:43,7,80,"GREEN, ERICK",P005159   ,Out,OUT,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,42,03:43,7,81,"DOORNEKAMP, AARON",P002763   ,Out,OUT,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,20,03:43,7,82,"VORONTSEVICH, ANDREY",PLHI      ,Free Throw In (1/1 -  3 pt),FTM,13.0,17.0,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,6,03:29,7,83,"ABALDE, ALBERTO",P003733   ,Turnover (1),TO,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,41,03:11,7,84,"KURBANOV, NIKITA",PJLX      ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,6,03:09,7,85,"ABALDE, ALBERTO",P003733   ,Def Rebound (2),D,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,6,03:05,7,86,"ABALDE, ALBERTO",P003733   ,Two Pointer (1/2 -  2 pt),2FGM,15.0,17.0,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,21,02:44,8,88,"CLYBURN, WILL",P004888   ,Missed Two Pointer (1/3 -  3 pt),2FGA,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,21,02:41,8,89,"PLEISS, TIBOR",PLHK      ,Def Rebound (1),D,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,6,02:25,8,90,"ABALDE, ALBERTO",P003733   ,Two Pointer (2/3 -  4 pt),2FGM,17.0,17.0,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,21,02:07,8,91,"CLYBURN, WILL",P004888   ,Missed Three Pointer (0/1 -  3 pt),3FGA,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,17,02:05,8,92,"MARTINEZ, RAFA",P001351   ,Def Rebound (1),D,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,0,01:52,9,94,"THOMAS, WILL",P005856   ,Two Pointer (2/2 -  4 pt),2FGM,19.0,17.0,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,,01:52,9,95,,          ,Time Out (1),TOUT,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,6,01:52,9,96,"ABALDE, ALBERTO",P003733   ,Out,OUT,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,14,01:52,9,97,"DUBLJEVIC, BOJAN",P002742   ,In,IN,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,21,01:52,9,98,"PLEISS, TIBOR",PLHK      ,Out,OUT,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,30,01:52,9,99,"SASTRE, JOAN",P002936   ,In,IN,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,22,01:52,9,100,"HIGGINS, CORY",P006450   ,In,IN,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,41,01:52,9,101,"KURBANOV, NIKITA",PJLX      ,Out,OUT,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,21,01:32,9,102,"CLYBURN, WILL",P004888   ,Foul Drawn (2),RV,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,14,01:32,9,103,"DUBLJEVIC, BOJAN",P002742   ,Foul (1),CM,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,21,01:32,9,104,"CLYBURN, WILL",P004888   ,Missed Free Throw (1/2 -  3 pt),FTA,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,21,01:32,9,105,"CLYBURN, WILL",P004888   ,Free Throw In (2/3 -  4 pt),FTM,19.0,18.0,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,19,01:12,9,106,"SAN EMETERIO, FERNANDO",P000518   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,20,01:10,9,107,"VORONTSEVICH, ANDREY",PLHI      ,Def Rebound (2),D,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,21,01:02,9,108,"CLYBURN, WILL",P004888   ,Two Pointer (2/4 -  6 pt),2FGM,19.0,20.0,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,21,01:02,9,110,"CLYBURN, WILL",P004888   ,Foul Drawn (3),RV,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,0,01:02,9,111,"THOMAS, WILL",P005856   ,Foul (1),CM,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,21,01:02,9,112,"CLYBURN, WILL",P004888   ,Free Throw In (3/4 -  7 pt),FTM,19.0,21.0,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,9,01:02,9,113,"WESTERMANN, LEO",P002543   ,In,IN,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,13,01:02,9,114,"RODRIGUEZ, SERGIO",PCVM      ,Out,OUT,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,19,00:36,10,116,"SAN EMETERIO, FERNANDO",P000518   ,Two Pointer (1/2 -  2 pt),2FGM,21.0,21.0,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,22,00:22,10,117,"HIGGINS, CORY",P006450   ,Foul Drawn (1),RV,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,19,00:22,10,118,"SAN EMETERIO, FERNANDO",P000518   ,Foul (1),CM,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,22,00:22,10,119,"HIGGINS, CORY",P006450   ,Free Throw In (1/1 -  1 pt),FTM,21.0,22.0,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,22,00:22,10,120,"HIGGINS, CORY",P006450   ,Free Throw In (2/2 -  2 pt),FTM,21.0,23.0,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,1,00:22,10,121,"DE COLO, NANDO",P002100   ,Out,OUT,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,10,00:22,10,122,"GANKEVICH, ALEXANDER",P004623   ,In,IN,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,19,00:13,10,123,"SAN EMETERIO, FERNANDO",P000518   ,Foul Drawn (1),RV,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,10,00:13,10,124,"GANKEVICH, ALEXANDER",P004623   ,Foul (1),CM,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,14,00:01,10,125,"DUBLJEVIC, BOJAN",P002742   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+          ,,,,11,127,,          ,End Period,EP,,,,0,Valencia Basket,PAM,CSKA Moscow,CSK
+          ,,,,11,130,,          ,Begin Period,BP,,,,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,0,10:00,11,128,"THOMAS, WILL",P005856   ,Out,OUT,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,42,10:00,11,129,"DOORNEKAMP, AARON",P002763   ,In,IN,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,14,09:48,11,131,"DUBLJEVIC, BOJAN",P002742   ,Foul Drawn (1),RV,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,10,09:48,11,132,"GANKEVICH, ALEXANDER",P004623   ,Foul (2),CM,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,14,09:37,11,133,"DUBLJEVIC, BOJAN",P002742   ,Three Pointer (1/2 -  3 pt),3FGM,24.0,23.0,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,30,09:35,11,134,"SASTRE, JOAN",P002936   ,Assist (1),AS,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,22,09:12,11,135,"HIGGINS, CORY",P006450   ,Turnover (1),TO,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,17,09:12,11,136,"MARTINEZ, RAFA",P001351   ,Steal (1),ST,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,17,09:05,11,137,"MARTINEZ, RAFA",P001351   ,Foul Drawn (1),RV,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,9,09:05,11,138,"WESTERMANN, LEO",P002543   ,Foul (1),CM,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,1,09:05,11,139,"DE COLO, NANDO",P002100   ,In,IN,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,9,09:05,11,140,"WESTERMANN, LEO",P002543   ,Out,OUT,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,10,09:05,11,141,"GANKEVICH, ALEXANDER",P004623   ,Out,OUT,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,13,09:05,11,142,"RODRIGUEZ, SERGIO",PCVM      ,In,IN,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,17,09:04,11,143,"MARTINEZ, RAFA",P001351   ,Turnover (1),TO,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,22,09:04,11,144,"HIGGINS, CORY",P006450   ,Steal (1),ST,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,21,08:51,12,146,"CLYBURN, WILL",P004888   ,Turnover (1),TO,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,17,08:43,12,147,"MARTINEZ, RAFA",P001351   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,30,08:43,12,148,"SASTRE, JOAN",P002936   ,Off Rebound (1),O,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,17,08:43,12,149,"MARTINEZ, RAFA",P001351   ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,21,08:43,12,150,"CLYBURN, WILL",P004888   ,Def Rebound (1),D,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,21,08:07,12,151,"CLYBURN, WILL",P004888   ,Missed Two Pointer (2/5 -  7 pt),2FGA,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,17,08:06,12,152,"MARTINEZ, RAFA",P001351   ,Def Rebound (2),D,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,17,08:04,12,153,"MARTINEZ, RAFA",P001351   ,Foul Drawn (2),RV,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,20,08:04,12,154,"VORONTSEVICH, ANDREY",PLHI      ,Foul (1),CM,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,21,08:04,12,155,"CLYBURN, WILL",P004888   ,Out,OUT,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,77,08:04,12,156,"MAKIEV, ALAN",P006357   ,In,IN,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,17,08:04,12,157,"MARTINEZ, RAFA",P001351   ,Free Throw In (1/1 -  1 pt),FTM,25.0,23.0,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,17,08:04,12,158,"MARTINEZ, RAFA",P001351   ,Free Throw In (2/2 -  2 pt),FTM,26.0,23.0,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,13,07:43,13,160,"RODRIGUEZ, SERGIO",PCVM      ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,19,07:41,13,161,"SAN EMETERIO, FERNANDO",P000518   ,Def Rebound (1),D,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,14,07:36,13,162,"DUBLJEVIC, BOJAN",P002742   ,Foul Drawn (2),RV,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,77,07:36,13,163,"MAKIEV, ALAN",P006357   ,Foul (1),CM,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,14,07:28,13,164,"DUBLJEVIC, BOJAN",P002742   ,Missed Three Pointer (1/3 -  3 pt),3FGA,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,13,07:25,13,165,"RODRIGUEZ, SERGIO",PCVM      ,Def Rebound (2),D,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,13,07:20,13,166,"RODRIGUEZ, SERGIO",PCVM      ,Two Pointer (1/1 -  2 pt),2FGM,26.0,25.0,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,14,07:09,13,167,"DUBLJEVIC, BOJAN",P002742   ,Foul Drawn (3),RV,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,77,07:09,13,168,"MAKIEV, ALAN",P006357   ,Foul (2),CM,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,31,07:09,13,169,"KHRYAPA, VICTOR",PBCQ      ,In,IN,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,77,07:09,13,170,"MAKIEV, ALAN",P006357   ,Out,OUT,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,14,07:09,13,171,"DUBLJEVIC, BOJAN",P002742   ,Free Throw In (1/1 -  4 pt),FTM,27.0,25.0,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,14,07:09,13,172,"DUBLJEVIC, BOJAN",P002742   ,Free Throw In (2/2 -  5 pt),FTM,28.0,25.0,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,13,06:56,14,174,"RODRIGUEZ, SERGIO",PCVM      ,Turnover (3),TO,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,14,06:54,14,175,"DUBLJEVIC, BOJAN",P002742   ,Steal (1),ST,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,30,06:50,14,176,"SASTRE, JOAN",P002936   ,Turnover (1),TO,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,1,06:49,14,177,"DE COLO, NANDO",P002100   ,Steal (1),ST,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,1,06:45,14,178,"DE COLO, NANDO",P002100   ,Foul Drawn (1),RV,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,17,06:45,14,179,"MARTINEZ, RAFA",P001351   ,Foul (1),CM,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,13,06:33,14,180,"RODRIGUEZ, SERGIO",PCVM      ,Missed Three Pointer (0/3 -  2 pt),3FGA,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,17,06:33,14,181,"MARTINEZ, RAFA",P001351   ,Def Rebound (3),D,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,19,06:33,14,182,"SAN EMETERIO, FERNANDO",P000518   ,Three Pointer (1/1 -  5 pt),3FGM,31.0,25.0,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,14,06:33,14,183,"DUBLJEVIC, BOJAN",P002742   ,Assist (1),AS,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,1,06:08,14,184,"DE COLO, NANDO",P002100   ,Foul Drawn (2),RV,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,30,06:08,14,185,"SASTRE, JOAN",P002936   ,Foul (1),CM,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,6,06:08,14,186,"ABALDE, ALBERTO",P003733   ,In,IN,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,17,06:08,14,187,"MARTINEZ, RAFA",P001351   ,Out,OUT,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,30,06:08,14,188,"SASTRE, JOAN",P002936   ,Out,OUT,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,32,06:08,14,189,"GREEN, ERICK",P005159   ,In,IN,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,11,06:08,14,190,"ANTONOV, SEMEN",P004941   ,In,IN,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,20,06:08,14,191,"VORONTSEVICH, ANDREY",PLHI      ,Out,OUT,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,31,06:03,14,192,"KHRYAPA, VICTOR",PBCQ      ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,19,06:03,14,193,"SAN EMETERIO, FERNANDO",P000518   ,Def Rebound (2),D,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,6,05:43,15,195,"ABALDE, ALBERTO",P003733   ,Three Pointer (1/1 -  7 pt),3FGM,34.0,25.0,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,19,05:43,15,196,"SAN EMETERIO, FERNANDO",P000518   ,Assist (1),AS,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,,05:43,15,197,,          ,Time Out (1),TOUT,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,14,05:43,15,198,"DUBLJEVIC, BOJAN",P002742   ,Out,OUT,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,21,05:43,15,199,"PLEISS, TIBOR",PLHK      ,In,IN,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,22,05:33,15,200,"HIGGINS, CORY",P006450   ,Foul Drawn (2),RV,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,19,05:33,15,201,"SAN EMETERIO, FERNANDO",P000518   ,Foul (2),CM,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,3,05:33,15,202,"PUERTO, JOSEP",P006643   ,In,IN,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,19,05:33,15,203,"SAN EMETERIO, FERNANDO",P000518   ,Out,OUT,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,22,05:26,15,204,"HIGGINS, CORY",P006450   ,Two Pointer (1/1 -  4 pt),2FGM,34.0,27.0,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,6,05:14,15,205,"ABALDE, ALBERTO",P003733   ,Two Pointer (3/4 -  9 pt),2FGM,36.0,27.0,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,22,05:00,15,206,"HIGGINS, CORY",P006450   ,Two Pointer (2/2 -  6 pt),2FGM,36.0,29.0,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,22,05:00,15,207,"HIGGINS, CORY",P006450   ,Foul Drawn (3),RV,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,3,05:00,15,208,"PUERTO, JOSEP",P006643   ,Foul (1),CM,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,22,05:00,15,209,"HIGGINS, CORY",P006450   ,Free Throw In (3/3 -  7 pt),FTM,36.0,30.0,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,32,04:38,16,211,"GREEN, ERICK",P005159   ,Two Pointer (2/4 -  4 pt),2FGM,38.0,30.0,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,6,04:38,16,212,"ABALDE, ALBERTO",P003733   ,Assist (3),AS,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,32,04:38,16,213,"GREEN, ERICK",P005159   ,Foul Drawn (2),RV,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,22,04:38,16,214,"HIGGINS, CORY",P006450   ,Foul (1),CM,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,0,04:38,16,215,"THOMAS, WILL",P005856   ,In,IN,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,42,04:38,16,216,"DOORNEKAMP, AARON",P002763   ,Out,OUT,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,32,04:38,16,217,"GREEN, ERICK",P005159   ,Free Throw In (1/1 -  5 pt),FTM,39.0,30.0,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,1,04:20,16,218,"DE COLO, NANDO",P002100   ,Foul Drawn (3),RV,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,6,04:20,16,219,"ABALDE, ALBERTO",P003733   ,Foul (1),CM,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,1,04:20,16,221,"DE COLO, NANDO",P002100   ,Free Throw In (1/1 -  10 pt),FTM,39.0,31.0,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,1,04:20,16,222,"DE COLO, NANDO",P002100   ,Free Throw In (2/2 -  11 pt),FTM,39.0,32.0,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,6,04:12,16,223,"ABALDE, ALBERTO",P003733   ,Turnover (2),TO,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,11,04:11,16,224,"ANTONOV, SEMEN",P004941   ,Steal (1),ST,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,1,04:11,16,225,"DE COLO, NANDO",P002100   ,Two Pointer (1/2 -  13 pt),2FGM,39.0,34.0,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,11,04:11,16,226,"ANTONOV, SEMEN",P004941   ,Assist (1),AS,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,,04:11,16,227,,          ,Time Out (1),TOUT,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,3,04:11,16,228,"PUERTO, JOSEP",P006643   ,Out,OUT,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,30,04:11,16,229,"SASTRE, JOAN",P002936   ,In,IN,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,6,03:51,17,231,"ABALDE, ALBERTO",P003733   ,Two Pointer (4/5 -  11 pt),2FGM,41.0,34.0,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,21,03:26,17,232,"PLEISS, TIBOR",PLHK      ,Foul Drawn (3),RV,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,11,03:26,17,233,"ANTONOV, SEMEN",P004941   ,Offensive Foul (3),OF,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,11,03:26,17,234,"ANTONOV, SEMEN",P004941   ,Turnover (1),TO,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,7,03:26,17,235,"FRIDZON, VITALY",PLLH      ,In,IN,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,11,03:26,17,236,"ANTONOV, SEMEN",P004941   ,Out,OUT,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,13,03:26,17,237,"RODRIGUEZ, SERGIO",PCVM      ,Out,OUT,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,20,03:26,17,238,"VORONTSEVICH, ANDREY",PLHI      ,In,IN,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,30,03:08,17,239,"SASTRE, JOAN",P002936   ,Turnover (2),TO,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,22,02:58,18,241,"HIGGINS, CORY",P006450   ,Foul Drawn (4),RV,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,30,02:58,18,242,"SASTRE, JOAN",P002936   ,Foul (2),CM,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,22,02:58,18,243,"HIGGINS, CORY",P006450   ,Free Throw In (4/4 -  8 pt),FTM,41.0,35.0,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,22,02:58,18,244,"HIGGINS, CORY",P006450   ,Free Throw In (5/5 -  9 pt),FTM,41.0,36.0,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,30,02:55,18,245,"SASTRE, JOAN",P002936   ,Foul Drawn (1),RV,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,31,02:55,18,246,"KHRYAPA, VICTOR",PBCQ      ,Foul (1),CM,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,30,02:55,18,247,"SASTRE, JOAN",P002936   ,Free Throw In (1/1 -  1 pt),FTM,42.0,36.0,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,30,02:55,18,248,"SASTRE, JOAN",P002936   ,Missed Free Throw (1/2 -  1 pt),FTA,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,0,02:55,18,249,"THOMAS, WILL",P005856   ,Off Rebound (1),O,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,0,02:55,18,250,"THOMAS, WILL",P005856   ,Missed Two Pointer (2/3 -  4 pt),2FGA,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,31,02:55,18,251,"KHRYAPA, VICTOR",PBCQ      ,Def Rebound (1),D,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,7,02:55,18,252,"FRIDZON, VITALY",PLLH      ,Foul Drawn (1),RV,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,32,02:55,18,253,"GREEN, ERICK",P005159   ,Foul (1),CM,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,30,02:36,18,254,"SASTRE, JOAN",P002936   ,Out,OUT,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,42,02:36,18,255,"DOORNEKAMP, AARON",P002763   ,In,IN,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,7,02:55,18,256,"FRIDZON, VITALY",PLLH      ,Free Throw In (1/1 -  1 pt),FTM,42.0,37.0,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,7,02:55,18,257,"FRIDZON, VITALY",PLLH      ,Free Throw In (2/2 -  2 pt),FTM,42.0,38.0,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,6,02:18,18,258,"ABALDE, ALBERTO",P003733   ,Three Pointer (2/2 -  14 pt),3FGM,45.0,38.0,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,32,02:16,18,259,"GREEN, ERICK",P005159   ,Assist (2),AS,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,22,01:59,19,261,"HIGGINS, CORY",P006450   ,Missed Two Pointer (2/3 -  9 pt),2FGA,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,22,01:59,19,262,"HIGGINS, CORY",P006450   ,Shot Rejected (1),AG,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,32,01:55,19,263,"GREEN, ERICK",P005159   ,Block (1),FV,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,32,01:54,19,264,"GREEN, ERICK",P005159   ,Def Rebound (1),D,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,32,01:54,19,265,"GREEN, ERICK",P005159   ,Foul Drawn (3),RV,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,31,01:54,19,266,"KHRYAPA, VICTOR",PBCQ      ,Foul (2),CM,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,32,01:54,19,267,"GREEN, ERICK",P005159   ,Missed Free Throw (1/2 -  5 pt),FTA,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,32,01:54,19,268,"GREEN, ERICK",P005159   ,Free Throw In (2/3 -  6 pt),FTM,46.0,38.0,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,7,01:33,19,269,"FRIDZON, VITALY",PLLH      ,Missed Two Pointer (0/1 -  2 pt),2FGA,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,0,01:31,19,270,"THOMAS, WILL",P005856   ,Def Rebound (1),D,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,6,01:27,19,271,"ABALDE, ALBERTO",P003733   ,Missed Two Pointer (4/6 -  14 pt),2FGA,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,31,01:27,19,272,"KHRYAPA, VICTOR",PBCQ      ,Def Rebound (2),D,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,31,01:27,19,273,"KHRYAPA, VICTOR",PBCQ      ,Turnover (1),TO,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,42,01:27,19,274,"DOORNEKAMP, AARON",P002763   ,Steal (2),ST,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,42,01:27,19,275,"DOORNEKAMP, AARON",P002763   ,Foul Drawn (1),RV,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,20,01:27,19,276,"VORONTSEVICH, ANDREY",PLHI      ,Foul (2),CM,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,21,01:27,19,277,"CLYBURN, WILL",P004888   ,In,IN,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,31,01:27,19,278,"KHRYAPA, VICTOR",PBCQ      ,Out,OUT,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,42,01:27,19,279,"DOORNEKAMP, AARON",P002763   ,Missed Free Throw (0/1 -  0 pt),FTA,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,42,01:27,19,280,"DOORNEKAMP, AARON",P002763   ,Free Throw In (1/2 -  1 pt),FTM,47.0,38.0,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,1,01:01,19,281,"DE COLO, NANDO",P002100   ,Missed Three Pointer (3/5 -  13 pt),3FGA,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,42,00:58,20,283,"DOORNEKAMP, AARON",P002763   ,Def Rebound (3),D,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,0,00:49,20,284,"THOMAS, WILL",P005856   ,Two Pointer (3/4 -  6 pt),2FGM,49.0,38.0,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,21,00:47,20,285,"PLEISS, TIBOR",PLHK      ,Assist (1),AS,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,22,00:32,20,286,"HIGGINS, CORY",P006450   ,Two Pointer (3/4 -  11 pt),2FGM,49.0,40.0,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,21,00:12,20,287,"PLEISS, TIBOR",PLHK      ,Missed Two Pointer (3/5 -  9 pt),2FGA,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,21,00:12,20,288,"PLEISS, TIBOR",PLHK      ,Shot Rejected (1),AG,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,20,00:10,20,289,"VORONTSEVICH, ANDREY",PLHI      ,Block (1),FV,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,20,00:06,20,290,"VORONTSEVICH, ANDREY",PLHI      ,Def Rebound (3),D,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,1,00:05,20,291,"DE COLO, NANDO",P002100   ,Two Pointer (2/3 -  15 pt),2FGM,49.0,42.0,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,,00:05,20,292,,          ,Time Out (2),TOUT,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,17,00:05,20,293,"MARTINEZ, RAFA",P001351   ,In,IN,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,21,00:05,20,294,"PLEISS, TIBOR",PLHK      ,Out,OUT,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,7,00:05,20,295,"FRIDZON, VITALY",PLLH      ,Out,OUT,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,10,00:05,20,296,"GANKEVICH, ALEXANDER",P004623   ,In,IN,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,20,00:05,20,297,"VORONTSEVICH, ANDREY",PLHI      ,Out,OUT,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,41,00:05,20,298,"KURBANOV, NIKITA",PJLX      ,In,IN,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,32,00:00,20,299,"GREEN, ERICK",P005159   ,Missed Two Pointer (2/5 -  6 pt),2FGA,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+          ,,,,21,301,,          ,End Period,EP,,,,0,Valencia Basket,PAM,CSKA Moscow,CSK
+          ,,,,21,308,,          ,Begin Period,BP,,,,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,14,10:00,21,302,"DUBLJEVIC, BOJAN",P002742   ,In,IN,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,19,10:00,21,303,"SAN EMETERIO, FERNANDO",P000518   ,In,IN,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,32,10:00,21,304,"GREEN, ERICK",P005159   ,Out,OUT,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,42,10:00,21,305,"DOORNEKAMP, AARON",P002763   ,Out,OUT,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,10,10:00,21,306,"GANKEVICH, ALEXANDER",P004623   ,Out,OUT,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,11,10:00,21,307,"ANTONOV, SEMEN",P004941   ,In,IN,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,21,09:33,21,309,"CLYBURN, WILL",P004888   ,Three Pointer (1/2 -  10 pt),3FGM,49.0,45.0,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,11,09:31,21,310,"ANTONOV, SEMEN",P004941   ,Assist (2),AS,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,6,09:18,21,311,"ABALDE, ALBERTO",P003733   ,Turnover (3),TO,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,41,09:17,21,312,"KURBANOV, NIKITA",PJLX      ,Steal (1),ST,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,21,09:17,21,313,"CLYBURN, WILL",P004888   ,Foul Drawn (4),RV,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,19,09:17,21,314,"SAN EMETERIO, FERNANDO",P000518   ,Foul (3),CM,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,21,09:17,21,315,"CLYBURN, WILL",P004888   ,Missed Free Throw (3/5 -  10 pt),FTA,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,21,09:17,21,316,"CLYBURN, WILL",P004888   ,Free Throw In (4/6 -  11 pt),FTM,49.0,46.0,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,11,09:17,21,317,"ANTONOV, SEMEN",P004941   ,Assist (3),AS,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,11,08:50,22,319,"ANTONOV, SEMEN",P004941   ,Block (1),FV,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,19,08:59,22,658,"SAN EMETERIO, FERNANDO",P000518   ,Shot Rejected (1),AG,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,19,08:50,22,657,"SAN EMETERIO, FERNANDO",P000518   ,Missed Two Pointer (1/3 -  5 pt),2FGA,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,1,08:49,22,320,"DE COLO, NANDO",P002100   ,Def Rebound (1),D,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,41,08:47,22,321,"KURBANOV, NIKITA",PJLX      ,Two Pointer (2/2 -  4 pt),2FGM,49.0,48.0,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,41,08:47,22,322,"KURBANOV, NIKITA",PJLX      ,Foul Drawn (1),RV,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,19,08:47,22,323,"SAN EMETERIO, FERNANDO",P000518   ,Foul (4),CM,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,19,08:47,22,324,"SAN EMETERIO, FERNANDO",P000518   ,Out,OUT,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,30,08:47,22,325,"SASTRE, JOAN",P002936   ,In,IN,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,41,08:47,22,326,"KURBANOV, NIKITA",PJLX      ,Free Throw In (1/1 -  5 pt),FTM,49.0,49.0,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,30,08:37,22,327,"SASTRE, JOAN",P002936   ,Foul Drawn (2),RV,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,41,08:37,22,328,"KURBANOV, NIKITA",PJLX      ,Foul (2),CM,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,14,08:29,22,329,"DUBLJEVIC, BOJAN",P002742   ,Three Pointer (2/4 -  8 pt),3FGM,52.0,49.0,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,17,08:27,22,330,"MARTINEZ, RAFA",P001351   ,Assist (1),AS,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,1,08:17,22,331,"DE COLO, NANDO",P002100   ,Turnover (2),TO,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,17,08:17,22,332,"MARTINEZ, RAFA",P001351   ,Steal (2),ST,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,17,08:17,22,333,"MARTINEZ, RAFA",P001351   ,Foul Drawn (3),RV,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,11,08:17,22,334,"ANTONOV, SEMEN",P004941   ,Foul (4),CM,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,11,08:17,22,335,"ANTONOV, SEMEN",P004941   ,Out,OUT,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,20,08:17,22,336,"VORONTSEVICH, ANDREY",PLHI      ,In,IN,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,14,07:56,23,338,"DUBLJEVIC, BOJAN",P002742   ,Two Pointer (1/1 -  10 pt),2FGM,54.0,49.0,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,20,07:54,23,339,"VORONTSEVICH, ANDREY",PLHI      ,Two Pointer (2/2 -  5 pt),2FGM,54.0,51.0,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,41,07:54,23,340,"KURBANOV, NIKITA",PJLX      ,Assist (1),AS,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,6,07:29,23,341,"ABALDE, ALBERTO",P003733   ,Missed Two Pointer (4/7 -  14 pt),2FGA,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,1,07:27,23,342,"DE COLO, NANDO",P002100   ,Def Rebound (2),D,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,1,07:22,23,343,"DE COLO, NANDO",P002100   ,Missed Two Pointer (2/4 -  15 pt),2FGA,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,30,07:20,23,344,"SASTRE, JOAN",P002936   ,Def Rebound (1),D,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,30,07:18,23,345,"SASTRE, JOAN",P002936   ,Foul Drawn (3),RV,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,41,07:18,23,346,"KURBANOV, NIKITA",PJLX      ,Foul (3),CM,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,30,07:18,23,347,"SASTRE, JOAN",P002936   ,Free Throw In (2/3 -  2 pt),FTM,55.0,51.0,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,30,07:18,23,348,"SASTRE, JOAN",P002936   ,Free Throw In (3/4 -  3 pt),FTM,56.0,51.0,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,21,07:15,23,349,"CLYBURN, WILL",P004888   ,Three Pointer (2/3 -  14 pt),3FGM,56.0,54.0,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,20,07:15,23,350,"VORONTSEVICH, ANDREY",PLHI      ,Assist (1),AS,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,14,06:46,24,352,"DUBLJEVIC, BOJAN",P002742   ,Three Pointer (3/5 -  13 pt),3FGM,59.0,54.0,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,17,06:43,24,353,"MARTINEZ, RAFA",P001351   ,Assist (2),AS,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,22,06:23,24,354,"HIGGINS, CORY",P006450   ,Missed Two Pointer (3/5 -  11 pt),2FGA,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,6,06:22,24,355,"ABALDE, ALBERTO",P003733   ,Def Rebound (3),D,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,6,06:22,24,356,"ABALDE, ALBERTO",P003733   ,Missed Three Pointer (2/3 -  14 pt),3FGA,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,14,06:22,24,357,"DUBLJEVIC, BOJAN",P002742   ,Off Rebound (1),O,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,14,06:22,24,358,"DUBLJEVIC, BOJAN",P002742   ,Two Pointer (2/2 -  15 pt),2FGM,61.0,54.0,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,20,05:49,25,360,"VORONTSEVICH, ANDREY",PLHI      ,Two Pointer (3/3 -  7 pt),2FGM,61.0,56.0,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,1,05:48,25,361,"DE COLO, NANDO",P002100   ,Assist (1),AS,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,30,05:29,25,362,"SASTRE, JOAN",P002936   ,Missed Three Pointer (0/1 -  3 pt),3FGA,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,,05:29,25,363,,          ,Off Rebound (2),O,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,14,05:29,25,364,"DUBLJEVIC, BOJAN",P002742   ,Foul Drawn (4),RV,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,1,05:29,25,365,"DE COLO, NANDO",P002100   ,Foul (1),CM,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,6,05:18,25,366,"ABALDE, ALBERTO",P003733   ,Turnover (4),TO,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,,05:18,25,367,,          ,Time Out (1),TOUT,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,0,05:18,25,368,"THOMAS, WILL",P005856   ,Out,OUT,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,42,05:18,25,369,"DOORNEKAMP, AARON",P002763   ,In,IN,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,21,05:00,25,370,"CLYBURN, WILL",P004888   ,Turnover (2),TO,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,17,04:59,26,372,"MARTINEZ, RAFA",P001351   ,Steal (3),ST,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,30,04:52,26,373,"SASTRE, JOAN",P002936   ,Missed Two Pointer (0/1 -  3 pt),2FGA,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,20,04:50,26,374,"VORONTSEVICH, ANDREY",PLHI      ,Def Rebound (4),D,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,1,04:39,26,375,"DE COLO, NANDO",P002100   ,Missed Two Pointer (2/5 -  15 pt),2FGA,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,1,04:33,26,376,"DE COLO, NANDO",P002100   ,Two Pointer (3/6 -  17 pt),2FGM,61.0,58.0,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,,04:32,26,377,,          ,Off Rebound (3),O,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,17,04:31,26,378,"MARTINEZ, RAFA",P001351   ,Foul Drawn (4),RV,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,1,04:31,26,379,"DE COLO, NANDO",P002100   ,Foul (2),CM,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,14,04:31,26,380,"DUBLJEVIC, BOJAN",P002742   ,Out,OUT,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,21,04:31,26,381,"PLEISS, TIBOR",PLHK      ,In,IN,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,7,04:31,26,382,"FRIDZON, VITALY",PLLH      ,In,IN,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,41,04:31,26,383,"KURBANOV, NIKITA",PJLX      ,Out,OUT,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,17,04:31,26,384,"MARTINEZ, RAFA",P001351   ,Free Throw In (3/3 -  3 pt),FTM,62.0,58.0,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,17,04:31,26,385,"MARTINEZ, RAFA",P001351   ,Free Throw In (4/4 -  4 pt),FTM,63.0,58.0,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,7,04:21,26,386,"FRIDZON, VITALY",PLLH      ,Three Pointer (1/1 -  5 pt),3FGM,63.0,61.0,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,1,04:21,26,387,"DE COLO, NANDO",P002100   ,Assist (2),AS,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,17,04:10,26,388,"MARTINEZ, RAFA",P001351   ,Two Pointer (1/1 -  6 pt),2FGM,65.0,61.0,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,22,03:39,27,390,"HIGGINS, CORY",P006450   ,Missed Three Pointer (0/1 -  11 pt),3FGA,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,17,03:37,27,391,"MARTINEZ, RAFA",P001351   ,Def Rebound (4),D,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,17,03:37,27,392,"MARTINEZ, RAFA",P001351   ,Foul Drawn (5),RV,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,22,03:37,27,393,"HIGGINS, CORY",P006450   ,Unsportsmanlike Foul  (2),CMU,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,1,03:37,27,394,"DE COLO, NANDO",P002100   ,Out,OUT,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,9,03:37,27,395,"WESTERMANN, LEO",P002543   ,In,IN,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,13,03:37,27,396,"RODRIGUEZ, SERGIO",PCVM      ,In,IN,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,22,03:37,27,397,"HIGGINS, CORY",P006450   ,Out,OUT,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,17,03:37,27,398,"MARTINEZ, RAFA",P001351   ,Missed Free Throw (4/5 -  6 pt),FTA,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,17,03:37,27,399,"MARTINEZ, RAFA",P001351   ,Free Throw In (5/6 -  7 pt),FTM,66.0,61.0,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,17,03:37,27,400,"MARTINEZ, RAFA",P001351   ,Out,OUT,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,32,03:37,27,401,"GREEN, ERICK",P005159   ,In,IN,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,6,03:12,27,402,"ABALDE, ALBERTO",P003733   ,Missed Two Pointer (4/8 -  14 pt),2FGA,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,,03:12,27,403,,          ,Def Rebound (1),D,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,13,02:55,28,405,"RODRIGUEZ, SERGIO",PCVM      ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,6,02:53,28,406,"ABALDE, ALBERTO",P003733   ,Def Rebound (4),D,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,32,02:48,28,407,"GREEN, ERICK",P005159   ,Two Pointer (3/6 -  8 pt),2FGM,68.0,61.0,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,6,02:46,28,408,"ABALDE, ALBERTO",P003733   ,Assist (4),AS,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,7,02:30,28,409,"FRIDZON, VITALY",PLLH      ,Missed Three Pointer (1/2 -  5 pt),3FGA,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,32,02:28,28,410,"GREEN, ERICK",P005159   ,Def Rebound (2),D,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,6,02:20,28,411,"ABALDE, ALBERTO",P003733   ,Out,OUT,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,17,02:20,28,412,"MARTINEZ, RAFA",P001351   ,In,IN,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,32,02:10,28,413,"GREEN, ERICK",P005159   ,Two Pointer (4/7 -  10 pt),2FGM,70.0,61.0,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,21,01:45,29,415,"CLYBURN, WILL",P004888   ,Three Pointer (3/4 -  17 pt),3FGM,70.0,64.0,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,9,01:26,29,416,"WESTERMANN, LEO",P002543   ,Foul Drawn (1),RV,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,42,01:26,29,417,"DOORNEKAMP, AARON",P002763   ,Offensive Foul (2),OF,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,42,01:26,29,418,"DOORNEKAMP, AARON",P002763   ,Turnover (2),TO,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,42,01:17,29,419,"DOORNEKAMP, AARON",P002763   ,Foul Drawn (2),RV,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,7,01:17,29,420,"FRIDZON, VITALY",PLLH      ,Offensive Foul (1),OF,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,7,01:17,29,421,"FRIDZON, VITALY",PLLH      ,Turnover (1),TO,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,21,01:01,29,422,"PLEISS, TIBOR",PLHK      ,Turnover (1),TO,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,9,01:00,29,423,"WESTERMANN, LEO",P002543   ,Steal (1),ST,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,21,00:55,30,425,"CLYBURN, WILL",P004888   ,Two Pointer (3/6 -  19 pt),2FGM,70.0,66.0,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,17,00:36,30,426,"MARTINEZ, RAFA",P001351   ,Three Pointer (1/3 -  10 pt),3FGM,73.0,66.0,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,42,00:34,30,427,"DOORNEKAMP, AARON",P002763   ,Assist (3),AS,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,20,00:17,30,428,"VORONTSEVICH, ANDREY",PLHI      ,Foul Drawn (2),RV,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,21,00:17,30,429,"PLEISS, TIBOR",PLHK      ,Foul (2),CM,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,20,00:10,30,430,"VORONTSEVICH, ANDREY",PLHI      ,Missed Two Pointer (3/4 -  7 pt),2FGA,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,21,00:07,30,431,"PLEISS, TIBOR",PLHK      ,Def Rebound (2),D,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+          ,,,,31,433,,          ,End Period,EP,,,,0,Valencia Basket,PAM,CSKA Moscow,CSK
+          ,,,,31,440,,          ,Begin Period,BP,,,,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,6,10:00,31,434,"ABALDE, ALBERTO",P003733   ,In,IN,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,14,10:00,31,435,"DUBLJEVIC, BOJAN",P002742   ,In,IN,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,17,10:00,31,436,"MARTINEZ, RAFA",P001351   ,Out,OUT,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,30,10:00,31,437,"SASTRE, JOAN",P002936   ,Out,OUT,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,1,10:00,31,438,"DE COLO, NANDO",P002100   ,In,IN,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,7,10:00,31,439,"FRIDZON, VITALY",PLLH      ,Out,OUT,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,21,09:52,31,441,"CLYBURN, WILL",P004888   ,Foul Drawn (5),RV,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,14,09:52,31,442,"DUBLJEVIC, BOJAN",P002742   ,Foul (2),CM,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,21,09:42,31,443,"CLYBURN, WILL",P004888   ,Missed Three Pointer (3/5 -  19 pt),3FGA,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,,09:42,31,445,,          ,Def Rebound (2),D,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,6,09:37,31,446,"ABALDE, ALBERTO",P003733   ,Foul Drawn (1),RV,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,13,09:37,31,447,"RODRIGUEZ, SERGIO",PCVM      ,Foul (1),CM,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,,09:36,31,448,,CO_B      ,Coach Foul (1),C,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,32,09:36,31,449,"GREEN, ERICK",P005159   ,Free Throw In (3/4 -  11 pt),FTM,74.0,66.0,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,,09:32,31,450,,CO_B      ,Coach Foul (2),C,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,0,09:32,31,451,"THOMAS, WILL",P005856   ,In,IN,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,21,09:32,31,452,"PLEISS, TIBOR",PLHK      ,Out,OUT,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,32,09:32,31,453,"GREEN, ERICK",P005159   ,Free Throw In (4/5 -  12 pt),FTM,75.0,66.0,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,0,09:10,31,454,"THOMAS, WILL",P005856   ,Two Pointer (4/5 -  8 pt),2FGM,77.0,66.0,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,6,09:09,31,455,"ABALDE, ALBERTO",P003733   ,Assist (5),AS,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,1,08:53,32,457,"DE COLO, NANDO",P002100   ,Foul Drawn (4),RV,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,6,08:53,32,458,"ABALDE, ALBERTO",P003733   ,Foul (2),CM,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,1,08:53,32,459,"DE COLO, NANDO",P002100   ,Free Throw In (3/3 -  18 pt),FTM,77.0,67.0,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,1,08:53,32,460,"DE COLO, NANDO",P002100   ,Free Throw In (4/4 -  19 pt),FTM,77.0,68.0,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,32,08:34,32,461,"GREEN, ERICK",P005159   ,Foul Drawn (4),RV,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,21,08:34,32,462,"CLYBURN, WILL",P004888   ,Foul (1),CM,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,9,08:34,32,463,"WESTERMANN, LEO",P002543   ,Out,OUT,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,22,08:34,32,464,"HIGGINS, CORY",P006450   ,In,IN,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,32,08:34,32,465,"GREEN, ERICK",P005159   ,Free Throw In (5/6 -  13 pt),FTM,78.0,68.0,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,32,08:34,32,466,"GREEN, ERICK",P005159   ,Free Throw In (6/7 -  14 pt),FTM,79.0,68.0,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,1,08:18,32,467,"DE COLO, NANDO",P002100   ,Missed Three Pointer (3/6 -  19 pt),3FGA,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,,08:18,32,468,,          ,Def Rebound (3),D,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,32,07:59,33,470,"GREEN, ERICK",P005159   ,Three Pointer (1/1 -  17 pt),3FGM,82.0,68.0,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,14,07:56,33,471,"DUBLJEVIC, BOJAN",P002742   ,Assist (2),AS,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,13,07:48,33,472,"RODRIGUEZ, SERGIO",PCVM      ,Turnover (4),TO,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,19,07:48,33,473,"SAN EMETERIO, FERNANDO",P000518   ,In,IN,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,42,07:48,33,474,"DOORNEKAMP, AARON",P002763   ,Out,OUT,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,14,07:46,33,475,"DUBLJEVIC, BOJAN",P002742   ,Missed Three Pointer (3/6 -  15 pt),3FGA,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,13,07:23,33,476,"RODRIGUEZ, SERGIO",PCVM      ,Def Rebound (3),D,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,13,07:19,33,477,"RODRIGUEZ, SERGIO",PCVM      ,Two Pointer (2/3 -  4 pt),2FGM,82.0,70.0,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,22,07:19,33,494,"HIGGINS, CORY",P006450   ,Assist (1),AS,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,19,06:59,34,479,"SAN EMETERIO, FERNANDO",P000518   ,Turnover (1),TO,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,1,06:41,34,480,"DE COLO, NANDO",P002100   ,Two Pointer (4/7 -  21 pt),2FGM,82.0,72.0,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,19,06:23,34,481,"SAN EMETERIO, FERNANDO",P000518   ,Missed Two Pointer (1/4 -  5 pt),2FGA,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,21,06:22,34,482,"CLYBURN, WILL",P004888   ,Def Rebound (2),D,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,21,06:22,34,483,"CLYBURN, WILL",P004888   ,Foul Drawn (6),RV,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,32,06:22,34,484,"GREEN, ERICK",P005159   ,Foul (2),CM,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,20,06:22,34,485,"VORONTSEVICH, ANDREY",PLHI      ,Out,OUT,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,41,06:22,34,486,"KURBANOV, NIKITA",PJLX      ,In,IN,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,21,06:12,34,487,"CLYBURN, WILL",P004888   ,Two Pointer (4/7 -  21 pt),2FGM,82.0,74.0,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,14,06:03,34,488,"DUBLJEVIC, BOJAN",P002742   ,Turnover (1),TO,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,22,06:02,34,489,"HIGGINS, CORY",P006450   ,Steal (2),ST,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,1,06:00,34,490,"DE COLO, NANDO",P002100   ,Two Pointer (5/8 -  23 pt),2FGM,82.0,76.0,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,13,06:00,34,491,"RODRIGUEZ, SERGIO",PCVM      ,Assist (2),AS,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,,06:00,34,493,,          ,Time Out (1),TOUT,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,6,06:00,34,495,"ABALDE, ALBERTO",P003733   ,Out,OUT,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,30,06:00,34,496,"SASTRE, JOAN",P002936   ,In,IN,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,32,05:46,35,498,"GREEN, ERICK",P005159   ,Foul Drawn (5),RV,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,22,05:46,35,499,"HIGGINS, CORY",P006450   ,Foul (3),CM,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,32,05:32,35,500,"GREEN, ERICK",P005159   ,Missed Two Pointer (4/8 -  17 pt),2FGA,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,0,05:29,35,501,"THOMAS, WILL",P005856   ,Off Rebound (2),O,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,0,05:29,35,502,"THOMAS, WILL",P005856   ,Two Pointer (5/6 -  10 pt),2FGM,84.0,76.0,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,21,05:21,35,503,"CLYBURN, WILL",P004888   ,Two Pointer (5/8 -  23 pt),2FGM,84.0,78.0,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,21,05:21,35,504,"CLYBURN, WILL",P004888   ,Foul Drawn (7),RV,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,0,05:21,35,505,"THOMAS, WILL",P005856   ,Foul (2),CM,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,17,05:21,35,506,"MARTINEZ, RAFA",P001351   ,In,IN,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,32,05:21,35,507,"GREEN, ERICK",P005159   ,Out,OUT,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,21,05:21,35,508,"CLYBURN, WILL",P004888   ,Missed Free Throw (4/7 -  23 pt),FTA,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,19,05:14,35,509,"SAN EMETERIO, FERNANDO",P000518   ,Def Rebound (3),D,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,30,05:10,35,510,"SASTRE, JOAN",P002936   ,Two Pointer (1/2 -  5 pt),2FGM,86.0,78.0,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,21,05:00,35,512,"CLYBURN, WILL",P004888   ,Foul Drawn (8),RV,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,0,05:00,35,513,"THOMAS, WILL",P005856   ,Foul (3),CM,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,14,05:00,35,514,"DUBLJEVIC, BOJAN",P002742   ,Out,OUT,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,21,05:00,35,515,"PLEISS, TIBOR",PLHK      ,In,IN,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,21,05:00,35,516,"CLYBURN, WILL",P004888   ,Free Throw In (5/8 -  24 pt),FTM,86.0,79.0,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,21,05:00,35,517,"CLYBURN, WILL",P004888   ,Free Throw In (6/9 -  25 pt),FTM,86.0,80.0,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,13,04:50,36,519,"RODRIGUEZ, SERGIO",PCVM      ,Out,OUT,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,20,04:50,36,520,"VORONTSEVICH, ANDREY",PLHI      ,In,IN,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,21,04:41,36,521,"PLEISS, TIBOR",PLHK      ,Turnover (2),TO,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,22,04:40,36,522,"HIGGINS, CORY",P006450   ,Steal (3),ST,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,22,04:37,36,523,"HIGGINS, CORY",P006450   ,Two Pointer (4/6 -  13 pt),2FGM,86.0,82.0,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,22,04:37,36,524,"HIGGINS, CORY",P006450   ,Foul Drawn (5),RV,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,19,04:37,36,525,"SAN EMETERIO, FERNANDO",P000518   ,Foul (5),CM,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,,04:37,36,526,,CO_A      ,Bench Foul (1),B,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,,04:37,36,527,,CO_A      ,Bench Foul (2),B,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,6,04:37,36,528,"ABALDE, ALBERTO",P003733   ,In,IN,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,19,04:37,36,529,"SAN EMETERIO, FERNANDO",P000518   ,Out,OUT,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,22,04:37,36,530,"HIGGINS, CORY",P006450   ,Free Throw In (6/6 -  14 pt),FTM,86.0,83.0,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,1,04:37,36,531,"DE COLO, NANDO",P002100   ,Free Throw In (5/5 -  24 pt),FTM,86.0,84.0,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,13,04:37,36,532,"RODRIGUEZ, SERGIO",PCVM      ,In,IN,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,41,04:37,36,533,"KURBANOV, NIKITA",PJLX      ,Out,OUT,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,1,04:37,36,534,"DE COLO, NANDO",P002100   ,Free Throw In (6/6 -  25 pt),FTM,86.0,85.0,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,22,04:26,36,535,"HIGGINS, CORY",P006450   ,Missed Two Pointer (4/7 -  14 pt),2FGA,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,22,04:26,36,536,"HIGGINS, CORY",P006450   ,Shot Rejected (2),AG,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,21,04:23,36,537,"PLEISS, TIBOR",PLHK      ,Block (2),FV,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,20,04:20,36,538,"VORONTSEVICH, ANDREY",PLHI      ,Off Rebound (1),O,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,21,04:17,36,539,"CLYBURN, WILL",P004888   ,Missed Two Pointer (5/9 -  25 pt),2FGA,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,,04:17,36,540,,          ,Def Rebound (4),D,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,13,04:17,36,541,"RODRIGUEZ, SERGIO",PCVM      ,Out,OUT,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,41,04:17,36,542,"KURBANOV, NIKITA",PJLX      ,In,IN,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,21,04:00,36,543,"PLEISS, TIBOR",PLHK      ,Two Pointer (4/6 -  11 pt),2FGM,88.0,85.0,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,17,03:58,37,545,"MARTINEZ, RAFA",P001351   ,Assist (3),AS,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,41,03:41,37,546,"KURBANOV, NIKITA",PJLX      ,Two Pointer (3/3 -  7 pt),2FGM,88.0,87.0,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,21,03:39,37,547,"CLYBURN, WILL",P004888   ,Assist (2),AS,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,17,03:22,37,548,"MARTINEZ, RAFA",P001351   ,Three Pointer (2/4 -  13 pt),3FGM,91.0,87.0,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,6,03:21,37,549,"ABALDE, ALBERTO",P003733   ,Assist (6),AS,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,,03:21,37,550,,          ,Turnover (1),TO,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,14,03:21,37,551,"DUBLJEVIC, BOJAN",P002742   ,In,IN,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,21,03:21,37,552,"PLEISS, TIBOR",PLHK      ,Out,OUT,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,,03:08,37,553,,          ,Time Out (1),TOUT,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,1,03:08,37,554,"DE COLO, NANDO",P002100   ,Foul Drawn (5),RV,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,30,03:08,37,555,"SASTRE, JOAN",P002936   ,Foul (3),CM,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,13,03:08,37,556,"RODRIGUEZ, SERGIO",PCVM      ,In,IN,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,20,03:08,37,557,"VORONTSEVICH, ANDREY",PLHI      ,Out,OUT,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,1,03:08,37,558,"DE COLO, NANDO",P002100   ,Free Throw In (7/7 -  26 pt),FTM,91.0,88.0,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,1,03:08,37,559,"DE COLO, NANDO",P002100   ,Free Throw In (8/8 -  27 pt),FTM,91.0,89.0,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,17,02:50,38,561,"MARTINEZ, RAFA",P001351   ,Foul Drawn (6),RV,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,22,02:50,38,562,"HIGGINS, CORY",P006450   ,Foul (4),CM,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,0,02:38,38,563,"THOMAS, WILL",P005856   ,Two Pointer (6/7 -  12 pt),2FGM,93.0,89.0,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,14,02:36,38,564,"DUBLJEVIC, BOJAN",P002742   ,Assist (3),AS,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,1,02:20,38,565,"DE COLO, NANDO",P002100   ,Missed Three Pointer (3/7 -  27 pt),3FGA,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,20,02:20,38,566,"VORONTSEVICH, ANDREY",PLHI      ,In,IN,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,41,02:20,38,567,"KURBANOV, NIKITA",PJLX      ,Out,OUT,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,20,02:20,38,568,"VORONTSEVICH, ANDREY",PLHI      ,Def Rebound (5),D,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,22,02:20,38,569,"HIGGINS, CORY",P006450   ,Missed Two Pointer (4/8 -  14 pt),2FGA,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,14,02:20,38,570,"DUBLJEVIC, BOJAN",P002742   ,Def Rebound (1),D,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,17,02:20,38,571,"MARTINEZ, RAFA",P001351   ,Missed Three Pointer (2/5 -  13 pt),3FGA,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,13,02:20,38,572,"RODRIGUEZ, SERGIO",PCVM      ,Out,OUT,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,41,02:20,38,573,"KURBANOV, NIKITA",PJLX      ,In,IN,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,41,02:20,38,574,"KURBANOV, NIKITA",PJLX      ,Def Rebound (3),D,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,21,02:20,38,575,"CLYBURN, WILL",P004888   ,Two Pointer (6/10 -  27 pt),2FGM,93.0,91.0,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,41,02:20,38,576,"KURBANOV, NIKITA",PJLX      ,Assist (2),AS,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,6,01:46,39,578,"ABALDE, ALBERTO",P003733   ,Missed Three Pointer (2/4 -  14 pt),3FGA,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,20,01:46,39,579,"VORONTSEVICH, ANDREY",PLHI      ,Def Rebound (6),D,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,22,01:16,39,580,"HIGGINS, CORY",P006450   ,Two Pointer (5/9 -  16 pt),2FGM,93.0,93.0,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,1,01:16,39,581,"DE COLO, NANDO",P002100   ,Assist (3),AS,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,14,00:53,40,583,"DUBLJEVIC, BOJAN",P002742   ,Foul Drawn (5),RV,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,20,00:53,40,584,"VORONTSEVICH, ANDREY",PLHI      ,Foul (3),CM,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,7,00:53,40,585,"FRIDZON, VITALY",PLLH      ,In,IN,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,22,00:53,40,586,"HIGGINS, CORY",P006450   ,Out,OUT,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,14,00:53,40,587,"DUBLJEVIC, BOJAN",P002742   ,Free Throw In (3/3 -  16 pt),FTM,94.0,93.0,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,14,00:53,40,588,"DUBLJEVIC, BOJAN",P002742   ,Free Throw In (4/4 -  17 pt),FTM,95.0,93.0,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,17,00:53,40,589,"MARTINEZ, RAFA",P001351   ,Out,OUT,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,42,00:53,40,590,"DOORNEKAMP, AARON",P002763   ,In,IN,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,1,00:45,40,591,"DE COLO, NANDO",P002100   ,Foul Drawn (6),RV,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,0,00:45,40,592,"THOMAS, WILL",P005856   ,Foul (4),CM,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,32,00:45,40,593,"GREEN, ERICK",P005159   ,In,IN,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,42,00:45,40,594,"DOORNEKAMP, AARON",P002763   ,Out,OUT,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,1,00:45,40,595,"DE COLO, NANDO",P002100   ,Free Throw In (9/9 -  28 pt),FTM,95.0,94.0,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,1,00:45,40,596,"DE COLO, NANDO",P002100   ,Free Throw In (10/10 -  29 pt),FTM,95.0,95.0,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,6,00:21,40,597,"ABALDE, ALBERTO",P003733   ,Three Pointer (3/5 -  17 pt),3FGM,98.0,95.0,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,,00:21,40,598,,          ,Time Out (2),TOUT,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,32,00:21,40,599,"GREEN, ERICK",P005159   ,Out,OUT,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,42,00:21,40,600,"DOORNEKAMP, AARON",P002763   ,In,IN,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,22,00:21,40,601,"HIGGINS, CORY",P006450   ,In,IN,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,41,00:21,40,602,"KURBANOV, NIKITA",PJLX      ,Out,OUT,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,20,00:16,40,603,"VORONTSEVICH, ANDREY",PLHI      ,Missed Three Pointer (0/1 -  7 pt),3FGA,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,0,00:16,40,604,"THOMAS, WILL",P005856   ,Def Rebound (2),D,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,0,00:16,40,605,"THOMAS, WILL",P005856   ,Foul Drawn (1),RV,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,7,00:16,40,606,"FRIDZON, VITALY",PLLH      ,Foul (2),CM,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,0,00:16,40,607,"THOMAS, WILL",P005856   ,Free Throw In (1/1 -  13 pt),FTM,99.0,95.0,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,0,00:16,40,608,"THOMAS, WILL",P005856   ,Free Throw In (2/2 -  14 pt),FTM,100.0,95.0,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,7,00:06,40,609,"FRIDZON, VITALY",PLLH      ,Three Pointer (2/3 -  8 pt),3FGM,100.0,98.0,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,20,00:07,40,610,"VORONTSEVICH, ANDREY",PLHI      ,Assist (2),AS,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,,00:07,40,611,,          ,Time Out (2),TOUT,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,17,00:07,40,612,"MARTINEZ, RAFA",P001351   ,In,IN,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,30,00:07,40,613,"SASTRE, JOAN",P002936   ,Out,OUT,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,32,00:07,40,614,"GREEN, ERICK",P005159   ,In,IN,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,42,00:07,40,615,"DOORNEKAMP, AARON",P002763   ,Out,OUT,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,1,00:07,40,616,"DE COLO, NANDO",P002100   ,Out,OUT,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,22,00:07,40,617,"HIGGINS, CORY",P006450   ,Out,OUT,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,41,00:07,40,618,"KURBANOV, NIKITA",PJLX      ,In,IN,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,1,00:07,40,619,"DE COLO, NANDO",P002100   ,In,IN,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,14,00:05,40,620,"DUBLJEVIC, BOJAN",P002742   ,Foul Drawn (6),RV,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,41,00:05,40,621,"KURBANOV, NIKITA",PJLX      ,Foul (4),CM,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,14,00:05,40,622,"DUBLJEVIC, BOJAN",P002742   ,Missed Free Throw (4/5 -  17 pt),FTA,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,14,00:05,40,623,"DUBLJEVIC, BOJAN",P002742   ,Free Throw In (5/6 -  18 pt),FTM,101.0,98.0,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,,00:05,40,624,,          ,Time Out (3),TOUT,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,17,00:05,40,625,"MARTINEZ, RAFA",P001351   ,Out,OUT,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,30,00:05,40,626,"SASTRE, JOAN",P002936   ,In,IN,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,32,00:05,40,627,"GREEN, ERICK",P005159   ,Out,OUT,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,42,00:05,40,628,"DOORNEKAMP, AARON",P002763   ,In,IN,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,13,00:05,40,629,"RODRIGUEZ, SERGIO",PCVM      ,In,IN,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,20,00:05,40,630,"VORONTSEVICH, ANDREY",PLHI      ,Out,OUT,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,22,00:05,40,631,"HIGGINS, CORY",P006450   ,In,IN,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,41,00:05,40,632,"KURBANOV, NIKITA",PJLX      ,Out,OUT,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,1,00:04,40,633,"DE COLO, NANDO",P002100   ,Foul Drawn (7),RV,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,30,00:04,40,634,"SASTRE, JOAN",P002936   ,Foul (4),CM,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,0,00:04,40,635,"THOMAS, WILL",P005856   ,Out,OUT,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,21,00:04,40,636,"PLEISS, TIBOR",PLHK      ,In,IN,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,7,00:04,40,637,"FRIDZON, VITALY",PLLH      ,Out,OUT,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,13,00:04,40,638,"RODRIGUEZ, SERGIO",PCVM      ,Out,OUT,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,20,00:04,40,639,"VORONTSEVICH, ANDREY",PLHI      ,In,IN,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,41,00:04,40,640,"KURBANOV, NIKITA",PJLX      ,In,IN,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,30,00:04,40,641,"SASTRE, JOAN",P002936   ,Out,OUT,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,32,00:04,40,642,"GREEN, ERICK",P005159   ,In,IN,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,1,00:04,40,643,"DE COLO, NANDO",P002100   ,Free Throw In (11/11 -  30 pt),FTM,101.0,99.0,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,1,00:04,40,644,"DE COLO, NANDO",P002100   ,Missed Free Throw (11/12 -  30 pt),FTA,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,,00:04,40,645,,          ,Def Rebound (5),D,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,17,00:04,40,646,"MARTINEZ, RAFA",P001351   ,In,IN,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,21,00:04,40,647,"PLEISS, TIBOR",PLHK      ,Out,OUT,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,32,00:02,40,648,"GREEN, ERICK",P005159   ,Foul Drawn (6),RV,,,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,21,00:02,40,649,"CLYBURN, WILL",P004888   ,Foul (2),CM,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,7,00:02,40,650,"FRIDZON, VITALY",PLLH      ,In,IN,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,41,00:02,40,651,"KURBANOV, NIKITA",PJLX      ,Out,OUT,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,32,00:02,40,652,"GREEN, ERICK",P005159   ,Free Throw In (7/8 -  18 pt),FTM,102.0,99.0,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+PAM       ,,32,00:02,40,653,"GREEN, ERICK",P005159   ,Free Throw In (8/9 -  19 pt),FTM,103.0,99.0,Valencia Basket,0,Valencia Basket,PAM,CSKA Moscow,CSK
+CSK       ,,21,00:02,40,654,"CLYBURN, WILL",P004888   ,Missed Three Pointer (3/6 -  27 pt),3FGA,,,CSKA Moscow,0,Valencia Basket,PAM,CSKA Moscow,CSK
+          ,,,,41,659,,          ,End Game,EG,,,,0,Valencia Basket,PAM,CSKA Moscow,CSK

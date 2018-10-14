@@ -1,0 +1,570 @@
+CODETEAM,COMMENT,DORSAL,MARKERTIME,MINUTE,NUMBEROFPLAY,PLAYER,PLAYER_ID,PLAYINFO,PLAYTYPE,POINTS_A,POINTS_B,TEAM,TYPE,home_team,home_team_code,away_team,away_team_code
+          ,,,,1,5,,          ,Begin Period,BP,,,,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,22,09:39,1,6,"ROCHESTIE, TAYLOR",P002972   ,Three Pointer (1/1 -  3 pt),3FGM,3.0,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,0,09:18,1,7,"DAVIES, BRANDON",P007870   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,26,09:17,1,8,"LESSORT, MATHIAS",P003842   ,Def Rebound (1),D,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,10,08:55,2,10,"LAZIC, BRANKO",PLUO      ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,13,08:54,2,11,"JANKUNAS, PAULIUS",PBWI      ,Def Rebound (1),D,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,0,08:41,2,12,"DAVIES, BRANDON",P007870   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,6,08:40,2,13,"DANGUBIC, NEMANJA",P005942   ,Def Rebound (1),D,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,10,08:32,2,14,"LAZIC, BRANKO",PLUO      ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,22,08:31,2,15,"ROCHESTIE, TAYLOR",P002972   ,Off Rebound (1),O,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,6,08:22,2,16,"TOUPANE, AXEL",P002582   ,Foul (1),CM,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,22,08:22,2,17,"ROCHESTIE, TAYLOR",P002972   ,Foul Drawn (1),RV,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,22,08:22,2,18,"ROCHESTIE, TAYLOR",P002972   ,Free Throw In (1/1 -  4 pt),FTM,4.0,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,22,08:22,2,19,"ROCHESTIE, TAYLOR",P002972   ,Free Throw In (2/2 -  5 pt),FTM,5.0,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,0,08:04,2,20,"DAVIES, BRANDON",P007870   ,Missed Two Pointer (0/3 -  0 pt),2FGA,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,6,08:03,2,21,"DANGUBIC, NEMANJA",P005942   ,Def Rebound (2),D,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,13,07:53,3,23,"JANKUNAS, PAULIUS",PBWI      ,Block (1),FV,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,51,07:53,3,24,"BJELICA, MILKO",PCHX      ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,51,07:53,3,25,"BJELICA, MILKO",PCHX      ,Shot Rejected (1),AG,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,92,07:53,3,26,"ULANOVAS, EDGARAS",P002329   ,Def Rebound (1),D,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,6,07:53,3,27,"TOUPANE, AXEL",P002582   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,10,07:39,3,28,"LAZIC, BRANKO",PLUO      ,Def Rebound (1),D,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,6,07:24,3,29,"DANGUBIC, NEMANJA",P005942   ,Turnover (1),TO,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,13,07:07,3,30,"JANKUNAS, PAULIUS",PBWI      ,Two Pointer (1/1 -  2 pt),2FGM,5.0,2.0,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,6,06:53,4,32,"DANGUBIC, NEMANJA",P005942   ,Three Pointer (1/1 -  3 pt),3FGM,8.0,2.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,22,06:50,4,33,"ROCHESTIE, TAYLOR",P002972   ,Assist (1),AS,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,0,06:37,4,34,"DAVIES, BRANDON",P007870   ,Missed Two Pointer (0/4 -  0 pt),2FGA,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,26,06:36,4,35,"LESSORT, MATHIAS",P003842   ,Def Rebound (2),D,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,51,06:19,4,36,"BJELICA, MILKO",PCHX      ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,10,06:18,4,37,"LAZIC, BRANKO",PLUO      ,Off Rebound (1),O,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,26,06:05,4,38,"LESSORT, MATHIAS",P003842   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,3,06:00,4,39,"PANGOS, KEVIN",P006433   ,Def Rebound (1),D,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,10,05:52,5,41,"LAZIC, BRANKO",PLUO      ,Foul (1),CM,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,3,05:52,5,42,"PANGOS, KEVIN",P006433   ,Foul Drawn (1),RV,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,0,05:52,5,43,"DAVIES, BRANDON",P007870   ,Out,OUT,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,44,05:52,5,44,"KAVALIAUSKAS, ANTANAS",P000399   ,In,IN,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,10,05:52,5,45,"LAZIC, BRANKO",PLUO      ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,14,05:52,5,46,"FELDEINE, JAMES",P005918   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,6,05:52,5,47,"DANGUBIC, NEMANJA",P005942   ,Foul (1),CM,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,92,05:52,5,48,"ULANOVAS, EDGARAS",P002329   ,Foul Drawn (1),RV,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,3,05:45,5,49,"PANGOS, KEVIN",P006433   ,Three Pointer (1/1 -  3 pt),3FGM,8.0,5.0,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,92,05:45,5,50,"ULANOVAS, EDGARAS",P002329   ,Assist (1),AS,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,14,05:25,5,51,"FELDEINE, JAMES",P005918   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,26,05:24,5,52,"LESSORT, MATHIAS",P003842   ,Off Rebound (1),O,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,13,05:24,5,53,"JANKUNAS, PAULIUS",PBWI      ,Foul (1),CM,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,26,05:24,5,54,"LESSORT, MATHIAS",P003842   ,Foul Drawn (1),RV,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,26,05:19,5,55,"LESSORT, MATHIAS",P003842   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,14,05:17,5,56,"FELDEINE, JAMES",P005918   ,Off Rebound (1),O,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,14,05:06,5,57,"FELDEINE, JAMES",P005918   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,3,05:04,5,58,"PANGOS, KEVIN",P006433   ,Def Rebound (2),D,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,3,05:00,5,59,"PANGOS, KEVIN",P006433   ,Missed Two Pointer (0/1 -  3 pt),2FGA,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,92,05:00,5,60,"ULANOVAS, EDGARAS",P002329   ,Off Rebound (1),O,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,92,05:00,5,61,"ULANOVAS, EDGARAS",P002329   ,Two Pointer (1/1 -  2 pt),2FGM,8.0,7.0,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,44,04:30,6,63,"KAVALIAUSKAS, ANTANAS",P000399   ,Foul (1),CM,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,6,04:30,6,64,"DANGUBIC, NEMANJA",P005942   ,Foul Drawn (1),RV,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+          ,,,04:30,6,65,,          ,TV Time Out (1),TOUT_TV,,,,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,6,04:30,6,66,"DANGUBIC, NEMANJA",P005942   ,Free Throw In (1/1 -  4 pt),FTM,9.0,7.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,22,04:30,6,67,"ROCHESTIE, TAYLOR",P002972   ,Assist (2),AS,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,6,04:30,6,68,"DANGUBIC, NEMANJA",P005942   ,Free Throw In (2/2 -  5 pt),FTM,10.0,7.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,3,04:11,6,69,"PANGOS, KEVIN",P006433   ,Two Pointer (1/2 -  5 pt),2FGM,10.0,9.0,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,51,03:48,7,71,"BJELICA, MILKO",PCHX      ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,3,03:48,7,72,"PANGOS, KEVIN",P006433   ,Def Rebound (3),D,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,3,03:41,7,73,"PANGOS, KEVIN",P006433   ,Three Pointer (2/2 -  8 pt),3FGM,10.0,12.0,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,22,03:18,7,74,"ROCHESTIE, TAYLOR",P002972   ,Turnover (1),TO,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,12,03:18,7,75,"ANTIC, PERO",PBAE      ,In,IN,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,26,03:18,7,76,"LESSORT, MATHIAS",P003842   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,13,03:18,7,77,"JANKUNAS, PAULIUS",PBWI      ,Out,OUT,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,30,03:18,7,78,"WHITE, AARON",P006505   ,In,IN,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,44,02:57,8,80,"KAVALIAUSKAS, ANTANAS",P000399   ,Turnover (1),TO,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,22,02:56,8,81,"ROCHESTIE, TAYLOR",P002972   ,Steal (1),ST,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,3,02:51,8,82,"PANGOS, KEVIN",P006433   ,Foul (1),CM,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,51,02:51,8,84,"BJELICA, MILKO",PCHX      ,Foul Drawn (1),RV,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,6,02:51,8,85,"DANGUBIC, NEMANJA",P005942   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,7,02:51,8,86,"DAVIDOVAC, DEJAN",P007960   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,6,02:51,8,87,"TOUPANE, AXEL",P002582   ,Out,OUT,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,22,02:51,8,88,"MICIC, VASILIJE",P002580   ,In,IN,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,22,02:45,8,89,"ROCHESTIE, TAYLOR",P002972   ,Missed Three Pointer (1/2 -  5 pt),3FGA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,3,02:45,8,90,"PANGOS, KEVIN",P006433   ,Def Rebound (4),D,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,12,02:38,8,91,"ANTIC, PERO",PBAE      ,Foul (1),CM,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,44,02:38,8,92,"KAVALIAUSKAS, ANTANAS",P000399   ,Foul Drawn (1),RV,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,22,02:38,8,93,"ROCHESTIE, TAYLOR",P002972   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,31,02:38,8,94,"ENNIS, DYLAN",P008066   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,3,02:28,8,95,"PANGOS, KEVIN",P006433   ,Turnover (1),TO,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,12,02:27,8,96,"ANTIC, PERO",PBAE      ,Steal (1),ST,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,92,02:21,8,97,"ULANOVAS, EDGARAS",P002329   ,Foul (1),CM,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,7,02:21,8,98,"DAVIDOVAC, DEJAN",P007960   ,Foul Drawn (1),RV,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,3,02:21,8,99,"PANGOS, KEVIN",P006433   ,Out,OUT,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,9,02:21,8,100,"UDRIH, BENO",PAGP      ,In,IN,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,7,02:21,8,101,"DAVIDOVAC, DEJAN",P007960   ,Free Throw In (1/1 -  1 pt),FTM,11.0,12.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,7,02:21,8,102,"DAVIDOVAC, DEJAN",P007960   ,Free Throw In (2/2 -  2 pt),FTM,12.0,12.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,92,02:04,8,103,"ULANOVAS, EDGARAS",P002329   ,Two Pointer (2/2 -  4 pt),2FGM,12.0,14.0,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,9,01:47,9,105,"UDRIH, BENO",PAGP      ,Foul (1),CM,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,31,01:47,9,106,"ENNIS, DYLAN",P008066   ,Foul Drawn (1),RV,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,31,01:47,9,107,"ENNIS, DYLAN",P008066   ,Free Throw In (1/1 -  1 pt),FTM,13.0,14.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,31,01:47,9,108,"ENNIS, DYLAN",P008066   ,Free Throw In (2/2 -  2 pt),FTM,14.0,14.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,22,01:27,9,109,"MICIC, VASILIJE",P002580   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,31,01:27,9,110,"ENNIS, DYLAN",P008066   ,Def Rebound (1),D,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,44,01:23,9,111,"KAVALIAUSKAS, ANTANAS",P000399   ,Foul (2),CM,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,31,01:23,9,112,"ENNIS, DYLAN",P008066   ,Foul Drawn (2),RV,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,16,01:23,9,113,"JANKOVIC, STEFAN",P007961   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,51,01:23,9,114,"BJELICA, MILKO",PCHX      ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,0,01:23,9,115,"DAVIES, BRANDON",P007870   ,In,IN,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,44,01:23,9,116,"KAVALIAUSKAS, ANTANAS",P000399   ,Out,OUT,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,31,01:23,9,117,"ENNIS, DYLAN",P008066   ,Free Throw In (3/3 -  3 pt),FTM,15.0,14.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,31,01:23,9,118,"ENNIS, DYLAN",P008066   ,Free Throw In (4/4 -  4 pt),FTM,16.0,14.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,12,01:12,9,119,"ANTIC, PERO",PBAE      ,Foul (2),CM,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,22,01:12,9,120,"MICIC, VASILIJE",P002580   ,Foul Drawn (1),RV,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,9,01:03,9,121,"UDRIH, BENO",PAGP      ,Two Pointer (1/1 -  2 pt),2FGM,16.0,16.0,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,31,00:47,10,123,"ENNIS, DYLAN",P008066   ,Missed Two Pointer (0/1 -  4 pt),2FGA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,12,00:46,10,124,"ANTIC, PERO",PBAE      ,Off Rebound (1),O,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,12,00:46,10,125,"ANTIC, PERO",PBAE      ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,0,00:46,10,126,"DAVIES, BRANDON",P007870   ,Def Rebound (1),D,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,9,00:32,10,127,"UDRIH, BENO",PAGP      ,Two Pointer (2/2 -  4 pt),2FGM,16.0,18.0,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,14,00:09,10,128,"FELDEINE, JAMES",P005918   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,,00:08,10,129,,          ,Def Rebound (1),D,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,10,00:08,10,130,"LAZIC, BRANKO",PLUO      ,In,IN,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,12,00:08,10,131,"ANTIC, PERO",PBAE      ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,14,00:08,10,132,"FELDEINE, JAMES",P005918   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,26,00:08,10,133,"LESSORT, MATHIAS",P003842   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,0,00:08,10,134,"DAVIES, BRANDON",P007870   ,Out,OUT,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,3,00:08,10,135,"PANGOS, KEVIN",P006433   ,In,IN,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,6,00:08,10,136,"DANGUBIC, NEMANJA",P005942   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,16,00:08,10,137,"JANKOVIC, STEFAN",P007961   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,7,00:02,10,138,"DAVIDOVAC, DEJAN",P007960   ,Block (1),FV,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,3,00:02,10,139,"PANGOS, KEVIN",P006433   ,Missed Two Pointer (1/3 -  8 pt),2FGA,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,3,00:02,10,140,"PANGOS, KEVIN",P006433   ,Shot Rejected (1),AG,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,6,00:02,10,141,"DANGUBIC, NEMANJA",P005942   ,Def Rebound (3),D,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,6,00:02,10,142,"DANGUBIC, NEMANJA",P005942   ,Missed Three Pointer (1/2 -  5 pt),3FGA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+          ,,,,11,144,,          ,End Period,EP,,,,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+          ,,,,11,151,,          ,Begin Period,BP,,,,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,6,10:00,11,145,"DANGUBIC, NEMANJA",P005942   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,16,10:00,11,146,"JANKOVIC, STEFAN",P007961   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,0,10:00,11,147,"DAVIES, BRANDON",P007870   ,In,IN,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,3,10:00,11,148,"PANGOS, KEVIN",P006433   ,Out,OUT,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,21,10:00,11,149,"MILAKNIS, ARTURAS",PKPD      ,In,IN,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,92,10:00,11,150,"ULANOVAS, EDGARAS",P002329   ,Out,OUT,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,10,09:54,11,152,"LAZIC, BRANKO",PLUO      ,Foul (2),CM,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,21,09:54,11,153,"MILAKNIS, ARTURAS",PKPD      ,Foul Drawn (1),RV,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,30,09:43,11,154,"WHITE, AARON",P006505   ,Turnover (1),TO,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,16,09:43,11,155,"JANKOVIC, STEFAN",P007961   ,Steal (1),ST,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,16,09:24,11,156,"JANKOVIC, STEFAN",P007961   ,Two Pointer (1/1 -  2 pt),2FGM,18.0,18.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,31,09:24,11,157,"ENNIS, DYLAN",P008066   ,Assist (1),AS,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,30,09:04,11,158,"WHITE, AARON",P006505   ,Two Pointer (1/1 -  2 pt),2FGM,18.0,20.0,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,0,09:04,11,159,"DAVIES, BRANDON",P007870   ,Assist (1),AS,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,31,08:38,12,161,"ENNIS, DYLAN",P008066   ,Three Pointer (1/1 -  7 pt),3FGM,21.0,20.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,22,08:28,12,162,"MICIC, VASILIJE",P002580   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,26,08:28,12,163,"LESSORT, MATHIAS",P003842   ,Def Rebound (3),D,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,31,08:23,12,164,"ENNIS, DYLAN",P008066   ,Turnover (1),TO,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,30,08:23,12,165,"WHITE, AARON",P006505   ,Steal (1),ST,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,7,08:23,12,166,"DAVIDOVAC, DEJAN",P007960   ,Foul (1),CM,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,9,08:23,12,167,"UDRIH, BENO",PAGP      ,Foul Drawn (1),RV,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,22,07:59,13,169,"MICIC, VASILIJE",P002580   ,Turnover (1),TO,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,7,07:59,13,170,"DAVIDOVAC, DEJAN",P007960   ,Steal (1),ST,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,26,07:44,13,171,"LESSORT, MATHIAS",P003842   ,Missed Two Pointer (0/3 -  0 pt),2FGA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,30,07:43,13,172,"WHITE, AARON",P006505   ,Def Rebound (1),D,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,30,07:29,13,173,"WHITE, AARON",P006505   ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,7,07:24,13,174,"DAVIDOVAC, DEJAN",P007960   ,Def Rebound (1),D,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,7,07:24,13,175,"DAVIDOVAC, DEJAN",P007960   ,Turnover (1),TO,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,0,07:24,13,176,"DAVIES, BRANDON",P007870   ,Steal (1),ST,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,16,07:04,13,177,"JANKOVIC, STEFAN",P007961   ,Foul (1),CM,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,0,07:04,13,178,"DAVIES, BRANDON",P007870   ,Foul Drawn (1),RV,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,22,07:04,13,179,"ROCHESTIE, TAYLOR",P002972   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,31,07:04,13,180,"ENNIS, DYLAN",P008066   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,3,07:04,13,181,"PANGOS, KEVIN",P006433   ,In,IN,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,22,07:04,13,182,"MICIC, VASILIJE",P002580   ,Out,OUT,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,6,07:04,13,183,"TOUPANE, AXEL",P002582   ,In,IN,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,9,07:04,13,184,"UDRIH, BENO",PAGP      ,Out,OUT,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,0,07:04,13,185,"DAVIES, BRANDON",P007870   ,Free Throw In (1/1 -  1 pt),FTM,21.0,21.0,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,30,07:04,13,186,"WHITE, AARON",P006505   ,Assist (1),AS,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,0,07:04,13,187,"DAVIES, BRANDON",P007870   ,Free Throw In (2/2 -  2 pt),FTM,21.0,22.0,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,6,07:04,13,188,"DANGUBIC, NEMANJA",P005942   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,7,07:04,13,189,"DAVIDOVAC, DEJAN",P007960   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,10,06:50,14,191,"LAZIC, BRANKO",PLUO      ,Two Pointer (1/2 -  2 pt),2FGM,23.0,22.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,22,06:50,14,192,"ROCHESTIE, TAYLOR",P002972   ,Assist (3),AS,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,30,06:38,14,193,"WHITE, AARON",P006505   ,Two Pointer (2/2 -  4 pt),2FGM,23.0,24.0,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,0,06:38,14,194,"DAVIES, BRANDON",P007870   ,Assist (2),AS,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,22,06:14,14,195,"ROCHESTIE, TAYLOR",P002972   ,Missed Two Pointer (0/1 -  5 pt),2FGA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,26,06:13,14,196,"LESSORT, MATHIAS",P003842   ,Off Rebound (2),O,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,26,06:13,14,197,"LESSORT, MATHIAS",P003842   ,Missed Two Pointer (0/4 -  0 pt),2FGA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,30,06:13,14,198,"WHITE, AARON",P006505   ,Def Rebound (2),D,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,10,06:06,14,199,"LAZIC, BRANKO",PLUO      ,Foul (3),CM,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,3,06:06,14,200,"PANGOS, KEVIN",P006433   ,Foul Drawn (2),RV,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,10,06:06,14,201,"LAZIC, BRANKO",PLUO      ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,14,06:06,14,202,"FELDEINE, JAMES",P005918   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,16,06:06,14,203,"JANKOVIC, STEFAN",P007961   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,51,06:06,14,204,"BJELICA, MILKO",PCHX      ,In,IN,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,0,06:06,14,205,"DAVIES, BRANDON",P007870   ,Out,OUT,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,13,06:06,14,206,"JANKUNAS, PAULIUS",PBWI      ,In,IN,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,3,05:50,15,208,"PANGOS, KEVIN",P006433   ,Two Pointer (2/4 -  10 pt),2FGM,23.0,26.0,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,,05:50,15,209,,          ,Time Out (1),TOUT,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,3,05:35,15,210,"PANGOS, KEVIN",P006433   ,Foul (2),CM,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,14,05:35,15,211,"FELDEINE, JAMES",P005918   ,Foul Drawn (1),RV,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,14,05:35,15,212,"FELDEINE, JAMES",P005918   ,Free Throw In (1/1 -  1 pt),FTM,24.0,26.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,22,05:35,15,213,"ROCHESTIE, TAYLOR",P002972   ,Assist (4),AS,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,14,05:35,15,214,"FELDEINE, JAMES",P005918   ,Free Throw In (2/2 -  2 pt),FTM,25.0,26.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,6,05:25,15,215,"TOUPANE, AXEL",P002582   ,Turnover (1),TO,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,22,05:25,15,216,"ROCHESTIE, TAYLOR",P002972   ,Steal (2),ST,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,22,05:25,15,217,"ROCHESTIE, TAYLOR",P002972   ,Turnover (2),TO,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,13,05:09,15,218,"JANKUNAS, PAULIUS",PBWI      ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,6,05:07,15,219,"DANGUBIC, NEMANJA",P005942   ,Def Rebound (4),D,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,51,04:58,16,221,"BJELICA, MILKO",PCHX      ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,21,04:57,16,222,"MILAKNIS, ARTURAS",PKPD      ,Def Rebound (1),D,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,13,04:47,16,223,"JANKUNAS, PAULIUS",PBWI      ,Turnover (1),TO,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,6,04:47,16,224,"DANGUBIC, NEMANJA",P005942   ,Steal (1),ST,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,13,04:41,16,225,"JANKUNAS, PAULIUS",PBWI      ,Foul (2),CM,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,51,04:41,16,226,"BJELICA, MILKO",PCHX      ,Foul Drawn (2),RV,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,22,04:25,16,227,"ROCHESTIE, TAYLOR",P002972   ,Two Pointer (1/2 -  7 pt),2FGM,27.0,26.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,,04:24,16,228,,          ,Time Out (1),TOUT,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,6,04:24,16,229,"TOUPANE, AXEL",P002582   ,Out,OUT,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,22,04:24,16,230,"MICIC, VASILIJE",P002580   ,In,IN,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,13,04:09,16,231,"JANKUNAS, PAULIUS",PBWI      ,Offensive Foul (3),OF,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,13,04:09,16,232,"JANKUNAS, PAULIUS",PBWI      ,Turnover (2),TO,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,26,04:09,16,233,"LESSORT, MATHIAS",P003842   ,Foul Drawn (2),RV,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,0,04:09,16,234,"DAVIES, BRANDON",P007870   ,In,IN,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,13,04:09,16,235,"JANKUNAS, PAULIUS",PBWI      ,Out,OUT,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,14,03:51,17,237,"FELDEINE, JAMES",P005918   ,Missed Two Pointer (0/3 -  2 pt),2FGA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,3,03:50,17,238,"PANGOS, KEVIN",P006433   ,Def Rebound (5),D,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,6,03:34,17,239,"DANGUBIC, NEMANJA",P005942   ,Foul (2),CM,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,21,03:34,17,240,"MILAKNIS, ARTURAS",PKPD      ,Foul Drawn (2),RV,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,3,03:34,17,241,"PANGOS, KEVIN",P006433   ,Out,OUT,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,9,03:34,17,242,"UDRIH, BENO",PAGP      ,In,IN,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,21,03:34,17,243,"MILAKNIS, ARTURAS",PKPD      ,Free Throw In (1/1 -  1 pt),FTM,27.0,27.0,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,21,03:34,17,244,"MILAKNIS, ARTURAS",PKPD      ,Free Throw In (2/2 -  2 pt),FTM,27.0,28.0,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,12,03:34,17,245,"ANTIC, PERO",PBAE      ,In,IN,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,26,03:34,17,246,"LESSORT, MATHIAS",P003842   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,0,03:17,17,247,"DAVIES, BRANDON",P007870   ,Foul (1),CM,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,51,03:17,17,248,"BJELICA, MILKO",PCHX      ,Foul Drawn (3),RV,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,14,03:11,17,249,"FELDEINE, JAMES",P005918   ,Missed Three Pointer (0/2 -  2 pt),3FGA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,12,03:07,17,252,"ANTIC, PERO",PBAE      ,Off Rebound (2),O,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,30,03:07,17,253,"WHITE, AARON",P006505   ,Foul (1),CM,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,12,03:07,17,254,"ANTIC, PERO",PBAE      ,Foul Drawn (1),RV,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,12,03:07,17,255,"ANTIC, PERO",PBAE      ,Free Throw In (1/1 -  1 pt),FTM,28.0,28.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,12,03:07,17,256,"ANTIC, PERO",PBAE      ,Free Throw In (2/2 -  2 pt),FTM,29.0,28.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,30,02:57,18,258,"WHITE, AARON",P006505   ,Turnover (2),TO,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,0,02:43,18,259,"DAVIES, BRANDON",P007870   ,Foul (2),CM,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,51,02:43,18,260,"BJELICA, MILKO",PCHX      ,Foul Drawn (4),RV,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,51,02:43,18,261,"BJELICA, MILKO",PCHX      ,Missed Free Throw (0/1 -  0 pt),FTA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,51,02:43,18,262,"BJELICA, MILKO",PCHX      ,Free Throw In (1/2 -  1 pt),FTM,30.0,28.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,16,02:43,18,263,"JANKOVIC, STEFAN",P007961   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,51,02:43,18,264,"BJELICA, MILKO",PCHX      ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,21,02:25,18,265,"MILAKNIS, ARTURAS",PKPD      ,Three Pointer (1/1 -  5 pt),3FGM,30.0,31.0,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,9,02:25,18,266,"UDRIH, BENO",PAGP      ,Assist (1),AS,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,22,02:04,18,267,"ROCHESTIE, TAYLOR",P002972   ,Three Pointer (2/3 -  10 pt),3FGM,33.0,31.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,22,01:44,19,269,"MICIC, VASILIJE",P002580   ,Turnover (2),TO,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,22,01:39,19,270,"ROCHESTIE, TAYLOR",P002972   ,Steal (3),ST,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,16,01:39,19,298,"JANKOVIC, STEFAN",P007961   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,9,01:35,19,271,"UDRIH, BENO",PAGP      ,Def Rebound (1),D,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,9,01:32,19,272,"UDRIH, BENO",PAGP      ,Missed Three Pointer (0/1 -  4 pt),3FGA,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,22,01:28,19,273,"ROCHESTIE, TAYLOR",P002972   ,Def Rebound (1),D,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,16,01:10,19,274,"JANKOVIC, STEFAN",P007961   ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,30,01:09,19,275,"WHITE, AARON",P006505   ,Def Rebound (3),D,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,9,00:55,20,277,"UDRIH, BENO",PAGP      ,Turnover (1),TO,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,,00:54,20,278,,          ,Time Out (2),TOUT,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,6,00:54,20,279,"DANGUBIC, NEMANJA",P005942   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,7,00:54,20,280,"DAVIDOVAC, DEJAN",P007960   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,22,00:54,20,281,"ROCHESTIE, TAYLOR",P002972   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,31,00:54,20,282,"ENNIS, DYLAN",P008066   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,9,00:54,20,283,"UDRIH, BENO",PAGP      ,Out,OUT,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,92,00:54,20,284,"ULANOVAS, EDGARAS",P002329   ,In,IN,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,30,00:29,20,287,"WHITE, AARON",P006505   ,Block (1),FV,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,14,00:24,20,288,"FELDEINE, JAMES",P005918   ,Missed Three Pointer (0/3 -  2 pt),3FGA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,14,00:24,20,289,"FELDEINE, JAMES",P005918   ,Shot Rejected (1),AG,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,30,00:24,20,286,"WHITE, AARON",P006505   ,Def Rebound (4),D,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,21,00:07,20,290,"MILAKNIS, ARTURAS",PKPD      ,Missed Three Pointer (1/2 -  5 pt),3FGA,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,,00:07,20,291,,          ,Def Rebound (2),D,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,16,00:07,20,292,"JANKOVIC, STEFAN",P007961   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,22,00:07,20,293,"ROCHESTIE, TAYLOR",P002972   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,31,00:00,20,294,"ENNIS, DYLAN",P008066   ,Missed Three Pointer (1/2 -  7 pt),3FGA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,30,00:00,20,295,"WHITE, AARON",P006505   ,Def Rebound (5),D,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+          ,,,,21,297,,          ,End Period,EP,,,,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+          ,,,,21,305,,          ,Begin Period,BP,,,,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,6,10:00,21,299,"DANGUBIC, NEMANJA",P005942   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,7,10:00,21,300,"DAVIDOVAC, DEJAN",P007960   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,31,10:00,21,301,"ENNIS, DYLAN",P008066   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,51,10:00,21,302,"BJELICA, MILKO",PCHX      ,In,IN,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,3,10:00,21,303,"PANGOS, KEVIN",P006433   ,In,IN,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,22,10:00,21,304,"MICIC, VASILIJE",P002580   ,Out,OUT,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,51,09:47,21,306,"BJELICA, MILKO",PCHX      ,Missed Two Pointer (0/3 -  1 pt),2FGA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,92,09:47,21,307,"ULANOVAS, EDGARAS",P002329   ,Def Rebound (2),D,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,22,09:43,21,308,"ROCHESTIE, TAYLOR",P002972   ,Foul (1),CM,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,92,09:43,21,309,"ULANOVAS, EDGARAS",P002329   ,Foul Drawn (2),RV,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,30,09:33,21,310,"WHITE, AARON",P006505   ,Missed Three Pointer (0/2 -  4 pt),3FGA,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,14,09:32,21,311,"FELDEINE, JAMES",P005918   ,Def Rebound (1),D,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,12,09:25,21,312,"ANTIC, PERO",PBAE      ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,30,09:24,21,313,"WHITE, AARON",P006505   ,Def Rebound (6),D,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,30,09:14,21,314,"WHITE, AARON",P006505   ,Missed Two Pointer (2/3 -  4 pt),2FGA,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,51,09:13,21,315,"BJELICA, MILKO",PCHX      ,Def Rebound (1),D,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,51,09:06,21,316,"BJELICA, MILKO",PCHX      ,Missed Three Pointer (0/3 -  1 pt),3FGA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,12,09:00,21,317,"ANTIC, PERO",PBAE      ,Off Rebound (3),O,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,51,08:55,22,319,"BJELICA, MILKO",PCHX      ,Two Pointer (1/4 -  3 pt),2FGM,35.0,31.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,22,08:55,22,320,"ROCHESTIE, TAYLOR",P002972   ,Assist (5),AS,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,0,08:44,22,321,"DAVIES, BRANDON",P007870   ,Turnover (1),TO,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,12,08:44,22,322,"ANTIC, PERO",PBAE      ,Steal (2),ST,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,22,08:34,22,323,"ROCHESTIE, TAYLOR",P002972   ,Three Pointer (3/4 -  13 pt),3FGM,38.0,31.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,,08:32,22,324,,          ,Time Out (1),TOUT,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,0,08:32,22,325,"DAVIES, BRANDON",P007870   ,Out,OUT,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,22,08:32,22,326,"MICIC, VASILIJE",P002580   ,In,IN,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,30,08:32,22,327,"WHITE, AARON",P006505   ,Out,OUT,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,44,08:32,22,328,"KAVALIAUSKAS, ANTANAS",P000399   ,In,IN,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,3,08:16,22,329,"PANGOS, KEVIN",P006433   ,Missed Three Pointer (2/3 -  10 pt),3FGA,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,14,08:16,22,330,"FELDEINE, JAMES",P005918   ,Def Rebound (2),D,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,22,08:07,22,331,"ROCHESTIE, TAYLOR",P002972   ,Turnover (3),TO,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,22,07:58,23,333,"ROCHESTIE, TAYLOR",P002972   ,Foul (2),CM,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,92,07:58,23,334,"ULANOVAS, EDGARAS",P002329   ,Foul Drawn (3),RV,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,44,07:47,23,335,"KAVALIAUSKAS, ANTANAS",P000399   ,Two Pointer (1/1 -  2 pt),2FGM,38.0,33.0,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,3,07:47,23,336,"PANGOS, KEVIN",P006433   ,Assist (1),AS,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,21,07:25,23,337,"MILAKNIS, ARTURAS",PKPD      ,Foul (1),CM,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,51,07:25,23,338,"BJELICA, MILKO",PCHX      ,Foul Drawn (5),RV,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,51,07:18,23,339,"BJELICA, MILKO",PCHX      ,Missed Two Pointer (1/5 -  3 pt),2FGA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,51,07:16,23,340,"BJELICA, MILKO",PCHX      ,Off Rebound (1),O,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,51,07:16,23,341,"BJELICA, MILKO",PCHX      ,Missed Two Pointer (1/6 -  3 pt),2FGA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,3,07:16,23,342,"PANGOS, KEVIN",P006433   ,Def Rebound (6),D,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,3,07:09,23,343,"PANGOS, KEVIN",P006433   ,Turnover (2),TO,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,14,07:09,23,344,"FELDEINE, JAMES",P005918   ,Steal (1),ST,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,12,06:53,24,347,"ANTIC, PERO",PBAE      ,Two Pointer (1/2 -  4 pt),2FGM,40.0,33.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,6,06:53,24,348,"DANGUBIC, NEMANJA",P005942   ,Assist (1),AS,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,6,06:37,24,349,"DANGUBIC, NEMANJA",P005942   ,Foul (3),CM,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,3,06:37,24,350,"PANGOS, KEVIN",P006433   ,Foul Drawn (3),RV,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,22,06:29,24,351,"MICIC, VASILIJE",P002580   ,Missed Two Pointer (0/3 -  0 pt),2FGA,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,12,06:27,24,352,"ANTIC, PERO",PBAE      ,Def Rebound (1),D,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,6,06:25,24,353,"DANGUBIC, NEMANJA",P005942   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,10,06:25,24,354,"LAZIC, BRANKO",PLUO      ,In,IN,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,12,06:25,24,355,"ANTIC, PERO",PBAE      ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,26,06:25,24,356,"LESSORT, MATHIAS",P003842   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,10,06:12,24,357,"LAZIC, BRANKO",PLUO      ,Missed Two Pointer (1/3 -  2 pt),2FGA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,3,06:12,24,358,"PANGOS, KEVIN",P006433   ,Def Rebound (7),D,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,21,06:01,24,359,"MILAKNIS, ARTURAS",PKPD      ,Missed Two Pointer (0/1 -  5 pt),2FGA,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,21,06:00,24,360,"MILAKNIS, ARTURAS",PKPD      ,Off Rebound (1),O,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,10,05:48,25,362,"LAZIC, BRANKO",PLUO      ,Foul (4),CM,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,92,05:48,25,363,"ULANOVAS, EDGARAS",P002329   ,Foul Drawn (4),RV,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,7,05:48,25,364,"DAVIDOVAC, DEJAN",P007960   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,10,05:48,25,365,"LAZIC, BRANKO",PLUO      ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,26,05:38,25,366,"LESSORT, MATHIAS",P003842   ,Foul (1),CM,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,3,05:38,25,367,"PANGOS, KEVIN",P006433   ,Foul Drawn (4),RV,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,3,05:38,25,368,"PANGOS, KEVIN",P006433   ,Free Throw In (1/1 -  11 pt),FTM,40.0,34.0,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,3,05:38,25,369,"PANGOS, KEVIN",P006433   ,Free Throw In (2/2 -  12 pt),FTM,40.0,35.0,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,44,05:22,25,370,"KAVALIAUSKAS, ANTANAS",P000399   ,Foul (3),CM,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,26,05:22,25,371,"LESSORT, MATHIAS",P003842   ,Foul Drawn (3),RV,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,22,05:11,25,372,"ROCHESTIE, TAYLOR",P002972   ,Missed Three Pointer (3/5 -  13 pt),3FGA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,22,05:10,25,373,"MICIC, VASILIJE",P002580   ,Def Rebound (1),D,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,44,04:58,26,375,"KAVALIAUSKAS, ANTANAS",P000399   ,Turnover (2),TO,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,26,04:58,26,376,"LESSORT, MATHIAS",P003842   ,Steal (1),ST,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,14,04:50,26,377,"FELDEINE, JAMES",P005918   ,Missed Three Pointer (0/4 -  2 pt),3FGA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,44,04:49,26,378,"KAVALIAUSKAS, ANTANAS",P000399   ,Def Rebound (1),D,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,22,04:42,26,379,"ROCHESTIE, TAYLOR",P002972   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,31,04:42,26,380,"ENNIS, DYLAN",P008066   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,7,04:38,26,381,"DAVIDOVAC, DEJAN",P007960   ,Foul (2),CM,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,44,04:38,26,382,"KAVALIAUSKAS, ANTANAS",P000399   ,Foul Drawn (2),RV,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,44,04:38,26,383,"KAVALIAUSKAS, ANTANAS",P000399   ,Missed Free Throw (0/1 -  2 pt),FTA,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,44,04:38,26,384,"KAVALIAUSKAS, ANTANAS",P000399   ,Missed Free Throw (0/2 -  2 pt),FTA,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,26,04:37,26,385,"LESSORT, MATHIAS",P003842   ,Def Rebound (4),D,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,26,04:18,26,386,"LESSORT, MATHIAS",P003842   ,Two Pointer (1/5 -  2 pt),2FGM,42.0,35.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,14,04:18,26,387,"FELDEINE, JAMES",P005918   ,Assist (1),AS,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,22,04:05,26,388,"MICIC, VASILIJE",P002580   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,92,04:04,26,389,"ULANOVAS, EDGARAS",P002329   ,Off Rebound (2),O,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,51,04:02,26,390,"BJELICA, MILKO",PCHX      ,Foul (1),CM,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,92,04:02,26,391,"ULANOVAS, EDGARAS",P002329   ,Foul Drawn (5),RV,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,16,04:02,26,392,"JANKOVIC, STEFAN",P007961   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,51,04:02,26,393,"BJELICA, MILKO",PCHX      ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,13,04:02,26,394,"JANKUNAS, PAULIUS",PBWI      ,In,IN,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,44,04:02,26,395,"KAVALIAUSKAS, ANTANAS",P000399   ,Out,OUT,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,92,04:02,26,396,"ULANOVAS, EDGARAS",P002329   ,Free Throw In (1/1 -  5 pt),FTM,42.0,36.0,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,92,04:02,26,397,"ULANOVAS, EDGARAS",P002329   ,Free Throw In (2/2 -  6 pt),FTM,42.0,37.0,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,16,03:55,27,399,"JANKOVIC, STEFAN",P007961   ,Two Pointer (2/3 -  4 pt),2FGM,44.0,37.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,14,03:55,27,400,"FELDEINE, JAMES",P005918   ,Assist (2),AS,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,3,03:41,27,401,"PANGOS, KEVIN",P006433   ,Missed Three Pointer (2/4 -  12 pt),3FGA,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,26,03:41,27,402,"LESSORT, MATHIAS",P003842   ,Def Rebound (5),D,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,14,03:29,27,403,"FELDEINE, JAMES",P005918   ,Missed Two Pointer (0/4 -  2 pt),2FGA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,22,03:28,27,404,"MICIC, VASILIJE",P002580   ,Def Rebound (2),D,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,14,03:23,27,405,"FELDEINE, JAMES",P005918   ,Foul (1),CM,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,22,03:23,27,406,"MICIC, VASILIJE",P002580   ,Foul Drawn (2),RV,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,6,03:23,27,407,"DANGUBIC, NEMANJA",P005942   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,14,03:23,27,408,"FELDEINE, JAMES",P005918   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,6,03:23,27,409,"TOUPANE, AXEL",P002582   ,In,IN,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,21,03:23,27,410,"MILAKNIS, ARTURAS",PKPD      ,Out,OUT,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,22,03:23,27,411,"MICIC, VASILIJE",P002580   ,Free Throw In (1/1 -  1 pt),FTM,44.0,38.0,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,22,03:23,27,412,"MICIC, VASILIJE",P002580   ,Free Throw In (2/2 -  2 pt),FTM,44.0,39.0,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,3,03:23,27,413,"PANGOS, KEVIN",P006433   ,Out,OUT,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,30,03:23,27,414,"WHITE, AARON",P006505   ,In,IN,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,31,03:01,27,415,"ENNIS, DYLAN",P008066   ,Two Pointer (1/2 -  9 pt),2FGM,46.0,39.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,92,02:37,28,417,"ULANOVAS, EDGARAS",P002329   ,Turnover (1),TO,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,26,02:37,28,418,"LESSORT, MATHIAS",P003842   ,Steal (2),ST,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,26,02:33,28,419,"LESSORT, MATHIAS",P003842   ,Two Pointer (2/6 -  4 pt),2FGM,48.0,39.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,22,02:08,28,420,"MICIC, VASILIJE",P002580   ,Missed Three Pointer (0/2 -  2 pt),3FGA,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,26,02:07,28,421,"LESSORT, MATHIAS",P003842   ,Def Rebound (6),D,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,16,01:43,29,423,"JANKOVIC, STEFAN",P007961   ,Missed Two Pointer (2/4 -  4 pt),2FGA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,92,01:42,29,424,"ULANOVAS, EDGARAS",P002329   ,Def Rebound (3),D,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,6,01:30,29,425,"TOUPANE, AXEL",P002582   ,Three Pointer (1/1 -  3 pt),3FGM,48.0,42.0,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,13,01:30,29,426,"JANKUNAS, PAULIUS",PBWI      ,Assist (1),AS,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,,01:01,29,427,,          ,Turnover (1),TO,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,3,01:01,29,428,"PANGOS, KEVIN",P006433   ,In,IN,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,21,01:01,29,429,"MILAKNIS, ARTURAS",PKPD      ,In,IN,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,22,01:01,29,430,"MICIC, VASILIJE",P002580   ,Out,OUT,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,92,01:01,29,431,"ULANOVAS, EDGARAS",P002329   ,Out,OUT,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,14,01:01,29,432,"FELDEINE, JAMES",P005918   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,26,01:01,29,433,"LESSORT, MATHIAS",P003842   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,3,00:49,30,435,"PANGOS, KEVIN",P006433   ,Turnover (3),TO,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,7,00:49,30,436,"DAVIDOVAC, DEJAN",P007960   ,Steal (2),ST,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,14,00:44,30,437,"FELDEINE, JAMES",P005918   ,Turnover (1),TO,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,21,00:33,30,438,"MILAKNIS, ARTURAS",PKPD      ,Missed Three Pointer (1/3 -  5 pt),3FGA,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,,00:32,30,441,,          ,Off Rebound (1),O,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,31,00:32,30,439,"ENNIS, DYLAN",P008066   ,Foul (1),CM,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,30,00:32,30,440,"WHITE, AARON",P006505   ,Foul Drawn (1),RV,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,0,00:32,30,442,"DAVIES, BRANDON",P007870   ,In,IN,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,13,00:32,30,443,"JANKUNAS, PAULIUS",PBWI      ,Out,OUT,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,12,00:32,30,444,"ANTIC, PERO",PBAE      ,In,IN,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,31,00:32,30,445,"ENNIS, DYLAN",P008066   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,30,00:32,30,446,"WHITE, AARON",P006505   ,Free Throw In (1/1 -  5 pt),FTM,48.0,43.0,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,30,00:32,30,447,"WHITE, AARON",P006505   ,Missed Free Throw (1/2 -  5 pt),FTA,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,12,00:32,30,448,"ANTIC, PERO",PBAE      ,Def Rebound (2),D,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,14,00:14,30,449,"FELDEINE, JAMES",P005918   ,Turnover (2),TO,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,6,00:14,30,450,"TOUPANE, AXEL",P002582   ,Steal (1),ST,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,30,00:09,30,451,"WHITE, AARON",P006505   ,Two Pointer (3/4 -  7 pt),2FGM,48.0,45.0,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,6,00:09,30,452,"TOUPANE, AXEL",P002582   ,Assist (1),AS,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,12,00:00,30,453,"ANTIC, PERO",PBAE      ,Missed Three Pointer (0/2 -  4 pt),3FGA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,0,00:00,30,454,"DAVIES, BRANDON",P007870   ,Def Rebound (2),D,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+          ,,,,31,456,,          ,End Period,EP,,,,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+          ,,,,31,467,,          ,Begin Period,BP,,,,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,7,10:00,31,457,"DAVIDOVAC, DEJAN",P007960   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,10,10:00,31,458,"LAZIC, BRANKO",PLUO      ,In,IN,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,14,10:00,31,459,"FELDEINE, JAMES",P005918   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,16,10:00,31,460,"JANKOVIC, STEFAN",P007961   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,22,10:00,31,461,"ROCHESTIE, TAYLOR",P002972   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,51,10:00,31,462,"BJELICA, MILKO",PCHX      ,In,IN,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,0,10:00,31,463,"DAVIES, BRANDON",P007870   ,Out,OUT,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,6,10:00,31,464,"TOUPANE, AXEL",P002582   ,Out,OUT,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,13,10:00,31,465,"JANKUNAS, PAULIUS",PBWI      ,In,IN,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,22,10:00,31,466,"MICIC, VASILIJE",P002580   ,In,IN,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,3,09:46,31,468,"PANGOS, KEVIN",P006433   ,Three Pointer (3/5 -  15 pt),3FGM,48.0,48.0,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,22,09:46,31,469,"MICIC, VASILIJE",P002580   ,Assist (1),AS,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,6,09:28,31,470,"DANGUBIC, NEMANJA",P005942   ,Two Pointer (1/1 -  7 pt),2FGM,50.0,48.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,22,09:28,31,471,"ROCHESTIE, TAYLOR",P002972   ,Assist (6),AS,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,3,09:04,31,472,"PANGOS, KEVIN",P006433   ,Missed Three Pointer (3/6 -  15 pt),3FGA,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,22,09:04,31,473,"ROCHESTIE, TAYLOR",P002972   ,Def Rebound (2),D,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,22,08:43,32,475,"ROCHESTIE, TAYLOR",P002972   ,Missed Three Pointer (3/6 -  13 pt),3FGA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,10,08:40,32,476,"LAZIC, BRANKO",PLUO      ,Off Rebound (2),O,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,6,08:40,32,477,"DANGUBIC, NEMANJA",P005942   ,Missed Three Pointer (1/3 -  7 pt),3FGA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,22,08:39,32,478,"MICIC, VASILIJE",P002580   ,Def Rebound (3),D,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,6,08:24,32,479,"DANGUBIC, NEMANJA",P005942   ,Foul (4),CM,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,13,08:24,32,480,"JANKUNAS, PAULIUS",PBWI      ,Foul Drawn (1),RV,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,21,08:24,32,481,"MILAKNIS, ARTURAS",PKPD      ,Out,OUT,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,92,08:24,32,482,"ULANOVAS, EDGARAS",P002329   ,In,IN,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,6,08:24,32,483,"DANGUBIC, NEMANJA",P005942   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,7,08:24,32,484,"DAVIDOVAC, DEJAN",P007960   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,13,08:10,32,485,"JANKUNAS, PAULIUS",PBWI      ,Two Pointer (2/2 -  4 pt),2FGM,50.0,50.0,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,3,08:10,32,486,"PANGOS, KEVIN",P006433   ,Assist (2),AS,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,13,07:50,33,488,"JANKUNAS, PAULIUS",PBWI      ,Foul (4),CM,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,51,07:50,33,489,"BJELICA, MILKO",PCHX      ,Foul Drawn (6),RV,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,13,07:50,33,490,"JANKUNAS, PAULIUS",PBWI      ,Out,OUT,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,44,07:50,33,491,"KAVALIAUSKAS, ANTANAS",P000399   ,In,IN,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,12,07:47,33,492,"ANTIC, PERO",PBAE      ,Missed Two Pointer (1/3 -  4 pt),2FGA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,51,07:47,33,493,"BJELICA, MILKO",PCHX      ,Off Rebound (2),O,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,,07:45,33,494,,          ,Time Out (1),TOUT,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,22,07:40,33,495,"ROCHESTIE, TAYLOR",P002972   ,Three Pointer (4/7 -  16 pt),3FGM,53.0,50.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,,07:11,33,496,,          ,Turnover (2),TO,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,7,06:50,34,498,"DAVIDOVAC, DEJAN",P007960   ,Three Pointer (1/1 -  5 pt),3FGM,56.0,50.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,22,06:50,34,499,"ROCHESTIE, TAYLOR",P002972   ,Assist (7),AS,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,,06:48,34,500,,          ,Time Out (1),TOUT,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,13,06:48,34,501,"JANKUNAS, PAULIUS",PBWI      ,In,IN,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,44,06:48,34,502,"KAVALIAUSKAS, ANTANAS",P000399   ,Out,OUT,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,3,06:33,34,503,"PANGOS, KEVIN",P006433   ,Turnover (4),TO,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,12,06:33,34,504,"ANTIC, PERO",PBAE      ,Steal (3),ST,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,3,06:32,34,505,"PANGOS, KEVIN",P006433   ,Unsportsmanlike Foul  (3),CMU,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,12,06:32,34,506,"ANTIC, PERO",PBAE      ,Foul Drawn (2),RV,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,12,06:32,34,507,"ANTIC, PERO",PBAE      ,Free Throw In (3/3 -  5 pt),FTM,57.0,50.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,12,06:32,34,508,"ANTIC, PERO",PBAE      ,Missed Free Throw (3/4 -  5 pt),FTA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,7,06:16,34,509,"DAVIDOVAC, DEJAN",P007960   ,Three Pointer (2/2 -  8 pt),3FGM,60.0,50.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,51,06:16,34,510,"BJELICA, MILKO",PCHX      ,Assist (1),AS,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,22,05:59,35,512,"MICIC, VASILIJE",P002580   ,Turnover (3),TO,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,22,05:59,35,513,"ROCHESTIE, TAYLOR",P002972   ,Steal (4),ST,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,30,05:53,35,514,"WHITE, AARON",P006505   ,Block (2),FV,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,7,05:53,35,515,"DAVIDOVAC, DEJAN",P007960   ,Missed Two Pointer (0/1 -  8 pt),2FGA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,7,05:53,35,516,"DAVIDOVAC, DEJAN",P007960   ,Shot Rejected (1),AG,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,,05:53,35,517,,          ,Def Rebound (3),D,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,21,05:53,35,518,"MILAKNIS, ARTURAS",PKPD      ,In,IN,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,22,05:53,35,519,"MICIC, VASILIJE",P002580   ,Out,OUT,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,51,05:33,35,520,"BJELICA, MILKO",PCHX      ,Foul (2),CM,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,13,05:33,35,521,"JANKUNAS, PAULIUS",PBWI      ,Foul Drawn (2),RV,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,13,05:33,35,522,"JANKUNAS, PAULIUS",PBWI      ,Free Throw In (1/1 -  5 pt),FTM,60.0,51.0,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,3,05:33,35,523,"PANGOS, KEVIN",P006433   ,Assist (3),AS,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,13,05:33,35,524,"JANKUNAS, PAULIUS",PBWI      ,Free Throw In (2/2 -  6 pt),FTM,60.0,52.0,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,22,05:31,35,525,"ROCHESTIE, TAYLOR",P002972   ,Turnover (4),TO,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,21,05:31,35,526,"MILAKNIS, ARTURAS",PKPD      ,Steal (1),ST,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,7,05:23,35,527,"DAVIDOVAC, DEJAN",P007960   ,Block (2),FV,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,30,05:19,35,528,"WHITE, AARON",P006505   ,Missed Two Pointer (3/5 -  7 pt),2FGA,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,30,05:19,35,529,"WHITE, AARON",P006505   ,Shot Rejected (1),AG,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,22,05:13,35,530,"ROCHESTIE, TAYLOR",P002972   ,Def Rebound (3),D,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,7,05:06,35,531,"DAVIDOVAC, DEJAN",P007960   ,Three Pointer (3/3 -  11 pt),3FGM,63.0,52.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,22,05:06,35,532,"ROCHESTIE, TAYLOR",P002972   ,Assist (8),AS,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,3,04:46,36,534,"PANGOS, KEVIN",P006433   ,Missed Three Pointer (3/7 -  15 pt),3FGA,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,7,04:45,36,535,"DAVIDOVAC, DEJAN",P007960   ,Def Rebound (2),D,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,51,04:28,36,536,"BJELICA, MILKO",PCHX      ,Missed Three Pointer (0/4 -  3 pt),3FGA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,,04:24,36,537,,          ,Def Rebound (4),D,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,12,04:24,36,538,"ANTIC, PERO",PBAE      ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,26,04:24,36,539,"LESSORT, MATHIAS",P003842   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,3,04:13,36,540,"PANGOS, KEVIN",P006433   ,Two Pointer (3/5 -  17 pt),2FGM,63.0,54.0,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,10,03:52,37,542,"LAZIC, BRANKO",PLUO      ,Missed Three Pointer (0/2 -  2 pt),3FGA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,26,03:51,37,543,"LESSORT, MATHIAS",P003842   ,Off Rebound (3),O,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,51,03:35,37,544,"BJELICA, MILKO",PCHX      ,Two Pointer (2/7 -  5 pt),2FGM,65.0,54.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,,03:34,37,545,,          ,Time Out (2),TOUT,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,7,03:23,37,546,"DAVIDOVAC, DEJAN",P007960   ,Foul (3),CM,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,3,03:23,37,547,"PANGOS, KEVIN",P006433   ,Foul Drawn (5),RV,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,13,03:09,37,548,"JANKUNAS, PAULIUS",PBWI      ,Two Pointer (3/3 -  8 pt),2FGM,65.0,56.0,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,3,02:56,38,550,"PANGOS, KEVIN",P006433   ,Foul (4),CM,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,22,02:56,38,551,"ROCHESTIE, TAYLOR",P002972   ,Foul Drawn (2),RV,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,12,02:56,38,552,"ANTIC, PERO",PBAE      ,In,IN,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,26,02:56,38,553,"LESSORT, MATHIAS",P003842   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,51,02:44,38,554,"BJELICA, MILKO",PCHX      ,Two Pointer (3/8 -  7 pt),2FGM,67.0,56.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,22,02:44,38,555,"ROCHESTIE, TAYLOR",P002972   ,Assist (9),AS,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,12,02:32,38,556,"ANTIC, PERO",PBAE      ,Foul (3),CM,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,3,02:32,38,557,"PANGOS, KEVIN",P006433   ,Foul Drawn (6),RV,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,13,02:20,38,558,"JANKUNAS, PAULIUS",PBWI      ,Two Pointer (4/4 -  10 pt),2FGM,67.0,58.0,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,92,02:20,38,559,"ULANOVAS, EDGARAS",P002329   ,Assist (2),AS,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,10,01:53,39,561,"LAZIC, BRANKO",PLUO      ,Three Pointer (1/3 -  5 pt),3FGM,70.0,58.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,22,01:53,39,562,"ROCHESTIE, TAYLOR",P002972   ,Assist (10),AS,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,92,01:41,39,563,"ULANOVAS, EDGARAS",P002329   ,Two Pointer (3/3 -  8 pt),2FGM,70.0,60.0,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,,01:40,39,564,,          ,Time Out (2),TOUT,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,13,01:40,39,565,"JANKUNAS, PAULIUS",PBWI      ,Out,OUT,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,22,01:40,39,566,"MICIC, VASILIJE",P002580   ,In,IN,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,30,01:31,39,567,"WHITE, AARON",P006505   ,Foul (2),CM,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,51,01:31,39,568,"BJELICA, MILKO",PCHX      ,Foul Drawn (7),RV,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,21,01:22,39,569,"MILAKNIS, ARTURAS",PKPD      ,Foul (2),CM,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,7,01:22,39,570,"DAVIDOVAC, DEJAN",P007960   ,Foul Drawn (2),RV,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,6,01:22,39,571,"DANGUBIC, NEMANJA",P005942   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,22,01:22,39,572,"ROCHESTIE, TAYLOR",P002972   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,7,01:22,39,573,"DAVIDOVAC, DEJAN",P007960   ,Free Throw In (3/3 -  12 pt),FTM,71.0,60.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,7,01:22,39,574,"DAVIDOVAC, DEJAN",P007960   ,Free Throw In (4/4 -  13 pt),FTM,72.0,60.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,31,01:22,39,575,"ENNIS, DYLAN",P008066   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,51,01:22,39,576,"BJELICA, MILKO",PCHX      ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,3,01:13,39,577,"PANGOS, KEVIN",P006433   ,Two Pointer (4/6 -  19 pt),2FGM,72.0,62.0,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,3,01:11,39,578,"PANGOS, KEVIN",P006433   ,Foul (5),CM,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,31,01:11,39,579,"ENNIS, DYLAN",P008066   ,Foul Drawn (3),RV,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,3,01:11,39,580,"PANGOS, KEVIN",P006433   ,Out,OUT,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,9,01:11,39,581,"UDRIH, BENO",PAGP      ,In,IN,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,31,01:11,39,582,"ENNIS, DYLAN",P008066   ,Free Throw In (5/5 -  10 pt),FTM,73.0,62.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,31,01:11,39,583,"ENNIS, DYLAN",P008066   ,Missed Free Throw (5/6 -  10 pt),FTA,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,31,01:11,39,584,"ENNIS, DYLAN",P008066   ,Off Rebound (1),O,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,21,01:02,39,585,"MILAKNIS, ARTURAS",PKPD      ,Foul (3),CM,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,31,01:02,39,586,"ENNIS, DYLAN",P008066   ,Foul Drawn (4),RV,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,31,01:02,39,587,"ENNIS, DYLAN",P008066   ,Free Throw In (6/7 -  11 pt),FTM,74.0,62.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,31,01:02,39,588,"ENNIS, DYLAN",P008066   ,Free Throw In (7/8 -  12 pt),FTM,75.0,62.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,9,00:50,40,590,"UDRIH, BENO",PAGP      ,Missed Two Pointer (2/3 -  4 pt),2FGA,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,,00:46,40,591,,          ,Off Rebound (2),O,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,30,00:44,40,592,"WHITE, AARON",P006505   ,Two Pointer (4/6 -  9 pt),2FGM,75.0,64.0,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,22,00:44,40,593,"MICIC, VASILIJE",P002580   ,Assist (2),AS,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,12,00:44,40,594,"ANTIC, PERO",PBAE      ,Foul (4),CM,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,30,00:44,40,595,"WHITE, AARON",P006505   ,Foul Drawn (2),RV,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,22,00:44,40,596,"ROCHESTIE, TAYLOR",P002972   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,31,00:44,40,597,"ENNIS, DYLAN",P008066   ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,30,00:44,40,598,"WHITE, AARON",P006505   ,Missed Free Throw (1/3 -  9 pt),FTA,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,21,00:42,40,599,"MILAKNIS, ARTURAS",PKPD      ,Off Rebound (2),O,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,21,00:42,40,600,"MILAKNIS, ARTURAS",PKPD      ,Turnover (1),TO,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,6,00:42,40,601,"DANGUBIC, NEMANJA",P005942   ,Steal (2),ST,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,6,00:42,40,602,"DANGUBIC, NEMANJA",P005942   ,Turnover (2),TO,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,22,00:31,40,603,"MICIC, VASILIJE",P002580   ,Missed Three Pointer (0/3 -  2 pt),3FGA,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,6,00:28,40,604,"DANGUBIC, NEMANJA",P005942   ,Def Rebound (5),D,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,21,00:28,40,605,"MILAKNIS, ARTURAS",PKPD      ,Foul (4),CM,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,6,00:28,40,606,"DANGUBIC, NEMANJA",P005942   ,Foul Drawn (2),RV,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,10,00:28,40,607,"LAZIC, BRANKO",PLUO      ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,31,00:28,40,608,"ENNIS, DYLAN",P008066   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,6,00:28,40,609,"DANGUBIC, NEMANJA",P005942   ,Free Throw In (3/3 -  8 pt),FTM,76.0,64.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,6,00:28,40,610,"DANGUBIC, NEMANJA",P005942   ,Free Throw In (4/4 -  9 pt),FTM,77.0,64.0,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,12,00:28,40,611,"ANTIC, PERO",PBAE      ,Out,OUT,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,16,00:28,40,612,"JANKOVIC, STEFAN",P007961   ,In,IN,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+RED       ,,16,00:11,40,613,"JANKOVIC, STEFAN",P007961   ,Foul (2),CM,,,Crvena Zvezda mts Belgrade,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,21,00:11,40,614,"MILAKNIS, ARTURAS",PKPD      ,Foul Drawn (3),RV,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,21,00:11,40,615,"MILAKNIS, ARTURAS",PKPD      ,Missed Free Throw (2/3 -  5 pt),FTA,,,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+ZAL       ,,21,00:11,40,616,"MILAKNIS, ARTURAS",PKPD      ,Free Throw In (3/4 -  6 pt),FTM,77.0,65.0,Zalgiris Kaunas,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL
+          ,,,,41,619,,          ,End Game,EG,,,,0,Crvena Zvezda mts Belgrade,RED,Zalgiris Kaunas,ZAL

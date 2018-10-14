@@ -1,0 +1,522 @@
+CODETEAM,COMMENT,DORSAL,MARKERTIME,MINUTE,NUMBEROFPLAY,PLAYER,PLAYER_ID,PLAYINFO,PLAYTYPE,POINTS_A,POINTS_B,TEAM,TYPE,home_team,home_team_code,away_team,away_team_code
+          ,,,,1,2,,          ,Begin Period,BP,,,,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,18,09:49,1,3,"SEGEV, ITAY",P004161   ,Offensive Foul (1),OF,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,18,09:49,1,4,"SEGEV, ITAY",P004161   ,Turnover (1),TO,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,21,09:49,1,5,"SANDERS, RAKIM",P005001   ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,21,09:34,1,6,"SANDERS, RAKIM",P005001   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,9,09:34,1,7,"HANGA, ADAM",P005099   ,Foul (1),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,18,09:34,1,8,"SEGEV, ITAY",P004161   ,Foul Drawn (1),RV,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,18,09:30,1,9,"SEGEV, ITAY",P004161   ,Def Rebound (1),D,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,18,09:10,1,10,"SEGEV, ITAY",P004161   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,43,09:03,1,11,"BOLDEN, JONAH",P007988   ,Off Rebound (1),O,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,43,09:03,1,12,"BOLDEN, JONAH",P007988   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,9,09:03,1,13,"HANGA, ADAM",P005099   ,Def Rebound (1),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,12,09:03,1,14,"DIBARTOLOMEO, JOHN",P007990   ,Foul (1),CM,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,13,09:03,1,15,"HEURTEL, THOMAS",PKLT      ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,9,08:55,2,17,"HANGA, ADAM",P005099   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,9,08:52,2,18,"HANGA, ADAM",P005099   ,Off Rebound (1),O,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,9,08:49,2,19,"HANGA, ADAM",P005099   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,1,08:47,2,20,"SERAPHIN, KEVIN",P001948   ,Off Rebound (1),O,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,1,08:42,2,21,"SERAPHIN, KEVIN",P001948   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,5,08:40,2,22,"ROLL, MICHAEL",P004974   ,Def Rebound (1),D,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,5,08:26,2,23,"ROLL, MICHAEL",P004974   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,,08:25,2,24,,          ,Off Rebound (1),O,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,12,08:21,2,25,"DIBARTOLOMEO, JOHN",P007990   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,43,08:19,2,26,"BOLDEN, JONAH",P007988   ,Off Rebound (2),O,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,43,08:17,2,27,"BOLDEN, JONAH",P007988   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,43,08:15,2,28,"BOLDEN, JONAH",P007988   ,Off Rebound (3),O,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,12,08:09,2,29,"DIBARTOLOMEO, JOHN",P007990   ,Two Pointer (1/1 -  2 pt),2FGM,,2.0,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,1,07:48,3,31,"SERAPHIN, KEVIN",P001948   ,Two Pointer (1/2 -  2 pt),2FGM,2.0,2.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,18,07:35,3,32,"SEGEV, ITAY",P004161   ,Turnover (2),TO,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,21,07:22,3,33,"SANDERS, RAKIM",P005001   ,Three Pointer (1/2 -  3 pt),3FGM,5.0,2.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,13,07:20,3,34,"HEURTEL, THOMAS",PKLT      ,Assist (1),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,55,07:10,3,35,"JACKSON, PIERRE",P005112   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,1,07:06,3,36,"SERAPHIN, KEVIN",P001948   ,Def Rebound (1),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,1,06:51,4,38,"SERAPHIN, KEVIN",P001948   ,Two Pointer (2/3 -  4 pt),2FGM,7.0,2.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,13,06:48,4,39,"HEURTEL, THOMAS",PKLT      ,Assist (2),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,43,06:41,4,40,"BOLDEN, JONAH",P007988   ,Missed Two Pointer (0/3 -  0 pt),2FGA,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,43,06:41,4,41,"BOLDEN, JONAH",P007988   ,Shot Rejected (1),AG,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,1,06:41,4,42,"SERAPHIN, KEVIN",P001948   ,Block (1),FV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,,06:41,4,43,,          ,Off Rebound (2),O,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,5,06:25,4,44,"ROLL, MICHAEL",P004974   ,Out,OUT,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,9,06:25,4,45,"TYUS, ALEX",P004119   ,In,IN,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,18,06:25,4,46,"SEGEV, ITAY",P004161   ,Out,OUT,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,45,06:25,4,47,"PARAKHOUSKI, ARTSIOM",P003034   ,In,IN,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,9,06:59,4,271,"TYUS, ALEX",P004119   ,Out,OUT,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,5,06:25,4,270,"ROLL, MICHAEL",P004974   ,In,IN,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,5,06:25,4,411,"ROLL, MICHAEL",P004974   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,18,06:25,4,48,"ORIOLA, PIERRE",P005917   ,Def Rebound (1),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,13,06:25,4,49,"HEURTEL, THOMAS",PKLT      ,Turnover (1),TO,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,5,06:14,4,50,"ROLL, MICHAEL",P004974   ,In,IN,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,9,06:14,4,51,"TYUS, ALEX",P004119   ,Out,OUT,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,43,06:14,4,52,"BOLDEN, JONAH",P007988   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,21,06:14,4,53,"SANDERS, RAKIM",P005001   ,Def Rebound (1),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,1,06:14,4,54,"SERAPHIN, KEVIN",P001948   ,Two Pointer (3/4 -  6 pt),2FGM,9.0,2.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,9,06:14,4,55,"HANGA, ADAM",P005099   ,Assist (1),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,45,06:14,4,56,"PARAKHOUSKI, ARTSIOM",P003034   ,Turnover (1),TO,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,21,06:14,4,57,"SANDERS, RAKIM",P005001   ,Steal (1),ST,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,9,06:14,4,58,"HANGA, ADAM",P005099   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,,06:14,4,59,,          ,Def Rebound (1),D,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,43,06:14,4,60,"BOLDEN, JONAH",P007988   ,Three Pointer (1/2 -  3 pt),3FGM,9.0,5.0,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,5,06:14,4,61,"ROLL, MICHAEL",P004974   ,Assist (1),AS,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,1,06:14,4,62,"SERAPHIN, KEVIN",P001948   ,Missed Two Pointer (3/5 -  6 pt),2FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,5,06:14,4,63,"ROLL, MICHAEL",P004974   ,Def Rebound (2),D,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,43,06:14,4,64,"BOLDEN, JONAH",P007988   ,Two Pointer (1/4 -  5 pt),2FGM,9.0,7.0,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,5,06:14,4,65,"ROLL, MICHAEL",P004974   ,Assist (2),AS,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,21,06:14,4,66,"SANDERS, RAKIM",P005001   ,Three Pointer (2/3 -  6 pt),3FGM,12.0,7.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,13,06:14,4,67,"HEURTEL, THOMAS",PKLT      ,Assist (3),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,5,03:50,7,71,"ROLL, MICHAEL",P004974   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,1,03:50,7,72,"SERAPHIN, KEVIN",P001948   ,Def Rebound (2),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,18,03:50,7,73,"ORIOLA, PIERRE",P005917   ,Two Pointer (1/1 -  2 pt),2FGM,14.0,7.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,13,03:50,7,74,"HEURTEL, THOMAS",PKLT      ,Assist (4),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,1,03:51,7,75,"SERAPHIN, KEVIN",P001948   ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,44,03:51,7,76,"TOMIC, ANTE",P002507   ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,1,03:51,7,77,"THOMAS, DESHAUN",P005094   ,In,IN,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,5,03:51,7,78,"ROLL, MICHAEL",P004974   ,Out,OUT,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,12,03:51,7,79,"DIBARTOLOMEO, JOHN",P007990   ,Out,OUT,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,30,03:51,7,80,"COLE, NORRIS",P007989   ,In,IN,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,55,03:35,7,81,"JACKSON, PIERRE",P005112   ,Turnover (1),TO,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,21,03:33,7,82,"SANDERS, RAKIM",P005001   ,Steal (2),ST,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,13,03:27,7,83,"HEURTEL, THOMAS",PKLT      ,Two Pointer (1/1 -  2 pt),2FGM,16.0,7.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,21,03:25,7,84,"SANDERS, RAKIM",P005001   ,Assist (1),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,,03:23,7,85,,          ,Time Out (1),TOUT,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,45,03:15,7,86,"PARAKHOUSKI, ARTSIOM",P003034   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,,03:15,7,87,,          ,Off Rebound (3),O,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,55,03:11,7,88,"JACKSON, PIERRE",P005112   ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,18,03:08,7,89,"ORIOLA, PIERRE",P005917   ,Def Rebound (2),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,13,03:03,7,90,"HEURTEL, THOMAS",PKLT      ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,44,03:00,7,91,"TOMIC, ANTE",P002507   ,Off Rebound (1),O,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,18,02:50,8,93,"ORIOLA, PIERRE",P005917   ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,44,02:47,8,94,"TOMIC, ANTE",P002507   ,Off Rebound (2),O,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,21,02:46,8,95,"SANDERS, RAKIM",P005001   ,Turnover (1),TO,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,18,02:46,8,96,"ORIOLA, PIERRE",P005917   ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,21,02:46,8,97,"SANDERS, RAKIM",P005001   ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,30,02:46,8,98,"CLAVER, VICTOR",P000556   ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,45,02:46,8,99,"MOERMAN, ADRIEN",P001833   ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,7,02:46,8,100,"KANE, DEANDRE",P005781   ,In,IN,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,9,02:46,8,101,"TYUS, ALEX",P004119   ,In,IN,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,45,02:46,8,102,"PARAKHOUSKI, ARTSIOM",P003034   ,Out,OUT,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,55,02:46,8,103,"JACKSON, PIERRE",P005112   ,Out,OUT,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,7,02:23,8,104,"KANE, DEANDRE",P005781   ,Turnover (1),TO,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,45,02:21,8,105,"MOERMAN, ADRIEN",P001833   ,Steal (1),ST,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,13,02:15,8,106,"HEURTEL, THOMAS",PKLT      ,Turnover (2),TO,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,30,02:14,8,107,"COLE, NORRIS",P007989   ,Steal (1),ST,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,7,02:11,8,108,"KANE, DEANDRE",P005781   ,Two Pointer (1/1 -  2 pt),2FGM,16.0,9.0,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,30,02:08,8,109,"COLE, NORRIS",P007989   ,Assist (1),AS,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,45,01:52,9,111,"MOERMAN, ADRIEN",P001833   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,30,01:47,9,112,"CLAVER, VICTOR",P000556   ,Off Rebound (1),O,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,30,01:47,9,113,"CLAVER, VICTOR",P000556   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,1,01:44,9,114,"THOMAS, DESHAUN",P005094   ,Def Rebound (1),D,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,1,01:41,9,115,"THOMAS, DESHAUN",P005094   ,Two Pointer (1/1 -  2 pt),2FGM,16.0,11.0,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,45,01:24,9,116,"MOERMAN, ADRIEN",P001833   ,Three Pointer (1/1 -  3 pt),3FGM,19.0,11.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,30,01:22,9,117,"CLAVER, VICTOR",P000556   ,Assist (1),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,30,01:10,9,118,"COLE, NORRIS",P007989   ,Turnover (1),TO,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,13,01:09,9,119,"HEURTEL, THOMAS",PKLT      ,Steal (1),ST,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,45,01:05,9,120,"MOERMAN, ADRIEN",P001833   ,Missed Three Pointer (1/2 -  3 pt),3FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,9,01:02,9,121,"TYUS, ALEX",P004119   ,Def Rebound (1),D,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,1,00:56,10,123,"THOMAS, DESHAUN",P005094   ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,44,00:53,10,124,"TOMIC, ANTE",P002507   ,Def Rebound (1),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,30,00:41,10,125,"CLAVER, VICTOR",P000556   ,Three Pointer (1/1 -  3 pt),3FGM,22.0,11.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,13,00:38,10,126,"HEURTEL, THOMAS",PKLT      ,Assist (5),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,13,00:15,10,127,"HEURTEL, THOMAS",PKLT      ,Foul (1),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,30,00:15,10,128,"COLE, NORRIS",P007989   ,Foul Drawn (1),RV,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,8,00:15,10,129,"PRESSEY, PHIL",P007997   ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,9,00:15,10,130,"HANGA, ADAM",P005099   ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,13,00:15,10,131,"HEURTEL, THOMAS",PKLT      ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,25,00:15,10,132,"KOPONEN, PETTERI",P004178   ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,5,00:15,10,133,"ROLL, MICHAEL",P004974   ,In,IN,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,43,00:15,10,134,"BOLDEN, JONAH",P007988   ,Out,OUT,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,30,00:15,10,135,"COLE, NORRIS",P007989   ,Missed Free Throw (0/2 -  0 pt),FTA,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,30,00:15,10,273,"COLE, NORRIS",P007989   ,Missed Free Throw (0/2 -  0 pt),FTA,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,30,00:15,10,136,"CLAVER, VICTOR",P000556   ,Def Rebound (1),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,8,00:15,10,137,"PRESSEY, PHIL",P007997   ,Turnover (1),TO,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,30,00:15,10,138,"COLE, NORRIS",P007989   ,Steal (2),ST,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,30,00:15,10,139,"COLE, NORRIS",P007989   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+          ,,,,11,141,,          ,End Period,EP,,,,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+          ,,,,11,142,,          ,Begin Period,BP,,,,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,44,09:43,11,143,"TOMIC, ANTE",P002507   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,7,09:41,11,144,"KANE, DEANDRE",P005781   ,Def Rebound (1),D,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,30,09:28,11,145,"COLE, NORRIS",P007989   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,45,09:25,11,146,"MOERMAN, ADRIEN",P001833   ,Def Rebound (1),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,44,09:07,11,147,"TOMIC, ANTE",P002507   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,7,09:07,11,148,"KANE, DEANDRE",P005781   ,Def Rebound (2),D,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,30,09:07,11,149,"CLAVER, VICTOR",P000556   ,Foul (1),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,7,09:07,11,150,"KANE, DEANDRE",P005781   ,Foul Drawn (1),RV,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,1,08:48,12,152,"THOMAS, DESHAUN",P005094   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,45,08:46,12,153,"MOERMAN, ADRIEN",P001833   ,Def Rebound (2),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,8,08:33,12,154,"PRESSEY, PHIL",P007997   ,Three Pointer (1/1 -  3 pt),3FGM,25.0,11.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,45,08:24,12,155,"MOERMAN, ADRIEN",P001833   ,Foul (1),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,30,08:24,12,156,"COLE, NORRIS",P007989   ,Foul Drawn (2),RV,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,30,08:17,12,157,"COLE, NORRIS",P007989   ,Missed Two Pointer (0/3 -  0 pt),2FGA,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,25,08:14,12,158,"KOPONEN, PETTERI",P004178   ,Def Rebound (1),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,25,08:02,12,159,"KOPONEN, PETTERI",P004178   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,9,08:00,12,160,"TYUS, ALEX",P004119   ,Def Rebound (2),D,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,1,07:48,13,162,"THOMAS, DESHAUN",P005094   ,Two Pointer (2/3 -  4 pt),2FGM,25.0,13.0,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,7,07:30,13,163,"KANE, DEANDRE",P005781   ,Unsportsmanlike Foul  (1),CMU,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,44,07:30,13,164,"TOMIC, ANTE",P002507   ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,25,07:30,13,274,"KOPONEN, PETTERI",P004178   ,Assist (1),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,30,07:30,13,165,"COLE, NORRIS",P007989   ,Out,OUT,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,55,07:30,13,166,"JACKSON, PIERRE",P005112   ,In,IN,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,44,07:30,13,167,"TOMIC, ANTE",P002507   ,Free Throw In (1/1 -  1 pt),FTM,26.0,13.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,44,07:30,13,168,"TOMIC, ANTE",P002507   ,Free Throw In (2/2 -  2 pt),FTM,27.0,13.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,45,07:11,13,169,"MOERMAN, ADRIEN",P001833   ,Two Pointer (1/2 -  5 pt),2FGM,29.0,13.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,30,07:09,13,170,"CLAVER, VICTOR",P000556   ,Assist (2),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,1,06:47,14,172,"THOMAS, DESHAUN",P005094   ,Two Pointer (3/4 -  6 pt),2FGM,29.0,15.0,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,5,06:43,14,173,"ROLL, MICHAEL",P004974   ,Assist (3),AS,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,25,06:26,14,174,"KOPONEN, PETTERI",P004178   ,Two Pointer (1/2 -  2 pt),2FGM,31.0,15.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,9,06:01,14,175,"TYUS, ALEX",P004119   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,44,05:59,15,177,"TOMIC, ANTE",P002507   ,Def Rebound (2),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,25,05:53,15,178,"KOPONEN, PETTERI",P004178   ,Three Pointer (1/1 -  5 pt),3FGM,34.0,15.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,8,05:51,15,179,"PRESSEY, PHIL",P007997   ,Assist (1),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,30,05:37,15,180,"CLAVER, VICTOR",P000556   ,Foul (2),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,1,05:37,15,181,"THOMAS, DESHAUN",P005094   ,Foul Drawn (1),RV,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,5,05:37,15,182,"ROLL, MICHAEL",P004974   ,Out,OUT,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,12,05:37,15,183,"DIBARTOLOMEO, JOHN",P007990   ,In,IN,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,55,05:21,15,184,"JACKSON, PIERRE",P005112   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,30,05:18,15,185,"CLAVER, VICTOR",P000556   ,Def Rebound (2),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,25,05:02,15,186,"KOPONEN, PETTERI",P004178   ,Missed Two Pointer (1/3 -  5 pt),2FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,25,05:02,15,187,"KOPONEN, PETTERI",P004178   ,Shot Rejected (1),AG,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,1,05:00,15,188,"THOMAS, DESHAUN",P005094   ,Block (1),FV,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,55,03:59,17,191,"JACKSON, PIERRE",P005112   ,Def Rebound (1),D,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,30,03:59,17,192,"CLAVER, VICTOR",P000556   ,Foul (3),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,7,03:59,17,193,"KANE, DEANDRE",P005781   ,Foul Drawn (2),RV,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+          ,,,03:59,17,195,,          ,TV Time Out (1),TOUT_TV,,,,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,21,03:59,17,196,"SANDERS, RAKIM",P005001   ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,30,03:59,17,197,"CLAVER, VICTOR",P000556   ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,7,03:59,17,198,"KANE, DEANDRE",P005781   ,Missed Free Throw (0/1 -  2 pt),FTA,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,7,03:59,17,199,"KANE, DEANDRE",P005781   ,Free Throw In (1/2 -  3 pt),FTM,34.0,16.0,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,7,03:59,17,200,"KANE, DEANDRE",P005781   ,Out,OUT,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,43,03:59,17,201,"BOLDEN, JONAH",P007988   ,In,IN,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,21,03:57,17,202,"SANDERS, RAKIM",P005001   ,Turnover (2),TO,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,43,03:57,17,203,"BOLDEN, JONAH",P007988   ,Steal (1),ST,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,55,03:57,17,204,"JACKSON, PIERRE",P005112   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,45,03:57,17,205,"MOERMAN, ADRIEN",P001833   ,Def Rebound (3),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,44,03:57,17,206,"TOMIC, ANTE",P002507   ,Two Pointer (1/3 -  4 pt),2FGM,36.0,16.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,1,03:57,17,207,"SERAPHIN, KEVIN",P001948   ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,44,03:57,17,208,"TOMIC, ANTE",P002507   ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,9,03:57,17,209,"TYUS, ALEX",P004119   ,Out,OUT,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,18,03:57,17,210,"SEGEV, ITAY",P004161   ,In,IN,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,1,03:43,17,211,"THOMAS, DESHAUN",P005094   ,Missed Two Pointer (3/5 -  6 pt),2FGA,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,1,03:41,17,212,"SERAPHIN, KEVIN",P001948   ,Def Rebound (3),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,45,03:28,17,213,"MOERMAN, ADRIEN",P001833   ,Offensive Foul (2),OF,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,45,03:28,17,214,"MOERMAN, ADRIEN",P001833   ,Turnover (1),TO,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,1,03:28,17,215,"THOMAS, DESHAUN",P005094   ,Foul Drawn (2),RV,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,55,03:13,17,216,"JACKSON, PIERRE",P005112   ,Missed Two Pointer (0/3 -  0 pt),2FGA,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,1,03:11,17,217,"SERAPHIN, KEVIN",P001948   ,Def Rebound (4),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,45,03:07,17,218,"MOERMAN, ADRIEN",P001833   ,Missed Three Pointer (1/3 -  5 pt),3FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,1,03:04,17,219,"SERAPHIN, KEVIN",P001948   ,Off Rebound (2),O,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,43,03:04,17,220,"BOLDEN, JONAH",P007988   ,Foul (1),CM,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,1,03:04,17,221,"SERAPHIN, KEVIN",P001948   ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,18,03:04,17,222,"ORIOLA, PIERRE",P005917   ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,45,03:04,17,223,"MOERMAN, ADRIEN",P001833   ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,1,03:04,17,224,"SERAPHIN, KEVIN",P001948   ,Free Throw In (1/1 -  7 pt),FTM,37.0,16.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,1,03:04,17,225,"SERAPHIN, KEVIN",P001948   ,Missed Free Throw (1/2 -  7 pt),FTA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,1,03:04,17,227,"THOMAS, DESHAUN",P005094   ,Def Rebound (2),D,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,55,03:04,17,228,"JACKSON, PIERRE",P005112   ,Missed Two Pointer (0/4 -  0 pt),2FGA,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,43,03:04,17,229,"BOLDEN, JONAH",P007988   ,Off Rebound (4),O,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,43,03:04,17,230,"BOLDEN, JONAH",P007988   ,Two Pointer (2/5 -  7 pt),2FGM,37.0,18.0,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,21,02:33,18,232,"SANDERS, RAKIM",P005001   ,Three Pointer (3/4 -  9 pt),3FGM,40.0,18.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,8,02:33,18,275,"PRESSEY, PHIL",P007997   ,Assist (2),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,43,02:19,18,233,"BOLDEN, JONAH",P007988   ,Missed Three Pointer (1/3 -  7 pt),3FGA,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,8,02:16,18,234,"PRESSEY, PHIL",P007997   ,Def Rebound (1),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,18,02:03,18,235,"ORIOLA, PIERRE",P005917   ,Two Pointer (2/2 -  4 pt),2FGM,42.0,18.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,21,02:00,18,236,"SANDERS, RAKIM",P005001   ,Assist (2),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,8,01:52,19,238,"PRESSEY, PHIL",P007997   ,Foul (1),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,55,01:52,19,239,"JACKSON, PIERRE",P005112   ,Foul Drawn (1),RV,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,1,01:52,19,240,"THOMAS, DESHAUN",P005094   ,Out,OUT,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,7,01:52,19,241,"KANE, DEANDRE",P005781   ,In,IN,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,55,01:52,19,242,"JACKSON, PIERRE",P005112   ,Free Throw In (1/1 -  1 pt),FTM,42.0,19.0,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,55,01:52,19,243,"JACKSON, PIERRE",P005112   ,Free Throw In (2/2 -  2 pt),FTM,42.0,20.0,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,21,01:31,19,244,"SANDERS, RAKIM",P005001   ,Missed Three Pointer (3/5 -  9 pt),3FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,43,01:29,19,245,"BOLDEN, JONAH",P007988   ,Def Rebound (1),D,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,18,01:16,19,246,"SEGEV, ITAY",P004161   ,Two Pointer (1/2 -  2 pt),2FGM,42.0,22.0,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,7,01:16,19,247,"KANE, DEANDRE",P005781   ,Assist (1),AS,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,,01:16,19,248,,          ,Time Out (1),TOUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,8,01:16,19,249,"PRESSEY, PHIL",P007997   ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,13,01:16,19,250,"HEURTEL, THOMAS",PKLT      ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,43,00:59,20,252,"BOLDEN, JONAH",P007988   ,Foul (2),CM,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,1,00:59,20,253,"SERAPHIN, KEVIN",P001948   ,Foul Drawn (2),RV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,18,00:49,20,254,"ORIOLA, PIERRE",P005917   ,Two Pointer (3/3 -  6 pt),2FGM,44.0,22.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,1,00:47,20,255,"SERAPHIN, KEVIN",P001948   ,Assist (1),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,12,00:27,20,256,"DIBARTOLOMEO, JOHN",P007990   ,Missed Three Pointer (0/2 -  2 pt),3FGA,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,1,00:25,20,257,"SERAPHIN, KEVIN",P001948   ,Def Rebound (5),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,21,00:09,20,258,"SANDERS, RAKIM",P005001   ,Turnover (3),TO,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,43,00:08,20,259,"BOLDEN, JONAH",P007988   ,Steal (2),ST,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,7,00:06,20,260,"KANE, DEANDRE",P005781   ,Two Pointer (2/2 -  5 pt),2FGM,44.0,24.0,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,55,00:06,20,261,"JACKSON, PIERRE",P005112   ,Assist (1),AS,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,,00:06,20,262,,          ,Time Out (2),TOUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,9,00:06,20,263,"HANGA, ADAM",P005099   ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,18,00:06,20,264,"ORIOLA, PIERRE",P005917   ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,1,00:06,20,265,"THOMAS, DESHAUN",P005094   ,In,IN,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,43,00:06,20,266,"BOLDEN, JONAH",P007988   ,Out,OUT,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,21,00:00,20,267,"SANDERS, RAKIM",P005001   ,Missed Three Pointer (3/6 -  9 pt),3FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+          ,,,,21,269,,          ,End Period,EP,,,,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+          ,,,,21,282,,          ,Begin Period,BP,,,,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,18,10:00,21,276,"ORIOLA, PIERRE",P005917   ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,25,10:00,21,277,"KOPONEN, PETTERI",P004178   ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,1,10:00,21,278,"THOMAS, DESHAUN",P005094   ,Out,OUT,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,5,10:00,21,279,"ROLL, MICHAEL",P004974   ,In,IN,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,7,10:00,21,280,"KANE, DEANDRE",P005781   ,Out,OUT,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,43,10:00,21,281,"BOLDEN, JONAH",P007988   ,In,IN,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,18,09:38,21,283,"ORIOLA, PIERRE",P005917   ,Foul (1),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,5,09:38,21,284,"ROLL, MICHAEL",P004974   ,Foul Drawn (1),RV,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,5,09:38,21,285,"ROLL, MICHAEL",P004974   ,Free Throw In (1/1 -  1 pt),FTM,44.0,25.0,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,12,09:38,21,404,"DIBARTOLOMEO, JOHN",P007990   ,Assist (1),AS,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,5,09:38,21,286,"ROLL, MICHAEL",P004974   ,Missed Free Throw (1/2 -  1 pt),FTA,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,5,09:38,21,287,"ROLL, MICHAEL",P004974   ,Missed Free Throw (1/3 -  1 pt),FTA,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,21,09:38,21,288,"SANDERS, RAKIM",P005001   ,Def Rebound (2),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,12,09:23,21,289,"DIBARTOLOMEO, JOHN",P007990   ,Foul (2),CM,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,13,09:23,21,290,"HEURTEL, THOMAS",PKLT      ,Foul Drawn (2),RV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,13,09:23,21,291,"HEURTEL, THOMAS",PKLT      ,Free Throw In (1/1 -  3 pt),FTM,45.0,25.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,13,09:23,21,292,"HEURTEL, THOMAS",PKLT      ,Free Throw In (2/2 -  4 pt),FTM,46.0,25.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,9,09:10,21,294,"HANGA, ADAM",P005099   ,Foul (2),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,55,09:10,21,295,"JACKSON, PIERRE",P005112   ,Foul Drawn (2),RV,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,18,09:10,21,296,"ORIOLA, PIERRE",P005917   ,Foul (2),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,18,09:10,21,297,"SEGEV, ITAY",P004161   ,Foul Drawn (2),RV,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,18,09:10,21,298,"SEGEV, ITAY",P004161   ,Missed Free Throw (0/1 -  2 pt),FTA,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,18,09:10,21,299,"SEGEV, ITAY",P004161   ,Free Throw In (1/2 -  3 pt),FTM,46.0,26.0,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,55,09:10,21,300,"JACKSON, PIERRE",P005112   ,Assist (2),AS,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,1,08:48,22,302,"SERAPHIN, KEVIN",P001948   ,Two Pointer (4/6 -  9 pt),2FGM,48.0,26.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,13,08:45,22,303,"HEURTEL, THOMAS",PKLT      ,Assist (6),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,55,08:39,22,304,"JACKSON, PIERRE",P005112   ,Missed Two Pointer (0/5 -  2 pt),2FGA,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,18,08:37,22,305,"SEGEV, ITAY",P004161   ,Off Rebound (1),O,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,12,08:32,22,306,"DIBARTOLOMEO, JOHN",P007990   ,Missed Three Pointer (0/3 -  2 pt),3FGA,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,21,08:29,22,307,"SANDERS, RAKIM",P005001   ,Def Rebound (3),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,1,08:19,22,308,"SERAPHIN, KEVIN",P001948   ,Turnover (1),TO,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,12,08:17,22,309,"DIBARTOLOMEO, JOHN",P007990   ,Steal (1),ST,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,55,08:13,22,310,"JACKSON, PIERRE",P005112   ,Missed Three Pointer (0/3 -  2 pt),3FGA,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,18,08:11,22,311,"ORIOLA, PIERRE",P005917   ,Def Rebound (3),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,21,07:52,23,313,"SANDERS, RAKIM",P005001   ,Three Pointer (4/7 -  12 pt),3FGM,51.0,26.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,9,07:50,23,314,"HANGA, ADAM",P005099   ,Assist (2),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,5,07:38,23,315,"ROLL, MICHAEL",P004974   ,Turnover (1),TO,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,13,07:36,23,316,"HEURTEL, THOMAS",PKLT      ,Steal (2),ST,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,1,07:26,23,317,"SERAPHIN, KEVIN",P001948   ,Missed Two Pointer (4/7 -  9 pt),2FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,55,07:22,23,318,"JACKSON, PIERRE",P005112   ,Def Rebound (2),D,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,12,07:17,23,319,"DIBARTOLOMEO, JOHN",P007990   ,Three Pointer (1/4 -  5 pt),3FGM,51.0,29.0,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,55,07:15,23,320,"JACKSON, PIERRE",P005112   ,Assist (3),AS,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,18,06:56,24,322,"ORIOLA, PIERRE",P005917   ,Missed Two Pointer (3/4 -  6 pt),2FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,18,06:54,24,323,"SEGEV, ITAY",P004161   ,Def Rebound (2),D,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,12,06:46,24,324,"DIBARTOLOMEO, JOHN",P007990   ,Three Pointer (2/5 -  8 pt),3FGM,51.0,32.0,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,5,06:44,24,325,"ROLL, MICHAEL",P004974   ,Assist (4),AS,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,21,06:25,24,326,"SANDERS, RAKIM",P005001   ,Three Pointer (5/8 -  15 pt),3FGM,54.0,32.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,1,06:21,24,327,"SERAPHIN, KEVIN",P001948   ,Assist (2),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,55,06:06,24,328,"JACKSON, PIERRE",P005112   ,Two Pointer (1/6 -  4 pt),2FGM,54.0,34.0,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,9,05:38,25,330,"HANGA, ADAM",P005099   ,Missed Two Pointer (0/3 -  0 pt),2FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,1,05:37,25,331,"SERAPHIN, KEVIN",P001948   ,Off Rebound (3),O,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,1,05:35,25,332,"SERAPHIN, KEVIN",P001948   ,Turnover (2),TO,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,12,05:33,25,333,"DIBARTOLOMEO, JOHN",P007990   ,Steal (2),ST,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,55,05:29,25,334,"JACKSON, PIERRE",P005112   ,Missed Two Pointer (1/7 -  4 pt),2FGA,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,13,05:27,25,335,"HEURTEL, THOMAS",PKLT      ,Def Rebound (1),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,12,05:27,25,336,"DIBARTOLOMEO, JOHN",P007990   ,Unsportsmanlike Foul  (3),CMU,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,13,05:27,25,337,"HEURTEL, THOMAS",PKLT      ,Foul Drawn (3),RV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,5,05:27,25,338,"ROLL, MICHAEL",P004974   ,Out,OUT,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,7,05:27,25,339,"KANE, DEANDRE",P005781   ,In,IN,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,30,05:27,25,340,"COLE, NORRIS",P007989   ,In,IN,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,55,05:27,25,341,"JACKSON, PIERRE",P005112   ,Out,OUT,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,13,05:27,25,342,"HEURTEL, THOMAS",PKLT      ,Free Throw In (3/3 -  5 pt),FTM,55.0,34.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,13,05:27,25,343,"HEURTEL, THOMAS",PKLT      ,Missed Free Throw (3/4 -  5 pt),FTA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,9,05:27,25,344,"TYUS, ALEX",P004119   ,In,IN,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,18,05:27,25,345,"SEGEV, ITAY",P004161   ,Out,OUT,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,13,05:05,25,346,"HEURTEL, THOMAS",PKLT      ,Missed Three Pointer (0/2 -  5 pt),3FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,12,05:02,25,347,"DIBARTOLOMEO, JOHN",P007990   ,Def Rebound (1),D,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,43,04:49,26,349,"BOLDEN, JONAH",P007988   ,Missed Three Pointer (1/4 -  7 pt),3FGA,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,7,04:43,26,350,"KANE, DEANDRE",P005781   ,Off Rebound (1),O,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,7,04:43,26,351,"KANE, DEANDRE",P005781   ,Two Pointer (3/3 -  7 pt),2FGM,55.0,36.0,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,13,04:32,26,352,"HEURTEL, THOMAS",PKLT      ,Missed Two Pointer (1/2 -  5 pt),2FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,7,04:29,26,353,"KANE, DEANDRE",P005781   ,Def Rebound (3),D,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+          ,,,04:20,26,354,,          ,TV Time Out (2),TOUT_TV,,,,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,1,04:20,26,356,"THOMAS, DESHAUN",P005094   ,In,IN,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,43,04:20,26,357,"BOLDEN, JONAH",P007988   ,Out,OUT,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,18,04:20,26,358,"ORIOLA, PIERRE",P005917   ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,45,04:20,26,359,"MOERMAN, ADRIEN",P001833   ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,9,04:08,26,360,"TYUS, ALEX",P004119   ,Two Pointer (1/2 -  2 pt),2FGM,55.0,38.0,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,12,04:06,26,361,"DIBARTOLOMEO, JOHN",P007990   ,Assist (2),AS,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,21,03:47,27,363,"SANDERS, RAKIM",P005001   ,Three Pointer (6/9 -  18 pt),3FGM,58.0,38.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,13,03:45,27,364,"HEURTEL, THOMAS",PKLT      ,Assist (7),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,1,03:26,27,365,"SERAPHIN, KEVIN",P001948   ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,44,03:26,27,366,"TOMIC, ANTE",P002507   ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,30,03:16,27,367,"COLE, NORRIS",P007989   ,Two Pointer (1/4 -  2 pt),2FGM,58.0,40.0,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,45,03:01,27,368,"MOERMAN, ADRIEN",P001833   ,Missed Three Pointer (1/4 -  5 pt),3FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,7,02:57,28,370,"KANE, DEANDRE",P005781   ,Def Rebound (4),D,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,1,02:48,28,371,"THOMAS, DESHAUN",P005094   ,Missed Two Pointer (3/6 -  6 pt),2FGA,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,44,02:46,28,372,"TOMIC, ANTE",P002507   ,Def Rebound (3),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,7,02:31,28,373,"KANE, DEANDRE",P005781   ,Foul (2),CM,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,9,02:31,28,374,"HANGA, ADAM",P005099   ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,8,02:31,28,375,"PRESSEY, PHIL",P007997   ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,13,02:31,28,376,"HEURTEL, THOMAS",PKLT      ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,9,02:31,28,377,"HANGA, ADAM",P005099   ,Missed Free Throw (0/1 -  0 pt),FTA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,9,02:31,28,378,"HANGA, ADAM",P005099   ,Free Throw In (1/2 -  1 pt),FTM,59.0,40.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,44,02:31,28,379,"TOMIC, ANTE",P002507   ,Assist (1),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,9,02:31,28,380,"HANGA, ADAM",P005099   ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,25,02:31,28,381,"KOPONEN, PETTERI",P004178   ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,12,02:31,28,382,"DIBARTOLOMEO, JOHN",P007990   ,Out,OUT,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,55,02:31,28,383,"JACKSON, PIERRE",P005112   ,In,IN,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,30,02:18,28,384,"COLE, NORRIS",P007989   ,Two Pointer (2/5 -  4 pt),2FGM,59.0,42.0,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,25,02:03,28,385,"KOPONEN, PETTERI",P004178   ,Two Pointer (2/4 -  7 pt),2FGM,61.0,42.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,9,01:49,29,387,"TYUS, ALEX",P004119   ,Missed Two Pointer (1/3 -  2 pt),2FGA,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,45,01:47,29,388,"MOERMAN, ADRIEN",P001833   ,Def Rebound (4),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,21,01:39,29,389,"SANDERS, RAKIM",P005001   ,Offensive Foul (1),OF,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,21,01:39,29,390,"SANDERS, RAKIM",P005001   ,Turnover (4),TO,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,7,01:39,29,391,"KANE, DEANDRE",P005781   ,Foul Drawn (3),RV,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,30,01:22,29,392,"COLE, NORRIS",P007989   ,Missed Two Pointer (2/6 -  4 pt),2FGA,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,9,01:14,29,393,"TYUS, ALEX",P004119   ,Off Rebound (1),O,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,9,01:14,29,394,"TYUS, ALEX",P004119   ,Two Pointer (2/4 -  4 pt),2FGM,61.0,44.0,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,55,01:11,29,395,"JACKSON, PIERRE",P005112   ,Foul (1),CM,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,25,01:11,29,396,"KOPONEN, PETTERI",P004178   ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,44,00:53,30,398,"TOMIC, ANTE",P002507   ,Two Pointer (2/4 -  6 pt),2FGM,63.0,44.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,1,00:33,30,399,"THOMAS, DESHAUN",P005094   ,Turnover (1),TO,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,21,00:32,30,400,"SANDERS, RAKIM",P005001   ,Steal (3),ST,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,25,00:27,30,401,"KOPONEN, PETTERI",P004178   ,Three Pointer (2/2 -  10 pt),3FGM,66.0,44.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,8,00:27,30,402,"PRESSEY, PHIL",P007997   ,Assist (3),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,,00:27,30,403,,          ,Time Out (1),TOUT,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,1,00:06,30,405,"THOMAS, DESHAUN",P005094   ,Missed Two Pointer (3/7 -  6 pt),2FGA,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,44,00:03,30,406,"TOMIC, ANTE",P002507   ,Def Rebound (4),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,25,00:00,30,407,"KOPONEN, PETTERI",P004178   ,Missed Two Pointer (2/5 -  10 pt),2FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,9,00:00,30,408,"TYUS, ALEX",P004119   ,Def Rebound (3),D,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+          ,,,,31,410,,          ,End Period,EP,,,,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+          ,,,,31,412,,          ,Begin Period,BP,,,,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,8,09:40,31,413,"PRESSEY, PHIL",P007997   ,Missed Three Pointer (1/2 -  3 pt),3FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,55,09:37,31,414,"JACKSON, PIERRE",P005112   ,Def Rebound (3),D,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,8,09:36,31,415,"PRESSEY, PHIL",P007997   ,Foul (2),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,7,09:36,31,416,"KANE, DEANDRE",P005781   ,Foul Drawn (4),RV,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,30,09:25,31,417,"COLE, NORRIS",P007989   ,Missed Two Pointer (2/7 -  4 pt),2FGA,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,44,09:23,31,418,"TOMIC, ANTE",P002507   ,Def Rebound (5),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,21,09:16,31,419,"SANDERS, RAKIM",P005001   ,Missed Two Pointer (0/1 -  18 pt),2FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,45,09:15,31,420,"MOERMAN, ADRIEN",P001833   ,Off Rebound (1),O,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,25,09:12,31,421,"KOPONEN, PETTERI",P004178   ,Three Pointer (3/3 -  13 pt),3FGM,69.0,44.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,45,09:10,31,422,"MOERMAN, ADRIEN",P001833   ,Assist (1),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,7,08:57,32,424,"KANE, DEANDRE",P005781   ,Missed Two Pointer (3/4 -  7 pt),2FGA,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,7,08:54,32,425,"KANE, DEANDRE",P005781   ,Off Rebound (2),O,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,7,08:54,32,426,"KANE, DEANDRE",P005781   ,Missed Two Pointer (3/5 -  7 pt),2FGA,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,1,08:51,32,427,"THOMAS, DESHAUN",P005094   ,Off Rebound (1),O,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,1,08:51,32,428,"THOMAS, DESHAUN",P005094   ,Missed Two Pointer (3/8 -  6 pt),2FGA,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,21,08:48,32,429,"SANDERS, RAKIM",P005001   ,Def Rebound (4),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,25,08:33,32,430,"KOPONEN, PETTERI",P004178   ,Turnover (1),TO,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,21,08:33,32,431,"SANDERS, RAKIM",P005001   ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,30,08:33,32,432,"CLAVER, VICTOR",P000556   ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,1,08:33,32,433,"THOMAS, DESHAUN",P005094   ,Out,OUT,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,43,08:33,32,434,"BOLDEN, JONAH",P007988   ,In,IN,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,55,08:17,32,435,"JACKSON, PIERRE",P005112   ,Two Pointer (2/8 -  6 pt),2FGM,69.0,46.0,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,45,08:12,32,436,"MOERMAN, ADRIEN",P001833   ,Two Pointer (2/3 -  7 pt),2FGM,71.0,46.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,8,08:10,32,437,"PRESSEY, PHIL",P007997   ,Assist (4),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,9,07:51,33,439,"TYUS, ALEX",P004119   ,Missed Two Pointer (2/5 -  4 pt),2FGA,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,44,07:48,33,440,"TOMIC, ANTE",P002507   ,Def Rebound (6),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,25,07:37,33,441,"KOPONEN, PETTERI",P004178   ,Two Pointer (3/6 -  15 pt),2FGM,73.0,46.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,55,07:25,33,442,"JACKSON, PIERRE",P005112   ,Missed Three Pointer (0/4 -  6 pt),3FGA,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,9,07:21,33,443,"TYUS, ALEX",P004119   ,Off Rebound (2),O,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,9,07:21,33,444,"TYUS, ALEX",P004119   ,Missed Two Pointer (2/6 -  4 pt),2FGA,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,7,07:21,33,445,"KANE, DEANDRE",P005781   ,Off Rebound (3),O,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,7,07:21,33,446,"KANE, DEANDRE",P005781   ,Two Pointer (4/6 -  9 pt),2FGM,73.0,48.0,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,45,07:21,33,447,"MOERMAN, ADRIEN",P001833   ,Foul (3),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,7,07:21,33,448,"KANE, DEANDRE",P005781   ,Foul Drawn (5),RV,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,12,07:21,33,449,"DIBARTOLOMEO, JOHN",P007990   ,In,IN,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,30,07:21,33,450,"COLE, NORRIS",P007989   ,Out,OUT,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,7,07:21,33,451,"KANE, DEANDRE",P005781   ,Free Throw In (2/3 -  10 pt),FTM,73.0,49.0,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,25,07:06,33,452,"KOPONEN, PETTERI",P004178   ,Two Pointer (4/7 -  17 pt),2FGM,75.0,49.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,55,06:39,34,454,"JACKSON, PIERRE",P005112   ,Missed Three Pointer (0/5 -  6 pt),3FGA,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,55,06:39,34,455,"JACKSON, PIERRE",P005112   ,Shot Rejected (1),AG,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,8,06:39,34,456,"PRESSEY, PHIL",P007997   ,Block (1),FV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,9,06:39,34,457,"TYUS, ALEX",P004119   ,Off Rebound (3),O,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,,06:39,34,567,,          ,Turnover (1),TO,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,25,06:39,34,458,"KOPONEN, PETTERI",P004178   ,Three Pointer (4/4 -  20 pt),3FGM,78.0,49.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,8,06:39,34,459,"PRESSEY, PHIL",P007997   ,Assist (5),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,,06:29,34,460,,          ,Time Out (1),TOUT,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,9,06:29,34,461,"HANGA, ADAM",P005099   ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,45,06:29,34,462,"MOERMAN, ADRIEN",P001833   ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,55,06:16,34,463,"JACKSON, PIERRE",P005112   ,Turnover (2),TO,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,25,06:14,34,464,"KOPONEN, PETTERI",P004178   ,Steal (1),ST,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,9,06:03,34,465,"HANGA, ADAM",P005099   ,Three Pointer (1/2 -  4 pt),3FGM,81.0,49.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,8,06:01,34,466,"PRESSEY, PHIL",P007997   ,Assist (6),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,30,05:57,35,468,"CLAVER, VICTOR",P000556   ,Foul (4),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,55,05:57,35,469,"JACKSON, PIERRE",P005112   ,Foul Drawn (3),RV,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,11,05:57,35,470,"NAVARRO, JUAN CARLOS",PADI      ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,25,05:57,35,471,"KOPONEN, PETTERI",P004178   ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,43,05:47,35,472,"BOLDEN, JONAH",P007988   ,Three Pointer (2/5 -  10 pt),3FGM,81.0,52.0,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,7,05:45,35,473,"KANE, DEANDRE",P005781   ,Assist (2),AS,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,44,05:27,35,474,"TOMIC, ANTE",P002507   ,Offensive Foul (1),OF,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,44,05:27,35,475,"TOMIC, ANTE",P002507   ,Turnover (1),TO,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,7,05:27,35,476,"KANE, DEANDRE",P005781   ,Foul Drawn (6),RV,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,9,05:14,35,477,"TYUS, ALEX",P004119   ,Two Pointer (3/7 -  6 pt),2FGM,81.0,54.0,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,55,05:14,35,478,"JACKSON, PIERRE",P005112   ,Assist (4),AS,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,44,05:14,35,479,"TOMIC, ANTE",P002507   ,Foul (2),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,9,05:14,35,480,"TYUS, ALEX",P004119   ,Foul Drawn (1),RV,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,9,05:14,35,481,"TYUS, ALEX",P004119   ,Missed Free Throw (0/1 -  6 pt),FTA,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,9,05:14,35,482,"HANGA, ADAM",P005099   ,Def Rebound (2),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,11,05:00,35,483,"NAVARRO, JUAN CARLOS",PADI      ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,9,04:57,36,485,"TYUS, ALEX",P004119   ,Def Rebound (4),D,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,8,04:44,36,486,"PRESSEY, PHIL",P007997   ,Foul (3),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,55,04:44,36,487,"JACKSON, PIERRE",P005112   ,Foul Drawn (4),RV,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,1,04:44,36,488,"SERAPHIN, KEVIN",P001948   ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,44,04:44,36,489,"TOMIC, ANTE",P002507   ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,55,04:44,36,490,"JACKSON, PIERRE",P005112   ,Missed Free Throw (2/3 -  6 pt),FTA,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,55,04:44,36,491,"JACKSON, PIERRE",P005112   ,Free Throw In (3/4 -  7 pt),FTM,81.0,55.0,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,9,04:44,36,492,"TYUS, ALEX",P004119   ,Out,OUT,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,45,04:44,36,493,"PARAKHOUSKI, ARTSIOM",P003034   ,In,IN,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,9,04:32,36,494,"HANGA, ADAM",P005099   ,Three Pointer (2/3 -  7 pt),3FGM,84.0,55.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,11,04:30,36,495,"NAVARRO, JUAN CARLOS",PADI      ,Assist (1),AS,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,1,04:20,36,496,"SERAPHIN, KEVIN",P001948   ,Foul (1),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,55,04:20,36,497,"JACKSON, PIERRE",P005112   ,Foul Drawn (5),RV,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,55,04:20,36,498,"JACKSON, PIERRE",P005112   ,Free Throw In (4/5 -  8 pt),FTM,84.0,56.0,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,55,04:20,36,499,"JACKSON, PIERRE",P005112   ,Free Throw In (5/6 -  9 pt),FTM,84.0,57.0,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,5,04:20,36,500,"ROLL, MICHAEL",P004974   ,In,IN,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,7,04:20,36,501,"KANE, DEANDRE",P005781   ,Out,OUT,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,30,04:20,36,502,"COLE, NORRIS",P007989   ,In,IN,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,55,04:20,36,503,"JACKSON, PIERRE",P005112   ,Out,OUT,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,8,04:07,36,504,"PRESSEY, PHIL",P007997   ,Missed Three Pointer (1/3 -  3 pt),3FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,,04:05,36,505,,          ,Def Rebound (2),D,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,43,03:46,37,507,"BOLDEN, JONAH",P007988   ,Missed Two Pointer (2/6 -  10 pt),2FGA,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,1,03:44,37,508,"SERAPHIN, KEVIN",P001948   ,Def Rebound (6),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,11,03:35,37,509,"NAVARRO, JUAN CARLOS",PADI      ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,,03:36,37,510,,          ,Off Rebound (4),O,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,8,03:36,37,511,"PRESSEY, PHIL",P007997   ,Out,OUT,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,13,03:36,37,512,"HEURTEL, THOMAS",PKLT      ,In,IN,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,9,03:21,37,513,"HANGA, ADAM",P005099   ,Missed Two Pointer (0/4 -  7 pt),2FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,9,03:21,37,514,"HANGA, ADAM",P005099   ,Shot Rejected (1),AG,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,45,03:21,37,515,"PARAKHOUSKI, ARTSIOM",P003034   ,Block (1),FV,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,,03:21,37,516,,          ,Turnover (2),TO,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,45,03:21,37,517,"PARAKHOUSKI, ARTSIOM",P003034   ,Two Pointer (1/2 -  2 pt),2FGM,84.0,59.0,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,12,03:21,37,518,"DIBARTOLOMEO, JOHN",P007990   ,Assist (3),AS,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,30,02:47,38,520,"COLE, NORRIS",P007989   ,Foul (1),CM,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,11,02:47,38,521,"NAVARRO, JUAN CARLOS",PADI      ,Foul Drawn (1),RV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,12,02:42,38,522,"DIBARTOLOMEO, JOHN",P007990   ,Foul (4),CM,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,11,02:42,38,523,"NAVARRO, JUAN CARLOS",PADI      ,Foul Drawn (2),RV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,11,02:42,38,524,"NAVARRO, JUAN CARLOS",PADI      ,Missed Free Throw (0/1 -  0 pt),FTA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,11,02:42,38,525,"NAVARRO, JUAN CARLOS",PADI      ,Free Throw In (1/2 -  1 pt),FTM,85.0,59.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,30,02:27,38,526,"COLE, NORRIS",P007989   ,Two Pointer (3/8 -  6 pt),2FGM,85.0,61.0,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,13,02:27,38,527,"HEURTEL, THOMAS",PKLT      ,Unsportsmanlike Foul  (2),CMU,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,30,02:27,38,528,"COLE, NORRIS",P007989   ,Foul Drawn (3),RV,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,30,02:27,38,529,"COLE, NORRIS",P007989   ,Free Throw In (1/3 -  7 pt),FTM,85.0,62.0,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,5,02:17,38,530,"ROLL, MICHAEL",P004974   ,Two Pointer (1/3 -  3 pt),2FGM,85.0,64.0,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,12,02:04,38,531,"DIBARTOLOMEO, JOHN",P007990   ,Foul (5),CM,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,11,02:04,38,532,"NAVARRO, JUAN CARLOS",PADI      ,Foul Drawn (3),RV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,7,02:04,38,533,"KANE, DEANDRE",P005781   ,In,IN,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,12,02:04,38,534,"DIBARTOLOMEO, JOHN",P007990   ,Out,OUT,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,30,01:51,39,536,"CLAVER, VICTOR",P000556   ,Missed Three Pointer (1/2 -  3 pt),3FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,45,01:49,39,537,"PARAKHOUSKI, ARTSIOM",P003034   ,Def Rebound (1),D,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,30,01:42,39,538,"COLE, NORRIS",P007989   ,Missed Two Pointer (3/9 -  7 pt),2FGA,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,1,01:40,39,539,"SERAPHIN, KEVIN",P001948   ,Def Rebound (7),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,9,01:30,39,540,"HANGA, ADAM",P005099   ,Missed Three Pointer (2/4 -  7 pt),3FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,13,01:28,39,541,"HEURTEL, THOMAS",PKLT      ,Off Rebound (1),O,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,13,01:20,39,542,"HEURTEL, THOMAS",PKLT      ,Missed Three Pointer (0/3 -  5 pt),3FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,45,01:18,39,543,"PARAKHOUSKI, ARTSIOM",P003034   ,Def Rebound (2),D,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,5,01:14,39,544,"ROLL, MICHAEL",P004974   ,Missed Two Pointer (1/4 -  3 pt),2FGA,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,5,01:14,39,545,"ROLL, MICHAEL",P004974   ,Shot Rejected (1),AG,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,1,01:14,39,546,"SERAPHIN, KEVIN",P001948   ,Block (2),FV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,,01:14,39,547,,          ,Off Rebound (5),O,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,30,01:09,39,548,"COLE, NORRIS",P007989   ,Missed Three Pointer (0/1 -  7 pt),3FGA,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,1,01:06,39,549,"SERAPHIN, KEVIN",P001948   ,Def Rebound (8),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,11,00:57,40,551,"NAVARRO, JUAN CARLOS",PADI      ,Two Pointer (1/2 -  3 pt),2FGM,87.0,64.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,7,00:46,40,552,"KANE, DEANDRE",P005781   ,Two Pointer (5/7 -  12 pt),2FGM,87.0,66.0,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,30,00:44,40,553,"COLE, NORRIS",P007989   ,Assist (2),AS,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,13,00:38,40,554,"HEURTEL, THOMAS",PKLT      ,Two Pointer (2/3 -  7 pt),2FGM,89.0,66.0,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,11,00:33,40,555,"NAVARRO, JUAN CARLOS",PADI      ,Foul (1),CM,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,7,00:33,40,556,"KANE, DEANDRE",P005781   ,Foul Drawn (7),RV,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,7,00:33,40,557,"KANE, DEANDRE",P005781   ,Free Throw In (3/4 -  13 pt),FTM,89.0,67.0,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,7,00:33,40,558,"KANE, DEANDRE",P005781   ,Missed Free Throw (3/5 -  13 pt),FTA,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,9,00:33,40,559,"HANGA, ADAM",P005099   ,Def Rebound (3),D,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,30,00:16,40,560,"COLE, NORRIS",P007989   ,Foul (2),CM,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,11,00:16,40,561,"NAVARRO, JUAN CARLOS",PADI      ,Foul Drawn (4),RV,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+BAR       ,,1,00:09,40,562,"SERAPHIN, KEVIN",P001948   ,Missed Two Pointer (4/8 -  9 pt),2FGA,,,FC Barcelona Lassa,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,45,00:06,40,563,"PARAKHOUSKI, ARTSIOM",P003034   ,Def Rebound (3),D,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+TEL       ,,43,00:-1,40,564,"BOLDEN, JONAH",P007988   ,Missed Three Pointer (2/6 -  10 pt),3FGA,,,Maccabi FOX Tel Aviv,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL
+          ,,,,41,568,,          ,End Game,EG,,,,0,FC Barcelona Lassa,BAR,Maccabi FOX Tel Aviv,TEL

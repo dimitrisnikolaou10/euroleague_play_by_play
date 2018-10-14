@@ -1,0 +1,544 @@
+CODETEAM,COMMENT,DORSAL,MARKERTIME,MINUTE,NUMBEROFPLAY,PLAYER,PLAYER_ID,PLAYINFO,PLAYTYPE,POINTS_A,POINTS_B,TEAM,TYPE,home_team,home_team_code,away_team,away_team_code
+          ,,,,1,60,,          ,Begin Period,BP,,,,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,7,09:43,1,61,"NIKOLIC, ALEKSEJ",P003703   ,Foul (1),CM,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,16,09:43,1,62,"NEDOVIC, NEMANJA",P000848   ,Foul Drawn (1),RV,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,16,09:33,1,63,"NEDOVIC, NEMANJA",P000848   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,40,09:31,1,64,"AUGUSTINE, JAMES",P001438   ,Off Rebound (1),O,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,40,09:30,1,65,"AUGUSTINE, JAMES",P001438   ,Two Pointer (1/1 -  2 pt),2FGM,2.0,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,21,09:16,1,66,"RUBIT, AUGUSTINE",P006477   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,43,09:13,1,67,"SUAREZ, CARLOS",PJJS      ,Def Rebound (1),D,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,3,09:10,1,68,"MCCALLUM, RAY",P008002   ,Two Pointer (1/1 -  2 pt),2FGM,4.0,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,40,09:10,1,69,"AUGUSTINE, JAMES",P001438   ,Assist (1),AS,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,7,09:10,1,70,"NIKOLIC, ALEKSEJ",P003703   ,Foul (2),CM,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,3,09:10,1,71,"MCCALLUM, RAY",P008002   ,Foul Drawn (1),RV,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,7,09:10,1,72,"NIKOLIC, ALEKSEJ",P003703   ,Out,OUT,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,12,09:10,1,73,"LO, MAODO",P007032   ,In,IN,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,3,09:10,1,74,"MCCALLUM, RAY",P008002   ,Missed Free Throw (0/1 -  2 pt),FTA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,0,09:10,1,75,"HACKETT, DANIEL",P001844   ,Def Rebound (1),D,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,2,08:46,2,77,"HICKMAN, RICKY",P004159   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,21,08:43,2,78,"RUBIT, AUGUSTINE",P006477   ,Off Rebound (1),O,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,2,08:39,2,79,"HICKMAN, RICKY",P004159   ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,40,08:37,2,80,"AUGUSTINE, JAMES",P001438   ,Def Rebound (1),D,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,43,08:26,2,81,"SUAREZ, CARLOS",PJJS      ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,0,08:26,2,82,"HACKETT, DANIEL",P001844   ,Def Rebound (2),D,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,0,08:13,2,83,"HACKETT, DANIEL",P001844   ,Two Pointer (1/1 -  2 pt),2FGM,4.0,2.0,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,16,08:13,2,84,"NEDOVIC, NEMANJA",P000848   ,Foul (1),CM,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,0,08:13,2,85,"HACKETT, DANIEL",P001844   ,Foul Drawn (1),RV,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,0,08:13,2,86,"HACKETT, DANIEL",P001844   ,Free Throw In (1/1 -  3 pt),FTM,4.0,3.0,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,12,08:03,2,87,"LO, MAODO",P007032   ,Foul (1),CM,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,16,08:03,2,88,"NEDOVIC, NEMANJA",P000848   ,Foul Drawn (2),RV,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,11,07:49,3,90,"DIEZ, DANIEL",P003198   ,Two Pointer (1/1 -  2 pt),2FGM,6.0,3.0,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,16,07:46,3,91,"NEDOVIC, NEMANJA",P000848   ,Assist (1),AS,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,12,07:28,3,92,"LO, MAODO",P007032   ,Two Pointer (1/1 -  2 pt),2FGM,6.0,5.0,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,16,07:13,3,93,"NEDOVIC, NEMANJA",P000848   ,Two Pointer (1/1 -  2 pt),2FGM,8.0,5.0,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,12,07:13,3,94,"LO, MAODO",P007032   ,Foul (2),CM,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,16,07:13,3,95,"NEDOVIC, NEMANJA",P000848   ,Foul Drawn (3),RV,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,16,07:13,3,96,"NEDOVIC, NEMANJA",P000848   ,Free Throw In (1/1 -  3 pt),FTM,9.0,5.0,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,12,07:13,3,97,"LO, MAODO",P007032   ,Out,OUT,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,44,07:13,3,98,"TAYLOR, BRYCE",P001988   ,In,IN,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,40,06:57,4,100,"AUGUSTINE, JAMES",P001438   ,Foul (1),CM,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,2,06:57,4,101,"HICKMAN, RICKY",P004159   ,Foul Drawn (1),RV,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,2,06:57,4,102,"HICKMAN, RICKY",P004159   ,Free Throw In (1/1 -  1 pt),FTM,9.0,6.0,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,2,06:57,4,103,"HICKMAN, RICKY",P004159   ,Free Throw In (2/2 -  2 pt),FTM,9.0,7.0,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,3,06:45,4,104,"MCCALLUM, RAY",P008002   ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,40,06:43,4,105,"AUGUSTINE, JAMES",P001438   ,Off Rebound (2),O,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,40,06:42,4,106,"AUGUSTINE, JAMES",P001438   ,Two Pointer (2/2 -  4 pt),2FGM,11.0,7.0,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,0,06:26,4,107,"HACKETT, DANIEL",P001844   ,Two Pointer (2/2 -  5 pt),2FGM,11.0,9.0,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,43,06:59,4,654,"SUAREZ, CARLOS",PJJS      ,Shot Rejected (1),AG,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,43,06:26,4,653,"SUAREZ, CARLOS",PJJS      ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,21,06:06,4,109,"RUBIT, AUGUSTINE",P006477   ,Block (1),FV,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,,06:06,4,110,,          ,Off Rebound (1),O,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,9,06:06,4,111,"MITROVIC, LUKA",P002553   ,In,IN,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,43,06:06,4,112,"RADOSEVIC, LEON",PLEM      ,Out,OUT,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,16,06:06,4,113,"NEDOVIC, NEMANJA",P000848   ,Three Pointer (1/2 -  6 pt),3FGM,14.0,9.0,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,11,06:06,4,114,"DIEZ, DANIEL",P003198   ,Assist (1),AS,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,2,05:42,5,116,"HICKMAN, RICKY",P004159   ,Missed Three Pointer (0/3 -  2 pt),3FGA,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,9,05:42,5,117,"MITROVIC, LUKA",P002553   ,Off Rebound (1),O,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,40,05:39,5,118,"AUGUSTINE, JAMES",P001438   ,Foul (2),CM,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,9,05:39,5,119,"MITROVIC, LUKA",P002553   ,Foul Drawn (1),RV,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,17,05:39,5,120,"SHERMADINI, GIORGI",P001386   ,In,IN,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,40,05:39,5,121,"AUGUSTINE, JAMES",P001438   ,Out,OUT,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,9,05:39,5,122,"MITROVIC, LUKA",P002553   ,Free Throw In (1/1 -  1 pt),FTM,14.0,10.0,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,9,05:39,5,123,"MITROVIC, LUKA",P002553   ,Free Throw In (2/2 -  2 pt),FTM,14.0,11.0,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,17,05:33,5,124,"SHERMADINI, GIORGI",P001386   ,Two Pointer (1/1 -  2 pt),2FGM,16.0,11.0,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,43,05:33,5,125,"SUAREZ, CARLOS",PJJS      ,Assist (1),AS,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,3,05:10,5,126,"MCCALLUM, RAY",P008002   ,Foul (1),CM,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,2,05:10,5,127,"HICKMAN, RICKY",P004159   ,Foul Drawn (2),RV,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,11,04:59,6,129,"DIEZ, DANIEL",P003198   ,Foul (1),CM,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,2,04:59,6,130,"HICKMAN, RICKY",P004159   ,Foul Drawn (3),RV,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+          ,,,04:59,6,131,,          ,TV Time Out (1),TOUT_TV,,,,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,2,04:59,6,132,"HICKMAN, RICKY",P004159   ,Out,OUT,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,12,04:59,6,133,"LO, MAODO",P007032   ,In,IN,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,21,04:59,6,134,"RUBIT, AUGUSTINE",P006477   ,Out,OUT,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,43,04:59,6,135,"RADOSEVIC, LEON",PLEM      ,In,IN,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,0,04:59,6,136,"HACKETT, DANIEL",P001844   ,Free Throw In (2/2 -  6 pt),FTM,16.0,12.0,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,0,04:59,6,137,"HACKETT, DANIEL",P001844   ,Free Throw In (3/3 -  7 pt),FTM,16.0,13.0,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,3,04:46,6,138,"MCCALLUM, RAY",P008002   ,Two Pointer (2/2 -  4 pt),2FGM,18.0,13.0,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,9,04:30,6,140,"MITROVIC, LUKA",P002553   ,Turnover (1),TO,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,11,04:30,6,141,"DIEZ, DANIEL",P003198   ,Out,OUT,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,12,04:30,6,142,"MILOSAVLJEVIC, DRAGAN",P002822   ,In,IN,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,44,04:30,6,143,"TAYLOR, BRYCE",P001988   ,Unsportsmanlike Foul  (1),CMU,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,16,04:30,6,144,"NEDOVIC, NEMANJA",P000848   ,Foul Drawn (4),RV,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,16,04:30,6,145,"NEDOVIC, NEMANJA",P000848   ,Missed Free Throw (1/2 -  6 pt),FTA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,16,04:30,6,146,"NEDOVIC, NEMANJA",P000848   ,Free Throw In (2/3 -  7 pt),FTM,19.0,13.0,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,43,04:18,6,148,"SUAREZ, CARLOS",PJJS      ,Two Pointer (1/3 -  2 pt),2FGM,21.0,13.0,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,17,04:18,6,149,"SHERMADINI, GIORGI",P001386   ,Assist (1),AS,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,12,03:53,7,151,"LO, MAODO",P007032   ,Two Pointer (2/2 -  4 pt),2FGM,21.0,15.0,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,44,03:37,7,152,"TAYLOR, BRYCE",P001988   ,Foul (2),CM,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,17,03:37,7,153,"SHERMADINI, GIORGI",P001386   ,Foul Drawn (1),RV,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,23,03:37,7,154,"BROOKS, JEFF",P004117   ,In,IN,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,43,03:37,7,155,"SUAREZ, CARLOS",PJJS      ,Out,OUT,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,9,03:37,7,156,"MITROVIC, LUKA",P002553   ,Out,OUT,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,21,03:37,7,157,"RUBIT, AUGUSTINE",P006477   ,In,IN,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,17,03:37,7,158,"SHERMADINI, GIORGI",P001386   ,Free Throw In (1/1 -  3 pt),FTM,22.0,15.0,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,16,03:37,7,159,"NEDOVIC, NEMANJA",P000848   ,Assist (2),AS,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,17,03:37,7,160,"SHERMADINI, GIORGI",P001386   ,Missed Free Throw (1/2 -  3 pt),FTA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,43,03:37,7,161,"RADOSEVIC, LEON",PLEM      ,Def Rebound (1),D,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,3,03:28,7,162,"MCCALLUM, RAY",P008002   ,Foul (2),CM,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,43,03:28,7,163,"RADOSEVIC, LEON",PLEM      ,Foul Drawn (1),RV,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,3,03:28,7,164,"MCCALLUM, RAY",P008002   ,Out,OUT,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,9,03:28,7,165,"DIAZ, ALBERTO",P004213   ,In,IN,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,0,03:28,7,166,"HACKETT, DANIEL",P001844   ,Out,OUT,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,7,03:28,7,167,"NIKOLIC, ALEKSEJ",P003703   ,In,IN,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,8,03:28,7,168,"STAIGER, LUCCA",P002506   ,In,IN,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,44,03:28,7,169,"TAYLOR, BRYCE",P001988   ,Out,OUT,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,43,03:28,7,170,"RADOSEVIC, LEON",PLEM      ,Missed Free Throw (0/1 -  0 pt),FTA,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,43,03:28,7,171,"RADOSEVIC, LEON",PLEM      ,Missed Free Throw (0/2 -  0 pt),FTA,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,21,03:28,7,172,"RUBIT, AUGUSTINE",P006477   ,Off Rebound (2),O,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,21,03:28,7,217,"RUBIT, AUGUSTINE",P006477   ,Assist (1),AS,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,43,03:19,7,173,"RADOSEVIC, LEON",PLEM      ,Two Pointer (1/1 -  2 pt),2FGM,22.0,17.0,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,12,03:01,7,174,"MILOSAVLJEVIC, DRAGAN",P002822   ,Turnover (1),TO,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,21,02:59,8,176,"RUBIT, AUGUSTINE",P006477   ,Steal (1),ST,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,12,02:46,8,177,"LO, MAODO",P007032   ,Turnover (1),TO,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,10,02:46,8,178,"SALIN, SASU",P002820   ,In,IN,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,16,02:46,8,179,"NEDOVIC, NEMANJA",P000848   ,Out,OUT,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,2,02:46,8,180,"HICKMAN, RICKY",P004159   ,In,IN,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,12,02:46,8,181,"LO, MAODO",P007032   ,Out,OUT,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,12,02:28,8,182,"MILOSAVLJEVIC, DRAGAN",P002822   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,2,02:28,8,183,"HICKMAN, RICKY",P004159   ,Def Rebound (1),D,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,2,02:07,8,184,"HICKMAN, RICKY",P004159   ,Missed Three Pointer (0/4 -  2 pt),3FGA,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,21,02:04,8,185,"RUBIT, AUGUSTINE",P006477   ,Off Rebound (3),O,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,2,01:56,9,187,"HICKMAN, RICKY",P004159   ,Missed Three Pointer (0/5 -  2 pt),3FGA,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,10,01:54,9,188,"SALIN, SASU",P002820   ,Def Rebound (1),D,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,9,01:33,9,189,"DIAZ, ALBERTO",P004213   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,9,01:31,9,190,"DIAZ, ALBERTO",P004213   ,Off Rebound (1),O,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,12,01:29,9,191,"MILOSAVLJEVIC, DRAGAN",P002822   ,Turnover (2),TO,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,9,01:29,9,192,"MITROVIC, LUKA",P002553   ,In,IN,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,43,01:29,9,193,"RADOSEVIC, LEON",PLEM      ,Out,OUT,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,9,01:11,9,194,"MITROVIC, LUKA",P002553   ,Two Pointer (1/1 -  4 pt),2FGM,22.0,19.0,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,21,01:08,9,195,"RUBIT, AUGUSTINE",P006477   ,Assist (2),AS,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,9,01:01,9,196,"DIAZ, ALBERTO",P004213   ,Turnover (1),TO,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,2,00:56,10,198,"HICKMAN, RICKY",P004159   ,Steal (1),ST,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,7,00:56,10,201,"NIKOLIC, ALEKSEJ",P003703   ,Assist (1),AS,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,8,00:56,10,199,"STAIGER, LUCCA",P002506   ,Three Pointer (1/1 -  3 pt),3FGM,22.0,22.0,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,,00:56,10,200,,          ,Time Out (1),TOUT,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,17,00:33,10,202,"SHERMADINI, GIORGI",P001386   ,Missed Two Pointer (1/2 -  3 pt),2FGA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,9,00:31,10,203,"MITROVIC, LUKA",P002553   ,Def Rebound (1),D,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,10,00:19,10,204,"SALIN, SASU",P002820   ,Foul (1),CM,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,8,00:19,10,205,"STAIGER, LUCCA",P002506   ,Foul Drawn (1),RV,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,0,00:19,10,206,"HACKETT, DANIEL",P001844   ,In,IN,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,7,00:19,10,207,"NIKOLIC, ALEKSEJ",P003703   ,Out,OUT,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,8,00:19,10,208,"STAIGER, LUCCA",P002506   ,Free Throw In (1/1 -  4 pt),FTM,22.0,23.0,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,8,00:19,10,209,"STAIGER, LUCCA",P002506   ,Free Throw In (2/2 -  5 pt),FTM,22.0,24.0,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,17,00:19,10,210,"SHERMADINI, GIORGI",P001386   ,Out,OUT,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,43,00:19,10,211,"SUAREZ, CARLOS",PJJS      ,In,IN,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,43,00:02,10,213,"SUAREZ, CARLOS",PJJS      ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,21,00:01,10,214,"RUBIT, AUGUSTINE",P006477   ,Def Rebound (1),D,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+          ,,,,11,216,,          ,End Period,EP,,,,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+          ,,,,11,222,,          ,Begin Period,BP,,,,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,17,10:00,11,218,"SHERMADINI, GIORGI",P001386   ,In,IN,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,43,10:00,11,219,"SUAREZ, CARLOS",PJJS      ,Out,OUT,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,21,10:00,11,220,"RUBIT, AUGUSTINE",P006477   ,Out,OUT,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,43,10:00,11,221,"RADOSEVIC, LEON",PLEM      ,In,IN,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,10,09:54,11,223,"SALIN, SASU",P002820   ,Foul (2),CM,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,2,09:54,11,224,"HICKMAN, RICKY",P004159   ,Foul Drawn (4),RV,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,8,09:45,11,225,"STAIGER, LUCCA",P002506   ,Missed Three Pointer (1/2 -  5 pt),3FGA,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,17,09:43,11,226,"SHERMADINI, GIORGI",P001386   ,Def Rebound (1),D,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,17,09:41,11,227,"SHERMADINI, GIORGI",P001386   ,Turnover (1),TO,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,43,09:39,11,228,"RADOSEVIC, LEON",PLEM      ,Steal (1),ST,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,0,09:35,11,229,"HACKETT, DANIEL",P001844   ,Missed Three Pointer (0/1 -  7 pt),3FGA,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,12,09:33,11,230,"MILOSAVLJEVIC, DRAGAN",P002822   ,Def Rebound (1),D,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,8,09:25,11,231,"STAIGER, LUCCA",P002506   ,Foul (1),CM,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,12,09:25,11,232,"MILOSAVLJEVIC, DRAGAN",P002822   ,Foul Drawn (1),RV,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,23,09:09,11,233,"BROOKS, JEFF",P004117   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,9,09:06,11,234,"MITROVIC, LUKA",P002553   ,Def Rebound (2),D,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,0,08:52,12,237,"HACKETT, DANIEL",P001844   ,Missed Two Pointer (2/3 -  7 pt),2FGA,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,17,08:52,12,238,"SHERMADINI, GIORGI",P001386   ,Def Rebound (2),D,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,23,08:52,12,239,"BROOKS, JEFF",P004117   ,Two Pointer (1/2 -  2 pt),2FGM,24.0,24.0,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,,08:52,12,241,,          ,Time Out (1),TOUT,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,43,08:35,12,242,"RADOSEVIC, LEON",PLEM      ,Offensive Foul (1),OF,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,43,08:35,12,243,"RADOSEVIC, LEON",PLEM      ,Turnover (1),TO,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,10,08:35,12,244,"SALIN, SASU",P002820   ,Foul Drawn (1),RV,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,10,08:35,12,245,"SALIN, SASU",P002820   ,Out,OUT,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,16,08:35,12,246,"NEDOVIC, NEMANJA",P000848   ,In,IN,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,23,08:09,12,247,"BROOKS, JEFF",P004117   ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,9,08:06,12,248,"MITROVIC, LUKA",P002553   ,Def Rebound (3),D,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,2,07:56,13,250,"HICKMAN, RICKY",P004159   ,Three Pointer (1/6 -  5 pt),3FGM,24.0,27.0,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,0,07:56,13,251,"HACKETT, DANIEL",P001844   ,Assist (1),AS,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,17,07:35,13,252,"SHERMADINI, GIORGI",P001386   ,Two Pointer (2/3 -  5 pt),2FGM,26.0,27.0,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,9,07:32,13,253,"DIAZ, ALBERTO",P004213   ,Assist (1),AS,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,2,07:30,13,254,"HICKMAN, RICKY",P004159   ,Turnover (1),TO,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,12,07:24,13,255,"MILOSAVLJEVIC, DRAGAN",P002822   ,Steal (1),ST,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,2,07:24,13,256,"HICKMAN, RICKY",P004159   ,Unsportsmanlike Foul  (1),CMU,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,12,07:24,13,257,"MILOSAVLJEVIC, DRAGAN",P002822   ,Foul Drawn (2),RV,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,8,07:24,13,258,"STAIGER, LUCCA",P002506   ,Out,OUT,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,44,07:24,13,259,"TAYLOR, BRYCE",P001988   ,In,IN,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,12,07:24,13,260,"MILOSAVLJEVIC, DRAGAN",P002822   ,Missed Free Throw (0/1 -  0 pt),FTA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,12,07:24,13,261,"MILOSAVLJEVIC, DRAGAN",P002822   ,Free Throw In (1/2 -  1 pt),FTM,27.0,27.0,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,16,07:06,13,262,"NEDOVIC, NEMANJA",P000848   ,Missed Three Pointer (1/3 -  7 pt),3FGA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,23,07:06,13,263,"BROOKS, JEFF",P004117   ,Off Rebound (1),O,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,44,07:06,13,264,"TAYLOR, BRYCE",P001988   ,Foul (3),CM,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,23,07:06,13,265,"BROOKS, JEFF",P004117   ,Foul Drawn (1),RV,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,17,07:02,13,266,"SHERMADINI, GIORGI",P001386   ,Missed Two Pointer (2/4 -  5 pt),2FGA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,9,07:02,13,267,"MITROVIC, LUKA",P002553   ,Def Rebound (4),D,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,2,06:30,14,269,"HICKMAN, RICKY",P004159   ,Three Pointer (2/7 -  8 pt),3FGM,27.0,30.0,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,17,06:09,14,271,"SHERMADINI, GIORGI",P001386   ,Turnover (2),TO,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,2,06:07,14,272,"HICKMAN, RICKY",P004159   ,Steal (2),ST,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,2,06:03,14,273,"HICKMAN, RICKY",P004159   ,Two Pointer (1/1 -  10 pt),2FGM,27.0,32.0,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,9,05:43,15,275,"DIAZ, ALBERTO",P004213   ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,2,05:42,15,276,"HICKMAN, RICKY",P004159   ,Def Rebound (2),D,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,43,05:37,15,277,"RADOSEVIC, LEON",PLEM      ,Turnover (2),TO,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,11,05:37,15,278,"DIEZ, DANIEL",P003198   ,In,IN,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,12,05:37,15,279,"MILOSAVLJEVIC, DRAGAN",P002822   ,Out,OUT,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,17,05:37,15,280,"SHERMADINI, GIORGI",P001386   ,Out,OUT,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,44,05:37,15,281,"MUSLI, DEJAN",PLUR      ,In,IN,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,8,05:37,15,282,"STAIGER, LUCCA",P002506   ,In,IN,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,21,05:37,15,283,"RUBIT, AUGUSTINE",P006477   ,In,IN,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,43,05:37,15,284,"RADOSEVIC, LEON",PLEM      ,Out,OUT,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,44,05:37,15,285,"TAYLOR, BRYCE",P001988   ,Out,OUT,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,11,05:37,15,351,"DIEZ, DANIEL",P003198   ,Assist (2),AS,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,16,05:13,15,286,"NEDOVIC, NEMANJA",P000848   ,Two Pointer (2/2 -  9 pt),2FGM,29.0,32.0,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,2,04:49,16,288,"HICKMAN, RICKY",P004159   ,Missed Two Pointer (1/2 -  10 pt),2FGA,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,,04:49,16,289,,          ,Off Rebound (2),O,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,0,04:32,16,290,"HACKETT, DANIEL",P001844   ,Missed Two Pointer (2/4 -  7 pt),2FGA,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,44,04:29,16,291,"MUSLI, DEJAN",PLUR      ,Def Rebound (1),D,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,16,04:18,16,292,"NEDOVIC, NEMANJA",P000848   ,Three Pointer (2/4 -  12 pt),3FGM,32.0,32.0,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,11,04:15,16,293,"DIEZ, DANIEL",P003198   ,Assist (3),AS,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,21,04:02,16,294,"RUBIT, AUGUSTINE",P006477   ,Two Pointer (1/1 -  2 pt),2FGM,32.0,34.0,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,0,04:02,16,295,"HACKETT, DANIEL",P001844   ,Assist (2),AS,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,16,03:47,17,297,"NEDOVIC, NEMANJA",P000848   ,Missed Two Pointer (2/3 -  12 pt),2FGA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,0,03:47,17,298,"HACKETT, DANIEL",P001844   ,Def Rebound (3),D,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,9,03:31,17,299,"MITROVIC, LUKA",P002553   ,Missed Two Pointer (1/2 -  4 pt),2FGA,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,,03:31,17,300,,          ,Off Rebound (3),O,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,2,03:31,17,301,"HICKMAN, RICKY",P004159   ,Out,OUT,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,9,03:31,17,302,"MITROVIC, LUKA",P002553   ,Out,OUT,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,12,03:31,17,303,"LO, MAODO",P007032   ,In,IN,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,43,03:31,17,304,"RADOSEVIC, LEON",PLEM      ,In,IN,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,12,03:16,17,305,"LO, MAODO",P007032   ,Missed Three Pointer (0/1 -  4 pt),3FGA,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,44,03:13,17,306,"MUSLI, DEJAN",PLUR      ,Def Rebound (2),D,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,44,02:58,18,308,"MUSLI, DEJAN",PLUR      ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,11,02:58,18,309,"DIEZ, DANIEL",P003198   ,Off Rebound (1),O,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,23,02:52,18,310,"BROOKS, JEFF",P004117   ,Missed Two Pointer (1/3 -  2 pt),2FGA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,,02:52,18,361,,          ,Turnover (1),TO,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,3,02:52,18,312,"MCCALLUM, RAY",P008002   ,In,IN,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,9,02:52,18,313,"DIAZ, ALBERTO",P004213   ,Out,OUT,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,0,02:52,18,314,"HACKETT, DANIEL",P001844   ,Out,OUT,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,7,02:52,18,315,"NIKOLIC, ALEKSEJ",P003703   ,In,IN,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,8,02:32,18,316,"STAIGER, LUCCA",P002506   ,Three Pointer (2/3 -  8 pt),3FGM,32.0,37.0,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,12,02:32,18,317,"LO, MAODO",P007032   ,Assist (1),AS,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,16,02:12,18,318,"NEDOVIC, NEMANJA",P000848   ,Missed Two Pointer (2/4 -  12 pt),2FGA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,21,02:09,18,319,"RUBIT, AUGUSTINE",P006477   ,Def Rebound (2),D,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,21,02:08,18,320,"RUBIT, AUGUSTINE",P006477   ,Turnover (1),TO,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,11,02:06,18,321,"DIEZ, DANIEL",P003198   ,Steal (1),ST,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,43,02:04,18,322,"RADOSEVIC, LEON",PLEM      ,Foul (2),CM,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,44,02:04,18,323,"MUSLI, DEJAN",PLUR      ,Foul Drawn (1),RV,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,23,02:04,18,324,"BROOKS, JEFF",P004117   ,Out,OUT,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,43,02:04,18,325,"SUAREZ, CARLOS",PJJS      ,In,IN,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,9,02:04,18,326,"MITROVIC, LUKA",P002553   ,In,IN,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,43,02:04,18,327,"RADOSEVIC, LEON",PLEM      ,Out,OUT,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,44,02:04,18,328,"MUSLI, DEJAN",PLUR      ,Missed Free Throw (0/1 -  0 pt),FTA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,44,02:04,18,329,"MUSLI, DEJAN",PLUR      ,Free Throw In (1/2 -  1 pt),FTM,33.0,37.0,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,11,02:02,18,330,"DIEZ, DANIEL",P003198   ,Foul (2),CM,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,7,02:02,18,331,"NIKOLIC, ALEKSEJ",P003703   ,Foul Drawn (1),RV,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,12,01:42,19,333,"LO, MAODO",P007032   ,Missed Three Pointer (0/2 -  4 pt),3FGA,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,43,01:40,19,334,"SUAREZ, CARLOS",PJJS      ,Def Rebound (2),D,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,21,01:25,19,335,"RUBIT, AUGUSTINE",P006477   ,Foul (1),CM,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,16,01:25,19,336,"NEDOVIC, NEMANJA",P000848   ,Foul Drawn (5),RV,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,16,01:25,19,337,"NEDOVIC, NEMANJA",P000848   ,Free Throw In (3/4 -  13 pt),FTM,34.0,37.0,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,16,01:25,19,338,"NEDOVIC, NEMANJA",P000848   ,Free Throw In (4/5 -  14 pt),FTM,35.0,37.0,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,11,01:25,19,339,"DIEZ, DANIEL",P003198   ,Out,OUT,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,12,01:25,19,340,"MILOSAVLJEVIC, DRAGAN",P002822   ,In,IN,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,21,01:10,19,341,"RUBIT, AUGUSTINE",P006477   ,Two Pointer (2/2 -  4 pt),2FGM,35.0,39.0,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,12,01:07,19,342,"LO, MAODO",P007032   ,Assist (2),AS,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,44,00:46,20,344,"MUSLI, DEJAN",PLUR      ,Turnover (1),TO,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,12,00:30,20,345,"LO, MAODO",P007032   ,Missed Two Pointer (2/3 -  4 pt),2FGA,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,44,00:28,20,346,"MUSLI, DEJAN",PLUR      ,Def Rebound (3),D,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,43,00:26,20,347,"SUAREZ, CARLOS",PJJS      ,Offensive Foul (1),OF,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,43,00:26,20,348,"SUAREZ, CARLOS",PJJS      ,Turnover (1),TO,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,9,00:26,20,349,"MITROVIC, LUKA",P002553   ,Foul Drawn (2),RV,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,,00:26,20,350,,          ,Time Out (2),TOUT,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,3,00:26,20,352,"MCCALLUM, RAY",P008002   ,Out,OUT,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,9,00:26,20,353,"DIAZ, ALBERTO",P004213   ,In,IN,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,2,00:26,20,354,"HICKMAN, RICKY",P004159   ,In,IN,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,21,00:26,20,355,"RUBIT, AUGUSTINE",P006477   ,Out,OUT,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,12,00:13,20,356,"MILOSAVLJEVIC, DRAGAN",P002822   ,Foul (1),CM,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,2,00:13,20,357,"HICKMAN, RICKY",P004159   ,Foul Drawn (5),RV,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,8,00:01,20,358,"STAIGER, LUCCA",P002506   ,Missed Three Pointer (2/4 -  8 pt),3FGA,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+          ,,,,21,360,,          ,End Period,EP,,,,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+          ,,,,21,372,,          ,Begin Period,BP,,,,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,23,10:00,21,362,"BROOKS, JEFF",P004117   ,In,IN,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,40,10:00,21,363,"AUGUSTINE, JAMES",P001438   ,In,IN,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,43,10:00,21,364,"SUAREZ, CARLOS",PJJS      ,Out,OUT,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,44,10:00,21,365,"MUSLI, DEJAN",PLUR      ,Out,OUT,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,0,10:00,21,366,"HACKETT, DANIEL",P001844   ,In,IN,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,7,10:00,21,367,"NIKOLIC, ALEKSEJ",P003703   ,Out,OUT,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,8,10:00,21,368,"STAIGER, LUCCA",P002506   ,Out,OUT,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,9,10:00,21,369,"MITROVIC, LUKA",P002553   ,Out,OUT,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,21,10:00,21,370,"RUBIT, AUGUSTINE",P006477   ,In,IN,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,43,10:00,21,371,"RADOSEVIC, LEON",PLEM      ,In,IN,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,21,09:38,21,373,"RUBIT, AUGUSTINE",P006477   ,Missed Two Pointer (2/3 -  4 pt),2FGA,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,9,09:35,21,374,"DIAZ, ALBERTO",P004213   ,Def Rebound (1),D,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,9,09:28,21,375,"DIAZ, ALBERTO",P004213   ,Three Pointer (1/3 -  3 pt),3FGM,38.0,39.0,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,23,09:26,21,376,"BROOKS, JEFF",P004117   ,Assist (1),AS,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,43,09:12,21,377,"RADOSEVIC, LEON",PLEM      ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,40,09:10,21,378,"AUGUSTINE, JAMES",P001438   ,Def Rebound (2),D,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,2,09:08,21,379,"HICKMAN, RICKY",P004159   ,Foul (2),CM,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,9,09:08,21,380,"DIAZ, ALBERTO",P004213   ,Foul Drawn (1),RV,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,16,09:01,21,381,"NEDOVIC, NEMANJA",P000848   ,Three Pointer (3/5 -  17 pt),3FGM,41.0,39.0,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,2,08:46,22,383,"HICKMAN, RICKY",P004159   ,Missed Two Pointer (1/3 -  10 pt),2FGA,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,21,08:44,22,384,"RUBIT, AUGUSTINE",P006477   ,Off Rebound (4),O,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,12,08:32,22,386,"LO, MAODO",P007032   ,Missed Three Pointer (0/3 -  4 pt),3FGA,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,,08:32,22,387,,          ,Def Rebound (1),D,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,9,08:32,22,388,"MITROVIC, LUKA",P002553   ,In,IN,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,43,08:32,22,389,"RADOSEVIC, LEON",PLEM      ,Out,OUT,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,2,08:21,22,390,"HICKMAN, RICKY",P004159   ,Foul (3),CM,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,16,08:21,22,391,"NEDOVIC, NEMANJA",P000848   ,Foul Drawn (6),RV,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,23,08:10,22,392,"BROOKS, JEFF",P004117   ,Missed Three Pointer (0/2 -  2 pt),3FGA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,,08:10,22,393,,          ,Def Rebound (2),D,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,9,07:46,23,395,"MITROVIC, LUKA",P002553   ,Two Pointer (2/3 -  6 pt),2FGM,41.0,41.0,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,16,07:20,23,396,"NEDOVIC, NEMANJA",P000848   ,Two Pointer (3/5 -  19 pt),2FGM,43.0,41.0,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,,07:19,23,397,,          ,Time Out (1),TOUT,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,2,07:19,23,398,"HICKMAN, RICKY",P004159   ,Out,OUT,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,44,07:19,23,399,"TAYLOR, BRYCE",P001988   ,In,IN,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,12,06:56,24,401,"LO, MAODO",P007032   ,Two Pointer (3/4 -  6 pt),2FGM,43.0,43.0,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,12,06:46,24,402,"LO, MAODO",P007032   ,Foul (3),CM,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,9,06:46,24,403,"DIAZ, ALBERTO",P004213   ,Foul Drawn (2),RV,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,40,06:41,24,404,"AUGUSTINE, JAMES",P001438   ,Missed Two Pointer (2/3 -  4 pt),2FGA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,21,06:41,24,405,"RUBIT, AUGUSTINE",P006477   ,Def Rebound (3),D,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,12,06:05,24,406,"LO, MAODO",P007032   ,Three Pointer (1/4 -  9 pt),3FGM,43.0,46.0,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,0,06:04,24,407,"HACKETT, DANIEL",P001844   ,Assist (3),AS,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,16,05:40,25,409,"NEDOVIC, NEMANJA",P000848   ,Three Pointer (4/6 -  22 pt),3FGM,46.0,46.0,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,12,05:27,25,410,"LO, MAODO",P007032   ,Missed Three Pointer (1/5 -  9 pt),3FGA,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,21,05:27,25,411,"RUBIT, AUGUSTINE",P006477   ,Off Rebound (5),O,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,21,05:27,25,412,"RUBIT, AUGUSTINE",P006477   ,Missed Two Pointer (2/4 -  4 pt),2FGA,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,23,05:27,25,413,"BROOKS, JEFF",P004117   ,Def Rebound (1),D,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,16,05:09,25,414,"NEDOVIC, NEMANJA",P000848   ,Two Pointer (4/6 -  24 pt),2FGM,48.0,46.0,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,44,04:45,26,416,"TAYLOR, BRYCE",P001988   ,Two Pointer (1/1 -  2 pt),2FGM,48.0,48.0,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,21,04:28,26,417,"RUBIT, AUGUSTINE",P006477   ,Unsportsmanlike Foul  (2),CMU,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,40,04:28,26,418,"AUGUSTINE, JAMES",P001438   ,Foul Drawn (1),RV,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,10,04:28,26,419,"SALIN, SASU",P002820   ,In,IN,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,11,04:28,26,420,"DIEZ, DANIEL",P003198   ,In,IN,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,12,04:28,26,421,"MILOSAVLJEVIC, DRAGAN",P002822   ,Out,OUT,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,16,04:28,26,422,"NEDOVIC, NEMANJA",P000848   ,Out,OUT,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,7,04:28,26,423,"NIKOLIC, ALEKSEJ",P003703   ,In,IN,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,12,04:28,26,424,"LO, MAODO",P007032   ,Out,OUT,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,21,04:28,26,425,"RUBIT, AUGUSTINE",P006477   ,Out,OUT,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,43,04:28,26,426,"RADOSEVIC, LEON",PLEM      ,In,IN,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,40,04:28,26,427,"AUGUSTINE, JAMES",P001438   ,Missed Free Throw (0/1 -  4 pt),FTA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,40,04:28,26,428,"AUGUSTINE, JAMES",P001438   ,Missed Free Throw (0/2 -  4 pt),FTA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,40,04:12,26,429,"AUGUSTINE, JAMES",P001438   ,Offensive Foul (3),OF,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,40,04:12,26,430,"AUGUSTINE, JAMES",P001438   ,Turnover (1),TO,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,0,04:12,26,431,"HACKETT, DANIEL",P001844   ,Foul Drawn (2),RV,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,23,03:58,27,433,"BROOKS, JEFF",P004117   ,Foul (1),CM,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,7,03:58,27,434,"NIKOLIC, ALEKSEJ",P003703   ,Foul Drawn (2),RV,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,7,03:58,27,435,"NIKOLIC, ALEKSEJ",P003703   ,Free Throw In (1/1 -  1 pt),FTM,48.0,49.0,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,7,03:58,27,436,"NIKOLIC, ALEKSEJ",P003703   ,Free Throw In (2/2 -  2 pt),FTM,48.0,50.0,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,3,03:58,27,437,"MCCALLUM, RAY",P008002   ,In,IN,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,9,03:58,27,438,"DIAZ, ALBERTO",P004213   ,Out,OUT,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,0,03:58,27,439,"HACKETT, DANIEL",P001844   ,Out,OUT,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,8,03:58,27,440,"STAIGER, LUCCA",P002506   ,In,IN,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,44,03:47,27,441,"TAYLOR, BRYCE",P001988   ,Foul (4),CM,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,10,03:47,27,442,"SALIN, SASU",P002820   ,Foul Drawn (2),RV,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,10,03:47,27,443,"SALIN, SASU",P002820   ,Free Throw In (1/1 -  1 pt),FTM,49.0,50.0,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,10,03:47,27,444,"SALIN, SASU",P002820   ,Free Throw In (2/2 -  2 pt),FTM,50.0,50.0,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,9,03:37,27,445,"MITROVIC, LUKA",P002553   ,Missed Two Pointer (2/4 -  6 pt),2FGA,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,23,03:37,27,446,"BROOKS, JEFF",P004117   ,Def Rebound (2),D,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,10,03:25,27,447,"SALIN, SASU",P002820   ,Three Pointer (1/1 -  5 pt),3FGM,53.0,50.0,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,3,03:23,27,448,"MCCALLUM, RAY",P008002   ,Assist (1),AS,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,23,03:06,27,449,"BROOKS, JEFF",P004117   ,Foul (2),CM,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,43,03:06,27,450,"RADOSEVIC, LEON",PLEM      ,Foul Drawn (2),RV,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,12,03:06,27,451,"LO, MAODO",P007032   ,In,IN,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,44,03:06,27,452,"TAYLOR, BRYCE",P001988   ,Out,OUT,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,43,03:06,27,453,"RADOSEVIC, LEON",PLEM      ,Free Throw In (1/3 -  3 pt),FTM,53.0,51.0,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,43,03:06,27,454,"RADOSEVIC, LEON",PLEM      ,Free Throw In (2/4 -  4 pt),FTM,53.0,52.0,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,8,03:06,27,455,"STAIGER, LUCCA",P002506   ,Assist (1),AS,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,17,03:06,27,456,"SHERMADINI, GIORGI",P001386   ,In,IN,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,40,03:06,27,457,"AUGUSTINE, JAMES",P001438   ,Out,OUT,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,17,02:50,28,459,"SHERMADINI, GIORGI",P001386   ,Missed Two Pointer (2/5 -  5 pt),2FGA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,43,02:50,28,460,"RADOSEVIC, LEON",PLEM      ,Def Rebound (2),D,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,12,02:26,28,461,"LO, MAODO",P007032   ,Turnover (2),TO,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,3,02:24,28,462,"MCCALLUM, RAY",P008002   ,Steal (1),ST,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,3,02:19,28,463,"MCCALLUM, RAY",P008002   ,Two Pointer (3/3 -  6 pt),2FGM,55.0,52.0,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,7,01:57,29,465,"NIKOLIC, ALEKSEJ",P003703   ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,10,01:55,29,466,"SALIN, SASU",P002820   ,Def Rebound (2),D,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,12,01:47,29,467,"LO, MAODO",P007032   ,Foul (4),CM,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,17,01:47,29,468,"SHERMADINI, GIORGI",P001386   ,Foul Drawn (2),RV,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,23,01:47,29,469,"BROOKS, JEFF",P004117   ,Out,OUT,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,43,01:47,29,470,"SUAREZ, CARLOS",PJJS      ,In,IN,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,9,01:47,29,471,"MITROVIC, LUKA",P002553   ,Out,OUT,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,21,01:47,29,472,"RUBIT, AUGUSTINE",P006477   ,In,IN,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,17,01:47,29,473,"SHERMADINI, GIORGI",P001386   ,Free Throw In (2/3 -  6 pt),FTM,56.0,52.0,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,17,01:47,29,474,"SHERMADINI, GIORGI",P001386   ,Missed Free Throw (2/4 -  6 pt),FTA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,43,01:47,29,475,"RADOSEVIC, LEON",PLEM      ,Def Rebound (3),D,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,7,01:33,29,476,"NIKOLIC, ALEKSEJ",P003703   ,Turnover (1),TO,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,43,01:33,29,477,"SUAREZ, CARLOS",PJJS      ,Steal (1),ST,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,10,01:04,29,478,"SALIN, SASU",P002820   ,Missed Three Pointer (1/2 -  5 pt),3FGA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,43,01:02,29,479,"RADOSEVIC, LEON",PLEM      ,Def Rebound (4),D,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,12,00:56,30,481,"LO, MAODO",P007032   ,Two Pointer (4/5 -  11 pt),2FGM,56.0,54.0,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,10,00:36,30,482,"SALIN, SASU",P002820   ,Two Pointer (1/1 -  7 pt),2FGM,58.0,54.0,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,43,00:36,30,483,"SUAREZ, CARLOS",PJJS      ,Assist (2),AS,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,0,00:36,30,484,"HACKETT, DANIEL",P001844   ,In,IN,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,12,00:36,30,485,"LO, MAODO",P007032   ,Out,OUT,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,,00:10,30,486,,          ,Turnover (2),TO,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,11,00:10,30,487,"DIEZ, DANIEL",P003198   ,Out,OUT,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,16,00:10,30,488,"NEDOVIC, NEMANJA",P000848   ,In,IN,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,16,00:01,30,489,"NEDOVIC, NEMANJA",P000848   ,Missed Three Pointer (4/7 -  24 pt),3FGA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+          ,,,,31,491,,          ,End Period,EP,,,,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+          ,,,,31,496,,          ,Begin Period,BP,,,,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,11,10:00,31,492,"DIEZ, DANIEL",P003198   ,In,IN,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,16,10:00,31,493,"NEDOVIC, NEMANJA",P000848   ,Out,OUT,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,2,10:00,31,494,"HICKMAN, RICKY",P004159   ,In,IN,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,7,10:00,31,495,"NIKOLIC, ALEKSEJ",P003703   ,Out,OUT,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,2,09:41,31,497,"HICKMAN, RICKY",P004159   ,Foul (4),CM,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,17,09:41,31,498,"SHERMADINI, GIORGI",P001386   ,Foul Drawn (3),RV,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,17,09:41,31,499,"SHERMADINI, GIORGI",P001386   ,Missed Free Throw (2/5 -  6 pt),FTA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,17,09:41,31,500,"SHERMADINI, GIORGI",P001386   ,Free Throw In (3/6 -  7 pt),FTM,59.0,54.0,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,43,09:41,31,501,"SUAREZ, CARLOS",PJJS      ,Assist (3),AS,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,21,09:23,31,502,"RUBIT, AUGUSTINE",P006477   ,Two Pointer (3/5 -  6 pt),2FGM,59.0,56.0,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,11,09:23,31,503,"DIEZ, DANIEL",P003198   ,Foul (3),CM,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,21,09:23,31,504,"RUBIT, AUGUSTINE",P006477   ,Foul Drawn (1),RV,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,21,09:23,31,506,"RUBIT, AUGUSTINE",P006477   ,Free Throw In (1/1 -  7 pt),FTM,59.0,57.0,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,,08:57,32,508,,          ,Turnover (3),TO,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,9,08:57,32,509,"MITROVIC, LUKA",P002553   ,In,IN,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,43,08:57,32,510,"RADOSEVIC, LEON",PLEM      ,Out,OUT,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,17,08:46,32,511,"SHERMADINI, GIORGI",P001386   ,Foul (1),CM,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,21,08:46,32,512,"RUBIT, AUGUSTINE",P006477   ,Foul Drawn (2),RV,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,2,08:34,32,513,"HICKMAN, RICKY",P004159   ,Missed Two Pointer (1/4 -  10 pt),2FGA,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,17,08:32,32,514,"SHERMADINI, GIORGI",P001386   ,Def Rebound (3),D,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,3,08:24,32,515,"MCCALLUM, RAY",P008002   ,Missed Two Pointer (3/4 -  6 pt),2FGA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,9,08:21,32,516,"MITROVIC, LUKA",P002553   ,Def Rebound (5),D,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,8,08:17,32,517,"STAIGER, LUCCA",P002506   ,Missed Three Pointer (2/5 -  8 pt),3FGA,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,2,08:13,32,518,"HICKMAN, RICKY",P004159   ,Off Rebound (1),O,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,2,08:04,32,519,"HICKMAN, RICKY",P004159   ,Three Pointer (3/8 -  13 pt),3FGM,59.0,60.0,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,0,08:04,32,520,"HACKETT, DANIEL",P001844   ,Assist (4),AS,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,21,07:47,33,522,"RUBIT, AUGUSTINE",P006477   ,Foul (3),CM,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,17,07:47,33,523,"SHERMADINI, GIORGI",P001386   ,Foul Drawn (4),RV,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,3,07:36,33,524,"MCCALLUM, RAY",P008002   ,Missed Three Pointer (0/2 -  6 pt),3FGA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,,07:36,33,525,,          ,Def Rebound (3),D,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,3,07:36,33,526,"MCCALLUM, RAY",P008002   ,Out,OUT,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,9,07:36,33,527,"DIAZ, ALBERTO",P004213   ,In,IN,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,10,07:36,33,528,"SALIN, SASU",P002820   ,Out,OUT,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,16,07:36,33,529,"NEDOVIC, NEMANJA",P000848   ,In,IN,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,2,07:24,33,530,"HICKMAN, RICKY",P004159   ,Missed Two Pointer (1/5 -  13 pt),2FGA,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,2,07:24,33,531,"HICKMAN, RICKY",P004159   ,Shot Rejected (1),AG,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,17,07:24,33,532,"SHERMADINI, GIORGI",P001386   ,Block (1),FV,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,,07:24,33,533,,          ,Off Rebound (4),O,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,8,07:17,33,534,"STAIGER, LUCCA",P002506   ,Missed Three Pointer (2/6 -  8 pt),3FGA,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,17,07:14,33,535,"SHERMADINI, GIORGI",P001386   ,Def Rebound (4),D,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,17,07:00,33,536,"SHERMADINI, GIORGI",P001386   ,Two Pointer (3/6 -  9 pt),2FGM,61.0,60.0,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,16,07:00,33,537,"NEDOVIC, NEMANJA",P000848   ,Assist (3),AS,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,0,07:00,33,538,"HACKETT, DANIEL",P001844   ,Foul (1),CM,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,17,07:00,33,539,"SHERMADINI, GIORGI",P001386   ,Foul Drawn (5),RV,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,17,07:00,33,540,"SHERMADINI, GIORGI",P001386   ,Free Throw In (4/7 -  10 pt),FTM,62.0,60.0,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,2,06:44,34,542,"HICKMAN, RICKY",P004159   ,Two Pointer (2/6 -  15 pt),2FGM,62.0,62.0,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,9,06:44,34,543,"DIAZ, ALBERTO",P004213   ,Foul (1),CM,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,2,06:44,34,544,"HICKMAN, RICKY",P004159   ,Foul Drawn (6),RV,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,2,06:44,34,545,"HICKMAN, RICKY",P004159   ,Free Throw In (3/3 -  16 pt),FTM,62.0,63.0,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,43,06:19,34,546,"SUAREZ, CARLOS",PJJS      ,Missed Three Pointer (0/2 -  2 pt),3FGA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,17,06:17,34,547,"SHERMADINI, GIORGI",P001386   ,Off Rebound (1),O,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,11,06:07,34,548,"DIEZ, DANIEL",P003198   ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,16,06:05,34,549,"NEDOVIC, NEMANJA",P000848   ,Off Rebound (1),O,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,21,05:57,35,551,"RUBIT, AUGUSTINE",P006477   ,Foul (4),CM,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,16,05:57,35,552,"NEDOVIC, NEMANJA",P000848   ,Foul Drawn (7),RV,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,16,05:57,35,553,"NEDOVIC, NEMANJA",P000848   ,Free Throw In (5/6 -  25 pt),FTM,63.0,63.0,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,16,05:57,35,554,"NEDOVIC, NEMANJA",P000848   ,Free Throw In (6/7 -  26 pt),FTM,64.0,63.0,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,21,05:43,35,555,"RUBIT, AUGUSTINE",P006477   ,Two Pointer (4/6 -  9 pt),2FGM,64.0,65.0,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,2,05:41,35,556,"HICKMAN, RICKY",P004159   ,Assist (1),AS,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,16,05:30,35,557,"NEDOVIC, NEMANJA",P000848   ,Missed Three Pointer (4/8 -  26 pt),3FGA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,11,05:25,35,558,"DIEZ, DANIEL",P003198   ,Off Rebound (2),O,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,9,05:13,35,559,"DIAZ, ALBERTO",P004213   ,Two Pointer (1/1 -  5 pt),2FGM,66.0,65.0,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,17,04:55,36,561,"SHERMADINI, GIORGI",P001386   ,Unsportsmanlike Foul  (2),CMU,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,21,04:55,36,562,"RUBIT, AUGUSTINE",P006477   ,Foul Drawn (3),RV,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+          ,,,04:55,36,563,,          ,TV Time Out (2),TOUT_TV,,,,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,17,04:55,36,564,"SHERMADINI, GIORGI",P001386   ,Out,OUT,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,40,04:55,36,565,"AUGUSTINE, JAMES",P001438   ,In,IN,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,8,04:55,36,566,"STAIGER, LUCCA",P002506   ,Out,OUT,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,44,04:55,36,567,"TAYLOR, BRYCE",P001988   ,In,IN,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,21,04:55,36,568,"RUBIT, AUGUSTINE",P006477   ,Free Throw In (2/2 -  10 pt),FTM,66.0,66.0,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,21,04:55,36,569,"RUBIT, AUGUSTINE",P006477   ,Free Throw In (3/3 -  11 pt),FTM,66.0,67.0,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,11,04:55,36,570,"DIEZ, DANIEL",P003198   ,Out,OUT,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,12,04:55,36,571,"MILOSAVLJEVIC, DRAGAN",P002822   ,In,IN,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,0,04:37,36,572,"HACKETT, DANIEL",P001844   ,Two Pointer (3/5 -  9 pt),2FGM,66.0,69.0,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,2,04:35,36,573,"HICKMAN, RICKY",P004159   ,Assist (2),AS,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,43,04:15,36,574,"SUAREZ, CARLOS",PJJS      ,Missed Two Pointer (1/4 -  2 pt),2FGA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,,04:15,36,575,,          ,Def Rebound (4),D,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,43,04:15,36,576,"SUAREZ, CARLOS",PJJS      ,Foul (2),CM,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,21,04:15,36,577,"RUBIT, AUGUSTINE",P006477   ,Foul Drawn (4),RV,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,21,04:15,36,578,"RUBIT, AUGUSTINE",P006477   ,Free Throw In (4/4 -  12 pt),FTM,66.0,70.0,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,21,04:15,36,579,"RUBIT, AUGUSTINE",P006477   ,Free Throw In (5/5 -  13 pt),FTM,66.0,71.0,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,16,03:58,37,581,"NEDOVIC, NEMANJA",P000848   ,Missed Three Pointer (4/9 -  26 pt),3FGA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,21,03:56,37,582,"RUBIT, AUGUSTINE",P006477   ,Def Rebound (4),D,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,12,03:48,37,583,"MILOSAVLJEVIC, DRAGAN",P002822   ,Foul (2),CM,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,2,03:48,37,584,"HICKMAN, RICKY",P004159   ,Foul Drawn (7),RV,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,,03:48,37,585,,          ,Time Out (1),TOUT,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,2,03:48,37,586,"HICKMAN, RICKY",P004159   ,Free Throw In (4/4 -  17 pt),FTM,66.0,72.0,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,2,03:48,37,587,"HICKMAN, RICKY",P004159   ,Free Throw In (5/5 -  18 pt),FTM,66.0,73.0,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,44,03:39,37,588,"TAYLOR, BRYCE",P001988   ,Foul (5),CM,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,12,03:39,37,589,"MILOSAVLJEVIC, DRAGAN",P002822   ,Foul Drawn (3),RV,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,8,03:39,37,590,"STAIGER, LUCCA",P002506   ,In,IN,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,44,03:39,37,591,"TAYLOR, BRYCE",P001988   ,Out,OUT,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,12,03:39,37,592,"MILOSAVLJEVIC, DRAGAN",P002822   ,Missed Free Throw (1/3 -  1 pt),FTA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,12,03:39,37,593,"MILOSAVLJEVIC, DRAGAN",P002822   ,Free Throw In (2/4 -  2 pt),FTM,67.0,73.0,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,8,03:24,37,594,"STAIGER, LUCCA",P002506   ,Missed Three Pointer (2/7 -  8 pt),3FGA,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,21,03:24,37,595,"RUBIT, AUGUSTINE",P006477   ,Off Rebound (6),O,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,9,03:14,37,596,"MITROVIC, LUKA",P002553   ,Turnover (2),TO,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,23,02:55,38,598,"BROOKS, JEFF",P004117   ,In,IN,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,43,02:55,38,599,"SUAREZ, CARLOS",PJJS      ,Out,OUT,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,23,02:55,38,600,"BROOKS, JEFF",P004117   ,Two Pointer (2/4 -  4 pt),2FGM,69.0,73.0,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,,02:55,38,601,,          ,Time Out (1),TOUT,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,2,02:37,38,602,"HICKMAN, RICKY",P004159   ,Missed Two Pointer (2/7 -  18 pt),2FGA,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,40,02:35,38,603,"AUGUSTINE, JAMES",P001438   ,Def Rebound (3),D,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,23,02:20,38,604,"BROOKS, JEFF",P004117   ,Two Pointer (3/5 -  6 pt),2FGM,71.0,73.0,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,8,01:54,39,606,"STAIGER, LUCCA",P002506   ,Three Pointer (3/8 -  11 pt),3FGM,71.0,76.0,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,0,01:54,39,607,"HACKETT, DANIEL",P001844   ,Assist (5),AS,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,2,01:35,39,608,"HICKMAN, RICKY",P004159   ,Foul (5),CM,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,12,01:35,39,609,"MILOSAVLJEVIC, DRAGAN",P002822   ,Foul Drawn (4),RV,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,2,01:35,39,610,"HICKMAN, RICKY",P004159   ,Out,OUT,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,12,01:35,39,611,"LO, MAODO",P007032   ,In,IN,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,12,01:35,39,612,"MILOSAVLJEVIC, DRAGAN",P002822   ,Free Throw In (3/5 -  3 pt),FTM,72.0,76.0,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,12,01:35,39,613,"MILOSAVLJEVIC, DRAGAN",P002822   ,Free Throw In (4/6 -  4 pt),FTM,73.0,76.0,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,12,01:35,39,614,"MILOSAVLJEVIC, DRAGAN",P002822   ,Free Throw In (5/7 -  5 pt),FTM,74.0,76.0,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,,01:26,39,615,,          ,Turnover (4),TO,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,9,01:26,39,616,"MITROVIC, LUKA",P002553   ,Out,OUT,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,43,01:26,39,617,"RADOSEVIC, LEON",PLEM      ,In,IN,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,40,01:14,39,618,"AUGUSTINE, JAMES",P001438   ,Two Pointer (3/4 -  6 pt),2FGM,76.0,76.0,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,23,00:58,40,620,"BROOKS, JEFF",P004117   ,Foul (3),CM,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,21,00:58,40,621,"RUBIT, AUGUSTINE",P006477   ,Foul Drawn (5),RV,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,21,00:58,40,622,"RUBIT, AUGUSTINE",P006477   ,Free Throw In (6/6 -  14 pt),FTM,76.0,77.0,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,21,00:58,40,623,"RUBIT, AUGUSTINE",P006477   ,Free Throw In (7/7 -  15 pt),FTM,76.0,78.0,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,16,00:42,40,624,"NEDOVIC, NEMANJA",P000848   ,Missed Two Pointer (4/7 -  26 pt),2FGA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,16,00:40,40,625,"NEDOVIC, NEMANJA",P000848   ,Off Rebound (2),O,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,16,00:41,40,626,"NEDOVIC, NEMANJA",P000848   ,Missed Two Pointer (4/8 -  26 pt),2FGA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,43,00:41,40,627,"RADOSEVIC, LEON",PLEM      ,Def Rebound (5),D,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,16,00:41,40,628,"NEDOVIC, NEMANJA",P000848   ,Foul (2),CM,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,43,00:41,40,629,"RADOSEVIC, LEON",PLEM      ,Foul Drawn (3),RV,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,10,00:41,40,630,"SALIN, SASU",P002820   ,In,IN,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,12,00:41,40,631,"MILOSAVLJEVIC, DRAGAN",P002822   ,Out,OUT,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,43,00:41,40,632,"RADOSEVIC, LEON",PLEM      ,Missed Free Throw (2/5 -  4 pt),FTA,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,43,00:41,40,633,"RADOSEVIC, LEON",PLEM      ,Missed Free Throw (2/6 -  4 pt),FTA,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,23,00:41,40,634,"BROOKS, JEFF",P004117   ,Def Rebound (3),D,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,23,00:20,40,635,"BROOKS, JEFF",P004117   ,Missed Two Pointer (3/6 -  6 pt),2FGA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,,00:20,40,636,,          ,Off Rebound (5),O,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,,00:20,40,637,,          ,Time Out (2),TOUT,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,16,00:14,40,638,"NEDOVIC, NEMANJA",P000848   ,Missed Two Pointer (4/9 -  26 pt),2FGA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,8,00:14,40,639,"STAIGER, LUCCA",P002506   ,Def Rebound (1),D,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,10,00:06,40,640,"SALIN, SASU",P002820   ,Foul (3),CM,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,8,00:06,40,641,"STAIGER, LUCCA",P002506   ,Foul Drawn (2),RV,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,3,00:06,40,642,"MCCALLUM, RAY",P008002   ,In,IN,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,16,00:06,40,643,"NEDOVIC, NEMANJA",P000848   ,Out,OUT,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,8,00:06,40,644,"STAIGER, LUCCA",P002506   ,Free Throw In (3/3 -  12 pt),FTM,76.0,79.0,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,8,00:06,40,645,"STAIGER, LUCCA",P002506   ,Free Throw In (4/4 -  13 pt),FTM,76.0,80.0,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,,00:06,40,646,,          ,Time Out (3),TOUT,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+MAL       ,,10,00:02,40,647,"SALIN, SASU",P002820   ,Missed Three Pointer (1/3 -  7 pt),3FGA,,,Unicaja Malaga,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+BAM       ,,21,00:01,40,648,"RUBIT, AUGUSTINE",P006477   ,Def Rebound (5),D,,,Brose Bamberg,0,Unicaja Malaga,MAL,Brose Bamberg,BAM
+          ,,,,41,655,,          ,End Game,EG,,,,0,Unicaja Malaga,MAL,Brose Bamberg,BAM

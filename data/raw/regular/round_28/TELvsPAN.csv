@@ -1,0 +1,545 @@
+CODETEAM,COMMENT,DORSAL,MARKERTIME,MINUTE,NUMBEROFPLAY,PLAYER,PLAYER_ID,PLAYINFO,PLAYTYPE,POINTS_A,POINTS_B,TEAM,TYPE,home_team,home_team_code,away_team,away_team_code
+          ,,,,1,21,,          ,Begin Period,BP,,,,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,0,09:42,1,22,"SINGLETON, CHRIS",P006614   ,Three Pointer (1/1 -  3 pt),3FGM,,3.0,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,5,09:39,1,23,"JAMES, MIKE",P005985   ,Assist (1),AS,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,43,09:19,1,24,"BOLDEN, JONAH",P007988   ,Two Pointer (1/1 -  2 pt),2FGM,2.0,3.0,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,55,09:17,1,25,"JACKSON, PIERRE",P005112   ,Assist (1),AS,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,09:00,2,27,"CALATHES, NICK",P001932   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,43,08:57,2,28,"ANTETOKOUNMPO, THANASIS",P007865   ,Off Rebound (1),O,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,5,08:49,2,29,"JAMES, MIKE",P005985   ,Two Pointer (1/1 -  2 pt),2FGM,2.0,5.0,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,43,08:30,2,30,"BOLDEN, JONAH",P007988   ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,45,08:29,2,31,"PARAKHOUSKI, ARTSIOM",P003034   ,Off Rebound (1),O,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,5,08:29,2,32,"ROLL, MICHAEL",P004974   ,Three Pointer (1/1 -  3 pt),3FGM,5.0,5.0,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,7,08:29,2,33,"KANE, DEANDRE",P005781   ,Assist (1),AS,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,14,08:07,2,34,"GIST, JAMES",P002980   ,Offensive Foul (1),OF,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,14,08:07,2,35,"GIST, JAMES",P002980   ,Turnover (1),TO,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,55,08:07,2,36,"JACKSON, PIERRE",P005112   ,Foul Drawn (1),RV,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,14,08:07,2,37,"GIST, JAMES",P002980   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,15,08:07,2,38,"VOUGIOUKAS, IAN",PTFX      ,In,IN,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,45,07:45,3,40,"PARAKHOUSKI, ARTSIOM",P003034   ,Two Pointer (1/1 -  2 pt),2FGM,7.0,5.0,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,5,07:43,3,41,"ROLL, MICHAEL",P004974   ,Assist (1),AS,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,07:21,3,42,"CALATHES, NICK",P001932   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,15,07:19,3,43,"VOUGIOUKAS, IAN",PTFX      ,Off Rebound (1),O,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,15,07:17,3,44,"VOUGIOUKAS, IAN",PTFX      ,Two Pointer (1/1 -  2 pt),2FGM,7.0,7.0,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,55,06:58,4,46,"JACKSON, PIERRE",P005112   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,43,06:56,4,47,"ANTETOKOUNMPO, THANASIS",P007865   ,Def Rebound (1),D,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,06:47,4,48,"CALATHES, NICK",P001932   ,Two Pointer (1/3 -  2 pt),2FGM,7.0,9.0,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,,06:47,4,49,,          ,Time Out (1),TOUT,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,43,06:32,4,50,"BOLDEN, JONAH",P007988   ,Missed Three Pointer (0/2 -  2 pt),3FGA,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,0,06:30,4,51,"SINGLETON, CHRIS",P006614   ,Def Rebound (1),D,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,43,06:14,4,52,"ANTETOKOUNMPO, THANASIS",P007865   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,43,06:11,4,53,"BOLDEN, JONAH",P007988   ,Def Rebound (1),D,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,43,06:09,4,54,"BOLDEN, JONAH",P007988   ,Turnover (1),TO,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,06:07,4,55,"CALATHES, NICK",P001932   ,Steal (1),ST,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,15,06:04,4,56,"VOUGIOUKAS, IAN",PTFX      ,Two Pointer (2/2 -  4 pt),2FGM,7.0,11.0,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,06:01,4,57,"CALATHES, NICK",P001932   ,Assist (1),AS,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,43,05:43,5,59,"BOLDEN, JONAH",P007988   ,Foul Drawn (1),RV,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,0,05:43,5,60,"SINGLETON, CHRIS",P006614   ,Foul (1),CM,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,1,05:43,5,61,"THOMAS, DESHAUN",P005094   ,In,IN,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,43,05:43,5,62,"BOLDEN, JONAH",P007988   ,Out,OUT,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,7,05:31,5,63,"KANE, DEANDRE",P005781   ,Turnover (1),TO,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,5,05:19,5,64,"JAMES, MIKE",P005985   ,Three Pointer (1/1 -  5 pt),3FGM,7.0,14.0,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,05:16,5,65,"CALATHES, NICK",P001932   ,Assist (2),AS,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,1,05:06,5,66,"THOMAS, DESHAUN",P005094   ,Turnover (1),TO,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,5,04:52,6,68,"JAMES, MIKE",P005985   ,Turnover (1),TO,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,30,04:52,6,69,"COLE, NORRIS",P007989   ,In,IN,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,55,04:52,6,70,"JACKSON, PIERRE",P005112   ,Out,OUT,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,7,04:37,6,71,"KANE, DEANDRE",P005781   ,Two Pointer (1/1 -  2 pt),2FGM,9.0,14.0,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,04:26,6,72,"CALATHES, NICK",P001932   ,Turnover (1),TO,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,7,04:26,6,73,"KANE, DEANDRE",P005781   ,Steal (1),ST,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,7,04:26,6,74,"KANE, DEANDRE",P005781   ,Foul Drawn (1),RV,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,04:26,6,75,"CALATHES, NICK",P001932   ,Foul (1),CM,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,45,04:18,6,76,"PARAKHOUSKI, ARTSIOM",P003034   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,43,04:16,6,77,"ANTETOKOUNMPO, THANASIS",P007865   ,Def Rebound (2),D,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,5,04:11,6,78,"JAMES, MIKE",P005985   ,Two Pointer (2/2 -  7 pt),2FGM,9.0,16.0,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,03:54,7,80,"CALATHES, NICK",P001932   ,Foul Drawn (1),RV,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,45,03:54,7,81,"PARAKHOUSKI, ARTSIOM",P003034   ,Offensive Foul (1),OF,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,45,03:54,7,82,"PARAKHOUSKI, ARTSIOM",P003034   ,Turnover (1),TO,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,9,03:54,7,83,"TYUS, ALEX",P004119   ,In,IN,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,45,03:54,7,84,"PARAKHOUSKI, ARTSIOM",P003034   ,Out,OUT,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,14,03:54,7,85,"GIST, JAMES",P002980   ,In,IN,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,15,03:54,7,86,"VOUGIOUKAS, IAN",PTFX      ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,14,03:48,7,87,"GIST, JAMES",P002980   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,0,03:48,7,88,"SINGLETON, CHRIS",P006614   ,Off Rebound (1),O,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,0,03:48,7,89,"SINGLETON, CHRIS",P006614   ,Missed Two Pointer (0/1 -  3 pt),2FGA,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,,03:48,7,90,,          ,Off Rebound (1),O,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,14,03:48,7,91,"GIST, JAMES",P002980   ,Foul Drawn (1),RV,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,9,03:48,7,92,"TYUS, ALEX",P004119   ,Foul (1),CM,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,03:26,7,93,"CALATHES, NICK",P001932   ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,30,03:26,7,94,"COLE, NORRIS",P007989   ,Def Rebound (1),D,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,30,03:26,7,95,"COLE, NORRIS",P007989   ,Two Pointer (1/1 -  2 pt),2FGM,11.0,16.0,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,14,03:07,7,96,"GIST, JAMES",P002980   ,Two Pointer (1/2 -  2 pt),2FGM,11.0,18.0,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,5,03:07,7,97,"JAMES, MIKE",P005985   ,Assist (2),AS,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,1,03:07,7,98,"THOMAS, DESHAUN",P005094   ,Two Pointer (1/1 -  2 pt),2FGM,13.0,18.0,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,5,02:28,8,100,"JAMES, MIKE",P005985   ,Missed Three Pointer (1/2 -  7 pt),3FGA,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,5,02:25,8,101,"ROLL, MICHAEL",P004974   ,Def Rebound (1),D,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,7,02:22,8,102,"KANE, DEANDRE",P005781   ,Two Pointer (2/2 -  4 pt),2FGM,15.0,18.0,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,7,02:22,8,103,"KANE, DEANDRE",P005781   ,Foul Drawn (2),RV,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,5,02:22,8,104,"JAMES, MIKE",P005985   ,Foul (1),CM,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,3,02:22,8,105,"RIVERS, KC",P002429   ,In,IN,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,43,02:22,8,106,"ANTETOKOUNMPO, THANASIS",P007865   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,7,02:22,8,107,"KANE, DEANDRE",P005781   ,Missed Free Throw (0/1 -  4 pt),FTA,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,0,02:18,8,108,"SINGLETON, CHRIS",P006614   ,Def Rebound (2),D,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,0,01:59,9,110,"SINGLETON, CHRIS",P006614   ,Missed Two Pointer (0/2 -  3 pt),2FGA,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,1,01:57,9,111,"THOMAS, DESHAUN",P005094   ,Def Rebound (1),D,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,1,01:46,9,112,"THOMAS, DESHAUN",P005094   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,3,01:43,9,113,"RIVERS, KC",P002429   ,Def Rebound (1),D,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,3,01:30,9,114,"RIVERS, KC",P002429   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,5,01:27,9,115,"ROLL, MICHAEL",P004974   ,Def Rebound (2),D,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,30,01:19,9,116,"COLE, NORRIS",P007989   ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,1,01:16,9,117,"THOMAS, DESHAUN",P005094   ,Off Rebound (1),O,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,30,01:15,9,118,"COLE, NORRIS",P007989   ,Three Pointer (1/2 -  5 pt),3FGM,18.0,18.0,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,7,01:15,9,119,"KANE, DEANDRE",P005781   ,Assist (2),AS,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,,01:15,9,120,,          ,Time Out (1),TOUT,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,5,01:15,9,121,"ROLL, MICHAEL",P004974   ,Out,OUT,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,12,01:15,9,122,"DIBARTOLOMEO, JOHN",P007990   ,In,IN,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,5,01:15,9,123,"JAMES, MIKE",P005985   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,11,01:15,9,124,"PAPPAS, NIKOS",P000464   ,In,IN,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,3,00:53,10,126,"RIVERS, KC",P002429   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,14,00:51,10,127,"GIST, JAMES",P002980   ,Off Rebound (1),O,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,14,00:48,10,128,"GIST, JAMES",P002980   ,Missed Two Pointer (1/3 -  2 pt),2FGA,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,14,00:46,10,129,"GIST, JAMES",P002980   ,Off Rebound (2),O,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,3,00:43,10,130,"RIVERS, KC",P002429   ,Foul Drawn (1),RV,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,12,00:43,10,131,"DIBARTOLOMEO, JOHN",P007990   ,Foul (1),CM,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,3,00:43,10,132,"RIVERS, KC",P002429   ,Missed Free Throw (0/1 -  0 pt),FTA,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,3,00:43,10,133,"RIVERS, KC",P002429   ,Missed Free Throw (0/2 -  0 pt),FTA,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,19,00:43,10,134,"LEKAVICIUS, LUKAS",P003210   ,In,IN,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,00:43,10,135,"CALATHES, NICK",P001932   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,12,00:32,10,136,"DIBARTOLOMEO, JOHN",P007990   ,Def Rebound (1),D,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,9,00:22,10,137,"TYUS, ALEX",P004119   ,Two Pointer (1/1 -  2 pt),2FGM,20.0,18.0,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,7,00:19,10,138,"KANE, DEANDRE",P005781   ,Assist (3),AS,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,3,00:01,10,139,"RIVERS, KC",P002429   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+          ,,,,11,141,,          ,End Period,EP,,,,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+          ,,,,11,142,,          ,Begin Period,BP,,,,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,30,09:52,11,143,"COLE, NORRIS",P007989   ,Turnover (1),TO,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,11,09:51,11,144,"PAPPAS, NIKOS",P000464   ,Steal (1),ST,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,11,09:51,11,145,"PAPPAS, NIKOS",P000464   ,Two Pointer (1/1 -  2 pt),2FGM,20.0,20.0,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,11,09:51,11,146,"PAPPAS, NIKOS",P000464   ,Foul Drawn (1),RV,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,12,09:51,11,147,"DIBARTOLOMEO, JOHN",P007990   ,Foul (2),CM,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,11,09:51,11,148,"PAPPAS, NIKOS",P000464   ,Missed Free Throw (0/1 -  2 pt),FTA,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,7,09:46,11,149,"KANE, DEANDRE",P005781   ,Def Rebound (1),D,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,12,09:41,11,150,"DIBARTOLOMEO, JOHN",P007990   ,Three Pointer (1/1 -  3 pt),3FGM,23.0,20.0,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,30,09:39,11,151,"COLE, NORRIS",P007989   ,Assist (1),AS,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,11,09:18,11,152,"PAPPAS, NIKOS",P000464   ,Two Pointer (2/2 -  4 pt),2FGM,23.0,22.0,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,7,08:57,12,154,"KANE, DEANDRE",P005781   ,Missed Three Pointer (0/1 -  4 pt),3FGA,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,0,08:54,12,155,"SINGLETON, CHRIS",P006614   ,Def Rebound (3),D,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,11,08:39,12,156,"PAPPAS, NIKOS",P000464   ,Missed Two Pointer (2/3 -  4 pt),2FGA,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,11,08:39,12,157,"PAPPAS, NIKOS",P000464   ,Shot Rejected (1),AG,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,7,08:36,12,158,"KANE, DEANDRE",P005781   ,Block (1),FV,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,7,08:34,12,159,"KANE, DEANDRE",P005781   ,Def Rebound (2),D,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,12,08:32,12,160,"DIBARTOLOMEO, JOHN",P007990   ,Missed Three Pointer (1/2 -  3 pt),3FGA,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,3,08:30,12,161,"RIVERS, KC",P002429   ,Def Rebound (2),D,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,11,08:19,12,162,"PAPPAS, NIKOS",P000464   ,Foul Drawn (2),RV,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,30,08:19,12,163,"COLE, NORRIS",P007989   ,Foul (1),CM,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,5,08:19,12,164,"ROLL, MICHAEL",P004974   ,In,IN,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,7,08:19,12,165,"KANE, DEANDRE",P005781   ,Out,OUT,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,0,08:19,12,166,"SINGLETON, CHRIS",P006614   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,3,08:19,12,167,"RIVERS, KC",P002429   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,6,08:19,12,168,"PAYNE, ADREIAN",P008348   ,In,IN,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,14,08:19,12,169,"GIST, JAMES",P002980   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,22,08:19,12,170,"GABRIEL, KENNY",P005881   ,In,IN,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,24,08:19,12,171,"LOJESKI, MATT",P003608   ,In,IN,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,6,08:13,12,172,"PAYNE, ADREIAN",P008348   ,Foul Drawn (1),RV,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,30,08:13,12,173,"COLE, NORRIS",P007989   ,Foul (2),CM,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,19,08:13,12,174,"LEKAVICIUS, LUKAS",P003210   ,Turnover (1),TO,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,30,07:48,13,176,"COLE, NORRIS",P007989   ,Missed Three Pointer (1/3 -  5 pt),3FGA,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,11,07:45,13,177,"PAPPAS, NIKOS",P000464   ,Def Rebound (1),D,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,11,07:42,13,178,"PAPPAS, NIKOS",P000464   ,Turnover (1),TO,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,12,07:40,13,179,"DIBARTOLOMEO, JOHN",P007990   ,Steal (1),ST,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,1,07:37,13,180,"THOMAS, DESHAUN",P005094   ,Two Pointer (2/3 -  4 pt),2FGM,25.0,22.0,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,30,07:34,13,181,"COLE, NORRIS",P007989   ,Assist (2),AS,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,6,07:10,13,182,"PAYNE, ADREIAN",P008348   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,6,07:10,13,183,"PAYNE, ADREIAN",P008348   ,Shot Rejected (1),AG,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,9,07:10,13,184,"TYUS, ALEX",P004119   ,Block (1),FV,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,,07:10,13,185,,          ,Off Rebound (2),O,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,19,07:06,13,186,"LEKAVICIUS, LUKAS",P003210   ,Turnover (2),TO,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,12,07:04,13,187,"DIBARTOLOMEO, JOHN",P007990   ,Steal (2),ST,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,30,07:04,13,188,"COLE, NORRIS",P007989   ,Foul Drawn (1),RV,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,19,07:04,13,189,"LEKAVICIUS, LUKAS",P003210   ,Foul (1),CM,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,30,07:04,13,190,"COLE, NORRIS",P007989   ,Free Throw In (1/1 -  6 pt),FTM,26.0,22.0,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,30,07:04,13,191,"COLE, NORRIS",P007989   ,Missed Free Throw (1/2 -  6 pt),FTA,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,22,07:00,13,192,"GABRIEL, KENNY",P005881   ,Def Rebound (1),D,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,19,06:43,14,194,"LEKAVICIUS, LUKAS",P003210   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,,06:41,14,195,,          ,Def Rebound (1),D,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,24,06:24,14,196,"LOJESKI, MATT",P003608   ,Foul (1),CM,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,12,06:24,14,197,"DIBARTOLOMEO, JOHN",P007990   ,Foul Drawn (1),RV,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,12,06:24,14,198,"DIBARTOLOMEO, JOHN",P007990   ,Free Throw In (1/1 -  4 pt),FTM,27.0,22.0,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,5,06:24,14,199,"ROLL, MICHAEL",P004974   ,Assist (2),AS,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,12,06:24,14,200,"DIBARTOLOMEO, JOHN",P007990   ,Free Throw In (2/2 -  5 pt),FTM,28.0,22.0,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,12,06:24,14,201,"DIBARTOLOMEO, JOHN",P007990   ,Free Throw In (3/3 -  6 pt),FTM,29.0,22.0,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,19,06:24,14,202,"LEKAVICIUS, LUKAS",P003210   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,06:24,14,203,"CALATHES, NICK",P001932   ,In,IN,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,06:12,14,204,"CALATHES, NICK",P001932   ,Missed Two Pointer (1/4 -  2 pt),2FGA,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,22,06:07,14,205,"GABRIEL, KENNY",P005881   ,Off Rebound (1),O,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,22,06:05,14,206,"GABRIEL, KENNY",P005881   ,Two Pointer (1/1 -  2 pt),2FGM,29.0,24.0,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,9,05:51,15,208,"TYUS, ALEX",P004119   ,Two Pointer (2/2 -  4 pt),2FGM,31.0,24.0,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,5,05:49,15,209,"ROLL, MICHAEL",P004974   ,Assist (3),AS,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,11,05:28,15,210,"PAPPAS, NIKOS",P000464   ,Missed Two Pointer (2/4 -  4 pt),2FGA,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,6,05:25,15,211,"PAYNE, ADREIAN",P008348   ,Off Rebound (1),O,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,6,05:23,15,212,"PAYNE, ADREIAN",P008348   ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,6,05:23,15,213,"PAYNE, ADREIAN",P008348   ,Shot Rejected (2),AG,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,9,05:21,15,214,"TYUS, ALEX",P004119   ,Block (2),FV,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,5,05:20,15,215,"ROLL, MICHAEL",P004974   ,Def Rebound (3),D,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,30,05:17,15,216,"COLE, NORRIS",P007989   ,Missed Three Pointer (1/4 -  6 pt),3FGA,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,6,05:15,15,217,"PAYNE, ADREIAN",P008348   ,Def Rebound (1),D,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,6,05:15,15,218,"PAYNE, ADREIAN",P008348   ,Foul Drawn (2),RV,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,1,05:15,15,219,"THOMAS, DESHAUN",P005094   ,Foul (1),CM,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,1,05:15,15,220,"THOMAS, DESHAUN",P005094   ,Out,OUT,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,43,05:15,15,221,"BOLDEN, JONAH",P007988   ,In,IN,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,24,04:55,16,223,"LOJESKI, MATT",P003608   ,Turnover (1),TO,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,9,04:53,16,224,"TYUS, ALEX",P004119   ,Steal (1),ST,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,30,04:50,16,225,"COLE, NORRIS",P007989   ,Missed Two Pointer (1/2 -  6 pt),2FGA,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,6,04:48,16,226,"PAYNE, ADREIAN",P008348   ,Def Rebound (2),D,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,04:46,16,227,"CALATHES, NICK",P001932   ,Foul Drawn (2),RV,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,43,04:46,16,228,"BOLDEN, JONAH",P007988   ,Foul (1),CM,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+          ,,,04:46,16,229,,          ,TV Time Out (1),TOUT_TV,,,,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,7,04:46,16,230,"KANE, DEANDRE",P005781   ,In,IN,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,30,04:46,16,231,"COLE, NORRIS",P007989   ,Out,OUT,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,6,04:46,16,232,"PAYNE, ADREIAN",P008348   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,14,04:46,16,233,"GIST, JAMES",P002980   ,In,IN,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,04:46,16,234,"CALATHES, NICK",P001932   ,Missed Free Throw (0/1 -  2 pt),FTA,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,04:46,16,235,"CALATHES, NICK",P001932   ,Missed Free Throw (0/2 -  2 pt),FTA,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,14,04:42,16,236,"GIST, JAMES",P002980   ,Off Rebound (3),O,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,11,04:36,16,237,"PAPPAS, NIKOS",P000464   ,Missed Two Pointer (2/5 -  4 pt),2FGA,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,5,04:33,16,238,"ROLL, MICHAEL",P004974   ,Def Rebound (4),D,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,9,04:27,16,239,"TYUS, ALEX",P004119   ,Two Pointer (3/3 -  6 pt),2FGM,33.0,24.0,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,7,04:24,16,240,"KANE, DEANDRE",P005781   ,Assist (4),AS,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,14,04:05,16,241,"GIST, JAMES",P002980   ,Foul Drawn (2),RV,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,7,04:05,16,242,"KANE, DEANDRE",P005781   ,Foul (1),CM,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,5,04:05,16,243,"JAMES, MIKE",P005985   ,In,IN,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,11,04:05,16,244,"PAPPAS, NIKOS",P000464   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,14,04:05,16,245,"GIST, JAMES",P002980   ,Missed Free Throw (0/1 -  2 pt),FTA,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,14,04:05,16,246,"GIST, JAMES",P002980   ,Free Throw In (1/2 -  3 pt),FTM,33.0,25.0,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,9,03:47,17,248,"TYUS, ALEX",P004119   ,Two Pointer (4/4 -  8 pt),2FGM,35.0,25.0,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,5,03:44,17,249,"ROLL, MICHAEL",P004974   ,Assist (4),AS,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,03:32,17,250,"CALATHES, NICK",P001932   ,Missed Three Pointer (0/2 -  2 pt),3FGA,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,5,03:29,17,251,"JAMES, MIKE",P005985   ,Off Rebound (1),O,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,5,03:26,17,252,"JAMES, MIKE",P005985   ,Two Pointer (3/3 -  9 pt),2FGM,35.0,27.0,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,12,03:03,17,253,"DIBARTOLOMEO, JOHN",P007990   ,Three Pointer (2/3 -  9 pt),3FGM,38.0,27.0,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,5,02:52,18,255,"JAMES, MIKE",P005985   ,Missed Two Pointer (3/4 -  9 pt),2FGA,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,12,02:49,18,256,"DIBARTOLOMEO, JOHN",P007990   ,Def Rebound (2),D,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,5,02:45,18,257,"ROLL, MICHAEL",P004974   ,Missed Two Pointer (0/1 -  3 pt),2FGA,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,43,02:41,18,258,"BOLDEN, JONAH",P007988   ,Off Rebound (1),O,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,43,02:39,18,259,"BOLDEN, JONAH",P007988   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,24,02:37,18,260,"LOJESKI, MATT",P003608   ,Def Rebound (1),D,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,02:30,18,261,"CALATHES, NICK",P001932   ,Two Pointer (2/5 -  4 pt),2FGM,38.0,29.0,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,24,02:28,18,262,"LOJESKI, MATT",P003608   ,Assist (1),AS,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,9,02:17,18,263,"TYUS, ALEX",P004119   ,Out,OUT,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,15,02:17,18,264,"COHEN, JAKE",P005145   ,In,IN,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,14,02:17,18,265,"GIST, JAMES",P002980   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,15,02:17,18,266,"VOUGIOUKAS, IAN",PTFX      ,In,IN,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,15,02:10,18,267,"COHEN, JAKE",P005145   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,24,02:08,18,268,"LOJESKI, MATT",P003608   ,Def Rebound (2),D,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,15,02:05,18,269,"VOUGIOUKAS, IAN",PTFX      ,Foul Drawn (1),RV,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,15,02:05,18,270,"COHEN, JAKE",P005145   ,Foul (1),CM,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,15,02:05,18,271,"VOUGIOUKAS, IAN",PTFX      ,Free Throw In (1/1 -  5 pt),FTM,38.0,30.0,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,15,02:05,18,272,"VOUGIOUKAS, IAN",PTFX      ,Free Throw In (2/2 -  6 pt),FTM,38.0,31.0,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,12,02:05,18,273,"DIBARTOLOMEO, JOHN",P007990   ,Out,OUT,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,55,02:05,18,274,"JACKSON, PIERRE",P005112   ,In,IN,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,15,01:45,19,276,"COHEN, JAKE",P005145   ,Foul Drawn (1),RV,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,15,01:45,19,277,"VOUGIOUKAS, IAN",PTFX      ,Foul (1),CM,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,55,01:34,19,278,"JACKSON, PIERRE",P005112   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,22,01:31,19,279,"GABRIEL, KENNY",P005881   ,Def Rebound (2),D,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,15,01:16,19,280,"VOUGIOUKAS, IAN",PTFX      ,Two Pointer (3/3 -  8 pt),2FGM,38.0,33.0,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,5,01:04,19,281,"JAMES, MIKE",P005985   ,Foul Drawn (1),RV,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,15,01:04,19,282,"COHEN, JAKE",P005145   ,Offensive Foul (2),OF,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,15,01:04,19,283,"COHEN, JAKE",P005145   ,Turnover (1),TO,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,15,01:04,19,284,"COHEN, JAKE",P005145   ,Out,OUT,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,45,01:04,19,285,"PARAKHOUSKI, ARTSIOM",P003034   ,In,IN,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,45,00:53,20,287,"PARAKHOUSKI, ARTSIOM",P003034   ,Foul Drawn (1),RV,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,15,00:53,20,288,"VOUGIOUKAS, IAN",PTFX      ,Offensive Foul (2),OF,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,15,00:53,20,289,"VOUGIOUKAS, IAN",PTFX      ,Turnover (1),TO,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,45,00:39,20,290,"PARAKHOUSKI, ARTSIOM",P003034   ,Foul Drawn (2),RV,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,24,00:39,20,291,"LOJESKI, MATT",P003608   ,Foul (2),CM,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,45,00:39,20,292,"PARAKHOUSKI, ARTSIOM",P003034   ,Free Throw In (1/1 -  3 pt),FTM,39.0,33.0,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,5,00:39,20,293,"ROLL, MICHAEL",P004974   ,Assist (5),AS,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,45,00:39,20,294,"PARAKHOUSKI, ARTSIOM",P003034   ,Missed Free Throw (1/2 -  3 pt),FTA,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,22,00:35,20,295,"GABRIEL, KENNY",P005881   ,Def Rebound (3),D,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,5,00:24,20,296,"JAMES, MIKE",P005985   ,Foul Drawn (2),RV,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,43,00:24,20,297,"BOLDEN, JONAH",P007988   ,Foul (2),CM,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,14,00:24,20,298,"GIST, JAMES",P002980   ,In,IN,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,15,00:24,20,299,"VOUGIOUKAS, IAN",PTFX      ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,5,00:24,20,300,"JAMES, MIKE",P005985   ,Free Throw In (1/1 -  10 pt),FTM,39.0,34.0,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,5,00:24,20,301,"JAMES, MIKE",P005985   ,Free Throw In (2/2 -  11 pt),FTM,39.0,35.0,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,5,00:24,20,302,"JAMES, MIKE",P005985   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,43,00:24,20,303,"ANTETOKOUNMPO, THANASIS",P007865   ,In,IN,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,55,00:05,20,304,"JACKSON, PIERRE",P005112   ,Two Pointer (1/2 -  2 pt),2FGM,41.0,35.0,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,,00:03,20,305,,          ,Time Out (1),TOUT,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,9,00:03,20,306,"TYUS, ALEX",P004119   ,In,IN,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,45,00:03,20,307,"PARAKHOUSKI, ARTSIOM",P003034   ,Out,OUT,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,5,00:03,20,308,"JAMES, MIKE",P005985   ,In,IN,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,14,00:03,20,309,"GIST, JAMES",P002980   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,19,00:03,20,310,"LEKAVICIUS, LUKAS",P003210   ,In,IN,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,43,00:03,20,311,"ANTETOKOUNMPO, THANASIS",P007865   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,19,00:02,20,312,"LEKAVICIUS, LUKAS",P003210   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+          ,,,,21,314,,          ,End Period,EP,,,,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+          ,,,,21,325,,          ,Begin Period,BP,,,,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,1,10:00,21,315,"THOMAS, DESHAUN",P005094   ,In,IN,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,9,10:00,21,316,"TYUS, ALEX",P004119   ,Out,OUT,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,43,10:00,21,317,"BOLDEN, JONAH",P007988   ,Out,OUT,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,45,10:00,21,318,"PARAKHOUSKI, ARTSIOM",P003034   ,In,IN,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,0,10:00,21,319,"SINGLETON, CHRIS",P006614   ,In,IN,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,3,10:00,21,320,"RIVERS, KC",P002429   ,In,IN,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,15,10:00,21,321,"VOUGIOUKAS, IAN",PTFX      ,In,IN,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,19,10:00,21,322,"LEKAVICIUS, LUKAS",P003210   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,22,10:00,21,323,"GABRIEL, KENNY",P005881   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,24,10:00,21,324,"LOJESKI, MATT",P003608   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,3,09:46,21,326,"RIVERS, KC",P002429   ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,0,09:46,21,327,"SINGLETON, CHRIS",P006614   ,Off Rebound (2),O,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,5,09:46,21,328,"ROLL, MICHAEL",P004974   ,Out,OUT,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,30,09:46,21,329,"COLE, NORRIS",P007989   ,In,IN,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,5,09:37,21,330,"JAMES, MIKE",P005985   ,Missed Three Pointer (1/3 -  11 pt),3FGA,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,7,09:34,21,331,"KANE, DEANDRE",P005781   ,Def Rebound (3),D,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,5,09:16,21,332,"JAMES, MIKE",P005985   ,Steal (1),ST,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,30,09:14,21,333,"COLE, NORRIS",P007989   ,Turnover (2),TO,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,5,09:10,21,334,"JAMES, MIKE",P005985   ,Two Pointer (4/5 -  13 pt),2FGM,41.0,37.0,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,7,08:57,22,336,"KANE, DEANDRE",P005781   ,Two Pointer (3/3 -  6 pt),2FGM,43.0,37.0,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,3,08:43,22,337,"RIVERS, KC",P002429   ,Missed Two Pointer (0/3 -  0 pt),2FGA,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,15,08:41,22,338,"VOUGIOUKAS, IAN",PTFX      ,Off Rebound (2),O,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,15,08:40,22,339,"VOUGIOUKAS, IAN",PTFX      ,Two Pointer (4/4 -  10 pt),2FGM,43.0,39.0,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,1,08:30,22,340,"THOMAS, DESHAUN",P005094   ,Missed Two Pointer (2/4 -  4 pt),2FGA,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,,08:30,22,341,,          ,Off Rebound (3),O,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,15,08:30,22,342,"VOUGIOUKAS, IAN",PTFX      ,Foul (3),CM,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,45,08:30,22,343,"PARAKHOUSKI, ARTSIOM",P003034   ,Foul Drawn (3),RV,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,7,08:29,22,344,"KANE, DEANDRE",P005781   ,Turnover (2),TO,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,15,08:19,22,345,"VOUGIOUKAS, IAN",PTFX      ,Foul Drawn (2),RV,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,45,08:19,22,346,"PARAKHOUSKI, ARTSIOM",P003034   ,Foul (2),CM,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,3,08:12,22,347,"RIVERS, KC",P002429   ,Missed Three Pointer (0/3 -  0 pt),3FGA,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,7,08:10,22,348,"KANE, DEANDRE",P005781   ,Def Rebound (4),D,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,1,08:01,22,349,"THOMAS, DESHAUN",P005094   ,Missed Three Pointer (0/1 -  4 pt),3FGA,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,15,07:58,23,351,"VOUGIOUKAS, IAN",PTFX      ,Def Rebound (1),D,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,1,07:50,23,352,"THOMAS, DESHAUN",P005094   ,Steal (1),ST,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,5,07:49,23,353,"JAMES, MIKE",P005985   ,Turnover (2),TO,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,55,07:37,23,354,"JACKSON, PIERRE",P005112   ,Turnover (1),TO,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,0,07:35,23,355,"SINGLETON, CHRIS",P006614   ,Steal (1),ST,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,5,07:14,23,356,"JAMES, MIKE",P005985   ,Missed Three Pointer (1/4 -  13 pt),3FGA,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,7,07:12,23,357,"KANE, DEANDRE",P005781   ,Def Rebound (5),D,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,30,07:10,23,358,"COLE, NORRIS",P007989   ,Two Pointer (2/3 -  8 pt),2FGM,45.0,39.0,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,0,07:01,23,359,"SINGLETON, CHRIS",P006614   ,Three Pointer (2/2 -  6 pt),3FGM,45.0,42.0,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,07:01,23,360,"CALATHES, NICK",P001932   ,Assist (3),AS,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,30,07:01,23,361,"COLE, NORRIS",P007989   ,Foul Drawn (2),RV,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,15,07:01,23,362,"VOUGIOUKAS, IAN",PTFX      ,Foul (4),CM,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,14,07:01,23,363,"GIST, JAMES",P002980   ,In,IN,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,15,07:01,23,364,"VOUGIOUKAS, IAN",PTFX      ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,9,07:01,23,365,"TYUS, ALEX",P004119   ,In,IN,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,45,07:01,23,366,"PARAKHOUSKI, ARTSIOM",P003034   ,Out,OUT,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,30,07:01,23,367,"COLE, NORRIS",P007989   ,Missed Free Throw (1/3 -  8 pt),FTA,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,30,07:01,23,368,"COLE, NORRIS",P007989   ,Free Throw In (2/4 -  9 pt),FTM,46.0,42.0,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,06:11,24,370,"CALATHES, NICK",P001932   ,Turnover (2),TO,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,55,06:08,24,371,"JACKSON, PIERRE",P005112   ,Steal (1),ST,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,30,06:05,24,372,"COLE, NORRIS",P007989   ,Turnover (3),TO,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,5,06:04,24,373,"JAMES, MIKE",P005985   ,Steal (2),ST,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,3,06:02,24,374,"RIVERS, KC",P002429   ,Missed Three Pointer (0/4 -  0 pt),3FGA,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,14,06:00,24,375,"GIST, JAMES",P002980   ,Off Rebound (4),O,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,5,05:55,25,377,"JAMES, MIKE",P005985   ,Missed Three Pointer (1/5 -  13 pt),3FGA,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,3,05:53,25,378,"RIVERS, KC",P002429   ,Off Rebound (1),O,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,3,05:53,25,379,"RIVERS, KC",P002429   ,Turnover (1),TO,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,3,05:53,25,380,"RIVERS, KC",P002429   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,24,05:53,25,381,"LOJESKI, MATT",P003608   ,In,IN,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,1,05:33,25,382,"THOMAS, DESHAUN",P005094   ,Turnover (2),TO,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,5,05:31,25,383,"JAMES, MIKE",P005985   ,Steal (3),ST,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,5,05:29,25,384,"JAMES, MIKE",P005985   ,Foul Drawn (3),RV,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,30,05:29,25,385,"COLE, NORRIS",P007989   ,Foul (3),CM,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,12,05:29,25,386,"DIBARTOLOMEO, JOHN",P007990   ,In,IN,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,55,05:29,25,387,"JACKSON, PIERRE",P005112   ,Out,OUT,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,5,05:29,25,388,"JAMES, MIKE",P005985   ,Missed Free Throw (2/3 -  13 pt),FTA,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,5,05:29,25,389,"JAMES, MIKE",P005985   ,Missed Free Throw (2/4 -  13 pt),FTA,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,,05:29,25,390,,          ,Off Rebound (4),O,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,5,05:11,25,391,"JAMES, MIKE",P005985   ,Three Pointer (2/6 -  16 pt),3FGM,46.0,45.0,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,30,04:47,26,393,"COLE, NORRIS",P007989   ,Missed Three Pointer (1/5 -  9 pt),3FGA,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,0,04:44,26,394,"SINGLETON, CHRIS",P006614   ,Def Rebound (4),D,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,04:42,26,395,"CALATHES, NICK",P001932   ,Two Pointer (3/6 -  6 pt),2FGM,46.0,47.0,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,5,04:42,26,396,"JAMES, MIKE",P005985   ,Assist (3),AS,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,,04:42,26,397,,          ,Time Out (1),TOUT,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,7,04:26,26,398,"KANE, DEANDRE",P005781   ,Three Pointer (1/2 -  9 pt),3FGM,49.0,47.0,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,5,04:01,26,399,"JAMES, MIKE",P005985   ,Missed Two Pointer (4/6 -  16 pt),2FGA,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,9,03:58,27,401,"TYUS, ALEX",P004119   ,Def Rebound (1),D,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,7,03:43,27,402,"KANE, DEANDRE",P005781   ,Two Pointer (4/4 -  11 pt),2FGM,51.0,47.0,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,7,03:43,27,403,"KANE, DEANDRE",P005781   ,Foul Drawn (3),RV,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,03:43,27,404,"CALATHES, NICK",P001932   ,Foul (2),CM,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,7,03:43,27,405,"KANE, DEANDRE",P005781   ,Free Throw In (1/2 -  12 pt),FTM,52.0,47.0,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,5,03:43,27,406,"ROLL, MICHAEL",P004974   ,In,IN,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,7,03:43,27,407,"KANE, DEANDRE",P005781   ,Out,OUT,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,03:41,27,408,"CALATHES, NICK",P001932   ,Two Pointer (4/7 -  8 pt),2FGM,52.0,49.0,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,1,03:10,27,409,"THOMAS, DESHAUN",P005094   ,Two Pointer (3/5 -  6 pt),2FGM,54.0,49.0,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,02:50,28,411,"CALATHES, NICK",P001932   ,Two Pointer (5/8 -  10 pt),2FGM,54.0,51.0,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,9,02:25,28,412,"TYUS, ALEX",P004119   ,Turnover (1),TO,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,24,02:10,28,413,"LOJESKI, MATT",P003608   ,Three Pointer (1/1 -  3 pt),3FGM,54.0,54.0,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,02:08,28,414,"CALATHES, NICK",P001932   ,Assist (4),AS,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,,01:44,29,416,,          ,Turnover (1),TO,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,5,01:22,29,417,"JAMES, MIKE",P005985   ,Two Pointer (5/7 -  18 pt),2FGM,54.0,56.0,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,12,01:04,29,418,"DIBARTOLOMEO, JOHN",P007990   ,Missed Two Pointer (0/1 -  9 pt),2FGA,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,0,01:04,29,419,"SINGLETON, CHRIS",P006614   ,Def Rebound (5),D,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,0,01:04,29,420,"SINGLETON, CHRIS",P006614   ,Turnover (1),TO,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,5,00:53,30,422,"ROLL, MICHAEL",P004974   ,Missed Two Pointer (0/2 -  3 pt),2FGA,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,,00:53,30,423,,          ,Off Rebound (5),O,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,7,00:53,30,424,"KANE, DEANDRE",P005781   ,In,IN,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,12,00:53,30,425,"DIBARTOLOMEO, JOHN",P007990   ,Out,OUT,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,1,00:53,30,426,"THOMAS, DESHAUN",P005094   ,Missed Two Pointer (3/6 -  6 pt),2FGA,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,7,00:53,30,427,"KANE, DEANDRE",P005781   ,Off Rebound (1),O,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,7,00:53,30,428,"KANE, DEANDRE",P005781   ,Two Pointer (5/5 -  14 pt),2FGM,56.0,56.0,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,00:26,30,429,"CALATHES, NICK",P001932   ,Turnover (3),TO,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,5,00:24,30,430,"ROLL, MICHAEL",P004974   ,Steal (1),ST,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,30,00:21,30,431,"COLE, NORRIS",P007989   ,Missed Two Pointer (2/4 -  9 pt),2FGA,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,30,00:21,30,432,"COLE, NORRIS",P007989   ,Shot Rejected (1),AG,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,0,00:21,30,433,"SINGLETON, CHRIS",P006614   ,Block (1),FV,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,,00:21,30,434,,          ,Off Rebound (6),O,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,7,00:04,30,435,"KANE, DEANDRE",P005781   ,Two Pointer (6/6 -  16 pt),2FGM,58.0,56.0,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,00:01,30,436,"CALATHES, NICK",P001932   ,Missed Three Pointer (0/3 -  10 pt),3FGA,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+          ,,,,31,438,,          ,End Period,EP,,,,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+          ,,,,31,441,,          ,Begin Period,BP,,,,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,1,10:00,31,439,"THOMAS, DESHAUN",P005094   ,Out,OUT,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,43,10:00,31,440,"BOLDEN, JONAH",P007988   ,In,IN,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,9,09:43,31,442,"TYUS, ALEX",P004119   ,Turnover (2),TO,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,09:41,31,443,"CALATHES, NICK",P001932   ,Steal (2),ST,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,09:40,31,444,"CALATHES, NICK",P001932   ,Foul Drawn (3),RV,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,5,09:40,31,445,"ROLL, MICHAEL",P004974   ,Foul (1),CM,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,11,09:40,31,446,"PAPPAS, NIKOS",P000464   ,In,IN,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,09:40,31,447,"CALATHES, NICK",P001932   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,0,09:21,31,448,"SINGLETON, CHRIS",P006614   ,Missed Three Pointer (2/3 -  6 pt),3FGA,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,9,09:19,31,449,"TYUS, ALEX",P004119   ,Def Rebound (2),D,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,43,09:12,31,450,"BOLDEN, JONAH",P007988   ,Missed Three Pointer (0/3 -  2 pt),3FGA,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,7,09:12,31,451,"KANE, DEANDRE",P005781   ,Off Rebound (2),O,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,7,09:12,31,452,"KANE, DEANDRE",P005781   ,Foul Drawn (4),RV,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,0,09:12,31,453,"SINGLETON, CHRIS",P006614   ,Foul (2),CM,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,11,09:12,31,454,"PAPPAS, NIKOS",P000464   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,09:12,31,455,"CALATHES, NICK",P001932   ,In,IN,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,11,09:12,31,456,"PAPPAS, NIKOS",P000464   ,In,IN,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,09:12,31,457,"CALATHES, NICK",P001932   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,11,09:12,31,458,"PAPPAS, NIKOS",P000464   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,09:12,31,459,"CALATHES, NICK",P001932   ,In,IN,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,30,09:06,31,460,"COLE, NORRIS",P007989   ,Two Pointer (3/5 -  11 pt),2FGM,60.0,56.0,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,30,09:06,31,461,"COLE, NORRIS",P007989   ,Foul Drawn (3),RV,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,09:06,31,462,"CALATHES, NICK",P001932   ,Foul (3),CM,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,11,09:06,31,463,"PAPPAS, NIKOS",P000464   ,In,IN,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,09:06,31,464,"CALATHES, NICK",P001932   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,30,09:06,31,465,"COLE, NORRIS",P007989   ,Free Throw In (3/5 -  12 pt),FTM,61.0,56.0,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,11,08:49,32,467,"PAPPAS, NIKOS",P000464   ,Missed Three Pointer (0/1 -  4 pt),3FGA,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,5,08:45,32,468,"ROLL, MICHAEL",P004974   ,Def Rebound (5),D,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,7,08:33,32,469,"KANE, DEANDRE",P005781   ,Turnover (3),TO,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,5,08:32,32,470,"JAMES, MIKE",P005985   ,Steal (4),ST,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,5,08:28,32,471,"JAMES, MIKE",P005985   ,Two Pointer (6/8 -  20 pt),2FGM,61.0,58.0,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,30,08:15,32,472,"COLE, NORRIS",P007989   ,Two Pointer (4/6 -  14 pt),2FGM,63.0,58.0,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,5,07:48,33,474,"JAMES, MIKE",P005985   ,Two Pointer (7/9 -  22 pt),2FGM,63.0,60.0,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,5,07:48,33,475,"JAMES, MIKE",P005985   ,Foul Drawn (4),RV,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,9,07:48,33,476,"TYUS, ALEX",P004119   ,Foul (2),CM,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,3,07:48,33,477,"RIVERS, KC",P002429   ,In,IN,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,24,07:48,33,478,"LOJESKI, MATT",P003608   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,5,07:48,33,479,"JAMES, MIKE",P005985   ,Free Throw In (3/5 -  23 pt),FTM,63.0,61.0,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,9,07:32,33,480,"TYUS, ALEX",P004119   ,Two Pointer (5/5 -  10 pt),2FGM,65.0,61.0,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,5,07:32,33,481,"ROLL, MICHAEL",P004974   ,Assist (6),AS,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,9,07:32,33,482,"TYUS, ALEX",P004119   ,Foul Drawn (1),RV,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,0,07:32,33,483,"SINGLETON, CHRIS",P006614   ,Foul (3),CM,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,9,07:32,33,484,"TYUS, ALEX",P004119   ,Missed Free Throw (0/1 -  10 pt),FTA,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,14,07:28,33,485,"GIST, JAMES",P002980   ,Def Rebound (1),D,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,3,07:11,33,486,"RIVERS, KC",P002429   ,Turnover (2),TO,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,7,07:09,33,487,"KANE, DEANDRE",P005781   ,Steal (2),ST,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,5,07:02,33,488,"ROLL, MICHAEL",P004974   ,Missed Three Pointer (1/2 -  3 pt),3FGA,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,3,06:58,34,490,"RIVERS, KC",P002429   ,Def Rebound (3),D,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,5,06:42,34,491,"JAMES, MIKE",P005985   ,Missed Three Pointer (2/7 -  23 pt),3FGA,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,,06:42,34,492,,          ,Def Rebound (2),D,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,,06:42,34,493,,          ,Time Out (1),TOUT,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,,06:17,34,494,,          ,Turnover (2),TO,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,5,05:54,35,496,"JAMES, MIKE",P005985   ,Missed Three Pointer (2/8 -  23 pt),3FGA,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,30,05:52,35,497,"COLE, NORRIS",P007989   ,Def Rebound (2),D,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,30,05:46,35,498,"COLE, NORRIS",P007989   ,Foul Drawn (4),RV,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,5,05:46,35,499,"JAMES, MIKE",P005985   ,Foul (2),CM,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,14,05:46,35,500,"GIST, JAMES",P002980   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,15,05:46,35,501,"VOUGIOUKAS, IAN",PTFX      ,In,IN,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,9,05:46,35,502,"TYUS, ALEX",P004119   ,Out,OUT,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,45,05:46,35,503,"PARAKHOUSKI, ARTSIOM",P003034   ,In,IN,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,30,05:34,35,504,"COLE, NORRIS",P007989   ,Missed Two Pointer (4/7 -  14 pt),2FGA,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,15,05:31,35,505,"VOUGIOUKAS, IAN",PTFX      ,Def Rebound (2),D,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,15,05:19,35,506,"VOUGIOUKAS, IAN",PTFX      ,Two Pointer (5/5 -  12 pt),2FGM,65.0,63.0,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,5,04:53,36,508,"ROLL, MICHAEL",P004974   ,Missed Two Pointer (0/3 -  3 pt),2FGA,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,0,04:51,36,509,"SINGLETON, CHRIS",P006614   ,Def Rebound (6),D,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,0,04:45,36,510,"SINGLETON, CHRIS",P006614   ,Foul Drawn (1),RV,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,43,04:45,36,511,"BOLDEN, JONAH",P007988   ,Foul (3),CM,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,5,04:45,36,512,"JAMES, MIKE",P005985   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,04:45,36,513,"CALATHES, NICK",P001932   ,In,IN,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,1,04:45,36,514,"THOMAS, DESHAUN",P005094   ,In,IN,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,43,04:45,36,515,"BOLDEN, JONAH",P007988   ,Out,OUT,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,0,04:45,36,516,"SINGLETON, CHRIS",P006614   ,Free Throw In (1/1 -  7 pt),FTM,65.0,64.0,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,0,04:45,36,517,"SINGLETON, CHRIS",P006614   ,Missed Free Throw (1/2 -  7 pt),FTA,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,7,04:43,36,518,"KANE, DEANDRE",P005781   ,Def Rebound (6),D,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,7,04:29,36,519,"KANE, DEANDRE",P005781   ,Missed Two Pointer (6/7 -  16 pt),2FGA,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,,04:29,36,520,,          ,Off Rebound (7),O,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,7,04:29,36,521,"KANE, DEANDRE",P005781   ,Foul Drawn (5),RV,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,11,04:29,36,522,"PAPPAS, NIKOS",P000464   ,Foul (1),CM,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,12,04:29,36,523,"DIBARTOLOMEO, JOHN",P007990   ,In,IN,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,30,04:29,36,524,"COLE, NORRIS",P007989   ,Out,OUT,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,7,04:29,36,525,"KANE, DEANDRE",P005781   ,Free Throw In (2/3 -  17 pt),FTM,66.0,64.0,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,7,04:29,36,526,"KANE, DEANDRE",P005781   ,Free Throw In (3/4 -  18 pt),FTM,67.0,64.0,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,3,04:10,36,527,"RIVERS, KC",P002429   ,Missed Three Pointer (0/5 -  0 pt),3FGA,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,7,04:06,36,528,"KANE, DEANDRE",P005781   ,Def Rebound (7),D,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,45,03:50,37,530,"PARAKHOUSKI, ARTSIOM",P003034   ,Missed Two Pointer (1/3 -  3 pt),2FGA,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,0,03:48,37,531,"SINGLETON, CHRIS",P006614   ,Def Rebound (7),D,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,0,03:41,37,532,"SINGLETON, CHRIS",P006614   ,Foul Drawn (2),RV,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,5,03:41,37,533,"ROLL, MICHAEL",P004974   ,Foul (2),CM,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,9,03:41,37,534,"TYUS, ALEX",P004119   ,In,IN,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,45,03:41,37,535,"PARAKHOUSKI, ARTSIOM",P003034   ,Out,OUT,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,3,03:41,37,536,"RIVERS, KC",P002429   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,5,03:41,37,537,"JAMES, MIKE",P005985   ,In,IN,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,15,03:30,37,538,"VOUGIOUKAS, IAN",PTFX      ,Two Pointer (6/6 -  14 pt),2FGM,67.0,66.0,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,5,03:28,37,539,"JAMES, MIKE",P005985   ,Assist (4),AS,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,7,03:17,37,540,"KANE, DEANDRE",P005781   ,Turnover (4),TO,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,15,03:15,37,541,"VOUGIOUKAS, IAN",PTFX      ,Steal (1),ST,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,11,03:15,37,542,"PAPPAS, NIKOS",P000464   ,Two Pointer (3/6 -  6 pt),2FGM,67.0,68.0,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,15,03:15,37,543,"VOUGIOUKAS, IAN",PTFX      ,Assist (1),AS,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,,03:15,37,544,,          ,Time Out (1),TOUT,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,12,03:15,37,545,"DIBARTOLOMEO, JOHN",P007990   ,Out,OUT,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,30,03:15,37,546,"COLE, NORRIS",P007989   ,In,IN,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,30,03:01,37,547,"COLE, NORRIS",P007989   ,Missed Two Pointer (4/8 -  14 pt),2FGA,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,0,02:59,38,549,"SINGLETON, CHRIS",P006614   ,Def Rebound (8),D,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,15,02:37,38,550,"VOUGIOUKAS, IAN",PTFX      ,Foul Drawn (3),RV,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,9,02:37,38,551,"TYUS, ALEX",P004119   ,Foul (3),CM,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,15,02:37,38,552,"VOUGIOUKAS, IAN",PTFX      ,Free Throw In (3/3 -  15 pt),FTM,67.0,69.0,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,11,02:37,38,553,"PAPPAS, NIKOS",P000464   ,Assist (1),AS,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,15,02:37,38,554,"VOUGIOUKAS, IAN",PTFX      ,Free Throw In (4/4 -  16 pt),FTM,67.0,70.0,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,5,02:16,38,555,"ROLL, MICHAEL",P004974   ,Two Pointer (1/4 -  5 pt),2FGM,69.0,70.0,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,1,02:16,38,556,"THOMAS, DESHAUN",P005094   ,Assist (1),AS,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,02:00,38,557,"CALATHES, NICK",P001932   ,Missed Two Pointer (5/9 -  10 pt),2FGA,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,5,02:00,38,558,"ROLL, MICHAEL",P004974   ,Def Rebound (6),D,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,1,02:00,38,559,"THOMAS, DESHAUN",P005094   ,Two Pointer (4/7 -  8 pt),2FGM,71.0,70.0,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,,02:00,38,560,,          ,Time Out (2),TOUT,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,0,01:27,39,562,"SINGLETON, CHRIS",P006614   ,Foul Drawn (3),RV,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,30,01:27,39,563,"COLE, NORRIS",P007989   ,Foul (4),CM,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,3,01:27,39,564,"RIVERS, KC",P002429   ,In,IN,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,11,01:27,39,565,"PAPPAS, NIKOS",P000464   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,14,01:27,39,566,"GIST, JAMES",P002980   ,In,IN,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,15,01:27,39,567,"VOUGIOUKAS, IAN",PTFX      ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,0,01:27,39,568,"SINGLETON, CHRIS",P006614   ,Free Throw In (2/3 -  8 pt),FTM,71.0,71.0,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,0,01:27,39,569,"SINGLETON, CHRIS",P006614   ,Free Throw In (3/4 -  9 pt),FTM,71.0,72.0,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,7,01:16,39,570,"KANE, DEANDRE",P005781   ,Foul Drawn (6),RV,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,01:16,39,571,"CALATHES, NICK",P001932   ,Foul (4),CM,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,3,01:16,39,572,"RIVERS, KC",P002429   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,11,01:16,39,573,"PAPPAS, NIKOS",P000464   ,In,IN,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,14,01:16,39,574,"GIST, JAMES",P002980   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,15,01:16,39,575,"VOUGIOUKAS, IAN",PTFX      ,In,IN,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,7,01:01,39,576,"KANE, DEANDRE",P005781   ,Free Throw In (4/5 -  19 pt),FTM,72.0,72.0,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,7,01:01,39,578,"KANE, DEANDRE",P005781   ,Missed Free Throw (4/6 -  19 pt),FTA,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,33,00:53,40,580,"CALATHES, NICK",P001932   ,Def Rebound (1),D,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,5,00:45,40,581,"JAMES, MIKE",P005985   ,Two Pointer (8/10 -  25 pt),2FGM,72.0,74.0,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,30,00:32,40,582,"COLE, NORRIS",P007989   ,Missed Two Pointer (4/9 -  14 pt),2FGA,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,15,00:30,40,583,"VOUGIOUKAS, IAN",PTFX      ,Def Rebound (3),D,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,11,00:26,40,584,"PAPPAS, NIKOS",P000464   ,Turnover (2),TO,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,7,00:25,40,585,"KANE, DEANDRE",P005781   ,Steal (3),ST,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,5,00:25,40,586,"ROLL, MICHAEL",P004974   ,Three Pointer (2/3 -  8 pt),3FGM,75.0,74.0,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,7,00:25,40,587,"KANE, DEANDRE",P005781   ,Assist (5),AS,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,,00:25,40,588,,          ,Time Out (3),TOUT,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,30,00:25,40,589,"COLE, NORRIS",P007989   ,Out,OUT,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,43,00:25,40,590,"BOLDEN, JONAH",P007988   ,In,IN,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,5,00:05,40,591,"JAMES, MIKE",P005985   ,Two Pointer (9/11 -  27 pt),2FGM,75.0,76.0,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,,00:05,40,592,,          ,Time Out (2),TOUT,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,30,00:05,40,593,"COLE, NORRIS",P007989   ,In,IN,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,43,00:05,40,594,"BOLDEN, JONAH",P007988   ,Out,OUT,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,3,00:05,40,595,"RIVERS, KC",P002429   ,In,IN,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,5,00:05,40,596,"JAMES, MIKE",P005985   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,11,00:05,40,597,"PAPPAS, NIKOS",P000464   ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,14,00:05,40,598,"GIST, JAMES",P002980   ,In,IN,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,15,00:05,40,599,"VOUGIOUKAS, IAN",PTFX      ,Out,OUT,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+PAN       ,,43,00:05,40,600,"ANTETOKOUNMPO, THANASIS",P007865   ,In,IN,,,Panathinaikos Superfoods Athens,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,9,00:04,40,601,"TYUS, ALEX",P004119   ,Out,OUT,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,12,00:04,40,602,"DIBARTOLOMEO, JOHN",P007990   ,In,IN,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+TEL       ,,1,00:01,40,603,"THOMAS, DESHAUN",P005094   ,Missed Two Pointer (4/8 -  8 pt),2FGA,,,Maccabi FOX Tel Aviv,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN
+          ,,,,41,606,,          ,End Game,EG,,,,0,Maccabi FOX Tel Aviv,TEL,Panathinaikos Superfoods Athens,PAN

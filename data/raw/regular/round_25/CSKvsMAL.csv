@@ -1,0 +1,512 @@
+CODETEAM,COMMENT,DORSAL,MARKERTIME,MINUTE,NUMBEROFPLAY,PLAYER,PLAYER_ID,PLAYINFO,PLAYTYPE,POINTS_A,POINTS_B,TEAM,TYPE,home_team,home_team_code,away_team,away_team_code
+          ,,,,1,2,,          ,Begin Period,BP,,,,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,41,09:52,1,3,"KURBANOV, NIKITA",PJLX      ,Two Pointer (1/1 -  2 pt),2FGM,2.0,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,12,09:30,1,4,"MILOSAVLJEVIC, DRAGAN",P002822   ,Two Pointer (1/1 -  2 pt),2FGM,2.0,2.0,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,22,09:19,1,5,"HIGGINS, CORY",P006450   ,Foul Drawn (1),RV,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,2,09:19,1,6,"OKOUO, VINY",P005363   ,Foul (1),CM,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,20,09:09,1,7,"VORONTSEVICH, ANDREY",PLHI      ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,12,09:07,1,8,"MILOSAVLJEVIC, DRAGAN",P002822   ,Def Rebound (1),D,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,12,08:54,2,10,"MILOSAVLJEVIC, DRAGAN",P002822   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,41,08:51,2,11,"KURBANOV, NIKITA",PJLX      ,Def Rebound (1),D,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,41,08:40,2,12,"KURBANOV, NIKITA",PJLX      ,Three Pointer (1/1 -  5 pt),3FGM,5.0,2.0,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,13,08:38,2,13,"RODRIGUEZ, SERGIO",PCVM      ,Assist (1),AS,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,16,08:25,2,14,"NEDOVIC, NEMANJA",P000848   ,Foul Drawn (1),RV,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,42,08:25,2,15,"HINES, KYLE",P002812   ,Foul (1),CM,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,3,08:17,2,16,"MCCALLUM, RAY",P008002   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,,08:17,2,18,,          ,Turnover (1),TO,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,41,07:52,3,20,"KURBANOV, NIKITA",PJLX      ,Turnover (1),TO,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,12,07:50,3,21,"MILOSAVLJEVIC, DRAGAN",P002822   ,Steal (1),ST,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,16,07:37,3,22,"NEDOVIC, NEMANJA",P000848   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,22,07:34,3,23,"HIGGINS, CORY",P006450   ,Def Rebound (1),D,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,41,07:30,3,24,"KURBANOV, NIKITA",PJLX      ,Two Pointer (2/2 -  7 pt),2FGM,7.0,2.0,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,22,07:27,3,25,"HIGGINS, CORY",P006450   ,Assist (1),AS,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,2,07:15,3,26,"OKOUO, VINY",P005363   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,22,07:12,3,27,"HIGGINS, CORY",P006450   ,Def Rebound (2),D,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,13,07:07,3,28,"RODRIGUEZ, SERGIO",PCVM      ,Three Pointer (1/1 -  3 pt),3FGM,10.0,2.0,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,16,06:49,4,30,"NEDOVIC, NEMANJA",P000848   ,Two Pointer (1/1 -  2 pt),2FGM,10.0,4.0,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,16,06:49,4,31,"NEDOVIC, NEMANJA",P000848   ,Foul Drawn (2),RV,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,20,06:49,4,32,"VORONTSEVICH, ANDREY",PLHI      ,Foul (1),CM,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,16,06:49,4,33,"NEDOVIC, NEMANJA",P000848   ,Free Throw In (1/1 -  3 pt),FTM,10.0,5.0,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,22,06:28,4,34,"HIGGINS, CORY",P006450   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,20,06:25,4,35,"VORONTSEVICH, ANDREY",PLHI      ,Off Rebound (1),O,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,13,06:21,4,36,"RODRIGUEZ, SERGIO",PCVM      ,Missed Three Pointer (1/2 -  3 pt),3FGA,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,2,06:19,4,37,"OKOUO, VINY",P005363   ,Def Rebound (1),D,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,23,06:10,4,38,"BROOKS, JEFF",P004117   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,42,06:07,4,39,"HINES, KYLE",P002812   ,Def Rebound (1),D,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,42,05:49,5,41,"HINES, KYLE",P002812   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,42,05:49,5,42,"HINES, KYLE",P002812   ,Shot Rejected (1),AG,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,2,05:47,5,43,"OKOUO, VINY",P005363   ,Block (1),FV,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,41,05:44,5,44,"KURBANOV, NIKITA",PJLX      ,Off Rebound (1),O,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,13,05:41,5,45,"RODRIGUEZ, SERGIO",PCVM      ,Three Pointer (2/3 -  6 pt),3FGM,13.0,5.0,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,41,05:39,5,46,"KURBANOV, NIKITA",PJLX      ,Assist (1),AS,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,12,05:34,5,47,"MILOSAVLJEVIC, DRAGAN",P002822   ,Three Pointer (1/1 -  5 pt),3FGM,13.0,8.0,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,22,05:14,5,48,"HIGGINS, CORY",P006450   ,Two Pointer (1/2 -  2 pt),2FGM,15.0,8.0,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,23,04:53,6,50,"BROOKS, JEFF",P004117   ,Two Pointer (1/2 -  2 pt),2FGM,15.0,10.0,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,16,04:51,6,51,"NEDOVIC, NEMANJA",P000848   ,Assist (1),AS,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,41,04:35,6,52,"KURBANOV, NIKITA",PJLX      ,Three Pointer (2/2 -  10 pt),3FGM,18.0,10.0,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,22,04:32,6,53,"HIGGINS, CORY",P006450   ,Assist (2),AS,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,2,04:13,6,54,"OKOUO, VINY",P005363   ,Foul Drawn (1),RV,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,20,04:13,6,55,"VORONTSEVICH, ANDREY",PLHI      ,Foul (2),CM,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+          ,,,04:13,6,56,,          ,TV Time Out (1),TOUT_TV,,,,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,11,04:13,6,57,"ANTONOV, SEMEN",P004941   ,In,IN,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,20,04:13,6,58,"VORONTSEVICH, ANDREY",PLHI      ,Out,OUT,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,2,04:13,6,59,"OKOUO, VINY",P005363   ,Free Throw In (1/1 -  1 pt),FTM,18.0,11.0,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,23,04:13,6,60,"BROOKS, JEFF",P004117   ,Assist (1),AS,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,2,04:13,6,61,"OKOUO, VINY",P005363   ,Missed Free Throw (1/2 -  1 pt),FTA,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,41,04:13,6,62,"KURBANOV, NIKITA",PJLX      ,Def Rebound (2),D,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,42,04:02,6,63,"HINES, KYLE",P002812   ,Two Pointer (1/2 -  2 pt),2FGM,20.0,11.0,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,13,04:02,6,64,"RODRIGUEZ, SERGIO",PCVM      ,Assist (2),AS,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,42,04:02,6,65,"HINES, KYLE",P002812   ,Foul Drawn (1),RV,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,2,04:02,6,66,"OKOUO, VINY",P005363   ,Foul (2),CM,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,2,04:02,6,67,"OKOUO, VINY",P005363   ,Out,OUT,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,40,04:02,6,68,"AUGUSTINE, JAMES",P001438   ,In,IN,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,42,04:02,6,69,"HINES, KYLE",P002812   ,Free Throw In (1/1 -  3 pt),FTM,21.0,11.0,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,42,04:02,6,70,"HINES, KYLE",P002812   ,Out,OUT,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,44,04:02,6,71,"HUNTER, OTHELLO",P005160   ,In,IN,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,16,03:45,7,73,"NEDOVIC, NEMANJA",P000848   ,Foul Drawn (3),RV,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,44,03:45,7,74,"HUNTER, OTHELLO",P005160   ,Foul (1),CM,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,16,03:45,7,75,"NEDOVIC, NEMANJA",P000848   ,Turnover (1),TO,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,22,03:38,7,76,"HIGGINS, CORY",P006450   ,Two Pointer (2/3 -  4 pt),2FGM,23.0,11.0,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,16,03:13,7,77,"NEDOVIC, NEMANJA",P000848   ,Missed Three Pointer (0/2 -  3 pt),3FGA,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,16,03:09,7,78,"NEDOVIC, NEMANJA",P000848   ,Off Rebound (1),O,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,40,03:04,7,79,"AUGUSTINE, JAMES",P001438   ,Two Pointer (1/1 -  2 pt),2FGM,23.0,13.0,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,16,03:02,7,80,"NEDOVIC, NEMANJA",P000848   ,Assist (2),AS,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,13,02:57,8,82,"RODRIGUEZ, SERGIO",PCVM      ,Two Pointer (1/1 -  8 pt),2FGM,25.0,13.0,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,12,02:42,8,83,"MILOSAVLJEVIC, DRAGAN",P002822   ,Missed Three Pointer (1/2 -  5 pt),3FGA,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,41,02:40,8,84,"KURBANOV, NIKITA",PJLX      ,Def Rebound (3),D,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,13,02:37,8,85,"RODRIGUEZ, SERGIO",PCVM      ,Turnover (1),TO,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,40,02:36,8,86,"AUGUSTINE, JAMES",P001438   ,Steal (1),ST,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,3,02:30,8,87,"MCCALLUM, RAY",P008002   ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,41,02:28,8,88,"KURBANOV, NIKITA",PJLX      ,Def Rebound (4),D,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,22,02:11,8,89,"HIGGINS, CORY",P006450   ,Missed Two Pointer (2/4 -  4 pt),2FGA,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,22,02:11,8,90,"HIGGINS, CORY",P006450   ,Shot Rejected (1),AG,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,12,02:08,8,91,"MILOSAVLJEVIC, DRAGAN",P002822   ,Block (1),FV,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,44,02:06,8,92,"HUNTER, OTHELLO",P005160   ,Off Rebound (1),O,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,44,02:04,8,93,"HUNTER, OTHELLO",P005160   ,Two Pointer (1/1 -  2 pt),2FGM,27.0,13.0,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,3,01:52,9,95,"MCCALLUM, RAY",P008002   ,Three Pointer (1/3 -  3 pt),3FGM,27.0,16.0,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,23,01:50,9,96,"BROOKS, JEFF",P004117   ,Assist (2),AS,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,41,01:30,9,97,"KURBANOV, NIKITA",PJLX      ,Missed Two Pointer (2/3 -  10 pt),2FGA,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,40,01:28,9,98,"AUGUSTINE, JAMES",P001438   ,Def Rebound (1),D,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,1,01:23,9,99,"DE COLO, NANDO",P002100   ,In,IN,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,9,01:23,9,100,"WESTERMANN, LEO",P002543   ,In,IN,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,13,01:23,9,101,"RODRIGUEZ, SERGIO",PCVM      ,Out,OUT,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,21,01:23,9,102,"CLYBURN, WILL",P004888   ,In,IN,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,22,01:23,9,103,"HIGGINS, CORY",P006450   ,Out,OUT,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,41,01:23,9,104,"KURBANOV, NIKITA",PJLX      ,Out,OUT,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,3,01:23,9,105,"MCCALLUM, RAY",P008002   ,Out,OUT,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,9,01:23,9,106,"DIAZ, ALBERTO",P004213   ,In,IN,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,12,01:23,9,107,"MILOSAVLJEVIC, DRAGAN",P002822   ,Out,OUT,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,21,01:23,9,108,"WACZYNSKI, ADAM",PLDX      ,In,IN,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,16,01:18,9,109,"NEDOVIC, NEMANJA",P000848   ,Two Pointer (2/2 -  5 pt),2FGM,27.0,18.0,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,11,00:59,10,111,"ANTONOV, SEMEN",P004941   ,Foul Drawn (1),RV,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,23,00:59,10,112,"BROOKS, JEFF",P004117   ,Foul (1),CM,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,11,00:59,10,113,"ANTONOV, SEMEN",P004941   ,Missed Free Throw (0/1 -  0 pt),FTA,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,11,00:59,10,114,"ANTONOV, SEMEN",P004941   ,Free Throw In (1/2 -  1 pt),FTM,28.0,18.0,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,40,00:38,10,115,"AUGUSTINE, JAMES",P001438   ,Two Pointer (2/2 -  4 pt),2FGM,28.0,20.0,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,9,00:36,10,116,"DIAZ, ALBERTO",P004213   ,Assist (1),AS,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,1,00:28,10,117,"DE COLO, NANDO",P002100   ,Foul Drawn (1),RV,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,16,00:28,10,118,"NEDOVIC, NEMANJA",P000848   ,Foul (1),CM,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,1,00:23,10,119,"DE COLO, NANDO",P002100   ,Turnover (1),TO,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,9,00:03,10,120,"DIAZ, ALBERTO",P004213   ,Turnover (1),TO,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,21,00:01,10,121,"CLYBURN, WILL",P004888   ,Steal (1),ST,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,21,00:00,10,122,"CLYBURN, WILL",P004888   ,Two Pointer (1/1 -  2 pt),2FGM,30.0,20.0,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,9,00:00,10,123,"WESTERMANN, LEO",P002543   ,Assist (1),AS,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+          ,,,,11,125,,          ,End Period,EP,,,,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+          ,,,,11,130,,          ,Begin Period,BP,,,,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,10,10:00,11,126,"SALIN, SASU",P002820   ,In,IN,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,16,10:00,11,127,"NEDOVIC, NEMANJA",P000848   ,Out,OUT,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,23,10:00,11,128,"BROOKS, JEFF",P004117   ,Out,OUT,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,43,10:00,11,129,"SUAREZ, CARLOS",PJJS      ,In,IN,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,40,09:40,11,131,"AUGUSTINE, JAMES",P001438   ,Two Pointer (3/3 -  6 pt),2FGM,30.0,22.0,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,43,09:39,11,132,"SUAREZ, CARLOS",PJJS      ,Assist (1),AS,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,21,09:24,11,133,"CLYBURN, WILL",P004888   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,,09:23,11,134,,          ,Off Rebound (1),O,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,1,09:23,11,135,"DE COLO, NANDO",P002100   ,Two Pointer (1/1 -  2 pt),2FGM,32.0,22.0,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,9,09:23,11,136,"WESTERMANN, LEO",P002543   ,Assist (2),AS,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,9,09:08,11,137,"DIAZ, ALBERTO",P004213   ,Turnover (2),TO,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,44,09:06,11,138,"HUNTER, OTHELLO",P005160   ,Steal (1),ST,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,44,09:04,11,139,"HUNTER, OTHELLO",P005160   ,Foul Drawn (1),RV,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,40,09:04,11,140,"AUGUSTINE, JAMES",P001438   ,Foul (1),CM,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,44,09:04,11,141,"HUNTER, OTHELLO",P005160   ,Free Throw In (1/1 -  3 pt),FTM,33.0,22.0,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,11,09:04,11,142,"ANTONOV, SEMEN",P004941   ,Assist (1),AS,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,44,09:04,11,143,"HUNTER, OTHELLO",P005160   ,Free Throw In (2/2 -  4 pt),FTM,34.0,22.0,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,43,08:41,12,145,"SUAREZ, CARLOS",PJJS      ,Three Pointer (1/1 -  3 pt),3FGM,34.0,25.0,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,9,08:39,12,146,"DIAZ, ALBERTO",P004213   ,Assist (2),AS,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,11,08:25,12,147,"ANTONOV, SEMEN",P004941   ,Missed Three Pointer (0/1 -  1 pt),3FGA,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,40,08:23,12,148,"AUGUSTINE, JAMES",P001438   ,Def Rebound (2),D,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,43,08:18,12,149,"SUAREZ, CARLOS",PJJS      ,Offensive Foul (1),OF,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,43,08:18,12,150,"SUAREZ, CARLOS",PJJS      ,Turnover (1),TO,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,21,08:18,12,151,"CLYBURN, WILL",P004888   ,Foul Drawn (1),RV,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,11,08:18,12,152,"ANTONOV, SEMEN",P004941   ,Out,OUT,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,20,08:18,12,153,"VORONTSEVICH, ANDREY",PLHI      ,In,IN,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,21,07:59,13,155,"CLYBURN, WILL",P004888   ,Two Pointer (2/3 -  4 pt),2FGM,36.0,25.0,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,20,07:56,13,156,"VORONTSEVICH, ANDREY",PLHI      ,Assist (1),AS,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,21,07:36,13,157,"WACZYNSKI, ADAM",PLDX      ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,9,07:36,13,158,"DIAZ, ALBERTO",P004213   ,Off Rebound (1),O,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,21,07:36,13,159,"WACZYNSKI, ADAM",PLDX      ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,44,07:36,13,160,"HUNTER, OTHELLO",P005160   ,Def Rebound (1),D,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,44,07:09,13,161,"HUNTER, OTHELLO",P005160   ,Two Pointer (2/2 -  6 pt),2FGM,38.0,25.0,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,21,07:10,13,162,"CLYBURN, WILL",P004888   ,Assist (1),AS,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,,07:10,13,163,,          ,Time Out (1),TOUT,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,43,07:10,13,164,"SUAREZ, CARLOS",PJJS      ,Turnover (2),TO,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,21,06:59,14,166,"CLYBURN, WILL",P004888   ,Missed Two Pointer (2/4 -  4 pt),2FGA,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,21,06:57,14,167,"WACZYNSKI, ADAM",PLDX      ,Def Rebound (1),D,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,9,06:43,14,168,"DIAZ, ALBERTO",P004213   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,20,06:40,14,169,"VORONTSEVICH, ANDREY",PLHI      ,Def Rebound (1),D,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,44,06:29,14,170,"HUNTER, OTHELLO",P005160   ,Two Pointer (3/3 -  8 pt),2FGM,40.0,25.0,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,21,06:27,14,171,"CLYBURN, WILL",P004888   ,Assist (2),AS,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,10,06:13,14,172,"SALIN, SASU",P002820   ,Two Pointer (1/1 -  2 pt),2FGM,40.0,27.0,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,1,05:58,15,174,"DE COLO, NANDO",P002100   ,Foul Drawn (2),RV,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,10,05:58,15,175,"SALIN, SASU",P002820   ,Foul (1),CM,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,3,05:58,15,176,"MCCALLUM, RAY",P008002   ,In,IN,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,9,05:58,15,177,"DIAZ, ALBERTO",P004213   ,Out,OUT,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,9,05:49,15,178,"WESTERMANN, LEO",P002543   ,Three Pointer (1/1 -  3 pt),3FGM,43.0,27.0,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,21,05:46,15,179,"CLYBURN, WILL",P004888   ,Assist (3),AS,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,21,05:29,15,180,"WACZYNSKI, ADAM",PLDX      ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,21,05:25,15,181,"CLYBURN, WILL",P004888   ,Def Rebound (1),D,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,9,05:14,15,182,"WESTERMANN, LEO",P002543   ,Three Pointer (2/2 -  6 pt),3FGM,46.0,27.0,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,21,05:12,15,183,"CLYBURN, WILL",P004888   ,Assist (4),AS,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,,05:13,15,184,,          ,Time Out (2),TOUT,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,16,05:13,15,185,"NEDOVIC, NEMANJA",P000848   ,In,IN,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,21,05:13,15,186,"WACZYNSKI, ADAM",PLDX      ,Out,OUT,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,43,05:09,15,187,"SUAREZ, CARLOS",PJJS      ,Turnover (3),TO,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,44,05:09,15,188,"HUNTER, OTHELLO",P005160   ,Steal (2),ST,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,21,05:09,15,189,"CLYBURN, WILL",P004888   ,Two Pointer (3/5 -  6 pt),2FGM,48.0,27.0,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,44,05:09,15,190,"HUNTER, OTHELLO",P005160   ,Assist (1),AS,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,16,04:37,16,192,"NEDOVIC, NEMANJA",P000848   ,Foul Drawn (4),RV,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,21,04:37,16,193,"CLYBURN, WILL",P004888   ,Foul (1),CM,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,42,04:37,16,194,"HINES, KYLE",P002812   ,In,IN,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,44,04:37,16,195,"HUNTER, OTHELLO",P005160   ,Out,OUT,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,43,04:37,16,196,"SUAREZ, CARLOS",PJJS      ,Missed Two Pointer (0/1 -  3 pt),2FGA,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,40,04:37,16,197,"AUGUSTINE, JAMES",P001438   ,Off Rebound (1),O,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,40,04:37,16,198,"AUGUSTINE, JAMES",P001438   ,Missed Two Pointer (3/4 -  6 pt),2FGA,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,10,04:37,16,199,"SALIN, SASU",P002820   ,Off Rebound (1),O,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,10,04:37,16,200,"SALIN, SASU",P002820   ,Missed Two Pointer (1/2 -  2 pt),2FGA,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,40,04:37,16,294,"AUGUSTINE, JAMES",P001438   ,Off Rebound (2),O,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,3,04:37,16,201,"MCCALLUM, RAY",P008002   ,Missed Three Pointer (1/4 -  3 pt),3FGA,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,21,04:37,16,202,"CLYBURN, WILL",P004888   ,Def Rebound (2),D,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,1,04:37,16,203,"DE COLO, NANDO",P002100   ,Two Pointer (2/2 -  4 pt),2FGM,50.0,27.0,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,21,04:37,16,204,"CLYBURN, WILL",P004888   ,Assist (5),AS,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,40,04:02,16,205,"AUGUSTINE, JAMES",P001438   ,Two Pointer (4/5 -  8 pt),2FGM,50.0,29.0,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,16,04:00,16,206,"NEDOVIC, NEMANJA",P000848   ,Assist (3),AS,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,9,03:48,17,208,"WESTERMANN, LEO",P002543   ,Missed Two Pointer (0/1 -  6 pt),2FGA,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,9,03:48,17,209,"WESTERMANN, LEO",P002543   ,Shot Rejected (1),AG,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,3,03:45,17,210,"MCCALLUM, RAY",P008002   ,Block (1),FV,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,43,03:42,17,211,"SUAREZ, CARLOS",PJJS      ,Def Rebound (1),D,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,40,03:42,17,212,"AUGUSTINE, JAMES",P001438   ,Two Pointer (5/6 -  10 pt),2FGM,50.0,31.0,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,43,03:42,17,213,"SUAREZ, CARLOS",PJJS      ,Assist (2),AS,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,,03:42,17,214,,          ,Time Out (1),TOUT,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,3,03:42,17,215,"RUDD, VICTOR",P006536   ,In,IN,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,7,03:42,17,216,"FRIDZON, VITALY",PLLH      ,In,IN,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,9,03:42,17,217,"WESTERMANN, LEO",P002543   ,Out,OUT,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,13,03:42,17,218,"RODRIGUEZ, SERGIO",PCVM      ,In,IN,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,20,03:42,17,219,"VORONTSEVICH, ANDREY",PLHI      ,Out,OUT,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,21,03:42,17,220,"CLYBURN, WILL",P004888   ,Out,OUT,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,41,03:42,17,221,"KURBANOV, NIKITA",PJLX      ,In,IN,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,42,03:42,17,222,"HINES, KYLE",P002812   ,Out,OUT,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,10,03:42,17,223,"SALIN, SASU",P002820   ,Out,OUT,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,12,03:42,17,224,"MILOSAVLJEVIC, DRAGAN",P002822   ,In,IN,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,23,03:42,17,225,"BROOKS, JEFF",P004117   ,In,IN,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,43,03:42,17,226,"SUAREZ, CARLOS",PJJS      ,Out,OUT,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,41,03:29,17,227,"KURBANOV, NIKITA",PJLX      ,Out,OUT,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,42,03:29,17,228,"HINES, KYLE",P002812   ,In,IN,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,1,03:20,17,229,"DE COLO, NANDO",P002100   ,Three Pointer (1/1 -  7 pt),3FGM,53.0,31.0,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,13,03:18,17,230,"RODRIGUEZ, SERGIO",PCVM      ,Assist (3),AS,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,16,03:15,17,231,"NEDOVIC, NEMANJA",P000848   ,Missed Three Pointer (0/3 -  5 pt),3FGA,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,40,03:14,17,232,"AUGUSTINE, JAMES",P001438   ,Off Rebound (3),O,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,3,03:14,17,233,"MCCALLUM, RAY",P008002   ,Two Pointer (1/1 -  5 pt),2FGM,53.0,33.0,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,40,03:14,17,234,"AUGUSTINE, JAMES",P001438   ,Assist (1),AS,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,3,03:14,17,235,"MCCALLUM, RAY",P008002   ,Foul Drawn (1),RV,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,7,03:14,17,236,"FRIDZON, VITALY",PLLH      ,Foul (1),CM,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,3,03:14,17,237,"MCCALLUM, RAY",P008002   ,Free Throw In (1/1 -  6 pt),FTM,53.0,34.0,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,1,02:52,18,239,"DE COLO, NANDO",P002100   ,Missed Three Pointer (1/2 -  7 pt),3FGA,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,16,02:50,18,240,"NEDOVIC, NEMANJA",P000848   ,Def Rebound (1),D,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,16,02:48,18,241,"NEDOVIC, NEMANJA",P000848   ,Foul Drawn (5),RV,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,3,02:48,18,242,"RUDD, VICTOR",P006536   ,Foul (1),CM,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,40,02:48,18,243,"AUGUSTINE, JAMES",P001438   ,Out,OUT,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,43,02:48,18,244,"SUAREZ, CARLOS",PJJS      ,In,IN,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,3,02:39,18,245,"MCCALLUM, RAY",P008002   ,Missed Three Pointer (1/5 -  6 pt),3FGA,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,7,02:36,18,246,"FRIDZON, VITALY",PLLH      ,Def Rebound (1),D,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,7,02:34,18,247,"FRIDZON, VITALY",PLLH      ,Turnover (1),TO,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,16,02:32,18,248,"NEDOVIC, NEMANJA",P000848   ,Steal (1),ST,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,43,02:29,18,249,"SUAREZ, CARLOS",PJJS      ,Foul Drawn (1),RV,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,1,02:29,18,250,"DE COLO, NANDO",P002100   ,Foul (1),CM,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,43,02:29,18,251,"SUAREZ, CARLOS",PJJS      ,Free Throw In (1/1 -  4 pt),FTM,53.0,35.0,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,16,02:29,18,252,"NEDOVIC, NEMANJA",P000848   ,Assist (4),AS,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,43,02:29,18,253,"SUAREZ, CARLOS",PJJS      ,Missed Free Throw (1/2 -  4 pt),FTA,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,12,02:29,18,254,"MILOSAVLJEVIC, DRAGAN",P002822   ,Off Rebound (1),O,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,12,02:29,18,255,"MILOSAVLJEVIC, DRAGAN",P002822   ,Three Pointer (2/3 -  8 pt),3FGM,53.0,38.0,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,43,02:29,18,256,"SUAREZ, CARLOS",PJJS      ,Assist (3),AS,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,7,02:01,18,257,"FRIDZON, VITALY",PLLH      ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,43,01:59,19,259,"SUAREZ, CARLOS",PJJS      ,Def Rebound (2),D,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,16,01:52,19,260,"NEDOVIC, NEMANJA",P000848   ,Turnover (2),TO,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,42,01:52,19,261,"HINES, KYLE",P002812   ,Steal (1),ST,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,1,01:42,19,262,"DE COLO, NANDO",P002100   ,Two Pointer (3/3 -  9 pt),2FGM,55.0,38.0,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,3,01:39,19,263,"MCCALLUM, RAY",P008002   ,Foul Drawn (2),RV,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,1,01:39,19,264,"DE COLO, NANDO",P002100   ,Foul (2),CM,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,,01:39,19,265,,          ,Time Out (2),TOUT,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,3,01:39,19,266,"MCCALLUM, RAY",P008002   ,Free Throw In (2/2 -  7 pt),FTM,55.0,39.0,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,3,01:39,19,267,"MCCALLUM, RAY",P008002   ,Missed Free Throw (2/3 -  7 pt),FTA,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,1,01:36,19,268,"DE COLO, NANDO",P002100   ,Def Rebound (1),D,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,7,01:22,19,269,"FRIDZON, VITALY",PLLH      ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,,01:23,19,270,,          ,Def Rebound (1),D,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,1,01:23,19,271,"DE COLO, NANDO",P002100   ,Out,OUT,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,22,01:23,19,272,"HIGGINS, CORY",P006450   ,In,IN,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,16,01:06,19,273,"NEDOVIC, NEMANJA",P000848   ,Foul Drawn (6),RV,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,3,01:06,19,274,"RUDD, VICTOR",P006536   ,Foul (2),CM,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,16,01:06,19,276,"NEDOVIC, NEMANJA",P000848   ,Free Throw In (2/2 -  6 pt),FTM,55.0,40.0,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,16,01:06,19,277,"NEDOVIC, NEMANJA",P000848   ,Free Throw In (3/3 -  7 pt),FTM,55.0,41.0,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,13,01:07,19,278,"RODRIGUEZ, SERGIO",PCVM      ,Foul Drawn (1),RV,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,3,01:07,19,279,"MCCALLUM, RAY",P008002   ,Foul (1),CM,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,22,00:53,20,281,"HIGGINS, CORY",P006450   ,Turnover (1),TO,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,43,00:51,20,282,"SUAREZ, CARLOS",PJJS      ,Steal (1),ST,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,16,00:48,20,283,"NEDOVIC, NEMANJA",P000848   ,Two Pointer (3/3 -  9 pt),2FGM,55.0,43.0,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,43,00:46,20,284,"SUAREZ, CARLOS",PJJS      ,Assist (4),AS,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,13,00:30,20,285,"RODRIGUEZ, SERGIO",PCVM      ,Missed Three Pointer (2/4 -  8 pt),3FGA,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,7,00:27,20,286,"FRIDZON, VITALY",PLLH      ,Off Rebound (1),O,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,22,00:24,20,287,"HIGGINS, CORY",P006450   ,Two Pointer (3/5 -  6 pt),2FGM,57.0,43.0,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,7,00:21,20,288,"FRIDZON, VITALY",PLLH      ,Assist (1),AS,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,16,00:01,20,289,"NEDOVIC, NEMANJA",P000848   ,Missed Three Pointer (0/4 -  9 pt),3FGA,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,43,00:00,20,290,"SUAREZ, CARLOS",PJJS      ,Off Rebound (1),O,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,43,00:00,20,291,"SUAREZ, CARLOS",PJJS      ,Missed Two Pointer (0/2 -  4 pt),2FGA,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+          ,,,,21,293,,          ,End Period,EP,,,,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+          ,,,,21,309,,          ,Begin Period,BP,,,,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,3,10:00,21,295,"RUDD, VICTOR",P006536   ,Out,OUT,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,7,10:00,21,296,"FRIDZON, VITALY",PLLH      ,Out,OUT,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,20,10:00,21,297,"VORONTSEVICH, ANDREY",PLHI      ,In,IN,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,21,10:00,21,298,"CLYBURN, WILL",P004888   ,In,IN,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,22,10:00,21,299,"HIGGINS, CORY",P006450   ,Out,OUT,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,41,10:00,21,300,"KURBANOV, NIKITA",PJLX      ,In,IN,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,42,10:00,21,301,"HINES, KYLE",P002812   ,Out,OUT,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,44,10:00,21,302,"HUNTER, OTHELLO",P005160   ,In,IN,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,3,10:00,21,303,"MCCALLUM, RAY",P008002   ,Out,OUT,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,9,10:00,21,304,"DIAZ, ALBERTO",P004213   ,In,IN,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,11,10:00,21,305,"DIEZ, DANIEL",P003198   ,In,IN,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,12,10:00,21,306,"MILOSAVLJEVIC, DRAGAN",P002822   ,Out,OUT,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,40,10:00,21,307,"AUGUSTINE, JAMES",P001438   ,In,IN,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,43,10:00,21,308,"SUAREZ, CARLOS",PJJS      ,Out,OUT,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,21,09:56,21,310,"CLYBURN, WILL",P004888   ,Foul Drawn (2),RV,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,16,09:56,21,311,"NEDOVIC, NEMANJA",P000848   ,Foul (2),CM,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,13,09:35,21,312,"RODRIGUEZ, SERGIO",PCVM      ,Three Pointer (3/5 -  11 pt),3FGM,60.0,43.0,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,41,09:32,21,313,"KURBANOV, NIKITA",PJLX      ,Assist (2),AS,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,16,09:27,21,314,"NEDOVIC, NEMANJA",P000848   ,Three Pointer (1/5 -  12 pt),3FGM,60.0,46.0,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,9,09:24,21,315,"DIAZ, ALBERTO",P004213   ,Assist (3),AS,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,21,09:06,21,316,"CLYBURN, WILL",P004888   ,Two Pointer (4/6 -  8 pt),2FGM,62.0,46.0,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,16,08:40,22,318,"NEDOVIC, NEMANJA",P000848   ,Missed Three Pointer (1/6 -  12 pt),3FGA,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,21,08:37,22,319,"CLYBURN, WILL",P004888   ,Def Rebound (3),D,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,41,08:25,22,320,"KURBANOV, NIKITA",PJLX      ,Missed Two Pointer (2/4 -  10 pt),2FGA,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,16,08:22,22,321,"NEDOVIC, NEMANJA",P000848   ,Def Rebound (2),D,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,23,08:15,22,322,"BROOKS, JEFF",P004117   ,Foul Drawn (1),RV,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,20,08:15,22,323,"VORONTSEVICH, ANDREY",PLHI      ,Foul (3),CM,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,11,08:15,22,324,"ANTONOV, SEMEN",P004941   ,In,IN,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,20,08:15,22,325,"VORONTSEVICH, ANDREY",PLHI      ,Out,OUT,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,9,07:56,23,327,"DIAZ, ALBERTO",P004213   ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,21,07:54,23,328,"CLYBURN, WILL",P004888   ,Def Rebound (4),D,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,21,07:38,23,329,"CLYBURN, WILL",P004888   ,Missed Two Pointer (4/7 -  8 pt),2FGA,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,,07:37,23,330,,          ,Def Rebound (2),D,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,9,07:19,23,331,"DIAZ, ALBERTO",P004213   ,Three Pointer (1/3 -  3 pt),3FGM,62.0,49.0,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,16,07:17,23,332,"NEDOVIC, NEMANJA",P000848   ,Assist (5),AS,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,21,07:01,23,333,"CLYBURN, WILL",P004888   ,Three Pointer (1/1 -  11 pt),3FGM,65.0,49.0,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,13,06:58,24,335,"RODRIGUEZ, SERGIO",PCVM      ,Assist (4),AS,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,11,06:36,24,336,"DIEZ, DANIEL",P003198   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,9,06:35,24,337,"DIAZ, ALBERTO",P004213   ,Off Rebound (2),O,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,11,06:32,24,338,"DIEZ, DANIEL",P003198   ,Missed Two Pointer (0/1 -  0 pt),2FGA,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,40,06:29,24,339,"AUGUSTINE, JAMES",P001438   ,Off Rebound (4),O,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,16,06:19,24,340,"NEDOVIC, NEMANJA",P000848   ,Missed Three Pointer (1/7 -  12 pt),3FGA,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,41,06:17,24,341,"KURBANOV, NIKITA",PJLX      ,Def Rebound (5),D,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,21,06:15,24,342,"CLYBURN, WILL",P004888   ,Foul Drawn (3),RV,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,16,06:15,24,343,"NEDOVIC, NEMANJA",P000848   ,Foul (3),CM,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,16,06:15,24,344,"NEDOVIC, NEMANJA",P000848   ,Technical Foul (4),CMT,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,10,06:15,24,346,"SALIN, SASU",P002820   ,In,IN,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,16,06:15,24,347,"NEDOVIC, NEMANJA",P000848   ,Out,OUT,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,21,06:15,24,348,"CLYBURN, WILL",P004888   ,Missed Free Throw (0/1 -  11 pt),FTA,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,11,06:00,24,349,"ANTONOV, SEMEN",P004941   ,Foul Drawn (2),RV,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,23,06:00,24,350,"BROOKS, JEFF",P004117   ,Foul (2),CM,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,21,05:57,25,353,"CLYBURN, WILL",P004888   ,Two Pointer (5/8 -  13 pt),2FGM,67.0,49.0,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,40,05:26,25,354,"AUGUSTINE, JAMES",P001438   ,Two Pointer (6/7 -  12 pt),2FGM,67.0,51.0,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,9,05:25,25,355,"DIAZ, ALBERTO",P004213   ,Assist (4),AS,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,44,05:09,25,356,"HUNTER, OTHELLO",P005160   ,Two Pointer (4/4 -  10 pt),2FGM,69.0,51.0,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,13,05:07,25,357,"RODRIGUEZ, SERGIO",PCVM      ,Assist (5),AS,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,23,04:54,26,359,"BROOKS, JEFF",P004117   ,Foul Drawn (2),RV,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,21,04:54,26,360,"CLYBURN, WILL",P004888   ,Foul (2),CM,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+          ,,,04:54,26,361,,          ,TV Time Out (2),TOUT_TV,,,,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,9,04:54,26,362,"WESTERMANN, LEO",P002543   ,In,IN,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,13,04:54,26,363,"RODRIGUEZ, SERGIO",PCVM      ,Out,OUT,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,9,04:41,26,364,"DIAZ, ALBERTO",P004213   ,Three Pointer (2/4 -  6 pt),3FGM,69.0,54.0,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,11,04:18,26,365,"ANTONOV, SEMEN",P004941   ,Three Pointer (1/2 -  4 pt),3FGM,72.0,54.0,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,9,04:15,26,366,"WESTERMANN, LEO",P002543   ,Assist (3),AS,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,9,03:58,27,368,"DIAZ, ALBERTO",P004213   ,Missed Two Pointer (0/1 -  6 pt),2FGA,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,11,03:56,27,369,"ANTONOV, SEMEN",P004941   ,Def Rebound (1),D,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,21,03:46,27,370,"CLYBURN, WILL",P004888   ,Missed Three Pointer (1/2 -  13 pt),3FGA,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,40,03:43,27,371,"AUGUSTINE, JAMES",P001438   ,Def Rebound (3),D,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,40,03:21,27,372,"AUGUSTINE, JAMES",P001438   ,Missed Two Pointer (6/8 -  12 pt),2FGA,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,23,03:21,27,373,"BROOKS, JEFF",P004117   ,Off Rebound (1),O,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,23,03:21,27,374,"BROOKS, JEFF",P004117   ,Foul Drawn (3),RV,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,9,03:21,27,375,"WESTERMANN, LEO",P002543   ,Foul (1),CM,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,21,03:21,27,376,"CLYBURN, WILL",P004888   ,Out,OUT,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,22,03:21,27,377,"HIGGINS, CORY",P006450   ,In,IN,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,42,03:21,27,378,"HINES, KYLE",P002812   ,In,IN,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,44,03:21,27,379,"HUNTER, OTHELLO",P005160   ,Out,OUT,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,2,03:21,27,380,"OKOUO, VINY",P005363   ,In,IN,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,40,03:21,27,381,"AUGUSTINE, JAMES",P001438   ,Out,OUT,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,2,03:15,27,382,"OKOUO, VINY",P005363   ,Two Pointer (1/2 -  3 pt),2FGM,72.0,56.0,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,10,03:12,27,383,"SALIN, SASU",P002820   ,Assist (1),AS,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,9,02:57,28,385,"WESTERMANN, LEO",P002543   ,Missed Three Pointer (2/3 -  6 pt),3FGA,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,11,02:55,28,386,"ANTONOV, SEMEN",P004941   ,Off Rebound (1),O,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,41,02:47,28,387,"KURBANOV, NIKITA",PJLX      ,Missed Three Pointer (2/3 -  10 pt),3FGA,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,11,02:45,28,388,"ANTONOV, SEMEN",P004941   ,Off Rebound (2),O,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,11,02:32,28,389,"ANTONOV, SEMEN",P004941   ,Missed Two Pointer (0/1 -  4 pt),2FGA,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,2,02:29,28,390,"OKOUO, VINY",P005363   ,Def Rebound (2),D,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,2,02:21,28,391,"OKOUO, VINY",P005363   ,Foul Drawn (2),RV,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,22,02:21,28,392,"HIGGINS, CORY",P006450   ,Foul (1),CM,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,23,02:21,28,393,"BROOKS, JEFF",P004117   ,Out,OUT,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,43,02:21,28,394,"SUAREZ, CARLOS",PJJS      ,In,IN,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,2,02:21,28,395,"OKOUO, VINY",P005363   ,Missed Free Throw (1/3 -  3 pt),FTA,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,2,02:21,28,396,"OKOUO, VINY",P005363   ,Free Throw In (2/4 -  4 pt),FTM,72.0,57.0,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,23,02:21,28,397,"BROOKS, JEFF",P004117   ,Assist (3),AS,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,9,02:00,28,398,"WESTERMANN, LEO",P002543   ,Three Pointer (3/4 -  9 pt),3FGM,75.0,57.0,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,41,01:58,29,400,"KURBANOV, NIKITA",PJLX      ,Assist (3),AS,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,9,01:40,29,401,"DIAZ, ALBERTO",P004213   ,Foul Drawn (1),RV,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,9,01:40,29,402,"WESTERMANN, LEO",P002543   ,Foul (2),CM,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,3,01:40,29,403,"RUDD, VICTOR",P006536   ,In,IN,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,11,01:40,29,404,"ANTONOV, SEMEN",P004941   ,Out,OUT,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,9,01:40,29,405,"DIAZ, ALBERTO",P004213   ,Missed Free Throw (0/1 -  6 pt),FTA,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,9,01:40,29,406,"DIAZ, ALBERTO",P004213   ,Free Throw In (1/2 -  7 pt),FTM,75.0,58.0,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,3,01:40,29,407,"MCCALLUM, RAY",P008002   ,In,IN,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,9,01:40,29,408,"DIAZ, ALBERTO",P004213   ,Out,OUT,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,22,01:35,29,409,"HIGGINS, CORY",P006450   ,Two Pointer (4/6 -  8 pt),2FGM,77.0,58.0,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,9,01:35,29,410,"WESTERMANN, LEO",P002543   ,Assist (4),AS,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,3,01:09,29,411,"MCCALLUM, RAY",P008002   ,Missed Two Pointer (1/2 -  7 pt),2FGA,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,3,01:09,29,412,"MCCALLUM, RAY",P008002   ,Shot Rejected (1),AG,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,42,01:06,29,413,"HINES, KYLE",P002812   ,Block (1),FV,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,9,01:05,29,414,"WESTERMANN, LEO",P002543   ,Def Rebound (1),D,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,3,01:05,29,415,"RUDD, VICTOR",P006536   ,Turnover (1),TO,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,3,00:50,30,417,"MCCALLUM, RAY",P008002   ,Missed Two Pointer (1/3 -  7 pt),2FGA,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,42,00:48,30,418,"HINES, KYLE",P002812   ,Def Rebound (2),D,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,42,00:30,30,419,"HINES, KYLE",P002812   ,Two Pointer (2/3 -  5 pt),2FGM,79.0,58.0,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,9,00:28,30,420,"WESTERMANN, LEO",P002543   ,Assist (5),AS,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,11,00:02,30,421,"DIEZ, DANIEL",P003198   ,Three Pointer (1/2 -  3 pt),3FGM,79.0,61.0,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,43,00:00,30,422,"SUAREZ, CARLOS",PJJS      ,Assist (5),AS,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+          ,,,,31,424,,          ,End Period,EP,,,,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+          ,,,,31,427,,          ,Begin Period,BP,,,,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,11,10:00,31,425,"DIEZ, DANIEL",P003198   ,Out,OUT,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,21,10:00,31,426,"WACZYNSKI, ADAM",PLDX      ,In,IN,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,43,09:42,31,428,"SUAREZ, CARLOS",PJJS      ,Missed Two Pointer (0/3 -  4 pt),2FGA,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,3,09:40,31,429,"RUDD, VICTOR",P006536   ,Def Rebound (1),D,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,3,09:24,31,430,"RUDD, VICTOR",P006536   ,Turnover (2),TO,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,43,09:22,31,431,"SUAREZ, CARLOS",PJJS      ,Steal (2),ST,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,43,09:22,31,432,"SUAREZ, CARLOS",PJJS      ,Foul Drawn (2),RV,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,3,09:22,31,433,"RUDD, VICTOR",P006536   ,Foul (3),CM,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,10,09:19,31,434,"SALIN, SASU",P002820   ,Missed Three Pointer (0/1 -  2 pt),3FGA,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,,09:19,31,435,,          ,Def Rebound (3),D,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,22,08:49,32,437,"HIGGINS, CORY",P006450   ,Foul Drawn (2),RV,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,10,08:49,32,438,"SALIN, SASU",P002820   ,Foul (2),CM,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,42,08:45,32,439,"HINES, KYLE",P002812   ,Two Pointer (3/4 -  7 pt),2FGM,81.0,61.0,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,10,08:37,32,440,"SALIN, SASU",P002820   ,Foul Drawn (1),RV,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,22,08:37,32,441,"HIGGINS, CORY",P006450   ,Foul (2),CM,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,43,08:31,32,442,"SUAREZ, CARLOS",PJJS      ,Turnover (4),TO,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,1,08:31,32,443,"DE COLO, NANDO",P002100   ,In,IN,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,9,08:31,32,444,"WESTERMANN, LEO",P002543   ,Out,OUT,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,1,08:08,32,445,"DE COLO, NANDO",P002100   ,Three Pointer (2/3 -  12 pt),3FGM,84.0,61.0,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,21,07:53,33,447,"CLYBURN, WILL",P004888   ,In,IN,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,41,07:53,33,448,"KURBANOV, NIKITA",PJLX      ,Out,OUT,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,21,07:51,33,449,"CLYBURN, WILL",P004888   ,Assist (6),AS,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,3,07:45,33,450,"MCCALLUM, RAY",P008002   ,Missed Two Pointer (1/4 -  7 pt),2FGA,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,3,07:42,33,451,"RUDD, VICTOR",P006536   ,Def Rebound (2),D,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,20,07:30,33,452,"VORONTSEVICH, ANDREY",PLHI      ,In,IN,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,42,07:30,33,453,"HINES, KYLE",P002812   ,Out,OUT,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,3,07:30,33,454,"MCCALLUM, RAY",P008002   ,Out,OUT,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,6,07:30,33,455,"SOLUADE, MO",P004479   ,In,IN,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,1,07:25,33,456,"DE COLO, NANDO",P002100   ,Turnover (2),TO,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,10,07:25,33,457,"SALIN, SASU",P002820   ,Steal (1),ST,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,10,07:25,33,458,"SALIN, SASU",P002820   ,Foul Drawn (2),RV,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,3,07:25,33,459,"RUDD, VICTOR",P006536   ,Unsportsmanlike Foul  (4),CMU,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,10,07:25,33,460,"SALIN, SASU",P002820   ,Missed Free Throw (0/1 -  2 pt),FTA,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,10,07:25,33,461,"SALIN, SASU",P002820   ,Free Throw In (1/2 -  3 pt),FTM,84.0,62.0,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,10,07:23,33,462,"SALIN, SASU",P002820   ,Missed Three Pointer (0/2 -  3 pt),3FGA,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,,07:10,33,465,,          ,Off Rebound (2),O,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,2,07:02,33,466,"OKOUO, VINY",P005363   ,Turnover (1),TO,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,1,07:01,33,467,"DE COLO, NANDO",P002100   ,Steal (1),ST,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,1,06:57,34,469,"DE COLO, NANDO",P002100   ,Two Pointer (4/4 -  14 pt),2FGM,86.0,62.0,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,21,06:39,34,470,"WACZYNSKI, ADAM",PLDX      ,Missed Three Pointer (0/3 -  0 pt),3FGA,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,,06:39,34,471,,          ,Def Rebound (4),D,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,20,06:39,34,472,"VORONTSEVICH, ANDREY",PLHI      ,Foul Drawn (1),RV,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,2,06:39,34,473,"OKOUO, VINY",P005363   ,Foul (3),CM,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,3,06:39,34,474,"RUDD, VICTOR",P006536   ,Out,OUT,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,7,06:39,34,475,"FRIDZON, VITALY",PLLH      ,In,IN,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,10,06:39,34,476,"SALIN, SASU",P002820   ,Out,OUT,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,16,06:39,34,477,"NEDOVIC, NEMANJA",P000848   ,In,IN,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,1,06:20,34,478,"DE COLO, NANDO",P002100   ,Three Pointer (3/4 -  17 pt),3FGM,89.0,62.0,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,7,06:18,34,479,"FRIDZON, VITALY",PLLH      ,Assist (2),AS,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,16,06:07,34,480,"NEDOVIC, NEMANJA",P000848   ,Foul Drawn (7),RV,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,22,06:07,34,481,"HIGGINS, CORY",P006450   ,Foul (3),CM,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,21,05:59,35,483,"WACZYNSKI, ADAM",PLDX      ,Missed Two Pointer (0/2 -  0 pt),2FGA,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,21,05:59,35,484,"WACZYNSKI, ADAM",PLDX      ,Shot Rejected (1),AG,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,20,05:59,35,485,"VORONTSEVICH, ANDREY",PLHI      ,Block (1),FV,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,,05:59,35,486,,          ,Off Rebound (3),O,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,16,05:54,35,487,"NEDOVIC, NEMANJA",P000848   ,Three Pointer (2/8 -  15 pt),3FGM,89.0,65.0,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,6,05:54,35,488,"SOLUADE, MO",P004479   ,Assist (1),AS,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,20,05:39,35,489,"VORONTSEVICH, ANDREY",PLHI      ,Two Pointer (1/1 -  2 pt),2FGM,91.0,65.0,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,22,05:39,35,490,"HIGGINS, CORY",P006450   ,Assist (3),AS,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,16,05:23,35,491,"NEDOVIC, NEMANJA",P000848   ,Turnover (3),TO,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,11,05:23,35,492,"ANTONOV, SEMEN",P004941   ,In,IN,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,21,05:23,35,493,"CLYBURN, WILL",P004888   ,Out,OUT,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,1,05:02,35,494,"DE COLO, NANDO",P002100   ,Three Pointer (4/5 -  20 pt),3FGM,94.0,65.0,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,43,04:44,36,496,"SUAREZ, CARLOS",PJJS      ,Turnover (5),TO,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+          ,,,04:44,36,497,,          ,TV Time Out (3),TOUT_TV,,,,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,13,04:44,36,498,"RODRIGUEZ, SERGIO",PCVM      ,In,IN,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,22,04:44,36,499,"HIGGINS, CORY",P006450   ,Out,OUT,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,11,04:44,36,500,"DIEZ, DANIEL",P003198   ,In,IN,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,43,04:44,36,501,"SUAREZ, CARLOS",PJJS      ,Out,OUT,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,13,04:19,36,502,"RODRIGUEZ, SERGIO",PCVM      ,Missed Two Pointer (1/2 -  11 pt),2FGA,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,2,04:17,36,503,"OKOUO, VINY",P005363   ,Def Rebound (3),D,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,6,04:12,36,504,"SOLUADE, MO",P004479   ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,11,04:10,36,505,"DIEZ, DANIEL",P003198   ,Off Rebound (1),O,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,21,04:07,36,506,"WACZYNSKI, ADAM",PLDX      ,Three Pointer (1/4 -  3 pt),3FGM,94.0,68.0,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,11,04:05,36,507,"DIEZ, DANIEL",P003198   ,Assist (1),AS,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,7,03:51,37,509,"FRIDZON, VITALY",PLLH      ,Missed Three Pointer (0/1 -  0 pt),3FGA,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,2,03:49,37,510,"OKOUO, VINY",P005363   ,Def Rebound (4),D,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,6,03:40,37,511,"SOLUADE, MO",P004479   ,Two Pointer (1/1 -  2 pt),2FGM,94.0,70.0,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,1,03:22,37,512,"DE COLO, NANDO",P002100   ,Turnover (3),TO,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,6,03:20,37,513,"SOLUADE, MO",P004479   ,Steal (1),ST,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,16,03:15,37,514,"NEDOVIC, NEMANJA",P000848   ,Missed Three Pointer (2/9 -  15 pt),3FGA,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,11,03:13,37,515,"ANTONOV, SEMEN",P004941   ,Def Rebound (2),D,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,7,03:04,37,516,"FRIDZON, VITALY",PLLH      ,Missed Three Pointer (0/2 -  0 pt),3FGA,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,20,03:02,37,517,"VORONTSEVICH, ANDREY",PLHI      ,Off Rebound (2),O,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,13,02:51,38,519,"RODRIGUEZ, SERGIO",PCVM      ,Missed Three Pointer (3/6 -  11 pt),3FGA,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,6,02:47,38,520,"SOLUADE, MO",P004479   ,Def Rebound (1),D,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,6,02:45,38,521,"SOLUADE, MO",P004479   ,Turnover (1),TO,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,9,02:45,38,522,"DIAZ, ALBERTO",P004213   ,In,IN,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,16,02:45,38,523,"NEDOVIC, NEMANJA",P000848   ,Out,OUT,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,7,02:28,38,524,"FRIDZON, VITALY",PLLH      ,Turnover (2),TO,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,11,02:12,38,525,"DIEZ, DANIEL",P003198   ,Two Pointer (1/2 -  5 pt),2FGM,94.0,72.0,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,1,01:55,39,527,"DE COLO, NANDO",P002100   ,Turnover (4),TO,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,21,01:55,39,528,"WACZYNSKI, ADAM",PLDX      ,Steal (1),ST,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,6,01:55,39,529,"SOLUADE, MO",P004479   ,Turnover (2),TO,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,1,01:55,39,530,"DE COLO, NANDO",P002100   ,Steal (2),ST,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,1,01:55,39,531,"DE COLO, NANDO",P002100   ,Three Pointer (5/6 -  23 pt),3FGM,97.0,72.0,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,13,01:55,39,532,"RODRIGUEZ, SERGIO",PCVM      ,Assist (6),AS,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,6,01:27,39,533,"SOLUADE, MO",P004479   ,Missed Three Pointer (0/2 -  2 pt),3FGA,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,7,01:25,39,534,"FRIDZON, VITALY",PLLH      ,Def Rebound (2),D,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,13,01:07,39,535,"RODRIGUEZ, SERGIO",PCVM      ,Missed Three Pointer (3/7 -  11 pt),3FGA,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,20,01:05,39,536,"VORONTSEVICH, ANDREY",PLHI      ,Off Rebound (3),O,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,7,00:55,40,538,"FRIDZON, VITALY",PLLH      ,Missed Two Pointer (0/3 -  0 pt),2FGA,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,7,00:55,40,539,"FRIDZON, VITALY",PLLH      ,Shot Rejected (1),AG,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,21,00:52,40,540,"WACZYNSKI, ADAM",PLDX      ,Block (1),FV,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,2,00:51,40,541,"OKOUO, VINY",P005363   ,Def Rebound (5),D,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,11,00:51,40,542,"DIEZ, DANIEL",P003198   ,Two Pointer (2/3 -  7 pt),2FGM,97.0,74.0,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,9,00:51,40,543,"DIAZ, ALBERTO",P004213   ,Assist (5),AS,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,1,00:51,40,544,"DE COLO, NANDO",P002100   ,Out,OUT,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,3,00:51,40,545,"RUDD, VICTOR",P006536   ,In,IN,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,9,00:51,40,546,"WESTERMANN, LEO",P002543   ,In,IN,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,20,00:51,40,547,"VORONTSEVICH, ANDREY",PLHI      ,Out,OUT,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,7,00:40,40,548,"FRIDZON, VITALY",PLLH      ,Two Pointer (1/4 -  2 pt),2FGM,99.0,74.0,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,13,00:40,40,549,"RODRIGUEZ, SERGIO",PCVM      ,Assist (7),AS,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,21,00:24,40,550,"WACZYNSKI, ADAM",PLDX      ,Foul Drawn (1),RV,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,7,00:24,40,551,"FRIDZON, VITALY",PLLH      ,Foul (2),CM,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,21,00:24,40,552,"WACZYNSKI, ADAM",PLDX      ,Free Throw In (1/1 -  4 pt),FTM,99.0,75.0,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,21,00:24,40,553,"WACZYNSKI, ADAM",PLDX      ,Free Throw In (2/2 -  5 pt),FTM,99.0,76.0,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,3,00:15,40,554,"RUDD, VICTOR",P006536   ,Two Pointer (1/1 -  2 pt),2FGM,101.0,76.0,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+MAL       ,,6,00:00,40,555,"SOLUADE, MO",P004479   ,Turnover (3),TO,,,Unicaja Malaga,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+CSK       ,,13,00:00,40,556,"RODRIGUEZ, SERGIO",PCVM      ,Steal (1),ST,,,CSKA Moscow,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
+          ,,,,41,559,,          ,End Game,EG,,,,0,CSKA Moscow,CSK,Unicaja Malaga,MAL
