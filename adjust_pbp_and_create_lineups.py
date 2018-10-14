@@ -90,6 +90,7 @@ def generate_lineups(df):
     player_lineup = []
     in_lineup = []
     out_lineup = []
+    all_team_a_index = list(team_a_df.index)
     for sub_point in team_a_sub_points:
         valid_indices = [item for item in team_a_indices if item >= start and item <= sub_point]
         for index in valid_indices:
@@ -98,12 +99,27 @@ def generate_lineups(df):
 
             if team_a_df.loc[index, "PLAYTYPE"] == "IN":
                 in_lineup.append(team_a_df.loc[index, "PLAYER"])
-                continue
             elif team_a_df.loc[index, "PLAYTYPE"] == "OUT":
                 out_lineup.append(team_a_df.loc[index, "PLAYER"])
 
-            if team_a_df.loc[index, "PLAYER"] not in player_lineup:
+            if ((team_a_df.loc[index, "PLAYER"] not in player_lineup) and (team_a_df.loc[index, "PLAYTYPE"] != "IN")):
                 player_lineup.append(team_a_df.loc[index, "PLAYER"])
+				
+            # in the case that not all 5 players have been in any plays until the first sub, keep looking
+			# search in all the indices of the team and if its not a player that was subbed, append him to list
+            if ((index == valid_indices[-1]) and (len(player_lineup) < 5)):
+                indices_to_search_for_fifth = [i for i in all_team_a_index if i > index]
+                for p in indices_to_search_for_fifth:
+                    if type(team_a_df.loc[p, "PLAYER"]) is not str:
+                        continue
+                    elif team_a_df.loc[p, "PLAYTYPE"] in sub_words:
+                        continue
+                    elif ((team_a_df.loc[p, "PLAYER"] not in player_lineup) and (team_a_df.loc[p, "PLAYER"] not in in_lineup)):
+                        player_lineup.append(team_a_df.loc[p, "PLAYER"])
+					
+                    if len(player_lineup)==5:
+                        break
+
 
         team_a_lineups[sub_point] = player_lineup
 
@@ -119,6 +135,7 @@ def generate_lineups(df):
     player_lineup = []
     in_lineup = []
     out_lineup = []
+    all_team_b_index = list(team_b_df.index)
     for sub_point in team_b_sub_points:
         valid_indices = [item for item in team_b_indices if item >= start and item <= sub_point]
         for index in valid_indices:
@@ -127,12 +144,26 @@ def generate_lineups(df):
 
             if team_b_df.loc[index, "PLAYTYPE"] == "IN":
                 in_lineup.append(team_b_df.loc[index, "PLAYER"])
-                continue
             elif team_b_df.loc[index, "PLAYTYPE"] == "OUT":
                 out_lineup.append(team_b_df.loc[index, "PLAYER"])
 
-            if team_b_df.loc[index, "PLAYER"] not in player_lineup:
+            if ((team_b_df.loc[index, "PLAYER"] not in player_lineup) and (team_b_df.loc[index, "PLAYTYPE"] != "IN")):
                 player_lineup.append(team_b_df.loc[index, "PLAYER"])
+				
+			# in the case that not all 5 players have been in any plays until the first sub, keep looking
+			# search in all the indices of the team and if its not a player that was subbed, append him to list
+            if ((index == valid_indices[-1]) and (len(player_lineup) < 5)):
+                indices_to_search_for_fifth = [i for i in all_team_b_index if i > index]
+                for p in indices_to_search_for_fifth:
+                    if type(team_b_df.loc[p, "PLAYER"]) is not str:
+                        continue
+                    elif team_b_df.loc[p, "PLAYTYPE"] in sub_words:
+                        continue
+                    elif ((team_b_df.loc[p, "PLAYER"] not in player_lineup) and (team_b_df.loc[p, "PLAYER"] not in in_lineup)):
+                        player_lineup.append(team_b_df.loc[p, "PLAYER"])
+
+                    if len(player_lineup)==5:
+                        break
 
         team_b_lineups[sub_point] = player_lineup
 
@@ -193,29 +224,34 @@ def generate_lineups(df):
     
 
 """These statements run the code, comment them out if you don't want to run"""
-data_path = "data/"
+data_read_path = "data/raw/"
+data_write_path = "data/adjusted_with_lineups/"
 slash = "/"
-season_parts = os.listdir(data_path) # generate the three distinct parts of the season (reg,pf,f4)
+season_parts = os.listdir(data_read_path) # generate the three distinct parts of the season (reg,pf,f4)
 for part in season_parts:
     if part[0]==".":
         continue # if any hidden folders/files continue
     elif part[0]=="f": # meaning final4
-        final_four = os.listdir(data_path + part + slash)
+        final_four = os.listdir(data_read_path + part + slash)
         for game in final_four:
             if '.csv' not in game: # again, avoid hidden files
                 continue
-            df = pd.read_csv(data_path + part + slash + game) # read, adjust, generate lineups, save with same name
+            df = pd.read_csv(data_read_path + part + slash + game) # read, adjust, generate lineups, save with same name
             df_adjusted = adjustments(df)
             df_adjusted_with_lineups = generate_lineups(df_adjusted)
-            df_adjusted_with_lineups.to_csv(data_path + part + slash + game)
+            if not os.path.exists(data_write_path + part + slash):
+                os.makedirs(data_write_path + part + slash)
+            df_adjusted_with_lineups.to_csv(data_write_path + part + slash + game)
     else:
-        not_final_four = os.listdir(data_path + part + slash) # one layer more here as there are rounds
+        not_final_four = os.listdir(data_read_path + part + slash) # one layer more here as there are rounds
         for season_round in not_final_four:
-            games_of_round = os.listdir(data_path + part + slash + season_round + slash)
+            games_of_round = os.listdir(data_read_path + part + slash + season_round + slash)
             for game in games_of_round:
                 if '.csv' not in game:
                     continue
-                df = pd.read_csv(data_path + part + slash + season_round + slash + game)
+                df = pd.read_csv(data_read_path + part + slash + season_round + slash + game)
                 df_adjusted = adjustments(df)
                 df_adjusted_with_lineups = generate_lineups(df_adjusted)
-                df_adjusted_with_lineups.to_csv(data_path + part + slash + season_round + slash + game)
+                if not os.path.exists(data_write_path + part + slash + season_round + slash):
+                    os.makedirs(data_write_path + part + slash + season_round + slash)
+                df_adjusted_with_lineups.to_csv(data_write_path + part + slash + season_round + slash + game)
