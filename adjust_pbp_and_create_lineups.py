@@ -27,6 +27,7 @@ def adjustments(df):
             df.loc[i,"GAME_SECONDS"] = game_seconds
         game_seconds = r["GAME_SECONDS"]
     df["SECONDS_TO_NEXT_PLAY"] = df["GAME_SECONDS"].diff()
+    df["SECONDS_TO_NEXT_PLAY"].fillna(0, inplace = True)
     
     # remove blanks from CODETEAM
     df["CODETEAM"] = df["CODETEAM"].apply(lambda row: row[0:3])
