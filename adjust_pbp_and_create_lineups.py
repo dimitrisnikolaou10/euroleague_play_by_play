@@ -16,6 +16,17 @@ def adjustments(df):
     # get the int(min), int(sec) from time
     df["Q_MIN"] = df["MARKERTIME"].apply(lambda row: 0 if type(row) != str else int(row.split(":")[0]))
     df["Q_SEC"] = df["MARKERTIME"].apply(lambda row: 0 if type(row) != str else int(row.split(":")[1]))
+	
+    # obtain the game seconds columns and the seconds to next play column (mainly used in lineup analysis)
+    df["SECOND"] = df.apply(lambda x: None if pd.isnull(x["MARKERTIME"]) else 60-int(x["MARKERTIME"].split(":")[1]), axis = 1)
+    df["SECOND"] = df.apply(lambda x: x["SECOND"] if x["SECOND"] != 60 else 0, axis = 1)
+    df["GAME_SECONDS"] = df.apply(lambda x: None if pd.isnull(x["MARKERTIME"]) else (x["MINUTE"]-1)*60+x["SECOND"], axis = 1)
+    game_seconds = 0
+    for i,r in df.iterrows():
+        if r["GAME_SECONDS"] < game_seconds:
+            df.loc[i,"GAME_SECONDS"] = game_seconds
+        game_seconds = r["GAME_SECONDS"]
+    df["SECONDS_TO_NEXT_PLAY"] = df["GAME_SECONDS"].diff()
     
     # remove blanks from CODETEAM
     df["CODETEAM"] = df["CODETEAM"].apply(lambda row: row[0:3])
@@ -241,7 +252,7 @@ for part in season_parts:
             df_adjusted_with_lineups = generate_lineups(df_adjusted)
             if not os.path.exists(data_write_path + part + slash):
                 os.makedirs(data_write_path + part + slash)
-            df_adjusted_with_lineups.to_csv(data_write_path + part + slash + game)
+            df_adjusted_with_lineups.to_csv(data_write_path + part + slash + game, index = False)
     else:
         not_final_four = os.listdir(data_read_path + part + slash) # one layer more here as there are rounds
         for season_round in not_final_four:
@@ -254,4 +265,4 @@ for part in season_parts:
                 df_adjusted_with_lineups = generate_lineups(df_adjusted)
                 if not os.path.exists(data_write_path + part + slash + season_round + slash):
                     os.makedirs(data_write_path + part + slash + season_round + slash)
-                df_adjusted_with_lineups.to_csv(data_write_path + part + slash + season_round + slash + game)
+                df_adjusted_with_lineups.to_csv(data_write_path + part + slash + season_round + slash + game, index = False)
