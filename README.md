@@ -6,6 +6,8 @@ The adjust_pbp_and_create_lineups.py file cleans up and also adds lineups to the
 
 The create_lineup_stats.py file creates statistics for all lineups. Specifically, it creates a dictionary with team names as keys. The values of these keys are dictionaries with lineups as keys. The value of these keys is a dictionary with the name of the stat line as a key. The value of that key is the value of that stat line.
 
+The Cluster Lineups notebook performs the gathering of stats per lineups and writes a database of these stats. It later performs unsupervised Machine Learning and clusters lineups based on their stats (TBC).
+
 # Data folder
 In the data folder you can find the raw Euroleague play by play data in case you just want to donwload that directly. You can also find the adjusted (cleaning and lineup additions) data in the same folder under adjusted.
 
