@@ -141,9 +141,22 @@ for part in season_parts:
                     if row["CODETEAM"] == home_team_code:
                         lineup_info[home_team_code][home_lineup][play_type] += 1
                         lineup_info[home_team_code][home_lineup]["seconds"] += row["SECONDS_TO_NEXT_PLAY"]
+                        # if it is a made shot, need to declare it as an attempted as well
+                        if play_type == "FTM":
+                            lineup_info[home_team_code][home_lineup]["FTA"] += 1
+                        if play_type == "2FGM":
+                            lineup_info[home_team_code][home_lineup]["2FGA"] += 1
+                        if play_type == "3FGM":
+                            lineup_info[home_team_code][home_lineup]["3FGA"] += 1						
                     elif row["CODETEAM"] == away_team_code:
                         lineup_info[away_team_code][away_lineup][play_type] += 1
                         lineup_info[away_team_code][away_lineup]["seconds"] += row["SECONDS_TO_NEXT_PLAY"]
+                        if play_type == "FTM":
+                            lineup_info[away_team_code][away_lineup]["FTA"] += 1
+                        if play_type == "2FGM":
+                            lineup_info[away_team_code][away_lineup]["2FGA"] += 1
+                        if play_type == "3FGM":
+                            lineup_info[away_team_code][away_lineup]["3FGA"] += 1
 
     else:
         not_final_four = os.listdir(data_path + part + slash) # one layer more here as there are rounds
@@ -165,9 +178,21 @@ for part in season_parts:
                         if row["CODETEAM"] == home_team_code:
                             lineup_info[home_team_code][home_lineup][play_type] += 1
                             lineup_info[home_team_code][home_lineup]["seconds"] += row["SECONDS_TO_NEXT_PLAY"]
+                            if play_type == "FTM":
+                                lineup_info[home_team_code][home_lineup]["FTA"] += 1
+                            if play_type == "2FGM":
+                                lineup_info[home_team_code][home_lineup]["2FGA"] += 1
+                            if play_type == "3FGM":
+                                lineup_info[home_team_code][home_lineup]["3FGA"] += 1
                         elif row["CODETEAM"] == away_team_code:
                             lineup_info[away_team_code][away_lineup][play_type] += 1
                             lineup_info[away_team_code][away_lineup]["seconds"] += row["SECONDS_TO_NEXT_PLAY"]
+                            if play_type == "FTM":
+                                lineup_info[away_team_code][away_lineup]["FTA"] += 1
+                            if play_type == "2FGM":
+                                lineup_info[away_team_code][away_lineup]["2FGA"] += 1
+                            if play_type == "3FGM":
+                                lineup_info[away_team_code][away_lineup]["3FGA"] += 1
 							
 # find the total number of lineups                                 
 total_lineups = {}
